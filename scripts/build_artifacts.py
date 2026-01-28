@@ -4,7 +4,7 @@ import csv
 import json
 import os
 from dataclasses import dataclass
-from typing import Dict, List, Tuple
+from typing import List
 
 import pandas as pd
 
@@ -27,7 +27,7 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
     """
     Reads data/store/<sector>_pairs.csv and produces:
       - companies.json (top 200 by patent_count)
-      - patents/<companyId>.csv
+      - patents/<companyId>.csv (deduped by patent_id)
     """
     if not os.path.exists(cfg.pairs_csv_path):
         raise FileNotFoundError(cfg.pairs_csv_path)
@@ -36,15 +36,19 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
     if df.empty:
         raise RuntimeError(f"No data in {cfg.pairs_csv_path}")
 
-    # Filter to corporate assignees only:
-    # assignee_type codes indicate company/corporation as 2 (US) and 3 (Foreign). :contentReference[oaicite:12]{index=12}
-    df["assignee_type"] = df["assignee_type"].fillna("")
-    corp = df[df["assignee_type"].isin(["2", "3"])].copy()
+    df["assignee_type"] = df["assignee_type"].fillna("").astype(str)
 
-    # Compute company metrics over canonical_company_id
+    # Keep corporate-like assignee types. Adjust if you later confirm a different coding scheme.
+    corp_types = {"2", "3"}
+    corp = df[df["assignee_type"].isin(list(corp_types))].copy()
+
+    # Fallback: if we filtered too aggressively (or assignee_type missing), keep all rows so app still works.
+    if corp.empty:
+        corp = df.copy()
+
     corp["cited_by"] = corp["patent_num_times_cited_by_us_patents"].fillna("0").map(_safe_int)
 
-    # CPC breadth: distinct cpc_subclass_ids across patents; we store pipe-delimited in each row
+    # CPC breadth: distinct CPC subclasses across patents.
     def explode_cpcs(series: pd.Series) -> List[str]:
         out: List[str] = []
         for s in series.fillna(""):
@@ -57,9 +61,9 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
     for company_id, sub in corp.groupby("canonical_company_id", sort=False):
         patent_ids = set(sub["patent_id"].tolist())
         patent_count = len(patent_ids)
+
         total_citations = int(sub.drop_duplicates(subset=["patent_id"])["cited_by"].sum())
 
-        # breadth
         cpcs = set(explode_cpcs(sub.drop_duplicates(subset=["patent_id"])["cpc_subclass_ids"]))
         breadth = len(cpcs)
 
@@ -83,8 +87,14 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
     os.makedirs(patents_dir, exist_ok=True)
 
     # Write per-company patents CSV (dedupe by patent_id)
-    # Keep columns that the UI needs.
-    keep_cols = ["patent_id", "patent_date", "patent_title", "patent_num_times_cited_by_us_patents", "cpc_subclass_ids"]
+    keep_cols = [
+        "patent_id",
+        "patent_date",
+        "patent_title",
+        "patent_num_times_cited_by_us_patents",
+        "cpc_subclass_ids",
+    ]
+
     for _, row in companies.iterrows():
         cid = row["companyId"]
         sub = corp[corp["canonical_company_id"] == cid].copy()
@@ -96,11 +106,12 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
 
     # Write companies.json
     companies_json = companies.to_dict(orient="records")
-    out_companies_json = os.path.join(out_sector_dir, "companies.json")
     os.makedirs(out_sector_dir, exist_ok=True)
+
+    out_companies_json = os.path.join(out_sector_dir, "companies.json")
     with open(out_companies_json, "w", encoding="utf-8") as f:
         json.dump(companies_json, f, indent=2)
 
-    # Also write a sector-level CSV if you want it for external use
+    # Optional: sector-level CSV for convenience
     out_companies_csv = os.path.join(out_sector_dir, "companies.csv")
     companies.to_csv(out_companies_csv, index=False, quoting=csv.QUOTE_MINIMAL)
