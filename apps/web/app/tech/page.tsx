@@ -1,0 +1,15 @@
+import CompanyTable from "../../components/CompanyTable";
+import { readCompanies } from "../../lib/data";
+
+export default function TechPage() {
+  const companies = readCompanies("tech");
+  return (
+    <main style={{ display: "grid", gap: 12 }}>
+      <h2 style={{ margin: 0 }}>Tech — Top 200</h2>
+      <p style={{ margin: 0, opacity: 0.8 }}>
+        Default ranking: patent count (last 5 years). Click headers to sort by citations, citations/patent, or CPC breadth.
+      </p>
+      <CompanyTable sectorId="tech" companies={companies} />
+    </main>
+  );
+}
