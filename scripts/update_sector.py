@@ -3,9 +3,10 @@ from __future__ import annotations
 import csv
 import json
 import os
+import glob
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta
-from typing import Any, Dict, List, Optional, Set, Tuple
+from typing import Any, Dict, List, Set, Tuple
 
 import pandas as pd
 from dateutil.relativedelta import relativedelta
@@ -42,13 +43,42 @@ def save_last_run(path: str, obj: Dict[str, Any]) -> None:
 
 
 def build_cpc_query(prefixes: List[str]) -> Dict[str, Any]:
-    # Filter using CPC subclass IDs with _begins against cpc_current.cpc_subclass_id.
-    return {
-        "_or": [
-            {"_begins": {"cpc_current.cpc_subclass_id": p}}
-            for p in prefixes
-        ]
-    }
+    return {"_or": [{"_begins": {"cpc_current.cpc_subclass_id": p}} for p in prefixes]}
+
+
+def _load_partitioned_store(store_dir: str) -> pd.DataFrame:
+    os.makedirs(store_dir, exist_ok=True)
+    files = sorted(glob.glob(os.path.join(store_dir, "pairs_*.csv")))
+    if not files:
+        return pd.DataFrame(columns=[
+            "sector_id",
+            "patent_id",
+            "patent_date",
+            "patent_title",
+            "patent_num_times_cited_by_us_patents",
+            "cpc_subclass_ids",
+            "assignee_id",
+            "assignee_type",
+            "assignee_organization",
+            "canonical_company_id",
+            "display_name",
+        ])
+    parts = [pd.read_csv(f, dtype=str) for f in files]
+    return pd.concat(parts, ignore_index=True) if parts else pd.DataFrame()
+
+
+def _write_partitioned_store(df: pd.DataFrame, store_dir: str) -> None:
+    os.makedirs(store_dir, exist_ok=True)
+
+    # Write by year to keep each file below GitHub 100MB limit
+    df["year"] = df["patent_date"].astype(str).str.slice(0, 4)
+
+    for year, sub in df.groupby("year", sort=True):
+        if not year or year == "nan":
+            continue
+        out_path = os.path.join(store_dir, f"pairs_{year}.csv")
+        sub = sub.drop(columns=["year"])
+        sub.to_csv(out_path, index=False, quoting=csv.QUOTE_MINIMAL)
 
 
 def update_sector_pairs(
@@ -56,33 +86,27 @@ def update_sector_pairs(
     sector: SectorConfig,
     assignee_map_path: str,
     last_run_path: str,
-    out_pairs_csv_path: str,
+    out_store_dir: str,
 ) -> None:
     """
-    Maintains a 'pairs' table: one row per (patent_id, canonical_company_id, assignee_id).
-
-    Incrementally pulls newly granted patents since last run, filtered by CPC sector.
-
-    IMPORTANT: This uses a 7-day overlap on incremental pulls to avoid missing late-indexed
-    records or boundary-date collisions, and relies on dedupe for correctness.
+    Partitioned store: data/store/<sector>/pairs_<YYYY>.csv
+    Each run:
+      - loads all partitions
+      - pulls incremental patents with a 7-day overlap
+      - dedupes
+      - rewrites partitions for the 5-year window
     """
-
     last_run = load_last_run(last_run_path)
     sector_state = last_run.get(sector.sector_id, {})
 
     window_start = _five_years_ago_iso()
     today = _today_iso()
 
-    # Incremental start:
-    # - If first run: start at 5y window
-    # - Else: start at last_success_date
     start_date = sector_state.get("last_success_date") or window_start
-
-    # Clamp to 5y window
     if start_date < window_start:
         start_date = window_start
 
-    # 7-day lookback overlap to avoid missed records
+    # 7-day overlap
     try:
         d = datetime.strptime(start_date, "%Y-%m-%d").date()
         start_date = (d - timedelta(days=7)).isoformat()
@@ -91,7 +115,6 @@ def update_sector_pairs(
     except Exception:
         start_date = window_start
 
-    # Patent endpoint fields we need
     fields = [
         "patent_id",
         "patent_title",
@@ -102,8 +125,6 @@ def update_sector_pairs(
         "assignees.assignee_organization",
         "assignees.assignee_type",
     ]
-
-    # Sort for cursor pagination: patent_date asc, then patent_id asc
     sort = [{"patent_date": "asc"}, {"patent_id": "asc"}]
 
     q: Dict[str, Any] = {
@@ -117,27 +138,10 @@ def update_sector_pairs(
 
     assignee_map = load_assignee_map(assignee_map_path)
 
-    # Load existing pairs if any
-    os.makedirs(os.path.dirname(out_pairs_csv_path), exist_ok=True)
-    if os.path.exists(out_pairs_csv_path):
-        existing = pd.read_csv(out_pairs_csv_path, dtype=str)
-    else:
-        existing = pd.DataFrame(columns=[
-            "sector_id",
-            "patent_id",
-            "patent_date",
-            "patent_title",
-            "patent_num_times_cited_by_us_patents",
-            "cpc_subclass_ids",  # pipe-delimited
-            "assignee_id",
-            "assignee_type",
-            "assignee_organization",
-            "canonical_company_id",
-            "display_name",
-        ])
+    existing = _load_partitioned_store(out_store_dir)
 
     new_rows: List[Dict[str, Any]] = []
-    seen_new_pairs: Set[Tuple[str, str, str]] = set()  # (patent_id, canonical_company_id, assignee_id)
+    seen_new_pairs: Set[Tuple[str, str, str]] = set()
 
     for page in client.paginate(endpoint="patent", q=q, f=fields, s=sort, size=1000):
         patents = page.get("patents", [])
@@ -154,13 +158,11 @@ def update_sector_pairs(
             cited_by = p.get("patent_num_times_cited_by_us_patents")
             cited_by_str = "" if cited_by is None else str(cited_by)
 
-            # CPC subclasses may appear multiple times; collect distinct.
             cpcs = p.get("cpc_current", []) or []
             cpc_subs = sorted({(c.get("cpc_subclass_id") or "").strip() for c in cpcs if c.get("cpc_subclass_id")})
             cpc_subs_str = "|".join([x for x in cpc_subs if x])
 
-            assignees = p.get("assignees", []) or []
-            for a in assignees:
+            for a in (p.get("assignees", []) or []):
                 assignee_id = (a.get("assignee_id") or "").strip()
                 if not assignee_id:
                     continue
@@ -195,21 +197,17 @@ def update_sector_pairs(
 
     if new_rows:
         new_df = pd.DataFrame(new_rows)
-
-        # Upsert/dedupe on (sector_id, patent_id, canonical_company_id, assignee_id)
         combined = pd.concat([existing, new_df], ignore_index=True)
+
         combined.drop_duplicates(
             subset=["sector_id", "patent_id", "canonical_company_id", "assignee_id"],
             inplace=True,
             keep="last",
         )
 
-        # Enforce 5-year window by patent_date (ISO compare is fine for YYYY-MM-DD)
         combined = combined[(combined["patent_date"] >= window_start) & (combined["patent_date"] <= today)]
+        _write_partitioned_store(combined, out_store_dir)
 
-        combined.to_csv(out_pairs_csv_path, index=False, quoting=csv.QUOTE_MINIMAL)
-
-    # Update state
     last_run[sector.sector_id] = {
         "last_success_date": today,
         "window_start": window_start,
@@ -218,19 +216,15 @@ def update_sector_pairs(
     save_last_run(last_run_path, last_run)
 
 
-def write_normalization_suggestions(pairs_csv_path: str, out_path: str) -> None:
-    """
-    Writes a lightweight report of likely name variants to help you update assignee_map.yml.
-    This is suggestions only; it does not change canonicalization.
-    """
-    if not os.path.exists(pairs_csv_path):
+def write_normalization_suggestions(store_dir: str, out_path: str) -> None:
+    files = sorted(glob.glob(os.path.join(store_dir, "pairs_*.csv")))
+    if not files:
         return
 
-    df = pd.read_csv(pairs_csv_path, dtype=str)
+    df = pd.concat([pd.read_csv(f, dtype=str) for f in files], ignore_index=True)
     if df.empty:
         return
 
-    # Group by normalized organization strings to flag variant spellings/suffixes.
     df["org_norm"] = df["assignee_organization"].fillna("").map(normalize_name_for_suggestions)
 
     g = (
@@ -245,15 +239,14 @@ def write_normalization_suggestions(pairs_csv_path: str, out_path: str) -> None:
         .sort_values("count", ascending=False)
     )
 
-    # Keep only cases where multiple assignee_ids appear for same normalized name (potential duplicates).
     g["assignee_id_count"] = g["assignee_ids"].map(len)
     g = g[g["assignee_id_count"] >= 2].head(200)
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("# Normalization Suggestions\n\n")
-        f.write("These are *potential* duplicates based on normalized organization strings.\n")
-        f.write("Review and (optionally) add mappings in data/normalization/assignee_map.yml.\n\n")
+        f.write("Potential duplicates based on normalized organization strings.\n")
+        f.write("Update data/normalization/assignee_map.yml if needed.\n\n")
         for _, row in g.iterrows():
             f.write(f"## {row['org_norm']} (rows: {row['count']})\n")
             f.write(f"- assignee_ids: {row['assignee_ids']}\n")
