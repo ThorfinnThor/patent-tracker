@@ -1,0 +1,12 @@
+# Optional manual mapping for rollups and display names.
+#
+# You can start with this empty file and only add mappings as needed.
+#
+# Structure:
+# assignees:
+#   "<assignee_id>":
+#     display_name: "IBM"
+#     canonical_company_id: "IBM"   # any stable string you choose
+#     notes: "Rolled up variants/subsidiaries"
+#
+assignees: {}
