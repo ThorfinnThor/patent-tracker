@@ -42,8 +42,7 @@ def save_last_run(path: str, obj: Dict[str, Any]) -> None:
 
 
 def build_cpc_query(prefixes: List[str]) -> Dict[str, Any]:
-    # Use CPC subclass IDs (e.g., A61K, G06F) with _begins against cpc_current.cpc_subclass_id.
-    # Those nested fields exist on the patent endpoint. :contentReference[oaicite:9]{index=9}
+    # Filter using CPC subclass IDs with _begins against cpc_current.cpc_subclass_id.
     return {
         "_or": [
             {"_begins": {"cpc_current.cpc_subclass_id": p}}
@@ -61,7 +60,11 @@ def update_sector_pairs(
 ) -> None:
     """
     Maintains a 'pairs' table: one row per (patent_id, canonical_company_id, assignee_id).
-    Incrementally pulls newly granted patents since last run (or 5y window start), filtered by CPC sector.
+
+    Incrementally pulls newly granted patents since last run, filtered by CPC sector.
+
+    IMPORTANT: This uses a 7-day overlap on incremental pulls to avoid missing late-indexed
+    records or boundary-date collisions, and relies on dedupe for correctness.
     """
 
     last_run = load_last_run(last_run_path)
@@ -72,18 +75,23 @@ def update_sector_pairs(
 
     # Incremental start:
     # - If first run: start at 5y window
-    # - Else: start at last_success_date (exclusive) to avoid duplicates
+    # - Else: start at last_success_date
     start_date = sector_state.get("last_success_date") or window_start
 
-    # If last_success_date is older than 5y window, clamp.
+    # Clamp to 5y window
     if start_date < window_start:
         start_date = window_start
 
-    # Patent endpoint fields we need:
-    # - patent_id, patent_date, patent_title
-    # - citations count: patent_num_times_cited_by_us_patents :contentReference[oaicite:10]{index=10}
-    # - cpc_current.cpc_subclass_id for breadth
-    # - assignees.* for linking
+    # 7-day lookback overlap to avoid missed records
+    try:
+        d = datetime.strptime(start_date, "%Y-%m-%d").date()
+        start_date = (d - timedelta(days=7)).isoformat()
+        if start_date < window_start:
+            start_date = window_start
+    except Exception:
+        start_date = window_start
+
+    # Patent endpoint fields we need
     fields = [
         "patent_id",
         "patent_title",
@@ -95,7 +103,7 @@ def update_sector_pairs(
         "assignees.assignee_type",
     ]
 
-    # Sort for cursor pagination: patent_date asc, patent_id asc (stable, good for after=...). :contentReference[oaicite:11]{index=11}
+    # Sort for cursor pagination: patent_date asc, then patent_id asc
     sort = [{"patent_date": "asc"}, {"patent_id": "asc"}]
 
     q: Dict[str, Any] = {
@@ -196,8 +204,7 @@ def update_sector_pairs(
             keep="last",
         )
 
-        # Enforce 5-year window by patent_date
-        # (string compare works for ISO YYYY-MM-DD)
+        # Enforce 5-year window by patent_date (ISO compare is fine for YYYY-MM-DD)
         combined = combined[(combined["patent_date"] >= window_start) & (combined["patent_date"] <= today)]
 
         combined.to_csv(out_pairs_csv_path, index=False, quoting=csv.QUOTE_MINIMAL)
@@ -214,7 +221,7 @@ def update_sector_pairs(
 def write_normalization_suggestions(pairs_csv_path: str, out_path: str) -> None:
     """
     Writes a lightweight report of likely name variants to help you update assignee_map.yml.
-    This is *suggestions only*; it does not change canonicalization.
+    This is suggestions only; it does not change canonicalization.
     """
     if not os.path.exists(pairs_csv_path):
         return
@@ -223,7 +230,7 @@ def write_normalization_suggestions(pairs_csv_path: str, out_path: str) -> None:
     if df.empty:
         return
 
-    # We group by normalized organization strings; this flags variant spellings/suffixes.
+    # Group by normalized organization strings to flag variant spellings/suffixes.
     df["org_norm"] = df["assignee_organization"].fillna("").map(normalize_name_for_suggestions)
 
     g = (
