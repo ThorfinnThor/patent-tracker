@@ -1,0 +1,14 @@
+# Node
+apps/web/node_modules
+apps/web/.next
+apps/web/out
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Optional: if datasets get too big, you can stop committing store/ and push to object storage instead
+# data/store/
