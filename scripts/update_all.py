@@ -3,7 +3,11 @@ from __future__ import annotations
 import os
 
 from pv_client import PVClient
-from update_sector import SectorConfig, update_sector_pairs, write_normalization_suggestions
+from update_sector import (
+    SectorConfig,
+    update_sector_pairs,
+    write_normalization_suggestions,
+)
 from build_artifacts import BuildConfig, build_sector_artifacts
 
 
@@ -19,8 +23,7 @@ def main() -> None:
     assignee_map = os.path.join(root, "data", "normalization", "assignee_map.yml")
     last_run = os.path.join(root, "data", "state", "last_run.json")
 
-    # Edit these CPC prefix lists whenever you want.
-    # Uses CPC subclass IDs via cpc_current.cpc_subclass_id. :contentReference[oaicite:13]{index=13}
+    # Sector definitions by CPC subclass prefixes (editable)
     biotech = SectorConfig(
         sector_id="biotech",
         cpc_subclass_prefixes=[
@@ -34,31 +37,37 @@ def main() -> None:
         ],
     )
 
-    # Update store
+    # Update partitioned stores (data/store/<sector>/pairs_<YYYY>.csv)
     for sector in [biotech, tech]:
-        pairs_csv = os.path.join(root, "data", "store", f"{sector.sector_id}_pairs.csv")
+        store_dir = os.path.join(root, "data", "store", sector.sector_id)
+
         update_sector_pairs(
             client=client,
             sector=sector,
             assignee_map_path=assignee_map,
             last_run_path=last_run,
-            out_pairs_csv_path=pairs_csv,
+            out_store_dir=store_dir,
         )
 
-        # Suggestions report (optional)
         write_normalization_suggestions(
-            pairs_csv_path=pairs_csv,
-            out_path=os.path.join(root, "data", "state", f"normalization_suggestions_{sector.sector_id}.md"),
+            store_dir=store_dir,
+            out_path=os.path.join(
+                root,
+                "data",
+                "state",
+                f"normalization_suggestions_{sector.sector_id}.md",
+            ),
         )
 
-    # Build web artifacts
+    # Build web artifacts into apps/web/public/data/<sector>/
     for sector_id in ["biotech", "tech"]:
-        pairs_csv = os.path.join(root, "data", "store", f"{sector_id}_pairs.csv")
+        store_dir = os.path.join(root, "data", "store", sector_id)
         out_public = os.path.join(root, "apps", "web", "public", "data", sector_id)
+
         build_sector_artifacts(
             BuildConfig(
                 sector_id=sector_id,
-                pairs_csv_path=pairs_csv,
+                store_dir=store_dir,
                 out_public_dir=out_public,
             )
         )
