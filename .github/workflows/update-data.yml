@@ -26,48 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Update datasets + build web artifacts
+      - name: Update datasets + build web artifacts (incl SQLite DBs)
         env:
           PATENTSVIEW_API_KEY: ${{ secrets.PATENTSVIEW_API_KEY }}
         run: |
           python scripts/update_all.py
-
-      - name: Upload SQLite DBs to Vercel Blob
-        env:
-          BLOB_READ_WRITE_TOKEN: ${{ secrets.VERCEL_BLOB_RW_TOKEN }}
-        run: |
-          node -e "
-            const fs=require('fs');
-
-            async function put(name, filePath){
-              const data = fs.readFileSync(filePath);
-              const res = await fetch('https://blob.vercel-storage.com', {
-                method: 'PUT',
-                headers: {
-                  'Authorization': 'Bearer ' + process.env.BLOB_READ_WRITE_TOKEN,
-                  'Content-Type': 'application/octet-stream',
-                  'x-vercel-filename': name
-                },
-                body: data
-              });
-              if(!res.ok){
-                const t = await res.text();
-                throw new Error('Blob upload failed: '+res.status+' '+t);
-              }
-              const j = await res.json();
-              console.log(name + ' => ' + j.url);
-              return j.url;
-            }
-
-            (async ()=>{
-              const biotechUrl = await put('biotech.sqlite', 'apps/web/data/db/biotech.sqlite');
-              const techUrl = await put('tech.sqlite', 'apps/web/data/db/tech.sqlite');
-
-              fs.mkdirSync('data/state', { recursive: true });
-              fs.writeFileSync('data/state/db_urls.json', JSON.stringify({ biotech: biotechUrl, tech: techUrl }, null, 2));
-              console.log('Saved db URLs to data/state/db_urls.json');
-            })().catch(e=>{console.error(e); process.exit(1);});
-          "
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -78,6 +41,55 @@ jobs:
         working-directory: apps/web
         run: npm ci || npm install
 
+      - name: Upload SQLite DBs to Vercel Blob (SDK)
+        working-directory: apps/web
+        env:
+          BLOB_READ_WRITE_TOKEN: ${{ secrets.VERCEL_BLOB_RW_TOKEN }}
+        run: |
+          node -e "
+            (async () => {
+              const fs = require('fs');
+              const path = require('path');
+
+              const { put } = await import('@vercel/blob');
+
+              const token = process.env.BLOB_READ_WRITE_TOKEN;
+              if (!token) throw new Error('Missing BLOB_READ_WRITE_TOKEN');
+
+              const biotechBytes = fs.readFileSync(path.join('data', 'db', 'biotech.sqlite'));
+              const techBytes = fs.readFileSync(path.join('data', 'db', 'tech.sqlite'));
+
+              const biotech = await put('db/biotech.sqlite', biotechBytes, {
+                access: 'public',
+                token,
+                addRandomSuffix: false,
+                allowOverwrite: true,
+                multipart: true
+              });
+
+              const tech = await put('db/tech.sqlite', techBytes, {
+                access: 'public',
+                token,
+                addRandomSuffix: false,
+                allowOverwrite: true,
+                multipart: true
+              });
+
+              const outDir = path.join('..', '..', 'data', 'state');
+              fs.mkdirSync(outDir, { recursive: true });
+
+              const outPath = path.join(outDir, 'db_urls.json');
+              fs.writeFileSync(outPath, JSON.stringify({ biotech: biotech.url, tech: tech.url }, null, 2));
+
+              console.log('biotech.sqlite =>', biotech.url);
+              console.log('tech.sqlite =>', tech.url);
+              console.log('Wrote', outPath);
+            })().catch(err => {
+              console.error(err);
+              process.exit(1);
+            });
+          "
+
       - name: Build web
         working-directory: apps/web
         run: npm run build
@@ -87,7 +99,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Commit only small artifacts. Do NOT commit SQLite DB files (they exceed GitHub 100MB limit).
+          # Commit only small artifacts; DBs are uploaded to Blob and must NOT be committed.
           git add data/state data/store apps/web/public/data
 
           if git diff --cached --quiet; then
