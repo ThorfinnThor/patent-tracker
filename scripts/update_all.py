@@ -37,7 +37,7 @@ def main() -> None:
         ],
     )
 
-    # Update partitioned stores (data/store/<sector>/pairs_<YYYY>.csv)
+    # Update partitioned stores: data/store/<sector>/pairs_<YYYY>.csv
     for sector in [biotech, tech]:
         store_dir = os.path.join(root, "data", "store", sector.sector_id)
 
@@ -59,16 +59,20 @@ def main() -> None:
             ),
         )
 
-    # Build web artifacts into apps/web/public/data/<sector>/
+    # Build web artifacts:
+    # - apps/web/public/data/<sector>/companies.json
+    # - apps/web/data/db/<sector>.sqlite
     for sector_id in ["biotech", "tech"]:
         store_dir = os.path.join(root, "data", "store", sector_id)
         out_public = os.path.join(root, "apps", "web", "public", "data", sector_id)
+        out_db = os.path.join(root, "apps", "web", "data", "db", f"{sector_id}.sqlite")
 
         build_sector_artifacts(
             BuildConfig(
                 sector_id=sector_id,
                 store_dir=store_dir,
                 out_public_dir=out_public,
+                out_db_path=out_db,
             )
         )
 
