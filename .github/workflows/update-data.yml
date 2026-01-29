@@ -26,11 +26,122 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Update datasets + build web artifacts (incl SQLite DBs)
+      - name: Update datasets + build artifacts
         env:
           PATENTSVIEW_API_KEY: ${{ secrets.PATENTSVIEW_API_KEY }}
         run: |
           python scripts/update_all.py
+
+      - name: Install PostgreSQL client
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y postgresql-client
+
+      - name: Load into Postgres (upsert)
+        env:
+          POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${POSTGRES_URL}" ]; then
+            echo "Missing POSTGRES_URL secret"
+            exit 1
+          fi
+
+          export PGCONNECT_TIMEOUT=10
+
+          # Schema
+          psql "${POSTGRES_URL}" << 'SQL'
+          CREATE TABLE IF NOT EXISTS patents (
+            sector TEXT NOT NULL,
+            company_id TEXT NOT NULL,
+            patent_id TEXT NOT NULL,
+            patent_date DATE NOT NULL,
+            patent_year INT NOT NULL,
+            patent_title TEXT NOT NULL,
+            cited_by INT NOT NULL,
+            cpc_subclass_ids TEXT NOT NULL,
+            PRIMARY KEY (sector, company_id, patent_id)
+          );
+
+          CREATE INDEX IF NOT EXISTS idx_patents_company_date
+            ON patents(sector, company_id, patent_date DESC, patent_id DESC);
+
+          CREATE INDEX IF NOT EXISTS idx_patents_company_cited
+            ON patents(sector, company_id, cited_by DESC, patent_date DESC);
+
+          CREATE INDEX IF NOT EXISTS idx_patents_company_year
+            ON patents(sector, company_id, patent_year DESC);
+
+          CREATE TABLE IF NOT EXISTS companies (
+            sector TEXT NOT NULL,
+            company_id TEXT NOT NULL,
+            display_name TEXT NOT NULL,
+            patent_count INT NOT NULL,
+            total_citations INT NOT NULL,
+            citations_per_patent DOUBLE PRECISION NOT NULL,
+            cpc_breadth INT NOT NULL,
+            PRIMARY KEY (sector, company_id)
+          );
+          SQL
+
+          # Staging tables
+          psql "${POSTGRES_URL}" << 'SQL'
+          DROP TABLE IF EXISTS patents_stage;
+          CREATE TEMP TABLE patents_stage (
+            sector TEXT,
+            company_id TEXT,
+            patent_id TEXT,
+            patent_date DATE,
+            patent_year INT,
+            patent_title TEXT,
+            cited_by INT,
+            cpc_subclass_ids TEXT
+          );
+
+          DROP TABLE IF EXISTS companies_stage;
+          CREATE TEMP TABLE companies_stage (
+            sector TEXT,
+            companyId TEXT,
+            displayName TEXT,
+            patentCount INT,
+            totalCitations INT,
+            citationsPerPatent DOUBLE PRECISION,
+            cpcBreadth INT
+          );
+          SQL
+
+          # COPY CSVs into staging (two sectors)
+          psql "${POSTGRES_URL}" -c "\copy patents_stage FROM 'data/state/postgres/biotech_patents.csv' WITH (FORMAT csv, HEADER true)"
+          psql "${POSTGRES_URL}" -c "\copy patents_stage FROM 'data/state/postgres/tech_patents.csv' WITH (FORMAT csv, HEADER true)"
+
+          psql "${POSTGRES_URL}" -c "\copy companies_stage FROM 'data/state/postgres/biotech_companies.csv' WITH (FORMAT csv, HEADER true)"
+          psql "${POSTGRES_URL}" -c "\copy companies_stage FROM 'data/state/postgres/tech_companies.csv' WITH (FORMAT csv, HEADER true)"
+
+          # Upsert into final tables
+          psql "${POSTGRES_URL}" << 'SQL'
+          INSERT INTO patents (sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids)
+          SELECT sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids
+          FROM patents_stage
+          ON CONFLICT (sector, company_id, patent_id)
+          DO UPDATE SET
+            patent_date = EXCLUDED.patent_date,
+            patent_year = EXCLUDED.patent_year,
+            patent_title = EXCLUDED.patent_title,
+            cited_by = EXCLUDED.cited_by,
+            cpc_subclass_ids = EXCLUDED.cpc_subclass_ids;
+
+          INSERT INTO companies (sector, company_id, display_name, patent_count, total_citations, citations_per_patent, cpc_breadth)
+          SELECT sector, companyId, displayName, patentCount, totalCitations, citationsPerPatent, cpcBreadth
+          FROM companies_stage
+          ON CONFLICT (sector, company_id)
+          DO UPDATE SET
+            display_name = EXCLUDED.display_name,
+            patent_count = EXCLUDED.patent_count,
+            total_citations = EXCLUDED.total_citations,
+            citations_per_patent = EXCLUDED.citations_per_patent,
+            cpc_breadth = EXCLUDED.cpc_breadth;
+          SQL
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -41,65 +152,15 @@ jobs:
         working-directory: apps/web
         run: npm ci || npm install
 
-      - name: Upload SQLite DBs to Vercel Blob (SDK)
-        working-directory: apps/web
-        env:
-          BLOB_READ_WRITE_TOKEN: ${{ secrets.VERCEL_BLOB_RW_TOKEN }}
-        run: |
-          node -e "
-            (async () => {
-              const fs = require('fs');
-              const path = require('path');
-
-              const { put } = await import('@vercel/blob');
-
-              const token = process.env.BLOB_READ_WRITE_TOKEN;
-              if (!token) throw new Error('Missing BLOB_READ_WRITE_TOKEN');
-
-              const biotechBytes = fs.readFileSync(path.join('data', 'db', 'biotech.sqlite'));
-              const techBytes = fs.readFileSync(path.join('data', 'db', 'tech.sqlite'));
-
-              const biotech = await put('db/biotech.sqlite', biotechBytes, {
-                access: 'public',
-                token,
-                addRandomSuffix: false,
-                allowOverwrite: true,
-                multipart: true
-              });
-
-              const tech = await put('db/tech.sqlite', techBytes, {
-                access: 'public',
-                token,
-                addRandomSuffix: false,
-                allowOverwrite: true,
-                multipart: true
-              });
-
-              const outDir = path.join('..', '..', 'data', 'state');
-              fs.mkdirSync(outDir, { recursive: true });
-
-              const outPath = path.join(outDir, 'db_urls.json');
-              fs.writeFileSync(outPath, JSON.stringify({ biotech: biotech.url, tech: tech.url }, null, 2));
-
-              console.log('biotech.sqlite =>', biotech.url);
-              console.log('tech.sqlite =>', tech.url);
-              console.log('Wrote', outPath);
-            })().catch(err => {
-              console.error(err);
-              process.exit(1);
-            });
-          "
-
       - name: Build web
         working-directory: apps/web
         run: npm run build
 
-      - name: Commit changes (no DB files)
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Commit only small artifacts; DBs are uploaded to Blob and must NOT be committed.
           git add data/state data/store apps/web/public/data
 
           if git diff --cached --quiet; then
