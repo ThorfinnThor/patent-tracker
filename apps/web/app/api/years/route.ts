@@ -4,21 +4,35 @@ import { queryYears } from "../../../lib/db";
 export const runtime = "nodejs";
 
 export async function GET(req: NextRequest) {
-  const { searchParams } = new URL(req.url);
+  try {
+    const { searchParams } = new URL(req.url);
 
-  const sector = (searchParams.get("sector") || "") as "biotech" | "tech";
-  const companyId = searchParams.get("companyId") || "";
+    const sector = (searchParams.get("sector") || "") as "biotech" | "tech";
+    const companyId = searchParams.get("companyId") || "";
 
-  if (!["biotech", "tech"].includes(sector)) {
-    return NextResponse.json({ error: "Invalid sector" }, { status: 400 });
+    if (!["biotech", "tech"].includes(sector)) {
+      return NextResponse.json({ error: "Invalid sector" }, { status: 400 });
+    }
+    if (!companyId) {
+      return NextResponse.json({ error: "Missing companyId" }, { status: 400 });
+    }
+
+    const data = await queryYears({ sector, companyId });
+
+    return NextResponse.json(data, {
+      headers: { "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400" },
+    });
+  } catch (e: any) {
+    const message = e?.message ? String(e.message) : "Unknown error";
+    const stack = e?.stack ? String(e.stack) : "";
+
+    return NextResponse.json(
+      {
+        error: "Years API error",
+        message,
+        stack,
+      },
+      { status: 500 }
+    );
   }
-  if (!companyId) {
-    return NextResponse.json({ error: "Missing companyId" }, { status: 400 });
-  }
-
-  const data = await queryYears({ sector, companyId });
-
-  return NextResponse.json(data, {
-    headers: { "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400" },
-  });
 }
