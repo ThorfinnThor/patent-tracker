@@ -10,5 +10,5 @@ __pycache__/
 # OS
 .DS_Store
 
-# Optional: if datasets get too big, you can stop committing store/ and push to object storage instead
-# data/store/
+# Never commit SQLite DB artifacts (too large for GitHub)
+apps/web/data/db/*.sqlite
