@@ -1,42 +1,60 @@
-import { listCompanyIds, readCompanies, readCompanyPatents } from "../../../lib/data";
-import PatentTable from "../../../components/PatentTable";
+import CompanyPatentsViewer from "../../../components/CompanyPatentsViewer";
+import fs from "fs";
+import path from "path";
 
-export function generateStaticParams() {
-  return listCompanyIds("tech").map(companyId => ({ companyId }));
+type Company = {
+  companyId: string;
+  displayName: string;
+  patentCount: number;
+  totalCitations: number;
+  citationsPerPatent: number;
+  cpcBreadth: number;
+};
+
+function readCompanies(sector: "biotech" | "tech"): Company[] {
+  const p = path.join(process.cwd(), "public", "data", sector, "companies.json");
+  const raw = fs.readFileSync(p, "utf-8");
+  return JSON.parse(raw) as Company[];
 }
 
 export default function TechCompanyPage({ params }: { params: { companyId: string } }) {
   const companies = readCompanies("tech");
   const company = companies.find(c => c.companyId === params.companyId);
 
-  const rows = readCompanyPatents("tech", params.companyId);
-
   return (
     <main style={{ display: "grid", gap: 12 }}>
-      <a href="/tech" style={{ textDecoration: "none" }}>← Back</a>
+      <a className="pill" href="/tech" style={{ width: "fit-content" }}>← Back</a>
 
-      <h2 style={{ margin: 0 }}>{company?.displayName ?? params.companyId}</h2>
+      <div className="card cardPad" style={{ display: "grid", gap: 10 }}>
+        <h2 className="h2">{company?.displayName ?? params.companyId}</h2>
 
-      {company && (
-        <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
-          <Metric label="Patents (5y)" value={company.patentCount} />
-          <Metric label="Citations" value={company.totalCitations} />
-          <Metric label="Citations/Patent" value={company.citationsPerPatent.toFixed(2)} />
-          <Metric label="CPC Breadth" value={company.cpcBreadth} />
-        </div>
-      )}
+        {company && (
+          <div className="kpiRow">
+            <div className="kpi">
+              <div className="kpiLabel">Patents (5y)</div>
+              <div className="kpiValue">{company.patentCount}</div>
+            </div>
+            <div className="kpi">
+              <div className="kpiLabel">Citations</div>
+              <div className="kpiValue">{company.totalCitations}</div>
+            </div>
+            <div className="kpi">
+              <div className="kpiLabel">Citations / Patent</div>
+              <div className="kpiValue">{company.citationsPerPatent.toFixed(2)}</div>
+            </div>
+            <div className="kpi">
+              <div className="kpiLabel">CPC Breadth</div>
+              <div className="kpiValue">{company.cpcBreadth}</div>
+            </div>
+          </div>
+        )}
 
-      <h3 style={{ margin: "12px 0 0 0" }}>Patents</h3>
-      <PatentTable rows={rows} />
+        <p className="p">
+          Tracker view defaults to Top 500 most recent (or most cited). Select a year for full paginated browsing.
+        </p>
+      </div>
+
+      <CompanyPatentsViewer sector="tech" companyId={params.companyId} />
     </main>
-  );
-}
-
-function Metric({ label, value }: { label: string; value: any }) {
-  return (
-    <div style={{ border: "1px solid #ddd", borderRadius: 12, padding: 12, minWidth: 160 }}>
-      <div style={{ fontSize: 12, opacity: 0.7 }}>{label}</div>
-      <div style={{ fontWeight: 700, fontSize: 18 }}>{value}</div>
-    </div>
   );
 }
