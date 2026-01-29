@@ -24,19 +24,45 @@ export default function CompanyPatentsViewer({
   const [page, setPage] = useState(0);
   const [pageSize, setPageSize] = useState(100);
 
-  // Cap applies only when year is not selected (Top N mode)
   const cap = 500;
 
   const [loading, setLoading] = useState(false);
   const [total, setTotal] = useState(0);
   const [rows, setRows] = useState<PatentRow[]>([]);
+  const [error, setError] = useState<string>("");
+
   const totalPages = useMemo(() => Math.max(1, Math.ceil(total / pageSize)), [total, pageSize]);
+  const boundedMode = year === "";
+
+  const patentsUrl = useMemo(() => {
+    const params = new URLSearchParams({
+      sector,
+      companyId,
+      sort,
+      q,
+      page: String(page),
+      pageSize: String(pageSize),
+      cap: String(cap),
+    });
+    if (year) params.set("year", year);
+    return `/api/patents?${params.toString()}`;
+  }, [sector, companyId, sort, q, page, pageSize, cap, year]);
 
   useEffect(() => {
     (async () => {
-      const res = await fetch(`/api/years?sector=${sector}&companyId=${encodeURIComponent(companyId)}`);
-      const data = await res.json();
-      setYears(Array.isArray(data.years) ? data.years : []);
+      setError("");
+      try {
+        const res = await fetch(`/api/years?sector=${sector}&companyId=${encodeURIComponent(companyId)}`);
+        if (!res.ok) {
+          const text = await res.text();
+          throw new Error(`Years API failed (${res.status}): ${text}`);
+        }
+        const data = await res.json();
+        setYears(Array.isArray(data.years) ? data.years : []);
+      } catch (e: any) {
+        setYears([]);
+        setError(e?.message || "Failed to load years");
+      }
     })();
   }, [sector, companyId]);
 
@@ -47,29 +73,30 @@ export default function CompanyPatentsViewer({
   useEffect(() => {
     (async () => {
       setLoading(true);
+      setError("");
       try {
-        const params = new URLSearchParams({
-          sector,
-          companyId,
-          sort,
-          q,
-          page: String(page),
-          pageSize: String(pageSize),
-          cap: String(cap)
-        });
-        if (year) params.set("year", year);
-
-        const res = await fetch(`/api/patents?${params.toString()}`);
+        const res = await fetch(patentsUrl);
+        if (!res.ok) {
+          const text = await res.text();
+          throw new Error(`Patents API failed (${res.status}): ${text}`);
+        }
         const data = await res.json();
+
+        if (data?.error) {
+          throw new Error(String(data.error));
+        }
+
         setTotal(Number(data.total || 0));
         setRows(Array.isArray(data.rows) ? data.rows : []);
+      } catch (e: any) {
+        setTotal(0);
+        setRows([]);
+        setError(e?.message || "Failed to load patents");
       } finally {
         setLoading(false);
       }
     })();
-  }, [sector, companyId, year, sort, q, page, pageSize]);
-
-  const boundedMode = year === ""; // Top N mode
+  }, [patentsUrl]);
 
   return (
     <div className="card cardPad" style={{ display: "grid", gap: 12 }}>
@@ -84,7 +111,11 @@ export default function CompanyPatentsViewer({
 
         <select className="select" value={year} onChange={(e) => setYear(e.target.value)}>
           <option value="">All years (Top {cap})</option>
-          {years.map(y => <option key={y} value={String(y)}>{y}</option>)}
+          {years.map((y) => (
+            <option key={y} value={String(y)}>
+              {y}
+            </option>
+          ))}
         </select>
 
         <button
@@ -112,12 +143,34 @@ export default function CompanyPatentsViewer({
         </div>
       </div>
 
+      {error && (
+        <div
+          className="card"
+          style={{
+            padding: 12,
+            borderColor: "rgba(239,68,68,0.5)",
+            background: "rgba(239,68,68,0.10)",
+          }}
+        >
+          <div style={{ fontWeight: 800, marginBottom: 6 }}>Backend error</div>
+          <div className="small" style={{ whiteSpace: "pre-wrap" }}>{error}</div>
+          <div className="small" style={{ marginTop: 8 }}>
+            Debug:{" "}
+            <a href={patentsUrl} target="_blank" rel="noreferrer">
+              Open patents API request
+            </a>
+          </div>
+        </div>
+      )}
+
       <div className="controls">
-        <button className="btn" disabled={page <= 0} onClick={() => setPage(p => Math.max(0, p - 1))}>
+        <button className="btn" disabled={page <= 0} onClick={() => setPage((p) => Math.max(0, p - 1))}>
           ← Prev
         </button>
-        <div className="small">Page {page + 1} / {totalPages}</div>
-        <button className="btn" disabled={page + 1 >= totalPages} onClick={() => setPage(p => p + 1)}>
+        <div className="small">
+          Page {page + 1} / {totalPages}
+        </div>
+        <button className="btn" disabled={page + 1 >= totalPages} onClick={() => setPage((p) => p + 1)}>
           Next →
         </button>
       </div>
@@ -133,7 +186,7 @@ export default function CompanyPatentsViewer({
             </tr>
           </thead>
           <tbody>
-            {rows.map(r => (
+            {rows.map((r) => (
               <tr key={r.patent_id} className="rowHover">
                 <td className="td" style={{ whiteSpace: "nowrap" }}>{r.patent_date}</td>
                 <td className="td">{r.cited_by}</td>
@@ -148,7 +201,8 @@ export default function CompanyPatentsViewer({
                 </td>
               </tr>
             ))}
-            {!loading && rows.length === 0 && (
+
+            {!loading && rows.length === 0 && !error && (
               <tr>
                 <td className="td" colSpan={4}>
                   <div className="small">No results.</div>
