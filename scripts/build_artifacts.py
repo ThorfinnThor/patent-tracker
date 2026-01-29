@@ -4,7 +4,6 @@ import csv
 import glob
 import json
 import os
-import sqlite3
 from dataclasses import dataclass
 from typing import List
 
@@ -16,7 +15,7 @@ class BuildConfig:
     sector_id: str
     store_dir: str              # data/store/<sector>/
     out_public_dir: str         # apps/web/public/data/<sector>/
-    out_db_path: str            # apps/web/data/db/<sector>.sqlite
+    out_pg_dir: str             # data/state/postgres/
 
 
 def _safe_int(x: str) -> int:
@@ -69,6 +68,7 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
         display_name = sub["display_name"].dropna().astype(str).iloc[0] if len(sub) else company_id
 
         grouped.append({
+            "sector": cfg.sector_id,
             "companyId": company_id,
             "displayName": display_name,
             "patentCount": patent_count,
@@ -83,65 +83,43 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
         .head(200)
     )
 
-    # Write companies.json for fast sector page load
+    # Write companies.json for fast sector pages
     os.makedirs(cfg.out_public_dir, exist_ok=True)
     out_companies_json = os.path.join(cfg.out_public_dir, "companies.json")
     with open(out_companies_json, "w", encoding="utf-8") as f:
-        json.dump(companies.to_dict(orient="records"), f, indent=2)
+        json.dump(
+            companies.drop(columns=["sector"]).to_dict(orient="records"),
+            f,
+            indent=2,
+        )
 
     out_companies_csv = os.path.join(cfg.out_public_dir, "companies.csv")
-    companies.to_csv(out_companies_csv, index=False, quoting=csv.QUOTE_MINIMAL)
+    companies.drop(columns=["sector"]).to_csv(out_companies_csv, index=False, quoting=csv.QUOTE_MINIMAL)
 
-    # Build SQLite DB (queryable store)
-    os.makedirs(os.path.dirname(cfg.out_db_path), exist_ok=True)
-    if os.path.exists(cfg.out_db_path):
-        os.remove(cfg.out_db_path)
+    # Export Postgres load CSVs (top 200 only)
+    os.makedirs(cfg.out_pg_dir, exist_ok=True)
 
-    conn = sqlite3.connect(cfg.out_db_path)
-    cur = conn.cursor()
+    top_ids = set(companies["companyId"].astype(str).tolist())
+    sub = corp[corp["canonical_company_id"].astype(str).isin(top_ids)].copy()
 
-    cur.execute("""
-      CREATE TABLE patents (
-        company_id TEXT NOT NULL,
-        patent_id TEXT NOT NULL,
-        patent_date TEXT NOT NULL,
-        patent_year INTEGER NOT NULL,
-        patent_title TEXT NOT NULL,
-        cited_by INTEGER NOT NULL,
-        cpc_subclass_ids TEXT NOT NULL,
-        PRIMARY KEY(company_id, patent_id)
-      )
-    """)
+    sub["patent_year"] = sub["patent_date"].astype(str).str.slice(0, 4)
+    sub["patent_year"] = sub["patent_year"].apply(lambda s: int(s) if str(s).isdigit() else 0)
 
-    # Insert only patents for top 200 companies (keeps DB bounded)
-    top_company_ids = set(companies["companyId"].astype(str).tolist())
-    corp = corp[corp["canonical_company_id"].astype(str).isin(top_company_ids)].copy()
+    # patents CSV
+    patents_out = os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_patents.csv")
+    patents_df = pd.DataFrame({
+        "sector": cfg.sector_id,
+        "company_id": sub["canonical_company_id"].astype(str),
+        "patent_id": sub["patent_id"].astype(str),
+        "patent_date": sub["patent_date"].astype(str),
+        "patent_year": sub["patent_year"].astype(int),
+        "patent_title": sub["patent_title"].fillna("").astype(str),
+        "cited_by": sub["cited_by"].astype(int),
+        "cpc_subclass_ids": sub["cpc_subclass_ids"].fillna("").astype(str),
+    }).drop_duplicates(subset=["sector", "company_id", "patent_id"], keep="last")
 
-    corp["patent_year"] = corp["patent_date"].astype(str).str.slice(0, 4).fillna("0")
-    corp["patent_year"] = corp["patent_year"].apply(lambda s: int(s) if str(s).isdigit() else 0)
+    patents_df.to_csv(patents_out, index=False, quoting=csv.QUOTE_MINIMAL)
 
-    rows = []
-    for _, r in corp.iterrows():
-        rows.append((
-            str(r["canonical_company_id"]),
-            str(r["patent_id"]),
-            str(r["patent_date"]),
-            int(r["patent_year"]),
-            str(r.get("patent_title") or ""),
-            int(r.get("cited_by") or 0),
-            str(r.get("cpc_subclass_ids") or ""),
-        ))
-
-    cur.executemany("""
-      INSERT OR REPLACE INTO patents
-      (company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids)
-      VALUES (?, ?, ?, ?, ?, ?, ?)
-    """, rows)
-
-    # Indices for fast browsing
-    cur.execute("CREATE INDEX idx_patents_company_date ON patents(company_id, patent_date DESC)")
-    cur.execute("CREATE INDEX idx_patents_company_cited ON patents(company_id, cited_by DESC, patent_date DESC)")
-    cur.execute("CREATE INDEX idx_patents_company_year ON patents(company_id, patent_year DESC)")
-
-    conn.commit()
-    conn.close()
+    # companies CSV (for DB)
+    companies_out = os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_companies.csv")
+    companies.to_csv(companies_out, index=False, quoting=csv.QUOTE_MINIMAL)
