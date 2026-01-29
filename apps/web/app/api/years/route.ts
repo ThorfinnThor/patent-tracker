@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { queryYears } from "../../../lib/db";
 
+export const runtime = "nodejs";
+
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
 
@@ -17,8 +19,6 @@ export async function GET(req: NextRequest) {
   const data = await queryYears({ sector, companyId });
 
   return NextResponse.json(data, {
-    headers: {
-      "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400"
-    }
+    headers: { "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400" },
   });
 }
