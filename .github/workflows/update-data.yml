@@ -50,7 +50,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/state data/store apps/web/public/data
+          git add data/state data/store apps/web/public/data apps/web/data/db
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
