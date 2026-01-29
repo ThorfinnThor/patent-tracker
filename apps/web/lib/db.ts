@@ -1,26 +1,46 @@
-import fs from "fs";
-import path from "path";
 import initSqlJs from "sql.js";
 
-type DBHandle = {
-  db: any;
-};
-
+type DBHandle = { db: any };
 const globalAny = global as any;
 
-// Cache across requests when the serverless instance is reused
-async function getDbCached(sector: "biotech" | "tech"): Promise<DBHandle> {
+async function fetchDbBytes(url: string): Promise<Uint8Array> {
+  const res = await fetch(url, { cache: "force-cache" });
+  if (!res.ok) throw new Error(`Failed to fetch DB: ${res.status} ${res.statusText}`);
+  const buf = await res.arrayBuffer();
+  return new Uint8Array(buf);
+}
+
+function locateSqlWasm(file: string) {
+  // Resolves sql.js wasm file from node_modules on the server
+  // Works in Next.js server runtime.
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
+  return require.resolve("sql.js/dist/" + file);
+}
+
+function dbUrlForSector(sector: "biotech" | "tech"): string {
+  if (sector === "biotech") return process.env.BIOTECH_DB_URL || "";
+  if (sector === "tech") return process.env.TECH_DB_URL || "";
+  return "";
+}
+
+async function getDbFromUrlCached(sector: "biotech" | "tech"): Promise<DBHandle> {
   const key = `__PV_DB_${sector}`;
   if (globalAny[key]) return globalAny[key];
 
+  const dbUrl = dbUrlForSector(sector);
+  if (!dbUrl) {
+    throw new Error(
+      `Missing DB URL env var for sector=${sector}. Set BIOTECH_DB_URL and TECH_DB_URL in Vercel.`
+    );
+  }
+
   const SQL = await initSqlJs({
-    locateFile: (file: string) => path.join(process.cwd(), "node_modules", "sql.js", "dist", file),
+    locateFile: (file: string) => locateSqlWasm(file),
   });
 
-  const dbPath = path.join(process.cwd(), "data", "db", `${sector}.sqlite`);
-  const buf = fs.readFileSync(dbPath);
+  const bytes = await fetchDbBytes(dbUrl);
+  const db = new SQL.Database(bytes);
 
-  const db = new SQL.Database(new Uint8Array(buf));
   globalAny[key] = { db };
   return globalAny[key];
 }
@@ -33,7 +53,7 @@ export async function queryPatents(params: {
   sort?: "recent" | "cited";
   page?: number;
   pageSize?: number;
-  cap?: number; // applied when year is not specified
+  cap?: number; // used only when year is not set
 }) {
   const {
     sector,
@@ -46,7 +66,7 @@ export async function queryPatents(params: {
     cap = 500,
   } = params;
 
-  const handle = await getDbCached(sector);
+  const handle = await getDbFromUrlCached(sector);
   const db = handle.db;
 
   const safePageSize = Math.max(10, Math.min(200, pageSize));
@@ -65,38 +85,32 @@ export async function queryPatents(params: {
     bind.push(`%${q.trim()}%`);
   }
 
-  const whereSql = where.length ? `WHERE ${where.join(" AND ")}` : "";
+  const whereSql = `WHERE ${where.join(" AND ")}`;
 
-  const orderSql = sort === "cited"
-    ? "ORDER BY cited_by DESC, patent_date DESC, patent_id DESC"
-    : "ORDER BY patent_date DESC, patent_id DESC";
+  const orderSql =
+    sort === "cited"
+      ? "ORDER BY cited_by DESC, patent_date DESC, patent_id DESC"
+      : "ORDER BY patent_date DESC, patent_id DESC";
 
-  // Cap only applies to “all years” mode to keep it bounded (Top N recent/cited)
-  // Year-filtered mode is paginated without the cap.
-  const capSql = (typeof year !== "number") ? `LIMIT ${Math.max(50, Math.min(500, cap))}` : "";
+  const capN = Math.max(50, Math.min(500, cap));
+
+  // In "All years" mode we cap total rows returned by applying LIMIT capN before paging.
   const baseSql = `
     SELECT patent_id, patent_date, patent_title, cited_by, cpc_subclass_ids
     FROM patents
     ${whereSql}
     ${orderSql}
-    ${capSql}
+    ${typeof year !== "number" ? `LIMIT ${capN}` : ""}
   `;
 
-  // If capped, we page within the capped result using OFFSET on a subquery
-  const pagedSql = (typeof year !== "number")
-    ? `
-      SELECT * FROM (${baseSql})
-      LIMIT ? OFFSET ?
-    `
-    : `
-      ${baseSql}
-      LIMIT ? OFFSET ?
-    `;
-
-  const pagedBind = [...bind, safePageSize, safePage * safePageSize];
+  // Page within the base result
+  const pagedSql = `
+    SELECT * FROM (${baseSql})
+    LIMIT ? OFFSET ?
+  `;
 
   const stmt = db.prepare(pagedSql);
-  stmt.bind(pagedBind);
+  stmt.bind([...bind, safePageSize, safePage * safePageSize]);
 
   const rows: any[] = [];
   while (stmt.step()) {
@@ -104,21 +118,15 @@ export async function queryPatents(params: {
   }
   stmt.free();
 
-  // total count (for pagination UI)
-  const countSql = `
-    SELECT COUNT(*) as n
-    FROM patents
-    ${whereSql}
-  `;
-  const countStmt = db.prepare(countSql);
+  // Total count (for pagination UI)
+  const countStmt = db.prepare(`SELECT COUNT(*) as n FROM patents ${whereSql}`);
   countStmt.bind(bind);
   countStmt.step();
   const countRow = countStmt.getAsObject() as any;
   countStmt.free();
 
-  // If cap applies, total should be min(count, cap) so paging doesn't lie
   const rawTotal = Number(countRow.n || 0);
-  const total = (typeof year !== "number") ? Math.min(rawTotal, Math.max(50, Math.min(500, cap))) : rawTotal;
+  const total = typeof year !== "number" ? Math.min(rawTotal, capN) : rawTotal;
 
   return {
     total,
@@ -127,28 +135,29 @@ export async function queryPatents(params: {
     sort,
     year: typeof year === "number" ? year : null,
     q,
-    rows: rows.map(r => ({
+    rows: rows.map((r) => ({
       patent_id: String(r.patent_id ?? ""),
       patent_date: String(r.patent_date ?? ""),
       patent_title: String(r.patent_title ?? ""),
       cited_by: Number(r.cited_by ?? 0),
-      cpc_subclass_ids: String(r.cpc_subclass_ids ?? "")
-    }))
+      cpc_subclass_ids: String(r.cpc_subclass_ids ?? ""),
+    })),
   };
 }
 
 export async function queryYears(params: { sector: "biotech" | "tech"; companyId: string }) {
   const { sector, companyId } = params;
-  const handle = await getDbCached(sector);
+
+  const handle = await getDbFromUrlCached(sector);
   const db = handle.db;
 
-  const sql = `
+  const stmt = db.prepare(`
     SELECT DISTINCT patent_year as y
     FROM patents
     WHERE company_id = ?
     ORDER BY y DESC
-  `;
-  const stmt = db.prepare(sql);
+  `);
+
   stmt.bind([companyId]);
 
   const years: number[] = [];
