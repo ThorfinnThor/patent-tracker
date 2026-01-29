@@ -1,0 +1,409 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432248,2025-09-30,Network tailored vulnerability impact assessment,0,G06F|H04L
+12432225,2025-09-30,Inline malware detection,0,G06F|G06N|H04L
+12432224,2025-09-30,Proactive malicious newly registered domain detection,0,G06N|H04L
+12430576,2025-09-30,Data blaming,0,G06F|G06N
+12430437,2025-09-30,Specific file detection baked into machine learning pipelines,0,G06F|G06N
+12425433,2025-09-23,Adversarial training for malicious protocol data unit detection with field value perturbations,0,H04L
+12425370,2025-09-23,Preserving security information over NAT enabled devices using encapsulation,0,H04L
+12425327,2025-09-23,Configuring application availability using anycast addressing,0,H04L
+12423522,2025-09-23,Text classification of API documentation for informing security policy creation,0,G06F|G06N
+12417353,2025-09-16,Automated content tagging with latent Dirichlet allocation of contextual word embeddings,0,G06F|G06N
+12417283,2025-09-16,IoT adaptive threat prevention,0,G06F|H04L
+12413624,2025-09-09,Cyber secure communications system,0,G06F|H04L|H04W
+12413512,2025-09-09,Application traffic flow prediction based on multi-stage network traffic flow scanning,0,H04L
+12407730,2025-09-02,Data security,0,G06F|H04L|H04W
+12407717,2025-09-02,Machine learning architecture for detecting malicious files using stream of data,0,H04L
+12407695,2025-09-02,Machine learning architecture for detecting malicious files using stream of data,0,G06F|H04L
+12407651,2025-09-02,Inline inspection cybersecurity enforcement of multipart file transmissions,0,H04L
+12401616,2025-08-26,Multiple data center compatible deployment of applications matching a wildcard domain name,0,H04L
+12401585,2025-08-26,Deploying symmetric routing,0,H04L
+12399999,2025-08-26,IoT device risk assessment,0,G06F|H04L|H04W
+12395523,2025-08-19,Inline detection of encrypted malicious network sessions,0,G06N|H04L
+12388874,2025-08-12,SD-WAN IOT security posture management,0,H04L
+12381910,2025-08-05,Network attack detection with targeted feature extraction from exploit tools,0,G06F|G06N|H04L
+12381902,2025-08-05,Pattern match-based detection in IOT security,0,G06N|H04L
+12380220,2025-08-05,Automated attribute scraping for security feature implementation prediction,0,G06F
+12380212,2025-08-05,Return address validation watchdog to discover ROP chains in exploits engineering cloud delivered security services (CDSS),0,G06F
+12375922,2025-07-29,Selective intelligent enforcement in mobile networks,0,H04L|H04W
+12375471,2025-07-29,Securely deliver decrypted data of mirrored VPN traffic,0,H04L
+12373434,2025-07-29,Heuristic database querying with dynamic partitioning,0,G06F
+12368713,2025-07-22,Mitigating multiple authentications for a geo-distributed security service using an authentication cache,0,H04L
+12367280,2025-07-22,Combined structure and import behavior signatures based malware learning and detection,0,G06F
+12363072,2025-07-15,Stateless cloud authentication for security services,0,H04L
+12363062,2025-07-15,High availability of cloud-based serivces with address translation,0,G06F|H04L
+12361130,2025-07-15,Real-time shellcode detection and prevention,0,G06F
+12355819,2025-07-08,Mobile user identity and/or sim-based IoT identity and application identity based security enforcement in service provider networks,0,H04L|H04W
+12355792,2025-07-08,Strategically aged domain detection,0,H04L
+12348563,2025-07-01,Domain squatting detection,0,H04L
+12348560,2025-07-01,Detecting phishing PDFs with an image-based deep learning approach,0,G06F|H04L
+12348513,2025-07-01,Providing zero trust network security without modification of network infrastructure,0,H04L
+12335290,2025-06-17,Automated matching of vulnerability data between vulnerability feeds,0,H04L
+12335231,2025-06-17,Dynamically scalable application firewall deployment for cloud native applications,0,G06F|H04L|H04W
+12328625,2025-06-10,Context-based security over interfaces in NG-RAN environments in mobile networks,0,H04W
+12328329,2025-06-10,Protecting serverless applications,0,H04L
+12328256,2025-06-10,Supporting overlapping network addresses universally,0,H04L
+12323389,2025-06-03,Beacon and threat intelligence based APT detection,0,H04L
+12321409,2025-06-03,Communicating URL categorization information,0,G06F|G06N
+12316679,2025-05-27,Policy enforcement using host profile,0,H04L
+12316656,2025-05-27,Detecting repackaged applications based on file format fingerprints,0,G06F|H04L|H04M|H04W
+12316651,2025-05-27,Detecting Microsoft .NET malware using machine learning on .NET structure,0,G06N|H04L
+12309178,2025-05-20,Context profiling for malware detection,0,G06F|H04L|H04W
+12309116,2025-05-20,Detecting shadowed domains,0,H04L
+12302451,2025-05-13,IoT security policy on a firewall,0,H04L|H04W
+12301621,2025-05-13,Inline malicious URL detection with hierarchical structure patterns,0,H04L
+12301600,2025-05-13,IoT device identification by machine learning with time series behavioral and statistical features,0,G06N|H04L
+12301595,2025-05-13,Predictive DNS cache to improve security and performance,0,G06N|H04L
+12299405,2025-05-13,Intent-based query and response routing between users and backend services,0,G06F|G06N
+12294609,2025-05-06,Probing for Cobalt Strike teamserver detection,0,H04L
+12294605,2025-05-06,Providing identity protection,0,H04L
+12294592,2025-05-06,Automated extraction and classification of malicious indicators,0,G06F|G06N|H04L
+12294482,2025-05-06,IoT application learning,0,G06F|H04L
+12289329,2025-04-29,Packet analysis based IOT management,0,H04L
+12289328,2025-04-29,Multi-dimensional periodicity detection of IOT device behavior,0,H04L|H04W
+12284181,2025-04-22,MAC address and controlled port based network access management,0,H04L
+12278802,2025-04-15,Combined machine learning and formal techniques for network traffic analysis,0,G06F|G06N|H04L
+12278731,2025-04-15,IoT policy recommendation large language model (LLM) embeddings based global behavior learning,0,H04L
+12271833,2025-04-08,Multi-model based account/product sequence recommender,0,G06N|G06Q
+12267359,2025-04-01,Application identification for phishing detection,0,G06F|H04L
+12267298,2025-04-01,Distributed traffic steering and enforcement for security solutions,0,G06F|H04L
+12261876,2025-03-25,Combination rule mining for malware signature generation,0,H04L
+12261853,2025-03-25,Innocent until proven guilty (IUPG): adversary resistant and false positive resistant deep learning models,0,G06F|G06N|H04L
+12259932,2025-03-25,Focused URL recrawl,0,G06F
+12255906,2025-03-18,IoT device identification with packet flow behavior machine learning model,0,G06F|G06N|H04L|H04W
+12255874,2025-03-18,Securing control and user plane separation in mobile networks,0,H04L|H04W
+12248586,2025-03-11,Auto generating build time policies from run time policies for shift left security,0,G06F
+12248569,2025-03-11,Prevention of container escape-based attacks of a host system,0,G06F
+12244647,2025-03-04,Context-based security in mobile networks using an API and a data store,1,H04L
+12244599,2025-03-04,Private cloud control,0,H04L
+12244479,2025-03-04,Detecting behavioral change of IoT devices using novelty detection based behavior traffic modeling,0,G06N|H04L
+12238604,2025-02-25,Enforcing a dynamically modifiable geofence based on conditions of a cellular network,0,G01S|H04B|H04W
+12238010,2025-02-25,Application precedence based traffic policy enforcement,0,H04L
+12231485,2025-02-18,Proactive conditioned prefetching and origin flooding mitigation for content delivery,0,G06F|H04L
+12231400,2025-02-18,Firewall switchover with minimized session disconnection,0,H04L
+12231399,2025-02-18,Distributed traffic steering and enforcement for security solutions,0,G06F|H04L
+12229647,2025-02-18,Unified parked domain detection system,0,G06F|G06N|H04L
+12229128,2025-02-18,Joining javascript object notation (JSON) queries across cloud resources,0,G06F|H04L
+12225099,2025-02-11,Programmable delivery network,0,H04L
+12225040,2025-02-11,Remote attack surface discovery and management,1,H04L
+12225025,2025-02-11,Enhanced cloud infrastructure security through runtime visibility into deployed software,0,H04L
+12225013,2025-02-11,Securing application behavior in serverless computing,0,G06F|G06N|H04L
+12224984,2025-02-11,IoT device application workload capture,0,G16Y|H04L|H04W
+12224982,2025-02-11,Distributed identity-based firewall policy evaluation,0,H04L
+12223337,2025-02-11,Cloud native virtual machine runtime protection,0,G06F|G06N|H04L
+12223044,2025-02-11,Identifying malware based on system API function pointers,1,G06F
+12218814,2025-02-04,Capacity agnostic scoring of network path health based on packet loss,0,H04L
+12217078,2025-02-04,Efficient virtual machine scanning,0,G06F
+12212595,2025-01-28,Techniques for protecting applications from unsecure network exposure,0,G06F|H04L
+12212583,2025-01-28,IoT security event correlation,0,H04L
+12212550,2025-01-28,Time-based network authentication challenges,0,H04L
+12206692,2025-01-21,Malware detection using watermark cookies,0,H04L
+12206683,2025-01-21,Detection of replacement/copy-paste attacks through monitoring and classifying API function invocations,0,G06F|H04L
+12206682,2025-01-21,Security appliance to monitor networked computing environment,0,G06F|H04L
+12206560,2025-01-21,Automatic and dynamic performance benchmarking and scoring of applications based on crowdsourced traffic data,0,H04L
+12204480,2025-01-21,Identifying devices with multiple network interface cards in a network,0,G06F
+12200016,2025-01-14,Security platform with external inline processing of assembled selected traffic,0,G06F|H04L
+12199949,2025-01-14,Packet classification for network routing,0,H04L
+12199948,2025-01-14,Intelligent deployment region selection and scaling of cloud-based firewalls,0,H04L
+12197577,2025-01-14,Malicious JS detection based on automated user interaction emulation,0,G06F
+12197574,2025-01-14,Detecting Microsoft Windows installer malware using text classification models,0,G06F
+12197573,2025-01-14,Integrated application analysis and endpoint protection,0,G06F
+12197452,2025-01-14,Natural language to customize data visualization,0,G06F
+12192171,2025-01-07,Supporting zone-based policy enforcement for a firewall connected to a one-arm load balancer,0,H04L
+12189459,2025-01-07,Suspension and disabling of faulting devices powered through power over Ethernet,0,G06F|Y02D
+12184552,2024-12-31,Firewall load balancing with tunnel switching protocols,0,H04L
+12182147,2024-12-31,Natural language to customize data visualization,0,G06F|G06N
+12177257,2024-12-24,Domain-independent resource security and management,0,G06F|H04L
+12177181,2024-12-24,Automatic network signature generation,1,H04L
+12174959,2024-12-24,Method and system for automatically generating malware signature,0,G06F
+12174940,2024-12-24,Application-level sandboxing on devices,0,G06F
+12170679,2024-12-17,Automated malware family signature generation,0,G06N|H04L|H04W
+12170581,2024-12-17,Scalable distribution of identity information in overlay networks with identity-based policies,0,H04L
+12166792,2024-12-10,Inline identify and block dangling DNS records,0,H04L
+12164632,2024-12-10,Automatically detecting unknown packers,0,G06F|H04L
+12158947,2024-12-03,Malware analysis through virtual machine forking,0,G06F
+12153676,2024-11-26,Identification of .NET malware with “unmanaged imphash”,0,G06F|H04L
+12143423,2024-11-12,Consistent monitoring and analytics for security insights for network and security functions for a security service,0,H04L
+12143242,2024-11-12,Dynamic establishment and termination of VPN tunnels between spokes,0,H04L
+12143217,2024-11-12,Dynamic management of packet loss,0,H04L
+12135802,2024-11-05,Token frequency based data matching,1,G06F|H04L
+12132759,2024-10-29,Inline package name based supply chain attack detection and prevention,0,G06F|H04L
+12132754,2024-10-29,Distributed scanning,0,H04L
+12132752,2024-10-29,Identification of malicious domain campaigns using unsupervised clustering,0,H04L
+12126639,2024-10-22,System and method for locating DGA compromised IP addresses,1,H04L
+12126590,2024-10-22,Securely publishing applications from private networks,0,H04L
+12120092,2024-10-15,Security platform for service provider network environments,0,H04L|H04W
+12113690,2024-10-08,Network path health scoring based on load binned latency data,0,H04L
+12107872,2024-10-01,Deep learning pipeline to detect malicious command and control traffic,2,G06N|H04L
+12107831,2024-10-01,Automated fuzzy hash based signature collecting system for malware detection,0,H04L
+12107829,2024-10-01,Localization at scale for a cloud-based security service,0,H04L
+12107826,2024-10-01,Cobalt Strike Beacon HTTP C2 heuristic detection,0,H04L
+12095728,2024-09-17,Identifying security risks and enforcing policies on encrypted/encoded network communications,0,G06F|H04L|H04W
+12086247,2024-09-10,Logical identification of malicious threats across a plurality of end-point devices,0,G06F|H04L
+12086235,2024-09-10,Early exit dynamic analysis of a virtual machine,0,G06F
+12069102,2024-08-20,Security policy enforcement and visibility for network traffic with masked source addresses,0,H04L
+12069028,2024-08-20,Fast policy matching with runtime signature update,0,H04L
+12069025,2024-08-20,Networking and security split architecture,0,H04L
+12068950,2024-08-20,Application traffic flow prediction based on multi-stage network traffic flow scanning,0,H04L
+12063248,2024-08-13,Deep learning for malicious URL classification (URLC) with the innocent until proven guilty (IUPG) learning framework,0,G06F|G06N|H04L
+12061696,2024-08-13,Sample traffic based self-learning malware detection,0,G06F|G06N
+12058173,2024-08-06,Intelligent signature-based anti-cloaking web recrawling,0,G06F|H04L
+12047403,2024-07-23,Externally-driven network attack surface management,0,H04L
+12045151,2024-07-23,Graph-based impact analysis of misconfigured or compromised cloud resources,0,G06F
+12041173,2024-07-16,Whitelisting clients accessing resources via a secure web gateway with time-based one time passwords for authentication,0,H04L
+12041080,2024-07-16,Persistent device identifier driven compromised device quarantine,0,G16Y|H04L
+12041070,2024-07-16,Detecting malicious activity on an endpoint based on real-time system events,0,H04L
+12039428,2024-07-16,Multi-model based target engagement sequence generator,0,G06N|G06Q
+12034745,2024-07-09,Method and system for providing DNS security using process information,0,H04L
+12032577,2024-07-09,Distributed cardinality optimization,0,G06F
+12028354,2024-07-02,Predictive DNS cache to improve security and performance,0,G06N|H04L
+12028316,2024-07-02,Automating IOT device identification using statistical payload fingerprints,0,H04L
+12026256,2024-07-02,Context-based analysis of applications,0,G06F|H04L
+12021697,2024-06-25,IoT device grouping and labeling,0,H04L|H04W
+12010150,2024-06-11,Multi-perspective security context per actor,0,G06F|H04L|H04W
+12010148,2024-06-11,Access point name and application identity based security enforcement in service provider networks,0,H04L|H04W
+12003796,2024-06-04,Context-aware content delivery,0,H04L|H04N
+12003537,2024-06-04,Mitigating phishing attempts,0,H04L
+12003517,2024-06-04,Enhanced cloud infrastructure security through runtime visibility into deployed software,0,H04L
+12003485,2024-06-04,Outbound/inbound lateral traffic punting based on process risk,1,H04L
+11997130,2024-05-28,Inline detection of encrypted malicious network sessions,0,G06N|H04L
+11997110,2024-05-28,Tree-based learning of application programming interface specification,1,G06F|H04L
+11991199,2024-05-21,Malicious traffic detection with anomaly detection modeling,0,H04L
+11989235,2024-05-21,Explorable visual analytics system having reduced latency,0,G06F|G06T
+11983268,2024-05-14,Prevention of container escape-based attacks of a host system,1,G06F
+11983220,2024-05-14,Key-value storage for URL categorization,0,G06F|H04L
+11979746,2024-05-07,Selective intelligent enforcement in mobile networks,2,H04L|H04W
+11977989,2024-05-07,Data blaming,0,G06F|G06N
+11973800,2024-04-30,Domain squatting detection,1,H04L
+11973780,2024-04-30,Deobfuscating and decloaking web-based malware with abstract execution,0,G06F|H04L
+11973690,2024-04-30,Application precedence based traffic policy enforcement,0,H04L
+11968178,2024-04-23,Reduction and acceleration of a deterministic finite automaton,0,G06F|H04L
+11962660,2024-04-16,Determination of user reputation regarding data object exposure in cloud computing environments,0,H04L
+11960605,2024-04-16,Dynamic analysis techniques for applications,0,G06F
+11956212,2024-04-09,IoT device application workload capture,0,G16Y|H04L|H04W
+11950144,2024-04-02,Context-based security over interfaces in NG-RAN environments in mobile networks,1,H04W
+11949697,2024-04-02,Hierarchical scanning of internet connected assets,0,H04L
+11949694,2024-04-02,Context for malware forensics and detection,0,G06F|H04L
+11949658,2024-04-02,Increased coverage of application-based traffic classification with local and cloud classification services,0,H04L
+11949657,2024-04-02,Autonomous alerting based on defined categorizations for network space and network boundary changes,0,H04L
+11949654,2024-04-02,Distributed offload leveraging different offload devices,1,H04L
+11947965,2024-04-02,Automated orchestration of large-scale flow log transformation,0,G06F|H04L
+11947667,2024-04-02,Preventing ransomware from encrypting files on a target machine,0,G06F
+11943620,2024-03-26,Context-based security over interfaces in O-RAN environments in mobile networks,0,H04W
+11943094,2024-03-26,Methods and systems for application and policy based network traffic isolation and data transfer,1,G06F|H04L|H04W
+11941110,2024-03-26,Process privilege escalation protection in a computing environment,0,G06F
+11941006,2024-03-26,Heuristic database querying with dynamic partitioning,0,G06F
+11937174,2024-03-19,Multi-SSID hidden wireless network,1,H04W
+11930092,2024-03-12,Programmable delivery network,0,H04L
+11924165,2024-03-05,Securing containerized applications,2,G06F|H04L|H04W
+11916967,2024-02-27,Mobile user identity and/or sim-based IoT identity and application identity based security enforcement in service provider networks,0,H04L|H04W
+11893358,2024-02-06,Intent-based query and response routing between users and backend services,15,G06F|G06N
+11888881,2024-01-30,Context informed abnormal endpoint behavior detection,0,G06F|G06N|H04L
+11888874,2024-01-30,Label guided unsupervised learning based network-level application signature generation,0,G06F|H04L
+11888816,2024-01-30,Localization at scale for a cloud-based security service,0,H04L
+11888718,2024-01-30,Detecting behavioral change of IoT devices using novelty detection based behavior traffic modeling,0,G06N|H04L
+11882130,2024-01-23,Automated extraction and classification of malicious indicators,2,G06F|G06N|H04L
+11880465,2024-01-23,Analyzing multiple CPU architecture malware samples,0,G06F
+11880363,2024-01-23,Joining JavaScript object notation (JSON) queries across cloud resources,0,G06F|H04L
+11874924,2024-01-16,Malicious JS detection based on automated user interaction emulation,3,G06F
+11870639,2024-01-09,Dynamic path selection and data flow forwarding,0,G06F|H04L|H04W
+11863586,2024-01-02,Inline package name based supply chain attack detection and prevention,1,G06F|H04L
+11863571,2024-01-02,Context profiling for malware detection,0,G06F|H04L|H04W
+11861008,2024-01-02,Using browser context in evasive web-based malware detection,0,G06F|H04L
+11856010,2023-12-26,Finding malicious domains with DNS query pattern analysis,0,G06F|H04L
+11856003,2023-12-26,Innocent until proven guilty (IUPG): adversary resistant and false positive resistant deep learning models,3,G06F|G06N|H04L
+11855964,2023-12-26,Blocking download of content,0,H04L
+11855867,2023-12-26,Enhanced identification of sources of delays in packet delivery along a path,0,H04L
+11848913,2023-12-19,Pattern-based malicious URL detection,0,H04L
+11838326,2023-12-05,Mobile equipment identity and/or IoT equipment identity and application identity based security enforcement in service provider networks,0,H04L|H04W
+11838316,2023-12-05,Providing application security using causal graph,0,G06F|H04L
+11838214,2023-12-05,Stateful packet inspection and classification,0,H04L
+11836213,2023-12-05,Encoding-free JavaScript stringify for clientless VPN,0,G06F|H04L
+11824897,2023-11-21,Dynamic security scaling,1,H04L
+11824757,2023-11-21,Firewall switchover with minimized traffic disruption,0,H04L
+11818173,2023-11-14,Reducing memory footprint after TLS connection establishment,0,G06F|H04L
+11818151,2023-11-14,Identification of malicious domain campaigns using unsupervised clustering,0,H04L
+11818144,2023-11-14,Security appliance to monitor networked computing environment,0,G06F|H04L
+11816214,2023-11-14,Building multi-representational learning models for static analysis of source code,1,G06F|G06N
+11811731,2023-11-07,Packet classification for network routing,0,H04L
+11805153,2023-10-31,Location based security in service provider networks,0,H04L
+11799914,2023-10-24,Cellular internet of things battery drain prevention in mobile networks,0,H04L|H04W|Y02D
+11799858,2023-10-24,Network entity ID AAA,0,H04L
+11792235,2023-10-17,Network slice-based security in mobile networks,0,H04L|H04W
+11785048,2023-10-10,Consistent monitoring and analytics for security insights for network and security functions for a security service,0,H04L
+11784972,2023-10-10,Diameter security with next generation firewall,0,H04L|H04W
+11784971,2023-10-10,Network layer signaling security with next generation firewall,0,H04L|H04W
+11783035,2023-10-10,Multi-representational learning models for static analysis of source code,1,G06F|G06N
+11777994,2023-10-03,Dynamic per subscriber policy enablement for security platforms within service provider network environments,0,H04L|H04W
+11777965,2023-10-03,Pattern match-based detection in IoT security,1,G06N|H04L
+11777902,2023-10-03,Application layer signaling security with next generation firewall,0,H04L|H04W
+11777807,2023-10-03,Fingerprint determination for network mapping,0,H04L|H04W
+11770413,2023-09-26,Domain-independent resource security and management,0,G06F|H04L
+11770361,2023-09-26,Cobalt strike beacon HTTP C2 heuristic detection,0,H04L
+11770359,2023-09-26,Maintaining communications in a failover instance via network address translation,0,G06F|H04L
+11770311,2023-09-26,Automatic and dynamic performance benchmarking and scoring of applications based on crowdsourced traffic data,1,H04L
+11764964,2023-09-19,Whitelisting clients accessing resources via a secure web gateway with time-based one time passwords for authentication,0,H04L
+11763091,2023-09-19,Automated content tagging with latent dirichlet allocation of contextual word embeddings,1,G06F|G06N
+11762922,2023-09-19,Browser storage for clientless VPN,0,G06F|H04L
+11757936,2023-09-12,Large scale high-interactive honeypot farm,1,H04L
+11757844,2023-09-12,Smart proxy for a large scale high-interaction honeypot farm,26,H04L
+11757826,2023-09-12,Securely publishing applications from private networks,0,H04L
+11750662,2023-09-05,Multi-access edge computing services security in mobile networks by parsing application programming interfaces,1,H04L|H04W
+11750563,2023-09-05,Flow metadata exchanges between network and security functions for a security service,0,H04L
+11748433,2023-09-05,Communicating URL categorization information,0,G06F|G06N
+11748412,2023-09-05,Explorable visual analytics system having reduced latency in loading data,0,G06F|G06T
+11743286,2023-08-29,Combination rule mining for malware signature generation,1,H04L
+11736446,2023-08-22,Object property getter and setter for clientless VPN,0,G06F|H04L
+11736390,2023-08-22,Enhanced SD-WAN path quality measurement and selection,0,H04L
+11729134,2023-08-15,In-line detection of algorithmically generated domains,0,G06F|G06N|H04L
+11722875,2023-08-08,IoT device discovery and identification,0,H04L|H04W
+11722532,2023-08-08,Security for cellular internet of things in mobile networks based on subscriber identity and application identifier,0,H04L|H04W
+11720671,2023-08-08,Preventing ransomware from encrypting files on a target machine,0,G06F
+11720666,2023-08-08,Application-level sandboxing on devices,0,G06F
+11714903,2023-08-01,Sample traffic based self-learning malware detection,4,G06F|G06N
+11706251,2023-07-18,Simulating user interactions for malware analysis,0,G06F|H04L
+11706246,2023-07-18,IOT device risk assessment and scoring,0,H04L|H04W
+11700239,2023-07-11,Split tunneling based on content type to exclude certain network traffic from a tunnel,0,H04L
+11689573,2023-06-27,Multi-layered policy management,0,G16Y|H04L|H04W
+11689517,2023-06-27,Method for distributed application segmentation through authorization,1,G06F|H04L
+11689502,2023-06-27,Securing control and user plane separation in mobile networks,1,H04L|H04W
+11683329,2023-06-20,Detecting malicious activity on an endpoint based on real-time system events,0,H04L
+11683328,2023-06-20,IoT device management visualization,1,G06F|H04L|H04W
+11683250,2023-06-20,Managing proxy throughput between paired transport layer connections,0,H04L
+11681812,2023-06-20,IoT device risk assessment,0,G06F|H04L|H04W
+11677764,2023-06-13,Automated malware family signature generation,1,G06N|H04L|H04W
+11671327,2023-06-06,IoT device grouping and labeling,0,H04L|H04W
+11665139,2023-05-30,Distributed offload leveraging different offload devices,1,H04L
+11663323,2023-05-30,Process privilege escalation protection in a computing environment,0,G06F
+11663054,2023-05-30,Autoscaling of data processing computing systems based on predictive queue length,0,G06F|Y02D
+11657098,2023-05-23,Feedback filtering of time-series metric data,0,G06F
+11652794,2023-05-16,Transport layer signaling security with next generation firewall,0,H04L|H04W
+11636208,2023-04-25,Generating models for performing inline malware detection,0,G06F|G06N
+11632396,2023-04-18,Policy enforcement using host information profile,0,H04L
+11627164,2023-04-11,Multi-perspective security context per actor,0,G06F|H04L|H04W
+11627160,2023-04-11,Intelligent-interaction honeypot for IoT devices,0,G06F|G06N|H04L|H04W
+11620383,2023-04-04,Dynamic analysis techniques for applications,0,G06F
+11616798,2023-03-28,Malicious traffic detection with anomaly detection modeling,1,H04L
+11616761,2023-03-28,Outbound/inbound lateral traffic punting based on process risk,2,H04L
+11616759,2023-03-28,Increased coverage of application-based traffic classification with local and cloud classification services,0,H04L
+11615184,2023-03-28,Building multi-representational learning models for static analysis of source code,6,G06F|G06N
+11606691,2023-03-14,Context-based security over interfaces in O-RAN environments in mobile networks,0,H04W
+11604878,2023-03-14,Dynamic analysis techniques for applications,1,G06F
+11588857,2023-02-21,Network asset lifecycle management,1,G06F|G06Q|H04L
+11582264,2023-02-14,Network slice-based security in mobile networks,1,H04L|H04W
+11582247,2023-02-14,Method and system for providing DNS security using process information,0,H04L
+11582226,2023-02-14,Malicious website discovery using legitimate third party identifiers,0,H04L
+11580163,2023-02-14,Key-value storage for URL categorization,0,G06F|H04L
+11575651,2023-02-07,Dynamically scalable application firewall deployment for cloud native applications,0,G06F|H04L|H04W
+11575560,2023-02-07,Dynamic path selection and data flow forwarding,3,G06F|H04L|H04W
+11570149,2023-01-31,Feedback mechanism to enforce a security policy,0,H04L
+11563600,2023-01-24,Dynamic establishment and termination of VPN tunnels between spokes,0,H04L
+11562071,2023-01-24,Detecting malware via scanning for dynamically generated function pointers in memory,3,G06F
+11558427,2023-01-17,Access point name and application identity based security enforcement in service provider networks,1,H04L|H04W
+11558350,2023-01-17,Localization at scale for a cloud-based security service,1,H04L
+11552975,2023-01-10,IoT device identification with packet flow behavior machine learning model,7,G06F|G06N|H04L|H04W
+11552954,2023-01-10,Private cloud control,2,H04L
+11550916,2023-01-10,Analyzing multiple CPU architecture malware samples,0,G06F
+11550911,2023-01-10,Multi-representational learning models for static analysis of source code,6,G06F|G06N
+11539576,2022-12-27,Dynamic path selection and data flow forwarding,0,G06F|H04L|H04W
+11531753,2022-12-20,Preventing ransomware from encrypting files on a target machine,2,G06F
+11528285,2022-12-13,Label guided unsupervised learning based network-level application signature generation,2,G06F|H04L
+11528253,2022-12-13,Security platform for service provider network environments,1,H04L|H04W
+11526564,2022-12-13,Triggered scanning based on network available data change,0,G06F|H04L
+11520852,2022-12-06,Encoding-free javascript stringify for clientless VPN,2,G06F|H04L
+11520792,2022-12-06,Distributed cardinality optimization,1,G06F
+11494610,2022-11-08,Multi-model based target engagement sequence generator,0,G06N|G06Q
+11483326,2022-10-25,Context informed abnormal endpoint behavior detection,2,G06F|G06N|H04L
+11477168,2022-10-18,Dynamic application firewall configuration for cloud native applications,0,H04L
+11477165,2022-10-18,Securing containerized applications,9,G06F|H04L|H04W
+11470070,2022-10-11,Time-based network authentication challenges,0,H04L
+11467809,2022-10-11,Evaluation of JavaScript object notation (JSON) queries with first-order logic using context-free grammar,0,G06F
+11457044,2022-09-27,Mobile user identity and/or sim-based IoT identity and application identity based security enforcement in service provider networks,1,H04L|H04W
+11455551,2022-09-27,Data blaming,0,G06F|G06N
+11451571,2022-09-20,IoT device risk assessment and scoring,2,H04L|H04W
+11444977,2022-09-13,Intelligent signature-based anti-cloaking web recrawling,2,G06F|H04L
+11436329,2022-09-06,Using browser context in evasive web-based malware detection,0,G06F|H04L
+11436012,2022-09-06,Automated orchestration of large-scale flow log transformation,0,G06F|H04L
+11431602,2022-08-30,Network asset discovery,0,H04L
+11418498,2022-08-16,Single sign on proxy for regulating access to a cloud service,0,H04L|H04W
+11418485,2022-08-16,Pattern-based malicious URL detection,3,H04L
+11394688,2022-07-19,Packet classification for network routing,0,H04L
+11374957,2022-06-28,Determining risk associated with internet protocol (IP) addresses involved in internet communications,0,H04L
+11374946,2022-06-28,Inline malware detection,1,G06F|G06N|H04L
+11362998,2022-06-14,Reduction and acceleration of a deterministic finite automaton,1,G06F|H04L
+11343285,2022-05-24,Multi-access edge computing services security in mobile networks by parsing application programming interfaces,1,H04L|H04W
+11323486,2022-05-03,Security for cellular internet of things in mobile networks based on subscriber identity and application,0,H04L|H04W
+11323483,2022-05-03,Mobile equipment identity and/or IOT equipment identity and application identity based security enforcement in service provider networks,0,H04L|H04W
+11323466,2022-05-03,Malicious HTTP cookies detection and clustering,0,H04L
+11303651,2022-04-12,Security appliance to monitor networked computing environment,10,G06F|H04L
+11290455,2022-03-29,Network entity id AAA,0,H04L
+11283820,2022-03-22,Context profiling for malware detection,0,G06F|H04L|H04W
+11283816,2022-03-22,Hierarchical scanning of internet connected assets,0,H04L
+11283767,2022-03-22,Diameter security with next generation firewall,0,H04L|H04W
+11283766,2022-03-22,Network layer signaling security with next generation firewall,0,H04L|H04W
+11283765,2022-03-22,Application layer signaling security with next generation firewall,0,H04L|H04W
+11271970,2022-03-08,Multi-perspective security context per actor,0,G06F|H04L|H04W
+11271907,2022-03-08,Smart proxy for a large scale high-interaction honeypot farm,7,H04L
+11271900,2022-03-08,Maintaining communications in a failover instance via network address translation,0,G06F|H04L
+11265346,2022-03-01,Large scale high-interactive honeypot farm,4,H04L
+11265295,2022-03-01,Object property getter and setter for clientless VPN,2,G06F|H04L
+11265290,2022-03-01,Transport layer signaling security with next generation firewall,0,H04L|H04W
+11258758,2022-02-22,Blocking download of content,0,H04L
+11258715,2022-02-22,Stateful packet inspection and classification,0,H04L
+11256808,2022-02-22,Detecting malware via scanning for dynamically generated function pointers in memory,3,G06F
+11252192,2022-02-15,Dynamic security scaling,2,H04L
+11252084,2022-02-15,Enhanced SD-WAN path quality measurement and selection,17,H04L
+11249817,2022-02-15,Autoscaling of data processing computing systems based on predictive queue length,0,G06F|Y02D
+11240208,2022-02-01,Split tunneling based on content type to exclude certain network traffic from a tunnel,1,H04L
+11233829,2022-01-25,Dynamic per subscriber policy enablement for security platforms within service provider network environments,2,H04L|H04W
+11228565,2022-01-18,Dynamic application firewall configuration for cloud native applications,1,H04L
+11218512,2022-01-04,Security policy enforcement and visibility for network architectures that mask external source addresses,0,H04L
+11216513,2022-01-04,Focused URL recrawl,1,G06F
+11210391,2021-12-28,Application-level sandboxing on devices,1,G06F
+11204962,2021-12-21,Explorable visual analytics system having reduced latency,0,G06F|G06T
+11196765,2021-12-07,Simulating user interactions for malware analysis,0,G06F|H04L
+11194909,2021-12-07,Logical identification of malicious threats across a plurality of end-point devices,0,G06F|H04L
+11190547,2021-11-30,Cellular internet of things battery drain prevention in mobile networks,0,H04L|H04W|Y02D
+11190487,2021-11-30,Identifying security risks and enforcing policies on encrypted/encoded network communications,1,G06F|H04L|H04W
+11170011,2021-11-09,Triggered scanning using provided configuration information,0,G06F|H04L
+11159538,2021-10-26,Context for malware forensics and detection,0,G06F|H04L
+11157618,2021-10-26,Context-based analysis of applications,0,G06F|H04L
+11128656,2021-09-21,Selective sinkholing of malware domains by a security device via DNS poisoning,1,H04L
+11122435,2021-09-14,Radio access technology based security in service provider networks,0,H04L|H04W
+11115799,2021-09-07,IoT device discovery and identification,24,H04L|H04W
+11102231,2021-08-24,Distributed scanning,21,H04L
+11102174,2021-08-24,Autonomous alerting based on defined categorizations for network space and network boundary changes,0,H04L
+11100241,2021-08-24,Virtual trap protection of data elements,0,G06F|H04L
+11095682,2021-08-17,Mitigating phishing attempts,5,H04L
+11095612,2021-08-17,Flow metadata exchanges between network and security functions for a security service,79,H04L
+11093574,2021-08-17,Encoding-free javascript stringify for clientless VPN,0,G06F|H04L
+11088838,2021-08-10,Automated authentication of a new network element,1,H04L
+11087005,2021-08-10,IoT device risk assessment,1,G06F|H04L|H04W
+11082296,2021-08-03,IoT device grouping and labeling,2,H04L|H04W
+11080400,2021-08-03,Analyzing multiple CPU architecture malware samples,0,G06F
+11070568,2021-07-20,IoT device management visualization,22,G06F|H04L|H04W
+11057405,2021-07-06,Automated malware family signature generation,4,G06N|H04L|H04W
+11050789,2021-06-29,Location based security in service provider networks,2,H04L
+11050629,2021-06-29,Fingerprint determination for network mapping,0,H04L|H04W
+11036859,2021-06-15,Collecting algorithmically generated domains,0,G06F
+11032297,2021-06-08,DGA behavior detection,2,H04L
+11030249,2021-06-08,Explorable visual analytics system having reduced latency in loading data,0,G06F|G06T
+11019077,2021-05-25,Multi-access distributed edge security in mobile networks,2,H04L|H04W
+11010474,2021-05-18,Dynamic analysis techniques for applications,10,G06F
+11010469,2021-05-18,Preventing ransomware from encrypting files on a target machine,1,G06F
+10992704,2021-04-27,Dynamic selection and generation of a virtual clone for detonation of suspicious content within a honey network,2,G06F|H04L
+10986126,2021-04-20,Intelligent-interaction honeypot for IoT devices,2,G06F|G06N|H04L|H04W
+10984098,2021-04-20,Process privilege escalation protection in a computing environment,1,G06F
+10972493,2021-04-06,Automatically grouping malware based on artifacts,21,G06F|G06N|H04L
+10970392,2021-04-06,Grouping application components for classification and malware detection,0,G06F
+10965716,2021-03-30,Hostname validation and policy evasion prevention,1,G06F|H04L
+10963565,2021-03-30,Integrated application analysis and endpoint protection,10,G06F
+10958690,2021-03-23,Security appliance to monitor networked computing environment,1,H04L
+10958668,2021-03-23,Finding malicious domains with DNS query pattern analysis,3,G06F|H04L
+10956573,2021-03-23,Dynamic analysis techniques for applications,9,G06F
+10956570,2021-03-23,Efficient program deobfuscation through system API instrumentation,0,G06F|H04L
+10951588,2021-03-16,Object property getter and setter for clientless VPN,1,G06F|H04L
+10944796,2021-03-09,Network slice-based security in mobile networks,2,H04L|H04W
+10931688,2021-02-23,Malicious website discovery using web analytics identifiers,1,G06F|H04L
+10931637,2021-02-23,Outbound/inbound lateral traffic punting based on process risk,1,H04L
+10911407,2021-02-02,Localization at scale for a cloud-based security service,11,H04L

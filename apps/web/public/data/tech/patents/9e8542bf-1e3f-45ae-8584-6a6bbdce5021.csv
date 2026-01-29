@@ -1,0 +1,444 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432475,2025-09-30,Digital pixel architecture supporting low power and high dynamic range operation having a counter that stops counting pulses in response to detecting a voltage on a capacitor exceeding a threshold,0,H04N
+12424594,2025-09-23,Integrated diamond substrate for thermal management,0,H01L|H10D
+12417543,2025-09-16,Organ segmentation in image,0,G06T
+12406901,2025-09-02,Wafer-scale direct bonded array core block for an active electronically steerable array (AESA),0,H01L|H01Q|H03F|H04B
+12406331,2025-09-02,Accommodating dissimilar cameras on a common scanning gimbal—stagger-step scanning,0,G01J|G06T
+12401663,2025-08-26,Stack-HAC for machine learning based botnet detection,0,H04L
+12396126,2025-08-19,Fan behavior anomaly detection using neural network,0,F04D|F05D|G06N|H05K
+12394027,2025-08-19,Deblurring motion-blurred images using map estimate and adaptive priors,0,G06T|G06V|H04N
+12388697,2025-08-12,Radio frequency interference mitigation in weather sensing,0,G01S|H04L
+12386401,2025-08-12,Card cage system for hybrid cooling of computer circuit cards,0,G06F|H05K
+12362975,2025-07-15,Methods and apparatus for phase change detection using a resonator,0,H01P|H03D|H03H|H04L
+12361084,2025-07-15,System and method for remote sensing using data fingerprinting methodologies,0,B64G|B64U|G06F|H04B
+12360158,2025-07-15,Method of creating an electronically readable optical fingerprint to protect an electrical interconnect,0,G01R|G06F|H01L|H04L|H04W|H10F
+12355771,2025-07-08,Auditable and tamper-resistant remote zero trust access,0,H04L
+12354911,2025-07-08,Cu3Sn via metallization in electrical devices for low-temperature 3D-integration,0,H01L
+12349475,2025-07-01,Integrated circuit having vertical routing to bond pads,0,H01L|H10F
+12349325,2025-07-01,Two-phase liquid-cooled electrical power apparatus,0,H01F|H01L|H05K
+12346408,2025-07-01,Minimal entropy resource allocator,0,G06F|G06N|G06V
+12335594,2025-06-17,Single camera time-delay to enforce data transmission compliance in real and near real time video,0,G06F|G06T|G06V|H04N
+12334980,2025-06-17,Information scrambling systems and methods,0,H04B|H04K|H04L
+12326732,2025-06-10,Graph construction and execution ML techniques,0,B60W|G01C|G05D|G06F|G06N
+12323330,2025-06-03,Packet rerouting to avoid congestion in a network,0,H04L
+12322674,2025-06-03,Thermal spreader including ringframe and thermal straps for thermal dissipation in space and other applications,0,H01L
+12316763,2025-05-27,High assurance virtual encryptor system,0,H04L
+12309511,2025-05-20,Coded aperture focal plane array using all detectors,0,H04N
+12308887,2025-05-20,Integrated photonic integrated circuit (PIC) and readout integrated circuit (ROIC) for high-speed data output from focal plane array,0,G02B|H04B|H04N
+12305310,2025-05-20,Indium electroplating on physical vapor deposition tantalum,0,C23C|C25D|H01L
+12292547,2025-05-06,Athermal infrared optical telescope and method for manufacturing,0,G02B|H04N
+12292526,2025-05-06,Wireless mapping in real-time using correlative passive receiver,0,G01S|H04B|H04W
+12289554,2025-04-29,Artifact mitigation in capacitor transimpedance amplifier (CTIA)-based imagers or other imaging devices,0,H03F|H04N
+12288795,2025-04-29,Application and method of integrated bar patterns in detector structures,0,G01M|H04N|H10F
+12278255,2025-04-15,Thin film obscurant for microelectronics,0,H01L|H04N|H10F
+12271806,2025-04-08,Artificial neural network training,0,G06F|G06N
+12266629,2025-04-01,Ball bond impedance matching,0,H01L|H05K
+12266137,2025-04-01,Image quality calibration for multi-degree-of freedom actuator,0,G02B|G06T|H04N
+12261186,2025-03-25,Mosaic focal plane array,0,H01L|H10F
+12258948,2025-03-25,Phase change material (PCM)-based conductive thermal actuator switches and associated stacked and arrayed systems,0,F03G|F28F|H01L|H01M
+12248415,2025-03-11,Automated design of behavioral-based data movers for field programmable gate arrays or other logic devices,0,G06F
+12240629,2025-03-04,Device for optimal satellite effects delivery via reverse time heat isomorphism,0,B64G|G06F
+12236571,2025-02-25,Integrated Dewar assembly with compliant endcap cooling,0,F17C|G06T|H04N
+12224223,2025-02-11,Adaptive structure for thermal regulation and optimization,0,B22F|B33Y|H01L|Y02P
+12223847,2025-02-11,Spatio-temporal track density shaping,0,G06F|G06N|G08G
+12219504,2025-02-04,Localization using repeated transmissions of electromagnetic signals for mobile ad hoc networks,0,G01S|H04W
+12217463,2025-02-04,Adaptable and hierarchical point cloud compression,0,G06T|H03M|H04N
+12212858,2025-01-28,Object reconstruction with neuromorphic sensors,0,H04N
+12205037,2025-01-21,Clustering autoencoder,0,G06F|G06N
+12200910,2025-01-14,Clamped pyrolytic graphite sheets for heat spreading,0,F28F|H01L|H05K
+12190152,2025-01-07,Run-time schedulers for field programmable gate arrays or other logic devices,0,G06F|Y02D
+12184681,2024-12-31,Cyberattack detection with topological data,0,H04L
+12166866,2024-12-10,Ultra high entropy material-based non-reversible spectral signature generation via quantum dots,0,G02F|H04L
+12164890,2024-12-10,Anti-fragile software systems,0,G06F
+12163844,2024-12-10,Bolometer readout integrated circuit (ROIC) with energy detection,0,G01J|H04N
+12148721,2024-11-19,Iterative formation of damascene interconnects,0,H01L
+12143516,2024-11-12,Hardware based authentication and authorization of networked nodes,0,H04L
+12143479,2024-11-12,Ultra high entropy material-based non-reversible spectral signature generation via quantum dots,0,G02F|H04L
+12141753,2024-11-12,Graphical user interface-based platform supporting bill of materials (BOM) characterization,0,G06F|G06N|G06Q|G06V
+12141668,2024-11-12,Decentralized control of beam generating devices,0,G06N|H04B
+12141238,2024-11-12,Deep neural network hardener,0,G06F|G06N
+12137012,2024-11-05,Constant envelope bi-phase shift keying (CE-BPSK) modulation for “mode S” and other communication applications,0,H04L
+12133017,2024-10-29,Transporting ultra-high definition video from multiple sources,0,H04N
+12130888,2024-10-29,"Feature extraction, labelling, and object feature map",0,G06F|G06N|G06T|G06V
+12130185,2024-10-29,Bolometer pixel-based thermally actuated trigger ROIC with self-heating compensation and calibration (barrier-SHC),0,G01J|H04N
+12107945,2024-10-01,Electrical signal delay calibration system,0,H04L
+12092399,2024-09-17,Chimney cooler design for rugged maximum free convection heat transfer with minimum footprint,0,F28D|F28F|H01L|H05K
+12087704,2024-09-10,Composite structure for image plane normalization of a microelectronic hybrid device,0,G01J|H01L|H10F
+12080073,2024-09-03,Remote image processing control,0,B60W|G01S|G06V|H04N
+12076805,2024-09-03,Building liquid flow-through plates,0,B23K|C23C|C25D|F28F|H01L|H05K
+12068216,2024-08-20,Multichannel transistor with improved gate conformation,1,H01L|H10D
+12055934,2024-08-06,Machine learning for trajectory planning,0,G01C|G05D|G06N
+12051712,2024-07-30,Close butted collocated variable technology imaging arrays on a single ROIC,0,H01L|H10F
+12051172,2024-07-30,VIIRS image processing,0,G06T
+12050053,2024-07-30,Consumable dry ice cooling,0,F25D|F42B|G06F|H01M|Y02E
+12045186,2024-07-23,Modular cable assembly and method,0,G06F|H04L
+12039807,2024-07-16,Shape-based vehicle classification using laser scan and neural network,0,G01C|G01S|G06F|G06N|G06V|G07B|G08G
+12039580,2024-07-16,Graphical user interface-based platform supporting price analysis visualization and control,0,G06F|G06Q|G06T
+12038609,2024-07-16,Diffraction grating return mirror for wide field of view line of sight jitter sensing,0,G02B|H04N
+12032199,2024-07-09,Systems and methods for optical sensor protection,0,G02B|H04N
+12020573,2024-06-25,Wireless mapping in real-time for autonomous vehicles using correlative passive receiver,0,G01S|G08G|H04W
+12007502,2024-06-11,RF scene generation simulation with external maritime surface,0,G01S|G06F|G09B|H04B|Y02A
+12002773,2024-06-04,Hybrid pocket post and tailored via dielectric for 3D-integrated electrical device,0,H01L|H10F
+11988804,2024-05-21,Rule-based environmental condition impact assessments,0,G01W|G06F|G06N|G06Q
+11985259,2024-05-14,Unified multi-die physical unclonable function,1,G09C|H04L
+11978158,2024-05-07,Determining minimum region for finding planar surfaces,0,G06T
+11966487,2024-04-23,Secure data deletion and sanitization in distributed file systems,0,G06F|H04L
+11964762,2024-04-23,Collaborative 3D mapping and surface registration,0,B64U|G01S|G06T|G06V
+11962685,2024-04-16,High availability secure network including dual mode authentication,0,H04L
+11948129,2024-04-02,Metrics-based planning and scheduling system,0,G06Q
+11941558,2024-03-26,Intelligence preparation of the battlefield (IPB) collaborative time machine with real-time options,0,G06F|G06Q
+11941330,2024-03-26,Modeling natural space environment effects on hardware,0,G06F
+11936991,2024-03-19,EO/IR imaging system with a mems MMA configured to prevent saturation of the imaging detector,0,G02B|H04N
+11917746,2024-02-27,Low cost panel AESA with thermal management,0,H01L|H05K
+11916515,2024-02-27,Demodulation of non-return to zero (NRZ) or other signals using multiple-input artificial intelligence/machine learning (AI/ML) model,0,G06N|H03D|H04L
+11915435,2024-02-27,Resampled image cross-correlation,0,G06T
+11914967,2024-02-27,Question answering models in closed domains,0,G06F|G06N
+11907233,2024-02-20,Method and apparatus for selecting a resource for connecting to a space vehicle,0,G06F|G06Q|H04B
+11902637,2024-02-13,Beam director intermediate alignment target assembly configuration,0,F41G|F41H|G01J|G02B|H04N
+11900587,2024-02-13,Connector map and assembly aid software for cable manufacturing,0,G06T|H01R
+11900562,2024-02-13,Super-resolution automatic target aimpoint recognition and tracking,0,F41G|F41H|G06T
+11895380,2024-02-06,Cryogenic cold link for multiple coolers,0,F25D|F28D|H04N
+11894670,2024-02-06,High-energy suppression for infrared imagers or other imaging devices,0,G01J|H02H|H04N
+11894619,2024-02-06,Passive vector modulator,0,H01P|H01Q|H03H|H04L
+11893745,2024-02-06,System and method for generating and displaying contours,0,A61B|G06T
+11889223,2024-01-30,Explosively welded cooled infrared camera,0,G01J|H01L|H04N|H10F
+11889049,2024-01-30,Gain map generation with rotation compensation,0,G06T|H04N
+11888467,2024-01-30,Temperature compensation of analog CMOS physically unclonable function for yield enhancement,0,H03K|H04L
+11886350,2024-01-30,System memory context determination for integrity monitoring and related techniques,0,G06F
+11884019,2024-01-30,Magnetic encoding of physical objects in an additive manufacturing process,0,B29C|B29K|B33Y|G05B|G06Q|G11B
+11882659,2024-01-23,Chip substrate for reducing thermal load on a chip assembly mounted thereon,0,H01L|H05K
+11879838,2024-01-23,Vicarious calibration using solar glint over water,0,G01J|G01N|G02B|G06T
+11871131,2024-01-09,Foveal compressive upsampling,0,G06T|H03M|H04N
+11870142,2024-01-09,Tile to tile RF grounding,0,H01L|H01Q|H01R|H05K
+11868470,2024-01-09,Embedded malware detection using spatial voting and machine learning,0,G06F|G06N
+11854879,2023-12-26,Cu3Sn via metallization in electrical devices for low-temperature 3D-integration,0,H01L
+11852733,2023-12-26,Method for the generation of satellite clock and orbit corrections for global navigation satellite systems (GNSS),1,B64G|G01S|G06F
+11848964,2023-12-19,Zero trust end point network security device,0,H04L
+11848662,2023-12-19,Tunable monolithic group III-nitride filter banks,0,H01L|H03F|H03H|H04B|H10D|H10N
+11837840,2023-12-05,MEMS micro-mirror array laser beam steerer for simultaneous illumination of multiple tracked targets,2,B23K|G01C|G01S|G02B|G06T|H01S
+11837623,2023-12-05,Integrated circuit having vertical routing to bond pads,0,H01L|H10F
+11837524,2023-12-05,Localized targeted thermoelectric cooling thermal control of integrated circuits with sub-device scale resolution,0,H01L|H10N
+11837521,2023-12-05,Wire bonded air heat sink,0,H01L
+11822826,2023-11-21,Sensor storage system,0,G01S|G06F|H04L
+11817988,2023-11-14,Demodulation of frequency-hopping spread spectrum (FHSS) signals using sequential artificial intelligence/machine learning (AI/ML) models,0,G06N|H04B|H04L
+11816186,2023-11-14,Architecture for dynamic ML model drift evaluation and visualization on a GUI,0,G06F|G06N|G06V
+11816012,2023-11-14,Multi-domain systems integration and evaluation,0,G06F
+11815676,2023-11-14,Active pushbroom imaging system using a micro-electro-mechanical system (MEMS) micro-mirror array (MMA),1,G02B|H04N
+11811658,2023-11-07,Method for mobile ad-hoc network (manet) multi-hop routing in a broadcast domain,0,H04L
+11809871,2023-11-07,Dynamic fragmented address space layout randomization,0,G06F
+11800051,2023-10-24,Device and method for optical sensor calibration,0,G01N|H04N
+11792499,2023-10-17,Time-delay to enforce data capture and transmission compliance in real and near real time video,1,G06F|G06T|G06V|H04N
+11791904,2023-10-17,Receiver and system for transporting and demodulating complex optical signals,0,H04B|H04J|H04L
+11791191,2023-10-17,Ultraviolet radiation shield layer,0,B32B|C23C|H01L
+11788884,2023-10-17,Direct filter hybridization for an optical sensor and filter assembly,0,G01J|G02B|H01L|H10F
+11784248,2023-10-10,Group III-V semiconductor structures having crystalline regrowth layers and methods for forming such structures,0,H01L|H10D
+11778077,2023-10-03,Application layer payload optimization,0,H04L
+11769224,2023-09-26,Mitigating transitions in mosaic images,0,G06T
+11764834,2023-09-19,Device for and method of synchronizing multiple beamforming devices,0,G01S|G06F|H03L|H04B|H04L
+11761736,2023-09-19,Movable sight frame assembly for a weapon simulator,0,F41G|G06F|G09B
+11757858,2023-09-12,Analog waveform monitoring for real-time device authentication,0,G06F|G06N|H04L
+11756433,2023-09-12,"Concurrent, multi-sensor, multi-inertial navigation system flight emulation",0,B64D|B64F|G01C|G01S|G05D|G06F|G08G|G09B
+11756287,2023-09-12,Systems and methods for feature extraction and artificial decision explainability,0,G06F|G06V
+11753736,2023-09-12,Indium electroplating on physical vapor deposition tantalum,0,C23C|C25D|H01L
+11753517,2023-09-12,"Dispensable polyimide aerogel prepolymer, method of making the same, method of using the same, and substrate comprising patterned polyimide aerogel",0,C08G|C08J|C08L|C09D|H01B|H01L
+11750945,2023-09-05,Imager with integrated asynchronous laser pulse detection having a signal component along a second electrical pathway passes through an ALPD readout integrated circuit to an imaging readout integrated circuit,0,F41G|G01J|H04N|H10F
+11743083,2023-08-29,Methods and apparatus for phase change detection using a resonator,1,H01P|H03D|H03H|H04L
+11741686,2023-08-29,System and method for processing facility image data,0,G06F|G06N|G06Q|G06T|G06V
+11741152,2023-08-29,Object recognition and detection using reinforcement learning,0,G06F|G06N|G06T|G06V
+11734161,2023-08-22,System and method for fuzzing test orchestration using reinforcement learning,0,G06F|G06N
+11728367,2023-08-15,Optical device having a detector and an optical element mounted on an epoxy fence,0,H01L|H10F
+11726482,2023-08-15,Systems and methods for multi-factor pathfinding,0,G01C|G05D|G06F|G06Q
+11726258,2023-08-15,Photonic devices,0,G02B|G02F|H01L|H01S|H10D
+11719782,2023-08-08,One-way time-of-flight localization using sonic and electromagnetic signals for mobile ad hoc networks,1,G01S|H04J|H04W
+11716354,2023-08-01,Determination of compliance with security technical implementation guide standards,0,G06F|H04L
+11710803,2023-07-25,Compliant silicon substrates for heteroepitaxial growth by hydrogen-induced exfoliation,0,H01L|H10F
+11710708,2023-07-25,On-chip EMF isolation of an integrated circuit coupled with photoconductive semiconductor switch under an on-chip faraday cage,0,H01L|H10F
+11709314,2023-07-25,Photonic devices,0,G02B|G02F|H01L|H01S|H10D
+11705471,2023-07-18,Close butted collocated variable technology imaging arrays on a single ROIC,0,H01L|H10F
+11704777,2023-07-18,Arbitrary motion smear modeling and removal,1,G06T|H04N
+11704772,2023-07-18,Image classification system,0,G01S|G06F|G06N|G06T|G06V
+11703637,2023-07-18,Photonic devices,0,G02B|G02F|H01L|H01S|H10D
+11700448,2023-07-11,"Computer/human generation, validation and use of a ground truth map to enforce data capture and transmission compliance in real and near real time video of a local scene",1,G06V|H04N
+11696011,2023-07-04,Predictive field-of-view (FOV) and cueing to enforce data capture and transmission compliance in real and near real time video,1,G06F|G06T|G06V|H04N
+11688700,2023-06-27,Die package having security features,0,H01L
+11687989,2023-06-27,Graphical user interface-based platform supporting request for X (RFX) creation and response management,0,G06F|G06Q
+11686820,2023-06-27,Optical sensor with ring-shaped Tx/Rx aperture sharing element (ASE),1,F41G|G01S|G02B|H04N
+11686539,2023-06-27,Coldplate with heat transfer module,0,F28D|F28F|H01L|H05K
+11683205,2023-06-20,Baseband data reduction and compression algorithm,0,H04L
+11682721,2023-06-20,Asymmetrically angled gate structure and method for making same,0,H01L|H10D
+11682142,2023-06-20,Information weighted rendering of 3D point set,0,G06T
+11678056,2023-06-13,Torsional flexure for deroll controllers,0,G02B|G03B|H02K|H02P|H04N
+11677726,2023-06-13,Scalable brokerless messaging strategy with sidecar security container stack,0,H04L
+11677582,2023-06-13,Detecting anomalies on a controller area network bus,0,H04L
+11676391,2023-06-13,Robust correlation of vehicle extents and locations when given noisy detections and limited field-of-view image frames,0,G06F|G06N|G06T|G06V|G08G
+11676374,2023-06-13,Three-dimensional-enabled targeting of imagery with rigorous error propagation,0,G06T|G06V
+11676027,2023-06-13,Classification using hyper-opinions,0,G06F|G06N
+11675348,2023-06-13,Mission plan paths for multi-domain assets,1,B64U|G05D|G08G|H04L
+11669983,2023-06-06,Fast determinant of Hessian filtering for image tiepoint candidate area assessment,0,G06T|G06V
+11669724,2023-06-06,Machine learning using informed pseudolabels,1,G06N
+11665858,2023-05-30,High-performance thermal interfaces for cylindrical or other curved heat sources or heat sinks,1,G06F|H05K
+11665174,2023-05-30,"Method and system for multi-tiered, multi-compartmented DevOps",0,G06F|H04L
+11659660,2023-05-23,Oxide liner stress buffer,0,H01L|H05K
+11658643,2023-05-23,Configurable multiplier-free multirate filter,0,G01R|G06F|H03H
+11657475,2023-05-23,Machine learned registration and multi-modal regression,0,G01S|G06N|G06T
+11653112,2023-05-16,Analog voting with outlier suppression,0,H03M|H04N
+11649076,2023-05-16,Space object maneuver detection,0,B64G|G06N
+11640655,2023-05-02,Systems and methods for image turbulence correction of moving targets,0,G01S|G06T|G06V|Y02A
+11640534,2023-05-02,Threshold triggered back propagation of an artificial neural network,0,G06N
+11632191,2023-04-18,Increase in reach of unrepeatered fiber transmission,0,H04B|H04J|H04L
+11630784,2023-04-18,Low-cost physical tamper detection and response for cryptographically secure sanitization,0,G06F|G09C|H04L
+11626445,2023-04-11,Per-pixel detector bias control,0,H04N|H10D|H10F
+11625914,2023-04-11,Key terrain finder,0,G06F|G06V
+11625636,2023-04-11,System and method for organic cognitive response (OCR) feedback for adaptive work instructions,0,A61B|G06F|G06N|G06Q|G09B|G16H
+11620119,2023-04-04,Function summarization via type inference,0,G06F
+11609892,2023-03-21,Methods and computer architecture supporting a multi-domain operational plan,0,G06F|G06Q
+11603961,2023-03-14,Internally damped crossbar assembly having a friction damped isolator,1,B60R|B64D|F16F|F16M|G03B|H04N
+11599480,2023-03-07,Replacing compromised data in a self-healing system,0,G06F
+11599373,2023-03-07,Virtualized hardware and methods for leveraging virtualized hardware with munition support software,0,G06F
+11595411,2023-02-28,"Adaptive, multi-layer enterprise data protection and resiliency platform",0,G06F|H04L
+11594627,2023-02-28,Semiconductor structure having both enhancement mode group III-N high electron mobility transistors and depletion mode group III-N high electron mobility transistors,0,H01L|H10D
+11593619,2023-02-28,Computer architecture for multiplier-less machine learning,0,G06F|G06N
+11593171,2023-02-28,Reservation-based high-performance computing system and method,0,G06F
+11589248,2023-02-21,Method and apparatus for system state discovery,0,H04W
+11587962,2023-02-21,Imaging system including analog compression for simultaneous pulse detection and imaging,0,H04N|H10F
+11587323,2023-02-21,Target model broker,1,G06N|G06T|G06V
+11586961,2023-02-21,System and method for identifying a preferred sensor,0,G06F|G06N
+11586511,2023-02-21,Optimal bit apportionments for digital functions subject to soft errors,0,G06F
+11585918,2023-02-21,Generative adversarial network-based target identification,0,G01S|G06N|G06V
+11585637,2023-02-21,System for aiming down a sighting apparatus in a virtual reality environment,0,F41G|G02B|G06F|G09B
+11580690,2023-02-14,Horizon-based navigation,1,G01C|G06T
+11580331,2023-02-14,Classification using cascaded spatial voting grids,0,G06F|G06N
+11580006,2023-02-14,Annotated deterministic trace abstraction for advanced dynamic program analysis,0,G06F
+11576280,2023-02-07,Cold plate branching flow pattern,0,F28F|H01L|H05K
+11574252,2023-02-07,System and method for prioritizing and ranking static analysis results using machine learning,0,G06F|G06N
+11569574,2023-01-31,Millimeter wave phased array,0,B33Y|H01L|H01Q
+11568638,2023-01-31,Image targeting via targetable 3D data,0,G06F|G06T|G06V
+11568045,2023-01-31,Communicating an event to a remote entity,0,G06F|H04B
+11567845,2023-01-31,Serial data bus node identification system,0,G06F|H04L
+11563899,2023-01-24,Parallelization technique for gain map generation using overlapping sub-images,0,G06T|H04N
+11562512,2023-01-24,System and method for generating and displaying contours,0,A61B|G06T
+11562184,2023-01-24,Image-based vehicle classification,0,G06F|G06N|G06Q|G06V
+11555896,2023-01-17,System and method for generating very long PPM waveforms,0,G01S|H04L
+11552650,2023-01-10,Methods to compress range doppler map (RDM) values from floating point to decibels (dB),0,G06F|H03M
+11551026,2023-01-10,Dynamic reconfiguration training computer architecture,0,G06F|G06N
+11550445,2023-01-10,Software safety-locked controls to prevent inadvertent selection of user interface elements,1,G06F
+11546534,2023-01-03,Imager having background signal removal,0,H04N
+11546001,2023-01-03,Preprocessor for device navigation,0,B64G|G01S|G06N|H04B
+11544722,2023-01-03,Hardware integration for part tracking using texture extraction and networked distributed ledgers,0,G06F|G06Q|G06T|G06V|H04L|H04N
+11544492,2023-01-03,Learning automaton and low-pass filter having a pass band that widens over time,0,G06F|G06N
+11544277,2023-01-03,Query term expansion and result selection,0,G06F
+11544092,2023-01-03,Model specific register (MSR) instrumentation,0,G06F
+11538135,2022-12-27,Automatic multi-image 3D ground control point extraction,0,G01C|G06T
+11537848,2022-12-27,Class level artificial neural network,0,G06N
+11533828,2022-12-20,Electronic cooling systems,0,F25B|H01L|H05K
+11533447,2022-12-20,Single-ended capacitive trans-impedance amplifier (CTIA) unit cell including shared clamp capacitor circuit for two-color imaging,0,H04N
+11529737,2022-12-20,System and method for using virtual/augmented reality for interaction with collaborative robots in manufacturing or industrial environment,0,B25J|G05B|G06F|G06T
+11528152,2022-12-13,Watermarking for electronic device tracking or verification,0,G01R|H04L
+11527063,2022-12-13,Visualization of non-conformance of objects via heat maps,0,G06F|G06K|G06T|G06V|G09B
+11526358,2022-12-13,Deterministic execution replay for multicore systems,0,G06F
+11521128,2022-12-06,Threat assessment of unmanned aerial systems using machine learning,3,B64D|B64U|G05D|G06N|G08G
+11520877,2022-12-06,Resilient multi-variant execution verification,0,G06F
+11515410,2022-11-29,Group III-V semiconductor structures having crystalline regrowth layers and methods for forming such structures,0,H01L|H10D
+11513732,2022-11-29,Fast data compression for systems with large dynamic ranges or other systems,0,G06F|H03M
+11513698,2022-11-29,Root of trust assisted access control of secure encrypted drives,0,G06F|H04L
+11513227,2022-11-29,Atmospheric jitter correction and target tracking using single imaging sensor in high-energy laser systems,1,F41G|F41H|G01S|G06T|H04N
+11508684,2022-11-22,Structure for bonding and electrical contact for direct bond hybridization,0,H01L
+11507847,2022-11-22,Gene expression programming,0,G06F|G06N|H04L|H04W
+11500109,2022-11-15,Detection of spoofing and meaconing for geolocation positioning system signals,0,G01S|G06N
+11496701,2022-11-08,Digital pixel comparator with bloom transistor frontend,3,H04N
+11488338,2022-11-01,"Efficient three-dimensional, interactive image rendering",0,G06F|G06T
+11488047,2022-11-01,Autonomous correction of course of action,0,G05D|G06F|G06N
+11483714,2022-10-25,Intelligent spectrum control methods and systems,0,G01S|H01Q|H04B|H04K|H04W
+11483506,2022-10-25,Continuously integrating digital pixel imager,0,H04N
+11483500,2022-10-25,Optical non-uniformity compensation (NUC) for passive imaging sensors using micro-electro-mechanical system (MEMS) micro-mirror arrays (MMAS),0,G02B|H04N
+11477350,2022-10-18,Active imaging using a micro-electro-mechanical system (MEMS) micro-mirror array (MMA),2,G01S|G02B|H04N
+11476178,2022-10-18,Selectively-pliable chemical vapor deposition (CVD) diamond or other heat spreader,0,H01L
+11476154,2022-10-18,Field effect transistor having improved gate structures,0,H01L|H10D
+11475558,2022-10-18,Organ isolation in scan data,0,G06F|G06T|G16H
+11475311,2022-10-18,Neural network instruction streaming,0,G06F|G06N
+11475154,2022-10-18,Agent-based file repository indexing and full-text faceted search system,0,G06F|H04L
+11469876,2022-10-11,Trigger to data synchronization of gigahertz digital-to-analog converters,0,G01S|H03M|H04L
+11468332,2022-10-11,Deep neural network processor with interleaved backpropagation,0,G06N
+11468330,2022-10-11,Artificial neural network growth,0,G06N
+11468266,2022-10-11,Target identification in large image data,0,G06F|G06V
+11468240,2022-10-11,System and method for using machine learning supporting natural language processing analysis,0,G06F|G06N
+11463639,2022-10-04,Programmable digital TDI EO/IR scanning focal plane array with multiple selectable TDI sub-banks,0,H04N
+11463407,2022-10-04,Policy engine for cyber anomaly detection,1,G05B|G06F|H04L
+11461594,2022-10-04,Transform disentangling auto-encoder and related methods,0,G06F|G06N|G06T|G06V
+11456792,2022-09-27,Intermodulation suppression in phased arrays using volterra filters,67,H03F|H04B|H04L
+11456746,2022-09-27,Single phase analog counter for a digital pixel,0,G01J|H03K|H03M|H04N
+11449494,2022-09-20,Distributed secure database system using an evolving nonce,1,G06F|H04L
+11438300,2022-09-06,Alternate control channel for network protocol stack,0,H04L
+11436537,2022-09-06,Machine learning technique selection and improvement,2,G06F|G06N
+11435148,2022-09-06,Composite spring heat spreader,1,B23P|B32B|F28F|H01L|H05K
+11431921,2022-08-30,Mm-wave short flat-field Schmidt imager using one or more diffraction grating(s) and/or Fresnel lens(s),0,G01V|H01Q|H04N
+11430753,2022-08-30,Iterative formation of damascene interconnects,0,H01L
+11430210,2022-08-30,Methods and system for estimation of lambertian equivalent reflectance for reflective band imagery,0,G01J|G06T|G06V
+11423153,2022-08-23,Detection of malicious operating system booting and operating system loading,2,G06F
+11423150,2022-08-23,System and method for booting processors with encrypted boot image,0,G05B|G06F|H04L
+11412073,2022-08-09,Alternate control channel for network protocol stack,0,H04L
+11411786,2022-08-09,Constant envelope bi-phase shift keying (CE-BPSK) modulation for “mode S” and other communication applications,3,H04L
+11411654,2022-08-09,Method for generating a constant envelope waveform when encoding multiple sub channels on the same carrier,0,H04B|H04L|H04W
+11410937,2022-08-09,Semiconductor device with aluminum nitride anti-deflection layer,3,B81B|B81C|H01L|H10F
+11409635,2022-08-09,Hacker-resistant anti-debug system,0,G06F
+11407079,2022-08-09,Monitoring condition of deburring media in vibration deburring machine,0,B24B|G06F|G06N|G06T
+11406007,2022-08-02,Radio frequency (RF) energy transmission line transition structure,0,H01L|H01P|H05K
+11402512,2022-08-02,Global navigation satellite system (GNSS) hostile environment simulation,0,G01S|G06F|H04K
+11398517,2022-07-26,Optical device having a detector and an optical element mounted on an epoxy fence,0,H01L|H10F
+11393869,2022-07-19,Wafer level shim processing,0,B81B|B81C|H01L|H10F
+11388337,2022-07-12,Readout integrated circuit containing image stabilization capabilities,0,G06T|H04N
+11387126,2022-07-12,Paddle tool for transporting semiconductor wafers or other components,0,B25J|H01L
+11386219,2022-07-12,Detection of an unauthorized modification to storage and restoration of the storage,0,G06F
+11381599,2022-07-05,Cyber chaff using spatial voting,0,G06F|G06N|H04L
+11379588,2022-07-05,System validation by hardware root of trust (HRoT) device and system management mode (SMM),0,G06F|H04L
+11379465,2022-07-05,Autonomous self-healing application data validation using database configurations,0,G06F
+11378622,2022-07-05,Methods and systems for single-event upset fault injection testing,0,G01R|G06F
+11374050,2022-06-28,Focal plane array detectors with selectable polarization,0,H04N|H10F
+11373064,2022-06-28,Cross-modality automatic target recognition,1,G01S|G06F|G06V
+11372988,2022-06-28,Secure data deletion and sanitization in distributed file systems,0,G06F|H04L
+11372084,2022-06-28,Target signal generation,0,G01S|G06F
+11368550,2022-06-21,Systems and methods for entity aware allocation of electronic resources,0,H04L
+11367211,2022-06-21,Inertially-assisted target detection,0,G01C|G01S|G06T|H04N
+11363722,2022-06-14,Hermetic chip on board,0,H01L|H05K
+11363198,2022-06-14,Optical sensor with jitter stabiliization,0,G01P|G02B|G03B|H04N
+11356622,2022-06-07,Single-ended capacitive trans-impedance amplifier (CTIA) unit cell for two-color applications,1,H04N
+11354772,2022-06-07,Cross-modality image generation,1,G01S|G06N|G06T
+11354369,2022-06-07,Multi-headed web-application architecture and messaging structure,0,G06F|H04L
+11350490,2022-05-31,Integrated temperature control for multi-layer ceramics and method,1,G05D|G06F|H01L|H05B|H05K
+11348804,2022-05-31,X-ray shielding deposition method for electron-beam deposited coatings,0,C23C|G03F|H01L|H10F
+11348310,2022-05-31,Building mask generation from 3D point set,0,G06T
+11347861,2022-05-31,Controlling security state of commercial off the shelf (COTS) system,1,G06F|H04L
+11341235,2022-05-24,Anomaly detection with adaptive auto grouping,4,G06F|H04L
+11340942,2022-05-24,Cooperative work-stealing scheduler,0,G06F|G06T
+11340603,2022-05-24,Behavior monitoring using convolutional data modeling,1,G05B|G06F|G06N
+11336032,2022-05-17,Reactive array,0,H01L|H01Q
+11330746,2022-05-10,Device and method for reworking flip chip components,0,H01L|H05K
+11321462,2022-05-03,Device behavior anomaly detection,2,G06F|H04L
+11317502,2022-04-26,PCB cavity mode suppression,0,H01L|H01P|H05K
+11315352,2022-04-26,Calculating the precision of image annotations,0,G06N|G06V
+11314680,2022-04-26,Circuit implementation in resource constrained systems,0,G06F
+11308393,2022-04-19,Cyber anomaly detection using an artificial neural network,0,G06F|G06N|H04L
+11305373,2022-04-19,Ultrasonic additively manufactured coldplates on heat spreaders,1,B22F|B23K|B33Y|H01L
+11303839,2022-04-12,Coded aperture focal plane array,1,H03M|H04N
+11301731,2022-04-12,Probabilistic sampling method for track association,0,G06F
+11300680,2022-04-12,Three-dimensional (3D) radar weather data rendering techniques,0,G01S|G06T|Y02A
+11297255,2022-04-05,On-board light source calibration,1,B64G|G01J|G02B|G03B|G06T|H04N
+11294783,2022-04-05,Non-invasive program execution protection,0,G06F
+11294023,2022-04-05,Techniques for associating geolocation measurements in electronic intelligence (ELINT) applications or other applications,0,G01S|H04L|H04W
+11288493,2022-03-29,Point cloud registration with error propagation,0,G06T|G06V
+11287637,2022-03-29,Multi-channel sensor using a rear-stopped reflective triplet,0,G01J|G02B|H04N
+11284404,2022-03-22,Apparatus and method for communications in congested radio frequency environments via dynamic usage exchange,0,H04B|H04L|H04W
+11284025,2022-03-22,Digital pixel having high sensitivity and dynamic range,0,H04N
+11283658,2022-03-22,Phase-based pre-carrier detection,0,H04L
+11282209,2022-03-22,System and method for generating contours,0,G06T
+11262604,2022-03-01,Photonic devices,0,G02B|G02F|H01L|H01S|H10D
+11251220,2022-02-15,Monolithic multi-metallic thermal expansion stabilizer,0,H01L|H10F
+11249684,2022-02-15,Computation of solution to sparse matrix,0,G06F
+11239326,2022-02-01,Electrode structure for field effect transistor,0,H01L|H10D
+11238163,2022-02-01,Method for objectively and completely indentifying system residual vulnerabilities,2,G06F
+11238162,2022-02-01,Method for systematically and objectively assessing system security risk,1,G06F
+11231239,2022-01-25,Threaded cooling apparatus with integrated cooling channels and heat exchanger,0,F28D|F28F|H01L
+11228525,2022-01-18,Mission context routing data communication system,0,H04L|H04W
+11226141,2022-01-18,Two-phase expendable cooling systems with passive flow control membranes,0,F25B|F28F|H01L|H05K
+11222813,2022-01-11,Method of manufacturing wafer level low melting temperature interconnections,0,C23C|C25D|H01L|H05K
+11222245,2022-01-11,Systems and methods for feature extraction and artificial decision explainability,1,G06F|G06V
+11216251,2022-01-04,Wideband photonic radio frequency (RF) noise generator,0,G02F|G06F|H03M|H04B|H04K
+11211991,2021-12-28,Optical and radio frequency sensor,0,G01S|G02B|H01Q|H04B|H04L
+11210188,2021-12-28,Systems and methods for processor monitoring and recovery,0,G06F
+11202021,2021-12-14,Pulse-frequency modulation (PFM) digital pixel unit-cell including dual-mode gain selection,0,H04N|H10F
+11201884,2021-12-14,Bus monitoring system for detecting anomalies indicative of malfunctions or cyber-attacks,1,H04L
+11200583,2021-12-14,Using surface textures as unique identifiers for tracking material with a distributed ledger,0,G06F|G06Q|G06V|H04N
+11200147,2021-12-14,Architecture agnostic replay verfication,0,G06F
+11197122,2021-12-07,Crowd-sourced detection and tracking of unmanned aerial systems,0,G08B|G08G|H04W
+11196497,2021-12-07,System and method for mitigating platform motion in a communications system,0,H04B|H04J|H04W
+11195779,2021-12-07,Electronic module for motherboard,1,G06F|H01L|H05K
+11195053,2021-12-07,Computer architecture for artificial image generation,0,G06F|G06N
+11190724,2021-11-30,Adaptive bitrate streaming of UHD image data,0,H04N
+11189558,2021-11-30,Process to yield ultra-large integrated circuits and associated integrated circuits,0,H01L
+11189039,2021-11-30,Enhanced star tracking,0,G01C|G06T
+11182126,2021-11-23,Computationally efficient mixed precision floating point waveform generation,0,G06F
+11178159,2021-11-16,Cross-domain solution using network-connected hardware root-of-trust device,0,G06F|H04L
+11178047,2021-11-16,Tailored contact plan generation,0,H04L|H04M|H04W
+11177619,2021-11-16,Techniques for high-speed communications through slip rings using modulation and multipath signaling,0,H01R|H02K|H03M|H04B|H04L
+11177216,2021-11-16,Nitride structures having low capacitance gate contacts integrated with copper damascene structures,2,H01L|H10D
+11177155,2021-11-16,Direct bond method providing thermal expansion matched devices,0,B24B|H01L|H10F
+11176361,2021-11-16,"Handwriting detector, extractor, and language classifier",0,G06F|G06V
+11171101,2021-11-09,Process for removing bond film from cavities in printed circuit boards,0,H01L|H05K
+11170264,2021-11-09,Labeling using interactive assisted segmentation,2,G06F|G06N|G06T|G06V
+11156705,2021-10-26,System and method for mitigating platform motion in a communications system,0,G01S|H04J|H04W
+11153522,2021-10-19,Imaging system including digital dual speed readout integrated circuit (ROIC),1,H03M|H04N|H10F
+11153162,2021-10-19,Communications network including intelligent network service manager,1,H04L
+11153078,2021-10-19,Extensible system for authenticated and protected key agreement in large mesh layer 2 ethernet networks,0,H04L
+11152279,2021-10-19,Monolithic microwave integrated circuit (MMIC) cooling structure,1,F28F|H01L
+11145735,2021-10-12,Ohmic alloy contact region sealing layer,0,H01L|H10D
+11139164,2021-10-05,Electronic device including hermetic micro-cavity and methods of preparing the same,0,H01L
+11138696,2021-10-05,Geolocation improvement of image rational functions via a fit residual correction,0,G06T
+11134208,2021-09-28,Increasing dynamic range of digital pixels by utilizing polling during integration,0,H04N
+11132923,2021-09-28,Encryption using spatial voting,6,G06F|G09C
+11127652,2021-09-21,Semiconductor structures having reduced thermally induced bow,1,H01L|H10D
+11127596,2021-09-21,Semiconductor material growth of a high resistivity nitride buffer layer using ion implantation,1,H01L|H10D
+11127150,2021-09-21,"Multiple target tracker and micro-electro-mechanical system (MEMS) micro-mirror array for designation, range finding, and active imaging",2,G01S|G02F|G06T|H01S|H04N
+11127145,2021-09-21,Image registration to a 3D point set,0,G06T
+11115430,2021-09-07,Tactical bus fuzz tester,0,H04L
+11112578,2021-09-07,Optical element switching systems for an electro optical system,0,G02B|H04N
+11108429,2021-08-31,Covert acoustic communications through solid propagation channels using spread spectrum coding and adaptive channel pre-distortion,1,G06F|H04B|H04K|H04L|H04W
+11107250,2021-08-31,Computer architecture for artificial image generation using auto-encoder,0,G06F|G06N|G06T|G06V
+11101378,2021-08-24,Semiconductor structure having both enhancement mode group III-N high electron mobility transistors and depletion mode group III-N high electron mobility transistors,4,H01L|H10D
+11101130,2021-08-24,Method of filling grooves and holes in a substrate,0,C23C|H01L
+11093298,2021-08-17,System and method for topology-aware job scheduling and backfilling in an HPC environment,0,G06F
+11087532,2021-08-10,Ortho-image mosaic production system,1,G06T
+11082186,2021-08-03,Phased array antenna system,1,G01S|H01Q|H04B|H04L
+11080837,2021-08-03,Architecture for improved machine learning operation,0,G06F|G06T|G06V
+11075141,2021-07-27,Module base with integrated thermal spreader and heat sink for thermal and structural management of high-performance integrated circuits or other devices,0,H01L
+11073420,2021-07-27,Active partial-beam alignment systems for sensor-to-laser boresight maintenance,0,B23K|F41G|F41H|G01J|G02B|H04N
+11070357,2021-07-20,Techniques for privacy-preserving data processing across multiple computing nodes,1,G06F|H04L
+11068747,2021-07-20,Computer architecture for object detection using point-wise labels,5,G06F|G06N|G06T|G06V
+11063616,2021-07-13,Single clock timeshared channelizer circuit,0,G01S|H04B|H04L
+11063563,2021-07-13,Systems and methods for specific emitter identification,1,G01S|H03F|H04L
+11063074,2021-07-13,Autozero of buffered direct injection pixels,0,H03F|H04N|H10F
+11062529,2021-07-13,Architectures for vehicle tolling,0,G06N|G06Q|G06V|G07B|G08G
+11062512,2021-07-13,System and method for generating 3D color representation of 2D grayscale images,0,G06T
+11057170,2021-07-06,Multidimensional shared spectrum access,2,G01S|H04L|H04W
+11050962,2021-06-29,Dual mode focal plane array having DI and BDI modes,1,H04N|H10F
+11050680,2021-06-29,Non-blocking switch matrix for multi-beam antenna,0,H03K|H04B|H04L
+11042998,2021-06-22,Synthetic image generation from 3D-point cloud,0,G06T
+11038030,2021-06-15,Transistor having low capacitance field plate structure,0,H01L|H10D
+11037027,2021-06-15,Computer architecture for and-or neural networks,1,G06F|G06N|G06V
+11033990,2021-06-15,Low cost approach for depositing solder and adhesives in a pattern for forming electronic assemblies,1,B23K|H01L|H05K
+11032947,2021-06-08,Tailored coldplate geometries for forming multiple coefficient of thermal expansion (CTE) zones,0,H01L|H05K
+11025439,2021-06-01,Self-organizing mobile peer-to-peer mesh network authentication,4,B64U|G06F|H04L|H04W
+11023625,2021-06-01,Computational accelerator architecture for change control in model-based system engineering,0,G06F
+11018924,2021-05-25,Spoiled code trellis coded modulation,0,H03M|H04B|H04L
+11010639,2021-05-18,In-scene multi-angle surface-specific signature generation and exploitation,0,G06F|G06T|G06V
+11006058,2021-05-11,Pumped large full well pixel,0,H04N|H10F
+11003909,2021-05-11,Neural network trained by homographic augmentation,0,G06F|G06N|G06V
+11002607,2021-05-11,Direct mounting of filters or other optical components to optical detectors using flexures,2,G01J|G02B|H04N
+11002519,2021-05-11,Interface bridge for initializing a weapon with mission planning data,0,F41H|F42C|H04L
+10989528,2021-04-27,High speed beam component-resolved profile and position sensitive detector,0,F41H|G01B|G01M|H04L
+10983948,2021-04-20,Reconfigurable computing appliance,0,G06F
+10983804,2021-04-20,Patching a binary file,1,G06F|H04L
+10977808,2021-04-13,Three-frame difference target acquisition and tracking using overlapping target images,0,G06T
+10973161,2021-04-06,Electronic component removal device,0,B23D|B24B|G01R|H01L|H05K
+10972720,2021-04-06,Video load balancing and error detection based on measured channel bandwidth,1,G06F|H04J|H04L|H04N
+10970815,2021-04-06,Multi-source image fusion,1,G06T
+10969598,2021-04-06,Polarized pixelated filter array with reduced sensitivity to misalignment for polarimetric imaging,20,G01J|G02B|G06T
+10965842,2021-03-30,Anti-dazzle imaging camera and method,0,G01J|G02B|G02F|G03B|H04N
+10963300,2021-03-30,Accelerating dataflow signal processing applications across heterogeneous CPU/GPU systems,3,G06F
+10957056,2021-03-23,Image tiepoints,0,G06T
+10944974,2021-03-09,Method for encoding and processing raw UHD video via an existing HD video architecture,0,H04N
+10943392,2021-03-09,Digital elevation model quality control,0,G06T|G06V
+10942888,2021-03-09,Data transferring without a network interface configuration,2,G06F|H04L
+10938841,2021-03-02,Multi-GHz guard sensor for detecting physical or electromagnetic intrusions of a guarded region,0,G06F|G08B|H04L
+10937465,2021-03-02,Anomaly detection with reduced memory overhead,8,G06F|G11C
+10931296,2021-02-23,Self-correcting analog counter readout for digital pixels,0,H03M|H04N
+10930742,2021-02-23,Wafer structure with mode suppression,0,H01L|H05K|H10D
+10930062,2021-02-23,3D view model generation of an object utilizing geometrically diverse image clusters,0,G06T
+10929542,2021-02-23,Software policy engine in virtual environment,1,G06F|H04L
+10928483,2021-02-23,Localization using signals transmitted over different signal paths for mobile ad hoc networks,1,G01S|H04W
+10924189,2021-02-16,Constant envelope path-dependent phase modulation,15,H04B|H04L
+10922446,2021-02-16,Computational accelerator for determination of linkages across disparate works in model-based system engineering,1,G06F
+10917599,2021-02-09,Focal plane array having ratioed capacitors,0,G01J|H04N
+10915833,2021-02-09,Machine learning algorithm with binary pruning technique for automatic intrapulse modulation recognition,2,G01S|G06N
+10911705,2021-02-02,Digital in-pixel read-out integrated circuit including residue-to-counter calibration,0,H04N
+10910291,2021-02-02,Method of creating thermal boundary control,0,H01L|H05K
+10908935,2021-02-02,Estimation of guest clock value based on branch instruction count and average time between branch instructions for use in deterministic replay of execution,1,G06F

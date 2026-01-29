@@ -1,0 +1,1602 @@
+[
+  {
+    "companyId": "d1d96a91-c5e6-4090-ba39-4af2494eb35c",
+    "displayName": "SAMSUNG ELECTRONICS CO., LTD.",
+    "patentCount": 25801,
+    "totalCitations": 13569,
+    "citationsPerPatent": 0.5259098484554863,
+    "cpcBreadth": 287
+  },
+  {
+    "companyId": "6e80a706-ca3c-437b-8a9c-aae8b5efba57",
+    "displayName": "International Business Machines Corporation",
+    "patentCount": 17221,
+    "totalCitations": 8955,
+    "citationsPerPatent": 0.5200046454909704,
+    "cpcBreadth": 270
+  },
+  {
+    "companyId": "95c789e7-1a6d-440a-8077-98c070f83c30",
+    "displayName": "QUALCOMM Incorporated",
+    "patentCount": 13628,
+    "totalCitations": 5661,
+    "citationsPerPatent": 0.41539477546228354,
+    "cpcBreadth": 138
+  },
+  {
+    "companyId": "2990770e-4c22-4129-b365-15bd95b30adb",
+    "displayName": "TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY LTD.",
+    "patentCount": 11402,
+    "totalCitations": 4475,
+    "citationsPerPatent": 0.39247500438519556,
+    "cpcBreadth": 184
+  },
+  {
+    "companyId": "3c6b1357-c8fd-43ba-bfc3-cc3f44cee9b0",
+    "displayName": "Huawei Technologies Co., Ltd.",
+    "patentCount": 11256,
+    "totalCitations": 3690,
+    "citationsPerPatent": 0.32782515991471217,
+    "cpcBreadth": 158
+  },
+  {
+    "companyId": "3e5cae88-ed9d-4912-8c9d-de81d98a05f6",
+    "displayName": "Apple Inc.",
+    "patentCount": 9774,
+    "totalCitations": 12007,
+    "citationsPerPatent": 1.228463269899734,
+    "cpcBreadth": 204
+  },
+  {
+    "companyId": "47cd060e-60ce-49ab-8623-caf34f5c3860",
+    "displayName": "Intel Corporation",
+    "patentCount": 9060,
+    "totalCitations": 6314,
+    "citationsPerPatent": 0.6969094922737307,
+    "cpcBreadth": 212
+  },
+  {
+    "companyId": "ce183c1e-e412-4ff6-a1ae-09854da030a1",
+    "displayName": "MICROSOFT TECHNOLOGY LICENSING, LLC",
+    "patentCount": 8300,
+    "totalCitations": 5861,
+    "citationsPerPatent": 0.7061445783132531,
+    "cpcBreadth": 182
+  },
+  {
+    "companyId": "61d52265-4aea-4f20-b743-c4a9faef6860",
+    "displayName": "Canon Kabushiki Kaisha",
+    "patentCount": 7473,
+    "totalCitations": 2227,
+    "citationsPerPatent": 0.29800615549310855,
+    "cpcBreadth": 199
+  },
+  {
+    "companyId": "20e63ece-1b0a-4684-bee9-5d9685873cf9",
+    "displayName": "Google LLC",
+    "patentCount": 7292,
+    "totalCitations": 5028,
+    "citationsPerPatent": 0.689522764673615,
+    "cpcBreadth": 174
+  },
+  {
+    "companyId": "f71249de-0cfb-488f-8a27-f3861dc2d67b",
+    "displayName": "LG ELECTRONICS INC.",
+    "patentCount": 7240,
+    "totalCitations": 4616,
+    "citationsPerPatent": 0.6375690607734806,
+    "cpcBreadth": 198
+  },
+  {
+    "companyId": "c09f49d8-9286-4733-89ee-79dbd6a081b7",
+    "displayName": "AMAZON TECHNOLOGIES, INC.",
+    "patentCount": 6628,
+    "totalCitations": 17521,
+    "citationsPerPatent": 2.643482196741098,
+    "cpcBreadth": 168
+  },
+  {
+    "companyId": "5add8615-963b-47fc-bd21-056c0f15b3fa",
+    "displayName": "Micron Technology, Inc.",
+    "patentCount": 6034,
+    "totalCitations": 3770,
+    "citationsPerPatent": 0.6247928405701028,
+    "cpcBreadth": 139
+  },
+  {
+    "companyId": "29ff5bfb-ccbe-4f68-b7b4-486e2391416c",
+    "displayName": "Telefonaktiebolaget LM Ericsson (Publ)",
+    "patentCount": 5915,
+    "totalCitations": 2387,
+    "citationsPerPatent": 0.4035502958579882,
+    "cpcBreadth": 92
+  },
+  {
+    "companyId": "fb308a7b-80bc-4334-9db7-cea19a6e15be",
+    "displayName": "Dell Products L.P.",
+    "patentCount": 5728,
+    "totalCitations": 2406,
+    "citationsPerPatent": 0.4200418994413408,
+    "cpcBreadth": 151
+  },
+  {
+    "companyId": "af1c1db8-dc03-4036-a732-d81d2ad09c0c",
+    "displayName": "SONY GROUP CORPORATION",
+    "patentCount": 5438,
+    "totalCitations": 1737,
+    "citationsPerPatent": 0.3194189040088268,
+    "cpcBreadth": 202
+  },
+  {
+    "companyId": "ff68ac3e-59f6-461b-a4e6-8d75cdf77556",
+    "displayName": "CAPITAL ONE SERVICES, LLC",
+    "patentCount": 4077,
+    "totalCitations": 2301,
+    "citationsPerPatent": 0.5643855776306107,
+    "cpcBreadth": 88
+  },
+  {
+    "companyId": "23f54638-a0c0-4757-b251-3852ce1fb9a9",
+    "displayName": "Cisco Technology, Inc.",
+    "patentCount": 3902,
+    "totalCitations": 3187,
+    "citationsPerPatent": 0.8167606355715018,
+    "cpcBreadth": 89
+  },
+  {
+    "companyId": "f8748887-00f3-4966-89de-58204b93d00d",
+    "displayName": "EMC IP Holding Company LLC",
+    "patentCount": 3736,
+    "totalCitations": 3592,
+    "citationsPerPatent": 0.961456102783726,
+    "cpcBreadth": 54
+  },
+  {
+    "companyId": "5491322d-78a3-4b97-80d9-600f83ff75a7",
+    "displayName": "NEC CORPORATION",
+    "patentCount": 3443,
+    "totalCitations": 793,
+    "citationsPerPatent": 0.23032239326169038,
+    "cpcBreadth": 148
+  },
+  {
+    "companyId": "9844b584-946d-4f31-8b56-a402f3b5baca",
+    "displayName": "BOE Technology Group Co., Ltd.",
+    "patentCount": 3126,
+    "totalCitations": 796,
+    "citationsPerPatent": 0.254638515674984,
+    "cpcBreadth": 198
+  },
+  {
+    "companyId": "0b8f3a7b-848a-4a15-a1ef-e585df1807ff",
+    "displayName": "Bank of America Corporation",
+    "patentCount": 2944,
+    "totalCitations": 1294,
+    "citationsPerPatent": 0.43953804347826086,
+    "cpcBreadth": 61
+  },
+  {
+    "companyId": "68d6cfc2-000a-48ba-a215-2373538048da",
+    "displayName": "Oracle International Corporation",
+    "patentCount": 2920,
+    "totalCitations": 2787,
+    "citationsPerPatent": 0.9544520547945206,
+    "cpcBreadth": 62
+  },
+  {
+    "companyId": "d109d480-1bf5-4c9c-9696-113e378ec029",
+    "displayName": "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP., LTD.",
+    "patentCount": 2828,
+    "totalCitations": 802,
+    "citationsPerPatent": 0.2835926449787836,
+    "cpcBreadth": 87
+  },
+  {
+    "companyId": "3ada816c-a895-4e9a-ab4c-576e3fa6b916",
+    "displayName": "SK hynix Inc.",
+    "patentCount": 2708,
+    "totalCitations": 884,
+    "citationsPerPatent": 0.32644017725258495,
+    "cpcBreadth": 67
+  },
+  {
+    "companyId": "e8c56839-5627-4f93-b7f6-44039c1b8d42",
+    "displayName": "VMware LLC",
+    "patentCount": 2693,
+    "totalCitations": 6792,
+    "citationsPerPatent": 2.5220943186037874,
+    "cpcBreadth": 36
+  },
+  {
+    "companyId": "22aa640c-37cb-4432-82fe-d89bb9d007bf",
+    "displayName": "AT&T Intellectual Property I, L.P.",
+    "patentCount": 2682,
+    "totalCitations": 1169,
+    "citationsPerPatent": 0.43586875466070096,
+    "cpcBreadth": 86
+  },
+  {
+    "companyId": "b6235f56-d610-4345-b438-277f133eb272",
+    "displayName": "TEXAS INSTRUMENTS INCORPORATED",
+    "patentCount": 2486,
+    "totalCitations": 778,
+    "citationsPerPatent": 0.31295253419147223,
+    "cpcBreadth": 136
+  },
+  {
+    "companyId": "3edc5277-5925-4de4-83bb-299b576b23d9",
+    "displayName": "SNAP INC.",
+    "patentCount": 2481,
+    "totalCitations": 10010,
+    "citationsPerPatent": 4.0346634421604195,
+    "cpcBreadth": 95
+  },
+  {
+    "companyId": "e3177668-a2e6-45b8-8f55-354bc200628d",
+    "displayName": "SAP SE",
+    "patentCount": 2479,
+    "totalCitations": 1171,
+    "citationsPerPatent": 0.47236789027833803,
+    "cpcBreadth": 50
+  },
+  {
+    "companyId": "e736e54f-4268-499d-bb87-6514dd58716d",
+    "displayName": "Applied Materials, Inc.",
+    "patentCount": 2213,
+    "totalCitations": 1551,
+    "citationsPerPatent": 0.7008585630366019,
+    "cpcBreadth": 169
+  },
+  {
+    "companyId": "132a88e0-2817-4e55-8dc9-9d525994904a",
+    "displayName": "NOKIA TECHNOLOGIES OY",
+    "patentCount": 2140,
+    "totalCitations": 792,
+    "citationsPerPatent": 0.37009345794392523,
+    "cpcBreadth": 83
+  },
+  {
+    "companyId": "a3872cb6-7aee-4586-bba6-d5bb899fd861",
+    "displayName": "Wells Fargo Bank, N.A.",
+    "patentCount": 2098,
+    "totalCitations": 3772,
+    "citationsPerPatent": 1.7979027645376549,
+    "cpcBreadth": 71
+  },
+  {
+    "companyId": "1177679d-d7ea-4a87-9af2-71c44db92ad0",
+    "displayName": "TENCENT TECHNOLOGY (SHENZHEN) COMPANY LIMITED",
+    "patentCount": 2030,
+    "totalCitations": 477,
+    "citationsPerPatent": 0.23497536945812808,
+    "cpcBreadth": 74
+  },
+  {
+    "companyId": "e9946bbf-1e38-4e2e-b9fd-665d757a42df",
+    "displayName": "Adobe Inc.",
+    "patentCount": 2003,
+    "totalCitations": 1478,
+    "citationsPerPatent": 0.7378931602596106,
+    "cpcBreadth": 38
+  },
+  {
+    "companyId": "efd2d42a-9faf-4c64-b194-5b0dc29cfa8e",
+    "displayName": "TOYOTA JIDOSHA KABUSHIKI KAISHA",
+    "patentCount": 1974,
+    "totalCitations": 584,
+    "citationsPerPatent": 0.29584599797365757,
+    "cpcBreadth": 162
+  },
+  {
+    "companyId": "73873044-e4a0-4b84-ada5-95b74f90bdf4",
+    "displayName": "TOKYO ELECTRON LIMITED",
+    "patentCount": 1911,
+    "totalCitations": 552,
+    "citationsPerPatent": 0.28885400313971743,
+    "cpcBreadth": 124
+  },
+  {
+    "companyId": "e3b70562-48ab-42d1-8eb9-8d6df80eed07",
+    "displayName": "Hewlett Packard Enterprise Development LP",
+    "patentCount": 1899,
+    "totalCitations": 1232,
+    "citationsPerPatent": 0.6487625065824117,
+    "cpcBreadth": 83
+  },
+  {
+    "companyId": "bdeb6187-82c3-4e04-bec6-b6bbd06c99cc",
+    "displayName": "Verizon Patent and Licensing Inc.",
+    "patentCount": 1842,
+    "totalCitations": 833,
+    "citationsPerPatent": 0.4522258414766558,
+    "cpcBreadth": 59
+  },
+  {
+    "companyId": "35b2222a-cbd6-45ec-b716-310db852c764",
+    "displayName": "ZTE CORPORATION",
+    "patentCount": 1840,
+    "totalCitations": 474,
+    "citationsPerPatent": 0.2576086956521739,
+    "cpcBreadth": 56
+  },
+  {
+    "companyId": "d4733f97-7b44-444e-83ea-0a2f6002ca24",
+    "displayName": "KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "patentCount": 1815,
+    "totalCitations": 754,
+    "citationsPerPatent": 0.41542699724517906,
+    "cpcBreadth": 127
+  },
+  {
+    "companyId": "cf4da630-d78e-4761-89a4-20c6736ac290",
+    "displayName": "Mitsubishi Electric Corporation",
+    "patentCount": 1778,
+    "totalCitations": 264,
+    "citationsPerPatent": 0.1484814398200225,
+    "cpcBreadth": 185
+  },
+  {
+    "companyId": "dfbb9701-94f0-4c97-8fb3-beca477ebb97",
+    "displayName": "NIPPON TELEGRAPH AND TELEPHONE CORPORATION",
+    "patentCount": 1758,
+    "totalCitations": 285,
+    "citationsPerPatent": 0.1621160409556314,
+    "cpcBreadth": 117
+  },
+  {
+    "companyId": "df6d5e3d-5ce0-4993-8350-d2aac669f1ef",
+    "displayName": "SHARP KABUSHIKI KAISHA",
+    "patentCount": 1688,
+    "totalCitations": 638,
+    "citationsPerPatent": 0.37796208530805686,
+    "cpcBreadth": 93
+  },
+  {
+    "companyId": "5586909d-f958-4b77-ab8e-fb13dc3a584c",
+    "displayName": "BEIJING XIAOMI MOBILE SOFTWARE CO., LTD.",
+    "patentCount": 1686,
+    "totalCitations": 445,
+    "citationsPerPatent": 0.263938315539739,
+    "cpcBreadth": 111
+  },
+  {
+    "companyId": "46880acc-0cad-40bd-bbfc-afecc11e7da2",
+    "displayName": "Panasonic Intellectual Property Corporation of America",
+    "patentCount": 1670,
+    "totalCitations": 644,
+    "citationsPerPatent": 0.38562874251497004,
+    "cpcBreadth": 76
+  },
+  {
+    "companyId": "0d3750f1-038c-4d12-9ed5-b6e55c6605da",
+    "displayName": "Comcast Cable Communications, LLC",
+    "patentCount": 1651,
+    "totalCitations": 1034,
+    "citationsPerPatent": 0.6262870987280436,
+    "cpcBreadth": 50
+  },
+  {
+    "companyId": "e799c5d5-e7d9-4acd-8f67-2fadeb1c6899",
+    "displayName": "Kioxia Corporation",
+    "patentCount": 1623,
+    "totalCitations": 364,
+    "citationsPerPatent": 0.22427603203943314,
+    "cpcBreadth": 84
+  },
+  {
+    "companyId": "0692ec4a-ca93-4235-b020-14e21861b4ae",
+    "displayName": "TENCENT AMERICA LLC",
+    "patentCount": 1610,
+    "totalCitations": 675,
+    "citationsPerPatent": 0.4192546583850932,
+    "cpcBreadth": 35
+  },
+  {
+    "companyId": "c9398d69-5dbb-4b06-b9ea-757038ca0ea3",
+    "displayName": "FUJITSU LIMITED",
+    "patentCount": 1600,
+    "totalCitations": 438,
+    "citationsPerPatent": 0.27375,
+    "cpcBreadth": 104
+  },
+  {
+    "companyId": "6cd1eab3-bd8c-4743-b483-80c5abea57a8",
+    "displayName": "SONY SEMICONDUCTOR SOLUTIONS CORPORATION",
+    "patentCount": 1564,
+    "totalCitations": 512,
+    "citationsPerPatent": 0.3273657289002558,
+    "cpcBreadth": 116
+  },
+  {
+    "companyId": "5a08d41d-4860-4f26-821f-88bc62677d1f",
+    "displayName": "T-Mobile USA, Inc.",
+    "patentCount": 1486,
+    "totalCitations": 825,
+    "citationsPerPatent": 0.5551816958277255,
+    "cpcBreadth": 74
+  },
+  {
+    "companyId": "88288889-fbea-42ef-818c-62d683c90767",
+    "displayName": "HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P.",
+    "patentCount": 1462,
+    "totalCitations": 467,
+    "citationsPerPatent": 0.31942544459644323,
+    "cpcBreadth": 150
+  },
+  {
+    "companyId": "b836c739-deaf-4ea0-ba17-0993a7ed6476",
+    "displayName": "Sony Interactive Entertainment Inc.",
+    "patentCount": 1443,
+    "totalCitations": 957,
+    "citationsPerPatent": 0.6632016632016632,
+    "cpcBreadth": 82
+  },
+  {
+    "companyId": "35aa0c99-f86a-4e3f-9747-45559f2eb178",
+    "displayName": "United Services Automobile Association (USAA)",
+    "patentCount": 1434,
+    "totalCitations": 2572,
+    "citationsPerPatent": 1.7935843793584378,
+    "cpcBreadth": 82
+  },
+  {
+    "companyId": "3680df9d-ba09-4cda-887a-982db861ad31",
+    "displayName": "PANASONIC INTELLECTUAL PROPERTY MANAGEMENT CO., LTD.",
+    "patentCount": 1413,
+    "totalCitations": 459,
+    "citationsPerPatent": 0.3248407643312102,
+    "cpcBreadth": 207
+  },
+  {
+    "companyId": "788681fe-9640-4e06-8152-9d4cf49baad3",
+    "displayName": "NVIDIA Corporation",
+    "patentCount": 1392,
+    "totalCitations": 1353,
+    "citationsPerPatent": 0.9719827586206896,
+    "cpcBreadth": 80
+  },
+  {
+    "companyId": "41f7f170-9cb1-4b67-98bb-bad5de48d30f",
+    "displayName": "SEIKO EPSON CORPORATION",
+    "patentCount": 1391,
+    "totalCitations": 248,
+    "citationsPerPatent": 0.17828900071890727,
+    "cpcBreadth": 132
+  },
+  {
+    "companyId": "63a1b372-8090-409c-ac91-e05b648f8205",
+    "displayName": "Visa International Service Association",
+    "patentCount": 1388,
+    "totalCitations": 851,
+    "citationsPerPatent": 0.6131123919308358,
+    "cpcBreadth": 51
+  },
+  {
+    "companyId": "df95683e-abff-4a46-a0be-a2d605ce1153",
+    "displayName": "FUJIFILM Corporation",
+    "patentCount": 1383,
+    "totalCitations": 358,
+    "citationsPerPatent": 0.2588575560375994,
+    "cpcBreadth": 138
+  },
+  {
+    "companyId": "ba1c1c18-cacc-4c23-a5a7-32daef49e569",
+    "displayName": "PAYPAL, INC.",
+    "patentCount": 1346,
+    "totalCitations": 638,
+    "citationsPerPatent": 0.4739970282317979,
+    "cpcBreadth": 42
+  },
+  {
+    "companyId": "a90e9fd0-52e6-43d3-b861-4a87a6e54cb8",
+    "displayName": "Kabushiki Kaisha Toshiba",
+    "patentCount": 1313,
+    "totalCitations": 413,
+    "citationsPerPatent": 0.31454683929931454,
+    "cpcBreadth": 149
+  },
+  {
+    "companyId": "0ce0b9ee-76a8-442e-b7ff-2bb2219ce3a8",
+    "displayName": "Advanced Micro Devices, Inc.",
+    "patentCount": 1282,
+    "totalCitations": 379,
+    "citationsPerPatent": 0.2956318252730109,
+    "cpcBreadth": 55
+  },
+  {
+    "companyId": "db7d6d82-8ef8-47ed-b8be-a633c047a213",
+    "displayName": "VIVO MOBILE COMMUNICATION CO., LTD.",
+    "patentCount": 1273,
+    "totalCitations": 220,
+    "citationsPerPatent": 0.17282010997643363,
+    "cpcBreadth": 63
+  },
+  {
+    "companyId": "e2878289-407d-445f-bfca-fa3b1c3c28b0",
+    "displayName": "Red Hat, Inc.",
+    "patentCount": 1268,
+    "totalCitations": 449,
+    "citationsPerPatent": 0.35410094637223977,
+    "cpcBreadth": 38
+  },
+  {
+    "companyId": "3df41299-60d6-472d-8a0d-6c41fff37c11",
+    "displayName": "Western Digital Technologies, Inc.",
+    "patentCount": 1267,
+    "totalCitations": 795,
+    "citationsPerPatent": 0.6274664561957379,
+    "cpcBreadth": 60
+  },
+  {
+    "companyId": "1aecc21c-0e3b-40d0-8e13-462d34b7bce7",
+    "displayName": "LG Display Co., Ltd.",
+    "patentCount": 1265,
+    "totalCitations": 867,
+    "citationsPerPatent": 0.6853754940711463,
+    "cpcBreadth": 72
+  },
+  {
+    "companyId": "c645ee1f-daa2-4665-83dd-bdf222f59683",
+    "displayName": "Robert Bosch GmbH",
+    "patentCount": 1243,
+    "totalCitations": 334,
+    "citationsPerPatent": 0.26870474658085275,
+    "cpcBreadth": 146
+  },
+  {
+    "companyId": "cfc27850-d4df-43c9-ac40-140011db703b",
+    "displayName": "FUJIFILM Business Innovation Corp.",
+    "patentCount": 1220,
+    "totalCitations": 158,
+    "citationsPerPatent": 0.12950819672131147,
+    "cpcBreadth": 77
+  },
+  {
+    "companyId": "2c428850-5d4d-4dc8-8d58-d7ef66d60171",
+    "displayName": "State Farm Mutual Automobile Insurance Company",
+    "patentCount": 1209,
+    "totalCitations": 3409,
+    "citationsPerPatent": 2.8196856906534324,
+    "cpcBreadth": 88
+  },
+  {
+    "companyId": "d44e0440-2035-4253-90c9-661592d4b601",
+    "displayName": "Salesforce, Inc.",
+    "patentCount": 1209,
+    "totalCitations": 457,
+    "citationsPerPatent": 0.37799834574028124,
+    "cpcBreadth": 29
+  },
+  {
+    "companyId": "1abcc1f1-40ca-405d-8248-ed39ff74ce89",
+    "displayName": "Ford Global Technologies, LLC",
+    "patentCount": 1207,
+    "totalCitations": 533,
+    "citationsPerPatent": 0.4415907207953604,
+    "cpcBreadth": 146
+  },
+  {
+    "companyId": "9869f621-59bc-474a-9b6e-2ea9a27e080b",
+    "displayName": "RICOH COMPANY, LTD.",
+    "patentCount": 1202,
+    "totalCitations": 369,
+    "citationsPerPatent": 0.3069883527454243,
+    "cpcBreadth": 101
+  },
+  {
+    "companyId": "6326da5f-8cb5-4e23-8929-4dd62cba64d3",
+    "displayName": "HITACHI, LTD.",
+    "patentCount": 1184,
+    "totalCitations": 376,
+    "citationsPerPatent": 0.31756756756756754,
+    "cpcBreadth": 122
+  },
+  {
+    "companyId": "1236ac88-ebfb-4d04-aa3c-ed28add9c90a",
+    "displayName": "Rovi Guides, Inc.",
+    "patentCount": 1170,
+    "totalCitations": 1127,
+    "citationsPerPatent": 0.9632478632478633,
+    "cpcBreadth": 40
+  },
+  {
+    "companyId": "b7360356-3e78-4be5-928b-4881690b1418",
+    "displayName": "Advanced New Technologies Co., Ltd.",
+    "patentCount": 1153,
+    "totalCitations": 791,
+    "citationsPerPatent": 0.6860364267129229,
+    "cpcBreadth": 47
+  },
+  {
+    "companyId": "6605e063-c0c7-4a43-8478-7a231fbea22a",
+    "displayName": "Juniper Networks, Inc.",
+    "patentCount": 1152,
+    "totalCitations": 1849,
+    "citationsPerPatent": 1.6050347222222223,
+    "cpcBreadth": 41
+  },
+  {
+    "companyId": "754d0331-00a3-4b47-9aa9-dbd18853e6c5",
+    "displayName": "Lenovo (Singapore) Pte. Ltd.",
+    "patentCount": 1142,
+    "totalCitations": 724,
+    "citationsPerPatent": 0.6339754816112084,
+    "cpcBreadth": 96
+  },
+  {
+    "companyId": "3172f835-adda-4843-8958-6312cb256c82",
+    "displayName": "MASTERCARD INTERNATIONAL INCORPORATED",
+    "patentCount": 1123,
+    "totalCitations": 506,
+    "citationsPerPatent": 0.4505788067675868,
+    "cpcBreadth": 48
+  },
+  {
+    "companyId": "a401036b-6a3a-4c8b-ac43-f4684dba7006",
+    "displayName": "Arm Limited",
+    "patentCount": 1119,
+    "totalCitations": 399,
+    "citationsPerPatent": 0.35656836461126007,
+    "cpcBreadth": 61
+  },
+  {
+    "companyId": "867ebc86-fa01-4e31-a378-45e26d775f66",
+    "displayName": "Splunk Inc.",
+    "patentCount": 1118,
+    "totalCitations": 6348,
+    "citationsPerPatent": 5.677996422182469,
+    "cpcBreadth": 30
+  },
+  {
+    "companyId": "e677513c-9f4e-48fc-a4f0-98d574557893",
+    "displayName": "KONINIKLIJKE PHILIPS N.V.",
+    "patentCount": 1110,
+    "totalCitations": 629,
+    "citationsPerPatent": 0.5666666666666667,
+    "cpcBreadth": 95
+  },
+  {
+    "companyId": "305d8228-4993-4d1d-9207-a9327e1c6f1d",
+    "displayName": "InterDigital Patent Holdings, Inc.",
+    "patentCount": 1104,
+    "totalCitations": 428,
+    "citationsPerPatent": 0.38768115942028986,
+    "cpcBreadth": 46
+  },
+  {
+    "companyId": "7c265275-ad1d-4ed3-81d7-e13e742d3555",
+    "displayName": "NTT DOCOMO, INC.",
+    "patentCount": 1092,
+    "totalCitations": 349,
+    "citationsPerPatent": 0.31959706959706957,
+    "cpcBreadth": 48
+  },
+  {
+    "companyId": "0686d2b9-4d2d-48d1-87b1-5df841531174",
+    "displayName": "Beijing Bytedance Network Technology Co., Ltd.",
+    "patentCount": 1066,
+    "totalCitations": 2575,
+    "citationsPerPatent": 2.4155722326454034,
+    "cpcBreadth": 24
+  },
+  {
+    "companyId": "d28dbe5d-9678-4499-aa4c-2e14661a044c",
+    "displayName": "HYUNDAI MOTOR COMPANY",
+    "patentCount": 1060,
+    "totalCitations": 244,
+    "citationsPerPatent": 0.23018867924528302,
+    "cpcBreadth": 142
+  },
+  {
+    "companyId": "113754ae-08c6-41ec-bd28-c8bf92a144d5",
+    "displayName": "PURE STORAGE, INC.",
+    "patentCount": 1056,
+    "totalCitations": 1792,
+    "citationsPerPatent": 1.696969696969697,
+    "cpcBreadth": 18
+  },
+  {
+    "companyId": "c65df695-1358-47f0-be48-9e59276a31ca",
+    "displayName": "Infineon Technologies AG",
+    "patentCount": 1020,
+    "totalCitations": 232,
+    "citationsPerPatent": 0.22745098039215686,
+    "cpcBreadth": 123
+  },
+  {
+    "companyId": "44b5791d-e50c-4761-8c57-16bc85365122",
+    "displayName": "HONDA MOTOR CO., LTD.",
+    "patentCount": 1010,
+    "totalCitations": 348,
+    "citationsPerPatent": 0.3445544554455445,
+    "cpcBreadth": 141
+  },
+  {
+    "companyId": "c94e4533-2f3c-434c-a6ad-29a243bf95ec",
+    "displayName": "Walmart Apollo, LLC",
+    "patentCount": 999,
+    "totalCitations": 645,
+    "citationsPerPatent": 0.6456456456456456,
+    "cpcBreadth": 82
+  },
+  {
+    "companyId": "167dd982-3181-4d43-b538-a87c1e3f9deb",
+    "displayName": "eBay Inc.",
+    "patentCount": 993,
+    "totalCitations": 826,
+    "citationsPerPatent": 0.8318227593152064,
+    "cpcBreadth": 59
+  },
+  {
+    "companyId": "febfb0ff-ea4f-43cc-98fc-751ceb05b066",
+    "displayName": "JPMORGAN CHASE BANK, N.A.",
+    "patentCount": 981,
+    "totalCitations": 431,
+    "citationsPerPatent": 0.43934760448521915,
+    "cpcBreadth": 28
+  },
+  {
+    "companyId": "99255cd6-0fd1-4db7-9ea7-d7932b06639e",
+    "displayName": "Salesforce.com, Inc.",
+    "patentCount": 960,
+    "totalCitations": 1453,
+    "citationsPerPatent": 1.5135416666666666,
+    "cpcBreadth": 31
+  },
+  {
+    "companyId": "e7ba8898-d31c-4305-a14e-babe6357dbe4",
+    "displayName": "Meta Platforms Technologies, LLC",
+    "patentCount": 960,
+    "totalCitations": 930,
+    "citationsPerPatent": 0.96875,
+    "cpcBreadth": 127
+  },
+  {
+    "companyId": "3cbd0e04-001d-46a5-986d-456478d9e140",
+    "displayName": "Semiconductor Energy Laboratory Co., Ltd.",
+    "patentCount": 959,
+    "totalCitations": 842,
+    "citationsPerPatent": 0.8779979144942649,
+    "cpcBreadth": 88
+  },
+  {
+    "companyId": "685932f9-d2dc-4314-a56c-b51cd7c493ea",
+    "displayName": "The Nielsen Company (US), LLC",
+    "patentCount": 946,
+    "totalCitations": 801,
+    "citationsPerPatent": 0.846723044397463,
+    "cpcBreadth": 44
+  },
+  {
+    "companyId": "32825791-bb05-4601-9f5d-88053925f5ec",
+    "displayName": "BROTHER KOGYO KABUSHIKI KAISHA",
+    "patentCount": 943,
+    "totalCitations": 203,
+    "citationsPerPatent": 0.21527041357370094,
+    "cpcBreadth": 47
+  },
+  {
+    "companyId": "c01a186d-e3a6-406b-b436-e076116358f7",
+    "displayName": "DENSO CORPORATION",
+    "patentCount": 939,
+    "totalCitations": 286,
+    "citationsPerPatent": 0.3045793397231097,
+    "cpcBreadth": 126
+  },
+  {
+    "companyId": "2bba8dd3-5a2b-4d06-864d-430285a1e82b",
+    "displayName": "Magic Leap, Inc.",
+    "patentCount": 932,
+    "totalCitations": 1898,
+    "citationsPerPatent": 2.036480686695279,
+    "cpcBreadth": 76
+  },
+  {
+    "companyId": "2e650f10-656c-4c00-a46d-0bb0dc18a1bd",
+    "displayName": "ARRIS Enterprises LLC",
+    "patentCount": 931,
+    "totalCitations": 204,
+    "citationsPerPatent": 0.21911922663802363,
+    "cpcBreadth": 59
+  },
+  {
+    "companyId": "f43e53b0-52d2-4034-9a6a-53dfad273efb",
+    "displayName": "Snowflake Inc.",
+    "patentCount": 911,
+    "totalCitations": 1454,
+    "citationsPerPatent": 1.5960482985729967,
+    "cpcBreadth": 8
+  },
+  {
+    "companyId": "2ebf03cf-acde-4ab6-841c-36257114b4ad",
+    "displayName": "BEIJING BAIDU NETCOM SCIENCE TECHNOLOGY CO., LTD.",
+    "patentCount": 910,
+    "totalCitations": 139,
+    "citationsPerPatent": 0.15274725274725276,
+    "cpcBreadth": 66
+  },
+  {
+    "companyId": "19d1ee44-cba9-44a0-8397-00a341e448b6",
+    "displayName": "ACCENTURE GLOBAL SOLUTIONS LIMITED",
+    "patentCount": 908,
+    "totalCitations": 1164,
+    "citationsPerPatent": 1.2819383259911894,
+    "cpcBreadth": 73
+  },
+  {
+    "companyId": "66bf050e-71b1-4d90-bfaf-73b92ac70de5",
+    "displayName": "Bytedance Inc.",
+    "patentCount": 887,
+    "totalCitations": 2676,
+    "citationsPerPatent": 3.0169109357384443,
+    "cpcBreadth": 21
+  },
+  {
+    "companyId": "7f6890da-532c-414e-919c-ecca40e70543",
+    "displayName": "Intuit Inc.",
+    "patentCount": 877,
+    "totalCitations": 1202,
+    "citationsPerPatent": 1.370581527936146,
+    "cpcBreadth": 25
+  },
+  {
+    "companyId": "cf25459e-aa65-4651-b834-4851f756ea55",
+    "displayName": "HONEYWELL INTERNATIONAL INC.",
+    "patentCount": 860,
+    "totalCitations": 457,
+    "citationsPerPatent": 0.5313953488372093,
+    "cpcBreadth": 130
+  },
+  {
+    "companyId": "73763b5e-b721-4b7d-87f9-d6139dba361f",
+    "displayName": "NANYA TECHNOLOGY CORPORATION",
+    "patentCount": 837,
+    "totalCitations": 205,
+    "citationsPerPatent": 0.24492234169653523,
+    "cpcBreadth": 44
+  },
+  {
+    "companyId": "9785aeaf-1a1d-4ff7-8bec-c218c7a324ae",
+    "displayName": "Palantir Technologies Inc.",
+    "patentCount": 819,
+    "totalCitations": 790,
+    "citationsPerPatent": 0.9645909645909646,
+    "cpcBreadth": 35
+  },
+  {
+    "companyId": "8ea8f29a-3897-4a55-80a9-579e39725345",
+    "displayName": "Siemens Aktiengesellschaft",
+    "patentCount": 809,
+    "totalCitations": 198,
+    "citationsPerPatent": 0.24474660074165636,
+    "cpcBreadth": 100
+  },
+  {
+    "companyId": "9934dbce-ba45-4e29-b90a-2483b624d505",
+    "displayName": "Citrix Systems, Inc.",
+    "patentCount": 802,
+    "totalCitations": 645,
+    "citationsPerPatent": 0.8042394014962594,
+    "cpcBreadth": 23
+  },
+  {
+    "companyId": "785e84ee-1f8b-4094-aa64-03f0a30c77cd",
+    "displayName": "MEDIATEK INC.",
+    "patentCount": 796,
+    "totalCitations": 459,
+    "citationsPerPatent": 0.5766331658291457,
+    "cpcBreadth": 56
+  },
+  {
+    "companyId": "a471552d-2d4b-425e-ab54-f870f5e2b08c",
+    "displayName": "The Boeing Company",
+    "patentCount": 793,
+    "totalCitations": 355,
+    "citationsPerPatent": 0.44766708701134933,
+    "cpcBreadth": 144
+  },
+  {
+    "companyId": "cbeb4ae6-87b8-496a-a804-f1d0d4fa5d7b",
+    "displayName": "MARVELL ASIA PTE LTD",
+    "patentCount": 790,
+    "totalCitations": 779,
+    "citationsPerPatent": 0.9860759493670886,
+    "cpcBreadth": 44
+  },
+  {
+    "companyId": "03d7fd68-496e-4c55-92d0-a379a2fe053f",
+    "displayName": "CHANGXIN MEMORY TECHNOLOGIES, INC.",
+    "patentCount": 787,
+    "totalCitations": 51,
+    "citationsPerPatent": 0.06480304955527319,
+    "cpcBreadth": 84
+  },
+  {
+    "companyId": "b96c2294-68a9-4d23-923c-18c34b551e51",
+    "displayName": "KYOCERA Document Solutions Inc.",
+    "patentCount": 778,
+    "totalCitations": 107,
+    "citationsPerPatent": 0.13753213367609254,
+    "cpcBreadth": 51
+  },
+  {
+    "companyId": "78f4be4a-8e2d-42b7-a070-7798a7d08ece",
+    "displayName": "UNITED MICROELECTRONICS CORP.",
+    "patentCount": 773,
+    "totalCitations": 233,
+    "citationsPerPatent": 0.3014230271668823,
+    "cpcBreadth": 54
+  },
+  {
+    "companyId": "340cd6f3-5f06-4877-8cd7-dce3dc2a26bc",
+    "displayName": "Alibaba Group Holding Limited",
+    "patentCount": 768,
+    "totalCitations": 284,
+    "citationsPerPatent": 0.3697916666666667,
+    "cpcBreadth": 52
+  },
+  {
+    "companyId": "fcd53deb-b8d9-490f-8365-521238bd7079",
+    "displayName": "REALTEK SEMICONDUCTOR CORP.",
+    "patentCount": 754,
+    "totalCitations": 98,
+    "citationsPerPatent": 0.129973474801061,
+    "cpcBreadth": 55
+  },
+  {
+    "companyId": "bc64b5ea-4618-48c6-8608-67248fc2cbb8",
+    "displayName": "NOKIA SOLUTIONS AND NETWORKS OY",
+    "patentCount": 750,
+    "totalCitations": 241,
+    "citationsPerPatent": 0.32133333333333336,
+    "cpcBreadth": 44
+  },
+  {
+    "companyId": "9fa36659-ad17-4ef8-80df-b38e540f5ad9",
+    "displayName": "Sandisk Technologies, Inc.",
+    "patentCount": 746,
+    "totalCitations": 657,
+    "citationsPerPatent": 0.8806970509383378,
+    "cpcBreadth": 41
+  },
+  {
+    "companyId": "14454bd9-b004-4fbd-b342-0adfb69320f7",
+    "displayName": "Japan Display Inc.",
+    "patentCount": 740,
+    "totalCitations": 177,
+    "citationsPerPatent": 0.2391891891891892,
+    "cpcBreadth": 65
+  },
+  {
+    "companyId": "050309ad-d938-40a9-9397-92059c9aeca5",
+    "displayName": "Charter Communications Operating, LLC",
+    "patentCount": 736,
+    "totalCitations": 729,
+    "citationsPerPatent": 0.9904891304347826,
+    "cpcBreadth": 51
+  },
+  {
+    "companyId": "a4eef04d-74e1-45aa-bc23-b3b5a05ac285",
+    "displayName": "SONOS, INC.",
+    "patentCount": 720,
+    "totalCitations": 1349,
+    "citationsPerPatent": 1.8736111111111111,
+    "cpcBreadth": 40
+  },
+  {
+    "companyId": "ac6177a2-2675-40aa-b16d-d31ae97f2174",
+    "displayName": "Ofinno, LLC",
+    "patentCount": 717,
+    "totalCitations": 513,
+    "citationsPerPatent": 0.7154811715481172,
+    "cpcBreadth": 16
+  },
+  {
+    "companyId": "5f6347fe-db73-428d-86ea-be68b72d11fa",
+    "displayName": "ServiceNow, Inc.",
+    "patentCount": 708,
+    "totalCitations": 1023,
+    "citationsPerPatent": 1.444915254237288,
+    "cpcBreadth": 20
+  },
+  {
+    "companyId": "0a89ce38-546b-4520-96f7-4d8e5aece068",
+    "displayName": "LG INNOTEK CO., LTD.",
+    "patentCount": 691,
+    "totalCitations": 380,
+    "citationsPerPatent": 0.5499276410998553,
+    "cpcBreadth": 85
+  },
+  {
+    "companyId": "a4ca8c34-393f-4b21-8c8d-2a56de3d2ff7",
+    "displayName": "NetApp, Inc.",
+    "patentCount": 689,
+    "totalCitations": 889,
+    "citationsPerPatent": 1.2902757619738752,
+    "cpcBreadth": 9
+  },
+  {
+    "companyId": "de2862a8-06a7-4fee-9ea3-751b0b19614c",
+    "displayName": "Imagination Technologies Limited",
+    "patentCount": 685,
+    "totalCitations": 210,
+    "citationsPerPatent": 0.30656934306569344,
+    "cpcBreadth": 28
+  },
+  {
+    "companyId": "23b5b1f8-b334-456b-bb5b-e33ccf2c2264",
+    "displayName": "T-Mobile Innovations LLC",
+    "patentCount": 682,
+    "totalCitations": 297,
+    "citationsPerPatent": 0.43548387096774194,
+    "cpcBreadth": 34
+  },
+  {
+    "companyId": "8d88d30d-0917-4e8d-879e-d1089d9b8dc2",
+    "displayName": "Facebook Technologies, LLC",
+    "patentCount": 670,
+    "totalCitations": 2628,
+    "citationsPerPatent": 3.9223880597014924,
+    "cpcBreadth": 115
+  },
+  {
+    "companyId": "a1503aa4-50da-4493-aef3-515c3f0dbd66",
+    "displayName": "MURATA MANUFACTURING CO., LTD.",
+    "patentCount": 670,
+    "totalCitations": 211,
+    "citationsPerPatent": 0.31492537313432833,
+    "cpcBreadth": 100
+  },
+  {
+    "companyId": "412833fa-1496-4bd6-a749-adf61ad0bfd2",
+    "displayName": "Meta Platforms, Inc.",
+    "patentCount": 659,
+    "totalCitations": 720,
+    "citationsPerPatent": 1.0925644916540211,
+    "cpcBreadth": 53
+  },
+  {
+    "companyId": "74245b1a-4bba-417a-9605-e7b8f0e0cde0",
+    "displayName": "GM GLOBAL TECHNOLOGY OPERATIONS LLC",
+    "patentCount": 643,
+    "totalCitations": 240,
+    "citationsPerPatent": 0.37325038880248834,
+    "cpcBreadth": 120
+  },
+  {
+    "companyId": "bb43619a-b996-4206-a0ae-60299351851a",
+    "displayName": "KYOCERA Corporation",
+    "patentCount": 641,
+    "totalCitations": 134,
+    "citationsPerPatent": 0.20904836193447737,
+    "cpcBreadth": 121
+  },
+  {
+    "companyId": "6b5da3ff-af99-4c1e-af14-0f73b3dd8a03",
+    "displayName": "Motorola Mobility LLC",
+    "patentCount": 634,
+    "totalCitations": 412,
+    "citationsPerPatent": 0.6498422712933754,
+    "cpcBreadth": 68
+  },
+  {
+    "companyId": "6b2d476f-b87f-4bb2-9c98-6577acccf696",
+    "displayName": "GoPro, Inc.",
+    "patentCount": 630,
+    "totalCitations": 697,
+    "citationsPerPatent": 1.1063492063492064,
+    "cpcBreadth": 50
+  },
+  {
+    "companyId": "c4dea9f9-3e42-428e-9c8e-f28b32e92256",
+    "displayName": "FG Innovation Company Limited",
+    "patentCount": 596,
+    "totalCitations": 509,
+    "citationsPerPatent": 0.8540268456375839,
+    "cpcBreadth": 12
+  },
+  {
+    "companyId": "e63f00ee-1305-4a43-8983-05d7dd08a1a5",
+    "displayName": "ADVANCED SEMICONDUCTOR ENGINEERING, INC.",
+    "patentCount": 590,
+    "totalCitations": 126,
+    "citationsPerPatent": 0.2135593220338983,
+    "cpcBreadth": 56
+  },
+  {
+    "companyId": "1ef5ff81-9d94-4852-a63f-44f4ae93c592",
+    "displayName": "Chengdu BOE Optoelectronics Technology Co., Ltd.",
+    "patentCount": 589,
+    "totalCitations": 182,
+    "citationsPerPatent": 0.3089983022071307,
+    "cpcBreadth": 57
+  },
+  {
+    "companyId": "0f69ea90-adb6-41cd-9c67-fd41c37afabd",
+    "displayName": "NXP USA, Inc.",
+    "patentCount": 585,
+    "totalCitations": 264,
+    "citationsPerPatent": 0.4512820512820513,
+    "cpcBreadth": 69
+  },
+  {
+    "companyId": "fbffa6c6-1d3e-4512-aa3f-f25ac5da9278",
+    "displayName": "The Toronto-Dominion Bank",
+    "patentCount": 579,
+    "totalCitations": 516,
+    "citationsPerPatent": 0.8911917098445595,
+    "cpcBreadth": 37
+  },
+  {
+    "companyId": "4648bb6f-8f8c-415d-883a-e613496f3780",
+    "displayName": "INNOLUX CORPORATION",
+    "patentCount": 576,
+    "totalCitations": 140,
+    "citationsPerPatent": 0.24305555555555555,
+    "cpcBreadth": 53
+  },
+  {
+    "companyId": "3de3548a-4455-42aa-95ee-2b183aa7abde",
+    "displayName": "Tata Consultancy Services Limited",
+    "patentCount": 574,
+    "totalCitations": 178,
+    "citationsPerPatent": 0.31010452961672474,
+    "cpcBreadth": 97
+  },
+  {
+    "companyId": "a60f38d2-f2d5-4f86-bd72-5840b4cff1ab",
+    "displayName": "TOSHIBA TEC KABUSHIKI KAISHA",
+    "patentCount": 567,
+    "totalCitations": 101,
+    "citationsPerPatent": 0.1781305114638448,
+    "cpcBreadth": 66
+  },
+  {
+    "companyId": "8220c40c-0786-44a4-a524-207128296831",
+    "displayName": "Fraunhofer-Gesellschaft zur f\u00f6rderung der angewandten Forschung e.V.",
+    "patentCount": 564,
+    "totalCitations": 248,
+    "citationsPerPatent": 0.4397163120567376,
+    "cpcBreadth": 84
+  },
+  {
+    "companyId": "9d0949b6-7038-4ffc-9e3c-d41e29db4a50",
+    "displayName": "DATANG MOBILE COMMUNICATIONS EQUIPMENT CO., LTD.",
+    "patentCount": 563,
+    "totalCitations": 134,
+    "citationsPerPatent": 0.23801065719360567,
+    "cpcBreadth": 16
+  },
+  {
+    "companyId": "c111e70d-783e-441e-9cca-7873bf326c98",
+    "displayName": "SEMICONDUCTOR COMPONENTS INDUSTRIES, LLC",
+    "patentCount": 560,
+    "totalCitations": 192,
+    "citationsPerPatent": 0.34285714285714286,
+    "cpcBreadth": 62
+  },
+  {
+    "companyId": "52a0ec3a-fd65-4ff4-b182-fef327a3ab72",
+    "displayName": "XILINX, INC.",
+    "patentCount": 559,
+    "totalCitations": 621,
+    "citationsPerPatent": 1.110912343470483,
+    "cpcBreadth": 47
+  },
+  {
+    "companyId": "2be80f43-bcd6-4ee9-85fd-3ab5982f800f",
+    "displayName": "Rambus Inc.",
+    "patentCount": 559,
+    "totalCitations": 183,
+    "citationsPerPatent": 0.32737030411449014,
+    "cpcBreadth": 35
+  },
+  {
+    "companyId": "ab31b38f-276a-4d93-baee-6b5b1ac19e17",
+    "displayName": "Disney Enterprises, Inc.",
+    "patentCount": 558,
+    "totalCitations": 325,
+    "citationsPerPatent": 0.5824372759856631,
+    "cpcBreadth": 71
+  },
+  {
+    "companyId": "fbd4feb9-cf85-4cdc-82ec-b1a6318906b8",
+    "displayName": "Roku, Inc.",
+    "patentCount": 554,
+    "totalCitations": 317,
+    "citationsPerPatent": 0.572202166064982,
+    "cpcBreadth": 42
+  },
+  {
+    "companyId": "b0c389ad-f8a8-4bef-ae6a-f77f50fd53d3",
+    "displayName": "BlackBerry Limited",
+    "patentCount": 553,
+    "totalCitations": 407,
+    "citationsPerPatent": 0.7359855334538878,
+    "cpcBreadth": 51
+  },
+  {
+    "companyId": "d58916df-c171-4a12-bdb1-ff5a9e25b09f",
+    "displayName": "YANGTZE MEMORY TECHNOLOGIES CO., LTD.",
+    "patentCount": 553,
+    "totalCitations": 278,
+    "citationsPerPatent": 0.5027124773960217,
+    "cpcBreadth": 31
+  },
+  {
+    "companyId": "68ae61e9-eeae-4955-9a17-f028ad3e9d5f",
+    "displayName": "NXP B.V.",
+    "patentCount": 553,
+    "totalCitations": 241,
+    "citationsPerPatent": 0.4358047016274864,
+    "cpcBreadth": 83
+  },
+  {
+    "companyId": "6acb4187-6a8b-450e-84b9-b847e54169c0",
+    "displayName": "KIA CORPORATION",
+    "patentCount": 551,
+    "totalCitations": 45,
+    "citationsPerPatent": 0.08166969147005444,
+    "cpcBreadth": 108
+  },
+  {
+    "companyId": "8b53b853-c816-41e1-8120-60cdb2f0e147",
+    "displayName": "Rohm Co., Ltd.",
+    "patentCount": 544,
+    "totalCitations": 181,
+    "citationsPerPatent": 0.3327205882352941,
+    "cpcBreadth": 82
+  },
+  {
+    "companyId": "b2b27017-d188-410f-a18d-fa1f2fa6220f",
+    "displayName": "STMicroelectronics SA",
+    "patentCount": 537,
+    "totalCitations": 218,
+    "citationsPerPatent": 0.4059590316573557,
+    "cpcBreadth": 96
+  },
+  {
+    "companyId": "7b405dea-89a9-4a86-9e9e-613053f4c76b",
+    "displayName": "Waymo LLC",
+    "patentCount": 536,
+    "totalCitations": 444,
+    "citationsPerPatent": 0.8283582089552238,
+    "cpcBreadth": 67
+  },
+  {
+    "companyId": "87144e7a-375b-47f0-897a-a0f1a2af64ab",
+    "displayName": "LENOVO (BEIJING) LIMITED",
+    "patentCount": 526,
+    "totalCitations": 96,
+    "citationsPerPatent": 0.18250950570342206,
+    "cpcBreadth": 58
+  },
+  {
+    "companyId": "272dfb0c-1161-4d41-b826-fe889204c8ca",
+    "displayName": "Sun Patent Trust",
+    "patentCount": 520,
+    "totalCitations": 142,
+    "citationsPerPatent": 0.27307692307692305,
+    "cpcBreadth": 19
+  },
+  {
+    "companyId": "3a3d6028-9ff9-409c-a7af-decc6e934d25",
+    "displayName": "FUJI ELECTRIC CO., LTD.",
+    "patentCount": 511,
+    "totalCitations": 83,
+    "citationsPerPatent": 0.162426614481409,
+    "cpcBreadth": 56
+  },
+  {
+    "companyId": "48403be8-645b-44cc-96df-da4f7dcf8257",
+    "displayName": "KIA MOTORS CORPORATION",
+    "patentCount": 508,
+    "totalCitations": 199,
+    "citationsPerPatent": 0.39173228346456695,
+    "cpcBreadth": 115
+  },
+  {
+    "companyId": "95435618-ddf1-494e-808a-ba65ecbe3fc6",
+    "displayName": "Kyndryl, Inc.",
+    "patentCount": 500,
+    "totalCitations": 146,
+    "citationsPerPatent": 0.292,
+    "cpcBreadth": 66
+  },
+  {
+    "companyId": "85aa203f-4915-4f8b-b69d-baeea5b95fb0",
+    "displayName": "Allstate Insurance Company",
+    "patentCount": 499,
+    "totalCitations": 763,
+    "citationsPerPatent": 1.529058116232465,
+    "cpcBreadth": 43
+  },
+  {
+    "companyId": "1c183386-2ff7-49d1-b638-79442ff14928",
+    "displayName": "FACEBOOK, INC.",
+    "patentCount": 497,
+    "totalCitations": 2043,
+    "citationsPerPatent": 4.110663983903421,
+    "cpcBreadth": 53
+  },
+  {
+    "companyId": "444d0251-0c70-4df9-8b19-654f9d4e351e",
+    "displayName": "Wacom Co., Ltd.",
+    "patentCount": 492,
+    "totalCitations": 190,
+    "citationsPerPatent": 0.3861788617886179,
+    "cpcBreadth": 47
+  },
+  {
+    "companyId": "6e67988a-bb7b-4fd0-b9bc-720bf2b00387",
+    "displayName": "ORANGE",
+    "patentCount": 485,
+    "totalCitations": 83,
+    "citationsPerPatent": 0.1711340206185567,
+    "cpcBreadth": 51
+  },
+  {
+    "companyId": "cb8deeb0-4def-4731-830e-bd0ef71cdb78",
+    "displayName": "HERE GLOBAL B.V.",
+    "patentCount": 483,
+    "totalCitations": 277,
+    "citationsPerPatent": 0.5734989648033126,
+    "cpcBreadth": 47
+  },
+  {
+    "companyId": "2763ea9f-9b82-423b-a9d3-7f9cd1b25c45",
+    "displayName": "SAUDI ARABIAN OIL COMPANY",
+    "patentCount": 479,
+    "totalCitations": 246,
+    "citationsPerPatent": 0.5135699373695198,
+    "cpcBreadth": 104
+  },
+  {
+    "companyId": "49698922-e5a7-4974-bc1e-94a3f7882cfb",
+    "displayName": "NICHIA CORPORATION",
+    "patentCount": 470,
+    "totalCitations": 95,
+    "citationsPerPatent": 0.20212765957446807,
+    "cpcBreadth": 54
+  },
+  {
+    "companyId": "c743e7d8-5290-412a-aeeb-edef2348822a",
+    "displayName": "General Electric Company",
+    "patentCount": 468,
+    "totalCitations": 284,
+    "citationsPerPatent": 0.6068376068376068,
+    "cpcBreadth": 110
+  },
+  {
+    "companyId": "1f2f018e-0808-4076-8fcb-2484e4fe2a38",
+    "displayName": "MOTOROLA SOLUTIONS, INC.",
+    "patentCount": 465,
+    "totalCitations": 155,
+    "citationsPerPatent": 0.3333333333333333,
+    "cpcBreadth": 66
+  },
+  {
+    "companyId": "92eee30c-99b0-417d-a58c-20cf35aa1a12",
+    "displayName": "OMRON CORPORATION",
+    "patentCount": 465,
+    "totalCitations": 87,
+    "citationsPerPatent": 0.1870967741935484,
+    "cpcBreadth": 87
+  },
+  {
+    "companyId": "9808060b-deb1-4595-8dab-ba6958d0112e",
+    "displayName": "Lam Research Corporation",
+    "patentCount": 461,
+    "totalCitations": 524,
+    "citationsPerPatent": 1.1366594360086768,
+    "cpcBreadth": 82
+  },
+  {
+    "companyId": "46a081ee-ea84-4236-a117-3b2a820fa364",
+    "displayName": "Siemens Healthcare Limited",
+    "patentCount": 461,
+    "totalCitations": 383,
+    "citationsPerPatent": 0.8308026030368764,
+    "cpcBreadth": 40
+  },
+  {
+    "companyId": "3568da9b-e883-4aff-aca2-3659be04e7d4",
+    "displayName": "ASM IP Holding B.V.",
+    "patentCount": 460,
+    "totalCitations": 292,
+    "citationsPerPatent": 0.6347826086956522,
+    "cpcBreadth": 52
+  },
+  {
+    "companyId": "3f0e3450-749a-4cff-aa0f-73365e937e6f",
+    "displayName": "WUHAN CHINA STAR OPTOELECTRONICS SEMICONDUCTOR DISPLAY TECHNOLOGY CO., LTD.",
+    "patentCount": 459,
+    "totalCitations": 238,
+    "citationsPerPatent": 0.5185185185185185,
+    "cpcBreadth": 52
+  },
+  {
+    "companyId": "77f10840-be08-409c-be09-620787370abc",
+    "displayName": "Arista Networks, Inc.",
+    "patentCount": 458,
+    "totalCitations": 126,
+    "citationsPerPatent": 0.27510917030567683,
+    "cpcBreadth": 25
+  },
+  {
+    "companyId": "7bbf70e2-5295-4c54-a101-5c255765a8ce",
+    "displayName": "DISCO CORPORATION",
+    "patentCount": 458,
+    "totalCitations": 58,
+    "citationsPerPatent": 0.12663755458515283,
+    "cpcBreadth": 74
+  },
+  {
+    "companyId": "95ec6459-a177-45b3-b800-6c672e10cec9",
+    "displayName": "Commvault Systems, Inc.",
+    "patentCount": 457,
+    "totalCitations": 1146,
+    "citationsPerPatent": 2.5076586433260393,
+    "cpcBreadth": 13
+  },
+  {
+    "companyId": "92f688e6-e51f-4cf1-9f0d-77f843d8d312",
+    "displayName": "Silicon Motion, Inc.",
+    "patentCount": 450,
+    "totalCitations": 115,
+    "citationsPerPatent": 0.25555555555555554,
+    "cpcBreadth": 16
+  },
+  {
+    "companyId": "12688bee-4576-48c8-8fb2-b958190581b0",
+    "displayName": "Dolby Laboratories Licensing Corporation",
+    "patentCount": 448,
+    "totalCitations": 283,
+    "citationsPerPatent": 0.6316964285714286,
+    "cpcBreadth": 49
+  },
+  {
+    "companyId": "f4ef22cc-4da7-4f72-b8b4-415c304218af",
+    "displayName": "MAXELL, LTD.",
+    "patentCount": 448,
+    "totalCitations": 139,
+    "citationsPerPatent": 0.31026785714285715,
+    "cpcBreadth": 63
+  },
+  {
+    "companyId": "6916a6ef-b05b-406c-95b2-df0229aff3ed",
+    "displayName": "Adeia Guides Inc.",
+    "patentCount": 447,
+    "totalCitations": 14,
+    "citationsPerPatent": 0.03131991051454139,
+    "cpcBreadth": 42
+  },
+  {
+    "companyId": "35deee96-61e1-40f1-b5d4-75ce8a9439cf",
+    "displayName": "Dropbox, Inc.",
+    "patentCount": 445,
+    "totalCitations": 195,
+    "citationsPerPatent": 0.43820224719101125,
+    "cpcBreadth": 15
+  },
+  {
+    "companyId": "9e8542bf-1e3f-45ae-8584-6a6bbdce5021",
+    "displayName": "Raytheon Company",
+    "patentCount": 443,
+    "totalCitations": 229,
+    "citationsPerPatent": 0.5169300225733634,
+    "cpcBreadth": 102
+  },
+  {
+    "companyId": "a3255588-add3-42bf-b623-792b712e74fb",
+    "displayName": "Cable Television Laboratories, Inc.",
+    "patentCount": 437,
+    "totalCitations": 237,
+    "citationsPerPatent": 0.5423340961098398,
+    "cpcBreadth": 31
+  },
+  {
+    "companyId": "d41b7b6c-bba6-41d1-ae49-26b4993d70b0",
+    "displayName": "ASUSTEK COMPUTER INC.",
+    "patentCount": 436,
+    "totalCitations": 530,
+    "citationsPerPatent": 1.2155963302752293,
+    "cpcBreadth": 67
+  },
+  {
+    "companyId": "48cce3e6-154b-4189-aec6-9b53ad3ec076",
+    "displayName": "SYNOPSYS, INC.",
+    "patentCount": 433,
+    "totalCitations": 175,
+    "citationsPerPatent": 0.40415704387990764,
+    "cpcBreadth": 37
+  },
+  {
+    "companyId": "de91167f-16cd-48db-9f33-0ebbe14ff8f8",
+    "displayName": "BAIDU ONLINE NETWORK TECHNOLOGY (BEIJING) CO., LTD.",
+    "patentCount": 417,
+    "totalCitations": 93,
+    "citationsPerPatent": 0.22302158273381295,
+    "cpcBreadth": 46
+  },
+  {
+    "companyId": "449f1352-11dd-4ab5-b084-e67f8b239fa5",
+    "displayName": "Rockwell Automation Technologies, Inc.",
+    "patentCount": 409,
+    "totalCitations": 312,
+    "citationsPerPatent": 0.7628361858190709,
+    "cpcBreadth": 51
+  },
+  {
+    "companyId": "016ffc54-ac6c-42eb-8243-cc4bf6216bc0",
+    "displayName": "RENESAS ELECTRONICS CORPORATION",
+    "patentCount": 409,
+    "totalCitations": 91,
+    "citationsPerPatent": 0.22249388753056235,
+    "cpcBreadth": 64
+  },
+  {
+    "companyId": "728fa01d-520b-455a-92ea-b0667a5fd0d3",
+    "displayName": "Palo Alto Networks, Inc.",
+    "patentCount": 408,
+    "totalCitations": 448,
+    "citationsPerPatent": 1.0980392156862746,
+    "cpcBreadth": 12
+  },
+  {
+    "companyId": "dae8711d-2e22-4f98-bf64-e07439c4c717",
+    "displayName": "OPEN TEXT CORPORATION",
+    "patentCount": 405,
+    "totalCitations": 337,
+    "citationsPerPatent": 0.8320987654320988,
+    "cpcBreadth": 14
+  },
+  {
+    "companyId": "f45b0f74-8334-42cb-a34f-fe4bd7c7fb61",
+    "displayName": "KONICA MINOLTA, INC.",
+    "patentCount": 403,
+    "totalCitations": 67,
+    "citationsPerPatent": 0.1662531017369727,
+    "cpcBreadth": 66
+  },
+  {
+    "companyId": "296e1257-bdd7-4c2e-9592-b2bba5dd3034",
+    "displayName": "Block, Inc.",
+    "patentCount": 402,
+    "totalCitations": 475,
+    "citationsPerPatent": 1.181592039800995,
+    "cpcBreadth": 30
+  },
+  {
+    "companyId": "c91b9d56-dd72-4660-aa7e-9ec4fdca3c47",
+    "displayName": "Seagate Technology LLC",
+    "patentCount": 402,
+    "totalCitations": 247,
+    "citationsPerPatent": 0.6144278606965174,
+    "cpcBreadth": 62
+  },
+  {
+    "companyId": "c4a4b482-8d85-4d7d-b23b-96e33e63fdc5",
+    "displayName": "TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC.",
+    "patentCount": 402,
+    "totalCitations": 185,
+    "citationsPerPatent": 0.4601990049751244,
+    "cpcBreadth": 113
+  },
+  {
+    "companyId": "bb7468ed-a327-485a-90df-666047b26c41",
+    "displayName": "AT&T Mobility II LLC",
+    "patentCount": 401,
+    "totalCitations": 268,
+    "citationsPerPatent": 0.6683291770573566,
+    "cpcBreadth": 43
+  },
+  {
+    "companyId": "b3534fbc-e6cc-4137-b729-ea18e5cdeda7",
+    "displayName": "OLYMPUS CORPORATION",
+    "patentCount": 401,
+    "totalCitations": 78,
+    "citationsPerPatent": 0.19451371571072318,
+    "cpcBreadth": 56
+  }
+]

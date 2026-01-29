@@ -1,0 +1,555 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430834,2025-09-30,Video-generation system with structured data-based video generation feature,0,G06F|G06N|G06T|G06V|G10L
+12425072,2025-09-23,Proving physical possession of internet-of-things (IOT) devices,0,G16Y|H04B|H04L|H04W
+12423741,2025-09-23,Coordinated processing of food ordering based on media content presentation,0,G06Q|H04N
+12413821,2025-09-09,Web-based content presentation via smart television device application,0,H04N
+12413810,2025-09-09,Television upgrade,0,H04N
+12411556,2025-09-09,Using gestures to control a media player,0,G06F|G06T|G06V|H04N
+12408250,2025-09-02,Using movement of an end-user between monitored environments to trigger an action at an Internet of Things device,0,H04L|H04W|H05B
+12406000,2025-09-02,Video fingerprinting,0,G06F
+12401915,2025-08-26,Camera time-based motion trails and motion heat-maps for periodic captured images,0,G06T|G06V|H04N
+12401852,2025-08-26,Computing device upgrading system over a wireless network,0,H04N
+12395697,2025-08-19,Using motion and presence of an end-user to switch operational modes of an internet of things device,0,G06F|H04N|H04W
+12394298,2025-08-19,Dynamic collection and reporting of customer premises context information in response to predicted emergency event,0,G08B|H04L
+12389088,2025-08-12,Use of watermarking to trigger fingerprint-related action,0,G06F|H04N
+12389055,2025-08-12,Interest based recommendation system,0,G06Q|H04N
+12382120,2025-08-05,Content-modification system with overlay handling feature,0,H04N
+12380464,2025-08-05,Real-time guaranteed campaign delivery optimization using broadcast schedules and historic viewing data,0,G06Q|H04N
+12375753,2025-07-29,Audio duplication and redirection system,0,H04N
+12374328,2025-07-29,Dynamic domain-adapted automatic speech recognition system,0,G06F|G10L
+12373221,2025-07-29,Fast boot system,0,G06F
+12367477,2025-07-22,Secure payment using a radio frequency identification (RFID) enabled remote control,0,G06Q|H04N
+12365009,2025-07-22,Air filter and wiper blades for reducing particle inside electronic devices,0,B01D|B08B|G06F
+12363800,2025-07-15,Radio frequency remote control,0,G06F|G08C|H04N|H04W
+12363742,2025-07-15,Dynamic private Wi-Fi channel selection,0,G08C|H04W
+12363367,2025-07-15,Tailoring and censoring content based on a detected audience,0,G06V|G10L|H04N
+12361945,2025-07-15,Voice control device with push-to-talk (PTT) and mute controls,0,G06F|G10L|H04N|H04R|H04W
+12353685,2025-07-08,Customizing a user interface based on user capabilities,0,G06F|H04N
+12348815,2025-07-01,Dynamic control of media-content presentation based on user presence and/or user profile,0,H04N
+12348805,2025-07-01,Demographic classification of media accounts based on media content data,0,G06Q|H04N
+12348795,2025-07-01,Automatically determining an optimal supplemental content spot in a media stream,0,H04N
+12348793,2025-07-01,Product metrics monitoring and anomaly detection using machine learning models,0,G06F|G06N|H04N
+12346480,2025-07-01,Use of obfuscation marker to obfuscate a face image and enable computerized face identification,0,G06F|G06V
+12342012,2025-06-24,Intelligent download of content,0,H04N
+12335547,2025-06-17,Candidate ranking for content recommendation,0,G06F|H04N
+12334115,2025-06-17,Method and system for generating synthetic video advertisements,0,G06Q|G10L|G11B
+12330023,2025-06-17,Platform for visual tracking of user fitness,0,A63B|A63F|G06T|G06V
+12328485,2025-06-10,Message processing using a client-side control group,0,H04L|H04N
+12328468,2025-06-10,Synchronization with synthesized audio clock,0,H03L|H04N
+12323654,2025-06-03,Advertisement placement for stream media,0,H04N
+12323364,2025-06-03,Hub station with channel switching feature,0,H04L|H04W
+12316921,2025-05-27,Content classifiers for automatic picture and sound modes,0,H04N
+12316495,2025-05-27,System performance degradation mitigation based on prioritizable mitigating actions,0,G06F|H04L
+12309452,2025-05-20,Detection of mute and compensation therefor during media replacement event,0,G06Q|H04N
+12309451,2025-05-20,Dynamic replacement of objectionable content in linear content streams,0,G06V|H04N
+12309036,2025-05-20,Reverse wireless discovery for adding an IoT device to an IoT ecosystem,0,H04L|H04W
+12307428,2025-05-20,"Automated payments performance monitoring, alerting and recommendation framework",0,G06F|G06N|G06Q
+12306875,2025-05-20,Multiple query projections for deep machine learning,0,G06F
+12301897,2025-05-13,Emotion evaluation of contents,0,G06V|H04N
+12300274,2025-05-13,Content system with user-input based video content generation feature,0,G06N|G11B|H04N
+12292774,2025-05-06,Brown out condition detection and device calibration,0,G06F|H04L|H04N|H04W|Y02D
+12289386,2025-04-29,Receiver for high precision synchronization,0,H04B|H04J|H04L|H04N|H04W
+12288569,2025-04-29,Audio time synchronization using prioritized schedule,0,G11B|H04N
+12282784,2025-04-22,Media device user interface and content personalization using natural language prompts,0,G06F|G10L
+12265993,2025-04-01,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems and content affinity modeling,0,G06Q|H04N
+12265746,2025-04-01,"Controlling visual indicators in an audio responsive electronic device, and capturing and providing audio using an API, by native and non-native computing devices and services",0,G06F|G08C|G10L
+12261908,2025-03-25,Synchronization of multimedia content presentation across multiple devices in a watch party,0,H04L
+12260882,2025-03-25,Actor-replacement system for videos,0,G06F|G06T|G06V|G10L|G11B
+12260076,2025-03-25,User control mode of a companion application,0,G06F|H04N
+12256175,2025-03-18,Generating a user avatar for video communications,0,G06T|G06V|H04N
+12256126,2025-03-18,Smart remote control for audio responsive media device,0,G06F|H04N
+12255776,2025-03-18,Dynamic reconfiguration of control-group pairing in response to operational failure,0,H04L
+12250255,2025-03-11,Skipping the opening sequence of streaming content,0,H04L|H04N
+12249054,2025-03-11,Dynamic tone mapping,0,G06T|H04N
+12248330,2025-03-11,Smart switch with functionalities determined based on a grounded conductor connection,0,G05F|G06F|H04L
+12244885,2025-03-04,Personalized content related to content being viewed,0,H04N
+12238392,2025-02-25,Computing system with device attestation feature,0,G06F|H04L|H04N
+12238366,2025-02-25,Real-time objects insertion into content based on frame identifiers,0,G06T|G06V|H04N
+12235905,2025-02-25,Content display and clustering system,0,G06F|H04N
+12225427,2025-02-11,Tracking proximities of devices and/or objects,0,G08B|H04W
+12219442,2025-02-04,Power monitoring of devices,0,H04L|H04W
+12219190,2025-02-04,Recommendation system with reduced bias based on a view history,0,H04N
+12212795,2025-01-28,Content-modification system with probability-based selection feature,0,H04N
+12206926,2025-01-21,Crowd sourced indexing and/or searching of content,0,G06F|H04L|H04N
+12204818,2025-01-21,Transmitting messages to a display device based on detected audio output,0,G06F|H04N|H04R|H04S
+12200310,2025-01-14,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems and content modeling for user exploration and awareness,0,G06Q|H04N
+12200302,2025-01-14,Media device upgrading system with networking capabilities,0,H04N
+12200301,2025-01-14,Replacement of digital content in data streams,0,H04N
+12199790,2025-01-14,Dynamic provisioning of IoT devices from an online application marketplace,0,H04L
+12198700,2025-01-14,Media system with closed-captioning data and/or subtitle data generation features,0,G10L|H04N
+12198434,2025-01-14,Dynamic triggering and processing of purchase based on computer detection of media object,0,G06N|G06V|H04N
+12192560,2025-01-07,Private listening system for streaming audio and video,0,H04N
+12192553,2025-01-07,Content delivery optimization based on predicted effectiveness of linear content schedule,0,H04N
+12192552,2025-01-07,Controlling media-content presentation based on movement of media-player device from home location to visited location,0,H04N
+12192541,2025-01-07,Adaptive audio bitrate selection,0,H04N
+12190864,2025-01-07,Interest-based conversational recommendation system,0,G06N|G10L
+12177520,2024-12-24,HDMI customized ad insertion,0,G06V|H04N
+12177519,2024-12-24,Dynamic splash screen during an application launch sequence for media streaming devices,0,G06F|H04N
+12170824,2024-12-17,Overriding multimedia device,0,G06F|G06N|H04N
+12167076,2024-12-10,Dynamic video overlays,0,H04N
+12160779,2024-12-03,Detecting and switching wireless networks,0,H04L|H04W
+12160637,2024-12-03,Playing media contents based on metadata indicating content categories,0,G06V|H04N
+12160632,2024-12-03,Preserving channel lock and performing dynamic ad insertion (DAI) in a multi-device setup,0,H04N
+12159637,2024-12-03,Using non-audio data embedded in an audio signal,0,G06F|G10L|H04R|H04S
+12156298,2024-11-26,Real-time assessment of multimedia service in a particular environment,0,H04W
+12155878,2024-11-26,Demographic predictions for content items,0,H04N
+12155408,2024-11-26,Identifying electronic devices in a room using a spread code,0,H04B|H04J|H04L|H04R|H04S
+12153588,2024-11-26,Multimodal analysis for content item semantic retrieval and identification,0,G06F
+12153155,2024-11-26,Mobile device based control device locator,0,G01S|H04W
+12149780,2024-11-19,Multi-interface streaming media system,0,G06F|G09G|H04N
+12149772,2024-11-19,Method and system for controlling lighting in a viewing area of a content-presentation device,0,H04N|H05B
+12149771,2024-11-19,Non-television experience triggers,0,H04N
+12149768,2024-11-19,"Media channel identification and action, with disambiguation through client-side fingerprint matching of channel-specific icon",0,H04N
+12143688,2024-11-12,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems,0,H04N
+12141009,2024-11-12,Dynamic battery back-up for set-top-boxes,0,G06F|H02J|H04N|Y02B|Y02D|Y04S
+12137279,2024-11-05,Methods and systems for determining creation attributes of video content,0,H04N
+12137273,2024-11-05,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems and advanced banner personalization,0,H04N
+12137265,2024-11-05,Machine learning for adaptive bitrate selection,0,G06N|H04N
+12136080,2024-11-05,Ad-hoc lightweight mPOS remote control,0,G06K|G06Q|G07F|H04W
+12132976,2024-10-29,Automated trailer generation,0,G06F|H04N
+12132970,2024-10-29,Distributing digital data in a distributed computing environment,0,G06F|H04N
+12132955,2024-10-29,Modifying playback of replacement content based on control messages,0,H04N
+12131202,2024-10-29,Cloud computation for applications on media devices,0,G06F|H04N
+12126874,2024-10-22,Content acquisition system,0,G06Q|H04N
+12126869,2024-10-22,Port-connected television upgrader device,0,G06F|H04N
+12126859,2024-10-22,Server-side streaming content stitching,0,H04N
+12124635,2024-10-22,Using gestures to control a media player,1,G06F|G06T|G06V|H04N
+12118997,2024-10-15,Use of relative time of receipt of voice command as basis to control response to voice command,0,G06F|G10L
+12114041,2024-10-08,Using motion and presence of an end-user in and out of a monitored environment to trigger an action at an Internet of Things device,0,G11B|H04N
+12112096,2024-10-08,Audio command interface for a multimedia device,0,G06F|H04N
+12105739,2024-10-01,Mass insertion into single-threaded databases,0,G06F
+12101854,2024-09-24,Control a dimming level of an illumination load by a dimmer device,0,H04N|H05B
+12101531,2024-09-24,Providing customized entertainment experience using human presence detection,0,G01V|G06N|H04H|H04N
+12101518,2024-09-24,"Method and system for re-uniting metadata with media-stream content at a media client, to facilitate action by the media client",0,H04N
+12088890,2024-09-10,Searching and displaying multimedia search results,0,G06F|H04N
+12081845,2024-09-03,Computing system with channel-change-based trigger feature,0,G06N|G06V|H04N
+12079899,2024-09-03,Modifying graphics rendering by transcoding a serialized command stream,0,G06T|G09G
+12075119,2024-08-27,Speaker-identification model for controlling operation of a media player,0,H04N
+12075108,2024-08-27,Content-modification system with unscheduling feature,0,H04N
+12069325,2024-08-20,Demographic classification of media accounts based on media content data,0,G06Q|H04N
+12056496,2024-08-06,Fast boot system,1,G06F
+12052445,2024-07-30,Method and system for remotely controlling consumer electronic devices,0,H04N
+12047617,2024-07-23,Automatically determining an optimal supplemental content spot in a media stream,0,H04N
+12041282,2024-07-16,Secure remote-less configuration of a media playback device,0,H04N|H04W
+12039653,2024-07-16,Video-content system with narrative-based video content generation feature,0,G06F|G06T
+12035003,2024-07-09,Content-modification system with user experience analysis feature,0,H04N
+12034983,2024-07-09,Centralized mediation between ad-replacement platforms,0,G06Q|H04N
+12034618,2024-07-09,IPV6 connectivity test and DNS improvements,0,H04L
+12033625,2024-07-09,Voice control device with push-to-talk (PTT) and mute controls,0,G06F|G10L|H04N|H04R|H04W
+12028571,2024-07-02,Content-modification system with issue detection and responsive action feature,0,H04N
+12028561,2024-07-02,"Advanced creation of slightly-different-duration versions of a supplemental content segment, and selection and use of an appropriate-duration version, to facilitate dynamic content modification",0,H04N
+12015833,2024-06-18,Use of watermarking to trigger fingerprint-related action,0,G06F|H04N
+12015810,2024-06-18,Intelligent download of content,0,H04N
+12014753,2024-06-18,Actor-replacement system for videos,0,G06F|G06T|G06V|G10L|G11B
+12014615,2024-06-18,Dynamic collection and reporting of customer premises context information in response to predicted emergency event,0,G08B|H04L
+12010376,2024-06-11,Content modification system with technical characteristic-based selection feature,0,H04N
+12003812,2024-06-04,Content-modification system with feature for controlling viewer exposure to spoilers in advertisements,1,H04N
+12003805,2024-06-04,Resuming playback on multiple streaming devices,0,G06F|H04M|H04N
+11997562,2024-05-28,Tracking proximities of devices and/or objects,0,G08B|H04W
+11997424,2024-05-28,Streaming a video chat from a mobile device to a display device using a rotating base,0,H04N
+11985393,2024-05-14,Content-modification system with client-side advertisement caching,0,G06N|G06Q|H04N
+11985385,2024-05-14,Dynamic control of media-content presentation based on user presence and/or user profile,1,H04N
+11985377,2024-05-14,Combined media capability for multiple media devices,0,G06F|G09G|H04N
+11983057,2024-05-14,Brown out condition detection and device calibration,0,G06F|H04L|H04N|H04W|Y02D
+11966337,2024-04-23,Providing rolling updates of distributed systems with a shared cache,0,G06F
+11962870,2024-04-16,Content-modification system with quiet content detection feature,0,H04N
+11962853,2024-04-16,Computing device upgrading system over a wireless network,1,H04N
+11962846,2024-04-16,Use of steganographically-encoded data as basis to control dynamic content modification as to at least one modifiable-content segment identified based on fingerprint analysis,0,G06F|H04N
+11962841,2024-04-16,Television upgrade,0,H04N
+11962839,2024-04-16,Content-modification system with testing and reporting feature,0,H04N
+11961521,2024-04-16,Media system with multiple digital assistants,1,G06F|G10L|H04L
+11961171,2024-04-16,Interactive media object system with modular-based feature,0,G06F|G06T
+11956175,2024-04-09,Hub station with channel switching feature,0,H04L|H04W
+11954400,2024-04-09,Transmitting messages to a display device based on detected audio output,1,G06F|H04N|H04R|H04S
+11951357,2024-04-09,Platform for visual tracking of user fitness,0,A63B|A63F|G06T|G06V
+11949965,2024-04-02,Media system with presentation area data analysis and segment insertion feature,0,H04N
+11948172,2024-04-02,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems and content affinity modeling,0,G06Q|H04N
+11943497,2024-03-26,Network-based audio playback,0,G10L|H04N|H04R
+11942116,2024-03-26,Method and system for generating synthetic video advertisements,1,G06Q|G10L|G11B
+11941067,2024-03-26,Content display and clustering system,0,G06F|H04N
+11937026,2024-03-19,Responsive to detection of remote control signals that modify operation of the playback device,0,G11B|H04N
+11936948,2024-03-19,Method and system for generating a visual composition of user reactions in a shared content viewing session,0,G06V|H04N
+11936765,2024-03-19,High precision synchronization in a shared medium,0,H04B|H04J|H04L|H04N|H04W
+11936467,2024-03-19,Detecting and responding to rendering of interactive video content,0,A63F|G06F|H04H|H04N
+11930226,2024-03-12,Emotion evaluation of contents,1,G06V|H04N
+11930058,2024-03-12,Skipping the opening sequence of streaming content,0,H04L|H04N
+11924511,2024-03-05,Smart remote control for audio responsive media device,1,G06F|H04N
+11924505,2024-03-05,Audio duplication and redirection system,0,H04N
+11924480,2024-03-05,Content-modification system with system resource request feature,0,G06F|H04N
+11922976,2024-03-05,Audio time synchronization using prioritized schedule,0,G11B|H04N
+11922458,2024-03-05,Content modification system with viewer behavior-based content delivery selection feature,0,G06Q|H04N
+11922234,2024-03-05,Multi-agent ring-buffer,0,G06F|H04N
+11917231,2024-02-27,"Real-time altering of supplemental content duration in view of duration of modifiable content segment, to facilitate dynamic content modification",1,H04N
+11908112,2024-02-20,Dynamic tone mapping,1,G06T|H04N
+11902901,2024-02-13,Providing safety and environmental features using human presence detection,1,G06F|G06V|G08B|G08C|G16Y|H04N|H04Q|H04W|Y02D
+11900719,2024-02-13,Content-modification system with geographic area-based feature,0,G06F|G06V|H04N
+11900414,2024-02-13,Content modification system with viewer behavior-based content delivery selection feature,0,G06Q|H04N
+11900411,2024-02-13,Dynamic ad insertion decision-making for linear live TV,0,G06F|G06Q|H04N
+11895372,2024-02-06,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems and content modeling for user exploration and awareness,1,G06Q|H04N
+11895370,2024-02-06,Modifying playback of replacement content responsive to detection of remote control signals that control a device providing video to the playback device,0,G11B|H04N
+11894022,2024-02-06,Content system with sentiment-based content modification feature,0,G06F|G10L|G11B|H04N
+11889566,2024-01-30,Customized device pairing based on device features,0,G06F|G10L|H04W
+11889155,2024-01-30,Method and system for presenting additional content at a media system,0,H04N
+11888641,2024-01-30,Dynamic provisioning of IoT devices from an online application marketplace,0,H04L
+11886500,2024-01-30,Identifying video content via fingerprint matching,0,G06F|G06Q
+11882342,2024-01-23,Message processing using a client-side control group,1,H04L|H04N
+11882322,2024-01-23,Managing content replacement in a content modification system,0,H04N
+11882321,2024-01-23,"Establishment and use of time mapping based on interpolation using low-rate fingerprinting, to help facilitate frame-accurate content revision",0,G06F|G06V|H04N
+11876776,2024-01-16,Content-modification system with household coordination feature,0,H04L
+11869261,2024-01-09,Robust audio identification with interference cancellation,0,G06F|G06T|G06V|G10L
+11868595,2024-01-09,Intelligent user interface customization for one-handed use,0,G06F|H04L
+11868538,2024-01-09,Using gestures to control a media player,1,G06F|G06T|G06V|H04N
+11862152,2024-01-02,Dynamic domain-adapted automatic speech recognition system,1,G06F|G10L
+11860654,2024-01-02,Smart switch with functionalities determined based on a grounded conductor connection,1,G05F|G06F|H04L
+11856155,2023-12-26,Method and system for remotely controlling consumer electronic devices,0,H04N
+11843836,2023-12-12,Overriding multimedia device,0,G06F|G06N|H04N
+11843813,2023-12-12,Content-modification system with probability-based selection feature,0,H04N
+11843810,2023-12-12,Content-modification system with content segment frequency feature,0,H04N
+11838605,2023-12-05,Automated trailer generation,0,G06F|H04N
+11838604,2023-12-05,Generating crowdsourced trailers based on forward or rewind commands,0,G06F|H04N
+11838592,2023-12-05,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems and advanced banner personalization,0,H04N
+11838589,2023-12-05,Port-connected television upgrader device,1,G06F|H04N
+11838581,2023-12-05,Preserving channel lock and performing dynamic ad insertion (DAI) in a multi-device setup,0,H04N
+11832355,2023-11-28,Real-time assessment of multimedia service in a particular environment,0,H04W
+11831930,2023-11-28,Content-modification system with advertisement reconciliation feature,0,H04N
+11825149,2023-11-21,Advanced layer editor,0,G06F|H04N
+11822703,2023-11-21,Production console authorization permissions,0,G06F|H04L
+11818443,2023-11-14,Methods and systems for determining creation attributes of video content,0,H04N
+11818403,2023-11-14,Method and system for remotely controlling consumer electronic devices,0,H04N
+11812103,2023-11-07,Dynamic playout of transition frames while transitioning between playout of media streams,0,H04N
+11808875,2023-11-07,Mobile device based control device locator,1,G01S|H04W
+11804227,2023-10-31,Local and cloud speech recognition,3,G06F|G10L|H04L|H04R
+11803591,2023-10-31,Method and apparatus for multi-dimensional content search and video identification,0,G06F|G06T|G06V
+11800170,2023-10-24,Content-modification system with feature for prioritizing channels used in channel identification,0,H04N
+11800167,2023-10-24,Machine learning for adaptive bitrate selection,1,G06N|H04N
+11792568,2023-10-17,Power control for speaker devices in a wireless media system,0,G06F|H04R|H04W
+11792493,2023-10-17,Use of watermarking to control abandonment of dynamic content modification,0,H04N
+11792254,2023-10-17,Use of in-band metadata as basis to access reference fingerprints to facilitate content-related action,0,H04L
+11792080,2023-10-17,Reverse wireless discovery for adding an IoT device to an IoT ecosystem,0,H04L|H04W
+11785300,2023-10-10,HDMI customized ad insertion,0,G06V|H04N
+11785291,2023-10-10,Content-modification system with feature for detecting and responding to content modifications by tuner devices,0,G06T|G06V|H04N
+11778285,2023-10-03,Computing system with channel-change-based trigger feature,0,G06N|G06V|H04N
+11770593,2023-09-26,Content-modification system with use of multiple fingerprint data types feature,0,G06F|G06Q|G06V|H04N
+11770566,2023-09-26,Automatically determining an optimal supplemental content spot in a media stream,1,H04N
+11769531,2023-09-26,Content system with user-input based video content generation feature,0,G06N|G11B|H04N
+11769312,2023-09-26,Video system with scene-based object insertion feature,0,G06T|G06V
+11769179,2023-09-26,Replacement advertisement selection after channel changes,0,G06Q|H04N
+11765426,2023-09-19,Modifying playback of replacement content based on control messages,1,H04N
+11765416,2023-09-19,Demographic classification of media accounts based on media content data,1,G06Q|H04N
+11763656,2023-09-19,Dynamic collection and reporting of customer premises context information in response to predicted emergency event,0,G08B|H04L
+11758220,2023-09-12,Dynamic replacement of objectionable content in linear content streams,1,G06V|H04N
+11757992,2023-09-12,Synchronization of multimedia content presentation across multiple devices in a watch party,1,H04L
+11750896,2023-09-05,Rendering a dynamic endemic banner on streaming platforms using content recommendation systems,3,H04N
+11750881,2023-09-05,Server-side matching of supplemental content audio to perceived audio by end-user,0,H04N
+11749311,2023-09-05,Actor-replacement system for videos,0,G06F|G06T|G06V|G10L|G11B
+11748055,2023-09-05,Monitoring loudness level during media replacement event using shorter time constant,1,G06F|G06N|H03G|H04N
+11743543,2023-08-29,Method and system for presenting additional content at a media system,0,H04N
+11741996,2023-08-29,Method and system for generating synthetic video advertisements,3,G06Q|G10L|G11B
+11740860,2023-08-29,Detection of media playback loudness level and corresponding adjustment to audio during media replacement event,0,G06F|G06N|H03G|H04N
+11740771,2023-08-29,Customizing a user interface based on user capabilities,0,G06F|H04N
+11736767,2023-08-22,Providing energy-efficient features using human presence detection,1,G01V|G06F|H04H|H04N|Y02D
+11736762,2023-08-22,Media content identification on mobile devices,0,G10H|H04N
+11736742,2023-08-22,Content-modification system with responsive transmission of reference fingerprint data feature,0,G06F|H04N
+11734806,2023-08-22,Dynamic tone mapping,4,G06T|H04N
+11729471,2023-08-15,Automatic audio source selection system,0,H04N|H04R
+11729458,2023-08-15,Media content identification on mobile devices,0,G10H|H04N
+11722729,2023-08-08,Method and system for use of earlier and/or later single-match as basis to disambiguate channel multi-match with non-matching programs,1,H04N
+11722721,2023-08-08,"Media channel identification and action, with disambiguation through client-side fingerprint matching of channel-specific icon",0,H04N
+11722715,2023-08-08,Content-modification system with multiple video buffers feature,0,H04N
+11716498,2023-08-01,Resuming playback on multiple streaming devices,0,G06F|H04M|H04N
+11711574,2023-07-25,Content-modification system with determination of input-buffer switching delay feature,0,H04N
+11706500,2023-07-18,Computing system with content-characteristic-based trigger feature,0,G06N|G06V|H04N
+11700423,2023-07-11,Content-modification system with transmission delay-based feature,0,G06F|H04N
+11700422,2023-07-11,Using motion and presence of an end-user to switch operational modes of an internet of things device,0,G06F|H04N|H04W
+11700410,2023-07-11,Crowd sourced indexing and/or searching of content,0,G06F|H04L|H04N
+11695989,2023-07-04,Content-modification system with user experience analysis feature,1,H04N
+11695980,2023-07-04,Method and system for controlling lighting in a viewing area of a content-presentation device,0,H04N|H05B
+11695972,2023-07-04,Use of in-band data to correct schedule drift,0,H04N
+11690149,2023-06-27,Control a dimming level of an illumination load by a dimmer device,0,H04N|H05B
+11689751,2023-06-27,"Method and system for re-uniting metadata with media-stream content at a media client, to facilitate action by the media client",1,H04N
+11687587,2023-06-27,Video fingerprinting,2,G06F
+11683560,2023-06-20,Automatic content recognition with local matching,0,G06F|H04N
+11682102,2023-06-20,Modifying graphics rendering by transcoding a serialized command stream,0,G06T|G09G
+11681741,2023-06-20,Searching and displaying multimedia search results,0,G06F|H04N
+11678001,2023-06-13,Modulating a quality of media content,0,G06N|H04N
+11671139,2023-06-06,Identifying electronic devices in a room using a spread code,0,H04B|H04J|H04L|H04R|H04S
+11665401,2023-05-30,Media device upgrading system with a native user interface,3,H04N
+11665400,2023-05-30,Media device upgrading system over a wireless network,4,H04N
+11665378,2023-05-30,"Establishment and use of time mapping based on interpolation using low-rate fingerprinting, to help facilitate frame-accurate content revision",0,G06F|G06V|H04N
+11663242,2023-05-30,Mass insertion into single-threaded databases,0,G06F
+11659237,2023-05-23,Content-modification system with feature for managing multiple content-modification requests,0,H04N
+11659230,2023-05-23,Passive data collection from third-party channel applications,0,G06F|H04N
+11657645,2023-05-23,Content-modification system with fingerprint data mismatch and responsive action feature,0,G06F|G06V|H04N
+11653187,2023-05-16,Power monitoring of devices,1,H04L|H04W
+11653038,2023-05-16,Use of primary and backup instances of supplemental content to facilitate dynamic content modification,0,H04N
+11653037,2023-05-16,Content-modification system with responsive transmission of reference fingerprint data feature,0,G06F|H04N
+11646025,2023-05-09,Media system with multiple digital assistants,3,G06F|G10L|H04L
+11645866,2023-05-09,Content-modification system with fingerprint data match and mismatch detection feature,0,G06F|G06V
+11641513,2023-05-02,Message processing using a client-side control group,3,H04L|H04N
+11641505,2023-05-02,Speaker-identification model for controlling operation of a media player,0,H04N
+11641495,2023-05-02,Use of video frame format as basis for differential handling of automatic content recognition and associated action,0,H04N
+11641494,2023-05-02,Method and device for generating and detecting a fingerprint functioning as a trigger marker in a multimedia signal,0,G06F|H04N
+11638058,2023-04-25,"Media channel identification and action, with disambiguation through client-side fingerprint matching of channel-specific icon",0,H04N
+11638046,2023-04-25,Intelligent download of content,1,H04N
+11638045,2023-04-25,Authorizing devices based on identifying content distributor,0,H04N
+11632598,2023-04-18,Content-modification system with responsive transmission of reference fingerprint data feature,0,H04N
+11632597,2023-04-18,Responding to emergency-alert audio tone by abandoning dynamic content modification,0,H04L|H04N
+11632200,2023-04-18,Measuring and evaluating a test signal generated by a device under test (DUT),0,G01R|H04L|H04R
+11631404,2023-04-18,Robust audio identification with interference cancellation,0,G06F|G06T|G06V|G10L
+11630858,2023-04-18,Media fingerprinting and identification system,0,G06F|G06V|Y10S
+11630775,2023-04-18,Providing rolling updates of distributed systems with a shared cache,1,G06F
+11627372,2023-04-11,Media channel identification with multi-match detection and disambiguation based on single-match,0,H04H|H04N
+11627368,2023-04-11,Automatic offering and switching to a higher quality media stream,0,H04L|H04N
+11627365,2023-04-11,Synchronization with synthesized audio clock,1,H03L|H04N
+11627347,2023-04-11,Content-modification system with broadcast schedule utilization feature,0,H04H|H04N
+11625427,2023-04-11,Media fingerprinting and identification system,0,G06F|G06V|Y10S
+11625215,2023-04-11,Audio cancellation and content recognition of audio received over HDMI/ARC,0,G06F|G10L|H04N|H04R
+11625085,2023-04-11,Dynamic battery back-up for set-top-boxes,0,G06F|H02J|H04N|Y02B|Y02D|Y04S
+11617018,2023-03-28,Method and apparatus for selection of content from a stream of data,0,H04N
+11617009,2023-03-28,Media channel identification and action with multi-match detection and disambiguation based on matching with differential reference-fingerprint feature,0,C09J|E04F|H04H|H04N
+11617001,2023-03-28,Content-modification system with overlay handling feature,1,H04N
+11611797,2023-03-21,Providing over-the-air content to any device,0,H04N
+11611788,2023-03-21,Adaptive switching in a whole home entertainment system,0,H04L|H04N
+11611783,2023-03-21,Method and system for remotely controlling consumer electronic device,0,H04N
+11606591,2023-03-14,Managing content segments of linear TV content and over-the-top (OTT) content,2,H04N
+11606588,2023-03-14,Content-modification system with local avail correction feature,0,H04N
+11601695,2023-03-07,Content-modification system with advertisement reconciliation feature,0,H04N
+11595729,2023-02-28,Customizing search results in a multi-content source environment,0,G10L|H04N
+11589108,2023-02-21,Content-modification system with volume level adjustment feature,0,G06F|H04N
+11589004,2023-02-21,Streaming a video chat from a mobile device to a display device using a rotating base,1,H04N
+11582300,2023-02-14,Streaming synchronized media content to separate devices,0,H04L|H04N
+11575963,2023-02-07,Content-modification system with feature for detecting and responding to a content modification by a tuner device,0,G06T|G06V|H04N
+11564001,2023-01-24,Media content identification on mobile devices,1,G10H|H04N
+11563988,2023-01-24,Employing automatic content recognition to allow resumption of watching interrupted media program from television broadcast,0,H04N
+11561759,2023-01-24,Restoring a disabled display device speaker,0,G06F|H04R
+11558579,2023-01-17,Wireless audio synchronization using a spread code,0,G06F|G10L|H04B|H04N|H04R
+11553237,2023-01-10,Using non-audio data embedded in an audio signal,0,H04N
+11546758,2023-01-03,System and method for an extender device,0,H04L|H04W
+11546656,2023-01-03,Video fingerprinting based on Fourier transform of histogram,0,G06F|G06V|H04N
+11546647,2023-01-03,Content-modification system with probability-based selection feature,0,H04N
+11545148,2023-01-03,Do not disturb functionality for voice responsive devices,0,G06F|G10L|H04R
+11539987,2022-12-27,Content-modification system with jitter effect mitigation feature,0,H04N
+11539986,2022-12-27,Automatic content recognition (ACR) fingerprinting and video encoding,0,H04N
+11533533,2022-12-20,Content-modification system with feature for detecting and responding to content modifications by tuner devices,1,G06T|G06V|H04N
+11528514,2022-12-13,Content-modification system with jitter effect mitigation feature,0,H04N
+11523189,2022-12-06,Overriding multimedia device,0,G06F|G06N|H04N
+11523173,2022-12-06,Multi-interface streaming media system,0,G06F|G09G|H04N
+11523162,2022-12-06,Content modification system with prioritized content delivery feature,0,H04N
+11523158,2022-12-06,Secure remote-less configuration of a media playback device,1,H04N|H04W
+11523150,2022-12-06,Content-modification system with content segment frequency feature,1,H04N
+11523149,2022-12-06,Content-modification system with jitter effect mitigation feature,0,H04N
+11514472,2022-11-29,Advertising campaign to viewing device suitability matching,0,G06Q|H04N
+11503366,2022-11-15,Dynamic playout of transition frames while transitioning between play out of media streams,1,H04N
+11503362,2022-11-15,Dynamic control of fingerprinting rate to facilitate time-accurate revision of media content,0,G06V|H04N
+11496781,2022-11-08,Advanced preparation for content revision based on expected latency in obtaining new content,0,H04L|H04N
+11494803,2022-11-08,Content modification system with viewer behavior-based content delivery selection feature,2,G06Q|H04N
+11490154,2022-11-01,Content-modification system with jitter effect mitigation feature,0,G06V|H04N
+11490151,2022-11-01,Ambient light sensor based picture enhancement,0,G06F|G09G|H04N
+11490143,2022-11-01,Content-modification system with local avail detection feature,0,H04N
+11489748,2022-11-01,Generating playback configurations based on aggregated crowd-sourced statistics,0,H04L
+11483611,2022-10-25,Non-television experience triggers,1,H04N
+11477851,2022-10-18,Radio frequency remote control,1,G06F|G08C|H04N|H04W
+11477520,2022-10-18,Content-modification system with volume-level detection feature,0,H04N
+11475433,2022-10-18,Ad-hoc lightweight mPOS remote control,1,G06K|G06Q|G07F|H04W
+11470383,2022-10-11,Dynamic video overlays,1,H04N
+11463781,2022-10-04,System of capture and sharing of media,0,H04N
+11463765,2022-10-04,Media channel identification and action with multi-match detection based on reference stream comparison,0,C09J|E04F|H04H|H04N
+11463744,2022-10-04,Use of primary and backup instances of supplemental content to facilitate dynamic content modification,1,H04N
+11463130,2022-10-04,Proving physical possession of internet-of-things (IoT) devices,2,G16Y|H04B|H04L|H04W
+11457261,2022-09-27,Recommending content based on user behavior tracking and analysis,0,G06F|G06Q|H04L|H04N
+11456993,2022-09-27,Content-modification system with household coordination feature,1,H04L
+11455328,2022-09-27,Media fingerprinting and identification system,1,G06F|G06V|Y10S
+11450110,2022-09-20,Content-modification system with use of multiple fingerprint data types feature,1,G06F|G06Q|G06V|H04N
+11449540,2022-09-20,Media fingerprinting and identification system,0,G06F|G06V|Y10S
+11445258,2022-09-13,Method and system for presenting additional content at a media system,0,H04N
+11445242,2022-09-13,Media content identification on mobile devices,3,G10H|H04N
+11445226,2022-09-13,Method and system for use of network affiliation as basis to determine channel rendered by content presentation device,0,H04N
+11438025,2022-09-06,Audio synchronization of a dumb speaker and a smart speaker using a spread code,0,G06F|H04B|H04N|H04R|H04S
+11437075,2022-09-06,Audio time synchronization using prioritized schedule,2,G11B|H04N
+11432037,2022-08-30,Method and system for detecting and responding to changing of media channel,0,C09J|E04F|H04H|H04N
+11431772,2022-08-30,Skipping content of lesser interest when streaming media,2,H04L|H04N
+11425454,2022-08-23,Dynamic video overlays,1,H04N
+11418858,2022-08-16,Interactive content when the secondary content is server stitched,0,H04N
+11418835,2022-08-16,Content-modification system with technical characteristic-based selection feature,1,H04N
+11418826,2022-08-16,Content-modification system with supplemental content stitching feature,0,H04N
+11412346,2022-08-09,Tracking proximities of devices and/or objects,3,G08B|H04W
+11412296,2022-08-09,Media channel identification with video multi-match detection and disambiguation based on audio fingerprint,3,G06F|G06V|H04H|H04N
+11405173,2022-08-02,Receiver for high precision synchronization in a shared medium,2,H04B|H04J|H04L|H04N|H04W
+11399213,2022-07-26,Media device upgrading system,7,H04N
+11395371,2022-07-19,Real-time assessment of multimedia service in a particular environment,2,H04W
+11395232,2022-07-19,Providing safety and environmental features using human presence detection,1,G06F|G06V|G08B|G08C|G16Y|H04N|H04Q|H04W|Y02D
+11395037,2022-07-19,Content-modification system with determination of input-buffer switching delay feature,1,H04N
+11392342,2022-07-19,Audio cancellation and content recognition of audio received over HDMI/ARC,0,G06F|G10L|H04N|H04R
+11388474,2022-07-12,Server-side scene change content stitching,1,H04N
+11388473,2022-07-12,Content-modification system with feature for controlling viewer exposure to spoilers in advertisements,1,H04N
+11386696,2022-07-12,Content-modification system with fingerprint data mismatch and responsive action feature,1,G06F|G06V|H04N
+11381864,2022-07-05,Content-modification system with broadcast schedule utilization feature,0,H04H|H04N
+11381855,2022-07-05,Content-modification system with multiple video buffers feature,0,H04N
+11381654,2022-07-05,Streaming content based on skip histories,0,H04L
+11379448,2022-07-05,Cold matching by automatic content recognition,0,G06F|G06V|H04N
+11375588,2022-06-28,Control a dimming level of an illumination load by a dimmer device,2,H04N|H05B
+11373440,2022-06-28,Content-modification system with fingerprint data match and mismatch detection feature,4,G06F|G06V
+11372617,2022-06-28,Monitoring loudness level during media replacement event using shorter time constant,2,G06F|G06N|H03G|H04N
+11372531,2022-06-28,Controlling display device settings from a mobile device touch interface,0,G06F|G09G|H04M|H04N
+11368764,2022-06-21,Method and apparatus for selection of content from a stream of data,1,H04N
+11366847,2022-06-21,Media fingerprinting and identification system,0,G06F|G06V|Y10S
+11363321,2022-06-14,Content-modification system with delay buffer feature,0,H04N
+11361773,2022-06-14,Using non-audio data embedded in an audio signal,0,G06F|G10L|H04R|H04S
+11361549,2022-06-14,Scene frame matching for automatic content recognition,0,G06V|H04N
+11361017,2022-06-14,Method to differentiate and classify fingerprints using fingerprint neighborhood analysis,1,G06F|G06T|G06V|G10L
+11356750,2022-06-07,Automatically and programmatically generating crowdsourced trailers,3,G06F|H04N
+11356729,2022-06-07,Cross-platform media redirection and interoperability,2,H04N
+11354323,2022-06-07,Content-modification system with geographic area-based feature,0,G06F|G06V|H04N
+11348199,2022-05-31,Modifying graphics rendering by transcoding a serialized command stream,2,G06T|G09G
+11347470,2022-05-31,Detection of media playback loudness level and corresponding adjustment to audio during media replacement event,2,G06F|G06N|H03G|H04N
+11343593,2022-05-24,Use of watermarking to control abandonment of dynamic content modification,2,H04N
+11343571,2022-05-24,Content-modification system with transmission delay-based feature,1,G06F|H04N
+11343565,2022-05-24,Content-modification system with feature for detecting and responding to a content modification by a tuner device,1,G06T|G06V|H04N
+11336964,2022-05-17,Method and system for presenting additional content at a media system,0,H04N
+11336956,2022-05-17,Media channel identification with multi-match detection and disambiguation based on single-match,1,H04H|H04N
+11336952,2022-05-17,Media content identification on mobile devices,1,G10H|H04N
+11336949,2022-05-17,Content-modification system with testing and reporting feature,1,H04N
+11334615,2022-05-17,Media fingerprinting and identification system,0,G06F|G06V|Y10S
+11327150,2022-05-10,Mobile device based control device locator,2,G01S|H04W
+11323777,2022-05-03,Modifying playback of replacement content responsive to detection of remote control signals that control a device providing video to the playback device,1,G11B|H04N
+11317152,2022-04-26,Network-based media device upgrading system,7,H04N
+11317144,2022-04-26,Detection of mute and compensation therefor during media replacement event,0,G06Q|H04N
+11317143,2022-04-26,Dynamic reduction in playout of replacement content to help align end of replacement content with end of replaced content,4,H04N
+11317142,2022-04-26,Media channel identification with multi-match detection and disambiguation based on location,0,C09J|E04F|H04H|H04N
+11317127,2022-04-26,Intelligent download of content,3,H04N
+11310543,2022-04-19,Content-modification system with system resource request feature,1,G06F|H04N
+11308731,2022-04-19,Identifying video content via color-based fingerprint matching,0,G06F|G06V
+11303974,2022-04-12,Flagging advertisement frames for automatic content recognition,0,G06V|H04N
+11303939,2022-04-12,"Establishment and use of time mapping based on interpolation using low-rate fingerprinting, to help facilitate frame-accurate content revision",0,G06F|G06V|H04N
+11303870,2022-04-12,Modifying playback of replacement content responsive to detection of remote control signals that modify operation of the playback device,1,G11B|H04N
+11302315,2022-04-12,Digital video fingerprinting using motion segmentation,2,G06F|G06T|G06V|G10L
+11297385,2022-04-05,Content-modification system with feature for managing multiple content-modification requests,1,H04N
+11297377,2022-04-05,Passive data collection from third-party channel applications,1,G06F|H04N
+11297367,2022-04-05,Content-modification system with broadcast schedule utilization feature,0,H04H|H04N
+11297359,2022-04-05,Method and system for remotely controlling consumer electronic devices,0,H04N
+11297356,2022-04-05,Interweaving media content,1,G11B|H04N
+11290776,2022-03-29,Media channel identification and action with multi-match detection and disambiguation based on matching with differential reference-fingerprint feature,1,C09J|E04F|H04H|H04N
+11290770,2022-03-29,Dynamic control of fingerprinting rate to facilitate time-accurate revision of media content,0,G06V|H04N
+11288314,2022-03-29,Method and apparatus for multi-dimensional content search and video identification,1,G06F|G06T|G06V
+11288313,2022-03-29,Method and apparatus for multi-dimensional content search and video identification,1,G06F|G06T|G06V
+11288312,2022-03-29,Method and apparatus for multi-dimensional content search and video identification,1,G06F|G06T|G06V
+11284131,2022-03-22,"Establishment and use of time mapping based on interpolation using low-rate fingerprinting, to help facilitate frame-accurate content revision",0,G06F|G06V|H04N
+11281718,2022-03-22,Method and apparatus for multi-dimensional content search and video identification,1,G06F|G06T|G06V
+11276086,2022-03-15,Client-side video advertisement replacement using automatic content recognition,0,G06Q|H04L|H04N|H04W
+11272252,2022-03-08,Modifying playback of replacement content based on control messages,3,H04N
+11265617,2022-03-01,Inserting advertisements into video content,0,H04N
+11265592,2022-03-01,Content comparison testing on linear media streams,0,H04N
+11252446,2022-02-15,Employing automatic content recognition to allow resumption of watching interrupted media program from television broadcast,0,H04N
+11250480,2022-02-15,Replacement advertisement selection after channel changes,1,G06Q|H04N
+11245958,2022-02-08,Detection of mute and compensation therefor during media replacement event,3,G06Q|H04N
+11245870,2022-02-08,Content-modification system with determination of input-buffer switching delay feature,0,H04N
+11240556,2022-02-01,Automatic content recognition with local matching,1,G06F|H04N
+11240555,2022-02-01,Providing over-the-air content to any device,1,H04N
+11238487,2022-02-01,Advertising campaign to viewing device suitability matching,0,G06Q|H04N
+11238181,2022-02-01,Production console authorization permissions,6,G06F|H04L
+11234060,2022-01-25,Weave streaming content into a linear viewing experience,1,G11B|H04N
+11234050,2022-01-25,Use of steganographically-encoded data as basis to control dynamic content modification as to at least one modifiable-content segment identified based on fingerprint analysis,1,G06F|H04N
+11233840,2022-01-25,Use of in-band metadata as basis to access reference fingerprints to facilitate content-related action,1,H04L
+11228798,2022-01-18,Content-modification system with jitter effect mitigation feature,0,G06F|G06V|H04N
+11218761,2022-01-04,Digital overlay offers on connected media devices,0,G06Q|H04N
+11216160,2022-01-04,Customizing a GUI based on user biometrics,3,G06F|H04N
+11212847,2021-12-28,More secure device pairing,1,G06F|G10L|H04W
+11212582,2021-12-28,Providing restricted overlay content to an authorized client device,0,G06Q|G06V|H04L|H04N
+11212581,2021-12-28,Criteria verification to facilitate providing of highest cost per mile (CPM) overlays to client devices,0,G06Q|G06V|H04L|H04N
+11206447,2021-12-21,Media channel identification with multi-match detection and disambiguation based on time of broadcast,0,C09J|E04F|H04H|H04N
+11206446,2021-12-21,Frame replacement without overrun,0,G06F|G06Q|G06V|H04N
+11206435,2021-12-21,Method and system for remotely controlling consumer electronic devices,5,H04N
+11206434,2021-12-21,Authorizing devices based on identifying content distributor,1,H04N
+11202121,2021-12-14,Providing customized entertainment experience using human presence detection,8,G01V|G06N|H04H|H04N
+11202109,2021-12-14,Method and system for use of network affiliation as basis to determine channel rendered by content presentation device,0,H04N
+11197054,2021-12-07,Low latency distribution of audio using a single radio,1,G10L|H04N|H04R
+11194855,2021-12-07,Media fingerprinting and identification system,1,G06F|G06V|Y10S
+11194854,2021-12-07,Media fingerprinting and identification system,1,G06F|G06V|Y10S
+11190854,2021-11-30,Content-modification system with client-side advertisement caching,1,G06N|G06Q|H04N
+11190842,2021-11-30,USB-based media device upgrading system,7,G06F|H04N
+11190825,2021-11-30,Content modification system with prioritized content delivery feature,2,H04N
+11188587,2021-11-30,Media fingerprinting and identification system,0,G06F|G06V|Y10S
+11184682,2021-11-23,Obtaining viewer demographics through advertisement selections,0,H04N
+11184657,2021-11-23,Secure remote-less configuration of a media playback drive,1,H04N|H04W
+11184649,2021-11-23,Advanced preparation for content revision based on expected latency in obtaining new content,1,H04L|H04N
+11178464,2021-11-16,Audio search results in a multi-content source environment,1,G10L|H04N
+11178451,2021-11-16,Dynamic playout of transition frames while transitioning between playout of media streams,2,H04N
+11178357,2021-11-16,Streaming a video chat from a mobile device to a display device using a rotating base,2,H04N
+11177851,2021-11-16,Audio synchronization of a dumb speaker and a smart speaker using a spread code,0,G06F|H04B|H04N|H04R|H04S
+11172262,2021-11-09,Enabling interactive control of live television broadcast streams,1,H04N
+11169771,2021-11-09,Transmitting messages to a display device based on detected audio output,3,G06F|H04N|H04R|H04S
+11166056,2021-11-02,Method and system for remotely controlling consumer electronic devices,0,H04N
+11163818,2021-11-02,Media fingerprinting and identification system,1,G06F|G06V|Y10S
+11159859,2021-10-26,Creating and fulfilling dynamic advertisement replacement inventory,0,G06Q|H04N
+11153648,2021-10-19,Content-modification system with transmission delay-based feature,1,G06F|H04N
+11153616,2021-10-19,"Method and system for re-uniting metadata with media-stream content at a media client, to facilitate action by the media client",2,H04N
+11153043,2021-10-19,Measuring and evaluating a test signal generated by a device under test (DUT),1,G01R|H04L|H04R
+11150881,2021-10-19,Advanced layer editor,1,G06F|H04N
+11146861,2021-10-12,Dynamic video advertisement replacement,0,G06Q|H04N
+11144765,2021-10-12,Scene frame matching for automatic content recognition,0,G06V|H04N
+11140452,2021-10-05,Displaying an actionable element over playing content,0,H04N
+11140439,2021-10-05,Media content identification on mobile devices,1,G10H|H04N
+11140435,2021-10-05,Interactive overlays to determine viewer data,0,H04N
+11140425,2021-10-05,Method and system for remotely controlling consumer electronic devices,3,H04N
+11140034,2021-10-05,Automatic determination of display device functionality,0,G06F|G08C|H04B|H04L
+11138687,2021-10-05,Protocol-based graphics compositor,0,G06F|G06T
+11134314,2021-09-28,Displaying an actionable element over playing content,0,H04N
+11134305,2021-09-28,Content-modification system with volume level adjustment feature,0,G06F|H04N
+11134293,2021-09-28,Sequentially overlaying media content,0,G06F|H04N
+11134292,2021-09-28,Content-modification system with overlay handling feature,2,H04N
+11134281,2021-09-28,Method and system for remotely controlling consumer electronic devices,0,H04N
+11134280,2021-09-28,Method and system for remotely controlling consumer electronic devices,0,H04N
+11134241,2021-09-28,Post-production De-mura of a television using a mobile device,1,G06T|G09G|H04N
+11132997,2021-09-28,Robust audio identification with interference cancellation,2,G06F|G06T|G06V|G10L
+11132240,2021-09-28,Multi-agent ring-buffer,0,G06F|H04N
+11128915,2021-09-21,Fingerprint layouts for content fingerprinting,0,H04N
+11128914,2021-09-21,Client side stitching of content into a multimedia stream,1,H04N
+11126654,2021-09-21,Method and apparatus for multi-dimensional content search and video identification,2,G06F|G06T|G06V
+11126650,2021-09-21,Media fingerprinting and identification system,2,G06F|G06V|Y10S
+11126389,2021-09-21,"Controlling visual indicators in an audio responsive electronic device, and capturing and providing audio using an API, by native and non-native computing devices and services",3,G06F|G08C|G10L
+11122636,2021-09-14,Network-based user identification,0,H04L|H04W
+11122317,2021-09-14,Sequentially overlaying media content,0,G06F|H04N
+11120068,2021-09-14,Media fingerprinting and identification system,1,G06F|G06V|Y10S
+11109088,2021-08-31,Content-modification system with unscheduling feature,0,H04N
+11109074,2021-08-31,Method and device for generating and detecting a fingerprint functioning as a trigger marker in a multimedia signal,0,G06F|H04N
+11102550,2021-08-24,Method and system for presenting additional content at a media system,0,H04N
+11095950,2021-08-17,Displaying an actionable element over playing content,0,H04N
+11095944,2021-08-17,Content-modification system with broadcast schedule utilization feature,0,G06F|H04N
+11089357,2021-08-10,Method and system for detecting and responding to changing of media channel,2,C09J|E04F|H04H|H04N
+11074288,2021-07-27,Media fingerprinting and identification system,0,G06F|G06V|Y10S
+11070852,2021-07-20,Method and system for remotely controlling consumer electronic devices,3,H04N
+11068232,2021-07-20,Detection of volume adjustments during media replacement events using loudness level profiles,5,G06F|G06N|H03G|H04N
+11068042,2021-07-20,Detecting and responding to an event within an interactive videogame,0,A63F|G06F
+11064253,2021-07-13,Content management of a content feed,0,G06Q|G06V|H04L|H04N
+11064238,2021-07-13,Sequentially overlaying media content,0,G06F|H04N
+11064225,2021-07-13,Method and system for remotely controlling consumer electronic devices,3,H04N
+11064224,2021-07-13,Method and system for remotely controlling consumer electronic devices,3,H04N
+11064223,2021-07-13,Method and system for remotely controlling consumer electronic devices,3,H04N
+11062710,2021-07-13,Local and cloud speech recognition,5,G06F|G10L|H04L|H04R
+11062702,2021-07-13,Media system with multiple digital assistants,4,G06F|G10L|H04L
+11061957,2021-07-13,System and method for searching multimedia,2,G06F|H04N
+11057662,2021-07-06,Content comparison testing on linear media streams,0,H04N
+11051055,2021-06-29,Automatic content recognition (ACR) fingerprinting and video encoding,0,H04N
+11051054,2021-06-29,Employing automatic content recognition to allow resumption of watching interrupted media program from television broadcast,0,H04N
+11044499,2021-06-22,"Establishment and use of time mapping based on interpolation using low-rate fingerprinting, to help facilitate frame-accurate content revision",0,G06F|G06V|H04N
+11042585,2021-06-22,Media fingerprinting and identification system,1,G06F|G06V|Y10S
+11042353,2021-06-22,Monitoring loudness level during media replacement event using shorter time constant,7,G06F|G06N|H03G|H04N
+11042347,2021-06-22,Restoring a disabled display device speaker,0,G06F|H04R
+11039222,2021-06-15,Targeted content placement using overlays,0,G06Q|G06V|H04N
+11036783,2021-06-15,Media fingerprinting and identification system,1,G06F|G06V|Y10S
+11026174,2021-06-01,Wireless streaming system with low power mode and associated remote control,0,H04W|Y02D
+11025979,2021-06-01,Crowd sourced indexing and/or searching of content,3,G06F|H04L|H04N
+11023027,2021-06-01,Brown out condition detection and device calibration,2,G06F|H04L|H04N|H04W|Y02D
+11012756,2021-05-18,Capture and sharing of broadcast media,1,H04N
+11005956,2021-05-11,Streaming content based on skip histories,0,H04L
+10992994,2021-04-27,Aggregating media content in non-temporal format,0,H04N
+10992336,2021-04-27,Identifying audio characteristics of a room using a spread code,4,H04B|H04J|H04L|H04R|H04S
+10979757,2021-04-13,Synchronization with synthesized audio clock,0,H03L|H04N
+10972812,2021-04-06,Automatically and programmatically generating crowdsourced trailers,1,G06F|H04N
+10971111,2021-04-06,Providing a representation for a device connected to a display device,0,G09G|H04N
+10958301,2021-03-23,Audio synchronization of a dumb speaker and a smart speaker using a spread code,2,G06F|H04B|H04N|H04R|H04S
+10939234,2021-03-02,Tracking proximities of devices and/or objects,0,G08B|H04W
+10938871,2021-03-02,Skipping content of lesser interest when streaming media,3,H04L|H04N
+10932130,2021-02-23,System and method for configuring an extender device,5,H04L|H04W
+10931909,2021-02-23,Wireless audio synchronization using a spread code,3,G06F|G10L|H04B|H04N|H04R
+10922400,2021-02-16,User identification based on the motion of a device,0,G06F

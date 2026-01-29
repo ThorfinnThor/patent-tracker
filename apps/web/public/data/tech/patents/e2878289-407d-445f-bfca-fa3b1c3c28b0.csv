@@ -1,0 +1,1269 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432269,2025-09-30,Utilizing reinforcement learning for serverless function tuning,0,G06F|G06N|H04L
+12430310,2025-09-30,Container-image reproduction and debugging,0,G06F
+12430302,2025-09-30,Reducing a size of metadata for online deduplication operations,0,G06F
+12430159,2025-09-30,Encrypted memory guest/host communication,0,G06F
+12430156,2025-09-30,Managing containers across multiple operating systems,0,G06F|H04L
+12425494,2025-09-23,Adaptive compression for idempotent data stores in computer messaging,0,G06F|H04L
+12425303,2025-09-23,Distributed and partitioned state machine based rule engine for mesh devices and edge devices,0,H04L
+12425290,2025-09-23,Byzantine fault prevention in mesh networks,0,H04L
+12423459,2025-09-23,Structured encryption rules engine,0,G06F
+12423435,2025-09-23,Dynamic booting of operating system by designating first base boot partition as active boot partition responsive to detecting unauthorized attempt to access first encrypted file,0,G06F
+12423132,2025-09-23,Efficient queue shadowing for virtual machines,0,G06F
+12423130,2025-09-23,Facilitating power management of a hardware device by a virtual machine,0,G06F
+12423127,2025-09-23,Inheritance container service,0,G06F
+12423077,2025-09-23,Modifying bytecode to return an address associated with a target function,0,G06F
+12418590,2025-09-16,Minimum viable charge exchange for service operations in edge devices,0,H02J|H04L
+12417185,2025-09-16,Dynamic direct memory access mapping for peripheral devices,0,G06F
+12417169,2025-09-16,Dynamically allocating memory pool subinstances,0,G06F
+12417019,2025-09-16,Isolation of processes using shared memory for communication,0,G06F
+12412116,2025-09-09,Push notification qubit manipulation,0,G06N
+12412032,2025-09-09,Automated verification of commands in a software product guide,0,G06F|G06N
+12411716,2025-09-09,Serverless function colocation with storage pools,0,G06F
+12411704,2025-09-09,Efficient central processing unit overcommit for virtual machines with symmetric multi-processing,0,G06F
+12411683,2025-09-09,Patch sharing mechanism in open-source environments,0,G06F
+12408047,2025-09-02,Management orchestrator for a content-centric network in a 6G network,0,H04L|H04W
+12407503,2025-09-02,Label filtering and encryption,0,H04L
+12406047,2025-09-02,Quantum authentication of protected resources,0,G06F|G06N
+12405923,2025-09-02,Validation of container images,0,G06F
+12402060,2025-08-26,Service download optimization for nanotech mesh,0,H04W
+12401725,2025-08-26,Communication system for micro-frontends of a web application,0,H04L
+12401653,2025-08-26,Key/value pair metadata authentication for declarative process orchestration environments,0,H04L
+12395325,2025-08-19,Eavesdropper identification and container image layer invalidation,0,H04L
+12393721,2025-08-19,Sidecar data services for enforcing data policies,0,G06F
+12393567,2025-08-19,Logfile collection and consolidation,0,G06F|H04L
+12393440,2025-08-19,Safe entropy source for encrypted virtual machines,0,G06F
+12393439,2025-08-19,Copyless NUMA balancing hypervisor memory migration,0,G06F
+12393408,2025-08-19,Identification and removal of redundant interfaces,0,G06F
+12387123,2025-08-12,Dynamically adjusting biases on quantum bits based on detected events,0,G06N
+12386793,2025-08-12,Detecting stale storage layouts without using client locks,0,G06F
+12386676,2025-08-12,Adjusting the size of a resource pool for a virtual machine based on events associated with the virtual machine,0,G06F
+12386646,2025-08-12,Cluster infrastructure with on-demand activation,0,G06F
+12386615,2025-08-12,Executing a continuous integration pipeline based on a type of change to source code,0,G06F
+12386609,2025-08-12,Superdense coding of software package deltas,0,G06F|H04B
+12386605,2025-08-12,Reducing the size of image files usable for deploying software in computing environments,0,G06F
+12379997,2025-08-05,Detecting an error in an updated software package by automatically rebuilding related downstream products,0,G06F
+12375372,2025-07-29,Zero-copy forwarding for network function virtualization,0,G06F|H04L
+12373125,2025-07-29,Randomization-based protection for memory deduplication,0,G06F
+12368774,2025-07-22,Data plane reduction for eventing components,0,H04L
+12368719,2025-07-22,Synchronizing a user's authentication state across multiple data centers using event messages,0,H04L
+12368660,2025-07-22,Multi-cluster networking using hub and spoke elastic mesh,0,H04L
+12367089,2025-07-22,Quantum service circuit breaker,0,G06F|G06N
+12367071,2025-07-22,Quantum computing system heat orchestration,0,G06F|G06N
+12367059,2025-07-22,Efficient memory swap for virtual machines,0,G06F
+12367058,2025-07-22,Efficient disk cache management for virtual machines,0,G06F
+12367056,2025-07-22,Reliable device assignment for virtual machine based containers,0,G06F
+12367034,2025-07-22,Providing access to metadata modifications to facilitate software build reproduction,0,G06F
+12367033,2025-07-22,Identifying significant code changes via syntactic representation,0,G06F
+12366908,2025-07-22,Energy aware data replication,0,G06F
+12363585,2025-07-15,Managing message sizes in a mesh network,0,H04W
+12363166,2025-07-15,Blockchain-driven dynamic access control,0,H04L
+12363125,2025-07-15,Selective access to computing systems based on authentication mechanisms,0,H04L
+12361118,2025-07-15,Efficient launching of trusted execution environments,0,G06F|H04L
+12360828,2025-07-15,Exposing a cloud API based on supported hardware,0,G06F
+12360771,2025-07-15,Rescheduling a load instruction based on past replays,0,G06F
+12360756,2025-07-15,Automatic generation of container images,0,G06F
+12360754,2025-07-15,Refining software package installation processes using configuration management files,0,G06F
+12355874,2025-07-08,Stateful hash-based signatures using a secure device,0,H04L
+12355839,2025-07-08,Workload-based cache compression in a distributed storage system,0,G06F|H04L
+12355644,2025-07-08,Incorporation of a trace visualization with a traffic graph visualization in a service mesh,0,G06F|H04L
+12353866,2025-07-08,Automated deployment of continuous integration,0,G06F
+12348518,2025-07-01,Managing operator pattern service connections to an environment,0,G06F|H04L
+12348392,2025-07-01,Lightweight container networking solution for resource constrained devices,0,H04L
+12347009,2025-07-01,Modifying avatars in user interfaces based on wearable device data using machine learning,0,A61B|G06N|G06T
+12346775,2025-07-01,Migrating quantum services based on temperature thresholds,0,G06N|H04L
+12346745,2025-07-01,Safe critical section operations for virtual machines with virtual central processing unit overcommit,0,G06F
+12346717,2025-07-01,Virtual machine storage system for duplication avoidance,0,G06F
+12346689,2025-07-01,Dynamic container layer switching,0,G06F
+12346467,2025-07-01,Secure and efficient access to host memory for guests,0,G06F
+12346429,2025-07-01,Automatically inputting an authentication code for an authentication process,0,G06F|H04L
+12346341,2025-07-01,Using dynamic data structures for storing data objects,0,G06F|G06N|H04L
+12335396,2025-06-17,Superpositioned qubits as finite token generators for authentication,0,H04L
+12335383,2025-06-17,For cryptographic synchronization within federated quantum computing environments,0,H04L
+12335352,2025-06-17,Using proxy services for dependencies in distributed computing systems,0,G06F|H04L
+12335344,2025-06-17,Remote service orchestration and mirroring for computing devices,0,H04L
+12335331,2025-06-17,Dynamic scaling of a distributed computing system,0,H04L
+12333322,2025-06-17,Virtual networking for special types of nested virtual machines,0,G06F|H04L
+12332995,2025-06-17,Containers system auditing through system call emulation,0,G06F
+12328231,2025-06-10,Consensus driven mesh organization,0,H04L
+12328222,2025-06-10,Reverse virtual ethernet port aggregator bridging for single root I/O virtualization,0,H04L
+12327140,2025-06-10,Managing computer workloads across distributed computing clusters,0,G06F
+12327101,2025-06-10,Generating streams of disk image files usable for deploying software in computing environments,0,G06F
+12323326,2025-06-03,Location change notification handling,0,G06F|H04L
+12321788,2025-06-03,Systems and methods to reserve resources for workloads,0,G06F
+12321752,2025-06-03,Freedom from interference using containers,0,G06F
+12321479,2025-06-03,Using a custom filesystem to secure the contents of a filesystem,0,G06F
+12321473,2025-06-03,On-demand encrypted container image download,0,G06F
+12321276,2025-06-03,Prefetching cached data for predicted accesses,0,G06F
+12319231,2025-06-03,Vehicle control using serverless functions,0,B60R|G07C|H04L
+12314816,2025-05-27,Qubit layers for containerized like execution,0,G06F|G06N
+12314774,2025-05-27,Dynamic containerized content delivery,0,G06F|H04L
+12314750,2025-05-27,Migrating containers across non-uniform memory access (NUMA) nodes of a processor device,0,G06F
+12314711,2025-05-27,Deriving a custom version of a software package from super positioned qubits,0,G06F|G06N
+12314706,2025-05-27,Just-in-time packager build system,0,G06F
+12314303,2025-05-27,Pattern-based matching for policy engines,0,G06F
+12314155,2025-05-27,Rule engine for functional safety certification,0,G06F
+12309031,2025-05-20,Detecting multiple operator pattern services making conflicting resource modifications,0,G02B|G06F|H01R|H04L
+12306932,2025-05-20,Attesting on-the-fly encrypted root disks for confidential virtual machines,0,G06F
+12306726,2025-05-20,Data preservation for node evacuation in unstable nodes within a mesh,0,G06F|H04L
+12301708,2025-05-13,Cryptographic key management for distributed quantum computing systems,0,H04L
+12299807,2025-05-13,Multi-sensory representation of datasets in a virtual reality environment,0,G06T
+12299498,2025-05-13,Assigning computer workloads to nodes based on energy consumption modes of the nodes,0,G06F|H04L|Y02D
+12299494,2025-05-13,Memory barrier elision for multi-threaded workloads,0,G06F
+12299489,2025-05-13,Automatic dependency configuration for managed services,0,G06F
+12299135,2025-05-13,K-anonymous vulnerability detection,1,G06F
+12294578,2025-05-06,Zero-trust attestation in cloud computing,0,H04L
+12294498,2025-05-06,Real time qubit allocation for dynamic network topographies,0,G06N|H04B|H04L
+12294495,2025-05-06,Self-organizing network configuration,0,H04L
+12293259,2025-05-06,Qubit allocation service,0,G06F|G06N
+12293199,2025-05-06,Automated user interface generation for an application programming interface (API),0,G06F
+12288100,2025-04-29,Workload distribution by utilizing unused central processing unit capacity in a distributed computing system,0,G06F
+12284217,2025-04-22,Cross-domain data access,0,G06F|H04L
+12282788,2025-04-22,Recoverable container platform cluster for testing,0,G06F
+12277442,2025-04-15,Quantum computer system scheduling and parameterization based on error correction history,0,G06F|G06N
+12277427,2025-04-15,Graphical user interfaces for exploring and interacting with distributed software applications,0,G06F|H04L
+12277411,2025-04-15,Calculating lowest dependency version compatible with dependency specification,0,G06F|H04N
+12265815,2025-04-01,Conditional update recommendations based on local system state,0,G06F|G06Q|H04L
+12265811,2025-04-01,Self-moving operating system installation in cloud-based network,0,G06F|H04L
+12265638,2025-04-01,Direct access to host memory for guests,0,G06F
+12265629,2025-04-01,Suppressing a vulnerability of a continuous integration pipeline with audit functionality,0,G06F
+12265462,2025-04-01,Monitoring activity of an application prior to deployment,0,G06F|G06N
+12261925,2025-03-25,Efficient packet re-transmission for express data paths,0,H04L
+12261917,2025-03-25,Dynamic geo-based computing host identification for automatic provisioning,0,H04L
+12260298,2025-03-25,Real time qubit allocation for error correction,0,G06N
+12260295,2025-03-25,Callback-based qubit manipulation,0,G06F|G06N
+12260240,2025-03-25,Container image file optimization,0,G06F
+12260224,2025-03-25,Sizing service for cloud migration away from only cloud storage and back to on-site computing strategy,0,G06F|H04L
+12260204,2025-03-25,Automatically deploying a development environment on a target system,0,G06F
+12259850,2025-03-25,Space efficient distributed storage systems,0,G06F|Y02D
+12259824,2025-03-25,Assigning input/output virtual addresses using a pre-defined randomness algorithm,0,G06F
+12254417,2025-03-18,Automatically validating decision tables,0,G06F|G06N
+12254338,2025-03-18,Pre-allocating page table entries to provide virtual machine access to single root input-output virtualization devices,0,G06F
+12254220,2025-03-18,Resource configuration based on energy expenditure,0,G06F
+12253982,2025-03-18,Version control of files encoding information via qubits,0,G06F|H04L
+12248798,2025-03-11,Sharing templates and multi-instance cloud deployable applications,0,G06F
+12248791,2025-03-11,Providing a captive portal to manage a driver application for a peripheral device,0,G06F|H04L
+12248597,2025-03-11,Encrypted file name metadata in a distributed file system directory entry,0,G06F
+12248386,2025-03-11,Application profiling to resize and reconfigure compute instances,0,G06F
+12244668,2025-03-04,Containerized gateways and exports for distributed file systems,0,G06F|H04L
+12243134,2025-03-04,Automated image synthesis and composition from existing configuration files and data sets,0,G06F|G06T
+12242598,2025-03-04,Function pointer protection,0,G06F
+12238211,2025-02-25,Performing deduplication based on encrypted storage blocks generated using a secure enclave,0,H04L
+12238173,2025-02-25,Using wireless charging to redistribute power resources within a mesh network,0,H02J|H04L|Y02D
+12236283,2025-02-25,Transmitting configuration data between containers running on different computer architectures via a sidecar container,0,G06F
+12236221,2025-02-25,Software provisioning agent residing in trusted execution environment,0,G06F|H04L
+12235797,2025-02-25,Automated server-side reference mapping in resource registries,0,G06F
+12231349,2025-02-18,Managing cloud acquisitions using distributed ledgers,0,H04L
+12229637,2025-02-18,Data exchange between a qubit in a quantum isolation zone and a storage entity outside of the quantum isolation zone,0,G06N
+12229594,2025-02-18,Scheduling multiple processes with varying delay sensitivity,0,G06F|G06N
+12229295,2025-02-18,Generating customized policy decision point services for controlling access to computing resources,0,G06F
+12229267,2025-02-18,Management of local signing of software packages using a trusted execution environment,0,G06F|H04L
+12229251,2025-02-18,Shim based secure module access,0,G06F
+12229144,2025-02-18,Platform and service disruption avoidance using deployment metadata,0,G06F
+12223390,2025-02-11,Entanglement of qubits allocated to different quantum isolation zones,0,G06F|G06N
+12223342,2025-02-11,Dynamically switching a software service between stateful mode and stateless mode,0,G06F
+12223299,2025-02-11,Resource constraint aware deep learning model optimization for serverless-based inference systems,0,G06F|G06N
+12223297,2025-02-11,Dynamic quantum computing system selection and quantum program compilation,0,G06F|G06N
+12223239,2025-02-11,Simulating operating conditions of quantum computing devices,0,G06F|G06N
+12218806,2025-02-04,Object storage gateway for IoT devices with intermittent network connectivity,0,H04L
+12217868,2025-02-04,Differential diagnosis feature engineering for machine learning applications,0,G06F|G06N|G16H
+12217100,2025-02-04,Latency sensitive workload balancing,0,G06F
+12217051,2025-02-04,Device to build programs on alternative CPU architectures and a method thereof,0,G06F
+12216535,2025-02-04,Proactive integrity checks,0,G06F|H04L
+12214747,2025-02-04,Cloud-based keyless entry system,0,B60R|G07C|H04L
+12212622,2025-01-28,Data auditing for object storage public clouds,0,G06F|H04L
+12212547,2025-01-28,Floating PV service for mesh secure message transfer,0,H04L
+12210893,2025-01-28,Establishing process connections utilizing an intermediary broker,0,G06F|H04L
+12210533,2025-01-28,Configurable monitoring and alerting system,0,G06F|G06Q
+12208768,2025-01-28,Authenticating electronic key devices,0,B60R|G06F|H04L|H04W
+12204999,2025-01-21,Managing resource allocation in a software-defined system,0,G06F|G06N|G06Q
+12204986,2025-01-21,Generating quantum service definitions from executing quantum services,0,G06N|H04L
+12204874,2025-01-21,Generation of service-level objective specifications using java annotation,0,G06F
+12200004,2025-01-14,Privacy-enhanced common vulnerabilities and exposures (CVE) detection,0,H04L
+12199959,2025-01-14,Network bound encryption for orchestrating workloads with sensitive data,0,H04L
+12197975,2025-01-14,Asynchronous communication in cluster infrastructures,0,G06F|H04L
+12197936,2025-01-14,Scalable visualization of a containerized application in a multiple-cluster and multiple deployment application environment,0,G06F
+12197898,2025-01-14,Cross-validating files to facilitate code generation,0,G06F|G06Q
+12197401,2025-01-14,Object creation from schema for event streaming platform,0,G06F
+12197315,2025-01-14,Software testing using a quantum computer system,0,G06F|G06N
+12197292,2025-01-14,Tiered cloud storage for different availability and performance requirements,0,G06F|H04L
+12197276,2025-01-14,Memory page fault handling for network interface devices in a virtualized environment,0,G06F
+12190171,2025-01-07,Memory ballooning related memory allocation techniques for execution environments,0,G06F
+12189587,2025-01-07,Deduplication of versions of a data object using a resource proxy,0,G06F
+12185152,2024-12-31,Mesh network reconfiguration for service reinforcement,0,H04W
+12184650,2024-12-31,Scalable and secure edge cluster registration,0,G06F|H04L
+12182667,2024-12-31,Noisy intermediate-scale quantum service analysis for cloud based support,0,G06F|G06N
+12182553,2024-12-31,User customizable compiler attributes for code optimization,0,G06F
+12175401,2024-12-24,Segmenting processes into stand-alone services,0,G06Q
+12175306,2024-12-24,Serverless function materialization through strongly typed API contracts,0,G06F
+12175271,2024-12-24,Reducing latency for nested virtual machines,0,G06F
+12175269,2024-12-24,Memory page copying for virtual machine migration,0,G06F
+12175262,2024-12-24,Testing and selection of efficient application configurations,0,G06F|G06N
+12175226,2024-12-24,Provisioning bare metal machines with a complex software product,0,G06F
+12175213,2024-12-24,Mapping data models to facilitate code generation,0,G06F
+12175004,2024-12-24,Implementing privilege capabilities for devices used for container native function operations,0,G06F
+12171047,2024-12-17,Relative location conditioned staged download service for internet-of-things (IoTs),0,G06F|H04L|H04W
+12169733,2024-12-17,Fast device discovery for virtual machines,0,G06F
+12169728,2024-12-17,Non fragmenting memory ballooning,0,G06F
+12169553,2024-12-17,Security broker for consumers of tee-protected services,0,G06F
+12169552,2024-12-17,Implementing trusted clients using secure execution environments,0,A63F|G06F
+12166640,2024-12-10,Determining network topology based on packet traffic,0,G06N|H04L
+12166639,2024-12-10,Network power budget optimized scheduling of applications,1,H04L
+12164955,2024-12-10,Computing task scheduling in a computer system utilizing efficient attributed priority queues,0,G06F
+12164949,2024-12-10,Migration speed-up for multiple virtual machines,0,G06F
+12164914,2024-12-10,Removing inactive code to facilitate code generation,0,G06F
+12164900,2024-12-10,Hybrid cloud package build architecture,0,G06F|G06N
+12164797,2024-12-10,Replicating storage data and metadata in separate storage layers of a distributed storage system,0,G06F
+12164431,2024-12-10,Managing prefetching operations for drives in distributed storage systems,0,G06F|Y02D
+12160427,2024-12-03,Managing access level permissions by a distributed ledger network,0,H04L
+12160340,2024-12-03,Adding host systems to existing containerized clusters,0,H04L
+12159549,2024-12-03,Screen reader software for generating a background tone based on a spatial location of a graphical object,0,G06F|G09B|G10L
+12159157,2024-12-03,Reverse shadow page tables for nested virtual machines,0,G06F
+12158979,2024-12-03,Security broker with post-provisioned states of the tee-protected services,0,G06F
+12155580,2024-11-26,Blockchain-based dynamic storage provisioner,0,G06F|H04L
+12155528,2024-11-26,Mesh network update management,0,G06F|H04L
+12154006,2024-11-26,Predicting and minimizing quantum decoherence in quantum computer systems,0,G06F|G06N
+12153683,2024-11-26,Automated conditional update,0,G06F|G06N
+12153526,2024-11-26,Re-duplication of de-duplicated encrypted memory,0,G06F
+12149600,2024-11-19,Differentiating controllers and reconcilers for software operators in a distributed computing environment,0,H04L
+12147848,2024-11-19,Efficient node identification for executing cloud computing workloads,0,G06F
+12147801,2024-11-19,Software aided governance for project contribution on source code management (SCM) and continuous integration (CI) environments,0,G06F
+12147690,2024-11-19,Sharing node storage resources with the entire cluster,0,G06F
+12143437,2024-11-12,Establishing a communication channel between computing nodes with different operating systems,0,G06F|H04L
+12143261,2024-11-12,Failure detection for packet transmission in software-defined networks,0,H04L
+12141611,2024-11-12,Simultaneous-multi-threading (SMT) aware processor allocation for cloud real-time workloads,0,G06F
+12141597,2024-11-12,Efficient out of order request completion,0,G06F|G06Q
+12141310,2024-11-12,Multi-element selection of subtrees in fixed-depth trees,0,G06F
+12141064,2024-11-12,Using a container image to determine a caching algorithm for a software application,0,G06F
+12141061,2024-11-12,Use after free detection with double free protection,0,G06F
+12141053,2024-11-12,Reliable automatic estimation of test flakiness,0,G06F
+12135965,2024-11-05,Preventing duplicate builds based on pre-computed checksums stored in a version control system,0,G06F
+12135633,2024-11-05,Source-level debugging of intermediate code,0,G06F
+12135603,2024-11-05,Monitoring energy consumption associated with users of a distributed computing system using tracing,0,G06F
+12131181,2024-10-29,Removing software operators from distributed computing environments,0,G06F
+12131173,2024-10-29,Containers on demand,0,G06F|H04L
+12130781,2024-10-29,Sparse files aware rolling checksum,0,G06F
+12130722,2024-10-29,Processing continuous integration failures,0,G06F
+12124877,2024-10-22,Coordinating execution of computing operations for software applications,0,G06F|H04L
+12124866,2024-10-22,Fast virtual machine resume at host upgrade,0,G06F
+12124845,2024-10-22,Managing a carbon footprint associated with executing a continuous integration pipeline on computer nodes,0,G06F|G06Q
+12124562,2024-10-22,Labeled security for control flow inside executable program code,0,G06F
+12124561,2024-10-22,Embedding security requirements in container images,1,G06F
+12124414,2024-10-22,Deduplication of container image files,1,G06F
+12120205,2024-10-15,Communication protocol for a distributed event streaming platform,0,H04L
+12118413,2024-10-15,Aggregated health monitoring of a cluster during test automation,0,G06F|G06Q
+12117976,2024-10-15,Schema based data buffering and processing on a client device,0,G06F
+12117940,2024-10-15,Host address space identifier for non-uniform memory access locality in virtual machines,0,G06F
+12117921,2024-10-15,Performing comparative testing of quantum services,0,G06F|G06N
+12112188,2024-10-08,Customized initialization code delivery over network for zero-trust virtual machine,0,G06F|H04L
+12112187,2024-10-08,Scalable visualization of a containerized application in a multiple-cluster environment,0,G06F
+12105733,2024-10-01,Chunk aware image locality scores for container images in multi-node clusters,0,G06F
+12100077,2024-09-24,Visual database system for multidimensional data representation,1,G06F|G06T
+12099965,2024-09-24,Tracking qualitative parameters using a blockchain provenance system,0,G06Q
+12099870,2024-09-24,Reducing call stack usage for future object completions,0,G06F
+12099834,2024-09-24,Patching software dependencies using external metadata,0,G06F
+12099747,2024-09-24,Managing write removal for solid-state drives,0,G06F
+12099633,2024-09-24,Automatically anonymizing data in a distributed storage system,0,G06F|H04L
+12095925,2024-09-17,Managing standard operating procedures using distributed ledger networks,0,H04L
+12093673,2024-09-17,Smart image registries for dynamic image generation,0,G06F
+12093371,2024-09-17,Data distribution using a trusted execution environment in an untrusted device,0,G06F|H04L
+12088469,2024-09-10,Domain specific language for protected mesh communication,1,H04L
+12086598,2024-09-10,Fixed-size pool storage for handling out-of order receipt of data,0,G06F
+12086579,2024-09-10,Deriving a container from a package set,0,G06F
+12086573,2024-09-10,Automatic containerization of operating system distributions,0,G06F
+12086456,2024-09-10,Switching memory consistency models in accordance with execution privilege level,0,G06F
+12086262,2024-09-10,Secure container image builds,0,G06F
+12082019,2024-09-03,Mesh version control lifecycle service,0,G06F|H04W
+12082007,2024-09-03,Mayday-relay mechanism in a mesh network,0,H04W
+12081660,2024-09-03,TPM-based data integrity,0,G06F|H04L
+12081645,2024-09-03,Instantaneous key invalidation in response to a detected eavesdropper,0,G06N|H04L
+12081614,2024-09-03,Chunked file transfer among mobile peer devices,0,H04L|H04W
+12079666,2024-09-03,Federated operator for edge computing network,0,G06F|H04L
+12079178,2024-09-03,Snapshot volume proxy for object storage interfaces,0,G06F
+12079141,2024-09-03,Hardware offloading for an emulated IOMMU device,0,G06F
+12079133,2024-09-03,Memory cache-line bounce reduction for pointer ring structures,0,G06F
+12079110,2024-09-03,Using clusters to create test instances,0,G06F
+12073268,2024-08-27,Dynamically adjusting objects monitored by an operator in a distributed computer environment,0,G06F
+12073257,2024-08-27,Provisioning pluggable smart services for browser-based smart editing tools,0,G06F|H04L
+12073236,2024-08-27,Class loading of dependency class files using modified class identifiers,0,G06F
+12073232,2024-08-27,Unikernel for webassembly containers,0,G06F|H04L
+12073229,2024-08-27,Single node deployment of container platform,0,G06F
+12073213,2024-08-27,Automatic generation of interfaces for optimizing codebases,0,G06F
+12072758,2024-08-27,Dynamic network debug service in a containerized computing cluster,0,G06F
+12069188,2024-08-20,Detection and prevention of unauthorized execution of serverless functions,0,H04L
+12069149,2024-08-20,Computing resource usage control using seed and token generation,0,H04L
+12069104,2024-08-20,Dynamic management of role-based access control systems,0,H04L
+12067429,2024-08-20,Synchronizing variable values between an application shell and micro-frontends of a web application,1,G06F
+12067392,2024-08-20,Providing access to historical metadata for software repositories,2,G06F
+12063159,2024-08-13,Memory-efficient technique for weighted round-robin load balancing,0,H04L
+12061899,2024-08-13,Infrastructure as code (IaC) pre-deployment analysis via a machine-learning model,0,G06F|G06N
+12061574,2024-08-13,Updating edge nodes in distributed computing environments using partitions,0,G06F
+12061538,2024-08-13,Systems and methods for continuous testing of microservice applications,0,G06F
+12058126,2024-08-06,Network management using trusted execution environments,0,H04L
+12058112,2024-08-06,Binding data to a network in the presence of an entity,0,H04L
+12056523,2024-08-06,Rule-driven service management using entangled qubits in quantum computing systems,0,G06F|G06N
+12050943,2024-07-30,Targeted unprivileged port configuration,0,G06F
+12050796,2024-07-30,Managing deduplication operations based on a likelihood of duplicability,0,G06F
+12050525,2024-07-30,Simulating containerized clusters,1,G06F
+12045655,2024-07-23,Assisting progressive chunking for a data queue by using a consumer thread of a processing device,0,G06F
+12045590,2024-07-23,Lazy evaluation of supply chain policy based on transparency log attestations,0,G06F
+12045584,2024-07-23,Undeployed topology visualization for improving software application development,0,G06F
+12045474,2024-07-23,Efficient dirty page expiration,0,G06F
+12039411,2024-07-16,Performing error correction optimization for quantum services using quantum simulators,0,G06N
+12039404,2024-07-16,Performing dynamic programmatic entanglement in quantum processing devices,0,G06N
+12039363,2024-07-16,Synchronizing concurrent tasks using interrupt deferral instructions,0,G06F
+12038883,2024-07-16,Distributed Storage System with machine learning model for selecting a hash function to map a data item to a storage device,0,G06F|G06N
+12038828,2024-07-16,Distributed debugging environment for a continuous integration pipeline,0,G06F
+12033028,2024-07-09,Qubit reservation service,0,G06F|G06N
+12028236,2024-07-02,Consensus driven service promotion,0,H04L
+12026919,2024-07-02,Content-based encoding of digital images,0,G06T|H04N
+12026562,2024-07-02,Industry opinionated API managed service,0,G06F|H04L
+12026545,2024-07-02,Active build migration in continuous integration environments,0,G06F
+12026494,2024-07-02,Dynamic automation of prerequisite component deployment in disconnected environments,0,G06F
+12026488,2024-07-02,Bytecode transformations using virtual artifacts,0,G06F
+12026086,2024-07-02,Debugging operator errors in a distributed computing environment,0,G06F
+12021921,2024-06-25,Data plane reduction for eventing components,0,H04L
+12020070,2024-06-25,Managing computer workloads across distributed computing clusters,0,G06F
+12020053,2024-06-25,Exposing untrusted devices to virtual machines,0,G06F
+12020036,2024-06-25,Trajectory-based hierarchical autoscaling for serverless applications,0,G06F
+12020016,2024-06-25,Rebasing image layers utilising a repository-based strategy,1,G06F
+12020006,2024-06-25,Shim layer for intercepting calls between an upper layer and a lower layer of a container image,0,G06F
+12019897,2024-06-25,Pre-population of persistent storage volumes,0,G06F
+12019730,2024-06-25,Systems and methods for identifying computing devices,0,G06F|H04L
+12019619,2024-06-25,Time-to-run column for database management systems,0,G06F
+12015689,2024-06-18,Container management for cryptanalysis attack protection,0,G06F|H04L
+12015684,2024-06-18,Message format indicator for resource-constrained devices,0,G06F|H04L
+12015540,2024-06-18,Distributed data grid routing for clusters managed using container orchestration services,0,G06F|H04L
+12014047,2024-06-18,Stream based compressibility with auto-feedback,0,G06F
+12013799,2024-06-18,Non-interrupting portable page request interface,1,G06F
+12013774,2024-06-18,Verification of core file debugging resources,0,G06F
+12013757,2024-06-18,Node failure source detection in distributed computing environments using machine learning,1,G06F|G06N
+12010643,2024-06-11,RFID broadcast authenticated activation,0,H04W|Y02D
+12009976,2024-06-11,Configuration of a server in view of a number of clients connected to the server,0,H04L
+12008411,2024-06-11,Dynamic container-based application resource tuning and resizing,0,G06F
+12008402,2024-06-11,Determining computer resource usage at multiple levels of a container orchestration system hierarchy,0,G06F
+12008357,2024-06-11,Mitigating software-update risks for end users,0,G06F|G06N
+12007891,2024-06-11,Storage deduplication for containers with encrypted storage,0,G06F
+12003960,2024-06-04,Booting and operating computing devices at designated locations,0,G06F|H04L|H04W
+12001920,2024-06-04,Generating a global snapshot of a quantum computing device,0,G06F|G06N
+12001879,2024-06-04,Instruction offload to processor cores in attached memory,0,G06F|Y02D
+12001870,2024-06-04,Injection and execution of workloads into virtual machines,1,G06F
+12001869,2024-06-04,Memory over-commit support for live migration of virtual machines,0,G06F
+12001407,2024-06-04,Generating filesystem images with integrated containers,0,G06F
+12001327,2024-06-04,Execution platform assignments in CI/CD systems,1,G06F|G06N
+11997097,2024-05-28,Security vulnerability assessment for users of a cloud computing environment,0,H04L
+11995485,2024-05-28,Automatically switching between quantum services and classical services based on detected events,1,G06F|G06N
+11995420,2024-05-28,Generating a build process for building software in a target environment,0,G06F
+11995350,2024-05-28,Prefetching container data in a data storage system,0,G06F
+11995096,2024-05-28,Creation of message serializer for event streaming platform,1,G06F|H04L
+11995016,2024-05-28,Input/output command rebalancing in a virtualized computer system,0,G06F
+11991278,2024-05-21,Secrets rotation for vehicles,0,G01S|G06F|H04L|H04W
+11991094,2024-05-21,Metadata driven static determination of controller availability,0,G06F|H04L
+11989542,2024-05-21,Enhancing operator installation and upgrade management and verification,0,G06F
+11989539,2024-05-21,Continuous integration and deployment system time-based management,1,G06F
+11985076,2024-05-14,Configuring cluster nodes for sharing network resources,0,H04L
+11985051,2024-05-14,Dynamically visualizing service mesh topologies with event-based messaging,0,H04L
+11983555,2024-05-14,Storage snapshots for nested virtual machines,0,G06F
+11983525,2024-05-14,Automated container size reduction,1,G06F
+11979341,2024-05-07,Adaptive message queue timeouts for message queues related to storage systems,0,G06F|H04L
+11979291,2024-05-07,Cluster boundary enforcer service,0,H04L
+11977907,2024-05-07,Hybrid push and pull event source broker for serverless function scaling,0,G06F
+11977631,2024-05-07,Hypervisor level signature checks for encrypted trusted execution environments,0,G06F
+11977493,2024-05-07,Safe virtual machine physical device access for network function virtualization,0,G06F
+11973682,2024-04-30,Dynamic mesh mapping service,0,H04L|H04W
+11972265,2024-04-30,Parallel booting operating system,0,G06F
+11972242,2024-04-30,Runtime environment optimizer for JVM-style languages,0,G06F
+11971980,2024-04-30,Using trusted execution environments to perform a communal operation for mutually-untrusted devices,0,G06F|H04L
+11971830,2024-04-30,Efficient queue access for user-space packet processing,0,G06F|H04L
+11971807,2024-04-30,Software-development tool for presenting telemetry data with associated source code,0,G06F
+11966773,2024-04-23,Automated pipeline for generating rules for a migration engine,0,G06F
+11966743,2024-04-23,Reverse order queue updates by virtual devices,0,G06F
+11966367,2024-04-23,Speedup build container data access via system call filtering,0,G06F
+11966323,2024-04-23,Troubleshooting software services based on system calls,0,G06F
+11960941,2024-04-16,Managing virtual machine memory balloon using time series predictive data,0,G06F
+11960933,2024-04-16,Versioned progressive chunked queue for a scalable multi-producer and multi-consumer queue,0,G06F
+11960898,2024-04-16,Enabling asynchronous operations in synchronous processors,0,G06F
+11960420,2024-04-16,Direct memory control operations on memory data structures,0,G06F
+11960380,2024-04-16,Debugging SQL statements,0,G06F
+11954534,2024-04-09,Scheduling in a container orchestration system utilizing hardware topology hints,0,G06F
+11954510,2024-04-09,Native-image in-memory cache for containerized ahead-of-time applications,0,G06F
+11949775,2024-04-02,Network bound encryption for recovery of trusted execution environments,0,G06F|H04L
+11949709,2024-04-02,Monitoring cloud computing environments,0,G06F|H04L
+11948046,2024-04-02,MVC inspired quantum-classical service,0,G06F|G06N
+11947941,2024-04-02,Dynamic computation offloading to graphics processing unit,0,G06F
+11947800,2024-04-02,Determining weights for cache storage of fragmented data,0,G06F
+11947659,2024-04-02,Data distribution across multiple devices using a trusted execution environment in a mobile device,1,G06F|H04L
+11943337,2024-03-26,Secure reliable application environments,0,G06F|H04L
+11943296,2024-03-26,Workload-based cache compression in a distributed storage system,0,G06F|H04L
+11941382,2024-03-26,User customizable compiler attributes for code checking,0,G06F
+11941104,2024-03-26,Utilizing extended file attributes for working directory,0,G06F
+11934877,2024-03-19,Workflow resource management for cloud computing services,0,G06F
+11934861,2024-03-19,Flow rule installation latency testing in software defined networks,0,G06F|H04L
+11934811,2024-03-19,Container image building using dependency container images,2,G06F
+11934800,2024-03-19,Generating metadata to facilitate code generation,0,G06F
+11934300,2024-03-19,Reducing computing power for generating test scenario files for decision models,0,G06F|G06N
+11928609,2024-03-12,Node sharing for a rule engine coded in a compiled language,0,G06F|G06N
+11928487,2024-03-12,Seamless integration of multiple applications in tutorials,0,G06F|G06N|G06Q|G09B
+11928452,2024-03-12,Reducing the size of image files usable for deploying software in computing environments,1,G06F
+11928447,2024-03-12,Configuration management through information and code injection at compile time,0,G06F
+11924031,2024-03-05,Highly scalable container network interface operation to reduce startup overhead of functions,1,G06F|H04L
+11922196,2024-03-05,Cloud-based utilization of software entitlements,0,G06F|G06Q
+11922179,2024-03-05,Migrating software and system settings between computing environments,0,G06F|H04L
+11921765,2024-03-05,Systematic iterative analysis of unstructured data files,1,G06F
+11921690,2024-03-05,Custom object paths for object storage management,0,G06F
+11921680,2024-03-05,Speedup containers in production by ignoring sync to file system,0,G06F
+11921604,2024-03-05,Evaluating system recovery using emulated production systems,0,G06F
+11915063,2024-02-27,Managing a presentation mode for application programming interface functions,0,G06F
+11915034,2024-02-27,Sidecar-based integration capabilities for containerized applications,0,G06F|H04L
+11915022,2024-02-27,Reducing memory inconsistencies between synchronized computing devices,0,G06F
+11915007,2024-02-27,CI/CD pipeline to container conversion,0,G06F
+11914980,2024-02-27,Managing deployments of software programs to distributed computing environments,0,G06F|H04L
+11914877,2024-02-27,Managing access to block storage in cloud computing environments,0,G06F
+11914556,2024-02-27,Lazy virtual filesystem instantiation and caching,0,G06F
+11914512,2024-02-27,Writeback overhead reduction for workloads,0,G06F
+11914465,2024-02-27,Tool-guided computing triage probe,0,G06F|G06N
+11909804,2024-02-20,Selective validation of a portion of a server response to a client request,0,H04L
+11909707,2024-02-20,Message schema migration in messaging systems,0,H04L
+11908088,2024-02-20,Controlling virtual resources from within an augmented reality environment,0,G06F|G06Q|G06T|H04L
+11907142,2024-02-20,Configuring polling times for software applications,0,G06F|G06N
+11907115,2024-02-20,Indirect interface for virtual machine free page hinting,0,G06F
+11902105,2024-02-13,Interactive graphical user interface for visualizing flow data in a programmable network switch,0,H04L
+11900158,2024-02-13,Setting task permissions for software services in distributed computing environments,0,G06F
+11900142,2024-02-13,Improving memory access handling for nested virtual machines,0,G06F
+11900105,2024-02-13,Code review system with development environment integration,0,G06F
+11900093,2024-02-13,Constructing pipelines for implementing a software-stack resolution process,0,G06F
+11900089,2024-02-13,Automatically configuring and deploying a software operator in a distributed computing environment from a package,0,G06F
+11899546,2024-02-13,Portability of checkpoints of an application using central processing unit (CPU)-specific functions,0,G06F
+11895553,2024-02-06,Web application with components in different virtual environments,0,G06F|H04W
+11894983,2024-02-06,Simulation and testing of infrastructure as a service scale using a container orchestration engine,0,G06F|H04L
+11894979,2024-02-06,Mapping proxy connectivity,0,H04L
+11893455,2024-02-06,Optimizing quantum teleportation as a service,0,G06F|G06N
+11893408,2024-02-06,Protection of balloon inflated memory using temporary loan pages,0,G06F
+11893407,2024-02-06,Overlay container storage driver for microservice workloads,0,G06F
+11893382,2024-02-06,Prepopulated container images repositories for CI/CD environments,1,G06F
+11893369,2024-02-06,Determining a distributed system topology from a single application deployment,0,G06F
+11888972,2024-01-30,Split security for trusted execution environments,0,G06F|H04L
+11888737,2024-01-30,Implementing network function logic in a virtual switch,0,H04L
+11886899,2024-01-30,Privacy preserving introspection for trusted execution environments,0,G06F
+11886860,2024-01-30,Distribution of digital content to vehicles,2,B60R|G06F|G06N|H04L
+11886605,2024-01-30,Differentiated file permissions for container users,0,G06F|H04L
+11886574,2024-01-30,Using a trusted execution environment for a cryptographic key wrapping scheme that verifies remote device capabilities,3,G06F|H04L
+11886433,2024-01-30,Dynamic data batching for graph-based structures,0,G06F
+11886394,2024-01-30,Composable query language gateway routing protocol,1,G06F|H04L
+11886381,2024-01-30,Meta-format and technique to produce tutorials for multiple publishing formats,0,G06F
+11886380,2024-01-30,Quantum file management system,0,G06F|G06N
+11886351,2024-01-30,Memory efficient virtual address management for system calls,0,G06F
+11881980,2024-01-23,Byzantine fault prevention in mesh networks,1,H04L
+11880745,2024-01-23,Noisy intermediate-scale quantum service analysis for cloud based support,0,G06F|G06N
+11880704,2024-01-23,Nested virtual machine support for hypervisors of encrypted state virtual machines,0,G06F
+11880703,2024-01-23,Optimization of multi-layered images,0,G06F
+11880674,2024-01-23,Adaptive hot reload for class changes,0,G06F
+11880647,2024-01-23,Shareable and cross-application non-destructive content processing pipelines,0,G06F|G06Q
+11880481,2024-01-23,Secure modular devices,0,G06F
+11880480,2024-01-23,Secure storage access through rate limitation,0,G06F
+11880262,2024-01-23,Reducing power consumption by preventing memory image destaging to a nonvolatile memory device,0,G06F|Y02D
+11876692,2024-01-16,Customizable visualization of a traffic topology of a service mesh,1,H04L
+11876682,2024-01-16,Consensus-based node retirement process in a mesh,0,H04L|H04W
+11875228,2024-01-16,Classifying quantum errors,0,G06N
+11875135,2024-01-16,Quantum entanglement protection,1,G06F|G06N
+11870846,2024-01-09,Post-copy migration cross cluster synchronization for post-copy migration of virtual machines,0,G06F|H04L
+11868850,2024-01-09,Preventing quantum errors using a quantum error correction algorithm trainer (QECAT) table,0,G06F|G06N
+11868805,2024-01-09,Scheduling workloads on partitioned resources of a host system in a container-orchestration system,0,G06F
+11868802,2024-01-09,Application lifecycle management based on real-time resource usage,0,G06F
+11868796,2024-01-09,Page request interface overhead reduction for virtual machine migration and write protection in memory,0,G06F
+11868772,2024-01-09,Heterogeneous memory management and services,0,G06F
+11868308,2024-01-09,Managing and archiving system and application log files,0,G06F
+11868219,2024-01-09,Data preservation for node evacuation in unstable nodes within a mesh,0,G06F|H04L
+11861425,2024-01-02,Runtime mapping of asynchronous application programming interface messaging topics and schemas,0,G06F
+11861389,2024-01-02,Compiling a specified instruction from a first virtual application to a second virtual application,0,G06F
+11861376,2024-01-02,Live edit of configuration management execution,0,G06F
+11861292,2024-01-02,Multi-strategy compression scheme,0,G06F|H03M
+11860792,2024-01-02,Memory access handling for peripheral component interconnect devices,0,G06F
+11860788,2024-01-02,Prefetching data in a distributed storage system,0,G06F
+11856002,2023-12-26,Security broker with consumer proxying for tee-protected services,0,H04L
+11853816,2023-12-26,Extending the Kubernetes API in-process,0,G06F
+11848924,2023-12-19,Multi-factor system-to-system authentication using secure execution environments,0,H04L
+11848857,2023-12-19,Dynamic API gateway routing based on request metadata,1,H04L
+11847448,2023-12-19,Automatic generation of exporter configuration rules,0,G06F
+11847354,2023-12-19,Data storage using a sliding window cache in a data grid,0,G06F
+11847253,2023-12-19,Efficient launching of trusted execution environments,0,G06F|H04L
+11847227,2023-12-19,Firmware version corruption attack prevention,1,G06F
+11846970,2023-12-19,Performing data correlation to optimize continuous integration environments,0,G06F
+11842188,2023-12-12,Continuous integration and deployment pipeline selection based on dynamic mapping,0,G06F
+11842128,2023-12-12,Sensory data generator,0,G01K|G06F|H04L
+11838191,2023-12-05,Automatically managing performance of software in a distributed computing environment,0,G06F|G06N|H04L
+11836529,2023-12-05,Iterative workload processing having a mandatory processing task and a preferred processing task,0,A63F|G06F
+11836525,2023-12-05,Dynamic last level cache allocation for cloud real-time workloads,1,G06F
+11836523,2023-12-05,Introspection of a containerized application in a runtime environment,0,G06F|H04L
+11836517,2023-12-05,Support for encrypted memory in nested virtual machines,0,G06F|H04L
+11836141,2023-12-05,Ranking database queries,0,G06F
+11836112,2023-12-05,Path resolver for client access to distributed file systems,0,G06F
+11836108,2023-12-05,Performing file differential operations on quantum files in a state of superposition,0,G06F|G06N
+11831410,2023-11-28,Intelligent serverless function scaling,0,G06F|H04L
+11829771,2023-11-28,Quick presentation of camera video in a vehicle using Linux,0,G06F|H04N
+11829642,2023-11-28,Managing write requests for drives in cloud storage systems,0,G06F|Y02D
+11829240,2023-11-28,Preventing duplication of files in a storage device,0,G06F
+11824754,2023-11-21,Multi-cluster networking using hub and spoke elastic mesh,3,H04L
+11824742,2023-11-21,Host auto role classifier,0,G06F|H04L
+11824706,2023-11-21,Determining blockchain ledger indicates notification availability for an application,0,G06F|H04L
+11823011,2023-11-21,Analyzing execution of quantum services using quantum computing devices and quantum simulators,0,G06F|G06N|H04L
+11822948,2023-11-21,Peripheral component interconnect (PCI) device removal for virtual machines,0,G06F
+11822931,2023-11-21,Providing a captive portal to manage a driver application for a peripheral device,0,G06F|H04L
+11822663,2023-11-21,Supervisor-based firmware hardening,0,G06F
+11822641,2023-11-21,Establishing controlled remote access to debug logs,0,G06F|H04L
+11822465,2023-11-21,Operational multipliers for heterogeneous build architectures,0,G06F
+11818256,2023-11-14,Providing cascading quantum encryption services in quantum computing systems,1,H04L
+11816534,2023-11-14,Hotswapping qubits for resource-limited quantum computing devices,1,G06F|G06N
+11816206,2023-11-14,Function pointer protection,1,G06F
+11816205,2023-11-14,Detecting and handling attacks on processes executing within a trusted execution environment,0,G06F
+11816074,2023-11-14,Sharing of web application in development via instant messaging application,0,G06F|H04L
+11816070,2023-11-14,Filesystem pass-through on lightweight virtual machine containers,0,G06F
+11816067,2023-11-14,Prefetching data from a data storage system,0,G06F
+11816061,2023-11-14,Dynamic allocation of arithmetic logic units for vectorized operations,0,G06F
+11811804,2023-11-07,System and method for detecting process anomalies in a distributed computation system utilizing containers,0,H04L
+11810011,2023-11-07,Generation of predictive model metrics using intermediate operations,0,G06N
+11809901,2023-11-07,Migrating the runtime state of a container between two nodes,0,A63F|G06F|H04L
+11809897,2023-11-07,Chained triggering of builds in continuous integration environments,0,G06F
+11809888,2023-11-07,Virtual machine memory migration facilitated by persistent memory devices,0,G06F
+11809862,2023-11-07,Related change analysis of multiple version control systems,0,G06F
+11809861,2023-11-07,Development environment organizer with enhanced state switching and sharing,0,G06F
+11809709,2023-11-07,Metadata size reduction for data objects in cloud storage systems,0,G06F
+11809576,2023-11-07,Establishing secure remote access to debug logs,2,G06F
+11805102,2023-10-31,Remote management of software on private networks,1,H04L
+11805057,2023-10-31,Routing tier for highly-available applications on a multi-tenant Platform-as-a-Service (PaaS) system,0,G06F|H04L
+11805012,2023-10-31,Cloud network mechanism driver migration,0,H04L
+11803429,2023-10-31,Managing alert messages for applications and access permissions,1,G06F
+11803414,2023-10-31,Diagonal autoscaling of serverless computing processes for reduced downtime,0,G06F
+11803410,2023-10-31,Asserting initialization status of virtualized system,0,G06F
+11799941,2023-10-24,Handling connection pool sizing with heterogeneous concurrency,0,H04L
+11799859,2023-10-24,Automated authorization policy creation for interrelated services,0,H04L
+11799740,2023-10-24,Distributed saga execution and coordination,0,G06F|G06Q|H04L
+11797692,2023-10-24,Tool for generating security policies for containers,0,G06F|H04L
+11797504,2023-10-24,Converting computing infrastructure diagrams to searchable diagrams,0,G06F|G06V
+11797494,2023-10-24,Snapshot management in distributed file systems,0,G06F
+11797357,2023-10-24,UID and GID shifting for containers in user namespaces,0,G06F
+11797344,2023-10-24,Quiescent state-based reclaiming strategy for progressive chunked queue,0,G06F
+11797332,2023-10-24,System for transforming legacy items contained in a data archive for execution or use by an executable,0,G06F
+11797282,2023-10-24,Optimizing services deployment in a cloud computing environment,0,G06F|H04L
+11797234,2023-10-24,Determining a size of virtual disks,0,G06F
+11792072,2023-10-17,Workload aware networking in a microservice architecture,0,G06F|H04L
+11790260,2023-10-17,Quantum process termination,0,G06F|G06N
+11790003,2023-10-17,Client-based search query autocomplete,0,G06F
+11789908,2023-10-17,Offloading memory maintenance for a log-structured file system,0,G06F
+11789907,2023-10-17,Quantum file metadata service,1,G06F|G06N
+11789767,2023-10-17,Cooperative cloud infrastructure using blockchains for hardware ownership and access,0,G06F|G06Q
+11789763,2023-10-17,Adaptive and secure bytecode injection based on comparison with previously stored bytecode,0,G06F|H04L
+11789762,2023-10-17,Application deployment using reduced overhead bytecode,0,G06F
+11784939,2023-10-10,Cloud resource management using externally-sourced data,0,G06N|H04L
+11784809,2023-10-10,Constrained key derivation in temporal space,0,H04L
+11783070,2023-10-10,Managing sensitive information using a trusted platform module,0,G06F|H04L
+11782753,2023-10-10,Node-local-unscheduler for scheduling remediation,0,G06F
+11782637,2023-10-10,Prefetching metadata in a storage system,0,G06F
+11782495,2023-10-10,Power consumption optimization on the cloud,0,G06F|Y02D
+11778045,2023-10-03,Communication system for micro-frontends of a web application,1,H04L
+11777919,2023-10-03,Certificate based expiration of file system objects,0,G06F|H04L
+11777836,2023-10-03,Protocol and state analysis in a dynamic routing network,0,H04L
+11775576,2023-10-03,Container image size reduction via runtime analysis,0,G06F
+11775354,2023-10-03,Reducing overlay network overhead across container hosts,0,G06F
+11775345,2023-10-03,Methods and systems for providing on-demand cloud computing environments,0,G06F
+11775328,2023-10-03,Virtual bond for efficient networking of virtual machines,0,G06F
+11769420,2023-09-26,Live operating system examination environment,1,G06F|G09B|H04L
+11768704,2023-09-26,Increase assignment effectiveness of kubernetes pods by reducing repetitive pod mis-scheduling,0,G06F
+11768665,2023-09-26,Generation of service-level objective specifications using java annotation,0,G06F
+11765062,2023-09-19,Automatic retransmission capability in hypervisor,0,G06F|H04L
+11762725,2023-09-19,Detecting and managing losses of event datasets in a computing network,1,G06F|G16Y
+11762670,2023-09-19,Testing and selection of efficient application configurations,0,G06F|G06N
+11757959,2023-09-12,Dynamic data stream processing for Apache Kafka using GraphQL,1,G06F|H04L
+11755512,2023-09-12,Managing inter-processor interrupts in virtualized computer systems,0,G06F
+11755375,2023-09-12,Aggregating host machines into a single cloud node for workloads requiring excessive resources,0,G06F|H04L
+11755309,2023-09-12,Tagging packages in an application ecosystem,1,G06F
+11755297,2023-09-12,Compiling monoglot function compositions into a single entity,0,G06F|G06Q
+11748364,2023-09-05,Scalable object stream query for objects in a distributed storage system,0,G06F
+11748233,2023-09-05,Debugging a native compiled application from an integrated development environment,0,G06F
+11748141,2023-09-05,Providing virtual devices direct access to clock times in memory locations managed by a hypervisor,0,G06F|H04J
+11748140,2023-09-05,Virtual machine security policy implementation,0,G06F|H04L
+11748136,2023-09-05,Event notification support for nested virtual machines,0,G06F
+11748135,2023-09-05,Utilizing virtual input/output memory management units (IOMMU) for tracking encryption status of memory pages,0,G06F|H04L
+11748131,2023-09-05,Network updates for virtual machine migration,0,G06F|H04L
+11743259,2023-08-29,Managing operator pattern service connections to an environment,0,G06F|H04L
+11741221,2023-08-29,Using a trusted execution environment to enable network booting,1,G06F|H04L
+11741029,2023-08-29,System to use descriptor rings for I/O communication,0,G06F
+11740988,2023-08-29,Secure detection and correction of inefficient application configurations,0,G06F|G06N
+11734621,2023-08-22,Methods and systems for building custom appliances in a cloud-based network,0,G06Q
+11734182,2023-08-22,Latency reduction for kernel same page merging,0,G06F
+11734125,2023-08-22,Tiered cloud storage for different availability and performance requirements,0,G06F|H04L
+11734042,2023-08-22,Providing supplemental information to a guest operating system by a hypervisor,0,G06F
+11734039,2023-08-22,Efficient handling of network topology change notification for virtual machines,0,G06F|H04L
+11734021,2023-08-22,Automated runtime service optimization via modification of a configuration file,0,G06F
+11733903,2023-08-22,Data relocation for data units in scale-out storage systems,0,G06F
+11731585,2023-08-22,Cloud-based keyless entry system,1,B60R|G07C|H04L
+11729218,2023-08-15,Implementing a service mesh in the hypervisor,0,G06F|H04L
+11729051,2023-08-15,Automated deployment of control nodes at remote locations,0,G06F|H04L
+11727117,2023-08-15,Vulnerability analyzer for application dependencies in development pipelines,1,G06F
+11726901,2023-08-15,Continuous testing and dependency tracking for java virtual machines,0,G06F
+11726854,2023-08-15,Host malfunction detection for CI/CD systems,2,G06F
+11726817,2023-08-15,Scheduling multiple processes with varying delay sensitivity,1,G06F|G06N
+11720429,2023-08-08,Optimizing logging of decision outcomes in distributed transactions,0,G06F
+11720348,2023-08-08,Computing node allocation based on build process specifications in continuous integration environments,0,G06F
+11720345,2023-08-08,Pull based inner-loop code deployment,0,G06F
+11719563,2023-08-08,Distributed anomaly detection using combinable measurement value summaries,0,G01D|G08B|H04L
+11716378,2023-08-01,Optimized network device queue management for hybrid cloud networking workloads,0,G06F|H04L
+11715030,2023-08-01,Automatic object optimization to accelerate machine learning training,0,G06F|G06N
+11714743,2023-08-01,Automated classification of defective code from bug tracking tool data,0,G06F|G06N
+11714740,2023-08-01,Storage-based log file management,0,G06F|Y02D
+11714692,2023-08-01,Classical management of qubit requests,0,G06F|G06N
+11714687,2023-08-01,"Dynamic preparation of a new network environment, and subsequent monitoring thereof",0,G06F|H04L
+11714663,2023-08-01,Application environment that implements native code functionality in progressive web applications,1,G06F
+11714657,2023-08-01,Self optimizing application,0,G06F
+11711315,2023-07-25,Dynamic endpoint resources discovery in Kubernetes clusters via stable URI locator for workflow services,1,H04L
+11709849,2023-07-25,Federation optimization using ordered queues,0,G06F
+11709807,2023-07-25,Optimized tenant schema generation,1,G06F
+11709756,2023-07-25,Dynamic distributed tracing instrumentation in a microservice architecture,0,G06F
+11709716,2023-07-25,Hardware offload support for an operating system offload interface using operation code verification,0,G06F
+11709707,2023-07-25,Low latency distributed counters for quotas,0,G06F|H04L|Y02D
+11709665,2023-07-25,Hybrid approach to performing a lazy pull of container images,0,G06F
+11706280,2023-07-18,Methods and system for auditing batch jobs using blockchain,1,H04L
+11706155,2023-07-18,Managing cloud acquisitions using distributed ledgers,3,H04L
+11706035,2023-07-18,Signature verification using blockchain,0,G06F|G06Q|H04L
+11704146,2023-07-18,Network transparency on virtual machines using socket impersonation,0,G06F|H04L
+11698968,2023-07-11,Management of building of software packages using a trusted execution environment,1,G06F|H04L
+11698825,2023-07-11,Application programming interface compatibility,1,G06F|H04L
+11698824,2023-07-11,Aggregated health monitoring of a cluster during test automation,0,G06F|G06Q
+11698806,2023-07-11,Hypercall acceleration for nested virtual machines,0,G06F
+11693799,2023-07-04,Bandwidth control for input/output channels,0,G06F
+11693722,2023-07-04,Fast memory mapped IO support by register switch,0,G06F
+11693694,2023-07-04,Migrating quantum services from quantum computing devices to quantum simulators,0,G06F|G06N
+11689552,2023-06-27,Multi-tenant cloud security threat detection,0,H04L
+11687490,2023-06-27,Management of contextual information for data,0,G06F
+11687379,2023-06-27,Management of containerized clusters by virtualization systems,0,G06F
+11687323,2023-06-27,Configurable multi-input web forms for code editors,0,G06F
+11687266,2023-06-27,Managing deduplication operations based on a likelihood of duplicability,0,G06F
+11683400,2023-06-20,Communication protocol for Knative Eventing's Kafka components,1,H04L
+11683374,2023-06-20,Containerized gateways and exports for distributed file systems,0,G06F|H04L
+11683301,2023-06-20,Automatically obtaining a signed digital certificate from a trusted certificate authority,0,H04L
+11681692,2023-06-20,Managing data retrieval in a data grid,0,G06F
+11681683,2023-06-20,Transaction compensation for single phase resources,0,G06F
+11681659,2023-06-20,Hybrid file compression model,0,G06F
+11677733,2023-06-13,Firmware validation for encrypted virtual machines,0,G06F|H04L
+11677624,2023-06-13,Configuration of a server in view of a number of clients connected to the server,0,H04L
+11676059,2023-06-13,Performing quantum file pattern searching,0,G06F|G06N
+11675622,2023-06-13,Leader election with lifetime term,0,G06F
+11675615,2023-06-13,Zero copy message reception for applications,0,G06F
+11675578,2023-06-13,Meta-operators for managing operator groups,1,G06F
+11671412,2023-06-06,Network bound encryption for orchestrating workloads with sensitive data,1,H04L
+11671350,2023-06-06,Data request servicing using multiple paths of smart network interface cards,0,H04L
+11669528,2023-06-06,Joining multiple events in data streaming analytics systems,1,G06F
+11669493,2023-06-06,Generating file usage information,0,G06F
+11669312,2023-06-06,Profiling and optimization of compiler-generated code,0,G06F
+11664985,2023-05-30,TPM-based data integrity,1,G06F|H04L
+11663749,2023-05-30,Providing context for software deployments using augmented reality,0,G02B|G06F|G06K|G06T
+11663082,2023-05-30,Virtual disk image testing,0,G06F
+11663020,2023-05-30,Bootstrapping frameworks from a generated static initialization method for faster booting,0,G06F
+11658982,2023-05-23,Efficient authentication in a file system with multiple security groups,0,G06F|H04L
+11656891,2023-05-23,Copy-on-write for virtual machines with encrypted storage,0,G06F
+11652696,2023-05-16,Zoned mesh network isolation,0,G16Y|H04L
+11650984,2023-05-16,Using a caching layer for key-value storage in a database,0,G06F
+11650967,2023-05-16,Managing a deduplicated data index,0,G06F
+11650961,2023-05-16,Managing replica unavailability in a distributed file system,0,G06F
+11650856,2023-05-16,Federated operator for edge computing network,2,G06F|H04L
+11645266,2023-05-09,Automated pinning of file system subtrees,0,G06F
+11641306,2023-05-02,Dynamic runtime application integration,0,H04L
+11640194,2023-05-02,Coordinating dynamic power scaling of agents based on power correlations of agent instructions,1,G06F|Y02D
+11637889,2023-04-25,Configuration recommendation for a microservice architecture,0,G06F|H04L
+11630971,2023-04-18,Predicting software performace based on different system configurations,0,G06F|G06N|H04L
+11630812,2023-04-18,Schema based type-coercion for structured documents,1,G06F
+11630782,2023-04-18,Hardware offloading for an emulated IOMMU device,0,G06F
+11630689,2023-04-18,Image subunit based guest scheduling,0,G06F
+11630683,2023-04-18,Low latency launch for trusted execution environments,0,G06F|H04L
+11630599,2023-04-18,Pre-population of persistent volumes in container based cluster,0,G06F
+11627128,2023-04-11,Network management using trusted execution environments,1,H04L
+11625240,2023-04-11,Generating rules for migrating dependencies of a software application,1,G06F
+11620411,2023-04-04,Elastic launch for trusted execution environments,0,G06F|H04L
+11620399,2023-04-04,End-to-end encryption with data deduplication,0,G06F|H04L
+11620156,2023-04-04,Live migration with guaranteed maximum migration downtimes,1,G06F
+11620151,2023-04-04,Flow rule installation latency testing in software defined networks,0,G06F|H04L
+11620149,2023-04-04,Safe entropy source for encrypted virtual machines,0,G06F
+11614973,2023-03-28,Assigning devices to virtual machines in view of power state information,0,G06F|H04L|Y02D
+11614956,2023-03-28,Multicast live migration for encrypted virtual machines,27,G06F|H04L
+11611636,2023-03-21,Quality of service in a distributed system,0,H04L
+11611619,2023-03-21,Policy-based data placement in an edge environment,0,G06F|H04L
+11611453,2023-03-21,Network interface provisioning of containerized instances based on tenant policies,0,G06F|H04L
+11611431,2023-03-21,Network bound encryption for recovery of trusted execution environments,2,G06F|H04L
+11609935,2023-03-21,"Managing configuration datasets from multiple, distinct computing systems",0,G06F|G06N
+11609803,2023-03-21,Managing event delivery in a serverless computing environment,0,G06F
+11609772,2023-03-21,Dynamically generating guided tours for software,1,G06F|G09B
+11606260,2023-03-14,Consensus-based node retirement process in a mesh,0,H04L|H04W
+11606258,2023-03-14,Determining network topology based on packet traffic,0,G06N|H04L
+11606245,2023-03-14,Validating endpoints in a service mesh of a distributed computing system,1,H04L
+11604708,2023-03-14,Memory first live snapshot,0,G06F
+11604673,2023-03-14,Memory encryption for virtual machines by hypervisor-controlled firmware,0,G06F
+11604671,2023-03-14,Secure virtual machine and peripheral device communication,0,G06F|H04L
+11599429,2023-03-07,Quantum failsafe service,0,G06F|G06N
+11599348,2023-03-07,Container image building using shared resources,2,G06F|H04L
+11599342,2023-03-07,Pathname independent probing of binaries,1,G06F
+11595469,2023-02-28,Balancing data partitions among dynamic services in a cloud environment,0,G06F|H04L
+11593493,2023-02-28,Providing smart contracts including secrets encrypted with oracle-provided encryption keys,0,G06F|G06Q|H04L
+11593467,2023-02-28,Systems and methods for biometric authorization using a main screen and a visual indicator,0,G06F
+11593247,2023-02-28,System performance evaluation and enhancement in a software-defined system,0,G06F|G06N|H04L
+11593170,2023-02-28,Flexible reverse ballooning for nested virtual machines,1,G06F
+11593168,2023-02-28,Zero copy message reception for devices via page tables used to access receiving buffers,0,G06F
+11593165,2023-02-28,Resource-usage notification framework in a distributed computing environment,1,G06F|Y02D
+11593156,2023-02-28,Instruction offload to processor cores in attached memory,0,G06F|Y02D
+11593035,2023-02-28,Managing client devices associated with storage nodes in a scale-out storage system,0,G06F
+11588693,2023-02-21,Migrating networking configurations,0,G06F|H04L
+11588623,2023-02-21,Secure reliable trusted execution environments,0,G06F|H04L
+11586727,2023-02-21,Systems and methods for preventing kernel stalling attacks,1,G06F
+11586589,2023-02-21,Speedup build container data access via system call filtering,1,G06F
+11586531,2023-02-21,Generating test input values for functional components based on test coverage analysis,0,G06F|G06N
+11586493,2023-02-21,Efficient checksum computation,0,G06F|H04L
+11586460,2023-02-21,Sidecar-based integration capabilities for containerized applications,1,G06F|H04L
+11586458,2023-02-21,Fast device discovery for virtual machines,1,G06F
+11586455,2023-02-21,Managing containers across multiple operating systems,0,G06F|H04L
+11586454,2023-02-21,Selective memory deduplication for virtual machines,0,G06F
+11586358,2023-02-21,Building file system images using cached logical volume snapshots,0,G06F
+11580247,2023-02-14,Systems and methods for quantum file permissions,0,G06F|G06N
+11579954,2023-02-14,Data collecting in issue tracking systems,0,G06F
+11579935,2023-02-14,Merging scaled-down container clusters using vitality metrics,0,G06F
+11579781,2023-02-14,Pooling distributed storage nodes that have specialized hardware,0,G06F
+11573972,2023-02-07,Automatically determining flags for a command-line interface in a distributed computing environment,0,G06F
+11573815,2023-02-07,Dynamic power management states for virtual machine migration,0,G06F|Y02D
+11573782,2023-02-07,Self updating agent,0,G06F
+11573780,2023-02-07,Automated generation of status chains for software updates,0,G06F
+11573714,2023-02-07,Compressibility instrumented dynamic volume provisioning,0,G06F|H04L
+11567884,2023-01-31,Efficient management of bus bandwidth for multiple drivers,0,G06F
+11567866,2023-01-31,Free detection with double free protection,0,G06F
+11567811,2023-01-31,Detecting multiple operator pattern services making conflicting resource modifications,0,G02B|G06F|H01R|H04L
+11567774,2023-01-31,Optimized branching using safe static keys,0,G06F
+11567751,2023-01-31,Providing system updates in automotive contexts,23,G06F
+11567739,2023-01-31,Simplifying creation and publishing of schemas while building applications,0,G06F
+11567738,2023-01-31,Code generator for creating a unified data model for multiple language specifications,0,G06F
+11567684,2023-01-31,Constant time updates after memory deduplication,0,G06F
+11567677,2023-01-31,Flexible deprovisioning of distributed storage,0,G06F|Y02D
+11563748,2023-01-24,Setting application permissions in a cloud computing environment,0,G06F|H04L
+11562283,2023-01-24,Performing quantum file copying,0,G06F|G06N
+11561843,2023-01-24,Automated performance tuning using workload profiling in a distributed computing environment,0,G06F
+11561801,2023-01-24,Predicting execution duration for user-defined functions on function-as-a-service (FaaS) cloud computing platforms,0,G06F
+11556835,2023-01-17,Distributed quantum computing systems,2,G06N|H04L
+11556833,2023-01-17,Performing quantum file concatenation,0,G06F|G06N
+11556371,2023-01-17,Hypervisor task execution management for virtual machines,0,G06F
+11556253,2023-01-17,Reducing power consumption by selective memory chip hibernation,0,G06F|Y02D
+11550955,2023-01-10,Automatically anonymizing data in a distributed storage system,1,G06F|H04L
+11550941,2023-01-10,Secure modular devices,0,G06F
+11550775,2023-01-10,Time-to-run column for database management systems,0,G06F
+11550755,2023-01-10,High performance space efficient distributed storage,0,G06F|Y02D
+11550729,2023-01-10,Memory ballooning related memory allocation techniques for virtual machines,0,G06F
+11550697,2023-01-10,Cross jobs failure dependency in CI/CD systems,0,G06F
+11550660,2023-01-10,Kernel software RAID support for direct-access file systems,0,G06F
+11550641,2023-01-10,Extending the kubernetes API in-process,0,G06F
+11550612,2023-01-10,Support for encrypted memory in nested virtual machines,1,G06F|H04L
+11550607,2023-01-10,Processor core power management in a virtualized environment,0,G06F|Y02D
+11550566,2023-01-10,Automatically integrating software components into a control framework in a distributed computing environment,0,G06F|H04L
+11550553,2023-01-10,Usage-based software library decomposition,0,G06F
+11550490,2023-01-10,Scalable storage cluster mirroring,0,G06F
+11546224,2023-01-03,Virtual network layer for distributed systems,0,G06F|H04L|H04W
+11544615,2023-01-03,Managing runtime qubit allocation for executing quantum services,0,G06F|G06N
+11544090,2023-01-03,Implementing dependency injection via direct bytecode generation,0,G06F
+11539678,2022-12-27,Asymmetric key management for cloud computing services,0,G06F|H04L
+11539503,2022-12-27,Container management for cryptanalysis attack protection,1,G06F|H04L
+11537752,2022-12-27,Unified system for authentication and authorization,0,G06F|H04L
+11537652,2022-12-27,Sharing filesystems between containers,0,G06F
+11537523,2022-12-27,Command result caching for building application container images,0,G06F|H04L
+11537458,2022-12-27,Reducing service disruptions in a micro-service environment,0,G06F
+11537429,2022-12-27,Sub-idle thread priority class,0,G06F|Y02D
+11537422,2022-12-27,Virtual machine migration downtime reduction using a multicast address,0,G06F|H04L
+11537420,2022-12-27,Power management for virtualized computer systems,0,G06F|Y02D
+11531536,2022-12-20,Analyzing performance impacts of source code changes,0,G06F|G06N
+11531530,2022-12-20,Dynamic automation of prerequisite component deployment in disconnected environments,3,G06F
+11526782,2022-12-13,"Inferring dependencies, requirements, and productions from spreadsheet-based loosely-coupled decision tables",0,G06F|G06N|G06Q
+11526382,2022-12-13,Cascading job scheduling in guests,0,G06F|H04L
+11526350,2022-12-13,Providing code editor documentation pages using a lightweight text formatting language and platform-agnostic command links,0,G06F
+11520878,2022-12-06,Using a trusted execution environment for a proof-of-work key wrapping scheme that restricts execution based on device capabilities,0,G06F|H04L
+11520602,2022-12-06,Generating configuration corrections for applications using a classifier model,1,G06F
+11516147,2022-11-29,Blockchain-based dynamic storage provisioner,0,G06F|H04L
+11516096,2022-11-29,Automatically managing performance of software in a distributed computing environment,0,G06F|G06N|H04L
+11513987,2022-11-29,Remote direct memory access based networking gateway,0,G06F|H04L
+11513860,2022-11-29,Serverless function colocation with storage pools,1,G06F
+11513737,2022-11-29,Preventing data overflow in edge computing systems,0,G06F|H04L
+11509531,2022-11-22,Configuration sharing and validation for nodes in a grid network,0,G06F|H04L
+11507666,2022-11-22,Trusted execution environment verification of a software package,0,G06F|H04L
+11507393,2022-11-22,Facilitating automatic deployment and configuration of computing environments,0,G06F
+11507392,2022-11-22,Automatically configuring computing clusters,0,G06F
+11503124,2022-11-15,Managing resource utilization in edge-computing systems,0,G06F|H04L
+11500823,2022-11-15,Managing container-image layers,0,G06F
+11500668,2022-11-15,Page fault support for virtual machine network accelerators,1,G06F|H04L
+11500565,2022-11-15,Library-based memory deduplication,0,G06F
+11500550,2022-11-15,Inhibiting memory accesses to executable modules,0,G06F
+11496360,2022-11-08,Applying impairments to nodes of a distributed computing environment using a software operator,1,H04L
+11494233,2022-11-08,Baselining for compute resource allocation,0,G06F
+11494219,2022-11-08,Encryption and remote attestation of containers,0,G06F|H04L
+11489943,2022-11-01,Automatic version routing among multiple instances of an application,0,G06F|H04L
+11487646,2022-11-01,Dynamic test case timers,0,G06F
+11487575,2022-11-01,Enabling restoration of qubits following quantum process termination,0,G06F|G06N
+11483416,2022-10-25,Composable infrastructure provisioning and balancing,0,H04L
+11481491,2022-10-25,Managing virus scanning of container images,0,G06F
+11481488,2022-10-25,Automated security algorithm identification for software distributions,0,G06F
+11481143,2022-10-25,Metadata management for extent-based storage system,0,G06F
+11481120,2022-10-25,Reducing wear on zoned storage devices for storing digital data,0,G06F
+11477090,2022-10-18,Detecting deployment problems of containerized applications in a multiple-cluster environment,0,H04L
+11475413,2022-10-18,Concurrent meeting and compute instance scheduling,0,G06F|G06Q
+11475131,2022-10-18,Hypervisor level signature checks for encrypted trusted execution environments,1,G06F
+11474852,2022-10-18,Resetting persistent balloon memory for fragmentation reduction,0,G06F
+11474848,2022-10-18,Fail-safe post copy migration of virtual machines,0,G06F
+11474794,2022-10-18,Generating mock services based on log entries,0,G06F
+11470470,2022-10-11,Anonymization of basic service set identifiers for wireless access points,1,H04L|H04W
+11470065,2022-10-11,Protection of private data using an enclave cluster,1,G06F|H04L
+11469943,2022-10-11,Pre-scheduling for cloud resource provisioning,0,G06F|H04L|H04W
+11467974,2022-10-11,Host address space identifier for non-uniform memory access locality in virtual machines,0,G06F
+11467886,2022-10-11,Migrating virtual machines between computing environments,0,G06F
+11467779,2022-10-11,Dynamic storage provisioning for nested clusters,0,G06F
+11467731,2022-10-11,Client driven multi-site consistency for object storage,0,G06F
+11463374,2022-10-04,Providing high availability for a thin-provisioned container cluster,1,G06F|G06Q|H04L
+11461414,2022-10-04,Automatically building a searchable database of software features for software projects,0,G06F
+11461283,2022-10-04,Migrating file locks in distributed file systems,0,G06F
+11461219,2022-10-04,Prioritizing software bug mitigation for software on multiple systems,0,G06F
+11461121,2022-10-04,Guest-driven virtual machine snapshots,0,G06F
+11460903,2022-10-04,Power consumption optimization on the cloud,0,G06F|Y02D
+11456936,2022-09-27,Detection and cleanup of unused microservices,2,H04L
+11455404,2022-09-27,Deduplication in a trusted execution environment,0,G06F|H04L
+11455024,2022-09-27,Idle state estimation by scheduler,0,G06F
+11451615,2022-09-20,Probabilistic per-file images preloading,0,G06F|H04L
+11451380,2022-09-20,Message decryption dependent on third-party confirmation of a condition precedent,2,H04L
+11449601,2022-09-20,Proof of code compliance and protected integrity using a trusted execution environment,0,G06F|H04L
+11449549,2022-09-20,Storing entries as ordered linked lists,0,G06F
+11449434,2022-09-20,Reverse shadow page tables for firewalled nested encrypted virtual machines,0,G06F
+11449411,2022-09-20,Application-specific log routing,0,G06F
+11449339,2022-09-20,Memory barrier elision for multi-threaded workloads,0,G06F
+11449324,2022-09-20,Automatic updating of an application executing on an application server,0,G06F|H04L
+11449317,2022-09-20,Detection of semantic equivalence of program source codes,0,G06F
+11449229,2022-09-20,Dynamically resizing a region of volatile memory based on a charge level of a backup battery supply,0,G06F|Y02D
+11449225,2022-09-20,Rehydration of a block storage device from external storage,0,G06F
+11443231,2022-09-13,Automated software selection using a vector-trained deep learning model,0,G06F|G06N
+11442893,2022-09-13,Database-aware snapshotting,8,G06F
+11442762,2022-09-13,Systems and methods for introspective application reporting to facilitate virtual machine movement between cloud hosts,0,G06F
+11438550,2022-09-06,Video conference content requests to non-participants,0,H04L|H04N
+11438443,2022-09-06,Scalable collaborative editing,0,H04L
+11438150,2022-09-06,Constrained key derivation in linear space,0,G06F|H04L
+11436352,2022-09-06,Proof-of-work key wrapping for restricting data execution based on device capabilities,1,G06F|H04L
+11436141,2022-09-06,Free memory page hinting by virtual machines,1,G06F
+11436042,2022-09-06,Migrating the runtime state of a container between two nodes,0,A63F|G06F|H04L
+11436032,2022-09-06,Blockchain-based container image registry,0,G06F|H04L
+11436004,2022-09-06,Calculating a patch target on an application server,0,G06F|H04L
+11436001,2022-09-06,Mitigating software-update risks for end users,0,G06F|G06N
+11429473,2022-08-30,Automated problem resolution,1,G06F
+11429400,2022-08-30,User interface metadata from an application program interface,1,G06F
+11425211,2022-08-23,Signing files via a publish-subscribe message service,0,G06F|H04L
+11424920,2022-08-23,Proof-of-work key wrapping for cryptographically controlling data access,5,H04L
+11423141,2022-08-23,Intruder detection using quantum key distribution,1,G06F|H04L
+11422959,2022-08-23,System to use descriptor rings for I/O communication,0,G06F
+11422926,2022-08-23,Managing test coverage for a software application,0,G06F
+11422922,2022-08-23,Testing responses of software applications to spatiotemporal events using simulated environments,0,G06F
+11422917,2022-08-23,Deriving software application dependency trees for white-box testing,0,G06F
+11422902,2022-08-23,Recreating a computing environment using tags and snapshots,0,G06F
+11418417,2022-08-16,Managing stateful workloads executing on temporarily available resources of a cloud computing system,0,H04L
+11416367,2022-08-16,Linking computing metrics data and computing inventory data,0,G06F|H04L|Y02D
+11416273,2022-08-16,Adaptive and secure bitecode injection based on comparison with previously stored bytecode,0,G06F|H04L
+11416271,2022-08-16,Combining ahead-of-time compilation and just-in-time compilation to improve application deployment,0,G06F
+11416222,2022-08-16,Determining validity of multipart branching literate programs,0,G06F
+11416221,2022-08-16,Quantum entanglement protection,0,G06F|G06N
+11411969,2022-08-09,Live process migration in conjunction with electronic security attacks,0,G06F|H04L
+11411938,2022-08-09,Proof-of-work key wrapping with integrated key fragments,2,H04L
+11411828,2022-08-09,Host network analyzer,0,H04L
+11411728,2022-08-09,Proof-of-work key wrapping with individual key fragments,1,H04L
+11409917,2022-08-09,Un-photographable screens and displays,1,G06F|G09G
+11409573,2022-08-09,Function parallelism in a runtime container of a function-as-a-service (FAAS) system,0,G06F
+11409551,2022-08-09,Emulating VPID correctly for a nested hypervisor,0,G06F
+11405456,2022-08-02,Policy-based data placement in an edge environment,0,G06F|H04L
+11403255,2022-08-02,Managing discovered chiplets based on physical topology,1,G06F
+11403199,2022-08-02,Secure detection and correction of inefficient application configurations,0,G06F|G06N
+11403132,2022-08-02,Managing tasks in a cloud computing environment using multiple orchestration tools,0,G06F|H04L
+11403098,2022-08-02,Fast descriptor access for virtual network devices,0,G06F|H04L
+11403002,2022-08-02,Multimodal access to block devices in a distributed storage system,0,G06F
+11397678,2022-07-26,Pooling distributed storage nodes that have backup power supplies and write-back caching capabilities,0,G06F
+11397632,2022-07-26,Safely recovering workloads within a finite timeframe from unhealthy cluster nodes,0,G06F|H04L
+11397602,2022-07-26,Processor control register configuration support,0,G06F
+11394786,2022-07-19,Zero-copy forwarding for network function virtualization,0,G06F|H04L
+11394750,2022-07-19,System and method for generating network security policies in a distributed computation system utilizing containers,6,H04L
+11394659,2022-07-19,Tracking costs for a deployable instance,0,G06Q|H04L|H04N
+11392610,2022-07-19,Scalable object storage with intelligent replication,0,G06F
+11392504,2022-07-19,Memory page fault handling for network interface devices in a virtualized environment,0,G06F|H04L
+11392433,2022-07-19,Generation of asynchronous application programming interface specifications for messaging topics,0,G06F
+11392364,2022-07-19,Adaptive hot reload for class changes,2,G06F
+11388631,2022-07-12,Data reduction in a system,0,H04L|H04Q|H04W
+11388180,2022-07-12,Container intrusion detection and prevention system,1,G06F|H04L
+11387997,2022-07-12,Constrained key derivation in geographical space,0,H04L
+11386067,2022-07-12,Data integrity checking in a distributed filesystem using object versioning,0,G06F
+11385993,2022-07-12,Dynamic integration of command line utilities,0,G06F
+11385905,2022-07-12,Managing boot device orders for computing devices,2,G06F
+11385774,2022-07-12,Intuitive workspace management,0,G06F
+11381655,2022-07-05,Server-driven notifications to mobile applications,0,G06F|H04L
+11381641,2022-07-05,Granular entry self-healing,0,G06F|H04L
+11381630,2022-07-05,Transmitting data over a network in representational state transfer (REST) applications,0,H04L
+11381566,2022-07-05,Isolating network resources in a virtualized environment,0,G06F|H04L
+11379752,2022-07-05,Qubit reservation service,3,G06F|G06N
+11379728,2022-07-05,Modified genetic recombination operator for cloud optimization,0,G06F|G06N
+11379207,2022-07-05,Rapid bug identification in container images,3,G06F
+11375065,2022-06-28,Control information for public switched telephone network (PSTN) using blockchain system,0,G06F|H04L|H04M
+11372676,2022-06-28,Rule-driven service management using entangled qubits in quantum computing systems,1,G06F|G06N
+11372628,2022-06-28,Application development interface,0,G06F
+11368525,2022-06-21,Relaying network management tasks using a multi-service receptor network,1,H04L
+11368523,2022-06-21,Traffic management for multiple versions of an application deployed in a computer system,0,G06F|H04L
+11368521,2022-06-21,Utilizing reinforcement learning for serverless function tuning,0,G06F|G06N|H04L
+11368416,2022-06-21,Reconciliation of a blockchain ledger during failures of an enterprise service bus,0,G06F|G06Q|H04L
+11368408,2022-06-21,Dynamic visualization of requests traveling through a microservice mesh,0,H04L
+11366787,2022-06-21,Quantum file migration,1,G06F|G06N
+11366727,2022-06-21,Distributed storage access using virtual target portal groups,0,G06F|H04L
+11366648,2022-06-21,Compiling monoglot function compositions into a single entity,0,G06F|G06Q
+11362969,2022-06-14,Efficient packet re-transmission for express data paths,0,G06F|H04L
+11360929,2022-06-14,Pre-registering memory regions for remote direct memory access in a distributed file system,1,G06F|H04L
+11360924,2022-06-14,Quantum message bus using superdense encoding,1,G06F|G06N
+11360904,2022-06-14,Latency reduction for kernel same page merging,0,G06F
+11360673,2022-06-14,Removable data volume management,0,G06F
+11356464,2022-06-07,Mitigating cyber-attacks by automatically coordinating responses from cyber-security tools,0,G06N|H04L
+11356367,2022-06-07,Secure preloading of serverless function sequences,0,G06F|H04L
+11356363,2022-06-07,Location change notification handling,0,G06F|H04L
+11354460,2022-06-07,Validator and optimizer for quantum computing simulator,2,G06F|G06N
+11354420,2022-06-07,Re-duplication of de-duplicated encrypted memory,0,G06F
+11354207,2022-06-07,Live process migration in response to real-time performance-based metrics,0,G06F
+11354180,2022-06-07,Secure backwards compatible orchestration of isolated guests,0,G06F|H04L|Y02D
+11354154,2022-06-07,Timer task ownership determination in a cluster based on a common cluster member selection algorithm,0,G06F
+11354047,2022-06-07,Memory protection in virtualized computer systems using shadow page tables,0,G06F
+11347619,2022-05-31,Log record analysis based on log record templates,0,G06F
+11347564,2022-05-31,Synchronizing batch job status across nodes on a clustered system,0,G06F
+11347535,2022-05-31,Cooperative cloud infrastructure using blockchains for hardware ownership and access,0,G06F|G06Q
+11347532,2022-05-31,Hot-swapping storage pool backend functional modules,0,G06F
+11347499,2022-05-31,Merging multiple package files into a merged package file,0,G06F|H04L
+11347498,2022-05-31,Bytecode modification,0,G06F
+11347490,2022-05-31,Compilation framework for hardware configuration generation,1,G06F|G06N
+11343082,2022-05-24,Resource sharing for trusted execution environments,0,G06F|H04L
+11341260,2022-05-24,Optimizing allocation of access control identifiers to a container,0,G06F
+11341247,2022-05-24,Use of a trusted execution environment as a safe build environment,0,G06F|H04L
+11341025,2022-05-24,Dynamic tuning of computing devices using application log data,0,G06F|G06N
+11340914,2022-05-24,Run-time identification of dependencies during dynamic linking,1,G06F
+11340871,2022-05-24,Software-development tool with feedback notifications for improving software specifications,3,G06F
+11336588,2022-05-17,Metadata driven static determination of controller availability,0,G06F|H04L
+11334396,2022-05-17,Host specific containerized application configuration generation,0,G06F|H04L
+11334391,2022-05-17,Self-programmable and self-tunable resource scheduler for jobs in cloud computing,0,G06F
+11334334,2022-05-17,Generating a software release based on controller metadata,1,G06F
+11329930,2022-05-10,Generating scenarios for automated execution of resources in a cloud computing environment,0,H04L
+11329903,2022-05-10,Incorporation of a trace visualization with a traffic graph visualization in a service mesh,1,G06F|H04L
+11329812,2022-05-10,Constrained key derivation in miscellaneous dimensions,0,H04L
+11327810,2022-05-10,Managing virtual machine memory balloon using time series predictive data,0,G06F
+11327783,2022-05-10,Asynchronous management of unencrypted memory page list of a virtual machine,0,G06F
+11327781,2022-05-10,Zero copy message reception for applications,0,G06F
+11327778,2022-05-10,Application deployment using reduced overhead bytecode,0,G06F
+11327744,2022-05-10,Equivalency of revisions on modern version control systems,0,G06F
+11327723,2022-05-10,Development environment integrated with failure detection system,0,G06F
+11323342,2022-05-03,Host auto role classifier,0,G06F|H04L
+11321159,2022-05-03,Interchangeable plugins for detecting conflicts between server-side data and client-side data,0,G06F|H04L
+11321043,2022-05-03,Augmented reality personal identification,0,G06F|G09G
+11316839,2022-04-26,Proof-of-work key wrapping for temporally restricting data access,1,G06Q|H04L
+11316660,2022-04-26,Multi-stage secure smart contracts,2,H04L
+11314880,2022-04-26,Decoupling container image layers to preserve privacy,0,G06F|H04L
+11314623,2022-04-26,Software tracing in a multitenant environment,0,G06F
+11314544,2022-04-26,Transaction log for audit purposes,1,G06F
+11314522,2022-04-26,Fast boot resource allocation for virtual machines,0,G06F
+11310117,2022-04-19,Pairing of a probe entity with another entity in a cloud computing environment,0,G06F|H04L
+11310057,2022-04-19,Preventing exploitation of serverless-function flows,1,G06F|H04L
+11309974,2022-04-19,Quantum channel routing utilizing a quantum channel measurement service,0,B82Y|H04B|H04L
+11308230,2022-04-19,Direct access to host memory for guests,0,G06F
+11308129,2022-04-19,Container clustering in a container-based architecture,0,G06F|H04L
+11308038,2022-04-19,Copying container images,0,G06F
+11307966,2022-04-19,Shared software debugging service,1,G06F
+11307939,2022-04-19,Low impact snapshot database protection in a micro-service environment,0,G06F
+11307888,2022-04-19,Managing host hardware configuration for virtual machine migration,0,G06F
+11307781,2022-04-19,Managing replicas of content in storage systems,0,G06F|G06N
+11307634,2022-04-19,Maintaining historical power level metadata for dynamic voltage and frequency scaling of processor instructions,1,G06F|Y02D
+11303437,2022-04-12,Proof-of-work key wrapping with key thresholding,1,H04L
+11301558,2022-04-12,Automatic secure storage of credentials within a managed configuration model,0,G06F
+11301428,2022-04-12,Filesystem pass-through on lightweight virtual machine containers,1,G06F
+11301402,2022-04-12,Non-interrupting portable page request interface,0,G06F
+11301363,2022-04-12,Dynamic correlation of log messages with continuous integration test jobs,0,G06F
+11301345,2022-04-12,Desktop sound source discovery,3,G06F
+11301307,2022-04-12,Predictive analysis for migration schedulers,0,G06F|G06N|Y02D
+11301246,2022-04-12,Automatically generating continuous integration pipelines,0,G06F
+11301225,2022-04-12,Reducing application startup time by generating bytecode from metadata at build time,0,G06F
+11297141,2022-04-05,Filesystem I/O scheduler,0,G06F|H04L
+11297100,2022-04-05,Concealed monitor communications from a task in a trusted execution environment,0,G06F|H04L
+11296940,2022-04-05,Centralized configuration data in a distributed file system,0,G06F|H04L
+11295227,2022-04-05,Qubit value change monitor,1,G06F|G06N
+11295226,2022-04-05,Optimization recommendation services for quantum computing,2,G06N
+11295024,2022-04-05,Providing smart contracts including secrets encrypted with oracle-provided encryption keys using threshold cryptosystems,2,G06F|G09C|H04L
+11290565,2022-03-29,Distributing requests for data among servers based on indicators of intent to access the data,0,H04L|H04N
+11290368,2022-03-29,Federated messaging for quantum systems through teleportation,2,H04B|H04L
+11290350,2022-03-29,Distributed saga execution and coordination,0,G06F|G06Q|H04L
+11290283,2022-03-29,Automated replacement of self-signed server certificates,2,H04L
+11288237,2022-03-29,Distributed file system with thin arbiter node,2,G06F
+11288166,2022-03-29,Determining a recommended software-stack for a target software item,1,G06F|G06N
+11288164,2022-03-29,Dynamic distributed tracing instrumentation in a microservice architecture,0,G06F
+11288092,2022-03-29,Dynamically adjusting reconciliation time-delays,0,G06F
+11288079,2022-03-29,Reducing classloading of hierarchically configured applications via provisioning,0,G06F|H04L|H04W
+11283907,2022-03-22,Determining state of virtual router instance,0,H04L
+11283858,2022-03-22,Method and system for coordination of inter-operable infrastructure as a service (IaaS) and platform as a service (PaaS) systems,2,H04L
+11283855,2022-03-22,Latency control notification for edge cloud streaming analytics service,0,H04L
+11283629,2022-03-22,Automated replacement of renewable server certificates,1,H04L|Y04S
+11281634,2022-03-22,Management of volume files in a distributed file system,0,G06F
+11281607,2022-03-22,Paravirtualized cluster mode for legacy APICs,0,G06F
+11281561,2022-03-22,Determining user behavior with a user interface using user interface log records,0,G06F
+11281487,2022-03-22,Managing processor overcommit for virtual machines,0,G06F
+11277336,2022-03-15,Tunnel-based network connectivity for computing clusters,0,H04L
+11271989,2022-03-08,Identifying a component cluster,1,H04L
+11271839,2022-03-08,Dynamic asynchronous communication management,0,G06F|H04L
+11271734,2022-03-08,Proof-of-work key wrapping for verifying device capabilities,0,G06F|H04L
+11270058,2022-03-08,Referencing a portion of a document,0,G06F
+11269686,2022-03-08,Adaptive consumer thread pool,0,G06F
+11269602,2022-03-08,Detecting native compilation incompatibilities,0,G06F
+11265345,2022-03-01,Server detection of leaked credentials over HTTP,0,H04L
+11265336,2022-03-01,Detecting anomalies in networks,4,G06N|H04L
+11265291,2022-03-01,Malicious packet filtering by a hypervisor,0,G06F|H04L
+11265247,2022-03-01,Downtime reduction with VF MAC filter programming by hypervisors,0,G06F|H04L
+11263318,2022-03-01,Monitoring a process in a trusted execution environment to identify a resource starvation attack,0,G06F
+11263310,2022-03-01,Using a trusted execution environment for a proof-of-work key wrapping scheme that verifies remote device capabilities,0,G06F|H04L
+11263070,2022-03-01,Generating targeted analysis results in a support system,0,G06F
+11262983,2022-03-01,Services integration in an integrated development environment,3,G06F
+11258580,2022-02-22,Instantaneous key invalidation in response to a detected eavesdropper,1,G06N|H04L
+11256817,2022-02-22,Tool for generating security policies for containers,0,G06F|H04L
+11256608,2022-02-22,Generating test plans for testing computer products based on product usage data,0,G06F|H04L
+11256602,2022-02-22,Source code file retrieval,1,G06F
+11256554,2022-02-22,Reducing overlay network overhead across container hosts,0,G06F
+11252234,2022-02-15,Containerized gateways and exports for distributed file systems,0,G06F|H04L
+11250123,2022-02-15,Labeled security for control flow inside executable program code,0,G06F
+11249824,2022-02-15,Balancing a recurring task between multiple worker processes,0,G06F
+11249749,2022-02-15,Automatic generation of configuration files,0,G06F
+11245762,2022-02-08,Data request servicing using smart network interface cards,5,H04L
+11245702,2022-02-08,Security vulnerability assessment for users of a cloud computing environment,0,H04L
+11245584,2022-02-08,Software defined network optimization using quantum computing,3,H04L
+11243918,2022-02-08,Enforcing consistency of file to storage node mapping,1,G06F
+11243801,2022-02-08,Transparent huge pages support for encrypted virtual machines,1,G06F
+11243795,2022-02-08,CPU overcommit with guest idle polling,0,G06F
+11240045,2022-02-01,Detection and prevention of unauthorized execution of severless functions,0,H04L
+11237963,2022-02-01,Shared filesystem metadata caching,0,G06F
+11237879,2022-02-01,Batched storage hinting with fast guest storage allocation,0,G06F
+11237860,2022-02-01,Command-based processing of real-time virtualized jobs,1,G06F
+11237836,2022-02-01,Reverse order queue updates by virtual devices,0,G06F
+11237824,2022-02-01,Tracking related changes with code annotations,1,G06F
+11234107,2022-01-25,Distributing data between mobile devices,0,H04L|H04W
+11232495,2022-01-25,Data driven rules engine to dynamically change product business rules,0,G06F|G06Q
+11232242,2022-01-25,Sensory data generator,0,G01K|G06F|H04L
+11232030,2022-01-25,Storage deduplication for virtual machines with encrypted storage,1,G06F
+11231953,2022-01-25,Minimizing downtime when importing virtual machines from other platforms,1,G06F
+11228668,2022-01-18,Efficient packet processing for express data paths,1,H04L
+11228657,2022-01-18,Hybrid proxying with user space hold,0,G06F|H04L
+11228561,2022-01-18,Safe MAC programming support for vNIC,0,G06F|H04L
+11226930,2022-01-18,Distributed file system with integrated file object conversion,0,G06F|H04L
+11226890,2022-01-18,Optimal selection of relevant testing parameters,0,G06F
+11226750,2022-01-18,Flexible deprovisioning of distributed storage,0,G06F|Y02D
+11222261,2022-01-11,Supporting machine learning models distributed among multiple mobile node devices,2,G06N|H04L|H04W
+11221947,2022-01-11,Concurrent garbage collection with minimal graph traversal,0,G06F
+11221869,2022-01-11,Memory efficient host virtual address management for hypercalls,0,G06F
+11221868,2022-01-11,Security enhanced hypervisor userspace notifications,0,G06F
+11221780,2022-01-11,Size adjustable volumes for containers,0,G06F
+11218559,2022-01-04,Asymmetric networking proxy,0,G06F|H04L
+11216258,2022-01-04,Direct function call substitution using preprocessor,0,G06F
+11212587,2021-12-28,Subtitle-based rewind for video display,2,H04N
+11210455,2021-12-28,Shareable and cross-application non-destructive content processing pipelines,0,G06F|G06Q
+11210269,2021-12-28,System and method for deduplicating container image storage data,1,G06F
+11204946,2021-12-21,Finding objects in a key-based data structure by their approximate location,1,G06F
+11204759,2021-12-21,Software patch comparison,0,G06F|H04L
+11200330,2021-12-14,Secure storage access through rate limitation,1,G06F
+11200296,2021-12-14,Limited duration supply for heuristic algorithms,0,G06F|G06N
+11196770,2021-12-07,HTTP password mediator,1,G06F|H04L
+11196766,2021-12-07,Detecting denial of service attacks in serverless computing,0,H04L
+11194702,2021-12-07,History based build cache for program builds,0,G06F
+11194699,2021-12-07,Compatibility testing with different environment configurations,0,G06F
+11194615,2021-12-07,Dynamic pause exiting,0,G06F
+11194606,2021-12-07,Managing related devices for virtual machines utilizing shared device data,0,G06F
+11188513,2021-11-30,Logfile collection and consolidation,0,G06F|H04L
+11188449,2021-11-30,Automated exception resolution during a software development session based on previous exception encounters,0,G06F
+11188365,2021-11-30,Memory overcommit by speculative fault,0,G06F
+11188362,2021-11-30,Generating a command line interface for projects based on configuration management technologies,0,G06F|H04L
+11188361,2021-11-30,Cross-architecture software distribution using a virtual instruction set architecture,1,G06F
+11184263,2021-11-23,Intelligent serverless function scaling,2,G06F|H04L
+11182184,2021-11-23,Implementing high-performance virtual machines for bare metal simulation,0,G06F
+11182151,2021-11-23,Constructing build environments for software,0,G06F
+11182140,2021-11-23,Active representation of a composite application,3,G06F|H04L
+11182133,2021-11-23,Conversion of images into CI/CD jobs,0,G06F
+11182092,2021-11-23,PRI overhead reduction for virtual machine migration,2,G06F
+11178042,2021-11-16,Protocol and state analysis in a dynamic routing network,1,H04L
+11175938,2021-11-16,Central processing unit support for efficient timers at low power states,0,G06F
+11171824,2021-11-09,Configuration of computing devices via containers,1,G06F|H04L
+11169996,2021-11-09,Query optimizer injection for dynamically provisioned database containers,0,G06F
+11169901,2021-11-09,Storage-based log file management,0,G06F|Y02D
+11169857,2021-11-09,System and method for reserving a portion of CPU time for host execution,0,G06F
+11169844,2021-11-09,Virtual machine migration to multiple destination nodes,0,G06F|H04L
+11169837,2021-11-09,Fast thread execution transition,0,G06F
+11163625,2021-11-02,Optimizing logging of decision outcomes in distributed transactions,0,G06F
+11163350,2021-11-02,Application power management for mobile devices,1,G06F|Y02D
+11159446,2021-10-26,Cloud resource management using externally-sourced data,0,G06N|H04L
+11159374,2021-10-26,Networking visualizations that update data model and deploy server nodes,3,H04L
+11157473,2021-10-26,Multisource semantic partitioning,0,G06F
+11157459,2021-10-26,Granular data self-healing,0,G06F
+11157456,2021-10-26,Replication of data in a distributed file system using an arbiter,0,G06F
+11157302,2021-10-26,Idle processor management in virtualized systems via paravirtualization,0,G06F|Y02D
+11153405,2021-10-19,Transparent pattern processing in a service mesh,0,H04L
+11153381,2021-10-19,Data auditing for object storage public clouds,0,G06F|H04L
+11151239,2021-10-19,Single sign-on management for multiple independent identity providers,1,G06F|H04L
+11151051,2021-10-19,Process isolation for out of process page fault handling,0,G06F
+11150945,2021-10-19,Reverse restartable sequences for lock polling scalability,0,G06F
+11150938,2021-10-19,Non-repudiable transaction protocol,0,G06F
+11150929,2021-10-19,Enhanced memory management for virtual machines,0,G06F
+11150887,2021-10-19,Secure code patching,0,G06F
+11150831,2021-10-19,Virtual machine synchronization and recovery,0,G06F
+11146629,2021-10-12,Process transfer between servers,0,G06F|H04L
+11144419,2021-10-12,Controlled use of a memory monitor instruction and memory wait instruction in a virtualized environment,0,G06F
+11144334,2021-10-12,Quantum computer task manager,1,G06F|G06N
+11144216,2021-10-12,Virtual machine page movement for encrypted memory,1,G06F
+11138535,2021-10-05,Developing workflow-based recommendations based on organizational patterns and observed behavior,0,G06F|G06Q
+11138030,2021-10-05,Executing code referenced from a microservice registry,1,G06F|H04L
+11133994,2021-09-28,Dynamically visualizing microservices mesh topologies,1,G06F|H04L
+11133823,2021-09-28,Quantum compression service using superdense encoding,2,G06F|H03K|H03M
+11132450,2021-09-28,Accessing file systems in a virtual environment,2,G06F
+11128697,2021-09-21,Update package distribution using load balanced content delivery servers,0,G06F|H04L
+11128472,2021-09-21,Signature verification using blockchain,0,G06F|G06Q|H04L
+11126541,2021-09-21,Managing resources used during a development pipeline,0,G06F
+11126485,2021-09-21,Risk assessment for run-time patches,0,G06F
+11126468,2021-09-21,Agent driven cluster gating for service management,0,G06F
+11126454,2021-09-21,Enforcing retention policies with respect to virtual machine snapshots,0,G06F
+11122136,2021-09-14,Quantum payload service for facilitating communications between a quantum computing system and classical computing systems,2,G06F|H04L
+11119843,2021-09-14,Verifying application behavior based on distributed tracing,0,G06F|G06Q
+11119743,2021-09-14,Build time optimization using thread object variables,0,G06F
+11119675,2021-09-14,Polymorphism and type casting in storage volume connections,0,G06F
+11113049,2021-09-07,Deploying applications in a computing environment,0,G06F
+11113045,2021-09-07,Image install of a network appliance,0,G06F
+11108850,2021-08-31,Triangulating stateful client requests for web applications,0,H04L
+11108624,2021-08-31,Determining blockchain ledger indicates notification availability for an application,1,G06F|H04L
+11106641,2021-08-31,Supporting graph database backed object unmarshalling,2,G06F
+11106587,2021-08-31,Memory cache-line bounce reduction for shared I/O ring structures,0,G06F
+11106481,2021-08-31,Safe hyper-threading for virtual machines,1,G06F
+11102191,2021-08-24,Enabling single sign-on authentication for accessing protected network services,0,H04L
+11102188,2021-08-24,Multi-tenant enterprise application management,1,H04L
+11101996,2021-08-24,TPM-based data integrity,3,G06F|H04L
+11100126,2021-08-24,Creating reports using dimension trees,0,G06F
+11099897,2021-08-24,Virtual machine memory overcommit by reverse ballooning,0,G06F
+11099884,2021-08-24,Dynamic control of halt polling based on receiving a monitoring instruction executed by a guest,0,G06F
+11093299,2021-08-17,UID and GID shifting for containers in user namespaces,0,G06F
+11093275,2021-08-17,Partial surprise removal of a device for virtual machine migration,1,G06F
+11093241,2021-08-17,Outlier software component remediation,1,G06F
+11093221,2021-08-17,Automatic containerization of operating system distributions,10,G06F
+11089475,2021-08-10,Booting and operating computing devices at designated locations,2,G06F|H04L|H04W
+11089002,2021-08-10,Two-factor authentication for a file system,0,H04L
+11087429,2021-08-10,Run-time optimization of media pipelines,0,G06F|G06T|H04L
+11087001,2021-08-10,Determining location of speculation denial instructions for memory access vulnerabilities,0,G06F
+11086681,2021-08-10,Workflow resource management for cloud computing services,2,G06F
+11086665,2021-08-10,Scheduling services for quantum computing,7,G06F|G06N
+11086656,2021-08-10,Sharing templates and multi-instance cloud deployable applications,0,G06F
+11086649,2021-08-10,Minimizing downtime of highly available virtual machines,0,G06F
+11086605,2021-08-10,Processing portable extensions at build time,0,G06F
+11082222,2021-08-03,Secure data management,0,G06F|H04L
+11080174,2021-08-03,Detecting and handling discrepancies between external circuit breakers and internal circuit breakers,1,G06F|H04L
+11080082,2021-08-03,Cross-hypervisor virtual machine conversion,0,G06F
+11080029,2021-08-03,Configuration management through information and code injection at compile time,0,G06F
+11074202,2021-07-27,Efficient management of bus bandwidth for multiple drivers,2,G06F
+11074094,2021-07-27,Securing hypercall support for user space processes in virtual machines,0,G06F
+11074001,2021-07-27,Managing virtual-machine image cloning,0,G06F
+11068905,2021-07-20,Behavior adjustment based on capabilities of a downstream server,0,G06Q
+11068441,2021-07-20,Caseless file lookup in a distributed file system,0,G06F
+11068426,2021-07-20,Portable storage device capable of transferring data to a portable storage device,0,G06F
+11068372,2021-07-20,Linking computing metrics data and computing inventory data,0,G06F|H04L|Y02D
+11068311,2021-07-20,Allocating computing resources to a container in a computing environment,0,G06F
+11068243,2021-07-20,Application stack builder based on node features,0,G06F
+11064025,2021-07-13,File replication using file content location identifiers,0,G06F|H04L
+11061864,2021-07-13,"Clustered network file system server reclaim via decentralized, coordinated grace period",0,G06F|H04L
+11061859,2021-07-13,Object creation from hierarchical metadata stored on a storage device,0,G06F
+11061829,2021-07-13,Prefetch support with address space randomization,0,G06F
+11061809,2021-07-13,Software debugging system with improved test execution and log file tracking,0,G06F
+11061808,2021-07-13,Troubleshooting test failures that occurred during a testing phase of a continuous integration pipeline,0,G06F
+11061711,2021-07-13,Storage deduplication for virtual machines with encrypted storage,2,G06F
+11061710,2021-07-13,Virtual machine exit support by a virtual machine function,0,G06F
+11055186,2021-07-06,Managing related devices for virtual machines using robust passthrough device enumeration,0,G06F
+11055133,2021-07-06,Node-local-unscheduler for scheduling remediation,0,G06F
+11050607,2021-06-29,Proxy with a function as a service (FAAS) support,3,H04L
+11042409,2021-06-22,Leader election with lifetime term,0,G06F
+11036645,2021-06-15,Secure userspace networking for guests,0,G06F
+11036550,2021-06-15,Methods and systems for providing on-demand cloud computing environments,1,G06F
+11032371,2021-06-08,Data migration using read function triggers,0,G06F|H04L
+11032321,2021-06-08,Secure performance monitoring of remote application servers,0,G06F|H04L
+11032254,2021-06-08,Binding data to a network in the presence of an entity,0,H04L
+11030112,2021-06-08,Enhanced address space layout randomization,1,G06F
+11029929,2021-06-08,Using emulation to improve startup time for just-in-time compilation,0,G06F
+11025621,2021-06-01,Enhancing privacy of network connections,0,H04L|H04W
+11025454,2021-06-01,State analysis of remote computing images,0,H04L
+11023529,2021-06-01,System and method for generating container image suggestions,0,G06F|H04L
+11023527,2021-06-01,Using observable data object to unmarshal graph data,0,G06F
+11023238,2021-06-01,Optimized branching using safe static keys,0,G06F
+11019139,2021-05-25,Ranked session affinity to improve load balancing efficiency for stateful requests,0,H04L
+11018965,2021-05-25,Serverless function scaling,9,H04L
+11017748,2021-05-25,Copy-on-write (COW) rendering of graphical object models,0,G06F|G06T|G09G
+11017333,2021-05-25,Web-based support subscriptions,0,G06Q
+11016944,2021-05-25,Transferring objects between different storage devices based on timestamps,0,G06F
+11016941,2021-05-25,Delayed asynchronous file replication in a distributed file system,1,G06F
+11016849,2021-05-25,Kernel software raid support for direct-access file systems,0,G06F
+11016796,2021-05-25,Hypervisor protection of a controllable device,0,G06F
+11016793,2021-05-25,Filtering based containerized virtual machine networking,3,G06F|H04L
+11016668,2021-05-25,Hypervisor deduplication page comparison speedup,0,G06F
+11012499,2021-05-18,Template directories for cartridges in a multi-tenant Platform-as-a-Service (PaaS) system,1,G06F|H04L
+11003650,2021-05-11,Container-image reproduction and debugging,0,G06F
+10999403,2021-05-04,Composable infrastructure provisioning and balancing,8,H04L
+10999361,2021-05-04,Consistent hash-based load balancer,2,H04L
+10999213,2021-05-04,Providing high availability for a thin-provisioned container cluster,1,G06F|G06Q|H04L
+10997293,2021-05-04,Container and image scanning for a platform-as-a-service system,28,G06F|H04L
+10996991,2021-05-04,Dynamic container-based application resource tuning and resizing,0,G06F
+10996944,2021-05-04,Automated software selection using matrix factorization,1,G06F|G06N
+10990514,2021-04-27,Detecting problematic code changes,0,G06F
+10990402,2021-04-27,Adaptive consumer buffer,3,G06F|Y02D
+10990365,2021-04-27,Container image building using dependency container images,6,G06F
+10988793,2021-04-27,Cloud management with power management support,0,C12N|C12P|C12Q|G06F|H04L|Y02D
+10985989,2021-04-20,Cross layer signaling for network resource scaling,0,H04L
+10983949,2021-04-20,File system quota versioning,0,G06F
+10983926,2021-04-20,Efficient userspace driver isolation for virtual machines,0,G06F
+10983847,2021-04-20,Dynamically loadable unikernel binaries,3,G06F
+10983838,2021-04-20,UDP multicast over enterprise service bus,0,G06F
+10979397,2021-04-13,Dynamic cluster host interconnectivity based on reachability characteristics,0,H04L
+10977157,2021-04-13,Enhanced continuous integration (CI)/continuous delivery (CD) build script debugging environment,1,G06F
+10977066,2021-04-13,Virtual machine to container conversion and optimization,1,G06F
+10977064,2021-04-13,Live virtual machine migration,0,G06F
+10977059,2021-04-13,"Implementing object validation, web request handling, object relational mapping, or messaging via direct bytecode generation",1,G06F
+10972346,2021-04-06,Customizable event processing for third party infrastructure events,0,G06F|H04L
+10970285,2021-04-06,Grid topology change in a distributed data grid when iterating on the contents of the data grid,0,G06F|H04L
+10970264,2021-04-06,Supporting secure layer extensions for communication protocols,0,G06F|H04L
+10970258,2021-04-06,Managing container-image layers,0,G06F
+10969976,2021-04-06,Fast virtual machine storage allocation with encrypted storage,0,G06F
+10965641,2021-03-30,Live virtual machine migration utilizing network address pools,1,G06F|H04L
+10963431,2021-03-30,Storing an object in a distributed storage system,0,G06F
+10963407,2021-03-30,Remote direct memory access based networking gateway,1,G06F|H04L
+10963305,2021-03-30,Low latency distributed counters for quotas,0,G06F|H04L|Y02D
+10963275,2021-03-30,Implementing dependency injection via direct bytecode generation,0,G06F
+10963171,2021-03-30,Compressibility instrumented dynamic volume provisioning,1,G06F|H04L
+10963163,2021-03-30,Categorizing computing process output data streams for flash storage devices,0,G06F
+10958659,2021-03-23,Setting application permissions in a cloud computing environment,1,G06F|H04L
+10958514,2021-03-23,Generating application-server provisioning configurations,0,H04L
+10956216,2021-03-23,Free page hinting with multiple page sizes,1,G06F
+10951491,2021-03-16,Automatic microservice problem detection in enterprise applications,1,H04L
+10949368,2021-03-16,Input/output command rebalancing in a virtualized computer system,0,G06F
+10949250,2021-03-16,Image subunit based guest scheduling,0,G06F
+10949243,2021-03-16,Reducing IPI overhead with CPU overcommit support via IPI broadcast,3,G06F|Y02D
+10949216,2021-03-16,Support for third-party kernel modules on host operating systems,0,G06F|G06T
+10944841,2021-03-09,Server-driven notifications to mobile applications,2,G06F|H04L
+10943010,2021-03-09,Generation of a random value for a child process,0,G06F
+10942768,2021-03-09,Computing task scheduling in a computer system utilizing efficient attributed priority queues,0,G06F
+10942757,2021-03-09,Virtual machine security through guest-side emulation,0,G06F
+10938878,2021-03-02,Separate cache servers for storing objects in different dedicated size ranges,0,H04L
+10938691,2021-03-02,Detection and cleanup of unused microservices,6,H04L
+10936728,2021-03-02,Non-persistent mode for network connection,0,G06F|H04L
+10936541,2021-03-02,Preserving symbolic links and paths in a file system using an intermediate file system structure,0,G06F
+10936372,2021-03-02,Merging scaled-down container clusters using vitality metrics,0,G06F
+10931746,2021-02-23,Managing content downloads,1,H04L
+10929466,2021-02-23,Efficient distributed indexing of clumpy data,0,G06F|G06N
+10929357,2021-02-23,Detecting stale storage layouts without using client locks,1,G06F
+10929164,2021-02-23,Enhancing ability of a hypervisor to detect an instruction that causes execution to transition from a virtual machine to the hypervisor,1,G06F
+10929149,2021-02-23,Method and system for updating firmware,2,G06F
+10929117,2021-02-23,Container image building using shared resources,3,G06F|H04L
+10924506,2021-02-16,Monitoring cloud computing environments,6,G06F|H04L
+10924505,2021-02-16,Passcode based access-control with randomized limits,0,H04L
+10922310,2021-02-16,Managing data retrieval in a data grid,0,G06F
+10922213,2021-02-16,Embedded quality indication data for version control systems,1,G06F
+10922211,2021-02-16,Testing responses of software applications to spatiotemporal events using simulated environments,1,G06F
+10917456,2021-02-09,Application management in an application deployment pipeline,1,G06F|H04L
+10915352,2021-02-09,Asserting initialization status of virtualized system,0,G06F
+10911562,2021-02-02,Cache data validation,0,G06F|H04L
+10909165,2021-02-02,Sharing filesystems between containers,0,G06F
+10909086,2021-02-02,File lookup in a distributed file system,2,G06F|H04L

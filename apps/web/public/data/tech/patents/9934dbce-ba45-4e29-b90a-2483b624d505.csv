@@ -1,0 +1,803 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12231442,2025-02-18,Client-server session based anomalous behavior detection,1,G06N|H04L
+12229460,2025-02-18,Systems and methods for providing indications during online meetings,0,G06F|G06Q|G09G|G10L|H04L
+12229229,2025-02-18,Systems and methods for adding watermarks using an embedded browser,0,G06F|G06T|H04L|H04N|H04W
+12225021,2025-02-11,Classification scheme for detecting illegitimate account creation,0,G06F|H04L|H04W
+12223368,2025-02-11,Exposing standardized events within an API proxy system,0,G06F
+12218897,2025-02-04,Automated transformation of email signatures,0,H04L
+12199953,2025-01-14,Systems and methods for encrypted browser cache,0,G06F|H04L
+12192237,2025-01-07,Detecting attacks using handshake requests systems and methods,0,H04L
+12192233,2025-01-07,Systems and methods for phishing attack protection based on identity provider verification,0,G06F|G06N|H04L
+12190129,2025-01-07,Control over application plugins,0,G06F
+12167050,2024-12-10,Proximity and context based stream playback control,1,H04L|H04N
+12149653,2024-11-19,Smart screen rotation based on facial analysis,0,G06F|H04M
+12147796,2024-11-19,Deployment routing of clients by analytics,0,G06F|H04L
+12120226,2024-10-15,Preventing HTTP cookie stealing using cookie morphing,0,G06F|H04L
+12111943,2024-10-08,Enhanced security mechanism for file access,0,G06F
+12101247,2024-09-24,Systems and methods for selecting tunnels for transmitting application traffic by an SD-WAN application,3,H04L
+12094185,2024-09-17,Video frame analysis for targeted video browsing,0,G06T|G06V|G11B|H04N
+12093356,2024-09-17,Local model processing and remote verification,0,G06F|G06N
+12093157,2024-09-17,Identification of log events for computing systems,0,G06F
+12081970,2024-09-03,Contextual authentication for secure remote sessions,0,H04W
+12079099,2024-09-03,Managing virtual application performance in a virtual computing environment,0,G06F
+12067174,2024-08-20,Text input synchronization for remote applications,0,G06F|G09G
+12056513,2024-08-06,"Virtual machine migration using multiple, synchronized streams of state data transferring via file descriptors",0,G06F
+12039054,2024-07-16,Systems and methods for dynamic detection of vulnerable credentials,1,G06F|H04L
+12034845,2024-07-09,Smart card and associated methods for initiating virtual sessions at kiosk device,0,G06F|G06K|H04L
+12028338,2024-07-02,Systems and methods for secure SAAS redirection from native applications,0,G06F|H04L
+12003526,2024-06-04,Systems and methods for graphical visualization of web application vulnerabilities,0,H04L
+12001884,2024-06-04,Remote management of distributed datacenters,0,G06F|H04L
+12001287,2024-06-04,Systems and methods for detection of degradation of a virtual desktop environment,0,G06F|H04L
+11997156,2024-05-28,Scan functionality for virtual sessions,0,G06F|H04L
+11997135,2024-05-28,Systems and methods for protection against theft of user credentials,1,H04L
+11997083,2024-05-28,Secure authentication of a device through attestation by another device,0,G06F|H04L|H04W
+11997080,2024-05-28,Uniform resource locator validation,0,H04L
+11997063,2024-05-28,Intelligent collection of meeting background information,0,G06F|H04L
+11995870,2024-05-28,Dynamic image compression based on perceived viewing distance,0,G06T|H04N
+11995303,2024-05-28,User interface for reminding a user of incomplete tasks in inactive application windows,1,G06F
+11994686,2024-05-28,Computing device with live background and related method,0,G02B|G06F|G06T|G09G
+11983547,2024-05-14,Sorting optimization based on user's time preferences and habits,0,G06F
+11983546,2024-05-14,Rendering content of service providers via web page having dynamically-loaded plugins,0,G06F|H04L
+11979438,2024-05-07,Integrated video conferencing platform,0,G06F|H04L|H04N
+11968267,2024-04-23,Computing system providing cloud-based user profile management for virtual sessions and related methods,0,G06F|H04L
+11962715,2024-04-16,Telephone call information collection and retrieval,0,G06F|G10L|H04M
+11962618,2024-04-16,Systems and methods for protection against theft of user credentials by email phishing attacks,0,G06F|G06Q|H04L
+11962428,2024-04-16,Meeting room reservation system and related techniques,0,G06F|G06Q|H04L
+11956219,2024-04-09,Systems and methods to detect and prevent bots from random access by randomized HTTP URLs in real time in distributed systems,0,H04L
+11936723,2024-03-19,Systems and methods for geographically distributed node replication,0,G06F|H04L
+11928379,2024-03-12,Information orientation and display in extended reality environments,0,G06F|G06T|G06V
+11924272,2024-03-05,Detecting uneven load balancing through multi-level outlier detection,0,H04L
+11916975,2024-02-27,Aggregating electronic messages for meetings,1,H04L
+11902178,2024-02-13,System and method to effectively allocate computing resources to end users,0,H04L
+11900680,2024-02-13,Extracting clips of application use from recordings of sessions,0,G06F|G06V
+11900180,2024-02-13,Keyword-based presentation of notifications,0,G06F
+11886525,2024-01-30,Systems and methods for presenting additional content for a network application accessed via an embedded browser of a client application,0,G06F|H04L
+11876852,2024-01-16,Method to determine optimal number of HTTP2.0 streams and connections for better QoE,0,H04L
+11876798,2024-01-16,Virtual delivery appliance and system with remote authentication and related methods,1,G06F|H04L|H04W
+11853781,2023-12-26,Inter-application relevance management for application virtualization platform,0,G06F|G06Q
+11846975,2023-12-19,Distributed security analysis for shared content,0,G06F|H04L
+11843674,2023-12-12,Virtual workspace experience visualization and optimization,0,G06N|H04L
+11843593,2023-12-12,Application integration using multiple user identities,0,H04L
+11843575,2023-12-12,Systems and methods to run user space network stack inside docker container while bypassing container linux network stack,1,G06F|H04L
+11843572,2023-12-12,Systems and methods for intelligent messaging,0,H04L
+11843527,2023-12-12,Real-time scalable virtual session and network analytics,1,G06F|H04L
+11841931,2023-12-12,Systems and methods for dynamically enforcing digital rights management via embedded browser,0,G06F|G06N
+11841928,2023-12-12,Secure collaboration messaging,0,G06F|H04L
+11838362,2023-12-05,Data object delivery for distributed cluster computing,0,G06F|H04L
+11838335,2023-12-05,Virtual computing system providing local screen sharing from hosted collaboration applications and related methods,0,G06F|H04L
+11838285,2023-12-05,Single sign-on from desktop to network,0,H04L
+11831678,2023-11-28,Generating URLs to detect autonomous programs systems and methods,0,G06F|H04L
+11829505,2023-11-28,High security one-time encryption,0,G06F|H04L
+11824917,2023-11-21,Computing system with data transfer based upon device data flow characteristics and related methods,0,G06F|H03M|H04L
+11822968,2023-11-21,Application delivery controller performance capacity advisor,0,G06F
+11818574,2023-11-14,Provisioning devices securely using zero touch deployments,0,H04L|H04W
+11816192,2023-11-14,Computer system providing virtual computing session license distribution features and related methods,0,G06F|G06Q
+11816057,2023-11-14,User space driver for I/O traffic distribution and packet processing,0,G06F
+11811780,2023-11-07,Behavior-based authentication,0,H04L|H04W
+11797623,2023-10-24,Microapp recommendations for networked application functionality,0,G06F
+11770704,2023-09-26,Distance based session roaming,0,G06F|H04L|H04W
+11770454,2023-09-26,Native application integration for enhanced remote desktop experiences,0,G06F|H04L
+11770436,2023-09-26,Web client with response latency awareness,0,G06F|H04L
+11768700,2023-09-26,Contextual application switch based on user behaviors,0,G06F|G06N
+11768692,2023-09-26,Systems and methods for automated application launching,0,G06F|G06Q
+11748138,2023-09-05,Systems and methods for computing a success probability of a session launch using stochastic automata,0,G06F|G06N
+11736429,2023-08-22,Contextual turning of dialog from any app into actionable workspace notification,0,G06F|H04L
+11736337,2023-08-22,Managing performance of elements providing a session via a multi-hop network topology,1,H04L|H04W
+11734635,2023-08-22,Deploying and implementing enterprise policies that control augmented reality computing functions,0,G06F|G06Q|G06T
+11734408,2023-08-22,Remapping of uniform resource locators for accessing network applications,0,G06F|H04L
+11733837,2023-08-22,Unified display for virtual resources,0,G06F|H04L
+11729250,2023-08-15,Web adaptation and hooking for virtual private integration systems and methods,0,H04L
+11727069,2023-08-15,Virtualization environment providing user-based search index roaming and related methods,0,G06F|H04L
+11726987,2023-08-15,Normalizing user identification across disparate systems,0,G06F|H04L
+11726858,2023-08-15,System and methods to detect faulty components during session launch,0,G06F|H04L
+11726833,2023-08-15,"Dynamically provisioning virtual machines from remote, multi-tier pool",0,G06F|H04L
+11726800,2023-08-15,Remote component loader,0,G06F
+11722481,2023-08-08,Multiple identity provider authentication system,0,H04L
+11722461,2023-08-08,Connecting client devices to anonymous sessions via helpers,0,G06F|H04L
+11716406,2023-08-01,Data caching for cloud services,1,G06F|H04L
+11716393,2023-08-01,Switching connectors for establishing sessions to access services according to network conditions,1,H04L
+11711352,2023-07-25,Systems and methods to prevent private data misuse by insider,0,H04L|H04W
+11711255,2023-07-25,Systems and methods for data linkage and entity resolution of continuous and un-synchronized data streams,1,G06F|H04L
+11709591,2023-07-25,Flowchart-style diagramming tool to build automated workflows,0,G06F|G06Q
+11706143,2023-07-18,Increasing QoS throughput and efficiency through lazy byte batching,0,H04L
+11706092,2023-07-18,Activity-based resource allocation among virtual-computing sessions,0,G06F|H04L
+11704532,2023-07-18,Dynamic region based application operations,0,G06F|G06M|H04L
+11704364,2023-07-18,Evaluation of security policies in real-time for entities using graph as datastore,0,G06F
+11704191,2023-07-18,Error remediation systems and methods,0,G06F|G06V
+11704177,2023-07-18,Session triage and remediation systems and methods,0,G06F|G06N|G06V
+11704140,2023-07-18,Providing on-demand applications using layering,0,G06F
+11703957,2023-07-18,Controlling from a mobile device a graphical pointer displayed at a local computing device,0,G06F|H04M
+11700289,2023-07-11,User experience analysis for multi-channel remote desktop environments,0,G06F|H04L
+11698887,2023-07-11,Virtual file organizer,0,G06F|G06N
+11695757,2023-07-04,Fast smart card login,0,G06F|H04L
+11693913,2023-07-04,Searching SaaS virtual applications,0,G06F|H04L
+11693674,2023-07-04,Providing user interface (UI) elements having an ordered hierarchy of graphical control elements in virtual machine sessions at reduced latency and related methods,0,G06F
+11693673,2023-07-04,Providing user interface (UI) elements having scrollable content in virtual machine sessions at reduced latency and related methods,0,G06F
+11693672,2023-07-04,Providing user interface (UI) elements in virtual machine sessions at reduced latency,0,G06F|G06T|H04L
+11677585,2023-06-13,Transparent TCP connection tunneling with IP packet filtering,2,H04L
+11671254,2023-06-06,Extended reality authentication,0,G06F|G06T|G06V|H04L|H04W
+11669376,2023-06-06,Systems and methods for intercepting and enhancing SaaS application calls via embedded browser,0,G06F|H04L
+11665085,2023-05-30,Optimizing selection of gateways based on location and user experience related metrics,0,H04L
+11663028,2023-05-30,Computer system providing virtual computing sessions through virtual delivery agent leasing with enhanced power savings and connectivity and related methods,0,G06F|H04L
+11657058,2023-05-23,Systems and methods of enhancing mental health and performance,0,G06F|G16H|Y02A
+11656882,2023-05-23,Instant virtual application launch,0,G06F|H04L
+11653200,2023-05-16,Location/things aware cloud services delivery solution,1,G01S|H04L|H04W
+11652613,2023-05-16,Secure information exchange in federated authentication,0,H04L
+11647083,2023-05-09,Cluster-aware multipath transmission control protocol (MPTCP) session load balancing,2,H04L
+11644960,2023-05-09,Image data augmentation using user interface element attributes,0,G06F|G06N|G06V
+11641361,2023-05-02,Dynamic access control to network resources using federated full domain logon,2,G06F|G09C|H04L
+11640477,2023-05-02,Restrictions on virtualized sessions using risk factor assessment,0,G06F
+11637914,2023-04-25,Multiple geography service routing,0,H04L|H04W
+11637912,2023-04-25,Intermediated retrieval of networked content,0,H04L
+11636228,2023-04-25,Policy based persistence,0,G06F
+11636068,2023-04-25,Distributed file locking for a network file share,0,G06F
+11632412,2023-04-18,Systems and methods for scoring audio or video sessions,0,H04L
+11630777,2023-04-18,Provisioning virtual machines with a single identity and cache virtual disk,0,G06F
+11627200,2023-04-11,Systems and methods for performing response based cache redirection,0,H04L
+11627129,2023-04-11,Method and system for contextual access control,1,H04L
+11627120,2023-04-11,Dynamic crypto key management for mobility in a cloud environment,1,H04L|H04W
+11627102,2023-04-11,Identity leak prevention,0,H04L
+11627091,2023-04-11,Systems and methods for managing streams of packets via intermediary devices,0,G06F|H04L
+11625278,2023-04-11,Auto-scaling for allocation of cloud service resources in application deployments,2,G06F|H04L
+11625252,2023-04-11,Selecting applications based on features of a file,0,G06F|H04N
+11625243,2023-04-11,Micro-application creation and execution,0,G06F
+11620807,2023-04-04,Systems and methods for Unicode homograph anti-spoofing using optical character recognition,0,G06V|H04L
+11620472,2023-04-04,Unified people connector,0,G06F|G06N|G06Q
+11616772,2023-03-28,Remote desktop protocol proxy with single sign-on and enforcement support,0,H04L
+11611545,2023-03-21,RDP proxy support in presence of RDP server farm with session directory or broker,0,G06F|H04L
+11611541,2023-03-21,Secure method to replicate on-premise secrets in a cloud environment,0,H04L|H04W
+11610008,2023-03-21,Snap-in secret server support for protecting secret information,0,G06F|H04L
+11609924,2023-03-21,Database query execution on multiple databases,0,G06F
+11609778,2023-03-21,User persistence data moved between individual compute environments and session host environments,0,G06F
+11599449,2023-03-07,Framework for UI automation based on graph recognition technology and related methods,1,G06F|G06N
+11595482,2023-02-28,Image acquisition device virtualization for remote computing,0,G06F|G06T|H04L
+11593714,2023-02-28,Adaptive anomaly detector,0,G06N|H04L
+11593129,2023-02-28,Unified intelligent editor to consolidate actions in a workspace,0,G06F|H04L
+11592966,2023-02-28,Systems and methods for SaaS overlays using embedded browser,0,G06F|H04L
+11582327,2023-02-14,Dynamically coordinated service maintenance operations and adaptive service polling for microservices,1,H04L
+11582318,2023-02-14,Activity detection in web applications,0,G06F|H04L
+11582282,2023-02-14,Learning technique for QoS based classification and prioritization of SAAS applications,0,H04L
+11582266,2023-02-14,Method and system for protecting privacy of users in session recordings,0,G06F|H04L
+11582177,2023-02-14,Email tracking,0,H04L
+11582131,2023-02-14,Systems and methods for application scripts for cross-domain applications,0,H04L
+11582118,2023-02-14,Real-time scalable virtual session and network analytics,0,G06F|H04L
+11580311,2023-02-14,Input method language determination,0,G06F|H04L
+11580148,2023-02-14,Document storage and management,0,G06F
+11579937,2023-02-14,Generation of cloud service inventory,1,G06F
+11570225,2023-01-31,Detection of signals in a virtual meeting,0,H04L
+11568341,2023-01-31,Dynamic resource allocation,0,G06Q|H04L
+11558812,2023-01-17,System and methods for multi-links SD-WAN using cellular device connections,0,H04L|H04W
+11558484,2023-01-17,Systems and methods for secure peer-to-peer caching,0,G06F|H04L
+11558372,2023-01-17,Authentication of a client device based on entropy from a server or other device,0,G06F|H04L
+11556504,2023-01-17,File sharing service controller,0,G06F|H04L
+11556236,2023-01-17,Contextual scrolling,0,G06F
+11553304,2023-01-10,Geo-based connectivity awareness for better productivity,0,G01C|G06F|H04W
+11553053,2023-01-10,Tracking application usage for microapp recommendation,2,G06F|H04L
+11553037,2023-01-10,Systems and methods for providing load balancing as a service,0,H04L
+11553000,2023-01-10,Systems and methods for using namespaces to access computing resources,0,G06F|H04L
+11550645,2023-01-10,Auto termination of applications based on application and user activity,1,G06F
+11550448,2023-01-10,Systems and methods for intellisense for SaaS application,0,G06F|H04L
+11546412,2023-01-03,File containerization and management,0,G06F|H04L
+11546376,2023-01-03,Systems and methods for securing user domain credentials from phishing attacks,0,H04L
+11546346,2023-01-03,Dynamic scheduling of Web API calls,0,G06F|H04L
+11546334,2023-01-03,Client device configuration for remote digital workspace access,0,G06F|H04L|H04W
+11546287,2023-01-03,Multi-device workspace notifications,0,H04L|H04W
+11546157,2023-01-03,Adaptive identification systems and methods,0,H04L
+11544415,2023-01-03,Context-aware obfuscation and unobfuscation of sensitive content,0,G06F
+11544398,2023-01-03,Secure offline streaming of content,0,G06F|H04L|H04N
+11544356,2023-01-03,Systems and methods for dynamic flexible authentication in a cloud service,7,G06F|H04L|H04W
+11544344,2023-01-03,Remote web browsing service,3,G06F
+11544233,2023-01-03,File source tracking,0,G06F|H04L
+11544230,2023-01-03,Cross environment update of cloud resource tags,0,G06F|H04L
+11539829,2022-12-27,Systems and methods for unlocking a mobile device,0,G06F|H04M
+11539783,2022-12-27,Efficient downloading of files to multiple users in proximity of one another,5,H04L|H04W
+11539709,2022-12-27,Restricted access to sensitive content,3,G06F|G06N|H04L
+11539694,2022-12-27,Method and system for context aware frictionless authentication based on authentication scores,0,H04L|H04W
+11539542,2022-12-27,Content capture during virtual meeting disconnect,1,H04L|H04N
+11537796,2022-12-27,Device independent text suggestion service for an application hosting platform,0,G06F
+11537669,2022-12-27,Preparation of signature fields within electronic documents,0,G06F|G06Q
+11537591,2022-12-27,Computing system with revised notification messages and related methods,0,G06F|H04L|H04W
+11533349,2022-12-20,Perhipheral device sharing over peer-to-peer connection,0,H04L
+11533330,2022-12-20,Determining risk metrics for access requests in network environments using multivariate modeling,0,G06F|H04L
+11533308,2022-12-20,Systems and methods for supporting unauthenticated post requests through a reverse proxy enabled for authentication,0,H04L
+11533289,2022-12-20,Split-tunneling for clientless SSL-VPN sessions with zero-configuration,0,H04L
+11533243,2022-12-20,Method for computing environment specific baselines for metrics of user experience,0,G06F|G06N|H04L
+11531929,2022-12-20,Systems and methods for machine generated training and imitation learning,0,G06N|H04L
+11531610,2022-12-20,Time cost estimation for activity feed notifications,0,G06F
+11531581,2022-12-20,Event root cause identification for computing environments,0,G06F
+11528322,2022-12-13,Consistent distribution using jump table assisted hybrid hash,2,H04L
+11528320,2022-12-13,Systems and methods for end user connection load balancing,1,H04L
+11526595,2022-12-13,Optically scannable representation of a hardware secured artifact,0,G06F|H04L
+11522847,2022-12-06,Local mapped accounts in virtual desktops,0,G06F|H04L
+11522785,2022-12-06,Intelligent path selection systems and methods to reduce latency,2,H04L
+11522701,2022-12-06,Generating and managing a composite identity token for multi-service use,4,H04L
+11520604,2022-12-06,Accessing conflicting frameworks and classes,0,G06F
+11516211,2022-11-29,System for providing a service based upon authorization token and virtual assistant and related methods,0,G06F|H04L
+11516128,2022-11-29,User experience oriented path selection,0,G06F|H04L
+11513811,2022-11-29,Device identifier translation systems and methods,0,G06F
+11513757,2022-11-29,Display screen casting to target device using casting extension,0,G06F|G06K|G06T|G09G|H04N
+11513609,2022-11-29,Remoting or localizing touch gestures,0,G06F
+11509465,2022-11-22,Computing device and related methods providing virtual session access using group connection leases and user interface (UI) caches,0,G06F|G06K|H04L
+11501057,2022-11-15,Enabling file attachments in calendar events,1,G06F|G06Q|H04L
+11500816,2022-11-15,Intelligent file recommendation engine,0,G06F|G06N
+11500685,2022-11-15,Mixed instance catalogs,0,G06F|Y02D
+11496897,2022-11-08,Biometric identification of information recipients,0,G06V|H04L|H04W
+11496560,2022-11-08,WebRTC API redirection with fallbacks,0,G06F|G06K|G06T|H04L|H04N
+11496430,2022-11-08,Configurable offline messaging management using user presence information,0,H04L
+11494010,2022-11-08,Touch support for remoted applications,0,G06F|G09G
+11494004,2022-11-08,Controlling a local application running on a user device that displays a touchscreen image on a touchscreen via mouse input from external electronic equipment,0,G06F
+11489933,2022-11-01,Systems and methods for gamification of SaaS applications,0,H04L
+11489817,2022-11-01,Computing system with gateway data transfer based upon device data flow characteristics and related methods,0,G06F|H04L
+11489782,2022-11-01,System for bandwidth optimization with traffic priority determination,0,H04L
+11489779,2022-11-01,Systems and methods for managing streams of packets via intermediary devices,0,G06F|H04L
+11489775,2022-11-01,Vertical auto-scaling of a networking stack,1,H04L
+11489772,2022-11-01,Prime re-shuffled assisted carp,0,H04L
+11489716,2022-11-01,Desktop virtualization with a dedicated cellular network connection for client devices,0,H04L|H04W
+11489686,2022-11-01,Virtual meetings in ad-hoc networks,0,H04L|H04W
+11488037,2022-11-01,Notification prioritization based on user responses,0,G06N
+11487934,2022-11-01,Form template matching to populate forms displayed by client devices,0,G06F|G06V
+11487863,2022-11-01,Multifactor authentication service,0,G06F|H04L|H04W
+11487842,2022-11-01,Color scheme generator for web applications,0,G06F|G06T
+11487839,2022-11-01,Resource link engine,0,G06F|H04L
+11487572,2022-11-01,Migration of cloud-based software application,1,G06F|H04L
+11487559,2022-11-01,Dynamically switching between pointer modes,0,G06F
+11487516,2022-11-01,Cross-cloud call detection,0,G06F
+11487398,2022-11-01,Computing device with window docking and related systems and methods,2,G06F|G09G
+11483465,2022-10-25,Automatic image capture,0,H04N
+11483410,2022-10-25,Intelligent status and engagement system,0,G06Q|H04L
+11483399,2022-10-25,Systems and methods for maintaining and transferring SaaS session state,0,G06F|H04L
+11483295,2022-10-25,Method for securely negotiating end-to-end cryptographic context using inline messages through multiple proxies in cloud and customer environment,0,H04L
+11483269,2022-10-25,Message-based presentation of microapp user interface controls,0,G06F|G06Q|H04L
+11483255,2022-10-25,Systems and methods for virtual session connection using component-based connection leases,0,G06F|H04L
+11483164,2022-10-25,Dynamic certificate pinning systems and methods,0,H04L
+11481325,2022-10-25,Secure fast reboot of a virtual machine,0,G06F
+11481231,2022-10-25,Systems and methods for intelligent application instantiation,0,G06F|H04M|H04W
+11481104,2022-10-25,Using pressure sensor data in a remote access environment,0,G06F
+11477281,2022-10-18,Data object delivery for distributed cluster computing,0,G06F|H04L
+11477188,2022-10-18,Injection of tokens or client certificates for managed application communication,1,H04L|H04W
+11477102,2022-10-18,Upgrading user space networking stacks without disruptions to network traffic,0,H04L
+11475164,2022-10-18,Computing system providing metadata modification policy enforcement and related methods,0,G06F|H04L|H04W
+11475146,2022-10-18,Systems and methods for a privacy screen for secure SaaS applications,4,G06F|H04L|H04W
+11475117,2022-10-18,Eye and head tracking authentication,0,G06F|H04L|H04W
+11474980,2022-10-18,Cloud resource tagging and inventory,0,G06F|G06Q|H04L
+11474936,2022-10-18,Automating integration test cases by resolving test case dependencies,1,G06F
+11474864,2022-10-18,Indicating relative urgency of activity feed notifications,1,G06F|G06Q|H04L
+11474862,2022-10-18,Sorting activity feed notifications to enhance team efficiency,0,G06F|G06N
+11474840,2022-10-18,Computing device and related methods providing virtual session launching from previously cached assets,1,G06F|H04L
+11470169,2022-10-11,Wrapping continuation tokens to support paging for multiple servers across different geolocations,0,G06F|H04L
+11470076,2022-10-11,Systems and methods for policy driven fine grain validation of servers SSL certificate for clientless SSLVPN access,0,H04L
+11470011,2022-10-11,System for bandwidth optimization with traffic priority determination,0,H04L
+11469979,2022-10-11,Systems and methods for traffic accounting for SaaS usage,3,H04L
+11469896,2022-10-11,Method for securing the rendezvous connection in a cloud service using routing tokens,0,H04L|H04W
+11469894,2022-10-11,Computing system and methods providing session access based upon authentication token with different authentication credentials,0,G06F|H04L
+11468107,2022-10-11,Enhance a mail application to format a long email conversation for easy consumption,0,G06F|H04L
+11467911,2022-10-11,Systems and methods for detection of degradation of a virtual desktop environment,1,G06F|H04L
+11463529,2022-10-04,Computer system and methods providing virtual computing session connections and re-directs based upon ordered list of virtual delivery agents,0,G06F|H04L
+11463503,2022-10-04,Method to determine optimal number of HTTP2.0 streams and connections for better QoE,1,H04L
+11463390,2022-10-04,Selecting attachments for electronic mail messages,0,G06F|G06Q|H04L
+11463371,2022-10-04,Discovery and adjustment of path maximum transmission unit,0,H04L
+11461960,2022-10-04,Reflection rendering in computer generated environments,0,G06T|H04L
+11461422,2022-10-04,Page personalization,0,G06F|H04L
+11461082,2022-10-04,Systems and methods for managing releases of global services in a controlled manner,0,G06F
+11457483,2022-09-27,Managing connections between a user device and peripheral devices,0,G06F|H04L|H04W
+11457337,2022-09-27,Short message service link for activity feed communications,0,H04L|H04W
+11457120,2022-09-27,Watermarks for text content,0,G06V|H04N
+11457024,2022-09-27,Systems and methods for monitoring security of an organization based on a normalized risk score,4,G06F|G06N|G06Q|H04L
+11457007,2022-09-27,Single sign-on from desktop to network,0,H04L
+11456964,2022-09-27,Discovery and adjustment of path maximum transmission unit,0,H04L
+11456861,2022-09-27,Computing system and related methods providing connection lease exchange with secure connection lease communications,0,G06F|H04L
+11456860,2022-09-27,Computing system and related methods providing connection lease exchange and mutual trust protocol,0,G06F|H04L
+11455227,2022-09-27,Systems and methods for expedited access to applications,0,G06F|H04L
+11455224,2022-09-27,Displaying a service graph in association with a time of a detected anomaly,0,G06F
+11455088,2022-09-27,Contextual notes for online meetings,0,G06F|G11B|H04L
+11451635,2022-09-20,Secure session resume,0,G06F|H04L
+11451614,2022-09-20,Cloud authenticated offline file sharing,0,G06F|H04L|H04W
+11451500,2022-09-20,State-sharing plug-in citrix workspace environment,1,H04L
+11451439,2022-09-20,Systems and methods for configuring a device via a software-defined networking controller,0,H04L
+11450115,2022-09-20,Office safety control system,0,G06Q|G06T|G06V
+11450069,2022-09-20,Systems and methods for a SaaS lens to view obfuscated content,4,G06F|G06T|G06V|H04N
+11449420,2022-09-20,Content caching,0,G06F|H04L
+11449393,2022-09-20,Automatic restore for a failed virtual computing session,0,G06F
+11449213,2022-09-20,Host to client drag-and-drop operation,0,G06F
+11445003,2022-09-13,Systems and methods for autonomous program detection,1,G06F|H04L
+11445002,2022-09-13,Computing system with data transfer based upon device data flow characteristics and related methods,0,G06F|H03M|H04L
+11442841,2022-09-13,Computer-implemented methods and systems for determining application matching status,0,G06F
+11442783,2022-09-13,Dynamic toggle of features for enterprise resources,0,G06F|G06Q|Y02D
+11442748,2022-09-13,Application display and discovery by predicting behavior through machine-learning,1,G06F|G06N
+11438421,2022-09-06,Accessing resources in a remote access or cloud-based network environment,0,G06F|H04L
+11436312,2022-09-06,Normalizing API calls for a suite of multi-tenant products across disparate multi-tenant and single-tenant identity directories,0,G06F|H04L
+11436131,2022-09-06,Systems and methods for software testing using a disposable code,0,G06F
+11435879,2022-09-06,Unified display for virtual resources,0,G06F|H04L
+11432171,2022-08-30,Providing uninterrupted access to resources via a mobile hotspot connection,0,H04W
+11431754,2022-08-30,Authenticating to secured resource via coupled devices,1,G06F|H04L|H04W
+11431722,2022-08-30,Segregation of protected resources from network frontend,0,G06F|H04L
+11431591,2022-08-30,Systems and methods for presenting workspace experience indicator on user interface,0,H04L
+11431502,2022-08-30,Enhanced token transfer,0,G06F|H04L|H04W
+11431482,2022-08-30,Configuration of headless network appliances,0,G06F|H04L
+11429753,2022-08-30,Encryption of keyboard data to avoid being read by endpoint-hosted keylogger applications,0,G06F|H04L
+11429633,2022-08-30,Data processing system with synchronization of local directory information to cloud system,0,G06F|H04L
+11429566,2022-08-30,Approach for a controllable trade-off between cost and availability of indexed data in a cloud log aggregation solution such as splunk or sumo,0,G06F|G06N
+11429454,2022-08-30,Cloud resource utilization management,0,G06F|H04L
+11429421,2022-08-30,Security risk load balancing systems and methods,0,G06F|H04L
+11429243,2022-08-30,Systems and methods for contextual and administrator controlled browser control bar,4,G06F
+11425052,2022-08-23,Discovery and adjustment of path maximum transmission unit,0,H04L
+11425012,2022-08-23,Dynamically generating visualizations of data based on correlation measures and search history,0,G06F|H04L
+11423121,2022-08-23,Real time digital content concealment,0,G06F|G06T|G06V
+11418613,2022-08-16,Systems and methods for recording metadata about microservices for requests to the microservices,1,G06F|H04L
+11418582,2022-08-16,Priority-based transport connection control,4,H04L
+11418566,2022-08-16,Adding and removing virtual disks remotely to a streaming machine,0,G06F|H04L
+11416362,2022-08-16,Dependency API controlled experiment dashboard,0,G06F|H04L
+11411982,2022-08-09,Systems and methods for graphical visualization of web application vulnerabilities,0,H04L
+11411974,2022-08-09,Applying policies to APIs for service graph,0,G06F|H04L
+11411904,2022-08-09,Systems and methods for filtering notifications for end points associated with a user,0,H04L
+11411839,2022-08-09,System and method to correlate end user experience with location,2,H04L|H04W
+11409716,2022-08-09,File conflict detection,0,G06F
+11409512,2022-08-09,Systems and methods for machine learning based equipment maintenance scheduling,0,G06F|G06N|G06Q
+11409370,2022-08-09,Device gesture recognition system to control privacy mode,2,G06F|H04M
+11405457,2022-08-02,Intelligent file access system,0,G06F|G06N|H04L
+11405326,2022-08-02,Application and network aware adaptive compression for better QoE of latency sensitive applications,0,H04L
+11405309,2022-08-02,Systems and methods for selecting communication paths for applications sensitive to bursty packet drops,0,H04L
+11403412,2022-08-02,Accessing encrypted user data at a multi-tenant hosted cloud service,1,G06F|H04L
+11403373,2022-08-02,Systems and methods for adding watermarks using an embedded browser,1,G06F|G06T|H04L|H04N|H04W
+11403306,2022-08-02,Systems and methods of sharing a database across multiple deployments and services,1,G06F
+11403116,2022-08-02,Cloud to on-premises windows registry settings,0,G06F|H04L
+11395101,2022-07-19,Location-based application discovery,0,G06F|H04W
+11394772,2022-07-19,Systems and methods for persistence across applications using a content switching server,0,H04L
+11394731,2022-07-19,Computer system providing anomaly detection within a virtual computing sessions and related methods,0,G06F|G06N|H04L
+11394682,2022-07-19,Method for DNS response reordering based on path quality and connection priority for better QoS,0,H04L
+11394631,2022-07-19,Determining changes in a performance of a server,0,H04L
+11394535,2022-07-19,Computing system and related methods providing connection lease infrastructure with gateway appliance failover,0,G06F|H04L
+11392876,2022-07-19,Deploying and implementing enterprise policies that control augmented reality computing functions,0,G06F|G06Q|G06T
+11392552,2022-07-19,Sharing of data with applications,1,G06F|H04L|H04W
+11392395,2022-07-19,Generating and presenting contextual user interfaces on devices with foldable displays,5,G06F
+11388261,2022-07-12,Cross-domain brokering protocol cloud proxy,0,G06F|H04L
+11388258,2022-07-12,Systems and methods for managing downloads from an embedded browser,0,G06F|H04L
+11388243,2022-07-12,Method for resumption of an application session with a very dynamic and very large state in a standby intermediary device when the primary device fails,0,H04L
+11388199,2022-07-12,Processing policy variance requests in an enterprise computing environment,0,G06N|G06Q|H04L|H04W
+11388085,2022-07-12,Method for optimal path selection for data traffic undergoing high processing or queuing delay,0,H04L
+11386441,2022-07-12,Enhancing employee engagement using intelligent workspaces,1,G06Q|H04L|H04W
+11386400,2022-07-12,Unified event/task creation from auto generated enterprise communication channels and notifications,0,G06F|G06Q|H04L
+11385973,2022-07-12,High-availability for power-managed virtual desktop access,0,G06F
+11385946,2022-07-12,Real-time file system event mapping to cloud events,0,G06F
+11385930,2022-07-12,Automatic workflow-based device switching,0,G06F|H04L
+11385910,2022-07-12,Stack-based communications systems and methods,0,G06F|G06N|H04L
+11385784,2022-07-12,Systems and methods for configuring the user interface of a mobile device,0,G06F
+11385775,2022-07-12,Intelligent monitor and layout management,2,G06F|H04L
+11381945,2022-07-05,Use of identity data associated with a device for directing communications to another device,0,G06F|H04L|H04M|H04W
+11381657,2022-07-05,Enhanced file sharing systems and methods,0,G06F|H04L
+11381610,2022-07-05,Systems and methods for establishing a channel between multiple devices,4,G06Q|H04L|H04N
+11381577,2022-07-05,Techniques involving a security heat map,0,G06F|H04L|H04W
+11381517,2022-07-05,Systems and methods for performing header protection in distributed systems,0,H04L|H04W
+11381509,2022-07-05,Increased packet scheduling throughput and efficiency using úber batching,0,H04L
+11381395,2022-07-05,System and methods for encryption based on environmental factors,0,G06F|H04L
+11379443,2022-07-05,Detecting outliers in server transaction time as a form of time series data,1,G06F|G06Q|H04L
+11374840,2022-06-28,Network environment-based dynamic application recommendation,1,G06F|H04L
+11374828,2022-06-28,Systems and methods for using an error budget for monitoring performance of a service level of a service,0,H04L
+11373625,2022-06-28,Content resolution adjustment for passive display devices,0,G06F|G09G|H04M|H04N
+11372867,2022-06-28,Bootstrapped relevance scoring system,0,G06F|G06N
+11368373,2022-06-21,Invoking microapp actions from user applications,1,G06F|H04L
+11367445,2022-06-21,Virtualized speech in a distributed network environment,0,G06F|G10L|H04L
+11366883,2022-06-21,Reflection based endpoint security test framework,0,G06F|H04L
+11366832,2022-06-21,Cloud services management,0,G06F|H04L|Y02D
+11366734,2022-06-21,Identification of log events for computing systems,2,G06F
+11363090,2022-06-14,Integrating web applications with local client applications in multi-user client environment,0,G06F|H04L
+11362943,2022-06-14,System and method for validating virtual session requests,0,H04L
+11362825,2022-06-14,Extended reality authentication,0,G06F|G06V|H04L
+11361113,2022-06-14,System for prevention of image capture of sensitive information and related techniques,0,G06F|G09G
+11361075,2022-06-14,Image steganography detection,2,G06F|G06T
+11360962,2022-06-14,Detecting and reporting changes in data values,0,G06F
+11360943,2022-06-14,Unified file storage system,0,G06F
+11360830,2022-06-14,Context-based notification processing system,0,G06F|G06Q
+11360825,2022-06-14,Systems and methods for service resource allocation and deployment,0,G06F|H04L
+11360760,2022-06-14,Systems and methods for versioning a cloud environment for a device,0,G06F|H04L
+11356531,2022-06-07,Data caching for cloud services,0,G06F|H04L
+11356481,2022-06-07,Preventing phishing attempts of one-time passwords,1,H04L
+11356455,2022-06-07,Behavior-based authentication,2,H04L|H04W
+11356418,2022-06-07,Systems and methods for using unencrypted communication tunnels,0,H04L
+11354684,2022-06-07,Data analytics for international product quality and user experience,2,G06F|G06N|G06Q|G10L
+11354400,2022-06-07,Systems and methods for offline usage of SaaS applications,2,G06F|H04L
+11354300,2022-06-07,Mobile auditable and tamper-resistant digital-system usage tracking and analytics,0,G06F
+11354144,2022-06-07,Java native interface and windows universal app hooking,1,G06F
+11354122,2022-06-07,Micro-application creation and execution,1,G06F
+11349936,2022-05-31,System and related methods providing channel switching between appliances,0,H04L
+11349904,2022-05-31,Selecting a mode of delivery to provide access to a file systems and methods,0,H04L
+11349820,2022-05-31,Selective encryption of tunneled encrypted traffic,0,H04L
+11349812,2022-05-31,Controlling application delivery based on a profile and threshold,3,H04L
+11349803,2022-05-31,Intelligent redirector based on resolver transparency,0,H04L
+11349751,2022-05-31,Method for prioritization of internet traffic by finding appropriate internet exit points,0,H04L
+11347842,2022-05-31,Systems and methods for protecting a remotely hosted application from malicious attacks,0,G06F
+11347802,2022-05-31,Query generation using natural language input,0,G06F
+11347701,2022-05-31,Live zero downtime migration of databases with disparate schemata,0,G06F
+11347574,2022-05-31,Systems and methods for processing software application notifications,0,G06F|H04L
+11347528,2022-05-31,Inter-application relevance management for application virtualization platform,0,G06F|G06Q
+11347295,2022-05-31,Virtual machine power management,0,G06F|H04L|Y02D
+11343357,2022-05-24,Systems and methods for autonomous program detection,0,H04L
+11343356,2022-05-24,Systems and methods for application specific load balancing,0,G06F|H04L
+11343235,2022-05-24,Secure device notifications from remote applications,0,H04L|H04W
+11343185,2022-05-24,Network traffic steering with programmatically generated proxy auto-configuration files,4,H04L
+11341443,2022-05-24,Prioritizing sequential application tasks,2,G06F|G06Q
+11336693,2022-05-17,Applying application layer policy to transport layer security requests systems and methods,2,G06F|H04L
+11336683,2022-05-17,Systems and methods for preventing replay attacks,1,H04L|H04W
+11336645,2022-05-17,Computing system providing SaaS application access with different capabilities based upon user personas,0,G06F|H04L
+11336640,2022-05-17,Pre-authorization for service-to-service requests,0,G06F|H04L
+11336606,2022-05-17,Triggering event notifications based on messages to application users,0,G06F|G06Q|H04L
+11334825,2022-05-17,Identifying an application for communicating with one or more individuals,0,G06F|G06Q|H04L
+11334529,2022-05-17,Recommending files for file sharing system,0,G06F|G06Q|H04L
+11334343,2022-05-17,Systems and methods for managing releases of applications in a computing environment,0,G06F|H04L
+11328077,2022-05-10,Systems and methods for providing data loss prevention via an embedded browser,4,G06F|H04L
+11323528,2022-05-03,Systems and methods for push notification service for SAAS applications,0,H04L
+11323499,2022-05-03,Bandwidth efficient streaming and synching multimedia content at a desired quality of experience,0,H04L|H04N
+11323449,2022-05-03,Unified accessibility settings for intelligent workspace platforms,0,G06F|H04L
+11323431,2022-05-03,Secure sign-on using personal authentication tag,0,G06F|H04L
+11323400,2022-05-03,Protecting sensitive data using conversational history,3,G06F|G06N|H04L
+11323348,2022-05-03,API dependency error and latency injection,1,G06F|H04L
+11321404,2022-05-03,Microapp subscription recommendations,0,G06F|H04L
+11320981,2022-05-03,Friendly finite scrolling for theme data pagination,0,G06F
+11316951,2022-04-26,Polytree queue for synchronizing data with a shared resource,3,G06F|H04L
+11316919,2022-04-26,Data file replication of edge servers,0,G06F|G06N|H04L
+11316860,2022-04-26,Consolidated identity,0,H04L
+11316766,2022-04-26,Robust suspension and resumption of desktop virtualization,0,G06F|H04L
+11314820,2022-04-26,Systems and methods for web collaboration,0,G06F|G06Q|H04L
+11314563,2022-04-26,Context-based generation of activity feed notifications,10,G06F|G06Q|H04L
+11314532,2022-04-26,Systems and methods for traffic optimization via system on chip of intermediary device,3,G06F|H04L
+11310345,2022-04-19,Displaying a service graph of microservices based on a ring of criticality,0,H04L
+11310340,2022-04-19,Multiple geography service routing,0,H04L|H04W
+11310312,2022-04-19,Peer to peer remote application discovery,0,G06F|H04L
+11310133,2022-04-19,Using service graphs to compare performance of a plurality of versions of a microservice,0,H04L
+11310034,2022-04-19,Systems and methods for securing offline data,2,G06F|H04L
+11307910,2022-04-19,Notification tagging for a workspace or application,1,G06F|H04L
+11307901,2022-04-19,Auto-scaling for allocation of cloud service resources in application deployments,0,G06F|H04L
+11303729,2022-04-12,Virtual workspace experience visualization and optimization,0,G06N|H04L
+11303704,2022-04-12,Methods and systems for connecting devices to applications and desktops that are receiving maintenance,0,G06F|H04L
+11303641,2022-04-12,Methods and systems for accessing remotely stored files using virtual applications,0,G06F|H04L
+11303614,2022-04-12,System and method for providing improved optimization for secure session connections,0,H04L
+11303550,2022-04-12,Determining server utilization using upper bound values,0,G06F|H04L
+11303543,2022-04-12,Real-time scalable virtual session and network analytics,0,G06F|H04L
+11303540,2022-04-12,Cloud resource estimation and recommendation,0,G06N|H04L
+11301950,2022-04-12,Systems and methods for providing a visible watermark in a remote session,0,G06F|G06T|G09G
+11301622,2022-04-12,Systems and methods for automatic recovery,0,G06F|G06T|G06V
+11301109,2022-04-12,Computing device with new window creation command and related systems and methods,1,G06F
+11297145,2022-04-05,Managing browser session navigation between one or more browsers,1,G06F|H04L
+11297067,2022-04-05,Resource appropriation in a multi-tenant environment using risk and value modeling systems and methods,0,H04L
+11297055,2022-04-05,Multifactor contextual authentication and entropy from device or device input or gesture authentication,5,G06F|H04L|H04W
+11296991,2022-04-05,Quality of experience based network analysis,1,H04L
+11296949,2022-04-05,Proactive link load balancing to maintain quality of link,1,H04L
+11296892,2022-04-05,Secure inter-service communications in a cloud computing system,0,G06F|H04L
+11294930,2022-04-05,Resource scaling for distributed database services,0,G06F|G06N
+11294865,2022-04-05,Using a scan data ledger for distributed security analysis of shared content,0,G06F|H04L
+11294697,2022-04-05,Systems and methods for remote computing sessions with variable forward error correction (FEC),0,G06F|H03M|H04L
+11290574,2022-03-29,Systems and methods for aggregating skills provided by a plurality of digital assistants,0,H04L
+11290522,2022-03-29,File transfer control systems and methods,0,G06F|H04L|H04W
+11290346,2022-03-29,Providing mobile device management functionalities,0,G06F|H04L|H04W
+11288384,2022-03-29,Shared secret vault for applications with single sign on,0,G06F|H04L|H04W
+11288089,2022-03-29,Metrics-based virtual machine snapshots,0,G06F
+11288083,2022-03-29,Computing system providing suggested actions within a shared application platform and related methods,0,G06F|G06V|G09G|H04L
+11284242,2022-03-22,Policy based location protection service,2,H04W
+11283866,2022-03-22,Providing remote access to applications through interface hooks,0,G06F|H04L
+11283785,2022-03-22,Systems and methods for credential control among a plurality of client devices,0,H04L
+11281744,2022-03-22,Systems and methods for improved remote display protocol for HTML applications,0,G06F|H04L
+11281511,2022-03-22,Predictive microservice systems and methods,1,G06F
+11281478,2022-03-22,Providing user interface (UI) elements having an ordered hierarchy of graphical control elements in virtual machine sessions at reduced latency and related methods,1,G06F
+11281447,2022-03-22,Service graphs for canary deployment systems and methods,2,G06F
+11281364,2022-03-22,Flowchart-style diagramming tool to build automated workflows,0,G06F|G06Q
+11281360,2022-03-22,Display management for native user experiences,0,G06F|G09G|H04L
+11277421,2022-03-15,Systems and methods for detecting and thwarting attacks on an IT environment,0,G06F|H04L
+11277379,2022-03-15,Modification of application-provided turn servers,1,H04L
+11277366,2022-03-15,Computing system with an email privacy filter and related methods,0,G06F|H04L
+11275811,2022-03-15,Systems and methods for deep linking of SaaS application via embedded browser,2,G06F|H04L
+11272368,2022-03-08,Controlling access to protected resource using a heat map,0,H04L|H04W
+11272014,2022-03-08,Systems and methods for reducing connection setup latency,0,G06F|H04L
+11272000,2022-03-08,Domain name service caching in distributed systems,0,H04L
+11271866,2022-03-08,Data sharing events,0,G06F|H04L
+11271828,2022-03-08,Real-time scalable virtual session and network analytics,3,G06F|H04L
+11271762,2022-03-08,Systems and methods for virtual meetings,0,G10L|H04L|H04M|H04N
+11270007,2022-03-08,Systems and methods for embedding data in remote session displays,0,G06F|G06T|H04N
+11269604,2022-03-08,Static performance analysis service,1,G06F
+11265389,2022-03-01,System and method for computation of user experience score for virtual apps and desktop users,0,G06F|H04L
+11265337,2022-03-01,Systems and methods for traffic inspection via an embedded browser,4,H04L
+11263719,2022-03-01,Graphical rendering using multiple graphics processors,0,G06F|G06T
+11263404,2022-03-01,Conversational AI platform using declarative graph model,0,G06F|G06N
+11263029,2022-03-01,Providing user interface (UI) elements having scrollable content in virtual machine sessions at reduced latency and related methods,0,G06F
+11263028,2022-03-01,Providing user interface (UI) elements in virtual machine sessions at reduced latency,6,G06F|G06T|H04L
+11263004,2022-03-01,Out of band layer scrubbing,0,G06F
+11258836,2022-02-22,Systems and methods for video conference with nested sessions,7,H04L|H04N
+11258780,2022-02-22,Securing a data connection for communicating between two end-points,0,H04L
+11258756,2022-02-22,Authenticating to a hybrid cloud using intranet connectivity as silent authentication factor,0,G06F|H04L|H04W
+11258680,2022-02-22,Real-time scalable virtual session and network analytics,0,G06F|H04L
+11257022,2022-02-22,Computing system and methods providing support session assignment between support agent client devices and customer client devices,0,G06Q|H04M
+11252228,2022-02-15,Multi-tenant multi-session catalogs with machine-level isolation,0,G06F|H04L
+11252148,2022-02-15,Secure web application delivery platform,1,G06F|H04L
+11252147,2022-02-15,Secure web application delivery platform,0,G06F|H04L
+11251983,2022-02-15,Meeting room reservation system and related techniques,1,G06F|G06Q|H04L
+11250258,2022-02-15,Systems and methods for preventing information dissemination from an image of a pupil,0,G06T|G06V
+11249833,2022-02-15,Error detection and remediation using an error signature,1,G06F|G06V
+11249832,2022-02-15,Session triage and remediation systems and methods,1,G06F|G06N|G06V
+11249785,2022-02-15,Unified application notification framework,0,G06F
+11249780,2022-02-15,VM creation by installation media probe,0,G06F
+11245755,2022-02-08,WebRTC API redirection with alternative network connectivity steering,1,G06F|G06K|G06T|H04L|H04N
+11245754,2022-02-08,Detection and repainting of semi-transparent overlays,1,G06F|G06K|G06T|H04L|H04N
+11245683,2022-02-08,Single-sign-on for third party mobile applications,1,H04L|H04W
+11245600,2022-02-08,System and method for processing network data,3,G06F|G06N|H04L
+11245589,2022-02-08,IoT topology analyzer defining an IoT topology and associated methods,0,H04L
+11244693,2022-02-08,Systems and methods for watermarking audio of SaaS applications,1,G06F|G10L|G11B|H04L
+11244255,2022-02-08,Provision of remote application action feed cards,0,G06F|G06Q|H04L
+11243781,2022-02-08,Provisioning services (PVS) cloud streaming with read cache file storing preboot data including a network driver,0,G06F|H04L
+11240297,2022-02-01,WebRTC API redirection with interception techniques,1,G06F|G06K|G06T|H04L|H04N
+11238015,2022-02-01,Instant hyper-v streaming,0,G06F
+11237886,2022-02-01,Normalizing cloud resource interaction for a suite of multi-tenant products across disparate objects and actions coming from different cloud services,0,G06F|H04L
+11237854,2022-02-01,Providing a virtual desktop within a computing environment,0,G06F|H04L
+11237815,2022-02-01,Service pool architecture for multitenant services to support canary release,1,G06F|G06Q|H04L
+11233882,2022-01-25,Adaptive session reliability over multiple transports,0,H04L
+11233832,2022-01-25,Systems and methods for collaborating on forms in SaaS application,6,G06F|H04L
+11228583,2022-01-18,Systems and methods for slogan based sharing of living SaaS objects,1,G06F|H04L
+11228563,2022-01-18,Providing micro firewall logic to a mobile application,0,H04L|H04W
+11227025,2022-01-18,Device augmentation of real time communications,0,G06F|G06K|H04L|H04N
+11226850,2022-01-18,Scenario based multiple applications on-screen,0,G06F
+11226837,2022-01-18,On-demand applications,0,G06F
+11226727,2022-01-18,Systems and methods for live tiles for SaaS,1,G06F|H04L
+11223698,2022-01-11,Intermediated retrieval of networked content,0,H04L
+11222091,2022-01-11,Systems and methods for development of web products,1,G06F
+11216715,2022-01-04,Dynamic region based application operations,1,G06F|G06M|H04L
+11216527,2022-01-04,Color scheme generator for web applications,0,G06F|G06T
+11216482,2022-01-04,Systems and methods for access to multi-tenant heterogeneous databases,0,G06F
+11216415,2022-01-04,Identification and recommendation of file content segments,0,G06F|G06V|G10L
+11212361,2021-12-28,Systems and methods for latency masking via prefix caching,0,G06F|H04L
+11212237,2021-12-28,Sharing resources between client devices in a virtual workspace environment,0,G06F|H04L
+11212113,2021-12-28,Systems and methods providing connection lease anti-theft features for virtual computing sessions,0,G06F|H04L
+11210347,2021-12-28,Object search with pagination and non-duplicates support,0,G06F
+11210139,2021-12-28,Remote management of distributed datacenters,1,G06F|H04L
+11210113,2021-12-28,Instant virtual application launch,0,G06F|H04L
+11209910,2021-12-28,Remoting or localizing touch gestures at a virtualization client agent,0,G06F
+11206253,2021-12-21,Domain pass-through authentication in a hybrid cloud environment,2,G06F|H04L|H04W
+11205060,2021-12-21,Loopback mode for bypassing a camera of an apparatus,0,G06K|H04N
+11201947,2021-12-14,Low latency access to application resources across geographical locations,0,H04L
+11201930,2021-12-14,Scalable message passing architecture in a cloud environment,1,G06F|H04L
+11201927,2021-12-14,Computer system providing user specific session prelaunch features and related methods,1,G06F|H04L|H04W
+11201926,2021-12-14,Computing system providing cloud-based user profile management for virtual sessions and related methods,0,G06F|H04L
+11201909,2021-12-14,Network sensitive file transfer,0,H04L
+11201889,2021-12-14,Security device selection based on secure content detection,0,G06F|H04L
+11196714,2021-12-07,Systems and methods for encrypted browser cache,1,G06F|H04L
+11190787,2021-11-30,Multi-pixel caching scheme for lossless encoding,0,G09G|H03M|H04N
+11190569,2021-11-30,Peripheral device sharing over peer-to-peer connection,2,H04L
+11190561,2021-11-30,Virtual computing system providing local screen sharing from hosted collaboration applications and related methods,0,G06F|H04L
+11190484,2021-11-30,Enhanced large scale network address translation (NAT) system for processing packets between router and transmission control protocol/internet protocol (TCP/IP) network,0,H04L
+11188372,2021-11-30,Computing system with dual VDA registration and related methods,0,G06F
+11184833,2021-11-23,Bandwidth sharing amongst trusted peers,0,H04L|H04W
+11184462,2021-11-23,Selecting an instance of a resource using network routability information,0,H04L
+11184424,2021-11-23,Systems and methods for simplified recording and sharing of data,0,G06F|H04L
+11182180,2021-11-23,Previewing application user interface for multiple locales,0,G06F
+11178218,2021-11-16,Bidirectional communication clusters,1,H04L
+11178185,2021-11-16,Extending management control to IoT devices,1,G06F|H04L|H04W
+11176266,2021-11-16,Restrictions on virtualized sessions using risk factor assessment,0,G06F
+11175967,2021-11-16,Intelligent contextual grouping of notifications in an activity feed,2,G06F|G06N|H04L
+11172029,2021-11-09,Systems and methods for sharing SaaS content across workspace,1,G06F|H04L
+11171964,2021-11-09,Authentication using device and user identity,4,G06F|H04L
+11171912,2021-11-09,Multi-device workspace notifications,0,H04L|H04W
+11171838,2021-11-09,Inferring radio type from clustering algorithms,0,G06N|H04L|H04W
+11170161,2021-11-09,Generating conversation models from documents,2,G06F|G10L|H04L
+11170126,2021-11-09,Policy based notification protection service in workspace,1,G06F|H04L|H04W
+11170065,2021-11-09,Technology agnostic UI microservices,1,G06F
+11169908,2021-11-09,Framework for UI automation based on graph recognition technology and related methods,5,G06F|G06N
+11165888,2021-11-02,Image acquisition device virtualization for remote computing,0,G06F|G06T|H04L
+11165871,2021-11-02,Computer system providing context-based Software as a Service (SaaS) application session switching and related methods,0,G06F|H04L
+11165856,2021-11-02,Detecting uneven load balancing through multi-level outlier detection,2,H04L
+11165755,2021-11-02,Privacy protection during video conferencing screen share,7,G06F|H04L|H04N
+11165645,2021-11-02,Message queue migration on A/B release environments,0,H04L
+11165575,2021-11-02,Tracking tainted connection agents,0,G06F|H04L
+11164567,2021-11-02,Systems and methods for extraction of user intent from speech or text,0,G06F|G06Q|G10L
+11163687,2021-11-02,Provisioning virtual machines with a single identity and cache virtual disk,0,G06F
+11163618,2021-11-02,Auto termination of applications based on application and user activity,3,G06F
+11163424,2021-11-02,Unified display for virtual resources,0,G06F|H04L
+11159552,2021-10-26,Systems and methods for an embedded browser,2,G06F|H04L
+11159531,2021-10-26,Computer system providing anonymous remote access to shared computing sessions and related methods,2,G06F|H04L|H04W
+11159517,2021-10-26,Self-federation in authentication systems,2,G06F|H04L|H04W
+11159512,2021-10-26,Cross device single sign-on,2,H04L
+11159497,2021-10-26,Secure message passing using semi-trusted intermediaries,2,H04L
+11159396,2021-10-26,Computer system providing mirrored SaaS application sessions and related methods,0,G06F|G06Q|H04L
+11157882,2021-10-26,Intelligent event tracking system,2,G06Q|H04L
+11157599,2021-10-26,Masked watermarks and related systems and techniques,0,G06F|G06T|H04N
+11157509,2021-10-26,Methods for enhancing a legacy single tenant application system to a multi-tenant application system with minimal changes,1,G06F|H04L
+11157299,2021-10-26,Thin provisioning virtual desktop infrastructure virtual machines in cloud environments without thin clone support,0,G06F|H04L
+11157161,2021-10-26,Using pressure sensor data in a remote access environment,0,G06F
+11157151,2021-10-26,Direct linking within applications,0,G06F|H04L
+11153306,2021-10-19,Systems and methods for secure SaaS redirection from native applications,3,G06F|H04L
+11153304,2021-10-19,Universal group support for authentication systems,0,H04L
+11153303,2021-10-19,Secure authentication of a device through attestation by another device,3,G06F|H04L|H04W
+11153285,2021-10-19,Systems and methods for application pre-launch,3,G06F|H04L|H04W
+11153284,2021-10-19,Systems and methods for transparent SaaS data encryption and tokenization,1,G06F|H04L|H04W
+11146521,2021-10-12,Email platform with automated contact save,0,H04L|H04W
+11144655,2021-10-12,Control viewing access to documents in collaborative scenarios using facial recognition from webcams,0,G06F|G06V|H04L
+11144612,2021-10-12,Automatic hyperlinking for content services,0,G06F|G06Q
+11144120,2021-10-12,Systems and methods for screen brightness control and auto-lock based on eye detection,0,G06F|G06T|G06V|G09G
+11144118,2021-10-12,Distraction factor used in A/B testing of a web application,0,G06F|G06Q|G06V
+11140073,2021-10-05,System and method for canary deployment using DNS SRV records,0,H04L
+11140030,2021-10-05,Dynamic configuration in cloud computing environments,2,G06F|H04L
+11138274,2021-10-05,Virtualization environment providing user-based search index roaming and related methods,0,G06F|H04L
+11138026,2021-10-05,Systems and methods for remote computing session display based upon user input event prioritization,0,G06F|H03M|H04L
+11134104,2021-09-28,Secure execution of enterprise applications on mobile devices,13,G06F|H04L|H04W
+11134037,2021-09-28,Increasing capacity in a topic-subscription messaging system,0,H04L
+11132179,2021-09-28,Microapp functionality recommendations with cross-application activity correlation,2,G06F|G06Q
+11128676,2021-09-21,Client computing device providing predictive pre-launch software as a service (SaaS) sessions and related methods,0,G06F|H04L
+11128625,2021-09-21,Identity management connecting principal identities to alias identities having authorization scopes,1,H04L
+11128564,2021-09-21,Systems and methods to filter out noisy application signatures to improve precision of first packet application classification,0,H04L
+11126455,2021-09-21,System and methods for provisioning different versions of a virtual application,0,G06F
+11122029,2021-09-14,Secure cloud computing,1,G06F|H04L
+11121998,2021-09-14,Graphical user interface for email file content,0,G06F|H04L
+11121968,2021-09-14,Systems and methods for dynamic routing on a shared IP address,0,H04L
+11115489,2021-09-07,Cross-domain brokering protocol cloud proxy,0,G06F|H04L
+11115478,2021-09-07,Computer system and methods providing virtual computing session connections and re-directs based upon ordered list of virtual delivery agents,2,G06F|H04L
+11115371,2021-09-07,System for managing electronic mail including disabling replying to a given email and related methods,0,G06Q|H04L
+11113021,2021-09-07,Systems and methods for SAAS application presentation mode on multiple displays,0,G06F|G09G|H04L|H04N
+11108845,2021-08-31,Rendering a web application in a cloud service,0,G06F|H04L|H04M
+11108673,2021-08-31,"Extensible, decentralized health checking of cloud service components and capabilities",3,G06F|H04L
+11107561,2021-08-31,Cloud-based distributed healthcare system with biometric devices and associated methods,64,G06F|G06Q|G16H|H04L
+11102165,2021-08-24,Systems and methods to operate devices with domain name system (DNS) caches,3,H04L
+11102125,2021-08-24,Securing communications between services in a cluster using load balancing systems and methods,0,H04L
+11100237,2021-08-24,Identify and protect sensitive text in graphics data,1,G06F|G06T|G06V
+11100057,2021-08-24,Virtual file organizer,1,G06F|G06N
+11099826,2021-08-24,Canary deployment using an application delivery controller,1,G06F|H04L
+11095804,2021-08-17,Automatic image capture,2,H04N
+11095688,2021-08-17,Systems and methods for responsible intermediation of privacy policies,2,G06F|H04L|H04W
+11095608,2021-08-17,Cross protocol association for internet addresses for metadata association systems and methods,0,G06F|H04L
+11095567,2021-08-17,System and method to optimize workflow,0,H04L
+11095562,2021-08-17,Systems and methods for first packet application classification,0,H04L
+11093570,2021-08-17,Systems and methods for presenting additional content for a network application accessed via an embedded browser of a client application,2,G06F|H04L
+11089113,2021-08-10,Systems and methods to retain existing connections so that there is no connection loss when nodes are added to a cluster for capacity or when a node is taken out from the cluster for maintenance,0,H04L
+11089091,2021-08-10,Heuristics for selecting nearest zone based on ICA RTT and network latency,0,H04L
+11087008,2021-08-10,Systems and methods for integrating HTML based application with embedded browser,5,G06F|H04L
+11082499,2021-08-03,Browser server session transfer,9,H04L
+11082453,2021-08-03,"Systems and methods for flexible, extensible authentication subsystem that enabled enhance security for applications",0,G06F|H04L
+11082451,2021-08-03,Maintaining continuous network service,1,G06F|H04L|H04W
+11082429,2021-08-03,Providing access to content within a computing environment,0,G06F|H04L
+11082374,2021-08-03,Identity leak prevention,0,H04L
+11080514,2021-08-03,Facial recognition based auto zoom,0,G06T|G06V
+11080408,2021-08-03,Secure information storage,2,G06F|G06Q|H04L|H04W
+11075999,2021-07-27,Accessing resources in a remote access or cloud-based network environment,0,G06F|H04L
+11075831,2021-07-27,Auto tuning of hybrid WAN links by adaptive duplication of packets on alternate links,0,H04L|H04W
+11075813,2021-07-27,Proactively deploying analytics to a computerized edge device,0,H04L
+11074338,2021-07-27,Local secure rendering of web content,0,G06F
+11070641,2021-07-20,Optimizing web applications using a rendering engine,0,H04L
+11070630,2021-07-20,Computer system providing SAAS application session state migration features and related methods,1,G06F|H04L
+11069325,2021-07-20,Content resolution adjustment for passive display devices,0,G06F|G09G|H04M|H04N
+11068606,2021-07-20,Secured encrypted shared cloud storage,2,G06F|H04L
+11064039,2021-07-13,Systems and methods for push notification service for SaaS applications,1,H04L
+11063953,2021-07-13,Systems and methods for continuous authentication,1,H04L|H04W
+11063935,2021-07-13,Systems and methods for providing remote desktop access,0,G06F|H04L|H04W
+11063750,2021-07-13,Systems and methods for secured web application data traffic,2,H04L
+11062049,2021-07-13,Concealment of customer sensitive data in virtual computing arrangements,0,G06F|H04L
+11062041,2021-07-13,Scrubbing log files using scrubbing engines,1,G06F
+11061999,2021-07-13,Systems and methods for dynamically enforcing digital rights management via embedded browser,2,G06F|G06N
+11061667,2021-07-13,Selecting a version of an application,9,G06F|H04L
+11057777,2021-07-06,Distance based session roaming,2,G06F|H04L|H04W
+11057487,2021-07-06,Systems and methods for recording metadata about microservices for requests to the microservices,0,G06F|H04L
+11057464,2021-07-06,Synchronization of data between local and remote computing environment buffers,6,G06F|H04L
+11057358,2021-07-06,Concealment of customer sensitive data in virtual computing arrangements,0,H04L
+11057271,2021-07-06,Systems and method updating ADC configuration with intended state using desired state API,1,G06F|H04L
+11057212,2021-07-06,Policy based authentication,1,G06F|H04L|H04W
+11056112,2021-07-06,Voice-based operations,0,G06F|G10L
+11055191,2021-07-06,Service graph highlights missing nodes and links,1,G06F|H04L
+11055131,2021-07-06,Method to set up and tear down cloud environments based on a schedule obtained from one or more hosted calendars,0,G06F|G06Q
+11055073,2021-07-06,Transforming validated user interface layouts using inter-platform design mapping data,0,G06F
+11050832,2021-06-29,Maintaining a session across multiple web applications,0,H04L
+11050743,2021-06-29,Systems and methods of enabling fast user access to remote desktops,0,G06F|H04L
+11050566,2021-06-29,Method for securing the rendezvous connection in a cloud service using routing tokens,2,H04L|H04W
+11048531,2021-06-29,Unified intelligent editor to consolidate actions in a workspace,1,G06F|H04L
+11048527,2021-06-29,Accessing conflicting frameworks and classes,0,G06F
+11044322,2021-06-22,Method for managing sessions using web sockets,1,H04L
+11044307,2021-06-22,Cross-customer web app analytics,0,G06F|H04L
+11044300,2021-06-22,File transfer control systems and methods,0,G06F|H04L|H04W
+11044174,2021-06-22,Systems and methods for disabling services in a cluster,0,G06F|H04L
+11044117,2021-06-22,Intelligent and dynamic overlay tunnel formation via automatic discovery of citrivity/SDWAN peer in the datapath in a pure plug and play environment with zero networking,1,H04L
+11042704,2021-06-22,Device independent text suggestion service for an application hosting platform,1,G06F
+11038988,2021-06-15,System and methods for providing user analytics and performance feedback for web applications,0,G06F|H04L
+11038825,2021-06-15,Systems and methods for filtering notifications for end points associated with a user,2,H04L
+11036919,2021-06-15,Enabling file attachments in calendar events,2,G06F|G06Q|H04L
+11036688,2021-06-15,Sharing of data with applications,3,G06F|H04L|H04W
+11036525,2021-06-15,Computer system providing hierarchical display remoting optimized with user and system hints and related methods,5,G06F|H03M|H04L
+11036522,2021-06-15,Remote component loader,0,G06F
+11036308,2021-06-15,Automated keyboard mapping for virtual desktops,0,G06F
+11032396,2021-06-08,Systems and methods for managing client requests to access services provided by a data center,0,G06F|H04L
+11032379,2021-06-08,Secure in-band service detection,1,H04L
+11029809,2021-06-08,System for displaying electronic mail metadata and related methods,0,G06F|G06Q|H04L
+11025699,2021-06-01,Method to determine optimal number of HTTP2.0 streams and connections for better QoE,0,H04L
+11025601,2021-06-01,"System and apparatus for enhanced QOS, steering and policy enforcement for HTTPS traffic via intelligent inline path discovery of TLS terminating node",6,H04L
+11025560,2021-06-01,Method and system for sharing user configuration data between different computing sessions,24,G06F|H04L
+11023597,2021-06-01,Providing security to mobile devices via image evaluation operations that electronically analyze image data received from cameras of the mobile devices,0,G06F|G06V|H04W
+11023257,2021-06-01,Loader application with secondary embedded application object,0,G06F
+11019100,2021-05-25,Detecting attacks using handshake requests systems and methods,2,H04L
+11019066,2021-05-25,Systems and methods for securely managing browser plugins via embedded browser,3,G06F|H04L
+11018992,2021-05-25,Systems and methods for generating virtual session connection leases using templates,0,G06F|H04L
+11017081,2021-05-25,Blocking routine redirection,0,G06F
+11016653,2021-05-25,Methods and system for locally generated gesture and transition graphics interaction with terminal control services,0,G06F|G09G
+11012496,2021-05-18,Mobile-optimized file transfer mechanism based on QR code,0,G06K|H04L|H04W
+11012429,2021-05-18,Method to save computational resources by detecting encrypted payload,19,H04L
+11012400,2021-05-18,Triggering event notifications based on messages to application users,7,G06F|G06Q|H04L
+11012374,2021-05-18,Systems and methods for virtual session connection using component-based connection leases,1,G06F|H04L
+11010856,2021-05-18,Method and apparatus for deterrence and detection of leakage during remote interactive sessions,0,G06F|G06T|G09G|H04L
+11010823,2021-05-18,Connector leasing for long-running software operations,0,G06F|G06Q|H04L
+11010486,2021-05-18,Secure offline streaming of content,1,G06F|H04L|H04N
+11010032,2021-05-18,Navigating a hierarchical data set,0,G06F
+11009947,2021-05-18,Systems and methods for screen brightness control and auto-lock based on eye detection,1,G06F|G06T|G06V|G09G
+11006273,2021-05-11,Location/things aware cloud services delivery solution,3,G01S|H04L|H04W
+11005931,2021-05-11,WebRTC API redirection with window monitoring/overlay detection,1,G06F|G06K|G06T|H04L|H04N
+11005930,2021-05-11,WebRTC API redirection with network connectivity steering,1,G06F|G06K|G06T|H04L|H04N
+11005926,2021-05-11,Privacy protection for proxy auto-configuration files,0,H04L
+11005919,2021-05-11,Systems and methods for providing load balancing as a service,4,H04L
+11005891,2021-05-11,Systems and methods for live SaaS objects,2,G06F|H04L
+11005821,2021-05-11,Server for detecting a proxy device in a communications path and related methods,1,G06F|H04L
+11004256,2021-05-11,Collaboration of augmented reality content in stereoscopic view in virtualized environment,0,G06F|G06T|H04N
+11003468,2021-05-11,Preloading of application on a user device based on content received by the user device,1,G06F
+10997122,2021-05-04,File redundancy detection and mitigation,0,G06F
+10996819,2021-05-04,Systems and methods for intellisense for SaaS application,0,G06F|H04L
+10992758,2021-04-27,Virtualizing device management services on a multi-session platform,0,G06F|H04L
+10992709,2021-04-27,Efficient use of IPsec tunnels in multi-path environment,1,H04L|H04W
+10992473,2021-04-27,Secure single sign on and conditional access for client applications,3,H04L|H04W
+10990751,2021-04-27,Form template matching to populate forms displayed by client devices,4,G06F|G06V
+10990699,2021-04-27,Computing system providing enterprise mobility management metadata anonymity policy enforcement and related methods,0,G06F|H04L|H04W
+10990508,2021-04-27,Computing system with GUI testing device and related methods,1,G06F|G06V
+10986473,2021-04-20,Short message service link for activity feed communications,2,H04L|H04W
+10986085,2021-04-20,Subscriber identity management,1,H04L|H04W
+10986082,2021-04-20,Local mapped accounts in virtual desktops,4,G06F|H04L
+10984062,2021-04-20,Device augmentation of real time communications,0,G06F|G06K|H04L|H04N
+10984015,2021-04-20,Multi-select dropdown state replication,0,G06F
+10983769,2021-04-20,Systems and methods for using a call chain to identify dependencies among a plurality of microservices,3,G06F
+10972770,2021-04-06,Method for encrypting data streams with negotiable and adaptable encryption levels,0,H04L|H04N
+10972601,2021-04-06,Systems and methods for controlling access to a computing device,0,G06F|H04M
+10972445,2021-04-06,Dynamic crypto key management for mobility in a cloud environment,1,H04L|H04W
+10972406,2021-04-06,Indicating whether a user device can access a computing resource based on whether a current time falls within one or more time slots associated with the computing resource,0,H04L
+10972358,2021-04-06,Inferring congestion and signal quality,10,G06N|H04L|H04W
+10970469,2021-04-06,System and method for using a scripting language to dynamically style a cascading style sheet,0,G06F
+10965741,2021-03-30,Non-disruptive enablement of highly available cloud computing services,0,H04L
+10965734,2021-03-30,Data management for an application with multiple operation modes,2,G06F|H04L|H04W
+10965535,2021-03-30,Activity-based resource allocation among virtual-computing sessions,7,G06F|H04L
+10963981,2021-03-30,Tracking image senders on client devices,1,G06T|H04L|H04N
+10963624,2021-03-30,Web UI automation maintenance tool,0,G06F
+10963621,2021-03-30,Management of remote access user application layouts,0,G06F|H04L
+10963532,2021-03-30,Systems and methods for rendering weblinks inside a remote application using an embedded browser,3,G06F
+10963324,2021-03-30,Predictive microservice systems and methods,0,G06F
+10963238,2021-03-30,Deployment routing of clients by analytics,0,G06F|H04L
+10958722,2021-03-23,WebRTC API redirection with network connectivity steering fallback,2,G06F|G06K|G06T|H04L|H04N
+10958721,2021-03-23,WebRTC API redirection with intelligent network connectivity steering,1,G06F|G06K|G06T|H04L|H04N
+10958705,2021-03-23,Client computing device providing end-to-end quality of service (QoS) control for software as a service (SaaS) sessions and related methods,1,H04L
+10958640,2021-03-23,Fast smart card login,5,G06F|H04L
+10958633,2021-03-23,Method and system for securely transmitting volumes into cloud,0,G06F|H04L
+10958553,2021-03-23,Network configuration system,1,G06N|H04L
+10956197,2021-03-23,Virtual machine with an emulator manager for migration of synchronized streams of state data,1,G06F
+10952022,2021-03-16,Systems and methods for identifying a context of an endpoint accessing a plurality of microservices,1,G06F|H04L|H04W
+10951726,2021-03-16,Systems and methods for performing response based cache redirection,0,H04L
+10951515,2021-03-16,Leveraging multi-stream transport protocol capabilities for routing,2,H04L
+10949505,2021-03-16,Computer system providing virtual computing session license distribution features and related methods,1,G06F|G06Q
+10949486,2021-03-16,Anchored match algorithm for matching with large sets of URL,0,G06F|H04L
+10949222,2021-03-16,System and method for displaying customized user guides in a virtual client application,0,G06F|H04L
+10949061,2021-03-16,Application publishing in a virtualized environment,0,G06F
+10948593,2021-03-16,System for determining distance between fixed and mobile endpoints and related methods,0,G01S|H04W
+10943031,2021-03-09,Adaptive data sanitation system for endpoints,0,G06F
+10943018,2021-03-09,Systems and methods for screenshot mediation based on policy,0,G06F
+10938807,2021-03-02,Remote desktop monitoring using a webcam,0,G06F|G06V|H04L|H04W
+10938642,2021-03-02,Network offering in cloud computing environment,1,G06F|H04L
+10937224,2021-03-02,Two-part context based rendering solution for high fidelity augmented reality in virtualized environment,0,G05D|G06F|G06T
+10936639,2021-03-02,Enhance a mail application to format a long email conversation for easy consumption,0,G06F|H04L
+10936470,2021-03-02,Systems and methods for performance bug and grievance reports for SaaS applications,0,G06F
+10936465,2021-03-02,Method for optimized canary deployments for improved customer experience,1,G06F|G06Q|Y02D
+10936379,2021-03-02,Automatically replicate API calls to separate data centers,0,G06F|H04L
+10936337,2021-03-02,Rendering content of service providers via web page having dynamically-loaded plugins,0,G06F|H04L
+10929344,2021-02-23,Trusted file indirection,0,G06F|H04L
+10924590,2021-02-16,Virtual workspace experience visualization and optimization,6,G06N|H04L
+10924554,2021-02-16,Application customization,1,H04L
+10924545,2021-02-16,Computer system providing mirrored SAAS application sessions and related methods,13,G06F|H04L
+10924468,2021-02-16,Remote desktop protocol proxy with single sign-on and enforcement support,2,H04L
+10924423,2021-02-16,Adaptive mechanism to adjust UDT packet size based on actual network condition,0,H04L
+10924377,2021-02-16,Systems and methods for application scripts for cross-domain applications,5,H04L
+10924372,2021-02-16,Computing system providing enhanced point of presence (PoP) server selection based upon network health metrics and related methods,0,H04L
+10924367,2021-02-16,Using service graphs to compare performance of a plurality of versions of a microservice,1,H04L
+10922375,2021-02-16,File portability across SaaS applications,0,G06F|H04L
+10915702,2021-02-09,Methods and systems for validating multiple methods of input using a unified rule set,0,G06F
+10915650,2021-02-09,Securely sharing files with user devices based on location,0,G06F|G06Q|H04L|H04W
+10915414,2021-02-09,Test controller for concurrent testing of an application on multiple devices without using pre-recorded scripts,0,G06F|G06V
+10911798,2021-02-02,Providing files of variable sizes based on device and network conditions,0,H04L|H04N
+10911520,2021-02-02,Systems and methods of using the refresh button to determine freshness policy,1,G06F|H04L
+10911362,2021-02-02,System and methods to filter out noisy application signatures to improve precision of first packet classification,0,H04L
+10911310,2021-02-02,Network traffic steering with programmatically generated proxy auto-configuration files,0,G06F|H04L
+10909271,2021-02-02,Policy based persistence,0,G06F
+10908896,2021-02-02,Application wrapping for application management framework,13,G06F
+10908785,2021-02-02,Systems and methods for SaaS overlays using an embedded browser,2,G06F|H04L

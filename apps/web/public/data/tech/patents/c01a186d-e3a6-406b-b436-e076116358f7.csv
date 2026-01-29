@@ -1,0 +1,940 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432989,2025-09-30,Semiconductor device and method for manufacturing the same,0,H01L|H10D
+12432643,2025-09-30,"Wireless communication control device, wireless communication device, and wireless communication control method",0,H04W
+12432435,2025-09-30,In-vehicle camera shield state determination device,0,G06T|G06V|H04N
+12426329,2025-09-23,Silicon carbide semiconductor device including a side silicide layer and method for manufacturing the same,0,H01L|H10D
+12426319,2025-09-23,Semiconductor device and method for manufacturing the same,0,H01L|H10D
+12426162,2025-09-23,Electric component,0,H01L|H05K
+12424503,2025-09-23,Semiconductor device,0,H01L
+12424496,2025-09-23,Manufacturing method of semiconductor device,0,H01L
+12424000,2025-09-23,"Object recognition system, object recognition method, and nontransitory computer-readable storage medium storing object recognition program",0,G06T|G06V|G07C|G08G
+12423206,2025-09-23,"Communication system, relay device, and diagnosis target device",0,G06F
+12422841,2025-09-23,Methods and systems for preconditioning a vehicle prior to a vehicle-sharing session,0,A61B|B60H|B60K|B60R|G05B|G05D|G06Q
+12420813,2025-09-23,Electronic control unit,0,B60R|B60W|G05B|G06F
+12420743,2025-09-23,System and method for dynamic localization,0,B60R|G07C|H01Q|H04B|H04W
+12417909,2025-09-16,Surface processing apparatus and surface processing method for SiC substrate,0,H01L
+12416726,2025-09-16,Systems and methods for enhancing outputs of a LiDAR,0,B60W|G01S|G06T
+12414345,2025-09-09,Manufacturing method of semiconductor device and semiconductor wafer,0,H01L|H10D
+12414182,2025-09-09,"Communication terminal device, communication method and communication program product",0,H04W
+12412401,2025-09-09,Traffic sign recognition device and traffic sign recognition method,0,G06T|G06V
+12411917,2025-09-09,Authentication system and tracking system,0,G06F|G06Q|G06T|G06V|G16Y
+12411675,2025-09-09,Vehicle information communication system,0,B60R|B60W|G06F|G07C|H04L|H04W
+12408004,2025-09-02,System and method of calibration for establishing real-time location,0,H04B|H04W
+12407796,2025-09-02,Surrounding image display apparatus that displays surrounding image when driver intends to make a lane departure and method,0,B60R|H04N
+12406050,2025-09-02,Method and system for diagnostic services with remote attestation,0,G06F
+12401334,2025-08-26,Semiconductor integrated circuit,0,H01L|H03F
+12400923,2025-08-26,"Semiconductor package, electronic device, and method for manufacturing semiconductor package",0,H01L|H05K|H10D
+12399632,2025-08-26,"Vehicle electronic control system, file transfer control method, computer program product and data structure of specification data",0,B60R|G06F|H04L
+12395416,2025-08-19,Vehicle-mounted relay device,0,B60R|G06F|H04L
+12394304,2025-08-19,CPR APR based security for ITS,0,G08G|H04W
+12392641,2025-08-19,"Map information output device, automatic driving control system, map information output system, and map information output method",0,B60W|G01C|H04L|H04W
+12387594,2025-08-12,"Parking-stopping point management device, parking-stopping point management method, and vehicle device",0,G06T|G06V|G08G
+12387166,2025-08-12,"Delivery monitoring, tracking and guidance systems and methods",0,G06Q
+12384329,2025-08-12,Passive entry/passive start systems and methods,0,B60R|B60W|G01S|G07C|H04W
+12382246,2025-08-05,System and method of determining real-time location,0,A44B|B60R|G07C|H04W
+12381949,2025-08-05,"Vehicle master device, update data verification method and computer program product",0,B60R|G06F|G07C|H04L
+12379756,2025-08-05,Microcontroller with capacitors connected in series to suppress power fluctuation,0,B62D|G06F|H02K|H02P
+12369339,2025-07-22,Surface treatment method for gallium oxide-based semiconductor substrate and semiconductor device,0,H01L|H10D
+12368838,2025-07-22,Vehicular device and method for the same,0,B60K|G06F|H03M|H04L|H04N
+12368083,2025-07-22,Semiconductor device,0,H01L
+12367720,2025-07-22,"Information processing device, information processing method, and storage medium",0,G07C|G08B|H04L|H04M|H04W
+12367276,2025-07-22,Log management device and center device,0,G06F|H04L|H04W
+12361767,2025-07-15,Vehicle control system,0,B60K|B60R|B60W|G06F|G07C
+12361720,2025-07-15,"Synchronization device, synchronization method, and non-transitory tangible computer readable storage medium",0,B60W|G06V|G08C|H04L
+12360522,2025-07-15,Electronic control device,0,G05B|G06F
+12354937,2025-07-08,Semiconductor device and production method thereof,0,H01L|H05K|Y02P
+12354875,2025-07-08,Element forming wafer and method for manufacturing the same,0,G01L|H01L|H04R|H10N
+12354389,2025-07-08,"Individual object identification system, individual object identification program, and recording medium",0,G06F|G06T|G06V
+12354302,2025-07-08,"Obstacle detection apparatus, obstacle detection method, and obstacle detection program",0,B60W|G06T|G06V
+12349181,2025-07-01,Vehicle wireless communication device and communication control method,0,G05D|G08G|H04L|H04W
+12347244,2025-07-01,"Abnormality determination parking support device, method, and system",0,B60R|B60W|G06Q|G07C|G08G
+12346401,2025-07-01,Combinatorial optimization system and combinatorial optimization method,0,G06F|G06N
+12342590,2025-06-24,Semiconductor device,0,H01L|H10D
+12341798,2025-06-24,"Log management device, log management method, computer program product, and security attack detection and analyzing system",0,G06F|H04L|H04W
+12339957,2025-06-24,Detecting tampering of an electronic device,0,B60R|G06F
+12334418,2025-06-17,Semiconductor module with improved inspectability of stacked semiconductor elements,0,H01L|H02M
+12334339,2025-06-17,Manufacturing method of semiconductor device,0,H01L
+12333818,2025-06-17,Road type determination apparatus and driving assistance apparatus,0,B60W|G01C|G06T|G06V|G08G
+12333483,2025-06-17,"Information processing method, information processing device, program product for processing information, and program product for referring to history information",0,G06Q
+12333454,2025-06-17,System and method of determining real-time location,0,G06Q|H04W
+12330665,2025-06-17,Vehicle control device,0,B60R|B60W|G06F|G07C
+12327108,2025-06-10,"Electronic control apparatus, reprogram execution method, and non-transitory computer readable storage medium",0,G06F
+12323797,2025-06-03,System and method of distributed communications,0,H04W
+12317155,2025-05-27,System and method of calibration for establishing real-time location,0,B60R|H04B|H04W
+12315825,2025-05-27,Semiconductor device having wire pieces in bonding member,0,H01L|H02P
+12315740,2025-05-27,Semiconductor device and method for manufacturing thereof,0,H01L|H10D
+12309521,2025-05-20,"Image registration apparatus, image generation system, image registration method, and image registration program product",0,G01S|G06T|H04N
+12302160,2025-05-13,Method and device of coordinating transmission time of V2X message,0,H04W|Y02D
+12299429,2025-05-13,"Vehicle electronic control system, self-retention power execution control method and computer program product",0,B60R|B60W|G06F|G07C|H04L|H04W
+12294598,2025-05-06,Attack monitoring center apparatus and attack monitoring terminal apparatus,0,G06F|H04L|H04W
+12293945,2025-05-06,Semiconductor chip and method for manufacturing the same,0,H01L|H10D
+12289048,2025-04-29,Semiconductor module,0,H01L|H02M|H05K
+12288817,2025-04-29,Semiconductor device and method for manufacturing the same,0,H01L|H10D
+12288767,2025-04-29,Semiconductor device,0,H01L
+12288720,2025-04-29,"Semiconductor chip, processed wafer, and method for manufacturing semiconductor chip",0,H01L|H10D|H10H
+12288173,2025-04-29,Vehicle allocation management method and vehicle allocation management device,0,B60L|B60R|G06Q|G08G|Y02T|Y04S
+12284643,2025-04-22,"In-vehicle terminal, data collection system, and data transmission system",0,H04L|H04W
+12283620,2025-04-22,Method for manufacturing semiconductor device,0,H01L|H10D
+12283619,2025-04-22,Nitride semiconductor device and method of manufacturing the same,0,H01L|H10D
+12278274,2025-04-15,Method of manufacturing silicon carbide semiconductor device,0,H01L|H10D
+12278170,2025-04-15,"Semiconductor module, electrical component, and connection structure of the semiconductor module and the electrical component",0,H01L|H02M
+12273764,2025-04-08,Communication device and communication method,0,H04W
+12272159,2025-04-08,Driving analysis device and driving analysis method for analyzing driver tendency,0,A61B|B60K|B60W|G06T|G06V|G08G
+12270859,2025-04-08,Battery monitoring apparatus,0,B60L|G01R|H04W|Y02E|Y02T
+12267806,2025-04-01,Distributed generation of real-time location,0,G01S|H04W
+12267351,2025-04-01,System and method for dynamically updating firewall rules for a vehicle network of a vehicle,0,G07C|H04L
+12266626,2025-04-01,Radar device,0,G01S|H01L|H01Q
+12266080,2025-04-01,"Image processing device, image processing method, image processing program, and image processing system for generating high-resolution images with reflected light images and background light images",0,G01S|G06T
+12265130,2025-04-01,Monitoring system,0,G01R|H02J|H04W
+12263793,2025-04-01,Imaging apparatus,0,B60R|H04N
+12261156,2025-03-25,Electronic device,0,H01L
+12261096,2025-03-25,Radiator module and method of manufacturing the same,0,H01L
+12261048,2025-03-25,Method for manufacturing semiconductor device,0,H01L
+12255753,2025-03-18,Insulated communication system,0,G01R|H03M|H04L
+12255228,2025-03-18,Silicon carbide semiconductor device and method of manufacturing silicon carbide semiconductor device,0,H01L|H10D
+12255120,2025-03-18,Semiconductor device and method of manufacturing the same,0,H01L
+12254701,2025-03-18,Vehicle periphery monitoring device and vehicle periphery monitoring method,1,B60Q|B60R|G01S|G06T|G06V|G08G
+12254214,2025-03-18,Input output control device,0,G06F
+12253939,2025-03-18,"Electronic control unit, method, and storage medium of setting shared/dedicated area write limit based on life time consumption information",0,G06F
+12253907,2025-03-18,Monitoring-data processing method and system,0,B60W|G06F
+12252791,2025-03-18,Apparatus for manufacturing semiconductor device,0,C23C|G03F|H01L
+12250608,2025-03-11,Communication device and communication method,0,H04W
+12250289,2025-03-11,"Communication control device, communication control method, and relay server",0,H04L|H04W
+12249159,2025-03-11,Systems and methods for detecting objects based on lidar data,0,G01S|G06F|G06V
+12248498,2025-03-11,"Information processing device, information processing method, storage medium on which an information processing program is stored, and vehicle",0,G06F
+12248093,2025-03-11,System and method for training a neural network to perform object detection using lidar sensors and radar sensors,0,G01S|G06N|G06V
+12248092,2025-03-11,Radar device,0,G01S|G06F|G06T|G06V
+12243910,2025-03-04,Silicon carbide semiconductor device with overlapping electric field relaxation regions and method of manufacturing the same,0,H01L|H10D
+12240502,2025-03-04,"Presentation control device, presentation control program, and driving control device",0,B60K|B60W|G06F|G08G|G09G
+12237225,2025-02-25,Method for manufacturing semiconductor device,0,H01L|H10D
+12236730,2025-02-25,Systems and machine learning models for automated vehicle monitoring,0,G05B|G06Q|G07C
+12236727,2025-02-25,"Vehicle behavior evaluation device, vehicle behavior evaluation method, and vehicle behavior evaluation program product",0,B60W|G06N|G06Q|G07C|G08G
+12236227,2025-02-25,"Vehicle data communication device, center device, data communication method, and computer-readable non-transitory tangible storage medium",0,B60R|G06F|H04L|H04W
+12235953,2025-02-25,"Attack analyzer, attack analysis method and attack analysis program",0,G06F|H04L
+12235468,2025-02-25,Virtual image display device and polarization adjustment member,0,B60K|G02B|H04N
+12229102,2025-02-18,"Asset transfer recording system, asset transfer recording method and computer-readable non-transitory storage medium storing computer program",0,G06F|G06Q
+12228663,2025-02-18,Base station device and terminal device,0,G01S|H04B|H04L|H04W
+12228421,2025-02-18,Map update device and storage medium,0,G01C|G06T
+12222458,2025-02-11,Apparatus for determining orientation and position of sensor,0,G01B|G01C|G01S|G06T|H10F
+12221131,2025-02-11,Accident pattern determination apparatus and method,0,B60W|G06N|G08G
+12221067,2025-02-11,"Antenna switching control for AOA capturing in phone-as-a-key systems with de-whitened tone transmission, CRC based validation and event timing",0,B60R|G01S|G06K|G07C|H01Q|H04L|H04W
+12221066,2025-02-11,Seating position determination system and vehicle controller,0,B60R|E05B|G01S|G06F|G09G
+12219621,2025-02-04,Wireless communication system,0,H04W|Y02D
+12218025,2025-02-04,Electronic device,0,H01L
+12217555,2025-02-04,"Center device, data communication system, and program product for controlling data distribution",0,G06F|G07C|G08G|H04L|H04W
+12217513,2025-02-04,"Device, system, and method for generating occupancy grid map",0,G01S|G06T|G06V|G08G
+12217040,2025-02-04,"Electronic control unit, software update method, software update program product and electronic control system",0,G06F
+12216761,2025-02-04,Dynamic adaptation of memory elements to prevent malicious attacks,0,G06F
+12215931,2025-02-04,Heat exchanger,0,F28D|F28F|H01L
+12212647,2025-01-28,Communication apparatus,0,H03K|H04L
+12211902,2025-01-28,Silicon carbide semiconductor device and method for manufacturing the same,0,H01L|H10D
+12208812,2025-01-28,Vehicle device and vehicle device control method,0,B60K|B60R|B60W|G06F|G09G
+12206831,2025-01-21,"Verification method for calibration of camera, calibration verification program and calibration verification apparatus",0,B60R|G06T|H04N
+12197906,2025-01-14,"Onboard device, vehicle, control method and non-transitory computer readable recording medium storing an onboard program",0,G06F
+12197806,2025-01-14,"Content output control device, content output control method, and non-transitory computer readable storage medium",0,B60R|G06F|G09G
+12197237,2025-01-14,"Management system, management method, and storage medium",1,B60W|G05D|G08G|H04W
+12196571,2025-01-14,"Travel route setting system, travel route setting method, and program",0,G01C|G06T|G08G
+12192936,2025-01-07,"Communication device, method for communication device, and program product for communication device",0,G04G|H04J|H04L|H04W
+12191150,2025-01-07,Switching device and method for manufacturing the same,0,H01L|H10D
+12190596,2025-01-07,"Vehicle apparatus, vehicle program and recoding media thereof",0,G01C|G06F|G06T|G06V|G08G|G09B
+12190008,2025-01-07,Display device,0,B60K|B60R|G02B|G06F|G09F|G09G|H04N|H05B|H10K
+12189556,2025-01-07,System and method for a serial peripheral interface,0,G06F
+12188151,2025-01-07,Silicon carbide wafer and method for manufacturing the same,0,C30B|H01L|H10D
+12185467,2024-12-31,Electronic device,0,H01L|H05K|Y02P
+12184345,2024-12-31,Positioning system,0,B60R|E05B|G01S|H04B|H04W
+12184190,2024-12-31,Power conversion device,0,H01L|H02M|H05K
+12178023,2024-12-24,Power conversion device,0,H01L|H02M|H05K
+12177920,2024-12-24,Battery monitoring apparatus,0,B60L|B60R|G01R|H01M|H02J|H04Q|H04W|Y02E|Y02T
+12177239,2024-12-24,"Attack analyzer, attack analysis method and attack analysis program",0,H04L|H04W
+12177226,2024-12-24,"Authentication management method, authentication management program, and user authentication management device",0,H04L
+12175817,2024-12-24,Center device and vehicle information communication system,0,B60R|G01M|G06F|G07C|H04W
+12175765,2024-12-24,Object recognition apparatus and object recognition program product,0,G01S|G06T|G06V|G08G|H04N
+12175021,2024-12-24,Display system,0,B60R|G06F
+12174977,2024-12-24,"Center device on a vehicle network, data distribution system and storage medium storing computer program for distribution control for re-programming ECUS",0,B60R|B60W|G06F|H04L|H04W
+12174291,2024-12-24,Object determination apparatus,0,G01S|G01V|G06F|G06V|G08G
+12168432,2024-12-17,Vehicle device,0,B60R|B60W|G06F|H04L
+12166781,2024-12-10,Attack analyzer for accurate estimation of attack route,0,B60W|H04L
+12164902,2024-12-10,"Vehicle electronic control system, data initialization method, center device, vehicle master device, storage medium for storing initialization package distribution program, and storage medium storing data initialization program",1,B60R|B60W|G06F
+12163894,2024-12-10,Sensing system and storage medium storing data structure used in sensing system,0,A01G|G01N|G06Q|G16Y
+12160144,2024-12-03,Electronic device comprising semiconductor module,0,B62D|H01L|H02K|H02M|H05K
+12159810,2024-12-03,Semiconductor device,0,H01L
+12158534,2024-12-03,Vehicle communication device and vehicle communication method,0,G01S|G08G|H04W
+12157484,2024-12-03,V2-based roll-over alert in an intersection,0,B60K|B60W|H04W
+12154963,2024-11-26,Aluminum alloy film and semiconductor device using the same,0,H01L|H10D
+12154920,2024-11-26,Camera module having curved imager,0,G02B|G03B|H01L|H04N|H10F
+12154296,2024-11-26,Method and system for automatic extrinsic calibration of SPAD LiDAR and camera pairs,0,G01S|G06T|G06V|H04N
+12153914,2024-11-26,"Data distribution device, data distribution system, and non-transitory computer-readable storage medium",0,B60R|G06F
+12153911,2024-11-26,"Vehicle program rewrite system, vehicle master device, progress synchronization method and computer program product",0,B60W|G06F
+12149387,2024-11-19,Differential communication driver circuit,0,H03K|H04B|H04L
+12148638,2024-11-19,Abnormality detection system,0,G01N|G05B|H01L
+12145535,2024-11-19,Vehicular apparatus,0,B60R|H04N
+12144111,2024-11-12,Printed circuit board and method of producing printed circuit board,0,H01L|H05K
+12144050,2024-11-12,Battery monitoring apparatus,0,B60L|B60R|G01R|H01M|H02J|H04Q|H04W|Y02E|Y02T
+12142094,2024-11-12,"Center device, data distribution system, and computer program product for executing restriction on function of data",0,B60R|G01M|G06F|G07C
+12141615,2024-11-12,"Vehicular control device, vehicular display system, and vehicular display control method",0,B60K|B60R|G06F
+12141566,2024-11-12,Vehicle information communication system,0,B60R|B60W|G06F|G07C|H04L|H04W
+12137308,2024-11-05,Image processing apparatus,0,H04N
+12136654,2024-11-05,Method for manufacturing semiconductor device,0,H01L|H10D
+12133358,2024-10-29,Heat exchanger,0,F28F|H01L|H05K
+12132123,2024-10-29,P-type gallium oxide semiconductor device with alternating layers,0,H01L|H10D|H10F
+12125823,2024-10-22,Semiconductor device including inner conductive layer having regions of different surface roughness,0,H01L|H10D
+12125813,2024-10-22,Semiconductor device and method for manufacturing same,0,G01L|H01L|H10D
+12125325,2024-10-22,Vehicular apparatus,0,B60K|B60R|G06F|G06T|G07C|G09G
+12125291,2024-10-22,Image processing apparatus,0,G06F|G06N|G06T|G06V
+12122216,2024-10-22,Heater device,0,B60H|G06F|H03K|H05B
+12115933,2024-10-15,"Authentication system, authentication method and non-transitory computer readable storage medium",0,B60R|G07C|H04M|H04W
+12115932,2024-10-15,Vehicle control device,0,B60R|G08G|H04W
+12112629,2024-10-08,Parking structure vehicle location service,0,G06Q|G08G|H04W
+12112534,2024-10-08,Sticking determination device and sticking determination method,0,G06T|G06V|G09G|H04N
+12112085,2024-10-08,"Vehicle display control device, vehicle display control method, and vehicle display control program product",0,B60K|B60R|G01C|G02B|G06F|G06T|G08B|G08G|G09G
+12111921,2024-10-08,Incident response according to risk score,0,B60R|G06F
+12109976,2024-10-08,"Vehicular apparatus, vehicular system, and user authentication management program product",0,B60K|B60R|G07C|H04W
+12108311,2024-10-01,"Vehicular apparatus, and time synchronization method for vehicular apparatus",0,B60R|G04G|G04R|G06F|H04W
+12107942,2024-10-01,Communication device for continuous communication with another communication device during switch of communication protocol,0,H04L|H04W
+12103535,2024-10-01,"Device and method for generating travel trajectory data in intersection, and vehicle-mounted device",0,B60W|G06F|G06V
+12100763,2024-09-24,Semiconductor device having cell section with gate structures partly covered with protective film,0,H01L|H10D
+12100638,2024-09-24,Semiconductor device,0,H01L
+12100251,2024-09-24,Passive entry/passive start access systems including round trip time sniffing,0,B60R|G01S|G07C|H01Q|H04B|H04W
+12095588,2024-09-17,Vehicular drawing device,0,B60L|B60R|B60W|G01R|G06F|G09G|H02J|H04L
+12094340,2024-09-17,"Control device, parking lot system, and location accuracy calculation method",0,B60W|G06T|G06V|G07B|G08G|H04W
+12093590,2024-09-17,Content display control apparatus and content display control method,0,B60K|G06F|G09G
+12089380,2024-09-10,Power conversion device,0,H01L|H02M|H05K
+12087103,2024-09-10,Electronic control unit and non-transitory computer readable medium storing session establishment program,0,G06F|G07C
+12083970,2024-09-10,"Vehicle master device, vehicle electronic control system, activation request instruction method and computer program product",0,B60R|G06F|H04L
+12079354,2024-09-03,Computing device and data transmission method,0,G06F
+12078508,2024-09-03,Method for generating map and map generation device,0,G01C|G06T|G08G|G09B
+12077146,2024-09-03,"Process allocation control method, process allocation control system, process allocation control device, and server device",0,B60L|B60R|B60W|G06F|G06N|G06Q|G08G|Y02D|Y02T
+12074778,2024-08-27,Bandwidth estimation device and bandwidth estimation method,0,H04L
+12074113,2024-08-27,Semiconductor device having electric component built in circuit board,0,H01L|H05K
+12074089,2024-08-27,Heat exchanger,0,B08B|F28D|F28F|F28G|H01L|H05K
+12073087,2024-08-27,Memory controller,0,G06F
+12069075,2024-08-20,Security monitoring system,0,G06F|H04L|H04W
+12067512,2024-08-20,"Information processing apparatus for lending and borrowing vehicles between areas, non-transitory computer readable medium, and information processing method",0,G06Q|G08G
+12067391,2024-08-20,"Master device, data distribution system, and non-transitory computer readable storage medium",0,B60R|G06F|H04W
+12065150,2024-08-20,Behavior recognition apparatus and behavior recognition method,0,B60W|G06T|G06V|G08G
+12065092,2024-08-20,Vehicle control apparatus and power source supply circuit,0,B60K|B60L|B60R|G06F|G07C|H02J
+12065087,2024-08-20,Vehicle device,0,B60K|B60R|G06F
+12062285,2024-08-13,"Control device, parking lot system, and positional accuracy calculation method",0,B60W|G06T|G06V|G07B|G08G|H04W
+12061897,2024-08-13,"Vehicle master device, non-rewrite target power supply administration method and computer program product",0,B60W|G06F|G07C|Y02D
+12061667,2024-08-13,Data processing method,0,F02D|G01M|G06F
+12057498,2024-08-06,Silicon carbide semiconductor device and method for manufacturing same,0,H01L|H10D
+12055711,2024-08-06,Virtual image display device,0,B60K|G02B|G03B|H04N
+12049179,2024-07-30,"Vehicle-interior monitoring system, vehicle-interior monitoring apparatus, and non-transitory computer-readable storage medium having vehicle-interior monitoring program stored thereon",0,B60H|B60L|B60R|G06V|G08B|H04W|Y02T
+12047206,2024-07-23,Differential transmission circuit,0,H03K|H04L
+12046806,2024-07-23,In-vehicle wireless system,0,B60R|H01Q|H04W
+12045599,2024-07-23,"Distribution package generation device, distribution package communication system, distribution package transmission method, and storage medium",0,B60R|B60W|G06F|G07C|H04L|H04W
+12045353,2024-07-23,System and method for enhancing vehicle occupant voice data privacy,0,G06F|G10L|H04L|H04R|H04W
+12045065,2024-07-23,Traveling control device,0,B60W|G05D|G08G|H04W|Y02T
+12041753,2024-07-16,Electronic device,0,H01L|H05K
+12041357,2024-07-16,In-vehicle camera,0,B60W|H04N
+12039870,2024-07-16,Operation management apparatus and operation management method of autonomous travel vehicle,0,G05D|G06Q|G08G
+12039056,2024-07-16,Securing software package composition information,0,G06F|H04L
+12036887,2024-07-16,Battery management system,0,B60L|G01R|H04W
+12034565,2024-07-09,Vehicle control system and circuit device,0,H04L
+12034438,2024-07-09,Signal detection circuit,0,H01L|H03K|Y02B
+12033922,2024-07-09,Semiconductor device and electronic device,0,H01L|H02M|H02P|H05K
+12032983,2024-07-09,Method of accessing device in virtual environment,0,G06F
+12030443,2024-07-09,"Vehicle electronic control system, distribution package download determination method and computer program product",0,B60R|B60W|G06F
+12027377,2024-07-02,Manufacturing method of semiconductor device,0,H01L|H10D
+12026986,2024-07-02,"Center device, identification result display system for vehicle state, non-transitory tangible computer readable storage medium, and identification result transmission method for vehicle state",0,B60K|B60W|G06F|G07C
+12026608,2024-07-02,Method for adjusting output level of multilayer neural network neuron,0,G06N|G11C
+12025640,2024-07-02,Current detection device,1,G01R|G06F|G06N|H02M|H02P
+12025464,2024-07-02,"Probe data evaluation apparatus, and storage medium storing probe data evaluation program product",0,G01C|G08G|G09B|H04W
+12025461,2024-07-02,"Display control device, display control method, and non-transitory tangible computer-readable medium therefor",0,B60K|G01C|G06T|G08G|G09G
+12022356,2024-06-25,System and method of determining real-time location,0,H04W
+12021651,2024-06-25,Information processing device,0,H04L
+12020343,2024-06-25,Vehicle device and vehicle device control method,0,B60K|B60W|G06T|G09G
+12019940,2024-06-25,Display control device and display control method,0,B60K|B60R|G06F|G09G
+12015006,2024-06-18,Semiconductor device and method of manufacturing the same,0,H01L
+12008676,2024-06-11,"Vehicle device, drawing requests using priority queues, and vehicle device control method",0,B60K|B60R|G06F|G06T|G09G
+12008284,2024-06-11,Information presentation control device,0,B60K|B60W|G06F|G09G|H04N
+12004333,2024-06-04,Power converter,0,H01L|H02M|H05K
+12002362,2024-06-04,Driving assistance device and non-transitory computer-readable storage medium,0,B60K|B60W|B60Y|G08G|H04W
+11999360,2024-06-04,"Vehicle master device, control method for executing rollback, computer program product for executing rollback and data structure of specification data",0,B60W|G06F|G07C
+11997571,2024-05-28,Vehicle wireless communication device,0,G06F|H04B|H04W|Y02D
+11997164,2024-05-28,Vehicle control system,0,B60R|H04L
+11997114,2024-05-28,Drive device and driving system,0,H04L
+11996344,2024-05-28,Semiconductor device,1,H01L
+11995761,2024-05-28,Methods and system for generating virtual sensor data of a virtual single-photon avalanche diode (SPAD) lidar sensor of a virtual vehicle simulator,0,G06T
+11993228,2024-05-28,Passive entry/passive start systems and methods for vehicles,0,B60R|B60W|G01S|G07C|H04W
+11991589,2024-05-21,System and method of determining real-time location,0,A44B|B60R|G07C|H04W
+11990954,2024-05-21,Wearable key device and electronic key system,0,A61B|B60R|E05B|G06F|G06V|G08B|H04B|H04N
+11990393,2024-05-21,Semiconductor device including resin with a filler for encapsulating bridge member connected to a substrate,0,H01L
+11990391,2024-05-21,Semiconductor device,0,H01L
+11989550,2024-05-21,Center device and in-vehicle electronic control device,0,B60W|G06F
+11989546,2024-05-21,"Vehicle electronic control system, vehicle master device, and rewrite instruction program product under specific mode",0,B60R|G06F
+11985583,2024-05-14,"Communication control apparatus, communication control method, and non-transitory storage medium with communicability information updating",0,H04W
+11979792,2024-05-07,Method for uploading probe data,2,B60W|G01C|G06F|G06V|H04W
+11979789,2024-05-07,System and method for establishing real-time location,0,G01S|G06F|G07C|H04B|H04L|H04W
+11977156,2024-05-07,Optical distance measuring device,0,G01S|G06T
+11976929,2024-05-07,Localization apparatus and method for vehicle,0,G01C|G01S|G06F|G06T|G06V
+11974398,2024-04-30,Electronic device,0,H01L|H05K|Y02P
+11973433,2024-04-30,Power conversion apparatus,0,H01L|H02M|H02P
+11973432,2024-04-30,Power conversion apparatus,1,H01L|H02M|H02P
+11971982,2024-04-30,Log analysis device,0,G06F
+11970174,2024-04-30,Travel route prediction device,0,B60W|G01C|G01S|G08G|H04W
+11970171,2024-04-30,"Road surface condition determination device for vehicle, driving assistance system, and road surface condition determination method",0,B60W|G06T|G08G
+11968478,2024-04-23,"Camera system, event recording system and event recording method",0,G06V|G07C|H04N
+11967564,2024-04-23,Method for manufacturing semiconductor device,0,H01L|H10D
+11966968,2024-04-23,"Information processing system for scheduling, dispatch, and return of rental articles",0,B60W|G06Q|G08G
+11963090,2024-04-16,"Communication control device, terminal device, communication control method, and control program",0,H04M|H04W
+11962879,2024-04-16,Imaging apparatus,0,H04N
+11961828,2024-04-16,Semiconductor device,0,H01L|H02P|H05K
+11961306,2024-04-16,Object detection device,0,G01S|G06F|G06T|G06V
+11961025,2024-04-16,"Automated driving vehicle, and method for controlling the vehicle",0,B60W|G01C|G06Q
+11960875,2024-04-16,"Vehicle master device, vehicle electronic control system, configuration setting information rewrite instruction method, and configuration setting information rewrite instruction program product",1,B60R|G06F|G07C
+11954918,2024-04-09,"Object detection device, object detection method, and storage medium",0,G01S|G06T|G06V|G08G
+11953898,2024-04-09,Vehicle remote operation system,1,B60K|B60W|B62D|G05D|G08C|H04B|H04W
+11951944,2024-04-09,Localization and passive entry/passive start systems and methods for vehicles,0,B60R|B60W|G01S|G07C|H04W
+11949143,2024-04-02,Communication device for vehicle,0,H01P|H01Q|H04W
+11947953,2024-04-02,"Vehicle electronic control system, progress screen display control method and computer program product",1,B60W|G06F|G09G
+11943298,2024-03-26,Vehicular communication device,1,B60R|H04J|H04L
+11942869,2024-03-26,Power module and electric power conversion device,0,H01L|H02M
+11941384,2024-03-26,"Vehicle master device, rewrite target group administration method, computer program product and data structure of specification data",0,B60R|G06F
+11938899,2024-03-26,"Antenna switching control for AOA capturing in phone-as-a-key systems with de-whitened tone transmission, CRC based validation and event timing",0,B60R|G01S|G06K|G07C|H01Q|H04L|H04W
+11938870,2024-03-26,Vehicle compound-eye camera,0,B60R|H04N
+11935341,2024-03-19,Data storage device and non-transitory tangible computer readable storage medium,0,G06F|G07C|H04L
+11934823,2024-03-19,"Electronic control system for vehicle, program update approval determination method and program update approval determination program",1,B60R|B60W|G06F
+11934733,2024-03-19,"Vehicle control device, vehicle display system, and vehicle display control method",0,B60K|B60R|G06F|G09G
+11929834,2024-03-12,"Redundant communication apparatus, method, and program",0,H04L
+11928871,2024-03-12,Vehicle position estimation device and traveling position estimation method,0,G06T|G06V|G08G
+11928576,2024-03-12,Artificial neural network circuit and method for switching trained weight in artificial neural network circuit,0,G06F|G06N
+11928459,2024-03-12,"Electronic control unit, retry point specifying method and computer program product for specifying retry point",1,B60W|G06F|H04L|H04W
+11926270,2024-03-12,"Display control device, rewrite progress display control method and computer program product",0,B60R|G06F
+11924721,2024-03-05,System and method for microlocation sensor communication,0,H04W
+11923262,2024-03-05,Electrical apparatus,0,H01L
+11922089,2024-03-05,"Vehicle controller, vehicle display system, and vehicle display control method using a single display processing unit for displaying link images",0,B60K|G06F|G06T|G09G|H04N
+11921853,2024-03-05,System for adaptive vehicle security and response,0,G06F
+11919511,2024-03-05,"Driving support control device for vehicle, driving support system, and driving support method",0,B60W|G06F|G06T|G06V|G08G
+11919461,2024-03-05,Vehicle device,0,B60R|G06F
+11916904,2024-02-27,Electronic control unit and communication system,0,G09C|H04L
+11915924,2024-02-27,Semiconductor device and method for manufacturing the same,0,B81B|B81C|G01P|H01L|H10D
+11915027,2024-02-27,Security and data logging of virtual machines,0,G06F|H04L
+11914396,2024-02-27,Operation management apparatus and operation management method of autonomous travel vehicle,0,G05D|G06Q|G07C
+11910280,2024-02-20,Methods and systems for transmitting basic safety messages,0,G01C|G01S|G06F|G08G|H04W
+11909755,2024-02-20,Log transmission controller,0,H04L|H04W
+11908778,2024-02-20,Semiconductor module,1,H01L
+11908119,2024-02-20,Abnormality detection device for vehicle,1,G01S|G06T|H04N
+11907698,2024-02-20,"Vehicle electronic control system, vehicle master device, method for controlling transmission of data storage bank information and computer program product for controlling transmission of data storage bank information",0,B60R|B60W|G06F|G07C|H04L|H04W
+11907697,2024-02-20,"Vehicle electronic control system, center device, vehicle master device, display control information transmission control method, display control information reception control method, display control information transmission control program, and display control information reception control program",1,B60K|G06F
+11906588,2024-02-20,Battery monitoring apparatus,0,B60L|G01R|H04W|Y02E|Y02T
+11905621,2024-02-20,"SiC single crystal, method of manufacturing SiC ingot, and method of manufacturing SiC wafer",0,C30B|H01L
+11904689,2024-02-20,Display device for vehicle,1,B60K|B60R|G06F|G09F
+11902471,2024-02-13,"Vehicle remote assistance system, remote assistance apparatus, remote assistance method, and remote assistance program",0,G05D|G06Q|G08B|H04M
+11901253,2024-02-13,Electronic device and method for manufacturing same,0,B23K|B29C|H01L
+11900092,2024-02-13,"Center device, distribution package generation method and distribution package generation program",2,B60R|B60W|G06F|G07C|H04L|H04W
+11897458,2024-02-13,Collision avoidance apparatus for vehicle,2,B60T|B60W|G06T|G06V|G08G
+11897422,2024-02-13,System and method for dynamic localization,0,B60R|G07C|H01Q|H04B|H04W
+11895247,2024-02-06,System and method for authenticating and authorizing devices,0,G06F|H04L|H04W
+11893897,2024-02-06,"Movement space information processing system, movement space information processing method, and communication device",0,G01C|G06V|G08G|H04W
+11893394,2024-02-06,Verifying a boot sequence through execution sequencing,0,G06F
+11892899,2024-02-06,Information processing apparatus,0,G06F
+11890949,2024-02-06,Communication system,0,B60L|G06F|H01M|Y02T
+11889380,2024-01-30,Method and system for establishing microlocation zones,0,G01S|H01Q|H04B|H04L|H04W
+11887905,2024-01-30,Semiconductor device,1,H01L
+11886857,2024-01-30,"Center device, specification data generation method and computer program product for generating specification data",0,B60R|B60W|G06F|G07C|H04L|H04W
+11886566,2024-01-30,Vehicle authentication system and in-vehicle device,0,B60R|E05B|G06F|G06Q|G07F|H04W
+11884283,2024-01-30,Vehicle device,0,B60W|G06F|G07C
+11882048,2024-01-23,"Relay device for relaying signal between communication line and client, relay method for the same and non-transitory computer readable storage medium for the same",0,H04B|H04L
+11881407,2024-01-23,Processed wafer and method of manufacturing chip formation wafer,0,H01L
+11876898,2024-01-16,"Vehicle master device, security access key management method, security access key management program and data structure of specification data",0,G06F|H04L
+11871293,2024-01-09,Communication terminal and computer program product for selecting base station to be connected,0,H04W
+11871141,2024-01-09,Image processing apparatus and image display system,0,B60R|G09G|H04N
+11870868,2024-01-09,Common storage management device and common storage management method,0,G06F|H04L
+11869248,2024-01-09,Object recognition device,0,G01S|G06T|G06V
+11868784,2024-01-09,Information processing apparatus and information processing method,0,G06F
+11866044,2024-01-09,Systems and methods to synchronize systems of a vehicle,0,B60W|G06V|H04L|H04W
+11863900,2024-01-02,Image generation apparatus and image display system for superimposition of three-dimensional objects into bird's view images,0,B60R|G06T|G06V|H04N
+11862477,2024-01-02,Method for manufacturing semiconductor device having gallium oxide-based semiconductor layer,0,H01L|H10D
+11856567,2023-12-26,Communication system,0,H04L|H04W|Y02D|Y02E
+11853103,2023-12-26,Vehicular device,1,B60K|B60R|G06F
+11849566,2023-12-19,"Joint structure, electronic device and method for manufacturing the joint structure",0,H01L|H05K
+11849329,2023-12-19,Vehicle authentication apparatus,1,B60R|E05B|H04Q|H04W
+11848325,2023-12-19,Load drive device,0,H01L|H03K|H10D
+11847374,2023-12-19,"Content presentation control device, presentation control method, and non-transitory computer-readable storage medium",0,B60K|G01C|G06F|G06T|G10L
+11841419,2023-12-12,Stationary and moving object recognition apparatus,0,B60W|G01S|G06T|G06V|G08G
+11840251,2023-12-12,Image processing device,0,B60W|G02B|G06T|G06V
+11836482,2023-12-05,"Center device, reprogramming data distribution system, and reprogramming data distribution plan creation program product",0,B60R|B60W|G01C|G06F|G08G|H04L
+11836476,2023-12-05,"Electronic control unit, software update method, software update program product and electronic control system",0,G06F
+11836475,2023-12-05,"Electronic control unit, software update method, software update program product and electronic control system",0,G06F
+11836056,2023-12-05,Vehicular apparatus,0,B60K|G02B|G06F|G09G
+11835361,2023-12-05,"Vehicle-side device, method and non-transitory computer-readable storage medium for autonomously driving vehicle",0,G01C|G05D|G08G|H04W
+11834060,2023-12-05,System and method for managing vehicle subscriptions,0,B60W|G01C|H04W
+11834039,2023-12-05,"Falling object determination device, driving support system, and falling object determination method",0,B60W|G01S|G06T|G06V|G08G
+11831471,2023-11-28,Differential communication circuit,0,H04B|H04L
+11830409,2023-11-28,Peripheral image display device,0,B60K|G06T|G07C|G09G
+11822366,2023-11-21,"Electronic control unit, vehicle electronic control system, rewrite execution method, rewrite execution program, and data structure of specification data",1,B60R|G06F
+11820383,2023-11-21,Apparatus detecting driving incapability state of driver,0,B60K|B60R|B60W|G06T|G06V|G08B|G08G|H04N
+11817429,2023-11-14,Plurality of chips between two heat sinks,0,B60L|H01L|H02P|Y02T
+11816009,2023-11-14,Communication system,0,B60R|G06F|H04B|H04L
+11812141,2023-11-07,Controller for in-vehicle camera,0,H04N
+11811553,2023-11-07,Vehicle relay device,0,B60R|H04L|H04W
+11810821,2023-11-07,Semiconductor chip and method for manufacturing the same,0,B23K|H01L|H10D
+11810783,2023-11-07,Gallium nitride semiconductor device and method for manufacturing the same,0,H01L|H10D|H10H
+11810369,2023-11-07,Self-position estimation device,0,B60W|G01C|G01S|G06T|G06V|G09B
+11809768,2023-11-07,"Display control apparatus, display apparatus, display control system, and storage medium",0,B60K|B60R|G06F|G09G|H04N
+11808595,2023-11-07,"Communication control device, communication control method, and non-transitory storage medium",0,G01C|H04W
+11805628,2023-10-31,Power conversion device,0,H01L|H02M|H05K
+11804879,2023-10-31,Terminal apparatus and communication method for terminal apparatus,0,H04B|H04W
+11804423,2023-10-31,Semiconductor device,0,H01L|H10D
+11802772,2023-10-31,"Error estimation device, error estimation method, and error estimation program",0,G01C|G01S|H04N
+11802770,2023-10-31,Vehicle position identification device and vehicle position identification method,0,G01C|G06T|G06V
+11791156,2023-10-17,Method for manufacturing semiconductor device having gallium-based compound semiconductor layer,0,H01L
+11784244,2023-10-10,Method for manufacturing semiconductor device having JFET,0,H01L|H10D
+11784039,2023-10-10,Method for manufacturing gallium nitride semiconductor device,0,H01L|H10D
+11781244,2023-10-10,Seed crystal for single crystal 4H—SiC growth and method for processing the same,0,B24B|C30B|H01L
+11780382,2023-10-10,Vehicle mountable camera,0,B60R|B60W|G06V|H04N
+11776334,2023-10-03,Passive entry/passive start access systems including round trip time sniffing,0,B60R|G01S|G07C|H01Q|H04B|H04W
+11770690,2023-09-26,"Center device, data communication system, and data communication program product",0,G06F|G07C|H04M|H04W|Y02D
+11769801,2023-09-26,Silicon carbide semiconductor device with cell section and outer periphery section,0,H01L|H10D
+11769102,2023-09-26,"Server, information processing system, and information processing method",0,G06Q
+11769089,2023-09-26,"Operation management apparatus of vehicle, operation management method, and transportation system",0,G06Q|G08G
+11768553,2023-09-26,Input device for vehicle,0,B60K|B60R|G06F|H03K
+11763569,2023-09-19,System for controlling a camera supporting human review of sensor information,0,G06F|G06V|H04N
+11760359,2023-09-19,"State determination device, state determination program, and computer-readable non-transitory tangible storage medium",0,B60W|G06F|G06V
+11757799,2023-09-12,Line monitor device and network switch,0,H04L
+11757745,2023-09-12,"Gateway apparatus, abnormality monitoring method, and storage medium",0,H04L
+11757009,2023-09-12,Semiconductor device and method for manufacturing the same,0,H01L|H10D
+11755059,2023-09-12,System for setting an operating clock of a CPU of a vehicular device,0,B60R|G06F|Y02D
+11752960,2023-09-12,Vehicle control apparatus and power source supply circuit,0,B60K|B60L|B60R|G06F|G07C|H02J
+11751259,2023-09-05,Communication method in vehicle system and communication management method in in-vehicle network,0,G06F|H04L|H04W
+11750768,2023-09-05,Display control apparatus,0,B60R|G06T|G06V|H04N
+11749731,2023-09-05,Semiconductor device,0,H01L|H10D
+11749620,2023-09-05,Semiconductor module,0,H01L|H10D
+11743719,2023-08-29,System and method for authenticating an occupant of a vehicle,1,G06F|G06V|G10L|H04L|H04W
+11742256,2023-08-29,Semiconductor device,0,H01L
+11741122,2023-08-29,"Vehicle data management device, vehicle data management system, and method of managing vehicle data",0,G06F|H04L|H04W
+11740937,2023-08-29,"Parallel process apparatus, parallel process system, and parallel processing method for parallelizing multiple processes in accordance with multiple process requests",0,B60R|G06F|H04L
+11736947,2023-08-22,"SIM router device, communication terminal device, method of routing, and method of manufacturing SIM",1,H04M|H04W
+11736929,2023-08-22,"Vehicle system, in-vehicle device, and terminal locating method",0,B60R|E05B|G01S|H04B|H04W
+11736830,2023-08-22,Solid-state imaging element,1,H04N
+11736380,2023-08-22,"Switch or relay device for a ring network, the switch configured to detect and correct duplication of switch identifications",1,H04L
+11735654,2023-08-22,Silicon carbide semiconductor device and manufacturing method of silicon carbide semiconductor device,0,H01L|H10D
+11734918,2023-08-22,"Object identification apparatus, moving body system, object identification method, object identification model learning method, and object identification model learning apparatus",1,G06N|G06T|G06V|G08G|H04N
+11733992,2023-08-22,Center device,0,B60R|B60W|G06F|G07C|H04L|H04W
+11731660,2023-08-22,Automatic running vehicle and operation management device for automatic running vehicle,0,B60W|G05D|G06Q|G06V|G08G
+11731647,2023-08-22,"Road shape recognizer, autonomous drive system and method of recognizing road shape",0,B60W|G06T|G06V
+11729017,2023-08-15,Load drive system,1,G06F|H04L
+11727804,2023-08-15,Method and program product for determining whether there is problem in recognition of marker,0,B60W|B62D|G06T|G06V|G08G|H04W|H05B
+11727802,2023-08-15,"Transportation system, service management device, and service management method",1,G06Q|G07B|G07C|G08G
+11727308,2023-08-15,Learning system and method,0,G06N
+11716778,2023-08-01,System and method of determining real-time location,0,G01S|H04W
+11716525,2023-08-01,Vehicle windshield camera module,0,B60R|B60W|G02B|G03B|G05D|H04N
+11715021,2023-08-01,Variable embedding method and processing system,0,G06N
+11713039,2023-08-01,Driving support system and method,0,B60W|G06V|G08G|H04L|H04W
+11711387,2023-07-25,"Security management device, security management method, and computer program executed by security management device",0,H04L|H04W
+11710786,2023-07-25,Semiconductor device,0,H01L|H10D
+11710734,2023-07-25,Cascode-connected JFET-MOSFET semiconductor device,1,H01L|H03K|H10D
+11710709,2023-07-25,Terminal member made of plurality of metal layers between two heat sinks,0,B23K|C22C|H01L|H02M|H02P|H10D
+11710294,2023-07-25,Apparatus for estimating road parameter,1,G06N|G06V
+11710059,2023-07-25,Ising solver system,0,G06N|G06Q|G08G
+11709666,2023-07-25,"Electronic control system for vehicle, program update approval determination method and program update approval determination program",3,B60W|G06F
+11705739,2023-07-18,Communication system,0,G08C|H01M|H01Q|H02J|H04Q|H04W|Y02E
+11704911,2023-07-18,Apparatus and method for identifying obstacle around vehicle,0,G06F|G06V
+11699672,2023-07-11,Semiconductor device and method for manufacturing same,0,G01L|H01L|H10D
+11699600,2023-07-11,Wafer processing apparatus and method for processing wafer,0,C23C|H01L
+11698735,2023-07-11,Common storage management device and common storage management method,0,G06F
+11694489,2023-07-04,"Message monitoring system, message transmission electronic control unit, and monitoring electronic control unit",0,G07C|H04L|H04W
+11693645,2023-07-04,Vehicle information communication system,3,B60R|B60W|G06F|G07C|H04L|H04W
+11685405,2023-06-27,"Vehicle controller, method, and computer program for vehicle trajectory planning and control based on other vehicle behavior",1,B60W|G06F|G06V
+11685359,2023-06-27,Vehicle device,1,B60R|B60W|G06F|H04L
+11685312,2023-06-27,"Display control device, display device, and display control program product for superimposing an emphasized image item",0,B60R|B62D|G06T|G08G|H04N
+11685285,2023-06-27,"Replacement fee setting apparatus, method and system",0,B60L|G06Q|Y02T|Y04S
+11685087,2023-06-27,"Conductive member module, and production method therefor",0,B29C|B29L|H01L|H01R|H02M
+11683663,2023-06-20,System and method for automated data collection and anchor location evaluation,0,G01S|G07C|H04W
+11683197,2023-06-20,"Vehicle master device, update data distribution control method, computer program product and data structure of specification data",0,B60W|H04L|H04W
+11678041,2023-06-13,Camera module,0,B60R|B60W|G02B|G03B|G05D|H04N
+11676489,2023-06-13,Operation management apparatus and operation management method of autonomous travel vehicle,0,G05D|G06Q|G08G
+11671560,2023-06-06,In-vehicle camera and vehicle control system,0,B60R|G03B|G06T|H04N
+11671498,2023-06-06,"Vehicle master device, update data verification method and computer program product",1,G06F|G07C|H04L
+11671257,2023-06-06,Mobility data storage method and system,0,G06F|H04L
+11669323,2023-06-06,"Vehicle electronic control system, program update notification control method and computer program product",6,B60W|G06F
+11665030,2023-05-30,Relay device,0,H04L
+11662469,2023-05-30,System and method for merging clusters,0,G01S|G06F|G06T|G06V
+11662217,2023-05-30,Predictive cleanliness function for vehicle-sharing fleet,0,G01C|G06Q|G07B|G07C
+11658174,2023-05-23,Semiconductor device with multiple metal-insulator-metal capacitors and method for manufacturing the same,0,H01L|H10D
+11656771,2023-05-23,"Electronic control unit, vehicle electronic control system, activation execution control method and computer program product",0,B60R|B60W|G06F
+11654828,2023-05-23,Alert output apparatus,0,B60Q|B60R|G06N|G07C|G08G
+11653481,2023-05-16,Electric power conversion device,1,H01L|H02M|H02P|H05K
+11652013,2023-05-16,Sensor device with diagnosis unit for self-diagnosing presence or absence of a failure,0,G01R|H01L
+11646245,2023-05-09,Waterproof casing with a sealing grommet in a casting hole,0,H01L
+11646208,2023-05-09,Method for manufacturing semiconductor device,0,H01L
+11645089,2023-05-09,Network system,0,G06F|H04L|Y02D
+11644306,2023-05-09,Road surface state determination apparatus,0,B60C|B60T|B60W|G01B|G01P|H04W
+11640358,2023-05-02,Vehicular device and control method for vehicular device,0,B60K|B60R|G06F|G09G
+11639853,2023-05-02,Self-localization estimation device,2,B60W|G01C|G01S|G06T|G06V
+11636630,2023-04-25,Vehicle display control device and vehicle display control method for displaying predicted wheel locus,0,B60R|G06F|G06T
+11635795,2023-04-25,Power supply system and power supplying method for detecting a short circuit in the feedback,0,G01R|G06F|H02H|H02M
+11634170,2023-04-25,Electric power-steering control device and electronic unit,0,B60H|B60R|B62D|H01L|H05K
+11628846,2023-04-18,UWB based in-vehicle location and identity verification and behavior scoring via mobile access devices of vehicular passive access systems,0,B60W|G06K|G06Q|G06V|G07C|H04W
+11627656,2023-04-11,Slitted PCB for omni-directional like performance of off-center mounted antennas of passive access systems,0,B60R|H01Q|H04B|H04W|H05K
+11627446,2023-04-11,Inter-vehicle communication system and vehicle communication device,0,G08G|H04W
+11627023,2023-04-11,Signal transmission apparatus,0,H03K|H04L
+11626338,2023-04-11,Sensor device with diagnosis unit for self-diagnosing presence or absence of a failure,0,G01R|H01L
+11625927,2023-04-11,Abnormality determination apparatus,2,A61B|B60R|B60W|G06T|G06V|G08B|G08G
+11625561,2023-04-11,"Inference device, inference method, and non-transitory tangible computer-readable medium",1,G06F|G06N|G06V
+11625049,2023-04-11,Plurality of vehicles performing platoon travelling and control apparatus for controlling the same,0,G05D|G08G|H04W
+11623376,2023-04-11,"Conductive member module, and method of manufacturing the same",0,B29C|B29L|H01B|H01L|H01R|H02G|H02M
+11618378,2023-04-04,Methods and systems for guiding an operator of a vehicle during a vehicle-sharing session,0,B60K|B60Q|G06F|G06Q|G08B
+11615995,2023-03-28,Sensor device with diagnosis unit for self-diagnosing presence or absence of a failure,0,G01R|H01L
+11615632,2023-03-28,Abnormality detection device and abnormality detection program,1,B60K|B60W|G06T|G06V|G08G
+11614930,2023-03-28,"Center device, vehicle electronic control system, program update progress control method, and program update progress control program",0,G06F|G07C|H04W
+11606790,2023-03-14,Communication system,1,H04L|H04W|Y02D|Y02E
+11604637,2023-03-14,"Electronic control unit, vehicle electronic control system, difference data consistency determination method and computer program product",1,B60W|G06F
+11599745,2023-03-07,System and method for generating synthetic training data,0,G01S|G06F|G06N|G06T|G06V
+11597350,2023-03-07,Passive entry/passive start systems and methods for vehicles,0,B60R|B60W|G01S|G07C|H04W
+11597338,2023-03-07,Vehicle control apparatus and vehicle display system,0,B60K|B60R|G05B|G06F|G09G
+11588042,2023-02-21,Semiconductor device,0,H01L|H10D
+11587921,2023-02-21,Semiconductor device,1,B60L|H01L|H02M|H02P|Y02T
+11586888,2023-02-21,Convolutional neural network,0,G06F|G06N
+11582112,2023-02-14,Electronic control unit and electronic control system,1,B60R|H04L
+11582062,2023-02-14,Relay device,0,H04B|H04L
+11579865,2023-02-14,Vehicle information communication system,2,G06F|H04L|H04W
+11578972,2023-02-14,Tire-side device and tire apparatus including the same,0,B60C|B60W|G01B|G01P|G06F
+11577724,2023-02-14,Driving assistance apparatus,0,B60W|G05D|G06T|G06V
+11572038,2023-02-07,Localization and passive entry/passive start systems and methods for vehicles,0,B60R|B60W|G01S|G07C|H04W
+11567749,2023-01-31,"Vehicle electronic control system, data relay device, campaign information delivery control method, and campaign information delivery control program",0,B60K|G06F
+11562944,2023-01-24,Power conversion device and manufacturing method thereof,0,H01L|H05K
+11562215,2023-01-24,Artificial neural network circuit,0,G06N|G06V|Y02D
+11561408,2023-01-24,State detection device,0,G01S|G02B|G03B|H04N
+11561260,2023-01-24,"Used secondary battery module management system server, used secondary battery module management system external terminal, and used secondary battery module management system",0,G01R|G06Q|H01M|Y02W
+11560172,2023-01-24,Motor control device,0,B62D|G06F|H02P|H04L|Y02T|Y10S
+11558219,2023-01-17,Relay device,0,H04L
+11557563,2023-01-17,"Sinter sheet, semiconductor device and manufacturing method thereof",0,H01L
+11549809,2023-01-10,Road surface state determination device and tire system,1,B60C|B60T|G01B|G06N|G07C
+11548517,2023-01-10,Activating vehicle functions based on vehicle occupant location,3,B60H|B60N|B60R|B60W|G07C|H04L|H04W
+11546921,2023-01-03,Wireless communication apparatus and server apparatus,0,G08G|H04B|H04L|H04W
+11546523,2023-01-03,"Image processing system, in-vehicle camera system with image processing system, and vehicle with camera system",0,B60R|G06T|H04N
+11545419,2023-01-03,Semiconductor package having an additional material with a comparative tracking index (CTI) higher than that of encapsulant resin material formed between two terminals,0,H01L|H02M|H10D
+11542631,2023-01-03,Method for producing p-type 4H-SiC single crystal,0,C30B|H01B|H01L
+11538935,2022-12-27,Silicon carbide semiconductor device,0,H01L|H10D
+11538794,2022-12-27,Power converter with an upper arm and a lower arm and at least first and second semiconductor devices connected by a bridging member,2,H01L|H02M|H10D
+11538733,2022-12-27,Electronic device,0,C22C|H01L
+11538331,2022-12-27,UWB and BLE based incident reporting and preventing system implemented using mobile access devices,2,G08B|H04W
+11537897,2022-12-27,"Artificial neural network circuit training method, training program, and training device",0,G06N|G11C
+11534791,2022-12-27,"Mist generator, film formation apparatus, and method of forming film using the film formation apparatus",0,B05B|H01L
+11533684,2022-12-20,Relay device,0,H04L|H04W|Y02D
+11533668,2022-12-20,Mobile station and cell-switching control method for the same,0,G01C|H04W
+11532534,2022-12-20,Semiconductor module,0,H01L
+11531351,2022-12-20,"Light receiving element array, light detection apparatus, driving support system, and automated driving system",0,G01S|G05D|H04N|H10F
+11531222,2022-12-20,Display device and method for manufacturing display device,0,G02F|G06F|G09F|H04M
+11528163,2022-12-13,Communication system,0,H04L|Y02D
+11525888,2022-12-13,Self-diagnosis device,1,G01S|H01Q|H04L
+11524699,2022-12-13,Operation management device for automatic running vehicle and automatic running vehicle,0,B60W|G05D|G06Q|G06V|G08G
+11522990,2022-12-06,In-vehicle handsfree apparatus and data transfer method,1,H04M|H04W
+11520353,2022-12-06,Station and in-vehicle device,1,G05D|H04W
+11520328,2022-12-06,Mobile terminal and remote operation method,1,B60R|B60W|B62D|G05D|G06T|G06V|H04M|H04N|H04Q
+11517982,2022-12-06,Electronic device and method for manufacturing the same,0,B23K|H01L
+11515146,2022-11-29,Method of forming gallium oxide film,0,H01L
+11513916,2022-11-29,"History management method, history management apparatus and history management system",0,G06F|G08G|H04L|H04W
+11513236,2022-11-29,Positioning device,0,G01C|G01S|H04W
+11511703,2022-11-29,Driver personalization for vehicle-sharing fleet,1,B60H|B60R|H04W
+11509234,2022-11-22,Power conversion apparatus,0,H01L|H02M|H02P
+11508836,2022-11-22,Semiconductor device including trench gate structure with specific volume ratio of gate electrodes,0,H01L|H10D
+11501971,2022-11-15,Manufacturing method of silicon carbide semiconductor device and silicon carbide semiconductor device,0,H01L|H10D
+11501540,2022-11-15,"Imaging system and object identifying apparatus to be mounted in vehicle, and object identifying method to be employed by vehicle",0,B60R|G06T|G06V
+11501364,2022-11-15,"Information processing apparatus, information processing system, information processing method, and vehicle",0,G06Q
+11501228,2022-11-15,System and method for crowdsourced in-seat delivery of stadium concessions,0,B60R|G06Q|H04W
+11501146,2022-11-15,Convolutional neural network,0,G06N|G06T
+11498571,2022-11-15,Road surface state estimation device,0,B60C|B60T|B60W|H04W|Y02D
+11498520,2022-11-15,"Antenna switching control for AOA capturing in phone-as-a-key systems with de-whitened tone transmission, CRC based validation and event timing",0,B60R|G01S|G06K|G07C|H01Q|H04L|H04W
+11496506,2022-11-08,Program generation method and electronic control unit for changing importance of functions based on detected operation state in a vehicle,1,G06F|H04L
+11495509,2022-11-08,Semiconductor device and method for manufacturing semiconductor device,0,H01L|H02P|H10D
+11494707,2022-11-08,System and method of determining real-time location,0,G06Q|H04W
+11494685,2022-11-08,"Learning system, in-vehicle device, and server",1,G06N|G06V
+11494221,2022-11-08,Hardware control core controlling operation of hardware devices by executing device drivers within the hardware control core used by virtual machine cores via shared memory having an uplink and downlink memory,1,G06F
+11493588,2022-11-08,System and method for determining angle of arrival for communications,2,G01S|H03D|H04L
+11491953,2022-11-08,Mobile device and electronic key system for wireless communication with vehicle device,0,B60R|E05B|H02J|H04W
+11489571,2022-11-01,Communication system,1,H04B|H04W
+11489457,2022-11-01,Semiconductor module and power converter using the same,0,H01L|H02M|H10D
+11488895,2022-11-01,Semiconductor device and maunfacturing method of semiconductor device,0,H01L
+11487992,2022-11-01,Neural network circuit,0,G06F|G06N|G11C|H03F
+11485877,2022-11-01,"Structure body, sensor, and method for producing structure body",0,B05D|B32B|C08G|C09D|C23C|G01N|H01L
+11485326,2022-11-01,Device for cleaning in-vehicle sensor,0,B60S|F04B|G02B|G03B|H04N
+11485318,2022-11-01,Queuing control for messages with de-whitened tones transmitted in phone-as-a-key systems,0,B60R|H04W
+11485287,2022-11-01,Electronic mirror system,0,B60R|H01H|H04N
+11483250,2022-10-25,System and method for processing messages sent using different transmission protocols,0,H04L|H04W
+11482003,2022-10-25,Installation position information providing apparatus and installation position information providing method,0,G01S|G06F|G06T|G06V
+11476360,2022-10-18,Semiconductor device and method for manufacturing the same,0,H01L|H10D
+11476355,2022-10-18,Semiconductor device,0,H01L|H10D
+11476187,2022-10-18,Semiconductor device having capacitor on substrate,0,H01L|H10D
+11475679,2022-10-18,Road map generation system and road map generation method,0,G01C|G06T|G06V|G09B
+11475272,2022-10-18,Neural network circuit,0,G06F|G06N|G11C|H03F
+11474889,2022-10-18,Log transmission controller,1,G06F
+11474737,2022-10-18,Vehicle data recording device,0,G06F
+11474349,2022-10-18,Head-up display device,0,B60K|G02B|G03B|H04N
+11470451,2022-10-11,System and method for automated data collection and anchor location evaluation,0,G01S|G07C|H04W
+11469930,2022-10-11,Vehicle control apparatus,0,B60R|E05B|G07C|H04B|H04L|H04Q
+11467821,2022-10-11,"Vehicle master device, installation instruction determination method and computer program product",0,B60R|G06F
+11467588,2022-10-11,Systems and methods for controlling an autonomous vehicle using target orientated artificial intelligence,0,G05D|G06N|G08G
+11467281,2022-10-11,Object detection device,1,B60R|G01B|G01S|G01V|G06F|G06T|G06V|G08G
+11465559,2022-10-11,Display processing device and display control device,0,B60R|G06T|G08G|H04N
+11463373,2022-10-04,"In-vehicle communication system, relay device, and communication method",0,B60R|H04L
+11461719,2022-10-04,Operation management apparatus and operation management method of autonomous travel vehicle,0,G06Q
+11460508,2022-10-04,Identifier assignment method and system,0,G01R|G07C|H04W
+11458957,2022-10-04,Vehicle surrounding display apparatus,0,B60K|B60R|B60W|B62D|G06F|H04N
+11458928,2022-10-04,Vehicle control apparatus,0,B60R|E05B|G07C|H04B|H04Q|H04W
+11458892,2022-10-04,Image generation device and image generation method for generating a composite image,0,B60R|G06T|H04N
+11457181,2022-09-27,Vehicle maneuver assist with environment-fixed overhead composite image,0,B60R|G06T|H04N
+11457000,2022-09-27,"Information intermediating apparatus, information providing apparatus, and information acquiring apparatus",0,H04L|H04W
+11456874,2022-09-27,Vehicle control system for cybersecurity and financial transactions,1,B60W|G06F|G06Q|H04L
+11456238,2022-09-27,Semiconductor device including a semiconductor chip connected with a plurality of main terminals,2,H01L
+11451765,2022-09-20,System and method for determining when a sensor is polluted,1,G01S|H04N
+11450647,2022-09-20,Semiconductor module and semiconductor device including the same,0,H01L|H02P
+11447099,2022-09-20,Multiplexed antenna circuit network for ultra-high frequency low energy based phone as a key access to a vehicle,1,B60R|H04W
+11444891,2022-09-13,"Electronic control unit, abnormality determination program, and abnormality determination method",0,H04L
+11444047,2022-09-13,Semiconductor device,0,H01L
+11443944,2022-09-13,"Method of growing semiconductor layers, method of manufacturing semiconductor device, and method of growing balk crystal",0,H01L
+11443456,2022-09-13,Data compression method and device,0,G06T|G16Y|H04L|H04N
+11443247,2022-09-13,Vehicle prioritization for vehicle-sharing fleet,0,G01C|G06N|G06Q|G07C|H04W
+11441335,2022-09-13,Vehicular portable device,0,E05B|G06F|G07C|H01H|H03K|H05K
+11437305,2022-09-06,Semiconductor module,0,H01L|H02M
+11436845,2022-09-06,"Occupant detection apparatus, occupant detection system, and occupant detection method",0,B60H|B60N|B60R|G06V|H04W
+11434846,2022-09-06,Engine control device,0,F02D|G06F
+11431474,2022-08-30,Verification terminal and verification system,0,H04L
+11430717,2022-08-30,Semiconductor device,0,H01L
+11427187,2022-08-30,Automatic valet parking system and storage medium,0,B60W|B62D|G06F|G06Q|G08G
+11425846,2022-08-23,Electric power source device,0,H01F|H01L|H02M|H05K
+11425679,2022-08-23,"Terminal position estimation system, terminal position estimation apparatus, terminal position estimation method, and computer-readable non-transitory tangible storage medium storing control program",0,B60R|E05B|G01S|H04B|H04W
+11425337,2022-08-23,"Camera system, event recording system and event recording method",2,G06V|G07C|H04N
+11424957,2022-08-23,Relay device,0,H04B|H04L
+11424322,2022-08-23,Semiconductor device and method of manufacturing the same,0,H01L|H10D
+11423294,2022-08-23,Neural network circuit,0,G06N|G11C|H03M|H10N
+11422241,2022-08-23,Photodetector and distance measurement apparatus comprising plural single photon avalanche diodes with different recovery time periods,0,G01S|H04N|H10F
+11418911,2022-08-16,System and method of determining real-time location,0,H04W
+11418722,2022-08-16,"Exposure control device, exposure control method, and storage medium",0,H04N
+11417115,2022-08-16,Obstacle recognition device,0,G06T|G06V
+11411130,2022-08-09,Photodetector,1,G01T|H04N|H10F
+11410332,2022-08-09,"Map system, method and non-transitory computer-readable storage medium for autonomously navigating vehicle",0,B60Q|G01C|G06T|G06V|G08G|G09B
+11410274,2022-08-09,Information processing device and program,0,B60R|G06T|H04N
+11410095,2022-08-09,"Server, system, and information processing method for deciding a dispatch schedule of a vehicle loaded with equipment to be used in a health checkup",0,G06Q|H04L|H04W
+11409761,2022-08-09,"Vehicle data management device, vehicle data management system, and method of managing vehicle data",0,G06F|H04L|H04W
+11408741,2022-08-09,Self-localization estimation device,3,B60W|G01C|G01S|G06T|G06V
+11407390,2022-08-09,Vehicle control apparatus and vehicle control method,0,B60Q|B60T|G01S|G06T|G06V|G08G
+11403518,2022-08-02,Neural network circuit,0,G06N|H03M
+11400957,2022-08-02,Control device and control method of vehicle environment data transmission,0,B60W|G08G|H04W
+11398418,2022-07-26,Semiconductor module,0,H01L|H10D
+11397817,2022-07-26,Binary patch reconciliation and instrumentation system,0,G06F
+11395113,2022-07-19,System and method for microlocation sensor communication,3,H04W
+11394952,2022-07-19,Imaging device and vehicular display device,0,B60K|B60R|B60W|G02B|G03B|H04N
+11394926,2022-07-19,Periphery monitoring apparatus,1,B60R|G06V|G08G|H04N
+11393902,2022-07-19,Semiconductor device,0,H01L|H10D
+11393739,2022-07-19,Heat dissipation device for electronic component,0,H01L|H05K
+11393264,2022-07-19,Apparatus and system for utilizing a mobile device in a vehicle for notifications,1,B60R|G06Q|G07C|G08G|H04W
+11393221,2022-07-19,Location estimation apparatus and location estimation system,0,G06T|G06V|H04W
+11393220,2022-07-19,Obstacle identification apparatus and obstacle identification program,0,G06T|G06V
+11392722,2022-07-19,"Electronic control device, program falsification detection method, and computer readable non- transitory tangible storage medium",0,G06F|G09C|H04L
+11392305,2022-07-19,Vehicle information communication system,0,B60R|B60W|G06F|G07C|G11C|H04L|H04W
+11390251,2022-07-19,Mobile device and authentication system,0,B60R|E05B|G01P|G07C|H04B|H04W|Y02D
+11388556,2022-07-12,Position determination system,1,E05B|G01S|G06V|H04M|H04W
+11388133,2022-07-12,Network switch,0,H04L
+11387326,2022-07-12,Silicon carbide semiconductor device and method for manufacturing the same,0,H01L|H10D
+11386678,2022-07-12,Driver authentication for vehicle-sharing fleet,1,B60R|G06F|G06Q|G06V
+11385717,2022-07-12,Vehicle input device with uniform tactile feedback,0,B06B|B60K|G06F|H01H
+11383663,2022-07-12,"Vehicle control method, vehicle control system, vehicle control device, passenger watching-over method, passenger watching-over system, and passenger watching-over device",1,B60R|B60W|G06Q|G08B|G08G
+11380656,2022-07-05,Semiconductor device,2,H01L|H02P
+11380206,2022-07-05,Methods and systems for transmitting basic safety messages,0,B60W|B62D|G06V|G08G|H04W
+11379386,2022-07-05,Mobile de-whitening,0,B60R|G06F|G07C|H04L|Y02D
+11377056,2022-07-05,In-vehicle system,0,B60R|G06F
+11374942,2022-06-28,Verification terminal,0,G06F|H04L|H04W
+11374747,2022-06-28,Vehicular system for processing encryption key and electronic control device,1,H04L
+11373917,2022-06-28,Sensor device with diagnosis unit for for self-diagnosing presence or absence of a failure,1,G01R|H01L
+11373864,2022-06-28,"Method of forming oxide film, method of manufacturing semiconductor device, and apparatus configured to form oxide film",0,C30B|H01L
+11373528,2022-06-28,Parking management system and parking management method,1,B60W|G01C|G06Q|G08G
+11372611,2022-06-28,Vehicular display control system and non-transitory computer readable medium storing vehicular display control program,1,B60K|B60R|G06F|G09G
+11371740,2022-06-28,"Warm sensation calculation apparatus, warm sensation calculation method, air conditioner, and program",0,A61B|F24F|G01D|G05B|G06F
+11371161,2022-06-28,"Method of forming oxide film, method of manufacturing semiconductor device, and film forming apparatus configured to form oxide film",0,C30B|H01L
+11367668,2022-06-21,Electronic device and method for manufacturing same,0,B23K|B29C|H01L
+11367417,2022-06-21,Display control device and non-transitory tangible computer-readable medium therefor,2,B60K|B60R|G01C|G06F|G09G
+11367168,2022-06-21,Image processing apparatus and method,1,G06T|G06V
+11362012,2022-06-14,Semiconductor device,1,H01L|H10D
+11361555,2022-06-14,"Road environment monitoring device, road environment monitoring system, and road environment monitoring program",0,G06T|G06V
+11355589,2022-06-07,Semiconductor device,0,H01L|H10D
+11355357,2022-06-07,Semiconductor device and method for producing the semiconductor device,1,H01L
+11353538,2022-06-07,Circular polarized quadrifilar helix antennas electronics,1,B60R|G01S|G07C|H01Q|H04B|H04W
+11348844,2022-05-31,Semiconductor wafer including silicon carbide wafer and method for manufacturing silicon carbide semiconductor device,1,C30B|G03F|H01L|H10D
+11348495,2022-05-31,Image display system for vehicle,1,B60K|B60R|G02B|G06F|G09G
+11348462,2022-05-31,Collision prediction apparatus,0,B60W|G01S|G05D|G06F|G06V|G08G
+11341111,2022-05-24,Data processor and data processing method,0,G06F
+11336484,2022-05-17,Relay device,0,H04B|H04L
+11335628,2022-05-17,"Semiconductor package, semiconductor device and semiconductor package manufacturing method",0,H01L
+11333709,2022-05-17,Battery monitoring apparatus,2,B60L|G01R|H04W|Y02E|Y02T
+11330431,2022-05-10,Targeted advertising with privacy and anti-replay protection,1,H04L|H04W
+11328464,2022-05-10,Vehicular display apparatus,0,B60K|G01D|G06T
+11327904,2022-05-10,Systems and methods for securing protected items in memory,0,G06F
+11322584,2022-05-03,Semiconductor device and manufacturing method for same,0,H01L|H10D
+11320660,2022-05-03,Vehicle display device and display control device,0,B60K|B60R|G01D|G02B|G06T|G09G
+11320513,2022-05-03,Portable device position estimation system,1,B60R|G01S|H04W|Y02D
+11316440,2022-04-26,Power conversion apparatus,1,H01G|H01L|H02M|H02P|H05K
+11314549,2022-04-26,Parallel process apparatus and parallel process program product product for parallelizing multiple processes in accordance with multiple process requests,0,B60R|G06F|H04L
+11308341,2022-04-19,"Verification method, verification device, and non-transitory tangible storage medium",0,G06F|G06T|G06V|H04N
+11301949,2022-04-12,Integrated transportation services for vehicle-sharing fleet,0,B62K|G01C|G06F|G06Q
+11301785,2022-04-12,Operating system for vehicle-sharing service,0,B60L|G06Q|Y02T
+11301695,2022-04-12,Orientation detection device and non-transitory computer readable medium,0,B60Q|G01B|G01C|G06F|G06T|G06V|G09G|H04N
+11299149,2022-04-12,Considerate driving system,1,B60W|G05D|G08G|H04W
+11297007,2022-04-05,Relay apparatus,0,H04L
+11296594,2022-04-05,Failure prediction system,1,G01R|G06N|H02M
+11296241,2022-04-05,Light detector having monitoring single photon avalanche diode (SPAD),0,G01S|H03F|H04N|H10F
+11293990,2022-04-05,Sensor unit,0,B60L|G01R|H01L|H02J|H02M|H05K|Y02T
+11292511,2022-04-05,Electronic control unit and electric power steering apparatus having the same,0,B62D|H01L|H02K|H02M|H02P|H05K
+11290937,2022-03-29,Mobile system communication apparatus,0,H04W
+11290308,2022-03-29,Relay device,0,H04L
+11288899,2022-03-29,Drive recorder and situation information management system,0,G07C|G08G|H04L|H04W
+11283713,2022-03-22,Relay device,0,G06F|H04L
+11282541,2022-03-22,Record control apparatus,0,B60R|G06F|G07C|G08G|G11B|H04L
+11282235,2022-03-22,Vehicle surroundings recognition apparatus,1,G06T|G06V|H04N
+11281926,2022-03-22,Feature extraction method and apparatus,0,G06F|G06T|G06V
+11281001,2022-03-22,Index calculation apparatus and display system,0,G02B|G06F|G06V
+11280023,2022-03-22,Film formation apparatus and method of manufacturing semiconductor device,0,C30B|H01L
+11276627,2022-03-15,Semiconductor device,0,H01L
+11276378,2022-03-15,Vehicle operation system and computer readable non-transitory storage medium,1,B60K|G02B|G06F|G06T|G06V|G09G
+11276377,2022-03-15,Electronic apparatus,0,G06F|G09G
+11275445,2022-03-15,Input device,0,B60K|G06F
+11274972,2022-03-15,Semiconductor device,0,G01K|H01L
+11272559,2022-03-08,System and method of determining real-time location,2,G01S|H04W
+11272421,2022-03-08,Data transfer path calculation device and data transfer terminal,1,G01C|H04L|H04W
+11272111,2022-03-08,Image processing apparatus,0,B60R|H04N
+11270984,2022-03-08,Semiconductor module,2,H01L|H02M
+11270882,2022-03-08,Film formation apparatus configured to supply mist of a solution to surface of a substrate and method of manufacturing semiconductor device using the film formation apparatus,0,B05B|H01L
+11270533,2022-03-08,Ultra-high frequency low energy based phone as a key access to a vehicle using two-way communication for multipath mitigation,1,B60R|G01S|G07C|H04B|H04W
+11270440,2022-03-08,Vehicular image synthesis apparatus,0,B60W|G06T|G06V
+11270133,2022-03-08,"Object detection device, object detection method, and computer-readable recording medium",0,G01B|G06T|G06V|G08G
+11270131,2022-03-08,Map points-of-change detection device,2,B60R|G01C|G06T|G06V
+11269323,2022-03-08,Remote park assist message flow systems and methods,1,B62D|G05D|G06F|G08G|H04W
+11269044,2022-03-08,System and method for determining angle of arrival for communications,4,G01S|H03D|H04L
+11269043,2022-03-08,Circular polarized quadrifilar helix antennas,0,B60R|G01S|G07C|H01Q|H04B|H04W
+11268803,2022-03-08,Position detection device,0,G01B|G01D|H01L
+11267415,2022-03-08,Vehicle recommendation and translation system for setting personalized parameters within vehicles of mobility sharing environments,2,B60R|H04L
+11265821,2022-03-01,Communication system,1,H04W|Y02D
+11265674,2022-03-01,Method and system for establishing microlocation zones,3,G01S|H01Q|H04B|H04L|H04W
+11264490,2022-03-01,Semiconductor device and method of manufacturing semiconductor device,0,H01L|H10D
+11264000,2022-03-01,Display control device and non-transitory computer readable medium,0,B60K|B60W|G02B|G06T|G09G
+11263232,2022-03-01,History management method and history management apparatus,2,G06F|G07C|H04L
+11258963,2022-02-22,Image creation device and image creation method,1,B60R|G06V|H04N
+11258634,2022-02-22,Electronic control unit,0,H04B|H04L
+11257193,2022-02-22,Image processing apparatus,0,G06T|G06V|G07C|G08G|H04N
+11256248,2022-02-22,"Reception range varying system, vehicle control device, and portable device",0,B60R|E05B|G05D|G07C|H04B|H04W
+11252104,2022-02-15,Relay apparatus,0,H04L
+11248915,2022-02-15,Information processing apparatus and information processing system,0,G01C|G06F|G06V|H04W
+11247565,2022-02-15,Virtual image display device,0,B60K|B60Y|G02B|G09G|H04N
+11245063,2022-02-08,Semiconductor device and semiconductor device manufacturing method,0,H01L|H10N
+11244880,2022-02-08,Semiconductor device,0,H01L
+11242087,2022-02-08,"Motor control apparatus, motor drive system, and motor control method",1,B60R|B62D|G06F|H02P
+11242013,2022-02-08,"Vehicle-mounted camera, vehicle-mounted system and method of using vehicle-mounted camera",0,B60H|B60K|B60R|G03B|H04N
+11241962,2022-02-08,Evaluation apparatus for display arbitration control and generation apparatus for rule definition file,0,B60K|G06F|G06N
+11239224,2022-02-01,Power conversion device including a plurality of semiconductor modules,0,H01L|H02M|H02P
+11237244,2022-02-01,Measuring angle of arrival on a constant and/or pre-known part of a BLE packet,0,G01S|H04W
+11233938,2022-01-25,Power management apparatus and power management system,0,B60R|H04N
+11233717,2022-01-25,System and method for collaborative centralized latency characterization,0,H04L|H04W
+11232995,2022-01-25,Semiconductor device,0,H01L
+11230260,2022-01-25,Adaptive BLE and UWB based connection rate control for mobile access devices of vehicular passive access systems,1,B60R|H04B|H04W
+11228602,2022-01-18,In-vehicle network system,0,H04L|H04W
+11227453,2022-01-18,Passive entry/passive start systems implementing carrier phase based ranging with music style eigenvalue decomposition for distance determinations,0,B60R|G07C|H01Q|H04B|H04L|H04W|Y02D
+11222879,2022-01-11,Semiconductor module structure,0,H01L|H02M|H05K|H10D
+11221878,2022-01-11,Task management apparatus,0,G06F
+11217048,2022-01-04,Passive entry/passive start systems implementing music algorithm based angle of arrival determinations for signals received via circular polarized antennas,3,B60R|G07C|H01Q|H04B|H04L|H04W|Y02D
+11212071,2021-12-28,Receiver,0,H03L|H04B|H04L
+11210030,2021-12-28,Data storage control device and data storage control system,0,B60L|B60R|G01S|G06F|G11C|H02J|Y02T
+11202165,2021-12-14,Mobile device position estimation system,0,B60R|E05B|G01S|H04W
+11201216,2021-12-14,Silicon carbide semiconductor device and manufacturing method of silicon carbide semiconductor device,1,H01L|H10D
+11201099,2021-12-14,Semiconductor device and method of manufacturing the same,0,H01L
+11195906,2021-12-07,Semiconductor device to suppress electric field concentration on insulating protection film,0,H01L|H10D
+11195815,2021-12-07,Semiconductor device and manufacturing method thereof with Cu and Sn intermetallic compound,0,H01L
+11194154,2021-12-07,Onboard display control apparatus,1,B60K|B60R|B60W|G02B|G06F
+11193218,2021-12-07,Sputtering equipment and method of manufacturing semiconductor device,0,C23C|C30B|H01L
+11192781,2021-12-07,Semiconductor device having silicon layer with trench,0,B81B|B81C|G01C|H01L
+11191468,2021-12-07,Vehicular notification apparatus,1,A61B|G01C|G06F|G08G
+11191192,2021-11-30,Electric power conversion apparatus,4,H01L|H05K
+11190672,2021-11-30,Lens module and vehicular imaging device,0,B60R|G02B|G03B|H04N
+11189544,2021-11-30,Plurality of cooling tubes with coolant for a power conversion package,0,H01L|H02M|H05K
+11189493,2021-11-30,Silicon carbide semiconductor device and method for manufacturing the same,0,H01L|H10D
+11186259,2021-11-30,Wiper drive device,0,B60S|G06T
+11184297,2021-11-23,Relay device,1,H04L
+11183949,2021-11-23,Power conversion device with a coolant passage,1,B60L|H01L|H02M|H05K|Y02T
+11183480,2021-11-23,Semiconductor device,0,H01L
+11182834,2021-11-23,Platoon travel system,0,G05D|G06Q|G08G
+11182669,2021-11-23,Neural network circuit,0,G06F|G06N|G11C
+11181589,2021-11-23,Semiconductor device,0,G01R|H01L
+11180028,2021-11-23,Vehicle notification system,0,B60K|B60Q|B60W|G07C|G08G|H04W
+11178318,2021-11-16,Imaging device and vehicular display device,0,B60R|G03B|H04N
+11178075,2021-11-16,Relay device,0,G06F|H04L
+11177353,2021-11-16,"Silicon carbide semiconductor device, and manufacturing method of the same",0,H01L|H10D
+11176749,2021-11-16,In-vehicle display device three-dimensional image generation,0,B60K|G01C|G02B|G06F|G06T
+11171871,2021-11-09,Relay apparatus,0,H04L
+11171231,2021-11-09,Silicon carbide semiconductor device and method for manufacturing the same,0,H01L|H10D
+11170229,2021-11-09,Attitude estimation device,0,B60R|G01B|G01C|G05D|G06T|G06V
+11164841,2021-11-02,Semiconductor device,0,H01L
+11163980,2021-11-02,"Feature point estimation device, feature point position estimation method, and computer-readable medium",1,G06F|G06T|G06V
+11163645,2021-11-02,Apparatus and method of control flow integrity enforcement utilizing boundary checking,0,G06F
+11163549,2021-11-02,Vehicle information communication system,4,G06F|H04L|H04W
+11157755,2021-10-26,Image processing apparatus,0,B60R|G06T|G06V
+11153708,2021-10-19,Method and system for establishing microlocation zones,6,G01S|H01Q|H04B|H04L|H04W
+11152472,2021-10-19,Crystalline oxide semiconductor,0,C23C|C30B|H01L|H02M|H10D|H10H
+11150448,2021-10-19,Vehicle windshield mounted camera module,1,B60R|B60W|G02B|G03B|G05D|H04N
+11150317,2021-10-19,Circular polarized angle of arrival measuring system,0,B60R|G01S|G07C|H01Q|H04B|H04W
+11148595,2021-10-19,"Image output device, and non-transitory tangible computer-readable medium for outputting image around vehicle to display device",1,B60R|G01S|G06T|G06V|G08G|H04N
+11146496,2021-10-12,Relay device,0,H04L
+11145589,2021-10-12,Semiconductor module bonding structure and bonding method,0,H01L|H02M
+11145515,2021-10-12,Manufacturing method of semiconductor device with attached film,0,B24B|H01L|H10D
+11143512,2021-10-12,"Image data generation device for vehicle, travel trajectory data generation system, and storage medium",0,G01C|G06T|G06V|G08G|G09B|H04N
+11140337,2021-10-05,Camera module,0,B60R|G06V|H04N
+11140052,2021-10-05,"Electronic control unit, non-transitory tangible computer readable medium, and anomaly detection method",0,H04L
+11140005,2021-10-05,In-vehicle communication system between master node and slave node,0,B60R|H04L
+11132089,2021-09-28,Input device,1,B60K|G05G|G06F
+11128577,2021-09-21,Relay apparatus,0,G06F|H04B|H04L
+11127826,2021-09-21,Semiconductor device,0,H01L|H10D
+11127702,2021-09-21,Semiconductor device and method for manufacturing same,0,G01L|H01L|H10D
+11127300,2021-09-21,Vehicle recognition device and vehicle recognition method,0,B60R|B60W|G05D|G06T|G06V|G08G
+11127234,2021-09-21,Passive entry/passive start communication systems with selected antennas having multiple polarized axes,0,B60R|G01S|G07C|H01Q|H04B|H04W
+11122389,2021-09-14,System and method of calibration for establishing real-time location,6,H04B|H04W
+11120527,2021-09-14,Vehicular camera and camera system,0,G06T|G06V|H04N
+11119210,2021-09-14,Vehicle control device and vehicle control method,0,B60R|B60T|G01S|G06T|G06V|G08G
+11117615,2021-09-14,Driving aid control apparatus,0,B60K|B60R|B60T|B60W|B62D|G06T|G06V|G08G
+11117575,2021-09-14,Driving assistance control system of vehicle,1,B60W|G06F|G06N|G06V|G08G
+11114571,2021-09-07,Semiconductor device and method for manufacturing same,0,H01L|H10D
+11114368,2021-09-07,"Base material, mold package, base material manufacturing method, and mold package manufacturing method",2,H01L
+11113292,2021-09-07,Feature data storage apparatus and driving feature and distribution databases,1,G06F|G06N|G06V
+11112806,2021-09-07,"Route estimation system, route estimation method and non-transitory computer-readable storage medium for the same",0,G01C|G05D|G06Q
+11109200,2021-08-31,Moving body communication system,1,H04W
+11107892,2021-08-31,SiC epitaxial wafer and method for producing same,0,C23C|C30B|H01L|H10D
+11107761,2021-08-31,Semiconductor device,0,H01L
+11107691,2021-08-31,Method of manufacturing semiconductor device,0,H01L|H10D
+11101259,2021-08-24,Semiconductor device,0,H01L
+11101246,2021-08-24,Semiconductor device having chips attached to support members through silver sintered bodies with particles,0,H01L
+11100653,2021-08-24,Image recognition apparatus,0,G06T|G06V
+11099805,2021-08-24,Reproduced data output apparatus and computer program product,0,B60K|G06F|G10L|H04M
+11097689,2021-08-24,Passive entry and passive start system and method using temporary keys,0,B60R|G06K|G07C|G08C|H04W
+11094603,2021-08-17,"Power semiconductor device, rotating electric machine including same, and method of manufacturing power semiconductor device",0,H01L|H02K
+11094150,2021-08-17,Vehicle controlled polling reduction at mobile device based on motion status reported by mobile device,0,G06F|G07C|H04W
+11092805,2021-08-17,Vehicular display device,0,B60K|B60R|G01D|G02B|G06F|H04N
+11089433,2021-08-10,System and method for establishing real-time location,1,G01S|G06F|G07C|H04B|H04L|H04W
+11087625,2021-08-10,Abnormality notification device,1,G08G|H04W
+11087149,2021-08-10,Object detection apparatus,0,B60R|B60W|G01S|G06T|G06V|G08G
+11086007,2021-08-10,Target detection device,0,G01S|G06T|G06V|G08G
+11084521,2021-08-10,Electronic control unit and electric power steering device using the same,2,B62D|H01L|H05K
+11079852,2021-08-03,Input device,0,B60K|G01C|G05G|G06F
+11079850,2021-08-03,Input apparatus,0,B60K|G06F
+11077859,2021-08-03,"State determination device, state determination program, and computer-readable non-transitory tangible storage medium",0,B60W|G06F|G06V
+11077858,2021-08-03,Vehicle driver state determination apparatus,0,B60R|B60W|G06F|G06V|G08G
+11076320,2021-07-27,"Vehicle communication system, vehicle communication apparatus, and management apparatus",1,G08G|H04W
+11074712,2021-07-27,Gradient direction calculation device,0,G06F|G06T|G06V
+11070737,2021-07-20,Exposure control device and exposure control method,0,B60R|G03B|H04N
+11069049,2021-07-20,Division line detection device and division line detection method,0,G06T|G06V
+11068735,2021-07-20,Reliability calculation apparatus,1,G06F|G06T|G06V
+11066078,2021-07-20,Vehicle position attitude calculation apparatus and vehicle position attitude calculation program,0,B60R|B60W|B62D|G01C|G06T|G06V|G08G
+11066045,2021-07-20,Authentication system and authentication target device,1,B60R|E05B|H02J|H04L|H04Q|H04W
+11066044,2021-07-20,Key-shape data management system and key-shape data management method,0,B60R|E05B|G06F
+11064313,2021-07-13,In-vehicle wireless communication device and distance information detection method,0,B60R|E05B|G01S|H04B|H04W
+11064151,2021-07-13,Display control apparatus,1,B60R|G06T|G06V|H04N
+11063347,2021-07-13,In-cabin communication system comprised of a leaky coaxial cable fixed to a vehicle body,0,B60R|H01Q|H02G|H04B|H04W|Y02D
+11062458,2021-07-13,"Appearance inspection device, transformation data generation device, and program",1,G01N|G06N|G06T|G06V
+11061911,2021-07-13,Driving data analyzer,0,B60W|G06F|H03M
+11059456,2021-07-13,In-vehicle authentication device and portable device authentication method,0,B60R|E05B|G07C|H04B|H04M|H04W
+11056417,2021-07-06,Power conversion apparatus,1,H01L|H02M|H02P
+11054620,2021-07-06,Camera module,0,B60R|B60W|G02B|G03B|G05D|H04N
+11049966,2021-06-29,Silicon carbide semiconductor device and method of manufacturing the same,0,G01B|H01L|H10D
+11046190,2021-06-29,Pressing member,0,B60L|H01L|H02M|H05K|Y02T
+11044459,2021-06-22,Lens module and stereo camera,0,B60R|H04N
+11044415,2021-06-22,Image processing device adjusting pixel-luminance characteristics,0,B60Y|H04N
+11043474,2021-06-22,Semiconductor device,0,H01L
+11043023,2021-06-22,Surround monitoring system for vehicles,1,B60R|B60W|G06T
+11042996,2021-06-22,Recognition apparatus,0,B60R|G01S|G06T|G06V|G07C|G08G
+11039276,2021-06-15,System and method of calibration for establishing real-time location,3,B60R|H04B|H04W
+11038991,2021-06-15,"Abnormality detection device, method thereof, and communication system",0,H04B|H04L
+11037386,2021-06-15,Passive entry/passive start systems detecting range extender type relay station attacks,0,B60R|G01S|G07C|H01Q|H04B|H04W
+11036866,2021-06-15,Systems and methods for optimizing control flow graphs for functional safety using fault tree analysis,4,G06F
+11036846,2021-06-15,Control device,0,G06F|H04L
+11032681,2021-06-08,"Device, method, and computer program product for vehicle communication",2,H04W
+11030764,2021-06-08,Method and system for trailer size estimating and monitoring,1,G06T|G06V
+11027737,2021-06-08,Travel control apparatus and travel control method,1,B60K|B60W|G06N|G08G
+11027701,2021-06-08,Location determination system,3,B60R|G01S|G07C|H04Q|H04W
+11027360,2021-06-08,Bonded body and method for manufacturing the same,0,B23K|H01L
+11024174,2021-06-01,Parking space detection apparatus,1,B60R|B60W|B62D|G01S|G06T|G06V|G08G
+11023744,2021-06-01,Road parameter calculator,1,B60W|G06T|G06V
+11023546,2021-06-01,Data delivery system and server,0,G06F|H04L
+11022795,2021-06-01,Vehicle display control device,1,B60K|G02B|G06F|G06T|G06V|G09G
+11021155,2021-06-01,Vehicle control apparatus and vehicle control method,1,B60K|B60Q|B60W|G06T|G06V|G08G
+11019097,2021-05-25,Communication system and repeater,0,H04L|H04W
+11014510,2021-05-25,Camera device,0,B60R|B60S|G03B|G06T|G06V|H04N
+11012172,2021-05-18,Relay device,0,H04J|H04L
+11011062,2021-05-18,Pedestrian detection apparatus and pedestrian detection method,1,B60Q|B60R|G06T|G06V|G08G
+11010996,2021-05-18,Passive entry/passive start systems using I and Q data for detecting range extender type relay station attacks,1,B60R|G01S|G07C|H01Q|H04B|H04W
+11010618,2021-05-18,Apparatus for identifying line marking on road surface,0,B60R|B60T|B60W|G06T|G06V|G08G|H04N
+11010225,2021-05-18,Electronic control unit including a break-output section configured to output a break signal to interrupt an input of a monitoring signal to an external monitoring circuit,1,F02D|G06F|H01H
+11010148,2021-05-18,Application installation device and application installation method,1,B60W|G06F
+11009997,2021-05-18,Input device,0,G05G|G06F
+11009703,2021-05-18,Vehicle display device,0,B60K|B60R|G02B|G06F|G09G
+11009353,2021-05-18,"Non-transitory computer-readable storage medium storing nonlinear optimization program of continuous value optimization problem, non-transitory computer-readable storage medium storing route search program, and route search apparatus",0,B60W|G01C|G05B|G06N|G08G
+11007977,2021-05-18,Passive entry/passive start systems and methods for vehicles,4,B60R|B60W|G01S|G07C|H04W
+11007874,2021-05-18,Vehicle display device,0,B60K|B60R|G02B|G09F|G09G|H04N
+11006023,2021-05-11,Camera apparatus for vehicle and manufacturing method for camera apparatus for vehicle,0,B60R|H04N
+11005506,2021-05-11,Communication apparatus,0,G08C|H04B|H04L
+11004815,2021-05-11,Semiconductor device,0,H01L|H10D
+11004765,2021-05-11,Field-effect transistor with a heat absorber in contact with a surface of the gate electrode on its back side,0,H01L|H10D
+11004341,2021-05-11,Apparatus and method for supporting collision avoidance of vehicle,2,B60T|B60W|G06F|G06V|G08G
+11003927,2021-05-11,"Target recognition apparatus, target recognition method, and vehicle control system",0,G01S|G06F|G06T|G06V
+11001300,2021-05-11,Driving support system,1,B60R|B62D|G01C|G06T|G06V
+11001229,2021-05-11,Localization and passive entry/passive start systems and methods for vehicles,0,B60R|B60W|G01S|G07C|H04W
+11001149,2021-05-11,"Master electronic control device for vehicle, slave electronic control device for vehicle, log collection system for vehicle, and storage medium",0,B60L|G07C|H04L
+10998295,2021-05-04,Semiconductor device,0,G01R|H01L
+10997436,2021-05-04,Object detection apparatus and object detection method,1,G01S|G01V|G06T|G06V|G08G
+10996471,2021-05-04,Vehicle display device,0,B60K|B60R|G02B|G06T|G09G|H04N
+10996317,2021-05-04,Object detection apparatus and object detection method,0,G01S|G06F|G06T|G06V|G08G
+10991182,2021-04-27,Multi-axis polarized RF antenna assemblies for passive entry/passive start systems,0,B60R|G01S|G07C|H01Q|H04B|H04W
+10986286,2021-04-20,Image creation device,0,B60R|G06T|H04N
+10985636,2021-04-20,Semiconductor device,0,H01L|H02K|H02M
+10985241,2021-04-20,Semiconductor device and production method thereof,0,H01L|H10D
+10984615,2021-04-20,Passive entry/passive start access systems with tone exchange sniffing,0,B60R|G01S|G07C|H01Q|H04B|H04W
+10984551,2021-04-20,Traveling position detection apparatus and traveling position detection method,3,G01C|G01S|G06T|G06V
+10981599,2021-04-20,"Automated parking system, automated parking vehicle, and automated parking method",2,B60R|B60W|B62D|G05D|G06T|G06V|G08G|H04W
+10978586,2021-04-13,Switching device,0,H01L|H10D
+10978381,2021-04-13,Semiconductor device,0,H01L
+10974660,2021-04-13,Camera module,3,B60R|H04N
+10972393,2021-04-06,Repeater,0,H04B|H04L
+10971619,2021-04-06,Semiconductor device and manufacturing method of the same,0,H01L|H10D
+10967836,2021-04-06,"Phone as a key vehicle access based on time policies, license information and validation and accuracy of a vehicle real time clock",0,B60R|H04L|H04W
+10965644,2021-03-30,Network switch,0,H04L
+10964809,2021-03-30,Semiconductor device and manufacturing process therefor,3,H01L|H10D
+10964630,2021-03-30,Semiconductor device having a conductor plate and semiconductor elements,0,H01L|H10D
+10964213,2021-03-30,Parking assist system and parking assist method,1,B64U|G08G|H04W
+10963695,2021-03-30,"Iris detection device, iris detection method, and recording medium onto which iris detection program is recorded",0,B60K|G06T|G06V
+10962573,2021-03-30,Current sensor device,4,G01R|H01L|H01R|H02J|H02M|H02P
+10962309,2021-03-30,Stacked heat exchanger,1,F28D|F28F|H01L|H05K
+10960859,2021-03-30,Automatic brake control apparatus and computer-readable non-transitory storage medium,3,A61B|B60T|B60W|G06F|G08G
+10959237,2021-03-23,Base station apparatus and communication control method,0,H04W
+10958475,2021-03-23,Repeater device,0,H04B|H04L
+10956343,2021-03-23,Mobile de-whitening,0,B60R|G06F|G07C|H04L|Y02D
+10953885,2021-03-23,Road surface detecting apparatus,0,B60W|G06T|G06V
+10951106,2021-03-16,Semiconductor device,1,H01L|H02M|H02P|H03K
+10950526,2021-03-16,Semiconductor device,0,H01L
+10946871,2021-03-16,Image processing device,0,B60W|G02B|G06T|G06V
+10946764,2021-03-16,Controller for vehicle,4,B60K|B60L|B60W|G06N|Y02T|Y10S
+10943877,2021-03-09,Semiconductor device,0,H01L
+10943859,2021-03-09,Semiconductor device,0,H01L
+10943417,2021-03-09,Passive entry/passive start access systems including round trip time sniffing,2,B60R|G01S|G07C|H01Q|H04B|H04W
+10943170,2021-03-09,Neural network circuit,0,G06N|G11C
+10938507,2021-03-02,Communication apparatus,0,H04L
+10937711,2021-03-02,Electronic device and method for manufacturing same,1,B23K|B29C|H01L
+10936890,2021-03-02,Vehicle device,1,A61B|B60R|G06F|G06V|H04M|H04W
+10936889,2021-03-02,Interior camera services for vehicle-sharing fleet,0,B60R|G06Q|G06V
+10936888,2021-03-02,Apparatus detecting driving incapability state of driver,2,B60K|B60R|B60W|G06T|G06V|G08B|G08G|H04N
+10935643,2021-03-02,Sensor calibration method and sensor calibration apparatus,2,G01S|H04N
+10932397,2021-02-23,Power conversion device,4,H01L|H02M|H05K
+10930006,2021-02-23,Other vehicle position estimation apparatus,0,G01C|G06T|G06V|G08G
+10929695,2021-02-23,Obstacle detection apparatus,0,G01S|G06T|G06V|G08G
+10928206,2021-02-23,"Vehicle control system, own vehicle position calculation apparatus, vehicle control apparatus, own vehicle position calculation program, and non-transitory computer readable storage medium",0,B60W|G01C|G05D|G06F|G06T|G08G|G09B
+10926773,2021-02-23,Systems and methods for mitigating motion sickness in a vehicle,8,A61B|B60N|B60R|B60W|G06F
+10926700,2021-02-23,Image processing device,0,B60R|G06T|G06V|G08G
+10924192,2021-02-16,Vehicular communication device,1,G06Q|G07B|G08G|H04B|H04W
+10923395,2021-02-16,Semiconductor device and manufacturing method of semiconductor device,0,H01L|H10D
+10917784,2021-02-09,Systems and methods of cloud bonding for vehicles,2,H04L|H04W
+10916506,2021-02-09,Semiconductor device,0,H01L
+10916034,2021-02-09,Host vehicle position estimation device,0,G01C|G06T|G06V
+10911953,2021-02-02,In-vehicle authentication device and portable device authentication method,2,B60R|E05B|G07C|H04B|H04Q|H04W
+10910684,2021-02-02,Machine temperature control device,0,B60H|F28D|H01L|H01M|H05K|Y02E
+10909850,2021-02-02,"Movement track detection apparatus, moving object detection apparatus, and movement track detection method",0,B60R|B60W|G01S|G06T|G06V|G08G|H04N
+10908890,2021-02-02,Vehicle device,4,B60R|G06F|H04L|H04W
+10908664,2021-02-02,POE power supply system,0,G06F|H04L|Y02D
+10908095,2021-02-02,Inspection device,0,G01B|G01N|G03B|H04N
+10906509,2021-02-02,System for delivery of a shipment at a vehicle,3,B60R|G06K|G06Q|G07C|H04N
+10906141,2021-02-02,Method for manufacturing device temperature control device and method for filling working fluid,1,B23P|F25B|F28D|H01L|H05K

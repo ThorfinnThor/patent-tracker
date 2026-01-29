@@ -1,0 +1,451 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430207,2025-09-30,Method and apparatus for performing table management of memory device in predetermined communications architecture with aid of flexible table page grouping,0,G06F
+12430193,2025-09-30,Data storage device and method for performing error recovery,0,G06F
+12423257,2025-09-23,Bridge device and data storage system,0,G06F
+12405886,2025-09-02,Method and non-transitory computer-readable storage medium and apparatus for garbage collection with determined host-address to flash-address mapping (H2F) sub-tables in flash memory device,0,G06F
+12405853,2025-09-02,Data storage device and searching method for reading voltage thereof,0,G06F|G11C
+12399823,2025-08-26,"Memory device, flash memory controller and associated control method",0,G06F
+12399822,2025-08-26,Method and apparatus for performing data access management of memory device in predetermined communications architecture with aid of multi-table checking,0,G06F
+12393512,2025-08-19,Data storage device and non-volatile memory control method,0,G06F
+12393368,2025-08-19,Flash memory controller and associated memory device and control method,0,G06F
+12386524,2025-08-12,Method for controlling flash memory module and associated flash memory controller and memory device,0,G06F
+12373284,2025-07-29,Method for accessing flash memory module and associated flash memory controller and electronic device,0,G06F
+12367136,2025-07-22,Method and non-transitory computer-readable storage medium and apparatus for executing host write commands,0,G06F
+12353758,2025-07-08,"Flash memory controller, flash memory device, and corresponding methods for reducing error rate of data access",0,G06F
+12353327,2025-07-08,"Method for performing garbage collection management of memory device with aid of block classification, memory controller, memory device and electronic device",0,G06F
+12348630,2025-07-01,Apparatus and method for detecting errors during data encryption,0,H04L
+12333155,2025-06-17,Flash memory controller and data reading method,0,G06F
+12327051,2025-06-10,Flash memory controller and associated control method,0,G06F
+12327043,2025-06-10,Data processing method for improving continuity of data corresponding to continuous logical addresses as well as avoiding excessively consuming service life of memory blocks and the associated data storage device,0,G06F
+12326808,2025-06-10,Flash memory controller and associated control method,0,G06F
+12321297,2025-06-03,Bridge device and method for transferring command and data between a host device and a data storage device,1,G06F
+12307237,2025-05-20,Firmware updating method and data storage device utilizing the same,0,G06F
+12307236,2025-05-20,Firmware updating method and data storage device utilizing the same,0,G06F
+12307131,2025-05-20,Method and apparatus for performing data access control of memory device with aid of reading parameter optimization,0,G06F
+12307088,2025-05-20,Method and apparatus for performing data retention management of memory device with aid of pre-shutdown control,0,G06F|G11C
+12306765,2025-05-20,Method and non-transitory computer-readable storage medium and apparatus for updating host-to-flash address mapping table,0,G06F|Y02D
+12292826,2025-05-06,Method for managing a memory apparatus,0,G06F
+12287988,2025-04-29,Data storage device and non-volatile memory control method,0,G06F|G11C
+12287975,2025-04-29,"Flash memory controller that can quickly enter power saving mode after entering idle state, associated flash memory device, and associated control method",1,G06F
+12287973,2025-04-29,Interface circuit and memory controller,0,G06F
+12283971,2025-04-22,Flash memory apparatus and storage management method for flash memory,0,G06F|G11C|H03M|Y02D
+12282665,2025-04-22,Memory operation method and memory device for data movement,0,G06F
+12277966,2025-04-15,Memory access module for performing a plurality of sensing operations to generate digital values of a storage cell in order to perform decoding of the storage cell,0,G06F|G11C
+12277331,2025-04-15,Data storage device and method for determining buffer size of the data storage device,0,G06F
+12277330,2025-04-15,Data storage device and method for determining buffer size of the data storage device,0,G06F
+12277326,2025-04-15,Method and apparatus for performing data access management of memory device in predetermined communications architecture with aid of unbalanced table update size,0,G06F
+12277317,2025-04-15,"Memory controller, bridge device and method for transferring command and data between memory controllers",1,G06F
+12277288,2025-04-15,Interface circuit and memory controller,0,G06F|H04L
+12271632,2025-04-08,Method and non-transitory computer-readable storage medium and apparatus for executing host write commands,0,G06F
+12271383,2025-04-08,Method and apparatus for executing structural query language instruction in solid-state storage device,0,G06F
+12265749,2025-04-01,Video wall system,0,G06F|G09G
+12265728,2025-04-01,Scheme for finding and checking whether page units in one block are empty pages by using flash memory device and reporting fund result from flash memory device to flash memory controller,0,G06F|G11C
+12265469,2025-04-01,"Flash memory controller, SD card device, method used in flash memory controller, and host device coupled to SD card device",0,G06F|G11C|Y02D
+12265468,2025-04-01,Method and apparatus for performing access management of memory device in predetermined communications architecture with aid of automatic parameter setting,0,G06F
+12260123,2025-03-25,Method and apparatus for performing data access control of memory device with aid of predicted information,1,G06F
+12260121,2025-03-25,Flash memory mechanism capable of storing and recording actual transmission history information of communication interface between flash memory controller and flash memory device,0,G06F
+12260100,2025-03-25,Data storage device and data processing method for arranging a write order of writing data based on a logical data order of reading the data,0,G06F
+12260087,2025-03-25,Output driving and input on-die termination mechanism capable of supporting different requirements of different flash memory specification standards,0,G06F
+12259818,2025-03-25,Flash memory controller and data programming method,0,G06F|G11C
+12254219,2025-03-18,Non-volatile data storage device having a plurality of dies accessed in an interleaved manner,0,G06F|G11C
+12254202,2025-03-18,Control method of flash memory controller and associated flash memory controller and storage device,0,G06F
+12253957,2025-03-18,Method of handling trim command in flash memory and related memory controller and storage system thereof,0,G06F
+12242360,2025-03-04,Method and apparatus for performing data access management of memory device in predetermined communications architecture to enhance sudden power off recovery of page-group-based redundant array of independent disks protection with aid of suspendible serial number,0,G06F
+12236115,2025-02-25,Flash memory controller,0,G06F|G11C|Y02D
+12235721,2025-02-25,Data storage device and method for performing error recovery,0,G06F
+12229413,2025-02-18,"Method and apparatus for performing data fragmentation reduction control of memory device in predetermined communications architecture with aid of fragmentation information detection, and associated computer-readable medium",0,G06F
+12225126,2025-02-11,Apparatus and method for detecting errors during data encryption,0,H04L
+12223199,2025-02-11,Method and apparatus for programming data arranged to undergo specific stages into flash memory based on virtual carriers,0,G06F
+12223173,2025-02-11,Memory controller and data processing method for processing disordered read-out data,0,G06F
+12222870,2025-02-11,Method and apparatus for performing mapping table management of memory device in predetermined communications architecture with aid of table analysis,0,G06F
+12222856,2025-02-11,Memory controller and method for controlling output of debug messages,0,G06F
+12210775,2025-01-28,Apparatus and method for driving redundant array of independent disks (RAID) engine,0,G06F|Y02D
+12204763,2025-01-21,Method and non-transitory computer-readable storage medium and apparatus for dynamically updating optimization read voltage table,0,G06F|G11C
+12197786,2025-01-14,Method and non-transitory computer-readable storage medium and apparatus for scheduling and executing host data-update commands,0,G06F
+12197285,2025-01-14,Flash memory apparatus and storage management method for flash memory,0,G06F|G11C
+12189991,2025-01-07,Storage device controller and method capable of allowing incoming out-of-sequence write command signals,0,G06F
+12189970,2025-01-07,"Initialization methods and associated controller, memory device and host",0,G06F|Y02D
+12189964,2025-01-07,Data storage system and parameter margin evaluation method,0,G06F
+12189959,2025-01-07,Memory device with compressed soft information and associated control method,0,G06F|G11C|H03M
+12189538,2025-01-07,Method and apparatus for performing operations to namespaces of a flash memory device,0,G06F
+12175131,2024-12-24,Method and non-transitory computer-readable storage medium and apparatus for scheduling and executing host data-update commands,0,G06F
+12175092,2024-12-24,Method and non-transitory computer-readable storage medium and apparatus for reading data with optimization read voltage table,0,G06F|G11C
+12175086,2024-12-24,Data processing method for efficiently processing data stored in the memory device by splitting data flow and the associated data storage device,0,G06F
+12164805,2024-12-10,"Flash memory device, controller, and method capable of performing access operation upon data unit(s) of multiple planes of flash memory device in response one simplified command sequence",0,G06F
+12164377,2024-12-10,"Method, memory controller, and memory system for reading data stored in flash memory",0,G06F|G11C|H03M
+12160239,2024-12-03,Fractional frequency divider and flash memory controller,0,G06F|H03K|Y02D
+12159038,2024-12-03,Scheme for finding and checking whether page units in one block are empty pages by using flash memory device based on smaller search range,0,G06F
+12158841,2024-12-03,Control method of flash memory controller and associated flash memory controller and storage device,0,G06F
+12158800,2024-12-03,Flash memory scheme capable of controlling flash memory device automatically generating debug information and transmitting debug information back to flash memory controller without making memory cell array generating errors,0,G06F|G11C
+12153820,2024-11-26,Method of performing wear-leveling operation in flash memory and related controller and storage system,0,G06F|G11C
+12153799,2024-11-26,Memory controller and method for bit flipping of low-density parity-check codes,0,G06F|H03M
+12149260,2024-11-19,Method and apparatus for decoding low-density parity-check (LDPC) code,0,G06F|H03M
+12147670,2024-11-19,Method and apparatus for performing data access management of memory device in predetermined communications architecture with aid of unbalanced table regions,0,G06F
+12147334,2024-11-19,Apparatus and method for searching for logical address ranges of host commands,0,G06F|G11C|H03K
+12141475,2024-11-12,Storage device capable of dynamically determining whether to and when to send next interrupt event to host device,0,G06F
+12141460,2024-11-12,Method and apparatus for performing data access management of all flash array server,0,G06F
+12141060,2024-11-12,Method of managing garbage collection operation in flash memory based on types of source blocks and related memory controller and storage system,0,G06F
+12135889,2024-11-05,Control method of flash memory controller and associated flash memory controller and storage device,0,G06F
+12131035,2024-10-29,Method and apparatus for performing data access management of memory device in predetermined communications architecture to enhance sudden power off recovery of page-group-based redundant array of independent disks protection with aid of multi-table control using dummy flag,0,G06F
+12130743,2024-10-29,Method and apparatus for performing data access management of memory device in predetermined communications architecture with aid of unbalanced table search,0,G06F
+12124388,2024-10-22,Bridge control chip and associated signal processing method,0,G06F
+12124331,2024-10-22,Interface circuit and memory controller,0,G06F
+12117932,2024-10-15,Method and apparatus for performing data access management of memory device in predetermined communications architecture with aid of unbalanced table update,0,G06F
+12112809,2024-10-08,Method and apparatus for reading data stored in flash memory by referring to binary digit distribution characteristics of bit sequences read from flash memory,0,G06F|G11C|H03M
+12105993,2024-10-01,Method and apparatus and non-transitory computer-readable storage medium for debugging solid-state disk (SSD) device,0,G06F
+12105992,2024-10-01,Flash memory mechanism capable of storing and recording actual transmission history information of communication interface between flash memory controller and flash memory device,0,G06F
+12105958,2024-10-01,Flash memory scheme capable of controlling flash memory device automatically generating debug information and transmitting debug information back to flash memory controller without making memory cell array generating errors,0,G06F
+12105622,2024-10-01,Method and non-transitory computer-readable storage medium and apparatus for data access in response to host discard commands,0,G06F
+12099745,2024-09-24,Data storage device and method for dynamically determining a buffer size,0,G06F
+12094727,2024-09-17,Method forming a semiconductor package device,0,H01L
+12093131,2024-09-17,"Interface circuit, memory controller and method for calibrating signal processing devices in an interface circuit",0,G06F
+12079483,2024-09-03,"Method for accessing flash memory module, flash memory controller, and memory device",0,G06F
+12073085,2024-08-27,Flash memory controller and method capable of using one set-feature signal as a macro execution signal to execute multiple set-feature operations for flash memory device,0,G06F
+12067288,2024-08-20,Storage devices including a controller for handling command sequences and methods of operating the same,0,G06F
+12067286,2024-08-20,Data processing method for efficiently processing data stored in the memory device by splitting data flow and the associated data storage device,0,G06F
+12067247,2024-08-20,Method of managing independent word line read operation in flash memory and related memory controller and storage device,0,G06F
+12067240,2024-08-20,Flash memory scheme capable of automatically generating or removing dummy data portion of full page data by using flash memory device,1,G06F
+12067235,2024-08-20,Data storage device and data storage system,0,G06F
+12061801,2024-08-13,"Memory addressing methods and associated controller, memory device and host",0,G06F
+12061800,2024-08-13,Method and apparatus for performing data access control of memory device with aid of predetermined command,0,G06F
+12061792,2024-08-13,Method of handling host write commands requesting to write dummy pattern on flash memory and related memory controller and storage system,0,G06F
+12050783,2024-07-30,Method and apparatus for performing table management of memory device in predetermined communications architecture with aid of table error correction,0,G06F
+12050530,2024-07-30,Method and apparatus for performing table management of memory device in predetermined communications architecture with aid of system-region garbage collection,0,G06F
+12039171,2024-07-16,"Method for accessing flash memory module, flash memory controller, and memory device",0,G06F
+12038849,2024-07-16,"Method for performing access management in a memory device, associated memory device and controller thereof, and associated electronic device",0,G06F
+12038811,2024-07-16,Memory controller and data processing method,0,G06F
+12026403,2024-07-02,"Method and apparatus for performing configuration management of memory device in predetermined communications architecture with aid of electronic fuse data preparation, and associated computer-readable medium",0,G06F
+12026041,2024-07-02,"Interface circuit, memory controller and method for calibrating signal processing devices in an interface circuit",0,G06F|H04L|Y02D
+12019540,2024-06-25,Method for managing a memory apparatus,1,G06F
+12014087,2024-06-18,Method and apparatus for performing data management of memory device with aid of targeted protection control,0,G06F
+12014063,2024-06-18,Control method for flash memory controller and associated flash memory controller and storage device,0,G06F
+12008258,2024-06-11,Data storage device and control method for non-volatile memory,0,G06F
+12008235,2024-06-11,Data storage device and method for rewriting parameters thereof,0,G06F|G11C
+11995349,2024-05-28,Method and apparatus for performing access management of memory device in host performance booster architecture with aid of device side table information encoding and decoding,0,G06F
+11995224,2024-05-28,Data storage device and data processing method,0,G06F
+11994985,2024-05-28,Method and apparatus for performing access management of memory device in host performance booster architecture with aid of device side table information encoding and decoding,0,G06F
+11977783,2024-05-07,Method and apparatus for performing data access control of memory device with aid of predetermined command,0,G06F
+11977776,2024-05-07,Flash memory controller and method capable of sending read command or data toggle command to ask for flash memory device return more plane data of different planes,0,G06F|G11C|Y02D
+11977767,2024-05-07,Method and apparatus for caching address mapping information in flash memory based storage device,0,G06F
+11977752,2024-05-07,"Flash memory controller and method capable of sending data toggle set-feature signal to enable, disable, or configure data toggle operation of flash memory device",0,G06F|Y02D
+11977500,2024-05-07,Apparatus and method and computer program product for executing host input-output commands,0,G06F|Y02D
+11972150,2024-04-30,Method and non-transitory computer-readable storage medium and apparatus for programming data into flash memory through dedicated acceleration hardware,0,G06F
+11972146,2024-04-30,Flash memory controller and method capable of sending read command or data toggle command to ask for flash memory device return more plane data of different planes,0,G06F
+11972113,2024-04-30,Method and apparatus for performing link management of memory device in predetermined communications architecture with aid of handshaking phase transition control,0,G06F
+11966607,2024-04-23,Method and non-transitory computer-readable storage medium and apparatus for accessing to encoding-history information,0,G06F
+11966604,2024-04-23,Method and apparatus for programming data arranged to undergo specific stages into flash memory based on virtual carriers,0,G06F|Y02D
+11960396,2024-04-16,Method and computer program product for performing data writes into a flash memory,0,G06F
+11947818,2024-04-02,Method for accessing flash memory module and associated flash memory controller and electronic device,0,G06F
+11935595,2024-03-19,"Flash memory device, controller, and method capable of performing access operation upon data unit(s) of multiple planes of flash memory device in response one simplified command sequence",0,G06F|G11C|Y02D
+11933847,2024-03-19,Apparatus and system for debugging solid-state disk (SSD) device,0,G01R|G06F|G11C
+11922044,2024-03-05,Data storage device and control method for non-volatile memory,0,G06F
+11916569,2024-02-27,Flash memory apparatus and storage management method for flash memory,0,G06F|G11C|H03M|Y02D
+11914901,2024-02-27,Flash memory controller and method capable of transmitting multiple set-feature signals and macro settings to flash memory device,0,G06F
+11914873,2024-02-27,Flash memory controller,1,G06F|G11C|Y02D
+11907047,2024-02-20,Data storage device and error tolerance selecting method thereof,0,G06F
+11901961,2024-02-13,"Interface circuit, memory controller and method for calibrating signal processing devices in an interface circuit of a memory controller",0,G11C|H04B|H04J|H04L|Y02D
+11899977,2024-02-13,Method and apparatus for performing access management of memory device with aid of serial number assignment timing control,0,G06F
+11899974,2024-02-13,Method and apparatus for performing automatic setting control of memory device in predetermined communications architecture with aid of auxiliary setting management,0,G06F
+11899945,2024-02-13,"Method and apparatus for performing communications specification version control of memory device in predetermined communications architecture with aid of compatibility management, and associated computer-readable medium",0,G06F
+11875058,2024-01-16,Data storage device and non-volatile memory control method,0,G06F|G11C
+11874737,2024-01-16,Data storage device and selecting bad data column method thereof,0,G06F|Y02D
+11869584,2024-01-09,Memory access module for performing a plurality of sensing operations to generate digital values of a storage cell in order to perform decoding of the storage cell,0,G06F|G11C
+11861212,2024-01-02,"Flash memory device, controller, and method capable of performing access operation upon data unit(s) of multiple planes of flash memory device in response one simplified command sequence",0,G06F|G11C|Y02D
+11861022,2024-01-02,Method and computer program product and apparatus for encrypting and decrypting physical-address information,0,G06F
+11860775,2024-01-02,Method and apparatus for programming data into flash memory incorporating with dedicated acceleration hardware,0,G06F
+11860669,2024-01-02,Method and apparatus and computer program product for storing data in flash memory,0,G06F
+11847023,2023-12-19,Flash memory apparatus and storage management method for flash memory,0,G06F|G11C
+11843379,2023-12-12,Fractional frequency divider and flash memory controller,0,G06F|H03K|Y02D
+11841398,2023-12-12,Method and apparatus and non-transitory computer-readable storage medium for debugging solid-state disk (SSD) device,0,G01R|G06F|G11C
+11836383,2023-12-05,Controllers of storage devices for arranging order of commands and methods of operating the same,0,G06F
+11829759,2023-11-28,Apparatus and method for segmenting a data stream of a physical layer,0,G06F|G11C
+11829289,2023-11-28,"Flash memory controller, SD card device, method used in flash memory controller, and host device coupled to SD card device",0,G06F|G11C|Y02D
+11822428,2023-11-21,"Method, memory controller, and memory system for reading data stored in flash memory",0,G06F|G11C|H03M
+11816360,2023-11-14,Method and apparatus for performing data access performance shaping of memory device,0,G06F
+11809748,2023-11-07,Control method of flash memory controller and associated flash memory controller and electronic device,0,G06F
+11809723,2023-11-07,"Unbalanced plane management method, associated data storage device and controller thereof",0,G06F|G11C|Y02D
+11809713,2023-11-07,Method and apparatus for performing data access management of memory device with aid of randomness-property control,0,G06F|G11C
+11809711,2023-11-07,Flash memory scheme capable of decreasing waiting time of trim command,0,G06F
+11809328,2023-11-07,Control method of flash memory controller and associated flash memory controller and storage device,0,G06F
+11809314,2023-11-07,Method and apparatus for performing access control of memory device with aid of multi-stage garbage collection management,0,G06F
+11809312,2023-11-07,Garbage collection operation management based on overall spare area,0,G06F
+11809293,2023-11-07,Storage node failure detection based on register values for an all flash array server,0,G06F
+11803330,2023-10-31,Method and apparatus and computer-readable storage medium for handling sudden power off recovery,0,G06F
+11803312,2023-10-31,Data storage device and selecting bad data block method thereof,0,G06F|Y02D
+11797194,2023-10-24,Method and apparatus for performing access management of memory device in host performance booster architecture with aid of device side table information,0,G06F
+11789648,2023-10-17,Method and apparatus and computer program product for configuring reliable command,0,G06F|G11C
+11775386,2023-10-03,Data storage device and control method for non-volatile memory,1,G06F
+11755439,2023-09-12,"Memory controller, test device and link identification method",0,G06F|G11C
+11748258,2023-09-05,Method for managing a memory apparatus,0,G06F
+11748032,2023-09-05,Data processing method for improving access performance of memory device and data storage device utilizing the same,1,G06F
+11748023,2023-09-05,Data storage device and non-volatile memory control method,0,G06F
+11748022,2023-09-05,Method and apparatus for controlling different types of storage units,0,G06F
+11748011,2023-09-05,Control method of flash memory controller and associated flash memory controller and storage device,0,G06F
+11747987,2023-09-05,Methods for controlling data transfer speed of a data storage device and an electronic device utilizing the same,0,G06F|Y02D
+11742030,2023-08-29,Method and apparatus for reading data stored in flash memory by referring to binary digit distribution characteristics of bit sequences read from flash memory,1,G06F|G11C|H03M
+11741016,2023-08-29,"Method for performing access management in a memory device, associated memory device and controller thereof, and associated electronic device",0,G06F
+11733895,2023-08-22,Control method of flash memory controller and associated flash memory controller and storage device,1,G06F
+11726686,2023-08-15,"Initialization methods and associated controller, memory device and host",0,G06F|Y02D
+11720249,2023-08-08,Data storage device and method for rewriting parameters thereof,0,G06F|G11C
+11714475,2023-08-01,Method and computer-readable storage medium and apparatus for adjusting operating frequencies,0,G06F|Y02D
+11709612,2023-07-25,Storage and method to rearrange data of logical addresses belonging to a sub-region selected based on read counts,0,G06F
+11705907,2023-07-18,Fractional frequency divider and flash memory controller,0,G06F|H03K|Y02D
+11704241,2023-07-18,Garbage collection operation management with early garbage collection starting point,0,G06F
+11704238,2023-07-18,Method and apparatus for accessing L2P address without searching group-to-flash mapping table,0,G06F
+11704234,2023-07-18,Method for accessing flash memory module and associated package,0,G06F|G11C
+11704054,2023-07-18,Method and apparatus for performing access management of memory device with aid of buffer usage reduction control,0,G06F
+11687447,2023-06-27,Method and apparatus for performing access control of memory device with aid of additional physical address information,1,G06F
+11687432,2023-06-27,"Data accessing method using dynamic speed adjustment with aid of thermal control unit, and associated apparatus",0,G06F
+11687290,2023-06-27,Method for improve read disturbance phenomenon of flash memory module and associated flash memory controller and electronic device,1,G06F|G11C
+11681615,2023-06-20,Garbage collection operation management based on overall valid page percentage of source block and candidate source block,0,G06F
+11675698,2023-06-13,Apparatus and method and computer program product for handling flash physical-resource sets,0,G06F|Y02D
+11668749,2023-06-06,Method for eliminating fake faults in gate-level simulation,0,G01R|G06F
+11664056,2023-05-30,Method and apparatus for accessing to data in response to power-supply event,0,G06F|G11C
+11662944,2023-05-30,Method and apparatus for performing resuming management,0,G06F
+11662940,2023-05-30,Data storage device and data processing method for restoring MLC/TLC memory to avoid degradation of access performance of a memory device caused by word line short,0,G06F
+11657001,2023-05-23,Data storage device and control method of address management using mapping tables,0,G06F
+11656791,2023-05-23,Data storage device and data processing method with overlapped performance time of different operations corresponding to the same data to improve access performance of the data storage device,1,G06F|Y02D
+11651707,2023-05-16,Method and apparatus for encrypting and decrypting user data,0,G06F|G09C|H03M|H04L
+11650942,2023-05-16,Method and apparatus for data reads in host performance acceleration mode,0,G06F
+11636055,2023-04-25,Method and apparatus for performing access management of memory device in predetermined communications architecture with aid of flexible delay time control,0,G06F
+11636042,2023-04-25,Data processing method for improving access performance of memory device and data storage device utilizing the same,1,G06F
+11636030,2023-04-25,Data processing method for improving access performance of memory device and data storage device utilizing the same,1,G06F
+11636012,2023-04-25,Method and apparatus for performing node information exchange management of all flash array server,0,G06F
+11630780,2023-04-18,Flash memory controller mechanism capable of generating host-based cache information or flash-memory-based cache information to build and optimize binary tree with fewer nodes when cache stores data from host,0,G06F
+11630769,2023-04-18,Data processing method for controlling write speed of memory device to avoid significant write delay and data storage device utilizing the same,0,G06F
+11630768,2023-04-18,Method for managing flash memory module and associated flash memory controller and electronic device,0,G06F|G11C
+11630728,2023-04-18,Data processing method for AFA storage device to restore data protection capability and the AFA storage device utilizing the same,0,G06F
+11630629,2023-04-18,Multi-screen display control device,0,G06F|G09G
+11630604,2023-04-18,"Methods for controlling data storage device, and associated flash memory controller",0,G06F
+11630602,2023-04-18,Method and apparatus for performing access management of a memory device with aid of dedicated bit information,0,G06F|Y02D
+11630601,2023-04-18,Memory and apparatus for performing access control with aid of multi-phase memory-mapped queue,1,G06F
+11630590,2023-04-18,Method and apparatus for performing access control of memory device with aid of aggressor bit information,0,G06F|G11C|H03M|Y02D
+11630580,2023-04-18,"Flash controllers, methods, and corresponding storage devices capable of rapidly/fast generating or updating contents of valid page count table",0,G06F
+11625345,2023-04-11,"Methods, flash memory controller, and electronic device for SD memory card device",1,G06F
+11614998,2023-03-28,Multi-screen display control device,0,G06F|G09G
+11614885,2023-03-28,Data processing method for improving access performance of memory device and data storage device utilizing the same,2,G06F
+11604600,2023-03-14,Stand-alone bridging test method,0,G06F
+11593008,2023-02-28,Control method for flash memory controller and associated flash memory controller and storage device,2,G06F
+11580018,2023-02-14,Method and apparatus for page validity management and related storage system,0,G06F
+11580017,2023-02-14,Method and apparatus and computer program product for preparing logical-to-physical mapping information for host side,1,G06F
+11579977,2023-02-14,Data storage device restoring method,0,G06F
+11573737,2023-02-07,Method and apparatus for performing disk management of all flash array server,1,G06F
+11573734,2023-02-07,Method for improving read-retry of flash memory and related controller and storage device,0,G06F
+11573730,2023-02-07,Data storage device with multi-stage controller further including host bridge controller with upper on-chip and lower on-chip back-end memory connection,0,G06F
+11567699,2023-01-31,Memory controller having a plurality of control modules and associated server,0,G06F
+11561732,2023-01-24,Method and apparatus and computer program product for configuring reliable command,0,G06F|G11C
+11550740,2023-01-10,"Data storage device with an exclusive channel for flag checking of read data, and non-volatile memory control method",0,G06F
+11550730,2023-01-10,"Method for performing access management in a memory device, associated memory device and controller thereof, and associated electronic device",0,G06F
+11550474,2023-01-10,Data storage device and method for rewriting parameters thereof,0,G06F|G11C
+11544186,2023-01-03,Method and apparatus for data reads in host performance acceleration mode,0,G06F
+11544185,2023-01-03,Method and apparatus for data reads in host performance acceleration mode,0,G06F
+11543982,2023-01-03,Flash memory initialization scheme for writing boot up information into selected storage locations averagely and randomly distributed over more storage locations and correspondingly method for reading boot up information from selected storage locations,0,G06F
+11537469,2022-12-27,"Method, memory controller, and memory system for reading data stored in flash memory",0,G06F|G11C|H03M
+11537328,2022-12-27,Method and apparatus for executing host commands,0,G06F|G11C
+11526454,2022-12-13,"Data storage device with an exclusive channel for flag checking of read data, and non-volatile memory control method",0,G06F
+11520697,2022-12-06,Method for managing a memory apparatus,0,G06F
+11513989,2022-11-29,Method and computer program product and apparatus for producing solid state disk devices,0,G06F
+11513980,2022-11-29,Method and apparatus for performing access management of memory device with aid of universal asynchronous receiver-transmitter connection,0,G06F
+11507319,2022-11-22,Memory controller having a plurality of control modules and associated server,0,G06F|Y02D
+11506703,2022-11-22,Apparatus and method and computer program product for verifying memory interface,0,G01R|G06F|G11C
+11500722,2022-11-15,Flash memory apparatus and storage management method for flash memory,0,G06F|G11C
+11494312,2022-11-08,Flash memory devices and prefetch methods thereof,3,G06F
+11494299,2022-11-08,Garbage collection operation management with early garbage collection starting point,0,G06F
+11494113,2022-11-08,Computer program product and method and apparatus for scheduling execution of host commands,0,G06F
+11494086,2022-11-08,"Flash memory controller, flash memory module and associated electronic device",0,G06F|G11C|H03M
+11494085,2022-11-08,"Flash memory controller, flash memory module and associated electronic device",0,G06F|G11C|H03M
+11488671,2022-11-01,"Method, associated memory device and controller thereof for performing programming management",0,G06F|G11C|Y02D
+11487655,2022-11-01,Method for managing flash memory module and associated flash memory controller and electronic device based on timing of dummy read operations,0,G06F|G11C
+11487654,2022-11-01,Method for controlling write buffer based on states of sectors of write buffer and associated all flash array server,0,G06F
+11487638,2022-11-01,Computer program product and method and apparatus for controlling access to flash memory card,0,G06F|Y02D
+11487475,2022-11-01,Control method for referring to expired block table to perform expired block recycling operation and associated flash memory controller and memory device,0,G06F|G11C
+11461516,2022-10-04,Development system and productization method for data storage device,0,G06F|H02J
+11461055,2022-10-04,Hierarchical and heterogeneous data center,0,G06F
+11455246,2022-09-27,Garbage collection method for data storage device,0,G06F
+11455241,2022-09-27,Data management method applicable to data storage device,0,G06F
+11449806,2022-09-20,"Method for performing memory access management with aid of machine learning in memory device, associated memory device and controller thereof, and associated electronic device",0,G06F|G06N|G11C
+11449435,2022-09-20,"Method for performing access management in a memory device, associated memory device and controller thereof, and associated electronic device",0,G06F
+11449416,2022-09-20,Apparatus and method and computer program product for handling flash physical-resource sets,0,G06F|Y02D
+11449244,2022-09-20,Method and apparatus for performing access management of memory device in host performance booster architecture with aid of device side table information,0,G06F
+11429545,2022-08-30,Method and apparatus for data reads in host performance acceleration mode,0,G06F
+11422813,2022-08-23,Apparatus and method for segmenting a data stream of a physical layer,0,G06F|G11C
+11422717,2022-08-23,"Memory addressing methods and associated controller, memory device and host",3,G06F
+11416151,2022-08-16,"Data storage device with hierarchical mapping information management, and non-volatile memory control method",0,G06F
+11409650,2022-08-09,Method for managing flash memory module and associated flash memory controller and electronic device,0,G06F|G11C
+11409471,2022-08-09,Method and apparatus for performing data access management of all flash array server,1,G06F
+11409452,2022-08-09,"Initialization methods and associated controller, memory device and host",0,G06F|Y02D
+11403018,2022-08-02,Method and apparatus for performing block management regarding non-volatile memory,1,G06F
+11403010,2022-08-02,Data storage device and plane selection method thereof,0,G06F
+11397676,2022-07-26,Computer program product and method and apparatus for managing garbage collection process,0,G06F
+11397669,2022-07-26,Data storage device and non-volatile memory control method,1,G06F
+11392489,2022-07-19,Data storage device and non-volatile memory control method,0,G06F
+11386952,2022-07-12,Memory access module for performing a plurality of sensing operations to generate digital values of a storage cell in order to perform decoding of the storage cell,0,G06F|G11C
+11385906,2022-07-12,Computer program product and method and apparatus for controlling access to flash storage,0,G06F
+11373723,2022-06-28,Encoder built-in self-test circuit applied in flash memory controller and associated method,1,G06F|G11C
+11372812,2022-06-28,Mobile device and method capable of earlier determining that a number of files in a directory of an external connected storage device is about to full,0,G06F
+11372800,2022-06-28,System on chip comprising a plurality of central processing units whose mailboxes are set in tightly-coupled memories,0,G06F
+11372718,2022-06-28,Method for accessing flash memory module and associated flash memory controller and electronic device,0,G06F|G11C|H03M
+11372592,2022-06-28,Memory controller having a plurality of control modules and associated server for coding and decoding raw data from flash memory chips,0,G06F
+11372589,2022-06-28,Flash memory controller and method capable of efficiently reporting debug information to host device,1,G06F|Y02D
+11372578,2022-06-28,Control method for flash memory controller and associated flash memory controller and memory device,0,G06F
+11368313,2022-06-21,Data storage devices and methods for encrypting a firmware file thereof,0,G06F|H04L
+11366775,2022-06-21,"Data storage device with an exclusive channel for flag checking of read data, and non-volatile memory control method",0,G06F
+11366674,2022-06-21,Method and apparatus for performing dynamic throttling control with aid of configuration setting,0,G06F|G11C|Y02D
+11366618,2022-06-21,All flash array server and control method thereof,0,G06F
+11366616,2022-06-21,"Method for performing storage control in a storage server, associated memory device and memory controller thereof, and associated storage server",0,G06F
+11366596,2022-06-21,Data storage device and data access method for quickly loading boot data,0,G06F|Y02D
+11360912,2022-06-14,"Method for performing adaptive locking range management, associated data storage device and controller thereof",0,G06F
+11360853,2022-06-14,Access method,0,G06F
+11354236,2022-06-07,Garbage collection method for data storage device,0,G06F
+11354231,2022-06-07,"Method for performing access management of memory device with aid of information arrangement, associated memory device and controller thereof, associated electronic device",1,G06F|G11C
+11354192,2022-06-07,Data storage devices and methods for firmware failure prevention,0,G06F
+11353946,2022-06-07,Method and computer program product and apparatus for adjusting operating frequencies,1,G06F|Y02D
+11349692,2022-05-31,Computer program product and method and apparatus for adjusting equalization,0,H04L
+11347640,2022-05-31,Data storage device and data processing method,0,G06F
+11347592,2022-05-31,Method and computer program product and apparatus for handling sudden power off recovery,0,G06F
+11347433,2022-05-31,"Method for performing sudden power off recovery management, associated memory device and controller thereof, and associated electronic device",0,G06F
+11342008,2022-05-24,Method and apparatus for accessing to data in response to power-supply event,0,G06F|G11C
+11335409,2022-05-17,Data erasing method of non-volatile memory and storage device using the same,0,G06F|G11C
+11334480,2022-05-17,Data storage device and non-volatile memory control method,3,G06F
+11334415,2022-05-17,Data storage device and method for sharing memory of controller thereof,0,G06F|Y02D
+11327770,2022-05-10,"Data storage devices, access device and data processing methods",0,G06F|G11C
+11323133,2022-05-03,Flash memory apparatus and storage management method for flash memory,0,G06F|G11C|H03M|Y02D
+11323122,2022-05-03,Fractional frequency divider and flash memory controller,0,G06F|H03K|Y02D
+11314586,2022-04-26,Data storage device and non-volatile memory control method,0,G06F
+11314571,2022-04-26,Multi-processor system with distributed mailbox architecture and communication method thereof,9,G06F|Y02D
+11308171,2022-04-19,Apparatus and method for searching linked lists,2,G06F
+11308080,2022-04-19,Function management method and memory device,0,G06F
+11308007,2022-04-19,Apparatus and method and computer program product for executing host input-output commands,0,G06F|Y02D
+11307992,2022-04-19,Method and apparatus for performing operations to namespaces of a flash memory device,0,G06F
+11307991,2022-04-19,Apparatus and method and computer program product for generating a storage mapping table,0,G06F
+11307979,2022-04-19,Data storage device and non-volatile memory control method,0,G06F
+11307798,2022-04-19,Storage device and method for performing macro command,0,G06F|Y02D
+11307786,2022-04-19,Data storage devices and data processing methods,0,G06F
+11307766,2022-04-19,Apparatus and method and computer program product for programming flash administration tables,0,G06F
+11301326,2022-04-12,Method and apparatus for performing dynamic recovery management regarding redundant array of independent disks,0,G06F
+11301175,2022-04-12,Method for controlling storage device,0,G06F
+11294589,2022-04-05,"Method for performing access control in a memory device, associated memory device and controller thereof",0,G06F
+11294586,2022-04-05,"Method for performing read acceleration, associated data storage device and controller thereof",0,G06F|Y02D
+11288185,2022-03-29,Method and computer program product for performing data writes into a flash memory,0,G06F
+11288182,2022-03-29,Method and computer program product and apparatus for multi-namespace data access,0,G06F|Y02D
+11288181,2022-03-29,Flash memory initialization scheme for writing boot up information into selected pages averagely and randomly distributed over more pages and correspondingly method for reading boot up information from selected pages,0,G06F
+11284340,2022-03-22,Electronic devices with multi-connectors and methods thereof,0,G06F|H04W
+11269783,2022-03-08,Operating method for data storage device,1,G06F
+11269534,2022-03-08,Data storage device and non-volatile memory control method,0,G06F
+11263153,2022-03-01,"Data accessing method using data protection with aid of advanced encryption standard processing circuit, and associated apparatus",2,G06F
+11262938,2022-03-01,Method and apparatus for performing access management of a memory device with aid of dedicated bit information,2,G06F|Y02D
+11256618,2022-02-22,Storage apparatus managing system comprising local and global registering regions for registering data and associated method,0,G06F
+11256435,2022-02-22,Method and apparatus for performing data-accessing management in a storage server,0,G06F
+11256425,2022-02-22,"Flash memory controller, flash memory module and associated electronic device",0,G06F|G11C|H03M
+11249893,2022-02-15,"Flash memory controller, SD card device, method used in flash memory controller, and host device coupled to SD card device",0,G06F|G11C|Y02D
+11249840,2022-02-15,Data storage devices and methods for rebuilding a memory address mapping table,1,G06F
+11249685,2022-02-15,"Method for accessing flash memory module, associated flash memory controller and electronic device for accelerating reading speed of flash",0,G06F
+11249676,2022-02-15,"Electronic device, flash memory controller and associated control method",0,G06F
+11232048,2022-01-25,"Methods, flash memory controller, and electronic device for SD memory card device",1,G06F
+11221773,2022-01-11,Method and apparatus for performing mapping information management regarding redundant array of independent disks,0,G06F|G09C|Y02D
+11218164,2022-01-04,Data storage device and non-volatile memory control method,2,G06F|H03M
+11216381,2022-01-04,Data storage devices and data processing methods,1,G06F
+11216348,2022-01-04,All flash array server and control method thereof,0,G06F
+11216207,2022-01-04,Apparatus and method for programming user data on the pages and the parity of the page group into flash modules,1,G06F
+11216189,2022-01-04,Method and computer program product for reading partial data of a page on multiple planes,1,G06F
+11210226,2021-12-28,Data storage device and method for first processing core to determine that second processing core has completed loading portion of logical-to-physical mapping table thereof,2,G06F
+11210209,2021-12-28,Method for managing flash memory module and associated flash memory controller and electronic device,1,G06F|Y02D
+11210034,2021-12-28,Method and apparatus for performing high availability management of all flash array server,0,G06F
+11210028,2021-12-28,Method for accessing flash memory module and associated flash memory controller and electronic device,0,G06F|G11C
+11210005,2021-12-28,"Unbalanced plane management method, associated data storage device and controller thereof",0,G06F|G11C|Y02D
+11209999,2021-12-28,Memory controller and method capable of using different storing modes to store data units having different data sizes,0,G06F|G11C
+11209984,2021-12-28,Method and apparatus for performing data-compression management in a storage server,0,G06F
+11204864,2021-12-21,Data storage devices and data processing methods for improving the accessing performance of the data storage devices,0,G06F
+11204700,2021-12-21,"Data storage device and non-volatile memory control method, with security extension",0,G06F
+11199991,2021-12-14,Method and apparatus for controlling different types of storage units,1,G06F
+11199982,2021-12-14,Data storage device and control method for non-volatile memory,0,G06F
+11199970,2021-12-14,Data storage device and method for rewriting parameters thereof,0,G06F|G11C
+11194678,2021-12-07,Method and apparatus for performing node information exchange management of all flash array server,1,G06F
+11194502,2021-12-07,"Electronic device, flash memory controller and method for performing garbage collection operation on flash memory module",1,G06F
+11188267,2021-11-30,Method and apparatus and computer program product for handling sudden power off recovery,1,G06F
+11188265,2021-11-30,"Method for performing storage space management, associated data storage device, and controller thereof",0,G06F|Y02D
+11182286,2021-11-23,Data storage device and control method for non-volatile memory,0,G06F
+11176049,2021-11-16,Flash memory controller mechanism capable of generating host-based cache information or flash-memory-based cache information to build and optimize binary tree with fewer nodes when cache stores data from host,0,G06F
+11176035,2021-11-16,Data storage devices and data processing methods,0,G06F
+11176033,2021-11-16,Data storage devices and data processing methods,0,G06F
+11175841,2021-11-16,Write management of flash memory,0,G06F
+11169878,2021-11-09,"Non-volatile memory accessing method using data protection with aid of look-ahead processing, and associated apparatus",0,G06F|G11C|H03M
+11169760,2021-11-09,Multi-screen display control device,3,G06F|G09G
+11158390,2021-10-26,Method and apparatus for performing automatic power control in a memory device with aid of associated detection during initialization phase,0,G06F|G11C|Y02D
+11157624,2021-10-26,Scheme of using electronic device to activate mass production software tool to initialize memory device including flash memory controller and flash memory,0,G06F
+11157399,2021-10-26,Data storage devices and data processing methods with dynamic programming scheme,0,G06F|G11C
+11157181,2021-10-26,Card activation device and methods for authenticating and activating a data storage device by using a card activation device,0,G06F|H04L
+11157175,2021-10-26,"Data storage device, non-volatile memory operating method, and method for executing operational commands to operate a data storage medium via a shared channel and optimized by task switching commands",0,G06F
+11144390,2021-10-12,"Method, memory controller, and memory system for reading data stored in flash memory",0,G06F|G11C|H03M
+11144299,2021-10-12,Firmware updating method,1,G06F
+11144223,2021-10-12,Flash memory initialization scheme for writing boot up information into selected storage locations averagely and randomly distributed over more storage locations and correspondingly method for reading boot up information from selected storage locations,1,G06F
+11139032,2021-10-05,Method and apparatus for reading data stored in flash memory by referring to binary digit distribution characteristics of bit sequences read from flash memory,2,G06F|G11C|H03M
+11132981,2021-09-28,Method and device for processing display information,0,G06F|G09G
+11126558,2021-09-21,Data storage device and control method for non-volatile memory,0,G06F|Y02D
+11113201,2021-09-07,"Flash memory controller, method and associated electronic device for managing priority of quality detection or garbage collection of block",0,G06F|G11C
+11113102,2021-09-07,Data storage device,0,G06F
+11112981,2021-09-07,Apparatus and method and computer program product for configuring impedance of memory interfaces,0,G06F|G11C
+11112855,2021-09-07,Electronic device and associated control method for reducing power consumption,0,G06F|Y02D
+11106531,2021-08-31,"Flash memory controller, storage device and reading method thereof",0,G06F|H03M
+11099781,2021-08-24,"Flash memory controller, flash memory module and associated electronic device",1,G06F|G11C|H03M
+11099775,2021-08-24,Data storage device and data storage method,0,G06F
+11086805,2021-08-10,Apparatus and method and computer program product for executing host input-output commands,1,G06F|Y02D
+11086798,2021-08-10,Method and computer program product and apparatus for controlling data access of a flash memory device,0,G06F
+11086636,2021-08-10,Data storage device and method for operating non-volatile memory,0,G06F
+11086567,2021-08-10,"Flash memory controller, flash memory module and associated electronic device",1,G06F|G11C|H03M
+11080203,2021-08-03,Data storage device and control method for non-volatile memory,0,G06F|Y02D
+11074176,2021-07-27,Method for managing a memory apparatus,4,G06F
+11074174,2021-07-27,Method for managing flash memory module and associated flash memory controller and electronic device based on timing of dummy read operations,0,G06F|G11C
+11070403,2021-07-20,Computer program product and method and apparatus for adjusting equalization,1,H04L
+11069409,2021-07-20,"Method, associated memory device and controller thereof for performing programming management",0,G06F|G11C|Y02D
+11068421,2021-07-20,Memory device and associated flash memory controller,3,G06F
+11068391,2021-07-20,Mapping table updating method for data storage device,1,G06F|G11C|Y02D
+11068201,2021-07-20,"Flash memory controller, method for managing flash memory module and associated electronic device",0,G06F|Y02D
+11068177,2021-07-20,Data storage devices and data processing methods for shortening time required for a host device to wait for initialization of the data storage device,0,G06F
+11062746,2021-07-13,Computer program product and method and apparatus for activating flash devices,1,G06F|G11C
+11061764,2021-07-13,Data storage device and data retrieval method,0,G06F|G11B|G11C
+11055231,2021-07-06,Data storage devices and data processing methods of skipping editing of fields in H2F table when consecutive addresses are present in F2H table,0,G06F
+11055004,2021-07-06,Data storage device and control method for non-volatile memory,0,G06F
+11050427,2021-06-29,Fractional frequency divider and flash memory controller,2,G06F|H03K|Y02D
+11048421,2021-06-29,Flash memory controller,0,G06F|G11C|Y02D
+11036646,2021-06-15,Data storage device and method of writing logical-to-physical mapping table thereof,1,G06F
+11036414,2021-06-15,Data storage device and control method for non-volatile memory with high-efficiency garbage collection,0,G06F
+11030093,2021-06-08,"High efficiency garbage collection method, associated data storage device and controller thereof",0,G06F
+11030042,2021-06-08,Flash memory apparatus and storage management method for flash memory,0,G06F|G11C
+11030041,2021-06-08,"Decoding method, associated flash memory controller and electronic device",0,G06F|G11C|H03M
+11023374,2021-06-01,Apparatus and method and computer program product for controlling data access,1,G06F
+11016841,2021-05-25,Methods and apparatuses for proactive ECC failure handling,0,G06F
+11003390,2021-05-11,Data storage device with a lighting module and control method for the lighting module,0,G06F
+11003237,2021-05-11,"Method for performing power management in a memory device, associated memory device and controller thereof, and associated electronic device",0,G06F|G11C|Y02D
+11003235,2021-05-11,Method and computer program product and apparatus for adjusting operating frequencies,1,G06F|Y02D
+10992322,2021-04-27,Data storage system and associated method for saving storage space and eliminating data errors,0,G06F|H03M
+10991422,2021-04-27,Data storage device using a host memory buffer for single-level cell storage and control method for non-volatile memory,2,G06F|G11C
+10990497,2021-04-27,Data storage system and method for operating non-volatile memory,1,G06F|G11C
+10990325,2021-04-27,"Write control method, associated data storage device and controller thereof",0,G06F
+10990323,2021-04-27,"Flash memory controller, memory device and method for accessing flash memory module",0,G06F
+10990292,2021-04-27,"Flash memory controller, control method of flash memory controller and associated electronic device",0,G06F|Y02D
+10983854,2021-04-20,Memory controller and initialization method for use in data storage device,0,G06F|G11C
+10977187,2021-04-13,"Method for performing access management in a memory device, associated memory device and controller thereof, and associated electronic device",1,G06F
+10977171,2021-04-13,Method for creating multi-namespace and accessing data therein,0,G06F
+10976958,2021-04-13,Method for controlling storage device,0,G06F
+10976944,2021-04-13,Data storage device using general purpose input/output (GPIO) and electronic fuse (eFUSE) circuit for configuration of read only memory (ROM) code,0,G06F|Y02D
+10970226,2021-04-06,"Method for performing access management in a memory device, associated memory device and controller thereof, and associated electronic device",1,G06F
+10958292,2021-03-23,"Encoder, associated encoding method and flash memory controller utilizing divided partial parity blocks for circulant convolution calculations",1,G06F|H03M
+10956291,2021-03-23,"Method, computer apparatus, and user interface for performing automatic test upon storage devices",0,G06F
+10949348,2021-03-16,Storage device and cache area addressing method,0,G06F
+10949106,2021-03-16,"Initialization methods and associated controller, memory device and host",1,G06F|Y02D
+10944429,2021-03-09,"Data accessing method using data protection with aid of parity check matrix having partial sequential information, and associated apparatus",7,G06F|H03M
+10943047,2021-03-09,Circuit design method and associated computer program product,0,G06F
+10942858,2021-03-09,Data storage devices and data processing methods,0,G06F
+10942803,2021-03-09,"Method for performing data processing for error handling in memory device, associated memory device and controller thereof, and associated electronic device",0,G06F|H03M
+10942677,2021-03-09,"Method for performing access management of memory device, associated memory device and controller thereof, associated host device and associated electronic device",0,G06F
+10942653,2021-03-09,"Method for performing refresh management in a memory device, associated memory device and controller thereof",0,G06F|G11C
+10938417,2021-03-02,Flash memory controller and encoding circuit and decoding circuit within flash memory controller,1,G06F|H03M
+10936513,2021-03-02,Apparatus and method for executing from a host side through a frontend interface input-output commands using a slot bit table,0,G06F|Y02D
+10936199,2021-03-02,"Flash controllers, methods, and corresponding storage devices capable of rapidly/fast generating or updating contents of valid page count table",0,G06F
+10936046,2021-03-02,"Method for performing power saving control in a memory device, associated memory device and memory controller thereof, and associated electronic device",2,G06F|Y02D
+10929303,2021-02-23,Data storage device utilizing virtual blocks to improve performance and data storage method thereof,1,G06F
+10917119,2021-02-09,Data storage system and associated data storing method for reducing data error rate,0,G06F|H03M
+10917113,2021-02-09,Decoding method and related apparatus,0,H03M|H04L
+10915388,2021-02-09,Data storage device and associated operating method capable of detecting errors and effectively protecting data,2,G06F|G11C
+10915269,2021-02-09,Method for using set parameters to determine processor priority for accessing memory within system on chip having multiple processors,0,G06F

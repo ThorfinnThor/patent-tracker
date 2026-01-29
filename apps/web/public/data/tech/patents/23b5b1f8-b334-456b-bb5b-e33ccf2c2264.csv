@@ -1,0 +1,683 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432661,2025-09-30,Dynamic closed loop power control using a nominal target value,0,H04B|H04W
+12432532,2025-09-30,Methods and systems for troubleshooting mobile data issues at a subscriber device,0,H04M|H04W
+12431734,2025-09-30,Systems and methods of power harvesting for an embedded antenna,0,H01Q|H02J|H04W
+12425833,2025-09-23,Methods and systems for international roaming utilizing a temporary roaming profile with a purchased roaming pass,0,H04M|H04W
+12418866,2025-09-16,Uplink power management for extended range communication,0,H04W
+12418802,2025-09-16,Wireless communication network optimization for user applications in wireless user equipment (UE),0,H04W
+12418797,2025-09-16,Systems and methods for securing applications executed on communication systems,0,H04W
+12418793,2025-09-16,Wireless data service using content-addressing,0,G06F|H04L|H04W
+12413954,2025-09-09,Systems and methods for roaming user equipment management services for wireless communications networks,0,H04W
+12413935,2025-09-09,Delivery of geographic location for user equipment (UE) in a wireless communication network,0,H04W
+12413795,2025-09-09,Extended reality as a service utilizing a wireless telecommunication network,0,H04N
+12413626,2025-09-09,Quality of trust framework for wireless communication networks,0,G06Q|H04L
+12412345,2025-09-09,Location precision techniques for enhanced depth data in wireless communications,0,G01S|G06T|H04N
+12408132,2025-09-02,User equipment (UE) status information delivery in a wireless communication network,0,H04L|H04W
+12408115,2025-09-02,Managing uplink transmission power plans,0,H04W
+12401562,2025-08-26,Methods and systems for dynamic alarm throttling and routing,0,H04L
+12401457,2025-08-26,Dynamic hybrid automatic repeat request activation/deactivation in 5G and 6G radio interface,0,H04B|H04L
+12396049,2025-08-19,Layered wireless networks,0,H04L|H04W
+12395889,2025-08-19,Network slicing in a wireless communication network,0,H04W
+12395836,2025-08-19,Smart contract filtration in a wireless communication system,0,H04W
+12394334,2025-08-19,Delivery of artificial intelligence based context-sensitive language assistance to wireless communication devices,0,G06F|G06V|G09B
+12389442,2025-08-12,Systems and methods for controlling beam parameters to improve signal strength,0,H04B|H04W
+12389283,2025-08-12,Optimizing layer assignment during EPS fallback procedures,0,H04W
+12388726,2025-08-12,Synchronized wireless network slicing,0,H04L|H04W
+12388724,2025-08-12,Network degradation prediction,0,H04L|H04W
+12386733,2025-08-12,Systems and methods for performing automated monitoring and triage of computer system testing,0,G06F
+12382483,2025-08-05,Variable downlink configurations for co-located and non-co-located base stations,0,H04J|H04W
+12382431,2025-08-05,Optimizing special subframes to minimize time-of-flight,0,H04L|H04W
+12382415,2025-08-05,Network function registration with network repository functions,0,H04W
+12382379,2025-08-05,Network exposure function (NEF) slice in a wireless communication network,0,H04W
+12382346,2025-08-05,Dynamic steering across non-standalone and standalone network architectures based on uplink throughput requirements,0,H04W
+12382331,2025-08-05,Selective retransmission method for uplink overhead reduction,0,H04B|H04L|H04W
+12382301,2025-08-05,Intra-operator terrestrial spectrum sharing in communication networks,0,H04W
+12382270,2025-08-05,Providing additional time to user equipment for location determination before communicating an SMS message to an emergency number,0,H04W
+12375986,2025-07-29,User equipment (UE) handover in wireless communication networks,0,H04W
+12369050,2025-07-22,Uplink performance using multiple wireless devices,0,H04W
+12369028,2025-07-22,Personal identification number (PIN) unlock in automated wireless communication device testing,0,H04W
+12363600,2025-07-15,Cell selection priority,0,H04W
+12363543,2025-07-15,5G hyperledger slice security framework,0,H04W
+12361236,2025-07-15,"RFID read zone mapping, testing, and monitoring using a silent RFID tag",0,G06K|G06Q
+12356220,2025-07-08,Telecommunications network predictions based on machine learning using aggregated network key performance indicators,0,G06N|H04W
+12355892,2025-07-08,Wireless communication network service using an application programming interface (API) and distributed ledger,0,H04L|H04W
+12349234,2025-07-01,Systems and methods for provisioning user equipment with an eSIM profile,0,H04W
+12349040,2025-07-01,Efficient multi-cell backhaul operation,0,H04W
+12348367,2025-07-01,Methods and systems for on-demand cell site inventory update retrieval,0,H04L
+12348314,2025-07-01,Duplicate message removal technique for improving retransmission success rate,0,H04L|H04W
+12346901,2025-07-01,Mobile communication device in-kind payment verification,0,G01S|G06Q|H04W
+12342426,2025-06-24,Distributed computing across a wireless communications network,0,H04W
+12342229,2025-06-24,System and method of secondary node assisted dual connectivity in wireless networks,0,H04W
+12342217,2025-06-24,Dynamically disabling beamforming capabilities,0,H04B|H04W
+12342179,2025-06-24,Spectrum management for DSS-based networks,0,H04W
+12341817,2025-06-24,Testing network communication within a zero trust security model,0,H04L
+12335847,2025-06-17,User equipment (UE) control by a non-third generation partnership project (non-3GPP) access node using 3GPP signaling,0,H04W|Y02D
+12328797,2025-06-10,Radio access network (RAN) data exposure in a wireless communication network,0,H04L|H04W|Y02D
+12328629,2025-06-10,System and method for device management to restrict handover,0,H04W
+12328624,2025-06-10,Wireless communication handovers for non-Third Generation Partnership Project (non-3GPP) access nodes,0,H04W|Y02D
+12328620,2025-06-10,Dynamically disabling beamforming capabilities,0,H04B|H04W
+12328345,2025-06-10,Call setup simplification for internet clients to establish media sessions with a serving IMS network,0,H04L|H04M
+12324057,2025-06-03,Automated subscription management for wireless devices having multiple subscription profiles,0,H04W
+12324011,2025-06-03,Limiting uplink noise by adjusting MIMO transmission layers,0,H04B|H04J|H04L|H04W
+12323990,2025-06-03,Memory access for a user application in a wireless communication device,0,H04W
+12323965,2025-06-03,Dynamic resource allocation management relating to wireless access technologies on a common range of frequencies,0,H04W
+12323907,2025-06-03,User application delivery over ad-hoc wireless communication networks,0,H04W
+12323850,2025-06-03,Dynamic assignment of uplink discard timers,0,H04W
+12323800,2025-06-03,Network access based on AI filtering,0,G06N|H04W
+12322276,2025-06-03,Haptic notification system and method,0,G06F|G08B
+12321809,2025-06-03,"RFID read zone mapping, testing, and monitoring using a silent RFID tag",0,G06K|G06Q
+12317197,2025-05-27,Mechanism for uplink waveform switching,0,H04L|H04W
+12317134,2025-05-27,Managing a baseband network policy,0,H04W
+12309818,2025-05-20,Eliminating overlapping spectrum interference using orthogonal codes,0,H04L|H04W
+12309674,2025-05-20,Near real-time network service deployment across different wireless communication protocols,0,H04L|H04W
+12309591,2025-05-20,Random data integrity protection in a wireless communication network,0,H04W
+12309581,2025-05-20,Multi-level authentication security service,0,H04L|H04W
+12302448,2025-05-13,Rescue system,0,G01S|G05D|G06F|G08B|H04M|H04W
+12302287,2025-05-13,Method to communicate service type in a paging message for 4G/5G cellular communication,0,H04W
+12302139,2025-05-13,Method to provide radio base station performance measurements with enhanced granularity,0,H04W
+12301669,2025-05-13,Default bearer use for multimedia sessions in wireless communication networks,0,H04L
+12301637,2025-05-13,Inhibiting active session drop during registration expiration in wireless communication networks,0,H04L
+12298419,2025-05-13,User geographic location attestation by a wireless communication system,0,G01S|H04W
+12295069,2025-05-06,Network service continuity in IP multimedia subsystem layer,0,H04W
+12294929,2025-05-06,Rapid user equipment route selection policy rule processing,0,H04L|H04W
+12294924,2025-05-06,Distributed ledger control over wireless network slices,0,H04L|H04M|H04W
+12293130,2025-05-06,Sound propagation in virtual reality,0,G06F|H04R
+12289663,2025-04-29,Managing access requests in a redundant network environment,0,H04W
+12279340,2025-04-15,Slices for applications based on multiple active SIM profiles,0,H04W|Y02D
+12278860,2025-04-15,Methods and systems for distributing rendering across devices in a customer premise,0,G06T|H04L
+12277131,2025-04-15,Metadata driven automatic data integration,0,G06F
+12273837,2025-04-08,Systems and methods for quantum based network time validation,0,G04R|H04W
+12273767,2025-04-08,Methods and systems to support wireless local area network (WLAN) quality of service (QoS),0,H04L|H04M|H04W
+12273407,2025-04-08,Extended reality device identification by internet gateway,0,H04L|H04W
+12271280,2025-04-08,Systems and methods for performing automated end-to-end testing of computer systems,0,G06F
+12267907,2025-04-01,User equipment (UE) grouping in a wireless communication network,0,H04W
+12267790,2025-04-01,"PMAX control for 5G multicarrier, multiband system",0,H04W
+12267729,2025-04-01,Data router connectivity to wireless communication slices,0,H04L|H04W
+12267693,2025-04-01,In-building coverage analytics using mobile measured data,0,H04W
+12267680,2025-04-01,Wireless communication service over an edge data network (EDN) between a user equipment (UE) and an application server (AS),0,H04L|H04W
+12262449,2025-03-25,Data attestation in a wireless communication system,0,G01S|H04W
+12262312,2025-03-25,Unified data repository (UDR) access across wireless communication networks,0,H04L|H04M|H04W
+12260497,2025-03-25,Capacity management of virtual space in the metaverse,0,G06F|G06T
+12256448,2025-03-18,Trigger based configuration of wireless protocols in communication networks,0,H04W
+12250650,2025-03-11,System and methods for dynamic synchronization signal block periodicity modifications,0,H04W
+12250622,2025-03-11,Automated discovery schedules for telecommunication service networks,0,H04W
+12250607,2025-03-11,MmWave to Wi-Fi control signal offloading in the event of fading in the mmWave system,1,H04W
+12250562,2025-03-11,Systems and methods for configuring and connecting unplanned small cells,0,H04B|H04W
+12250552,2025-03-11,Enhanced selective attestation of wireless communications,0,H04W
+12248903,2025-03-11,Portable drone delivery pad,0,B64C|B64U|G06Q|G07C
+12248608,2025-03-11,Use of semantically segmented filenames,0,G06F
+12245231,2025-03-04,System and method for dynamically adjusting in-band carriers,0,H04W
+12245166,2025-03-04,Reference signal enhancement in a wireless communication network,0,H04L|H04W
+12245025,2025-03-04,"Data communication service over a virtual private network gateway, application function, and network exposure function",0,H04L|H04W|Y02D
+12244669,2025-03-04,IoT device one tap activation,0,G06Q|G06V|G16Y|H04L|H04W
+12241958,2025-03-04,Incorporating radar technology in a time-division duplex radio access network,0,G01S|G08G|H04L
+12238549,2025-02-25,Mobile terminating device readiness,0,H04L|H04W
+12238541,2025-02-25,Configuration of a wireless network centralized unit (CU) and multiple wireless network distributed units (DUS),0,H04L|H04W
+12238537,2025-02-25,Dynamic radio architecture beam pattern control,0,H04B|H04W
+12238534,2025-02-25,Network expansion optimization,0,H04W
+12231962,2025-02-18,Optimizing layer assignment based on QCI,0,H04W
+12231893,2025-02-18,Operating system integrity measurement and attestation,0,H04W
+12231891,2025-02-18,Remote user device deauthentication,0,H04W
+12231293,2025-02-18,Interplanetary file system (IPFS) in instantiating and recording virtual network function (VNF),0,H04L
+12231214,2025-02-18,Wireless relay slices in a wireless communication network,0,H04B|H04W|Y02D
+12229610,2025-02-18,System and method of controlling lifecycles of ambient electromagnetic power harvesting chips,0,G06F|G06K|H04L
+12225474,2025-02-11,Uplink transmission power adjustment in 5G NR communication networks,0,H04W
+12225442,2025-02-11,In-vehicle multi-user wireless communication connectivity,0,H04W
+12225088,2025-02-11,Edge computing network topology hiding,0,H04L
+12224846,2025-02-11,Air to ground wireless repeater/relay system,0,H04B|H04W
+12224818,2025-02-11,Priority-based MU-MIMO pairing threshold for codebook beamforming in 5G NR massive MIMO systems,0,H04B|H04W
+12219361,2025-02-04,5G network slice device security protection,0,G06F|H04L|H04W
+12219091,2025-02-04,Enhanced call waiting for user equipment,0,H04M|H04W
+12218958,2025-02-04,Security threat mitigations in a zero trust network architecture,0,H04L
+12213011,2025-01-28,Wireless data service delivery to a wireless UE based on a security policy for the wireless UE,0,H04W
+12212607,2025-01-28,Internet protocol multimedia subsystem (IMS) slicing,0,H04L
+12212468,2025-01-28,System and method for managing network topology for metaverse services,0,H04L
+12212411,2025-01-28,System and method for dynamically switching frame configuration format,0,H04L|H04W
+12207337,2025-01-21,User equipment network radio link state management for ambient electromagnetic power harvesting chip reader applications and devices,0,H04W
+12207284,2025-01-21,Scheduler systems and methods,0,H04W
+12207175,2025-01-21,Dynamic RAT determination for common resource blocks,0,H04B|H04W
+12206633,2025-01-21,Real-time chat service file transfer across different networks,0,H04L
+12200815,2025-01-14,Subscriber identity module (SIM) remote update agent,0,H04L|H04W
+12200617,2025-01-14,System and method for provisioning multiple network slices for concurrent use by an application,0,H04W
+12200574,2025-01-14,Dynamic tracing in wireless communication networks,0,H04L|H04W
+12200018,2025-01-14,Providing selective IMS services to endpoints,0,H04L
+12193081,2025-01-07,Edge computing in 4G and 5G cores based on application usage,0,H04L|H04W
+12192983,2025-01-07,Dynamic SSB beam allocation,0,H04B|H04W
+12192977,2025-01-07,Managing wireless device frequency band assignment,0,H04W
+12192844,2025-01-07,Configuration of wireless access nodes by distributed ledgers,0,H04L|H04W
+12192794,2025-01-07,Accurate signal icon in both idle mode and connected mode,0,H04B|H04W
+12184477,2024-12-31,Systems and methods for determining and correcting network failures in a wireless telecommunications network,0,H04L|H04W
+12184367,2024-12-31,Systems and methods for cell-level beamforming mode adaptation,0,H04B|H04W
+12177938,2024-12-24,Method and system for optimizing device retry behavior,0,H04W
+12177928,2024-12-24,Wireless user equipment (UE) control over wireless network slices based on slice requirements,0,H04W|Y02D
+12177888,2024-12-24,Wireless communication network access for wireless user equipment based on their wireless network slices,0,H04L|H04W
+12177791,2024-12-24,Fixed wireless access for multi-unit structures,0,H04W
+12177690,2024-12-24,Dynamic antenna beam management,0,H04B|H04W
+12175104,2024-12-24,Offset-based memory management for integrated circuits and programmable network devices,0,G06F
+12170942,2024-12-17,Subscriber identity module device for emergency communications,0,H04W
+12169739,2024-12-17,Computer system execution environment builder tool,0,G06F
+12169567,2024-12-17,Data communication service in a trusted execution environment (TEE) at the network edge,0,G06F|H04L
+12167430,2024-12-10,Centralized network policy controller and method for operating,0,H04L|H04W
+12167360,2024-12-10,Event triggered network migration of subscribers,0,H04M|H04W
+12166856,2024-12-10,Blockchain foundry built into integrated circuit,0,G06F|H04L|H04W
+12164987,2024-12-10,System and method of controlling unique identities of ambient electromagnetic power harvesting chips,0,G06F|G06K|G06Q
+12160747,2024-12-03,Network access based on device type,0,H04W
+12156284,2024-11-26,Network function discovery through network repository functions in a wireless communication network,0,H04W
+12156193,2024-11-26,System and method for spectrum management of overlapping bandwidth,0,H04W
+12156162,2024-11-26,Wireless communication service delivery to user equipment (UE) using an access and mobility management function (AMF),0,H04L|H04W|Y02D
+12155659,2024-11-26,Token based identity verification and consent management,0,H04L
+12155534,2024-11-26,Service communication proxy (SCP) that serves network topology data,0,G06F|H04L
+12155423,2024-11-26,Battery coupled radio frequency identity (RFID),0,G06K|H01M|H04B|H04L|Y02E
+12150206,2024-11-19,Wireless communication network authorization of home user equipment and visiting user equipment,0,H04W
+12149575,2024-11-19,Enhanced gateway device and service for streaming content,0,H04L|H04N
+12149566,2024-11-19,Call Session Control Function (CSCF) reselection in wireless communication networks,0,H04L
+12144062,2024-11-12,Audio encoding and transmission of identifier to assist in eSIM reservation process,0,H04W
+12143940,2024-11-12,Massive MIMO beamforming mode control to combat remote interference due to tropospheric ducting,0,H04B|H04W
+12143902,2024-11-12,Wireless network access to wireless network slices over a common radio channel,0,H04W|Y02D
+12143836,2024-11-12,Optimization of device configuration relating to wireless access technologies,0,H04W
+12143821,2024-11-12,Fraud detection in wireless communication networks,0,H04B|H04W
+12143414,2024-11-12,Penetration testing in zero trust network environment,0,H04L
+12143378,2024-11-12,Multimedia message (MMS) object sequences as multi-factor authentication (MFA) for user identification in 5G,0,H04L
+12143283,2024-11-12,Network monitoring tool,0,H04L|H04W
+12143210,2024-11-12,Dynamic rat assignment for dual-capable iot devices,0,H04L|H04W
+12137424,2024-11-05,Dual connectivity (DC) power control,0,H04W
+12137378,2024-11-05,Wireless communication service delivery responsive to user equipment (UE) handovers,0,H04M|H04W|Y02D
+12136092,2024-11-05,Secure management of execution of an application,0,G06F|G06Q|H04L|H04W
+12133174,2024-10-29,Wireless access node uplink power control based on uplink error rate,0,H04B|H04L|H04W
+12132782,2024-10-29,Methods and systems for ledger based content delivery using a mobile edge computing (MEC) server,1,H04L
+12132626,2024-10-29,Automated performance retrieval and automated performance remediation and incident resolution,0,H04L
+12127232,2024-10-22,Detection and mitigation of time of flight interference events,0,H04B|H04W
+12127111,2024-10-22,Wireless communication service over a network slice that comprises a network exposure function (NEF),0,H04W|Y02D
+12124510,2024-10-22,Methods and systems for efficient data importation for data visualization,0,G06F
+12120768,2024-10-15,OpenRAN peer to peer content exchange,0,H04L|H04W
+12120584,2024-10-15,Sending a voice clip as a short message service (SMS) message in place of a voicemail message,0,H04W
+12120518,2024-10-15,Cryptographic identification of false base stations,0,H04W
+12114256,2024-10-08,Wireless access node selection based on received signal strength (RSS) and access node co-location,0,H04W
+12114255,2024-10-08,Data communication system to serve a user equipment (UE) over a third generation partnership project (3GPP) network core,0,G06F|H04L|H04W
+12114220,2024-10-08,User equipment (UE) roaming based on network performance,0,H04W|Y02D
+12113683,2024-10-08,Immutable archiving of remote controlled user equipment telemetry-command data for wireless communications networks systems and applications,0,H04L
+12113662,2024-10-08,Association of related incidents to a telecommunication network large-scale event,0,H04L
+12108468,2024-10-01,Cell selection management for airborne mobile stations,0,H04W
+12108378,2024-10-01,Dynamic cell shaping using load information on transmitted beam patterns,0,H04B|H04W
+12108295,2024-10-01,Wireless data service over public land mobile networks (PLMNs) that have different priorities in wireless user equipment,0,H04W
+12108244,2024-10-01,System and method for masking user application usage,0,H04W
+12107868,2024-10-01,Ledger-based protocol to verify sources and transmit communications,0,H04L|H04W
+12107790,2024-10-01,Dynamic beam sweeping based on content usage,0,H04B|H04L
+12107773,2024-10-01,System and method for dynamic physical resource block allocation across networks using a virtualization layer,0,H04L
+12106312,2024-10-01,Automated generation of behavioral sitelist,0,G06Q
+12101536,2024-09-24,Machine learning based selective pre-caching of content fragments on wireless communication devices,0,G06N|H04L|H04N|H04W
+12096500,2024-09-17,Optimizing EN-DC networks,0,H04W
+12096402,2024-09-17,Frequency band selection for integrated access and backhaul (IAB) in wireless communication networks,0,H04W
+12096372,2024-09-17,Dual connectivity uplink power management,0,H04W
+12096235,2024-09-17,Network expansion optimization,0,H04W
+12089233,2024-09-10,Adaptive UE capability indicators,0,H04W
+12089067,2024-09-10,PDCCH link control based on timing advance and user service beam mode in massive MIMO systems,0,H04B|H04W
+12088660,2024-09-10,Data communication system to selectively and securely couple distributed ledgers with artificial intelligence (AI) engines,0,G06F|G06N|H04L|H04W
+12088386,2024-09-10,Systems and methods for dynamic MIMO-mode switching based on user device mobility,0,H04B|H04W
+12082091,2024-09-03,Uncertainty based selection for location reporting in E911 systems,0,H04W
+12082033,2024-09-03,Identifying a worst interfering sector,0,H04B|H04W
+12081999,2024-09-03,Determining placement of a small cell,0,G06T|G06V|H04B|H04W
+12075526,2024-08-27,Priority service over wireless communication networks,0,H04W
+12075514,2024-08-27,DRX control for wireless user equipment,0,H04W|Y02D
+12075303,2024-08-27,Wireless user device handovers based on quality-of-service,0,H04W|Y02D
+12075293,2024-08-27,Handover control in a wireless user equipment (UE),0,H04W
+12075245,2024-08-27,Wireless network slice access based on encrypted slice certificates that indicate slice characteristics,0,H04W
+12073417,2024-08-27,Anti-counterfeiting system for bottled products,4,G06F|G06K|G06Q|H04B
+12072916,2024-08-27,Methods and systems for querying data within a geographical boundary using a query tool,1,G06F
+12069548,2024-08-20,Method of sensing-data collection and transport at remote radio head,0,H04B|H04W
+12069177,2024-08-20,Multi-level access distributed ledger system,0,G06F|H04L
+12068879,2024-08-20,Smart device provisioning,0,G05B|G06F|G06N|H04L
+12068612,2024-08-20,Wearable charging unit and system,0,G06F|H02J
+12067000,2024-08-20,Methods and systems to process asynchronous transactions at a management system,0,G06F|G06Q|H04M
+12063708,2024-08-13,Routing subscriber messages to different home servers,0,H04W
+12063509,2024-08-13,Hyperledger authorization into a radio access network (RAN),0,H04L|H04W
+12061843,2024-08-13,Presentation layer for portable electronic assistant,0,G05B|G06F|H04L
+12061713,2024-08-13,Database management tool,0,G06F
+12057994,2024-08-06,Telecommunication network large-scale event root cause analysis,2,H04L
+12052700,2024-07-30,Primary component carrier control in a wireless access node that uses multiple radio frequency bands,0,H04B|H04L|H04W
+12052669,2024-07-30,Minimizing uplink interference in wireless networks,0,H04B|H04W
+12052656,2024-07-30,Shim application for enclave separation,0,G06F|H04W
+12052582,2024-07-30,Downtime optimized network upgrade process,0,H04W
+12052319,2024-07-30,Static discovery fallback for query-based network function interaction discovery,0,G06F|H04L
+12048063,2024-07-23,Automated subscription management for wireless devices having multiple subscription profiles,1,H04W
+12048055,2024-07-23,Wireless bearer enhancement between a wireless relay and a wireless access point,0,H04B|H04W
+12048044,2024-07-23,Wireless communication network to serve a user equipment (UE) over a user plane function group (UPFG),0,H04W
+12047136,2024-07-23,Wireless communication through a physical barrier using beamforming power control,0,H04B|H04W
+12041530,2024-07-16,Wireless access node selection based on wireless network slice support,0,H04W
+12039491,2024-07-16,Item tracking with a wireless communication system based on a fifth generation identifier (5GID) and a global tracking item number (GTIN),0,G06Q|H04L
+12039473,2024-07-16,Software development project infrastructure builder tool,0,G06F|G06Q
+12035302,2024-07-09,Service based uplink scheduling in communication networks,0,H04W
+12034738,2024-07-09,Securing border gateway protocol route propagation and updating,0,H04L
+12028919,2024-07-02,Method and systems to optimize the target EN-DC node selection for an extended 5GNR coverage,0,H04B|H04W
+12028769,2024-07-02,mmWave to Wi-Fi control signal offloading in the event of fading in the mmWave system,2,H04W
+12028768,2024-07-02,Method and system for cell prioritization,0,H04W
+12028763,2024-07-02,Dynamic determination of optimal primary and secondary component carriers,0,H04W
+12028736,2024-07-02,Adaptive distribution of content,0,H04B|H04L|H04W
+12028482,2024-07-02,Initiate “send information via text” button during a branded call,0,H04M|H04W
+12028431,2024-07-02,Unified notification system,0,H04L
+12028423,2024-07-02,Owner controlled and incentivised smartphone platform based on microservices,0,G06Q|H04L|H04W
+12028267,2024-07-02,Dynamic channel allocation of narrowband internet of things and long-term evolution machine communications,0,G16Y|H04L|H04W
+12028221,2024-07-02,Network anomaly detection using a multivariate-relations engine,1,H04L
+12028209,2024-07-02,Intelligent application for network change management,0,H04L
+12022284,2024-06-25,System and methods for over-the-air SIM profile transfer,0,H04L|H04W
+12016047,2024-06-18,Access technology avoidance for a communication session,0,H04W
+12015960,2024-06-18,System and method for redirection to optimal antenna arrays,0,H04B|H04W
+12015687,2024-06-18,Securing communications in a network function virtualization (NFV) core network,0,G06F|H04L
+12010751,2024-06-11,Selecting voice over new radio or evolved packet system fallback,0,H04W
+12010633,2024-06-11,"SPR as a criterion to determine the frequencies that would be allocated for inter-band carrier aggregation, intra-band carrier aggregation, or dynamic spectrum sharing",0,H04B|H04W
+12010632,2024-06-11,Optimizing coverage and power usage in a network deploying an unlicensed band,0,H04W
+12010604,2024-06-11,Wireless communication service responsive to an artificial intelligence (AI) network,0,H04L|H04W
+12010603,2024-06-11,International call route generation based on analyzing minutes of use key performance indicators (KPIs) associated with an international communication service carrier,0,H04L|H04M|H04W
+12010514,2024-06-11,Methods and systems to authenticate a user account using an internet protocol (IP) address,0,H04W
+12010071,2024-06-11,System and method for full duplex using code multiplexing,0,H04L|H04W
+12004231,2024-06-04,Non-blind scheduling of a physical downlink control channel (PDCCH) control channel element (CCE) aggregation level (AL) for common search space (CSS),0,H04B|H04L|H04W
+12004200,2024-06-04,Systems and methods for broadcast control channel power boost scheduling for wireless communications base stations,0,H04L|H04W
+12004112,2024-06-04,Minimizing service interruptions during tracking area update procedures,0,H04B|H04W
+12004067,2024-06-04,Wireless communication relay service over multiple network transceivers,0,H04L|H04W|Y02D
+12004010,2024-06-04,Managing a core network policy,0,H04L|H04W
+12002117,2024-06-04,Advanced metering with distributed ledger control,0,G06Q|H04L
+11997594,2024-05-28,Dynamic selection of an anchor node,0,H04W
+11997574,2024-05-28,Systems and methods for a micro-service data gateway,0,H04L|H04W
+11997535,2024-05-28,Methods for delivering network slices to a user,0,H04W
+11997510,2024-05-28,Wireless communication network access using different functionality splits for different communication services,1,H04W
+11997490,2024-05-28,Network access based on AI filtering,0,G06N|H04W
+11997198,2024-05-28,Quantum authentication in wireless communication networks,0,H04L|H04W|Y02D
+11996987,2024-05-28,Real-time diagnostic monitoring and connectivity issue resolution by a machine-learning data model,0,H04L|H04W
+11991783,2024-05-21,Data network name (DNN) modification for a wireless user equipment (UE) in wireless communication networks,0,H04W
+11991577,2024-05-21,Dynamic assignment of users in a multi-band network based on the antenna sector power ratio (SPR),0,H04W
+11991563,2024-05-21,Wireless communication network handovers of wireless user equipment that execute low-latency applications,1,H04W
+11991558,2024-05-21,Network slicing in a wireless communication network,0,H04W
+11991536,2024-05-21,Multiplexing technology selection,0,H04L|H04W
+11991217,2024-05-21,Media content service delivery in a wireless communication network,0,H04L|H04W
+11991045,2024-05-21,Managing network configurations,0,H04L
+11985561,2024-05-14,Limiting mobility between networks based on cell ID,0,H04W
+11985540,2024-05-14,Control-plane overload management,0,H04W
+11985517,2024-05-14,Wireless communication network service using Network Repository Functions (NRFs),0,H04W
+11985507,2024-05-14,Subscriber identification module (SIM) authentication protections,1,H04L|H04W
+11985501,2024-05-14,Third generation partnership project (3GPP) service delivery to non-3GPP user devices over 3GPP N1 links,0,H04W
+11983582,2024-05-14,Wireless communication service for items that wirelessly transmit product identifiers and network identifiers,0,G06F|H04W
+11979777,2024-05-07,System and method for optimizing use of wireless communication protocols,0,H04W
+11974166,2024-04-30,5G new radio (NR) time division duplexing frame structure management for heavy uplink traffic site,0,H04L|H04W
+11974164,2024-04-30,Wireless network slice optimization for user applications,0,H04W
+11972846,2024-04-30,Healthcare worker smart visor,0,G02B|G06T|G06V|G10L|G16H|H04B
+11968702,2024-04-23,Dynamic RAT and layer management assignment for dual-capable IoT devices,0,G16Y|H04B|H04W|Y02D
+11968642,2024-04-23,User equipment (UE) status information delivery in a wireless communication network,0,H04L|H04W
+11968098,2024-04-23,Automated data backfilling for network data processing,0,H04L
+11963126,2024-04-16,Network function deregistration in wireless communication networks,0,H04L|H04W
+11963080,2024-04-16,Dynamic intelligent alert edge computing system and method,0,H04W
+11962641,2024-04-16,Local content serving at edge base station node,0,H04L|H04W
+11962477,2024-04-16,Human-automation interoperability: incident reporting tool,0,H04L
+11956702,2024-04-09,User equipment (UE) service over a network exposure function (NEF) in a wireless communication network,0,H04L|H04W|Y02D
+11956150,2024-04-09,Programmable networking device for packet processing and security,0,H04L
+11953998,2024-04-09,"Trusted backup of computer including operating system, firmware, and essential data",0,G06F|H04W
+11943841,2024-03-26,Transmission control protocol (TCP) control over radio communications,0,H04B|H04L|H04W
+11943171,2024-03-26,Assigning physical block resources,0,H04L|H04W
+11940547,2024-03-26,Method to determine the quality of civic address produced by reverse geocoder,0,G01S|H04B|H04M|H04W
+11937143,2024-03-19,Method and system for overcoming handover failures between mini macros,0,H04W
+11937134,2024-03-19,Wireless communication service using multiple radio access technology (RAT) types,1,H04W
+11937133,2024-03-19,Optimizing layer assignment during EPS fallback procedures,0,H04W
+11934430,2024-03-19,Visualization of elevation between geographic locations using segmented vectors based on ground and clutter elevation data,3,G06F|G06T|H04W
+11934367,2024-03-19,Data management and de-duplication at a storage server,0,G06F
+11930559,2024-03-12,Multiple input multiple output (MIMO) layer control for wireless user equipment,0,H04B|H04W
+11930462,2024-03-12,Network generated precision time,0,G06F|H04W
+11930459,2024-03-12,Dynamic modification of antenna beamforming functionality,0,H04B|H04L|H04W
+11930366,2024-03-12,Automated suspect device filtering on equipment identity registers,1,H04L|H04W
+11924908,2024-03-05,User equipment network radio link state management for ambient electromagnetic power harvesting chip reader applications and devices,6,H04W
+11924733,2024-03-05,System and method for device management to restrict handover and attach,0,H04W
+11924655,2024-03-05,Method to dynamically adjust 4G LTE reference signal power to match 5G NR coverage footprint to avoid voice over 4G fallback failures for 5G subscribers,0,H04B|H04L|H04W
+11924637,2024-03-05,Automatic in-store subscriber device detection and processing,1,H04W
+11924259,2024-03-05,System and method for transmitting non-audio data through existing communication protocols,0,H04L
+11924006,2024-03-05,Enhanced method to do channel estimation in a multiple input multiple output based cellular radio technology by leveraging radio power reception level at per antenna element,0,H04B|H04L|H04W
+11917672,2024-02-27,Determining radio signal metrics for specified resource blocks,0,H04B|H04W|Y02D
+11917508,2024-02-27,Electronic subscriber identity module (eSIM) management platform,2,H04L|H04W
+11917490,2024-02-27,Uncertainty based location reporting in E911 systems,0,H04W
+11917432,2024-02-27,Base station node monitoring and rebooting,0,H04L|H04W
+11916761,2024-02-27,Systems and methods for dynamically delivering value-added services,0,H04L|H04W
+11914553,2024-02-27,Methods and systems for analyzing similarities across tables and databases to perform de-duplication in a storage server,0,G06F
+11910481,2024-02-20,Systems and methods for provisioning user equipment with an eSIM profile,1,H04W
+11910448,2024-02-20,Random access channel preamble assignments for dual connectivity,0,H04W
+11910205,2024-02-20,Messaging in a wireless communication network,0,H04L|H04W
+11910194,2024-02-20,Secondary device authentication proxied from authenticated primary device,0,H04L|H04W
+11909827,2024-02-20,Edge computing network topology hiding,1,H04L
+11902952,2024-02-13,Carrier aggregation grouping based on user location in 5G NR massive MIMO beamforming network,0,H04B|H04W
+11902948,2024-02-13,Adaptive primary component carrier switching in massive MIMO based on beamforming calibration status,0,H04B|H04W
+11902825,2024-02-13,Dynamically disabling beamforming capabilities,0,H04B|H04W
+11902823,2024-02-13,Methods and systems to support wireless local area network (WLAN) quality of service (QoS),1,H04L|H04M|H04W
+11902788,2024-02-13,5G hyperledger slice security framework,1,H04W
+11902780,2024-02-13,Wireless media conferencing,0,G06F|H04L|H04M|H04W
+11902152,2024-02-13,Secure enclave of UE route selection policy rules in the 5G device or network slicing,0,H04L
+11901983,2024-02-13,Selectively assigning uplink transmission layers,0,H04B|H04L|H04W
+11900198,2024-02-13,Multi-tier identities in an RFID chip,6,G06K|H04L
+11899628,2024-02-13,Consolidation of user plane and control plane reports in a 5G communication network,0,G06F|H04L|H04W
+11895719,2024-02-06,Trigger based configuration of wireless protocols in communication networks,2,H04W
+11895497,2024-02-06,Wireless gateway with multiple processors managed by trusted processor,0,H04W
+11895066,2024-02-06,Real-time chat service file transfer across different networks,1,H04L
+11893250,2024-02-06,Offset-based memory management for integrated circuits and programmable network devices,0,G06F
+11892984,2024-02-06,Method of building and searching a multi-dimensional cross-linked distributed ledger,0,G06F|H04L|H04W
+11889593,2024-01-30,Wireless communication service over an edge data network (EDN) between a user equipment (UE) and an application server (AS),0,H04L|H04W
+11889543,2024-01-30,Frequency band selection in a wireless access node,0,H04B|H04L|H04W
+11889472,2024-01-30,Wireless communication system to deliver pages to wireless communication devices based on wireless fidelity network identifiers,0,H04W
+11888598,2024-01-30,Central routing function (CRF) implementation on a call route,1,H04L
+11887109,2024-01-30,Service composition in a mobile communication device application framework,1,G06Q|H04L|H04W
+11882539,2024-01-23,Network slice registrar virtual network function,0,H04L|H04M|H04W
+11882538,2024-01-23,Wireless user equipment (UE) registration with networking data responsive to external control,0,H04W
+11882441,2024-01-23,Quantum authentication for wireless user equipment (UE),0,H04L|H04W|Y02D
+11877349,2024-01-16,Slices for applications based on multiple active sim profiles,1,H04W|Y02D
+11877285,2024-01-16,Dynamic wireless network architecture to serve uplink-centric and downlink-centric user applications,0,H04L|H04W
+11877221,2024-01-16,Uncertainty based altitude filtering for location reporting in E911 systems,0,H04M|H04W
+11871443,2024-01-09,Public stewardship entity wireless communication network portal,1,H04L|H04W
+11870733,2024-01-09,Dynamically deactivating and reactivating cell sites based on a radar signal alert broadcast,0,H04L|H04W
+11870515,2024-01-09,Priority-based MU-MIMO pairing threshold for codebook beamforming in 5G NR massive MIMO systems,0,H04B|H04W
+11864277,2024-01-02,Wireless communication network communications through session communication proxies,0,H04L|H04W|Y02D
+11864220,2024-01-02,Systems and methods for controlling beam parameters to improve signal strength,0,H04B|H04W
+11864213,2024-01-02,Reducing wireless device capabilities based on usage,0,H04L|H04W
+11864148,2024-01-02,Event triggered network migration of subscribers,1,H04M|H04W
+11864102,2024-01-02,Wireless communication service over a network slice that comprises a network exposure function (NEF),0,H04W|Y02D
+11864099,2024-01-02,Unified data repository (UDR) access across wireless communication networks,1,H04L|H04M|H04W
+11864017,2024-01-02,Selective retransmission method for uplink overhead reduction,0,H04B|H04L|H04W
+11864005,2024-01-02,Optimized carrier combination selection,0,H04W
+11863628,2024-01-02,Adaptive mobile communication device,0,G06F|H04L|H04M|H04W
+11863599,2024-01-02,Session initiation protocol (SIP) based transfer of user information from an inviting user to an invited user,0,H04L
+11863254,2024-01-02,Power management of redundant array based on network conditions,0,H04B|H04W
+11860688,2024-01-02,Network generated precision time,0,G04R|G06F|H04J|H04L|H04W
+11856520,2023-12-26,Network-assisted charging prioritization for cellular unmanned aerial vehicles,0,B64U|H04W
+11856416,2023-12-26,Dynamic antenna beam management,0,H04B|H04W
+11849354,2023-12-19,Managing a baseband network policy,1,H04W
+11849320,2023-12-19,Trusted operating system in an internet of things (IoT) device,0,G06F|H04L|H04W
+11848843,2023-12-19,Network anomaly detection using machine learning models,0,G06N|H04L
+11848814,2023-12-19,Root cause incident detection using an alarm correlation engine,0,H04L
+11847205,2023-12-19,Trusted 5G network function virtualization of virtual network function elements embedded on a system-on-chip,0,G06F|H04L
+11844134,2023-12-12,Cell site repair part prediction machine learning system,1,G06Q|H04B|H04L|H04W
+11844006,2023-12-12,In-vehicle multi-user wireless communication connectivity,1,H04W
+11843983,2023-12-12,Re-directing a dual configuration (NSA/SA) UE to standalone 5G NR node,0,H04W
+11843958,2023-12-12,Method and system for enhancing cellular network coverage,0,H04B|H04W
+11838988,2023-12-05,Wireless user equipment (UE) capability data transfer between wireless communication networks,0,H04W|Y02D
+11838986,2023-12-05,Policy enforcement across wireless communication networks over application functions,0,H04L|H04W
+11838985,2023-12-05,Policy-based management of embedded subscriber identity module (eSIM) profiles,0,H04W
+11838791,2023-12-05,Requesting upgraded quality of service (QoS) delivered via temporary spectrum allocation,0,H04L|H04W
+11836225,2023-12-05,System and methods for preventing unauthorized replay of a software container,0,G06F
+11832155,2023-11-28,Consistent policy enforcement across networks,1,H04W
+11832136,2023-11-28,Dynamic handover trigger based on primary path throughput,0,H04L|H04W
+11831803,2023-11-28,Ghost call vulnerability during call setup silent voice over IP denial-of-service,0,H04L|H04M
+11831701,2023-11-28,Extended reality device identification by internet gateway,2,H04L|H04W
+11831369,2023-11-28,Efficient technique to improve performance of massive MIMO,0,H04B|H04W
+11825549,2023-11-21,Electronic subscriber identity module (eSIM) profile provisioning,0,H04W
+11825500,2023-11-21,Variable downlink configurations for co-located and non-co-located base stations,1,H04J|H04W
+11825367,2023-11-21,Handover based on wireless user equipment (UE) capabilities,0,H04W|Y02D
+11818796,2023-11-14,Distributed computing across a wireless communications network,1,H04W
+11818267,2023-11-14,Multi-level access distributed ledger system,3,G06F|H04L
+11818207,2023-11-14,Methods and systems for ledger based content delivery using a mobile edge computing (MEC) server,3,H04L
+11812364,2023-11-07,Method and system for determining coverage access,0,H04W
+11809924,2023-11-07,Wireless communication service over a network exposure function (NEF) that has an application programming interface (API),0,G06F|H04L|H04W
+11809562,2023-11-07,Operating system kernel analysis to detect a cyber attack,0,G06F
+11805480,2023-10-31,Wireless network slice selection in wireless user equipment (UE),0,G06F|H04W
+11805463,2023-10-31,User equipment (UE) handover in wireless communication networks,1,H04W
+11805452,2023-10-31,Handover control in a wireless user equipment (UE),0,H04W
+11805403,2023-10-31,SIM-based update management,0,H04W
+11800380,2023-10-24,Flexible uplink waveform selection,0,H04J|H04L|H04W
+11792711,2023-10-17,Voice signal handover during voice over new radio sessions,0,H04W
+11792679,2023-10-17,Wireless data service using dynamic data rates based on serving radio bands and historical data rates,0,H04W|Y02D
+11792642,2023-10-17,"Data communication service over a virtual private network gateway, application function, and network exposure function",0,H04L|H04W|Y02D
+11792628,2023-10-17,Uplink data burst in a wireless communication network,0,H04L|H04M|H04W|Y02D
+11792259,2023-10-17,Methods and systems for distributing rendering across devices in a customer premise,3,G06T|H04L
+11791983,2023-10-17,Blockchain foundry built into integrated circuit,1,G06F|H04L|H04W
+11789986,2023-10-17,Methods and systems for querying data within a geographical boundary using a query tool,5,G06F
+11789974,2023-10-17,Synchronization of distributed ledger processes,0,G06F
+11785636,2023-10-10,Wireless communication network access for wireless user equipment based on their wireless network slices,1,H04L|H04W
+11785631,2023-10-10,Predictive model for high-capacity frequencies in mobile broadband,0,H04B|H04W
+11785588,2023-10-10,Managing wireless device frequency band assignment,1,H04W
+11785445,2023-10-10,Wireless communication service over a network exposure function and multiple unified data elements,0,G06F|H04L|H04W
+11785444,2023-10-10,Embedded subscriber identity module (eSIM) profile adaptation based on context,2,G16Y|H04L|H04W
+11785423,2023-10-10,Delivery of geographic location for user equipment (UE) in a wireless communication network,0,H04W
+11784965,2023-10-10,Wireless communication service delivery over co-located gateway user planes,0,H04L|H04W
+11783341,2023-10-10,System and method of identifying fraud indicators within telecommunications networks,1,G06Q|H04L|H04W
+11783014,2023-10-10,Trust zone hosted secure screen mode for discretionary presentation of sensitive corporate information to trusted endpoints,0,G06F
+11778531,2023-10-03,Data gateway selection for wireless user equipment (UE) handover,0,H04W|Y02D
+11778515,2023-10-03,Internet protocol (IP) communication service over wireless integrated access and backhaul (IAB) links,0,H04W|Y02D
+11778514,2023-10-03,Data router connectivity to wireless communication slices,1,H04L|H04W
+11778453,2023-10-03,Radio access network (RAN) data exposure in a wireless communication network,4,H04L|H04W|Y02D
+11778451,2023-10-03,5G Network Exposure Function (NEF) capturing processor identity,0,H04L|H04W
+11777652,2023-10-03,Method to improve TCP communication for wireless with multi-socket TCP versus single socket,0,H04L|H04W
+11777601,2023-10-03,Systems and methods for providing wireless communications to a device using both optical and radio frequency transmission,0,H04B|H04W
+11777559,2023-10-03,Restricting uplink MIMO assignment based on fading in an mmWAVE system,1,H04B|H04W|Y02D
+11770778,2023-09-26,"PMAX control for 5G multicarrier, multiband system",0,H04W
+11770766,2023-09-26,Power management of secondary node based on network conditions,0,H04W
+11770763,2023-09-26,Dynamic selection of an anchor node,1,H04W
+11765630,2023-09-19,Dynamic antenna 5G NR synchronization signal block beam deactivation,0,H04L|H04W
+11765623,2023-09-19,Systems and methods for dynamic quality of service via radio intelligent controller,3,H04W
+11765576,2023-09-19,Wireless communication service delivery using multiple data Network Names (DNNs),0,H04L|H04W|Y02D
+11765087,2023-09-19,Rapid packet processing at user plane function,1,H04L
+11765045,2023-09-19,Real-time diagnostic monitoring and connectivity issue resolution by a machine-learning data model,5,H04L|H04W
+11758484,2023-09-12,Wireless access node uplink power control based on uplink error rate,1,H04B|H04L|H04W
+11758391,2023-09-12,User equipment (UE) identification in a wireless communication network,0,H04W
+11758373,2023-09-12,Charging over an exposure function in a wireless communication network,0,H04L|H04M|H04W
+11755741,2023-09-12,Trusted boot-loader authentication,0,G06F
+11755402,2023-09-12,Self-healing information technology (IT) testing computer system leveraging predictive method of root cause analysis,2,G06F|G06N
+11751219,2023-09-05,Radio frequency allocation among wireless user equipment and integrated access and backhaul mobile terminations,0,H04B|H04W|Y02D
+11751059,2023-09-05,Subscriber identification module (SIM) application authentication,1,H04L|H04M|H04W
+11751058,2023-09-05,5G network slice device security protection,1,G06F|H04L|H04W
+11751046,2023-09-05,Method and system for optimizing device retry behavior,2,H04W
+11750891,2023-09-05,Machine learning based selective pre-caching of content fragments on wireless communication devices,1,G06N|H04L|H04N|H04W
+11743931,2023-08-29,Antenna SPR as a basis to dynamically cap the MCS index on 5G NR,0,H04L|H04W
+11743923,2023-08-29,Dynamic radio resource provisioning based on network capability parameter,1,H04M|H04W
+11743881,2023-08-29,Dynamic cell shaping using load information on transmitted beam patterns,0,H04B|H04W
+11741175,2023-08-29,Performance metrics collection and promulgation from within a mobile application,0,G06F|G06T|H04L|H04W
+11737166,2023-08-22,Translating virtual network function,1,H04L|H04W
+11737122,2023-08-22,Centralized network policy controller and method for operating,3,H04L|H04W
+11737075,2023-08-22,Dynamic reallocation of transmit power on dual connectivity devices,0,H04L|H04W
+11736966,2023-08-22,Simultaneous wireless communication service over fifth generation new radio (5GNR) and long term evolution (LTE),0,G06F|H04W
+11736432,2023-08-22,Wireless messaging with high-priority quality-of-service,0,H04L|H04W
+11736256,2023-08-22,Dynamic beam sweeping based on content usage,2,H04B|H04L
+11729766,2023-08-15,Wireless data communication service over multiple uplinks,0,H04W
+11729699,2023-08-15,User equipment (UE) control by a non-third generation partnership project (non-3GPP) access node using 3GPP signaling,1,H04W|Y02D
+11729698,2023-08-15,Wireless communication network access control based on wireless network slice usage,0,H04W
+11729136,2023-08-15,Domain name system (DNS) translations for co-located gateway user planes in wireless communication networks,0,H04B|H04L|H04W
+11728981,2023-08-15,Quantum authentication in wireless communication networks,0,H04L|H04W|Y02D
+11722928,2023-08-08,Network slicing in a wireless communication network,1,H04W
+11722880,2023-08-08,Electronic subscriber identity module (eSIM) profile delivery and activation system and methods,2,H04W
+11722492,2023-08-08,System and method for dynamically neutralizing malicious ones of communicating electronic devices,1,G16Y|H04L
+11722005,2023-08-08,Wearable charging unit and system,0,G06F|H02J
+11716745,2023-08-01,Scheduler systems and methods,0,H04W
+11716697,2023-08-01,Network generated precision time,0,G06F|H04W
+11716692,2023-08-01,Proximity based uplink power control,0,H04W
+11716678,2023-08-01,Distributed ledger directory service for wireless communication networks,0,G06F|H04L|H04W
+11716658,2023-08-01,Dynamic assignment of users in a multi-band network based on the antenna sector power ratio,0,H04W
+11716612,2023-08-01,Bootstrap electronic subscriber identity module configuration,2,G06F|H04W
+11714985,2023-08-01,System and method of controlling unique identities of ambient electromagnetic power harvesting chips,7,G06F|G06K|G06Q
+11714177,2023-08-01,Identifying vertical height of user equipment with network assets,0,G01S|H04W
+11711728,2023-07-25,Wireless access network element status reporting,0,H04B|H04L|H04W
+11711704,2023-07-25,Method and system for optimizing network resources,1,H04B|H04L|H04W
+11711700,2023-07-25,Secure provisioning of electronic subscriber identity module (eSIM) profiles,0,H04W
+11711692,2023-07-25,Hardware-trusted ledger client for distributed ledgers that serve wireless network slices,0,G06F|H04L|H04W
+11711673,2023-07-25,Wireless network access to wireless network slices over a common radio channel,0,H04W|Y02D
+11709760,2023-07-25,Automation failure diagnostic tool,1,G06F
+11706830,2023-07-18,Multi-active electronic subscriber identity module profiles for multi-service user equipment,0,G06F|H04W
+11706694,2023-07-18,System and method for closed subscriber group identity allocation for radio access network sharing,0,H04W
+11706634,2023-07-18,Wireless communication network optimization for user applications in wireless user equipment (UE),0,H04W
+11706629,2023-07-18,Subscriber identification module (SIM) authentication protections,1,H04L|H04W
+11700535,2023-07-11,Spectrum management for DSS-based networks,0,H04W
+11700516,2023-07-11,Service modification in wireless communication networks,1,H04W|Y02D
+11700261,2023-07-11,Tool for management of a pool of authorizations to use software,0,H04L
+11696366,2023-07-04,Wireless data service control over radio bands in a wireless communication network,0,H04W
+11696239,2023-07-04,Reference signal enhancement in a wireless communication network,1,H04L|H04W
+11696188,2023-07-04,Wireless communication service delivery responsive to user equipment (UE) handovers,1,H04M|H04W|Y02D
+11689952,2023-06-27,Identifying a worst interfering sector,0,H04B|H04W
+11689915,2023-06-27,System and method for 5G telecommunication call event timestamping,0,H04W
+11689582,2023-06-27,Media content service delivery in a wireless communication network,0,H04L|H04W
+11687547,2023-06-27,System and methods for an automated core dump to a Java heap dump conversion,0,G06F|H04L
+11683775,2023-06-20,System and method for 5G telecommunication UDM instance identification,0,H04W
+11683746,2023-06-20,Wireless data service based on geographic data network names,0,H04W
+11683737,2023-06-20,mmWave to Wi-Fi control signal offloading in the event of fading in the mmWave system,3,H04W
+11683721,2023-06-20,Methods for delivering network slices to a user,1,H04W
+11683689,2023-06-20,Hyperledger authorization into a radio access network (RAN),1,H04L|H04W
+11683672,2023-06-20,Distributed ledger control over wireless network slices,0,H04L|H04M|H04W
+11678280,2023-06-13,System and methods for dynamic synchronization signal block periodicity modifications,1,H04W
+11678230,2023-06-13,Wireless communication network handovers of wireless user equipment that execute low-latency applications,0,H04W
+11678225,2023-06-13,Wireless network slice optimization for user applications,0,H04W
+11671989,2023-06-06,Dynamic assignment of wireless communication protocol to antenna elements of an antenna array,0,H04B|H04L|H04W
+11671928,2023-06-06,Dual connectivity (DC) power control,0,H04W
+11671879,2023-06-06,Wireless communication handovers for non-third generation partnership project (non-3GPP) access nodes,1,H04W|Y02D
+11671820,2023-06-06,Multiple input multiple output (MIMO) layer control for wireless user equipment,0,H04B|H04W
+11671814,2023-06-06,E-911 methods and systems for DBH horizontal uncertainty,0,H04W
+11668784,2023-06-06,Method to determine the quality of civic address produced by reverse geocoder,0,G01S|H04B|H04M|H04W
+11665764,2023-05-30,Dynamically determine optimal 5G new radio configuration for dual radio access technology capable user devices,0,H04W
+11665763,2023-05-30,Method and systems to optimize the target EN-DC node selection for an extended 5GNR coverage,0,H04B|H04W
+11665533,2023-05-30,Secure data analytics sampling within a 5G virtual slice,1,H04L|H04W
+11665532,2023-05-30,Securing private wireless gateways,0,H04L|H04W
+11664861,2023-05-30,Wireless communication through a physical barrier using beamforming power control,1,H04B|H04W
+11659543,2023-05-23,Dynamic SSB beam allocation,0,H04B|H04W
+11656842,2023-05-23,Presentation layer for portable electronic assistant,1,G05B|G06F|H04L
+11653284,2023-05-16,International call route generation based on analyzing minutes of use key performance indicators (KPIS) associated with an international communication service carrier,3,H04L|H04M|H04W
+11641641,2023-05-02,Primary component carrier control in a wireless access node that uses multiple radio frequency bands,0,H04B|H04L|H04W
+11632717,2023-04-18,Measurement time period based on location radio metric variance,0,G01S|H04W
+11632662,2023-04-18,System and method for device management to restrict handover and attach,0,H04W
+11627636,2023-04-11,Wireless communication network communications through session communication proxies,0,H04L|H04W|Y02D
+11627076,2023-04-11,Call route generation for other communication service carriers as a service,3,H04L
+11627011,2023-04-11,Smart device network provisioning,5,G05B|G06F|G06N|H04L
+11625757,2023-04-11,Hybrid selection of target for advertisement campaign,0,G06Q
+11622304,2023-04-04,Preferred pcell mode support in 4G and 5G cellular network,0,H04W
+11621947,2023-04-04,Data messaging service with distributed ledger control,0,H04L|H04W
+11615204,2023-03-28,Use of semantically segmented filenames,2,G06F
+11612012,2023-03-21,DRX control for wireless user equipment,0,H04W|Y02D
+11611937,2023-03-21,Network-assisted charging prioritization for cellular unmanned aerial vehicles,1,B64U|H04W
+11611622,2023-03-21,Edge computing network topology hiding,3,H04L
+11604897,2023-03-14,Data privacy protection system and method,1,G06F
+11602003,2023-03-07,Wireless communication network to serve a user equipment (UE) over a user plane function group (UPFG),4,H04W
+11601837,2023-03-07,Adaptive distribution of content,2,H04B|H04L|H04W
+11601447,2023-03-07,Remote monitoring and assessment of operating system parameters,0,G06F|H04L|H04W
+11601379,2023-03-07,System and method for dynamic physical resource block allocation across networks using a virtualization layer,3,H04L
+11595836,2023-02-28,Configuration of a wireless network centralized unit (CU) and multiple wireless network distributed units (DUS),0,H04L|H04W
+11595387,2023-02-28,Wireless network access for data appliances,3,G06F|H04L|H04W
+11595293,2023-02-28,File control for data packet routers using consensus and inter-planetary file system (IPFS),0,G06F|H04L
+11589295,2023-02-21,Network function provisioning over third generation partnership project (3GPP) links,0,H04W
+11582765,2023-02-14,Determining radio signal metrics for specified resource blocks,0,H04B|H04W|Y02D
+11582709,2023-02-14,Wireless communication service delivery to user equipment (UE) using an access and mobility management function (AMF),1,H04L|H04W|Y02D
+11582705,2023-02-14,Dynamic modification of antenna beamforming functionality,1,H04B|H04L|H04W
+11582678,2023-02-14,Dynamic RAT determination for common resource blocks,0,H04B|H04W
+11582653,2023-02-14,Slicing policy for user equipment,0,H04W|Y02D
+11582636,2023-02-14,Wireless communication service over a wireless network slice based on user equipment (UE) concentrations,0,H04W
+11582609,2023-02-14,Wireless user equipment (UE) authorization based on UE type and network identifier,2,H04L|H04W
+11582587,2023-02-14,Message management using silent SMS,0,H04W
+11576056,2023-02-07,Unified data repository (UDR) messaging in a wireless communication network,4,H04L|H04W
+11576048,2023-02-07,Mitigating authentication-based hacking of access restricted telecommunication services,0,H04L|H04W
+11575422,2023-02-07,Dynamically detecting and correcting the deactivation of beamforming,0,H04B|H04L|H04W
+11570738,2023-01-31,E-Sim trial,0,H04W
+11570677,2023-01-31,User equipment (UE) roaming based on network performance,0,H04W|Y02D
+11570620,2023-01-31,Network profile anti-spoofing on wireless gateways,0,H04L|H04W
+11570294,2023-01-31,Enhanced incoming call notifications,0,H04L|H04M
+11570175,2023-01-31,Communication network edge computing authorization,0,A63F|G06F|G06Q|H04L|H04W
+11567160,2023-01-31,Systems and methods to determine a location of a device,0,G01S|H04W
+11564139,2023-01-24,Limiting mobility between networks based on cellID,1,H04W
+11564094,2023-01-24,Secondary device authentication proxied from authenticated primary device,1,H04L|H04W
+11563466,2023-01-24,Restricting uplink MIMO assignment based on fading in an mmWAVE system,1,H04B|H04W|Y02D
+11558920,2023-01-17,Wireless user equipment (UE) control over wireless network slices based on slice requirements,0,H04W|Y02D
+11558800,2023-01-17,Wireless access node fault recovery using integrated access and backhaul,0,H04W
+11558732,2023-01-17,Network function discovery through network repository functions in a wireless communication network,6,H04W
+11558093,2023-01-17,Dynamic beam pattern control using device velocity,0,G01S|H04B|H04L|H04W
+11558089,2023-01-17,Priority-based MU-MIMO pairing threshold for codebook beamforming in 5G NR massive MIMO systems,2,H04B|H04W
+11553391,2023-01-10,Wireless communication handover responsive to uplink interference at a serving cell,0,H04B|H04W
+11553362,2023-01-10,Cross-relay interference mitigation in wireless relays that serve wireless user devices,0,H04B|H04L|H04W
+11553334,2023-01-10,User equipment (UE) identification in a wireless communication network,2,H04W
+11546919,2023-01-03,Systems and methods for controlling beam parameters to improve signal strength,0,H04B|H04W
+11546866,2023-01-03,Network generated precision time,0,G06F|H04W
+11546042,2023-01-03,Selecting between MIMO and carrier aggregation,0,H04B|H04L|H04W
+11540232,2022-12-27,"SPR as a criterion to determine the frequencies that would be allocated for inter-band carrier aggregation, intra-band carrier aggregation, or dynamic spectrum sharing",0,H04B|H04W
+11540192,2022-12-27,Handover of wireless devices based on resource availability,0,H04W
+11540184,2022-12-27,Dynamic handover trigger based on primary path throughput,0,H04L|H04W
+11528713,2022-12-13,Dynamic rat and layer management assignment for dual-capable IOT devices,1,G16Y|H04B|H04W|Y02D
+11523452,2022-12-06,Allocating wireless air interface resources to relay nodes based on end-user wireless device capabilities,1,H04B|H04W
+11523321,2022-12-06,Method and system for cell prioritization,0,H04W
+11523289,2022-12-06,Method and system for enhancing cellular network coverage,0,H04B|H04W
+11516815,2022-11-29,Antenna SPR as a basis to dynamically cap the MCS index on 5G NR,0,H04L|H04W
+11497023,2022-11-08,Assigning carriers to radio ports of a split radio head,0,H04B|H04L|H04W|Y02D
+11496971,2022-11-08,Limiting transmit power in dense heterogeneous networks,0,H04W
+11490301,2022-11-01,Delaying handovers based on intermodulation distortion,1,H04W
+11483809,2022-10-25,Variable scanning timers in a multi band/multi-operator network,0,H04W|Y02D
+11483036,2022-10-25,Power management of redundant array based on network conditions,0,H04B|H04W
+11477091,2022-10-18,Network anomaly detection using a multivariate-relations engine,0,H04L
+11463950,2022-10-04,Power management of secondary node based on network conditions,0,H04W
+11445452,2022-09-13,Systems and methods for limiting device transmit power,0,H04W
+11445426,2022-09-13,System and method for making handover determinations,2,H04W
+11438791,2022-09-06,Mitigating packet loss at a cell site router,2,H04L|H04W
+11432236,2022-08-30,Dynamic node assignment based on transmission power capability,0,H04B|H04W
+11432197,2022-08-30,Preserving mobile backhaul bandwidth in concurrent mode,0,H04L|H04W
+11432195,2022-08-30,Load balancing based on pairing efficiency and channel bandwidth,0,H04B|H04W
+11425620,2022-08-23,Donor selection for 5G EN-DC capable relays,1,H04W
+11425045,2022-08-23,Port assignment based on congestion and wireless device characteristics,0,H04L|H04W
+11419125,2022-08-16,Mitigating interference in massive MIMO wireless networks,0,H04B|H04W
+11419050,2022-08-16,Optimizing EN-DC anchor selection in a multi-band and multi-anchor network,0,H04B|H04W
+11418940,2022-08-16,Mitigation of denial of service attacks on emergency services,0,H04L|H04M|H04W
+11405872,2022-08-02,Managing uplink connectivity in high noise environments,0,H04B|H04W
+11405870,2022-08-02,Minimizing uplink interference in wireless networks,0,H04B|H04W
+11405087,2022-08-02,Systems and methods for dynamically adjusting reporting periodicity,0,H04B|H04L|H04W
+11399306,2022-07-26,Dynamic enablement of user specific features in a dual connectivity network,0,H04W
+11388633,2022-07-12,Managing frequency band assignment based on wireless device characteristics,0,H04W
+11375580,2022-06-28,Managing secondary node and channel assignment based on wireless device characteristics,0,H04B|H04W
+11375443,2022-06-28,Subcarrier spacing selection based on antenna configuration,1,H04L|H04W
+11375024,2022-06-28,Programmable networking device for user plane function,3,H04L
+11374627,2022-06-28,Restricting uplink MIMO assignment based on fading in an mmWave system,5,H04B|H04W|Y02D
+11368886,2022-06-21,Dynamic antenna 5G NR synchronization signal block beam deactivation,0,H04L|H04W
+11366739,2022-06-21,Pipeline for validation process and testing,0,G06F
+11363470,2022-06-14,Systems and methods for beam sweeping optimization based on a service threshold,2,H04B|H04L|H04W
+11356863,2022-06-07,Dynamic antenna beam management,0,H04B|H04W
+11356234,2022-06-07,Scheduling full-duplex transmissions in 5G networks,0,H04L|H04W
+11350288,2022-05-31,Use of augmented reality for placement of a small cell,3,G06T|G06V|H04B|H04W
+11349532,2022-05-31,Utilizing SPR to manage user devices served by MU-MIMO groups,0,H04B|H04W
+11343832,2022-05-24,Systems and methods for transmitting a beamformed signal to a wireless device proximate to an antenna system,2,H04B|H04W
+11343681,2022-05-24,Dynamic beam management of an antenna array with a faulty element,6,H04B|H04W
+11330487,2022-05-10,Dynamic handover parameter adjustment based on round-trip-time at dual-connectivity access node pair,0,H04W
+11310714,2022-04-19,Load balancing based on pairing efficiency,2,H04W
+11309951,2022-04-19,Beamforming mode control based on time advance,0,H04B|H04W
+11308185,2022-04-19,System and method for determining modifications of media files,6,G06F|G11B|H04L
+11304066,2022-04-12,Dynamic radio architecture beam pattern control,1,H04B|H04W
+11303336,2022-04-12,Dynamic modification of beamforming weights,2,H04B|H04W
+11297662,2022-04-05,Systems and methods for connecting a device to a wireless telecommunications network,0,H04B|H04W
+11297553,2022-04-05,Serving access node selection to ensure uplink service,0,H04W|Y02D
+11297548,2022-04-05,Initiating handover of a wireless device based on power headroom and packet drops,0,H04W
+11297484,2022-04-05,Dynamic anchor assignment using sector power ratio,0,H04W
+11290194,2022-03-29,Receiver path ignore based on passive intermodulation,0,H04B|H04L
+11284366,2022-03-22,Dynamic beam sweeping based on network usage patterns,0,H04B|H04L|H04W
+11284305,2022-03-22,Systems and methods for dynamic buffer modification based on application category,1,H04L|H04W
+11277735,2022-03-15,Multiple input multiple output (MIMO) layer control for wireless user equipment,0,H04B|H04W
+11265883,2022-03-01,Dedicating antenna elements to specific wireless devices,2,H04B|H04W
+11265752,2022-03-01,Dynamic assignment of users in a dual-connectivity network using sector power ratio,1,H04W
+11259227,2022-02-22,Handovers based on RACH capabilities,2,H04W
+11252770,2022-02-15,Massive MIMO pairing criteria adjustments,0,H04B|H04L|H04W
+11252681,2022-02-15,Adjusting reporting frequency of buffer status and/or power headroom based on packet loss,1,H04L|H04W
+11252637,2022-02-15,Limiting dual connectivity based on pairing efficiency,1,H04B|H04W
+11245445,2022-02-08,System and method for managing wireless devices in a wireless network,1,H04B|H04L|H04W
+11239898,2022-02-01,Relaying data to multiple access points,1,H04B|H04L|H04W
+11234245,2022-01-25,Beamforming in massive MIMO networks,0,H04B|H04L|H04W
+11223395,2022-01-11,System and methods for monitoring and changing dual technology antenna operation,1,H01Q|H04B|H04W
+11219076,2022-01-04,Backhaul access node selection,2,H04B|H04W
+11202292,2021-12-14,Systems and methods for dynamic buffer modification,1,H04L|H04W
+11197300,2021-12-07,Mitigating interference caused by external networks,1,H04L|H04W
+11190309,2021-11-30,Avoiding or correcting inter-cell interference based on an azimuthal modification,1,H01Q|H04B|H04L|H04W
+11184906,2021-11-23,Scheduling resources in massive MU-MIMO wireless networks,1,H04B|H04L|H04W
+11184900,2021-11-23,Systems and methods for mitigating interference and improving performance,2,H04W
+11172378,2021-11-09,Dynamic synchronization signal block beam optimization,0,H04B|H04W
+11166230,2021-11-02,Donor selection for relay nodes based on a number of component carriers,0,H04B|H04L|H04W
+11166201,2021-11-02,Dynamic radio access technology allocation,2,H04W
+11166199,2021-11-02,Dynamic frequency allocation,0,H04W
+11166166,2021-11-02,Dedicating antenna elements to specific wireless devices,2,H04B|H04W
+11147032,2021-10-12,System and methods for dynamic synchronization signal block periodicity modifications,0,H04W
+11146990,2021-10-12,Load balancing in a wireless network based on a load of a relay node,1,H04B|H04L|H04W
+11129069,2021-09-21,Dynamic assignment of users in a multi-band network based on the antenna sector power ratio,3,H04W
+11115884,2021-09-07,Adjusting handover parameters for massive MIMO wireless devices,0,H04B|H04L|H04W
+11115106,2021-09-07,Selecting between MIMO and carrier aggregation,2,H04B|H04L|H04W
+11109271,2021-08-31,Selection of primary carrier based on control channel load levels,2,H04B|H04L|H04W
+11102693,2021-08-24,Systems and methods for assigning a mobility parameter to a wireless device operating in connected mode,4,G01S|H04B|H04L|H04W|Y02D
+11071028,2021-07-20,Dynamic handover threshold adjustment for load balancing,0,H04W
+11064414,2021-07-13,Handover target selection based on latency,1,H04B|H04W
+11064395,2021-07-13,Ensuring quality of service at a cell site router,2,H04L|H04W
+11063713,2021-07-13,Dynamic channel sizing in a wireless communication network,1,H04B|H04L
+11057882,2021-07-06,Systems and methods for dynamically setting frame configuration in a wireless network,3,H04W
+11057839,2021-07-06,Wireless communication transmit power control based on hybrid automatic repeat request (HARQ) block error rate (BLER),3,H04L|H04W
+11057827,2021-07-06,Provisioning an embedded universal integrated circuit card (eUICC) of a mobile communication device,7,G06K|H04W
+11057203,2021-07-06,Network Function Virtualization (NFV) hardware trusted hosted MANO,1,H04L
+11051220,2021-06-29,Performing MU-MIMO in wireless networks utilizing different bandwidth parts,8,H04B|H04L|H04W
+11039456,2021-06-15,Control channel resource allocation,0,H04L|H04W
+11038639,2021-06-15,Performing MU-MIMO based on bandwidth parts,3,H04B|H04L|H04W
+11026146,2021-06-01,Method and system for overcoming handover failures between mini macros,0,H04W
+10939297,2021-03-02,Secure unlock of mobile phone,0,H04L|H04W
+10936422,2021-03-02,Recovery of virtual network function (VNF) boot functionality,2,G06F|H04W

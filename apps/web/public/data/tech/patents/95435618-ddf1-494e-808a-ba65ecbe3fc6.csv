@@ -1,0 +1,501 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432215,2025-09-30,Establishing a personal-public service set identifier connection between a personal device and the internet,0,H04L|H04W
+12423596,2025-09-23,Throughput based sizing for hive deployment,0,G06F|G06N
+12413616,2025-09-09,Preventing fraud on smart devices,0,H04L
+12412047,2025-09-09,Computerized data aggregation,0,G06F
+12406670,2025-09-02,Augmented reality enabled command management,0,G06F|G06V|G10L|H04L
+12406082,2025-09-02,Segmenting data according to data access privilege grants during storage of the data in a database,0,G06F
+12401506,2025-08-26,Removing interactions from a virtual environment,0,H04L
+12395415,2025-08-19,Service health assessment,0,H04L
+12393675,2025-08-19,Multifactor authorization on accessing hardware resources,0,G06F
+12393476,2025-08-19,Early detection of information technology (IT) failures using multimodal correlation and prediction,0,G06F|G06N
+12380663,2025-08-05,Physical and virtual environment synchronization,0,G06T|G06V|H04W
+12380061,2025-08-05,Technique selection for file system utilization prediction,0,G06F|G06N
+12373549,2025-07-29,Advanced deterrence for bots in an interactive communication environment,0,G06F
+12367402,2025-07-22,Intelligent backup and restoration of containerized environment,0,G06F|G06N
+12363113,2025-07-15,Management of shared authentication credentials,0,H04L
+12349321,2025-07-01,Optimizing chiller energy efficiency in a multiple data center set-up,0,G06F|G06N|G06Q|H05K
+12346780,2025-07-01,Artificial intelligence module communication,0,G06F|G06N
+12346741,2025-07-01,Computing environment provisioning,0,G06F|G06N|G06Q
+12341665,2025-06-24,Risk mitigation in service level agreements,0,H04L
+12340428,2025-06-24,Social media representation and collaboration platform for enterprise it,0,G06F|G06Q|G06V|H04L
+12327419,2025-06-10,Sanitized surface monitoring and smart user alerts,0,G06N|G06V
+12316748,2025-05-27,Enforcing multi-ownership of data on storage,0,H04L
+12307461,2025-05-20,Augmented user authentication,0,G06Q|G06V
+12307099,2025-05-20,Method and system for tape storage utilization,0,G06F
+12294503,2025-05-06,Self-learning automated information technology change risk prediction,0,G06N|G06Q|H04L
+12278744,2025-04-15,Multi-node failure processing for computer networks,0,H04L
+12277215,2025-04-15,Dynamic creation of temporary isolated environment in an interactive communication environment,0,G06F|H04L
+12277195,2025-04-15,Intelligent locking of display devices for remote use,0,G06F|G06T|G06V|G09G
+12271981,2025-04-08,Generation of data visualizations on a single visual representation,0,G06F|G06N|G06T
+12267433,2025-04-01,Security for USB-based device configuration,0,G06F|G06K|G09C|H04L
+12265914,2025-04-01,Machine learning and optimization techniques for job scheduling,0,G06F|G06N
+12242594,2025-03-04,Unique password policy creation,1,G06F
+12242560,2025-03-04,Retrieving saved content for a website,0,G06F
+12237965,2025-02-25,Asset error remediation for continuous operations in a heterogeneous distributed computing environment,0,G06F|G06V|H04L
+12236328,2025-02-25,Cognitive communication assistant services,0,G06F|G06N
+12235747,2025-02-25,Dynamic risk based analysis model,0,G06F|G06Q
+12229644,2025-02-18,Text augmentation of a minority class in a text classification problem,0,G06F|G06N
+12229236,2025-02-18,Headphone biometric authentication,0,G06F|G10L|H04R
+12225006,2025-02-11,Secure resource access by amalgamated identities and distributed ledger,0,G06F|H04L
+12206546,2025-01-21,Automatic device enrollment in an internet of things network,0,G16Y|H04L
+12204418,2025-01-21,Analyzing a blockchain ledger to determine which disaster recovery site to use for failover,0,G06F|H04L
+12204294,2025-01-21,Auto-adjustable machine functionality using analytics of sensor data,0,G05B|G06N
+12198204,2025-01-14,Ledger-based image distribution permission and obfuscation,0,G06F|G06Q|G06V
+12197719,2025-01-14,Masked overlay for custom repositioning of interactive objects on a touchscreen of a computing device,0,G06F
+12192243,2025-01-07,Security policy selection based on calculated uncertainty and predicted resource consumption,0,G06F|G06N|H04L
+12192216,2025-01-07,System and method for SIEM rule sorting and conditional execution,0,G06F|H04L
+12190578,2025-01-07,Augmented-reality object location-assist system,0,G06N|G06Q|G06T|G06V
+12190255,2025-01-07,Artificial intelligence assisted sports strategy predictor,0,A63B|G06F|G06N|G06Q|G06T|G06V
+12190172,2025-01-07,Carbon footprint-based control of cloud resource consumption,0,G06F|G06Q|Y02P
+12190141,2025-01-07,Computing environment predictive provisioning,0,G06F
+12190080,2025-01-07,Automatic generation of user experience mockups using adaptive gaze tracking,0,G06F|G06N
+12183074,2024-12-31,Dynamic input system for smart glasses based on user availability states,0,G02B|G06F|G06N|G06T|G06V
+12182980,2024-12-31,Cognitive filtering of content from shared screen display,0,G06F|G06N|G06T|G06V|G09G
+12182567,2024-12-31,Code change request management and human gate free deployment based on data collected from a development system,0,G06F
+12182296,2024-12-31,Encrypted knowledge graph,0,G06F|G06N
+12182154,2024-12-31,Cloning database system on VSAM based dataset,0,G06F
+12178618,2024-12-31,Determination of separation distance from thermal and acoustic input,0,A61B|G01J|G06T
+12175433,2024-12-24,Dynamic trusted assistance network,0,G06Q
+12175309,2024-12-24,Notification control considering remote work concentration of operator,0,G06F
+12175302,2024-12-24,Transitioning of computer-related services based on performance criteria with flow efficiency value,0,G06F|G06N|G06Q
+12169709,2024-12-17,Contextually cognitive edge server manager,0,G06F|G06N
+12165224,2024-12-10,Electric vehicle charging reservation timeslot reallocation,0,B60L|G06Q
+12164875,2024-12-10,Social network adapted response,0,G06F|G06Q|G10L|H04L
+12162135,2024-12-10,Managing shared robots in a data center,0,B25J|G05B|G06Q|Y02P
+12160749,2024-12-03,Service set identifier alias security and tracking,0,H04L|H04W
+12135709,2024-11-05,Adaptive snapshot controller,0,G06F|G06N
+12131197,2024-10-29,Container load balancing and availability,0,G06F
+12125485,2024-10-22,Coordination and execution of actions on a plurality of heterogenous AI systems during a conference call,0,G06F|G10L|H04L|H04M
+12118406,2024-10-15,Interactive augmented reality based optimization of machine learning model execution on hybrid cloud,0,G06F|G06N|G06Q|G06T|H04L
+12118118,2024-10-15,Storing legal hold data in cloud data storage units,0,G06F|G06Q|H04L
+12117978,2024-10-15,Remediation of data quality issues in computer databases,0,G06F
+12112155,2024-10-08,Software application container hosting,0,G06F
+12111855,2024-10-08,"Computation, prediction, and use of vandalism scores",0,G06F
+12106304,2024-10-01,Transaction authorization,0,G06F|G06Q|G06T|G06V
+12106273,2024-10-01,Secure and contactless debit transactions,0,G06Q|G06V|G07F|G10L
+12105823,2024-10-01,Protecting sensitive data,0,G06F|H04L
+12103544,2024-10-01,Controlling autonomous vehicle functions,0,B60W|G06N
+12093897,2024-09-17,Employee interaction management based on predictive analysis,0,G06N|G06Q
+12093684,2024-09-17,Application transition and transformation,0,G06F|G06N
+12088454,2024-09-10,Restoring system functionality when primary maintenance interface is unavailable,0,H04L
+12086281,2024-09-10,Unstructured data access control,0,G06F
+12086164,2024-09-10,Explainable layered contextual collective outlier identification in a heterogeneous system,0,G06F
+12086038,2024-09-10,Unsupervised log data anomaly detection,1,G06F|G06N
+12080039,2024-09-03,Contextual policy-based computer vision control,0,G06N|G06T|G06V|G08B|H04N
+12079378,2024-09-03,Gathering universal serial bus threat intelligence,0,G06F|H04L
+12072969,2024-08-27,Personalized password prompting system,0,G06F
+12072772,2024-08-27,Crowd sourced data restores,0,G06F|H04L
+12061852,2024-08-13,Generating digital building representations and mapping to different environments,0,G06F|G06N
+12056674,2024-08-06,Security for connected devices,0,G06Q|G07F
+12056504,2024-08-06,Automatic application configuration synchronization based on data analytics,0,G06F|G06N|H04L
+12056353,2024-08-06,Dynamically assigning storage objects to compartment constructs of a storage system to reduce application risk,0,G06F
+12050933,2024-07-30,Dynamic profiling of storage class memory (SCM) based on monitored SCM utilization and predicted future SCM utilization,0,G06F
+12047390,2024-07-23,Device connectivity power control,0,H04L
+12047254,2024-07-23,Risk mitigation in service level agreements,0,H04L
+12039843,2024-07-16,Card skimming detection,0,G06Q|G07F
+12039455,2024-07-16,Self-learning and adapting cyber threat defense,0,G06F|G06N
+12039094,2024-07-16,Input/output interface security,0,G06F
+12039041,2024-07-16,Keypad security,0,G06F|H04N
+12033656,2024-07-09,Diarisation augmented reality aide,0,G02B|G06N|G06T|G10L|H04N
+12032706,2024-07-09,Application security scoring,0,G06F|G06N
+12026766,2024-07-02,"Method, medium, and system for analyzing products and determining alternatives using artificial intelligence",0,G06Q
+12026540,2024-07-02,Working memory management,0,G06F|G06N
+12020382,2024-06-25,Physical and virtual environment synchronization,0,G06T|G06V|H04W
+12020336,2024-06-25,Social media representation and collaboration platform for enterprise IT,0,G06F|G06Q|G06V|H04L
+12020009,2024-06-25,Software application deployment,0,G06F
+12015581,2024-06-18,Selectively exclude recipients from an end-to-end encryption enabled group chat,0,H04L
+12014617,2024-06-18,Contextual item discovery and pattern inculcated reminder mechanism,0,G06N|G08B
+12014196,2024-06-18,Architecture generation for standard applications,0,G06F|G06N
+12003390,2024-06-04,Orchestration engine blueprint aspects for hybrid cloud composition,0,G06F|H04L
+12001787,2024-06-04,Analyzing presentations to structure metadata for generating questions directed to the content of the presentations,0,G06F|G09B
+11997737,2024-05-28,Cognitive hotspot provisioning and network prioritization,0,H04L|H04W
+11996095,2024-05-28,Augmented reality enabled command management,1,G06F|G06V|G10L|H04L
+11990125,2024-05-21,Intent driven voice interface,0,G06F|G06N|G10L
+11989359,2024-05-21,Virtualization of digital crown actions based on actions performed with an electronic pen,0,G04G|G06F
+11978060,2024-05-07,Dynamic categorization of it service tickets using natural language description,0,G06F|G06N|G06Q|G06V
+11973857,2024-04-30,Data archive,0,H04L
+11971995,2024-04-30,Remediation of regulatory non-compliance,0,G06F|G06Q|H04L
+11966866,2024-04-23,Providing resource access,0,G06Q|H04L
+11960841,2024-04-16,Incomplete problem description determination for virtual assistant user input handling,0,G06F|G06N|G10L|H04L
+11956207,2024-04-09,Multi-tenant aware dynamic host configuration protocol (DHCP) mechanism for cloud networking,0,H04L
+11955127,2024-04-09,Cognitive correlation of group interactions,0,G06F|G06Q|G10L
+11947558,2024-04-02,Built-in analytics for database management,0,G06F|G06Q
+11940979,2024-03-26,Data compartments for read/write activity in a standby database,0,G06F
+11936661,2024-03-19,Detecting malicious beaconing communities using lockstep detection and co-occurrence graph,0,G06F|H04L
+11934649,2024-03-19,Scrollable real-time presentation document twin,0,G06F|H04L|H04N
+11929169,2024-03-12,Personalized sensory feedback,0,G06F|G06N|G16H
+11928804,2024-03-12,Dynamic device configuration,0,G06N|G06T|H04L
+11928603,2024-03-12,Machine learning (ML) modeling by DNA computing,2,G06N
+11928518,2024-03-12,Noisy-neighbor detection and remediation,0,G06F
+11928153,2024-03-12,Multimedia linked timestamp validation detection,0,G06F
+11922226,2024-03-05,Adaptive control of deadline-constrained workload migrations,0,G06F
+11921842,2024-03-05,Multifactor authorization on accessing hardware resources,0,G06F
+11915106,2024-02-27,Machine learning for determining suitability of application migration from local to remote providers,0,G06F|G06N
+11914698,2024-02-27,Unique password policy creation,0,G06F
+11913894,2024-02-27,Dynamic surface profile change in device for better gripping,0,G01N|G06F|H04M
+11909720,2024-02-20,Secure remote support of systems deployed in a private network,0,H04L
+11902331,2024-02-13,Request authorization,0,H04L
+11902038,2024-02-13,Securing data presented during videoconferencing,0,G08B|H04L|H04N
+11900173,2024-02-13,Container runtime optimization,0,G06F
+11895199,2024-02-06,User profile creation for social networks,0,G06F|G06Q|H04L
+11888988,2024-01-30,Two-factor authentication based on computation method to derive proxy password,0,G06F|H04L
+11886587,2024-01-30,Malware detection by distributed telemetry data analysis,0,G06F|G06N|H04L
+11875652,2024-01-16,Card skimming detection,1,G06Q|G07F
+11868678,2024-01-09,User interface sound emanation activity classification,0,G06F|G06N|G10L
+11868323,2024-01-09,Orchestrated disaster recovery,0,G06F
+11868167,2024-01-09,Automatically provisioned tag schema for hybrid multicloud cost and chargeback analysis,0,G06F
+11861405,2024-01-02,Multi-cluster container orchestration,0,G06F|G06N
+11861397,2024-01-02,Container scheduler with multiple queues for special workloads,0,G06F|H04L
+11860946,2024-01-02,Autonomous webpage content summation,0,G06F
+11860756,2024-01-02,Automated system alert based on logs sentiment analysis,0,G06F
+11856327,2023-12-26,Adaptive audio quality amelioration for video conferencing,0,G10L|H04B|H04L|H04N
+11855995,2023-12-26,Data security across data residency restriction boundaries,0,G06F|H04L
+11855933,2023-12-26,Enhanced content submissions for support chats,0,G06T|H04L
+11854264,2023-12-26,Speculative actions based on predicting negative circumstances,1,G06F|G06N|G06V
+11853936,2023-12-26,Minimizing the environmental impact of workloads,0,G06F|G06Q|Y02D
+11853173,2023-12-26,Log file manipulation detection,0,G06F
+11848826,2023-12-19,Hyperparameter and network topology selection in network demand forecasting,0,G06N|H04L
+11842733,2023-12-12,Artificial intelligence system for tasks,0,G06F|G06N|G10L|H04L
+11841833,2023-12-12,File reorganization,0,G06F
+11836446,2023-12-05,Dynamic creation of change management templates,0,G06F|H04L
+11835345,2023-12-05,Transportation vehicle routing,1,G01C|H04W
+11831606,2023-11-28,Dynamically managing firewall ports of an enterprise network,0,G06N|H04L
+11830586,2023-11-28,Enhancement of patient outcome forecasting,0,G06N|G16H
+11829387,2023-11-28,Similarity based digital asset management,0,G06F
+11824794,2023-11-21,Dynamic network management based on predicted usage,2,G06N|H04L
+11816131,2023-11-14,Cross-domain clusterability evaluation for cross-guided data clustering based on alignment between data domains,0,G06F
+11809859,2023-11-07,Coordinated source code commits utilizing risk and error tolerance,0,G06F|G06N
+11809536,2023-11-07,Headphone biometric authentication,0,G06F|G10L|H04R
+11805076,2023-10-31,Microservice placement in hybrid multi-cloud using graph matching,2,H04L
+11804245,2023-10-31,Video data size reduction,0,G06V|G10L|G11B|H04N
+11803926,2023-10-31,Workload distribution optimizer,0,G06Q|H04L
+11803247,2023-10-31,Gesture-based control of plural devices in an environment,0,G06F|G08C|H04Q
+11790568,2023-10-17,Image entity extraction and granular interactivity articulation,0,G06F|G06T|G06V
+11789691,2023-10-17,Audio management for a priority computing device application,0,G06F|H04R
+11783840,2023-10-10,Video conference verbal junction identification via NLP,0,G10L|H04L
+11782808,2023-10-10,Chaos experiment execution for site reliability engineering,2,G06F|G06Q
+11778548,2023-10-03,Deploying containers on a 5G slice network,0,H04L|H04W
+11776255,2023-10-03,Dynamic input system for smart glasses based on user availability states,0,G02B|G06F|G06N|G06T|G06V
+11770411,2023-09-26,Prioritize endpoint selection based on criteria,0,G06F|H04L
+11769300,2023-09-26,Augmented reality guidance overlap,0,G06F|G06T|G06V
+11769080,2023-09-26,Semantic consistency of explanations in explainable artificial intelligence applications,0,G06F|G06N
+11762864,2023-09-19,Chat session external content recommender,0,G06F|G06N|H04L
+11760369,2023-09-19,Remotely controlling use of features based on automatic validation requests,0,B60R|B60W|G06Q|G07C|H04L|H04W
+11757912,2023-09-12,Deep packet analysis,0,G06F|H04L
+11757879,2023-09-12,Security control for an enterprise network,0,H04L|H04W
+11755753,2023-09-12,Mechanism to enable secure memory sharing between enclaves and I/O adapters,0,G06F|H04L
+11755669,2023-09-12,Methods and systems for retrieving and storing telephone numbers along with related contextual information associated with inbound/outbound communications to/from a device,0,G06F
+11750671,2023-09-05,Cognitive encapsulation of group meetings,0,H04L
+11750597,2023-09-05,Unattended authentication in HTTP using time-based one-time passwords,2,H04L
+11748621,2023-09-05,Methods and apparatus for feature generation using improved term frequency-inverse document frequency (TF-IDF) with deep learning for accurate cloud asset tagging,0,G06F|G06N|H04L
+11748560,2023-09-05,Converting between tabular and structured data formats,0,G06F
+11748063,2023-09-05,Intelligent user centric design platform,0,G06F|G06N
+11741852,2023-08-29,Smart reading assistant,0,G06F|G06N|G09B
+11741379,2023-08-29,Automated resolution of over and under-specification in a knowledge graph,0,G06F|G06N
+11741076,2023-08-29,Adaptive snapshot controller,0,G06F|G06N
+11727450,2023-08-15,Singularity recommendation engine,0,G06F|G06Q
+11727303,2023-08-15,Precipitation detection using mobile devices,0,G01W|G06N|H04W
+11727288,2023-08-15,Database-management system with artificially intelligent virtual database administration,0,G06F|G06N
+11724486,2023-08-15,Printing customized medication based on current user data and medical records of the user,0,A61J|A61K|A61M|B33Y|B41F|G16H|H04L
+11722489,2023-08-08,Management of shared authentication credentials,1,H04L
+11720811,2023-08-08,Cognitive matching of content to appropriate platform,0,G06N|G06Q|H04L
+11720810,2023-08-08,Reducing mean time to find problems in enterprise information technology systems using bots,0,G06F|G06N
+11719547,2023-08-08,Charging regulation model for electric vehicles on the road,0,B60L|G01C|G01S|G06N|Y02T|Y04S
+11711860,2023-07-25,Device pairing by cognitive computing,0,G06F|G06T|H04L|H04W
+11705227,2023-07-18,Internet of things communication and social network for medicine disposition in hospitals,0,G06F|G16H|H04W
+11704493,2023-07-18,Neural parser for snippets of dynamic virtual assistant conversation,0,G06F|G06N
+11700203,2023-07-11,Managing bandwith in fibre channel over internet protocol communication channels,0,H04L
+11698829,2023-07-11,Identifying root causes of software defects,0,G06F
+11694443,2023-07-04,Automatic identification of misleading videos using a computer network,1,G06F|G06V
+11694025,2023-07-04,Cognitive issue description and multi-level category recommendation,0,G06F|G06N
+11689523,2023-06-27,Facilitating password creation via a secure device,0,H04L
+11687416,2023-06-27,Data backup optimization,0,G06F
+11681895,2023-06-20,Cognitive assistant with recommendation capability,0,G06N|G06Q
+11681798,2023-06-20,Security screening of a universal serial bus device,0,G06F
+11676158,2023-06-13,Automatic remediation of non-compliance events,1,G06F|G06Q
+11675631,2023-06-13,Balancing mainframe and distributed workloads based on performance and costs,2,G06F|G06Q
+11675582,2023-06-13,Neural networks to identify source code,0,G06F|G06N
+11670317,2023-06-06,Dynamic audio quality enhancement,0,G06F|G10L|H04M|H04R
+11665381,2023-05-30,Content modification based on element contextualization,0,H04N
+11665244,2023-05-30,Selecting user profiles on platforms based on optimal persona of a user in a given context,0,G06N|G06Q|H04L|H04W
+11665159,2023-05-30,Secure resource access by amalgamated identities and distributed ledger,0,G06F|H04L
+11663895,2023-05-30,Virtual three-dimensional holographic safety gate,0,G02B|G06F|G08B|G09G
+11663410,2023-05-30,Online terms of use interpretation and summarization,0,G06F|G06Q
+11663256,2023-05-30,Searching data repositories using pictograms and machine learning,1,G06F|G06N
+11662993,2023-05-30,Autonomous management of temporal updates and rollbacks,0,G06F|H04L
+11662933,2023-05-30,Datacenter relocation utilizing storage carriers and erasure coding,0,B64U|G06F|H03M|H04L
+11659006,2023-05-23,Computer environment compliance,0,H04L
+11657189,2023-05-23,Object loss prevention using cognitive computing,0,G06F|G06N
+11657100,2023-05-23,Cognitively rendered event timeline display,2,G06F|G06Q
+11656932,2023-05-23,Predictive batch job failure detection and remediation,1,G06F|G06N
+11653209,2023-05-16,Identifying potential attacks against cellular networks,0,H04K|H04W
+11652772,2023-05-16,Dynamically determining visibility of a post,0,H04L
+11651447,2023-05-16,Ledger-based image distribution permission and obfuscation,0,G06F|G06Q|G06V
+11651404,2023-05-16,Virtual shopping assistant,0,G05B|G06F|G06K|G06Q
+11651360,2023-05-16,Triggering actions responsive to blockchain transactions,2,G06Q|H04L
+11650954,2023-05-16,Replication continued enhancement method,0,G06F|G06N|H04L
+11650649,2023-05-16,Centralized power management of wireless devices,0,G06F|H04W
+11644876,2023-05-09,Data analytics for mitigation of data center thermal issues,0,G06F|H05K
+11641890,2023-05-09,Wearer physical status indication using an electronically adjustable garment,0,A41D|A61B|G06F|G06T|G16H
+11640379,2023-05-02,Metadata decomposition for graph transformation,0,G06F|G06N|G06Q
+11640276,2023-05-02,Mask device for a listening device,0,G06F|G10L
+11631416,2023-04-18,Audio content validation via embedded inaudible sound signal,1,G06F|G09B|G10L
+11630867,2023-04-18,Data exhaust logging,0,G06F|G06N
+11630846,2023-04-18,Data migration planning and scheduling based on data change rate analysis,0,G06F
+11630661,2023-04-18,Intelligent logging and automated code documentation,0,G06F|G06N
+11630556,2023-04-18,Finger control of wearable devices,0,G06F|G06V
+11630548,2023-04-18,Unrestricted cursor positioning in multi-display environment,0,G06F
+11625360,2023-04-11,Tailoring container images to a specific microarchitecture in virtualized environments,0,G06F
+11625309,2023-04-11,Automated workload monitoring by statistical analysis of logs,2,G06F
+11621928,2023-04-04,Reducing toil in chat environments,1,G06F|G06N|H04L
+11620412,2023-04-04,Preventing damage from malicious hardware,0,G06F|Y04S
+11620381,2023-04-04,Dynamic re-composition of patch groups using stream clustering,0,G06F
+11620070,2023-04-04,Cognitive control plane for application consistent datasets,2,G06F|G06N
+11616784,2023-03-28,Personal-public service set identifiers connection implemented by a WAP,0,H04L|H04W
+11615714,2023-03-28,Adaptive learning in smart products based on context and learner preference modes,0,G06N|G09B
+11615330,2023-03-28,Virtual subject matter expert provisioning,0,G06N|G06Q
+11611588,2023-03-21,Deep learning network intrusion detection,2,G06N|H04L
+11610502,2023-03-21,Portable computing device for learning mathematical concepts,0,G06N|G09B
+11610498,2023-03-21,Voice interactive portable computing device for learning about places of interest,0,G06F|G06Q|G06V|G09B|G10L
+11610136,2023-03-21,Predicting the disaster recovery invocation response time,2,G06F|G06N
+11609837,2023-03-21,Calibration technique using computer analysis for ascertaining performance of containers,0,G06F
+11606829,2023-03-14,Facilitation of data transmission in low connectivity areas,0,H04W
+11606696,2023-03-14,Security mechanism for wireless authentication devices,0,G07C|H04L|H04W
+11603110,2023-03-14,Addressing vehicle sensor abnormalities,2,B60W|G01D|G06F|G07C
+11602656,2023-03-14,Cognitive solution to enhance firefighting capabilities,0,A62C|G06N
+11601693,2023-03-07,Automatic adaptation of digital content,0,G06F|G06V|H04N
+11601389,2023-03-07,Email system with action required and follow-up features,0,H04L
+11601347,2023-03-07,Identification of incident required resolution time,0,G06N|G06Q|H04L
+11601337,2023-03-07,Virtual server geolocation detection,0,G06N|H04L
+11599935,2023-03-07,"Computer program product, computer implemented method, and system for cognitive item selection with data mining",0,G06F|G06N|G06Q|G06T|H04L
+11599432,2023-03-07,Distributed application orchestration management in a heterogeneous distributed computing environment,0,G06F|H04L
+11593994,2023-02-28,Creating working boundaries in a multi-user environment,0,G06F|G06T|G10K|H04W
+11593180,2023-02-28,Cluster selection for workload deployment,3,G06F|G06N|H04L
+11593013,2023-02-28,Management of data in a hybrid cloud for use in machine learning activities,0,G06F|G06N|G06Q|H04L
+11589227,2023-02-21,Multilevel authentication using a mobile device,1,H04L|H04W
+11587316,2023-02-21,Segmenting visual surrounding to create template for user experience,0,G06T|G06V
+11586487,2023-02-21,Rest application programming interface route modeling,0,G06F
+11581007,2023-02-14,Preventing audio delay-induced miscommunication in audio/video conferences,0,G06F|G06N|G10L|H04L|H04N
+11580443,2023-02-14,Facilitating client ergonomic support via machine learning,0,G06N|G16H|H04L
+11580419,2023-02-14,Computer environment infrastructure compliance audit result prediction,0,G06F|G06N|H04L
+11580240,2023-02-14,Protecting sensitive data,0,G06F|H04L
+11580069,2023-02-14,Data subscription management system,0,G06F|G06Q
+11579691,2023-02-14,Mid-air volumetric visualization movement compensation,0,G02B|G04G|G06F|G06N
+11575697,2023-02-07,Anomaly detection using an ensemble of models,4,G06F|G06N|H04L
+11575613,2023-02-07,Managing data traffic according to data stream analysis,0,H04L
+11574467,2023-02-07,Document augmented auto complete,0,G06F|G06T|G06V
+11574258,2023-02-07,Method and system for analyzing contact studies,0,G06Q
+11574215,2023-02-07,Efficiency driven data collection and machine learning modeling recommendation,0,G06N|G06Q
+11574121,2023-02-07,Effective text parsing using machine learning,0,G06F|G06N
+11573929,2023-02-07,Deduplication of encrypted data using multiple keys,1,G06F|H04L
+11573863,2023-02-07,Virtual machine backup and restore coordinator,0,G06F
+11573626,2023-02-07,Identifying electrical power ports utilizing IoT information and augmented reality,0,G06F|G06T
+11570042,2023-01-31,Software-defined network controller communication flow,2,H04L|Y02D
+11568967,2023-01-31,Data based truth maintenance,0,G06N|G16H|G16Z
+11567835,2023-01-31,Data protection and recovery,0,G06F|G06N
+11563761,2023-01-24,Deep packet analysis,0,G06F|H04L
+11562568,2023-01-24,Dynamically creating a composition reference video to support a user activity,0,G06F|G06N|G06V
+11562410,2023-01-24,Pre-packaging and pre-configuration of software products using chatbots,0,G06F|G06Q|H04L
+11562069,2023-01-24,Block-based anomaly detection,0,G06F|G06N
+11561869,2023-01-24,Optimized disaster-recovery-as-a-service system,0,G06F|H04L
+11556562,2023-01-17,Multi-destination probabilistic data replication,0,G06F
+11556385,2023-01-17,Cognitive processing resource allocation,0,G06F|G06N|Y02D
+11556330,2023-01-17,Analysis and implementation of security updates,0,G06F|G06N
+11553038,2023-01-10,Optimizing device-to-device communication protocol selection in an edge computing environment,2,G06N|H04L
+11553005,2023-01-10,Provenance based identification of policy deviations in cloud computing environments,1,H04L
+11552955,2023-01-10,Data security across data residency restriction boundaries,2,G06F|H04L
+11552909,2023-01-10,Generation of a chatbot,6,G06F|H04L
+11550672,2023-01-10,Machine learning to predict container failure for data transactions in distributed computing environment,3,G06F
+11546354,2023-01-03,Network shutdown for cyber security,0,G06N|H04L
+11546293,2023-01-03,Multi-tenant aware dynamic host configuration protocol (DHCP) mechanism for cloud networking,0,H04L
+11539924,2022-12-27,Multiple projector-enabled content targeting using diffraction grating,0,G02B|G03B|H04N
+11539737,2022-12-27,Adaptive security for resource constraint devices,0,G06F|H04L
+11539505,2022-12-27,Encrypting data,0,H04L
+11538319,2022-12-27,Identifying a distributed threat in a security zone,0,G06N|G06Q|G07C|G08B
+11537809,2022-12-27,Dynamic container grouping,1,G06F|G06N
+11537433,2022-12-27,Resource and asset lifecycle costing,0,G06F|G06Q
+11533296,2022-12-20,Testing and remediating compliance controls,0,G06F|H04L
+11532061,2022-12-20,Distributed ridesharing vehicle management,0,G01C|G06F|G06Q|G08G
+11531934,2022-12-20,Machine learning (ML) modeling by DNA computing,1,G06N
+11531805,2022-12-20,Message composition and customization in a user handwriting style,1,G06F|G06V
+11528280,2022-12-13,Protection of privileged operation access of electronic devices,0,G06F|H04L|H04W
+11528244,2022-12-13,Transmittal of blocked message notification,2,H04L
+11526788,2022-12-13,Cognitive systematic review (CSR) for smarter cognitive solutions,0,G06N|G06Q
+11526754,2022-12-13,Feature generation for asset classification,3,G06F|G06N|H04L
+11526633,2022-12-13,Media exfiltration prevention system,0,G06F|H04L
+11526391,2022-12-13,Real-time cognitive root cause analysis (CRCA) computing,2,G06F
+11524600,2022-12-13,Electronic vehicle charge regulation,2,B60L|G06Q|Y02E|Y02T|Y04S
+11523200,2022-12-06,Respirator acoustic amelioration,0,G06F|G06N|H04R
+11521082,2022-12-06,Prediction of a data protection activity time for a backup environment,0,G06F|G06N
+11520905,2022-12-06,Smart data protection,0,G06F|H04L
+11520634,2022-12-06,Requirement-based resource sharing in computing environment,1,G06F
+11516228,2022-11-29,System and method for SIEM rule sorting and conditional execution,0,G06F|H04L
+11513872,2022-11-29,System and AI pattern model for actionable alerts for events within a ChatOps platform,0,G06F|G06N|G06V|H04L
+11513817,2022-11-29,Preventing disruption within information technology environments,0,G06F
+11507880,2022-11-22,Automatic and continuous monitoring and remediation of API integrations,0,G06F|G06N
+11507634,2022-11-22,Method and system for combining identification information of an entity and a related communication mechanism used to initiate a communication to a computing device associated with the entity,0,G06F
+11507563,2022-11-22,Unsupervised anomaly detection,0,G06F
+11502995,2022-11-15,Testing and remediating compliance controls,1,G06F|H04L
+11502830,2022-11-15,Ultrasound split key transmission for enhanced security,1,H04B|H04L
+11501189,2022-11-15,Anomaly detection using zonal parameter characteristics and non-linear scoring,4,G06N|H04L
+11500905,2022-11-15,Probability mapping model for location of natural resources,2,G06F|G06N
+11500443,2022-11-15,Introducing selective energy efficiency in a virtual environment,0,G06F|Y02D
+11496410,2022-11-08,Market-driven variable price offerings for bandwidth-sharing ad hoc networks,0,G06Q|H04L|H04W
+11494792,2022-11-08,Predictive decision making based on influence identifiers and learned associations,0,G06Q
+11489830,2022-11-01,Source authentication of website content,0,G16B|H04L
+11488189,2022-11-01,Interactive loyalty rewards structure,0,G06Q
+11487590,2022-11-01,Orchestration engine resources and blueprint definitions for hybrid cloud composition,0,G06F|G06N
+11481679,2022-10-25,Adaptive data ingestion rates,1,G06F|G06N|H04L
+11477171,2022-10-18,Client authentication management based upon modeling,0,G06F|G06N|H04L
+11477093,2022-10-18,Coupling of a business component model to an information technology model,0,G06F|G06Q|H04L
+11475318,2022-10-18,Automated resolution of over and under-specification in a knowledge graph,0,G06F|G06N
+11468818,2022-10-11,Brightness adaptation,0,G06F|G09G
+11468638,2022-10-11,Augmented reality object movement assistant,0,G06Q|G06T
+11468132,2022-10-11,System and method of sensing and responding to service discoveries,0,G06F
+11467923,2022-10-11,Application recovery using pooled resources,0,G06F
+11463467,2022-10-04,Advanced risk evaluation for servers,0,G06F|H04L
+11463250,2022-10-04,Sharing data among different service providers at edge level through collaboration channels,1,G06F|H04L
+11461791,2022-10-04,Method and system for viral marketing within a virtual world,0,G06Q
+11461734,2022-10-04,Sensor based product arrangement,0,G06Q
+11461674,2022-10-04,Vehicle recommendations based on driving habits,0,G06N|G07C
+11461541,2022-10-04,Interactive validation of annotated documents,1,G06F|G06N|G06T|G06V
+11461210,2022-10-04,Real-time calculation of data center power usage effectiveness,1,G06F|G06Q
+11461200,2022-10-04,Disaster recovery failback advisor,0,G06F|G06N
+11457554,2022-10-04,Multi-dimension artificial intelligence agriculture advisor,1,A01B|G06N|G06Q|H04L
+11457076,2022-09-27,User profile creation for social networks,0,G06F|G06Q|H04L
+11457032,2022-09-27,Managing data and data usage in IoT network,0,G06F|H04L|H04W
+11455416,2022-09-27,Record-level sensitivity-based data storage in a hybrid multi cloud environment,0,G06F|G06Q
+11449800,2022-09-20,Machine-learned data management between devices,0,G06N
+11449478,2022-09-20,Blockchain implemented data migration audit trail,1,G06F|H04L
+11449379,2022-09-20,Root cause and predictive analyses for technical issues of a computing environment,3,G06F|G06N
+11449120,2022-09-20,Centralized power management of wireless devices,1,G06F|H04W
+11442803,2022-09-13,Detecting and analyzing performance anomalies of client-server based applications,1,G06F|G06N|H04L
+11442764,2022-09-13,Optimizing the deployment of virtual resources and automating post-deployment actions in a cloud environment,1,G06F
+11438179,2022-09-06,Certificate renewal process outside application server environment,0,H04L
+11436470,2022-09-06,Generating simulated image training data,0,G06F|G06N|G06V
+11436145,2022-09-06,Analytics-driven direction for computer storage subsystem device behavior,4,G06F|G06N
+11431734,2022-08-30,Adaptive rule generation for security event correlation,0,G06F|H04L
+11431668,2022-08-30,Dynamically managing figments in social media,0,G06F|G06N|H04L
+11431503,2022-08-30,Self-sovereign data access via bot-chain,1,G06F|H04L
+11429833,2022-08-30,Cognitive communication assistant services,0,G06F|G06N
+11429687,2022-08-30,Context based URL resource prediction and delivery,0,G06F
+11429423,2022-08-30,Workload scheduling with localized virtual network resources,0,G06F|H04L
+11429382,2022-08-30,Regression test case identification for testing software applications,0,G06F|G06N
+11427094,2022-08-30,Prioritization for charging electric vehicles while driving on the road,0,B60L|H04W|Y02E|Y04S
+11423343,2022-08-23,Dynamic construction of cloud services,0,G06F|G06Q|H04L
+11423334,2022-08-23,Semantic consistency of explanations in explainable artificial intelligence applications,1,G06F|G06N
+11419247,2022-08-16,Controlling a working condition of electronic devices,1,G05B|G06N|H05K
+11418575,2022-08-16,Optimizing service deployment in a distributed computing environment,0,G06F|H04L
+11416921,2022-08-16,Hyperlink functionality for enabling an auctioning platform,2,G06F|G06Q
+11416823,2022-08-16,Resolution and pipelining of helpdesk tickets needing resolutions from multiple groups,1,G06F|G06Q
+11416769,2022-08-16,Intelligent service request classification and assignment,0,G06N|H04L
+11410054,2022-08-09,Cognitive prediction of problematic servers in unknown server group,0,G06N|H04L
+11409588,2022-08-09,Predicting hardware failures,0,G06F|G06N
+11405293,2022-08-02,"System and method for managing IT asset inventories using low power, short range network technologies",0,H04L|H04W|Y02D
+11403845,2022-08-02,Dynamic detection of building structure,0,G06Q|G06T|G06V
+11403165,2022-08-02,Cognitive disaster recovery workflow management,0,G06F
+11403125,2022-08-02,Optimizing the deployment of virtual resources and automating post-deployment actions in a cloud environment,0,G06F
+11399030,2022-07-26,Ontology based control of access to resources in a computing system,0,G06F|H04L
+11397858,2022-07-26,Utilizing widget content by virtual agent to initiate conversation,0,G06F|G06N
+11397825,2022-07-26,Encrypted knowledge graph,0,G06F|G06N
+11397630,2022-07-26,Fault detection and correction of API endpoints in container orchestration platforms,0,G06F|G06N
+11397591,2022-07-26,Determining disorder in technological system architectures for computer systems,0,G06F|G06N
+11394808,2022-07-19,Passive identification of service ports in containers,0,G06F|G06N|H04L
+11394717,2022-07-19,Digitally secure transactions over public networks,0,G06F|G06Q|H04L
+11388232,2022-07-12,Replication of content to one or more servers,0,G06F|H04L
+11385933,2022-07-12,Priority determination of computer resources based on configured dynamic logic,0,G06F|G06N|G06Q
+11379112,2022-07-05,Managing content displayed on a touch screen enabled device,0,G06F
+11375042,2022-06-28,Symphonizing serverless functions of hybrid services,0,H04L
+11373196,2022-06-28,Method and system for viral marketing within a virtual world,0,G06Q
+11373057,2022-06-28,Artificial intelligence driven image retrieval,0,G06F|G06T|G06V
+11372834,2022-06-28,Optimizing space management of tablespaces in database systems,0,G06F
+11372572,2022-06-28,Self-relocating data center based on predicted events,0,G06F|G06N
+11368503,2022-06-21,Automated video positioning during virtual conferencing,0,G06F|G06N|G10L|H04L|H04N
+11366641,2022-06-21,Generating microservices for monolithic system using a design diagram,1,G06F|G06T
+11363453,2022-06-14,Prepaid digital delivery service,0,H04L|H04W
+11362947,2022-06-14,Interconnecting multiple separate openflow domains,1,H04L
+11361355,2022-06-14,Marketplace suggestions for cloud service providers,0,G06Q|H04L
+11361265,2022-06-14,Data center impact assessment post disaster,0,G06F|G06Q
+11356492,2022-06-07,Preventing audio dropout,1,G10L|H04L
+11355118,2022-06-07,Virtual assistants harmonization,0,G06N|G10L
+11351669,2022-06-07,Robotic management for optimizing a number of robots,0,B25J|G05B|G06F|G06Q
+11349833,2022-05-31,Multi-factor authentication utilizing device pairing,0,G06Q|H04L|H04W
+11349714,2022-05-31,Cognitive command line interface for configuring devices,0,G06F|G06N|H04L
+11347671,2022-05-31,Protecting a system from attack via a device attached to a USB port,1,G06F
+11341113,2022-05-24,Hybrid locking mechanism in relational database management systems,0,G06F
+11334446,2022-05-17,Backup system for an overlay network,0,G06F
+11329896,2022-05-10,Cognitive data protection and disaster recovery policy management,1,H04L
+11328342,2022-05-10,Ai based colluded shipping with 3D printing,0,B29C|B33Y|G06Q|G06T
+11328214,2022-05-10,Real-time multi-agent response based on a preference-based consensus,0,G06N
+11328034,2022-05-10,Authority based content filtering,0,G06F
+11321797,2022-05-03,Wearable watermarks,0,G06F|G06K|G06T|G10L
+11321787,2022-05-03,Automonous multi-cloud solution design and fulfillment via crowdsourcing,1,G06F|G06Q
+11321749,2022-05-03,Metering based on application code complexity,0,G06F|G06Q
+11321638,2022-05-03,Interoperable smart AI enabled evaluation of models,0,G06F|G06N
+11321271,2022-05-03,Host based non-volatile memory clustering mechanism using network mapped storage,0,G06F|H04L
+11321162,2022-05-03,Incident root cause analysis using Galois connections,0,G06F|G06N
+11321130,2022-05-03,Container orchestration in decentralized network computing environments,4,G06F
+11316765,2022-04-26,Load balancing across bandwidth carrying circuits,0,H04L
+11315024,2022-04-26,Cognitive computing systems and services utilizing internet of things environment,5,G06N|H04L
+11314857,2022-04-26,Detection of compromise through automated power analysis,1,G06F
+11314475,2022-04-26,Customizing content delivery through cognitive analysis,0,G06F|G06N
+11310206,2022-04-19,In-line cognitive network security plugin device,0,G06F|H04L
+11310173,2022-04-19,Virtual agent chat model updates,0,G06F|G06N|H04L
+11310122,2022-04-19,Portable and flexible deployment of servers,1,G06F|G06Q|H04L
+11308816,2022-04-19,Automated vehicle control,0,G01C|G05B|G08G|H04L
+11308236,2022-04-19,Managing obfuscation of regulated sensitive data,0,G06F|H04L|H04W
+11308223,2022-04-19,Blockchain-based file handling,0,G06F|H04L
+11308086,2022-04-19,Increasing database performance through query aggregation,1,G06F
+11307940,2022-04-19,Cognitive data backup,0,G06F|G06N
+11307902,2022-04-19,Preventing deployment failures of information technology workloads,0,G06F
+11303801,2022-04-12,Determining settings of a camera apparatus,1,G06F|H04N
+11303530,2022-04-12,Ranking of asset tags,0,G06N|G06Q|H04L
+11301821,2022-04-12,Cognitive prioritization model for hardware device prediction maintenance delivery,0,G06N|G06Q|G07F
+11301490,2022-04-12,Synchronous database replication with asynchronous transaction recovery,0,G06F
+11301315,2022-04-12,Automated hardware failure prediction framework,3,G06F|G06N
+11301287,2022-04-12,Pattern-based orchestration of cloud provisioning tasks at runtime,0,G06F|H04L
+11301230,2022-04-12,Machine learning multimedia conversion assignment,0,G06F|G06N
+11299174,2022-04-12,Dual-test operator assessment,0,A61B|B60Q|B60W|G05D|G06N|G06V|G07C
+11295269,2022-04-05,Cognitive retail facing,0,B25J|G06N|G06Q|G06T
+11294958,2022-04-05,Managing a distributed knowledge graph,0,G06F|G06N
+11294752,2022-04-05,Virtual agent corrections via log analysis,1,G06F|H04L
+11290772,2022-03-29,Multi-source content displaying interface,0,G06V|H04N
+11289076,2022-03-29,Assisting meeting participants via conversation loop detection and resolution using conversation visual representations and time-related topic usage,0,G06F|G06N|G06Q|G10L
+11288360,2022-03-29,Preventing untrusted script execution,0,G06F|H04L
+11288232,2022-03-29,Database deployment objects and deterministic locking models,0,G06F
+11283863,2022-03-22,Data center management using digital twins,4,G06F|G06N|H04L|Y04S
+11281984,2022-03-22,Service level agreement risk analysis with exogenous architecture,0,G06N|H04L
+11281510,2022-03-22,Intelligent scaling in microservice-based distributed systems,0,G06F
+11277381,2022-03-15,Multi-channel based just-in-time firewall control,0,H04L
+11276047,2022-03-15,Determining and distributing fuel credits using a computer-based immutable ledger,0,G06F|G06Q|H04L
+11275793,2022-03-15,Device recommendations based on device interactions in network,0,G05B|G06F|G16Y|H04L
+11275685,2022-03-15,System and method of optimizing rollbacks,0,G06F
+11275640,2022-03-15,Computer error prevention and reduction,0,G06F
+11275555,2022-03-15,Resolving a device prompt,0,G06F
+11272558,2022-03-08,Secondary internet access for mobile devices,0,H04L|H04M|H04W
+11272314,2022-03-08,Geofence selection and modification,0,G06K|G06N|G06Q|G08B|H04W
+11271944,2022-03-08,Authentication framework to enforce contractual geographical restrictions,1,G06F|H04L
+11271829,2022-03-08,SLA-aware task dispatching with a task resolution control,0,G06Q|H04L
+11270670,2022-03-08,Dynamic visual display targeting using diffraction grating,0,G02B|G03H|G06F|G06N|G06Q|G09G|H04N
+11270238,2022-03-08,Utilizing blockchain technology with mobile robotic machines,0,G05B|G06Q|H04L|H04W
+11270119,2022-03-08,Video privacy using machine learning,0,G06F|G06V|H04N
+11269753,2022-03-08,Multi-layered computing system attribute dependency,0,G06F|G06N|G06Q
+11265416,2022-03-01,Management of communication notifications based upon geographic location,0,H04L|H04M|H04W
+11265317,2022-03-01,Security control for an enterprise network,0,H04L|H04W
+11265229,2022-03-01,Compliance validation for services based on user selection,0,H04L
+11264013,2022-03-01,Identifying digital private information and preventing privacy violations,0,G06F|G06N|G10L
+11263527,2022-03-01,Cognitive switching logic for multiple knowledge domains,0,G06F|G06N
+11263249,2022-03-01,Enhanced multi-workspace chatbot,4,G06F|G06N|H04L
+11263207,2022-03-01,Performing root cause analysis for information technology incident management using cognitive computing,1,G06F
+11263003,2022-03-01,Intelligent versioning of machine learning models,4,G06F|G06N
+11258739,2022-02-22,System and method for managing files to be attached to or detached from an electronic mail,0,G06F|H04L
+11258526,2022-02-22,Real-time audience attention measurement and dashboard display,0,G06T|H04H|H04N|H04R
+11257026,2022-02-22,"Method, system, and computer readable program storage device for distribution and deliveries through automatic driver selection based on patterns",1,G01C|G06Q
+11256814,2022-02-22,Application selection based on cumulative vulnerability risk assessment,0,G06F
+11252530,2022-02-15,Providing location specific information,0,G06Q|H04W
+11251940,2022-02-15,Decentralized repository using encryption for non-repudiable activity and ownership,0,G06F|H04L
+11250045,2022-02-15,Media content modification,1,G06F|G06N|G06V|H04N
+11249978,2022-02-15,Multiple parameter based composite rule data validation,0,G06F
+11244012,2022-02-08,Compliance by clustering assets according to deviations,0,G06F|G06Q|H04L
+11237881,2022-02-01,Message connector as a service to migrate streaming applications into cloud nativity,0,G06F|H04L

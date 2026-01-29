@@ -1,0 +1,527 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432744,2025-09-30,EMTC scheduling and MPDCCH monitoring,0,H04L|H04W
+12432667,2025-09-30,Method and apparatus for power control of physical uplink control channel repetitions,0,H04W
+12432335,2025-09-30,"Image display method, device, apparatus, and computer-readable storage medium",0,H04N
+12432030,2025-09-30,Methods and apparatuses that enable panel-specific configuration and transmission,0,H04B|H04L|H04W
+12430891,2025-09-30,"Detection method, device, apparatus, and storage medium",0,G06N|G06V
+12426078,2025-09-23,Method and apparatus for small data transmission,0,H04L|H04W
+12426068,2025-09-23,Method and apparatus for transmission of control signals,0,H04L|H04W
+12425935,2025-09-23,Method and apparatus for data transmission,0,H04W
+12425905,2025-09-23,Method and apparatus for reporting failure information in a communication system,0,H04W
+12425891,2025-09-23,"Methods, apparatuses, and systems for intelligent interference management and radio resource management",0,H04W
+12425148,2025-09-23,Data transmissions using multiple transmission reception points,0,H04L|H04W
+12423045,2025-09-23,Electronic device,0,F16M|G06F|G09G
+12422993,2025-09-23,"Data reading and writing method, system and control method",0,G06F|Y02D
+12418939,2025-09-16,Method and apparatus for sidelink burst transmission,0,H04W
+12418892,2025-09-16,Methods and apparatuses for sidelink control information reception,0,H04W
+12418842,2025-09-16,Method and apparatus for performing mobility robustness optimization in a handover procedure,0,H04W
+12418818,2025-09-16,Channel state information reference signal resource pairs,0,H04B|H04L|H04W
+12418382,2025-09-16,Default beam determination,0,H04B|H04L
+12414097,2025-09-09,Methods and apparatus for dynamic FDM between parent link and child link in IAB network,0,H04L|H04W
+12414094,2025-09-09,Method and apparatus for slot format indication in NTN system,0,H04W
+12414030,2025-09-09,Server discovery improvement when application server changes,0,H04L|H04W
+12413349,2025-09-09,PUCCH repetition number indication,0,H04L|H04W
+12408225,2025-09-02,Method and apparatus for performing random access,0,H04L|H04W
+12408159,2025-09-02,Sidelink communication using multiple protocol stacks,0,H04W
+12408094,2025-09-02,Systems and methods for selectively switching between primary data connection modes of a mobile device,0,H04W
+12402193,2025-08-26,Methods and apparatuses for processing a radio link failure (RLF) during a dual active protocol stack (DAPS) handover procedure,0,H04W
+12402169,2025-08-26,Methods and apparatus for burst-based sidelink transmission,0,H04L|H04W
+12402065,2025-08-26,Method and apparatus for restricting access of devices,0,H04L|H04W
+12400416,2025-08-26,Controlling virtual object interactions,0,A63F|G06F|G06T|G06V
+12399669,2025-08-26,Processing method and electronic device,0,G06F
+12396009,2025-08-19,Method and apparatus for physical downlink control channel repetition,0,H04L|H04W
+12395941,2025-08-19,Method and apparatus for power control of configured grant PUSCH repetition,1,H04B|H04L|H04W
+12395333,2025-08-19,Method and apparatus for blockchain-aware mobile vehicle communication,0,G06F|H04L|H04W
+12395238,2025-08-19,Method and apparatus for UE context transmission and reception,0,H04B|H04W|Y02D
+12395218,2025-08-19,Method and apparatus for beam management on sidelink,0,H04B|H04W
+12393387,2025-08-19,Electronic device,0,G06F|G09G
+12389452,2025-08-12,Method and apparatus for sharing channel occupancy time on unlicensed spectrum,0,H04W
+12389451,2025-08-12,PDCCH transmission in UE-initiated COT,0,H04L|H04W
+12386410,2025-08-12,"Processor power consumption control method, system, and electronic apparatus",0,G06F|Y02D
+12382434,2025-08-05,Integrated access and backhaul node configuration,0,H04W
+12382334,2025-08-05,Method and apparatus for radio link flow control,0,H04B|H04L|H04W
+12379830,2025-08-05,Electronic apparatus,0,G06F|G06T
+12379795,2025-08-05,"Control method, electronic device, and storage medium",0,G06F
+12376119,2025-07-29,Method and apparatus for HARQ-ACK codebook determination for frame-based equipment operation,0,H04L|H04W
+12376073,2025-07-29,Method and apparatus for handling paging collisions,0,H04W
+12376040,2025-07-29,Power control for PUCCH transmissions with multiple TRPs,0,H04W
+12376035,2025-07-29,Method and apparatus for WUS detection,0,H04W|Y02D
+12375904,2025-07-29,Method and apparatus for wireless communication,0,H04W
+12375818,2025-07-29,"Image capturing method and apparatus, device and storage medium",0,G06T|G06V|H04N
+12375797,2025-07-29,Method and device for processing image data collected by two cameras,0,H04N|H04R
+12375213,2025-07-29,"User equipment, base station and method for exchanging sidelink information",0,H04L|H04W
+12375212,2025-07-29,Apparatus and method of PUCCH repetition using multiple beams,0,H04B|H04L|H04W
+12375209,2025-07-29,Method and apparatus for uplink transmission on configured grant resources,0,H04L|H04W
+12369163,2025-07-22,Method and apparatus for enhancing physical downlink control channel (PDCCH) coverage,0,H04L|H04W
+12367668,2025-07-22,"Information processing method, information processing device, and electronic device",0,G06T|G06V|H04N
+12367116,2025-07-22,"Data processing method and apparatus for data transfer in distributed storage system, device, and storage medium",0,G06F
+12366896,2025-07-22,Rotation connection structure and electronic apparatus,0,G06F
+12363866,2025-07-15,Heat dissipation device and electronic apparatus,0,F28D|H01L|H05K|Y02D
+12363843,2025-07-15,Rotation connection structure and electronic apparatus,0,F16C|G06F|H05K
+12363677,2025-07-15,Method and apparatus for paging control,0,H04W
+12363670,2025-07-15,Method and apparatus for core network registration and radio access network notification update,0,H04L|H04W
+12363417,2025-07-15,Electronic device,0,G03B|H04N
+12363396,2025-07-15,"Processing method, electronic device, and storage medium",0,H04M|H04N
+12362977,2025-07-15,Method and apparatus for PT-RS mapping,0,H04L
+12360721,2025-07-15,"Display interface control method and apparatus thereof, and storage medium",0,G06F|G09G
+12356422,2025-07-08,Method and apparatus for downlink data reception,0,H04L|H04W
+12356391,2025-07-08,Resource configuration,0,H04W
+12354571,2025-07-08,Processing method and device,0,G06F|G09G
+12349225,2025-07-01,Method and apparatus for node selection and access control,0,H04L|H04W
+12349188,2025-07-01,Method and apparatus of vehicle-to-everything (V2X) communication,0,H04L|H04W
+12349156,2025-07-01,Method and apparatus for reducing operations of monitoring PDCCH,0,H04L|H04W|Y02D
+12349105,2025-07-01,Method and apparatus for absence time request,0,H04W|Y02D
+12349080,2025-07-01,Downlink power allocation for NBIoT,0,H04B|H04W
+12348986,2025-07-01,Method and apparatus for multicast and broadcast services,0,H04W
+12348363,2025-07-01,Processing method and service terminal of sharing device,0,G06F|H04L
+12347042,2025-07-01,"Augmented reality guiding method, apparatus, electronic device and computer-readable storage medium",0,G06F|G06T|G06V
+12341725,2025-06-24,Methods and apparatuses for interference mitigation and related intelligent network management,0,H04L|H04W
+12341611,2025-06-24,Method and apparatus for transmission of transport blocks,0,H04L|H04W
+12340010,2025-06-24,Method and apparatus for acquiring object's attention information and electronic device,0,G06F|G06Q|G06T|G06V
+12335970,2025-06-17,Apparatus and method of joint search space set for enhanced PDCCH transmission with multiple beams from multiple TRPs,0,H04L|H04W
+12335923,2025-06-17,Method and device for guarantee high QoS service via multiple resource pools for NR V2X,0,H04W
+12335913,2025-06-17,Method and apparatus for data transmission,0,H04W
+12335197,2025-06-17,Apparatus and method of resource mapping for enhanced PDCCH transmission with multiple beams from multiple TRPs,0,H04L|H04W
+12335196,2025-06-17,Data block transmissions,0,H04L|H04W
+12335183,2025-06-17,Method and apparatus for MPDCCH performance enhancement,0,H04B|H04L|H04W
+12333982,2025-06-17,Display control method and electronic device,0,G06F|G09G|Y02D
+12333091,2025-06-17,"Pen tip assembly, stylus, and method of preparing pen tip assembly",0,G06F
+12328767,2025-06-10,Method and apparatus for PRACH repetitions,0,H04L|H04W
+12328723,2025-06-10,Method and apparatus for HARQ-ACK sub-codebook combination,0,H04L|H04W
+12328173,2025-06-10,Method and apparatus for transmitting Scell beam failure recovery requests,0,H04B|H04W
+12327332,2025-06-10,Multi-modality image processing method and device,0,G06F|G06T|G06V
+12324666,2025-06-10,"Fatigue measurement method, apparatus, and computer-readable medium",0,A61B|G06F|G06V
+12324020,2025-06-03,Method and apparatus for data transmission,0,H04W
+12323923,2025-06-03,MAC CE for configuring pathloss reference signal for PUSCH,0,H04L|H04W
+12323849,2025-06-03,Method and apparatus for indicating QoS flow information,0,H04L|H04W
+12323255,2025-06-03,HARQ-ACK feedback timing for SPS PDSCH,0,H04L|H04W
+12323209,2025-06-03,Apparatus and method of enhanced channel state information (CSI) feedback for enhanced physical downlink control channel (PDCCH) transmission with multiple beams from multiple transmit receive points (TRPs),0,H04B|H04L|H04W
+12322357,2025-06-03,Electronic device and processing method,0,G06F|G09G
+12321573,2025-06-03,System and method for processing and presenting popularity data,0,G06F|G06Q|H04L
+12317452,2025-05-27,Heat dissipating structure,0,F28D|G06F|H05K
+12317363,2025-05-27,Method and apparatus for aligning sidelink DRX configuration,0,H04W|Y02D
+12317318,2025-05-27,Determining channel statistics for clear channel assessments,0,H04W
+12317310,2025-05-27,Method and apparatus for sidelink scheduling request and buffer status report transmission,0,H04W
+12317262,2025-05-27,"User equipment, base station and method for transmitting uplink control information to multiple transmission reception points",0,H04L|H04W
+12317248,2025-05-27,Method and apparatus for resource allocation in V2X,0,H04W
+12317236,2025-05-27,Method and apparatus for indicating TDD uplink-downlink configuration,0,H04L|H04W
+12317195,2025-05-27,Method and apparatus for reporting reference signal receiving power,0,H04B|H04L|H04W
+12316697,2025-05-27,Control method and storage medium,0,G06F|H04L
+12316565,2025-05-27,Media Access Control (MAC) Control Element (CE) for configuring pathloss reference signal for Sounding Reference Signal (SRS),0,H04B|H04L
+12314621,2025-05-27,"Control method, apparatus, and electronic device",0,G06F
+12309967,2025-05-20,Electronic device including accommodation cavity and flow channel in housing,0,G06F|H05K
+12309799,2025-05-20,Communication methods and apparatuses,0,H04L|H04W
+12309782,2025-05-20,Apparatus and method of UCI multiplexing in PUCCH resources for multiple TRPs,0,H04L|H04W
+12309093,2025-05-20,Methods and apparatuses for configuring and triggering aperiodic SRS transmission,0,H04L|H04W
+12306796,2025-05-20,Data processing method and electronic device,0,G06F
+12302263,2025-05-13,Transmission of power control command,0,H04B|H04W
+12301691,2025-05-13,Methods and apparatus for managing caching in mobile edge computing systems,0,H04L
+12301497,2025-05-13,Method and apparatus for uplink data transmission,0,H04L|H04W|Y02D
+12294999,2025-05-06,Method and apparatus for beam-based transmission for sidelink,0,H04L|H04W
+12294992,2025-05-06,Method and apparatus for MSGA transmission,0,H04L|H04W
+12294937,2025-05-06,Method and apparatus for wireless communication,0,H04L|H04W
+12289752,2025-04-29,Method and apparatus for timely scheduling,0,H04W|Y02D
+12289742,2025-04-29,Method and apparatus for hybrid automatic retransmission request,0,H04L|H04W
+12289691,2025-04-29,Power headroom report for additional SRS,0,H04L|H04W
+12289272,2025-04-29,Method and apparatus for resource reservation for NR sidelink,0,H04L
+12288538,2025-04-29,Display control method and electronic device,0,G06F|G09G|Y02D
+12288092,2025-04-29,Task processing method and device,0,G06F
+12287925,2025-04-29,Processing method and electronic device,0,G06F|G09G
+12287608,2025-04-29,Image projection method and system,0,G02B|G03B|G03H|H04N
+12284696,2025-04-22,Method and apparatus for performing sidelink communication in a communication system,0,H04W
+12284652,2025-04-22,Method and apparatus for scheduling request and buffer status report transmissions,0,H04L|H04W
+12284134,2025-04-22,Method and apparatus for fallback operation for semi-static HARQ-ACK codebook determination,0,H04L|H04W
+12284126,2025-04-22,Determining an association between DMRS and PTRS,0,H04B|H04L|H04W
+12284037,2025-04-22,Method and apparatus for PDCCH repetition,0,H04L|H04W
+12279043,2025-04-15,"Method and apparatus of capturing image, electronic device and computer readable storage medium",0,G06F|G06T|G09G|H04N
+12273865,2025-04-08,NBIOT frequency hopping,0,H04B|H04L|H04W
+12273774,2025-04-08,Method and apparatus for pre-empting a resource,0,H04L|H04W
+12264774,2025-04-01,Connection apparatus and electronic device,0,F16M|G03B|H04N
+12262372,2025-03-25,Apparatus and method of PUCCH transmission and reception,0,H04L|H04W
+12262244,2025-03-25,Method and apparatus for QoS monitoring and feedback,0,H04L|H04W
+12261703,2025-03-25,Method and apparatus for configuring a scheduling configuration,0,H04L|H04W
+12261700,2025-03-25,Method and apparatus for semi-static HARQ-ACK codebook determination,0,H04L|H04W
+12260147,2025-03-25,"Display control method, display apparatus",0,G06F|G09G
+12256522,2025-03-18,Heat dissipation device and electronic equipment,0,F28D|G06F|H01L|H05K
+12256374,2025-03-18,Methods and apparatuses for SRS configuration and transmission,0,H04L|H04W
+12256236,2025-03-18,Determining default spatial relation for UL signals,0,H04L|H04W
+12250700,2025-03-11,Device information in a context setup request,0,H04W
+12250696,2025-03-11,Method and apparatus for wireless communication,0,H04L|H04W
+12250609,2025-03-11,Method and apparatus for wireless communication,0,G01S|H04W
+12250586,2025-03-11,Apparatus and method for communication with buffer status report,0,H04W
+12245084,2025-03-04,Method and apparatus for pre-emption of a sidelink resource,1,H04W
+12236113,2025-02-25,Information processing apparatus and control method for controlling execution of garbage collection,0,G06F|Y02D
+12236040,2025-02-25,Pressure position based response function control method and electronic device,0,G06F|Y02D
+12235676,2025-02-25,Support device and electronic system,0,F16M|G06F
+12232124,2025-02-18,Multi-slot scheduling on unlicensed spectrum,0,H04W
+12232114,2025-02-18,Method and apparatus for data indication,0,H04W
+12232035,2025-02-18,Configuration for wake up signal,0,H04B|H04L|H04W|Y02D
+12225625,2025-02-11,Method and apparatus for radio access network based notification area update,0,H04W
+12222784,2025-02-11,Electronic apparatus,0,G06F|H05K
+12222777,2025-02-11,Mainboard mounting mechanism and electric device,0,G06F
+12219479,2025-02-04,Method and apparatus for grouping user equipments,0,H04W|Y02D
+12219461,2025-02-04,Service request processing method and device and electronic device,0,H04L|H04W|Y02D
+12218886,2025-02-04,Wireless system wider bandwidth carrier indication,0,H04L|H04W
+12218880,2025-02-04,Transmitting feedback for sidelink transmissions,0,H04L
+12218875,2025-02-04,Apparatus and method of CSI acquisition on sidelink,0,H04B|H04L|H04W
+12216958,2025-02-04,Information processing method and electronic device,0,G06F|G09G
+12213009,2025-01-28,Method and apparatus for controlling a cell selection procedure and a handover procedure,1,H04W
+12212421,2025-01-28,HARQ-ACK transmission on unlicensed spectrum,0,H04L|H04W
+12210884,2025-01-28,Processing method and processing device,0,G06F
+12206622,2025-01-21,Apparatus and method of harq-ack feedback,0,H04L|H04W
+12206512,2025-01-21,Scheduling enhancement for enhanced machine-type communication,0,H04L
+12206261,2025-01-21,"Control method, electronic device, and writing interaction device",0,G06F|H02J|Y02B
+12200797,2025-01-14,Method and apparatus for transmitting radio link information,0,H04W
+12200700,2025-01-14,Time domain resource allocation,0,H04L|H04W
+12200594,2025-01-14,Method and apparatus for reducing latency in a communication system by reconfiguring a communication device based on a received signaling message comprising an indication of a failure in a backhaul link,0,H04L|H04W
+12200537,2025-01-14,Method and apparatus for hop-by-hop flow control,0,H04L|H04W
+12197257,2025-01-14,Rotation shaft assembly and electronic device,0,F16C|G06F|H04M
+12192946,2025-01-07,Method and apparatus for core network registration and radio access network notification update,1,H04L|H04W
+12192911,2025-01-07,Method and apparatus for power control,0,H04W
+12191958,2025-01-07,Methods and apparatuses for phase tracking reference signal,0,H04B|H04L|H04W
+12185307,2024-12-31,Methods and apparatuses for multiple PUSCH transmissions on unlicensed spectrum,0,H04W
+12185087,2024-12-31,Methods and apparatuses for end-to-end flow control,0,H04W
+12184430,2024-12-31,Method and apparatus for determining one shot HARQ-ACK codebook,1,H04L
+12184420,2024-12-31,Apparatus and method of one-shot HARQ-ACK codebook determination,0,H04L|H04W
+12184419,2024-12-31,Method and apparatus for HARQ feedback,0,G08G|H04L|H04W
+12184382,2024-12-31,Apparatus and methods of simultaneous user equipment (UE) receive (RX) beam refinement,0,H04B|H04L
+12183250,2024-12-31,Display control method and electronic device,0,G06F|G06T|G09G
+12177912,2024-12-24,Method and device of SLRB configuration for NR V2X sidelink UE,0,H04W
+12177901,2024-12-24,Method and apparatus for uplink data transmission or reception,0,H04W
+12177159,2024-12-24,Method and apparatus for HARQ-ACK feedback in multi-TRP transmission,0,H04L
+12170574,2024-12-17,Method and apparatus for HARQ-ACK retransmission,0,H04L
+12169682,2024-12-17,Processing method and device for displaying input information based on behavior parameter for inputting the input information and attribute of the input information,0,G06F|G06V|G09G
+12167425,2024-12-10,Method and apparatus for adding secondary node for UAV,0,H04W
+12167391,2024-12-10,Method and apparatus for slot format indication,0,H04L|H04W
+12167379,2024-12-10,Method and apparatus for indicating slot format information,0,H04W
+12167280,2024-12-10,Method and apparatus for resource allocation for EMBB/URLLC,0,H04L|H04W
+12166594,2024-12-10,HARQ-ACK feedback for configured grant PUSCH,1,H04L
+12166586,2024-12-10,"Methods, apparatuses, and media for operating point-to-multipoint radio bearer",0,H04L
+12164929,2024-12-10,Information processing method and electronic apparatus,0,G06F
+12164702,2024-12-10,Electronic device operating method and electronic device,0,G06F
+12156211,2024-11-26,Sidelink feedback request determination,0,H04L|H04W
+12156082,2024-11-26,Method and apparatus for reporting assistant information,2,H04W
+12155487,2024-11-26,Method and apparatus for reducing one-shot hybrid automatic repeat request-acknowledgement (HARQ-ACK) codebook size,0,H04L
+12154472,2024-11-26,Electronic device with forwarding module for outputting display signals,0,G06F|G09G
+12150193,2024-11-19,Method and apparatus for handling connection with multi-sim,0,H04W
+12150113,2024-11-19,Control signal design based on a downlink control information format,0,H04L|H04W
+12148117,2024-11-19,Control method and device for displaying 3D images,0,G06F|G06T
+12144031,2024-11-12,Communication methods and apparatuses,0,H04L|H04W|Y02D
+12143972,2024-11-12,Apparatus and method of scheduling Multi-TTI transmissions,0,H04L|H04W
+12143963,2024-11-12,Methods and apparatuses for UE grouping,0,H04W|Y02D
+12137002,2024-11-05,Method and apparatus for determining enhanced dynamic HARQ-ACK codebook,0,H04L
+12136399,2024-11-05,Control method and electronic device,0,G06T|G09G|H04N
+12135870,2024-11-05,"Input control method, device, and electronic apparatus for input through external device",0,G06F
+12127208,2024-10-22,Method and apparatus for scheduling a sidelink resource,0,H04W
+12127164,2024-10-22,Wake up signal transmission for NR-light system,0,H04W|Y02D
+12127066,2024-10-22,Service continuity for PDU session anchor relocation,0,H04L|H04M|H04W
+12126904,2024-10-22,"Camera module, information processing method, and electronic device for image stabilization control",0,G02B|G03B|H04N
+12119969,2024-10-15,Non-anchor carrier frequency offset indication,0,H04L|H04W
+12112183,2024-10-08,Method and apparatus for contention window size adjustment,0,G06F|H04L
+12108389,2024-10-01,Apparatus and method of scheduling request transmission and reception,0,H04L|H04W
+12105563,2024-10-01,"Control method and device, and computer-readable storage medium controlling function of interaction interface of electronic device",0,G06F
+12105555,2024-10-01,Electronic apparatus,0,F16M|G03B|G06F|H04M|H04N
+12101885,2024-09-24,"Server motherboard, server, and power supply control method",0,G06F|H05K
+12101800,2024-09-24,Resource pool assignment,0,H04L|H04W
+12101791,2024-09-24,Device information in a context setup request,1,H04W
+12101773,2024-09-24,Buffer status report indicator,0,H04W
+12101724,2024-09-24,Methods and apparatuses of power control for additional SRS,0,H04W
+12100293,2024-09-24,Electronic device and control method,0,G06F|G08C|H10K
+12099383,2024-09-24,Display method and device,0,G06F|G09G
+12096503,2024-09-17,Method and apparatus for handling radio link failure,0,H04W
+12096450,2024-09-17,Method and apparatus for resource allocation on unlicensed spectrum,0,H04L|H04W
+12095533,2024-09-17,Channel state information calculation,0,H04B|H04L
+12089202,2024-09-10,Method and apparatus for a sidelink transmission,0,H04L|H04W
+12086605,2024-09-10,"Application invocation implementation method, apparatus, and electronic device",0,G06F
+12086406,2024-09-10,Control method and device and electronic device,0,G06F
+12086400,2024-09-10,"Method, electronic device, and storage medium for displaying shortcut identification card and application identification card",0,G06F
+12086359,2024-09-10,Electronic apparatus and data processing method,0,G06F
+12086305,2024-09-10,Display method and electronic device comprising selecting and obtaining image data of a local area of a user's face,0,G06F|G06T|G06V
+12085980,2024-09-10,Support structure and electronic apparatus,1,F16C|F16M|G06F
+12085512,2024-09-10,Processing method and processing device,0,G01N|G06T
+12082298,2024-09-03,Method and apparatuses for UE grouping,0,H04W
+12079259,2024-09-03,Data processing method and device and electronic apparatus,0,G06F
+12075517,2024-08-27,Methods and apparatuses of handling radio link failure,0,H04L|H04W
+12075328,2024-08-27,Method and apparatus for reporting link assistant information and transmitting data,0,H04L|H04W
+12074714,2024-08-27,Methods and apparatuses of handling collisions,0,H04L|H04W
+12072739,2024-08-27,Electronic apparatus with slidable flexible screen,0,G06F
+12067323,2024-08-20,Data processing method and device and storage medium,0,G06F|G09G
+12067195,2024-08-20,Control method and electronic device,1,G06F
+12067055,2024-08-20,Information display method and electronic apparatus,0,G06F
+12066873,2024-08-20,Display panel,0,G06F|H01Q
+12061505,2024-08-13,Electronic apparatus and power supply method,0,G06F|Y02B|Y04S
+12058681,2024-08-06,Buffer status report for packet duplication,0,H04W
+12058618,2024-08-06,Method and apparatus for wake-up signals,0,H04L|H04W|Y02D
+12055972,2024-08-06,"Control method, apparatus, electronic devices, and storage medium",0,G06F|H04M
+12052200,2024-07-30,Method and apparatus for DTX detection for sidelink groupcast transmission,0,H04L|H04W
+12052102,2024-07-30,Method and apparatus for scheduling transport blocks,0,H04L|H04W
+12048003,2024-07-23,Determining channel statistics for clear channel assessments,1,H04W
+12047849,2024-07-23,Method and apparatus for groupcast connection establishment and transmission,0,H04W
+12039341,2024-07-16,"Information processing method and device, apparatus, and storage medium",0,G06F
+12028469,2024-07-02,Electronic device and information processing method,0,G06F|H04M
+12021919,2024-06-25,"Processing method and device, electronic device, and computer-readable storage medium",0,H04L
+12021780,2024-06-25,Method and apparatus for radio link monitoring on sidelink,0,H04L|H04W
+12020627,2024-06-25,Processing method and apparatus,0,G06F|G09G
+12019938,2024-06-25,Information processing method and electronic device,0,G06F|G09G
+12019841,2024-06-25,Apparatus management and control method and device,1,G02B|G06F|G06T
+12015473,2024-06-18,Method and apparatus for sequence determination in wireless transmission,0,H04B|H04W
+12009934,2024-06-11,Method and apparatus for transmitting HARQ-ACK feedback on unlicensed spectrum,0,H04L|H04W
+12008186,2024-06-11,Touch panel assembly and electronic device,0,G06F|H03K
+12004098,2024-06-04,Candidate synchronization signal block transmission resources,0,H04L|H04W
+12003444,2024-06-04,Determining resources for phase tracking reference signals,2,H04L
+12003328,2024-06-04,Method and apparatus for HARQ-ACK codebook reduction,2,H04L|H04W
+12002393,2024-06-04,"Control method, electronic apparatus, and computer-readable storage medium",0,G06F|G06V|G09G|Y02D
+11997169,2024-05-28,Method for activating edge servers,0,H04L
+11995309,2024-05-28,Information processing method and information processing apparatus,0,G06F|G06V
+11994929,2024-05-28,Information processing method and electronic device,0,G06F|Y02D
+11991697,2024-05-21,Method and apparatus for subband based channel access on unlicensed spectrum,0,H04L|H04W
+11991690,2024-05-21,Method and apparatus for flexible transmission on unlicensed spectrum,0,H04L|H04W
+11991103,2024-05-21,Method and apparatus for phase tracking,1,H04B|H04L
+11991008,2024-05-21,Payload reduction for semi-static HARQ-ACK codebook,0,H04L
+11990964,2024-05-21,Channel state information report calculation,0,H04B|H04L|H04W
+11985516,2024-05-14,Method and apparatus for TRP downlink transmission,0,H04B|H04W
+11977897,2024-05-07,Mounting position of NVMe or SATA on a backplane using bay slot ID,0,G06F
+11977724,2024-05-07,Information processing method and electronic device,0,G06F|G06Q
+11973720,2024-04-30,HARQ process aggregation of multiple scheduled slots,0,H04L|H04W
+11963207,2024-04-16,Method and apparatus for sidelink communication,3,H04L|H04W
+11962536,2024-04-16,Data block transmissions,0,H04L|H04W
+11960696,2024-04-16,"Electronic device having multiple processing units and multiple memory units, and processing method thereof",0,G06F|G09G
+11956285,2024-04-09,"Information processing method, electronic device, and storage medium for data sharing in a communication group",0,H04L
+11947404,2024-04-02,Electronic device control method and device,0,G06F|G06T|G06V
+11946489,2024-04-02,Heat dissipation fan and electronic device,0,F04D|G06F|Y02D
+11943749,2024-03-26,Method of transmitting data over indicated resource blocks,0,H04L|H04W
+11943035,2024-03-26,Beam failure recovery,0,H04B|H04L|H04W
+11940948,2024-03-26,"Electronic device having multiple processing units and multiple memory units, and processing method thereof",0,G06F|G06T
+11934653,2024-03-19,Split screen processing method and electronic device,0,G06F
+11929008,2024-03-12,Processing method and apparatus,0,G06F|G09G
+11927984,2024-03-12,Electronic apparatus,0,G06F
+11921599,2024-03-05,Control method and electronic device,0,G06F
+11917777,2024-02-27,Electronic device,0,G06F|H05K
+11916678,2024-02-27,Method and apparatus for HARQ-ACK feedback for carrier aggregation,0,H04L|H04W
+11910341,2024-02-20,Method and apparatus for synchronization reference source selection,1,H04W
+11909527,2024-02-20,CBG-based retransmission,0,H04L|H04W
+11909480,2024-02-20,Method and apparatus for non-codebook based UL transmission,0,H04B|H04L|H04W
+11909473,2024-02-20,SRS configurations and SRS transmission,0,H04B|H04L|H04W
+11908218,2024-02-20,"Data processing method, device, and electronic apparatus",0,G06F|G06V
+11907603,2024-02-20,Screen projection control method and electronic device,0,G06F|G09G
+11907599,2024-02-20,"Information processing method, apparatus, electronic device, and storage medium",0,G06F|G09G
+11902959,2024-02-13,Enhanced scheduling of time sensitive networking,0,H04L|H04W
+11902754,2024-02-13,"Audio processing method, apparatus, electronic device and storage medium",0,G06T|H04R|H04S
+11902215,2024-02-13,Method and apparatus for resource mapping in unlicensed spectrum,0,H04L|H04W
+11900925,2024-02-13,Output method and electronic device,0,G06F|G10L
+11893172,2024-02-06,"Information processing method based on electronic device interaction, and electronic device for establishing communication by sending communication protocol",0,G06F|H04L|H04W
+11889921,2024-02-06,Support apparatus and electronic device,0,A47B|F16M|G06F
+11889656,2024-01-30,Electronic apparatus,0,G06F|H05K
+11888625,2024-01-30,HARQ-ACK transmission on unlicensed spectrum,0,H04L|H04W
+11886251,2024-01-30,Electronic device,0,G06F
+11880233,2024-01-23,Electronic device,0,F16M|G06F
+11864343,2024-01-02,Heat dissipation fan,0,F04D|G06F|H05K
+11864043,2024-01-02,Method and apparatus for backhaul link switching,0,H04W
+11843812,2023-12-12,"High-speed real-time data transmission method and apparatus, device, and storage medium",0,H04L|H04N
+11838799,2023-12-05,Redundant transmission determination,0,H04L|H04W
+11838643,2023-12-05,Information processing method and electronic apparatus,0,G06T|G06V|H04N
+11838128,2023-12-05,Triggering HARQ-ACK feedback for a downlink slot set,0,H04L
+11824811,2023-11-21,Method and apparatus for fallback operation for semi-static HARQ-ACK codebook determination,2,H04L|H04W
+11822419,2023-11-21,"Error information processing method and device, and storage medium",0,G06F
+11822383,2023-11-21,Electronic apparatus,0,G06F
+11818498,2023-11-14,"Screen recording method and apparatus, and electronic device",0,G06T|G11B|H04N
+11818084,2023-11-14,Display control method and electronic device,0,H04L
+11800580,2023-10-24,"Method, device, and electronic apparatus for establishing beam connection",0,H04B|H04W
+11799610,2023-10-24,Method and apparatus for allocating PUCCH resources to HARQ-ACK and CSI transmissions,0,H04L
+11792681,2023-10-17,Method and apparatus for integrated access and backhaul node selection,0,H04W
+11783798,2023-10-10,Display method and display apparatus,0,G06F|G09G
+11782629,2023-10-10,"Data processing method, device, and electronic device",0,G06F|Y02D
+11778910,2023-10-03,Electronic device,0,E05B|G06F|H01L|H10N
+11777668,2023-10-03,Method and apparatus for device-to-device communication based on a threshold,0,H04B|H04L
+11775029,2023-10-03,Connection device and electronic device,1,F16C|G06F
+11768526,2023-09-26,Electronic device,0,G06F|H01Q
+11762432,2023-09-19,Rotation shaft assembly and electronic device,0,G06F
+11758449,2023-09-12,Handover requests with network information,0,H04W
+11743893,2023-08-29,Control message transmission,0,H04L|H04W
+11743816,2023-08-29,Method and apparatus for target integrated access and backhaul node selection,0,H04L|H04W
+11736793,2023-08-22,Electronic device and control method for optical collection,0,G06F|H04N
+11733842,2023-08-22,Electronic device and control method thereof for determining displayed content based on user presence and interest,0,G06F|H04M|Y02D
+11729460,2023-08-15,Electronic device and processing method and system,0,G06F|G09G|H04N
+11723169,2023-08-08,Electronic apparatus,0,G06F|H05K
+11722966,2023-08-08,Methods and apparatuses for power control,0,H04L|H04W
+11722632,2023-08-08,Video acquisition method and electronic apparatus,0,G10L|H04N|H04R|H04S
+11721074,2023-08-08,Display control method and device,1,G06F|G06T|H04N
+11719991,2023-08-08,"Optical panel, image collection device and image collection method",0,G02F|G03B|H04N
+11710936,2023-07-25,Connection device and electronic apparatus,0,G06F|H01R
+11706669,2023-07-18,Voice session handover between mobile networks with different network technologies,0,H04W
+11706613,2023-07-18,Information processing method,0,H04L|H04W
+11706001,2023-07-18,Method and apparatus for beam management,1,H04B|H04L|H04W
+11704478,2023-07-18,"Page processing method and device, and electronic device",0,G06F
+11704088,2023-07-18,Intelligent control method and electronic device,0,G06F|G09G|H04L|H04M
+11687311,2023-06-27,Screen projection processing method and device,1,G06F|G09G
+11687123,2023-06-27,Rotation shaft assembly and electronic apparatus,0,E05D|E05F|E05Y|F16C|G06F
+11678448,2023-06-13,Electronic device and connection device,1,E05D|E05Y|G06F|H05K
+11672024,2023-06-06,Method and apparatus for communication based on a resource configuration,1,H04L|H04W|Y02D
+11669241,2023-06-06,"Touch control method, apparatus, and device and computer-readable storage medium",0,G06F
+11665670,2023-05-30,Method and apparatus for transmission resource selection,1,H04L|H04W
+11663991,2023-05-30,"Display screen display parameter adjustment method and device, and computer-readable storage medium",0,G06F|G09G
+11662803,2023-05-30,"Control method, apparatus, and electronic device",0,G06F
+11652781,2023-05-16,"Data processing method based on MEC platform, device, and storage medium",0,H04L|H04W
+11652576,2023-05-16,Method and apparatus for HARQ-ACK codebook determination,0,H04B|H04L|H04W
+11645997,2023-05-09,Information processing method and electronic device,0,G06F|G09G
+11644863,2023-05-09,Electronic device,1,F16M|G06F
+11641613,2023-05-02,Method and apparatus for relay discovery,0,H04W
+11640224,2023-05-02,Processing method and device,0,G06F|G09G
+11640068,2023-05-02,Display module and electronic device,0,G02B|G06F|H10K
+11632159,2023-04-18,Encoding reference signal received powers,0,H04B|H04L|H04W
+11617274,2023-03-28,Electronic device and display component thereof,0,G06F|H04M|H05K
+11610285,2023-03-21,Display method and device,0,G06F|G06T|G09G|H04M
+11606170,2023-03-14,Method and apparatus for HARQ-ACK and SR transmission,0,H04L|H04W
+11601240,2023-03-07,Determining an association between DMRS and PTRS,2,H04B|H04L|H04W
+11601181,2023-03-07,Beam failure recovery,0,H04B|H04L|H04W
+11595863,2023-02-28,Selecting a base unit in response to a handover condition being triggered,0,H04W
+11587496,2023-02-21,Processing method and device,0,G06F|G09G
+11587307,2023-02-21,Control method and electronic apparatus,0,G06F|G06V
+11586250,2023-02-21,Electronic device and control method,0,G06F
+11582718,2023-02-14,Method and apparatus in sidelink communication,1,H04B|H04W
+11582160,2023-02-14,Discarding radio link control service data units,0,H04L|H04W
+11579656,2023-02-14,Electronic device,0,G06F|G09F
+11570658,2023-01-31,Triggering a buffer status report,0,H04W
+11564260,2023-01-24,Contention window adjustment,0,H04L|H04W
+11558858,2023-01-17,Indication for a transmission scheme,0,H04L|H04W
+11553499,2023-01-10,Exchange of UL interference detection related information,0,H04L|H04W
+11550359,2023-01-10,Electronic device,0,G06F
+11546109,2023-01-03,Method and apparatus for MPDCCH performance enhancement,0,H04B|H04L|H04W
+11546092,2023-01-03,Method and apparatus for HARQ-ACK feedback for carrier aggregation,3,H04L|H04W
+11543862,2023-01-03,Hinge mechanism and electronic device,1,F16C|G06F|H04M
+11540251,2022-12-27,Method and apparatus for monitoring paging messages,1,H04W|Y02D
+11539798,2022-12-27,Information processing method and electronic device,0,G06F|G16Y|H04L
+11539479,2022-12-27,HARQ-ACK for a plurality of carrier groups of a downlink slot set,0,H04B|H04L|H04W
+11538222,2022-12-27,Virtual object processing method and system and virtual reality device,0,G06F|G06T
+11523450,2022-12-06,Method and electronic device for information processing,0,H04L|H04W
+11523372,2022-12-06,Method and apparatus for latency reduction in eV2X,1,H04W
+11522623,2022-12-06,Determining an encoding scheme for differential RSRP reporting,0,H04B|H04L
+11522596,2022-12-06,Beam reporting,1,H04B|H04L
+11522594,2022-12-06,Method and apparatus for multiple panel and/or multiple beam codebook based PUSCH transmissions,0,H04B|H04L|H04W
+11516746,2022-11-29,Determining a power offset parameter,0,H04L|H04W
+11515963,2022-11-29,Multiple CSI reports,0,H04L
+11509427,2022-11-22,Uplink control information retransmission,0,H04L|H04W
+11507171,2022-11-22,Electronic device and control method,0,G06F|H04M|H04W|Y02D
+11503571,2022-11-15,Grant-free resource allocation,0,H04W
+11500645,2022-11-15,Boot method and electronic device,0,G06F|Y02D
+11496280,2022-11-08,Method and apparatus for DMRS transmission,0,H04L|H04W
+11493963,2022-11-08,Electronic device and screen fitting method,1,G06F
+11491396,2022-11-08,Information processing method and electronic device,0,A63F|G06F|G06V
+11490343,2022-11-01,Method and apparatus for communications under inactive state,0,H04W|Y02D
+11490310,2022-11-01,"Communication method, electronic device, and communication system",0,H04W
+11490304,2022-11-01,Method and apparatus for UE handover,2,H04W
+11489719,2022-11-01,Configuration device and method,0,H04B|H04L|H04W
+11489635,2022-11-01,Method and apparatus for determining a dynamic HARQ-ACK codebook,1,H04L|H04W
+11483096,2022-10-25,Method and apparatus for HARQ-ack codebook determination,0,H04L|H04W
+11477706,2022-10-18,Method and apparatus for measurement report triggering,0,H04W
+11476980,2022-10-18,Method and apparatus for determining a HARQ-ACK codebook for carrier aggregation,1,H04B|H04L|H04W
+11475777,2022-10-18,Method and apparatus for controlling the operation of aerial UEs,1,B64U|G05D|G08G|H04L|H04W
+11468108,2022-10-11,"Data processing method and apparatus, and electronic device thereof",0,G06F
+11461576,2022-10-04,Information processing method and related electronic device,0,G06F|G06N|G06V
+11445446,2022-09-13,Methods and apparatuses for power control,1,H04L|H04W
+11445360,2022-09-13,Misused aerial usage identification,1,G08G|H04B|H04W
+11444727,2022-09-13,Method and apparatus for HARQ-ACK payload reduction for semi-static HARQ-ACK codebook determination,1,H04L|H04W
+11442509,2022-09-13,Rotating shaft and electronic device,1,E05D|E05Y|G06F
+11441847,2022-09-13,Evaporative cooling system,0,F25B|F28D|H01L|H05K
+11438511,2022-09-06,Method for controlling electronic device and electronic device thereof,0,G03B|G06F|G06T|H04N
+11432177,2022-08-30,Method and device of measurement report enhancement for aerial UE,0,H04B|H04W
+11424793,2022-08-23,SRS configurations and SRS transmission,0,H04B|H04L|H04W
+11423184,2022-08-23,"Information processing method, information processing device, and electronic device",0,G06F
+11418291,2022-08-16,Method and apparatus of using redundant bits in semi-statically configured HARQ-ACK codebook,0,H04B|H04L
+11412529,2022-08-09,Determining a transmission scheme,0,H04L|H04W
+11412486,2022-08-09,Method and apparatus for resource collision avoidance on sidelink,0,H04W
+11412146,2022-08-09,"Image acquisition method, processing method and device",2,H04N
+11411619,2022-08-09,Determining a precoder for PTRS ports,1,H01Q|H04B|H04L|H04W
+11409434,2022-08-09,"Image collection and processing method, apparatus, and storage medium",1,G06F|H04M|H04N
+11405889,2022-08-02,Responding to radio access network paging failures,0,H04W
+11402948,2022-08-02,Electronic device and information processing method,0,G06F|G06V
+11395310,2022-07-19,Prioritizing usage of logical channels corresponding to logical identifiers,0,H04W
+11388673,2022-07-12,Control method and device,0,H04W|Y02D
+11388026,2022-07-12,Method and apparatus for sounding reference signal transmission on sidelink,2,H04L|H04W
+11386795,2022-07-12,Aerial vehicle identification,0,B64U|G05D|G06F|G08G|H04W
+11382117,2022-07-05,Determining uplink grants for multiple modes,0,H04L|H04W
+11381734,2022-07-05,Electronic device and method for capturing an image and displaying the image in a different shape,0,G06F|H04N
+11375426,2022-06-28,Method and apparatus for mobility mechanism in the scenario including both EPC and 5GC,1,H04W
+11373643,2022-06-28,Output method and electronic device for reply information and supplemental information,0,G06F|G10L
+11356165,2022-06-07,Determining a TPMI for a codebook set,0,H04B|H04L
+11355018,2022-06-07,Method and apparatus for flight path information reporting,0,G08G|H04W
+11349976,2022-05-31,"Information processing method, file transmission method, electronic apparatus, and computing apparatus",1,G06F|G09G|H04L|H04M
+11340717,2022-05-24,Processing apparatus and processing system,1,G06F
+11340655,2022-05-24,Electronic device,0,G02B|G06F
+11334817,2022-05-17,"Blockchain-based data processing method, apparatus, and electronic device thereof",12,G06F|G06N
+11330723,2022-05-10,Electronic apparatus,0,G06F|H05K
+11317537,2022-04-26,Electronic device with heat dissipation module,0,G06F|H01B|H05K
+11317139,2022-04-26,Control method and apparatus,0,H04N
+11316617,2022-04-26,Information having symbol repetition,0,H04L|H04W
+11308695,2022-04-19,Optical apparatus and augmented reality device,2,G02B|G06T
+11306524,2022-04-19,Sliding door devices and electronics,0,E05D|E05F|E05Y|G06F|H05K
+11304154,2022-04-12,Apparatus and method for signaling transmission power,0,H04W
+11303825,2022-04-12,Information processing method and electronic apparatus,0,H04N
+11303416,2022-04-12,HARQ process aggregation of multiple scheduled slots,1,H04L|H04W
+11301208,2022-04-12,"Control method, control device, and control system",0,G06F|G10L|H04R
+11296763,2022-04-05,Determining information corresponding to beamforming,0,H04B|H04L|H04W
+11290868,2022-03-29,Subscription information configuration,1,G08G|H04B|H04W
+11288776,2022-03-29,Method and apparatus for image processing,0,G06T|G06V
+11284466,2022-03-22,Performing resume request procedure,0,H04W
+11272473,2022-03-08,Method and apparatus for timing advance adjustment,0,H04L|H04W
+11266910,2022-03-08,Control method and control device,1,A63F|G06F
+11265806,2022-03-01,Determining discovery announcement pool,0,H04W
+11265792,2022-03-01,Aerial vehicle state transition,0,H04W
+11256303,2022-02-22,Shaft structure and electronic device,1,G06F
+11245832,2022-02-08,Video recording method and electronic device,1,G06T|H04N
+11243565,2022-02-08,"Data processing method, device, and electronic apparatus",2,G06F
+11240939,2022-02-01,"Heat dissipation control method, apparatus, and device",1,G05B|G06F|H05K|Y02D
+11239953,2022-02-01,Triggering HARQ-ACK feedback for a downlink slot set,0,H04L
+11238567,2022-02-01,Data processing method and device for managing discreet display,0,G06T
+11234212,2022-01-25,Predicting paging failure information,0,H04W
+11222830,2022-01-11,Heat dissipation structure and electronic device,0,F28F|G06F|H01L
+11217974,2022-01-04,Electronic device and wire management device,0,G06F|H02G|H05K
+11215200,2022-01-04,Oscillating fan and electronic device having the same,1,F04B|F04D|F05D|G06F|H01L|H05K
+11212455,2021-12-28,"Processing method, apparatus, and electronic device",0,H04N
+11202274,2021-12-14,Indicating a network for a remote unit,0,H04W
+11194378,2021-12-07,Information processing method and electronic device,0,G06F|Y02D
+11190670,2021-11-30,Method and a system for processing images based a tracked subject,0,G06T|H04N
+11181952,2021-11-23,Electronic device,0,G06F
+11172432,2021-11-09,Cell bar method and apparatus,0,H04B|H04L|H04W
+11169635,2021-11-09,"Input device, electronic device and control method",0,G06F
+11159223,2021-10-26,Encoding reference signal received powers,1,H04B|H04L|H04W
+11153473,2021-10-19,"Control method, device and electronic apparatus for image acquisition",0,G06F|H04N
+11153137,2021-10-19,Feedback message having a sequence indicating feedback information corresponding to data blocks,0,H04L
+11150854,2021-10-19,"Display control method, apparatus, and electronic device",0,G06F|G09G
+11144366,2021-10-12,"Computing node processor resource optimization method, computing node and server cluster",0,G06F
+11132528,2021-09-28,Information processing method and electronic device,0,G06F|G06V
+11129285,2021-09-21,Display and electronic device,0,G02F|G06T|H04M|H05K
+11121992,2021-09-14,"Information processing method, device and electronic apparatus",0,H04L
+11119919,2021-09-14,Method and apparatus with improved speed in data write-in,0,G06F
+11119684,2021-09-14,"Method and apparatus for transmitting data, and an electronic device thereof",0,G06F
+11113857,2021-09-07,Display method and apparatus and electronic device thereof,0,G06T|H04N
+11113427,2021-09-07,"Method of displaying contents, a first electronic device and a second electronic device",0,G06F
+11101936,2021-08-24,Method and apparatus of using redundant bits in semi-statically configured HARQ-ACK codebook,0,H04B|H04L
+11086590,2021-08-10,Method and system for processing audio signals,0,G06F|G10L|H03G
+11086372,2021-08-10,Processing method and terminal device,0,G06F
+11086362,2021-08-10,"Method, apparatus and computer program product",0,G06F|G09G
+11082111,2021-08-03,Determining a TPMI for a codebook set,0,H04B|H04L
+11079791,2021-08-03,Electronic device,0,G06F|H02J|H05K
+11076500,2021-07-27,Electronic apparatus and connection structure,0,G06F|H05K
+11073879,2021-07-27,Electronic device,6,G06F
+11071219,2021-07-20,Display apparatus and electronic device,0,G06F|H05K
+11069306,2021-07-20,Electronic device and control method thereof,0,G02F|G06F|G09F|G09G
+11062140,2021-07-13,"Display method, electronic device and storage medium having the same",1,G02B|G06F|G06V
+11042293,2021-06-22,Display method and electronic device,0,G06F
+11039080,2021-06-15,Control method and processing apparatus,0,H04N
+11036953,2021-06-15,"Image processing method, electronic device and storage medium",0,G06F|G06V|G09G|Y02D
+11036296,2021-06-15,Electronic device and control method thereof,0,G02B|G06F
+11032277,2021-06-08,Network access control,0,H04L|H04M|H04W
+11030336,2021-06-08,"Switching method, electronic device, and storage medium",0,G06F
+11029763,2021-06-08,Input device and electronic device,0,G06F|H01H
+11026271,2021-06-01,Electronic device and information processing method,1,G06F|H04B|H04L|H04W
+10990081,2021-04-27,"Processing method, processing apparatus, and electronic device",0,G05B|G06F
+10978784,2021-04-13,Electronic apparatus and information processing method,0,H01Q|H03K|H04B|H04L
+10969955,2021-04-06,Electronic device,0,G06F|H04M
+10969896,2021-04-06,Display method and electronic device thereof,1,G06F|G09G
+10963097,2021-03-30,"Method, electronic device, and apparatus for touch-region calibration",1,G06F|H04N
+10949085,2021-03-16,Electronic device,0,G06F|G09G
+10948944,2021-03-16,Electronic device,0,G06F
+10936271,2021-03-02,Display device and the method thereof,0,G02B|G06F|G09G|H04N
+10936162,2021-03-02,Method and device for augmented reality and virtual reality display,0,G02B|G06F
+10922825,2021-02-16,Image data processing method and electronic device,1,G06T|H04N

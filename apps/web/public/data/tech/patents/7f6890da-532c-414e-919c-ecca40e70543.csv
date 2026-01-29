@@ -1,0 +1,878 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430693,2025-09-30,Tax document imaging and processing,0,G06Q
+12430589,2025-09-30,Cross-hierarchical machine learning prediction,0,G06N|G06Q
+12430343,2025-09-30,Domain recommendation system and method with ambiguity resolution,0,G06F
+12430123,2025-09-30,Generative AI system for automated programming and accelerated code modification,0,G06F
+12423313,2025-09-23,Hierarchical graph retrieval augmented generation with context embedding,0,G06F
+12423312,2025-09-23,Adaptive data scoring using multi-metric interaction analysis,0,G06F
+12417233,2025-09-16,"Multitenancy in extract, transform, load (ETL) pipeline orchestration tools",0,G06F
+12412031,2025-09-09,Natural language query disambiguation,0,G06F|G06N
+12412027,2025-09-09,Machine learning model automated data extraction and prediction,0,G06F|G06V
+12411911,2025-09-09,Entity segmentation by event rate optimization,0,G06F
+12400469,2025-08-26,Computationally efficient artifact tagging for document management,0,G06F|G06T|G06V
+12400147,2025-08-26,Schema-based machine learning model monitoring,0,G06N
+12400086,2025-08-26,Selective content-aware embeddings for targeted information retrieval,0,G06F
+12400079,2025-08-26,Machine learning model dynamic token screening and enhanced response generation,0,G06F
+12400075,2025-08-26,Defining and debugging module completeness graphs based on interactive user interface checklist elements,0,G06F|G06N
+12400069,2025-08-26,Artificial intelligence based approach for automatically generating content for a document for an individual,0,G06F|G06N
+12399887,2025-08-26,Merging of dissimilar data structures having dissimilar data for generation of machine learning input,0,G06F|G06N
+12393773,2025-08-19,Automatically populating documents about special entities,0,G06F
+12393574,2025-08-19,Hierarchical and functional assessment framework for GraphQL requests,0,G06F
+12393405,2025-08-19,Enhance codegen efficiency by eliminating redundant contexts in lossless manifold optimization,0,G06F
+12387278,2025-08-12,Artificial intelligence based approach for supplementing an explanation of a result determined by a software application,0,G06Q
+12387277,2025-08-12,Learning user actions to improve transaction categorization,0,G06N|G06Q
+12387049,2025-08-12,Semantic aware hallucination detection for large language models,0,G06F
+12387042,2025-08-12,Machine learning prediction of text to highlight during live automated text transcription,0,G06F|G06N|G10L
+12386996,2025-08-12,Generating a compliance report of data processing activity,0,G06F|G06Q
+12380115,2025-08-05,Systems and methods for providing advanced personalization in query systems,0,G06F
+12363054,2025-07-15,Systems and methods for enhancing vector searches for question-and-answer platforms,0,G06F|H04L
+12361738,2025-07-15,Machine learning model-agnostic confidence calibration system and method,0,G06F|G06N|G06V
+12361070,2025-07-15,Taxonomy-based document retrieval,0,G06F
+12346961,2025-07-01,Financial management using augmented reality systems,0,G06Q|G06T
+12346331,2025-07-01,Batch materialization using bloom filters,0,G06F
+12340319,2025-06-24,System and method for determining a structured representation of a form document utilizing multiple machine learning models,0,G06F|G06N
+12340062,2025-06-24,Method and system for rule-based composition of user interfaces,0,G06F|G06N
+12340000,2025-06-24,Prompt injection detection for large language models,0,G06F
+12333614,2025-06-17,"Quality, availability and AI model predictions",0,G06F|G06Q
+12333557,2025-06-17,Automatic user interface customization based on machine learning processing,0,G06F|G06N|G06Q|H04L
+12333034,2025-06-17,Secure embedded web browser,0,G06F
+12328291,2025-06-10,Spam prevention using vector-based text similarity comparisons across multiple time windows,0,G06F|H04L
+12315515,2025-05-27,Method and system for user voice identification using ensembled deep learning algorithms,0,G06F|G06N|G10L
+12314442,2025-05-27,"Multi-device, multi-model categorization system",0,G06F|G06N
+12307476,2025-05-20,Method and system for using machine learning techniques to identify and recommend relevant offers,0,G06F|G06N|G06Q
+12299551,2025-05-13,Account prediction using machine learning,0,G06F|G06N|G06Q
+12293305,2025-05-06,Confidence score based machine learning model training,0,G06N
+12288159,2025-04-29,Deep learning based context embedding approach for detecting data entry errors,0,G06N
+12287793,2025-04-29,Batch materialization for full row updates,0,G06F
+12282479,2025-04-22,Intelligent parity service with database query optimization,0,G06F
+12282465,2025-04-22,Intelligent data repair for moving source,0,G06F
+12277485,2025-04-15,Efficient real time serving of ensemble models,0,G06N
+12277186,2025-04-15,Navigation bookmarking and reordering through optimized graphical user interface,0,G06F
+12271878,2025-04-08,System for generation of smart content,0,G06F|G06N|G06Q
+12271827,2025-04-08,Computer prediction of relevant data from multiple disparate sources,0,G06F|G06N
+12266203,2025-04-01,Multiple input machine learning framework for anomaly detection,0,G06F|G06N|G06V
+12265899,2025-04-01,Method for serving parameter efficient NLP models through adaptive architectures,0,G06F|G06N
+12265803,2025-04-01,Automatic improvement of software applications,0,G06F|G06Q
+12265794,2025-04-01,Methods and systems for generating problem description,0,G06F|G06N|G10L|H04M
+12265782,2025-04-01,Transformer model architecture for readability,0,G06F
+12265566,2025-04-01,Creating contextual prompts based on embeddings to enrich user text,0,G06F
+12265552,2025-04-01,Optimization based on archetypes,0,G06F|G06N|G06Q
+12259896,2025-03-25,Search and semantic similarity domain determination,1,G06F
+12254432,2025-03-18,System and method for leveraging a completeness graph,0,G06Q
+12248609,2025-03-11,Chat attachment screening,0,G06F|G06V|H04L
+12243020,2025-03-04,Detecting fraud by calculating email address prefix mean keyboard distances using machine learning optimization,0,G06F|G06N|G06Q|H04L
+12242647,2025-03-04,Rule-based approach for identifying anonymous visitors,0,G06F
+12236559,2025-02-25,Augmented diffusion inversion using latent trajectory optimization,0,G06T
+12236492,2025-02-25,Method and system for processing transactions based on transaction archetypes,0,G06F|G06Q
+12236367,2025-02-25,Method and system for smart detection of business hot spots,0,G06N|G06Q
+12236325,2025-02-25,Contextual bandit for multiple machine learning models for content delivery,0,G06N
+12236280,2025-02-25,Orchestration layer for user defined automation workflows,0,G06F
+12235858,2025-02-25,Graphical user interface for a matching tool,0,G06F
+12229777,2025-02-18,Method and system for detecting fraudulent transactions in information technology networks,0,G06F|G06N|G06Q
+12229691,2025-02-18,Uncertainty quantification for machine learning classification modelling,0,G06N
+12217287,2025-02-04,Brand engine for extracting and presenting brand data with user interfaces,0,G06F|G06Q
+12217276,2025-02-04,Attribute selection for matchmaking,0,G06F|G06Q
+12217012,2025-02-04,Classifying feedback from transcripts,0,G06F
+12216717,2025-02-04,Methods and systems for implementing large language models and smart caching with zero shot,0,G06F
+12212671,2025-01-28,Systems and methods for blocking decryption capabilities in symmetric key encryption,0,H04L
+12212666,2025-01-28,Cryptographic key generation for logically sharded data stores,0,G06F|H04L
+12210828,2025-01-28,Methods and systems for generating mobile enabled extraction models,0,G06F|G06N
+12205222,2025-01-21,Generating and displaying text in a virtual reality environment,0,G06F|G06T|G10L
+12205154,2025-01-21,Real-time error prevention during invoice creation,0,G06Q
+12204587,2025-01-21,Document similarity through reference links,0,G06F|G06N
+12199987,2025-01-14,Web-authorization using enhanced cookie,0,G06F|H04L
+12199871,2025-01-14,Client side backoff filter for rate limiting,0,H04L
+12190249,2025-01-07,Simulating service performance using machine learning,0,G06F|G06N|H04L
+12182515,2024-12-31,Utterance intent detection,0,G06F|G06N
+12169520,2024-12-17,Machine learning selection of images,0,G06F
+12164545,2024-12-10,Text feature guided visual based document classifier,0,G06F|G06N|G06V
+12158920,2024-12-03,Personalized messaging and configuration service,0,G06F|H04L|H04W
+12154121,2024-11-26,Assessment of user price sensitivity,0,G06F|G06N|G06Q|H04L
+12153892,2024-11-26,Use of semantic confidence metrics for uncertainty estimation in large language models,0,G06F
+12153890,2024-11-26,Generating anomaly-detection rules for communication protocols,0,G06F|H04L
+12148048,2024-11-19,Framework for transaction categorization personalization,0,G06N|G06Q
+12148047,2024-11-19,Personalized transaction categorization,0,G06N|G06Q
+12147884,2024-11-19,Feature pruning and algorithm selection for machine learning,0,G06N
+12147883,2024-11-19,Automated user experience orchestration using natural language based machine learning techniques,0,G06F|G06N
+12147485,2024-11-19,Managing search engines based on search perform metrics,1,G06F|H04L
+12141154,2024-11-12,Dataset ranking based on composite score,0,G06F
+12137146,2024-11-05,Hybrid bi-directional user experience between multiple stacks,0,H04L
+12135639,2024-11-05,Systems and methods for workflow based application testing in cloud computing environments,1,G06F
+12132721,2024-10-29,Bi-directional federation link for seamless cross-identity SSO,0,H04L
+12131303,2024-10-29,Methods systems and articles of manufacture for modifying user interaction with online banking site,0,G06Q
+12131193,2024-10-29,Smart and optimized data loader,0,G06F|H04L
+12131122,2024-10-29,Pre-trained contextual embedding models for named entity recognition and confidence prediction,0,G06F|G06N|G06V
+12125098,2024-10-22,Method and transaction tracking service for surfacing rule-creation actions,0,G06F|G06Q
+12124500,2024-10-22,Image-based document search using machine learning,0,G06F|G06V
+12120129,2024-10-15,Detection of abnormal application programming interface (API) sessions including a sequence of API requests,0,G06F|G06N|H04L
+12118622,2024-10-15,System and method for dimensionality reduction of vendor co-occurrence observations for improved transaction categorization,0,G06F|G06Q
+12118310,2024-10-15,Extracting explainable corpora embeddings,0,G06F
+12118309,2024-10-15,Converting from compressed language to natural language,0,G06F
+12118107,2024-10-15,Detecting sensitive information in records using context and decoys,0,G06F|G06N
+12118077,2024-10-15,Feature extraction and time series anomaly detection over dynamic graphs,1,G06F|G06N|H04L
+12118011,2024-10-15,Universal report engine,0,G06F
+12117927,2024-10-15,Method and system for scalable performance testing in cloud computing environments,0,G06F
+12113682,2024-10-08,Machine learning based traffic flow control for adaptive experimentations,0,G06F|G06N|H04L|H04W
+12106013,2024-10-01,Conversational user interfaces based on knowledge graphs,0,G06F|G06N|G10L|H04L
+12101376,2024-09-24,Scalable request authorization,0,G06F|G06N|H04L
+12100013,2024-09-24,Using blockchain to improve standards compliance,0,G06Q
+12099539,2024-09-24,Embedding performance optimization through use of a summary model,1,G06F|G06N
+12093640,2024-09-17,Optimizing questions to retain engagement,0,G06F|G06N|G06Q|H04L
+12087278,2024-09-10,Disfluency removal using machine learning,0,G06F|G06N|G10L
+12087068,2024-09-10,End to end trainable document extraction,0,G06T|G06V
+12086146,2024-09-10,Tables time zone adjuster,0,G06F
+12086138,2024-09-10,Graph database applications,0,G06F|G06Q
+12086137,2024-09-10,Responding to similarity queries using vector dimensionality reduction,0,G06F|G06Q
+12080028,2024-09-03,Large pose facial recognition based on 3D facial model,0,G06F|G06N|G06T|G06V
+12079885,2024-09-03,Influencer segmentation detector,0,G06N|G06Q
+12079881,2024-09-03,Augmenting electronic documents with externally produced metadata,0,G06Q|G10L
+12079716,2024-09-03,Method and system for optimizing results of a function in a knowledge graph using neural networks,0,G06N
+12079629,2024-09-03,Score prediction using hierarchical attention,1,G06F|G06N|G10L
+12079576,2024-09-03,Unsupervised extraction of trends from call center transcripts,0,G06F
+12073947,2024-08-27,Meta-learning for automated health scoring,0,G06N|G06Q|G16H
+12072865,2024-08-27,Competing updates from multiple servicing instances,0,G06F
+12069063,2024-08-20,Fine grained access control in a data lake using least privilege access,0,G06F|H04L
+12067976,2024-08-20,Automated search and presentation computing system,0,G06F|G06N|G10L
+12067376,2024-08-20,Methods and systems for building custom automation workflows,1,G06F|G06N|G06Q
+12067068,2024-08-20,Data retrieval using machine learning,0,G06F
+12061954,2024-08-13,"Methods, systems, and computer program product for dynamically modifying a dynamic flow of a software application",0,G06F|G06N|G06Q
+12061651,2024-08-13,Offset-based watermarks for data stream processing,0,G06F
+12050995,2024-07-30,System and method for increasing efficiency of gradient descent while training machine-learning models,0,G06F|G06N
+12046027,2024-07-23,Adversarial detection using discriminator model of generative adversarial network architecture,0,G06N|G06V
+12045967,2024-07-23,Model based document image enhancement,0,G06T|G06V
+12045455,2024-07-23,Modifying scrolling behavior with competing constraint priorities in landscape and portrait modes,0,G06F|G09G
+12039414,2024-07-16,System and method for quantifying uncertainty in machine learning models,0,G06F|G06N
+12039267,2024-07-16,Automated categorization of data by generating unity and reliability metrics,0,G06F|G06Q
+12038928,2024-07-16,Efficient counterfactual search,0,G06F|G06N
+12038918,2024-07-16,Disambiguity in large language models,1,G06F|G06N
+12038823,2024-07-16,Hierarchical attention time-series (HAT) model for behavior prediction,0,G06F|G06N
+12034783,2024-07-09,Instant conferencing system,0,H04L
+12026893,2024-07-02,Image background removal,0,G06T|G06V|H04N
+12026738,2024-07-02,Predicting application conversion using eye tracking,0,G06F|G06Q|G06V|H04L
+12026683,2024-07-02,System and method for risk assessment of a third party application for controlling competitive migration,0,G06F|G06N|G06Q
+12026639,2024-07-02,Interactive technique for using a user-provided image of a document to collect information,0,G06F|G06Q
+12026637,2024-07-02,Computer assisted programming using automated next node recommender for complex directed acyclic graphs,0,G06F|G06N
+12026270,2024-07-02,Seed generation for electronic data perturbation,0,G06F
+12020334,2024-06-25,"Methods, systems and computer program products for generating and presenting explanations for tax questions",0,G06F|G06Q
+12019978,2024-06-25,Lean parsing: a natural language processing system and method for parsing domain-specific languages,0,G06F|G06Q|G06V
+12019758,2024-06-25,Input validation using mathematical expressions,0,G06F
+12015641,2024-06-18,Malicious message classification using machine learning models,0,G06F|H04L
+12014429,2024-06-18,Calibrated risk scoring and sampling,0,G06F|G06N|G06Q
+12014417,2024-06-18,System and method for providing additional monthly income by capitalizing expected annual tax refund to monthly payments and or predicting accurate tax withholdings for certain taxpayers,0,G06N|G06Q
+12014249,2024-06-18,Paired-consistency-based model-agnostic approach to fairness in machine learning models,0,G06F|G06N
+12014144,2024-06-18,Methods and systems for automatic call data generation,1,G06F|G10L|H04M
+12014141,2024-06-18,Systems and methods for improved transaction categorization using natural language processing,0,G06F|G06Q
+12014029,2024-06-18,Smart navigation,0,G06F|G06N
+12013962,2024-06-18,Automatic entry validation using density based clustering,0,G06F|G06N|G06Q
+12013868,2024-06-18,Systems and methods for quantifying saved time,0,G06F|G06Q
+12008141,2024-06-11,Privacy preserving synthetic string generation using recurrent neural networks,0,G06F|G06N
+12001840,2024-06-04,Likelihood ratio test-based approach for detecting data entry errors,0,G06F
+11997118,2024-05-28,Scripting attack detection and mitigation using content security policy violation reports,0,H04L
+11995410,2024-05-28,Hierarchical model to process conversations,0,G06F
+11995395,2024-05-28,Generating machine renderable representations of forms using machine learning,0,G06F|G06V
+11989702,2024-05-21,Automated validation of digit sequences in transactions,0,G06F|G06N|G06Q
+11989660,2024-05-21,Transaction entity prediction with a global list,0,G06F|G06N
+11989500,2024-05-21,Framework agnostic summarization of multi-channel communication,0,G06F|G06N
+11989243,2024-05-21,Ranking similar users based on values and personal journeys,0,G06F|G06N|G06Q
+11989214,2024-05-21,Mapping natural language utterances to nodes in a knowledge graph,0,G06F|G06N|G10L
+11983747,2024-05-14,Using machine learning to identify hidden software issues,0,G06F|G06N|G06Q
+11983629,2024-05-14,Prior injections for semi-labeled samples,0,G06F|G06N
+11983574,2024-05-14,Workload optimization through contextual bandits,1,G06F|G06N
+11983496,2024-05-14,Machine learning prediction of text to highlight during live automated text transcription,1,G06F|G06N|G10L
+11983489,2024-05-14,Extractive summary generation by abstractive trained model,0,G06F|G06N
+11983226,2024-05-14,Real-time crawling,0,G06F
+11979420,2024-05-07,Optimizing selection and dynamic configuration of load balancing techniques to resist cyber attacks,1,G06N|H04L
+11977978,2024-05-07,Finite rank deep kernel learning with linear computational complexity,0,G06N
+11977879,2024-05-07,Methods and systems for remote configuration of software applications,0,G06F|H04L
+11977842,2024-05-07,Methods and systems for generating mobile enabled extraction models,0,G06F|G06N
+11973892,2024-04-30,User interface with interactive elements having dynamically determined functionality,0,G06F|H04M|H04W
+11972333,2024-04-30,Supervisory systems for generative artificial intelligence models,13,G06N
+11972302,2024-04-30,User-aware request processing in application services,0,G06F
+11972280,2024-04-30,Graphical user interface for conversational task completion,0,G06F|G06N|G06Q
+11967033,2024-04-23,Rendering virtual environments based on intents identified in natural language inputs using machine learning models,1,G06F|G06T|G06V
+11966953,2024-04-23,System and method for product usage evaluation and prediction,1,G06N|G06Q
+11966703,2024-04-23,Generating replacement sentences for a particular sentiment,0,G06F|G06N
+11966636,2024-04-23,Methods and systems for dynamic compression and transmission of application log data,0,G06F|H03M
+11960695,2024-04-16,Metadata-driven binding of platform-agnostic content to platform-specific user-interface elements,0,G06F
+11954577,2024-04-09,Deep neural network based user segmentation,0,G06N|G06Q
+11954102,2024-04-09,Structured query language query execution using natural language and related techniques,1,G06F
+11949774,2024-04-02,Securing hash chains via hybrid consensus,0,H04L
+11948207,2024-04-02,Machine learning based approach for recommending different categories of tax deductible expenses and related examples of tax deductible expenses for each category,0,G06Q
+11947521,2024-04-02,Efficient automatic web scraping systems and methods,0,G06F
+11943342,2024-03-26,Private categorization using shared keys,0,H04L
+11943269,2024-03-26,Transactions over live media,0,G06F|H04L
+11941611,2024-03-26,Shareable and nested transactions on hash chains,0,G06Q|H04L
+11941412,2024-03-26,Computer software program modularization and personalization,0,G06F
+11941072,2024-03-26,Generating a proactive alert for outdated scraping script,0,G06F
+11941013,2024-03-26,Automated database ownership attribution,0,G06F
+11940968,2024-03-26,Systems and methods for structuring data,0,G06F|G06N
+11935135,2024-03-19,Learning user actions to improve transaction categorization,0,G06N|G06Q
+11934984,2024-03-19,System and method for scheduling tasks,0,G06Q|H04L
+11934778,2024-03-19,Generating sentiment analysis of content,0,G06F|H04N
+11934456,2024-03-19,Unified knowledge graphs,0,G06F|G06N
+11934439,2024-03-19,Similar cases retrieval in real time for call center agents,0,G06F
+11930048,2024-03-12,Testing complex decision systems using outcome learning-based machine learning models,1,H04L
+11929991,2024-03-12,Data aggregation using proxy entry of credentials,0,H04L
+11929078,2024-03-12,Method and system for user voice identification using ensembled deep learning algorithms,1,G06F|G06N|G10L
+11928569,2024-03-12,Automated user experience orchestration using natural language based machine learning techniques,7,G06F|G06N
+11928568,2024-03-12,Training and using machine learning models to place effective mixed-modality messages,1,G06N
+11928462,2024-03-12,System and method for associating logs to repositories using source code,0,G06F
+11928423,2024-03-12,Transaction entity prediction through learned embeddings,0,G06F
+11928134,2024-03-12,Medoid-based data compression,0,G06F
+11928106,2024-03-12,Database auto-documentation systems and methods,0,G06F
+11924362,2024-03-05,Anonymous uncensorable cryptographic chains,0,H04L
+11922441,2024-03-05,Method and system for event prediction using spatio-temporally sampled data,0,G06N|G06Q
+11922420,2024-03-05,System and method for error correcting coding of billing transactions for data management system user identity verification,0,G06F|G06Q
+11922310,2024-03-05,Forecasting activity in software applications using machine learning models and multidimensional time-series data,0,G06N
+11922208,2024-03-05,Hybrid model for time series data processing,0,G06F
+11922126,2024-03-05,Use of semantic confidence metrics for uncertainty estimation in large language models,0,G06F
+11921847,2024-03-05,Detection of abnormal application programming interface (API) sessions including a sequence of API requests using space partitioning data structures,0,G06F
+11917029,2024-02-27,System and method for feature aggregation for tracking anonymous visitors,0,H04L
+11916958,2024-02-27,Phishing detection and mitigation,0,G06F|G06N|G06Q|H04L
+11914746,2024-02-27,Methods and systems for validating sensitive data in a distributed computing system without exposing the sensitive data,0,G06F
+11914704,2024-02-27,Method and system for detecting coordinated attacks against computing resources using statistical analyses,0,G06F|G06Q
+11910079,2024-02-20,Vertex change detection for enhanced document capture,0,G06F|G06T|G06V|H04N
+11909732,2024-02-20,Password storage in a virtual environment,1,H04L
+11908023,2024-02-20,Method and system for generating user interfaces to prompt users to perform an activity in a software application based on transaction time analysis,0,G06F|G06Q|H04L
+11907864,2024-02-20,Method and system for smart detection of business hot spots,3,G06N|G06Q
+11907707,2024-02-20,Methods and systems for orchestrating software application variant configuration,0,G06F
+11907657,2024-02-20,Dynamically extracting n-grams for automated vocabulary updates,1,G06F
+11907315,2024-02-20,Managing search engines based on search perform metrics,0,G06F|H04L
+11907296,2024-02-20,Method and system for traversing an object graph using traversal context objects,0,G06F
+11907208,2024-02-20,Detecting and correcting outliers in categories of transactions,1,G06F
+11907205,2024-02-20,Generic parity solution for highly dynamic sources,0,G06F
+11907196,2024-02-20,Generating observability metrics for data lake usage based on data layer activity logs,0,G06F
+11900365,2024-02-13,Predicting attributes for recipients,0,G06N|G06Q
+11900284,2024-02-13,Dynamic scheduling system with performance- based access,1,G06Q
+11900179,2024-02-13,Detection of abnormal application programming interface (API) sessions including a sequence of API requests,0,G06F|G06N|H04L
+11899908,2024-02-13,Image template-based AR form experiences,0,G06F|G06V
+11893713,2024-02-06,Augmented diffusion inversion using latent trajectory optimization,2,G06T
+11893608,2024-02-06,System and method providing business insights based on cluster success analytics for products based businesses,0,G06F|G06N|G06Q
+11893461,2024-02-06,System and method for labeling machine learning inputs,0,G06N|G06Q
+11893351,2024-02-06,Modified machine learning model and method for coherent key phrase extraction,0,G06F|G06N
+11893103,2024-02-06,Offline processing using on-demand access tokens,0,G06F|H04L
+11893102,2024-02-06,Intelligent authentication gateway,0,G06F|H04L
+11892919,2024-02-06,Zero downtime and zero failure cutover,1,G06F|H04L
+11886827,2024-01-30,General intelligence for tabular data,0,G06F|G06N
+11886818,2024-01-30,Method and apparatus for detecting anomalies in mission critical environments,0,G06F|G06V
+11886800,2024-01-30,Transformer model architecture for readability,1,G06F
+11886230,2024-01-30,Method and system of automatically predicting anomalies in online forms,0,G06F|G06N
+11880936,2024-01-23,Generating and displaying text in a virtual reality environment,0,G06F|G06T|G10L
+11880424,2024-01-23,Image generation from HTML data using incremental caching,0,G06F|G06Q
+11876713,2024-01-16,Client side backoff filter for rate limiting,0,H04L
+11875384,2024-01-16,Graphical user interface for managing a campaign,0,G06Q
+11875240,2024-01-16,Tuning a generative artificial intelligence model,6,G06F|G06N
+11875130,2024-01-16,Confidence generation for managing a generative artificial intelligence model,28,G06F|G06N
+11875123,2024-01-16,Advice generation system,15,G06F|G06N
+11875116,2024-01-16,Machine learning models with improved semantic awareness,0,G06F|G06N
+11874840,2024-01-16,Table discovery service,0,G06F
+11870886,2024-01-09,System and method for multitenant key derivation,0,H04L
+11869095,2024-01-09,"Methods, systems and computer program products for obtaining tax data",0,G06F|G06N|G06Q
+11869008,2024-01-09,Minimizing risks posed to online services,0,G06Q
+11868598,2024-01-09,Generating and modifying content using data structures,0,G06F
+11868236,2024-01-09,Methods and systems for classifying application-specific crash reports using application-agnostic machine learning models,0,G06F|G06N
+11863672,2024-01-02,Systems and methods for refreshing encryption and decryption keys and signatures for a realtime pipepiline,0,H04L
+11861924,2024-01-02,Supervised machine learning algorithm application for image cropping and skew rectification,0,G06F|G06T|G06V
+11861734,2024-01-02,Methods systems and articles of manufacture for efficiently calculating a tax return in a tax return preparation application,0,G06Q
+11861732,2024-01-02,Industry-profile service for fraud detection,0,G06N|G06Q
+11861633,2024-01-02,Machine learning for improving mined data quality using integrated data sources,0,G06F|G06N|G06Q
+11861384,2024-01-02,Methods and systems for generating recommendations based on explainable decision trees for users of a software application,0,G06F|G06N|G06Q
+11861335,2024-01-02,Learn to extract from syntax tree,2,G06F|G06N
+11861308,2024-01-02,Mapping natural language utterances to operations over a knowledge graph,0,G06F|G06N
+11861003,2024-01-02,Fraudulent user identifier detection using machine learning models,1,G06F|G06N
+11860949,2024-01-02,Automatic keyphrase labeling using search queries,0,G06F|G06N
+11860922,2024-01-02,Tagging documents to display with context sensitivity for improved user experience,1,G06F
+11856473,2023-12-26,Intelligent geofence provisioning,0,H04W|Y02D
+11855910,2023-12-26,Configuration management of cloud resources for multiple providers and frameworks,0,H04L
+11853696,2023-12-26,Automated text amendment based on additional domain text and control text,1,G06F|G10L
+11853453,2023-12-26,Automatic identification of clear text secrets,0,G06F
+11853448,2023-12-26,Applying transactional locks in distributed transactions,2,G06F
+11842155,2023-12-12,"Ensemble model for entity resolution in matching problems using classification, subarea, NLP and subarea NLP machine learning models",0,G06F|G06N
+11837002,2023-12-05,System and method for spatial encoding and feature generators for enhancing information extraction,1,G06F|G06N|G06V
+11836972,2023-12-05,Machine learning pipeline for document image quality detection and correction,0,G06F|G06N|G06T|G06V
+11831645,2023-11-28,Dynamically restricting social media access,0,G06Q|H04L
+11831633,2023-11-28,Bi-directional federation link for seamless cross-identity SSO,0,H04L
+11831588,2023-11-28,Time aware self-attentive models for personalized conversational messages,0,G06F|G06N|H04L
+11830264,2023-11-28,End to end trainable document extraction,1,G06T|G06V
+11830263,2023-11-28,Preprocessor training for optical character recognition,0,G06F|G06N|G06V
+11829975,2023-11-28,User categorization of transactions at moment-of-sale using mobile payments,0,G06Q
+11829894,2023-11-28,Classifying organizations based on transactional data associated with the organizations,0,G06F|G06N
+11829866,2023-11-28,System and method for hierarchical deep semi-supervised embeddings for dynamic targeted anomaly detection,2,G06N|H04L
+11829406,2023-11-28,Image-based document search using machine learning,4,G06F|G06V
+11829388,2023-11-28,System and method for identifying questions of users of a data management system,0,G06F|G06Q
+11822891,2023-11-21,Methods and systems for generating problem description,0,G06F|G06N|G10L|H04M
+11822563,2023-11-21,Scoring potential actions for machine learning based recommendations,0,G06F|G06N|G06Q
+11822544,2023-11-21,Retrieval of frequency asked questions using attentive matching,4,G06F|G06N
+11818297,2023-11-14,Multi-channel hybrid models for efficient routing,0,G06F|G06V|H04M
+11818260,2023-11-14,Systems and methods for blocking decryption capabilities in symmetric key encryption,0,H04L
+11818253,2023-11-14,Trustworthy data exchange using distributed databases,0,G06F|H04L|H04W
+11818196,2023-11-14,Method and apparatus for predicting experience degradation events in microservice-based applications,0,G06F|H04L
+11817088,2023-11-14,Ensemble of machine learning models for real-time predictions in expert electronic chats,0,G06F|G06N|G10L
+11816912,2023-11-14,Extracting structural information using machine learning,0,G06F|G06V
+11816883,2023-11-14,Region proposal networks for automated bounding box detection and text segmentation,0,G06F|G06N|G06V
+11816718,2023-11-14,Heterogeneous graph embedding,0,G06F|G06N|G06Q
+11816711,2023-11-14,System and method for predicting personalized payment screen architecture,0,G06N|G06Q|H04L
+11816687,2023-11-14,Personalized approach to modeling users of a system and/or service,0,G06N|G06Q
+11816583,2023-11-14,Knowledge engine module collections,0,G06F|G06N
+11816544,2023-11-14,Composite machine learning system for label prediction and training data collection,0,G06N|G06Q
+11816492,2023-11-14,Third party integration of plugins and widgets,0,G06F
+11816430,2023-11-14,Metamodeling for confidence prediction in machine learning based document extraction,0,G06F|G06N|G06Q|G06V
+11816427,2023-11-14,Automated data classification error correction through spatial analysis using machine learning,0,G06F|G06N
+11816187,2023-11-14,Anomaly detection in event-based systems using image processing,0,G06F|G06N|G06V
+11816160,2023-11-14,Systems and methods for unified graph database querying,0,G06F|G06N
+11810187,2023-11-07,Hierarchical deep neural network forecasting of cashflows with linear algebraic constraints,0,G06F|G06N|G06Q
+11810186,2023-11-07,Method and system for providing an interactive spending analysis display,0,G06F|G06Q
+11810175,2023-11-07,Method and system for generating an optimum identifier format,0,G06Q
+11810022,2023-11-07,Contact center call volume prediction,0,G06F|G06N|G06Q|H04M
+11809980,2023-11-07,Automatic classification of data sensitivity through machine learning,0,G06F|G06N
+11809976,2023-11-07,Machine learning model with layer level uncertainty metrics,0,G06N
+11809477,2023-11-07,Topic focused related entity extraction,0,G06F|G06N
+11809419,2023-11-07,System to convert natural-language financial questions into database queries,0,G06F
+11809390,2023-11-07,Context-dependent event cleaning and publication,0,G06F
+11809306,2023-11-07,Method and system for scalable performance testing in cloud computing environments,0,G06F
+11805096,2023-10-31,Technique for restricting access to information,0,G06Q|H04L
+11803439,2023-10-31,Enriched high fidelity metrics,0,G06F
+11802777,2023-10-31,Identification of grouping criteria for bulk trip review in getting tax deductions,0,G01C|G06N|G06Q|Y10S
+11799889,2023-10-24,Web service usage anomaly detection and prevention,0,G06F|H04L
+11798301,2023-10-24,Compositional pipeline for generating synthetic training data for machine learning models to extract line items from OCR text,3,G06N|G06V
+11798015,2023-10-24,Adjusting product surveys based on paralinguistic information,0,G06Q|G10L
+11797999,2023-10-24,Detecting fraudulent transactions,0,G06N|G06Q
+11797961,2023-10-24,Vectorization of transactions,1,G06F|G06N|G06Q
+11797891,2023-10-24,Contextual bandits-based ecosystem recommender system for synchronized personalization,1,G06N|G06Q
+11797780,2023-10-24,Context-biased artificial intelligence video generation,3,G06F|G06T
+11797644,2023-10-24,Identifying checksum mechanisms using linear equations,0,G06F|G06Q
+11797593,2023-10-24,Mapping of topics within a domain based on terms associated with the topics,0,G06F
+11797544,2023-10-24,Automated search recipe generation,0,G06F|G06N
+11797527,2023-10-24,Real time fault tolerant stateful featurization,0,G06F|G06N
+11797271,2023-10-24,Dynamic web-based integrated development environment,0,G06F|H04L
+11790381,2023-10-17,System and method for attribute selection for expert matchmaking,0,G06F|G06Q
+11790331,2023-10-17,Card reader based payment transactions from a web browser,0,G06F|G06K|G06Q|H04L|H04M|H04W
+11790157,2023-10-17,Web-based application user interface (UI) in-context editor,0,G06F
+11783206,2023-10-10,Method and system for making binary predictions for a subject using historical data obtained from multiple subjects,1,G06N|G06Q
+11783204,2023-10-10,Processing and re-using assisted support data to increase a self-support knowledge base,0,G06F|G06N
+11783128,2023-10-10,Financial document text conversion to computer readable operations,1,G06F|G06V
+11783119,2023-10-10,Custom report builder,0,G06F|G06N
+11783112,2023-10-10,Framework agnostic summarization of multi-channel communication,1,G06F|G06N
+11782982,2023-10-10,Offset-based watermarks for data stream processing,0,G06F
+11776290,2023-10-03,Document classification using signal processing,0,G06F|G06V
+11776068,2023-10-03,Voice enabled content tracker,0,G06F|G06Q|G10L
+11775922,2023-10-03,Logistic recommendation engine,0,G06N|G06Q
+11775869,2023-10-03,Validation of account identifier,1,G06F|G06N|G06Q
+11775864,2023-10-03,Feature management platform,0,G06F|G06N|G06Q
+11775737,2023-10-03,System and method for correction of acquired transaction text fields,0,G06F|G06N|G06Q
+11775504,2023-10-03,Computer estimations based on statistical tree structures,0,G06F
+11769239,2023-09-26,Model based document image enhancement,4,G06T|G06V
+11768813,2023-09-26,Data migration framework,0,G06F|G06Q
+11768304,2023-09-26,Framework for machine guidance,0,G01V|G06F|G06N|H04N
+11765118,2023-09-19,Selective posting for social networks,0,H04L
+11763589,2023-09-19,Detection of blanks in documents,0,G06F|G06N|G06V
+11763315,2023-09-19,Card reader based payment transactions from a web browser,0,G06K|G06Q
+11763207,2023-09-19,Evaluating machine learning model performance by leveraging system failures,0,G06N|H04L
+11763180,2023-09-19,Unsupervised competition-based encoding,0,G06N|G06Q
+11763151,2023-09-19,System and method for increasing efficiency of gradient descent while training machine-learning models,0,G06F|G06N
+11763138,2023-09-19,Method and system for generating synthetic data using a regression model while preserving statistical properties of underlying data,0,G06F|G06N
+11763080,2023-09-19,Boosted latent dirichlet allocation with predefined topic clusters and repelling force,0,G06F|G06N
+11762775,2023-09-19,Systems and methods for implementing overlapping data caching for object application program interfaces,0,G06F
+11762549,2023-09-19,Content carousel with dynamically positioned bubbles,0,G06F
+11757700,2023-09-12,High resiliency content delivery network backup mechanism for micro frontend web applications,0,G06F|H04L
+11756277,2023-09-12,Network platform impersonation mitigation systems and methods,0,A63F|G06F|G06N|G06Q|G06T|G06V
+11756077,2023-09-12,Adjusting content presentation based on paralinguistic information,0,G06Q|G10L|H04L
+11755846,2023-09-12,Efficient tagging of training data for machine learning models,0,G06F
+11755837,2023-09-12,Extracting content from freeform text samples into custom fields in a software application,0,G06F|G06N
+11755774,2023-09-12,Chat attachment screening,1,G06F|G06V|H04L
+11755690,2023-09-12,Mitigating add financial institution errors by leveraging geolocation data,1,G06F|G06Q|H04W
+11750650,2023-09-05,Malicious message classificaton using machine learning models,0,G06F|H04L
+11743280,2023-08-29,Identifying clusters with anomaly detection,0,H04L
+11743030,2023-08-29,Oracle-aided protocol for compact data storage for applications using computations over fully homomorphic encrypted data,0,H04L
+11741531,2023-08-29,Behavioral savings systems and methods for implementing real-time optimized savings,0,G06Q
+11741511,2023-08-29,Systems and methods of business categorization and service recommendation,0,G06F|G06N|G06Q
+11741486,2023-08-29,Machine learning technique with targeted feature sets for categorical anomaly detection,0,G06Q
+11741358,2023-08-29,Application recommendation machine learning system,1,G06F|G06N
+11736580,2023-08-22,Fixing microservices in distributed transactions,2,H04L
+11734772,2023-08-22,System and method for providing a predicted tax refund range based on probabilistic calculation,0,G06N|G06Q
+11734771,2023-08-22,System and method for detecting and mapping data fields for forms in a financial management system,0,G06F|G06Q
+11734498,2023-08-22,Wysiwyg editor configured for use of external rendering engine,2,G06F
+11734330,2023-08-22,Processing unstructured voice of customer feedback for improving content rankings in customer support systems,0,G06F
+11734322,2023-08-22,Enhanced intent matching using keyword-based word mover's distance,0,G06F|G06N
+11734313,2023-08-22,Systems and methods for intelligently grouping financial product users into cohesive cohorts,0,G06F
+11734068,2023-08-22,Synchronization system based on dynamic data dependency in a federated fashion to reach eventual consistency,1,G06F
+11734056,2023-08-22,Declarative code player execution of a processing widget,1,G06F
+11733847,2023-08-22,Knowledge engine auto-generation of guided flow experience,0,G06F
+11727316,2023-08-15,Interactive technique for using a user-provided image of a document to collect information,1,G06F|G06Q
+11727058,2023-08-15,Unsupervised automatic taxonomy graph construction using search queries,0,G06F
+11720605,2023-08-08,Text feature guided visual based document classifier,0,G06F|G06N|G06V
+11720603,2023-08-08,User interfaces based on pre-classified data sets,0,G06F|G06N|G06Q
+11704743,2023-07-18,Method and system for processing transactions based on transaction archetypes,1,G06F|G06Q
+11704602,2023-07-18,Method for serving parameter efficient NLP models through adaptive architectures,2,G06F|G06N
+11704481,2023-07-18,K-anonymity guarantee in text anonymization using word embeddings,0,G06F
+11704173,2023-07-18,Streaming machine learning platform,0,G06F|G06N
+11698912,2023-07-11,Universal report engine,0,G06F
+11693888,2023-07-04,Intelligent grouping of travel data for review through a user interface,0,G06F|G06N|G06Q|H04W
+11688393,2023-06-27,Machine learning to propose actions in response to natural language questions,0,G06F|G06N|G10L
+11687890,2023-06-27,Card reader based payment transactions from a web browser,0,G06F|G06K|G06Q|H04M|H04W
+11687799,2023-06-27,Integrated machine learning and rules platform for improved accuracy and root cause analysis,0,G06N
+11687721,2023-06-27,System and method for recognizing domain specific named entities using domain specific word embeddings,1,G06F|G06N
+11687612,2023-06-27,Deep learning approach to mitigate the cold-start problem in textual items recommendations,0,G06F|G06N
+11683359,2023-06-20,Methods and systems for persistent communications between client applications and application servers,0,G06F|H04L
+11683295,2023-06-20,Data aggregation using proxy entry of credentials,1,H04L
+11682069,2023-06-20,Extending finite rank deep kernel learning to forecasting over long time horizons,0,G06N|G06Q
+11663677,2023-05-30,System and method for automatically generating calculations for fields in compliance forms,0,G06F|G06N|G06Q
+11663528,2023-05-30,Training an ensemble of machine learning models for classification prediction using probabilities and ensemble confidence,0,G06F|G06N|G06V
+11663507,2023-05-30,Predicting custom fields from text,0,G06F|G06N|G06Q
+11663495,2023-05-30,System and method for automatic learning of functions,0,G06F|G06N|G06Q
+11663493,2023-05-30,Method and system of dynamic model selection for time series forecasting,2,G06F|G06N
+11657447,2023-05-23,Transaction-based verification of income and employment,0,G06Q
+11657302,2023-05-23,Model selection in a forecasting pipeline to optimize tradeoff between forecast accuracy and computational cost,0,G06F|G06N|G06Q
+11657222,2023-05-23,Confidence calibration using pseudo-accuracy,3,G06F|G06N|G06V
+11651606,2023-05-16,Method and system for document data extraction,0,G06N|G06V
+11651380,2023-05-16,Real-time propensity prediction using an ensemble of long-term and short-term user behavior models,0,G06N|G06Q
+11651254,2023-05-16,Inference-based incident detection and reporting,0,G06F|G06N
+11650996,2023-05-16,Determining query intent and complexity using machine learning,5,G06F|G06N|G06Q
+11650726,2023-05-16,Graphical user interface transformation of inline card to persistent snackbar,0,G06F|G06Q
+11647095,2023-05-09,Method and system for orchestrating communications between application services through a unified connector platform,2,G06F|H04L
+11647066,2023-05-09,Embedded remote desktop in integrated module,0,G06F|H04L
+11647030,2023-05-09,Detecting fraud rings in information technology systems,2,G06F|G06N|H04L
+11647020,2023-05-09,Satellite service for machine authentication in hybrid environments,0,H04L
+11646871,2023-05-09,System and method for multitenant key derivation,0,H04L
+11646014,2023-05-09,Ensemble of machine learning models for real-time predictions in expert electronic chats,3,G06F|G06N|G10L
+11645836,2023-05-09,Adversarial detection using discriminator model of generative adversarial network architecture,3,G06N|G06V
+11645723,2023-05-09,Method and system for generating dynamic user experience,0,G06F|G06Q
+11645695,2023-05-09,Computing personalized recommendations by modeling interactions as a bipartite graph,0,G06F|G06N|G06Q
+11645683,2023-05-09,Using machine learning to identify hidden software issues,0,G06F|G06N|G06Q
+11645656,2023-05-09,Machine learning-based determination of limits on merchant use of a third party payments system,0,G06F|G06N|G06Q|G07G
+11645618,2023-05-09,Method and apparatus for monitoring inventory items,0,G06Q
+11645584,2023-05-09,Method and system for providing personalized presearch for users of a data management system,0,G06F|G06N|G06Q
+11645567,2023-05-09,Machine-learning models to facilitate user retention for software applications,0,G06F|G06N|H04L
+11645564,2023-05-09,Method and system for smart detection of business hot spots,4,G06N|G06Q
+11645274,2023-05-09,Minimizing group generation in computer systems with limited computing resources,0,G06F|G06Q|G06V
+11645056,2023-05-09,Capturing variable dependencies using a variable agnostic object,0,G06F|H04L
+11640641,2023-05-02,Automated field-mapping of account names for form population,2,G06F|G06N|G06Q
+11636354,2023-04-25,System and method for managing social-based questions and answers,3,G06N|G06Q
+11636287,2023-04-25,Learning form-based information classification,0,G06F|G06N
+11630829,2023-04-18,Augmenting search results based on relevancy and utility,4,G06F
+11627202,2023-04-11,Scalable throttling of requests to web services,0,G06F|H04L
+11625737,2023-04-11,Contextual marketing system based on predictive modeling of users of a system and/or service,0,G06N|G06Q|H04L
+11625735,2023-04-11,Machine learning for improving mined data quality using integrated data sources,0,G06F|G06N|G06Q
+11625541,2023-04-11,Methods and systems for generating problem description,0,G06F|G06N|G10L|H04M
+11625319,2023-04-11,Systems and methods for workflow based application testing in cloud computing environments,2,G06F
+11622326,2023-04-04,Reducing mobile device power consumption through predictive speed-based geofence location tracking,0,H04W|Y02D
+11622227,2023-04-04,Location tracking with loitering logic,0,H04W|Y02D
+11622042,2023-04-04,Multi-channel hybrid models for efficient routing,0,G06F|G06V|H04M
+11621958,2023-04-04,Large scale and high throughput video identity monitoring and verification,1,G06V|H04L|H04N
+11620843,2023-04-04,Metamodeling for confidence prediction in machine learning based document extraction,0,G06F|G06N|G06Q|G06V
+11620665,2023-04-04,Methods and systems using and constructing merchant communities based on financial transaction data,0,G06Q
+11620579,2023-04-04,Generalized metric for machine learning model evaluation for unsupervised classification,0,G06N
+11620312,2023-04-04,Method and system for processing write queries in an application programming interface based on declarative schemas for individual services,0,G06F
+11620274,2023-04-04,Method and system of automatically predicting anomalies in online forms,0,G06F|G06N
+11616744,2023-03-28,Context-dependent message extraction and transformation,0,H04L
+11615243,2023-03-28,Fuzzy string alignment,0,G06F
+11615236,2023-03-28,Machine learning model based electronic document completion,2,G06F|G06N
+11610113,2023-03-21,System and method for understanding questions of users of a data management system,0,G06F|G06N
+11606200,2023-03-14,Trustworthy data exchange using distributed databases,0,G06F|H04L|H04W
+11605012,2023-03-14,Framework for processing machine learning model metrics,0,G06F|G06N
+11604833,2023-03-14,Database integration for machine learning input,5,G06F
+11604577,2023-03-14,Modifying scrolling behavior with competing constraint priorities in landscape and portrait modes,0,G06F|G09G
+11601485,2023-03-07,Instant conferencing system,0,H04L
+11599405,2023-03-07,Enriched high fidelity metrics,0,G06F
+11595471,2023-02-28,Method and system for electing a master in a cloud based distributed system using a serverless framework,1,G06F|H04L
+11595377,2023-02-28,Method and system for monitoring for and blocking fraudulent attempts to log into remote services using list validation attacks,0,G06F|G06N|H04L
+11595334,2023-02-28,Training and using machine learning models to place targeted messages in software applications,2,H04L
+11593711,2023-02-28,Method and system for adaptively reducing feature bit-size for homomorphically encrypted data sets used to train machine learning models,0,G06F|G06N|H04L
+11593555,2023-02-28,Systems and methods for determining consensus values,2,G06F|G06V
+11587161,2023-02-21,Explainable complex model,0,G06F|G06N|G06Q
+11587008,2023-02-21,Workflow management via block chains,0,G06Q|H04L
+11586467,2023-02-21,Method and system for dynamically and reliably scaling data processing pipelines in a computing environment,0,G06F
+11585671,2023-02-21,Identification of grouping criteria for bulk trip review in getting tax deductions,5,G01C|G06N|G06Q|Y10S
+11582239,2023-02-14,User access and identity life-cycle management,0,H04L
+11580607,2023-02-14,Systems and methods for analyzing and generating explanations for changes in tax return results,0,G06Q
+11580560,2023-02-14,Identity resolution for fraud ring detection,0,G06F|G06N|G06Q
+11574315,2023-02-07,Method and system for recommending assistance offerings,0,G06N|G06Q
+11573690,2023-02-07,Generating and modifying content using data structures,0,G06F
+11568634,2023-01-31,Machine learning pipeline for document image quality detection and correction,2,G06F|G06N|G06T|G06V
+11568463,2023-01-31,Heterogeneous graph embedding,1,G06F|G06N|G06Q
+11568284,2023-01-31,System and method for determining a structured representation of a form document utilizing multiple machine learning models,1,G06F|G06N
+11568277,2023-01-31,Method and apparatus for detecting anomalies in mission critical environments using word representation learning,1,G06F|G06N|G06V
+11568143,2023-01-31,Pre-trained contextual embedding models for named entity recognition and confidence prediction,2,G06F|G06N|G06V
+11568133,2023-01-31,Method and apparatus for detecting anomalies in mission critical environments,1,G06F|G06V
+11567908,2023-01-31,Virtual storage interface,5,G06F|G06Q
+11562440,2023-01-24,Method for predicting business income from user transaction data,0,G06F|G06N|G06Q
+11562024,2023-01-24,Method and system for traversing an object graph using traversal context objects,0,G06F
+11561963,2023-01-24,Method and system for using time-location transaction signatures to enrich user profiles,1,G06F
+11558360,2023-01-17,Selective encryption of profile fields for multiple consumers,0,H04L
+11557003,2023-01-17,Ad hoc electronic messaging using financial transaction data,0,G06Q|H04L
+11556836,2023-01-17,System and method for matching specialists and potential clients,2,G06N|G06Q
+11556716,2023-01-17,Intent prediction by machine learning with word and sentence features for routing user requests,1,G06F|G06N
+11556624,2023-01-17,Automatic anonymous visitor identity resolution using machine learning,0,G06F|G06N
+11556566,2023-01-17,Processing of computer readable tables in a datalake,0,G06F
+11556316,2023-01-17,Distributed extensible dynamic graph,0,G06F
+11556226,2023-01-17,User interface for tag management,0,G06F|G06Q
+11551282,2023-01-10,"System, method, and computer-readable medium for capacity-constrained recommendation",1,G06F|G06Q
+11551121,2023-01-10,Methods and systems for privacy preserving inference generation in a distributed computing environment,0,G06F|G06N|H04L
+11551010,2023-01-10,Generating replacement sentences for a particular sentiment,0,G06F|G06N
+11550961,2023-01-10,Integrity protection for homomorphic computations,0,G06F|G06N|H04L
+11550895,2023-01-10,Systems and mechanism to control the lifetime of an access token dynamically based on access token use,0,G06F|H04L|H04W
+11550814,2023-01-10,Pagination processing and display of data sets,0,G06F
+11550790,2023-01-10,Object relational mapper for non-relational databases,0,G06F
+11550692,2023-01-10,Integrated event processing and policy enforcement,0,G06F|G06N|G06V
+11546953,2023-01-03,Multi-user time tracking mesh network,0,H04W
+11546149,2023-01-03,Homomorphic key derivation,0,H04L
+11546133,2023-01-03,Validation as a service for third parties using homomorphic encryption,0,G06N|G06Q|H04L
+11544780,2023-01-03,Customized credit card debt reduction plans,1,G06F|G06N|G06Q
+11544753,2023-01-03,Indicating forecasts of invoice payments,0,G06F|G06Q|G06V
+11544555,2023-01-03,Invoice data classification and clustering,0,G06F|G06N|G06Q
+11544468,2023-01-03,Document text extraction to field-specific computer executable operations,1,G06F|G06Q
+11544460,2023-01-03,Adversarial anonymization and preservation of content,1,G06F|G06N
+11543927,2023-01-03,Method and system for rule-based composition of user interfaces,0,G06F|G06N
+11538117,2022-12-27,Computer-implemented methods systems and articles of manufacture for image-initiated preparation of electronic tax return,0,G06Q|G06V
+11537844,2022-12-27,Systems and methods of business categorization and service recommendation,0,G06F|G06N|G06Q
+11537682,2022-12-27,Experience convergence for multiple platforms,0,G06F
+11531676,2022-12-20,Method and system for anomaly detection based on statistical closed-form isolation forest analysis,0,G06F|G06N
+11531527,2022-12-20,Storage structure for pattern mining,0,G06F
+11526811,2022-12-13,Method for predicting trip purposes using unsupervised machine learning techniques,4,G06F|G06N|G06Q|G06V|H04W
+11526606,2022-12-13,Configuring machine learning model thresholds in models using imbalanced data sets,0,G06F|G06N
+11522704,2022-12-06,Encrypted data management system,1,G06F|H04L
+11521405,2022-12-06,Generating structured representations of forms using machine learning,1,G06F|G06N|G06V
+11520975,2022-12-06,Lean parsing: a natural language processing system and method for parsing domain-specific languages,0,G06F|G06Q|G06V
+11520575,2022-12-06,Semantic and standard user interface (UI) interoperability in dynamically generated cross-platform applications,0,G06F
+11514467,2022-11-29,Predicting application conversion using eye tracking,0,G06F|G06Q|G06V|H04L
+11507892,2022-11-22,Determining a target recommendation based on historical transaction data,4,G06Q
+11503011,2022-11-15,Making local data available in a cloud computing environment,0,H04L
+11500885,2022-11-15,Generation of insights based on automated document analysis,1,G06F|G06N|G06Q
+11500659,2022-11-15,System and method for virtual machine and virtual desktop accessibility,0,G06F
+11494701,2022-11-08,Adversarial user representations in recommender machine learning models,1,G06F|G06N|G06Q
+11494422,2022-11-08,Field pre-fill systems and methods,0,G06F
+11494051,2022-11-08,Image template-based AR form experiences,3,G06F|G06V
+11489660,2022-11-01,Re-encrypting data on a hash chain,1,H04L
+11487751,2022-11-01,Real time fault tolerant stateful featurization,0,G06F|G06N
+11487510,2022-11-01,Dynamic web-based integrated development environment,1,G06F|H04L
+11483672,2022-10-25,Dynamic geofence radius,0,G06Q|H04W
+11481308,2022-10-25,Systems and methods for determining an application quality index,1,G06F|G06N
+11481201,2022-10-25,Integrated development environment for developing and compiling query language schemas for application program interfaces,0,G06F
+11474891,2022-10-18,Enriched high fidelity metrics,0,G06F
+11468642,2022-10-11,Use of augmented reality for service projects,1,G06Q|G06T
+11449685,2022-09-20,Compliance graph generation,1,G06F|G06N
+11442617,2022-09-13,Committing data in electronic devices using swiping gestures,0,G06F
+11438733,2022-09-06,Determining location based on nearby devices,0,H04W
+11436852,2022-09-06,Document information extraction for computer manipulation,0,G06F|G06T|G06V
+11436715,2022-09-06,Image brand ranking,0,G06N|G06Q|G06T
+11436688,2022-09-06,Using a multi-armed bandit approach for boosting categorization performance,0,G06F|G06N|G06Q
+11436642,2022-09-06,Method and system for generating real-time personalized advertisements in data management self-help systems,9,G06F|G06N|G06Q
+11436489,2022-09-06,Combining statistical methods with a knowledge graph,0,G06F|G06N|G06Q
+11436473,2022-09-06,System and method for detecting anomalies utilizing a plurality of neural network models,0,G06F|G06N
+11436413,2022-09-06,Modified machine learning model and method for coherent key phrase extraction,0,G06F|G06N
+11436407,2022-09-06,Generating machine renderable representations of forms using machine learning,0,G06F|G06V
+11436365,2022-09-06,Generating a compliance report of data processing activity,1,G06F|G06Q
+11436291,2022-09-06,Source rank metric of measuring sources of influence,2,G06F|G06Q
+11436119,2022-09-06,System and method for identifying at-risk users of a data management system and providing personalized attention to those users,1,G06F|G06N
+11431511,2022-08-30,Centralized authentication and authorization with certificate management,0,H04L
+11431501,2022-08-30,Coordinating access authorization across multiple systems at different mutual trust levels,0,G06F|H04L|H04W
+11430237,2022-08-30,Systems and methods utilizing distribution trees for confidence modeling and use of form field data,0,G06F|G06N|G06V
+11430073,2022-08-30,System and method for providing privacy preserving joint tax return filings,0,G06Q|H04L
+11430072,2022-08-30,System and method of generating estimates used to calculate taxes,0,G06Q
+11429988,2022-08-30,Method and system for increasing use of mobile devices to provide answer content in a question and answer based customer support system,0,G06Q
+11429881,2022-08-30,Personalized grouping of travel data for review through a user interface,0,G06F|G06N|G06Q
+11429845,2022-08-30,Sparsity handling for machine learning model forecasting,2,G06N
+11429834,2022-08-30,Neural-based agent assistance interface for providing answers based on a query vector,9,G06F|G06N
+11429740,2022-08-30,Fast querying of encrypted data set,0,G06F
+11429569,2022-08-30,Method and system for processing read queries in an application programming interface based on declarative schemas for individual services,0,G06F
+11429405,2022-08-30,Method and apparatus for providing personalized self-help experience,1,G06F|G06N|G06Q|H04L
+11429351,2022-08-30,Methods and systems for building custom automation workflows to integrate multiple applications,9,G06F|G06N|G06Q
+11423900,2022-08-23,Extracting customer problem description from call transcripts,0,G06F|G06N|G06Q|G10L
+11423442,2022-08-23,Method and system for predicting relevant offerings for users of data management systems using machine learning processes,0,G06N|G06Q
+11423411,2022-08-23,Search results by recency boosting customer support content,0,G06F|G06Q|H04L
+11423314,2022-08-23,Method and system for facilitating user support using multimodal information,1,G06F|G06N|G06Q|G10L
+11423250,2022-08-23,Hierarchical deep neural network forecasting of cashflows with linear algebraic constraints,0,G06F|G06N|G06Q
+11423135,2022-08-23,Offline processing using on-demand access tokens,2,G06F|H04L
+11423066,2022-08-23,System and method for reducing user query ambiguity through chatbot clarifying questions,5,G06F|G06N|H04L
+11423055,2022-08-23,Optimization based on archetypes,1,G06F|G06N|G06Q
+11422880,2022-08-23,Methods and systems for determining crash similarity based on stack traces and user action sequence information,2,G06F|G06N
+11418652,2022-08-16,Combining behavioral quality of service assessment with machine learning prediction,3,G06F|G06N|G06Q|H04M
+11411984,2022-08-09,Replacing a potentially threatening virtual asset,0,G06F|H04L
+11411800,2022-08-09,High resiliency content delivery network backup mechanism for micro frontend web applications,0,G06F|H04L
+11410210,2022-08-09,System and method for predicting personalized payment screen architecture,0,G06N|G06Q|H04L
+11409981,2022-08-09,Document classification using signal processing,0,G06F|G06V
+11409959,2022-08-09,Representation learning for tax rule bootstrapping,0,G06F|G06N|G06Q
+11409810,2022-08-09,Integration scoring for automated data import,0,G06F
+11409778,2022-08-09,Mapping of topics within a domain based on terms associated with the topics,0,G06F
+11409732,2022-08-09,Computer estimations based on statistical tree structures,0,G06F
+11403717,2022-08-02,Explainable rule-based calculations,0,G06N|G06Q
+11403715,2022-08-02,Method and system for providing domain-specific and dynamic type ahead suggestions for search query terms,1,G06F|G06N|G06Q
+11403652,2022-08-02,Customer-level lifetime value,2,G06N|G06Q
+11403361,2022-08-02,Identifying code dependencies in web applications,0,G06F
+11403136,2022-08-02,Task execution application programming interface,5,G06F
+11397783,2022-07-26,Ranking similar users based on values and personal journeys,0,G06F|G06N|G06Q
+11393046,2022-07-19,System and method for perpetual rekeying of various data columns with a frequency and encryption strength based on the sensitivity of the data columns,0,G06F|G06Q
+11392577,2022-07-19,Real-time anomaly detection,0,G06F
+11386505,2022-07-12,System and method for generating explanations for tax calculations,0,G06Q
+11386408,2022-07-12,System and method for nearest neighbor-based bank account number validation,1,G06F|G06Q
+11381381,2022-07-05,Privacy preserving oracle,0,G06N|H04L
+11379930,2022-07-05,System and method for targeted data gathering for tax preparation,0,G06Q
+11379842,2022-07-05,Method and system for detecting fraudulent transactions using a fraud detection model trained based on dynamic time segments,1,G06N|G06Q
+11379726,2022-07-05,Finite rank deep kernel learning for robust time series forecasting and regression,0,G06F|G06N
+11379611,2022-07-05,Method and system for privacy-protected execution of a workflow in a software application using encrypted inputs,8,G06F|H04L
+11379526,2022-07-05,Disambiguation of massive graph databases,0,G06F|G06N
+11379294,2022-07-05,Systems and methods for crash analysis using code version history,2,G06F
+11373251,2022-06-28,System and method to augment electronic documents with externally produced metadata to improve processing,0,G06Q|G10L
+11373207,2022-06-28,Adjusting content presentation based on paralinguistic information,0,G06Q|G10L|H04L
+11366968,2022-06-21,Region proposal networks for automated bounding box detection and text segmentation,2,G06F|G06N|G06V
+11354755,2022-06-07,Methods systems and articles of manufacture for using a predictive model to determine tax topics which are relevant to a taxpayer in preparing an electronic tax return,5,G06Q
+11354754,2022-06-07,Generating self-support metrics based on paralinguistic information,0,G06F|G06Q|G10L
+11354495,2022-06-07,System and method for reliable extraction and mapping of data to and from customer forms,0,G06F|G06Q|H04L
+11354431,2022-06-07,Method and system for granting permissions to parties within an organization,0,G06F|H04L
+11348189,2022-05-31,"Methods, systems and computer program products for masking tax data during collaborative tax return preparation",0,G06Q
+11347947,2022-05-31,Encoder with double decoder machine learning models,1,G06F|G06N
+11347780,2022-05-31,System and method for automatic suggestion and or correcting of search keywords,1,G06F|G06N
+11347555,2022-05-31,Integrated system to distribute and execute complex applications,4,G06F|H04L
+11343069,2022-05-24,Oracle-aided protocol for compact data storage for applications using computations over fully homomorphic encrypted data,1,H04L
+11341955,2022-05-24,Integrating automatic speech recognition and community question answering,0,G06F|G06N|G06Q|G10L|H04M
+11341320,2022-05-24,Custom report builder,0,G06F
+11340918,2022-05-24,Knowledge engine auto-generation of guided flow experience,0,G06F|G06N
+11336632,2022-05-17,Composite user identities in distributed computing systems,0,G06F|H04L
+11334820,2022-05-17,Question prioritization in community-driven question-and-answer systems,0,G06F|G06Q
+11334635,2022-05-17,Domain specific natural language understanding of customer intent in self-help,0,G06F|G06N|G06Q|H04L
+11334565,2022-05-17,System to convert natural-language financial questions into database queries,1,G06F
+11334410,2022-05-17,Determining aberrant members of a homogenous cluster of systems using external monitors,2,G06F
+11328349,2022-05-10,Financial management using augmented reality systems,1,G06Q|G06T
+11323570,2022-05-03,Multi-channel hybrid models for efficient routing,6,G06F|G06V|H04M
+11321785,2022-05-03,System and method for providing global tag suggestions based on user information and transaction data,0,G06Q
+11321776,2022-05-03,System and method for providing additonal monthly income by capitalizing expected annual tax refund to monthly payments and or predicting accurate tax withholdings for certain taxpayers,0,G06N|G06Q
+11321771,2022-05-03,System and method for detecting unseen overdraft transaction events,3,G06Q
+11321691,2022-05-03,System and method to enable payment using mark generation and mobile device,0,G06Q
+11321629,2022-05-03,System and method for labeling machine learning inputs,13,G06N|G06Q
+11316695,2022-04-26,"System and method for providing and maintaining irrefutable proof of the building, testing, deployment and release of software",0,G06F|G06Q|H04L
+11315177,2022-04-26,Bias prediction and categorization in financial tools,0,G06Q
+11315076,2022-04-26,Systems and methods for initial inventory template generation for accounting platforms,0,G06F|G06Q
+11314829,2022-04-26,Action recommendation engine,0,G06F
+11314497,2022-04-26,Deployment and customization of applications at the widget level,0,G06F|G06N|H04L
+11314382,2022-04-26,"System, method and user interface for determining an employee's labor cost rate",0,G06F|G06Q
+11314380,2022-04-26,User interface for tag management,0,G06F|G06Q
+11308562,2022-04-19,System and method for dimensionality reduction of vendor co-occurrence observations for improved transaction categorization,4,G06F|G06Q
+11308452,2022-04-19,User interface for time entry,0,G06F|G06Q
+11308431,2022-04-19,Hierarchical optimization for processing objectives sequentially and/or iteratively,0,G06N|G06Q
+11307879,2022-04-19,Personalized help using user behavior and information,1,G06F|G06N|G06Q
+11303626,2022-04-12,Secure token passing via hash chains,0,H04L
+11296867,2022-04-05,Systems and methods for hash chain migration,1,G06F|H04L
+11295397,2022-04-05,"Systems, methods, and computer program products for matching service consumers and providers",0,G06Q
+11295396,2022-04-05,Computer-implemented methods systems and articles of manufacture for image-initiated preparation of electronic tax return,2,G06Q|G06V
+11295323,2022-04-05,Systems and methods using financial information to generate a social graph and determine product and other offerings based on connections within the social graph,0,G06Q
+11295086,2022-04-05,System monitoring based on social media,0,G06F|G06N
+11295076,2022-04-05,System and method of generating deltas between documents,1,G06F|G06Q
+11294700,2022-04-05,Method and system for enabling self-monitoring virtual assets to correlate external events with characteristic patterns associated with the virtual assets,1,G06F|H04L
+11288673,2022-03-29,Online fraud detection using machine learning models,5,G06F|G06N|G06Q|H04L
+11276112,2022-03-15,Transaction classification based on transaction time predictions,1,G06Q|H04L|H04W
+11275585,2022-03-15,System and method for approximating branching operations for use with data encrypted by fully homomorphic encryption (FHE),0,G06F|H04L
+11275573,2022-03-15,Intelligent rolling update of a cluster of servers via container orchestration,15,G06F
+11270375,2022-03-08,Method and system for aggregating personal financial data to predict consumer financial health,14,G06N|G06Q
+11270235,2022-03-08,Routing system to connect a user with a qualified agent,14,G06Q|H04L
+11270185,2022-03-08,"Methods, systems, and computer program product for generating a personalized flow for a software delivery model",5,G06F|G06N
+11269665,2022-03-08,Method and system for user experience personalization in data management systems using machine learning,11,G06F|G06N
+11269477,2022-03-08,Context-aware component styling in user interfaces of electronic devices,0,G06F
+11263277,2022-03-01,Modifying computerized searches through the generation and use of semantic graph data models,13,G06F|G06N
+11258790,2022-02-22,Large scale and high throughput video identity monitoring and verification,0,G06V|H04L|H04N
+11257486,2022-02-22,Machine learning to propose actions in response to natural language questions,0,G06F|G06N|G10L
+11256733,2022-02-22,User support with integrated conversational user interfaces and social question answering,0,G06F|G06N|G06Q
+11256679,2022-02-22,Systems and methods for storing object state on hash chains,0,G06F|H04L
+11252233,2022-02-15,Achieving strong consistency in an eventually consistent distributed system,0,H04L
+11250519,2022-02-15,System and method for indicating sections of electronic tax forms for which narrative explanations can be presented,0,G06Q
+11250345,2022-02-15,Methods for identifying transactions with user location information,4,G06F|G06N
+11250033,2022-02-15,"Methods, systems, and computer program product for implementing real-time classification and recommendations",4,G06F
+11250026,2022-02-15,Replicating data across deployments in a routing constrained environment,0,G06F
+11244384,2022-02-08,Method and transaction tracking service for surfacing rule-creation actions,0,G06F|G06Q
+11244340,2022-02-08,Method and system for using machine learning techniques to identify and recommend relevant offers,13,G06F|G06N|G06Q
+11244320,2022-02-08,System and method for error correcting coding of billing transactions for data management system user identity verification,0,G06F|G06Q
+11244009,2022-02-08,Automatic keyphrase labeling using search queries,2,G06F|G06N
+11240255,2022-02-01,System and method to recognize unauthenticated visitors,3,G06F|G06Q|H04L
+11240139,2022-02-01,Generating a minimum-cost circulation topology in a microservice mesh network,0,G06F|H04L
+11238244,2022-02-01,Translating transaction descriptions using machine learning,0,G06F|G06N|G06Q
+11231979,2022-01-25,Method and system for generating an application programming interface based on declarative schemas for individual services,0,G06F
+11227233,2022-01-18,Machine learning suggested articles for a user,0,G06F|G06N
+11222628,2022-01-11,Machine learning based product solution recommendation,0,G06F|G06N|G06Q|G10L
+11222384,2022-01-11,System and method for automated data estimation for tax preparation,0,G06Q
+11222351,2022-01-11,Predicting application conversion using eye tracking,0,G06F|G06Q|G06V|H04L
+11222266,2022-01-11,System and method for automatic learning of functions,0,G06F|G06N|G06Q
+11222095,2022-01-11,Software management system,0,G06F|G06Q
+11222026,2022-01-11,Platform for staging transactions,2,G06F|G06N
+11216660,2022-01-04,System and method of performing patch-based document segmentation for information extraction,1,G06F|G06N|G06T|G06V
+11216303,2022-01-04,Integrated task registration and execution system,2,G06F
+11210358,2021-12-28,Deep learning approach to mitigate the cold-start problem in textual items recommendations,0,G06F|G06N
+11200374,2021-12-14,Methods to create and use responsive forms with externalized configurations and artifacts,0,G06F
+11195236,2021-12-07,Systems and methods for analyzing and determining estimated data,0,G06Q
+11195005,2021-12-07,Supervised machine learning algorithm application for image cropping and skew rectification,1,G06F|G06T|G06V
+11194457,2021-12-07,Knowledge engine auto-generation of guided flow experience,0,G06F
+11190562,2021-11-30,Generic event stream processing for machine learning,1,G06N|H04L
+11188981,2021-11-30,Identifying matching transfer transactions,4,G06F|G06N|G06Q
+11188840,2021-11-30,Machine-learning models to facilitate user retention for software applications,13,G06F|G06N|H04L
+11188580,2021-11-30,Mapping natural language utterances to nodes in a knowledge graph,3,G06F|G06N|G10L
+11182505,2021-11-23,System for managing transactional data,0,G06F|G06Q|H04L
+11182448,2021-11-23,Content quality management service,1,G06F|G06N
+11182442,2021-11-23,Application usage by selecting targeted responses to social media posts about the application,0,G06F|G06Q|H04L
+11182436,2021-11-23,Predicting locations based on transaction records,0,G06F
+11182273,2021-11-23,Application testing using automatically generated test cases,1,G06F
+11182253,2021-11-23,Self-healing system for distributed services and applications,0,G06F|H04L
+11182239,2021-11-23,Enriched high fidelity metrics,0,G06F
+11176621,2021-11-16,Computer-implemented methods systems and articles of manufacture for addressing optical character recognition triggered import errors during preparation of electronic tax return,3,G06Q
+11176620,2021-11-16,Systems and methods for generating an error report listing errors in the preparation of a payroll tax form,56,G06Q
+11176606,2021-11-16,Categorizing financial transactions based on spending patterns,0,G06Q
+11176044,2021-11-16,Systems and methods for implementing overlapping data caching for object application program interfaces,0,G06F
+11175930,2021-11-16,Deducing a requirement to present optional data entry fields based on examining past user input records,0,G06F
+11172048,2021-11-09,Method and apparatus for predicting experience degradation events in microservice-based applications,1,G06F|H04L
+11170765,2021-11-09,Contextual multi-channel speech to text,0,G06F|G06N|G10L|H04M
+11170433,2021-11-09,Method and system for using machine learning techniques to make highly relevant and de-duplicated offer recommendations,0,G06N|G06Q
+11170175,2021-11-09,Generating replacement sentences for a particular sentiment,14,G06F|G06N
+11170120,2021-11-09,Runtime computer software product management system,4,G06F|G06Q|G07G
+11170026,2021-11-09,System and method for identifying questions of users of a data management system,4,G06F|G06Q
+11170000,2021-11-09,Parallel map and reduce on hash chains,0,G06F|H04L
+11169979,2021-11-09,Database-documentation propagation via temporal log backtracking,0,G06F
+11169913,2021-11-09,Mock server for testing,0,G06F|H04L
+11169902,2021-11-09,Techniques for evaluating collected build metrics during a software build process,0,G06F|G06Q
+11166232,2021-11-02,Reducing mobile device power consumption through predictive speed-based geofence location tracking,1,H04W|Y02D
+11164245,2021-11-02,Method and system for identifying characteristics of transaction strings with an attention based recurrent neural network,1,G06N|G06Q
+11163956,2021-11-02,System and method for recognizing domain specific named entities using domain specific word embeddings,8,G06F|G06N
+11163937,2021-11-02,Reducing nonvisual noise byte codes in machine readable format documents,0,G06F|G06T|G06V|H04N
+11163778,2021-11-02,Integrating virtual and human agents in a multi-channel support system for complex software applications,0,G06F|G06N
+11160178,2021-10-26,Waterproof case,1,B65D|G06F|H04R|H05K
+11157259,2021-10-26,Semantic and standard user interface (UI) interoperability in dynamically generated cross-platform applications,8,G06F
+11151020,2021-10-19,Method and system for managing deployment of software application components in a continuous development pipeline,5,G06F
+11150916,2021-10-19,Execution of workflows in distributed systems,1,G06F
+11145004,2021-10-12,Network-based synchronization system and method,0,G06Q|G06V|H04N
+11144836,2021-10-12,Processing and re-using assisted support data to increase a self-support knowledge base,2,G06F|G06N
+11140290,2021-10-05,Out-of-bounds detection for a document in a live camera feed,0,G06V|H04N
+11138676,2021-10-05,"Methods, systems and computer program products for collecting tax data",2,G06Q|H04L
+11138675,2021-10-05,"Systems, methods and apparatus for attaching electronic documents to an electronic tax return",3,G06F|G06Q
+11138519,2021-10-05,Method and system for providing personalized presearch for users of a data management system,3,G06F|G06N|G06Q
+11138518,2021-10-05,Right for me deployment and customization of applications with customized widgets,21,G06F|G06N
+11138423,2021-10-05,Region proposal networks for automated bounding box detection and text segmentation,1,G06F|G06N|G06V
+11138382,2021-10-05,Neural network system for text classification,1,G06F|G06N
+11132647,2021-09-28,Converting electronic mail to tasks,3,G06Q|H04L
+11127403,2021-09-21,Machine learning-based automatic detection and removal of personally identifiable information,4,G06F|G06N|G10L
+11126893,2021-09-21,System and method for increasing efficiency of gradient descent while training machine-learning models,1,G06F|G06N
+11126406,2021-09-21,Embedded application programming interface explorer,1,G06F
+11120512,2021-09-14,System and method for detecting and mapping data fields for forms in a financial management system,7,G06F|G06Q
+11120349,2021-09-14,Method and system for smart detection of business hot spots,5,G06N|G06Q
+11113771,2021-09-07,"Systems, methods and articles for generating sub-graphs of a tax calculation graph of a tax preparation system",6,G06F|G06Q
+11113692,2021-09-07,Secure verification of claims,0,G06Q
+11113477,2021-09-07,Visualizing comment sentiment,0,G06F|G06T
+11113466,2021-09-07,Generating sentiment analysis of content,3,G06F|H04N
+11113187,2021-09-07,Mock server for testing,0,G06F|H04L
+11107139,2021-08-31,Computing system learning of a merchant category code,0,G06F|G06N|G06Q|G06T|G06V
+11107076,2021-08-31,Automatic transaction-based verification of account ownership,1,G06Q
+11107027,2021-08-31,Externally augmented propensity model for determining a future financial requirement,0,G06Q
+11100573,2021-08-24,Credit score cohort analysis engine,0,G06N|G06Q
+11100115,2021-08-24,Infrastructure and method for generating search results,0,G06F|G06Q
+11093951,2021-08-17,System and method for responding to search queries using customer self-help systems associated with a plurality of data management systems,4,G06F|G06N|G06Q
+11093897,2021-08-17,Enterprise risk management,0,G06Q
+11093462,2021-08-17,Method and system for identifying account duplication in data management systems,3,G06F|G06Q|H04L
+11087411,2021-08-10,Computerized tax return preparation system and computer generated user interfaces for tax topic completion status modifications,0,G06Q
+11087410,2021-08-10,"Methods, systems and computer program products for facilitating user interaction with tax return preparation programs",0,G06Q
+11087334,2021-08-10,"Method and system for identifying potential fraud activity in a tax return preparation system, at least partially based on data entry characteristics of tax return content",13,G06N|G06Q|H04L
+11087309,2021-08-10,Location detection based on IP addresses and transactions,5,G06Q|H04L|H04W
+11086857,2021-08-10,Method and system for semantic search with a data management system,9,G06F|G06Q
+11086643,2021-08-10,"System and method for providing request driven, trigger-based, machine learning enriched contextual access and mutation on a data graph of connected nodes",3,G06F|G06N|G06Q
+11086601,2021-08-10,"Methods, systems, and computer program product for automatic generation of software application code",0,G06F
+11080375,2021-08-03,Policy based adaptive identity proofing,2,G06F|H04L|H04W
+11069001,2021-07-20,Method and system for providing personalized user experiences in compliance with service provider business rules,9,G06F|G06Q
+11062022,2021-07-13,Container packaging device,21,G06F
+11061934,2021-07-13,Method and system for characterizing time series,2,G06F
+11057479,2021-07-06,Contextual routing configuration and service naming for multi-cluster service mesh,0,H04L
+11055795,2021-07-06,"Methods, systems, and computer program products for linking data schemas to electronic tax return",0,G06Q
+11055794,2021-07-06,"Methods, systems and computer program products for estimating likelihood of qualifying for benefit",0,G06Q
+11055793,2021-07-06,Preparation of electronic tax return when electronic tax return data is requested but not provided by taxpayer,1,G06Q
+11055772,2021-07-06,Instant lending decisions,8,G06Q
+11055714,2021-07-06,"Methods, systems, and articles of manufacture for fingerprinting signatures and enhanced signature capturing for charge card transactions on mobile communication devices",0,G06Q|G06V
+11055527,2021-07-06,System and method for information extraction with character level features,1,G06F|G06V
+11050854,2021-06-29,Embedded remote desktop in integrated module,0,G06F|H04L
+11049190,2021-06-29,System and method for automatically generating calculations for fields in compliance forms,1,G06F|G06N|G06Q
+11048933,2021-06-29,Generating structured representations of forms using machine learning,1,G06F|G06N|G06V
+11048887,2021-06-29,Cross-language models based on transfer learning,3,G06F|G06N
+11048866,2021-06-29,Ad hoc contact data capture,0,G06F|G06Q
+11048700,2021-06-29,Decomposition of queries,1,G06F
+11045340,2021-06-29,Adding accessibility properties to a software application,7,A61F|G06F
+11042930,2021-06-22,Insufficient funds predictor,11,G06N|G06Q
+11042561,2021-06-22,Extracting data from communications related to documents using domain-specific grammars for automatic transaction management,0,G06F
+11042476,2021-06-22,Variability system and analytics for continuous reliability in cloud-based workflows,0,G06F|G06Q
+11042387,2021-06-22,Deploying cross-platform applications on mobile devices with native and web components,0,G06F|H04L
+11039273,2021-06-15,Method and system for generating geofences using an iterative process,1,H04W
+11038674,2021-06-15,Trustworthy data exchange using distributed databases,0,G06F|H04L|H04W
+11037238,2021-06-15,Machine learning tax based credit score prediction,5,G06Q
+11037236,2021-06-15,Algorithm and models for creditworthiness based on user entered data within financial management application,3,G06N|G06Q
+11037195,2021-06-15,Method and system for intelligently targeting offers to users of a software application,4,G06Q
+11037082,2021-06-15,Workflow management via block chains,2,G06Q|H04L
+11036927,2021-06-15,Relative positional parsing of documents using trees,0,G06F|G06V
+11036828,2021-06-15,Identifying checksum mechanisms using linear equations,0,G06F|G06Q
+11030705,2021-06-08,Quick serve tax application,1,G06N|G06Q|H04L
+11030631,2021-06-08,Method and system for generating user experience analytics models by unbiasing data samples to improve personalization of user experiences in a tax return preparation system,3,G06Q
+11030477,2021-06-08,Image quality assessment and improvement for performing optical character recognition,10,G06F|G06V
+11017167,2021-05-25,Misspelling correction based on deep learning architecture,2,G06F|G06N
+11010399,2021-05-18,Automated data scraping,1,G06F|G06Q
+11010368,2021-05-18,Writing incoming items to a database based on location of similar items in a database,1,G06F|G06Q
+11010287,2021-05-18,Field property extraction and field value validation using a validated dataset,2,G06F|G06N
+11004146,2021-05-11,Business health score and prediction of credit worthiness using credit worthiness of customers and vendors,2,G06Q
+11003653,2021-05-11,Method and system for secure digital documentation of subjects using hash chains,0,G06F|H04L
+10999697,2021-05-04,Intelligent geofence provisioning,0,H04W|Y02D
+10997672,2021-05-04,Method for predicting business income from user transaction data,1,G06F|G06N|G06Q
+10997671,2021-05-04,"Methods, systems and computer program products for collaborative tax return preparation",0,G06Q
+10997314,2021-05-04,System and method for perpetual rekeying of various data columns with respective encryption keys and on alternating bases,1,G06F|G06Q|H04L
+10997254,2021-05-04,1307458USCON1 search engine optimization in social question and answer systems,0,G06F
+10990996,2021-04-27,Predicting application conversion using eye tracking,5,G06F|G06Q|G06V|H04L
+10990988,2021-04-27,Finding business similarities between entities using machine learning,2,G06F|G06Q
+10990956,2021-04-27,Method and system for presence based mobile payment,0,G06Q
+10990940,2021-04-27,Server validation of website scraped data,9,G06F|G06Q|H04L
+10990607,2021-04-27,Systems and methods for log aggregation,4,G06F
+10985912,2021-04-20,Homomorphic key derivation,0,H04L
+10984484,2021-04-20,Accounting workflow integration,5,G06F|G06Q
+10984446,2021-04-20,Method and system for predicting relevant offerings for users of data management systems using machine learning processes,3,G06N|G06Q
+10984340,2021-04-20,Composite machine-learning system for label prediction and training data collection,2,G06N|G06Q
+10984193,2021-04-20,Unsupervised text segmentation by topic,2,G06F|G06N
+10984001,2021-04-20,Graph database applications,0,G06F|G06Q
+10983971,2021-04-20,Detecting duplicated questions using reverse gradient adversarial domain adaptation,63,G06F
+10983675,2021-04-20,System and method for providing dynamic and deep navigation of web pages using keyboard navigation,2,G06F
+10979440,2021-04-13,Preventing serverless application package tampering,13,G06F|H04L
+10977746,2021-04-13,Computer implemented methods systems and articles of manufacture for suggestion-based interview engine for tax return preparation application,2,G06Q
+10977745,2021-04-13,Computer-implemented methods systems and articles of manufacture for generating user interface with personalized response to user query,3,G06F|G06Q
+10977744,2021-04-13,Computer-implemented methods systems and articles of manufacture for validating electronic tax return data,1,G06F|G06Q|G06V
+10977743,2021-04-13,Computer implemented methods systems and articles of manufacture for instance and suggestion differentiation during preparation of electronic tax return,0,G06F|G06Q
+10977663,2021-04-13,Method and system for recommending assistance offerings using multivariate random forest leveraging negative samples,2,G06N|G06Q
+10977430,2021-04-13,System and method for correction of acquired transaction text fields,1,G06F|G06N|G06Q
+10977291,2021-04-13,Automated document extraction and classification,0,G06F|G06N|G06Q|G06V
+10977250,2021-04-13,Responding to similarity queries using vector dimensionality reduction,5,G06F|G06Q
+10977083,2021-04-13,Cost optimized dynamic resource allocation in a cloud infrastructure,6,G06F|G06N|G06Q
+10970794,2021-04-06,Dynamic pagination of tax return questions during preparation of electronic tax return,0,G06F|G06Q
+10970793,2021-04-06,Methods systems and articles of manufacture for tailoring a user experience in preparing an electronic tax return,1,G06Q
+10970636,2021-04-06,Adaptive system for predicting integration failures in large systems,1,G06F|G06N
+10970477,2021-04-06,Computer-implemented methods systems and articles of manufacture for automated construction of computer-generated user interface,2,G06F|G06Q
+10970420,2021-04-06,System for managing transactional data,0,G06F|G06Q|H04L
+10970414,2021-04-06,Automatic detection and protection of personally identifiable information,9,G06F
+10963842,2021-03-30,Communication platform for email management,5,G06F|G06Q|H04L
+10963808,2021-03-30,Predicting event outcomes using clickstream data,6,G06F|G06N
+10956986,2021-03-23,System and method for automatic assistance of transaction sorting for use with a transaction management service,22,G06F|G06Q
+10956925,2021-03-23,Method and system for performing transactions using aggregate payment media,3,G06Q|G07F
+10956179,2021-03-23,Third party integration of plugins and widgets,9,G06F
+10949844,2021-03-16,Processing electronic payment involving mobile communication device,3,G06Q
+10949559,2021-03-16,Repository-based privilege escalation for workflows,1,G06F
+10949432,2021-03-16,Method and system for recommending domain-specific content based on recent user activity within a software application,15,G06F|G06N|G06Q|H04L
+10949178,2021-03-16,Method and system for decomposing a global application programming interface (API) graph into an application-specific API subgraph,10,G06F
+10943309,2021-03-09,System and method for providing a predicted tax refund range based on probabilistic calculation,7,G06N|G06Q
+10943217,2021-03-09,Methods systems and articles of manufacture for modifying user interaction with online banking site,7,G06Q
+10943199,2021-03-09,Inventory recommendation tool and method,2,G06Q
+10943107,2021-03-09,Simulating image capture,1,G06T|G06V
+10942963,2021-03-09,Method and system for generating topic names for groups of terms,6,G06F|G06N
+10939235,2021-03-02,Dynamic geofence radius,1,G06Q|H04W
+10937109,2021-03-02,Method and technique to calculate and provide confidence score for predicted tax due/refund,0,G06Q
+10937073,2021-03-02,Predicting delay in a process,3,G06Q
+10936711,2021-03-02,Systems and mechanism to control the lifetime of an access token dynamically based on access token use,26,G06F|H04L|H04W
+10936627,2021-03-02,Systems and methods for intelligently grouping financial product users into cohesive cohorts,1,G06F
+10929921,2021-02-23,Instant matching of data for accounting based on email and bank scraping,1,G06Q
+10924514,2021-02-16,Machine learning detection of fraudulent validation of financial institution credentials,95,G06F|G06N|G06Q|H04L
+10922367,2021-02-16,Method and system for providing real time search preview personalization in data management systems,4,G06F|G06N
+10922190,2021-02-16,Updating database records while maintaining accessible temporal history,0,G06F
+10917739,2021-02-09,Location tracking with loitering logic,2,H04W|Y02D
+10917520,2021-02-09,Automated self-service callback for proactive and dynamic user assistance,10,G06F|H04M
+10915972,2021-02-09,Predictive model based identification of potential errors in electronic tax return,1,G06Q
+10915971,2021-02-09,"Systems, methods and articles for associating form-filling data with a user entity",0,G06Q
+10915970,2021-02-09,Computer implemented methods systems and articles of manufacture for communicating and resolving electronic tax return errors and inconsistent data,1,G06Q
+10915968,2021-02-09,System and method for proactively managing alerts,4,G06Q
+10915872,2021-02-09,Automatic receipt capture,4,G06Q|G07G
+10915746,2021-02-09,Method for adaptive contrast enhancement in document images,0,G06T|G06V
+10909572,2021-02-02,Real-time financial system ads sharing system,0,G06Q
+10909147,2021-02-02,User interfaces based on pre-classified data sets,0,G06F|G06N|G06Q
+10908924,2021-02-02,System and methods for loading objects from hash chains,1,G06F

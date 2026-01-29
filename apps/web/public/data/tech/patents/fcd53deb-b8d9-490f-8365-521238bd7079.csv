@@ -1,0 +1,755 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432795,2025-09-30,Bluetooth network establishing system and method,0,H04W
+12430728,2025-09-30,Method for labeling image object and circuit system,0,G06T|G06V
+12430712,2025-09-30,Super resolution image generation circuit,0,G06T|G06V
+12430419,2025-09-30,Method and system for writing authentication information,0,G06F
+12430033,2025-09-30,NAND flash memory controller capable of adjusting its processing power according to its speed,0,G06F
+12429902,2025-09-30,"Memory system, memory access interface device and operation method thereof",0,G06F
+12418390,2025-09-16,"Communication system, electronic device, and determination method for determining echo noise cancelling ability",0,H04B|H04L
+12417068,2025-09-16,Audio synchronous circuit and audio synchronous method,0,G06F|H04W
+12405892,2025-09-02,Electronic apparatus and command accessing method thereof having power saving mechanism,0,G06F
+12405763,2025-09-02,Image processor circuit supporting two-pixel mode and picture-in-picture mode and image processing method thereof,0,G06F|G06T|G09G
+12401485,2025-08-26,Network communication apparatus and network communication monitoring method thereof having full band monitoring mechanism,0,H04L|H04W
+12400447,2025-08-26,Image processing method according to cadence of image frames and device or performing the same,0,G06F|G06V
+12399672,2025-08-26,Image processor circuit supporting two-pixel mode and image processing method thereof,0,G06F|G06T|G09G
+12395936,2025-08-19,"Method for wireless data reception, and wireless device",0,H04W|Y02D
+12395351,2025-08-19,Digital signature method and verification method for digital signature,0,H04L
+12395308,2025-08-19,Network and node synchronization method,0,H04L|H04W|Y02D
+12389472,2025-08-12,Method for switching pairing in mesh network system,0,H04W
+12389183,2025-08-12,Player device and associated signal processing method,0,H04N|H04R|H04S
+12388607,2025-08-12,Wireless communication method and wireless communication device,0,H04L|H04W
+12387469,2025-08-12,"Object detection model training apparatus, method, and non-transitory computer readable storage medium thereof",0,G06N|G06V
+12386762,2025-08-12,Address conversion system and address conversion method,0,G06F
+12386734,2025-08-12,Data processing device and associated memory management method,0,G06F
+12386695,2025-08-12,Method for scanning bad block of memory and circuit system thereof,0,G06F
+12382402,2025-08-05,"Wireless transceiver device, wireless communication system and wireless transmission rate control method",0,H04B|H04L|H04W
+12367166,2025-07-22,SoC with UART interface,0,G06F
+12366991,2025-07-22,Multi-cluster system and multi-cluster system control method,0,G06F
+12363330,2025-07-15,Image processing method and image processing device for enhancing image processing efficiency,0,H04N
+12354182,2025-07-08,Image processing circuit performing filtering process on set of pixels to generate set of processed pixels and image processing method,0,G06T
+12353818,2025-07-08,"Optimizing method, device and non-transient computer readable medium for integrated circuit layout",0,G06F
+12353345,2025-07-08,Multi-path universal asynchronous transceiver and transmission method thereof,0,G05B|G06F
+12353237,2025-07-08,Voltage control oscillating apparatus and operation method thereof having gain calibration mechanism,0,G06F|H03L
+12346231,2025-07-01,"Electronic system, monitoring chip, and operation method",0,G06F
+12342032,2025-06-24,"Control integrated circuit for maintaining video output to conditional access module with aid of reference clock regeneration, associated television receiver and associated method",0,H04N
+12339801,2025-06-24,Adapter and data transmission method under limited memory,0,G06F
+12335991,2025-06-17,Method of selecting access point and related communication device,0,H04W|Y02D
+12335657,2025-06-17,Method for processing video with dynamic video-based super-resolution network and circuit system,0,G06T|G06V|H04N
+12335506,2025-06-17,Electronic device and associated signal processing method,0,H04N
+12335144,2025-06-17,Electronic device and flow control method for electronic device,0,H04L
+12335072,2025-06-17,Signal receiving apparatus and method having parameter optimization mechanism,0,H04L
+12335071,2025-06-17,Decision feedback equalizer,0,H04L
+12327119,2025-06-10,Logic circuit and method for checking and updating program counter values in pipeline architecture by comparing PC values of consecutive cycles,0,G06F|H03K
+12326774,2025-06-10,"Wake-up mechanism controlling method, electronic system, non-transitory computer readable storage medium",0,G06F
+12323731,2025-06-03,Image data processing method and associated electronic device,0,G09G|H04N
+12323660,2025-06-03,Media docking device and media transfer method,0,G06F|H04N
+12323504,2025-06-03,Clock correction method and clock correction circuit,0,H04B|H04L|H04W
+12323156,2025-06-03,Clock signal generation circuit,0,G06F|G11C|H03L
+12321644,2025-06-03,Memory sharing electronic circuit system and external device capable of storing data in host device,0,G06F
+12321417,2025-06-03,Image data augmentation apparatus and method,0,G06F|G06N|G06T|G06V
+12309018,2025-05-20,Radio frequency circuit and calibration method therefor,0,H03M|H04L
+12308953,2025-05-20,Communication device and host system for reducing communication interference based on bit extension mechanism,0,H04B|H04L
+12307759,2025-05-20,Image data augmentation device and method,0,G06N|G06T|G06V
+12307751,2025-05-20,Training method of neural network model and associated device,0,G06N|G06T|G06V
+12307260,2025-05-20,Displaying content transmitted by an external device based on detection of a connected state by display firmware,0,G06F|G09G|H04N
+12307242,2025-05-20,Method for updating encrypted firmware,0,G06F
+12306661,2025-05-20,Apparatus and method of power efficient high-speed clock transmission,0,G06F
+12300330,2025-05-13,Memory system and memory access interface device thereof for supporting different speed modes,0,G06F|G11C
+12294519,2025-05-06,Packet processing device and packet processing method,0,H04L
+12294361,2025-05-06,Output stage of ethernet transmitter,0,H03H|H03K|H04L
+12293987,2025-05-06,Electronic package device and method of operating the same,0,H01L|H03M
+12293486,2025-05-06,"Image processing method, image processing system, and non-transitory computer readable storage medium for processing image with one or more brightness ranges",0,G06T
+12293036,2025-05-06,Waterproof-state recognition and processing method and device applicable to capacitive touch screen,0,G06F
+12292815,2025-05-06,Method for system profiling and controlling and computer system performing the same,0,G06F|H04L
+12289668,2025-04-29,Bluetooth audio broadcasting system supporting Bluetooth low energy audio broadcasting operations and capable of avoiding user from missing external alert signals or specific sounds,0,G06F|H04W
+12289667,2025-04-29,Bluetooth audio broadcasting system supporting Bluetooth low energy audio broadcasting operations and capable of avoiding user from missing external alert signals or specific sounds,0,G06F|H04W
+12289666,2025-04-29,Bluetooth audio broadcasting system and related multi-member bluetooth device supporting bluetooth low energy audio broadcasting operations and capable of avoiding user from missing external alert signals or specific sounds,0,G06F|H04W
+12288597,2025-04-29,Setting module and setting method thereof for synchronous dynamic random access memory,0,G06F|G11C
+12288307,2025-04-29,Display device and image display method,0,G06T
+12284548,2025-04-22,Wireless communication device and data processing method,0,H04W
+12284124,2025-04-22,Network control method and chip,0,H04L|H04W
+12283022,2025-04-22,Image processing method and image processing circuit for compensating motion vectors of interpolated frame,0,G06T|H04N
+12278810,2025-04-15,Wireless communication device and wireless communication method able to verify vendor information,0,H04L|H04W
+12278727,2025-04-15,"Processing circuit, network device and processing method for anomaly detection",0,G06F|H04L
+12277673,2025-04-15,Image processing system and related image processing method for image enhancement based on region control and multiple processing branch,0,G06T
+12277021,2025-04-15,Circuitry that can perform fast mode switching,0,G06F|G09G
+12273840,2025-04-08,Bluetooth voice communication system and related computer program product for generating stereo voice effect,0,H04L|H04R|H04W|Y02D
+12273699,2025-04-08,Audio system with dynamic target listening spot and ambient object interference cancelation,0,G06F|H04R|H04S
+12273435,2025-04-08,"Method of defense against cryptosystem timing attack, associated cryptosystem processing circuit, and associated electronic device",0,H04L
+12271654,2025-04-08,Audio dose monitoring circuit,0,G06F|H04R
+12271653,2025-04-08,Audio processing apparatus and audio processing method for dynamically adjusting audio clock,0,G06F|H03L|Y02D
+12267489,2025-04-01,Coding algorithm for realizing distributed gradual decoding refresh,0,H04N
+12267076,2025-04-01,"Signal receiving apparatus, clock and data recovery circuit and clock and data recovery method thereof",0,H03L|H04L
+12266421,2025-04-01,Memory device of reducing the number of calibration resistors and control method thereof,0,G06F|G11C
+12262299,2025-03-25,Multi-link device and method of switching operation mode of multi-link device,0,H04W
+12262057,2025-03-25,Method and apparatus of image compression with bit rate control,0,H04N
+12261705,2025-03-25,Computing device and computing method for computing packet transmission time,0,H04L
+12260161,2025-03-25,"Method for establishing variation model related to circuit characteristics for performing circuit simulation, and associated circuit simulation system",0,G06F|G06N
+12255739,2025-03-18,Data transmission apparatus and method of cross-domain data transmission,0,G06F|H04L
+12254125,2025-03-18,Integrated circuit applicable to performing system protection through dynamic voltage change,0,G01R|G06F|G11C|H01J
+12253895,2025-03-18,Electronic system and determination method capable of determining reason of cold boot event,0,G06F
+12249124,2025-03-11,Super resolution device and method,0,G06T|G06V
+12243595,2025-03-04,Solid-state drive controller and circuit controller,0,G06F|G11C
+12242744,2025-03-04,Method of identifying type of memory card,0,G06F
+12242738,2025-03-04,"Card reader and controller, and method for permission management",0,G06F
+12242728,2025-03-04,Generating commands for a memory controller to write a target value,0,G06F|G11C|Y02D
+12238816,2025-02-25,WiFi station and associated passive scanning method,0,H04L|H04W
+12238505,2025-02-25,Audio system with dynamic target listening spot and ambient object interference cancelation,0,G06F|G06T|G06V|H04R|H04S
+12238196,2025-02-25,"Linearity test system, linearity signal providing device, and linearity test method",0,G01R|H04L
+12237977,2025-02-25,Method for resuming topology of single loop network and switch network system,0,H04L
+12237326,2025-02-25,Finger-type semiconductor capacitor array layout,0,H01L|H10D
+12236270,2025-02-25,Multi-tasking chip and resource control management method thereof,0,G06F
+12235987,2025-02-25,"Method for performing multi-system log access management, associated system on chip integrated circuit and non-transitory computer-readable medium",0,G06F
+12231530,2025-02-18,"Method for performing power disturbing operation to reduce success rate of cryptosystem power analysis attack, cryptosystem processing circuit, and electronic device",0,H04L
+12229590,2025-02-18,Device and method of performing content channel generation,0,G06F|H04L
+12223373,2025-02-11,Electronic device capable of accessing memory card,0,G06F|G06K
+12219206,2025-02-04,Analysis method and non-transitory computer-readable storage medium,0,G09G|H04N
+12218257,2025-02-04,Compact capacitor structure,0,H01L|H10D
+12217332,2025-02-04,"Coordinate generation system, coordinate generation method, and computer readable recording medium with stored program",0,G06T
+12213196,2025-01-28,Bluetooth communication system and related computer program product capable of reducing complexity of pairing Bluetooth host device with Bluetooth device set for user,0,H04W
+12213195,2025-01-28,Bluetooth communication system and related computer program product capable of reducing complexity of pairing bluetooth host device with bluetooth device set for user,0,H04W
+12212951,2025-01-28,Audio system with dynamic target listening spot and ambient object interference cancelation,0,G06F|G06T|H04R|H04S
+12212761,2025-01-28,Encoder and associated signal processing method,0,H04N
+12207181,2025-01-21,Access point in mesh network for initiating dynamic frequency selection flow and methods of operating the same,0,H04W
+12206578,2025-01-21,Aggregation packet forwarding method and aggregation packet forwarding system,0,H04L
+12205667,2025-01-21,Multi-die package,0,G11C|H01L
+12204806,2025-01-21,"Display control chip, operating method thereof and display system comprising the same",0,G06F|G06T
+12199807,2025-01-14,Wireless transceiver having in-phase quadrature-phase calibration function,0,H04L
+12198314,2025-01-14,Image processing apparatus and image processing method for contrast enhancement,0,G06T
+12198297,2025-01-14,Image enlarging apparatus and method having super resolution enlarging mechanism,0,G06N|G06T
+12192645,2025-01-07,Method and circuitry for exposure compensation applied to high dynamic range video,0,G06T|G06V|H04N
+12177660,2024-12-24,Bluetooth mesh network system and provision method having quick provisioning mechanism,0,G08C|H04B|H04W
+12177638,2024-12-24,"Bluetooth communication system capable of avoiding voice interruption, and related Bluetooth device set",0,G06F|G10L|H04L|H04M|H04R|H04W|Y02D
+12176889,2024-12-24,Integrated circuits employing always-on watchdog timer for providing regular power reset,0,G06F|H03K
+12176050,2024-12-24,Signal processing method and signal processor,0,G06F|G11C
+12174773,2024-12-24,Transmission control architecture between sensing device and host device,0,G06F
+12174663,2024-12-24,Docking display with a built-in hub,0,G06F|G09G
+12158853,2024-12-03,Method for data access control among multiple nodes and data access system,0,G06F|G06N
+12155761,2024-11-26,Method and system for accelerating verification procedure for image file,0,H04L
+12155744,2024-11-26,Signal relay apparatus and method having frequency locking mechanism,0,H03L|H04L
+12150066,2024-11-19,"Wireless transmission method for enhancing efficiency of transmit power control of multi-user transmission, and wireless communication device utilizing the same",0,H04L|H04W
+12149601,2024-11-19,Method for converting network packets and circuit system,0,H04L
+12148698,2024-11-19,Semiconductor device and semiconductor device manufacturing method,0,G06F|H01L
+12148167,2024-11-19,Image processing circuit and associated image processing method,0,G06T
+12147889,2024-11-19,Mixed-signal neurons for neuromorphic computing and method thereof,0,G06N|H03K
+12147368,2024-11-19,Method of transmitting universal serial bus (USB) commands and associated electronic device,0,G06F
+12147283,2024-11-19,Receiver detection system and receiver detection device,0,G06F|Y02D
+12143857,2024-11-12,Communication device and associated control method,0,H04W
+12134032,2024-11-05,Player and play method,0,A63F|H04N|H04W
+12131488,2024-10-29,Electronic apparatus and method used for object tracking,0,G06T
+12127040,2024-10-22,Communication apparatus and method having data transmission sorting mechanism,0,H04W
+12124307,2024-10-22,Media streaming device and media streaming method,0,G06F|H04N|Y02D
+12120327,2024-10-15,Method for processing LCEVC enhancement layer of residuals,0,H04N
+12120311,2024-10-15,Encoder and associated signal processing method,0,H04N
+12120038,2024-10-15,Switch and scheduling method for packet forwarding of the same,0,H04L
+12120036,2024-10-15,Multi-link device adopting block acknowledgment and packet allocation method thereof,0,H04L|H04W
+12113441,2024-10-08,Power source equipment and power supply control method,0,H02M|H04L
+12112878,2024-10-08,Asymmetric spiral inductor,0,H01F|H01L
+12112461,2024-10-08,Adaptive image shading correction method and adaptive image shading correction system,0,G06T
+12112157,2024-10-08,Firmware upgrade method and firmware upgrade system based on multi-stream transmission mode of DisplayPort interface,0,G06F|G09G|Y02D
+12111353,2024-10-08,Testing system and testing method,0,G01R|H04L
+12108434,2024-10-01,Wireless communication apparatus having dynamic transmission bandwidth allocation mechanism and dynamic transmission bandwidth allocation method thereof,0,H04J|H04L|H04W
+12107944,2024-10-01,Bluetooth internet protocol packet transmitting device and method,0,H04L|H04W
+12107714,2024-10-01,Signal processing circuit for subcarrier sorting and associated signal processing method,0,H03M|H04L
+12107641,2024-10-01,Ethernet power sourcing equipment and power management method thereof,0,H04B|H04L
+12105660,2024-10-01,Electronic apparatus and communication method thereof having both defined and undefined bus communication mechanism,0,G06F
+12105144,2024-10-01,Semiconductor device and method for generating test pulse signals,0,G01R|G06F
+12101614,2024-09-24,"Bluetooth communication system capable of avoiding voice interruption, and related Bluetooth device set",0,G06F|G10L|H04L|H04M|H04R|H04W|Y02D
+12101608,2024-09-24,Bluetooth audio broadcasting system and related multi-member Bluetooth device,0,G06F|H04M|H04R|H04W
+12101390,2024-09-24,Signal communication apparatus and method having re-sampling mechanism,0,H04B|H04L
+12101207,2024-09-24,Communication apparatus and associated method,0,H04L
+12101175,2024-09-24,Wireless communication device and method,0,H04B|H04L|H04W
+12099777,2024-09-24,Audio playback device capable of cooperating with plural audio generating devices without conducting bluetooth pairing procedure and related bluetooth audio system,0,G06F|H04R|H04W
+12096495,2024-09-17,Network device and network connection method,0,H04L|H04W
+12096209,2024-09-17,"Bluetooth communication system capable of increasing generation efficiency of cypher keys required for data transmission between Bluetooth host device and Bluetooth device set, and related Bluetooth device set",0,G06F|H04L|H04W
+12096203,2024-09-17,Audio system with dynamic target listening spot and ambient object interference cancelation,0,G06F|H04R|H04S
+12096192,2024-09-17,"Bluetooth communication system capable of avoiding voice interruption, and related Bluetooth host device and Bluetooth device set",0,G06F|G10L|H04L|H04M|H04R|H04W|Y02D
+12094090,2024-09-17,Method for processing image noise in compression process and circuit system,0,G06T|H04N
+12088872,2024-09-10,Integrated circuitry of speaker,0,G06F|H04N
+12088551,2024-09-10,Network control method and network interface card,0,H04L
+12086967,2024-09-10,"Image processing method, processor, and non-transitory computer readable storage medium",0,G06T|G09G
+12086610,2024-09-10,"Cloud deployment boot image electronic device, and boot image cloud deployment system and method",0,G06F|H04L
+12086604,2024-09-10,"Boot circuit, boot method, and boot system",0,G06F
+12079952,2024-09-03,Image processing method and system for convolutional neural network,0,G06T|G06V
+12075462,2024-08-27,Wireless device for achieving low latency transmission of time-sensitive data,0,H04L|H04W
+12074800,2024-08-27,Memory control system and memory control method,0,H04L
+12066956,2024-08-20,"Semiconductor device, data storage system and method for controlling termination circuits",0,G06F|G11C
+12063454,2024-08-13,Electronic device and method for transmitting video data and audio data,0,G06F|H04N
+12063453,2024-08-13,"Blind scan method, non-transitory computer-readable medium and control circuit thereof",0,H03J|H04N
+12062598,2024-08-13,Integrated circuit lead frame and semiconductor device thereof,0,H01L
+12062480,2024-08-13,Inductor device,0,H01F|H01L|H03H|H10D
+12057984,2024-08-06,Communication device and method of handling PAPR,0,H04L
+12057948,2024-08-06,Power supply system and method having power management mechanism,0,G06F|H04L
+12056861,2024-08-06,Signal processing circuit and signal processing method,0,G06T
+12056393,2024-08-06,System and method for exchanging messages,0,G06F
+12051356,2024-07-30,Display control system and display with universal serial bus (USB) control,0,G06F|G09G
+12050546,2024-07-30,Data processing device,0,G06F|G06T|G10L|H04L
+12046543,2024-07-23,Package substrate and chip package structure using the same,0,H01L
+12046216,2024-07-23,Display updating system and display,0,G06F|G09G
+12045499,2024-07-23,Storage device sharing system and storage device sharing method,0,G06F|Y02D
+12040126,2024-07-16,Manufacturing method of an inductive device,0,H01F|H01L|H10D
+12039340,2024-07-16,Electronic apparatus and operation method thereof having elastic boot file allocation mechanism,0,G06F
+12039294,2024-07-16,Device and method for handling programming language function,0,G06F
+12039240,2024-07-16,Integrated circuit simulation and design method and system thereof,0,G06F
+12038863,2024-07-16,USB chip and operation method thereof,0,G06F
+12032512,2024-07-09,"Processor chip, dongle device, and operation method",0,G06F
+12032505,2024-07-09,Command transforming system and command transforming method,0,G06F
+12028080,2024-07-02,Clock generating circuit and method for generating clock signal,0,G06F|H03K|H03L
+12022232,2024-06-25,Receiver device and signal processing method,0,H04L|H04N
+12019536,2024-06-25,Debugging management platform and operating method for the same,0,G06F
+12014176,2024-06-18,Apparatus and method for pipeline control,0,G06F
+12014110,2024-06-18,Audio device and associated control method,0,G06F
+12014024,2024-06-18,Method and system for creating a television menu with multiple settings,0,G06F|H04N
+12009056,2024-06-11,Data transmission apparatus and method having clock gating mechanism,0,G06F|G11C
+12008260,2024-06-11,Method of storage space management for improving endurance of storage devices,0,G06F
+12008253,2024-06-11,Embedded system and method for updating firmware,0,G06F
+12007900,2024-06-11,Data accessing method and data accessing system capable of providing high data accessing performance and low memory utilization,0,G06F
+12001756,2024-06-04,Audio processing device capable of dynamically switching comparison criterion of audio dose,1,A61F|G01H|G06F|G10K|H04R|H04S
+11997480,2024-05-28,"Bluetooth communication system capable of increasing generation efficiency of cypher keys required for data transmission between Bluetooth host device and Bluetooth device set, and related Bluetooth device set",0,G06F|H04L|H04W
+11995797,2024-05-28,Super resolution image generating device,0,G06N|G06T
+11994961,2024-05-28,"Image display system, image processor circuit, and panel driving method",0,G06F|G09G
+11994923,2024-05-28,Dongle and method for controlling power delivery,0,G06F
+11991767,2024-05-21,Bluetooth communication system and related computer program product capable of reducing complexity of pairing bluetooth host device with bluetooth device set for user,0,H04W
+11991628,2024-05-21,Bluetooth mesh network system and connection method having wake-up management mechanism,0,H04W|Y02D
+11991517,2024-05-21,"Bluetooth communication system capable of increasing generation efficiency of cypher keys required for data transmission between bluetooth host device and bluetooth device set, and related bluetooth device set",0,G06F|H04L|H04W
+11991080,2024-05-21,Method of filtering packets in network switch and related filter,0,H04L
+11991011,2024-05-21,"Power supply device, power supply system and non-transitory computer-readable recording medium",0,G06F|H04L
+11989940,2024-05-21,Movie detection system and movie detection method,0,G06N|G06T|G06V
+11989798,2024-05-21,System and method for processing video,0,G06T|H04N
+11989130,2024-05-21,Device for packet processing acceleration,0,G06F|H04L
+11978497,2024-05-07,DDR SDRAM signal calibration device and method,0,G06F|G11C
+11977867,2024-05-07,Code checking method and non-transitory computer-readable recording medium device,0,G06F
+11977747,2024-05-07,Memory access apparatus and method having address scrambling mechanism,0,G06F
+11972720,2024-04-30,"Method for matching parameters applied to display device, and circuit system",0,G06F|G09G|H04N
+11972141,2024-04-30,Method for data transmission and data-processing circuit,0,G06F
+11966734,2024-04-23,Method for developing Android TV hybrid application,0,G06F
+11966531,2024-04-23,Capacitive sensing device and capacitive sensing method,0,G06F
+11960810,2024-04-16,"Chip, layout design system, and layout design method",0,G06F|Y02D
+11943609,2024-03-26,"Bluetooth communication system capable of increasing generation efficiency of cypher keys required for data transmission between bluetooth host device and bluetooth device set, and related bluetooth device set",0,G06F|H04L|H04W
+11943608,2024-03-26,"Bluetooth communication system capable of increasing generation efficiency of cypher keys required for data transmission between Bluetooth host device and Bluetooth device set, and related Bluetooth device set",0,G06F|H04L|H04W
+11943077,2024-03-26,Multidrop network system and network device,0,H04L
+11942992,2024-03-26,Operation method of network device and control chip of network device,0,H04B|H04L
+11936927,2024-03-19,"Transmission control system of multi-media signal, transmitter control circuit and receiver control circuit",0,G09G|H04N
+11929722,2024-03-12,Audio control circuit and associated control method,0,G06F|H03G
+11929019,2024-03-12,Method for processing static pattern in an image and circuit system,0,G06V|G09G|H04N
+11924631,2024-03-05,"Bluetooth communication system capable of increasing generation efficiency of cypher keys required for data transmission between bluetooth host device and bluetooth device set, and related bluetooth device set",0,G06F|H04L|H04W
+11923858,2024-03-05,Clock data recovery circuit,1,H03L|H04L
+11922608,2024-03-05,Image processing circuit and associated image processing method,1,G06T
+11914998,2024-02-27,Processor circuit and data processing method for load instruction execution,0,G06F
+11914706,2024-02-27,Circuit design method and associated circuit,0,G06F
+11910490,2024-02-20,"Multi-member Bluetooth device capable of dynamically switching operation mode, and related main Bluetooth circuit and auxiliary Bluetooth circuit",0,H04L|H04W
+11910312,2024-02-20,Method for WiFi module and system of the same,0,H04W|Y02D
+11910059,2024-02-20,Method for retrieving program data and circuit system,0,H04L|H04N
+11907738,2024-02-20,Image processing method and display device,0,G06F|G09G
+11900953,2024-02-13,Audio processing device and audio processing method,0,G09G|G10L|H04J|H04L
+11895434,2024-02-06,Video processor chip and video processing method,0,G09G|H04N
+11895358,2024-02-06,Image signal transmission apparatus and signal output circuit having DC gain maintaining mechanism thereof,0,H03F|H03G|H04N
+11895043,2024-02-06,Method for accessing system memory and associated processing circuit within a network card,0,H04L
+11892871,2024-02-06,Clock synchronization system and operation method thereof capable of synchronizing operation time of internal circuits,0,G06F
+11888755,2024-01-30,Multidrop network system,0,H04L
+11888487,2024-01-30,Phase interpolation device and multi-phase clock generation device,0,G06F|H03K
+11882030,2024-01-23,Network packet transmission device and network packet transmission method thereof,0,H04L
+11880678,2024-01-23,Chip having memory,0,G06F
+11880311,2024-01-23,Methods for controlling asynchronous FIFO memory and data transmission system utilizing the same,0,G06F|Y02D
+11875481,2024-01-16,Method and system for compensating image having fixed pattern noise,0,G06T
+11874307,2024-01-16,Signal detection circuit,0,G01R|G06F|H03F
+11870774,2024-01-09,Method and system for authentication data transmission,0,G06F|H04L
+11869700,2024-01-09,Inductor device,0,H01F|H01L|H03H|H10D
+11869168,2024-01-09,"Method for optimizing display image based on display content, related display control chip and related non-transitory computer-readable medium",0,G06T|G06V|G09G
+11864143,2024-01-02,Method for adjusting target clock and wireless device thereof,0,H04W
+11863449,2024-01-02,Communication device and network management method,1,H04L
+11861260,2024-01-02,"Audio control circuit, host device and associated control method",0,G05B|G06F|Y02D
+11861213,2024-01-02,Time-division memory control device,0,G06F|G11C
+11860804,2024-01-02,"Direct memory access (DMA) controller, electronic device using the DMA controller and method of operating the DMA controller",0,G06F
+11860709,2024-01-02,Power supply apparatus and method having power limiting mechanism,0,G06F
+11856300,2023-12-26,"Method for detecting interference patterns for under-screen camera, compensation method and circuit system",0,G06T|G06V|H04N
+11854643,2023-12-26,Signal processing system capable of performing voltage and frequency calibration,0,G06F|G11C|Y02D
+11853151,2023-12-26,Task abnormality detection system and embedded device detection method,0,G06F
+11848802,2023-12-19,Received data equalization apparatus and method,0,H04L
+11848290,2023-12-19,Semiconductor structure,0,H01F|H01L|H10D
+11846659,2023-12-19,"Power capability determination device, electronic device, and power capability determination method",0,G01R|G06F
+11843409,2023-12-12,Receiver and associated signal processing method,0,H04B|H04L
+11843401,2023-12-12,Transmitter with slew rate control,0,G06F|H03K|H04B|H04L
+11841740,2023-12-12,DP-out adapter and associated control method,0,G06F
+11838577,2023-12-05,Audio and video transmission system,0,G06F|H04N
+11838165,2023-12-05,Method for controlling a wireless communication system by selecting lengths of a guard interval and a long training field,0,H04L|H04W
+11836376,2023-12-05,Convolution time de-interleaver and method for operating a convolution time de-interleaver,0,G06F|H03M
+11831413,2023-11-28,Time-division multiplexing scheduler and scheduling device,0,H04L
+11829611,2023-11-28,Electronic device and hibernation recovery method thereof,0,G06F
+11829317,2023-11-28,"Cable, controller, and control method",0,G06F|Y02D
+11829310,2023-11-28,"Direct memory access (DMA) controller, electronic device using the DMA controller and method of operating the DMA controller",0,G06F
+11822848,2023-11-21,Display control method and related display control apparatus and display device,0,G06F|G06T|G09G|H04N
+11818555,2023-11-14,Bluetooth audio broadcasting system and related multi-member Bluetooth device supporting Bluetooth low energy audio broadcasting operations and capable of synchronously adjusting audio volume,1,G06F|H04M|H04R|H04W
+11816352,2023-11-14,"Electronic device, data strobe gate signal generator circuit and data strobe gate signal generating method",0,G06F|G11C|H03K|Y02D
+11809337,2023-11-07,Graphics processing device,0,G06F|G06T|H04N
+11809273,2023-11-07,Method for detecting flash memory module and associated system on chip,0,G06F
+11805037,2023-10-31,Latency adjustment method and data stream processing device,0,H04L
+11804840,2023-10-31,Integrated circuit with self-reference impedance,0,G05F|G06F|H01L|H03F|H03H|H03K|Y02D
+11804434,2023-10-31,Integrated circuit apparatus and power distribution network thereof,0,H01L
+11804238,2023-10-31,Optimization method for implementation of mel-frequency cepstral coefficients,0,G06F|G10L
+11803366,2023-10-31,Firmware updating system and method,0,G06F|H04L
+11800108,2023-10-24,Method for image compression and circuit system thereof,0,G06F|H04N
+11800075,2023-10-24,Asymmetric image transmission method and electronic device thereof,0,G09G|H04N
+11800054,2023-10-24,Multimedia audio/video system,0,G06F|G09G|H04N
+11799423,2023-10-24,Method of building oscillator frequency adjustment lookup table and associated transceiver,0,G06F|H03B
+11797223,2023-10-24,Basic storage unit management circuit and basic storage unit management method for idle basic storage units,0,G06F
+11791801,2023-10-17,Impedance control circuit capable of confirming connection status,0,G06F|H03H
+11785233,2023-10-10,Video interface conversion device and method,0,H04N
+11778405,2023-10-03,Audio processing device capable of dynamically adjusting basis for calculating audio dose,0,G01H|G06F|G10K|H04R|H04S
+11778196,2023-10-03,Method and circuit system for compressing video signals based on adaptive compression rate,0,H04N
+11777765,2023-10-03,"Signal transmission system, transmitter encoding apparatus and receiver decoding apparatus",0,H04J|H04L
+11777477,2023-10-03,Digital circuit device and voltage drop detector circuitry,0,G01R|G06F|H02H|H03K|Y02D
+11775255,2023-10-03,Sorting device,0,G06F
+11774993,2023-10-03,Power supply management device and power supply management method,0,G05F|G06F
+11770784,2023-09-26,Multi-member bluetooth device capable of reducing complexity of updating internal clock of bluetooth circuit,0,H04W
+11770524,2023-09-26,Loop filter utilized in encoder and associated signal processing method,0,H04N
+11765088,2023-09-19,Method and system for processing data flow with incomplete comparison process,0,H04L
+11764676,2023-09-19,Power supply circuit,0,G06F|H02M
+11762772,2023-09-19,Data processing apparatus and data accessing circuit,0,G06F|H03K
+11762768,2023-09-19,Accessing circuit of memory device and operation method about reading data from memory device,0,G06F
+11758266,2023-09-12,"Image system on chip, image capturing system including the same, and image capturing method",0,H04N|H10D
+11758211,2023-09-12,"Television system, control method and non-transitory computer readable medium",0,H04N
+11757800,2023-09-12,"Network interface device, electronic device containing same, and operation method of the network interface device",0,H04L
+11757789,2023-09-12,Electronic device and frame transmission method of electronic device,0,H04L
+11757772,2023-09-12,Stacking switch unit and method used in stacking switch unit,0,H04L
+11755307,2023-09-12,Storage circuit and operation method,0,G06F
+11751153,2023-09-05,Multi-member bluetooth device capable of synchronizing audio playback between different bluetooth circuits,0,H04W
+11750800,2023-09-05,Encoder and associated signal processing method,0,H04N
+11750524,2023-09-05,Wireless communication system and transmission rate control method,0,H04L
+11750434,2023-09-05,Multidrop network system and network device,0,G06F|G06N|H04L
+11750000,2023-09-05,Electronic device having USB power delivery function,1,G06F|H01R|H02H|H02J
+11749296,2023-09-05,Voice capturing method and voice capturing system,0,G06N|G10L|H04R
+11740858,2023-08-29,Ultrasound-based audio playback method and ultrasound-based electronic device,0,G06F|H04R
+11740651,2023-08-29,Clock multiplexer device and clock switching method,0,G06F|H03K
+11736319,2023-08-22,Wireless communication device and packet protection method thereof,0,H04L
+11735195,2023-08-22,Signal transmission method and apparatus for transmission of data over audio transmission interface,0,G06F|G10L
+11734956,2023-08-22,Processing circuit and processing method applied to face recognition system,0,G06F|G06V
+11734215,2023-08-22,Signal processing system and method for identifying and pairing a signal transmitting device,0,G06F
+11734212,2023-08-22,Bus interconnection system and method for detecting bad routing by the same,0,G06F|H04L
+11729701,2023-08-15,Distribution network system and method,0,H04L|H04W
+11728793,2023-08-15,Four-phase twenty-five percent duty cycle clock generator,0,G06F|H03K
+11726142,2023-08-15,Integrated circuit self-repair method and integrated circuit thereof,0,G01R|G06F|G11C
+11722873,2023-08-08,Bluetooth mesh network system and connection method having communication range extending mechanism,0,H04W
+11722423,2023-08-08,Data flow classification device,0,H04L
+11722252,2023-08-08,Bluetooth communication device and data transmission method,0,G06F|H04L|H04W
+11720486,2023-08-08,Memory data access apparatus and method thereof,0,G06F
+11720275,2023-08-08,"File reading method, non-transitory computer readable storage medium, and communication device for reading file from non-volatile memory",0,G06F
+11716220,2023-08-01,Ethernet transceiver device and ethernet physical-layer circuit,0,H04B|H04L
+11716116,2023-08-01,Analog echo cancelation method,0,H04B|H04L
+11714777,2023-08-01,Method for performing data transmission control of inter field programmable gate arrays and associated apparatus,0,G06F
+11714608,2023-08-01,Device and method for handling programming language function,0,G06F
+11714555,2023-08-01,Control module and control method thereof for synchronous dynamic random access memory,0,G06F|G11C
+11709651,2023-07-25,Bluetooth audio broadcasting system and related multi-member Bluetooth device supporting Bluetooth low energy audio broadcasting operations and capable of synchronously adjusting audio volume,0,G06F|H04M|H04R
+11709650,2023-07-25,Bluetooth audio broadcasting system and related multi-member Bluetooth device supporting Bluetooth low energy audio broadcasting operations and capable of synchronously adjusting audio volume,0,G06F|H04R|H04W
+11704215,2023-07-18,Central processing unit,0,G06F
+11703910,2023-07-18,"Docking station, electrical device, and method for configuring basic input output system",0,G06F|H04L
+11700521,2023-07-11,Bluetooth communication system and related bluetooth devices capable of initiating auto-pairing procedure without using bluetooth advertising packets,0,H04W
+11700155,2023-07-11,Receiving circuit of deserializer,0,H04B|H04L
+11695596,2023-07-04,Multi-level signal transmitter and method thereof,0,H04L
+11694743,2023-07-04,Chip and associated chip system,0,G06F|G11C
+11693474,2023-07-04,Circuitry applied to multiple power domains,0,G06F|H03F|Y02D
+11689762,2023-06-27,Method for switching audiovisual interfaces and circuit system,0,H04N
+11681489,2023-06-20,Circuit and method for controlling audio adapter,0,G06F|H04M
+11677394,2023-06-13,Signal output apparatus and method,0,G06F|H03K
+11671811,2023-06-06,Bluetooth communication system and related Bluetooth devices capable of implementing auto-pairing function without supporting Bluetooth low energy technology,0,H04B|H04W
+11671553,2023-06-06,Video signal processing method for brightness adjustment,0,G09G|H04N
+11671236,2023-06-06,Receiver and associated signal processing method,0,H03K|H03M|H04L|H04N
+11670669,2023-06-06,Integrated transformer,0,H01F|H01L|H10D
+11670446,2023-06-06,Helical stacked integrated inductor and transformer,0,H01F|H01L|H10D
+11669445,2023-06-06,Method for establishing hierarchical look-up tables and/or inquiring memory address according to hierarchical look-up tables,0,G06F
+11669339,2023-06-06,Hardware setting device and hardware setting method thereof,0,G06F
+11669138,2023-06-06,Chip and neural network-based method for adjusting current,0,G06F|G06N|Y02D
+11665336,2023-05-30,Estimation method for signal quality indicator of advanced television systems committee standards,0,H04B|H04L|H04N
+11663698,2023-05-30,Signal processing method for performing iterative back projection on an image and signal processing device utilizing the same,0,G06T
+11659136,2023-05-23,Data conversion and high definition multimedia interface receiving device,0,G09G|H04N
+11658852,2023-05-23,Signal relay apparatus and method having frequency calibration mechanism,0,H03L|H04L
+11658837,2023-05-23,Multicast packet replication method,0,H04L|H04Q
+11653102,2023-05-16,Image retrieving apparatus having image flicker detection mechanism and image flicker detection method of the same,0,H04N
+11651495,2023-05-16,Method and system for image correction,0,G06T|H04N
+11647332,2023-05-09,"Bluetooth communication system capable of avoiding voice interruption, and related Bluetooth device set",3,G06F|G10L|H04L|H04M|H04R|H04W|Y02D
+11646738,2023-05-09,Processor with adjustable operating frequency,0,G06F|H03K|Y02D
+11645739,2023-05-09,Image processing method and image processing system,0,G06F|G06T|G06V
+11645734,2023-05-09,Circuitry for image demosaicing and contrast enhancement and image-processing method,1,G06T|H04N
+11640658,2023-05-02,Multi-path image processing apparatus and method,0,G06T|H04N
+11638209,2023-04-25,Wireless access point and station applied in wireless communication system and communication method,0,H04W|Y02D
+11636573,2023-04-25,Image processing method and image processing device,0,G06T|H04N
+11636243,2023-04-25,Method and system for recording integrated circuit version,0,G06F
+11632824,2023-04-18,Method for actively verifying whether candidate peer is mesh gate and method for determining primary mesh gate,0,H04L|H04W
+11632229,2023-04-18,"Signal transceiver circuit, method of operating signal transmitting circuit, and method of setting delay circuit",0,H04B|H04L
+11630600,2023-04-18,Device and method for checking register data,0,G06F
+11630503,2023-04-18,Methods for multidrop network system,0,G06F|H04L|Y02D
+11630498,2023-04-18,Powering method and powering system for Power over Ethernet,0,G06F|H04L
+11625344,2023-04-11,"Transmission control circuit, data transmission system using different data formats, and operating method thereof",0,G06F|H04L
+11622263,2023-04-04,Wireless repeater device and configuration method for the same,0,H04L|H04W
+11621221,2023-04-04,Ball grid array package and package substrate thereof,0,H01L
+11616012,2023-03-28,Patterned shielding structure,0,H01L|H10D
+11615766,2023-03-28,Control method for magnifying display screen and associated display system,1,G06F|G09G
+11614919,2023-03-28,Circuit,0,G06F|H03K
+11612007,2023-03-21,Low power dissipation Bluetooth mesh network system and communication method,0,H04W|Y02D
+11611801,2023-03-21,Control method applied to electronic device and associated electronic device and processor,0,G06F|H04N|H04W|Y02D
+11606759,2023-03-14,Wireless signal receiving device and method,0,H04B|H04W|Y02D
+11606095,2023-03-14,Operating clock generator and reference clock gating circuit,0,G06F|H03K|H03L|Y02D
+11604900,2023-03-14,Data decryption system and data decryption method,0,G06F|H03K
+11601758,2023-03-07,"Audio signal processing chip, multichannel system, and audio signal processing method",0,G06F|H04R
+11601375,2023-03-07,Electronic device and frame transmission method of electronic device,0,H04L|H04W
+11599287,2023-03-07,Method and apparatus for bad block management in flash memory,0,G06F
+11599142,2023-03-07,"Timing generator, timing generating method, and associated control chip",0,G06F
+11595887,2023-02-28,Method for grouping WiFi STAs and associated apparatus,0,H04W|Y02D
+11589391,2023-02-21,Communication device and collision detection method,0,H04L|H04W
+11588666,2023-02-21,"Signal transmission system, transmitter encoding apparatus and receiver decoding apparatus",0,H04J|H04L
+11588612,2023-02-21,Communication chip,0,H03C|H04L
+11588010,2023-02-21,Capacitor structure,0,H01L|H10D
+11587884,2023-02-21,Patterned ground shield device including multiple pattered ground shield layers,0,H01F|H01L
+11587207,2023-02-21,Image debanding method,0,G06T|H04N
+11582504,2023-02-14,Image signal transmission apparatus and signal output circuit applying bandwidth broadening mechanism thereof,0,H03F|H03G|H04N
+11579969,2023-02-14,Verifying method for ECC circuit of SRAM,1,G06F|G11C
+11579643,2023-02-14,Adaptive voltage scaling scanning method and associated electronic device,0,G05F|G06F|H02M|Y02D
+11575610,2023-02-07,Data flow classification device,0,H04L
+11570606,2023-01-31,Bluetooth controller circuit for reducing possibility of noise generation,0,H03L|H04W|Y02D
+11570489,2023-01-31,High definition multimedia interface transmission device and control method thereof,0,H04N
+11570103,2023-01-31,Network communication device and operating method for a network mapping table,0,H04L
+11570081,2023-01-31,Multi-member bluetooth device capable of dynamically switching operation mode,2,H04L|H04W
+11569869,2023-01-31,Transceiving circuit,0,G06F|H02H|H04B
+11569813,2023-01-31,USB signal output circuit and operation method thereof having reverse current prevention mechanism,0,G06F|H02H|H03K
+11563691,2023-01-24,Time-division multiplexing scheduler and scheduling device,0,H04L
+11561590,2023-01-24,Temperature control method for communication system involving adjusting transmission rate according to average temperature of chips,0,G06F|H04W|H05K|Y02D
+11558361,2023-01-17,"Communication method between mesh network and cloud server, mesh network system and node device thereof",0,H04L
+11557535,2023-01-17,Semiconductor device and metal-oxide-semiconductor capacitor structure,0,H01L|H10D|H10K
+11553276,2023-01-10,Audio codec circuit,0,G06F|H04R
+11552659,2023-01-10,Transmission circuit and transmission system adopting reduced number of interfaces,0,H03M|H04B|H04L
+11550710,2023-01-10,Data processing method and memory controller utilizing the same,0,G06F|G11C
+11546829,2023-01-03,Bluetooth mesh network system and communication method having unprovisioned communication mechanism,0,H04L|H04W|Y02D
+11546653,2023-01-03,Digital broadcast receiving device and related receiving method,0,H04N
+11546002,2023-01-03,"Transmitter, receiver and transceiver",0,H04B|H04L
+11545113,2023-01-03,Display control integrated circuit applicable to performing multi-display processing in display device,0,G06F|G09G
+11538195,2022-12-27,Method and system for processing image data,0,G06T|H03M|H04N
+11523117,2022-12-06,Encoder using coding tree unit level adaptive quantization mode to adjust frame level quantization parameter and associated signal processing method,0,H04N
+11522668,2022-12-06,Receiver circuit and method capable of accurately estimating time offset of signal,0,H04B|H04L
+11522643,2022-12-06,Wireless communication device and wireless communication method,0,H04L|H04W
+11522573,2022-12-06,Transceiver apparatus and transceiver apparatus operation method thereof having phase-tracking mechanism,0,H03L|H04B|H04L
+11520730,2022-12-06,"Data transfer system, circuit, and method",0,G06F
+11516449,2022-11-29,Pixel value calibration method and pixel value calibration device,0,G06T|H04N
+11516430,2022-11-29,Video processing method and video processor,0,G09G|H04N
+11514580,2022-11-29,Image processing circuit and method,0,G06T|G06V
+11514167,2022-11-29,Computer system having firmware verification mechanism and firmware verification method of the same,0,G06F|H04L
+11510151,2022-11-22,Multi-transceiver wireless communication device capable of adequately adjusting parameters for Bluetooth transceiver,0,H04W
+11509428,2022-11-22,Data transmission method and apparatus having data reuse mechanism,1,H03M|H04L
+11507718,2022-11-22,Chip verification system and verification method therefor,1,G01R|G06F
+11507706,2022-11-22,Verification method and system,0,G06F|H04L
+11507485,2022-11-22,Universal profiling device and method for simulating performance monitoring unit,1,G06F
+11501845,2022-11-15,"Data access system, and method for operating a data access system",0,G06F|G11C
+11501416,2022-11-15,Image processing method and image processing circuit capable of smoothing false contouring without using low-pass filtering,0,G06F|G06T|H04N
+11501414,2022-11-15,Debanding determination method for image and debanding determination circuit thereof,0,G06T|H04N
+11500776,2022-11-15,Data write system and method with registers defining address range,0,G06F
+11496960,2022-11-08,Root node selection system,0,H04W
+11496847,2022-11-08,State detection device for use in an audio interface,0,G01R|G06F|H01R|H04R
+11495242,2022-11-08,"Audio processing method, audio processing device, and associated non-transitory computer-readable medium",0,G06N|G10L
+11494869,2022-11-08,Image processor having a compressing engine performing operations on each row of M*N data block,0,G06F|G06T|H04N
+11494305,2022-11-08,Linked list searching method and linked list searching device,0,G06F
+11494262,2022-11-08,Electronic device having one-time-programmable (OTP) memory and method for writing and reading OTP memory,0,G06F
+11493944,2022-11-08,Electronic device system and power delivery method,0,G05F|G06F
+11490141,2022-11-01,Control signal transmission circuit and control signal receiving circuit for audio/video interface,0,G09G|H04N
+11490139,2022-11-01,Scaler integrated circuit applicable to performing multi-picture processing in display device,0,G06F|G09G|H04L|H04N
+11489744,2022-11-01,Communication device and method for dynamically adjusting packet detection threshold,0,H04B|H04L
+11489640,2022-11-01,Device and method of performing reception and transmission of WLAN signals,1,H04L|H04W
+11488286,2022-11-01,"Method for determining Moire pattern, method for suppressing Moire pattern and circuit system thereof",0,G06T|H04N
+11487659,2022-11-01,Data storage system capable of performing interleaving scatter transmissions or interleaving gather transmissions,0,G06F
+11481347,2022-10-25,Data transmission system and resource allocation method thereof,0,G06F|G06N
+11477066,2022-10-18,Packet detection method and communication device,0,H04L
+11474805,2022-10-18,System capable of upgrading firmware in background and method for upgrading firmware in background,0,G06F
+11474789,2022-10-18,Power supplier circuit and operation method,0,G06F|G10L|H03K|H04R
+11467989,2022-10-11,Serial transmission system and serial transmission method,0,G06F
+11463653,2022-10-04,Video transmission system,0,G09G|H04N
+11461868,2022-10-04,Image processing device,0,G06T|H04N
+11461255,2022-10-04,"Electronic device, network switch, and interrupt transmitting and receiving method",2,G06F|H04L
+11457421,2022-09-27,Auxiliary bluetooth circuit of multi-member bluetooth device capable of reducing complexity of updating internal clock of bluetooth circuit,0,H04W
+11457287,2022-09-27,Method and system for processing video,0,H04N
+11457266,2022-09-27,Method for synchronizing audio and video and related apparatus,0,H04N
+11456895,2022-09-27,Channel estimation method,0,H04L
+11456753,2022-09-27,Signal processor and signal processing method,0,H03M|H04L
+11456706,2022-09-27,Audio processor circuit and audio processing method,0,H03F|H04N
+11455449,2022-09-27,Method for determining IC voltage and method for finding relation between voltages and circuit parameters,0,G06F
+11455266,2022-09-27,Universal serial bus device and host,0,G06F|H03K
+11455179,2022-09-27,Processing system and processing method for performing emphasis process on button object of user interface,1,G06F|G06N|G06V
+11455034,2022-09-27,Method for setting display mode of device according to facial features and electronic device for the same,0,G06F|G06V|G09G|H04N
+11454997,2022-09-27,Dynamic voltage compensation circuit and method thereof,0,G05F|G06F
+11454663,2022-09-27,Signal processing method,0,G01R|H01L|H04L
+11452155,2022-09-20,Transmitting-end bluetooth device and receiving-end bluetooth device,0,H04W
+11451899,2022-09-20,"Bluetooth earphone system, and earphone case for storing and charging Bluetooth earphones",0,H04R|H04W
+11451416,2022-09-20,Signal equalizer and signal equalizing method,0,H04L
+11450599,2022-09-20,Semiconductor component,0,H01F|H01L|H10D
+11450398,2022-09-20,Method of testing slave device of inter-integrated circuit bus,0,G06F|G11C
+11449614,2022-09-20,Computer system and electronic apparatus having secure boot mechanism and operation status restoring method thereof,0,G06F|H04L
+11445440,2022-09-13,Bluetooth mesh network system and connection method having power management mechanism,0,H04W|Y02D
+11444842,2022-09-13,Network switch and network switch system thereof,0,H04L
+11442718,2022-09-13,Embedded system and method of controlling non-volatile memory to perform firmware update,0,G06F
+11438928,2022-09-06,Methods for adjusting transmission parameters and communication device utilizing the same,0,H04W
+11436105,2022-09-06,Data processing method and memory controller utilizing the same,0,G06F
+11431524,2022-08-30,Internet of things network system and networking method thereof,0,G16Y|H04L|H04W
+11431440,2022-08-30,"Iterative detection and decoding circuit, iterative detection and decoding method and MIMO receiver",0,H04B|H04L
+11424746,2022-08-23,Reference-less clock and data recovery device and method,1,H03L|H04L
+11424206,2022-08-23,"Chip package module including flip-chip ground pads and power pads, and wire-bonding ground pads and power pads",0,H01L
+11423635,2022-08-23,Method for processing image using fully connected convolutional neural network and circuit system,0,G06F|G06N|G06T|G06V
+11422964,2022-08-23,Image processing chip,0,G06F|H03M
+11418756,2022-08-16,Signal enhancement relay apparatus and method,1,G09G|H04N
+11418639,2022-08-16,Network data playback system and method,0,H04L|H04M|H04W
+11418355,2022-08-16,Power sourcing equipment and connection checking method,1,H02M|H04L
+11418275,2022-08-16,Audio playback system and method,0,G06F|H04J|H04W
+11417334,2022-08-16,Dynamic speech recognition method and apparatus therefor,0,G06F|G10L
+11416966,2022-08-16,Method and system for image scaling and enhancement,0,G06T
+11416665,2022-08-16,"Power rail design method, apparatus and non-transitory computer readable medium thereof",0,G06F
+11416219,2022-08-16,True random number generator and method for generating true random number,0,G06F
+11412576,2022-08-09,Auxiliary Bluetooth circuit of multi-member Bluetooth device capable of dynamically switching operation mode,0,H04L|H04W
+11412302,2022-08-09,Detection circuit and wake-up method,1,G09G|H04N
+11411729,2022-08-09,Receiving circuit and signal processing method for high definition multimedia interface,0,G06F|G09G|H04L
+11408909,2022-08-09,Step counting device and method,0,A61B|A63B|G01P|G06F
+11405880,2022-08-02,Main Bluetooth circuit and auxiliary Bluetooth circuit of multi-member Bluetooth device capable of synchronizing audio playback between different Bluetooth circuits,1,H04W
+11404134,2022-08-02,Memory device test circuit and memory device test method,1,G06F|G11C
+11403242,2022-08-02,Control method of multiple memory devices and associated memory system,0,G06F|G11C
+11403040,2022-08-02,Flash memory device that simulates operations of EEPROM and data programming and reading method thereof,0,G06F
+11399052,2022-07-26,Timestamp processing methods for streaming media,1,H04L
+11398206,2022-07-26,"Signal transmission device, dongle device and adaptor cable",0,G09G|H04N
+11398046,2022-07-26,Object position determination circuit,0,G06F|G06T|G06V
+11397581,2022-07-26,Data transmission system capable of perform union task with a plurality of channel control modules,0,G06F
+11397531,2022-07-26,Method and apparatus for performing data protection regarding non-volatile memory,0,G06F
+11393130,2022-07-19,Image compression method and image compressor,0,G06T|H03M|H04N
+11388368,2022-07-12,Processor and display method,0,G09G|H04N
+11388115,2022-07-12,Circuit within switch and method for managing memory within switch,0,H04L
+11387315,2022-07-12,Patterned shielding structure and integrated inductor,0,H01L|H10D
+11387034,2022-07-12,Asymmetric spiral inductor,0,H01F|H01L|H10D
+11385894,2022-07-12,Processor circuit and data processing method,1,G06F
+11385675,2022-07-12,"Multi-chip system, chip, and clock synchronization method",0,G06F|H03L
+11382045,2022-07-05,Device and method of handling a transmission based on spatial reuse,0,H04B|H04W
+11382041,2022-07-05,Methods for dynamically adjusting wake-up time and communication device utilizing the same,0,H04W|Y02D
+11381942,2022-07-05,Playback system and method,0,G06F|H04W
+11381912,2022-07-05,Method and audio receiver capable of effectively reducing or avoiding current noise,0,G06F|H04R
+11381796,2022-07-05,Image-sensing device and method for auto white balance therefor,0,H04N
+11381427,2022-07-05,Continuous-time linear equalizer of compact layout and high immunity to common-mode noise,3,H03F|H03G|H04L
+11379956,2022-07-05,Image processing circuit and associated image processing method,1,G06T
+11379396,2022-07-05,Memory card access module and memory card access method,2,G06F|G06K
+11375579,2022-06-28,"Multi-member Bluetooth device capable of adaptively switching operation mode in response to data type change of received packets, and related main Bluetooth circuit and auxiliary Bluetooth circuit",0,H04L|H04W
+11374553,2022-06-28,Signal processing device and signal processing method,0,G06F|H03H
+11373637,2022-06-28,Processing system and voice detection method,0,G06F|G10L
+11372799,2022-06-28,Serial data processing device and data offset calibration method,0,G06F
+11372558,2022-06-28,Method for accessing one-time-programmable memory and associated circuitry,0,G06F|G11C
+11363675,2022-06-14,Mesh network system,0,H04L|H04W
+11361746,2022-06-14,Audio playback apparatus and method having noise-canceling mechanism,0,G06F|G10K|G10L|H04R
+11356142,2022-06-07,Transceiver and signal processing method applied in transceiver,0,H03K|H03M|H04B|H04L
+11354255,2022-06-07,Processing chip having different modes and corresponding chip system and operation method of the same,0,G06F
+11350296,2022-05-31,Packet detecting method of a wireless signal and packet detecting system of the wireless signal capable of identifying adjacent channel interference,0,H04J|H04L|H04W
+11343664,2022-05-24,Bluetooth mesh network system and control method having control authority sharing mechanism,0,H04W
+11343526,2022-05-24,Method of video processing for calibrating motion vectors,1,G06T|H04N
+11336943,2022-05-17,Method and electronic device for detecting resolution,0,G06T|H04N
+11336489,2022-05-17,Method of configuring decision feedback equalizer and related decision feedback equalizer thereof,1,H04L
+11336434,2022-05-17,Internet of things networking authentication system and method thereof,0,H04L
+11336394,2022-05-17,"Receiver device, receiver system, and operation method",0,H04L
+11334506,2022-05-17,"Interface connection device, system and method thereof",0,G06F|Y02D
+11334143,2022-05-17,Processing system and control method wherein a microprocessor configured to set a plurality of memories into a self-refresh mode and a main processor in a standby mode,0,G06F|Y02D
+11330152,2022-05-10,Image display system and image data transmission apparatus and method thereof having synchronous data transmission mechanism,0,G09G|H04L|H04N
+11329763,2022-05-10,Decoding method and associated circuit,0,H03M|H04L
+11323125,2022-05-03,Transceiver circuit and self-calibration method,0,H03K|H03L|H04B|H04L
+11322474,2022-05-03,Semiconductor package,1,H01L
+11321232,2022-05-03,Method for simultaneously accessing first DRAM device and second DRAM device and associated memory controller,0,G06F|G11C
+11317069,2022-04-26,Image processing method based on sensor characteristics,0,H04N
+11314912,2022-04-26,"IC design data base generating method, IC design method, and electronic device using the methods",0,G06F
+11314683,2022-04-26,Circuitry applied to electronic device having USB type-c connector and associated electronic device,0,G06F
+11310835,2022-04-19,Resource allocation method and resource allocation system with low hardware complexity,0,H04W
+11310460,2022-04-19,Image processing method,0,G06F|G09G|H04N
+11309928,2022-04-19,Receiver and channel estimation method,0,H04B|H04L
+11309875,2022-04-19,Frequency doubler using recirculating delay circuit and method thereof,0,G06F|H03B|H03K
+11308010,2022-04-19,Memory system having memories of different capacities,0,G06F
+11303640,2022-04-12,Circuit and packet processing method used in network device,0,H04L
+11302470,2022-04-12,Semiconductor element,0,H01F|H01L|H10D
+11302243,2022-04-12,Image display system and image data transmission apparatus and method thereof having synchronous data transmission mechanism,0,G09G|H04N
+11301963,2022-04-12,Image processing method and image processing circuit,0,G06T
+11296711,2022-04-05,Clock control device and clock control method,0,H03L|H04L
+11290579,2022-03-29,"Communication system, communication method, and mac circuit",0,H04L|H04W
+11290306,2022-03-29,Signal processing devices and signal processing methods,0,H04L
+11290148,2022-03-29,Operation method and receiver device,0,H04B|H04L
+11290132,2022-03-29,Data decoding circuit and method,0,H03M|H04L
+11288223,2022-03-29,Bridge chip with function of expanding external devices and associated expansion method,1,G06F
+11288219,2022-03-29,USB switching circuit and electronic apparatus having the same,0,G06F
+11283653,2022-03-22,Decision feedback equalizer and related control method,0,H04L
+11283590,2022-03-22,Apparatus and method of controlling a multi-antenna communication system,0,H04B|H04L
+11283465,2022-03-22,"Network data prediction method, network data processing device and network data processing method",0,H03M|H04L
+11281516,2022-03-22,Error handling method and associated error handling architecture for transmission interfaces,1,G06F|H04L
+11281274,2022-03-22,Method for USB power receiving device selecting power supply option,0,G06F
+11275966,2022-03-15,Calculation method using pixel-channel shuffle convolutional neural network and operating system using the same,0,G06F|G06N|G06V
+11272222,2022-03-08,Bit rate control method and video processing device,0,H04N
+11271678,2022-03-08,"Encoding method, related transmitter apparatus and related receiver apparatus for wireless local area network",2,H03M|H04L|H04W
+11270745,2022-03-08,Method of foreground auto-calibrating data reception window and related device,1,G06F|G11C
+11270442,2022-03-08,Motion image integration method and motion image integration system capable of merging motion object images,0,G06T
+11269797,2022-03-08,Method and system for controlling data response with aid of attribute of transaction identifier,1,G06F
+11269399,2022-03-08,Front chip for data transmission system,0,G06F
+11269371,2022-03-08,Method and apparatus for high speed clock distribution,2,G06F|H04L
+11264352,2022-03-01,Electronic package structure with a core ground wire and chip thereof,0,H01L
+11258647,2022-02-22,Receiver and associated signal processing method,0,H04L
+11252457,2022-02-15,Multimedia streaming and routing apparatus and operation method of the same,0,H04L|H04N
+11252372,2022-02-15,Payload mapper and payload mapping method,0,G09G|H04L|H04N
+11252304,2022-02-15,Skin color image gamut weight detecting method and device thereof,0,G06T|H04N
+11251999,2022-02-15,Symbol boundary detection method and processor,0,H04B|H04L
+11251801,2022-02-15,Frequency adjusting apparatus and frequency adjusting method,0,G06F|H03L
+11251701,2022-02-15,Control chip supporting consumer electronics control protocol and high voltage tolerant output circuit thereof,0,G09G|H02M|H03F|H03K|H04N|Y02B
+11250985,2022-02-15,Semiconductor element,0,H01F|H01L|H10D
+11249931,2022-02-15,Pin multiplexer and method for controlling pin multiplexer,0,G06F
+11246102,2022-02-08,Wireless communication device and dynamic anti-interference method for the same,0,H04B|H04W
+11245896,2022-02-08,Deblocking filter level decision method,0,H04N
+11245411,2022-02-08,Receiver and associated signal processing method,0,H03M|H04B|H04L
+11244724,2022-02-08,Content addressable memory device,0,G06F|G11C
+11240352,2022-02-01,Compressor and decompressor based on Robust Header Compression,0,H04L|H04W
+11240178,2022-02-01,Data transmission method and data transmission system,0,H04L
+11239025,2022-02-01,Inductive device having electromagnetic radiation shielding mechanism and manufacturing method of the same,0,H01F|H01L|H10D
+11233985,2022-01-25,Method for video quality detection and image processing circuit using the same,0,G06T|H04N
+11231759,2022-01-25,Power performance management method and electronic device,0,G01K|G06F|Y02D
+11228313,2022-01-18,Signal transmission circuit,0,G06F|H03K|Y02D
+11227854,2022-01-18,Semiconductor package,0,H01L
+11227851,2022-01-18,Control device and circuit board,0,H01L|H05K
+11226757,2022-01-18,Hot plug memory device data protection method,1,G06F
+11223749,2022-01-11,"Scaler, display device and associated data processing method",2,G09G|H04N
+11221969,2022-01-11,Method and control chip for performing access control of memory device,0,G06F
+11218149,2022-01-04,Multiplexer device and signal switching method,0,H03K|H04L
+11218119,2022-01-04,Communication system and output power linearization method thereof,0,H03F|H04B|H04L
+11216398,2022-01-04,USB device and data transfer method thereof,1,G06F
+11210985,2021-12-28,Signal processing method for maintaining signal relative relationship and electronic device thereof,1,G09G|H04N
+11206568,2021-12-21,Router and routing method,0,H04L|H04W
+11206159,2021-12-21,Signal equalization apparatus and signal equalization method,1,H04L
+11202256,2021-12-14,Low-power wireless mesh network,0,H04W|Y02D
+11200828,2021-12-14,Method for matching color temperature of display and system thereof,1,G06F|G09G
+11200681,2021-12-14,Motion detection method and motion detection system with low computational complexity and high detection accuracy,2,G06T|G06V
+11200422,2021-12-14,Method and system for pixel channel imbalance compensation for image sensing circuit,0,G06F|G06T|G06V
+11197201,2021-12-07,Wireless communication device and method of controlling same,0,H04L|H04W
+11196455,2021-12-07,"Isolation estimation system, isolation estimation method, and processor circuit",1,H04B|H04W
+11194945,2021-12-07,"Clock deadlock detecting system, method, and non-transitory computer readable storage medium",0,G06F|H03L
+11190283,2021-11-30,Polar system and delay difference calibration method,0,H04B|H04L
+11190225,2021-11-30,Transmitter with self-interference calibration ability and transmission method with self-interference calibration ability,0,H03L|H04B|H04L
+11184214,2021-11-23,Device and method of performing signal compensation,0,H04L
+11184209,2021-11-23,Signal processing circuit in digital domain and method thereof,0,H04L
+11176039,2021-11-16,Cache and method for managing cache,0,G06F
+11172517,2021-11-09,Method and apparatus for performing spatial reuse enhancement in multiple station environment,0,H04W
+11171767,2021-11-09,Signal processing circuit and signal processing method,0,H04B|H04L
+11171740,2021-11-09,Transceiver and operation method of the same,2,H04B|H04L
+11169947,2021-11-09,Data transmission system capable of transmitting a great amount of data,0,G06F
+11166138,2021-11-02,Low-power wireless mesh network,0,H04L|H04W|Y02D
+11165985,2021-11-02,Circuitry and method for detecting audio standard of sound intermediate frequency signal,0,H04N
+11165615,2021-11-02,Data shifting operation apparatus and method having multiple operation modes,0,H03M|H04L
+11163355,2021-11-02,Communication apparatus having power saving mode and capable of saving more power in power saving mode,0,G06F|Y02D
+11163003,2021-11-02,Electronic device test database generating method and electronic device test database generating apparatus,0,G01R|G06F
+11157769,2021-10-26,Image processing circuit and associated image processing method,0,G06F|G06N|G06V
+11153233,2021-10-19,Network packet receiving apparatus and method,0,G06F|H04L
+11153120,2021-10-19,Gateway controlling chip and network packet processing method,0,H04L|H04W
+11152964,2021-10-19,Signal transmitter device and calibration method,0,H04B|H04L
+11152963,2021-10-19,Clear channel assessment policy determination method and communication system thereof,0,H04B|H04L|H04W
+11151977,2021-10-19,Audio playback apparatus and method having a noise-canceling mechanism,0,G06F|G10K
+11151065,2021-10-19,"Method for performing detection control of write protection function of memory device, associated control chip and associated electronic device",2,G06F
+11144370,2021-10-12,"Communication method for virtual machines, electronic device, and non-transitory computer readable storage medium",0,G06F
+11144305,2021-10-12,Method for updating IC firmware,1,G06F
+11144205,2021-10-12,Audio playback device and operation method of the same,1,G05B|G06F
+11138142,2021-10-05,Adaptive interface circuit,0,G06F
+11137971,2021-10-05,Data packing circuit and data packing method,0,G06F|H04N
+11134367,2021-09-28,Main bluetooth circuit of multi-member bluetooth device capable of dynamically switching operation mode,0,H04L|H04W
+11133961,2021-09-28,Communication apparatus and digital to analog conversion circuit thereof,0,H04B|H04L
+11133280,2021-09-28,Integrated circuit chip and configuration adjustment method for the same,1,H01L|H03K|H05K
+11132304,2021-09-28,Data accessing device and method,0,G06F|H04L
+11128842,2021-09-21,Image processing method and associated image processing circuit,0,H04N
+11128272,2021-09-21,Dual-path analog-front-end circuit and dual-path signal receiver,1,H03F|H03M|H04L
+11127329,2021-09-21,Display device and image display method,0,G06F|G09G|H04N
+11127125,2021-09-21,Image processing circuit and associated image processing method,0,G06T
+11126233,2021-09-21,Interface bridge circuit capable of reducing heat generation,0,G06F|Y02D
+11126211,2021-09-21,Chip package assembly and chip function execution method thereof,1,G05F|G06F|H03G|H03K|H04R
+11122305,2021-09-14,Multimedia streaming and network apparatus,0,G06F|H04N
+11122291,2021-09-14,Apparatus and method for motion estimation of isolated objects,0,G06T|H04N
+11122188,2021-09-14,Image noise reduction device and method thereof,1,G06T|H04N
+11121931,2021-09-14,Method and apparatus for performing dynamic statistical period adjustment regarding rate adaption,0,H04L
+11119962,2021-09-14,Apparatus and method for multiplexing data transport by switching different data protocols through a common bond pad,0,G06F|H01L
+11119959,2021-09-14,Data communication and processing method of master device and slave device,1,G06F
+11115738,2021-09-07,Bandwidth allocation apparatus for use in oversubscription network switching and related network switch,0,H04L|H04Q
+11115260,2021-09-07,Signal compensation device,1,H03F|H03G|H04B|H04L
+11115178,2021-09-07,Clock and data recovery device and clock and data recovery method,2,H03L|H03M|H04L
+11115143,2021-09-07,Electronic apparatus with data transceiving mechanism and data transceiving method,0,G06F|H04B|H04J
+11109446,2021-08-31,"Method for wireless connection, method for actively verifying whether candidate peer is mesh gate, and method for determining primary mesh gate",0,H04L|H04W
+11109209,2021-08-31,"Bluetooth device, method of operating bluetooth device, and non-transitory computer readable storage medium",1,H04L|H04N|H04W
+11109158,2021-08-31,Audio adjustment method and associated audio adjustment circuit for active noise cancellation,1,H04L|H04R
+11101832,2021-08-24,Receiver able to detect radio frequency interference,1,H04B|H04L
+11095466,2021-08-17,Packet transmission control method and packet transmission circuit,0,H04L|Y02D
+11094652,2021-08-17,Configurable radio transceiver and method thereof,4,H01L|H01Q|H03F|H04B|H05K
+11093434,2021-08-17,Communication system and operation method,0,G06F
+11089382,2021-08-10,Multimedia streaming and network apparatus and operation method of the same,0,H04L|H04N
+11087717,2021-08-10,Receiving circuit and signal processing method for high definition multimedia interface,0,G09G|H04N
+11087427,2021-08-10,Bandwidth-limited system and method for dynamically limiting memory bandwidth of GPU for under bandwidth-limited system,0,G06T|H04N
+11082658,2021-08-03,Video transmission method with adaptive adjustment bandwidth and system thereof,0,G09G|H04N
+11082613,2021-08-03,Image adjusting method and image adjusting device,0,G06N|G06T|H04N
+11082200,2021-08-03,Clock data recovery apparatus and method,0,H04L
+11076139,2021-07-27,Color reconstruction device and method,0,G06T|H04N
+11063624,2021-07-13,Communication device having training circuit and method therefor,0,G06N|H04B|H04L
+11062429,2021-07-13,Denoising method based on signal-to-noise ratio,0,G06T|G10L
+11061073,2021-07-13,Circuit testing system and circuit testing method,0,G01R|G06F
+11057675,2021-07-06,Media streaming device and protection method of the same,1,G06F|H04N
+11057070,2021-07-06,Signal receiving device adapting to signal input mode and signal processing method for the same,2,H04B|H04L
+11055467,2021-07-06,Method and apparatus for performing power mesh optimization with aid of additional wires,0,G06F
+11055255,2021-07-06,Interface connection apparatus and method,0,G06F
+11055061,2021-07-06,Signal transmission method and a circuit structure for heterogeneous platforms,0,G06F|H04B
+11051261,2021-06-29,Method of synchronizing time in wireless mesh network and related wireless mesh network,0,H04W|Y02D
+11051013,2021-06-29,Device and method of selecting an intra mode of a coding unit,0,H04N
+11050805,2021-06-29,Method of controlling stream buffer in media playback device and related buffering device,0,H04L
+11048651,2021-06-29,Method of memory time division control and related device,0,G06F|G11C
+11039396,2021-06-15,"Communication method, signal transmitter circuit, and signal receiver circuit capable of reducing power consumption",0,H04L|H04W|Y02D
+11037530,2021-06-15,Video processing circuit and method for handling multiple videos using single video processing path capable of increasing processing data rate and saving circuit area,0,G06F|G09G|H04N
+11032623,2021-06-08,Subtitled image generation apparatus and method,0,H04N
+11030379,2021-06-08,Method for integrated circuit layout,0,G06F
+11025856,2021-06-01,Emergency alarm control circuit and electronic device using the emergency alarm control circuit,0,G08B|H04H|H04N|Y02D
+11019669,2021-05-25,Transmitting-end bluetooth device and receiving-end bluetooth device of bluetooth communication system,3,H04W
+11018925,2021-05-25,Method and apparatus for use in polar transmitter to perform nonlinear distortion estimation and compensation,1,H04B|H04L
+11018801,2021-05-25,"Method for performing bit level management in a wireless local area network system, and associated transmitter and receiver",0,H04L|H04W
+11012167,2021-05-18,Device and method for detecting signal power,0,H04B|H04L|H04W
+11010869,2021-05-18,Image processing circuit and associated image processing method,0,G06T
+11010521,2021-05-18,Method of detecting relations between pins of circuit and computer program product thereof,0,G06F
+11010162,2021-05-18,Electronic apparatus can execute instruction and instruction executing method,0,G06F
+11009967,2021-05-18,Method for scanning keyboard circuit,0,G06F|H03M|Y02D
+11004217,2021-05-11,"Object tracking system, object tracking method, and non-transitory computer readable medium",2,G06T
+11003617,2021-05-11,USB control circuit utilizing a single configuration pin,0,G06F|H03K
+10999728,2021-05-04,Multi-member bluetooth device capable of adaptively switching operation mode in response to data type change of received packets,0,H04L|H04W
+10999727,2021-05-04,Main bluetooth circuit and auxiliary bluetooth circuit of multi-member bluetooth device capable of adaptively switching operation mode in response to data type change of received packets,0,H04W
+10998076,2021-05-04,Signal calibration method used in memory apparatus,0,G06F|G11C|Y02D
+10997353,2021-05-04,Integrated circuit design method and non-transitory computer readable medium thereof,0,G06F
+10996801,2021-05-04,Capacitive touch detecting device capable of self-calibration,0,G01R|G06F
+10992356,2021-04-27,Main bluetooth circuit of multi-member bluetooth device,0,H04B|H04L|Y02D
+10991080,2021-04-27,Image adjustment method and associated image processing circuit,0,G06T|H04N
+10990557,2021-04-27,Transmission interface communicating method and connection interface,0,G06F
+10986322,2021-04-20,Image white balance processing method,1,H04N
+10986040,2021-04-20,Network communication apparatus and method of the same,0,H04L
+10985952,2021-04-20,Data transmission apparatus and method applied to high-speed wired network,0,H04L
+10979110,2021-04-13,Cooperative precoding method and communication system,0,H04B|H04L
+10978547,2021-04-13,Integrated inductor,2,H01F|H01L|H10D
+10978118,2021-04-13,DDR SDRAM signal calibration device and method,1,G06F|G11C
+10973054,2021-04-06,Wireless transceiver and wireless communication method,0,H04L|H04W
+10972767,2021-04-06,Device and method of handling multiple formats of a video sequence,0,G06T|H04N
+10970822,2021-04-06,Image processing method and electronic device thereof,0,G06T
+10970244,2021-04-06,Smart interface circuit,0,G06F
+10969856,2021-04-06,Wireless communication circuit and method for controlling wireless communication circuit,0,G06F|H04W|Y02D
+10969853,2021-04-06,USB adapting circuit,1,G06F|Y02D
+10965905,2021-03-30,Image processing method and associated image processing circuit,1,H04N
+10964029,2021-03-30,Method of updating background model and related device,0,G06T
+10959177,2021-03-23,Energy detection method with low power consumption and communication device thereof,0,H04L|H04W|Y02D
+10958256,2021-03-23,Fifty percent duty cycle detector and method thereof,3,G04F|G06F|H03K
+10949275,2021-03-16,Message request method and device thereof,0,G06F
+10944616,2021-03-09,"Method for estimating sampling frequency offset of receiver, and associated signal processing method and receiver",1,H04L
+10943354,2021-03-09,Method and electronic apparatus for extracting foreground image,1,G06T|H04N
+10943332,2021-03-09,Image adjustment method and associated image processing circuit for image quality improvement,0,G06T|H04N
+10938618,2021-03-02,Device capable of compensating for amplitude-modulation to phase modulation distortion,0,H03F|H04L
+10938606,2021-03-02,Equalizer circuit,0,H04L
+10937120,2021-03-02,Video processing system and processing chip,0,G06T|G09G|H04N
+10936784,2021-03-02,Planning method for power metal lines,0,G06F
+10931787,2021-02-23,Method of handling multiple forwarding information base synchronization for network switch stacking system using central learning,0,H04L
+10931436,2021-02-23,Detector circuit and operation method,0,H03K|H04L
+10930024,2021-02-23,"System, method and non-transitory computer readable medium for color adjustment",0,G06F|G06T|G06V
+10928850,2021-02-23,First in and first out apparatus and driving method thereof,0,G06F|H04L
+10922792,2021-02-16,Image adjustment method and associated image processing circuit,0,G06T
+10922791,2021-02-16,Image processing apparatus and method,0,G06T
+10917130,2021-02-09,Signal receiving apparatus and method having anti-RFI mechanism,0,H03L|H04B|H04L
+10915732,2021-02-09,Image processing method capable of processing facial data and non-facial data differentially,0,G06T|G06V
+10915688,2021-02-09,IC layout design method,0,G06F
+10911819,2021-02-02,Multimedia pipeline device,0,G06F|H04N
+10911642,2021-02-02,Image processing circuit and image processing method,1,G09G|H04N
+10911079,2021-02-02,"Transmitter, communication system and transmission method",0,H04B|H04L|H04W
+10909669,2021-02-02,Contrast adjustment system and contrast adjustment method,0,G06T
+10909290,2021-02-02,Method of detecting a circuit malfunction and related device,0,G06F

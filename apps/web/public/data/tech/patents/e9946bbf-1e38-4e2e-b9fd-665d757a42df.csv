@@ -1,0 +1,2004 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430934,2025-09-30,Utilizing implicit neural representations to parse visual components of subjects depicted within visual content,0,G06T|G06V
+12430898,2025-09-30,Debiasing vision-language models with additive residuals,0,G06F|G06V
+12430863,2025-09-30,Deformable neural radiance field for editing facial pose and facial expression in neural 3D scenes,0,G06T|G11B
+12430829,2025-09-30,Multi-modal image editing,0,G06T
+12430813,2025-09-30,Generating virtual objects from embedded code,0,G06K|G06T
+12430727,2025-09-30,Image and object inpainting with diffusion models,0,G06T
+12430725,2025-09-30,Object class inpainting in digital images utilizing class-specific inpainting neural networks,0,G06N|G06T
+12430724,2025-09-30,Autonomously removing scan marks from digital documents utilizing content-aware filters,0,G06T|G06V
+12430501,2025-09-30,Automatically generating graphic design variants from input text,0,G06F
+12430492,2025-09-30,Theme-based document style transfer,0,G06F
+12430254,2025-09-30,Web bot detection via behavioral analysis and machine learning,0,G06F|G06N|G06Q|H04L
+12423979,2025-09-23,Per-clip video object segmentation using machine learning,0,G06F|G06T|G06V|H04N
+12423895,2025-09-23,Adaptive editing experience for mixed media content,0,G06F|G06T|G11B
+12423892,2025-09-23,Rendering and anchoring instructional data in augmented reality with context awareness,0,G06F|G06N|G06T
+12423889,2025-09-23,Modifying paths in digital vector images by snapping to similar path geometries,0,G06T
+12423888,2025-09-23,Vector object generation from raster objects using semantic vectorization,0,G06F|G06T|G06V
+12423855,2025-09-23,Generating modified two-dimensional images by customizing focal points via three-dimensional representations of the two-dimensional images,0,G06T
+12423831,2025-09-23,Background separation for guided generative models,0,G06T
+12423371,2025-09-23,Utilizing machine learning models to process low-results web queries and generate web item deficiency predictions and corresponding user interfaces,0,G06F
+12417570,2025-09-16,Vectorizing by piecewise deconstruction of object strokes,0,G06T
+12417561,2025-09-16,Parameter-based synthetic model generation and recommendations,0,G06N|G06Q|G06T
+12417559,2025-09-16,Semantic image fill at high resolutions,0,G06T|G06V
+12417558,2025-09-16,Generating stylized digital images via drawing stroke optimization utilizing a multi-stroke neural network,0,G06N|G06T|G06V
+12417518,2025-09-16,Repairing irregularities in computer-generated images,0,G06N|G06T
+12417389,2025-09-16,Efficient mixed-precision search for quantizers in artificial neural networks,0,G06N
+12417245,2025-09-16,Scalable video fingerprinting for content authenticity,0,G06F
+12417244,2025-09-16,Determining user affinities for content generation applications,0,G06F|G06N|G06Q|H04L
+12412419,2025-09-09,Tracking unique face identities in videos,0,G06T|G06V
+12412342,2025-09-09,Modeling interfaces with progressive cloth simulation,0,G06T
+12412329,2025-09-09,Creating cinemagraphs from a single image,0,G06N|G06T
+12412318,2025-09-09,Modifying digital images via object-based alignment across multiple perspectives,0,G06F|G06T
+12412189,2025-09-09,Predictively and dynamically updating content using nested A/B testing,0,G06Q
+12412089,2025-09-09,Supervised learning techniques for encoder training,0,G06F|G06N|G06T|G06V
+12412038,2025-09-09,Training language models and preserving privacy,0,G06F
+12412029,2025-09-09,Sharing design documents efficiently across computer networks through size agnostic moment in time review artifacts,0,G06F
+12412024,2025-09-09,Enhanced text wrapping in documents,0,G06F
+12406418,2025-09-02,Personalized text-to-image generation,0,G06T
+12406334,2025-09-02,Preset style transfer,0,G06T|G06V
+12406135,2025-09-02,Assisted review of text content using a machine learning model,0,G06F|G06N
+12401760,2025-08-26,Timelapse video generation,0,G06T|G11B|H04N
+12401575,2025-08-26,Automatic generation and modification of contact streams via machine-learning analytics,0,G06N|H04L
+12400384,2025-08-26,Reflowing documents to display semantically related content,0,G06F|G06T
+12399890,2025-08-26,Scene graph modification based on natural language commands,0,G06F|G06N
+12395722,2025-08-19,Removing distracting objects from digital images,0,G06V|H04N
+12394166,2025-08-19,Modifying poses of two-dimensional humans in two-dimensional images by reposing three-dimensional human models representing the two-dimensional humans,0,G06T
+12394020,2025-08-19,Recommending objects for image composition using geometry-and-lighting aware search and efficient user interface workflows,0,G06T
+12393616,2025-08-19,Recommender for responsive visualization transformations,0,G06F
+12387410,2025-08-12,Preparation systems for efficiently generating alpha mattes and modified digital videos utilizing polarized light,0,G06T|G06V|H04N
+12387397,2025-08-12,Automatically generating axes for data visualizations including data bound objects,0,G06T
+12387043,2025-08-12,Generating an improved named entity recognition model using noisy data with a self-cleaning discriminator model,0,G06F
+12387031,2025-08-12,Real time streamable page generation from a digital document,0,G06F|H04N
+12380617,2025-08-05,Visual reordering of partial vector objects,0,G06T
+12380359,2025-08-05,Constraint sampling reinforcement learning for recommendation systems,0,G06N|H04L
+12380120,2025-08-05,In-context and semantic-aware ensemble model for document retrieval,0,G06F|G06N
+12375620,2025-07-29,Removing objects at image capture time,0,H04N
+12374043,2025-07-29,Utilizing machine learning models for patch retrieval and deformation in completing three-dimensional digital shapes,0,G06T|G06V
+12374034,2025-07-29,Generating soft object shadows for general shadow receivers within digital images using geometry-aware buffer channels,0,G06T|G06V
+12374016,2025-07-29,Digital object animation authoring interfaces,0,G06F|G06T
+12374010,2025-07-29,Modifying digital images for equidistant spacing of objects across multiple perspectives,0,G06F|G06T|G06V
+12373988,2025-07-29,Tracking image modifications for a digital image,0,G06F|G06T
+12373954,2025-07-29,Transformer for efficient image segmentation,0,G06N|G06T|G06V
+12373923,2025-07-29,Semantically-aware image extrapolation,0,G06N|G06T|G06V
+12373920,2025-07-29,Recommending objects for image composition using a geometry-and-lighting aware neural network,0,G06T
+12373915,2025-07-29,Generating modified digital images utilizing nearest neighbor fields from patch matching operations of alternate digital images,0,G06T|G06V|H04N
+12373792,2025-07-29,Generating multistate vector objects for variant review and application,0,G06F|G06Q|G06T
+12373646,2025-07-29,Teaching a machine classifier to recognize a new class,0,G06F|G06N
+12373637,2025-07-29,Automatic justification enhancement with minimal content editing,0,G06F
+12373556,2025-07-29,Bot activity detection for email tracking,0,G06F|G06Q
+12367658,2025-07-22,Detecting and recovering patterns in digital raster images,0,G06T|G06V
+12367626,2025-07-22,Modifying two-dimensional images utilizing three-dimensional meshes of the two-dimensional images,0,G06T
+12367625,2025-07-22,Text border tool and enhanced corner options for background shading,0,G06F|G06T|G06V
+12367586,2025-07-22,Learning parameters for neural networks using a semantic discriminator and an object-level discriminator,0,G06T|G06V
+12367585,2025-07-22,Utilizing machine learning models to generate refined depth maps with segmentation mask guidance,0,G06T
+12367562,2025-07-22,Iteratively modifying inpainted digital images based on changes to panoptic segmentation maps,0,G06T
+12367561,2025-07-22,Generating and providing a panoptic inpainting interface for generating and modifying inpainted digital images,0,G06T
+12367344,2025-07-22,Curricular next conversation prediction pretraining for transcript segmentation,0,G06F|G06N
+12367238,2025-07-22,Visual and text search interface for text-based video editing,0,G06F
+12361616,2025-07-15,Image generation using a diffusion model,0,G06T
+12361607,2025-07-15,Generating digital images in new contexts while preserving color and composition using diffusion neural networks,0,G06F|G06N|G06T
+12361601,2025-07-15,Identity preserved controllable facial image manipulation,0,G06T|G06V
+12361512,2025-07-15,Generating digital images utilizing high-resolution sparse attention and semantic layout manipulation neural networks,0,G06T|G06V
+12361300,2025-07-15,Machine-learning techniques applied to interaction data for determining sequential content and facilitating interactions in online environments,0,G06N
+12361013,2025-07-15,Guided content discovery in visual search,0,G06F|G06N|G06V
+12354236,2025-07-08,Joint trimap estimation and alpha matte prediction for video matting,0,G06N|G06T
+12354214,2025-07-08,Digital image editing using a depth-aware system,0,G06F|G06T
+12354197,2025-07-08,Interactive virtual graphics with physical objects,0,G06F|G06T
+12354194,2025-07-08,Neural image compositing with layout transformers,0,G06T|G06V
+12354149,2025-07-08,Navigation and rewards involving physical goods and services,0,G06Q
+12347135,2025-07-01,Generating gesture reenactment video from video motion graphs using machine learning,0,G06F|G06T
+12347124,2025-07-01,Generating adaptive three-dimensional meshes of two-dimensional images,0,G06T|H04N
+12347116,2025-07-01,Generating alpha mattes utilizing deep learning,0,G06T
+12347080,2025-07-01,Human inpainting utilizing a segmentation branch for generating an infill segmentation map,0,G06F|G06N|G06T|G06V
+12347034,2025-07-01,Generating mappings of three-dimensional meshes utilizing neural network gradient fields,0,G06T
+12347005,2025-07-01,Generating and using behavioral policy graphs that assign behaviors to objects for digital image editing,0,G06T|G06V
+12347003,2025-07-01,Collaborative editing of vector graphics,0,G06T
+12346827,2025-07-01,Generating scene graphs from digital images using external knowledge and image reconstruction,0,G06F|G06N|G06V
+12346655,2025-07-01,Enhanced document visual question answering system via hierarchical attention,0,G06F|G06N
+12346361,2025-07-01,Hierarchical segmentation of unstructured text using neural networks,0,G06F
+12341903,2025-06-24,Filling digital documents using multi-tiered user identity models based on decentralized identity,0,G06F|H04L
+12340606,2025-06-24,Automatic template recommendation,0,G06T|G06V
+12340571,2025-06-24,Using intrinsic multimodal features of image for domain generalized,0,G06F|G06N|G06V
+12340544,2025-06-24,User-guided variable-rate image compression,0,G06N|G06T|H04N
+12340457,2025-06-24,Radiance field gradient scaling for unbiased near-camera training,0,G06T|G06V
+12340441,2025-06-24,Reconstructing concentric radial gradients,0,G06T
+12340333,2025-06-24,Interactive tree representing attribute quality or consumption metrics for data ingestion and other applications,0,G06F|G06Q
+12340166,2025-06-24,Document decomposition based on determined logical visual layering of document content,0,G06F
+12339916,2025-06-24,Dynamic user profile management,0,G06F|H04L
+12335387,2025-06-17,Distributing and synchronizing encrypted data for multi-regional accessibility,0,G06F|H04L
+12333845,2025-06-17,Unified pretraining framework for document understanding,0,G06F|G06N|G06V
+12333731,2025-06-17,Transformer for efficient image segmentation,0,G06T|G06V
+12333692,2025-06-17,Modifying digital images via multi-layered scene completion facilitated by artificial intelligence,0,G06F|G06T
+12333691,2025-06-17,Utilizing a generative machine learning model to create modified digital images from an infill semantic map,0,G06F|G06T|G06V
+12333636,2025-06-17,Utilizing cross-attention guidance to preserve content in diffusion-based image modifications,0,G06T|G06V
+12333634,2025-06-17,Curve generation for sketch vectorization,0,G06T|G06V
+12333427,2025-06-17,Multi-scale output techniques for generative adversarial networks,1,G06F|G06N|G06T|G06V
+12332939,2025-06-17,Virtual knowledge graph construction for zero-shot domain-specific document retrieval,0,G06F
+12332935,2025-06-17,Multichannel content recommendation system,0,G06F|G06V
+12327328,2025-06-10,Aesthetics-guided image enhancement,0,G06N|G06T|G06V
+12327188,2025-06-10,Direct regression encoder architecture and training,1,G06F|G06N|G06T|G06V
+12327036,2025-06-10,Managing digital assets stored as components and packaged files,0,G06F|H04L
+12323262,2025-06-03,Systems and methods for coreference resolution,0,G06F|G06N|H04L
+12322074,2025-06-03,Corrective lighting for video inpainting,0,G06T
+12322011,2025-06-03,Product of variations in image generative models,0,G06T|G06V
+12322007,2025-06-03,Systems and methods for color palette optimization,0,G06F|G06N|G06T
+12321703,2025-06-03,Generative model for aspect term extraction,0,G06F|G06N
+12321495,2025-06-03,Anonymizing digital images utilizing a generative adversarial neural network,0,G06F|G06N
+12321406,2025-06-03,Generating location based photo discovery suggestions,0,G06F|G06V|H04N|H04W
+12315051,2025-05-27,Reference based digital content stylization,0,G06T|G06V
+12314777,2025-05-27,Efficient adaptive allocation of resources for computational systems via statistically derived linear models,0,G06F
+12314309,2025-05-27,Zero-shot entity-aware nearest neighbors retrieval,0,G06F
+12309456,2025-05-20,Artificial intelligence approaches for predicting conversion activity probability scores and key personas for target entities,0,G06N|G06Q|H04N
+12309209,2025-05-20,Web conferencing exit and post-exit content generation,0,H04L
+12307626,2025-05-20,Warping artwork to perspective cylinders with bicubic patches,0,G06T
+12307600,2025-05-20,Modifying two-dimensional images utilizing iterative three-dimensional meshes of the two-dimensional images,0,G06T
+12307584,2025-05-20,Systems for efficiently generating blend objects,0,G06T
+12307576,2025-05-20,Neural networks to render textured materials on curved surfaces,0,G06T
+12307554,2025-05-20,Reconstructing general radial gradients,0,G06T|G06V
+12299939,2025-05-13,Generating novel images using sketch image representations,0,G06T
+12299858,2025-05-13,Modifying digital images utilizing intent deterministic user interface tools,0,G06F|G06T
+12299847,2025-05-13,Systems for single image reflection removal,0,G06T
+12299844,2025-05-13,Learning parameters for an image harmonization neural network to generate deep harmonized digital images,0,G06N|G06T
+12299541,2025-05-13,Model insights framework for providing insight based on model evaluations to optimize machine learning models,0,G06F|G06N
+12299408,2025-05-13,Translating texts for videos based on video context,0,G06F|G06N|G06V
+12299401,2025-05-13,Transcript paragraph segmentation and visualization of transcript paragraphs,0,G06F|G06V|G10L|G11B|H04N
+12299055,2025-05-13,Unified framework for multi-modal similarity search,0,G06F|G06N|G06V
+12299026,2025-05-13,Low-resource event understanding,0,G06F|G06N|G06V
+12294755,2025-05-06,Livestream key moment identification,0,H04N
+12294529,2025-05-06,Transferable clustering of contextual bandits for cloud service resource allocation,0,H04L
+12293577,2025-05-06,Systems and methods for image processing using natural language,0,G06F|G06N|G06V
+12292933,2025-05-06,Identifying instances of digital content,0,G06F|G06N
+12289353,2025-04-29,Collaboration controls for document sections,0,G06F|H04L
+12288549,2025-04-29,Spoken query processing for image search,0,G06F|G06V|G10L
+12288406,2025-04-29,Utilizing machine-learning based object detection to improve optical character recognition,0,G06N|G06T|G06V
+12288397,2025-04-29,Automated digital document generation from digital videos,0,G06F|G06N|G06V
+12288279,2025-04-29,Modifying digital images via scene-based editing using image understanding facilitated by artificial intelligence,1,G06F|G06T
+12288237,2025-04-29,Online inference and learning for nonsymmetric determinantal point processes,0,G06Q
+12288074,2025-04-29,Generating and providing proposed digital actions in high-dimensional action spaces using reinforcement learning models,0,G06F|G06N
+12288023,2025-04-29,Font customization based on stroke properties,0,G06F|G06V
+12287797,2025-04-29,Facilitating efficient identification of relevant data,0,G06F|G06N|G06Q|H04L
+12283060,2025-04-22,Splatting-based digital image synthesis,0,G06T
+12282992,2025-04-22,Machine learning based controllable animation of still images,0,G06T
+12282987,2025-04-22,Generating image mattes without trimap segmentations via a multi-branch neural network,0,G06N|G06T|G06V
+12282948,2025-04-22,Assisting users in visualizing dimensions of a product,0,G06F|G06Q|G06V
+12278764,2025-04-15,Facilitating access to web flows utilizing network access tokens according to network capacity,0,H04L
+12277767,2025-04-15,Multimodal unsupervised video temporal segmentation for summarization,0,G06F|G06V
+12277671,2025-04-15,Multi-stage attention model for texture synthesis,0,G06T
+12277652,2025-04-15,Modifying two-dimensional images utilizing segmented three-dimensional object meshes of the two-dimensional images,0,G06T|G06V
+12277630,2025-04-15,Unsupervised style and color cues for transformer-based image generation,0,G06N|G06T
+12277624,2025-04-15,Generating blend objects from objects with pattern fills,0,G06T
+12272127,2025-04-08,Detecting digital objects and generating object masks on device,0,G06N|G06T|G06V
+12272031,2025-04-08,Diverse image inpainting using contrastive learning,0,G06N|G06T|G06V
+12271996,2025-04-08,Image lighting transfer,0,G06T
+12271983,2025-04-08,Generating unified embeddings from multi-modal canvas inputs for image retrieval,0,G06F|G06T
+12271976,2025-04-08,Scene graph structure generation and rendering,1,G06T
+12271804,2025-04-08,Wire segmentation for images using machine learning,0,G06N|G06T
+12271744,2025-04-08,Job modification to present a user interface based on a user interface update rate,0,G06F
+12271429,2025-04-08,Quantifying and improving the performance of computation-based classifiers,0,G06F|G06N
+12271419,2025-04-08,Generating synchronized timestamps across various capture devices for visual media management,0,G06F
+12267305,2025-04-01,Privacy preserving document analysis,0,G06F|G06N|G06Q|H04L
+12266181,2025-04-01,Text-based framework for video object selection,0,G06F|G06V
+12266112,2025-04-01,Instant masks with polarized light,0,G06T|H04N
+12266076,2025-04-01,Utilizing machine learning to select resizing models in generating resized digital design documents,0,G06T
+12266039,2025-04-01,Target-augmented material maps,0,G06T|G06V
+12265792,2025-04-01,Generating commonsense context for text using knowledge graphs,0,G06F|G06N
+12265652,2025-04-01,Document signing and storage using data models and distributed ledgers,0,G06F
+12265557,2025-04-01,Learning-based method for generating visualizations via natural language,0,G06F
+12260557,2025-03-25,Object selection for images using image regions,0,G06T|G06V
+12260530,2025-03-25,Generating a modified digital image utilizing a human inpainting model,1,G06F|G06N|G06T|G06V
+12260480,2025-03-25,Machine learning-based layout generation,0,G06F|G06T
+12260475,2025-03-25,Content linting in graphic design documents,0,G06T|G06V
+12254633,2025-03-18,Segmenting objects using scale-diverse segmentation neural networks,0,G06T|G06V
+12254597,2025-03-18,Semantic-aware initial latent code selection for text-guided image editing and generation,0,G06N|G06T
+12254594,2025-03-18,Enhancing detailed segments in latent code-based edited digital images,0,G06N|G06T
+12254589,2025-03-18,Extrapolating panoramas from images using a generative model,0,G06T|G06V
+12254570,2025-03-18,Generating three-dimensional representations for digital objects utilizing mesh-based thin volumes,0,G06T
+12254545,2025-03-18,Generating modified digital images incorporating scene layout utilizing a swapping autoencoder,0,G06N|G06T
+12254498,2025-03-18,Generation of recommendations for visual product details,0,G06F|G06N|G06Q
+12254360,2025-03-18,Visitor stitching with data science notebooks,0,G06F
+12254264,2025-03-18,Object level selective undo in digital graphic design documents,0,G06F
+12254170,2025-03-18,Utilizing a transformer-based generative language model to generate digital design document variations,0,G06F|G06T
+12254163,2025-03-18,Object folding tool,0,G06F|G06T
+12249116,2025-03-11,Concept disambiguation using multimodal embeddings,0,G06N|G06V
+12249051,2025-03-11,Image inpainting with geometric and photometric transformations,0,G06T|H04N
+12248949,2025-03-11,Media content enhancement based on user feedback of multiple variations,0,G06N|G06Q
+12248796,2025-03-11,Modifying digital images utilizing a language guided image editing model,0,G06F|G06N|G06T
+12248056,2025-03-11,Systems for estimating three-dimensional trajectories of physical objects,0,G01S|G06T
+12243288,2025-03-04,Chromatic undertone detection,0,G06T|G06V|H04N
+12243146,2025-03-04,Animated display characteristic control for digital images,0,G06F|G06T
+12243135,2025-03-04,Vector object blending,0,G06T
+12243132,2025-03-04,Partial depth ordering with vector interlacing,0,G06T
+12243121,2025-03-04,Generating and propagating personal masking edits,0,G06T|G06V
+12242820,2025-03-04,Generating synthetic code-switched data for training language models,0,G06F|G06N
+12238451,2025-02-25,Predicting video edits from text-based conversations using neural networks,0,G06N|G06T|G11B|H04N
+12236975,2025-02-25,Bi-directional recurrent encoders with multi-hop attention for speech emotion recognition,0,G06F|G06N|G10L
+12236640,2025-02-25,Machine learning based image calibration using dense fields,0,G06N|G06T|G06V
+12236610,2025-02-25,Generating improved alpha mattes for digital images based on pixel classification probabilities across alpha-range classifications,0,G06T
+12235891,2025-02-25,Generating embeddings for text and image queries within a common embedding space for visual-text image searches,0,G06F
+12235831,2025-02-25,Stitching event data using identity mappings,0,G06F
+12230014,2025-02-18,User-guided image generation,0,G06F|G06T|G06V
+12229892,2025-02-18,Visualizing vector graphics in three-dimensional scenes,0,G06T
+12229804,2025-02-18,Multi-objective electronic communication frequency optimization,0,G06Q
+12229604,2025-02-18,Shared resource interference detection involving a virtual machine container,0,G06F|G06N
+12229552,2025-02-18,Generating review likelihoods for sets of code,0,G06F
+12229399,2025-02-18,Simulated handwriting image generator,0,G06F|G06N|G06V
+12229110,2025-02-18,Text co-editing in a conflict-free replicated data type environment,0,G06F
+12223661,2025-02-11,System for automatic object mask and hotspot tracking,0,G06F|G06N|G06T|G06V|G11B
+12223623,2025-02-11,Harmonizing composite images utilizing a semantic-guided transformer neural network,1,G06T|G06V
+12223565,2025-02-11,Increasing visibility of pixel patterns in images,0,G06T|G06V
+12223562,2025-02-11,Organizing a graphic design document using semantic layers,0,G06F|G06N|G06T|H04L
+12223439,2025-02-11,Visual-semantic representation learning via multi-modal contrastive training,1,G06F|G06N|G06T
+12223253,2025-02-11,Dynamic copyfitting parameter estimation,0,G06F
+12223002,2025-02-11,Semantics-aware hybrid encoder for improved related conversations,0,G06F|G06N|G06Q
+12219180,2025-02-04,Actively-learned context modeling for image compression,0,G06N|H04N
+12217742,2025-02-04,High fidelity audio super resolution,0,G06N|G10L
+12217459,2025-02-04,Multimodal color variations using learned color distributions,0,G06N|G06T
+12217395,2025-02-04,Exemplar-based object appearance transfer driven by correspondence,0,G06T|G06V
+12217364,2025-02-04,3D modeling user interfaces by introducing improved coordinates for triquad cages,0,G06T
+12217169,2025-02-04,Local neural implicit functions with modulated periodic activations,0,G06N|G06T
+12216704,2025-02-04,Context-based organization of digital media,0,G06F
+12216677,2025-02-04,Generating data insights,0,G06F|G06T
+12211225,2025-01-28,Scene reconstruction using geometry and reflectance volume representation of scene,0,G06T
+12211178,2025-01-28,Transferring faces between digital images by combining latent codes utilizing a blending network,0,G06T|G06V
+12211138,2025-01-28,Editing neural radiance fields with neural basis decomposition,0,G06T
+12211132,2025-01-28,Modifying a graphic design to match the style of an input design,0,G06F|G06N|G06T|G06V|G11B
+12211129,2025-01-28,Layout-aware text rendering and effects execution,0,G06F|G06T
+12210825,2025-01-28,Image captioning,0,G06F|G06V
+12210814,2025-01-28,Content aware font recommendation,0,G06F|G06V
+12210813,2025-01-28,Generating a multi-modal vector representing a source font and identifying a recommended font utilizing a multi-modal font machine-learning model,0,G06F|G06N
+12210800,2025-01-28,Modifying digital images using combinations of direct interactions with the digital images and context-informing speech input,5,G06F|G06T
+12206930,2025-01-21,Video editing using transcript text stylization and layout,0,G06F|H04N
+12206925,2025-01-21,Systems and methods for content customization,0,G06N|G06Q|H04N
+12205200,2025-01-21,Connecting paths based on primitives,0,G06T
+12205127,2025-01-21,Customer journey management using machine learning,0,G06N|G06Q
+12204964,2025-01-21,Facilitating implementation of machine learning models in embedded software,0,G06K|G06N
+12204610,2025-01-21,Learning parameters for generative inpainting neural networks utilizing object-aware training and masked regularization,1,G06F|G06N|G06T|G06V
+12198284,2025-01-14,Applying vector-based decals on three-dimensional objects,0,G06T
+12198231,2025-01-14,Generating differentiable procedural materials,0,G06N|G06T
+12198224,2025-01-14,Retrieval-based text-to-image generation with visual-semantic contrastive representation,0,G06F|G06N|G06T
+12198048,2025-01-14,Modality adaptive information retrieval,0,G06F|G06N|G06V
+12197793,2025-01-14,Self-consumable portion generation from a digital document,1,G06F
+12197713,2025-01-14,Generating and applying editing presets,0,G06F|G06N|G06T|G06V
+12197496,2025-01-14,Searching for images using generated images,1,G06F
+12192593,2025-01-07,Utilizing generative models for resynthesis of transition frames in clipped digital videos,0,G06V|H04N
+12190621,2025-01-07,Generating weighted contextual themes to guide unsupervised keyphrase relevance models,0,G06F|G06N|G06V
+12190484,2025-01-07,Generating modified digital images using deep visual guided patch match models for image inpainting,0,G06N|G06T
+12190467,2025-01-07,Modifying parametric continuity of digital image content in piecewise parametric patch deformations,0,G06T
+12190366,2025-01-07,Systems and methods for product search using generated shape descriptors and edge image of source product images,0,G06F|G06Q|G06T|G06V
+12190061,2025-01-07,System and methods for neural topic modeling using topic attention networks,0,G06F
+12189919,2025-01-07,User interface for editing of a composite document through intelligently zoomed previews,0,G06F
+12184967,2024-12-31,Providing contextual augmented reality photo pose recommendations,1,G06F|G06V|H04N
+12184475,2024-12-31,Identifying contributing factors to a metric anomaly,0,G06N|H04L
+12183056,2024-12-31,Adversarially robust visual fingerprinting and image provenance models,0,G06F|G06N|G06V
+12182955,2024-12-31,Stylized motion effects,0,G06T
+12182954,2024-12-31,Synchronized editing of locally repeating vector geometry,0,G06F|G06T
+12182913,2024-12-31,Generating image editing presets based on editing intent extracted from a digital query,1,G06F|G06T
+12182829,2024-12-31,Generating concise and common user representations for edge systems from event sequence data stored on hub systems,0,G06N|G06Q
+12182713,2024-12-31,Multi-task equidistant embedding,0,G06F|G06N
+12182524,2024-12-31,Intent detection,1,G06F|G06N|G06V
+12182493,2024-12-31,Facilitating generation and presentation of advanced insights,0,G06F
+12182159,2024-12-31,Mapping of unlabeled data onto a target schema via semantic type detection,0,G06F|G06N
+12182086,2024-12-31,Generating and executing automatic suggestions to modify data of ingested data collections without additional data ingestion,0,G06F|G06N
+12177088,2024-12-24,Determining data loss for internet traffic data,0,G08G|H04L
+12175641,2024-12-24,Restoring degraded digital images through a deep learning framework,1,G06N|G06T
+12175619,2024-12-24,Generating and visualizing planar surfaces within a three-dimensional space for modifying objects in a two-dimensional editing interface,5,G06T
+12175366,2024-12-24,Graph neural networks for datasets with heterophily,0,G06F|G06N
+12174907,2024-12-24,Graph convolutional networks with motif-based attention,0,G06F|G06N|G06V
+12169909,2024-12-17,Many-to-many splatting-based digital image synthesis,1,G06T
+12169895,2024-12-17,Generating shadows for digital objects within digital images utilizing a height map,0,G06N|G06T
+12169856,2024-12-17,Effective stock keeping unit (SKU) management system,0,G06F|G06Q|H03M
+12169681,2024-12-17,Context-aware font recommendation from text,0,G06F|G06N
+12165299,2024-12-10,Enhancing light text in scanned documents while preserving document fidelity,0,G06T|G06V|H04N
+12165295,2024-12-10,Digital image inpainting utilizing a cascaded modulation inpainting neural network,0,G06T|G06V
+12165292,2024-12-10,Generating an image mask for a digital image by utilizing a multi-branch masking pipeline with neural networks,0,G06N|G06T
+12165284,2024-12-10,Harmonizing composite images utilizing a transformer neural network,0,G06T
+12165260,2024-12-10,Garment rendering techniques,0,G06T|G06V
+12165034,2024-12-10,Controlling a neural network through intermediate latent spaces,0,G06N
+12164965,2024-12-10,Efficient adaptive allocation of resources for container-based computation via markov decision processes,0,G06F
+12164550,2024-12-10,Training a model for performing abstractive text summarization,0,G06F|G06N
+12164517,2024-12-10,Approximate query processing for join queries,0,G06F
+12159443,2024-12-03,Previewing and generating stroke outlines in association with images,0,G06T|G06V
+12159413,2024-12-03,Image inversion using multiple latent spaces,0,G06T
+12159380,2024-12-03,Generating modified digital images via image inpainting using multi-guided patch match and intelligent curation,1,G06T
+12159151,2024-12-03,Intelligently generating client device application recommendations based on dynamic digital user context states,0,G06F|G06N|G06T
+12159109,2024-12-03,Pre-training techniques for entity extraction in low resource domains,0,G06F
+12154379,2024-11-26,Capturing digital images utilizing a machine learning model trained to determine subtle pose differentiations,0,G06F|G06T|G06V
+12154196,2024-11-26,Applying object-aware style transfer to digital images,0,G06T
+12154042,2024-11-26,Systems for estimating terminal event likelihood,0,G06F|G06N
+12153726,2024-11-26,Integrating text of a document into an extended reality environment,1,G06F|G06T
+12153705,2024-11-26,Platform for unsupervised machine learning training on unseeable user generated assets,1,G06F|G06N
+12153619,2024-11-26,Generative prompt expansion for image generation,0,G06F
+12148119,2024-11-19,Utilizing a generative neural network to interactively create and modify digital images based on natural language feedback,0,G06F|G06N|G06T|G10L
+12148089,2024-11-19,Resolution independent 3-D vectorization for graphic designs,0,G06T
+12148074,2024-11-19,Object-to-object harmonization for digital images,0,G06F|G06N|G06T|G06V
+12148062,2024-11-19,Generating content adaptive watermarks for digital images,0,G06T|G06V
+12147896,2024-11-19,Methods and systems for geometry-aware image contrast adjustments via image-based ambient occlusion estimation,0,G06N|G06T
+12147775,2024-11-19,Content augmentation with machine generated content to meet content gaps during interaction with target entities,0,G06F|G06N
+12147771,2024-11-19,Topical vector-quantized variational autoencoders for extractive summarization of video transcripts,0,G06F
+12147656,2024-11-19,Graphical user interfaces and techniques for generating digital spirographs,1,G06F|G06T
+12147499,2024-11-19,Machine-learning tool for generating segmentation and topic metadata for documents,0,G06F|G06V
+12147495,2024-11-19,Robust content fingerprinting for image attribution,0,G06F|G06N|G06T|G06V
+12141952,2024-11-12,Exposure defects classification of images using a neural network,0,G06N|G06T|G06V
+12136287,2024-11-05,Asides detection in documents,0,G06F|G06V
+12136250,2024-11-05,Extracting attributes from arbitrary digital images utilizing a multi-attribute contrastive classification neural network,0,G06F|G06N|G06V
+12136199,2024-11-05,Automatic synthesis of a content-aware sampling region for a content-aware fill,0,G06T
+12136189,2024-11-05,Media enhancement using discriminative and generative models with feedback,0,G06F|G06N|G06T|G06V
+12136185,2024-11-05,Multi-scale distillation for low-resolution detection,0,G06N|G06T|G06V
+12136151,2024-11-05,Generating collage digital images by combining scene layouts and pixel colors utilizing generative neural networks,0,G06T
+12136118,2024-11-05,Deep learning based visual compatibility prediction for bundle recommendations,0,G06F|G06N|G06Q|G06V
+12135741,2024-11-05,Markov decision process for efficient data transfer,0,G06F|G06N
+12131451,2024-10-29,Systems for spatially coherent UV packing,0,G06T
+12131421,2024-10-29,Cropping for efficient three-dimensional digital rendering,0,G06T
+12131418,2024-10-29,Graphics processing unit instancing control,0,G06T
+12131350,2024-10-29,Artificial intelligence techniques for bid optimization used for generating dynamic online content,0,G06N|G06Q
+12130876,2024-10-29,Dynamic user profile projection,0,G06F|H04L
+12130850,2024-10-29,Model-based semantic text searching,0,G06F|G06N
+12130841,2024-10-29,Unified framework for dynamic clustering and discrete time event prediction,0,G05B|G06F|G06N|G06V
+12125317,2024-10-22,Automatic recognition of visual and audio-visual cues,0,G06N|G06V
+12125227,2024-10-22,Dynamic log depth compression estimation system,0,G06F|G06N|G06T
+12125148,2024-10-22,System and methods for providing invisible augmented reality markers,0,G06T
+12125138,2024-10-22,Node graph optimization using differentiable proxies,0,G06T|G06V
+12125128,2024-10-22,Free form radius editing,0,G06F|G06T|G06V
+12124948,2024-10-22,Machine-learning models applied to interaction data for facilitating experience-based modifications to interface elements in online environments,0,G06F|G06N
+12124794,2024-10-22,Stylizing digital content,1,G06F|G06T|G06V
+12124683,2024-10-22,Content analytics as part of content creation,0,G06F|G06N|G06T|G06V
+12124565,2024-10-22,Tamper detection for executable applications,0,G06F
+12124539,2024-10-22,Machine learning techniques for differentiability scoring of digital images,0,G06F|G06N|G06T|G06V
+12124508,2024-10-22,Multimodal intent discovery system,0,G06F|G10L
+12124497,2024-10-22,Form structure similarity detection,1,G06F|G06V
+12124439,2024-10-22,Digital content query-aware sequential search,0,G06F|G06N
+12119028,2024-10-15,Video segment selection and editing using transcript interactions,0,G06F|G10L|G11B
+12118787,2024-10-15,Localization of narrations in image data,1,G06F|G06N|G06V|G10L
+12118752,2024-10-15,Determining colors of objects in digital images,0,G06F|G06N|G06T|G06V
+12118669,2024-10-15,Subdividing a three-dimensional mesh utilizing a neural network,0,G06N|G06T
+12118663,2024-10-15,Modifying voxel resolutions within three-dimensional representations,0,G06T
+12118659,2024-10-15,Efficient rendering of clipping objects,0,G06T
+12118647,2024-10-15,Generating colorized digital images utilizing a re-colorization neural network with local hints,0,G06N|G06T
+12118295,2024-10-15,Text simplification with minimal hallucination,0,G06F|G06N
+12112771,2024-10-08,Retiming digital videos utilizing deep learning,0,G11B|H04N
+12112537,2024-10-08,Contrastive captioning for image groups,0,G06F|G06V
+12112456,2024-10-08,Retouching digital images utilizing layer specific deep-learning neural networks,0,G06F|G06N|G06T|G06V
+12112349,2024-10-08,Providing personalized alerts and anomaly summarization,0,G06Q
+12112130,2024-10-08,Counterfactual text stylization,0,G06F
+12112097,2024-10-08,Facilitating discovery of verbal commands using multimodal interfaces,0,G06F|G10L
+12111884,2024-10-08,Optimal sequential decision making with changing action space,0,G06F|G06N
+12111836,2024-10-08,Generating consolidated visual representations for user journeys via profile tracing,0,G06F|G06Q
+12108140,2024-10-01,Updating zoom properties of corresponding salient objects,0,G06F|G06V|G11B|H04N
+12107818,2024-10-01,ISP specific smart IP selection for email,0,G06N|H04L
+12106603,2024-10-01,Dynamic non-linear interpolation of latent vectors for semantic face editing,0,G06F|G06N|G06T|G06V
+12106443,2024-10-01,Responsive video canvas generation,0,G06F|G06T
+12106408,2024-10-01,Content-adaptive tutorials for graphics editing tools in a graphics editing system,0,G06F|G06T|G06V
+12106400,2024-10-01,Digital overpainting controlled by opacity and flow parameters,0,G06F|G06T
+12106398,2024-10-01,Machine learning-based chroma keying process,0,G06N|G06T
+12105767,2024-10-01,Digital content layout encoding for search,0,G06F|G06K|G06N|G06V
+12105748,2024-10-01,Tutorial recommendation using discourse-level consistency and ontology-based filtering,0,G06F
+12100076,2024-09-24,Preserving document design using font synthesis,0,G06F|G06T|G06V
+12094032,2024-09-17,Pose recommendation and real-time guidance for user-generated content,0,G06Q|G06T|G06V|H04N
+12093322,2024-09-17,Utilizing a graph neural network to generate visualization and attribute recommendations,0,G06F|G06N
+12093308,2024-09-17,Embedding-based color-object retrieval,1,G06F|G06N
+12093306,2024-09-17,Automatically detecting user-requested objects in digital images,1,G06F|G06V
+12086965,2024-09-10,Image reprojection and multi-image inpainting based on geometric depth parameters,0,G06T
+12086911,2024-09-10,Nonlinear representations for vector objects,0,G06F|G06T
+12086901,2024-09-10,Generating digital paintings utilizing an intelligent painting pipeline for improved brushstroke sequences,0,G06N|G06T
+12086728,2024-09-10,Form structure extraction by predicting associations,0,G06F|G06N|G06V
+12086646,2024-09-10,Cloud-based resource allocation using meters,0,G06F|H04L
+12081827,2024-09-03,Determining video provenance utilizing deep learning,1,G06F|H04N
+12080068,2024-09-03,Deep learning system for determining audio recommendations based on video content,0,G06F|G06N|G06V|G10H|G10L|H04N
+12079957,2024-09-03,Modeling continuous kernels to generate an enhanced digital image from a burst of digital images,0,G06N|G06T
+12079948,2024-09-03,Multidimentional image editing from an input image,0,G06F|G06T|G06V
+12079901,2024-09-03,Hierarchical image generation via transformer-based sequential patch selection,0,G06T|G06V
+12079725,2024-09-03,Convolutional neural networks with adjustable feature resolutions at runtime,0,G06N
+12079454,2024-09-03,Weighted scroll for display of hierarchical structures,0,G06F
+12079269,2024-09-03,Visually guided machine-learning language model,0,G06F|G06N|G06V|G10L
+12079217,2024-09-03,Intent-aware learning for automated sample selection in interactive data exploration,0,G06F
+12073507,2024-08-27,Point-based neural radiance field for three dimensional scene representation,0,G06T
+12073499,2024-08-27,Glyph edit with adornment object,0,G06T
+12073153,2024-08-27,Generating vector representations of visual objects,0,G06F|G06N
+12067730,2024-08-20,Panoptic segmentation refinement network,0,G06N|G06T|G06V
+12067680,2024-08-20,Systems and methods for mesh generation,0,G06N|G06T
+12067661,2024-08-20,Generating human motion sequences utilizing unsupervised learning of discretized features via a neural network encoder-decoder,0,G06T
+12067659,2024-08-20,Generating animated digital videos utilizing a character animation neural network informed by pose and motion embeddings,0,G06N|G06T
+12067499,2024-08-20,Increasing efficiency of inferencing digital videos utilizing machine-learning models,0,G06N|G06T|G06V|H04N
+12067302,2024-08-20,Automated content and context aware spot print workflow,0,G06F|H04N
+12067046,2024-08-20,Exploration of large-scale data sets,0,G06F|G06V
+12062201,2024-08-13,Generating symmetrical repeat edits for images,0,G06T|G06V
+12062176,2024-08-13,Generating change comparisons during editing of digital images,1,G06T
+12062119,2024-08-13,Dynamic differential evolution based control for typeface visual accessibility,0,G06F|G06T
+12061995,2024-08-13,Learning with limited supervision for question-answering with light-weight Markov models,0,G06F|G06N
+12061916,2024-08-13,Generating personalized in-application recommendations utilizing in-application behavior and intent,0,G06F
+12061874,2024-08-13,Software component defect prediction using classification models that generate hierarchical component classifications,0,G06F|G06N
+12061668,2024-08-13,Equivariant models for generating vector representations of temporally-varying content,0,G06F|G06N|G06V
+12056857,2024-08-06,Digital image inpainting utilizing plane panoptic segmentation and plane grouping,3,G06F|G06N|G06T|G06V
+12056849,2024-08-06,Neural network for image style translation,0,G06F|G06T|G06V
+12056823,2024-08-06,Segmenting three-dimensional meshes in graphical applications based on detection of elongated shapes,0,G06T
+12056791,2024-08-06,Generating object-based layers for digital image editing using object classification machine learning models,0,G06F|G06N|G06T|G06V
+12056453,2024-08-06,Semantic structure identification for document autostyling,2,G06F
+12056150,2024-08-06,Generating visual stories from data sets,0,G06F|G06N
+12051225,2024-07-30,Generating alpha mattes for digital images utilizing a transformer-based encoder-decoder,0,G06N|G06T
+12051175,2024-07-30,View synthesis with spatial and rotational consistency,0,G06N|G06T
+12051143,2024-07-30,Dynamic path animation of animation layers and digital design objects,0,G06F|G06T
+12050647,2024-07-30,Open-domain trending hashtag recommendations,0,G06F|G06N|G06Q
+12047355,2024-07-23,Machine learning techniques for mitigating aggregate exposure of identifying information,0,G06N|H04L
+12047273,2024-07-23,Active control system for data stream allocation,0,H04L
+12045963,2024-07-23,Detecting object relationships and editing digital images based on the object relationships,0,G06F|G06T|G06V
+12045701,2024-07-23,Dynamically adjusting a serverless execution container pool for training and utilizing online machine-learning models,0,G06F|G06N
+12045272,2024-07-23,Auto-creation of custom models for text summarization,1,G06F|G06N
+12039882,2024-07-16,Images for the visually impaired,0,G06F|G06V|G09B
+12039657,2024-07-16,View synthesis of a dynamic scene,2,G06N|G06T
+12039634,2024-07-16,Three-dimensional vector-based brushes,0,G06T
+12038962,2024-07-16,Syntopical reading for collection understanding,0,G06F|G06N
+12038960,2024-07-16,Using neural networks to detect incongruence between headlines and body text of documents,0,G06F|G06N|G06V
+12038897,2024-07-16,Document co-editing using a Forest representation,0,G06F|G06Q|G06T
+12033670,2024-07-09,Editing portrait videos,0,G06T|G06V|G11B
+12033669,2024-07-09,Snap point video segmentation identifying selection snap points for a video,0,G06F|G06V|G10L|G11B
+12033261,2024-07-09,Contact-aware retargeting of motion,0,G06N|G06T|G06V
+12033251,2024-07-09,Automatically generating semantic layers in a graphic design document,0,G06N|G06T|G06V
+12033249,2024-07-09,Aggregating and visualizing viewer interactions with graphical elements within streamed video content,0,G06F|G06T|G09B|H04L
+12033174,2024-07-09,Providing display content using RFID tags in geo-fenced zones,0,G06K|G06Q|H04W
+12032907,2024-07-09,Transfer learning and prediction consistency for detecting offensive spans of text,1,G06F
+12032640,2024-07-09,"Automated content selection based on multiple surface inputs, behavior and machine learning",0,G06F|G06N
+12032607,2024-07-09,Context-based recommendation system for feature search,0,G06F|G06N
+12028539,2024-07-02,Generating multi-pass-compressed-texture images for fast delivery,0,H04N
+12027184,2024-07-02,Auto-generating video to illustrate a procedural document,0,G06F|G06N|G06V|G10L|G11B|H04N
+12026857,2024-07-02,Automatically removing moving objects from video streams,0,G06F|G06T|G06V|H04N
+12026809,2024-07-02,Systems for generating anti-aliased vector objects,0,G06T
+12026365,2024-07-02,Constrained stroke editing for digital content,0,G06F
+12026141,2024-07-02,Data storage system conflict management,0,G06F
+12026046,2024-07-02,Error log anomaly detection,0,G06F|G06N
+12021812,2024-06-25,Facilitating time zone prediction based on electronic communication data,0,G06F|G06N|H04L
+12020446,2024-06-25,Offset object alignment operations,0,G06F|G06T
+12020414,2024-06-25,Utilizing deep neural networks to automatically select instances of detected objects in images,0,G06F|G06T
+12020403,2024-06-25,Semantically-aware image extrapolation,0,G06N|G06T|G06V
+12020400,2024-06-25,Upsampling and refining segmentation masks,0,G06T|G06V
+12020209,2024-06-25,Digital asset and design component tracking in a collaborative environment,0,G06F|G06Q
+12020195,2024-06-25,Systems for generating interactive reports,0,G06N|G06Q|G06T
+12019982,2024-06-25,Event understanding with deep learning,2,G06F|G06N
+12019671,2024-06-25,Locally constrained self-attentive sequential recommendation,1,G06F|G06N
+12015550,2024-06-18,Tree based in-place mechanism for pathfinding operations,1,G06T|H04L
+12014548,2024-06-18,Hierarchical segmentation based on voice-activity,0,G06F|G06V|G10L|G11B
+12014452,2024-06-18,Web-based digital image editing in real time utilizing a latent vector stream renderer and an image modification neural network,0,G06N|G06T
+12014217,2024-06-18,Scheduling and control of executable jobs over compute instances,0,G06F|G06N
+12014043,2024-06-18,Systems for accessible digital painting,0,G06F
+12013883,2024-06-18,Cross view template recommendation system,0,G06F
+12010296,2024-06-11,Lossless image compression using block based prediction and optimized context adaptive entropy coding,0,H04N
+12008739,2024-06-11,Automatic photo editing via linguistic request,0,G06F|G06N|G06T|G10L
+12008734,2024-06-11,Generating image masks from digital images via color density estimation and deep learning models,0,G06T
+12008710,2024-06-11,Generating light-source-specific parameters for digital images using a neural network,0,G06N|G06T
+12008698,2024-06-11,Image segmentation using text embedding,0,G06T|G06V
+12008589,2024-06-11,Discovering causal relationships in mixed datasets,0,G06F|G06N|G06Q
+12008464,2024-06-11,Neural network based face detection and landmark localization,0,G06F|G06N|G06T|G06V
+12008033,2024-06-11,Determining user affinities for content generation applications,0,G06F|G06N|G06Q|H04L
+12002266,2024-06-04,Graph-based video instance segmentation,0,G06F|G06N|G06T|G06V
+12002246,2024-06-04,Systems for digital image compression using context-based pixel predictor selection,0,G06N|G06T|H04N
+12002133,2024-06-04,Vector object jitter application,0,G06T
+12002085,2024-06-04,Digital image ordering using object position and aesthetics,0,G06F|G06Q|G06V
+12001520,2024-06-04,Generating simulated images that enhance socio-demographic diversity,0,G06F|G06N|G06V
+11997056,2024-05-28,Language model with external knowledge base,0,G06F|G06N|H04L
+11995894,2024-05-28,Interacting with hierarchical clusters of video segments using a metadata panel,0,G06T|G06V|G11B
+11995547,2024-05-28,Predicting and visualizing outcomes using a time-aware recurrent neural network,0,G06N
+11995520,2024-05-28,Efficiently determining local machine learning model feature contributions,0,G06F|G06N
+11995403,2024-05-28,Teaching a machine classifier to recognize a new class,0,G06F|G06N
+11995394,2024-05-28,Language-guided document editing,2,G06F|G06N|G10L
+11995158,2024-05-28,Techniques for predicting leakage of a serial number,0,G06F
+11995048,2024-05-28,Lifelong schema matching,0,G06F|G06N|G06V
+11990156,2024-05-21,Scene-based edit suggestions for videos,0,G06T|G06V|G11B
+11989923,2024-05-21,Generating semantic scene graphs from ungrounded label graphs and visual graphs for digital images,0,G06F|G06N|G06V
+11989824,2024-05-21,Generating enriched light sources based on surface-centric representations,0,G06T
+11989807,2024-05-21,Rendering scalable raster content,0,G06T
+11989806,2024-05-21,Continuous curve textures,0,G06T
+11989647,2024-05-21,Self-learning scheduler for application orchestration on shared compute cluster,0,G06F|G06N|H04L
+11989505,2024-05-21,Generating personalized digital design template recommendations,0,G06F|G06N
+11989242,2024-05-21,Generating sequential segments with pre-sequence or post-sequence analytics data,0,G06F|H04L
+11989201,2024-05-21,Generating varied-scale visualizations of multi-dimensional data,0,G06F
+11983946,2024-05-14,Refining element associations for form structure extraction,0,G06F|G06N|G06V
+11983854,2024-05-14,Denoising images rendered using Monte Carlo renderings,1,G06N|G06T|G06V
+11983632,2024-05-14,Generating and utilizing pruned neural networks,0,G06N
+11983628,2024-05-14,Attribute control techniques for image editing,2,G06F|G06N|G06T|G06V
+11983205,2024-05-14,Semantic phrasal similarity,0,G06F|G06N
+11978272,2024-05-07,Domain adaptation for machine learning models,0,G06F|G06N|G06V
+11978216,2024-05-07,Patch-based image matting using deep learning,0,G06N|G06T
+11978144,2024-05-07,Resolving garment collisions using neural networks,0,G06T
+11978067,2024-05-07,Determining patterns within a string sequence of user actions,0,G06F|G06Q
+11977829,2024-05-07,Generating scalable and semantically editable font representations,0,G06F|G06N|G06T
+11972757,2024-04-30,Digital media environment for conversational image editing and enhancement,0,G06F|G06T|G10L
+11972569,2024-04-30,Segmenting objects in digital images utilizing a multi-object segmentation model framework,0,G06T
+11972534,2024-04-30,Modifying materials of three-dimensional digital scenes utilizing a visual neural network,0,G06F|G06N|G06T
+11972512,2024-04-30,Directional editing of digital images,1,G06T
+11972477,2024-04-30,Systems and methods for customer journey optimization,0,G06Q
+11972466,2024-04-30,"Computer storage media, method, and system for exploring and recommending matching products across categories",0,G06F|G06N|G06Q
+11972201,2024-04-30,Facilitating auto-completion of electronic forms with hierarchical entity data models,0,G06F
+11971885,2024-04-30,Retrieval aware embedding,1,G06F|G06N
+11971884,2024-04-30,Interactive search experience using machine learning,0,G06F|G06N|G06Q|H04L
+11967128,2024-04-23,Decompositional learning for color attribute prediction,0,G06F|G06T|G06V
+11967053,2024-04-23,Evenly spaced curve sampling technique for digital visual content transformation,0,G06T
+11967049,2024-04-23,Techniques for image attribute editing using neural networks,0,G06N|G06T|G06V
+11967011,2024-04-23,Providing and utilizing a one-dimensional layer motion element to generate and manage digital animations,0,G06F|G06T
+11967010,2024-04-23,Digital artboard angular snapping guides,0,G06T
+11966849,2024-04-23,Image processing network search for deep image priors,0,G06N|G06T
+11966414,2024-04-23,Synchronization of components of digital assets during live co-editing,0,G06F
+11961188,2024-04-16,Neural networks to generate appearance-responsive material map sets in digital graphical environments,0,G06N|G06T
+11961109,2024-04-16,Multi-objective customer journey optimization,0,G06F|G06N|G06Q
+11960843,2024-04-16,Multi-module and multi-task machine learning system based on an ensemble of datasets,1,G06F|G06N|G06V
+11960823,2024-04-16,Missing glyph replacement system,0,G06F
+11960818,2024-04-16,Automatic detection and removal of typographic rivers in electronic documents,0,G06F
+11960520,2024-04-16,Hierarchical topic model with an interpretable topic hierarchy,0,G06F
+11960517,2024-04-16,Dynamic cross-platform ask interface and natural language processing model,1,G06F
+11954431,2024-04-09,Intelligent change summarization for designers,0,G06F|G06Q
+11954309,2024-04-09,Systems for predicting a terminal event,0,G06F|G06N
+11949964,2024-04-02,Generating action tags for digital videos,0,G06N|G06V|H04N
+11949923,2024-04-02,Trigger based digital content caching,0,H04N
+11948566,2024-04-02,"Extensible search, content, and dialog management system with human-in-the-loop curation",0,G06F|G10L
+11948387,2024-04-02,Optimized policy-based active learning for content detection,0,G06F|G06N|G06V
+11948358,2024-04-02,Self-supervised hierarchical event representation learning,0,G06N|G06V
+11948281,2024-04-02,Guided up-sampling for image inpainting,2,G06T
+11948095,2024-04-02,Method and system for recommending digital content,0,G06N
+11948094,2024-04-02,Selecting attributes by progressive sampling to generate digital predictive models,0,G06N
+11948058,2024-04-02,Utilizing recurrent neural networks to recognize and extract open intent from text inputs,1,G06F|G06N
+11947986,2024-04-02,"Tenant-side detection, classification, and mitigation of noisy-neighbor-induced performance degradation",0,G06F|G06N|H04L
+11947983,2024-04-02,Customizing digital content tutorials based on tool proficiency,0,G06F|G06T
+11947896,2024-04-02,Font recommendation,0,G06F|G06V
+11947545,2024-04-02,Systems and methods for configuring data stream filtering,0,G06F
+11947446,2024-04-02,Systems and methods for customer journey orchestration,0,G06F|G06Q
+11946753,2024-04-02,Generating digital event recommendation sequences utilizing a dynamic user preference interface,0,G01C|G06Q|H04W
+11941884,2024-03-26,Multi-source panoptic feature pyramid network,0,G06F|G06N|G06T|G06V
+11941782,2024-03-26,GPU-based lens blur rendering using depth maps,0,G06T
+11941775,2024-03-26,Three-dimensional folding tool,0,G06F|G06T
+11941747,2024-03-26,Delivering a virtual environment with dynamic level of detail per object,0,G06F|G06N|G06T
+11941746,2024-03-26,Accurate smooth occluding contours,0,G06T
+11941727,2024-03-26,Systems and methods for facial image generation,0,G06T|G06V
+11941508,2024-03-26,Dialog system with adaptive recurrent hopping and dual context encoding,0,G06F|G06N
+11941494,2024-03-26,Notebook interface for authoring enterprise machine learning models,0,G06F|G06N
+11941360,2024-03-26,Acronym definition network,0,G06F|G06N
+11941232,2024-03-26,Context-based copy-paste systems,0,G06F|G06T
+11941049,2024-03-26,Adaptive search results for multimedia search queries,0,G06F
+11935217,2024-03-19,Generating deep harmonized digital images,2,G06N|G06T
+11935207,2024-03-19,Spacing guides for objects in perspective views,0,G06F|G06T
+11935085,2024-03-19,Electronic shopping cart prediction and caching of electronic shopping cart computations,0,G06Q
+11935080,2024-03-19,Reinforcement machine learning for personalized intelligent alerting,0,G06F|G06N|G06Q
+11934958,2024-03-19,Compressing generative adversarial neural networks,0,G06N|G06T
+11934846,2024-03-19,Job modification to present a user interface based on a user interface update rate,1,G06F
+11934647,2024-03-19,Utilizing modularized action blocks in a graphical user interface to generate digital images with custom modifications,0,G06F|G06T
+11934452,2024-03-19,Text-based color palette searches utilizing text-to-color models,0,G06F|G06T
+11934448,2024-03-19,Keyword localization digital image search,0,G06F
+11930303,2024-03-12,Automated digital parameter adjustment for digital images,0,G06T|H04N
+11930116,2024-03-12,Securely communicating service status in a distributed network environment,0,H04L
+11928762,2024-03-12,Asynchronous multi-user real-time streaming of web-based image edits using generative adversarial network(s),0,G06N|G06T|H04L|H04N
+11928757,2024-03-12,Partially texturizing color images for color accessibility,0,G06T
+11928418,2024-03-12,Text style and emphasis suggestions,0,G06F|G06N|G06T
+11922695,2024-03-05,Hierarchical segmentation based software tool usage in a video,0,G06F|G06V|G10L|G11B
+11922691,2024-03-05,Augmented reality systems for comparing physical objects,0,G06T|G06V|H04N
+11922544,2024-03-05,Utilizing clustering to synthesize vector patterns in digital images,0,G06F|G06T
+11922110,2024-03-05,Responsive document authoring,0,G06F
+11921777,2024-03-05,Machine learning for digital image selection across object variations,1,G06F|G06N|G06Q|G06V
+11915520,2024-02-27,Finding similar persons in images,0,G06F|G06V
+11915343,2024-02-27,Color representations for textual phrases,0,G06F|G06N|G06T|G06V
+11915341,2024-02-27,Repeat object blending,0,G06T|G06V
+11915133,2024-02-27,Techniques for smooth region merging in image editing,4,G06F|G06N|G06T|G06V
+11915054,2024-02-27,Scheduling jobs on interruptible cloud computing instances,0,G06F|G06Q
+11914951,2024-02-27,Semantically-guided template generation from image content,0,G06F|G06N|G06V
+11914681,2024-02-27,Determining and selecting operation features for digital content editing operations within an operation sequence,0,G06F|G06T|H04N
+11914665,2024-02-27,Multi-modal machine-learning model training for search,0,G06F|G06N|H04L
+11914641,2024-02-27,Text to color palette generator,1,G06F|G06N|G06V
+11914635,2024-02-27,Performing image search based on user input using neural networks,0,G06F
+11909579,2024-02-20,Autonomous auditing and remediation of it asset records,0,G06F|H04L
+11908063,2024-02-20,Displacement-centric acceleration for ray tracing,0,G06T
+11908036,2024-02-20,Refining image acquisition data through domain adaptation,0,G06N|G06T|G06V
+11907839,2024-02-20,Detail-preserving image editing techniques,4,G06F|G06N|G06T|G06V
+11907816,2024-02-20,Entropy based synthetic data generation for augmenting classification system training data,0,G06F|G06N
+11907646,2024-02-20,HTML element based rendering supporting interactive objects,0,G06F
+11907643,2024-02-20,Dynamic persona-based document navigation,0,G06F|G06N|G06V
+11907531,2024-02-20,Optimizing storage-related costs with compression in a multi-tiered storage device,0,G06F|H03M
+11907515,2024-02-20,Digital image object anchor points,0,G06F|G06T
+11907508,2024-02-20,Content analytics as part of content creation,1,G06F|G06N|G06T|G06V
+11907338,2024-02-20,Retrieving images that correspond to a target subject matter within a target context,0,G06F|G06N|G06T|G06V|G09G
+11907320,2024-02-20,Digital content operation testing,0,G06F|H04L
+11907280,2024-02-20,Text adjusted visual search,0,G06F
+11907232,2024-02-20,Facilitating efficient identification of relevant data,0,G06F|G06N|G06Q|H04L
+11907224,2024-02-20,Facilitating search result removal,0,G06F
+11900902,2024-02-13,Deep encoder for performing audio processing,5,G06N|G10H|H03G|H04R|H04S
+11900611,2024-02-13,Generating object masks of object parts utlizing deep learning,0,G06T
+11900558,2024-02-13,Reconstructing three-dimensional models of objects from real images based on depth information,0,G06F|G06N|G06T|G06V
+11900519,2024-02-13,Disentangling latent representations for image reenactment,0,G06N|G06T
+11900514,2024-02-13,Digital content editing using a procedural model,0,G06T
+11900510,2024-02-13,Glyph size control for digital content,0,G06F|G06K|G06T
+11900056,2024-02-13,Stylistic text rewriting for a target author,0,G06F|G06N|G06V
+11899927,2024-02-13,Simulated handwriting image generator,1,G06F|G06N|G06V
+11899917,2024-02-13,Zoom and scroll bar for a video timeline,1,G06F
+11899693,2024-02-13,Trait expansion techniques in binary matrix datasets,0,G06F
+11893794,2024-02-06,"Hierarchical segmentation of screen captured, screencasted, or streamed video",0,G06F|G06V|G10L|G11B
+11893792,2024-02-06,Integrating video content into online product listings to demonstrate product features,0,G06F|G06N|G06Q|G06V
+11893763,2024-02-06,Generating modified digital images utilizing a global and spatial autoencoder,0,G06N|G06T
+11893717,2024-02-06,Initializing a learned latent vector for neural-network projections of diverse images,0,G06F|G06N|G06T|G06V
+11893352,2024-02-06,Dependency path reasoning for measurement extraction,0,G06F
+11893345,2024-02-06,Inducing rich interaction structures between words for document-level event argument extraction,0,G06F|G06N
+11893338,2024-02-06,Merging selected digital point text objects,0,G06F|G06T
+11893007,2024-02-06,Embedding codebooks for resource optimization,0,G06F|H03M|H04N
+11887629,2024-01-30,Interacting with semantic video segments through interactive tiles,0,G06F|G06V|G10L|G11B
+11887277,2024-01-30,Removing compression artifacts from digital images and videos utilizing generative machine-learning models,0,G06N|G06T|H04N
+11887241,2024-01-30,Learning 2D texture mapping in volumetric neural rendering,1,G06N|G06T
+11887217,2024-01-30,Text editing of digital images,0,G06F|G06T|G06V
+11887216,2024-01-30,High resolution conditional face generation,0,G06N|G06T|G06V
+11886964,2024-01-30,Provisioning interactive content based on predicted user-engagement levels,1,G06F|G06N|H04L
+11886825,2024-01-30,Aspect-based sentiment analysis,0,G06F|G06N
+11886815,2024-01-30,Self-supervised document representation learning,0,G06F|G06N
+11886809,2024-01-30,Identifying templates based on fonts,1,G06F|G06N
+11886803,2024-01-30,Assistive digital form authoring,0,G06F
+11886795,2024-01-30,Aesthetic marking of text in digital typography,0,G06F
+11886793,2024-01-30,Textual design agent,0,G06F
+11886768,2024-01-30,Real time generative audio for brush and canvas interaction in digital drawing,0,G06F|G06N
+11886494,2024-01-30,Utilizing natural language processing automatically select objects in images,1,G06F|G06N|G06T|G06V
+11886480,2024-01-30,Detecting affective characteristics of text with gated convolutional encoder-decoder framework,0,G06F|G06N
+11880977,2024-01-23,Interactive image matting using neural networks,3,G06N|G06T
+11880957,2024-01-23,Few-shot image generation via self-adaptation,0,G06N|G06T
+11880913,2024-01-23,Generation of stylized drawing of three-dimensional shapes using neural networks,1,G06N|G06T
+11880766,2024-01-23,Techniques for domain to domain projection using a generative model,4,G06F|G06N|G06T|G06V
+11880655,2024-01-23,Fact correction of natural language sentences using data tables,2,G06F|G06N
+11880648,2024-01-23,Automatic semantic labeling of form fields with limited annotations,0,G06F|G06N
+11880408,2024-01-23,Interacting with hierarchical clusters of video segments using a metadata search,0,G06F|G06T|G11B
+11875781,2024-01-16,Audio-based media edit point selection,0,G06F|G10L
+11875585,2024-01-16,Semantic cluster formation in deep learning intelligent assistants,0,G06F|G06N|G06V
+11875512,2024-01-16,Attributionally robust training for weakly supervised localization and segmentation,0,G06F|G06N|G06T|G06V
+11875510,2024-01-16,Generating refined segmentations masks via meticulous object segmentation,4,G06N|G06T|G06V
+11875462,2024-01-16,Systems for augmented reality authoring of remote environments,0,G06T
+11875446,2024-01-16,Procedural media generation,0,G06T|G06V
+11875442,2024-01-16,Articulated part extraction from sprite sheets using machine learning,0,G06T|G06V
+11875435,2024-01-16,Generating scalable fonts utilizing multi-implicit neural font representations,0,G06T
+11875260,2024-01-16,Reducing architectural complexity of convolutional neural networks via channel pruning,0,G06N
+11875221,2024-01-16,Attribute decorrelation techniques for image editing,5,G06F|G06N|G06T|G06V
+11874902,2024-01-16,Text conditioned image search based on dual-disentangled feature composition,0,G06F|G06N|G06Q|G06V
+11871145,2024-01-09,Optimization of adaptive convolutions for video frame interpolation,0,G06N|G06T|H04N
+11869173,2024-01-09,Image inpainting based on multiple image transformations,1,G06N|G06T
+11869172,2024-01-09,Kernel reshaping-powered splatting-based efficient image space lens blur,0,G06T
+11869132,2024-01-09,Neural network based 3D object surface mapping,1,G06N|G06T
+11869125,2024-01-09,Generating composite images with objects from different times,2,G06F|G06T|G06V
+11869123,2024-01-09,Anti-aliasing two-dimensional vector graphics using a compressed vertex buffer,0,G06T
+11869021,2024-01-09,Segment valuation in a digital medium environment,0,G06N|G06Q
+11868889,2024-01-09,Object detection in images,0,G06F|G06N|G06V
+11868733,2024-01-09,Creating a knowledge graph based on text-based knowledge corpora,0,G06F|G06N
+11868714,2024-01-09,Facilitating generation of fillable document templates,0,G06F
+11861779,2024-01-02,Digital object animation using control points,0,G06F|G06T|G06V
+11861772,2024-01-02,Generating images for virtual try-on and pose transfer,0,G06N|G06T
+11861763,2024-01-02,Contrast ratio color picker,0,G06T
+11861762,2024-01-02,Generating synthesized digital images utilizing class-specific machine-learning models,1,G06T
+11861664,2024-01-02,Keyword bids determined from sparse data,0,G06F|G06Q
+11861636,2024-01-02,Providing insights and suggestions for journeys,0,G06N|G06Q
+11861464,2024-01-02,Graph data structure for using inter-feature dependencies in machine-learning,1,G06F|G06N
+11860972,2024-01-02,Sequential hypothesis testing in a digital medium environment using continuous data,0,G06F|G06Q
+11860932,2024-01-02,Scene graph embeddings using relative similarity supervision,1,G06F|G06N|G06V
+11860675,2024-01-02,Latent network summarization,0,G06F
+11854244,2023-12-26,Labeling techniques for a modified panoptic labeling neural network,1,G06F|G06N|G06V
+11854206,2023-12-26,Temporally distributed neural networks for video semantic segmentation,0,G06F|G06N|G06T|G06V
+11854131,2023-12-26,Content-specific-preset edits for digital images,0,G06N|G06T
+11854128,2023-12-26,Automated digital tool identification from a rasterized image,0,G06F|G06T|G06V
+11854119,2023-12-26,Automatic object re-colorization,0,G06N|G06T
+11854115,2023-12-26,Vectorized caricature avatar generator,0,G06T|G06V
+11853723,2023-12-26,Application digital content control using an embedded machine learning module,0,G06F|G06N
+11853688,2023-12-26,Automatic detection and removal of typesetting errors in electronic documents,0,G06F
+11853348,2023-12-26,Multidimensional digital content search,0,G06F|G06N
+11847725,2023-12-19,Performing interactive digital image operations utilizing modified machine learning models,0,G06N|G06T
+11847496,2023-12-19,System and method for training and selecting equivalence class prediction modules for resource usage prediction,1,G06F|G06N
+11847159,2023-12-19,Detecting typography elements from outlines,0,G06F|G06V
+11843682,2023-12-12,Prepopulating an edge server cache,0,H04L
+11842468,2023-12-12,Synthesizing digital images utilizing image-guided model inversion of an image classifier,0,G06F|G06N|G06T|G06V
+11842463,2023-12-12,Deblurring motion in videos,1,G06N|G06T|G06V
+11842443,2023-12-12,Rendering three-dimensional objects utilizing sharp tessellation,0,G06T
+11842165,2023-12-12,Context-based image tag translation,0,G06F
+11842140,2023-12-12,Constructing a path for character glyphs,0,G06F|G06V
+11838207,2023-12-05,Systems for session-based routing,0,H04L
+11836932,2023-12-05,Classifying motion in a video using detected visual features,0,G06F|G06T|G06V
+11836897,2023-12-05,Table shifting and skewing,0,G06T
+11836850,2023-12-05,Visually augmenting images of three-dimensional containers with virtual elements,0,G06T
+11836832,2023-12-05,Adaptable drawing guides,0,G06F|G06T
+11836187,2023-12-05,Generating occurrence contexts for objects in digital content collections,1,G06F|G06N|G06V
+11836172,2023-12-05,Facilitating generation of data visualizations via natural language processing,0,G06F|G06N
+11830138,2023-11-28,Predicting secondary motion of multidimentional objects based on local patch features,0,G06N|G06T
+11830110,2023-11-28,Authoring and optimization of accessible color themes,0,A61B|G06Q|G06T|G09B|G09G
+11830099,2023-11-28,Machine learning modeling for protection against online disclosure of sensitive data,0,G06F|G06N|G06Q
+11829940,2023-11-28,Item transfer control systems,0,G06F|G06Q
+11829880,2023-11-28,Generating trained neural networks with increased robustness against adversarial attacks,0,G06F|G06N|H04L
+11829710,2023-11-28,Deriving global intent from a composite document to facilitate editing of the composite document,2,G06F|G06V
+11829705,2023-11-28,Facilitating generation and presentation of advanced insights,0,G06F
+11829703,2023-11-28,Parallel object analysis for efficiently generating layouts in digital design documents,0,G06F|G06T
+11829239,2023-11-28,Managing machine learning model reconstruction,1,G06F
+11823490,2023-11-21,Non-linear latent to latent model for multi-attribute face editing,0,G06N|G06T|G06V
+11823391,2023-11-21,Utilizing soft classifications to select input parameters for segmentation algorithms and identify segments of three-dimensional digital models,0,G06T|G06V
+11823357,2023-11-21,Corrective lighting for video inpainting,0,G06T
+11823322,2023-11-21,Utilizing voxel feature transformations for view synthesis,0,G06T|G06V
+11823313,2023-11-21,Performing patch matching guided by a transformation gaussian mixture model,0,G06T|G06V
+11823217,2023-11-21,Advanced segmentation with superior conversion potential,0,G06N|G06Q
+11823059,2023-11-21,Generating a personalized preference ranking network for providing visually-aware item recommendations,0,G06F|G06N
+11822893,2023-11-21,Machine learning models for detecting topic divergent digital videos,0,G06F|G06N
+11822887,2023-11-21,Robust name matching with regularized embeddings,0,G06F|G06N
+11822882,2023-11-21,Automatic enhancement of paragraph justification,0,G06F
+11822868,2023-11-21,Augmenting text with multimedia assets,0,G06F
+11822700,2023-11-21,Method and system to maintain the integrity of a certified document while persisting state in a dynamic form,0,G06F
+11822595,2023-11-21,Incremental agglomerative clustering of digital images,0,G06F|G06V
+11822525,2023-11-21,Enterprise applications driven by common metadata repository,0,G06F
+11817118,2023-11-14,Enhancing review videos,0,G06F|G06N|G06Q|G11B
+11816888,2023-11-14,Accurate tag relevance prediction for image search,0,G06F|G06N|G06V
+11816779,2023-11-14,Rendering textured surface using surface-rendering neural networks,1,G06N|G06T
+11816701,2023-11-14,Techniques for targeting a user based on a psychographic profile,0,G06Q
+11816696,2023-11-14,Machine-learning based multi-step engagement strategy modification,0,G06N|G06Q
+11816562,2023-11-14,Digital experience enhancement using an ensemble deep learning model,1,G06N|G06Q
+11816272,2023-11-14,Identifying touchpoint contribution utilizing a touchpoint attribution attention neural network,0,G06F|G06N|G06Q|H04L
+11816243,2023-11-14,Preserving user-entity differential privacy in natural language modeling,0,G06F|G06N
+11816210,2023-11-14,Risk-based alerting for computer security,0,G06F|G06N
+11816181,2023-11-14,Blur classification and blur map estimation,0,G06F|G06T|G06V
+11816162,2023-11-14,Methods and systems for search query language identification,0,G06F|G06N
+11816147,2023-11-14,Enhanced image-search using contextual tags,0,G06F
+11816120,2023-11-14,"Extracting seasonal, level, and spike components from a time series of metrics data",0,G06F|H04L
+11812254,2023-11-07,Generating scene-aware audio using a neural network-based acoustic analysis,0,G06N|H04S
+11811592,2023-11-07,Automatic generation and modification of contact streams via machine-learning analytics,0,G06N|H04L
+11810374,2023-11-07,Training text recognition systems,2,G06F|G06V
+11810358,2023-11-07,Video search segmentation,0,G06F|G06V|G11B
+11810326,2023-11-07,Determining camera parameters from a single digital image,0,G06T
+11810255,2023-11-07,Swept volume determination techniques,0,G06T
+11810152,2023-11-07,Automatic item placement recommendations based on entity similarity,0,G06F|G06Q
+11809984,2023-11-07,Automatic tag identification for color themes,0,G01J|G06N
+11809969,2023-11-07,Dynamically integrating interactive machine learning multi-models,0,G06F|G06N
+11809822,2023-11-07,Joint visual-semantic embedding and grounding via multi-task training for image searching,5,G06F|G06N|G06V
+11809819,2023-11-07,Automated form generation system,0,G06F|G06N
+11809806,2023-11-07,Glyph accessibility system,1,G06F|G06T|G06V
+11809455,2023-11-07,Automatically generating user segments,0,G06F|H04L
+11803971,2023-10-31,Generating improved panoptic segmented digital images based on panoptic segmentation neural networks that utilize exemplar unknown object classes,1,G06F|G06T|G06V
+11803950,2023-10-31,Universal style transfer using multi-scale feature transform and user controls,2,G06N|G06T
+11803872,2023-10-31,"Creating meta-descriptors of marketing messages to facilitate in delivery performance analysis, delivery performance prediction and offer selection",0,G06F|G06N|G06Q
+11803691,2023-10-31,Text wrap modification using variable inset,0,G06F|G06T
+11798180,2023-10-24,Generating depth images utilizing a machine-learning model built from mixed digital image sources and multiple loss function sets,1,G06T
+11798018,2023-10-24,Efficient feature selection for predictive models using semantic classification and generative filtering,0,G06F|G06N|G06Q
+11797919,2023-10-24,Document-based distributed inventory system with rebalancing,0,G06F|G06Q
+11797847,2023-10-24,Selecting instances of detected objects in images utilizing object detection models,0,G06F|G06N|G06T|G06V|G10L
+11797823,2023-10-24,Model training with retrospective loss,0,G06F|G06N|G06V
+11797515,2023-10-24,Determining feature contributions to data metrics utilizing a causal dependency model,1,G06F
+11797161,2023-10-24,Systems for generating sequential supporting answer reports,0,G06F
+11790581,2023-10-17,Transferring hairstyles between portrait images utilizing deep latent representations,0,G06N|G06T|G06V
+11790379,2023-10-17,Bayesian estimation of the effect of aggregate advertising on web metrics,0,G06N|G06Q|H04L|H04N
+11790234,2023-10-17,Resource-aware training for neural networks,0,G06F|G06N
+11790045,2023-10-17,Auto-tags with object detection and crops,0,G06F|G06T|G06V
+11784954,2023-10-10,Personalized temporary unsubscribe mechanisms for email subscriptions,0,H04L
+11783610,2023-10-10,Document structure identification using post-processing error correction,0,G06N|G06V
+11783584,2023-10-10,Automated digital document generation from digital videos,1,G06F|G06N|G06V
+11783534,2023-10-10,3D simulation of a 3D drawing in virtual reality,0,G06F|G06T
+11783486,2023-10-10,Depicting humans in text-defined outfits,0,G06F|G06N|G06T|G06V
+11783461,2023-10-10,Facilitating sketch to painting transformations,2,G06N|G06T
+11783184,2023-10-10,Kernel prediction with kernel dictionary in image denoising,0,G06N|G06T
+11783008,2023-10-10,Machine-learning tool for generating segmentation and topic metadata for documents,2,G06F|G06V
+11782576,2023-10-10,Configuration of user interface for intuitive selection of insight visualizations,2,G06F|G06N
+11776237,2023-10-03,Mitigating people distractors in images,0,G06F|G06T|G06V
+11776232,2023-10-03,Virtual 3D pointing and manipulation,0,G06F|G06T
+11776189,2023-10-03,Systems for generating digital objects to animate sketches,0,G06F|G06N|G06T|G06V
+11776188,2023-10-03,Style-aware audio-driven talking head animation from a single image,0,G06T|G10L
+11776184,2023-10-03,Sky replacement,1,G06F|G06T
+11776180,2023-10-03,Controlled style-content image generation based on disentangling content and style,0,G06F|G06N|G06T|G06V
+11776179,2023-10-03,Rendering scalable multicolored vector content,0,G06T
+11776168,2023-10-03,Extracting textures from text based images,0,G06T|G06V
+11776164,2023-10-03,Content-adaptive tiling solution via image similarity for efficient image compression,0,G06T|H03M|H04N
+11776036,2023-10-03,Generating and utilizing classification and query-specific models to generate digital responses to queries from client device,0,G06F|G06N|G06Q|G06V
+11775949,2023-10-03,Trusted transaction system for digital asset licensing,0,G06F|G06Q|H04L
+11775817,2023-10-03,Reinforcement learning-based techniques for training a natural media agent,3,G06N|G09G
+11775813,2023-10-03,Generating a recommended target audience based on determining a predicted attendance utilizing a machine learning approach,1,G06N|G06Q
+11775756,2023-10-03,Automated caption generation from a dataset,0,G06F
+11775734,2023-10-03,Multimodal input contextual font recommendations,1,G06F|G06N
+11775582,2023-10-03,Generating visual data stories,0,G06F|G06T
+11775578,2023-10-03,Text-to-visual machine learning embedding techniques,1,G06F|G06N|G06V
+11775561,2023-10-03,Extensible file synchronization,0,G06F
+11775502,2023-10-03,Facilitating efficient and effective anomaly detection via minimal human interaction,1,G06F|G06N|H04L
+11775412,2023-10-03,Machine learning models applied to interaction data for facilitating modifications to online environments,0,G06F|G06N
+11775286,2023-10-03,Systems industry benchmarking and corporation systems tool recommendation,0,G06F|G06N
+11770571,2023-09-26,Matrix completion and recommendation provision with deep learning,0,G06F|G06N|H04M|H04N
+11769281,2023-09-26,Vector object transformation,1,G06F|G06T
+11769280,2023-09-26,Cohesive manipulation of Bezier handles,0,G06F|G06T
+11769279,2023-09-26,Generative shape creation and editing,0,G06N|G06T
+11769227,2023-09-26,Generating synthesized digital images utilizing a multi-resolution generator neural network,0,G06F|G06N|G06T|G06V
+11769111,2023-09-26,Probabilistic language models for identifying sequential reading order of discontinuous text segments,0,G06F|G06Q|G06V
+11769100,2023-09-26,Leading indicators and monitor business KPIs and metrics for preemptive action,0,G06F|G06Q
+11769072,2023-09-26,Document structure extraction using machine learning,2,G06F|G06N|G06V
+11769006,2023-09-26,Parsing and reflowing infographics using structured lists and groups,0,G06F|G06N|G06Q
+11768992,2023-09-26,Digital content design system using baseline units to control arrangement and sizing of digital content,0,G06F
+11768869,2023-09-26,Knowledge-derived search suggestion,1,G06F|G06N
+11763583,2023-09-19,Identifying matching fonts utilizing deep learning,1,G06F|G06V
+11763545,2023-09-19,Generating confidence-adaptive pixel-level predictions utilizing a multi-exit pixel-level prediction neural network,0,G06F|G06N|G06T|G06V
+11763506,2023-09-19,Generating animations in an augmented reality environment,0,G06F|G06T|H04L|H04M|H04W
+11763495,2023-09-19,Few-shot digital image generation using gan-to-gan translation,0,G06F|G06N|G06T|G06V
+11763436,2023-09-19,Facial reconstruction network,0,G06N|G06T|G06V
+11763430,2023-09-19,Correcting dust and scratch artifacts in digital images,1,G06T|G06V
+11763325,2023-09-19,Automated discovery of causal relationships in mixed datasets,0,G06F|G06N|G06Q
+11763065,2023-09-19,Font feature selection for text layout,0,G06F
+11763064,2023-09-19,Glyph accessibility and swash control system,0,G06F
+11763063,2023-09-19,Propagating modifications made to an object to linked objects in a document,0,G06F
+11762951,2023-09-19,Generative image congealing,0,G06F|G06N|G06T
+11762900,2023-09-19,Customized selection of video thumbnails to present on social media webpages,0,G06F|G06V
+11762730,2023-09-19,Selection of outlier-detection programs specific to dataset meta-features,0,G06F|G06N
+11762622,2023-09-19,Interactive remote digital image editing utilizing a scalable containerized architecture,1,G06F|G06T
+11758082,2023-09-12,System for automatic video reframing,0,G06N|G06V|G11B|H04N
+11756337,2023-09-12,Auto-generation of subtitles for sign language videos,0,G06N|G06T|G06V|G09B|H04N
+11756264,2023-09-12,Continuous optimization of discrete parameters using a unified stress indicator,0,G06F|G06T
+11756246,2023-09-12,Modifying a graphic design to match the style of an input design,3,G06F|G06N|G06T|G06V|G11B
+11756239,2023-09-12,Multi-modal image color segmenter and editor,0,G06T
+11756238,2023-09-12,Node lighting,0,G06F|G06T
+11756210,2023-09-12,Video inpainting via machine-learning models with motion constraints,1,G06N|G06T|G06V|G11B
+11756208,2023-09-12,Digital image boundary detection,0,G06T
+11756175,2023-09-12,Fast median filters utilizing separable sorting networks,0,G06T
+11756058,2023-09-12,Intelligent customer journey mining and mapping,0,G06F|G06Q
+11755817,2023-09-12,Systems for generating snap guides relative to glyphs of editable text,1,G06F
+11755570,2023-09-12,Memory-based neural network for question answering,0,G06F|G06N|H04L
+11755187,2023-09-12,Dynamic image filters for modifying a digital image over time according to a dynamic-simulation function,0,G06F|G06T
+11750670,2023-09-05,Electronic signature collection within an online conference,0,G06F|H04L
+11748928,2023-09-05,Face anonymization in digital images,1,G06F|G06N|G06T
+11748796,2023-09-05,Automatic clustering and mapping of user generated content with curated content,0,G06F|G06N|G06Q|G06V
+11748501,2023-09-05,Tagging documents with security policies,0,G06F
+11748451,2023-09-05,Machine learning techniques for differentiability scoring of digital images,0,G06F|G06N|G06T|G06V
+11741611,2023-08-29,Cyclical object segmentation neural networks,0,G06T
+11741190,2023-08-29,Multi-dimensional language style transfer,1,G06F|G06V
+11741157,2023-08-29,Propagating multi-term contextual tags to digital content,0,G06F|G06V
+11734805,2023-08-22,Utilizing context-aware sensors and multi-dimensional gesture inputs to efficiently generate enhanced digital images,0,G06F|G06T|H04M
+11734565,2023-08-22,Systems and methods of training neural networks against adversarial attacks,0,G06F|G06N|G06V
+11734339,2023-08-22,Generating embeddings in a multimodal embedding space for cross-lingual digital image retrieval,2,G06F|G06N
+11734337,2023-08-22,Identifying digital attributes from multiple attribute groups utilizing a deep cognitive attribution neural network,0,G06F|G06N|G06V
+11733785,2023-08-22,Stylizing text by providing alternate glyphs,1,G06F
+11729286,2023-08-15,Feature-based network embedding,0,G06F|H04L
+11727929,2023-08-15,Voice command matching during testing of voice-assisted application prototypes for languages with non-phonetic alphabets,1,G06F|G10L
+11727913,2023-08-15,Automatically associating context-based sounds with text,2,G06F|G10L
+11727636,2023-08-15,Three-dimensional mesh segmentation,0,G06T
+11727614,2023-08-15,Web-based digital image editing in real time utilizing a latent vector stream renderer and an image modification neural network,0,G06N|G06T
+11727209,2023-08-15,Systems for role classification,0,G06F|G06N
+11727192,2023-08-15,Font customization based on stroke properties,1,G06F|G06V
+11727051,2023-08-15,Personalized image recommendations for areas of interest,0,G06F|G06V
+11722845,2023-08-08,System for combining sensor data to determine a relative position,0,G01S|G06T|H04W
+11721056,2023-08-08,Motion model refinement based on contact analysis and optimization,0,G06N|G06T
+11720898,2023-08-08,Biometric identification for payload association and retrieval,0,G06Q|G06V
+11720651,2023-08-08,"Text-conditioned image search based on transformation, aggregation, and composition of visio-linguistic features",1,G06F|G06N|G06V
+11720592,2023-08-08,Generating overlap estimations between high-volume digital data sets based on multiple sketch vector similarity estimators,0,G06F|G06T
+11720590,2023-08-08,Personalized visualization recommendation system,0,G06F
+11714972,2023-08-01,Systems and methods for transferring stylistic expression in machine translation of sequence data,1,G06F
+11714953,2023-08-01,Facilitating dynamic document layout by determining reading order using document content stream cues,1,G06F
+11714531,2023-08-01,Glyph-aware text selection,0,G06F
+11711581,2023-07-25,Multimodal sequential recommendation with window co-attention,0,G06N|G06Q|H04N
+11710312,2023-07-25,Systems and methods for dynamic image category determination,0,G06F|G06N|G06V
+11710262,2023-07-25,Preserving document design using font synthesis,1,G06F|G06T|G06V
+11710065,2023-07-25,Utilizing a bayesian approach and multi-armed bandit algorithms to improve distribution timing of electronic communications,0,G06F|G06N
+11710042,2023-07-25,Shaping a neural network architecture utilizing learnable sampling layers,0,G06N
+11709915,2023-07-25,Classifying images utilizing generative-discriminative feature representations,0,G06F|G06N
+11709885,2023-07-25,Determining fine-grain visual style similarities for digital images by extracting style embeddings disentangled from image content,1,G06F|G06N|G06V
+11709873,2023-07-25,Reader-retriever approach for question answering,1,G06F
+11709858,2023-07-25,Mapping of unlabeled data onto a target schema via semantic type detection,2,G06F|G06N
+11709690,2023-07-25,Generating in-app guided edits including concise instructions and coachmarks,3,G06F|G06N
+11709462,2023-07-25,Safe and efficient training of a control agent,0,G05B|G06N
+11704865,2023-07-18,Inserting three-dimensional objects into digital images with consistent lighting via global and local lighting information,3,G06N|G06T
+11704848,2023-07-18,Systems for generating stroked paths,0,G06T|G06V
+11704843,2023-07-18,Advanced application of color gradients to text,0,G06F|G06T
+11704842,2023-07-18,Digital overpainting controlled by opacity and flow parameters,0,G06F|G06T
+11704598,2023-07-18,Machine-learning techniques for evaluating suitability of candidate datasets for target applications,0,G06F|G06N
+11704591,2023-07-18,Fast and accurate rule selection for interpretable decision sets,0,G06F|G06N
+11704559,2023-07-18,Learning to search user experience designs based on structural similarity,0,G06F|G06N
+11704358,2023-07-18,Search input generation for image search,0,G06F|G06V
+11704357,2023-07-18,Shape-based graphics search,0,G06F|G06V
+11704168,2023-07-18,Templates for mapping data events to API calls,1,G06F
+11703949,2023-07-18,Directional assistance for centering a face in a camera field of view,1,G06F|G06N|G06T|G06V|H04N
+11700302,2023-07-11,Using reinforcement learning to scale queue-based services,0,G06N|H04L
+11699252,2023-07-11,Reconstructing freeform gradients from an input image,0,G06T
+11699035,2023-07-11,Generating message effectiveness predictions and insights,0,G06F|G06N
+11698788,2023-07-11,Path simplification for computer graphics applications,0,G06F|G06T|H03M
+11694440,2023-07-04,Image processing techniques to quickly find a desired object among other objects from a captured video scene,0,G06F|G06Q|G06V
+11694416,2023-07-04,Intuitive editing of three-dimensional models,0,G06F|G06T
+11694376,2023-07-04,Intuitive 3D transformations for 2D graphics,0,G06T
+11694334,2023-07-04,Segmenting objects in vector graphics images,0,G06T
+11694248,2023-07-04,Deep generation of user-customized items,0,G06F|G06N|G06Q|G06T
+11694165,2023-07-04,Key-value memory network for predicting time-series metrics of target entities,0,G06F|G06N|G06Q|G11C
+11694093,2023-07-04,Generation of training data to train a classifier to identify distinct physical user devices in a cross-device context,3,G06N
+11693909,2023-07-04,Data sharing tool for facilitating real-time access to current or updated datasets,0,G06F
+11693880,2023-07-04,Component-based synchronization of digital assets,2,G06F
+11693555,2023-07-04,Pressure value simulation from contact area data,0,G06F|G06T
+11689507,2023-06-27,Privacy preserving document analysis,1,G06F|G06N|G06Q|H04L
+11688190,2023-06-27,Text refinement network,1,G06F|G06N|G06T|G06V
+11688109,2023-06-27,Generating differentiable procedural materials,1,G06N|G06T
+11688108,2023-06-27,Generating procedural textures with the aid of particles,0,G06T
+11687716,2023-06-27,Machine-learning techniques for augmenting electronic documents with data-verification indicators,0,G06F|G06N
+11687714,2023-06-27,Systems and methods for generating text descriptive of digital images,1,G06F|G06N
+11687516,2023-06-27,Using an action registry to edit data across users and devices,0,G06F|H04L
+11687352,2023-06-27,Machine-learning models applied to interaction data for determining interaction goals and facilitating experience-based modifications to interface elements in online environments,0,G06F|G06N
+11683354,2023-06-20,Systems for resolving conflicts in collaborative digital content editing,0,G06F|H04L
+11682238,2023-06-20,Re-timing a video sequence to an audio sequence based on motion and audio beat detection,0,G06T|G06V|G10H|G11B|H04N
+11682166,2023-06-20,Fitting 3D primitives to a high-resolution point cloud,0,G06N|G06T
+11682149,2023-06-20,Editing digital images utilizing edge aware transformations based on vector splines and meshes for multiple image regions,0,G06T
+11682146,2023-06-20,Vector object path segment editing,0,G06T
+11682126,2023-06-20,Material capture using imaging,0,G01N|G06T
+11682031,2023-06-20,Artificial intelligence tool to predict user behavior in an interactive environment,0,G06F|G06Q
+11681919,2023-06-20,Automatically selecting query objects in digital images,1,G06F|G06N|G06V
+11681737,2023-06-20,Electronic media retrieval,0,G06F|G06N
+11681417,2023-06-20,Accessibility verification and correction for digital content,0,G06F
+11677897,2023-06-13,Generating stylized images in real time on mobile devices,2,G06N|G06T|G06V|H04N
+11677835,2023-06-13,Reducing network bandwidth for remote content display,0,H04L
+11676314,2023-06-13,Boundary correspondence determination for digital objects,0,G06N|G06T
+11676283,2023-06-13,Iteratively refining segmentation masks,0,G06T
+11676282,2023-06-13,Enhanced semantic segmentation of images,0,G06N|G06T
+11676279,2023-06-13,Utilizing a segmentation neural network to process initial object segmentations and object user indicators within a digital image to generate improved object segmentations,2,G06N|G06T
+11676060,2023-06-13,Digital content interaction prediction and training that addresses imbalanced classes,2,G06N|G06Q
+11675963,2023-06-13,Suggestion techniques for documents to-be-translated,1,G06F|G06N|G06V
+11670114,2023-06-06,Utilizing a machine learning model trained to determine subtle pose differentiations to automatically capture digital images,0,G06F|G06T|G06V
+11670085,2023-06-06,Personalizing videos with nonlinear playback,2,G06F|G06V|G11B
+11670042,2023-06-06,Learning material reconstruction from a single image,1,G06F|G06N|G06T|G06V
+11670023,2023-06-06,Artificial intelligence techniques for performing image editing operations inferred from natural language requests,2,G06T|G10L
+11669996,2023-06-06,Automatic image cropping based on ensembles of regions of interest,0,G06F|G06T|G06V
+11669986,2023-06-06,Generating enhanced three-dimensional object reconstruction models from sparse set of object images,0,G06T|H04N
+11669768,2023-06-06,Utilizing relevant offline models to warm start an online bandit learner model,1,G06F|G06N
+11669755,2023-06-06,Detecting cognitive biases in interactions with analytics data,0,G06F|G06N|G06Q
+11669566,2023-06-06,Multi-resolution color-based image search,2,G06F|G06V
+11665358,2023-05-30,Generating multi-pass-compressed-texture images for fast delivery,0,H04N
+11665073,2023-05-30,Facilitating changes to online computing environment by assessing impacts of temporary interventions,0,H04L
+11663775,2023-05-30,Generating physically-based material maps,0,G06N|G06T
+11663763,2023-05-30,Image-to-image translation using an auto-regressive generative model,0,G06T
+11663762,2023-05-30,Preserving regions of interest in automatic image cropping,0,G06T
+11663540,2023-05-30,Ad hoc group management within a collaboration project sharing workflow,0,G06Q
+11663497,2023-05-30,Facilitating changes to online computing environment by assessing impacts of actions using a knowledge base representation,1,G06F|G06N|G06Q
+11663481,2023-05-30,Neural network architecture pruning,0,G06N
+11663467,2023-05-30,Methods and systems for geometry-aware image contrast adjustments via image-based ambient occlusion estimation,0,G06N|G06T
+11663463,2023-05-30,Center-biased machine learning techniques to determine saliency in digital images,0,G06N|G06V
+11663398,2023-05-30,Mapping annotations to ranges of text across documents,0,G06F
+11663394,2023-05-30,Systems for generating instances of variable fonts,0,G06F|G06T
+11663265,2023-05-30,Enhanced image search via controllable attributes,0,G06F|G06N
+11663264,2023-05-30,Keyword localization digital image search,1,G06F
+11657802,2023-05-23,Utilizing a dynamic memory network for state tracking,0,G06F|G06N|G10L|H04L
+11657649,2023-05-23,Classification of subjects within a digital image,0,G06T|G06V
+11657588,2023-05-23,Physics based manipulation,0,G06F|G06T
+11657562,2023-05-23,Utilizing hemispherical clamping for importance sampling of image-based light to render a virtual environment,0,G06T
+11657552,2023-05-23,Generating illuminated two-dimensional vector graphics using path tracing,0,G06F|G06T|G06V
+11657546,2023-05-23,End-to-end relighting of a foreground object technical,0,G06T
+11657510,2023-05-23,Automatic sizing and placement of text within a digital image,0,G06T
+11657306,2023-05-23,Form structure extraction by predicting associations,2,G06F|G06N|G06V
+11657255,2023-05-23,Controlling a neural network through intermediate latent spaces,1,G06N
+11657230,2023-05-23,Referring image segmentation,2,G06F|G06T|G06V
+11657225,2023-05-23,Generating summary content tuned to a target characteristic using a word generation model,1,G06F|G06N
+11652844,2023-05-16,Utilizing clustering to identify IP addresses used by a botnet,0,H04L
+11651536,2023-05-16,Directional pattern generation for digital images,1,G06F|G06T
+11651530,2023-05-16,Modification of color contrast ratio based on target contrast,2,G06F|G06T
+11651477,2023-05-16,Generating an image mask for a digital image by utilizing a multi-branch masking pipeline with neural networks,2,G06N|G06T
+11651383,2023-05-16,Actionable KPI-driven segmentation,0,G06F|G06N|G06Q
+11651382,2023-05-16,User data overlap determination in a digital medium environment,0,G06F|G06Q
+11651211,2023-05-16,Training of neural network based natural language processing models using dense knowledge distillation,1,G06F|G06N|G10L
+11646947,2023-05-09,Determining audience segments of users that contributed to a metric anomaly,0,G06N|H04L
+11645793,2023-05-09,Curve antialiasing based on curve-pixel intersection,1,G06T
+11645790,2023-05-09,Systems for generating accessible color themes,0,G06T
+11645788,2023-05-09,Sky replacement preset loading,0,G06T
+11645786,2023-05-09,Compressing digital images utilizing deep perceptual similarity,0,G06N|G06T|H04N
+11645542,2023-05-09,Utilizing a genetic algorithm in applying objective functions to determine distribution times for electronic communications,0,G06F|G06N
+11645541,2023-05-09,Machine learning model interpretation,0,G06F|G06N
+11645523,2023-05-09,Generating explanatory paths for predicted column annotations,0,G06F|G06N
+11645478,2023-05-09,Multi-lingual tagging for digital images,2,G06F
+11645349,2023-05-09,Generating location based photo discovery suggestions,2,G06F|G06V|H04N|H04W
+11645328,2023-05-09,3D-aware image search,0,G06F|G06N|G06V
+11645107,2023-05-09,Processing multi-frame tasks in a multi-threaded digital design system,0,G06F
+11645095,2023-05-09,Generating and utilizing a digital knowledge graph to provide contextual recommendations in digital content editing applications,0,G06F|G06N|G06T
+11644961,2023-05-09,Utilizing a transformer-based generative language model to generate digital design document variations,0,G06F|G06T
+11640714,2023-05-02,Video panoptic segmentation,1,G06F|G06N|G06V
+11640684,2023-05-02,Attribute conditioned image generation,1,G06N|G06T|G06V
+11640634,2023-05-02,Deep learning based visual compatibility prediction for bundle recommendations,0,G06F|G06N|G06Q|G06V
+11640617,2023-05-02,Metric forecasting employing a similarity determination in a digital medium environment,0,G06N|G06Q
+11640491,2023-05-02,Automatic font value distribution for variable fonts,0,G06F
+11640228,2023-05-02,Accessing virtually rendered digital content,0,G06F
+11638007,2023-04-25,Codebook generation for cloud-based video applications,0,H04N
+11636570,2023-04-25,Generating digital images utilizing high-resolution sparse attention and semantic layout manipulation neural networks,2,G06T|G06V
+11636499,2023-04-25,Quantitative rating system for prioritizing customers by propensity and buy size,0,G06Q
+11636423,2023-04-25,Item transfer control systems,1,G06F|G06Q
+11636342,2023-04-25,Searching for music,0,G06F|G06N|G10H|G10L
+11636270,2023-04-25,Methods and systems for generating a semantic computation graph for understanding and grounding referring expressions,3,G06F|G06N|G06V
+11636264,2023-04-25,Stylistic text rewriting for a target author,1,G06F|G06N|G06V
+11636251,2023-04-25,Content aware font recommendation,2,G06F|G06V
+11636147,2023-04-25,Training neural networks to perform tag-based font recognition utilizing font classification,1,G06F|G06N|G06V
+11635908,2023-04-25,Managing digital assets stored as components and packaged files,3,G06F|H04L
+11635507,2023-04-25,Systems for estimating three-dimensional trajectories of physical objects,1,G01S|G06T
+11632238,2023-04-18,Traceability of edits to digital documents via distributed ledgers,0,G06F|H04L
+11631434,2023-04-18,Selecting and performing operations on hierarchical clusters of video segments,0,G06F|G06V|G11B
+11631234,2023-04-18,Automatically detecting user-requested objects in images,4,G06F|G06V
+11631220,2023-04-18,Digital object surface inflation,0,G06T
+11631207,2023-04-18,Vector object stylization from raster objects,0,G06F|G06T
+11631206,2023-04-18,Glyph selection tool for digital text content,1,G06T
+11631205,2023-04-18,Generating a data visualization graph utilizing modularity-based manifold tearing,0,G06F|G06T
+11631204,2023-04-18,Generating candidate mirror snap points using determined axes of symmetry,0,G06F|G06T
+11631162,2023-04-18,"Machine learning training method, system, and device",0,G06N|G06T
+11631156,2023-04-18,Image generation and editing with latent transformation detection,2,G06F|G06N|G06T|G06V
+11631050,2023-04-18,Syncing physical and electronic document,0,G06F|G06Q|G06T|G06V
+11631029,2023-04-18,Generating combined feature embedding for minority class upsampling in training machine learning models with imbalanced samples,1,G06N
+11630952,2023-04-18,Classifying terms from source texts using implicit and explicit class-recognition-machine-learning models,2,G06F|G06N|G06V
+11630854,2023-04-18,Segmenting users with sparse data utilizing hash partitions,0,G06F
+11630562,2023-04-18,Interacting with hierarchical clusters of video segments using a video timeline,1,G06F
+11630558,2023-04-18,Systems for generating sequential supporting answer reports,1,G06F
+11625932,2023-04-11,Organizing and representing a collection of fonts according to visual similarity utilizing machine learning,0,G06F|G06N|G06V
+11625881,2023-04-11,Motion retargeting with kinematic constraints,2,G06N|G06T
+11625875,2023-04-11,Generating modified digital images incorporating scene layout utilizing a swapping autoencoder,0,G06N|G06T
+11625813,2023-04-11,Automatically removing moving objects from video streams,0,G06F|G06T|G06V|H04N
+11625733,2023-04-11,Evaluating coincident interaction indicators,0,G06Q
+11622134,2023-04-04,System and method for low-latency content streaming,0,H04N
+11621892,2023-04-04,Temporal-based network embedding and prediction,1,G06F|H04L
+11620683,2023-04-04,Utilizing machine-learning models to create target audiences with customized auto-tunable reach and accuracy,0,G06F|G06N|G06Q
+11620474,2023-04-04,Model reselection for accommodating unsatisfactory training data,0,G06F
+11620457,2023-04-04,Learning to fuse sentences with transformers for summarization,1,G06F|G06N
+11620330,2023-04-04,Classifying image styles of images based on image style embeddings,1,G06F|G06N|G06V
+11616746,2023-03-28,Personalized temporary unsubscribe mechanisms for email subscriptions,0,H04L
+11615586,2023-03-28,Modifying light sources within three-dimensional environments by utilizing control models based on three-dimensional interaction primitives,0,G06F|G06T
+11615567,2023-03-28,Image segmentation using text embedding,6,G06T|G06V
+11615562,2023-03-28,Removing anchor points from a path by parameterizing the path to reduce deviation,0,G06T
+11615507,2023-03-28,Automatic content-aware collage,0,G06F|G06T
+11615308,2023-03-28,Generating responses to queries about videos utilizing a multi-modal neural network with attention,1,G06F|G06N|G06V
+11615293,2023-03-28,Reinforcement learning with a stochastic action set,2,G06N
+11615292,2023-03-28,Projecting images to a generative model based on gradient-free latent vector determination,1,G06F|G06N|G06T
+11615263,2023-03-28,Content prediction based on pixel-based vectors,0,G06F|G06N|G06V
+11615239,2023-03-28,Accuracy of natural language input classification utilizing response delay,0,G06F|H04L
+11614332,2023-03-28,Systems for generating indications of traversable paths,2,G01C|H04W
+11611679,2023-03-21,Precise circular halftones,0,G06T|H04N
+11610606,2023-03-21,Retiming digital videos utilizing machine learning and temporally varying speeds,0,G11B|H04N
+11610584,2023-03-21,Methods and systems for determining characteristics of a dialog between a computer and a user,1,G06F|G06N|G10L
+11610433,2023-03-21,Skin tone assisted digital image color matching,0,G06T|G06V
+11610393,2023-03-21,Knowledge distillation for neural networks using multiple augmentation strategies,0,G06F|G06N|G06T|G06V
+11610350,2023-03-21,Automatically filling a geometric shape with graphical cells aligned with the geometric shape,1,G06T
+11610085,2023-03-21,Prototype-based machine learning reasoning interpretation,0,G06F|G06N
+11610054,2023-03-21,Semantically-guided template generation from image content,5,G06F|G06N|G06V
+11610046,2023-03-21,Automatic generation of responsive font effects based on font elements,0,G06F|G06T
+11609915,2023-03-21,Efficient set operation execution on streaming data using sketches,0,G06F
+11609894,2023-03-21,Data storage system conflict management,1,G06F
+11609802,2023-03-21,Visitor stitching with data science notebooks,1,G06F
+11606343,2023-03-14,Utilizing a customized digital font to identify a computing device,0,G06F|H04L
+11605176,2023-03-14,Retrieving images that correspond to a target body type and pose,2,G06N|G06T|G06V
+11605168,2023-03-14,Learning copy space using regression and segmentation neural networks,0,G06F|G06N|G06T|G06V
+11605156,2023-03-14,Iterative image inpainting with confidence feedback,0,G06N|G06T
+11605019,2023-03-14,Visually guided machine-learning language model,3,G06F|G06N|G06V|G10L
+11604981,2023-03-14,Training digital content classification models utilizing batchwise weighted loss functions and scaled padding based on source density,2,G06F|G06N|G06V
+11604924,2023-03-14,Generating time-based recaps of documents using a deep learning sequence to sequence model,0,G06F
+11604822,2023-03-14,Multi-modal differential search with real-time focus adaptation,2,G06F|G06N
+11600091,2023-03-07,Performing electronic document segmentation using deep neural networks,0,G06F|G06N|G06T|G06V
+11600044,2023-03-07,Rendering textures utilizing sharpness maps,0,G06T
+11600030,2023-03-07,Transforming digital design objects utilizing dynamic magnetic guides,0,G06T
+11599218,2023-03-07,Customizing a touch input pressure sensitivity via a continuous-variable input element,0,G06F
+11594077,2023-02-28,Generating modified digital images utilizing a dispersed multimodal selection model,0,G06F|G06N|G06V|G10L
+11593992,2023-02-28,Rendering three-dimensional objects utilizing sharp tessellation,0,G06T
+11593979,2023-02-28,Editing raster images utilizing part-level semantic aware transformations,0,G06T|G06V
+11593948,2023-02-28,Generating refined alpha mattes utilizing guidance masks and a progressive refinement network,0,G06T
+11593893,2023-02-28,Multi-item influence maximization,0,G06Q
+11593860,2023-02-28,"Method, medium, and system for utilizing item-level importance sampling models for digital content selection policies",0,G06N|G06Q
+11593858,2023-02-28,Design-aware image search,1,G06F|G06Q|G06T|G06V
+11593648,2023-02-28,Methods and systems for detection and isolation of bias in predictive models,0,G06N
+11593634,2023-02-28,Asynchronously training machine learning models across client devices for adaptive intelligence,2,G06F|G06N
+11593552,2023-02-28,Performing semantic segmentation of form images using deep learning,10,G06F|G06N|G06T|G06V
+11593438,2023-02-28,Generating theme-based folders by clustering digital images in a semantic space,0,G06F|G06N|G06V
+11588619,2023-02-21,Generating customized smart contracts,1,G06Q|H04L
+11587234,2023-02-21,Generating class-agnostic object masks in digital images,1,G06T
+11580683,2023-02-14,Coherent editing of vector graphics,0,G06T
+11580675,2023-02-14,Generation of a sequence of textures for video delivery,0,G06T|H04N
+11580669,2023-02-14,Context-aware text color recommendation system,0,G06T|G06V
+11580420,2023-02-14,Determining feature impact within machine learning models using prototypes across analytical spaces,0,G06N
+11580307,2023-02-14,Word attribution prediction from subject data,0,G06F|G06N|G06Q
+11580295,2023-02-14,Systems for generating layouts of text objects,0,G06F
+11575947,2023-02-07,Residual entropy compression for cloud-based video applications,0,G06T|H04N
+11574630,2023-02-07,Digital media environment for conversational image editing and enhancement,1,G06F|G06T|G10L
+11574477,2023-02-07,Highlight video generated with adaptable multimodal customization,2,G06N|G06T|G06V|G11B
+11574450,2023-02-07,Systems for augmented reality sketching,0,G06F|G06T
+11574444,2023-02-07,Multi-characteristic remeshing for graphical objects,0,G06F|G06T
+11574392,2023-02-07,Automatically merging people and objects from multiple digital images to generate a composite digital image,1,G06F|G06T|G06V
+11574388,2023-02-07,Automatically correcting eye region artifacts in digital images portraying faces,0,G06T|G06V
+11574266,2023-02-07,Recommender system for replacing human interaction services,0,G06Q
+11574142,2023-02-07,Semantic image manipulation using visual-semantic joint embeddings,0,G06F|G06T|G06V
+11574123,2023-02-07,Content analysis utilizing general knowledge base,0,G06F|G06N
+11573999,2023-02-07,Accessible multimedia content,0,G06F|G10L
+11573764,2023-02-07,Facilitating discovery of verbal commands using multimodal interfaces,0,G06F|G10L
+11573689,2023-02-07,Trace layer for replicating a source region of a digital image,0,G06F
+11570318,2023-01-31,Performing global image editing using editing operations determined from natural language requests,0,G06F|G06N|G06T|H04N
+11568642,2023-01-31,Large-scale outdoor augmented reality scenes using camera pose based on learned descriptors,0,G06N|G06T|G06V
+11568627,2023-01-31,Utilizing interactive deep learning to select objects in digital visual media,13,G06F|G06N|G06T|G06V
+11568544,2023-01-31,Utilizing a two-stream encoder neural network to generate composite digital images,2,G06N|G06T
+11568026,2023-01-31,Utilizing encrypted digital communications to dynamically secure digital rights licensing during authentication system disruptions,0,G06F|H04L
+11567981,2023-01-31,Model-based semantic text searching,1,G06F|G06N
+11567929,2023-01-31,Stitching event data using identity mappings,0,G06F
+11562508,2023-01-24,Content-adaptive tiling solution via image similarity for efficient image compression,0,G06T|H03M|H04N
+11562488,2023-01-24,Image content snapping guidelines,0,G06T
+11562462,2023-01-24,User-defined image compositing on graphics processing units,0,G06F|G06T|G09G
+11562234,2023-01-24,Dynamically determining schema labels using a hybrid neural network encoder,0,G06N
+11562169,2023-01-24,Generating multimodal image edits,0,G06F|G06T|G06V
+11562166,2023-01-24,Generating shift-invariant neural network feature maps and outputs,0,G06F|G06N|G06T|G06V
+11562019,2023-01-24,Generating visual data stories,0,G06F|G06T
+11561969,2023-01-24,Utilizing logical-form dialogue generation for multi-turn construction of paired natural language queries and query-language representations,1,G06F
+11561965,2023-01-24,Data retrieval via incremental updates to graph data structures,0,G06F
+11561750,2023-01-24,Retrieving personalized visual content items in real time for display on digital-content-display devices within a physical space,0,G01C|G06F|G06K|G06Q|G06V|G09G
+11557110,2023-01-17,Selective extraction of color attributes from digital images,0,G06F|G06T|G06V
+11556826,2023-01-17,Generating hyper-parameters for machine learning models using modified Bayesian optimization based on accuracy and training efficiency,0,G06F|G06N|G06V
+11556573,2023-01-17,Semantic cluster formation in deep learning intelligent assistants,0,G06F|G06N|G06V
+11556567,2023-01-17,Generating and visualizing bias scores representing bias in digital segments within segment-generation-user interfaces,2,G06F
+11556393,2023-01-17,Environment aware application-based resource management using reinforcement learning,0,G06F
+11551391,2023-01-10,Digital image dynamic shadow generation,0,G06F|G06T
+11551390,2023-01-10,Generating deterministic digital image matching patches utilizing a parallel wavefront search approach and hashed random number,0,G06T
+11551388,2023-01-10,Image modification using detected symmetry,0,G06F|G06T|G06V
+11551384,2023-01-10,Flow-based color transfer from source graphic to target graphic,0,G06F|G06T|G06V
+11551338,2023-01-10,Intelligent mixing and replacing of persons in group portraits,0,G06T|G06V
+11551337,2023-01-10,Boundary-aware object removal and content fill,2,G06T
+11551259,2023-01-10,Generating and providing return of incremental digital content user interfaces for improving performance and efficiency of multi-channel digital content campaigns,0,G06Q
+11551257,2023-01-10,Digital media environment for analysis of audience segments in a digital marketing campaign,2,G06Q
+11551256,2023-01-10,Multivariate digital campaign content exploration utilizing rank-1 best-arm identification,2,G06Q
+11551239,2023-01-10,Characterizing and modifying user experience of computing environments based on behavior logs,3,G06F|G06Q
+11551194,2023-01-10,System to facilitate exchange of data segments between data aggregators and data consumers,0,G06F|G06N|G06Q
+11551093,2023-01-10,Resource-aware training for neural networks,1,G06F|G06N
+11551038,2023-01-10,Unified shape representation,1,G06F|G06N|G06T|G06V
+11550859,2023-01-10,Analytics system entity resolution,0,G06F
+11550848,2023-01-10,Query processing using matrix and reduced predicate statements,0,G06F|G06N
+11550690,2023-01-10,Providing recommendations based on monitored user inputs,2,G06F|G16H
+11550460,2023-01-10,Systems for leveraging device orientation to modify visual characteristics of edits,1,G06F
+11544891,2023-01-03,Automatic and interactive animation driven by change-based heuristics,0,G06F|G06T
+11544880,2023-01-03,Generating modified digital images utilizing a global and spatial autoencoder,13,G06N|G06T
+11544831,2023-01-03,Utilizing an image exposure transformation neural network to generate a long-exposure image from a single short-exposure image,0,G06N|G06T
+11544769,2023-01-03,Adaptive components providing vendor-specific and context-specific information to customers,0,G06Q
+11544743,2023-01-03,Digital content control based on shared machine learning properties,1,G06F|G06N|G06Q
+11544604,2023-01-03,Adaptive model insights visualization engine for complex machine learning models,1,G06F|G06N
+11544590,2023-01-03,Answering questions during video playback,5,G06F|G06N|G06V|G10L
+11544535,2023-01-03,Graph convolutional networks with motif-based attention,7,G06F|G06N|G06V
+11544503,2023-01-03,Domain alignment for object detection domain adaptation tasks,1,G06F|G06N|G06V
+11544495,2023-01-03,Attributionally robust training for weakly supervised localization and segmentation,1,G06F|G06N|G06T|G06V
+11544457,2023-01-03,Machine learning based abbreviation expansion,1,G06F|G06N
+11544456,2023-01-03,Interpretable label-attentive encoder-decoder parser,0,G06F|G06N
+11544336,2023-01-03,Collaborative-filtered content recommendations with justification in real-time,0,G06F|G06Q|H04L
+11544333,2023-01-03,Analytics system onboarding of web content,0,G06F|G06N|G06V|H04L
+11544322,2023-01-03,Facilitating contextual video searching using user interactions with interactive computing environments,1,G06F
+11544281,2023-01-03,Query-oriented approximate query processing based on machine learning techniques,0,G06F|G06N
+11539932,2022-12-27,Dynamically generating and changing view-specific-filter parameters for 360-degree videos,0,H04N
+11538463,2022-12-27,Customizable speech recognition system,0,G06N|G10L
+11538216,2022-12-27,Dynamically estimating light-source-specific parameters for digital images using a neural network,8,G06N|G06T
+11538210,2022-12-27,Text importance spatial layout,0,G06F|G06T
+11538170,2022-12-27,Integrated interactive image segmentation,0,G06N|G06T|G06V
+11538140,2022-12-27,Image inpainting based on multiple image transformations,0,G06N|G06T
+11538056,2022-12-27,Providing display content using RFID tags in geo-fenced zones,0,G06K|G06Q|H04W
+11538051,2022-12-27,Machine learning-based generation of target segments,0,G06F|G06N|G06Q|H04N
+11537950,2022-12-27,Utilizing a joint-learning self-distillation framework for improving text sequential labeling machine-learning models,3,G06F|G06N
+11537787,2022-12-27,Template-based redesign of a document based on document content,0,G06F|G06N|G06V
+11537518,2022-12-27,Constraining memory use for overlapping virtual memory operations,0,G06F
+11532173,2022-12-20,Transformation of hand-drawn sketches to digital images,0,G06F|G06N|G06T|G06V
+11532106,2022-12-20,Color gradient capture from source image content,0,G06T
+11532036,2022-12-20,Digital image ordering using object position and aesthetics,1,G06F|G06Q|G06V
+11532012,2022-12-20,Customizing resources utilizing pre-fetched profile information for future visitors,0,G06Q|H04L|H04W
+11531927,2022-12-20,Categorical data transformation and clustering for machine learning using natural language processing,1,G06F|G06N
+11531817,2022-12-20,Creating a knowledge graph based on text-based knowledge corpora,1,G06F|G06N
+11531697,2022-12-20,Identifying and providing digital images depicting human poses utilizing visual interactive content search and virtual mannequins,1,G06F|G06N|G06T
+11527023,2022-12-13,Image processing for increasing visibility of obscured patterns,0,G06T|H04N
+11526907,2022-12-13,Single-pass matching in large data streams,0,G06F|G06Q
+11526698,2022-12-13,Unified referring video object segmentation network,3,G06F|G06N|G06T|G06V
+11526265,2022-12-13,Visual manipulation of a digital object,0,G06F|G06T
+11521299,2022-12-06,Retouching digital images utilizing separate deep-learning neural networks,3,G06F|G06N|G06T|G06V
+11521221,2022-12-06,Predictive modeling with entity representations computed from neural network models simultaneously trained on multiple tasks,0,G06F|G06N|G06Q
+11521121,2022-12-06,Encoding machine-learning models and determining ownership of machine-learning models,0,G06F|G06N|G06T|G06V|G10L
+11521071,2022-12-06,Utilizing deep recurrent neural networks with layer-wise attention for punctuation restoration,1,G06F|G06N|G06V
+11520974,2022-12-06,Sharing of user markings between printed and digital documents,2,G06F|G06T|G06V
+11514925,2022-11-29,Using a predictive model to automatically enhance audio having various audio quality issues,6,G06N|G10L
+11514657,2022-11-29,Replica graphic causing reduced visibility of an image artifact in a direct-view of a real-world scene,0,G06F|G06T|G09G
+11514632,2022-11-29,Modifying neural networks for synthetic conditional digital content generation utilizing contrastive perceptual loss,0,G06N|G06T
+11514618,2022-11-29,Generation of object hierarchies for logical selection of groups of objects in vector designs,0,G06F|G06T|G06V
+11514515,2022-11-29,Generating synthetic data using reject inference processes for modifying lead scoring models,0,G06N|G06Q
+11514252,2022-11-29,Discriminative caption generation,2,G06F|G06N|G06V
+11514244,2022-11-29,Structured knowledge modeling and extraction from images,0,G06F|G06N
+11514102,2022-11-29,Methods and systems for depth-aware image searching,0,G06F|G06T|G06V
+11509819,2022-11-22,Providing contextual augmented reality photo pose guidance,2,G06F|G06V|H04N
+11508173,2022-11-22,Machine learning prediction and document rendering improvement based on content order,1,G06F|G06N|G06V
+11508170,2022-11-22,Digital handwriting synthesis,0,G06F|G06N|G06V
+11508148,2022-11-22,Automatic makeup transfer using semi-supervised learning,0,G06F|G06N|G06V
+11507878,2022-11-22,Adversarial training for event sequence analysis,0,G06N
+11507800,2022-11-22,Semantic class localization digital environment,2,G06F|G06N|G06T|G06V
+11507777,2022-11-22,Labeling techniques for a modified panoptic labeling neural network,3,G06F|G06N|G06V
+11507551,2022-11-22,Analytics based on scalable hierarchical categorization of web content,0,G06F|G06Q
+11503870,2022-11-22,Pattern filling in garment pieces,2,A41H|G05B|G06Q|Y02P
+11501477,2022-11-15,Customizing font bounding boxes for variable fonts,2,G06T
+11501413,2022-11-15,Kernel reshaping-powered splatting-based efficient image space lens blur,0,G06T
+11501331,2022-11-15,System for providing proof and attestation services for claim verification,0,G06Q
+11501207,2022-11-15,Lifelong learning with a changing action set,0,G06N
+11501161,2022-11-15,Method to explain factors influencing AI predictions with deep neural networks,0,G06F|G06N|G06Q
+11501107,2022-11-15,Key-value memory network for predicting time-series metrics of target entities,1,G06F|G06N|G06Q|G11C
+11501102,2022-11-15,Automated sound matching within an audio recording,2,G06F|G06N|G10L|G11B
+11500942,2022-11-15,Focused aggregation of classification model outputs to classify variable length digital documents,0,G06F|G06N|G06V
+11500939,2022-11-15,Unified framework for multi-modal similarity search,2,G06F|G06N|G06V
+11500927,2022-11-15,Adaptive search results for multimedia search queries,0,G06F
+11495000,2022-11-08,Three-dimensional folding tool,0,G06F|G06T
+11494886,2022-11-08,Hierarchical multiclass exposure defects classification in images,2,G06N|G06T|G06V
+11494810,2022-11-08,Keyword bids determined from sparse data,1,G06F|G06Q
+11494647,2022-11-08,Slot filling with contextual information,2,G06F|G06N|G06T|G06V|G10L
+11494431,2022-11-08,Generating accurate and natural captions for figures,1,G06F|G06N
+11490048,2022-11-01,Intelligent video reframing,1,G11B|H04N
+11488356,2022-11-01,Deformation with meta-handles of 3D meshes,0,G06N|G06T
+11488342,2022-11-01,Material map identification and augmentation,0,G06F|G06N|G06T|G06V
+11488053,2022-11-01,Automatically controlling modifications to typeface designs with machine-learning models,0,G05B|G06F|G06N|G06V|G09G
+11487971,2022-11-01,Multi-dimensional language style transfer,1,G06F|G06V
+11487758,2022-11-01,Query processing using hybrid inverted index of predicates,0,G06F
+11487722,2022-11-01,Scalable querying for distributed systems,0,G06F
+11487709,2022-11-01,Document replication based on distributional semantics,0,G06F|G06N|H04L
+11487579,2022-11-01,System and method for resource scaling for efficient resource management,0,G06F
+11483408,2022-10-25,Feature-based network embedding,0,G06F|H04L
+11482041,2022-10-25,Identity obfuscation in images utilizing synthesized faces,0,G06F|G06T|G06V
+11481940,2022-10-25,Structural facial modifications in images,0,G06T|G06V
+11481938,2022-10-25,Adaptable drawing guides,0,G06F|G06T
+11481810,2022-10-25,Generating and utilizing machine-learning models to create target audiences with customized auto-tunable reach and accuracy,1,G06F|G06N|G06Q
+11481668,2022-10-25,Machine-learning techniques for evaluating suitability of candidate datasets for target applications,0,G06F|G06N
+11481619,2022-10-25,Incorporating black-box functions in neural networks,0,G06F|G06N|G06V
+11481617,2022-10-25,Generating trained neural networks with increased robustness against adversarial attacks,0,G06F|G06N|H04L
+11481563,2022-10-25,Translating texts for videos based on video context,0,G06F|G06N|G06V
+11475617,2022-10-18,Path-constrained drawing with visual properties based on drawing tool,0,G06F|G06T
+11475544,2022-10-18,Automated braces removal from images,0,G06F|G06T|G06V
+11475458,2022-10-18,In-app lead nurturing within an electronic document,0,G06F|G06Q|H04L
+11475295,2022-10-18,Predicting and visualizing outcomes using a time-aware recurrent neural network,0,G06N
+11475223,2022-10-18,Converting tone of digital content,4,G06F|G06N
+11475220,2022-10-18,Predicting joint intent-slot structure,0,G06F|G06N|G10L
+11474677,2022-10-18,Assisting users in visualizing dimensions of a product,0,G06F|G06Q|G06V
+11469996,2022-10-11,Systems for session-based routing,1,H04L
+11468880,2022-10-11,Dialog system training using a simulated user system,1,G06F|G06N|G10L
+11468786,2022-10-11,Generating tool-based smart-tutorials,1,G06F|G06T|G09B
+11468674,2022-10-11,Systems and methods for dynamic image category determination,1,G06F|G06N|G06V
+11468658,2022-10-11,Systems and methods for generating typographical images or videos,0,G06F|G06N|G06T|G06V
+11468614,2022-10-11,Presenting multiple image segmentations,0,G06T
+11468550,2022-10-11,Utilizing object attribute detection models to automatically select instances of detected objects in images,1,G06F|G06T
+11468549,2022-10-11,Eliminating image artifacts using image-layer snapshots,0,G06T
+11468314,2022-10-11,Systems and methods of training neural networks against adversarial attacks,4,G06F|G06N|G06V
+11468298,2022-10-11,Neural networks for multi-label classification of sequential data,0,G06F|G06N|G06V
+11468294,2022-10-11,Projecting images to a generative model based on gradient-free latent vector determination,1,G06F|G06N|G06T
+11468110,2022-10-11,Utilizing natural language processing and multiple object detection models to automatically select objects in images,0,G06F|G06N|G06T|G06V
+11467857,2022-10-11,Intelligently sensing digital user context to generate recommendations across client device applications,0,G06F|G06N|G06T
+11467817,2022-10-11,Software component defect prediction using classification models that generate hierarchical component classifications,0,G06F|G06N
+11462195,2022-10-04,Dynamically transitioning between visual media items at a digital-content-display device,0,G06F|G09G|H04N
+11462040,2022-10-04,Distractor classifier,9,G06F|G06N|G06T|G06V
+11461947,2022-10-04,Constrained modification of vector graphics,0,G06T
+11461937,2022-10-04,Authoring and optimization of accessible color themes,0,G06F|G06Q|G06T|G09B|G09G
+11461880,2022-10-04,Generating image masks from digital images utilizing color density estimation and deep learning models,1,G06T
+11461874,2022-10-04,Graphics processing using matrices of transformations,0,G06T
+11461820,2022-10-04,Navigation and rewards involving physical goods and services,3,G06Q
+11461801,2022-10-04,Detecting and resolving semantic misalignments between digital messages and external digital content,0,G06F|G06Q
+11461649,2022-10-04,Searching for music,1,G06F|G06N|G10H|G10L
+11461638,2022-10-04,Figure captioning system and related methods,1,G06F|G06N|G06V
+11461634,2022-10-04,Generating homogenous user embedding representations from heterogeneous user interaction data using a neural network,1,G06F|G06N|G06Q
+11461392,2022-10-04,Providing relevant cover frame in response to a video search query,0,G06F
+11461377,2022-10-04,Generating three-dimensional scenes from natural language requests,0,G06F|G06T
+11461277,2022-10-04,Self-service system for managing shared resources,0,G06F
+11460987,2022-10-04,Modifying graphical user interface processing based on interpretation of user intent,0,G06F|G06T
+11457263,2022-09-27,Prioritizing tile-based virtual reality video streaming using adaptive rate allocation,0,H04L|H04N
+11455762,2022-09-27,Text border tool and enhanced corner options for background shading,1,G06F|G06T|G06V
+11455752,2022-09-27,Graphical element color diffusion techniques,0,G06F|G06T
+11455731,2022-09-27,Video segmentation based on detected video features using a graphical model,0,G06F|G06T|G06V|G11B
+11455518,2022-09-27,User classification from data via deep segmentation for semi-supervised learning,0,G06F|G06N
+11455485,2022-09-27,Content prediction based on pixel-based vectors,1,G06F|G06N|G06V
+11450310,2022-09-20,Spoken language understanding,0,G06F|G10L
+11450112,2022-09-20,Segmentation and hierarchical clustering of video,0,G06F|G06V|G10L|G11B
+11450078,2022-09-20,Generating height maps from normal maps based on virtual boundaries,0,G06T
+11450043,2022-09-20,Element association and modification,0,G06F|G06T
+11450037,2022-09-20,Applying palette-based color composition to an electronic image,0,G06T
+11450035,2022-09-20,Authoring and optimization of accessible color themes,1,A61B|G06Q|G06T|G09B|G09G
+11449974,2022-09-20,Generating modified digital images utilizing nearest neighbor fields from patch matching operations of alternate digital images,1,G06T|G06V|H04N
+11449763,2022-09-20,Making resource-constrained sequential recommendations,1,G06F|G06N
+11449712,2022-09-20,Anomaly detection and reporting for machine learning models,0,G06F|G06N
+11449662,2022-09-20,Automatic generation of layout variations based on visual flow,0,G06F
+11449537,2022-09-20,Detecting affective characteristics of text with gated convolutional encoder-decoder framework,2,G06F|G06N
+11449523,2022-09-20,Generating overlap estimations between high-volume digital data sets based on multiple sketch vector similarity estimators,0,G06F|G06T
+11449209,2022-09-20,Automatically positioning objects in three-dimensional space utilizing a widget,0,G06F|G06T
+11449079,2022-09-20,Generalizable robot approach control techniques,2,G05D|G06T|G06V
+11443481,2022-09-13,Reconstructing three-dimensional scenes portrayed in digital images utilizing point cloud machine-learning models,1,G06N|G06T|G06V
+11443412,2022-09-13,High dynamic range illumination estimation,0,G06N|G06T
+11443389,2022-09-13,Determination of paywall metrics,0,G06Q
+11443193,2022-09-13,Domain adaptation for machine learning models,2,G06F|G06N|G06V
+11443015,2022-09-13,Generating prediction models in accordance with any specific data sets,2,G06F|G06N|G06Q
+11442971,2022-09-13,Selective database re-indexing,0,G06F
+11436955,2022-09-06,Dynamic modification of digital signage based on device edge analytics and engagement,0,G06F|G09F|G09G
+11436865,2022-09-06,Finding similar persons in images,0,G06F|G06V
+11436775,2022-09-06,Predicting patch displacement maps using a neural network,0,G06F|G06N|G06T|G06V
+11436734,2022-09-06,Directional digital paint application,0,G06T
+11436404,2022-09-06,Techniques for automated resizing of text content responsive to layout changes,1,G06F
+11430219,2022-08-30,Explainable video performance prediction,0,G06F|G06N|G06V
+11430166,2022-08-30,Facilitating generation of number-bullet objects,1,G06T|G06V
+11430041,2022-08-30,Determining diverse recommendations from data segments,0,G06F|G06N|G06Q
+11430030,2022-08-30,Generation of recommendations for visual product details,2,G06F|G06N|G06Q
+11429892,2022-08-30,Recommending sequences of content with bootstrapped reinforcement learning,1,G06F|G06N|G06T|G06V
+11429708,2022-08-30,Authentication for online content using an access token,0,G06F
+11429653,2022-08-30,Generating estimated trait-intersection counts utilizing semantic-trait embeddings and machine learning,0,G06F|G06N
+11425368,2022-08-23,Lossless image compression using block based prediction and optimized context adaptive entropy coding,0,H04N
+11423654,2022-08-23,Identification of continuity errors in video by automatically detecting visual inconsistencies in video frames,0,G06N|G06T|G06V
+11423617,2022-08-23,Subdividing a three-dimensional mesh utilizing a neural network,1,G06N|G06T
+11423607,2022-08-23,Generating enriched light sources utilizing surface-centric representations,1,G06T
+11423588,2022-08-23,Color transforms using static shaders compiled at initialization,0,G06T
+11423587,2022-08-23,Freeform gradient style blending,0,G06T
+11423549,2022-08-23,Interactive body-driven graphics for live video performance,0,G06F|G06T
+11423422,2022-08-23,Performing query-time attribution modeling based on user-specified segments,0,G06F|G06Q
+11423264,2022-08-23,Entropy based synthetic data generation for augmenting classification system training data,2,G06F|G06N
+11423206,2022-08-23,Text style and emphasis suggestions,2,G06F|G06N|G06T
+11422814,2022-08-23,Automation of sequences of actions,0,G06F
+11418570,2022-08-16,Robust computing device identification framework,0,G06F|G06Q|H04L
+11417058,2022-08-16,Anti-aliasing two-dimensional vector graphics using a multi-vertex buffer,2,G06T
+11417041,2022-08-16,Style-aware audio-driven talking head animation from a single image,0,G06T|G10L
+11417036,2022-08-16,Systems for generating indications of perceptual linear regions of vector objects,0,G06T
+11417033,2022-08-16,Applying colors on textures,0,G06T
+11416684,2022-08-16,Automated identification of concept labels for a set of documents,0,G06F|G06V
+11416672,2022-08-16,Object recognition and tagging based on fusion deep learning models,0,G06F|G06N|G06V
+11416475,2022-08-16,Block quantity reduction in distributed ledgers,1,G06F|H04L
+11412217,2022-08-09,Compression of a collection of images using pattern separation and re-organization,0,G06V|H04N
+11410361,2022-08-09,Digital content editing using a procedural model,1,G06T
+11410357,2022-08-09,Pixel-based techniques for combining vector graphics shapes,0,G06T
+11410346,2022-08-09,Generating and adjusting a proportional palette of dominant colors in a vector artwork,0,G06T|G06V
+11410278,2022-08-09,Automatic artifact removal in a digital image,0,G06T|G06V
+11410196,2022-08-09,Managing content delivery via audio cues,0,G06Q|H04H|H04N
+11410038,2022-08-09,Frame selection based on a trained neural network,6,G06F|G06N|G06V
+11409548,2022-08-09,Keypress event smoothener and predictor,0,G06F
+11409423,2022-08-09,Dynamic image filters for modifying a digital image over time according to a dynamic-simulation function,0,G06F|G06T
+11403807,2022-08-02,Learning hybrid (surface-based and volume-based) shape representation,0,G06F|G06N|G06T|G06V
+11403794,2022-08-02,Glyph weight modification,2,G06F|G06T
+11403739,2022-08-02,Methods and apparatus for retargeting and prioritized interpolation of lens profiles,0,G06T|H04N
+11403643,2022-08-02,Utilizing a time-dependent graph convolutional neural network for fraudulent transaction identification,3,G06N|G06Q
+11403456,2022-08-02,Application-based font previewing,1,G06F
+11403339,2022-08-02,Techniques for identifying color profiles for textual queries,1,G06F|G06N
+11403309,2022-08-02,Generating segments based on intelligent sequential data,1,G06F|G06Q
+11402963,2022-08-02,Neighboring panel view,1,G06F|G06T
+11398089,2022-07-26,Image processing techniques to quickly find a desired object among other objects from a captured video scene,7,G06F|G06Q|G06V
+11398065,2022-07-26,Graphic object modifications,0,G06T
+11398015,2022-07-26,Iterative image inpainting with confidence feedback,1,G06N|G06T
+11398010,2022-07-26,Generating a digital collage using digital images,0,G06T
+11397843,2022-07-26,Systems for suggesting content components,1,G06F
+11397764,2022-07-26,Machine learning for digital image selection across object variations,1,G06F|G06N|G06Q|G06V
+11393187,2022-07-19,Detecting typography elements from outlines,2,G06F|G06V
+11393166,2022-07-19,Generating representations to approximate digital shapes using sample circles,0,G06T|G06V
+11393158,2022-07-19,Utilizing voxel feature transformations for deep novel view synthesis,0,G06T|G06V
+11393100,2022-07-19,Automatically generating a trimap segmentation for a digital image by utilizing a trimap generation neural network,1,G06T
+11393077,2022-07-19,Correcting dust and scratch artifacts in digital images,1,G06T|G06V
+11393072,2022-07-19,Methods and systems for automatically correcting image rotation,0,G06N|G06T
+11392659,2022-07-19,Utilizing machine learning models to generate experience driven search results based on digital canvas gesture inputs,6,G06F|G06N|G06Q|H04L
+11392437,2022-07-19,Cold start and adaptive server monitor,1,G06F|G06N
+11386685,2022-07-12,Multiple channels of rasterized content for page decomposition using machine learning,1,G06N|G06V
+11386596,2022-07-12,Automatic creation of text-on-path graphic along complex paths,0,G06F|G06T
+11386393,2022-07-12,Project asset and preference sharing,0,G06Q
+11386310,2022-07-12,Systems for font replacement in print workflows,0,G06F|G06K|G06N|G06V
+11386145,2022-07-12,Incremental agglomerative clustering of digital images,0,G06F|G06V
+11386144,2022-07-12,Identifying digital attributes from multiple attribute groups within target digital images utilizing a deep cognitive attribution neural network,3,G06F|G06N|G06V
+11386114,2022-07-12,Structure-based transformers with localization and encoding for chart question answering,1,G06F|G06V
+11381651,2022-07-05,Interpretable user modeling from unstructured user data,0,G06N|H04L
+11380033,2022-07-05,Text placement within images using neural networks,1,G06F|G06N|G06T|G06V
+11380023,2022-07-05,End-to-end relighting of a foreground object of an image,0,G06T
+11379987,2022-07-05,Image object segmentation based on temporal information,1,G06T|G11B
+11373390,2022-06-28,Generating scene graphs from digital images using external knowledge and image reconstruction,9,G06F|G06N|G06V
+11373217,2022-06-28,Digital marketing content real time bid platform based on physical location,0,G06Q
+11373210,2022-06-28,Content interest from interaction information,0,G06F|G06Q
+11372529,2022-06-28,Digital image object anchor points,1,G06F|G06T
+11367273,2022-06-21,Detecting objects using a weakly supervised model,1,G06F|G06N|G06V
+11367271,2022-06-21,Similarity propagation for one-shot and few-shot image segmentation,0,G06F|G06V
+11367231,2022-06-21,System for generating snapping guides for a multi-path glyph,0,G06F|G06T
+11367206,2022-06-21,Edge-guided ranking loss for monocular depth prediction,1,G06N|G06T
+11367199,2022-06-21,System for automatic object mask and hotspot tracking,1,G06F|G06N|G06T|G06V|G11B
+11366953,2022-06-21,Systems for simultaneously modifying multiple variable fonts,0,G06F
+11366833,2022-06-21,Augmenting project data with searchable metadata for facilitating project queries,2,G06F|H04B
+11363064,2022-06-14,Identifying spam using near-duplicate detection for text and images,1,G06F|H04L
+11361526,2022-06-14,Content-aware selection,0,G06F|G06V|G10L
+11361467,2022-06-14,Pose selection and animation of characters using video data and training techniques,0,G06F|G06T|G06V
+11361405,2022-06-14,Dynamic spread anti-aliasing,1,G06T
+11361332,2022-06-14,Continual audience synchronization,0,G06Q
+11361096,2022-06-14,Controlled publication of sensitive data within an established timeframe,0,G06F
+11361018,2022-06-14,Automatically curated image searching,0,G06F
+11360790,2022-06-14,Collaborative and non-collaborative workspace application container with application persistence,0,G06F
+11355035,2022-06-07,Customized geospatial population segmentation based on a received polygon definition,0,G06F|G06T|G09B
+11354906,2022-06-07,Temporally distributed neural networks for video semantic segmentation,3,G06F|G06N|G06T|G06V
+11354828,2022-06-07,Generating contextualized image variants of multiple component images,0,G06T
+11354792,2022-06-07,System and methods for modeling creation workflows,8,G06N|G06T
+11354720,2022-06-07,Item recommendation techniques,0,G06F|G06Q
+11354590,2022-06-07,Rule determination for black-box machine-learning models,3,G06N
+11354513,2022-06-07,Automated identification of concept labels for a text fragment,1,G06F|G06V
+11354378,2022-06-07,Web experience augmentation based on local and global content preferences,2,G06F|G06N|H04L
+11354290,2022-06-07,Query processing using inverted index of predicate statements,0,G06F
+11354027,2022-06-07,"Automatic zoom-loupe creation, selection, layout, and rendering based on interaction with crop rectangle",0,G06F
+11348287,2022-05-31,Rendering of graphic objects with pattern paint using a graphics processing unit,0,G06T
+11348246,2022-05-31,Segmenting objects in vector graphics images,3,G06T
+11348130,2022-05-31,Utilizing a sketching generator to adaptively generate content-campaign predictions for multi-dimensional or high-dimensional targeting criteria,0,G06N|G06Q
+11347809,2022-05-31,Performing attribution modeling for arbitrary analytics parameters,0,G06F|G06Q
+11347781,2022-05-31,Dynamically generating attribution-model visualizations for display in attribution user interfaces,0,G06F|G06N|G06Q
+11343325,2022-05-24,Systems and methods for estimating typed graphlets in large data,0,G06F|G06N|G06Q|H04L
+11341690,2022-05-24,Providing color manipulation tools dynamically customized based on image content,0,G06F|G06T
+11341516,2022-05-24,Optimization of send time of messages,0,G06Q|H04L
+11341204,2022-05-24,Identifying and presenting misalignments between digital messages and external digital content,0,G06F|G06N
+11341154,2022-05-24,Normalizing encodings of requested data from a common data schema to a target data schema,2,G06F
+11335050,2022-05-17,Generating digital image editing guides by determining and filtering raster image content boundaries,1,G06T
+11335049,2022-05-17,Component-based digital image synchronization,0,G06F|G06T|H04N
+11335042,2022-05-17,Extending freeform gradients to support advanced curve primitives,0,G06T
+11335037,2022-05-17,Smart painting tools,0,G06T
+11335033,2022-05-17,Compressing digital images utilizing deep learning-based perceptual similarity,0,G06N|G06T|H04N
+11335004,2022-05-17,Generating refined segmentation masks based on uncertain pixels,7,G06T
+11334971,2022-05-17,Digital image completion by learning generation and patch matching jointly,2,G06T|G06V
+11328523,2022-05-10,Image composites using a generative neural network,3,G06N|G06T|G06V
+11328458,2022-05-10,Guided generation of color gradients via adjustable color map paths through color space elements of graphical interfaces,0,G06F|G06T
+11328385,2022-05-10,Automatic image warping for warped image generation,0,G06T
+11328002,2022-05-10,Dynamic clustering of sparse data utilizing hash partitions,0,G06F
+11327710,2022-05-10,Automatic audio ducking with real time feedback based on fast integration of signal levels,2,G06F|G10L
+11321895,2022-05-03,Neural state machine digital character animation,4,G06N|G06T
+11321889,2022-05-03,Multi-layer lighting source with textured lighting gel layer,0,G06T
+11321885,2022-05-03,Generating visualizations of analytical causal graphs,1,G06F|G06T
+11321884,2022-05-03,Generating candidate mirror snap points using determined axes of symmetry,2,G06F|G06T
+11321847,2022-05-03,Foreground-aware image inpainting,0,G06T
+11321582,2022-05-03,Extracting and organizing reusable assets from an arbitrary arrangement of vector geometry,0,G06F|G06T|G06V
+11321559,2022-05-03,Document structure identification using post-processing error correction,0,G06N|G06V
+11321373,2022-05-03,Natural-language based intelligent analytics interface,3,G06F|G10L|H04L
+11321012,2022-05-03,Conflict resolution within synchronized composite-part-based digital assets,3,G06F
+11320975,2022-05-03,Automatically generating and applying graphical user interface resize-constraints based on design semantics,0,G06F|G06T
+11316931,2022-04-26,Protocol to initiate session with partner site,0,H04L
+11315315,2022-04-26,Modifying three-dimensional representations using digital brush tools,0,G06T
+11315255,2022-04-26,Mixing segmentation algorithms utilizing soft classifications to identify segments of three-dimensional digital models,0,G06T|G06V
+11314982,2022-04-26,Utilizing interactive deep learning to select objects in digital visual media,6,G06N|G06V
+11314970,2022-04-26,Reinforcement learning techniques for automated video summarization,2,G06F|G06N|G06V|G11B
+11314969,2022-04-26,Semantic page segmentation of vector graphics documents,2,G06F|G06N|G06V
+11314924,2022-04-26,Constructing a path for character glyphs,0,G06F|G06V
+11314725,2022-04-26,Integrated review and revision of digital content,0,G06F|G06N
+11314616,2022-04-26,Machine learning models applied to interaction data for facilitating modifications to online environments,0,G06F|G06N
+11314400,2022-04-26,Unified digital content selection system for vector and raster graphics,0,G06F|G06T
+11308629,2022-04-19,Training a neural network to track viewer engagement with non-interactive displays,1,G06F|G06N|G06T|G06V
+11308628,2022-04-19,Patch-based image matting using deep learning,0,G06N|G06T
+11308523,2022-04-19,Validating a target audience using a combination of classification algorithms,0,G06F|G06Q|H04N
+11308353,2022-04-19,Classifying digital images in few-shot tasks based on neural networks trained using manifold mixup regularization and self-supervision,2,G06F|G06N|G06V
+11308329,2022-04-19,Representation learning from video with spatial audio,0,G06F|G06V|H04S
+11308278,2022-04-19,Predicting style breaches within textual content,0,G06F|G06N
+11308276,2022-04-19,Generating message effectiveness predictions and insights,0,G06F|G06N
+11308146,2022-04-19,Content fragments aligned to content criteria,0,G06F
+11307881,2022-04-19,Systems for generating suggestions with knowledge graph embedding vectors,3,G06F|G06N
+11307867,2022-04-19,Optimizing the startup speed of a modular system using machine learning,0,G06F|G06N
+11302360,2022-04-12,Enhancing review videos,3,G06F|G06N|G06Q|G11B
+11302053,2022-04-12,Determining image handle locations,0,G06F|G06N|G06T|G06V
+11302033,2022-04-12,Classifying colors of objects in digital images,0,G06F|G06N|G06T|G06V
+11301761,2022-04-12,Behavioral prediction for targeted end users,1,G06F|G06N|G06Q
+11301506,2022-04-12,Automated digital asset tagging using multiple vocabulary sets,0,G06F
+11301465,2022-04-12,Media player feedback,0,G06F
+11301125,2022-04-12,Vector object interaction,0,G06F|G06T
+11297059,2022-04-05,Facilitating user-centric identity management,0,H04L
+11295535,2022-04-05,Synchronized editing of locally repeating vector geometry,0,G06F|G06T
+11295499,2022-04-05,Generating nested repetitions for display using multiple rendering techniques,1,G06T
+11295496,2022-04-05,Intelligent exporting of images using an image editing application,0,G06N|G06T
+11295495,2022-04-05,Automatic positioning of textual content within digital images,2,G06F|G06T
+11295494,2022-04-05,Image modification styles learned from a limited set of modified images,2,G06F|G06T
+11295491,2022-04-05,Generating a high-dimensional network graph for data visualization utilizing landmark data points and modularity-based manifold tearing,1,G06F|G06T
+11295413,2022-04-05,Neural networks for cropping images based on body key points,0,G06T|G06V
+11295233,2022-04-05,Modeling time to open of electronic communications,0,G06N|H04L
+11295181,2022-04-05,Preserving document design using font synthesis,4,G06F|G06T|G06V
+11295065,2022-04-05,Aesthetic marking of text in digital typography,0,G06F
+11294972,2022-04-05,Generating sequential segments with pre-sequence and post-sequence analytics data,15,G06F|H04L
+11294891,2022-04-05,Interactive search experience using machine learning,2,G06F|G06N|G06Q|H04L
+11294556,2022-04-05,Editing digital images using multi-panel graphical user interfaces,2,G06F
+11288778,2022-03-29,"Creation and rasterization of shapes using geometry, style settings, or location",0,G06F|G06T
+11288771,2022-03-29,Texture hallucination for large-scale image super-resolution,1,G06T
+11288727,2022-03-29,Content creation suggestions using failed searches and uploads,0,G06F|G06Q
+11288709,2022-03-29,Training and utilizing multi-phase learning models to provide digital content to client devices in a real-time digital bidding environment,1,G06N|G06Q
+11288541,2022-03-29,Graph-based configuration of user interface for selection of features in visualization applications,0,G06F|G06N
+11288324,2022-03-29,Chart question answering,2,G06F|G06N
+11287955,2022-03-29,Recommending a transition from use of a limited-functionality application to a full-functionality application in a digital medium environment,0,G06F|G06Q|H04L
+11287894,2022-03-29,"Utilizing a touchpoint attribution attention neural network to identify significant touchpoints and measure touchpoint contribution in multichannel, multi-touch digital content campaigns",0,G06F|G06N|G06Q|H04L
+11283964,2022-03-22,Utilizing intelligent sectioning and selective document reflow for section-based printing,0,G06F|G06N|G06V|G10L|H04N
+11282290,2022-03-22,Generating suggested edits for three-dimensional graphics based on deformations of prior edits,0,G06T
+11282277,2022-03-22,Systems for shading vector objects,1,G06T
+11282257,2022-03-22,Pose selection and animation of characters using video data and training techniques,1,G06T
+11282208,2022-03-22,Identifying target objects using scale-diverse segmentation neural networks,5,G06T|G06V
+11282098,2022-03-22,Consumer influence analytics with consumer profile enhancement,0,G06Q
+11281970,2022-03-22,Kernel prediction with kernel dictionary in image denoising,0,G06N|G06T
+11281742,2022-03-22,Interactive and selective coloring of digital vector glyphs,0,G06F|G06T
+11281717,2022-03-22,Customized selection of video thumbnails to present on social media webpages,0,G06F|G06V
+11281351,2022-03-22,Selecting objects within a three-dimensional point cloud environment,1,G06F|G06T
+11276220,2022-03-15,Automatic and interactive animation driven by change-based heuristics,0,G06F|G06T
+11276153,2022-03-15,Auto-complete image suggestions for image editing,0,G06T
+11276150,2022-03-15,Environment map generation and hole filling,0,G06T
+11271876,2022-03-08,Utilizing a graph neural network to identify supporting text phrases and generate digital query responses,3,G06F|G06N|H04L
+11270507,2022-03-08,Rendering textures utilizing sharp displacement mapping,11,G06T
+11270485,2022-03-08,Automatic positioning of textual content within digital images,2,G06F|G06T|G06V
+11270415,2022-03-08,Image inpainting with geometric and photometric transformations,0,G06T|H04N
+11270369,2022-03-08,Systems for generating recommendations,0,G06F|G06Q|H04L
+11269950,2022-03-08,Analysis for framework assessment,0,G06F|G06T|H04L|H04N
+11269892,2022-03-08,Ranking images based on image effects,0,G06F
+11269870,2022-03-08,Performing automatic segment expansion of user embeddings using multiple user embedding representation types,2,G06F|G06N|G06Q
+11265250,2022-03-01,Targeted rate limiting of tenant systems in online services,0,H04L
+11263750,2022-03-01,Cyclic scheme for object segmentation networks,1,G06T
+11263649,2022-03-01,Quantitative rating system for prioritizing customers by propensity and buy size,1,G06Q
+11263470,2022-03-01,Saliency prediction for informational documents,0,G06F|G06N|G06Q|G06V
+11263394,2022-03-01,Low-resource sentence compression system,0,G06F|G06N
+11263259,2022-03-01,Compositing aware digital image search,1,G06F|G06N
+11257491,2022-02-22,Voice interaction for image editing,1,G06F|G06T|G10L
+11257298,2022-02-22,Reconstructing three-dimensional scenes in a target coordinate system from multiple views,1,G06T
+11257290,2022-02-22,Decimating a three-dimensional mesh via successive self-parameterization,0,G06T
+11257284,2022-02-22,Relighting digital images illuminated from a target lighting direction,0,G06N|G06T
+11257269,2022-02-22,Inverse kinematic solution blending in digital character animation,0,G06T
+11257256,2022-02-22,Raster image tracing,0,G06F|G06T
+11256960,2022-02-22,Panoptic segmentation,5,G06F|G06N|G06V
+11256918,2022-02-22,Object detection in images,1,G06F|G06N|G06V
+11256913,2022-02-22,Asides detection in documents,1,G06F|G06V
+11256907,2022-02-22,Classification of subjects within a digital image,0,G06T|G06V
+11252393,2022-02-15,Trajectory-based viewport prediction for 360-degree videos,0,H04N
+11250607,2022-02-15,Generating efficient angular snapping guides for digital artboards,2,G06T
+11250548,2022-02-15,Digital image completion using deep learning,3,G06N|G06T|G06V
+11250252,2022-02-15,Simulated handwriting image generator,0,G06F|G06N|G06V
+11249713,2022-02-15,Online conference collaboration by leveraging a plurality of client devices,0,G06F|G06Q|G09G|H04L
+11244518,2022-02-08,Digital stages for presenting digital three-dimensional models,0,G06T
+11244502,2022-02-08,Generating 3D structures using genetic programming to satisfy functional and geometric constraints,0,G06T
+11244486,2022-02-08,Shape joining based on proximity,2,G06T
+11244460,2022-02-08,Digital image boundary detection,1,G06T
+11244430,2022-02-08,Digital image fill,1,G06N|G06T
+11244329,2022-02-08,Metric forecasting in a digital medium environment,0,G06Q
+11244207,2022-02-08,Deep learning tag-based font recognition utilizing font classification,2,G06F|G06N|G06V
+11244204,2022-02-08,Determining video cuts in video clips,1,G06F|G06V|G11B
+11244195,2022-02-08,Iteratively applying neural networks to automatically identify pixels of salient objects portrayed in digital images,7,G06F|G06T|G06V
+11244167,2022-02-08,Generating a response to a user query utilizing visual features of a video segment and a query-response-neural network,6,G06F|G06N|G06V
+11243747,2022-02-08,Application digital content control using an embedded machine learning module,4,G06F|G06N
+11238657,2022-02-01,Augmented video prototyping,1,G06T|G11B|H04N
+11238634,2022-02-01,Motion model refinement based on contact analysis and optimization,2,G06N|G06T
+11238628,2022-02-01,Intelligent context-based image recommendations,0,G06F|G06T
+11238593,2022-02-01,Multi-object image parsing using neural network pipeline,1,G06N|G06T|G06V
+11238560,2022-02-01,Image down-scaling with pixel sets selected via blue noise sampling,0,G06T
+11238362,2022-02-01,Modeling semantic concepts in an embedding space as distributions,7,G06F|G06N
+11238312,2022-02-01,Automatically generating labeled synthetic documents,1,G06F|G06N|G06V
+11238093,2022-02-01,Video retrieval based on encoding temporal relationships among video frames,3,G06F|G06N|H04N
+11233920,2022-01-25,Transforming document elements for modified document layouts,0,G06F|G06T|H04N
+11233865,2022-01-25,Visitor engagement detection and control for online sessions with a listing platform,0,G06F|G06Q|H04L
+11232613,2022-01-25,Curve antialiasing based on curve-pixel intersection,1,G06T
+11232607,2022-01-25,Adding color to digital images,0,G06F|G06T|G06V|H04N
+11232547,2022-01-25,Hierarchical scale matching and patch estimation for image style transfer with arbitrary resolution,0,G06T
+11232483,2022-01-25,Marketing attribution capturing synergistic effects between channels,0,G06Q
+11232263,2022-01-25,Generating summary content using supervised sentential extractive summarization,0,G06F|G06N
+11232255,2022-01-25,Generating digital annotations for evaluating and training automatic electronic document annotation models,1,G06F|G06N
+11232147,2022-01-25,Generating contextual tags for digital content,0,G06F|G06V
+11231909,2022-01-25,Validation for graphical user interface,0,G06F
+11227419,2022-01-18,Removing anchor points from a path while reducing deviation of the path,0,G06T
+11227359,2022-01-18,User-defined image compositing on graphics processing units,0,G06F|G06T|G09G
+11227226,2022-01-18,Utilizing joint-probabilistic ensemble forecasting to generate improved digital predictions,1,G06N
+11227185,2022-01-18,Identifying visually similar digital images utilizing deep learning,0,G06F|G06T|G06V
+11227159,2022-01-18,Explanatory visualizations for object detection,0,G06F|G06T|G06V
+11223744,2022-01-11,Local color range selection,0,G06T|H04N
+11223663,2022-01-11,Providing personalized chat communications within portable document format documents,0,G06F|H04L
+11222399,2022-01-11,Image cropping suggestion using multiple saliency maps,0,G06T|G06V
+11222268,2022-01-11,Determining algorithmic multi-channel media attribution based on discrete-time survival modeling,0,G06N|H04L
+11222167,2022-01-11,Generating structured text summaries of digital documents using interactive collaboration,30,G06F|G06N
+11222047,2022-01-11,Generating digital visualizations of clustered distribution contacts for segmentation in adaptive digital content campaigns,0,G06F
+11221995,2022-01-11,Data replication from a cloud-based storage resource,0,G06F
+11217208,2022-01-04,Low-latency adaptive streaming for augmented reality scenes,1,G06F|G09G
+11217035,2022-01-04,Generating height maps from normal maps based on boundary conditions of virtual boundaries,8,G06T
+11217005,2022-01-04,Techniques for rendering 2D vector graphics on mobile devices,0,G06T
+11216998,2022-01-04,Jointly editing related objects in a digital image,0,G06T
+11216961,2022-01-04,Aligning digital images by selectively applying pixel-adjusted-gyroscope alignment and feature-based alignment models,0,G06T|G06V
+11216658,2022-01-04,Utilizing glyph-based machine learning models to generate matching fonts,2,G06F|G06V
+11216505,2022-01-04,Multi-resolution color-based image search,3,G06F|G06V
+11216170,2022-01-04,Facilitating editing of spherical panorama videos using a virtual-reality headset,0,G06F|G06T|G11B|H04N
+11211060,2021-12-28,Using machine-learning models to determine movements of a mouth corresponding to live speech,3,G06N|G10L
+11210831,2021-12-28,Depicting humans in text-defined outfits,2,G06F|G06N|G06T|G06V
+11210615,2021-12-28,Ad hoc group management within a collaboration project sharing workflow,1,G06Q
+11210477,2021-12-28,Systems and methods for transferring stylistic expression in machine translation of sequence data,48,G06F
+11210470,2021-12-28,Automatic text segmentation based on relevant context,3,G06F|G06N
+11210450,2021-12-28,Systems for generating instances of variable fonts,2,G06F|G06T
+11205444,2021-12-21,Utilizing bi-directional recurrent encoders with multi-hop attention for speech emotion recognition,3,G06F|G06N|G10L
+11205249,2021-12-21,Table shifting and skewing,1,G06T
+11205207,2021-12-21,Automated digital catalog generation,10,G06F|G06Q
+11205111,2021-12-21,End of period metric projection with intra-period alerts,0,G06F|G06N
+11204679,2021-12-21,Snapping objects into alignment in three-dimensional space,3,G06F
+11202053,2021-12-14,Stereo-aware panorama conversion for immersive media,0,G06T|H04N
+11201754,2021-12-14,Synchronized accessibility for client devices in an online conference collaboration,0,G09B|H04L|H04N
+11200708,2021-12-14,Real-time color vector preview generation,1,G06T
+11200645,2021-12-14,Previewing a content-aware fill,0,G06T
+11200592,2021-12-14,Simulation-based evaluation of a marketing channel attribution model,0,G06Q
+11200501,2021-12-14,Accurate and interpretable rules for user segmentation,1,G06N|G06T
+11200424,2021-12-14,Space-time memory network for locating target object in video content,1,G06F|G06V
+11196939,2021-12-07,Generating light painting images from a sequence of short exposure images,0,G06T|H04N
+11195048,2021-12-07,Generating descriptions of image relationships,1,G06F|G06V
+11194958,2021-12-07,Fact replacement and style consistency tool,2,G06F|G06N
+11194368,2021-12-07,Accelerometer-based biometric data,0,G06F|H04L|H04W
+11190898,2021-11-30,Rendering scene-aware audio using neural network-based acoustic analysis,2,G06N|H04S
+11190653,2021-11-30,Techniques for capturing an image within the context of a document,0,H04N
+11189094,2021-11-30,3D object reconstruction using photometric mesh representation,0,B29C|B33Y|G06N|G06T
+11189069,2021-11-30,Systems for partially undoing content editing operations,0,G06F|G06T
+11189066,2021-11-30,Systems and methods of learning visual importance for graphic design and data visualization,1,G06N|G06T
+11189060,2021-11-30,Generating procedural materials from digital images,2,G06N|G06T
+11188784,2021-11-30,Intelligent people-group cataloging based on relationships,0,G06F|G06V
+11188579,2021-11-30,Personalized dynamic content via content tagging and transfer learning,0,G06F|G06N
+11188213,2021-11-30,Edit experience for transformation of digital content,0,G06F|G06T
+11184558,2021-11-23,System for automatic video reframing,5,G06N|G06V|G11B|H04N
+11184449,2021-11-23,Network-based probabilistic device linking,0,H04L
+11182955,2021-11-23,Utilizing dynamic filtering to adaptively generate control points of a vector object for display in a graphical user interface,0,G06T
+11182941,2021-11-23,Aligning objects with text,0,G06F|G06T
+11182937,2021-11-23,Cohesive manipulation of bezier handles,0,G06F|G06T
+11182932,2021-11-23,Color gradient capture from source image content,0,G06T
+11182905,2021-11-23,Algorithmic approach to finding correspondence between graphical elements,0,G06F|G06T|G06V
+11182804,2021-11-23,Segment valuation in a digital medium environment,1,G06N|G06Q
+11182547,2021-11-23,Automated form generation system,1,G06F|G06N
+11182216,2021-11-23,Auto-scaling cloud-based computing clusters dynamically using multiple scaling decision makers,1,G06F
+11178374,2021-11-16,Dynamically rendering 360-degree videos using view-specific-filter parameters,0,H04N
+11178368,2021-11-16,Automatic digital parameter adjustment including tone and color correction,1,G06T|H04N
+11178311,2021-11-16,Context aware color reduction,0,G06F|G06T|G06V|H04N
+11176714,2021-11-16,System and method for generating procedural textures with the aid of particles,1,G06T
+11176713,2021-11-16,Generation of controlled attribute-based images,0,G06F|G06N|G06T|G06V
+11176381,2021-11-16,Video object segmentation by reference-guided mask propagation,2,G06F|G06T|G06V
+11176310,2021-11-16,Facilitating dynamic document layout by determining reading order using document content stream cues,3,G06F
+11176193,2021-11-16,Search input generation for image search,1,G06F|G06V
+11175807,2021-11-16,Intelligent contextual video thumbnail display,2,G06F|G06N|H04L
+11175735,2021-11-16,Choice-based analytics that combine gaze and selection data,2,G06F
+11170793,2021-11-09,Secure audio watermarking based on neural networks,1,G06N|G10L
+11170558,2021-11-09,Automatic rigging of three dimensional characters for animation,0,G06T
+11170551,2021-11-09,Motion retargeting with kinematic constraints,2,G06N|G06T
+11170432,2021-11-09,Recommender system based on trendsetter inference,0,G06N|G06Q
+11170407,2021-11-09,Predicting unsubscription of subscribing users,0,G06Q
+11170389,2021-11-09,Enhancing media content effectiveness using feedback between evaluation and content editing,2,G06Q|G11B
+11170320,2021-11-09,Updating machine learning models on edge servers,2,G06F|G06N|H04L
+11170158,2021-11-09,Abstractive summarization of long documents using deep learning,5,G06F|G06N
+11170156,2021-11-09,Drop word tool for digital typesetting,1,G06F
+11170048,2021-11-09,System for identifying typed graphlets,0,G06F
+11164355,2021-11-02,Shape aware transformation,0,G06T
+11164343,2021-11-02,Synthesizing brush strokes based on user-defined strokes,4,G06F|G06T
+11163831,2021-11-02,Organizing hierarchical data for improved data locality,0,G06F
+11163819,2021-11-02,Image search and retrieval using object attributes,1,G06F
+11163803,2021-11-02,Higher-order graph clustering,0,G06F
+11163377,2021-11-02,Remote generation of executable code for a client application based on natural language commands captured at a client device,0,G06F|G10L
+11159328,2021-10-26,Digital document editing as part of electronic signature collection,0,G06F|H04L|H04W
+11158130,2021-10-26,Systems for augmented reality sketching,6,G06F|G06T
+11158117,2021-10-26,Estimating lighting parameters for positions within augmented-reality scenes,0,G06F|G06N|G06T|G06V
+11158100,2021-10-26,Automatic generation of context-aware composite images,0,G06F|G06T|G06V
+11158090,2021-10-26,Enhanced video shot matching using generative adversarial networks,1,G06F|G06T|G06V|H04N
+11158055,2021-10-26,Utilizing a neural network having a two-stream encoder architecture to generate composite digital images,6,G06N|G06T
+11157773,2021-10-26,Image editing by a generative adversarial network using keypoints or segmentation masks constraints,1,G06F|G06N|G06T|G06V
+11157693,2021-10-26,Stylistic text rewriting for a target author,9,G06F|G06N|G06V
+11157680,2021-10-26,Systems for suggesting content components,1,G06F
+11157130,2021-10-26,Cursor-based resizing for copied image portions,0,G06F|G06T
+11153375,2021-10-19,Using reinforcement learning to scale queue-based services,0,G06N|H04L
+11152032,2021-10-19,Robust tracking of objects in videos,3,G06T|G06V|G11B
+11151755,2021-10-19,Image processing for increasing visibility of obscured patterns,0,G06T|H04N
+11151532,2021-10-19,System to facilitate exchange of data segments between data aggregators and data consumers,2,G06F|G06N|G06Q
+11151370,2021-10-19,Text wrap detection,0,G06F|G06N|G06V
+11151307,2021-10-19,Mapping annotations to ranges of text across documents,0,G06F
+11146862,2021-10-12,Generating tags for a digital video,1,G06N|G06V|H04N
+11146580,2021-10-12,Script and command line exploitation detection,2,G06F|G06N|H04L
+11146381,2021-10-12,Traceability of edits to digital documents via distributed ledgers,8,G06F|H04L
+11145333,2021-10-12,Tool capture and presentation system,0,G06F|G11B
+11145092,2021-10-12,Graphical element color diffusion techniques,1,G06F|G06T
+11144939,2021-10-12,Cross-device consumer identification and device type determination,0,G06Q|H04L
+11144784,2021-10-12,Text-to-visual machine learning embedding techniques,5,G06F|G06N|G06V
+11144717,2021-10-12,Automatic generation of document layouts,0,G06F
+11144288,2021-10-12,System and method for compiling rules set into bytecode using switch and class hierarchies,1,G06F
+11140234,2021-10-05,Controlling usages of channels of a user experience ecosystem,0,G06Q|H04L
+11138776,2021-10-05,Adaptive image armatures with interactive composition guidance,1,G06T|H04N
+11138699,2021-10-05,Utilizing context-aware sensors and multi-dimensional gesture inputs to efficiently generate enhanced digital images,0,G06F|G06T|H04M
+11138693,2021-10-05,Attention-driven image manipulation,1,G06N|G06T|G06V
+11138257,2021-10-05,Object search in digital images,0,G06F|G06T
+11132821,2021-09-28,Providing graphical user interface tools for efficiently selecting handles in vector artwork on touch-based devices,0,G06F|G06T
+11132762,2021-09-28,Content aware image fitting,0,G06F|G06T|G06V
+11132584,2021-09-28,Model reselection for accommodating unsatisfactory training data,0,G06F
+11132349,2021-09-28,Update basis for updating digital content in a digital medium environment,0,G06F|H04L|H04W
+11132209,2021-09-28,Integrated profile simulation for dynamic content,2,G06F
+11132174,2021-09-28,Facilitating discovery of verbal commands using multimodal interfaces,0,G06F|G10L
+11132105,2021-09-28,Capturing electronic signatures using an expanded interface area,3,G06F
+11128724,2021-09-21,Real-time interactive event analytics,0,G06N|H04L
+11127205,2021-09-21,Three-dimensional mesh segmentation,1,G06T
+11127139,2021-09-21,Enhanced semantic segmentation of images,4,G06N|G06T
+11127124,2021-09-21,Evenly spaced curve sampling technique for digital visual content transformation,0,G06T
+11127050,2021-09-21,Artificial intelligence techniques for bid optimization used for generating dynamic online content,1,G06N|G06Q
+11126922,2021-09-21,Extracting live camera colors for application to a digital design,1,G06F|G06N|G06T|G06V|G11B
+11126890,2021-09-21,Robust training of large-scale object detectors with a noisy dataset,9,G06F|G06N|G06V
+11126788,2021-09-21,Font capture from images of target decorative character glyphs,1,G06F|G06N|G06T|G06V
+11120801,2021-09-14,Generating dialogue responses utilizing an independent context-dependent additive recurrent neural network,0,G06F|G06N|G10L
+11120467,2021-09-14,Systems and methods for predicting and pricing of gross rating point scores by modeling viewer data,2,G06Q
+11120457,2021-09-14,Contact management suppression rules system,0,G06Q|H04L
+11120363,2021-09-14,Latency mitigation for encoding data,0,G06N|H03M|H04N
+11120205,2021-09-14,Reviewing document designs,0,G06F|G06Q
+11120059,2021-09-14,Conversational query answering system,0,G06F
+11120058,2021-09-14,Generating and providing stacked attribution breakdowns within a stacked attribution interface by applying attribution models to dimensions of a digital content campaign,0,G06F|G06Q
+11119727,2021-09-14,Digital tutorial generation system,3,G06F|G10L
+11115663,2021-09-07,Codebook generation for cloud-based video applications,1,H04N
+11115645,2021-09-07,Generating novel views of a three-dimensional object based on a single two-dimensional image,1,G06F|G06T|G06V|H04N
+11115204,2021-09-07,"Cooperative platform for generating, securing, and verifying device graphs and contributions to device graphs",0,G06N|H04L
+11113882,2021-09-07,Generating immersive trip photograph visualizations,0,G06F|G06T|G06V
+11113734,2021-09-07,Generating leads using Internet of Things devices at brick-and-mortar stores,1,G06Q
+11113722,2021-09-07,Providing content related to sentiment of product feature,0,G06Q
+11113721,2021-09-07,Dynamic sentiment-based mapping of user journeys,7,G06N|G06Q|H04L
+11113716,2021-09-07,Attribution that accounts for external viewing conditions,0,G06Q
+11113700,2021-09-07,Method and apparatus for associating device user identifiers with content presentation and related events,0,G06Q
+11113618,2021-09-07,Detecting the bounds of borderless tables in fixed-format structured documents using machine learning,0,G06F|G06N|G06V
+11113599,2021-09-07,Image captioning utilizing semantic text modeling and adversarial learning,1,G06F|G06N|G06V
+11113578,2021-09-07,Learned model-based image rendering,5,G06F|G06N|G06V
+11113479,2021-09-07,Utilizing a gated self-attention memory network model for predicting a candidate answer match to a query,9,G06F|G06N
+11113461,2021-09-07,Generating edit suggestions for transforming digital documents,0,G06F
+11113458,2021-09-07,Concurrently supporting both document-based and object-based undo operations,0,G06F
+11113323,2021-09-07,Answer selection using a compare-aggregate model with language model and condensed similarity information from latent clustering,1,G06F|G06N
+11113293,2021-09-07,Latent network summarization,2,G06F
+11113185,2021-09-07,Automated code testing for code deployment pipeline based on risk determination,2,G06F
+11112927,2021-09-07,Digital content automated layout system,1,G06F|G06V
+11109085,2021-08-31,Utilizing one hash permutation and populated-value-slot-based densification for generating audience segment trait recommendations,1,H04N
+11109084,2021-08-31,Machine-learning based multi-step engagement strategy generation and visualization,0,G06N|G06Q|H04N
+11109083,2021-08-31,Utilizing a deep generative model with task embedding for personalized targeting of digital content through multiple channels across client devices,4,G06N|H04N
+11107257,2021-08-31,Systems and methods of generating playful palettes from images,2,G06F|G06T|G06V
+11107219,2021-08-31,Utilizing object attribute detection models to automatically select instances of detected objects in images,21,G06F|G06N|G06T|G06V|G10L
+11107184,2021-08-31,Virtual object translation,0,G06F|G06T
+11107119,2021-08-31,Conducting dynamic media lift studies concurrently with operating online advertising campaigns,0,G06Q
+11107115,2021-08-31,Machine-learning based multi-step engagement strategy modification,1,G06N|G06Q
+11106944,2021-08-31,Selecting logo images using machine-learning-logo classifiers,2,G06F|G06N|G06V
+11106902,2021-08-31,Interaction detection model for identifying human-object interactions in image content,2,G06N|G06T|G06V
+11106858,2021-08-31,Merging selected digital point text objects while maintaining visual appearance fidelity,0,G06F|G06T
+11106339,2021-08-31,Designing and resizing graphical user interfaces,0,G06F
+11102525,2021-08-24,Injecting customized content into 360-degree videos,0,H04N
+11102487,2021-08-24,Image resampling for DCT based image encoding formats using memory efficient techniques,0,H04N
+11100917,2021-08-24,Generating ground truth annotations corresponding to digital image editing dialogues for training state tracking models,7,G06F|G06N|G10L
+11100681,2021-08-24,Applying palette-based color composition to an electronic image,0,G06T
+11100559,2021-08-24,Recommendation system using linear stochastic bandits and confidence interval generation,0,G06Q
+11100530,2021-08-24,Bandit algorithm for k-best option identification,0,G06Q
+11100421,2021-08-24,Customized website predictions for machine-learning systems,2,G06F|G06N|G06Q|H04L
+11100400,2021-08-24,Generating visually-aware item recommendations using a personalized preference ranking network,4,G06F|G06N
+11100176,2021-08-24,Data sharing tool for facilitating real-time access to current or updated datasets,0,G06F
+11100127,2021-08-24,Generating varied-scale topological visualizations of multi-dimensional data,0,G06F
+11100080,2021-08-24,Using an action registry to edit data across users and devices,0,G06F|H04L
+11095597,2021-08-17,Predicting spread of content across social networks,1,G06N|G06Q|H04L
+11095544,2021-08-17,Robust anomaly and change detection utilizing sparse decomposition,0,H04L
+11094236,2021-08-17,Dynamic modification of digital signage based on device edge analytics and engagement,0,G06F|G09F|G09G
+11094083,2021-08-17,Utilizing a critical edge detection neural network and a geometric model to determine camera parameters from a single digital image,15,G06T
+11093957,2021-08-17,Techniques to quantify effectiveness of site-wide actions,0,G06Q
+11093843,2021-08-17,Self-trained content management system for automatically classifying execution modes for user requests,0,G06F|G06N
+11093660,2021-08-17,Recommending pattern designs for objects using a sequence-based machine-learning model,0,G06F|G06N
+11093565,2021-08-17,Methods and systems for identifying multiple devices belonging to a single user by merging deterministic and probabilistic data to generate a cross device data structure,0,G06F|G06N
+11093130,2021-08-17,Drawing tool identification and retrieval,1,G06F|G06T
+11093126,2021-08-17,Drop zone prediction for user input operations,0,G06F|G11B
+11087515,2021-08-10,Losslessly exchanging image layer data between image editing applications,0,G06T
+11087514,2021-08-10,Image object pose synchronization,2,G06F|G06T|G06V
+11087511,2021-08-10,Automated vectorization of a raster image using a gradient mesh with arbitrary topology,2,G06T
+11087505,2021-08-10,Weighted color palette generation,0,G06F|G06N|G06T|G06V
+11087503,2021-08-10,Interactive color palette interface for digital painting,0,G06F|G06T
+11087282,2021-08-10,"Content creation, deployment collaboration, and channel dependent content selection",0,G06Q|H04L
+11086926,2021-08-10,Thumbnail generation from panoramic images,1,G06F|G06T|H04N
+11086889,2021-08-10,Content-aware tutorial recommendation,0,G06F|G06N|G06T|G06V
+11086843,2021-08-10,Embedding codebooks for resource optimization,3,G06F|H03M|H04N
+11086646,2021-08-10,"Tenant-side detection, classification, and mitigation of noisy-neighbor-induced performance degradation",1,G06F|G06N|H04L
+11086645,2021-08-10,Proficiency based tutorial modification,2,G06F|H04N
+11085777,2021-08-10,Generating digital event sequences utilizing a dynamic user preference interface to modify recommendation model reward functions,1,G01C|G06Q|H04W
+11082789,2021-08-03,Audio production assistant for style transfers of audio recordings using one-shot parametric predictions,8,G06F|G06N|G10L|H04S
+11082585,2021-08-03,Visual content proofing on multiple target devices,0,H04N
+11081139,2021-08-03,Video inpainting via confidence-weighted motion estimation,4,G06T|G11B|H04N
+11080833,2021-08-03,Image manipulation using deep learning techniques in a patch matching operation,3,G06F|G06N|G06T|G06V
+11080819,2021-08-03,Generating developable depth images using rank minimization,0,G06T
+11080817,2021-08-03,Cloth warping using multi-scale patch adversarial loss,0,G06T
+11080764,2021-08-03,Hierarchical feature selection and predictive modeling for estimating performance metrics,1,G06F|G06N|G06Q
+11080745,2021-08-03,Forecasting potential audience size and unduplicated audience size,2,G06Q
+11080732,2021-08-03,Audience comparison,0,G06F|G06Q
+11080464,2021-08-03,Correction techniques of overlapping digital glyphs,2,G06F|G06V
+11080376,2021-08-03,"Anonymous cross-device, cross-channel, and cross-venue user identification using adaptive deep learning",0,G06F|G06N|G06V|H04L
+11080330,2021-08-03,Generation of digital content navigation data,2,G06F|G06N
+11080295,2021-08-03,"Collecting, organizing, and searching knowledge about a dataset",2,G06F
+11074925,2021-07-27,Generating synthetic acoustic impulse responses from an acoustic impulse response,2,G06N|G10K|G10L
+11074918,2021-07-27,Real-time agreement comprehension tool,1,G06F|G06Q|G10L
+11074676,2021-07-27,Correction of misaligned eyes in images,0,G06T|G06V
+11074595,2021-07-27,Predicting brand personality using textual content,1,G06Q
+11074430,2021-07-27,Directional assistance for centering a face in a camera field of view,0,G06F|G06N|G06T|G06V|H04N
+11073965,2021-07-27,Graphical interface for presentation of interaction data across multiple webpage configurations,0,G06F|H04L
+11070717,2021-07-20,Context-aware image filtering,14,G06V|H04N
+11069099,2021-07-20,Drawing curves in space guided by 3-D objects,0,G06F|G06T
+11069093,2021-07-20,Generating contextualized image variants of multiple component images,0,G06T
+11069066,2021-07-20,"Dynamically change tracker speed, switch crop rectangles, and display invisible corners via zoom-loupes",0,G06F|G06T
+11069044,2021-07-20,Eliminating image artifacts using image-layer snapshots,2,G06T
+11069040,2021-07-20,Empirical exposure normalization,0,G06T|H04N
+11069034,2021-07-20,Method and system to enhance quality of digital images,0,G06N|G06T
+11069030,2021-07-20,Aesthetics-guided image enhancement,0,G06N|G06T|G06V
+11069028,2021-07-20,Automated generation of anamorphic images for catoptric anamorphosis,1,G02B|G06F|G06T
+11069027,2021-07-20,Glyph transformations as editable text,2,G06T
+11068493,2021-07-20,Guided content discovery in visual search,2,G06F|G06N|G06V
+11068285,2021-07-20,Machine-learning models applied to interaction data for determining interaction goals and facilitating experience-based modifications to interface elements in online environments,3,G06F|G06N
+11064000,2021-07-13,Accessible audio switching for client devices in an online conference,0,G10L|H04L
+11063956,2021-07-13,Protecting documents from cross-site scripting attacks,0,G06F|H04L
+11062493,2021-07-13,Symmetry axis digital content generation system,1,G06F|G06T
+11062460,2021-07-13,Representation learning using joint semantic vectors,2,G06F|G06T|G06V
+11062349,2021-07-13,Dynamic marketing asset generation based on user attributes and asset features,0,G06N|G06Q
+11062346,2021-07-13,Multivariate digital campaign content testing utilizing rank-1 best-arm identification,2,G06Q
+11062225,2021-07-13,Techniques for providing sequential recommendations to users,0,G06F|G06N
+11062087,2021-07-13,Generating summary content tuned to a target characteristic using a word generation model,2,G06F|G06N
+11062085,2021-07-13,Goal-driven authoring assistance using causal stylistic prescriptions,2,G06F
+11062080,2021-07-13,Application-based font previewing,1,G06F
+11061529,2021-07-13,Generating contextual guides,0,G06F
+11055905,2021-07-06,Visually augmenting images of three-dimensional containers with virtual elements,10,G06T
+11055887,2021-07-06,Modifying digital content with digital effects using facial skin mask,1,G06F|G06T|G06V
+11055828,2021-07-06,Video inpainting with deep internal learning,4,G06F|G06N|G06T|G06V
+11055810,2021-07-06,Optimizing graphics geometry using similarity-based clustering,0,G06T
+11055745,2021-07-06,Linguistic personalization of messages for targeted campaigns,0,G06F|G06Q|H04L
+11055735,2021-07-06,"Creating meta-descriptors of marketing messages to facilitate in delivery performance analysis, delivery performance prediction and offer selection",0,G06F|G06N|G06Q
+11055566,2021-07-06,Utilizing a large-scale object detector to automatically select objects in digital images,29,G06F|G06N|G06V
+11055317,2021-07-06,Methods and systems for determining and outputting correlations between metrics in a web analytic dataset,1,G06F|G06N|G06Q
+11050994,2021-06-29,Virtual reality parallax correction,4,G02B|G06N|G06T|H04N
+11050851,2021-06-29,Drag-and-drop clipboard for HTML documents,5,G06F|H04L
+11049307,2021-06-29,Transferring vector style properties to a vector artwork,0,G06T
+11049296,2021-06-29,Dynamic path modification and extension,1,G06F|G06T
+11049290,2021-06-29,Generation of a sequence of textures for video delivery,0,G06T|H04N
+11049142,2021-06-29,Smart geo-fencing using location sensitive product affinity,1,G06Q|H04W
+11049041,2021-06-29,Online training and update of factorization machines using alternating least squares optimization,0,G06F|G06N|G06Q
+11048935,2021-06-29,Generating shift-invariant neural network outputs,0,G06F|G06N|G06T|G06V
+11048932,2021-06-29,Transformation of hand-drawn sketches to digital images,1,G06F|G06N|G06T|G06V
+11048864,2021-06-29,Digital annotation and digital content linking techniques,1,G06F
+11048862,2021-06-29,Enhanced design collaboration using design-based feedback,0,G06F|G06Q
+11048779,2021-06-29,"Content creation, fingerprints, and watermarks",0,G06F
+11048690,2021-06-29,Contribution of multiparty data aggregation using distributed ledger technology,0,G06F|H04L
+11048335,2021-06-29,Stroke operation prediction for three-dimensional digital content,0,G06F|G06T
+11044450,2021-06-22,Image white balancing,1,G06F|G06T|G06V|H04N
+11043015,2021-06-22,Generating reflections within images,0,G06T
+11043012,2021-06-22,Flow-based color transfer from source graphic to target graphic,0,G06F|G06T|G06V
+11042990,2021-06-22,Automatic object replacement in an image,0,G06N|G06T
+11042969,2021-06-22,Automatic synthesis of a content-aware sampling region for a content-aware fill,1,G06T
+11042798,2021-06-22,Regularized iterative collaborative feature learning from web and user behavior data,0,G06F|G06N
+11042734,2021-06-22,Electronic document segmentation using deep learning,1,G06F|G06N|G06T|G06V
+11042694,2021-06-22,Document beautification using smart feature suggestions based on textual analysis,0,G06F|G06V
+11042603,2021-06-22,Sequential hypothesis testing in a digital medium environment using continuous data,0,G06F|G06Q
+11038976,2021-06-15,Utilizing a recommendation system approach to determine electronic communication send times,0,G06F|G06N|H04L
+11038785,2021-06-15,Facilitating changes to online computing environment by assessing impacts of temporary interventions,0,H04L
+11037367,2021-06-15,Digital media environment for intuitive modifications of digital graphics,1,G06F|G06T
+11037341,2021-06-15,Generative shape creation and editing,2,G06N|G06T
+11037019,2021-06-15,Generating modified digital images by identifying digital image patch matches utilizing a Gaussian mixture model,0,G06T|G06V
+11036915,2021-06-15,Dynamic font similarity,0,G06F|G06N
+11036811,2021-06-15,Categorical data transformation and clustering for machine learning using data repository systems,4,G06F|G06N
+11036786,2021-06-15,Determining user segmentation based on a photo library,0,G06F|G06Q
+11036348,2021-06-15,User interaction determination within a webinar system,0,G06F|G06Q|H04L
+11032578,2021-06-08,Residual entropy compression for cloud-based video applications,1,G06T|H04N
+11030796,2021-06-08,Interfaces and techniques to retarget 2D screencast videos into 3D tutorials in virtual reality,0,G06F|G06T
+11030782,2021-06-08,Accurately generating virtual try-on images utilizing a unified neural network framework,3,G06N|G06T
+11030389,2021-06-08,Acquisition of a font portion using a compression mechanism,1,G06F|G09G
+11030388,2021-06-08,Live text glyph modifications,0,G06F
+11030257,2021-06-08,Automatically generating theme-based folders by clustering media items in a semantic space,5,G06F|G06N|G06V
+11030236,2021-06-08,Image searching by employing layered search constraints,0,G06F
+11025962,2021-06-01,System and method for low-latency content streaming,0,H04N
+11025713,2021-06-01,Dynamic allocation of execution resources,0,G06F|G06N|G06Q|H04L
+11024090,2021-06-01,Virtual frame for guided image composition,2,G06F|G06T
+11024060,2021-06-01,Generating neutral-pose transformations of self-portrait images,10,G06F|G06T|G06V
+11023819,2021-06-01,Machine-learning models applied to interaction data for facilitating experience-based modifications to interface elements in online environments,1,G06F|G06N
+11023685,2021-06-01,Affect-enriched vector representation of words for use in machine-learning models,1,G06F|G06N
+11023577,2021-06-01,Anomaly detection for time series data having arbitrary seasonality,1,G06F|G06N
+11023495,2021-06-01,Automatically generating meaningful user segments,0,G06F|H04L
+11023113,2021-06-01,Visual manipulation of a digital object,0,G06F|G06T
+11023110,2021-06-01,Creating an axis for data-bound objects,1,G06F|G06T
+11019160,2021-05-25,Segment generation describing usage patterns,0,H04L
+11017771,2021-05-25,Voice command matching during testing of voice-assisted application prototypes for languages with non-phonetic alphabets,0,G06F|G10L
+11017586,2021-05-25,3D motion effect from a 2D image,1,G06F|G06N|G06T|G06V
+11017422,2021-05-25,Dynamically generating digital product notifications over time based on product expiration data,1,G06F|G06N|G06Q|H04W
+11017016,2021-05-25,Clustering product media files,0,G06F
+11016997,2021-05-25,Generating query results based on domain-specific dynamic word embeddings,8,G06F
+11016966,2021-05-25,Semantic analysis-based query result retrieval for natural language procedural queries,1,G06F
+11012663,2021-05-18,Converting variable frame rate video to fixed frame rate video,0,G06F|G09G|H04N
+11010939,2021-05-18,Rendering of cubic Bezier curves in a graphics processing unit (GPU),0,G06T
+11010926,2021-05-18,Image recoloring for color consistency in a digital medium environment,0,G06T
+11010794,2021-05-18,Methods for viewer modeling and bidding in an online advertising campaign,0,G06Q
+11010772,2021-05-18,Sales forecasting using browsing ratios and browsing durations,0,G06Q|H04L
+11010036,2021-05-18,Edit experience for transformation of digital content,0,G06F|G06T
+11004247,2021-05-11,Path-constrained drawing with visual properties based on drawing tool,0,G06F|G06T
+11004208,2021-05-11,Interactive image matting using neural networks,3,G06N|G06T
+11004036,2021-05-11,"Content creation, deployment collaboration, and tracking exposure",0,G06Q|H04L
+11004011,2021-05-11,Conservative learning algorithm for safe personalized recommendation,0,G06F|G06N|G06Q
+11003862,2021-05-11,Classifying structural features of a digital document by feature type using machine learning,8,G06F|G06N|G06V|G10L
+11003831,2021-05-11,Automatically pairing fonts using asymmetric metric learning,3,G06F|G06N|G06V
+11003830,2021-05-11,Providing location-based font recommendations,1,G06F|G06V
+11003467,2021-05-11,Visual history for content state changes,0,G06F
+10999638,2021-05-04,Content-based navigation for recordings,0,G06F|H04N
+10999637,2021-05-04,Video media item selections,0,H04N
+10998007,2021-05-04,Providing context aware video searching,0,G06F|G06V|G11B|H04N
+10997770,2021-05-04,Automated animation of fonts,4,G06F|G06T
+10997754,2021-05-04,Freeform drawing beautification,0,G06F|G06T
+10997752,2021-05-04,Utilizing a colorization neural network to generate colorized images based on interactive color edges,13,G06T
+10997692,2021-05-04,Automatic image cropping based on ensembles of regions of interest,1,G06F|G06T|G06V
+10997634,2021-05-04,Methods for determining targeting parameters and bids for online ad distribution,0,G06Q
+10997524,2021-05-04,Predicting a number of links an email campaign recipient will open,0,G06N|H04L
+10997464,2021-05-04,Digital image layout training using wireframe rendering within a generative adversarial network (GAN) system,0,G06F|G06T|G06V
+10997463,2021-05-04,Training text recognition systems,6,G06F|G06V
+10997453,2021-05-04,Image shadow detection using multiple images,0,G06T|G06V
+10997264,2021-05-04,Delivery of contextual interest from interaction information,0,G06F|G06Q|H04L
+10996963,2021-05-04,Integrating web-based tutorials into websites using a tag manager,1,G06F
+10992972,2021-04-27,Automatic identification of impermissable account sharing,5,G06F|H04L|H04N|H04W
+10991141,2021-04-27,Automatic creation of a group shot image from a short video clip using intelligent select and merge,0,G06T|G06V
+10991085,2021-04-27,Classifying panoramic images,0,G06F|G06N|G06T|G06V
+10991029,2021-04-27,Background content suggestion for combination with identified items,0,G06Q|G06T|H04N
+10991012,2021-04-27,Creative brief-based content creation,5,G06N|G06Q
+10991004,2021-04-27,Utilizing population density to facilitate providing offers,0,G06Q|H04W
+10990889,2021-04-27,Generating a predictive behavior model for predicting user behavior using unsupervised feature learning and a recurrent neural network,0,G06N
+10990877,2021-04-27,Frame selection based on a trained neural network,0,G06F|G06N|G06V
+10990807,2021-04-27,Selecting representative recent digital portraits as cover images,0,G06F|G06N|G06V
+10986308,2021-04-20,Intelligent video reframing,3,G11B|H04N
+10985993,2021-04-20,Identifying audiences that contribute to metric anomalies,2,G06N|H04L
+10984574,2021-04-20,Generating animations in an augmented reality environment,1,G06F|G06T|H04L|H04M|H04W
+10984467,2021-04-20,Compatibility-based identification of incompatible objects in digital representations of real-world environments,0,G06Q|G06T|G06V
+10984410,2021-04-20,Entity-sovereign data wallets using distributed ledger technology,3,G06Q|H04L
+10984295,2021-04-20,Font recognition using text localization,1,G06F|G06N|G06T|G06V
+10984173,2021-04-20,Vector-based glyph style transfer,0,G06F|G06V
+10984172,2021-04-20,Utilizing a genetic framework to generate enhanced digital layouts of digital fragments,0,G06F
+10984069,2021-04-20,Generating user experience interfaces by integrating analytics data together with product data and audience data in a single design tool,0,G06F|G06Q
+10984058,2021-04-20,Online diverse set generation from partial-click feedback,1,G06F|G06N|G06Q
+10983679,2021-04-20,Selectively enabling trackpad functionality in graphical interfaces,1,G06F|G06N|G06V|G09G
+10983625,2021-04-20,Systems and methods for measurement of unsupported user interface actions,0,G06F
+10979640,2021-04-13,Estimating HDR lighting conditions from a single LDR digital image,1,G06F|G06N|G06T|G06V|H04N
+10977844,2021-04-13,Presenting multiple image segmentations,0,G06T
+10977767,2021-04-13,Propagation of spot healing edits from one image to multiple images,0,G06T|G06V
+10977691,2021-04-13,Recommending shared electronic content via online service,0,G06Q
+10977549,2021-04-13,Object animation using generative neural networks,0,G06N|G06T
+10972511,2021-04-06,Streaming relay for digital signage,0,G06F|G09G|H04L|H04N
+10972332,2021-04-06,Identifying factors that contribute to a metric anomaly,1,G06N|H04L
+10970889,2021-04-06,Stroke prediction for stylized drawings based on prior strokes and reference image,0,G06F|G06T|G06V
+10970847,2021-04-06,Document boundary detection using deep learning model and image processing algorithms,0,G06N|G06T|G06V
+10970765,2021-04-06,Generating user-customized items using a visually-aware image generation network,3,G06F|G06N|G06Q|G06T
+10970599,2021-04-06,Learning copy space using regression and segmentation neural networks,1,G06F|G06N|G06T|G06V
+10970458,2021-04-06,Logical grouping of exported text blocks,6,G06F|G06V
+10970338,2021-04-06,Performing query-time attribution channel modeling,4,G06F|G06Q
+10970302,2021-04-06,Component-based synchronization of digital assets,0,G06F
+10970289,2021-04-06,Methods and systems for ranking search results via implicit query driven active learning,0,G06F
+10964322,2021-03-30,Voice interaction tool for voice-assisted application prototypes,0,G06F|G10L
+10964100,2021-03-30,Data-driven modeling of advanced paint appearance,1,G06F|G06N|G06T
+10964084,2021-03-30,Generating realistic animations for digital animation characters utilizing a generative adversarial network and a hip motion prediction network,0,G06F|G06N|G06T
+10964081,2021-03-30,Deformation mesh control for a computer animated artwork,0,G06T
+10964060,2021-03-30,Neural network-based camera calibration,1,G06N|G06T|H04N
+10964024,2021-03-30,Automatic sizing and placement of text within a digital image,1,G06T
+10963983,2021-03-30,Graphics performance for complex user interfaces,0,G06F|G06T|G09G
+10963759,2021-03-30,Utilizing a digital canvas to conduct a spatial-semantic search for digital visual media,0,G06F|G06N|G06V
+10963627,2021-03-30,Automatically generating digital enterprise content variants,1,G06F|G06N
+10963527,2021-03-30,Associating user logs using geo-point density,0,G06F
+10963420,2021-03-30,Systems and methods for providing hot spare nodes,0,G06F
+10963141,2021-03-30,Smart multi-touch layout control for mobile devices,0,G06F
+10958829,2021-03-23,Capturing digital images that align with a target image model,2,G06T|H04N
+10958590,2021-03-23,Dynamic resizing of webserver connection pool size,1,H04L
+10957117,2021-03-23,Intuitive editing of three-dimensional models,0,G06F|G06T
+10957103,2021-03-23,Dynamic mapping of virtual and physical interactions,0,G06T|G06V
+10957080,2021-03-23,Automatic illustrator guides,0,G06N|G06T
+10957063,2021-03-23,Dynamically modifying virtual and augmented reality content to reduce depth conflict between user interface elements and video content,1,G06F|G06T|H04N
+10957026,2021-03-23,Learning from estimated high-dynamic range all weather lighting parameters,0,G06T
+10956967,2021-03-23,Generating and providing augmented reality representations of recommended products based on style similarity in relation to real-world surroundings,10,G06Q|G06T
+10956932,2021-03-23,System for providing proof and attestation services for claim verification,3,G06Q
+10956930,2021-03-23,Dynamic Hierarchical Empirical Bayes and digital content control,0,G06N|G06Q|H04L
+10956731,2021-03-23,Heading identification and classification for a digital document,6,G06F|G06V
+10956658,2021-03-23,Digital content editing of a document object model (DOM) based on object model comparison,0,G06F
+10956540,2021-03-23,Unified digital rights management for heterogenous computing platforms,0,G06F
+10950060,2021-03-16,Identifying augmented reality visuals influencing user behavior in virtual-commerce environments,2,G06Q|G06T
+10950038,2021-03-16,Realistically illuminated virtual objects embedded within immersive environments,0,G06T
+10950037,2021-03-16,Deep novel view and lighting synthesis from sparse images,2,G06T
+10950017,2021-03-16,Glyph weight modification,4,G06F|G06T
+10949893,2021-03-16,Real-time bidding system that achieves desirable cost per engagement,0,G06Q
+10949873,2021-03-16,System and method for executing an advertising campaign that incrementally reaches unexposed target viewers,0,G06Q|H04N
+10949753,2021-03-16,Causal modeling and attribution,0,G06N
+10949744,2021-03-16,Recurrent neural network architectures which provide text describing images,1,G06F|G06N|G06V
+10949604,2021-03-16,Identifying artifacts in digital documents,4,G06F|G06V
+10949452,2021-03-16,Constructing content based on multi-sentence compression of source content,2,G06F
+10949430,2021-03-16,Keyword assessment,0,G06F|G06Q
+10949057,2021-03-16,Position-dependent modification of descriptive content in a virtual reality environment,0,G06F|G06T
+10945040,2021-03-09,Generating and providing topic visual elements based on audio content and video content of a digital video,10,G10L|G11B|H04N
+10944902,2021-03-09,Digital image generation using capture support data,0,G06F|G06T|H04N
+10944706,2021-03-09,Dynamic determination of data-transmission characteristics based on historical data accesses,2,G06N|H04L
+10943497,2021-03-09,Personalized e-learning using a deep-learning-based knowledge tracing and hint-taking propensity model,0,G06N|G06Q|G09B
+10943375,2021-03-09,Multi-state vector graphics,2,G06F|G06T
+10943267,2021-03-09,Machine learning assisted target segment audience generation,0,G06Q
+10943257,2021-03-09,Digital media environment for analysis of components of digital content,7,G06Q
+10942914,2021-03-09,Latency optimization for digital asset compression,0,G06F
+10939044,2021-03-02,Automatically setting zoom level for image capture,3,G06N|G06V|H04N
+10937428,2021-03-02,Pose-invariant visual speech recognition using a single view input,0,G06F|G06N|G06V|G10L
+10937237,2021-03-02,Reconstructing three-dimensional scenes using multi-view cycle projection,9,G06N|G06T
+10937204,2021-03-02,Contrast-ratio-based color generation,0,G06T
+10937200,2021-03-02,Object-based color adjustment,5,G06F|G06T
+10936996,2021-03-02,"Content creation, deployment collaboration, activity stream, and task management",1,G06Q|H04L
+10936911,2021-03-02,Logo detection,1,G06F|G06V
+10936909,2021-03-02,Learning to estimate high-dynamic range outdoor lighting parameters,2,G06F|G06T|G06V
+10936864,2021-03-02,Grid layout determination from a document image,1,G06F|G06V
+10936853,2021-03-02,Skin tone assisted digital image color matching,11,G06T|G06V
+10936790,2021-03-02,Responsive grid layouts for graphic design,2,G06F
+10936684,2021-03-02,Automatically generating instructions from tutorials for search and user navigation,0,G06F|G06N
+10936550,2021-03-02,Synchronizing different representations of content,0,G06F
+10936177,2021-03-02,Visual example-based user interface for adjusting photos along two dimensions,0,G06F|G06T
+10932004,2021-02-23,Recommending content based on group collaboration,2,G06F|G06Q|H04N
+10930040,2021-02-23,Graphic object modifications,0,G06T
+10930033,2021-02-23,Content aware tracing for generating vector drawings,1,G06F|G06T
+10930021,2021-02-23,Guided generation of color gradients via adjustable color map paths through color space elements of graphical interfaces,0,G06F|G06T
+10929860,2021-02-23,Viewed location metric generation and engagement attribution within an AR or VR environment,0,G06F|G06Q
+10929812,2021-02-23,"Content creation, deployment collaboration, and subsequent marketing activities",2,G06Q|H04L
+10929684,2021-02-23,Intelligently generating digital note compilations from digital video,0,G06F|G06T|G06V
+10929597,2021-02-23,Techniques and systems for storing and protecting signatures and images in electronic documents,1,G06F|G06T
+10929592,2021-02-23,Layout of design elements in electronic documents,0,G06F
+10929438,2021-02-23,Identifying high value segments in categorical data,0,G06F|G06Q
+10924633,2021-02-16,RGB-based parametric color mixing system for digital painting,0,G01J|H04N
+10922863,2021-02-16,Systems and methods for efficiently generating and modifying an outline of electronic text,1,G06F|G06T
+10922860,2021-02-16,Line drawing generation,2,G06F|G06T|G06V
+10922859,2021-02-16,Vector art object deformation techniques,1,G06F|G06T
+10922852,2021-02-16,Oil painting stroke simulation using neural network,0,G06N|G06T
+10922720,2021-02-16,Managing content delivery via audio cues,0,G06Q|H04H|H04N
+10922716,2021-02-16,Creating targeted content based on detected characteristics of an augmented reality scene,0,G06F|G06Q|G06V
+10922575,2021-02-16,Glyph-aware underlining of text in digital typography,1,G06F|G06T|G06V
+10922492,2021-02-16,Content optimization for audiences,0,G06F
+10922370,2021-02-16,Personalized recommendations using localized regularization,0,G06F|G06Q
+10916067,2021-02-09,Intelligent alignment of graphical elements,0,G06F|G06T|G06V
+10916054,2021-02-09,Three-dimensional mesh deformation using deep learning neural networks,0,G06N|G06T
+10916001,2021-02-09,Facilitating sketch to painting transformations,9,G06N|G06T
+10915991,2021-02-09,Controlling smoothness of a transition between images,0,G06T
+10915798,2021-02-09,Systems and methods for hierarchical webly supervised training for recognizing emotions in images,11,G06F|G06N|G06V
+10915701,2021-02-09,Caption association techniques,2,G06F|G06N
+10915577,2021-02-09,Constructing enterprise-specific knowledge graphs,1,G06F
+10915571,2021-02-09,Reduction of search ambiguity with multiple media references,0,G06F|G06T|G06V
+10911821,2021-02-02,Utilizing combined outputs of a plurality of recurrent neural networks to generate media consumption predictions,0,G06N|H04N
+10911553,2021-02-02,Dynamic customization of structured interactive content on an interactive computing system,1,G06F|G06N|G09B|H04L
+10909970,2021-02-02,Utilizing a dynamic memory network to track digital dialog states and generate responses,2,G06F|G06N|G10L|H04L
+10909737,2021-02-02,Using layer blocks to apply effects to image content,0,G06T
+10909571,2021-02-02,Visitor identification based on feature selection,0,G06Q
+10909220,2021-02-02,Method and apparatus for facilitating the transfer of a software license between computer systems,0,G06F|H04L
+10909145,2021-02-02,Techniques for determining whether to associate new user information with an existing user,1,G06F
+10909111,2021-02-02,Natural language embellishment generation and summarization for question-answering systems,2,G06F
+10908928,2021-02-02,Rules-based workflow messaging,0,G06F
+10908883,2021-02-02,Voice interaction development tool,3,G06F|G10L
+10908764,2021-02-02,Inter-context coordination to facilitate synchronized presentation of image content,0,G06F|G06T

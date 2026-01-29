@@ -1,0 +1,1120 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432274,2025-09-30,Device registration mechanism,0,H03M|H04L|H04W|Y02D
+12432156,2025-09-30,Method and apparatus for efficient packing of flow control units,0,H04L
+12430433,2025-09-30,Dynamic windowing for processing event streams,0,G06F
+12430032,2025-09-30,Apparatus and method for handling memory access requests,0,G06F
+12423887,2025-09-23,Graphics processing methods and systems for encoding primitive metadata,0,G06T
+12423597,2025-09-23,Prediction circuitry configured to predict speculative action based on hit-to-train ratio or based on train counter and hit counter,0,G06N
+12423245,2025-09-23,Address translation circuitry and method for performing address translations based on page table level size information,0,G06F
+12423237,2025-09-23,Data processing network with super home node,0,G06F
+12423236,2025-09-23,Coherency control,0,G06F
+12423233,2025-09-23,Order enforcement for delegable memory accesses,0,G06F
+12423223,2025-09-23,Access requests to local storage circuitry,0,G06F
+12423109,2025-09-23,Storing load predictions,0,G06F
+12423107,2025-09-23,Apparatus and method,0,G06F
+12423104,2025-09-23,Clipping operations using partial clip instructions,0,G06F
+12423100,2025-09-23,Prefetch pattern selection,0,G06F
+12423097,2025-09-23,Significand shifting in floating point processing operations,0,G06F
+12423030,2025-09-23,Transaction requests according to a request ordering protocol,0,G06F
+12422992,2025-09-23,Increased throughput for writes to memory,0,G06F
+12422915,2025-09-23,Selective deactivation of prediction circuitry,0,G06F
+12417401,2025-09-16,"Systems, devices, and/or processes for behavioral content processing",0,G06N|H04L|H04W
+12417274,2025-09-16,"Brain-computer interface device, system and operating method",0,G06F|G06N
+12417190,2025-09-16,Data integrity check for granule protection data,0,G06F
+12417104,2025-09-16,Switching a predicted branch type following a misprediction of a number of loop iterations,0,G06F
+12413774,2025-09-09,"System, devices and/or processes for adaptive image resolution scaling",0,G06T|G06V|H04N
+12412333,2025-09-09,Methods and apparatus for processing graphics data,0,G06T
+12412081,2025-09-09,Method for permuting dimensions of a multi-dimensional tensor,0,G06F|G06N
+12411771,2025-09-09,Combiner cache structure,0,G06F
+12411692,2025-09-09,Storage of prediction-related data,0,G06F
+12406048,2025-09-02,Distributed verification of attestation evidence,0,G06F
+12405898,2025-09-02,Memory synchronisation subsequent to a page table walk,0,G06F
+12405800,2025-09-02,Branch prediction based on a predicted confidence that a corresponding function of sampled register state correlates to a later branch instruction outcome,0,G06F
+12405799,2025-09-02,Register rename stage fusing of instructions,0,G06F
+12405797,2025-09-02,Branch prediction circuitry,0,G06F
+12405789,2025-09-02,Load chunk instruction and store chunk instruction,0,G06F
+12400636,2025-08-26,Methods and apparatus for training a classification device with constrained capabilities,0,B60R|E05F|E05Y|G05B|G06F|G06N|G10L
+12400041,2025-08-26,Memory system verification,0,G06F|G11C|H04L
+12399835,2025-08-26,Address translation circuitry and methods for performing address translation and metadata table walk using same portion of address,0,G06F
+12399833,2025-08-26,Prefetching using global offset direction tracking circuitry,0,G06F
+12399826,2025-08-26,Neural network processing,0,G06F|G06N
+12399735,2025-08-26,Managing transaction request identifiers and indicators to control or bypass in-order handling of transaction requests,0,G06F
+12399720,2025-08-26,Apparatus and method,0,G06F|G06T|Y02D
+12393400,2025-08-19,Block matching between first data and second data,0,G06F
+12393250,2025-08-19,Method and apparatus for instruction checkpointing in a data processing device powered by an unpredictable power source,0,G06F|Y02D
+12388655,2025-08-12,Data processing systems,0,H04L|H04N
+12386755,2025-08-12,Data processing apparatus and method for address translation,0,G06F
+12386626,2025-08-12,Predicting upcoming control flow,0,G06F
+12386407,2025-08-12,"System, method and/or apparatus for controlling a power signal",0,G06F|H02J
+12380200,2025-08-05,"System, devices and/or processes for assignment, configuration and/or management of one or more hardware components of a computing device",0,G06F
+12379932,2025-08-05,Execution of instructions requiring access to an array register,0,G06F
+12379930,2025-08-05,Prediction using unified predictor circuitry,0,G06F|G06N
+12379924,2025-08-05,Register access via a read port,0,G06F
+12379214,2025-08-05,Method of augmenting human perception of the surroundings,0,B60W|G01C|G06F|G06N|G06V|G08G
+12374601,2025-07-29,Three-dimensional device cooling,0,H01L
+12374005,2025-07-29,Graphics processing,0,G06T
+12373611,2025-07-29,Key capability storage,0,G06F
+12373354,2025-07-29,Access state for page table entries,0,G06F
+12373350,2025-07-29,Cache-line retention hint information for conditional write instruction,0,G06F
+12373219,2025-07-29,Reduced power consumption prediction using prediction tables,0,G06F
+12373218,2025-07-29,Technique for predicting behaviour of control flow instructions,0,G06F
+12373164,2025-07-29,Asynchronous data transfer,0,G06F
+12367146,2025-07-22,Shared memory device with hybrid coherency,0,G06F
+12361508,2025-07-15,Methods of and apparatus for storing data in memory in graphics processing systems,0,G06T
+12361299,2025-07-15,Reliance control in networks of devices,0,G06F|G06N|H04L
+12361274,2025-07-15,Processing unit for performing operations of a neural network,0,G06N
+12361176,2025-07-15,Integrity tree for memory security,0,G06F
+12360767,2025-07-15,"Data processing apparatus, method and virtual machine",0,G06F
+12355994,2025-07-08,Bit plane encoding of data arrays,0,H04N
+12354015,2025-07-08,Processing of neural networks,0,G06N
+12353963,2025-07-08,Selective bit inversion in storage operations for machine learning,0,G06F|G06N
+12353885,2025-07-08,Speculative execution following a state transition instruction,0,G06F
+12352826,2025-07-08,Current measurement architecture,0,G01R|H01L
+12347015,2025-07-01,Method of generating a mipmap,0,G06T
+12346693,2025-07-01,Monitor exclusive instruction,0,G06F
+12346559,2025-07-01,Data transfers in neural processing,0,G06F|G06N|H03M
+12346485,2025-07-01,Error detection in convolutional operations,0,G06F|G06N
+12346255,2025-07-01,Providing counters in a data processor,0,G06F|G06T
+12346253,2025-07-01,Cache lookup response filtering,0,G06F
+12340220,2025-06-24,Register mapping to map architectural registers to corresponding physical registers based on a mode indicating a register length,0,G06F
+12340216,2025-06-24,Control of instruction issue based on issue groups,0,G06F
+12339974,2025-06-24,Methods and apparatus for provisioning a device,0,G06F
+12339855,2025-06-24,Data stream processor,0,G06F
+12335632,2025-06-17,"Method, apparatus and program for processing an image",0,G06T|H04N
+12333626,2025-06-17,"Processor, method and non-transitory computer-readable storage media for handling data",0,G06T
+12333269,2025-06-17,Dot product array,0,G06F|G06N
+12328314,2025-06-10,Bootstrapping with common credential data,0,H04L|H04W
+12327027,2025-06-10,Checkpointing,0,G06F
+12322023,2025-06-03,"Graphics processing method, system and storage medium for achieving increased hidden surface removal efficiency",0,G06T
+12321451,2025-06-03,Live attack shadow replay of software,0,G06F
+12321191,2025-06-03,Set-reset circuit architecture,0,G06F|H03K
+12316537,2025-05-27,Multi-dimensional routing architecture,0,G06F|H04L
+12315545,2025-05-27,"Systems, devices, and methods of cache memory",0,G06F|G11C
+12314570,2025-05-27,"System, method and/device for managing memory devices",0,G06F
+12314182,2025-05-27,Updating related data in multi-cache systems,0,G06F
+12307293,2025-05-20,Data processing systems,0,G06F
+12307257,2025-05-20,Data processing systems,0,G06F
+12306764,2025-05-20,Cache systems with age-based eviction,0,G06F
+12299567,2025-05-13,Convolution size prediction to reduce calculations,0,G06F|G06N|G06V
+12293189,2025-05-06,Data value prediction and pre-alignment based on prefetched predicted memory access address,0,G06F
+12293185,2025-05-06,Branch prediction using hypervectors,0,G06F
+12292834,2025-05-06,Cache prefetching,0,G06F
+12288091,2025-04-29,Methods and apparatus for context switching,0,G06F
+12288073,2025-04-29,Instruction prefetch throttling,0,G06F
+12288071,2025-04-29,Register addressing information for data transfer instruction,0,G06F
+12288067,2025-04-29,Prediction of number of iterations of a fetching process,0,G06F
+12282794,2025-04-22,Data processing systems,0,G06F
+12277420,2025-04-15,Masked-vector-comparison instruction,0,G06F
+12277070,2025-04-15,Cache line subscription,0,G06F
+12277063,2025-04-15,Bypassing program counter match conditions,0,G06F
+12277028,2025-04-15,Error correction code,0,G06F
+12272105,2025-04-08,Encoding arrays of data elements in data processing systems,0,G06T|H04N
+12271608,2025-04-08,Data accumulation,0,G06F
+12271320,2025-04-08,Apparatus and method using plurality of physical address spaces,0,G06F
+12270855,2025-04-08,Debug probe for measuring at least one property of a target system,0,G01R|G06F
+12266052,2025-04-01,Graphics processors,0,G06T
+12265603,2025-04-01,"Electronic authentication system, device and process",0,A61B|G06F
+12260221,2025-03-25,Circuitry and method for instruction execution in dependence upon trigger conditions,0,G06F
+12260218,2025-03-25,Cracking instructions into a plurality of micro-operations,0,G06F
+12259821,2025-03-25,Lookup circuitry for secure and non-secure storage,0,G06F
+12250145,2025-03-11,Network-on-chip topology generation,0,G06F|H04L
+12248743,2025-03-11,Cell architecture with backside power rails,0,G06F|H01L|H10D
+12248562,2025-03-11,Domain transition disable configuration parameter,0,G06F
+12248409,2025-03-11,Apparatus and method of controlling access to data stored in a non-trusted memory,0,G06F|H04L
+12244709,2025-03-04,Updating keys used for encryption of storage circuitry,0,H04L
+12243622,2025-03-04,Dynamic power management for on-chip memory,0,G06F|G11C
+12243149,2025-03-04,Graphics processing,0,G06T
+12242856,2025-03-04,Data processors,0,G06F
+12242399,2025-03-04,Peripheral component handling of memory read requests,0,G06F
+12236241,2025-02-25,Data processing apparatus with selectively delayed transmission of operands,0,G06F
+12236091,2025-02-25,Monitoring memory locations to identify whether data stored at the memory locations has been modified,0,G06F|Y02D
+12235768,2025-02-25,Methods and apparatus for processing prefetch pattern storage data,0,G06F
+12229565,2025-02-18,In-core parallelization in a data processing apparatus and method,0,G06F
+12229556,2025-02-18,Predicting a load value for a subsequent load operation,0,G06F
+12229324,2025-02-18,Security measures for signal paths with tree structures,0,G06F
+12225100,2025-02-11,"System, devices and/or processes for executing service functions",0,H04L
+12223325,2025-02-11,Apparatus and method of optimizing divergent processing in thread groups preliminary class,0,G06F
+12223202,2025-02-11,Store buffer,0,G06F
+12223010,2025-02-11,Methods and circuits of spatial alignment,0,G06F
+12222826,2025-02-11,Traffic isolation at a chip-to-chip gateway of a data processing system,0,G06F
+12218664,2025-02-04,Backside power supply techniques,0,G06F|G11C|H03K
+12216589,2025-02-04,Draining operation for draining dirty cache lines to persistent memory,0,G06F
+12211183,2025-01-28,"System, devices and/or processes for image anti-aliasing",0,G06T
+12210408,2025-01-28,Remapping at least one of a guard tag and an address tag associated with a target address to generate a remapped tag for use in tag checking,0,G06F
+12204906,2025-01-21,Profiling of sampled operations processed by processing circuitry,0,G06F
+12204785,2025-01-21,Memcpy micro-operation reduction,0,G06F
+12204562,2025-01-21,Data storage structure,0,G06F
+12198415,2025-01-14,"System, devices and/or processes for application of kernel coefficients",0,G06T|G06V
+12197916,2025-01-14,Processing instructions selected from a first instruction set in a first processing mode and instructions selected from a second different instruction set in a second processing mode,0,G06F
+12197340,2025-01-14,Apparatus and method for cache invalidation,0,G06F
+12190110,2025-01-07,Method and processing unit for generating output feature map data,0,G06F|G06N
+12189511,2025-01-07,Apparatus and method for collecting trace data,0,G06F
+12182575,2024-12-31,Performance monitoring information informed register renaming,0,G06F
+12182574,2024-12-31,Technique for predicting behaviour of control flow instructions,0,G06F
+12182427,2024-12-31,Controlling data allocation to storage circuitry,0,G06F
+12182261,2024-12-31,Controlling use of data determined by a resolve-pending speculative operation,0,G06F
+12182011,2024-12-31,Parallel program control system and method,0,G06F
+12181967,2024-12-31,Patrol scrubbing cycle for data storage circuitry,0,G06F
+12176904,2024-12-24,Alarm systems and circuits,0,G06F|H03K
+12175251,2024-12-24,Compression of entries in a reorder buffer,0,G06F
+12175245,2024-12-24,Load-with-substitution instruction,0,G06F
+12174755,2024-12-24,Technique for constraining access to memory using capabilities,0,G06F
+12174753,2024-12-24,Methods and apparatus for transferring data within hierarchical cache circuitry,0,G06F
+12174743,2024-12-24,Memory access,0,G06F|G06N
+12174738,2024-12-24,Circuitry and method,0,G06F
+12164881,2024-12-10,Tininess detection,0,G06F
+12164855,2024-12-10,Metal routing techniques,0,G06F
+12164436,2024-12-10,Apparatus and methods for setting indicator data to indicate whether a group of contiguously addressed information entries in a selected address information table provides a base address indicating a location within a contiguously address region comprising multiple address information tables at a later table level,0,G06F
+12164425,2024-12-10,Technique for tracking modification of content of regions of memory,0,G06F
+12159223,2024-12-03,Processing data of a neural network,0,G06F|G06N
+12159141,2024-12-03,Selective control flow predictor insertion,0,G06F
+12153805,2024-11-26,Methods and apparatus for issuing memory access commands,0,G06F|Y02D
+12149110,2024-11-19,"Battery cell monitoring systems, battery packs, and methods of operation of the same",0,G01R|G06N|H01M|H02J|Y02E
+12148697,2024-11-19,Devices and methods of local interconnect stitches and power grids,0,G06F|H01L|H10D
+12147805,2024-11-19,Monitoring of program instructions,0,G06F
+12147566,2024-11-19,Controlling personal information,0,G06F
+12147355,2024-11-19,Apparatus and method using plurality of physical address spaces,0,G06F
+12147326,2024-11-19,Behavioral sensor for creating consumable events,0,G06F
+12147325,2024-11-19,Diagnostic data capture,0,G06F
+12143911,2024-11-12,Machine to machine communications,0,G06F|H04L|H04W
+12143470,2024-11-12,Handling of machine-to-machine secure sessions,0,H04L|H04W
+12141583,2024-11-12,Register reorganisation by changing a mapping between logical and physical registers based on upcoming operations and an incomplete set of connections between the physical registers and execution units,0,G06F
+12141069,2024-11-12,Prefetch store filtering,0,G06F
+12135651,2024-11-05,Cache systems with different address domains,0,G06F
+12131155,2024-10-29,Apparatus and method for speculatively vectorising program code,0,G06F
+12124935,2024-10-22,Neural processing system,0,G06F|G06N
+12124711,2024-10-22,Protection of memory using multiple address translation functions,0,G06F
+12124384,2024-10-22,"Integrated circuit device, system and method",0,G06F|Y02W
+12118101,2024-10-15,Technique for providing a trusted execution environment,0,G06F
+12118088,2024-10-15,Moderator system for a security analytics framework,0,G06F|G06N
+12114471,2024-10-08,Active shield structure,0,G06F|H01F|H01L|H01R|H04L|H05K
+12112169,2024-10-08,Register freeing latency,0,G06F
+12106422,2024-10-01,Graphics processing,0,G06F|G06T
+12099847,2024-09-24,Technique for improving efficiency of data processing operations in an apparatus that employs register renaming,0,G06F
+12099846,2024-09-24,Shared unit instruction execution,0,G06F
+12099593,2024-09-24,Authentication of integrated circuits,0,G06F
+12099456,2024-09-24,Command processing circuitry maintaining a linked list defining entries for one or more command queues and executing synchronization commands at the queue head of the one or more command queues in list order based on completion criteria of the synchronization command at the head of a given command queue,0,G06F
+12099450,2024-09-24,Caching address translation information,0,G06F
+12099447,2024-09-24,Setting cache policy information for prefetched cache entry,0,G06F
+12099445,2024-09-24,Writing beyond a pointer,0,G06F
+12093808,2024-09-17,Mixed-signal artificial neural network accelerator,0,G06F|G06N
+12093692,2024-09-17,Apparatus and method with prediction for load operation,0,G06F
+12093121,2024-09-17,Post-manufacturing adaptation of a data processing apparatus,0,G06F
+12088922,2024-09-10,"Method, apparatus and program for processing an image",0,G06T|H04N
+12086593,2024-09-10,Capability-generating address calculating instruction,0,G06F
+12086454,2024-09-10,Data processing systems including a data encoder that reads in data from and returns data to an external memory system,0,G06F
+12086453,2024-09-10,Memory for an artificial neural network accelerator,0,G06F|G06N|G11C
+12079309,2024-09-03,Forecast revision,0,A61B|G06F|G06Q
+12079132,2024-09-03,Method and apparatus for efficient chip-to-chip data transfer,0,G06F
+12075525,2024-08-27,Template-based registration,0,H04L|H04W
+12073641,2024-08-27,"Systems, devices, and/or processes for dynamic surface marking",0,G02B|G06F|G06Q|G06V
+12073640,2024-08-27,"Systems, devices, and/or processes for dynamic surface marking",0,G02B|G06N|G06Q|G06V
+12073222,2024-08-27,Instruction ordering,1,G06F
+12073104,2024-08-27,Dynamic adjustment of memory for storing protection metadata,2,G06F
+12072808,2024-08-27,Data storage,0,G06F
+12067798,2024-08-20,Body pose tracking system and method,0,G06T|G06V
+12067668,2024-08-20,Graphics processing,0,G06F|G06T
+12067400,2024-08-20,Intermodal calling branch instruction,0,G06F
+12067373,2024-08-20,Hybrid filter banks for artificial neural networks,0,G06F|G06N
+12067263,2024-08-20,Controlling memory access in a data processing systems with multiple subsystems,0,G06F
+12067086,2024-08-20,Feature dataset classification,0,A61B|A63B|G06F|G16H
+12066953,2024-08-20,Handling address translation requests,0,G06F
+12066926,2024-08-20,Circuitry for memory address collision prevention,0,G06F|G11C
+12066855,2024-08-20,Multi-port circuit architecture,0,G06F
+12061967,2024-08-13,Processing data for a layer of a neural network,0,G06N
+12061906,2024-08-13,Apparatus and method for performing a splice of vectors based on location and length data,7,G06F
+12061853,2024-08-13,Multi-dimensional network interface,0,G06F|H01L|H03K
+12061546,2024-08-13,"Technique for processing lookup requests, in a cache storage able to store data items of multiple supported types, in the presence of a pending invalidation request",0,G06F
+12058197,2024-08-06,Message exchange between client and server,0,G06F|H04L|H04W
+12057947,2024-08-06,Application of error detecting codes in a protocol-translating interconnect circuit,0,G06F|H04L
+12056062,2024-08-06,Apparatus and method for capability-based processing,0,G06F
+12056058,2024-08-06,Cache replacement control,0,G06F
+12055835,2024-08-06,Apparatus and method of focusing light,1,G02B|G02F|G06F
+12052508,2024-07-30,Graphics processors,0,G06T|H04N
+12050917,2024-07-30,Methods and apparatus for tracking instruction information stored in virtual sub-elements mapped to physical sub-elements of a given element,0,G06F
+12050805,2024-07-30,Control of bulk memory instructions,0,G06F
+12047386,2024-07-23,Augmented reality system,0,G06T|H04L|H04W
+12047083,2024-07-23,Circuits and methods for set and reset signals,0,G06F|H03K|H03L
+12045948,2024-07-23,Image processing method and system,0,G06T
+12045622,2024-07-23,Input channel processing for triggered-instruction processing element,0,G06F
+12045620,2024-07-23,Move elimination,0,G06F
+12045618,2024-07-23,Data processing apparatus and method for generating prefetches based on a nested prefetch pattern,0,G06F|G06N
+12045170,2024-07-23,Replacement control for candidate producer-consumer relationships trained for prefetch generation,0,G06F|G06N
+12045154,2024-07-23,Technique for collecting state information of an apparatus,0,G06F
+12040821,2024-07-16,Weight processing for a neural network,0,G06F|H03M
+12038846,2024-07-16,Page table structure,0,G06F
+12035517,2024-07-09,Multi-transistor stack bitcell architecture,0,H01L|H10B|H10D
+12033234,2024-07-09,Graphics processing system,0,G06T|H04L|H04N
+12032506,2024-07-09,Multi-processor arrangement with point of serialization for broadcast communications,0,G06F|G06N
+12032155,2024-07-09,Method and head-mounted unit for assisting a hearing-impaired user,0,G02B|G06F|G06V|G10L|H04R
+12026798,2024-07-02,Variable resolution graphics processing,0,G06T
+12026515,2024-07-02,Instruction fusion,0,G06F
+12022010,2024-06-25,Reduced bandwidth handshake communication,0,H04L|H04W
+12020442,2024-06-25,Graphics processing systems,0,G06N|G06T
+12020401,2024-06-25,Data processing systems,0,G02B|G06F|G06T|H04N
+12019569,2024-06-25,"First-in, first-out buffer",0,G06F
+12014478,2024-06-18,Image adjustment based on local contrast,0,G06N|G06T
+12014456,2024-06-18,Ray tracing graphics processing systems,0,G06T
+12013785,2024-06-18,Prefetch offset selection,0,G06F
+12010242,2024-06-11,Memory protection using cached partial hash values,0,G06F|H04L|H04W
+12009041,2024-06-11,Apparatus and method for detecting errors in a memory device,0,G06F|G11C
+12007905,2024-06-11,Translation hints,0,G06F
+12002050,2024-06-04,Apparatus and method of authorisation,0,G06Q
+12001853,2024-06-04,Device bootstrapping,0,G06F|H04L|H04W
+12001845,2024-06-04,Decoupled access-execute processing,0,G06F
+12001722,2024-06-04,Technique for controlling stashing of data,0,G06F
+12001705,2024-06-04,Memory transaction parameter settings,0,G06F
+12001541,2024-06-04,Parameter signature for realm security configuration parameters,0,G06F|H04L
+12001369,2024-06-04,Broadcast regions for multi-processor arrangement,0,G06F|G06N
+11997384,2024-05-28,Focus setting determination,0,G06T|H04N
+11995904,2024-05-28,"Systems, devices, and/or processes for dynamic surface marking",0,G06N|G06V|G10L
+11995532,2024-05-28,Systems and devices for configuring neural network circuitry,0,G06N
+11995527,2024-05-28,"Apparatus, method and computer program for developing a behaviour tool to estimate a behaviour of a person",0,G06N|G06V
+11995475,2024-05-28,Information processing apparatus and a method for processing a workload,1,G06F|G06N
+11995013,2024-05-28,Direct memory access (DMA) controller issues memory access requests whereas memory locations having addresses which are offset amounts relative to destination template address,0,G06F
+11989583,2024-05-21,Circuitry and method,0,G06F
+11989425,2024-05-21,Apparatus and method for controlling access to a set of memory mapped control registers,0,G06F
+11989134,2024-05-21,Apparatus and method,0,G06F
+11989132,2024-05-21,Early cache querying,0,G06F|Y02D
+11983792,2024-05-14,Fragment dependency management for variable rate shading,0,G06T
+11983533,2024-05-14,Control flow prediction using pointers,1,G06F
+11978156,2024-05-07,Graphics processing,0,G06T
+11977896,2024-05-07,Issuing a sequence of instructions including a condition-dependent instruction,0,G06F
+11977884,2024-05-07,Replicate elements instruction,0,G06F
+11977738,2024-05-07,Allocation of store requests,0,G06F
+11972503,2024-04-30,Graphics processing,0,G06T
+11972142,2024-04-30,Data processing circuitry and apparatus for packet-based data communications,0,G06F
+11971831,2024-04-30,"First-in, first-out buffer",1,G06F
+11967551,2024-04-23,Standard cell architecture,0,H01L|H10D
+11966785,2024-04-23,Hardware resource configuration for processing system,0,G06F|G06N
+11966739,2024-04-23,Processing of issued instructions,0,G06F
+11961160,2024-04-16,Method of and apparatus for defining bounding boxes,0,G06T
+11960945,2024-04-16,Message passing circuitry and method,1,G06F
+11959950,2024-04-16,Method and apparatus for power measurement in electronic circuit design and analysis,0,G01R|G05B|G05F|G06F
+11954827,2024-04-09,"System, devices and/or processes for application of machine learning to image anti-aliasing",0,G06N|G06T
+11954048,2024-04-09,Variable nesting control parameter for table structure providing access control information for controlling access to a memory system,0,G06F
+11954040,2024-04-09,Cache memory architecture,0,G06F
+11954038,2024-04-09,Efficient evict for cache block memory,0,G06F|G06T|H04N|Y02D
+11954028,2024-04-09,Accessing encoded blocks of data,0,G06F|Y02D
+11953387,2024-04-09,Circuitry fabricated on a flexible substrate,1,G01B|G01L|G06F|G06V|G08B|G16H|H05K
+11949664,2024-04-02,Machine to machine communications,0,H04L|H04W
+11948255,2024-04-02,Foveation for a holographic imaging system,0,G06F|G06T|G06V
+11948069,2024-04-02,Compression of neural network activation data,0,G06N|H03M
+11948013,2024-04-02,Apparatus and method with value prediction for load operation,0,G06F|G06N
+11947962,2024-04-02,Replicate partition instruction,0,G06F
+11947722,2024-04-02,Devices and headsets,0,A61B|A61M|G02B|G06F|H04N
+11947460,2024-04-02,Treating multiple cache lines as a merged cache line to store multiple blocks of data,0,G06F
+11941740,2024-03-26,"System, devices and/or processes for graphics vertex processing",0,G06T
+11941403,2024-03-26,Selective prediction based on correlation between a given instruction and a subset of a set of monitored instructions ordinarily used to generate predictions for that given instruction,0,G06F
+11934334,2024-03-19,CCIX port management for PCI express traffic,0,G06F
+11934320,2024-03-19,Translation lookaside buffer invalidation,0,G06F|Y02D
+11934307,2024-03-19,Apparatus and method for providing coherence data for use when implementing a cache coherency protocol,0,G06F
+11934304,2024-03-19,Circuitry and method,0,G06F
+11934272,2024-03-19,Checkpoint saving,0,G06F
+11928581,2024-03-12,System and method for compressing kernels,0,G06N
+11928176,2024-03-12,Time domain unrolling sparse matrix multiplication system and method,0,G06F|G06N
+11928163,2024-03-12,"Apparatus, method and computer program for creating digital memories for a particular person",0,G06F|G06N
+11924357,2024-03-05,Methods and apparatus for cryptographic signature generation,0,H04L
+11924322,2024-03-05,Blockchain for securing and/or managing IoT network-type infrastructure,1,G06F|G06Q|H04L|H04W
+11922169,2024-03-05,Refactoring mac operations,0,G06F|G06N
+11915005,2024-02-27,Branch predictor triggering,0,G06F
+11915004,2024-02-27,Control flow prediction,0,G06F
+11914972,2024-02-27,Element ordering handling in a ring buffer,0,G06F
+11914543,2024-02-27,PCIe communications,0,G06F
+11914522,2024-02-27,Verifying address translation integrity,0,G06F
+11914518,2024-02-27,Apparatus and method for operating a cache storage,0,G06F
+11914509,2024-02-27,Circuitry and method,0,G06F
+11914497,2024-02-27,Profiling,0,G06F
+11908069,2024-02-20,Graphics processing,0,G06T
+11907855,2024-02-20,Data transfers in neural processing,0,G06N|G11C
+11907723,2024-02-20,Operation elimination,0,G06F
+11907722,2024-02-20,Methods and apparatus for storing prefetch metadata,1,G06F
+11907720,2024-02-20,Saving and restoring registers,0,G06F
+11907301,2024-02-20,Binary search procedure for control table stored in memory system,0,G06F
+11907130,2024-02-20,Determining whether to perform an additional lookup of tracking circuitry,0,G06F
+11907056,2024-02-20,Runtime fault detection testing in data processing system,0,G06F|G06T
+11902497,2024-02-13,Depth measurement,0,H04N
+11901290,2024-02-13,Bitcell architecture using buried metal,0,H01L|H10B|H10D
+11900522,2024-02-13,Graphics processing,2,G06F|G06T
+11900121,2024-02-13,Methods and apparatus for predicting instructions for execution,0,G06F
+11900041,2024-02-13,Via coloring methods and systems,0,G06F
+11900039,2024-02-13,Multi-input logic circuitry,0,G06F|G11C|H03K
+11899940,2024-02-13,Apparatus and method for handling memory load requests,0,G06F
+11899607,2024-02-13,Sending a request to agents coupled to an interconnect,1,G06F
+11899583,2024-02-13,Multi-dimensional cache architecture,0,G06F|H04L
+11895816,2024-02-06,Bitcell architecture,0,H01L|H10B|H10D
+11893146,2024-02-06,Tamper detection techniques,1,G01R|G06F|G08B
+11892972,2024-02-06,Synchronization mechanisms for a multi-core processor using wait commands having either a blocking or a non-blocking state,0,G06F|Y02D
+11887242,2024-01-30,Circuitry and method,0,G06F|G06T
+11887211,2024-01-30,Texture mapping,0,G06T
+11886987,2024-01-30,Non-volatile memory-based compact mixed-signal multiply-accumulate engine,1,G06F|G06N|G11C
+11886972,2024-01-30,Non-volatile memory accelerator for artificial neural networks,0,G06F|G06N|G11C|H03M
+11886881,2024-01-30,Decoupled access-execute processing and prefetching control,0,G06F
+11877073,2024-01-16,"System, devices and/or processes for processing infrared pixel values",1,G06T|H04N
+11874793,2024-01-16,Broadcast hub for multi-processor arrangement,0,G06F
+11874778,2024-01-16,Realm management unit-private memory regions,0,G06F
+11874469,2024-01-16,Holographic imaging system,0,G02B|G06F
+11862271,2024-01-02,Memory testing techniques,0,G06F|G11C
+11861760,2024-01-02,Tile-based graphics processing,1,G06T
+11861368,2024-01-02,Re-enabling use of prediction table after execution state switch,0,G06F
+11860811,2024-01-02,Message protocol for a data processing system,0,G06F
+11860795,2024-01-02,"Device, system, and method of determining memory requirements and tracking memory usage",0,G06F|Y02D
+11853873,2023-12-26,Neural network optimization,0,G06N
+11853755,2023-12-26,Atomic range compare and modify operations,0,G06F
+11853228,2023-12-26,Partial-address-translation-invalidation request,0,G06F
+11853227,2023-12-26,Data processing apparatus and method for performing address translation,0,G06F|H04J
+11853226,2023-12-26,"Address translation cache with use of page size information to select an invalidation lookup mode, or use of leaf-and-intermediate exclusive range-specifying invalidation request, or use of invalidation request specifying single address and page size information",0,G06F
+11853220,2023-12-26,Prefetcher training,0,G06F
+11847460,2023-12-19,Adaptive load coalescing for spatially proximate load requests based on predicted load request coalescence based on handling of previous load requests,0,G06F
+11847056,2023-12-19,Technique for controlling use of a cache to store prefetcher metadata,0,G06F
+11842273,2023-12-12,Neural network processing,0,G06N
+11842195,2023-12-12,Conditional yield to hypervisor instruction,0,G06F
+11841943,2023-12-12,Tamper detection and response techniques,0,G06F|G11C|H03K
+11841800,2023-12-12,Apparatus and method for handling stash requests,1,G06F
+11841798,2023-12-12,Selective allocation of memory storage elements for operation according to a selected one of multiple cache functions,0,G06F|Y02D
+11841397,2023-12-12,System-on-a-chip testing for energy harvesting devices,0,G01R|G06F
+11837543,2023-12-05,Frontside-to-backside intermixing architecture for coupling a frontside network to a backside network,0,H01L|H03K|H10D
+11836432,2023-12-05,Cell architecture with backside power rails,1,G06F|H01L|H10D
+11836260,2023-12-05,Data security,0,G06F|H04L
+11831444,2023-11-28,Machine-implemented method for configuring a retranmission timer at a client device,0,H04L|H04W
+11831406,2023-11-28,"System, devices and/or processes for secure transfer of cryptographic control of computing platform",0,H04L
+11830101,2023-11-28,Graphics processors,0,G06F|G06T
+11824977,2023-11-21,Data processing system and method,0,G06N|H04L
+11823445,2023-11-21,Object detection network with spatial uncertainty,0,G06F|G06N|G06T|G06V
+11823430,2023-11-21,Video data processing,0,G06F|G06N|G06T|G06V
+11823361,2023-11-21,Image processing,0,G06N|G06T|H04N
+11822815,2023-11-21,Handling ring buffer updates,0,G06F
+11822705,2023-11-21,Apparatus and method for masking power consumption of a processor,0,G06F|G09C|H04L
+11822462,2023-11-21,Generation of code coverage information during testing of a code sequence,0,G06F
+11816813,2023-11-14,Image data pre-processing for neural networks,0,G06N|G06T|G06V
+11816777,2023-11-14,Data processing systems,0,G06F|G06T
+11816227,2023-11-14,Interrupting export of memory regions,0,G06F
+11809836,2023-11-07,Method and apparatus for data processing operation,0,G06F|G06N|H03M
+11809609,2023-11-07,Malicious attack detection techniques,0,G06F
+11809316,2023-11-07,Speculation-restricted memory region type,0,G06F
+11803627,2023-10-31,"Authentication system, device and process",0,A61B|G06F
+11803506,2023-10-31,PCIe routing,0,G06F
+11803390,2023-10-31,Prediction class determination,3,G06F
+11803388,2023-10-31,Apparatus and method for predicting source operand values and optimized processing of instructions,0,G06F
+11803228,2023-10-31,Multiple heterogeneous energy stores,0,G06F|H02J|Y02D
+11798221,2023-10-24,Graphics processing,0,G06T
+11798121,2023-10-24,Tile-based graphics processing systems,0,G06T
+11797714,2023-10-24,Security measures for signal paths with tree structures,1,G06F
+11797454,2023-10-24,Technique for operating a cache storage to cache data associated with memory addresses,0,G06F|Y02D
+11797415,2023-10-24,Apparatus and method for monitoring events in a data processing system,0,G06F
+11797307,2023-10-24,Range prefetch instruction,0,G06F
+11790479,2023-10-17,Primitive assembly and vertex shading of vertex attributes in graphics processing systems,1,G06T
+11789867,2023-10-17,Cache arrangement for data processing systems,0,G06F
+11789701,2023-10-17,Controlling carry-save adders in multiplication,0,G06F
+11784941,2023-10-10,Apparatus and method for operating a ring interconnect,0,H04L
+11783163,2023-10-10,Hardware accelerator for IM2COL operation,2,G06F|G06N
+11782845,2023-10-10,Faulting address prediction for prefetch target address,0,G06F
+11777869,2023-10-03,Message arbitration in a ring interconnect system based on activity indications for each node in the ring interconnect,0,H04B|H04J|H04L
+11777445,2023-10-03,Methods of and apparatus for locating energy harvesting devices in an environment,1,G01R|G06F|G06Q|G06T|H02S|Y02B|Y02E
+11775440,2023-10-03,Producer prefetch filter,0,G06F
+11775380,2023-10-03,Data processing systems,1,G06F
+11775305,2023-10-03,Speculative usage of parallel decode units,0,G06F
+11775297,2023-10-03,Transaction nesting depth testing instruction,0,G06F
+11775177,2023-10-03,Integrity tree for memory integrity checking,0,G06F
+11762664,2023-09-19,Determining a restart point in out-of-order execution,0,G06F
+11762566,2023-09-19,Programmable mapping of guard tag storage locations,1,G06F
+11755497,2023-09-12,Memory management,0,G06F
+11755243,2023-09-12,Apparatus and method for triggering action,0,G06F
+11748105,2023-09-05,Methods and apparatus for storing a copy of a current fetched instruction when a miss threshold is exceeded until a refill threshold is reached,0,G06F
+11748101,2023-09-05,Handling of single-copy-atomic load/store instruction with a memory access request shared by micro-operations,0,G06F
+11742260,2023-08-29,Three-dimensional device cooling,0,H01L
+11741349,2023-08-29,Performing matrix-vector multiply operations for neural networks on electronic devices,0,G06F|G06N
+11740908,2023-08-29,Systems and methods for defining a dependency of preceding and succeeding instructions,0,G06F
+11740907,2023-08-29,Systems and methods for determining a dependency of instructions,0,G06F
+11734869,2023-08-22,Graphics processing,0,G06T
+11734440,2023-08-22,Memory access transaction with security check indication,0,G06F
+11734009,2023-08-22,Parallel processing of fetch blocks of data,1,G06F
+11727110,2023-08-15,Verifying stack pointer,0,G06F
+11726839,2023-08-15,Data processing,0,G06F
+11726116,2023-08-15,Method and apparatus for on-chip power metering using automated selection of signal power proxies,0,G01R|G05B|G05F|G06F
+11720683,2023-08-08,Secure boot process for a computer system,2,G06F|H04L
+11720619,2023-08-08,Filtering based on a range specifier,0,G06F
+11720511,2023-08-08,"Selecting, from a pool of items, a selected item to be associated with a given request",0,G06F
+11720494,2023-08-08,Cache eviction control for a private cache in an out-of-order data processing apparatus,0,G06F
+11720356,2023-08-08,Range checking instruction for setting a status value indicative of whether a first address and second address identified by the instruction correspond to the same memory attribute entry,2,G06F
+11714644,2023-08-01,Predicated vector load micro-operation for performing a complete vector load when issued before a predicate operation is available and a predetermined condition is unsatisfied,0,G06F
+11714641,2023-08-01,Vector generating instruction for generating a vector comprising a sequence of elements that wraps as required,0,G06F
+11714564,2023-08-01,Systems and methods of power management,0,G06F|Y02D
+11709782,2023-07-25,Memory address translation,0,G06F
+11704127,2023-07-18,Marking current context data to control a context-data-dependent processing operation to save current or default context data to a data location,0,G06F
+11704092,2023-07-18,High-precision anchored-implicit processing,0,G06F
+11699064,2023-07-11,Data processing using a neural network system,0,G06N
+11698980,2023-07-11,"System, devices and/or processes for secure computation on a virtual machine",0,G06F|H04L
+11693992,2023-07-04,Remote attestation of system integrity,0,G01R|G06F|H04L|Y04S
+11693796,2023-07-04,Multi-dimensional data path architecture,0,G06F|G06N
+11693666,2023-07-04,Responding to branch misprediction for predicated-loop-terminating branch instruction,2,G06F
+11693665,2023-07-04,Co-scheduled loads in a data processing apparatus,0,G06F
+11687464,2023-06-27,Address translation in a data processing apparatus,0,G06F
+11687343,2023-06-27,Data processing apparatus and method for providing candidate prediction entries,10,G06F
+11682368,2023-06-20,Method of operating a mobile device,1,G06F|G06T|G09G
+11681786,2023-06-20,"System, devices and/or processes for secure computation",0,G06F
+11681636,2023-06-20,Random tag setting instruction for a tag-guarded memory system,0,G06F
+11681621,2023-06-20,Method and apparatus for changing address-to-row mappings in a skewed-associative cache,0,G06F
+11681617,2023-06-20,Cache victim selection based on completer determined cost in a data processing system,0,G06F
+11681575,2023-06-20,Ordered data sub-component extraction,0,G06F
+11675702,2023-06-13,Replacement policy information for training table used by prefetch circuitry,2,G06F
+11670157,2023-06-06,Augmented reality system,0,G06T|G08B
+11669736,2023-06-06,Executing neural networks on electronic devices,0,G06N
+11669467,2023-06-06,Memory access instructions,0,G06F
+11663814,2023-05-30,Skip predictor for pre-trained recurrent neural networks,0,G06F|G06N|G06V
+11663132,2023-05-30,Prefetching,0,G06F
+11663125,2023-05-30,Cache configuration performance estimation,0,G06F|G06N
+11663107,2023-05-30,Data processing system performance monitoring,1,G06F|G06N
+11663034,2023-05-30,Permitting unaborted processing of transaction after exception mask update instruction,0,G06F
+11663014,2023-05-30,Speculatively executing instructions that follow a status updating instruction,0,G06F
+11663007,2023-05-30,Control of branch prediction for zero-overhead loop,0,G06F
+11662931,2023-05-30,Mapping partition identifiers,0,G06F
+11658808,2023-05-23,Re-encryption following an OTP update event,0,G06F|H04L|Y02D
+11657003,2023-05-23,Apparatus and method,0,G06F|G06N
+11656905,2023-05-23,Delegation control based on program privilege level and page privilege level,2,G06F|G06N
+11652878,2023-05-16,Extended-reality system and method,0,G06T|H04L
+11650822,2023-05-16,Program flow prediction for loops,0,G06F
+11647076,2023-05-09,Method and system for providing augmented reality displays,0,G06T|H04L|H04N
+11645807,2023-05-09,Graphics texture mapping,0,G06T
+11640533,2023-05-02,"System, method and apparatus for training neural networks using multiple datasets",3,G06F|G06N|Y02D
+11640381,2023-05-02,"System, device and/or process for hashing",0,G06F|G06Q
+11636048,2023-04-25,Handling guard tag loss,0,G06F
+11630673,2023-04-18,"System and method for physically separating, across different processing units, software for handling exception causing events from executing program code",3,G06F
+11627177,2023-04-11,Lifetime-based device registration control,0,H04L|H04W
+11625887,2023-04-11,Graphics texture mapping,0,G06T
+11625808,2023-04-11,Graphics processing systems,0,G06F|G06T|G09G
+11625578,2023-04-11,Neural network processing,0,G06F|G06N|G06V
+11625522,2023-04-11,Method and apparatus for generating three-dimensional integrated circuit design,2,G06F
+11625349,2023-04-11,Apparatus and method for managing prefetch transactions,2,G06F
+11625332,2023-04-11,Cache miss handling for read operations in data processing systems,0,G06F
+11625316,2023-04-11,Checksum generation,0,G06F|H03M
+11624777,2023-04-11,Slew-load characterization,0,G01R|G06F
+11621555,2023-04-04,Circuits to control a clamping device,0,H01L|H02H|H10D
+11620516,2023-04-04,Specializing neural networks for heterogeneous systems,1,G06N|Y02D
+11620503,2023-04-04,Neural network processing,0,G06N
+11620413,2023-04-04,Power rail noise monitoring to detect attempted security tampering or side channel attacks,0,G01R|G06F|H04L|Y04S
+11620217,2023-04-04,Partition identifier space selection,0,G06F
+11620178,2023-04-04,Fault detection,0,G06F
+11616937,2023-03-28,Media processing systems,0,G06F|G06T|H04N
+11615032,2023-03-28,Address translation data invalidation,0,G06F
+11615022,2023-03-28,Apparatus and method for handling accesses targeting a memory,1,G06F|Y02D
+11614985,2023-03-28,Insert operation,0,G06F
+11610359,2023-03-21,Graphics texture mapping,0,G06T
+11610039,2023-03-21,Creating and/or enhancing hardware obscurity via randomization points,0,G06F
+11609863,2023-03-21,Capability write address tracking,1,G06F
+11605204,2023-03-14,Image processing for augmented reality,0,G06T|H04L
+11604854,2023-03-14,Apparatus and method for performing linear interpolation,0,G06F
+11604752,2023-03-14,System for cross-routed communication between functional units of multiple processing units,0,G06F|G06T
+11604733,2023-03-14,Limiting allocation of ways in a cache based on cache maximum associativity value,4,G06F
+11604727,2023-03-14,Apparatus and methods to prolong lifetime of memories,0,G06F|G11C
+11600026,2023-03-07,Data processing systems,0,G06T|G09G|H04N
+11599679,2023-03-07,Electromagnetic and power noise injection for hardware operation concealment,0,G06F|H04L
+11599473,2023-03-07,Methods and apparatus for training prefetch information,3,G06F
+11599467,2023-03-07,Cache for storing coherent and non-coherent data,0,G06F
+11599391,2023-03-07,Memory transaction request management for an ordered unit of data items,0,G06F
+11599361,2023-03-07,Flushing a fetch queue using predecode circuitry and prediction information,0,G06F
+11595218,2023-02-28,Authorization delegation,0,G06F|H04L
+11593265,2023-02-28,Cache arrangement for graphics processing systems,0,G06F|G06T
+11593159,2023-02-28,External exception handling,0,G06F
+11593111,2023-02-28,Apparatus and method for inhibiting instruction manipulation,0,G06F
+11593025,2023-02-28,Write operation status,0,G06F
+11592892,2023-02-28,Power control circuitry for controlling power domains,0,G06F|G11C|H03K|Y02D
+11589261,2023-02-21,Device and/or method for reconstruction of signal packets,0,H04L|H04W|Y02D
+11588477,2023-02-21,Pulse stretcher circuitry,0,G06F|H03K
+11587386,2023-02-21,Methods and apparatus for electronic voting,0,G06K|G06Q|G07C|H05K
+11586944,2023-02-21,Allocation filter for prediction storage structure,2,G06F|G06N
+11586890,2023-02-21,Sparse finetuning for artificial neural networks,1,G06N
+11586554,2023-02-21,Cache arrangements for data processing systems,0,G06F|G06T|H03M
+11586445,2023-02-21,Modular gated multiplier circuitry and multiplication technique,0,G06F
+11584378,2023-02-21,Vehicle-assist system,0,B60W|G06F|G06N
+11580402,2023-02-14,System and method for compressing activation data,0,G06N|H03M
+11580032,2023-02-14,Technique for training a prediction apparatus,0,G06F
+11579920,2023-02-14,Virtual processor interrupt tracking,0,G06F
+11579889,2023-02-14,Programmable instruction buffering for accumulating a burst of instructions,0,G06F
+11579879,2023-02-14,Processing pipeline with first and second processing modes having different performance or energy consumption characteristics,0,G06F|Y02D
+11579873,2023-02-14,Handling load-exclusive instructions in apparatus having support for transactional memory,0,G06F
+11573918,2023-02-07,Methods and apparatus for communicating between node devices,0,G06F|H04L
+11573911,2023-02-07,Memory access control,0,G06F
+11573907,2023-02-07,Controlling memory accesses using a tag-guarded memory access operation,1,G06F
+11569219,2023-01-31,TSV coupled integrated circuits and methods,0,G06F|G11C|H01L|H10D
+11567870,2023-01-31,Snoop filter with imprecise encoding,0,G06F
+11567763,2023-01-31,Widening arithmetic in a data processing apparatus,0,G06F
+11567741,2023-01-31,Memory compiler techniques,0,G06F|G11C
+11562715,2023-01-24,Graphics processing systems,0,A63F|G06T|G09G
+11562701,2023-01-24,Data processing systems,0,G06F|G09G
+11561898,2023-01-24,Address expansion,2,G06F
+11561882,2023-01-24,Apparatus and method for generating and processing a trace stream indicative of instruction execution by processing circuitry,0,G06F
+11561795,2023-01-24,Accumulating data values and storing in first and second storage devices,0,G06F|Y02D
+11561767,2023-01-24,Mixed-precision computation unit,1,G06F|G06N
+11557583,2023-01-17,Cell architecture,2,G06F|H01L|H10D
+11557185,2023-01-17,Image processing method,0,G06V|G08B|H04N
+11556326,2023-01-17,Methods for performing a rollback-capable software update at a device,1,G06F|H04L|H04W
+11550965,2023-01-10,Analytics processing circuitry for mitigating attacks against computing systems,2,G06F
+11550735,2023-01-10,Region mismatch prediction for memory access control circuitry,0,G06F
+11550733,2023-01-10,"Method, system and circuit for managing a secure memory partition",0,G06F
+11550720,2023-01-10,Configurable cache coherency controller,4,G06F
+11550651,2023-01-10,Execution circuits using discardable state,0,G06F
+11550620,2023-01-10,Task dispatch,0,G06F
+11550585,2023-01-10,Accelerator interface mechanism for data processing system,0,G06F
+11550574,2023-01-10,Generating a vector predicate summary,0,G06F
+11550548,2023-01-10,Autonomous pseudo-random seed generator for computing devices,0,G06F
+11546165,2023-01-03,Attestation using device-specific and application-specific attestation messages,1,G06F|H04L
+11544910,2023-01-03,System and method for positioning image elements in augmented reality system,0,G02B|G06F|G06T|G06V
+11543994,2023-01-03,Controlling access requests of request nodes,0,G06F|H04L
+11537860,2022-12-27,Neural net work processing,1,G06F|G06N
+11537543,2022-12-27,Technique for handling protocol conversion,1,G06F
+11537522,2022-12-27,Determining a tag value for use in a tag-guarded memory,0,G06F
+11533423,2022-12-20,Contrast-based autofocus,0,G06T|H04N
+11531624,2022-12-20,Address translation in a data processing apparatus,0,G06F
+11531620,2022-12-20,Distributed virtual memory management for data processing network,0,G06F
+11531547,2022-12-20,Data processing,0,G06F
+11526743,2022-12-13,Artificial neural network optical hardware accelerator,1,G06N
+11526615,2022-12-13,Speculative side-channel hint instruction,0,G06F
+11526443,2022-12-13,Read-if-hit-pre-PoPA request,0,G06F
+11526359,2022-12-13,Caching override indicators for statistically biased branches to selectively override a global branch predictor,0,G06F
+11526356,2022-12-13,Prefetch mechanism for a cache structure,1,G06F
+11526305,2022-12-13,Memory for an artificial neural network accelerator,0,G06F|G06N|G11C
+11522840,2022-12-06,Automatic client device registration,1,G06F|H04L
+11520658,2022-12-06,Non-volatile memory on chip,0,G06F|G06N|G11C
+11520626,2022-12-06,Queueing techniques for a shared computer resource,1,G06F
+11515961,2022-11-29,Encoding data arrays,0,G06T|H04L|H04N
+11514362,2022-11-29,"Safety-based prediction apparatus, system and method",0,G06F|G06N|H04N
+11514312,2022-11-29,Computer vision optimisation for small value changes,0,G06F|G06N|G06T|G06V
+11513966,2022-11-29,Apparatus and method with value prediction for load operation,1,G06F
+11513962,2022-11-29,Draining operation to cause store data to be written to persistent memory,0,G06F
+11513796,2022-11-29,Multiply-accumulation in a data processing apparatus,0,G06F
+11513597,2022-11-29,Human-machine interface system,0,A63F|G05B|G06F|G06N
+11513574,2022-11-29,System and method for controlling a reset procedure,0,G06F|H02J
+11507841,2022-11-22,Hardware accelerator for natural language processing applications,0,G06F|G06N|G06T
+11507813,2022-11-22,Modulo operation unit,0,G06F|G06N
+11507521,2022-11-22,Apparatus and method for controlling use of bounded pointers,0,G06F
+11507515,2022-11-22,Memory management unit with address translation cache,1,G06F
+11507514,2022-11-22,Secure memory translations,0,G06F|H04L
+11507475,2022-11-22,Error detection using vector processing circuitry,1,G06F
+11507372,2022-11-22,Processing of instructions fetched from memory,0,G06F
+11503455,2022-11-15,Processing configuration data for a subscriber identification module,0,H04W
+11503134,2022-11-15,Electronic device subscription,0,H03M|H04L|H04W|Y02D
+11501809,2022-11-15,Contention-adapted read-write pulse generation circuitry,0,G06F|G11C
+11501571,2022-11-15,Depth processing,0,G06F|G06T|G06V
+11501151,2022-11-15,Pipelined accumulator,0,G06N
+11501150,2022-11-15,Neural network architecture,0,G06N|G11C
+11500640,2022-11-15,Circuitry to indicate an execution mode to access a secondary device,0,G06F
+11500612,2022-11-15,"Method, system and device for multi-cycle division operation",0,G06F
+11494256,2022-11-08,Memory scanning operation in response to common mode fault signal,0,G06F
+11494190,2022-11-08,Circuitry and method for controlling a generated association of a physical register with a predicated processing operation based on predicate data state,0,G06F
+11494188,2022-11-08,Prefetch strategy control for parallel execution of threads based on one or more characteristics of a stream of program instructions indicative that a data access instruction within a program is scheduled to be executed a plurality of times,1,G06F
+11494092,2022-11-08,Address space access control,0,G06F
+11489940,2022-11-01,Data processing systems,0,H04L
+11483299,2022-10-25,Method and apparatus for encrypted communication,0,G06F|H04L|H04W
+11483260,2022-10-25,Data processing network with flow compaction for streaming data transfer,1,G06F|H04L
+11481384,2022-10-25,Apparatus and method for performing operations on capability metadata,0,G06F
+11481339,2022-10-25,Trusted intermediary realm,0,G06F
+11481290,2022-10-25,Exception handling in transactions,1,G06F
+11481220,2022-10-25,Branch prediction in a data processing apparatus,0,G06F
+11480613,2022-10-25,Method and/or system for testing devices in non-secured environment,0,G01R|H04L
+11475287,2022-10-18,Managing control data,0,G06F|G06N
+11475200,2022-10-18,Circuit layout techniques,0,G06F
+11475198,2022-10-18,"Method and system for designing an integrated circuit, and an integrated circuit",0,G06F
+11475134,2022-10-18,Bootstrapping a device,0,G06F|H04L|H04W
+11474956,2022-10-18,Memory protection unit using memory protection table stored in memory system,1,G06F
+11474774,2022-10-18,Environmental control of audio passthrough amplification for wearable electronic audio device,0,G06F|G10K|G10L|H04R
+11470245,2022-10-11,System and method for fault detection and correction,0,B60R|G05D|G06F|G06N|G06T|H04N
+11468633,2022-10-11,Methods and systems for tile-based graphics processing,0,G06T
+11468305,2022-10-11,Hybrid memory artificial neural network hardware accelerator,0,G06F|G06N|Y02D
+11467960,2022-10-11,Access frequency caching hardware structure,3,G06F
+11467842,2022-10-11,Speculation with indirect control flow instructions,0,G06F|H04L
+11467830,2022-10-11,Method of testing one or more compute units,4,G06F|G06N
+11461505,2022-10-04,Obfuscation of operations in computing devices,0,G06F|H04L
+11461464,2022-10-04,Methods and apparatus for memory attack detection,0,G06F
+11461248,2022-10-04,Code realms,0,G06F
+11461247,2022-10-04,Granule protection information compression,3,G06F
+11461243,2022-10-04,Speculative cache storage region,2,G06F
+11461128,2022-10-04,Apparatus and method for managing use of capabilities,0,G06F
+11461104,2022-10-04,Deferred system error exception handling in a data processing apparatus,2,G06F
+11461102,2022-10-04,Circuitry and method,0,G06F
+11456855,2022-09-27,Obfuscating data at-transit,1,G06F|H04L
+11455454,2022-09-27,Methods and apparatuses for concurrent coupling of inter-tier connections,0,G06F|H01L|H10D
+11455268,2022-09-27,"Method, system and device for electronic interconnect delay bound determination",0,G06F
+11455253,2022-09-27,Set indexing for first-level and second-level set-associative cache,0,G06F
+11449729,2022-09-20,Efficient convolutional neural networks,0,G06F|G06N
+11449642,2022-09-20,Attack protection by power signature blurring,0,G06F
+11449437,2022-09-20,Invalidation of a target realm in a realm hierarchy,1,G06F
+11449116,2022-09-20,Power grid porosity techniques,0,G06F
+11445020,2022-09-13,Circuitry and method,0,G06F|H04L
+11444625,2022-09-13,Clock phase-shifting techniques in physical layout design,0,G06F|H03L
+11443777,2022-09-13,Backside power rail architecture,0,G11C|H01L
+11443414,2022-09-13,Image signal processing,0,G06F|G06N|G06T|G06V|H04N
+11442863,2022-09-13,Data processing apparatus and method for generating prefetches,2,G06F
+11442771,2022-09-13,Constraints on updating or usage of memory system component resource control parameters,0,G06F
+11442731,2022-09-13,Data processing systems including an intermediate buffer with controlled data value eviction,0,G06F
+11438230,2022-09-06,Template-based registration of devices,0,H04L|H04W
+11436804,2022-09-06,Augmented reality system,0,G06T|G06V
+11436343,2022-09-06,"Device, system, and method of policy enforcement for rich execution environment",0,G06F|H04L
+11436166,2022-09-06,Data processing systems,0,G06F|G06T
+11436124,2022-09-06,Apparatus and method for accessing metadata when debugging a device,0,G06F
+11431649,2022-08-30,Interconnect resource allocation,0,H04L
+11429532,2022-08-30,Write operations to non-volatile memory,0,G06F
+11429529,2022-08-30,Prefetching based on detection of interleaved constant stride sequences of addresses within a sequence of demand target addresses,2,G06F|G06N
+11429515,2022-08-30,Monitoring execution of software using path signature,1,G06F
+11429426,2022-08-30,Interrupt controller,0,G06F
+11429393,2022-08-30,Apparatus and method for supporting out-of-order program execution of instructions,0,G06F
+11425024,2022-08-23,Thread network routing control,0,H04L|H04W
+11423645,2022-08-23,Image processing,1,G06F|G06N|G06T|G06V
+11423580,2022-08-23,Decoding data arrays,0,G06T|H04N
+11423117,2022-08-23,Data processing method and system for performing convolutions,0,G06F|G06N
+11422808,2022-08-23,Transactional compare-and-discard instruction,1,G06F
+11422807,2022-08-23,Testing bit values inside vector elements,0,G06F
+11416404,2022-08-16,Prefetching at dynamically determined offsets,0,G06F
+11416252,2022-08-16,Program instruction fusion,2,G06F
+11416251,2022-08-16,"Apparatus for storing, reading and modifying constant values",0,G06F
+11410282,2022-08-09,Neural processing filter,0,G06N|G06T
+11409617,2022-08-09,Hardware bit-vector techniques,0,G06F|H02J
+11409532,2022-08-09,Selecting instructions for a value predictor,0,G06F
+11409530,2022-08-09,"System, method and apparatus for executing instructions",0,G06F
+11409349,2022-08-09,Power management,0,G06F|Y02D
+11409323,2022-08-09,Delay monitoring scheme for critical path timing margin,15,G06F|H03K
+11403105,2022-08-02,Detecting misprediction when an additional branch direction prediction determined using value prediction is considered more accurate than an initial branch direction prediction,0,G06F
+11398048,2022-07-26,Estimating camera pose,0,G06N|G06T
+11398005,2022-07-26,Graphics processing systems,0,G06F|G06T|G09G
+11397685,2022-07-26,Storing prediction entries and stream entries where each stream entry includes a stream identifier and a plurality of sequential way predictions,1,G06F|Y02D
+11397680,2022-07-26,Apparatus and method for controlling eviction from a storage structure,0,G06F
+11397624,2022-07-26,Execution of cross-lane operations in data processing systems,0,G06F|G06T
+11397584,2022-07-26,Tracking speculative data caching,0,G06F
+11397541,2022-07-26,Controlling guard tag checking in memory accesses,0,G06F
+11397458,2022-07-26,Balancing high energy events,0,G06F|Y02D
+11392741,2022-07-19,Computer implemented system and method for generating a layout of a cell defining a circuit component,0,G06F
+11392438,2022-07-19,Responding to unresponsive processing circuitry,0,G06F
+11392383,2022-07-19,Apparatus and method for prefetching data items,0,G06F
+11392378,2022-07-19,Executing a set of load operations for a gather-load instruction and controlling handling of another instruction that depends on completion of the gather-load instruction,0,G06F
+11392376,2022-07-19,Processor for sparse matrix computation,1,G06F
+11387995,2022-07-12,Apparatus and method for aligning corresponding elements in multiple streams of elements,0,G06F|H04L
+11385996,2022-07-12,Monitoring execution of software using online path signatures,3,G06F
+11385899,2022-07-12,Branch prediction cache for multiple software workloads,0,G06F
+11385896,2022-07-12,Determining prefetch patterns with discontinuous strides,0,G06F
+11380618,2022-07-05,Power distribution circuitry,0,H01L|H02J|H10D
+11379713,2022-07-05,Neural network processing,0,G06F|G06N
+11379556,2022-07-05,Apparatus and method for matrix operations,5,G06F
+11379377,2022-07-05,Lookup hint information,1,G06F
+11379239,2022-07-05,Apparatus and method for making predictions for instruction flow changing instructions,0,G06F
+11379237,2022-07-05,Variable-length-instruction processing modes,0,G06F
+11379233,2022-07-05,Apparatus and data processing method for transactional memory,0,G06F
+11379152,2022-07-05,Epoch-based determination of completion of barrier termination command,0,G06F
+11372691,2022-06-28,Data processing systems comprising grouped execution threads with common data values,0,G06F|G06T
+11366779,2022-06-21,System-in-package architecture with wireless bus interconnect,0,G06F|H01L|H04B|H04L
+11366668,2022-06-21,Method and apparatus for comparing predicated load value with masked load value,0,G06F
+11365974,2022-06-21,Navigation system,4,G01C|G06T
+11361485,2022-06-14,Graphics processing,0,G06T
+11361400,2022-06-14,Full tile primitives in tile-based graphics processing,1,G06F|G06T
+11361111,2022-06-14,Repetitive side channel attack countermeasures,0,G06F|H04L|H04W
+11360850,2022-06-14,Error protection key generation method and system,0,G06F|H03M
+11354404,2022-06-07,Transition disable indicator,0,G06F
+11354126,2022-06-07,Data processing,0,G06F
+11347660,2022-05-31,Sub-realms,0,G06F
+11347539,2022-05-31,Checking lock variables for transactions in a system with transactional memory support,0,G06F
+11347511,2022-05-31,Floating-point scaling operation,0,G06F
+11347508,2022-05-31,Apparatus and method for managing a capability domain,1,G06F
+11347506,2022-05-31,Memory copy size determining instruction and data transfer instruction,0,G06F
+11347060,2022-05-31,Device and method of controlling device,0,G02B|G06F|G09G
+11342959,2022-05-24,Positioning transmission of a packet,0,H04B|H04W
+11341708,2022-05-24,Graphics processing,0,G06T
+11340901,2022-05-24,Apparatus and method for controlling allocation of instructions into an instruction cache storage,1,G06F
+11340791,2022-05-24,Apparatus and method for handling delivery of data from a source to one or more destinations,0,G06F|H03K
+11334788,2022-05-17,Neural network including memory elements implemented at nodes,1,G06N|G11C
+11334627,2022-05-17,Data processing,0,G06F
+11334499,2022-05-17,Method for locating metadata,0,G06F
+11334495,2022-05-17,Cache eviction,0,G06F
+11334486,2022-05-17,Detection circuitry,0,G06F
+11334361,2022-05-17,Shared pointer for local history records used by prediction circuitry,2,G06F
+11329690,2022-05-10,Network-on-Chip topology generation,0,G06F|H04B|H04L
+11328750,2022-05-10,Bitcell architecture with buried ground rail,5,G11C|H01L|H10B|H10D
+11327903,2022-05-10,Multiple guard tag setting instruction,3,G06F
+11327791,2022-05-10,Apparatus and method for operating an issue queue,0,G06F
+11327786,2022-05-10,Distributing interrupt request to be handled by target virtual processor,5,G06F
+11327752,2022-05-10,Element by vector operations in a data processing apparatus,0,G06F
+11327687,2022-05-10,Encoding data arrays,0,G06F|H04N
+11323678,2022-05-03,Method of and apparatus for processing frames in a data processing system,0,H04N
+11323254,2022-05-03,"Device, system, and method of generating and handling cryptographic parameters",1,H04L
+11321803,2022-05-03,Graphics processing primitive patch testing,0,G06T
+11321604,2022-05-03,Systems and devices for compressing neural network parameters,1,G06N
+11321051,2022-05-03,Statistical mode determination,0,G06F
+11315303,2022-04-26,Graphics processing,2,G06T
+11314676,2022-04-26,Apparatus and method for buffered interconnect,0,G06F
+11314675,2022-04-26,"Interface circuitry for exchanging information with master, home, and slave nodes using different data transfer protocols",5,G06F
+11314658,2022-04-26,Apparatus and method including an ownership table for indicating owner processes for blocks of physical addresses of a memory,2,G06F
+11314648,2022-04-26,Data processing,0,G06F
+11314645,2022-04-26,Cache stash relay,1,G06F
+11314641,2022-04-26,Apparatus and method for executing instruction using range information associated with a pointer,0,G06F
+11314514,2022-04-26,Vector length querying instruction,0,G06F
+11314509,2022-04-26,Processing of plural-register-load instruction,2,G06F
+11310169,2022-04-19,Network-on-chip topology generation,0,G06F|H04L
+11308699,2022-04-19,Method and system for data generation,0,G06F|G06N|G06T|G06V
+11308682,2022-04-19,Dynamic stereoscopic rendering method and processor,0,G06F|G06T|H04N
+11308570,2022-04-19,Video data processing system for storing frames of video data,0,G06T|G09G
+11307856,2022-04-19,Branch target variant of branch-with-link instruction,0,G06F
+11307855,2022-04-19,Register-provided-opcode instruction,0,G06F
+11307244,2022-04-19,Adaptive voltage scaling methods and systems therefor,0,G01R|G06F|H03K
+11301973,2022-04-12,Tone mapping method,1,G06T
+11301253,2022-04-12,Branch prediction structure indexed based on return address popped from a call-return stack,0,G06F
+11301252,2022-04-12,Executing mutually exclusive vector instructions according to a vector predicate instruction,0,G06F
+11297562,2022-04-05,Method of receiving communications,0,H04L|H04W
+11295053,2022-04-05,Dielet design techniques,1,G06F
+11294989,2022-04-05,Content usage monitor,0,G06F
+11294828,2022-04-05,Apparatus and method for controlling allocation of information into a cache storage,1,G06F|Y02D
+11294817,2022-04-05,Concurrent cache lookups using partial identifiers,0,G06F
+11294787,2022-04-05,Apparatus and method for controlling assertion of a trigger signal to processing circuitry,0,G06F
+11294676,2022-04-05,Exception return instruction variants for realm-based switching,0,G06F
+11289133,2022-03-29,Power state based data retention,0,G06F|G11C|Y02D
+11288850,2022-03-29,Identifying primitives and vertices to be rendered when rendering an output in a graphics processing system,1,G06T
+11288433,2022-03-29,Power grid layout techniques,0,G06F
+11288432,2022-03-29,Computer implemented system and method for generating a layout of a cell defining a circuit component,4,G06F
+11288209,2022-03-29,Controlling cache entry replacement based on usefulness of cache entry,0,G06F
+11288207,2022-03-29,Apparatus and method for processing address translation and invalidation transactions,0,G06F
+11288195,2022-03-29,Data processing,0,G06F
+11288066,2022-03-29,Register-based matrix multiplication with multiple matrices per register,0,G06F
+11283729,2022-03-22,Network-on-chip element placement,0,G06F|H04L
+11281473,2022-03-22,Dual wakeup interrupt controllers,0,G06F|Y02D
+11281467,2022-03-22,Maintaining prediction data used to predict whether a branch represented by a branch instruction will be taken,0,G06F
+11281434,2022-03-22,Apparatus and method for maintaining a counter value,0,G06F|H04L
+11281428,2022-03-22,Conversion circuitry,0,G06F
+11281403,2022-03-22,Circuitry and method,0,G06F
+11276137,2022-03-15,Graphics processing systems with conditional evictions,0,G06T
+11275996,2022-03-15,Systems and devices for formatting neural network parameters,1,G06F|G06N
+11275670,2022-03-15,Tracing branch instructions,0,G06F
+11275607,2022-03-15,Improving the responsiveness of an apparatus to certain interrupts,0,G06F
+11275426,2022-03-15,System and method for controlling power mode transitions,0,G06F|Y02D
+11275401,2022-03-15,Tamper monitoring circuitry,0,G01R|G06F|G08B|H03K
+11270492,2022-03-08,Graphics processing systems,1,G06F|G06N|G06T|G09G
+11270412,2022-03-08,"Image signal processor, method, and system for environmental mapping",0,G06F|G06T
+11269799,2022-03-08,Cluster of processing elements having split mode and lock mode,0,G06F
+11269773,2022-03-08,Exclusivity in circuitry having a home node providing coherency control,0,G06F
+11269649,2022-03-08,Resuming beats of processing of a suspended vector instruction based on beat status information indicating completed beats,0,G06F
+11269646,2022-03-08,Instruction scheduling patterns on decoupled systems,0,G06F
+11269634,2022-03-08,Data structure relinquishing,0,G06F
+11263786,2022-03-01,Decoding data arrays,0,G06T|H04N
+11263155,2022-03-01,Managing fusion of memory regions and ownership attributes for fused memory regions,1,G06F
+11263138,2022-03-01,Correlated addresses and prefetching,0,G06F
+11263137,2022-03-01,Core-to-core cache stashing and target discovery,0,G06F
+11263133,2022-03-01,Cache control in presence of speculative read operations,0,G06F
+11263073,2022-03-01,Error recovery for intra-core lockstep mode,0,G06F
+11263016,2022-03-01,Maintaining state of speculation between instruction functions,0,G06F|H04L
+11263014,2022-03-01,Sharing instruction encoding space between a coprocessor and auxiliary execution circuitry,0,G06F
+11262834,2022-03-01,Data processing system and method for monitoring system properties,1,G06F|Y02D
+11259729,2022-03-01,"Systems, devices, and/or processes for behavioral and/or biological state processing",3,A61B|G06N|G16H
+11257468,2022-02-22,User-mountable extended reality (XR) device,0,G02B|G02C|G06F|G09G|H04N
+11256646,2022-02-22,Apparatus and method for handling ordered transactions,0,G06F
+11256625,2022-02-22,Partition identifiers for page table walk memory transactions,0,G06F
+11256623,2022-02-22,Cache content management,0,G06F
+11256569,2022-02-22,Error correcting bits,0,G06F|G11C
+11256513,2022-02-22,Indirect control flow instructions and inhibiting data value speculation,0,G06F|H04L
+11256311,2022-02-22,Partially discharging a power supply,0,G06F|H04L
+11252239,2022-02-15,Enabling communications between devices,1,H04L|H04W
+11250620,2022-02-15,Graphics processing,2,G06F|G06T
+11250611,2022-02-15,Graphics processing,2,G06T
+11249912,2022-02-15,Apparatus and method for storing bounded pointers,0,G06F
+11249908,2022-02-15,Technique for managing coherency when an agent is to enter a state in which its cache storage is unused,1,G06F|Y02D
+11249762,2022-02-15,Apparatus and method for handling incorrect branch direction predictions,0,G06F
+11249657,2022-02-15,Non-volatile storage circuitry accessible as primary storage for processing circuitry,0,G06F|Y02D
+11243898,2022-02-08,Memory controller and method for controlling a memory device to process access requests issued by at least one master device,0,G06F|G11C|Y02D
+11243892,2022-02-08,Partitioning TLB or cache allocation,1,G06F
+11243250,2022-02-08,Testing an array of integrated circuits formed on a substrate sheet,0,G01R|H01L
+11237985,2022-02-01,Controlling allocation of entries in a partitioned cache,0,G06F
+11237974,2022-02-01,Operation cache compression,0,G06F
+11237960,2022-02-01,Method and apparatus for asynchronous memory write-back in a data processing system,0,G06F
+11237957,2022-02-01,Scrub-commit state for memory region,0,G06F
+11232833,2022-01-25,Dummy bitline circuitry,0,G06F|G11C|H01L|H10B
+11232236,2022-01-25,Dynamic response of power delivery network for attestation and identification,0,G01R|G06F|H04L|Y04S
+11232196,2022-01-25,Tracking events of interest to mitigate attacks,0,G06F
+11231932,2022-01-25,Transactional recovery storage for branch history and return addresses to partially or fully restore the return stack and branch history register on transaction aborts,0,G06F|G06N
+11228316,2022-01-18,"Method, system and circuit for multi-die timing signal distribution",0,G06F|H03L
+11226828,2022-01-18,Wakeup interrupt controller,0,G06F|Y02D
+11226824,2022-01-18,Circuitry and method,0,G06F
+11222394,2022-01-11,Devices and headsets,0,G02B|G06F|G06T
+11221951,2022-01-11,Skipping tag check for tag-checked load operation,6,G06F
+11221899,2022-01-11,Efficient memory utilisation in a processing cluster having a split mode and a lock mode,0,G06F
+11216993,2022-01-04,Graphics processing systems,0,G06T
+11216280,2022-01-04,Exception interception,0,G06F
+11216277,2022-01-04,Apparatus and method of capturing a register state,0,G06F
+11216061,2022-01-04,Methods and apparatus for interfacing between power domains,0,G06F|Y02D
+11212540,2021-12-28,Video data processing system,0,H04N
+11210847,2021-12-28,Graphics processing systems,0,G06T
+11210821,2021-12-28,Graphics processing systems,0,G06T
+11210186,2021-12-28,Error recovery storage for non-associative memory,0,G06F
+11210102,2021-12-28,Speculative buffer for speculative memory accesses with entries tagged with execution context identifiers,0,G06F
+11210090,2021-12-28,Register-based complex number processing,5,G06F
+11205243,2021-12-21,Data processing systems,0,G06F|G06T|Y02D
+11205077,2021-12-21,Operating on a video frame to generate a feature map of a neural network,0,G06F|G06N|G06V
+11204879,2021-12-21,Memory management circuitry managing data transactions and address translations between an upstream device and a downstream device,0,G06F
+11204878,2021-12-21,Writebacks of prefetched data,2,G06F
+11204773,2021-12-21,Storing a processing state based on confidence in a predicted branch outcome and a number of recent state changes,0,G06F
+11204771,2021-12-21,Methods and apparatus for handling processor load instructions,0,G06F
+11204738,2021-12-21,Apparatus and method for performing bit permutation operations,0,G06F
+11200177,2021-12-14,Cache retention data management,0,G06F
+11200175,2021-12-14,Memory accessor invailidation,0,G06F
+11194950,2021-12-07,Network-on-chip topology generation,0,G06F|H04L
+11194718,2021-12-07,Instruction cache coherence,0,G06F|Y02D
+11194693,2021-12-07,Trace data,0,G06F|Y02D
+11194581,2021-12-07,Controlling the operation of a decoupled access-execute processor,1,G06F
+11194577,2021-12-07,Instruction issue according to in-order or out-of-order execution modes,0,G06F
+11194574,2021-12-07,Merging memory ordering tracking information for issued load instructions,1,G06F
+11194549,2021-12-07,"Matrix multiplication system, apparatus and method",9,G06F|G06N
+11194485,2021-12-07,Realm execution context masking and saving,0,G06F
+11190436,2021-11-30,Thread network control,0,G06F|H04L|H04W
+11190340,2021-11-30,Efficient unified hardware implementation of multiple ciphers,0,G06F|G09C|H04L
+11189073,2021-11-30,Graphics processing,0,G06T
+11189005,2021-11-30,Index buffers in graphics processing systems,0,G06T
+11188814,2021-11-30,Systolic convolutional neural network,2,G06N
+11188682,2021-11-30,Apparatus and method for masking power consumption of a processor,0,G06F|G09C|H04L
+11188475,2021-11-30,Apparatus and method for managing caches in a cache hierarchy,0,G06F|Y02D
+11188377,2021-11-30,Writing zero data,0,G06F
+11188331,2021-11-30,Processor instruction specifying indexed storage region holding control data for swizzle operation,0,G06F|G06N
+11188330,2021-11-30,Vector multiply-add instruction,0,G06F
+11183844,2021-11-23,Supplying energy to an apparatus,0,G05F|G06F|H02J
+11182294,2021-11-23,Apparatus and method for providing an atomic set of data accesses,0,G06F
+11182234,2021-11-23,Tracking events of interest,0,G06F
+11182106,2021-11-23,Refresh circuit for use with integrated circuits,0,G06F|G11C|Y02D
+11181957,2021-11-23,Reset protection scheme for functional safety applications,0,G06F|H03K
+11176061,2021-11-16,Realm identifiers for realms for memory access control,1,G06F
+11176058,2021-11-16,Address decryption for memory storage,0,G06F|H04L
+11176042,2021-11-16,Method and apparatus for architectural cache transaction logging,0,G06F
+11176012,2021-11-16,"Device, system and process for redundant processor error detection",0,G06F
+11175854,2021-11-16,Data processing systems,0,G06F|Y02D
+11170555,2021-11-09,Graphics processing systems,0,G06T
+11169806,2021-11-09,Data processing systems,0,G06F
+11169590,2021-11-09,Core ramp detection circuitry,0,G06F|G11C|Y02D
+11164386,2021-11-02,Motion sensing,1,A63F|G06F|G06T
+11164032,2021-11-02,Method of performing data processing operation,2,G06F|G06T|G06V
+11163691,2021-11-02,Apparatus and method for performing address translation using buffered address translation data,0,G06F
+11163581,2021-11-02,Online instruction tagging,2,G06F
+11159636,2021-10-26,Forwarding responses to snoop requests,0,G06F|H04L
+11158110,2021-10-26,Graphics texture mapping,3,G06T
+11157395,2021-10-26,Automated test coverage of computing systems,0,G06F
+11157330,2021-10-26,Barrier-free atomic transfer of multiword data,0,G06F
+11157284,2021-10-26,Predicting an outcome of an instruction following a flush,1,G06F
+11157277,2021-10-26,Data processing apparatus with respective banked registers for exception levels,0,G06F
+11156663,2021-10-26,Generating a test sequence of code based on a directed sequence of code and randomly selected instructions,0,G01R|G06F|G09C
+11153231,2021-10-19,Apparatus and method for processing flush requests within a packet network,0,G06F|H04L
+11152139,2021-10-19,Power rail stitching technique,0,G06F|H01B|H02B|H10D
+11152076,2021-10-19,Apparatus and method for executing debug instructions,0,G06F|G11C
+11151039,2021-10-19,Apparatus and method for maintaining cache coherence data for memory blocks of different size granularities using a snoop filter storage comprising an n-way set associative storage structure,0,G06F
+11151034,2021-10-19,Cache storage method and system configured to store shareable tag portion and individual tag portion,1,G06F
+11146925,2021-10-12,Location system,0,H04W
+11146495,2021-10-12,Protocol layer tunneling for a data processing system,0,H04L
+11146400,2021-10-12,Methods for verifying data integrity,0,H04L|H04W
+11144658,2021-10-12,Data processing system defense,0,G06F
+11144458,2021-10-12,Apparatus and method for performing cache maintenance over a virtual page,0,G06F|Y02D
+11144318,2021-10-12,Method and apparatus for application thread prioritization,0,G06F
+11138812,2021-10-05,Image processing for updating a model of an environment,0,G06N|G06T|G06V
+11138786,2021-10-05,Vertex attribute representation in graphics processing systems for executing a graphics processing pipeline,3,G06T
+11138128,2021-10-05,Controlling guard tag checking in memory accesses,1,G06F
+11138126,2021-10-05,Testing hierarchical address translation with context switching and overwritten table definition data,3,G06F
+11138119,2021-10-05,Increasing effective cache associativity,0,G06F
+11138014,2021-10-05,Branch predictor,2,G06F
+11137919,2021-10-05,Initialisation of a storage device,0,G06F|G11C
+11133817,2021-09-28,Microarchitectural features for mitigation of differential power analysis and electromagnetic analysis,3,G06F|H03M
+11132835,2021-09-28,Suspending and resuming operations in graphics processing systems,0,G06T
+11132202,2021-09-28,Cache control circuitry and methods,0,G06F
+11132200,2021-09-28,Loop end prediction using loop counter updated by inflight loop end instructions,5,G06F
+11132196,2021-09-28,Apparatus and method for managing address collisions when performing vector operations,0,G06F
+11128449,2021-09-21,Cipher system with continuously replenished reservoir of pseudorandom bits,0,H04L
+11127188,2021-09-21,Suspending and resuming operations in graphics processing systems,0,G06T
+11127110,2021-09-21,Data processing systems,0,G06F|G06T|G09G
+11126778,2021-09-21,Wirelength distribution schemes and techniques,0,G06F
+11126714,2021-09-21,Encoding of input to storage circuitry,0,G06F|H04L
+11126691,2021-09-21,Apparatus and method for generating a vector of elements with a wrapping constraint,0,G06F
+11120191,2021-09-14,Multi-tier co-placement for integrated circuitry,3,G06F|H01L|H10D
+11120101,2021-09-14,Matrix multiplication system and method,1,G06F|G06N|H03M
+11119961,2021-09-14,I/O coherent request node for data processing network with improved handling of write operations,0,G06F|Y02D
+11119943,2021-09-14,Handling address translation requests,0,G06F
+11119925,2021-09-14,Apparatus and method for managing capability metadata,0,G06F
+11119778,2021-09-14,Apparatus and method for controlling execution of instructions,0,G06F
+11119731,2021-09-14,Apparatus and method for rounding,0,G06F
+11119729,2021-09-14,Alignment shifting and incrementing to determine a rounded result of adding first and second floating-point operands,2,G06F
+11119667,2021-09-14,Master adaptive read issuing capability based on the traffic being generated,0,G06F|G06N
+11113209,2021-09-07,Realm identifier comparison for translation cache lookup,2,G06F
+11113164,2021-09-07,Handling errors in buffers,0,G06F|G11C
+11113091,2021-09-07,Apparatus for forwarding a mediated request to processing circuitry in response to a configuration request,0,G06F|Y02D
+11113028,2021-09-07,Apparatus and method for performing an index operation,0,G06F
+11107264,2021-08-31,Graphics processing systems for determining blending operations,0,G06F|G06T
+11106513,2021-08-31,Message passing in a data processing system,0,G06F
+11106465,2021-08-31,Vector add-with-carry instruction,0,G06F
+11106452,2021-08-31,Infrastructure for validating updates via a network of IoT-type devices,2,G06F|G16Y|H04L
+11100014,2021-08-24,Providing data in a shared memory,0,G06F
+11100010,2021-08-24,Apparatus and method for handling memory access requests,0,G06F
+11099868,2021-08-24,System and method for translating a guest instruction of a guest architecture into at least one host instruction of a host architecture,0,G06F
+11099852,2021-08-24,Apparatus and method for maintaining prediction performance metrics for prediction components for each of a plurality of execution regions and implementing a prediction adjustment action based thereon,0,G06F|Y02D
+11099850,2021-08-24,Branch prediction circuitry comprising a return address prediction structure and a branch target buffer structure,1,G06F
+11099848,2021-08-24,Overlapped-immediate/register-field-specifying instruction,0,G06F
+11093243,2021-08-17,Vector interleaving in a data processing apparatus,0,G06F
+11087562,2021-08-10,Methods of data processing for an augmented reality system by obtaining augmented reality data and object recognition data,4,G06F|G06T|G06V
+11086802,2021-08-10,Apparatus and method for routing access requests in an interconnect,2,G06F
+11086781,2021-08-10,Methods and apparatus for monitoring prefetcher accuracy information using a prefetch flag independently accessible from prefetch tag information,0,G06F
+11086777,2021-08-10,Replacement of cache entries in a set-associative cache,0,G06F
+11086715,2021-08-10,Touch instruction,0,G06F
+11086695,2021-08-10,Distributed event management,0,G06F
+11086659,2021-08-10,Masking of architectural state associated with a realm,0,G06F
+11086629,2021-08-10,Misprediction of predicted taken branches in a data processing apparatus,0,G06F
+11086626,2021-08-10,Circuitry and methods,0,G06F
+11082628,2021-08-03,Method of flicker reduction,3,H04N
+11082493,2021-08-03,"Distributed memory system, device and process",0,G06F|H04L
+11082421,2021-08-03,Bootstrap mechanism for endpoint devices,0,H04L|H04W|Y02D
+11082202,2021-08-03,Fault injection attack detection in integrated circuits,2,G06F|G06K|H01L|H04L|Y04S
+11081469,2021-08-03,Three-dimensional integrated circuit test and improved thermal dissipation,0,H01L
+11080211,2021-08-03,Storing data from low latency storage,0,G06F
+11080184,2021-08-03,Circuitry and method,0,G06F
+11080106,2021-08-03,Event monitoring in a multi-threaded data processing apparatus,0,G06F
+11080058,2021-08-03,Apparatus and method for controlling a change in instruction set,0,G06F
+11080054,2021-08-03,Data processing apparatus and method for generating a status flag using predicate indicators,0,G06F
+11074214,2021-07-27,Data processing,0,G06F
+11074206,2021-07-27,Message protocol for a data processing system,6,G06F
+11074080,2021-07-27,"Apparatus and branch prediction circuitry having first and second branch prediction schemes, and method",0,G06F
+11068639,2021-07-20,Metal layout techniques,0,G06F|G11C
+11068604,2021-07-20,"System, device, and method of managing trustworthiness of electronic devices",0,G06F|H04L
+11068275,2021-07-20,Providing a trustworthy indication of the current state of a multi-processor data processing apparatus,0,G06F
+11068270,2021-07-20,Apparatus and method for generating and processing a trace stream indicative of instruction execution by processing circuitry,0,G06F
+11068268,2021-07-20,Data structure processing,1,G06F
+11068238,2021-07-20,Multiplier circuit,0,G06F
+11062492,2021-07-13,Method of image production,1,G06T
+11062419,2021-07-13,Image processing system,2,G06F|G06T|H04N
+11062121,2021-07-13,Data processing,4,G06F|G06N|G06V
+11061852,2021-07-13,Reconfigurable circuit architecture,0,G06F|G11C|H03K
+11055904,2021-07-06,Optimizing depth testing in graphics processing systems that perform early and late depth testing,0,G06T
+11055820,2021-07-06,"Methods, apparatus and processor for producing a higher resolution frame",0,G06T
+11055440,2021-07-06,Handling access attributes for data accesses,0,G06F
+11055250,2021-07-06,Non-forwardable transfers,0,G06F
+11055096,2021-07-06,Checkpointing of architectural state for in order processing circuitry,0,G06F
+11050672,2021-06-29,Network-on-chip link size generation,3,G06N|H04L
+11049216,2021-06-29,Graphics processing systems,1,G06T
+11048617,2021-06-29,Method of accessing metadata when debugging a program to be executed on processing circuitry,0,G06F
+11048609,2021-06-29,Commit window move element,0,G06F
+11043102,2021-06-22,Detection of frequency modulation of a secure time base,1,G06F|G08B|H02J|H04L
+11042480,2021-06-22,"System, method and apparatus for secure functions and cache line data",0,G06F|H04L
+11042379,2021-06-22,Apparatus and method for providing decoded instructions from a decoded instruction cache,1,G06F
+11042378,2021-06-22,Propagation instruction to generate a set of predicate flags based on previous and current prediction data,0,G06F
+11042375,2021-06-22,Counting elements in data items in a data processing apparatus,1,G06F
+11042180,2021-06-22,Detecting irregularities in an input clock signal,1,G06F|H03L
+11036644,2021-06-15,Data processing systems,0,G06F
+11036639,2021-06-15,Cache apparatus and method that facilitates a reduction in energy consumption through use of first and second data arrays,0,G06F|Y02D
+11036616,2021-06-15,Tracing the data processing activities of a data processing apparatus,0,G06F
+11036511,2021-06-15,Processing of a temporary-register-using instruction including determining whether to process a register move micro-operation for transferring data from a first register file to a second register file based on whether a temporary variable is still available in the second register file,0,G06F
+11036510,2021-06-15,Processing merging predicated instruction with timing permitting previous value of destination register to be unavailable when the merging predicated instruction is at a given pipeline stage at which a processing result is determined,0,G06F
+11036503,2021-06-15,Predicate indicator generation for vector processing operations,0,G06F
+11036502,2021-06-15,Apparatus and method for performing a rearrangement operation,2,G06F
+11036500,2021-06-15,Technique for processing a sequence of atomic add with carry instructions when a data value is not present in a cache,0,G06F
+11036279,2021-06-15,Apparatus and method for managing a cache,0,G06F|Y02D
+11030783,2021-06-08,Hidden surface removal in graphics processing systems,11,G06T
+11030344,2021-06-08,Apparatus and method for controlling use of bounded pointers,0,G06F
+11030121,2021-06-08,Apparatus and method for comparing regions associated with first and second bounded pointers,0,G06F
+11030101,2021-06-08,Cache storage for multiple requesters and usage estimation thereof,1,G06F
+11030065,2021-06-08,Apparatus and method of generating random numbers,0,G06F|H04L
+11029959,2021-06-08,Branch target look up suppression,2,G06F
+11023390,2021-06-01,Resizing circuitry,0,G06F
+11023237,2021-06-01,Apparatus and method for interpreting permissions associated with a capability,0,G06F
+11023152,2021-06-01,Methods and apparatus for storing data in memory in data processing systems,0,G06F|G06T
+11022649,2021-06-01,Stabilised failure estimate in circuits,0,G01R|G06F
+11019045,2021-05-25,Secure group communication,0,H04L|H04W
+11017142,2021-05-25,Methods and apparatuses of configurable integrated circuits,1,G06F|G11C
+11017140,2021-05-25,Autonomous verification of circuit design for computing devices,4,G06F
+11016910,2021-05-25,Memory region locking using lock/unlock flag state for exclusive rights to control memory access,0,G06F|G06Q
+11016902,2021-05-25,Generating recovery data for an initial state of status data for a data handling transaction and predicting a revised state of the status data applicable to resolution of the data handling transaction,0,G06F
+11016774,2021-05-25,Issuing execution threads in a data processor,1,G06F|G06T
+11012335,2021-05-18,Error detection in communication networks,1,H04J|H04L|H04W
+11010959,2021-05-18,Graphics processing systems,1,G06F|G06T|G09G
+11010644,2021-05-18,Image processing,2,G06F|G06N|G06V
+11010306,2021-05-18,Apparatus and method for managing a cache hierarchy,0,G06F
+11010297,2021-05-18,Memory unit and method of operation of a memory unit to handle operation requests,0,G06F
+11010241,2021-05-18,Translation protection in a data processing apparatus,0,G06F
+11010175,2021-05-18,Circuitry,1,G06F|Y02D
+11010159,2021-05-18,Bit processing involving bit-level permutation instructions or operations,0,G06F
+11003508,2021-05-11,Apparatus and methods for load balancing across a network of nodes,0,G06F|H04L
+11003489,2021-05-11,Cause exception message broadcast between processing cores of a GPU in response to indication of exception event,1,G06F
+11003454,2021-05-11,Apparatus and method for speculative execution of instructions,0,G06F
+11003450,2021-05-11,Vector data transfer instruction,0,G06F
+11003447,2021-05-11,Vector arithmetic and logical instructions performing operations on different first and second data element widths from corresponding first and second vector registers,0,G06F
+11003435,2021-05-11,Manifest trialing techniques,1,G06F|H04L
+10997756,2021-05-04,Processing of primitives in a graphics processor,0,G06T
+10997322,2021-05-04,Efficient power distribution,2,G06F|H02J|H03K|H10D
+10997083,2021-05-04,Parallel page table entry access when performing address translations,1,G06F
+10997076,2021-05-04,Asymmetric coherency protocol for first and second processing circuitry having different levels of fault protection or fault detection,0,G06F
+10996269,2021-05-04,Adapting the usage configuration of integrated circuit input-output pads,0,G01R|G06F
+10992468,2021-04-27,Key schedule determination,0,H04L
+10990543,2021-04-27,Apparatus and method for arbitrating access to a set of resources,2,G06F
+10990404,2021-04-27,Apparatus and method for performing branch prediction using loop minimum iteration prediction,2,G06F
+10990403,2021-04-27,Predicting an outcome of an instruction following a flush,1,G06F
+10984863,2021-04-20,Error detection and correction circuitry,1,G06F|G11C
+10983916,2021-04-20,Cache storage,0,G06F|Y02D
+10977044,2021-04-13,Executing branch instructions following a speculation barrier instruction,0,G06F
+10977038,2021-04-13,Checkpointing speculative register mappings,0,G06F
+10972428,2021-04-06,Assignment of tenancy to devices,0,G06F|H04L|H04W
+10970225,2021-04-06,Apparatus and method for handling cache maintenance operations,1,G06F
+10970201,2021-04-06,"System, method and apparatus for data manipulation",2,G06F|G06N|G06T
+10970070,2021-04-06,Processing of iterative operation,0,G06F
+10969993,2021-04-06,Methods and apparatus for reconfiguring nodes and reissuing data access requests,0,G06F
+10964649,2021-03-30,Tamper detection in integrated circuits,0,G01N|G01R|G06F|H01L|H03K|H04L
+10964086,2021-03-30,Graphics processing,2,G06T
+10963409,2021-03-30,Interconnect circuitry and a method of operating such interconnect circuitry,0,G06F|H04L
+10963260,2021-03-30,Branch predictor,0,G06F
+10963258,2021-03-30,Apparatus and method for performing multiple control flow predictions,0,G06F
+10963253,2021-03-30,Varying micro-operation composition based on estimated value of predicate value for predicated vector instruction,0,G06F
+10963251,2021-03-30,Vector register access,1,G06F
+10963250,2021-03-30,Selectively suppressing time intensive instructions based on a control value,0,G06F
+10963245,2021-03-30,Anchored data element conversion,1,G06F|H03M
+10959128,2021-03-23,Bluetooth low energy connected isochronous stream acknowledgement and flush algorithm and implementation,2,H04L|H04W
+10958906,2021-03-23,Encoding data arrays,0,G06F|H04N
+10957082,2021-03-23,Method of and apparatus for processing graphics,1,G06T
+10956619,2021-03-23,Devices and method of operation thereof,0,G06F|H04L
+10956303,2021-03-23,Trace data representation,0,G06F
+10956206,2021-03-23,Technique for managing a cache memory in a system employing transactional memory including storing a backup copy of initial data for quick recovery from a transaction abort,1,G06F
+10956205,2021-03-23,Data processing,0,G06F
+10956166,2021-03-23,Instruction ordering,0,G06F
+10956045,2021-03-23,Apparatus and method for issuing access requests to a memory controller,0,G06F
+10955864,2021-03-23,Context-aware power network,0,G05F|G06F|H02J|H03K
+10951630,2021-03-16,"Registry apparatus, agent device, application providing apparatus and corresponding methods",2,H04L
+10951429,2021-03-16,Server initiated remote device registration,0,H04L|H04W
+10949292,2021-03-16,Memory interface having data signal path and tag signal path,3,G06F|G11C
+10948963,2021-03-16,Message handling unit,0,G06F|Y02D
+10943385,2021-03-09,Using textures in graphics processing systems,0,G06T
+10943323,2021-03-09,Data processing systems,0,G06F|G06T|Y02D
+10943115,2021-03-09,Processing image data to perform object detection,0,G01C|G06N|G06T|G06V
+10942904,2021-03-09,Mapping first identifier to second identifier,0,G06F
+10942878,2021-03-09,Chunking for burst read transactions,1,G06F
+10942870,2021-03-09,Circuitry and method,1,G06F
+10942865,2021-03-09,Snooping with access permissions,0,G06F
+10942856,2021-03-09,"System, method and apparatus for secure functions and cache line data",2,G06F|H04L
+10942739,2021-03-09,Check instruction for verifying correct code execution context,0,G06F
+10938622,2021-03-02,Interconnection network for integrated circuit with fault detection circuitry provided locally to an upstream location,0,H04L
+10938411,2021-03-02,Compression and/or decompression of activation data,2,G06N|H03M
+10937233,2021-03-02,Graphics processing systems,0,G06T
+10936504,2021-03-02,Apparatus and method for address translation and control of whether an access request is rejected based on an ownership table indicating an owner process for a block of physical addresses,1,G06F
+10936474,2021-03-02,Software test program generation,0,G06F
+10936463,2021-03-02,Apparatus and method for detecting regularity in a number of occurrences of an event observed during multiple instances of a counting period,0,G06F
+10936365,2021-03-02,Data processing systems,0,G06F|G06T|G09G
+10936285,2021-03-02,Overflow or underflow handling for anchored-data value,0,G06F
+10931964,2021-02-23,Video data processing system,0,H04N
+10931799,2021-02-23,Handling resets in a system with multiple reset domains,0,H04L
+10931303,2021-02-23,Data processing system,0,G06N|H03M
+10929308,2021-02-23,Performing maintenance operations,3,G06F
+10929060,2021-02-23,Data access request specifying enable vector,0,G06F
+10924738,2021-02-16,Selecting encoding options,0,H04N
+10924475,2021-02-16,Management of relationships between a device and a service provider,1,G06F|H04L
+10924261,2021-02-16,Efficient power distribution,3,G06F|H04L
+10923425,2021-02-16,Power distribution,0,G06F|H01L
+10922833,2021-02-16,Image processing,3,G06F|G06T|G06V
+10922608,2021-02-16,Spiking neural network,2,G06N|G11C
+10922465,2021-02-16,Multi-input logic circuitry,1,G06F|G11C|H03K
+10922086,2021-02-16,Reduction operations in data processors that include a plurality of execution lanes operable to execute programs for threads of a thread group in parallel,1,G06F|G06T
+10922084,2021-02-16,Handling of inter-element address hazards for vector instructions,0,G06F
+10922082,2021-02-16,Branch predictor,0,G06F
+10921848,2021-02-16,Clock signal distribution and signal value storage,0,G06F
+10917198,2021-02-09,Transfer protocol in a data processing network,0,G06F|H04L
+10916040,2021-02-09,Processing image data using different data reduction rates,0,G02B|G06F|G06T|H04N
+10915404,2021-02-09,Persistent memory cleaning,0,G06F
+10915327,2021-02-09,Apparatus and method of dispatching instructions for execution clusters based on dependencies,1,G06F
+10911245,2021-02-02,Method of establishing trust between a device and an apparatus,1,H04L
+10910082,2021-02-02,Apparatus and method,2,G06F|G11C
+10909045,2021-02-02,"System, method and apparatus for fine granularity access protection",0,G06F
+10909020,2021-02-02,Tracing processing activity,0,G06F
+10909006,2021-02-02,Main processor error detection using checker processors,1,G06F
+10908944,2021-02-02,"Apparatus with shared transactional processing resource, and data processing method",0,G06F
+10908916,2021-02-02,Apparatus and method for executing a plurality of threads,0,G06F|G06T
+10908667,2021-02-02,Technique for managing power domains in an integrated circuit,1,G06F|Y02D
+10908214,2021-02-02,Built-in self-test in a data processing apparatus,0,G01R|G06F

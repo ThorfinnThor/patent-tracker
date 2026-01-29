@@ -1,0 +1,1283 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432313,2025-09-30,Method and apparatus for adjusting video brightness,0,G06T|H04N
+12430257,2025-09-30,Smart cache cleaner,0,G06F
+12430253,2025-09-30,Selectable slice mapping,0,G06F
+12430179,2025-09-30,Distribution of a workload among nodes of a system with a NUMA architecture,0,G06F
+12430136,2025-09-30,Systems and methods for branch misprediction aware cache prefetcher training,0,G06F
+12429932,2025-09-30,Lid carveouts for processor lighting,0,G06F
+12424560,2025-09-23,Semiconductor chip device,0,H01L
+12423255,2025-09-23,Programmable traffic ingress direction for reduced latency in a DPU,0,G06F
+12423243,2025-09-23,Systems and methods for reducing cache fills,0,G06F
+12423241,2025-09-23,Shadow tag management for accelerator partitions,0,G06F
+12423116,2025-09-23,Policer synchronization across multiple pipelines in a DPU,0,G06F
+12423019,2025-09-23,Read gate training and tracking,0,G06F
+12423006,2025-09-23,Low power memory state during non-idle processor state,0,G06F|Y02D
+12422990,2025-09-23,Extended training for memory,0,G06F
+12417994,2025-09-16,Semiconductor chip having stepped conductive pillars,0,H01L
+12417179,2025-09-16,Adaptive system probe action to minimize input/output dirty data transfers,0,G06F
+12417178,2025-09-16,Programmable data storage memory hierarchy,0,G06F
+12417024,2025-09-16,Transforming all-bank processing-in-memory operations into multiple masked processing-in-memory operations,0,G06F
+12416962,2025-09-16,Mechanism for performing distributed power management of a multi-GPU system by powering down links based on previously detected idle conditions,0,G06F|Y02D
+12413568,2025-09-09,Method and system for distributing keys,0,H04L|H04W
+12412119,2025-09-09,Clustering of machine learning (ML) functional components,0,G06F|G06N|G06T
+12412096,2025-09-09,Efficient weight clipping for neural networks,0,G06F|G06N
+12411787,2025-09-09,Soft disconnect and reconnect for USB tunneled path,0,G06F
+12411711,2025-09-09,Enforcing central processing unit quality of service guarantees when servicing accelerator requests,0,G06F|Y02D
+12411538,2025-09-09,System-wide low power management,0,G06F|Y02D
+12406426,2025-09-02,Hybrid render with deferred primitive batch binning,0,G06T
+12406425,2025-09-02,Vertex index routing for two level primitive batch binning,0,G06T
+12405897,2025-09-02,Memory page attribute modification,0,G06F
+12405894,2025-09-02,Runtime flushing to persistency in heterogenous systems,0,G06F
+12405888,2025-09-02,Dynamic performance adjustment,0,G06F
+12405790,2025-09-02,Compute unit sorting for reduced divergence,0,G06F
+12405652,2025-09-02,System and method for controlling power consumption in processor using interconnected event counters and weighted sum accumulators,0,G06F|Y02D
+12400390,2025-08-26,Split-based trees for ray tracing,0,G06T
+12400038,2025-08-26,Data integrity verification system and method,0,G06F|H04L
+12399855,2025-08-26,Method and apparatus of integrating memory stacks,0,G06F|G11C
+12399850,2025-08-26,Secure direct memory access,0,G06F
+12399846,2025-08-26,Physical adjustment to system memory with chipset attached memory,0,G06F
+12399839,2025-08-26,Dynamically controlled cache rinsing,0,G06F
+12399772,2025-08-26,"Devices, systems, and methods for detecting and mitigating silent data corruptions via adaptive voltage-frequency scaling",0,G06F
+12399719,2025-08-26,Resource access control,0,G06F
+12399621,2025-08-26,Automated memory overclocking,0,G06F
+12394683,2025-08-19,Molded semiconductor chip package with stair-step molding layer,0,H01L
+12394467,2025-08-19,Read clock start and stop for synchronous memories,0,G06F|G11C
+12394011,2025-08-19,Memory management in graphics and compute application programming interfaces,0,G06F|G06T|G09G
+12394010,2025-08-19,Pipeline delay elimination with parallel two level primitive batch binning,0,G06T
+12393532,2025-08-19,Coherent block read fulfillment,0,G06F
+12393518,2025-08-19,Deterministic mixed latency cache,0,G06F
+12393487,2025-08-19,VBIOS contingency recovery,0,G06F
+12393452,2025-08-19,Distributed user mode processing,0,G06F
+12393371,2025-08-19,Process isolation for a processor-in-memory (“PIM”) device,0,G06F
+12393256,2025-08-19,Power management advisor to support power management control,0,G06F|G06N|Y02D
+12388757,2025-08-12,Systems and methods for using programmable policer circuits for network flow policing,0,H04L
+12387767,2025-08-12,Method and apparatus for quantization and dequantization of neural network input and output data using processing-in-memory,0,G06F|G11C
+12387766,2025-08-12,Providing data from portions of a memory to processors in memory (PIMs) in an electronic device,0,G06F|G11C
+12387121,2025-08-12,Combining quantum states of qubits on a quantum processor,0,G06F|G06N
+12386750,2025-08-12,Last level cache hierarchy in chiplet based processors,0,G06F
+12386659,2025-08-12,Scheduling multiple processing-in-memory (PIM) threads and non-PIM threads,0,G06F
+12386624,2025-08-12,Invariant statistics-based configuration of processor components,0,G06F|G06N
+12386526,2025-08-12,Non-blocking parallel bulk memory operations,0,G06F
+12381127,2025-08-05,Semiconductor chip device integrating thermal pipes in three-dimensional packaging,0,H01L|H10B
+12380034,2025-08-05,Extended attributes for shared page tables,0,G06F
+12380029,2025-08-05,Condensed coherence directory entries for processing-in-memory,0,G06F
+12379845,2025-08-05,Connection modification based on traffic pattern,0,G06F
+12379843,2025-08-05,Chipset attached random access memory,0,G06F
+12374645,2025-07-29,Electronic device including dies and an interconnect coupled to the dies and processes of forming the same,0,H01L
+12373369,2025-07-29,Scheduling training of an inter-chiplet interface,0,G06F
+12373361,2025-07-29,"Systems, methods, and devices for advanced memory technology",0,G06F
+12373357,2025-07-29,Systems and methods for data communication bus address sharing,0,G06F
+12373275,2025-07-29,"Devices, systems, and methods for out-of-band logging and delivery of error reports",0,G06F
+12373264,2025-07-29,Workload data transfer system and method,0,G06F
+12373255,2025-07-29,Systems and methods for sharing memory across clusters of directly connected nodes,0,G06F
+12373207,2025-07-29,Implementing a micro-operation cache with compaction,0,G06F|Y02D
+12367174,2025-07-22,Non-homogeneous chiplets,0,G06F|G06T
+12367153,2025-07-22,Multi-level starvation widget,0,G06F
+12367145,2025-07-22,Remote acceleration for data dependent address calculation,0,G06F
+12367141,2025-07-22,Running average cache hit rate,0,G06F
+12367119,2025-07-22,Systems and methods for disabling faulty cores using proxy virtual machines,0,G06F
+12367095,2025-07-22,"Devices, systems, and methods for out-of-band delivery of error reports",0,G06F
+12367032,2025-07-22,Hot loadable programmable state machine,0,G06F
+12366960,2025-07-22,Memory system with region-specific memory access scheduling,0,G06F|G11C|Y02D
+12361628,2025-07-15,Configurable multiple-die graphics processing unit,0,G06F|G06T
+12360927,2025-07-15,Duplicated registers in chiplet processing units,0,G06F
+12360912,2025-07-15,Approach for providing indirect addressing in memory modules,0,G06F
+12360907,2025-07-15,Region pattern-matching hardware prefetcher,0,G06F
+12360896,2025-07-15,Data routing for efficient decompression of compressed data stored in a cache,0,G06F|G06T
+12360804,2025-07-15,Data dependency-aware scheduling,0,G06F
+12354183,2025-07-08,Cross GPU scheduling of dependent processes,0,G06F|G06T
+12353715,2025-07-08,Near-memory engine for reducing bandwidth utilization in sparse data applications,0,G06F|G11C
+12353338,2025-07-08,Locality-based data processing,0,G06F
+12353320,2025-07-08,Low latency offloading of collectives over a switch,0,G06F
+12346265,2025-07-01,Cache line re-reference interval prediction using physical page address,0,G06F
+12346226,2025-07-01,System and method for SEU detection and correction,0,G06F
+12340529,2025-06-24,Machine learning-based object-centric approach to image manipulation,0,G06T
+12340086,2025-06-24,Apparatus and methods for direct co-processor access to prestored file system data in a non-volatile memory system,0,G06F|G06T
+12339783,2025-06-24,Managing a cache using per memory region reuse distance estimation,0,G06F
+12339776,2025-06-24,Zero value memory access optimization,0,G06F
+12336147,2025-06-17,Component cooler for a computing device,0,F25B|F28D|G06F|H01L|H05K
+12334488,2025-06-17,Stacking power delivery device dies,0,H01L
+12333309,2025-06-17,Differential pipeline delays in a coprocessor,0,G06F
+12333307,2025-06-17,Approach for managing near-memory processing commands from multiple processor threads to prevent interference at near-memory processing elements,0,G06F
+12333158,2025-06-17,Efficient memory power control operations,0,G06F|G11C
+12332824,2025-06-17,Backside interface for chiplet architecture mixing,0,G06F|H01L
+12332795,2025-06-17,Reducing probe filter accesses for processing in memory requests,0,G06F
+12332722,2025-06-17,Latency reduction for transitions between active state and sleep state of an integrated circuit,0,G06F
+12327124,2025-06-10,Vertical and horizontal broadcast of shared operands,0,G06F
+12324130,2025-06-03,Component cooler with spring mechanism,0,F16F|G06F|H01L|H05K
+12323490,2025-06-03,Fragmented transfer of data over networks,0,H04L
+12323399,2025-06-03,Interactive access to headless cluster managers,0,H04L
+12321744,2025-06-03,Systems and methods for hardware gather optimization,0,G06F
+12321300,2025-06-03,Apparatus and methods for translating transactions between one or more requesting units and a target unit,0,G06F
+12321294,2025-06-03,Data lane variation compensation for data rate enhancement,0,G06F
+12321273,2025-06-03,Cascading execution of atomic operations,0,G06F
+12321272,2025-06-03,Pseudo out-of-order store commit,0,G06F
+12321192,2025-06-03,On-table and off-table detection for electronic devices,0,G01P|G06F
+12315551,2025-05-27,Read clock start and stop for synchronous memories,0,G06F|G11C
+12315069,2025-05-27,Technique for testing ray for intersection with oriented bounding boxes,0,G06T
+12314760,2025-05-27,Garbage collecting wavefront,0,G06F
+12314588,2025-05-27,System and method for coalesced multicast data transfers over memory interfaces,0,G06F
+12314179,2025-05-27,System performance management using prioritized compute units,0,G06F
+12314106,2025-05-27,Operating voltage adjustment for aging circuits,0,G01R|G06F
+12307577,2025-05-20,Traversing multiple regions of a bounding volume hierarchy in parallel,0,G06T
+12306999,2025-05-20,Secure and power efficient audio data processing,0,G06F|H04L|Y02D
+12306754,2025-05-20,Method and apparatus for increasing memory level parallelism by reducing miss status holding register allocation in caches,1,G06F
+12306695,2025-05-20,System agnostic autonomous system state management,0,G06F
+12306694,2025-05-20,Neural network power management in a multi-GPU system,0,G06F|G06N|G06T|Y02D
+12299769,2025-05-13,Dynamic dispatch for workgroup distribution,0,G06F|G06T
+12299445,2025-05-13,Register based SIMD lookup table operations,0,G06F
+12299413,2025-05-13,Dual vector arithmetic logic unit,0,G06F|G06T
+12299297,2025-05-13,Memory controller with enhanced low-power state,0,G06F
+12298829,2025-05-13,Platform power manager for rack level power and thermal constraints,0,G06F|Y02D
+12293485,2025-05-06,Super resolution upscaling,0,G06T
+12293456,2025-05-06,Overlay trees for ray tracing,0,G06T
+12293092,2025-05-06,Method and apparatus for managing memory,0,G06F
+12288581,2025-04-29,Efficient and low power reference voltage mixing,0,G06F|G11C
+12288313,2025-04-29,Low-latency architecture for full frequency noise reduction in image processing,0,G06T
+12287753,2025-04-29,Alternative protocol over physical layer,0,G06F
+12287739,2025-04-29,Accessing a cache based on an address translation buffer result,0,G06F
+12284447,2025-04-22,Method and apparatus for normalizing an image in an image capturing device,0,G06V|H04N
+12284116,2025-04-22,Dynamic buffer management in multi-client token flow control routers,0,G06F|H04L
+12282776,2025-04-22,Hybrid parallelized tagged geometric (TAGE) branch prediction,0,G06F
+12282439,2025-04-22,Dynamic page state aware scheduling of read/write burst transactions,0,G06F
+12282428,2025-04-22,Selective speculative prefetch requests for a last-level cache,0,G06F
+12278150,2025-04-15,Semiconductor package with annular package lid structure,0,H01L
+12277644,2025-04-15,Frustum-bounding volume intersection detection using hemispherical projection,0,G06T
+12277643,2025-04-15,Variable bit Morton codes,0,G06F|G06T
+12277020,2025-04-15,Default boost mode state for devices,0,G06F|Y02D
+12277001,2025-04-15,Automated data-driven system to optimize overclocking,0,G06F
+12276850,2025-04-15,Fanout module integrating a photonic integrated circuit,0,G02B|H01L
+12273277,2025-04-08,Intelligent allocation of resources in a computing system,0,H04L|Y02D
+12272000,2025-04-08,Hierarchical depth data generation using primitive fusion,0,G06T
+12271627,2025-04-08,Off-chip memory shared by multiple processing nodes,0,G06F
+12271597,2025-04-08,Memory organization for multi-mode support,0,G06F|G11C
+12271588,2025-04-08,Prioritization of memory traffic for multi-process workloads,0,G06F
+12271318,2025-04-08,Method and apparatus for managing a cache directory,0,G06F
+12271244,2025-04-08,On-demand IP initialization within power states,0,G06F|Y02D
+12266611,2025-04-01,Mixed density interconnect architectures using hybrid fan-out,0,H01L
+12266585,2025-04-01,Arrangement and thermal management of 3D stacked dies,0,H01L
+12266139,2025-04-01,Method and system for integrating compression,0,G06T
+12266030,2025-04-01,Processing system with selective priority-based two-level binning,0,G06F|G06T|Y02D
+12265915,2025-04-01,Composable neural network kernels,0,G06F|G06N
+12265908,2025-04-01,Methods for increasing cache hit rates for neural networks,0,G06F|G06N
+12265735,2025-04-01,Approach for processing near-memory processing commands using near-memory register definition data,0,G06F
+12265732,2025-04-01,Refresh during power state changes,1,G06F
+12265496,2025-04-01,Dynamic topology discovery and management with protocol detection,0,G06F
+12265484,2025-04-01,"Processing device and method of sharing storage between cache memory, local data storage and register files",0,G06F
+12265470,2025-04-01,Bypassing cache directory lookups for processing-in-memory instructions,0,G06F
+12265467,2025-04-01,Methods for enhanced memory context restore,0,G06F|G11C
+12265441,2025-04-01,Graphics processing unit (GPU) selection based on a utilized power source,0,G06F|G06T
+12260494,2025-03-25,Spatial test of bounding volumes for rasterization,0,G06T
+12260225,2025-03-25,System and method for providing system level sleep state power savings,0,G06F|Y02D
+12260120,2025-03-25,Guest operating system buffer and log accesses by an input-output memory management unit,0,G06F
+12259767,2025-03-25,Integrated circuit performance adaptation using workload predictions,0,G06F
+12254527,2025-03-18,Reconfigurable virtual graphics and compute processor pipeline,0,G06T
+12254353,2025-03-18,Control flow invariant resource identification,0,G06F|G06T
+12254217,2025-03-18,Dynamic multi-bank memory command coalescing,0,G06F
+12254196,2025-03-18,System and method to reduce power consumption when conveying data to a device,0,G06F
+12254195,2025-03-18,Sparse matrix operations using processing-in-memory,0,G06F|G11C
+12254077,2025-03-18,Method and apparatus for generating artificial intelligence resistant verification images,0,G06F|G06N|G06T
+12253961,2025-03-18,Staging memory access requests,0,G06F|G11C
+12253892,2025-03-18,Lid carveouts for processor connection and alignment,1,G06F|H01L|H05K
+12250493,2025-03-11,Machine learning-based multi-view video conferencing from single view video data,0,G06F|G06N|G06V|H04L|H04N
+12250379,2025-03-11,Region-based image decompression,0,G06T|H04N
+12249519,2025-03-11,Molded chip package with anchor structures,0,H01L
+12248789,2025-03-11,Wavefront selection and execution,0,G06F
+12248516,2025-03-11,"Flexible, scalable graph-processing accelerator",0,G06F
+12248423,2025-03-11,Apparatus and methods for managing outstanding transactions between one or more requesting units and a target unit,0,G06F
+12243578,2025-03-04,Read clock start and stop for synchronous memories,0,G06F|G11C
+12243576,2025-03-04,Memory calibration system and method,0,G06F|G11C|Y02D
+12242893,2025-03-04,Ranking computing resources,0,G06F
+12242828,2025-03-04,Software compilation for networked processing system,0,G06F
+12242407,2025-03-04,"Apparatus, system, and method for conducting mission-mode testing on high-speed links",0,G06F
+12242384,2025-03-04,Compression aware prefetch,0,G06F
+12242325,2025-03-04,Core activation and deactivation for a multi-core processor,0,G06F|Y02D
+12238872,2025-02-25,Circuit board with bridge chiplets,0,H01L|H05K
+12237286,2025-02-25,High-speed die connections using a conductive insert,0,H01L
+12236555,2025-02-25,Device and method for image demosaicing,0,G06T|G06V
+12236529,2025-02-25,Graphics discard engine,0,G06F|G06T
+12236134,2025-02-25,Bank-level parallelism for processing in memory,0,G06F
+12236109,2025-02-25,Ephemeral data management for cloud computing systems using computational fabric attached memory,0,G06F
+12235756,2025-02-25,Approach for performing efficient memory operations using near-memory compute elements,0,G06F
+12235708,2025-02-25,Device and method for two-stage transitioning between reduced power states,0,G06F|Y02D
+12231120,2025-02-18,"Apparatus, system, and method for improving latency or power consumption",0,G06F|G06K|H03K
+12229570,2025-02-18,Block data load with transpose into memory,0,G06F
+12229563,2025-02-18,Split register list for renaming,0,G06F
+12225299,2025-02-11,System and method for image banding detection,0,G06T|H04N
+12223324,2025-02-11,Methods and apparatus for providing mask register optimization for vector operations,0,G06F
+12222797,2025-02-11,Dynamic configuration of processor sub-components,0,G06F|Y02D
+12217059,2025-02-04,Systems and methods for programmed branch predictors,1,G06F
+12217021,2025-02-04,Processing unit with small footprint arithmetic logic unit,0,G06F|G06N
+12216590,2025-02-04,Intermediate cache management for non-uniform memory architecture,0,G06F
+12216539,2025-02-04,Page retirement techniques for multi-page DRAM faults,0,G06F
+12216162,2025-02-04,Performing scan data transfer inside multi-die package with serdes functionality,0,G01R|G06F
+12210780,2025-01-28,Filtered responses of memory operation messages,0,G06F
+12210767,2025-01-28,Combining write transactions of a large write,0,G06F|Y02D
+12210465,2025-01-28,Providing copies of input-output memory management unit registers to guest operating systems,0,G06F
+12210398,2025-01-28,Compiler directed fine grained power management,0,G06F|Y02D
+12205897,2025-01-21,Standard cell design architecture for reduced voltage droop utilizing reduced contacted gate poly pitch and dual height cells,0,G06F|H01L|H10D
+12205884,2025-01-21,Method to create MIMcap designs across changing MIMcap structures,0,H01L|H10B|H10D
+12205218,2025-01-21,Spatial partitioning in a multi-tenancy graphics processing unit,0,G06F|G06T
+12205193,2025-01-21,Device and method of implementing subpass interleaving of tiled image rendering,0,G06T
+12204935,2025-01-21,Thread forward progress and/or quality of service,0,G06F
+12204911,2025-01-21,Retire queue compression,0,G06F
+12204908,2025-01-21,Storing incidental branch predictions to reduce latency of misprediction recovery,0,G06F
+12204900,2025-01-21,Predicates for processing-in-memory,0,G06F
+12204774,2025-01-21,Allocation of resources when processing at memory level through memory request scheduling,0,G06F
+12204754,2025-01-21,Scheduling memory requests with non-uniform latencies,0,G06F|G11C
+12204466,2025-01-21,System and method for application migration for a dockable device,0,G06F|Y02D
+12204459,2025-01-21,Data cache region prefetcher,0,G06F
+12204454,2025-01-21,System probe aware last level cache insertion bypassing,0,G06F
+12198295,2025-01-14,Parallelization of convolution operations,0,G06F|G06T
+12198271,2025-01-14,Multi-resolution geometric representation using bounding volume hierarchy for ray tracing,0,G06T
+12197735,2025-01-14,Memory sprinting,0,G06F
+12197533,2025-01-14,Approximation of matrices for matrix multiply operations,0,G06F
+12197378,2025-01-14,Method and apparatus to expedite system services using processing-in-memory (PIM),0,G06F
+12197329,2025-01-14,Range-based cache flushing,0,G06F
+12190447,2025-01-07,Volume intersection using rotated bounding volumes,0,G06T
+12190225,2025-01-07,Composable neural network kernels,0,G06F|G06N
+12190174,2025-01-07,Selective workgroup wake-up based on synchronization mechanism identification with high contention scenario,0,G06F
+12190117,2025-01-07,Suppressing allocation of registers for register renaming,0,G06F
+12189953,2025-01-07,Speculative dram request enabling and disabling,0,G06F
+12189535,2025-01-07,Tiered memory caching,0,G06F
+12189534,2025-01-07,Cache blocking for dispatches,0,G06F
+12189530,2025-01-07,Suppressing cache line modification,0,G06F|Y02D
+12184871,2024-12-31,Residual-free palatte mode coding,0,H04N
+12183675,2024-12-31,Fan-out packages with warpage resistance,0,H01L
+12182611,2024-12-31,Interrupt cache configuration,0,G06F
+12182428,2024-12-31,Data placement with packet metadata,0,G06F|H04L
+12182412,2024-12-31,Setting durations for which data is stored in a non-volatile memory based on data types,0,G06F
+12182396,2024-12-31,Performance and memory access tracking,0,G06F
+12181993,2024-12-31,Systems and methods for restoring bus functionality,0,G06F
+12181959,2024-12-31,Method and apparatus for fault prediction and management,0,G06F
+12181955,2024-12-31,Systems and methods for enabling debugging,0,G06F
+12181944,2024-12-31,Method and apparatus for managing power states,0,G06F
+12176064,2024-12-24,Apparatus and methods employing asynchronous FIFO buffer with read prediction,0,G06F|G11C
+12175102,2024-12-24,Dynamic random-access memory (DRAM) phase training update,0,G06F|G11C
+12175073,2024-12-24,Reusing remote registers in processing in memory,0,G06F
+12174775,2024-12-24,"Apparatuses, systems, and methods for multi-lane data bus inversion",0,G06F
+12174771,2024-12-24,Sharing package pins in a multi-chip module (MCM),0,G06F|H01L
+12174769,2024-12-24,Periodic receiver clock data recovery with dynamic data edge,0,G06F|H03K
+12174747,2024-12-24,Last level cache access during non-Cstate self refresh,0,G06F|G11C|Y02D
+12174742,2024-12-24,Multi-instance recurrent neural network prediction,0,G06F|G06N
+12170801,2024-12-17,Server-side frame render timing delay to reduce client-side frame present delay,0,H04N
+12170263,2024-12-17,Fabricating active-bridge-coupled GPU chiplets,0,G06F|H01L
+12169896,2024-12-17,Graphics primitives and positions through memory buffers,0,G06F|G06T
+12169876,2024-12-17,Optimizing partial writes to compressed blocks,0,G06T|H04N
+12169782,2024-12-17,Dynamic precision scaling at epoch granularity in neural networks,0,G06N
+12169703,2024-12-17,Graphics pipeline optimizations,0,G06F|G06T
+12169430,2024-12-17,Reducing system power consumption when capturing data from a USB device,0,G06F
+12167102,2024-12-10,Multicast in the probe channel,0,H04L|H04N
+12165981,2024-12-10,3D semiconductor package with die-mounted voltage regulator,0,G05F|H01L|H10D
+12165252,2024-12-10,Multi-accelerator compute dispatch,0,G06F|G06T|Y02D
+12165016,2024-12-10,Direct-connected machine learning accelerator,0,G06F|G06N
+12164924,2024-12-10,Compression metadata assisted computation,0,G06F|Y02D
+12164923,2024-12-10,Accelerating predicated instruction execution in vector processors,1,G06F
+12164365,2024-12-10,Buffer display data in a chiplet architecture,0,G06F|G06T|Y02D
+12164353,2024-12-10,Frequency/state based power management thresholds,0,G06F|Y02D
+12159341,2024-12-03,Common circuitry for triangle intersection and instance transformation for ray tracing,0,G06T
+12158956,2024-12-03,Boot firmware corruption detection and mitigation,0,G06F
+12158845,2024-12-03,Region based split-directory scheme to adapt to large cache sizes,0,G06F
+12158842,2024-12-03,Data co-location using address hashing for high-performance processing in memory,0,G06F
+12158827,2024-12-03,Full dynamic post-package repair,0,G06F|G11C
+12154839,2024-11-26,Graphene-coated heat spreader for integrated circuit device assemblies,0,H01L
+12154657,2024-11-26,Channel and sub-channel throttling for memory controllers,0,G06F|G11C
+12154656,2024-11-26,Error pin training with graphics DDR memory,0,G06F|G11C
+12154224,2024-11-26,Fine grained replay control in binning hardware,2,G06T
+12154215,2024-11-26,Dynamic node traversal order for ray tracing,0,G06T
+12153958,2024-11-26,VMID as a GPU task container for virtualization,0,G06F|G06T
+12153957,2024-11-26,Hierarchical work scheduling,0,G06F
+12153930,2024-11-26,Forward tensor and activation scaling for lower precision neural networks,0,G06F|G06N|G06V
+12153927,2024-11-26,Merged branch target buffer entries,0,G06F
+12153926,2024-11-26,Processor-guided execution of offloaded instructions using fixed function operations,1,G06F|Y02D
+12153922,2024-11-26,PIM search stop control,0,G06F
+12153524,2024-11-26,"Apparatus, system, and method for throttling prefetchers to prevent training on irregular memory accesses",0,G06F
+12153487,2024-11-26,Customizable SoC state reporting,0,G06F
+12147366,2024-11-19,Droop mitigation for an inter-chiplet interface,0,G06F
+12147338,2024-11-19,Leveraging processing in memory registers as victim buffers,0,G06F
+12141915,2024-11-12,Load instruction for multi sample anti-aliasing,0,G06T
+12141066,2024-11-12,Probe filter directory management,0,G06F
+12141038,2024-11-12,Error recovery for non-volatile memory modules,0,G06F
+12136165,2024-11-05,Forward rendering pipeline with light culling,0,G06T
+12135653,2024-11-05,Flexible dictionary sharing for compressed caches,0,G06F|H03M
+12135625,2024-11-05,"Devices, systems, and methods for injecting fabricated errors into machine check architectures",0,G06F
+12135601,2024-11-05,Data fabric C-state management,0,G06F
+12135577,2024-11-05,Low power and high speed scan dump,0,G06F
+12132460,2024-10-29,"Apparatus, system, and method for calibrating high-speed communication interfaces to transmission lines",0,G06F|H03H
+12131199,2024-10-29,Workgroup synchronization and processing,0,G06F|G06N
+12131186,2024-10-29,Hardware accelerated dynamic work creation on a graphics processing unit,0,G06F
+12131063,2024-10-29,Methods and apparatus for offloading tiered memories management,0,G06F
+12131026,2024-10-29,Adaptive scheduling of memory and processing-in-memory requests,0,G06F
+12130741,2024-10-29,Resource-aware compression,0,G06F|Y02D
+12130713,2024-10-29,Autonomous organization and role selection of homogenous workers,0,G06F|H04L
+12130701,2024-10-29,Residue-code-based error detection for cipher generation,0,G06F
+12130692,2024-10-29,Low power state selection based on idle duration history,0,G06F|G11C|Y02D
+12130690,2024-10-29,Technique for extended idle duration for display to improve power consumption,0,G06F|G09G|Y02D
+12124865,2024-10-22,System and method for providing page migration,0,G06F
+12124788,2024-10-22,Handling engineering change orders for integrated circuits in a design,0,G06F
+12124531,2024-10-22,Device and method for accelerating matrix multiply operations,0,G06F
+12124373,2024-10-22,Method and apparatus for controlling cache line storage in cache memory,0,G06F|Y02D
+12124311,2024-10-22,Dynamic voltage frequency scaling based on active memory barriers,0,G06F|G11C|Y02D
+12120364,2024-10-15,Low latency wireless virtual reality systems and methods,0,H04L|H04N
+12119993,2024-10-15,Dynamic network of supercomputing resources with unified management interface,0,G06F|H04L
+12118656,2024-10-15,VRS rate feedback,0,G06T
+12118411,2024-10-15,Distributed scheduler providing execution pipe balance,0,G06F
+12118357,2024-10-15,Encoded data dependency matrix for power efficiency scheduling,0,G06F
+12118354,2024-10-15,Virtually padding data structures,0,G06F
+12118247,2024-10-15,Performance of bank refresh,0,G06F
+12117945,2024-10-15,Memory controller with pseudo-channel support,0,G06F
+12117939,2024-10-15,Stochastic optimization of surface cacheability in parallel processing units,0,G06F
+12117935,2024-10-15,Technique to enable simultaneous use of on-die SRAM as cache and memory,0,G06F
+12117933,2024-10-15,Techniques for supporting large frame buffer apertures with better system compatibility,0,G06F|G06T|G09G
+12113946,2024-10-08,Buffer management for plug-in architectures in computation graph structures,0,G06F|G06T|H04N
+12113712,2024-10-08,Dynamic network-on-chip throttling,0,G06F|H04L
+12112270,2024-10-08,Deliberate conditional poison training for generative models,0,G06F|G06N|G06V
+12111767,2024-10-08,Method and apparatus for a page-local delta-based prefetcher,0,G06F
+12111719,2024-10-08,Remote scalable machine check architecture,0,G06F
+12111716,2024-10-08,Device and method for efficient transitioning to and from reduced power state,0,G06F|Y02D
+12107076,2024-10-01,Through-silicon via layout for multi-die integrated circuits,0,H01L
+12107075,2024-10-01,Hybrid bonded interconnect bridging,0,H01L
+12106418,2024-10-01,Sampling for partially resident textures,0,G06T
+12105957,2024-10-01,Accelerating relaxed remote atomics on multiple writer operations,0,G06F
+12105952,2024-10-01,Global addressing for switch fabric,0,G06F|H04L
+12105666,2024-10-01,Master-slave communication with subdomains,0,G06F|H04L
+12105646,2024-10-01,Adaptive out of order arbitration for numerous virtual queues,0,G06F|G06T
+12105139,2024-10-01,Secure testing mode,0,G01R|G06F
+12101135,2024-09-24,Noise mitigation in single-ended links,0,G05F|H03K|H04B|H04L
+12100660,2024-09-24,Low congestion standard cells,0,H01L|H10D
+12099867,2024-09-24,Multi-kernel wavefront scheduler,1,G06F
+12099866,2024-09-24,Address mapping-aware tasking mechanism,0,G06F
+12099789,2024-09-24,FPGA-based programmable data analysis and compression front end for GPU,0,G06F
+12099723,2024-09-24,Tag and data configuration for fine-grained cache memory,0,G06F
+12099609,2024-09-24,Combination BIOS with A/B recovery,0,G06F
+12099451,2024-09-24,Re-reference interval prediction (RRIP) with pseudo-LRU supplemental age information,0,G06F
+12094853,2024-09-17,Semiconductor chip with redundant thru-silicon-vias,0,H01L
+12093689,2024-09-17,Shared data fabric processing client reset system and method,1,G06F
+12093181,2024-09-17,Allocation control for cache,0,G06F
+12093124,2024-09-17,Multi-level signal reception,0,G06F|H04L
+12088296,2024-09-10,Clock gating using a cascaded clock gating control signal,0,G06F|H03K
+12086899,2024-09-10,Graphics processing unit with selective two-level binning,0,G06F|G06T|Y02D
+12086447,2024-09-10,Systems and methods for reducing instruction code memory footprint for multiple processes executed at a coprocessor,0,G06F
+12086422,2024-09-10,Efficient memory-semantic networking using scoped memory models,0,G06F
+12086418,2024-09-10,Memory sprinting,0,G06F
+12086009,2024-09-10,Using a hardware-based controller for power state management,0,G06F
+12080632,2024-09-03,Glass core package substrates,0,H01L|H10B
+12080362,2024-09-03,Method and apparatus for providing wear leveling,0,G06F|G11C|Y02D
+12080032,2024-09-03,Real time on-chip texture decompression using shader processors,0,G06F|G06T
+12079919,2024-09-03,Bounding volume hierarchy having oriented bounding boxes with quantized rotations,0,G06T
+12079634,2024-09-03,Look-ahead teleportation for reliable computation in multi-SIMD quantum processor,0,G06F|G06N
+12079490,2024-09-03,Reducing power consumption associated with frequency transitioning in a memory interface,0,G06F|Y02D
+12079145,2024-09-03,Distribution of data and memory timing parameters across memory modules based on memory access patterns,0,G06F|G11C|Y02D
+12073919,2024-08-27,Dual read port latch array bitcell,1,G06F|G11C|H10B
+12073806,2024-08-27,Refreshing displays using on-die cache,0,G06F|G09G|Y02D
+12073251,2024-08-27,Offloading computations from a processor to remote execution logic,2,G06F
+12073114,2024-08-27,Stacked command queue,0,G06F
+12072952,2024-08-27,Data compressor for approximation of matrices for matrix multiply operations,0,G06F|H03K
+12072803,2024-08-27,Systems and methods for tracking data cache miss requests with data cache tags,0,G06F
+12072756,2024-08-27,Scalable machine check architecture,0,G06F
+12072754,2024-08-27,Method and apparatus for managing a controller in a power down state,0,G06F|Y02D
+12072378,2024-08-27,Debug state machine triggered extended performance monitor counter,0,G01R|G06F
+12068215,2024-08-20,Method and apparatus for providing thermal wear leveling,0,G05B|G06F|H01L|Y02D
+12067749,2024-08-20,Color channel correlation detection,0,G01J|G06T|H04N
+12067649,2024-08-20,Per-pixel variable rate shading controls using stencil data,0,G06T
+12067642,2024-08-20,Memory latency-aware GPU architecture,0,G06F|G06T
+12067640,2024-08-20,Dynamically reconfigurable register file,0,G06F|G06T
+12067557,2024-08-20,Cost management in distributed computing teams,0,G06Q
+12067401,2024-08-20,Stream processor with low power parallel matrix multiply pipeline,0,G06F
+12067237,2024-08-20,Flexible memory system,0,G06F|G11C
+12066965,2024-08-20,Encoding of symbols for a computer interconnect based on frequency of symbol values,0,G06F|H03M|Y02D
+12066960,2024-08-20,System direct memory access engine offload,0,G06F
+12066950,2024-08-20,Approach for managing near-memory processing commands and non-near-memory processing commands in a memory controller,2,G06F
+12066948,2024-08-20,Dynamic banking and bit separation in memories,0,G06F|G11C|Y02D
+12066944,2024-08-20,Zero value memory compression,0,G06F
+12066940,2024-08-20,Data reuse cache,0,G06F
+12066890,2024-08-20,Error-tolerant memory system for machine learning systems,0,G06F|G06N
+12062214,2024-08-13,Systems and method for generating Morton code,0,G06T
+12062126,2024-08-13,Load multiple primitives per thread in a graphics pipeline,0,G06F|G06T
+12061510,2024-08-13,Transition into and out of a partially-off power state,0,G06F|Y02D
+12056787,2024-08-06,Inline suspension of an accelerated processing unit,0,G06F|G06T
+12056522,2024-08-06,Hierarchical asymmetric core attribute detection,0,G06F|Y02D
+12056352,2024-08-06,Memory control for data processing pipeline optimization,0,G06F|G06N
+12055991,2024-08-06,Fast droop detection circuit,0,G06F|H03K
+12052472,2024-07-30,Combined codec buffer management,0,H04N
+12052153,2024-07-30,Dynamic fine grain link control,0,G06F|H04L|Y02D
+12051154,2024-07-30,Systems and methods for distributed rendering using two-level binning,0,G06T
+12051144,2024-07-30,Fully utilized hardware in a multi-tenancy graphics processing unit,0,G06F|G06T
+12050916,2024-07-30,Array of pointers prefetching,0,G06F
+12050531,2024-07-30,Data compression and decompression for processing in memory,0,G06F
+12045362,2024-07-23,Secure computer vision processing,0,G06F|G06V
+12045182,2024-07-23,Enhanced low-priority arbitration,0,G06F|Y02D
+12045169,2024-07-23,Hardware configuration selection using machine learning model,0,G06F|G06N
+12044774,2024-07-23,Dual purpose millimeter wave frequency band transmitter,0,G01S|G02B|H04N
+12039450,2024-07-16,Adaptive batch reuse on deep memories,0,G06F|G06N
+12039344,2024-07-16,Loader and runtime operations for heterogeneous code objects,0,G06F
+12039337,2024-07-16,Processor with multiple fetch and decode pipelines,0,G06F
+12038856,2024-07-16,Memory controller with a plurality of command sub-queues and corresponding arbiters,0,G06F
+12038847,2024-07-16,"A/D bit storage, processing, and modes",0,G06F
+12038779,2024-07-16,User configurable hardware settings for overclocking,2,G01R|G06F|Y02D
+12033721,2024-07-09,Split read port latch array bit cell,1,G06F|G11C|H10B
+12033714,2024-07-09,Interconnect architecture for three-dimensional processing systems,0,G06F|G11C
+12033275,2024-07-09,System and methods for efficient execution of a collaborative task in a shader system,0,G06F|G06T
+12033239,2024-07-09,Dead surface invalidation,0,G06F|G06T
+12033238,2024-07-09,Register compaction with early release,0,G06F|G06T
+12033035,2024-07-09,Method and apparatus for predicting kernel tuning parameters,0,G06F|G06N
+12032967,2024-07-09,Partial sorting for coherency recovery,0,G06F
+12032965,2024-07-09,Throttling while managing upstream resources,0,G06F
+12032548,2024-07-09,System and method for self-resizing associative probabilistic hash-based data structures,0,G06F|G06N
+12032487,2024-07-09,Access log and address translation log for a processor,0,G06F
+12028190,2024-07-02,Lookup table optimization for high speed transmit feed-forward equalization link,0,H04L
+12026401,2024-07-02,DRAM row management for processing in memory,1,G06F|G11C
+12026387,2024-07-02,Page swapping to protect memory devices,0,G06F
+12026380,2024-07-02,Dynamic memory reconfiguration,0,G06F
+12026099,2024-07-02,System and method for storing cache location information for cache entry transfer,0,G06F|Y02D
+12026080,2024-07-02,Build process for application performance,0,G06F
+12019904,2024-06-25,Alleviating interconnect traffic in a disaggregated memory system,0,G06F|H04L
+12019879,2024-06-25,Multi-level cell memory management,0,G06F|G11C
+12019876,2024-06-25,Feed forward training of memory interfaces,0,G06F
+12019566,2024-06-25,Arbitrating atomic memory operations,0,G06F|H04L
+12019560,2024-06-25,Virtual partitioning a processor-in-memory (“PIM”),0,G06F
+12019499,2024-06-25,System and method to reduce power down entry and exit latency,0,G06F
+12014527,2024-06-18,Delta triplet index compression,0,G06T|H03M
+12014442,2024-06-18,Cross GPU scheduling of dependent processes,0,G06F|G06T
+12014213,2024-06-18,Active hibernate and managed memory cooling in a non-uniform memory access system,0,G06F|G11C|Y02D
+12014208,2024-06-18,Techniques for reducing serialization in divergent control flow,0,G06F|G06T
+12013810,2024-06-18,Non-homogeneous chiplets,2,G06F|G06T
+12013752,2024-06-18,Host-level error detection and fault correction,1,G06F
+12009047,2024-06-11,Systems and methods for continuous wordline monitoring,0,G06F|G11C
+12008401,2024-06-11,Automatic central processing unit (CPU) usage optimization,0,G06F|Y02D
+12008378,2024-06-11,Mechanism for reducing coherence directory controller overhead for near-memory compute elements,1,G06F
+12008371,2024-06-11,Method and apparatus for efficient programmable instructions in computer systems,0,G06F
+12008237,2024-06-11,Memory bit cell with homogeneous layout pattern of base layers for high density memory macros,0,G06F|G11C|H10B|H10D
+12007928,2024-06-11,Signal bridging using an unpopulated processor interconnect,0,G06F
+12002541,2024-06-04,Read clock toggle at configurable PAM levels,1,G06F|G11C
+12002128,2024-06-04,Content feedback based on region of view,0,G06T|G06V
+12001370,2024-06-04,Multi-node memory address space for PCIe devices,0,G06F
+12001334,2024-06-04,Uniform cache system for fast data access,0,G06F
+12001265,2024-06-04,Device and method for reducing save-restore latency using address linearization,0,G06F|Y02D
+12001237,2024-06-04,Pattern-based cache block compression,0,G06F|Y02D
+11996166,2024-05-28,Adaptable allocation of SRAM based on power,0,G06F|G11C|Y02D
+11995351,2024-05-28,DMA engines configured to perform first portion data transfer commands with a first DMA engine and second portion data transfer commands with second DMA engine,1,G06F
+11995149,2024-05-28,Sparse matrix-vector multiplication,0,G06F
+11995008,2024-05-28,Memory controller with hybrid DRAM/persistent memory channel arbitration,0,G06F|G11C
+11994939,2024-05-28,Systems and methods for generating remedy recommendations for power and performance issues within semiconductor software and hardware,0,G06F|G06N
+11989918,2024-05-21,Swizzle mode detection,0,G06F|G06T|H04N
+11989591,2024-05-21,Dynamically configurable overprovisioned microprocessor,0,G06F|Y02D
+11989144,2024-05-21,Centralized interrupt handling for chiplet processing units,0,G06F
+11989050,2024-05-21,Multi-chiplet clock delay compensation,0,G06F|H03K
+11984175,2024-05-14,Automatic mirrored ROM,0,G06F|G11C|H03K
+11983624,2024-05-14,Auto generation and tuning tool for convolution kernels,0,G06N|G06T
+11983560,2024-05-14,Method for matrix data broadcast in parallel processing,0,G06F
+11978234,2024-05-07,Method and apparatus of data compression,0,G06T
+11977933,2024-05-07,Gang scheduling with an onboard graphics processing unit and user-based queues,0,G06F
+11977890,2024-05-07,Stateful microcode branching,0,G06F
+11977782,2024-05-07,Approach for enabling concurrent execution of host memory commands and near-memory processing commands,0,G06F
+11977757,2024-05-07,Real time profile switching for memory overclocking,2,G06F|G11C
+11972518,2024-04-30,Hybrid binning,2,G06T
+11972271,2024-04-30,End user sensitivity profiling for efficiency and performance management,0,G06F
+11972261,2024-04-30,Hardware device for enforcing atomicity for memory operations,0,G06F
+11967960,2024-04-23,Methods and apparatus for synchronizing data transfers across clock domains using heads-up indications,0,G06F|H03L
+11967043,2024-04-23,Gaming super resolution,1,G06N|G06T
+11966339,2024-04-23,Selecting between basic and global persistent flush modes,1,G06F
+11966328,2024-04-23,Near-memory determination of registers,0,G06F
+11966283,2024-04-23,"Devices, systems, and methods for detecting and mitigating silent data corruptions via adaptive voltage-frequency scaling",0,G06F
+11960897,2024-04-16,Apparatus and methods employing a shared read post register file,0,G06F
+11960854,2024-04-16,Time domain multiply and accumulate system,0,G06F|H03K
+11960813,2024-04-16,Automatic redistribution layer via generation,0,G06F
+11960435,2024-04-16,Skew matching in a die-to-die interface,0,G06F|H01L
+11960404,2024-04-16,Method and apparatus for reducing the latency of long latency memory requests,0,G06F
+11960399,2024-04-16,Relaxed invalidation for cache coherence,0,G06F
+11960340,2024-04-16,Performance management during power supply voltage droop,0,G06F|Y02D
+11960339,2024-04-16,Multi-die stacked power delivery,1,G06F|H01L|Y02D
+11956368,2024-04-09,Enhanced method for a useful blockchain consensus,0,G06N|H04L
+11955447,2024-04-09,Semiconductor chip having stepped conductive pillars,1,H01L
+11954788,2024-04-09,Variable width bounding volume hierarchy nodes,0,G06T
+11954782,2024-04-09,Hybrid render with preferred primitive batch binning and sorting,0,G06T
+11954757,2024-04-09,Method and apparatus for implementing a rasterizer in GPU operations,0,G06T
+11954036,2024-04-09,Prefetch kernels on data-parallel processors,0,G06F|Y02D
+11954033,2024-04-09,Page rinsing scheme to keep a directory page in an exclusive state in a single complex,0,G06F
+11954026,2024-04-09,Paging hierarchies for extended page tables and extended page attributes,2,G06F
+11948251,2024-04-02,Throttling hull shaders based on tessellation factors in a graphics pipeline,0,G06F|G06T
+11948223,2024-04-02,Redundancy method and apparatus for shader column repair,0,G06T|G09G
+11948073,2024-04-02,Machine learning inference engine scalability,0,G06N
+11948000,2024-04-02,Gang scheduling for low-latency task synchronization,0,G06F|G06T
+11947833,2024-04-02,Method and apparatus for training memory,0,G06F|G11C
+11947487,2024-04-02,Enabling accelerated processing units to perform dataflow execution,0,G06F|Y02D
+11947476,2024-04-02,Cross-chiplet performance data streaming,0,G06F
+11947473,2024-04-02,Duplicated registers in chiplet processing units,0,G06F
+11947456,2024-04-02,Weak cache line invalidation requests for speculatively executing instructions,0,G06F
+11947455,2024-04-02,Suppressing cache line modification,0,G06F|Y02D
+11947380,2024-04-02,Separate clocking for components of a graphics processing unit,0,G06F|Y02D
+11942953,2024-03-26,Droop detection and control of digital frequency-locked loop,0,G06F|H03L
+11941723,2024-03-26,Dynamic dispatch for workgroup distribution,0,G06F|G06T
+11940858,2024-03-26,Probe filter retention based low power state,0,G06F|Y02D
+11936616,2024-03-19,Assigning variable length address identifiers to packets in a processing system,0,H04L
+11935153,2024-03-19,Data compression support for accelerated processor,0,G06T|H04N
+11934873,2024-03-19,Distributed user mode processing,0,G06F
+11934827,2024-03-19,Partition and isolation of a processing-in-memory (PIM) device,0,G06F
+11934764,2024-03-19,Routing and manufacturing with a minimum area metal structure,0,G06F|H01L|H10D
+11934698,2024-03-19,Process isolation for a processor-in-memory (“PIM”) device,1,G06F
+11934331,2024-03-19,Communication engine for hybrid interconnect technologies,0,G06F|H04L|H04W|Y02D
+11934251,2024-03-19,Data fabric clock switching,0,G06F|G11C|Y02D
+11928770,2024-03-12,BVH node ordering for efficient ray tracing,0,G06T
+11928060,2024-03-12,Transfer of cachelines in a processing system based on transfer costs,0,G06F
+11924338,2024-03-05,Split random number generator,0,G06F|H04L
+11922207,2024-03-05,Network command coalescing on GPUs,0,G06F|G06T|H04L
+11922107,2024-03-05,Quantum circuit mapping for multi-programmed quantum computers,2,G06F|G06N
+11921784,2024-03-05,"Flexible, scalable graph-processing accelerator",1,G06F
+11921634,2024-03-05,Leveraging processing-in-memory (PIM) resources to expedite non-PIM instructions executed on a host,2,G06F
+11917794,2024-02-27,Separating temperature domains in cooled systems,0,H01L|H05K
+11915359,2024-02-27,Kernel software driven color remapping of rendered primary surfaces,0,G06F|G06T|G09G
+11915337,2024-02-27,Single pass downsampler,0,G06F|G06T
+11914517,2024-02-27,Method and apparatus for monitoring memory access traffic,0,G06F
+11911839,2024-02-27,Low temperature hybrid bonding,0,B23K|H01L
+11908065,2024-02-20,Stack-based ray traversal with dynamic multiple-node iterations,0,G06T
+11907126,2024-02-20,Processor with multiple op cache pipelines,0,G06F
+11907070,2024-02-20,Methods and apparatus for managing register free lists,0,G06F
+11902658,2024-02-13,Instant auto-focus with distance estimation,1,G01B|H04N
+11902571,2024-02-13,Region of interest (ROI)-based upscaling for video conferences,1,G06N|G06T|H04N
+11900499,2024-02-13,Iterative indirect command buffers,0,G06F|G06T
+11900253,2024-02-13,Tiling format for convolutional neural networks,0,G06F|G06N|G06V
+11900161,2024-02-13,Memory allocation for processing-in-memory operations,0,G06F
+11900123,2024-02-13,Marker-based processor instruction grouping,0,G06F|G06T
+11899642,2024-02-13,System and method using hash table with a set of frequently-accessed buckets and a set of less frequently-accessed buckets,0,G06F
+11899520,2024-02-13,Dynamic cache bypass for power savings,0,G06F|Y02D
+11893502,2024-02-06,Dynamic hardware selection for experts in mixture-of-experts model,0,G06F|G06N
+11886878,2024-01-30,Distributing power shared between an accelerated processing unit and a discrete graphics processing unit,0,G06F|Y02D
+11886370,2024-01-30,Sharing package pins in a multi-chip module (MCM),0,G06F|H01L
+11886224,2024-01-30,Core selection based on usage policy and core constraints,0,G06F|Y02D
+11881450,2024-01-23,High voltage tolerant capacitors,0,H01L|H10D
+11880926,2024-01-23,Hybrid render with deferred primitive batch binning,0,G06T
+11880924,2024-01-23,Synchronization free cross pass binning through subpass interleaving,0,G06T
+11880769,2024-01-23,Using multiple functional blocks for training neural networks,0,G06N
+11880715,2024-01-23,Method and system for opportunistic load balancing in neural networks using metadata,0,G06F|G06N
+11880683,2024-01-23,Packed 16 bits instruction pipeline,0,G06F
+11880610,2024-01-23,Storage location assignment at a cluster compute server,0,G06F|H04L
+11880312,2024-01-23,Data as compute,0,G06F
+11880310,2024-01-23,Cache access measurement deskew,0,G06F
+11880277,2024-01-23,Selecting an error correction code type for a memory device,0,G06F
+11880260,2024-01-23,Instruction subset implementation for low power operation,0,G06F|Y02D
+11880248,2024-01-23,Secondary external cooling for mobile computing devices,0,G06F|H05K
+11876718,2024-01-16,Graded throttling for network-on-chip traffic,0,H04L
+11875425,2024-01-16,Implementing heterogeneous wavefronts on a graphics processing unit (GPU),0,G06F|G06T
+11875197,2024-01-16,Management of thrashing in a GPU,0,G06F|G06T
+11874783,2024-01-16,Coherent block read fulfillment,0,G06F
+11874774,2024-01-16,Mechanism to efficiently rinse memory-side cache of dirty data,0,G06F
+11874739,2024-01-16,Error detection and correction in memory modules using programmable ECC engines,0,G06F|H04L
+11869874,2024-01-09,Stacked die circuit routing system and method,0,H01L|H02M|H03K
+11869140,2024-01-09,Combined world-space pipeline shader stages,0,G06T
+11868818,2024-01-09,Lock address contention predictor,0,G06F
+11868809,2024-01-09,Hardware assisted fine-grained data movement,0,G06F
+11868778,2024-01-09,Compacted addressing for transaction layer packets,0,G06F|H03M|H04L
+11868777,2024-01-09,Processor-guided execution of offloaded instructions using fixed function operations,6,G06F|Y02D
+11868759,2024-01-09,Shader source code performance prediction,0,G06F|G06N|G06T
+11868306,2024-01-09,Processing-in-memory concurrent processing system and method,0,G06F|Y02D
+11868254,2024-01-09,Using epoch counter values for controlling the retention of cache blocks in a cache,0,G06F
+11868221,2024-01-09,Multi-adaptive cache replacement policy,0,G06F
+11864344,2024-01-02,Chassis as a common cooling solution for die packages,0,G06F|H05K
+11863769,2024-01-02,Bandwidth saving architecture for scalable video coding,0,H04N
+11862640,2024-01-02,Cross field effect transistor (XFET) library architecture power routing,0,H01L|H10D
+11861781,2024-01-02,Graphics processing units with power management and latency reduction,0,G06F|G06T|G09G
+11860797,2024-01-02,Peripheral device protocols in confidential compute architectures,0,G06F
+11860787,2024-01-02,Cache miss predictor,0,G06F
+11860784,2024-01-02,Live profile-driven cache aging policies,0,G06F
+11860755,2024-01-02,Hardware assisted memory profiling aggregator,0,G06F
+11860685,2024-01-02,Clock frequency divider circuit,0,G06F|H03K
+11855061,2023-12-26,Offset-aligned three-dimensional integrated circuit,1,H01L
+11854602,2023-12-26,Read clock start and stop for synchronous memories,2,G06F|G11C
+11854139,2023-12-26,Graphics processing unit traversal engine,0,G06F|G06T
+11854138,2023-12-26,Techniques for introducing oriented bounding boxes into bounding volume hierarchy,0,G06T
+11853734,2023-12-26,Compiler-initiated tile replacement to enable hardware acceleration resources,0,G06F
+11853193,2023-12-26,Inverse performance driven program analysis,0,G06F
+11853111,2023-12-26,System and method for controlling electrical current supply in a multi-processor core system via instruction per cycle reduction,0,G06F|Y02D
+11848269,2023-12-19,Techniques to create power connections from floating nets in standard cells,0,H01L|H10D
+11847463,2023-12-19,Masked multi-lane instruction memory fault handling using fast and slow execution paths,0,G06F
+11847462,2023-12-19,Software-based instruction scoreboard for arithmetic logic units,0,G06F
+11847062,2023-12-19,Re-fetching data for L3 cache data evictions into a last-level cache,0,G06F|Y02D
+11847061,2023-12-19,Approach for supporting memory-centric operations on cached data,0,G06F
+11847055,2023-12-19,Approach for reducing side effects of computation offload to memory,0,G06F
+11847048,2023-12-19,Method and apparatus for providing persistence to remote non-volatile memory,0,G06F
+11842227,2023-12-12,Hypervisor secure event handling at a processor,0,G06F
+11842200,2023-12-12,Multi-modal gather operation,0,G06F
+11842199,2023-12-12,Controlling the operating speed of stages of an asynchronous pipeline,0,G06F
+11841803,2023-12-12,GPU chiplets using high bandwidth crosslinks,0,G06F
+11839815,2023-12-12,Adaptive audio mixing,0,A63F|G06F|G06N|G10H|G11B
+11837588,2023-12-05,Circuit board with compact passive component arrangement,0,H01G|H01L|H05K|Y02P
+11837527,2023-12-05,Semiconductor chip stack with locking through vias,0,H01L|H10D
+11836610,2023-12-05,Concurrent training of functional subnetworks of a neural network,0,G06N
+11836549,2023-12-05,Fast block-based parallel message passing interface transpose,0,G06F
+11836091,2023-12-05,Secure memory access in a virtualized computing environment,0,G06F
+11836088,2023-12-05,Guided cache replacement,1,G06F
+11836085,2023-12-05,Cache line coherence state upgrade,0,G06F
+11836031,2023-12-05,Application override of power estimation mechanism,0,G06F|Y02D
+11835998,2023-12-05,System and method for enabling clock stretching during overclocking in response to voltage droop,2,G06F|H03K|Y02D
+11835988,2023-12-05,System and method for load fusion,0,G06F
+11831565,2023-11-28,Method for maintaining cache consistency during reordering,0,G06F|H04L
+11830817,2023-11-28,Creating interconnects between dies using a cross-over die and through-die vias,1,H01L|H10D
+11830200,2023-11-28,Ambient temperature reporting through infrared facial recognition,0,G06F|G06T|G06V|Y02D
+11829222,2023-11-28,Operating voltage adjustment for aging circuits,0,G01R|G06F
+11829196,2023-11-28,Ring transport employing clock wake suppression,0,G01R|G06F|H04L
+11829190,2023-11-28,Data routing for efficient decompression of compressed data stored in a cache,1,G06F|G06T
+11822923,2023-11-21,Performing store-to-load forwarding of a return address for a return instruction,0,G06F
+11822484,2023-11-21,Low power cache,0,G06F
+11822479,2023-11-21,History-based selective cache line invalidation requests,0,G06F
+11818238,2023-11-14,Low overhead high bandwidth data transfer protocol,0,H04L
+11817436,2023-11-14,Common cooling solution for multiple packages,0,H01L
+11816871,2023-11-14,Real-time low latency computer vision/machine learning compute accelerator with smart convolutional neural network scheduler,0,G01F|G01L|G06N|G06T
+11816792,2023-11-14,Overlay trees for ray tracing,1,G06T
+11816781,2023-11-14,Spatial hashing for world-space spatiotemporal reservoir re-use for ray tracing,0,G06T
+11816490,2023-11-14,VLIW power management,0,G06F|Y02D
+11816228,2023-11-14,Metadata tweak for channel encryption differentiation,0,G06F|H04L
+11816037,2023-11-14,Enhanced page information co-processor,1,G06F|Y02D
+11815986,2023-11-14,Error handling for resilient software,0,G06F|G11C
+11810891,2023-11-07,Bond pads for low temperature hybrid bonding,0,H01L
+11809902,2023-11-07,Fine-grained conditional dispatching,0,G06F
+11809743,2023-11-07,Refresh management list for DRAM,0,G06F|G11C
+11809558,2023-11-07,Hardware security hardening for processor devices,0,G06F|H04L
+11809322,2023-11-07,Region based directory scheme to adapt to large cache sizes,0,G06F
+11809260,2023-11-07,Phase shedding based on phase efficiency determined by pulse width modulator switching of voltage regulator field effect transistors,0,G06F|H02M|Y02B
+11805026,2023-10-31,Channel training using a replica lane,0,H04L
+11804479,2023-10-31,Scheme for enabling die reuse in 3D stacked products,3,H01L
+11803999,2023-10-31,Job scheduling using reinforcement learning,0,G06F|G06N|G06T
+11803734,2023-10-31,Adaptive quantization for neural networks,0,G06N
+11803484,2023-10-31,Dynamic application of software data caching hints based on cache test regions,0,G06F|Y02D
+11803473,2023-10-31,Computer processing devices with dynamic shared cache line copy retention policy selection,0,G06F
+11803470,2023-10-31,Multi-level cache coherency protocol for cache line evictions,0,G06F
+11803437,2023-10-31,Write hardware training acceleration,4,G06F|G11C|H04L
+11803385,2023-10-31,Broadcast synchronization for dynamically adaptable arrays,0,G06F|G06T
+11803311,2023-10-31,System and method for coalesced multicast data transfers over memory interfaces,1,G06F
+11797665,2023-10-24,Protection against branch target buffer poisoning by a management layer,0,G06F
+11797455,2023-10-24,Cache management based on reuse distance,0,G06F
+11797410,2023-10-24,Chiplet-level performance information for configuring chiplets in a processor,0,G06F|Y02D
+11797369,2023-10-24,Error reporting for non-volatile memory modules,0,G06F|G11C
+11797201,2023-10-24,Hardware-software collaborative address mapping scheme for efficient processing-in-memory systems,1,G06F
+11790593,2023-10-17,Ray-tracing multi-sample anti-aliasing,0,G06T
+11790590,2023-10-17,Multi-accelerator compute dispatch,1,G06F|G06T|Y02D
+11790435,2023-10-17,Dynamic computer marketplace system and method,0,G06F|G06Q
+11789734,2023-10-17,Padded vectorization with compile time known masks,0,G06F
+11789732,2023-10-17,Arithmetic logic unit register sequencing,0,G06F
+11789655,2023-10-17,Efficient and low latency memory access scheduling,0,G06F|G11C
+11789620,2023-10-17,Dynamic random-access memory (DRAM) phase training update,0,G06F|G11C
+11783529,2023-10-10,Bounding volume hierarchy box node compression,0,G06T
+11782897,2023-10-10,System and method for multiplexer tree indexing,0,G06F
+11782848,2023-10-10,Home agent based cache transfer acceleration scheme,0,G06F
+11782838,2023-10-10,Command processor prefetch techniques,0,G06F
+11782640,2023-10-10,Efficient and low latency memory access scheduling,0,G06F
+11782494,2023-10-10,Method and apparatus for power management of a graphics processing core in a virtual environment,0,G06F|Y02D
+11776599,2023-10-03,Encoded enable clock gaters,0,G06F|G11C
+11776085,2023-10-03,Throttling shaders based on resource usage in a graphics pipeline,0,G06F|G06T
+11775799,2023-10-03,Runtime extension for neural network training with heterogeneous memory,0,G06F|G06N
+11775349,2023-10-03,Machine intelligence processor with compute unit remapping,0,G06F|G06N
+11775043,2023-10-03,Power saving through delayed message processing,0,G06F|Y02D
+11769041,2023-09-26,Low latency long short-term memory inference with sequence interleaving,0,G06F|G06N
+11768779,2023-09-26,Cache management based on access type priority,0,G06F|Y02D
+11768778,2023-09-26,Re-reference indicator for re-reference interval prediction cache replacement policy,0,G06F
+11768771,2023-09-26,Techniques for handling cache coherency traffic for contended semaphores,0,G06F
+11768664,2023-09-26,Processing unit with mixed precision operations,0,G06F
+11763155,2023-09-19,Using sub-networks created from neural networks for processing color images,1,G06F|G06N|G06T|G06V
+11762828,2023-09-19,"Cuckoo filters and cuckoo hash tables with biasing, compression, and decoupled logical sparsity",0,G06F
+11762777,2023-09-19,Method and apparatus for a dram cache tag prefetcher,0,G06F|Y02D
+11762658,2023-09-19,Matrix multiplication unit with flexible precision operations,0,G06F|G06N
+11762017,2023-09-19,Performing scan data transfer inside multi-die package with SERDES functionality,0,G01R|G06F
+11757489,2023-09-12,Noise mitigation in single ended links,0,G05F|H03K|H04B|H04L
+11756606,2023-09-12,Method and apparatus for recovering regular access performance in fine-grained DRAM,0,G06F|G11C|H03K
+11755494,2023-09-12,Cache line coherence state downgrade,0,G06F
+11755477,2023-09-12,Cache allocation policy,0,G06F
+11755336,2023-09-12,Distributed geometry,0,G06F|G06T
+11755246,2023-09-12,Efficient rank switching in multi-rank memory controller,0,G06F|Y02D
+11749629,2023-09-05,High-speed die connections using a conductive insert,0,H01L
+11748935,2023-09-05,Bounding volume hierarchy traversal,0,G06T
+11748186,2023-09-05,Self-regulating power management for a neural network system,0,G06F|G06N|G06V|Y02D
+11748034,2023-09-05,Signalling for heterogeneous memory systems,0,G06F
+11747852,2023-09-05,Method and apparatus for maintaining stable operation of servers in a data center,0,G06F|Y02D
+11742301,2023-08-29,Fan-out package with reinforcing rivets,0,H01L
+11742289,2023-08-29,Semiconductor chip with stacked conductor lines and air gaps,1,H01L
+11742259,2023-08-29,Circuit board with phase change material,0,H01L|H05K
+11742043,2023-08-29,Dynamic random-access memory (DRAM) training acceleration,0,G06F|G11C
+11742038,2023-08-29,Method and apparatus for providing wear leveling,0,G06F|G11C|Y02D
+11741658,2023-08-29,Frustum-bounding volume intersection detection using hemispherical projection,1,G06T
+11741653,2023-08-29,Overlapping visibility and render passes for same frame,0,G06F|G06T
+11741397,2023-08-29,Artificial neural network emulation of hotspots,0,G06N
+11741019,2023-08-29,Memory pools in a memory model for a unified computing system,1,G06F
+11740944,2023-08-29,Method and apparatus for managing processor functionality,1,G06F|Y02D
+11740791,2023-08-29,Data compression system using base values and methods thereof,0,G06F|G06T|Y02D
+11736119,2023-08-22,Semi-sorting compression with encoding and decoding tables,0,G06F|H03M
+11734151,2023-08-22,Precise shadowing and adjustment of on-die timers in low power states,0,G06F|Y02D
+11734114,2023-08-22,Programmable error correction code encoding and decoding logic,0,G06F|H03M
+11734059,2023-08-22,Hardware assisted fine-grained data movement,0,G06F
+11734011,2023-08-22,Context partitioning of branch prediction structures,0,G06F
+11726926,2023-08-15,System and method for application migration for a dockable device,1,G06F|Y02D
+11726918,2023-08-15,Dynamically coalescing atomic memory operations for memory-local computing,0,G06F|Y02D
+11726917,2023-08-15,Method and apparatus for a page-local delta-based prefetcher,1,G06F
+11726915,2023-08-15,Distributed coherence directory subsystem with exclusive data regions,0,G06F
+11726868,2023-08-15,System and method for protecting GPU memory instructions against faults,0,G06F
+11726837,2023-08-15,Apparatus and method for providing workload distribution of threads among multiple compute units,0,G06F|H04L|H04N|Y02D
+11726783,2023-08-15,Filtering micro-operations for a micro-operation cache in a processor,0,G06F|Y02D
+11726546,2023-08-15,Compiler directed fine grained power management,0,G06F|Y02D
+11721384,2023-08-08,Hardware-assisted dynamic random access memory (DRAM) row merging,0,G06F|G11C|Y02D
+11720993,2023-08-08,Dynamic kernel memory space allocation,0,G06F|G06T
+11720499,2023-08-08,Selective generation of miss requests for cache lines,0,G06F|G06T
+11720328,2023-08-08,Processing unit with small footprint arithmetic logic unit,0,G06F|G06N
+11720279,2023-08-08,Apparatus and methods for managing packet transfer across a memory fabric physical layer interface,0,G06F
+11720266,2023-08-08,Automatic memory overclocking,1,G06F|G11C
+11715691,2023-08-01,Integrated circuit package with integrated voltage regulator,0,H01F|H01L
+11715262,2023-08-01,Optimizing primitive shaders,0,G06F|G06T
+11715253,2023-08-01,Pixelation optimized delta color compression,0,G06T
+11715183,2023-08-01,Overlapped curve mapping for histogram-based local tone and local contrast,0,G06T|G09G
+11714739,2023-08-01,Job performance breakdown,0,G06F|G06N
+11714652,2023-08-01,Zero operand instruction conversion for accelerating sparse computations in a central processing unit pipeline,1,G06F
+11714559,2023-08-01,Efficient memory-semantic networking using scoped memory models,0,G06F
+11714442,2023-08-01,Controlling electrical power consumption for elements in an electronic device based on a platform electrical power limit,0,G05F|G06F
+11711571,2023-07-25,Client-side offload of graphics effects processing,0,H04N
+11710698,2023-07-25,Dual-track bitline scheme for 6T SRAM cells,0,G11C|H01L|H10B|H10D
+11710207,2023-07-25,Wave throttling based on a parameter buffer,0,G06F|G06T
+11709745,2023-07-25,"Method for a reliability, availability, and serviceability-conscious huge page support",0,G06F
+11709711,2023-07-25,Allocation of memory access bandwidth to clients in an electronic device,0,G06F|G06T|Y02D
+11709681,2023-07-25,Differential pipeline delays in a coprocessor,0,G06F
+11709670,2023-07-25,Identifying and configuring compatible versions of runtime components by shared libraries,0,G06F
+11709536,2023-07-25,Multi-die system performance optimization,1,G05F|G06F|Y02D
+11706415,2023-07-18,Still frame detection in video data,0,H04N
+11706385,2023-07-18,Machine learning-based multi-view video conferencing from single view video data,0,G06F|G06N|G06V|H04L|H04N
+11704277,2023-07-18,Variation-aware qubit movement scheme for noise intermediate scale quantum era computers,0,G06F|G06N
+11704250,2023-07-18,Using request class and reuse recording in one cache for insertion policies of another cache,0,G06F
+11704248,2023-07-18,Retaining cache entries of a processor core during a powered-down state,0,G06F|Y02D
+11704198,2023-07-18,Method and apparatus for providing recovery from a computing device boot up error,1,G06F
+11704183,2023-07-18,Data integrity for persistent memory systems and the like,0,G06F|H03M
+11703937,2023-07-18,Device and method for efficient transitioning to and from reduced power state,0,G06F|Y02D
+11703932,2023-07-18,Demand based probe filter initialization after low power state,0,G06F|Y02D
+11703930,2023-07-18,Platform power manager for rack level power and thermal constraints,1,G06F|Y02D
+11695897,2023-07-04,Correcting engagement of a user in a video conference,0,G06T|H04L|H04N
+11694739,2023-07-04,Refresh management for memory,0,G06F|G11C
+11694367,2023-07-04,Compressing texture data on a per-channel basis,0,G06T|H04N
+11694081,2023-07-04,Accelerating neural networks with one shot skip layer pruning,0,G06F|G06N
+11693813,2023-07-04,Alternative protocol over physical layer,0,G06F
+11693778,2023-07-04,Cache grouping for increasing performance and fairness in shared caches,0,G06F
+11693725,2023-07-04,Detecting execution hazards in offloaded operations,0,G06F|Y02D
+11693465,2023-07-04,Method and apparatus for data scrambling,0,G06F|H04L|Y02D
+11687460,2023-06-27,Network cache injection for coherent GPUs,0,G06F
+11687456,2023-06-27,Memory coloring for executing operations in concurrent paths of a graph representing a model,0,G06F|G06N
+11687281,2023-06-27,DRAM command streak efficiency management,0,G06F|G11C
+11687251,2023-06-27,Dynamic repartition of memory physical address mapping,1,G06F
+11682445,2023-06-20,"Memory context restore, reduction of boot time of a system on a chip by reducing double data rate memory training",0,G06F|G11C|Y02D
+11681620,2023-06-20,Using error correction code (ECC) bits for retaining victim cache lines in a cache block in a cache memory,1,G06F
+11681465,2023-06-20,Dynamic multi-bank memory command coalescing,2,G06F
+11677813,2023-06-13,Dynamic configuration of inter-chip and on-chip networks in cloud computing system,0,H04L
+11677681,2023-06-13,Intelligent allocation of resources in a computing system,2,H04L|Y02D
+11676940,2023-06-13,Hybrid bonded interconnect bridging,1,H01L
+11676924,2023-06-13,Semiconductor chip with reduced pitch conductive pillars,0,H01L
+11676321,2023-06-13,Graphics library extensions,0,G06T
+11675718,2023-06-13,Enhanced low-priority arbitration,1,G06F|Y02D
+11675703,2023-06-13,Memory request throttling to constrain memory bandwidth utilization,0,G06F
+11675659,2023-06-13,DDR memory error recovery,0,G06F
+11675591,2023-06-13,Selectively enabled result lookaside buffer based on a hit rate,0,G06F
+11675568,2023-06-13,Dual vector arithmetic logic unit,0,G06F|G06T
+11675410,2023-06-13,Predicting processor power disturbances by monitoring performance characteristics,0,G06F|Y02D
+11670624,2023-06-06,Integrated circuit module with integrated discrete devices,0,H01L|H10D
+11669274,2023-06-06,Write bank group mask during arbitration,0,G06F
+11669271,2023-06-06,Memory operations using compound memory commands,0,G06F
+11664062,2023-05-30,Memory calibration system and method,0,G06F|G11C|Y02D
+11663073,2023-05-30,Method and apparatus for data protection in memory devices,0,G06F|H04L
+11663001,2023-05-30,Family of lossy sparse load SIMD instructions,1,G06F|G06N|Y02D
+11662798,2023-05-30,Technique for extended idle duration for display to improve power consumption,1,G06F|G09G|Y02D
+11658123,2023-05-23,Hybrid bridged fanout chiplet connectivity,0,H01L
+11657560,2023-05-23,VRS rate feedback,1,G06T
+11657119,2023-05-23,Hardware accelerated convolution,1,G06F|G06N
+11657014,2023-05-23,Signal bridging using an unpopulated processor interconnect,0,G06F
+11657004,2023-05-23,Method and system for memory attack mitigation,0,G06F|G11C
+11656945,2023-05-23,Method and apparatus to support instruction replay for executing idempotent code in dependent processing in memory devices,0,G06F
+11656877,2023-05-23,Wavefront selection and execution,0,G06F
+11656796,2023-05-23,Adaptive memory consistency in disaggregated datacenters,0,G06F
+11656732,2023-05-23,User interface system for display scaling events,0,G06F|G06T|G09G
+11653092,2023-05-16,Compensation-free phase detection for phase detection autofocus devices,0,H04N
+11652050,2023-05-16,Inset power post and strap architecture with reduced voltage droop,1,H01L|H10D
+11651479,2023-05-16,Unified ISP pipeline for image sensors with various color filter array and high dynamic range schemes,0,G06T|H04N
+11650650,2023-05-16,Modifying an operating state of a processing unit based on waiting statuses of blocks,0,G06F|G06N|Y02D
+11645207,2023-05-09,Prefetch disable of memory requests targeting data lacking locality,0,G06F
+11645073,2023-05-09,Address-based filtering for load/store speculation,0,G06F
+11640711,2023-05-02,Automated artifact detection,0,G06F|G06N|G06T|G06V
+11640444,2023-05-02,Device and method for accelerating matrix multiply operations,1,G06F
+11636054,2023-04-25,Memory controller power states,0,G06F|G11C|Y02D
+11636038,2023-04-25,Method and apparatus for controlling cache line storage in cache memory,0,G06F|Y02D
+11635967,2023-04-25,Vertical and horizontal broadcast of shared operands,1,G06F
+11631624,2023-04-18,Semiconductor chip package with spring biased lid,0,H01L
+11631187,2023-04-18,Depth buffer pre-pass,0,G06T
+11630994,2023-04-18,Optimized asynchronous training of neural networks using a distributed parameter server with eager updates,0,G06F|G06N
+11630772,2023-04-18,Suppressing cache line modification,0,G06F|Y02D
+11630715,2023-04-18,Method and system for recording and logging error handling information,0,G06F
+11630667,2023-04-18,Dedicated vector sub-processor system,0,G06F
+11630502,2023-04-18,Hierarchical state save and restore for device with varying power states,0,G06F|Y02D
+11625807,2023-04-11,Low power and low latency GPU coprocessor for persistent computing,0,G06F|G06T|Y02D
+11625352,2023-04-11,DRAM command streak management,0,G06F
+11625251,2023-04-11,Mechanism for reducing coherence directory controller overhead for near-memory compute elements,5,G06F
+11625249,2023-04-11,Preserving memory ordering between offloaded instructions and non-offloaded instructions,9,G06F|Y02D
+11620788,2023-04-04,Graphics texture footprint discovery,0,G06F|G06T
+11620525,2023-04-04,Dropout for accelerated deep learning in heterogeneous architectures,0,G06F|G06N|G06T
+11620248,2023-04-04,Optical bridge interconnect unit for adjacent processors,0,G06F|H04B|H04Q
+11620224,2023-04-04,Instruction cache prefetch throttle,1,G06F
+11619982,2023-04-04,Efficient calibration of circuits in tiled integrated circuits,0,G05F|G06F
+11616901,2023-03-28,Adaptive lens step control with multiple filters for camera fast auto focus,0,G02B|H04N
+11615306,2023-03-28,Statically generated compiled representations for processing data in neural networks,0,G06N
+11615230,2023-03-28,Wide range clock monitor system,0,G01R|G06F|H03K|Y02D
+11614889,2023-03-28,Aggregating commands in a stream based on cache line addresses,0,G06F
+11610879,2023-03-21,Power on die discovery in 3D stacked die architectures with varying number of stacked die,0,G06F|H01L|H03K|H10D
+11609791,2023-03-21,Precise suspend and resume of workloads in a processing unit,0,G06F|G06T|Y02D
+11609785,2023-03-21,Matrix data broadcast architecture,0,G06F
+11604754,2023-03-14,Method and apparatus of integrating memory stacks,0,G06F|G11C
+11604738,2023-03-14,Device and method for data compression using a metadata cache,0,G06F|Y02D
+11604737,2023-03-14,Dynamic modification of coherent atomic memory operations,0,G06F
+11604655,2023-03-14,Sync point mechanism between master and slave nodes,0,G06F
+11599359,2023-03-07,Methods and systems for utilizing a master-shadow physical register file based on verified activation,0,G06F|G11C
+11586563,2023-02-21,Distribution of data and memory timing parameters across memory modules based on memory access patterns,1,G06F|G11C|Y02D
+11586555,2023-02-21,Flexible dictionary sharing for compressed caches,1,G06F|H03M
+11586539,2023-02-21,Adaptive cache management based on programming model information,0,G06F
+11586472,2023-02-21,Method of task transition between heterogenous processors,0,G06F|Y02D
+11586441,2023-02-21,Method and apparatus for virtualizing the micro-op cache,2,G06F|Y02D
+11580025,2023-02-14,Cache prefetching with dynamic interleaving configuration modification,0,G06F
+11579922,2023-02-14,Dynamic graphical processing unit register allocation,0,G06F
+11579884,2023-02-14,Instruction address translation and caching for primary and alternate branch prediction paths,6,G06F
+11579876,2023-02-14,Reducing save restore latency for power control based on write signals,0,G06F|Y02D
+11579650,2023-02-14,Method and apparatus for synchronizing the time stamp counter,0,G06F|Y02D
+11579514,2023-02-14,Computational optics,0,G03B|G06T|H04N
+11575916,2023-02-07,Top palette colors selection using sorting for palette mode in video encoding,0,H04N
+11573853,2023-02-07,Error checking data used in offloaded operations,0,G06F|Y02D
+11573801,2023-02-07,Method and apparatus for executing vector instructions with merging behavior,0,G06F
+11573765,2023-02-07,Fused convolution and batch normalization for neural networks,0,G06F|G06N
+11573724,2023-02-07,Scoped persistence barriers for non-volatile memories,0,G06F
+11573593,2023-02-07,Level-based droop detection,1,G06F|H03K|Y02D
+11570903,2023-01-31,Process for conformal coating of multi-row surface-mount components in a lidless BGA package and product made thereby,0,H01L|H05K
+11567872,2023-01-31,Compression aware prefetch,4,G06F
+11567557,2023-01-31,Electrical power operating states for core logic in a memory physical layer,0,G05F|G06F|Y02D
+11567554,2023-01-31,Clock mesh-based power conservation in a coprocessor based on in-flight instruction characteristics,0,G05D|G06F|Y02D
+11563945,2023-01-24,Adaptive offset for variance based quantization,0,H04N
+11562459,2023-01-24,Selectively writing back dirty cache lines concurrently with processing,0,G06F|G06T|G09G
+11562248,2023-01-24,Data sparsity monitoring during neural network training,0,G06F|G06N
+11561906,2023-01-24,Rinsing cache lines from a common memory page to memory,0,G06F
+11561895,2023-01-24,Oldest operation wait time indication input into set-dueling,0,G06F
+11561862,2023-01-24,Refresh management for DRAM,0,G06F|G11C
+11557026,2023-01-17,Automated artifact detection,0,G06N|G06T|G06V
+11556250,2023-01-17,Method and apparatus for temperature-gradient aware data-placement for 3D stacked DRAMs,0,G06F|G11C
+11556162,2023-01-17,Per-instruction energy debugging using instruction sampling hardware,0,G06F|Y02D
+11553222,2023-01-10,Low latency wireless virtual reality systems and methods,0,H04L|H04N
+11551990,2023-01-10,Method and apparatus for providing thermal wear leveling,2,G05B|G06F|H01L|Y02D
+11551398,2023-01-10,Light volume rendering,0,G06T
+11550728,2023-01-10,System and method for page table caching memory,0,G06F
+11550722,2023-01-10,"Method, system, and apparatus for supporting multiple address spaces to facilitate data movement",2,G06F
+11550627,2023-01-10,Hardware accelerated dynamic work creation on a graphics processing unit,0,G06F
+11550588,2023-01-10,Branch target filtering based on memory region access count,7,G06F|Y02D
+11544815,2023-01-03,Gaming super resolution,2,G06N|G06T
+11544196,2023-01-03,Resource-aware compression,1,G06F|Y02D
+11544121,2023-01-03,GPU networking using an integrated command processor,0,G06F|H04L
+11544106,2023-01-03,Continuation analysis tasks for GPU task scheduling,0,G06F
+11544065,2023-01-03,Bit width reconfiguration using a shadow-latch configured register file,1,G06F
+11543877,2023-01-03,Low power state selection based on idle duration history,0,G06F|G11C|Y02D
+11539908,2022-12-27,Adjustable modulation coding scheme to increase video stream robustness,0,H04L|H04N
+11537397,2022-12-27,Compiler-assisted inter-SIMD-group register sharing,0,G06F
+11537319,2022-12-27,Content addressable memory with sub-field minimum and maximum clamping,0,G06F|G11C|H04L
+11532066,2022-12-20,Reduced bandwidth tessellation factors,0,G06F|G06T
+11531601,2022-12-20,Error recovery for non-volatile memory modules,0,G06F
+11527033,2022-12-13,Tessellator sub-patch distribution based on group limits,0,G06T
+11526449,2022-12-13,Limited propagation of unnecessary memory updates,0,G06F|Y02D
+11526278,2022-12-13,Adaptive page close prediction,0,G06F
+11521342,2022-12-06,Residency map descriptors,0,G06T
+11521308,2022-12-06,Ambient occlusion using bounding volume hierarchy bounding box tests,0,G06F|G06T
+11521293,2022-12-06,Memory management in graphics and compute application programming interfaces,0,G06F|G06T|G09G
+11514194,2022-11-29,Secure and power efficient audio data processing,1,G06F|H04L|Y02D
+11513973,2022-11-29,Arbitration scheme for coherent and non-coherent memory requests,0,G06F|Y02D
+11513802,2022-11-29,Compressing micro-operations in scheduler entries in a processor,0,G06F
+11513801,2022-11-29,Controlling accesses to a branch prediction unit for sequences of fetch groups,0,G06F|Y02D
+11513689,2022-11-29,Dedicated interface for coupling flash memory and dynamic random access memory,0,G06F|G11C
+11509333,2022-11-22,Masked fault detection for reliable low voltage cache operation,0,G06F|H03M
+11508124,2022-11-22,Throttling hull shaders based on tessellation factors in a graphics pipeline,1,G06F|G06T
+11507641,2022-11-22,Temperature-based adjustments for in-memory matrix multiplication,0,G01K|G06F|G06N|G11C
+11507527,2022-11-22,Active bridge chiplet with integrated cache,1,G06F|G06T
+11507522,2022-11-22,Memory request priority assignment techniques for parallel processors,0,G06F|Y02D
+11507519,2022-11-22,Data compression and encryption based on translation lookaside buffer evictions,0,G06F|G09C
+11507517,2022-11-22,Scalable region-based directory,0,G06F
+11507380,2022-11-22,Branch confidence throttle,1,G06F
+11507158,2022-11-22,Electrical design current throttling,0,G06F|Y02D
+11503310,2022-11-15,Method and apparatus for an HDR hardware processor inline to hardware encoder and decoder,0,G06T|G09G|H04N
+11503295,2022-11-15,Region-based image compression and decompression,0,G06T|H04N
+11500778,2022-11-15,Prefetch kernels on data-parallel processors,0,G06F|Y02D
+11496241,2022-11-08,Method and apparatus for data transmission mitigating interwire crosstalk,0,H03M|H04L
+11495588,2022-11-08,Circuit board with compact passive component arrangement,0,H01G|H01L|H05K|Y02P
+11495535,2022-11-08,Fuses to measure electrostatic discharge during die to substrate or package assembly,0,H01L|H10D
+11495478,2022-11-08,Uninhibited cooling path solution for active thermal control in device testing,0,F27B|G01R|H01L
+11494592,2022-11-08,Tiling format for convolutional neural networks,1,G06F|G06N|G06V
+11494316,2022-11-08,Memory controller with a plurality of command sub-queues and corresponding arbiters,0,G06F
+11494300,2022-11-08,Page table walker with page table entry (PTE) physical address prediction,0,G06F|Y02D
+11494211,2022-11-08,Domain identifier and device identifier translation by an input-output memory management unit,0,G06F
+11494192,2022-11-08,Pipeline including separate hardware data paths for different instruction types,0,G06F
+11494087,2022-11-08,Tolerating memory stack failures in multi-stack systems,1,G06F
+11488922,2022-11-01,Back side metallization,0,C23C|H01L
+11488654,2022-11-01,Memory row recording for mitigating crosstalk in dynamic random access memory,1,G06F|G11C
+11488343,2022-11-01,Mechanism for supporting discard functionality in a ray tracing context,0,G06T
+11488328,2022-11-01,Automatic data format detection,0,G06F|G06T|H04N
+11487671,2022-11-01,GPU cache management based on locality type detection,0,G06F
+11487605,2022-11-01,Preemptive signal integrity control,0,G06F
+11487447,2022-11-01,Hardware-software collaborative address mapping scheme for efficient processing-in-memory systems,1,G06F
+11487340,2022-11-01,Probe filter retention based low power state,2,G06F|Y02D
+11483209,2022-10-25,Forward progress mechanisms for a communications network having multiple nodes,0,H04L
+11481967,2022-10-25,Shader core instruction to invoke depth culling,0,G06F|G06T
+11481953,2022-10-25,Command processor based multi dispatch scheduler,0,G06F|G06T
+11481637,2022-10-25,Configuring computational elements for performing a training operation for a generative adversarial network,1,G06N
+11481331,2022-10-25,Promoting prefetched data from a cache memory to registers in a processor,0,G06F
+11481256,2022-10-25,Task graph scheduling for workload processing,0,G06F|G06T|Y02D
+11481250,2022-10-25,Cooperative workgroup scheduling and context prefetching based on predicted modification of signal values,0,G06F
+11481216,2022-10-25,Atomic operations in a large scale distributed computing network,0,G06F
+11480672,2022-10-25,Dual purpose millimeter wave frequency band transmitter,1,G01S|G02B|H04N
+11475305,2022-10-18,Activation function functional block for electronic devices,1,G06F|G06N|G06V
+11474942,2022-10-18,Supporting responses for memory types with non-uniform latencies on same channel,0,G06F|G11C
+11474746,2022-10-18,Refresh management for DRAM,0,G06F|G11C
+11474703,2022-10-18,Memory system with region-specific memory access scheduling,0,G06F|G11C|Y02D
+11470004,2022-10-11,Graded throttling for network-on-chip traffic,0,H04L
+11469212,2022-10-11,Semiconductor chip with redundant thru-silicon-vias,0,H01L
+11469183,2022-10-11,Multirow semiconductor chip connections,0,H01L
+11468001,2022-10-11,Processing-in-memory concurrent processing system and method,3,G06F|Y02D
+11467937,2022-10-11,Configuring cache policies for a cache based on combined cache policy testing,0,G06F
+11467870,2022-10-11,VMID as a GPU task container for virtualization,1,G06F|G06T
+11467838,2022-10-11,Fastpath microcode sequencer,0,G06F
+11467812,2022-10-11,Compiler operations for heterogeneous code objects,1,G06F
+11467650,2022-10-11,Selecting a low power state in an electronic device,0,G06F|Y02D
+11461137,2022-10-04,Distributed user mode processing,0,G06F
+11461045,2022-10-04,Platform agnostic atomic operations,0,G06F|G11C
+11460879,2022-10-04,System and method for controlling electrical current supply in a multi-processor core system via instruction per cycle reduction,1,G06F|Y02D
+11455766,2022-09-27,Variable precision computing system,0,A63F|G06T|G09G
+11455252,2022-09-27,Multi-class multi-label classification using clustered singular decision trees for hardware adaptation,0,G06F|G06N
+11455251,2022-09-27,Enhanced durability for systems on chip (SOCs),2,G06F
+11455153,2022-09-27,Dynamic instances semantics,0,G06F
+11455025,2022-09-27,Power state transitions,0,G06F|H01L|Y02D
+11451241,2022-09-20,Setting values of portions of registers based on bit values,0,G06F|H03M
+11449346,2022-09-20,System and method for providing system level sleep state power savings,0,G06F|Y02D
+11443051,2022-09-13,Secure computer vision processing,0,G06F|G06V
+11442727,2022-09-13,Controlling prediction functional blocks used by a branch predictor in a processor,0,G06F
+11442495,2022-09-13,Separate clocking for components of a graphics processing unit,0,G06F|Y02D
+11437359,2022-09-06,Offset-aligned three-dimensional integrated circuit,0,H01L
+11437316,2022-09-06,Folded cell layout for 6T SRAM cell,0,G11C|H01L|H10B|H10D
+11436486,2022-09-06,Neural network internal data fast access memory buffer,0,G06F|G06N|Y02D
+11436114,2022-09-06,Automatic part testing,0,G06F
+11436060,2022-09-06,Proactive management of inter-GPU network links,0,G06F|G06N|Y02D
+11436016,2022-09-06,Techniques for improving operand caching,0,G06F
+11435987,2022-09-06,Optimizing runtime alias checks,0,G06F
+11435813,2022-09-06,Neural network power management in a multi-GPU system,3,G06F|G06N|G06T|Y02D
+11435806,2022-09-06,Automatic voltage reconfiguration,0,G01R|G06F|Y02D
+11431872,2022-08-30,Buffer management for plug-in architectures in computation graph structures,0,G06F|G06T|H04N
+11429462,2022-08-30,Method and apparatus for peer-to-peer messaging in heterogeneous machine clusters,0,G06F
+11429281,2022-08-30,Speculative hint-triggered activation of pages in memory,0,G06F
+11424336,2022-08-23,Gate contact over active region in cell,0,H01L|H10D
+11422935,2022-08-23,Direct mapping mode for associative cache,0,G06F|Y02D
+11422812,2022-08-23,Method and apparatus for efficient programmable instructions in computer systems,1,G06F
+11422707,2022-08-23,Scheduling memory requests for a ganged memory device,1,G06F
+11418797,2022-08-16,Multi-plane transmission,0,H04N
+11418187,2022-08-16,Low voltage power on reset circuit,0,G06F|H03K
+11417151,2022-08-16,Adaptive rolling shutter image sensor and IR emitter control for facial recognition,0,G06V|H04N
+11416419,2022-08-16,Method and apparatus for protecting a memory from a write attack,1,G06F
+11416323,2022-08-16,Defense mechanism for non-volatile memory based main memory,1,G06F|G11C
+11416256,2022-08-16,Selectively performing ahead branch prediction based on types of branch instructions,1,G06F
+11416253,2022-08-16,Multiple-table branch target buffer,0,G06F
+11409840,2022-08-09,Dynamically adaptable arrays for vector and matrix operations,1,G06F|Y02D
+11409608,2022-08-09,Providing host-based error detection capabilities in a remote execution device,0,G06F
+11409536,2022-08-09,Pairing SIMD lanes to perform double precision operations,0,G06F
+11403729,2022-08-02,Dynamic transparent reconfiguration of a multi-tenant graphics processing unit,0,G06F|G06T
+11403221,2022-08-02,Memory access response merging in a memory hierarchy,0,G06F
+11398980,2022-07-26,Packet router with virtual channel hop buffer control,1,H04L|Y02D
+11398856,2022-07-26,Beamforming techniques to choose transceivers in a wireless mesh network,1,H04B|H04L|H04W
+11398831,2022-07-26,Temporal link encoding,0,G06N|H03M|H04L
+11397691,2022-07-26,Latency hiding for caches,0,G06F
+11397578,2022-07-26,Selectively dispatching waves based on accumulators holding behavioral characteristics of waves currently executing,0,G06F
+11394396,2022-07-19,Lossless machine learning activation value compression,0,G06N|H03M
+11393697,2022-07-19,Semiconductor chip gettering,0,H01L|H10D
+11393157,2022-07-19,Robust ray-triangle in intersection,0,G06F|G06T
+11393156,2022-07-19,Partially resident bounding volume hierarchy,0,G06F|G06T
+11392508,2022-07-19,Lightweight address translation for page migration and duplication,0,G06F
+11392441,2022-07-19,Error reporting for non-volatile memory modules,0,G06F|G11C
+11386520,2022-07-12,Redundancy method and apparatus for shader column repair,0,G06T|G09G
+11386518,2022-07-12,Exception handler for sampling draw dispatch identifiers,0,G06F|G06T
+11385983,2022-07-12,Hardware assisted memory profiling aggregator,0,G06F
+11381825,2022-07-05,Variable rate rendering based on motion estimation,0,G06T|H04N
+11379942,2022-07-05,Computational sensor,0,G06T|H04N
+11379941,2022-07-05,Primitive shader,0,G06T
+11379388,2022-07-05,Credit scheme for multi-queue memory controllers,2,G06F
+11379234,2022-07-05,Store-to-load forwarding,0,G06F
+11372720,2022-06-28,Systems and methods for encoding metadata,0,G06F
+11367628,2022-06-21,Molded chip package with anchor structures,0,H01L
+11362673,2022-06-14,Entropy agnostic data encoding and decoding,0,G06F|H03M
+11360891,2022-06-14,Adaptive cache reconfiguration via clustering,0,G06F
+11360541,2022-06-14,Programmable voltage regulation for data processor,0,G05F|G06F|H03K|Y02D
+11360504,2022-06-14,Adaptable voltage margin for a processor,0,G06F|Y02D
+11356093,2022-06-07,Even/odd die aware signal distribution in stacked die device,0,H03K|H04L
+11354788,2022-06-07,Overlapped curve mapping for histogram-based local tone and local contrast,1,G06T|G09G
+11347925,2022-05-31,Power grid architecture and optimization with EUV lithography,0,G06F|H01L|H10D
+11347827,2022-05-31,Hybrid matrix multiplication pipeline,0,G06F|G06N
+11347650,2022-05-31,Word type/boundary propagation with memory performance applications,0,G06F
+11347486,2022-05-31,Compiler-initiated tile replacement to enable hardware acceleration resources,1,G06F
+11347289,2022-05-31,Enabling performance features for voltage limited processors,0,G06F|Y02D
+11343438,2022-05-24,Instant auto exposure control with multiple cameras,1,H04N
+11343436,2022-05-24,Half-shield phase detection auto-focus sensor for auto-exposure convergence,1,H04N
+11342933,2022-05-24,Lossy significance compression with lossy restoration,1,G06F|G06N|H03M
+11341069,2022-05-24,Distributed interrupt priority and resolution of race conditions,0,G06F
+11341059,2022-05-24,Using multiple memory elements in an input-output memory management unit for performing virtual address to physical address translations,0,G06F|Y02D
+11340786,2022-05-24,Apparatus and methods for synchronizing a plurality of double data rate memory ranks,0,G06F|G11C|Y02D
+11335052,2022-05-17,Hybrid render with deferred primitive batch binning,0,G06T
+11334384,2022-05-17,Scheduler queue assignment burst mode,1,G06F
+11321903,2022-05-03,Bounding volume hierarchy compression,0,G06T
+11321245,2022-05-03,Selecting cache aging policy for prefetches based on cache test regions,0,G06F
+11321241,2022-05-03,Techniques to improve translation lookaside buffer reach by leveraging idle resources,0,G06F|Y02D
+11315883,2022-04-26,Integrated circuit product customizations for identification code visibility,0,H01L
+11314646,2022-04-26,Region based split-directory scheme to adapt to large cache sizes,1,G06F
+11309911,2022-04-19,Semi-sorting compression with encoding and decoding tables,1,G06F|H03M
+11309222,2022-04-19,Semiconductor chip with solder cap probe test pads,0,H01L
+11308648,2022-04-19,Compressing texture data on a per-channel basis,2,G06T|H04N
+11308057,2022-04-19,System and method for multiplexer tree indexing,0,G06F
+11307993,2022-04-19,Dynamic remapping of virtual address ranges using remap vector,0,G06F
+11307631,2022-04-19,Dynamic voltage frequency scaling based on active memory barriers,0,G06F|G11C|Y02D
+11301410,2022-04-12,Tags for request packets on a network communication link,1,G06F|H04L
+11301256,2022-04-12,System and method for page-conscious GPU instruction,0,G06F
+11295507,2022-04-05,Spatial partitioning in a multi-tenancy graphics processing unit,2,G06F|G06T
+11294810,2022-04-05,Memory request throttling to constrain memory bandwidth utilization,1,G06F
+11294747,2022-04-05,Self-regulating power management for a neural network system,0,G06F|G06N|G06V|Y02D
+11294724,2022-04-05,Shared resource allocation in a multi-threaded microprocessor,0,G06F
+11294710,2022-04-05,Thread switch for accesses to slow memory,0,G06F
+11294678,2022-04-05,Scheduler queue assignment,0,G06F
+11290515,2022-03-29,Real-time and low latency packetization protocol for live compressed video data,0,H04L
+11289131,2022-03-29,Dynamic control of multi-region fabric,0,G06F|G11C|Y02D
+11288205,2022-03-29,Access log and address translation log for a processor,0,G06F
+11288095,2022-03-29,Enhanced atomics for workgroup synchronization,0,G06F
+11284096,2022-03-22,Methods and apparatus for decoding video using re-ordered motion vector buffer,0,H04N
+11283589,2022-03-22,Deskewing method for a physical layer interface on a multi-chip module,0,H04L
+11281592,2022-03-22,Dynamic banking and bit separation in memories,0,G06F|G11C|Y02D
+11281495,2022-03-22,Trusted memory zone,0,G06F
+11281470,2022-03-22,Argmax use for machine learning,1,G06F|G06N
+11281466,2022-03-22,Register renaming after a non-pickable scheduler queue,0,G06F
+11281280,2022-03-22,Reducing chiplet wakeup latency,0,G06F|Y02D
+11277922,2022-03-15,Circuit board with bridge chiplets,0,H01L|H05K
+11276223,2022-03-15,Merged data path for triangle and box intersection test in ray tracing,0,G06F|G06T
+11276211,2022-03-15,Integration of variable rate shading and super-sample shading,0,G06T
+11275829,2022-03-15,Mechanism for throttling untrusted interconnect agents,0,G06F|H04L
+11275688,2022-03-15,Transfer of cachelines in a processing system based on transfer costs,0,G06F
+11275632,2022-03-15,Broadcast command and response,0,G06F|G06N
+11275613,2022-03-15,Enforcing central processing unit quality of service guarantees when servicing accelerator requests,1,G06F|Y02D
+11275612,2022-03-15,Method for matrix data broadcast in parallel processing,1,G06F
+11275586,2022-03-15,Task graph generation for workload processing,0,G06F|Y02D
+11275558,2022-03-15,Sorting instances of input data for processing through a neural network,0,G06F|G06N
+11275430,2022-03-15,Power management advisor to support power management control,0,G06F|G06N|Y02D
+11272146,2022-03-08,Content adaptive lens shading correction method and apparatus,0,H04N
+11264998,2022-03-01,Reference free and temperature independent voltage-to-digital converter,1,G01R|G06F|H03L
+11264115,2022-03-01,Integrated circuit memory with built-in self-test (BIST),0,G06F|G11C
+11263044,2022-03-01,Workload-based clock adjustment at a processing unit,0,G06F|G06T|Y02D
+11262989,2022-03-01,Automatic generation of efficient vector code with low overhead in a time-efficient manner independent of vector width,0,G06F
+11262949,2022-03-01,Command throughput in PIM-enabled memory using available data bus bandwidth,0,G06F|G11C
+11262924,2022-03-01,Automatic memory overclocking,6,G06F|G11C
+11257273,2022-02-22,Data output rate with variable rate shading,0,G06T
+11256522,2022-02-22,Loader and runtime operations for heterogeneous code objects,0,G06F
+11256505,2022-02-22,Using loop exit prediction to accelerate or suppress loop mode of a processor,1,G06F|Y02D
+11252430,2022-02-15,Exploiting camera depth information for video encoding,0,H04N
+11249765,2022-02-15,Performance for GPU exceptions,0,G06F|G06T
+11243904,2022-02-08,System and method for scheduling instructions in a multithread SIMD architecture with a fixed number of registers,0,G06F
+11243884,2022-02-08,Control flow guided lock address prefetch and filtering,0,G06F
+11243799,2022-02-08,Adaptive world switching,0,G06F
+11243752,2022-02-08,Multi-version shaders,0,G06F|G06T
+11238640,2022-02-01,Early culling for ray tracing,1,G06T
+11237972,2022-02-01,Method and apparatus for controlling cache line storage in cache memory,0,G06F|Y02D
+11237928,2022-02-01,"Method for a reliability, availability, and serviceability-conscious huge page support",1,G06F
+11237827,2022-02-01,Arithemetic logic unit register sequencing,0,G06F
+11237220,2022-02-01,"Linear, low-latency power supply monitor",0,G01R|G06F|G11C|H03K
+11233510,2022-01-25,In memory logic functions using memory arrays,1,G06F|G11C|H03K
+11232622,2022-01-25,Data flow in a distributed graphics processing unit architecture,1,G06F|G06T
+11232039,2022-01-25,Cache for storing regions of data,0,G06F|G06N
+11231962,2022-01-25,Heterogeneous parallel primitives programming model,1,G06F
+11231931,2022-01-25,Mechanism for mitigating information leak via cache side channels during speculative execution,8,G06F
+11227214,2022-01-18,Memory bandwidth reduction techniques for low power convolutional neural network inference applications,2,G06F|G06N
+11226900,2022-01-18,Using a bloom filter to reduce the number of memory addressees tracked by a coherence directory,0,G06F
+11226819,2022-01-18,Selective prefetching in multithreaded processing units,0,G06F
+11223575,2022-01-11,Re-purposing byte enables as clock enables for power savings,0,G06F|H04L|H04Q|Y02D
+11222685,2022-01-11,Refresh management for DRAM,2,G06F|G11C
+11221902,2022-01-11,Error handling for resilient software,0,G06F|G11C
+11221772,2022-01-11,Self refresh state machine mop array,1,G06F|G11C|Y02D
+11216378,2022-01-04,Techniques for handling cache coherency traffic for contended semaphores,0,G06F
+11216373,2022-01-04,Memory access commands with near-memory address generation,0,G06F|G11C|Y02D
+11216279,2022-01-04,Loop exit predictor,0,G06F
+11216250,2022-01-04,"Dynamic, variable bit-width numerical precision on field-programmable gate arrays for machine learning tasks",1,G06F|G06N|H03K
+11216052,2022-01-04,Modifying an operating state of a processing unit based on waiting statuses of blocks,0,G06F|G06N|Y02D
+11212537,2021-12-28,Side information for video data transmission,0,H04N
+11211332,2021-12-28,Molded die last chip combination,0,H01L
+11211330,2021-12-28,Standard cell layout architectures and drawing styles for 5nm and beyond,0,G06F|H01L|H10D
+11210757,2021-12-28,GPU packet aggregation system,0,G06F|G06T|H04L
+11210248,2021-12-28,System direct memory access engine offload,0,G06F
+11210246,2021-12-28,Probe interrupt delivery,0,G06F|Y02D
+11210234,2021-12-28,Cache access measurement deskew,0,G06F
+11209899,2021-12-28,High dynamic range for head-mounted display device,0,G02B|G06F|G09G|H04N
+11204871,2021-12-21,System performance management using prioritized compute units,0,G06F
+11201104,2021-12-14,Thermal management using variation of thermal resistance of thermal interface,0,H01L
+11200724,2021-12-14,Texture processor based ray tracing acceleration method and system,0,G06T
+11200106,2021-12-14,Data integrity for persistent memory systems and the like,1,G06F|H03M
+11200060,2021-12-14,Broadcast synchronization for dynamically adaptable arrays,1,G06F|G06T
+11196657,2021-12-07,Self identifying interconnect topology,0,G06F|H04L|Y02D
+11195326,2021-12-07,Method and system for depth pre-processing and geometry sorting using binning hardware,0,G06T
+11194740,2021-12-07,System and method for application migration for a dockable device,2,G06F|Y02D
+11194634,2021-12-07,Apparatus and method for providing workload distribution of threads among multiple compute units,0,G06F|H04L|H04N|Y02D
+11194583,2021-12-07,Speculative execution using a page-level tracked load order queue,0,G06F
+11194382,2021-12-07,Speculative exit from power down mode of a dynamic random access memory rank,0,G06F|G11C|Y02D
+11189569,2021-11-30,Power grid layout designs for integrated circuits,2,G06F|H01L|H10D
+11189540,2021-11-30,Arrangement and thermal management of 3D stacked dies,0,H01L
+11188640,2021-11-30,Platform firmware isolation,3,G06F
+11188406,2021-11-30,Detecting execution hazards in offloaded operations,2,G06F|Y02D
+11182306,2021-11-23,Dynamic application of software data caching hints based on cache test regions,1,G06F|Y02D
+11182292,2021-11-23,Multi-bank cache,0,G06F|G06T
+11182186,2021-11-23,Hang detection for virtualized accelerated processing device,0,G06F
+11181579,2021-11-23,Performing scan data transfer inside multi-die package with SERDES functionality,2,G01R|G06F
+11176986,2021-11-16,"Memory context restore, reduction of boot time of a system on a chip by reducing double data rate memory training",1,G06F|G11C|Y02D
+11175946,2021-11-16,Pipelined matrix multiplication at a graphics processing unit,0,G06F|G06N|G06T
+11175916,2021-11-16,System and method for a lightweight fencing operation,3,G06F
+11170462,2021-11-09,Indirect chaining of command buffers,0,G06F|G06T|G09G
+11169812,2021-11-09,Throttling while managing upstream resources,1,G06F
+11169811,2021-11-09,Graphics context bouncing,0,G06F|G06T
+11165749,2021-11-02,Assigning variable length address identifiers to packets in a processing system,0,H04L
+11164807,2021-11-02,Arrangement and thermal management of 3D stacked dies,0,H01L
+11163688,2021-11-02,System probe aware last level cache insertion bypassing,1,G06F
+11158112,2021-10-26,Bounding volume hierarchy generation,0,G06T
+11158106,2021-10-26,VRS rate feedback,2,G06T
+11157174,2021-10-26,"Hybrid first-fit K-choice insertions for hash tables, hash sets, approximate set membership data structures, and caches",0,G06F|H04L
+11151075,2021-10-19,Data communications with enhanced speed mode,0,G06F
+11150899,2021-10-19,Selecting a precision level for executing a workload in an electronic device,0,G06F|G06N
+11144473,2021-10-12,Quality of service for input/output memory management unit,0,G06F
+11144353,2021-10-12,Soft watermarking in thread shared resources implemented through thread mediation,0,G06F
+11144329,2021-10-12,Processor microcode with embedded jump table,0,G06F
+11144324,2021-10-12,Retire queue compression,1,G06F
+11144208,2021-10-12,Data compression system using base values and methods thereof,0,G06F|G06T|Y02D
+11140368,2021-10-05,Custom beamforming during a vertical blanking interval,1,H01Q|H04B|H04L|H04N|H04W
+11140107,2021-10-05,System and method of managing electronic meeting invitations,0,G06Q|H04L
+11138015,2021-10-05,Spatial pipelining of software reductions and scans,1,G06F
+11137941,2021-10-05,Command replay for non-volatile dual inline memory modules,3,G06F
+11137809,2021-10-05,Runtime localized cooling of high-performance processors,0,G06F|Y02D
+11132327,2021-09-28,Method and apparatus for physical layer bypass,0,G06F|Y02D
+11132300,2021-09-28,Memory hierarchy using page-based compression,0,G06F
+11132204,2021-09-28,Aggregated doorbells for unmapped queues in a graphics processing unit,0,G06F
+11120725,2021-09-14,Method and apparatus for color gamut mapping color gradient preservation,1,G09G|H04N
+11120190,2021-09-14,Metal zero power ground stub route to reduce cell area and improve cell placement at the chip level,2,G06F|H01L|H10D
+11119944,2021-09-14,Memory pools in a memory model for a unified computing system,1,G06F
+11119926,2021-09-14,Region based directory scheme to adapt to large cache sizes,1,G06F
+11119923,2021-09-14,Locality-aware and sharing-aware cache coherence for collections of processors,0,G06F|Y02D
+11119893,2021-09-14,Computing system with wireless debug code output,0,G06F
+11119665,2021-09-14,Dynamic voltage and frequency scaling based on memory channel slack,0,G06F|Y02D
+11119549,2021-09-14,Machine intelligence performance boost with energy reservoir,0,G06F|G06N
+11115693,2021-09-07,Source clock recovery in wireless video systems,2,H04H|H04N
+11113065,2021-09-07,Speculative instruction wakeup to tolerate draining delay of memory ordering violation check buffers,0,G06F
+11113061,2021-09-07,Register saving for function calling,0,G06F
+11113056,2021-09-07,Techniques for performing store-to-load forwarding,0,G06F
+11112926,2021-09-07,User interface system for display scaling events,1,G06F|G06T|G09G
+11108382,2021-08-31,Oscillator calibration,1,G06F|H03K|H03L
+11106600,2021-08-31,Cache replacement based on translation lookaside buffer evictions,0,G06F
+11106596,2021-08-31,Configurable skewed associativity in a translation lookaside buffer,0,G06F
+11106594,2021-08-31,Quality of service dirty line tracking,1,G06F
+11100604,2021-08-24,Multiple application cooperative frame-based GPU scheduling,1,G06F|G06T
+11100004,2021-08-24,Shared virtual address space for heterogeneous processors,0,G06F
+11099846,2021-08-24,Apparatus and method for resynchronization prediction with variable upgrade and downgrade capability,0,G06F
+11099788,2021-08-24,Near-memory data reduction,0,G06F|G06N|H03M
+11099786,2021-08-24,Signaling for heterogeneous memory systems,0,G06F
+11095910,2021-08-17,Bandwidth saving architecture for scalable video coding,0,H04N
+11093676,2021-08-17,Method of debugging a processor,0,G06F
+11093580,2021-08-17,Matrix multiplier with submatrix sequencing,1,G06F|Y02D
+11087170,2021-08-10,Deliberate conditional poison training for generative models,5,G06F|G06N|G06V
+11086809,2021-08-10,Data transfer acceleration,0,G06F
+11086628,2021-08-10,System and method for load and store queue allocations at address generation time,0,G06F
+11080927,2021-08-03,Method and apparatus of cross shader compilation,0,G06F|G06T
+11074075,2021-07-27,Wait instruction for preventing execution of one or more instructions until a load counter or store counter reaches a specified value,0,G06F
+11073995,2021-07-27,Implementing scalable memory allocation using identifiers that return a succinct pointer representation,0,G06F
+11073888,2021-07-27,Platform power manager for rack level power and thermal constraints,0,G06F|Y02D
+11068458,2021-07-20,Mechanism for distributed-system-aware difference encoding/decoding in graph analytics,0,G06F|H03M
+11068368,2021-07-20,Automatic part testing,0,G06F
+11064019,2021-07-13,Dynamic configuration of inter-chip and on-chip networks in cloud computing system,0,H04L
+11062680,2021-07-13,Raster order view,0,G06F|G06T|G09G
+11061753,2021-07-13,Platform first error handling,1,G06F
+11061583,2021-07-13,Setting durations for which data is stored in a non-volatile memory based on data types,0,G06F
+11061572,2021-07-13,Memory object tagged memory monitoring method and system,0,G06F
+11061429,2021-07-13,Fine-grained speed binning in an accelerated processing device,0,G01R|G06F|G11C|H03K|Y02D
+11055895,2021-07-06,Shader merge for reduced divergence,3,G06F|G06T
+11055806,2021-07-06,Method and apparatus for directing application requests for rendering,0,G06T
+11055150,2021-07-06,Fast thread wake-up through early lock release,0,G06F
+11055098,2021-07-06,Branch target buffer with early return prediction,0,G06F
+11054887,2021-07-06,System-wide low power management,2,G06F|Y02D
+11054883,2021-07-06,Power efficiency optimization in throughput-based workloads,0,G06F|Y02D
+11049794,2021-06-29,Circuit board with phase change material,2,H01L|H05K
+11048506,2021-06-29,Tracking stores and loads by bypassing load store units,2,G06F
+11043010,2021-06-22,Real time on-chip texture decompression using shader processors,1,G06F|G06T
+11042495,2021-06-22,Providing interrupts from an input-output memory management unit to guest operating systems,0,G06F
+11042484,2021-06-22,Targeted per-line operations for remote scope promotion,0,G06F
+11037357,2021-06-15,Pixelation optimized delta color compression,1,G06T
+11036658,2021-06-15,Light-weight memory expansion in a coherent memory system,1,G06F
+11036505,2021-06-15,Store-to-load forwarding,0,G06F
+11030791,2021-06-08,Centroid selection for variable rate shading,0,G06T
+11030135,2021-06-08,Method and apparatus for power reduction for data movement,0,G06F|Y02D
+11030117,2021-06-08,Protecting host memory from access by untrusted accelerators,1,G06F
+11030095,2021-06-08,Virtual space memory bandwidth reduction,2,G06F|G06N|G06T
+11029852,2021-06-08,Dedicated interface for coupling flash memory and dynamic random access memory,1,G06F|G11C
+11025934,2021-06-01,Methods and apparatus for decoding video using re-ordered motion vector buffer,0,H04N
+11023410,2021-06-01,Instructions for performing multi-line memory accesses,0,G06F
+11023242,2021-06-01,Method and apparatus for asynchronous scheduling,0,G06F
+11023241,2021-06-01,Systems and methods for selectively bypassing address-generation hardware in processor instruction pipelines,0,G06F
+11018125,2021-05-25,Multi-chip package with offset 3D structure,0,H01L
+11016763,2021-05-25,Implementing a micro-operation cache with compaction,4,G06F|Y02D
+11016555,2021-05-25,Control of performance levels of different types of processors via a user interface,0,G06F|Y02D
+11011495,2021-05-18,Multiple-die integrated circuit with integrated voltage regulator,0,G06F|H01L|H02M
+11011466,2021-05-18,Integrated circuit package with integrated voltage regulator,1,H01F|H01L
+11010862,2021-05-18,Reduced bandwidth tessellation factors,4,G06F|G06T
+11004791,2021-05-11,Semiconductor chip with stacked conductor lines and air gaps,1,H01L
+11004258,2021-05-11,Combined world-space pipeline shader stages,0,G06T
+11004251,2021-05-11,Automatic configuration of knobs to optimize performance of a graphics pipeline,0,G06T
+11003588,2021-05-11,Networked input/output memory management unit,0,G06F
+10991146,2021-04-27,Residency map descriptors,1,G06T
+10990453,2021-04-27,Improving latency by performing early synchronization operations in between sets of program operations of a thread,0,G06F
+10990393,2021-04-27,Address-based filtering for load/store speculation,0,G06F
+10990120,2021-04-27,Low latency FIFO with auto sync,1,G06F
+10985097,2021-04-20,Interposer-based damping resistor,0,H01L|Y10T
+10984838,2021-04-20,Interconnect architecture for three-dimensional processing systems,0,G06F|G11C
+10983915,2021-04-20,Flexible dictionary sharing for compressed caches,3,G06F|H03M
+10979704,2021-04-13,Methods and apparatus for optical blur modeling for improved video encoding,0,H04N
+10972752,2021-04-06,Stereoscopic interleaved compression,0,H04N
+10970120,2021-04-06,Method and system for opportunistic load balancing in neural networks using metadata,1,G06F|G06N
+10970118,2021-04-06,Shareable FPGA compute engine,0,G06F
+10970081,2021-04-06,Stream processor with decoupled crossbar for cross lane operations,0,G06F
+10963402,2021-03-30,Using age matrices for managing entries in sub-queues of a queue,2,G06F
+10963309,2021-03-30,Network interface controller-based scheduling of processing tasks in a distributed computing system,0,G06F
+10963299,2021-03-30,Hardware accelerated dynamic work creation on a graphics processing unit,1,G06F
+10963280,2021-03-30,Hypervisor post-write notification of control and debug register updates,2,G06F
+10959111,2021-03-23,Virtual reality beamforming,3,H04B|H04W
+10957669,2021-03-23,Back side metallization,0,C23C|H01L
+10957094,2021-03-23,Hybrid render with preferred primitive batch binning and sorting,0,G06T
+10956536,2021-03-23,Device and method for accelerating matrix multiply operations,0,G06F
+10956339,2021-03-23,System and method for storing cache location information for cache entry transfer,0,G06F|Y02D
+10956332,2021-03-23,Retaining cache entries of a processor core during a powered-down state,0,G06F|Y02D
+10956163,2021-03-23,Processor support for hardware transactional memory,1,G06F
+10956157,2021-03-23,Taint protection during speculative execution,1,G06F
+10956044,2021-03-23,Memory system with region-specific memory access scheduling,2,G06F|G11C|Y02D
+10955901,2021-03-23,Saving power in the command processor using queue based watermarks,1,G06F|Y02D
+10955892,2021-03-23,Transition into and out of a partially-off power state,1,G06F|Y02D
+10955884,2021-03-23,Method and apparatus for managing power in a thermal couple aware system,1,G06F|Y02D
+10951892,2021-03-16,Block level rate control,0,H04N
+10950292,2021-03-16,Method and apparatus for mitigating row hammer attacks,11,G06F|G11C
+10949201,2021-03-16,Processor with accelerated lock instruction operation,1,G06F
+10949127,2021-03-16,Dynamic memory traffic optimization in multi-client systems,0,G06F|Y02D
+10944693,2021-03-09,Routing flits in a network-on-chip based on operating states of routers,1,H04L
+10944422,2021-03-09,Entropy agnostic data encoding and decoding,1,G06F|H03M
+10944368,2021-03-09,Offset correction for pseudo differential signaling,0,H03F|H04L
+10943880,2021-03-09,Semiconductor chip with reduced pitch conductive pillars,2,H01L
+10943391,2021-03-09,Graphics texture footprint discovery,0,G06F|G06T
+10943389,2021-03-09,Removing or identifying overlapping fragments after z-culling,0,G06T
+10938709,2021-03-02,Mechanism for dynamic latency-bandwidth trade-off for efficient broadcasts/multicasts,0,H04L
+10938559,2021-03-02,Security key identifier remapping,0,G06F|H04L
+10938503,2021-03-02,Video codec data recovery techniques for lossy wireless links,0,G06T|H04B|H04L|H04N
+10937755,2021-03-02,Bond pads for low temperature hybrid bonding,28,H01L
+10936697,2021-03-02,Optimized and scalable sparse triangular linear systems on networks of accelerators,0,G06F
+10936533,2021-03-02,GPU remote communication with triggered operations,4,G06F|H04L
+10930621,2021-02-23,Die stacking for multi-tier 3D integration,0,H01L
+10930050,2021-02-23,Mechanism for supporting discard functionality in a ray tracing context,7,G06T
+10929944,2021-02-23,Low power and low latency GPU coprocessor for persistent computing,1,G06F|G06T|Y02D
+10929141,2021-02-23,Selective use of taint protection during speculative execution,7,G06F
+10926056,2021-02-23,"Method, apparatus and system for mitigating motion sickness in a virtual reality environment",0,A61M|G06F|G06T
+10923430,2021-02-16,High density cross link die with polymer routing layer,3,H01L
+10922868,2021-02-16,Split frame rendering,0,G06F|G06T
+10922237,2021-02-16,Accelerating accesses to private regions in a region-based cache directory scheme,0,G06F
+10922230,2021-02-16,System and method for identifying pendency of a memory access request at a cache entry,0,G06F|Y02D
+10915330,2021-02-09,Pseudo-random logical to physical core assignment at boot for age averaging,0,G06F
+10915322,2021-02-09,Using loop exit prediction to accelerate or suppress loop mode of a processor,1,G06F|Y02D
+10909053,2021-02-02,Providing copies of input-output memory management unit registers to guest operating systems,0,G06F
+10908991,2021-02-02,Bit error protection in cache memories,0,G06F

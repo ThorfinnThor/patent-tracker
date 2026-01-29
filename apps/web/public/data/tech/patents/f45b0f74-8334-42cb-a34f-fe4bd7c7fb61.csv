@@ -1,0 +1,404 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430015,2025-09-30,"Image display apparatus including display controller and operation acceptance section, image display method therefor, and program therefor",0,A61B|G06F
+12423805,2025-09-23,"Image display apparatus, non-transitory computer readable storage medium storing control program, and image display system",0,A61B|G06T|G16H
+12417523,2025-09-16,"Dynamic imaging quality control device, storage medium for dynamic imaging quality control program, and dynamic imaging quality control method",0,A61B|G06T
+12413572,2025-09-09,"Authentication system, authentication method, and authentication program",0,H04L
+12406359,2025-09-02,"Medical information management apparatus, data structure of medical information, and storage medium",0,G06T|G16H
+12394184,2025-08-19,Data collection device and data collection method,0,G06N|G06T|G06V|G10L
+12387838,2025-08-12,"Failed-image decision support apparatus, failed-image decision support system, failed-image decision support method, and computer readable storage medium",0,A61B|G06T|G16H
+12373921,2025-07-29,Image processing apparatus and recording medium,0,A61B|G06T
+12370690,2025-07-29,"Posture determination method, computer-readable recording medium storing program, and component feeding apparatus",0,B25J|G06T
+12363235,2025-07-15,"Processing apparatus with multiple settings screens, setting system, setting method, and computer-readable information recording medium",0,H04N
+12360712,2025-07-15,"Image processing system for specifying countermeasures against errors, image forming system, information processing apparatus, inspection method, countermeasure specifying program, countermeasure specifying system, learning apparatus, and learning method",0,G03G|G06F|G06T|H04N
+12355923,2025-07-08,"Image forming device, image reading device, non-transitory recording medium storing computer-readable program, image forming method, and image processing device",0,G06F|H04N
+12354301,2025-07-08,"Abnormality handling data aggregating system, abnormality handling data aggregating method, and storage medium",0,G06T
+12347103,2025-07-01,"Learning apparatus, learning system, learning method of machine learning model, and storage medium",0,G06T|G16H
+12346617,2025-07-01,"Image processing apparatus, image processing system, control method, and non-transitory computer-readable recording medium",0,G06F
+12343192,2025-07-01,"Radiographing control apparatus, recording medium, and radiographing system",0,A61B|G06T
+12322516,2025-06-03,Storage medium and case search apparatus,0,G06F|G06V|G16H
+12315163,2025-05-27,Dynamic image analysis apparatus and storage medium,0,G06T|G06V
+12314618,2025-05-27,"Image inspection device, image forming system, and non-transitory storage medium comprising a hardware processor that executes continuity inspection of an identifier in an inspection region in a read image across a plurality of jobs",0,G06F
+12309332,2025-05-20,Image inspection system for print setting correction,0,G06T|H04N
+12308118,2025-05-20,"Information processing apparatus, information processing method, and recording medium",0,G06F|G06V|G16H
+12293500,2025-05-06,"Image inspection device, image forming device, and computer-readable recording medium storing a program",0,G06F|G06T|H04N
+12293264,2025-05-06,"Information processing system, information processing method and non-transitory recording medium",0,G06N
+12288333,2025-04-29,Image processing apparatus and image processing method,0,A61B|G06T
+12277702,2025-04-15,Radiographic failure determination support device and recording medium,0,G01T|G06T
+12276931,2025-04-15,Image formation apparatus and control method therefor,0,G03G|H04N
+12276622,2025-04-15,"State change tracking device, X-ray imaging system, state change tracking method of inspection target, and life estimating method of inspection target",0,G01N|G06T
+12261944,2025-03-25,Authentication system and method for controlling authentication system,0,H04L
+12260617,2025-03-25,"Object detection device, object detection method, program, and recording medium",0,G06F|G06N|G06T|G06V
+12257099,2025-03-25,"Mobile radiographic imaging apparatus, storage medium, and wireless communication method",0,A61B|H04W
+12253433,2025-03-18,"Gas monitoring device, method, and program",0,G01M|G06T|G08B
+12248717,2025-03-11,"Device, method, and non-transitory computer-readable recording medium with computer program for managing machine troubles, and image forming system with machine trouble management device",0,G06F
+12248540,2025-03-11,"Information processing device, system, and method for license verification",0,G06F
+12244770,2025-03-04,"Conferencing system, server, information processing device and non-transitory recording medium",0,H04M|H04N
+12243403,2025-03-04,"Safety monitoring device, safety monitoring method, and program",0,F16P|G01S|G06T|G06V|G08B|H04N
+12243217,2025-03-04,Data input device and storage medium for storing instructions,0,G01M|G06Q|G06T|G06V
+12242238,2025-03-04,"Data processing device, data processing method and recording medium",0,G01S|G05B|G06T
+12236598,2025-02-25,"Imaging support apparatus, radiation imaging system, and storage medium",0,G01T|G06T|H04N
+12236590,2025-02-25,Image display apparatus and storage medium,0,A61B|G06T|G09G
+12236576,2025-02-25,"Workpiece surface defect detection device and detection method, workpiece surface inspection system, and program",0,G06T
+12229455,2025-02-18,Image forming apparatus and image forming method for maintenance notification,0,G06F
+12219292,2025-02-04,"Remote-meeting system, remote-meeting method, and remote-meeting program",0,H04L|H04N
+12200175,2025-01-14,Image forming apparatus for performing image forming operation based on detected value from detector and at least one of first information that is not acquired based on the detected value or second information acquired outside the image forming apparatus,0,H04N
+12198797,2025-01-14,Information processing device and medical image system,0,G06N|G06T|G16H
+12198701,2025-01-14,Support method and computer readable storage medium,0,G06F|G06Q|G10L|H04N
+12198370,2025-01-14,Image forming apparatus for notifying a user that a different user operated the image forming apparatus when the user is detected,0,G06T|H04N
+12198369,2025-01-14,"Three-dimensional pose estimation method, program, recording medium and three-dimensional pose estimation device",0,G06T|G06V
+12193861,2025-01-14,"Radiographic image display device, radiographic image display method, and storage medium",0,A61B|G06F|H04N
+12192416,2025-01-07,Image processing system,0,B41M|G03G|G06T|H04N
+12192415,2025-01-07,Comparing read image data to corrective image data to determine if the read image data is appropriate for image formation,0,H04N
+12190507,2025-01-07,Image processing device and storage medium,0,A61B|G06T
+12177605,2024-12-24,"Remote conference system, output image control method, and output image control program",0,H04L|H04N
+12177601,2024-12-24,"Control apparatus, radiographic imaging system, control method, and recording medium",0,A61B|H04N
+12175725,2024-12-24,"Image processing device, image viewing system, image processing program, and image processing method",0,G06F|G06T|G06V
+12175660,2024-12-24,"Method, device, and program for obtaining information from tissue sections for pathological diagnosis support",0,A61B|G01N|G02B|G06T|G06V|G16H
+12174724,2024-12-24,"Method, recording medium, and apparatus for outputting information regarding printing interruption",0,G06F
+12164691,2024-12-10,"Skill acquisition assistance method, skill acquisition assistance system, and computer readable recording medium storing control program",0,G06F|G06Q
+12160554,2024-12-03,"Color image forming apparatus determining an ink correction amount for reducing ink bleeding, and color image forming method",0,B41J|H04N
+12155795,2024-11-26,"Image inspection apparatus, image inspection method, and non-transitory computer-readable medium used for image inspection which sets and displays an area from inspection",0,H04N
+12147185,2024-11-19,Image forming system including cutting processor that cuts sheets in accordance with different conditions,0,B41J|B65H|G03G|G06F
+12146812,2024-11-19,"Gas inspection management system, gas inspection management method, and instructions for gas inspection management",0,G01M|G06Q
+12141490,2024-11-12,"Image forming apparatus, method, and program",0,G06F
+12140552,2024-11-12,"Dynamic imaging quality control device, storage medium, and dynamic imaging quality control method",0,A61B|G01N|G06T
+12131468,2024-10-29,"Dynamic image analysis apparatus extracting specific frames including a detection target from a dynamic image, dynamic analysis system, and storage medium",0,A61B|G06T
+12131467,2024-10-29,"Image processing apparatus, radiographic imaging system, recording medium, and exposure index calculation method",0,G06T
+12120276,2024-10-15,Management method for managing image forming apparatus and management server for managing image forming apparatus,0,G06F|H04N
+12120274,2024-10-15,Image formation with increased productivity by determining surface state of medium conveying roller based on detected fluctuation range in roller driving load,0,H04N
+12118417,2024-10-15,"Image forming apparatus, image forming system, and control method that execute post-processing on a plurality of sheets",0,G06K|H04N
+12109059,2024-10-08,"Dynamic analysis system, correction apparatus, storage medium, and dynamic imaging apparatus",0,A61B|G06T
+12108006,2024-10-01,"Control device and image forming system, and computer readable recording medium storing control program",0,G06K|H04N
+12105879,2024-10-01,Operation input device and image forming device,0,G06F|H04N
+12100134,2024-09-24,"Reference image generating apparatus, image forming system, reference image generation method, and reference image generation program",0,G06F|G06T|H04N
+12094593,2024-09-17,"Medical image display system, medical image display terminal, and recording medium",0,G06T|G16H
+12094591,2024-09-17,"Medical image management apparatus, medical image management method, and recording medium",1,A61B|G06F|G16H
+12086315,2024-09-10,"Information processing apparatus, control method of information processing apparatus, and computer readable storage medium",0,G03G|G06F
+12078948,2024-09-03,"Parameter determination apparatus, image forming apparatus, post-processing apparatus, sheet feeding apparatus, and parameter determination method",0,G03G|H04N
+12076176,2024-09-03,Dynamic image processing apparatus and storage medium,0,A61B|G06T|G16H
+12073572,2024-08-27,"Image processing device, display control method, and recording medium",0,G06T
+12073129,2024-08-27,"Image forming apparatus, method for controlling image forming apparatus, and program for controlling image forming apparatus with color tone correction",0,G06F
+12069208,2024-08-20,"Image forming apparatus, type information processing method of recording medium, and program for identifying a cause of failure",0,H04N|Y02D
+12067316,2024-08-20,"Image forming apparatus, image data generating apparatus, and program",0,G06F
+12059302,2024-08-13,"Ultrasound diagnostic apparatus, ultrasound diagnostic method, non-transitory computer-readable recording medium storing program therein, and model training apparatus",0,A61B|G06N
+12056403,2024-08-06,"Image processing apparatus, image forming system, and recording medium for forming an image quality adjustment patch at a predetermined cycle",0,G06F|G06K
+12050117,2024-07-30,Inter-shaft distance measuring device and image forming apparatus,0,G01B|G01D|H04N
+12044600,2024-07-23,"Gas flow rate estimation device, gas flow rate estimation method, and gas flow rate estimation program",0,G01J|G01M|G06T
+12043513,2024-07-23,"Recording medium conveyance device, recording medium conveyance method and non-transitory computer-readable recording medium encoded with recording medium conveyance instructions",0,B65H|H04N
+12036058,2024-07-16,"Imaging control device, image management device, image management system, and storage medium",0,A61B|G06T|G16H
+12033371,2024-07-09,"Object detection device, object detection system, object detection method, program, and recording medium",0,G06F|G06T|G06V
+12032958,2024-07-09,Image forming device and program,0,G06F|H04N
+12028501,2024-07-02,"Control apparatus, color adjustment method, and storage medium",0,H04N
+12020447,2024-06-25,Image processing to obtain a still image with a high image quality by combining multiple frame images of a dynamic image,0,A61B|G06T
+12020424,2024-06-25,"Image inspection device for inspecting image, image forming apparatus for forming image, and program for inspection device",0,G06T|H04N
+12015745,2024-06-18,"Image processing apparatus capable of shortening a waiting time in executing of cooperative processing in cooperation with a server, cooperative processing execution method, and cooperative processing execution program",0,H04N
+12010280,2024-06-11,"Machine learning device, machine learning method, and machine learning program",0,G05B|G06N|H04N
+12001160,2024-06-04,Image forming system and abnormal sheet information display method,0,B41J|G03G|G06F|G06K|H04N
+11998380,2024-06-04,"Storage medium, dynamic analysis apparatus, and dynamic analysis system",0,A61B|G06T|G16H
+11995360,2024-05-28,"Control method, image processing apparatus, terminal device, and program",0,G06F|H04N
+11985289,2024-05-14,"Image forming apparatus, image reading apparatus,and calibration method for a plurality of imaging sensors",0,H04N
+11980500,2024-05-14,Ultrasound diagnostic apparatus,0,A61B|G06F|H04M
+11979535,2024-05-07,"Image reading apparatus, image reading method, and image reading program",0,H04N
+11972509,2024-04-30,"Local gonio-reflection characteristics-acquiring method, image processing method, image display method, and local gonio-reflection characteristics-acquiring apparatus",0,G01N|G06T|H04N
+11968346,2024-04-23,"Color correction apparatus, image forming apparatus, method of controlling color correction apparatus, and non-transitory recording medium storing computer readable program",0,H04N
+11967424,2024-04-23,"Information processing apparatus, information processing method, and recording medium",1,G06F|G06V|G16H
+11963811,2024-04-23,"Storage medium, dynamic analysis apparatus, and dynamic analysis system",0,A61B|G06T|G16H
+11954839,2024-04-09,"Leak source specification assistance device, leak source specification assistance method, and leak source specification assistance program",0,G01M|G06T
+11954383,2024-04-09,Image processing device,0,G06F|H04L
+11949841,2024-04-02,Image forming apparatus and control program therefor,0,H04N
+11949820,2024-04-02,Information processing and image analysis technique to inspect read image data of a formed image and detect a cycle of image defects or unevenness,1,G03G|G06T|H04N
+11947347,2024-04-02,"Maintenance management method, maintenance management device and maintenance management program",0,G01M|G05B|G06Q
+11943395,2024-03-26,"Image forming device, image reading device, non-transitory recording medium storing computer-readable program, image forming method, and image processing device",1,G06F|H04N
+11941305,2024-03-26,"Inspection apparatus, image forming system, inspection program, and inspection method",1,G06F|G06T|H04N
+11936819,2024-03-19,"Image inspection apparatus, system, method, and program product that combines a trial print and an area designated in a recording medium",0,G06T|H04N
+11930138,2024-03-12,"Management apparatus, system, and management method",0,H04N
+11924196,2024-03-05,Communication terminal and position detection system,0,A61B|G06F|G06K|H04L|H04W
+11922612,2024-03-05,Image forming system and method for detecting an abnormality,1,G06F|G06T|H04N
+11915418,2024-02-27,Image processing apparatus and image processing method,0,A61B|G06T
+11914119,2024-02-27,Ultraviolet optical system and light distribution measuring apparatus,0,G01J|G01M|G02B|H04N
+11909937,2024-02-20,"Processing system, processing apparatus, processing method, and storage medium",0,G06K|G06V|H04N
+11909932,2024-02-20,"Image forming apparatus, information processing apparatus, information collecting method, and recording medium",0,G06F|H04N|Y02D
+11907740,2024-02-20,"Method for creating RPA script data, method for executing RPA script data, terminal device, image processing apparatus, RPA script data, and program",0,G06F|G06Q
+11907594,2024-02-20,"Image forming apparatus, control method and computer-readable recording medium dividing a print job into a plurality of short jobs",0,G03G|G06F
+11902672,2024-02-13,"Flicker measurement device, flicker measurement method, flicker measurement program, flicker evaluation assistance device, flicker evaluation assistance method, and flicker evaluation assistance program",0,G01J|G09G|H04N
+11902474,2024-02-13,Image reading and forming apparatus with switchable background for image sensor and colorimeter,0,H04N
+11899999,2024-02-13,"Image forming apparatus, information processing terminal, method, and program",0,G06F
+11896418,2024-02-13,"Recording medium, moving image management apparatus, and moving image display system",0,A61B|G06T
+11895428,2024-02-06,"Control apparatus, radiographic imaging system, control method, and recording medium",0,A61B|H04N
+11889036,2024-01-30,Image forming system and method for determining setting of image forming system,0,H04N
+11882258,2024-01-23,"Color management device, color management method, and non-transitory recording medium storing computer readable program",0,H04N|Y02P
+11882250,2024-01-23,Image scanning device,0,G06F|G10L|H04N|H04R
+11880614,2024-01-23,"Information processing apparatus, productivity management method, and program",0,G06F
+11880153,2024-01-23,Image forming device,1,B65H|G03G|H04N
+11875075,2024-01-16,"Image forming apparatus, method, and program",0,G06F
+11869653,2024-01-09,"Information processing apparatus, medical information management system, and information processing method",0,G06F|G16H
+11856168,2023-12-26,Sheet conveyance apparatus and image forming apparatus,0,G03G|H04N
+11856163,2023-12-26,Image reading apparatus and image forming apparatus,0,H04N
+11849090,2023-12-19,"Image forming apparatus, correction method, and correction program",0,H04N
+11842808,2023-12-12,"Ultrasound diagnostic imaging training apparatus, ultrasound diagnostic imaging apparatus, identification model training method, non-transitory recording medium storing computer readable training program, and ultrasound diagnostic apparatus",0,A61B|G06F|G06N|G06V|G16H
+11838644,2023-12-05,Exposure record totalizer and radiography system,0,A61B|G01T|H04N
+11838469,2023-12-05,Image forming system and control method of the system,1,G03G|H04N
+11836313,2023-12-05,"Input device, input method, and image forming device having touchscreen with variable detection area",0,G06F|H04N
+11831848,2023-11-28,"Information processing apparatus, color management method and non-transitory computer-readable recording medium encoded with color management program",0,H04N
+11830492,2023-11-28,"Image processing apparatus, image forming apparatus, confidential information management method, and recording medium",0,G06F|G10L
+11825061,2023-11-21,"Image forming apparatus, method of controlling, and computer program product correcting an image forming condition based on color of formed image and medium under image, and color space reference data",0,H04N
+11825036,2023-11-21,"Image inspection device, computer-readable recording medium storing a program, and image forming device",1,G03G|G06F|H04N
+11823672,2023-11-21,"Voice-operated system, controller, computer-readable recording medium, and processing device",0,G06F|G10L|H04N
+11823416,2023-11-21,Search system,0,G06F|G06T
+11812161,2023-11-07,"Flicker measuring device, flicker measuring method, and flicker measuring program",0,G01M|G09G|H04N
+11810295,2023-11-07,"Dynamic image analysis apparatus, dynamic image analysis method, and storage medium",0,G06T
+11806181,2023-11-07,"Display system, display control device, and display control method",0,A61B|G06F
+11803970,2023-10-31,"Image judgment device, image judgment method, and storage medium",0,A61B|G06T|G06V
+11803714,2023-10-31,"Learning device, reader, and learning program",0,G06K|G06N
+11801027,2023-10-31,"Storage medium, dynamic analysis apparatus, and diagnosis supporting system",0,A61B|G06T|G16H
+11793659,2023-10-24,"Orthosis manufacturing system, system for generating correction data for manufacturing orthosis, and orthosis manufacturing method",0,A61B|A61F|B29C|B29L|B33Y|G06T|G16H
+11793479,2023-10-24,Radiography apparatus and radiography system,0,A61B|G16H|G16Z|H04N|H10F
+11792343,2023-10-17,"Image reading apparatus, image forming system, curl amount calculation method, and storage medium comprising a conveyor, a reader and a first hardwarte processor that calculates a blur amount of an extracted edge and calculates a curl amount of a sheet based on the calculated blur amount",0,B41J|G03G|H04N
+11774653,2023-10-03,"Wavelength conversion film, light-emitting member, authentication device, wristband type electronic apparatus and biometric device",1,C09B|C09K|G02B|G06F|G06V|H05B|H10K
+11769588,2023-09-26,"Radiography control apparatus, radiography system, display control method, and storage medium",0,A61B|G06F|G16H
+11769494,2023-09-26,Information processing apparatus and destination search method,0,G06F|G10L
+11769485,2023-09-26,"Job record specifying device, image processing apparatus, server, job record specifying method, and recording medium",0,G06F|G10L|H04N
+11748049,2023-09-05,"Control apparatus, control method, and storage medium that associate color conversion parameter with job",0,G06F|H04N
+11745497,2023-09-05,"Image reading device, image reading method, non-transitory recording medium storing computer readable program, and image formation device",0,B41J|H04N
+11744525,2023-09-05,Ultrasound diagnosis apparatus with enhanced image resolution,0,A61B|G06T|G16H
+11741155,2023-08-29,Search system,0,G06F|G06T|G06V
+11730907,2023-08-22,"Image analysis apparatus, image analysis system, and storage medium",0,A61B|A61M|G06T
+11729322,2023-08-15,"Voice operation system, voice operation method, and program",0,G10L|H04N
+11722609,2023-08-08,"Operation receiving apparatus, control method, image forming system, and recording medium that perform print setting based on voice and manual operations",0,G06F|G10L|H04N
+11722604,2023-08-08,"Image inspection apparatus, image inspection method, and non-transitory computer-readable medium for indicating areas to be inspected and areas exempt from inspection",0,H04N
+11721426,2023-08-08,"Ultrasound diagnostic apparatus, panoramic image generation method, and recording medium",0,A61B|G06T|G16H
+11721368,2023-08-08,"Radiographic image processing apparatus, radiographic image processing method, and storage medium",0,A61B|G11B|H04N
+11711475,2023-07-25,Automatic copy operation based on timing of detection of document and recoding medium,0,H04N
+11703789,2023-07-18,Image formation apparatus and control method therefor,0,G03G|H04N
+11701080,2023-07-18,"Radiographic imaging device, radiographic imaging system, and recording medium",1,A61B|G01T|H04N
+11700341,2023-07-11,Image inspection apparatus and misalignment measurement method,0,H04N
+11694126,2023-07-04,Information processing apparatus and recording medium,0,G06N|G06T|G06V
+11690585,2023-07-04,Radiation image display apparatus and radiation imaging system,0,A61B|G06F|G06T|G16H
+11677882,2023-06-13,"Information processing device, information processing method, recording medium, and image forming system",0,H04N
+11676271,2023-06-13,"Dynamic image analysis apparatus extracting specific frames including a detection target from a dynamic image, dynamic analysis system, and storage medium",0,A61B|G06T
+11672502,2023-06-13,Imaging control apparatus and radiation imaging system,0,A61B|H04N
+11670204,2023-06-06,"Residual DC measurement device, residual DC measurement method, and residual DC measurement program",0,G02F|G09G|H04N
+11652928,2023-05-16,"Operation setting selection apparatus, image forming apparatus, and operation setting selection method",0,H04N
+11637905,2023-04-25,"Method for deploying service in cluster system, program, and system",0,G06F|H04L
+11636934,2023-04-25,"Storage medium, medical information processing device, and medical information processing method",0,G06F|G16H|H03M
+11627234,2023-04-11,"Post-processing device, image forming device, adjustment method for post-processing device, and recording medium",0,G03G|G06F|H04N
+11620744,2023-04-04,"Image inspection device, image inspection method, and image inspection instructions",0,G06T|H04N
+11614528,2023-03-28,Setting method of monitoring system and monitoring system,0,G01S|G06T|G08B
+11610676,2023-03-21,Information processing device and information processing method,0,G06N|G16H
+11609719,2023-03-21,"Inspection system, storage medium storing inspection program, and inspection method",0,B41F|G01N|G06F
+11607195,2023-03-21,"Ultrasound diagnosis apparatus, storage medium, and method for setting of attenuation correction",0,A61B|G01S|G06T
+11605160,2023-03-14,"Inspection device, image forming apparatus, and program for inspection device",0,G06T|H04N
+11601566,2023-03-07,"Image reading device, image reading program, image processing device, and image processing program",0,H04N
+11600020,2023-03-07,"Biological substance quantification method, image processing device, pathological diagnosis support system, and recording medium storing computer readable program",0,G01N|G06T|G16H
+11599319,2023-03-07,"Display apparatus, display system, and storage medium",0,G06F|G09G|G16H
+11599317,2023-03-07,"Image forming apparatus, method, and program",0,G06F
+11598716,2023-03-07,Gas image device and image acquisition method,0,G01J|G01M|G01N|H04N
+11592964,2023-02-28,"Image display device, image forming apparatus, and display position changing method",0,G06F|H04N
+11568529,2023-01-31,Gas detection device that visualizes gas,0,G01M|G06F|G06T|G11B|H04N
+11564652,2023-01-31,"Storage medium, dynamic analysis apparatus, and dynamic analysis system",0,A61B|G06T|G16H
+11563862,2023-01-24,"Image forming device, image reading device, non-transitory recording medium storing computer-readable program, image forming method, and image processing device",2,G06F|H04N
+11556293,2023-01-17,"Image processing device, image forming device and recording medium",0,G06F|G06K
+11544840,2023-01-03,"Inspection device, inspection method, and recording medium",0,G06T
+11538145,2022-12-27,"Gas monitoring image recording device, method, and program",0,G01M|G06F|G06T|G06V
+11533408,2022-12-20,Sheet conveyance device and image forming apparatus,0,H04N
+11533305,2022-12-20,"Authentication system, assistance server and non-transitory computer-readable recording medium encoded with assistance program",1,G06F|H04L
+11530994,2022-12-20,X-ray imaging system containing x-ray apparatus having gratings and object housing for setting environmental condition independent of external environment,0,A61B|G01N|G06T
+11519852,2022-12-06,"Gas detection-use image processing device, and gas detection-use image processing method",0,G01J|G01M|G01N|G08B|H04N
+11516365,2022-11-29,Image forming apparatus and inspection method of image reading section,0,H04N
+11513462,2022-11-29,Image forming apparatus with notification for replacement of a toner cartridge,0,G03G|G06F
+11504084,2022-11-22,"Radiographing control apparatus, radiographic imaging apparatus and radiographic imaging system",0,A61B|G06T
+11503171,2022-11-15,"Inspection system, inspection method, and inspection program",1,H04N
+11494143,2022-11-08,"Image forming device, consent confirmation method, and program",0,G06F|Y02D
+11494133,2022-11-08,"Image forming system including image forming apparatus configured to output voice guidance to a user during transfer of a job, and method for controlling image forming apparatus",0,G06F
+11490028,2022-11-01,Two-dimensional flicker measurement apparatus and two-dimensional flicker measurement method,0,G01J|G01M|G02F|G09G|H04N
+11488295,2022-11-01,Evaluation device and evaluation method,0,G01N|G03G|G06T
+11484281,2022-11-01,"Radiation image imaging apparatus, electronic device, wireless communication system, and storage medium",0,A61B|G01N|G16H|H04W
+11484280,2022-11-01,Radiographic image capturing system,0,A61B|G06T|G16H|H03M|H04L|H04N
+11484221,2022-11-01,"Dynamic analysis apparatus, dynamic analysis system, expected rate calculation method, and recording medium",0,A61B|G06T|G16H
+11478205,2022-10-25,"Radiographic image display apparatus, radiographic imaging system, and diagnostic method",1,A61B|G06T|G16H
+11477341,2022-10-18,Image inspection apparatus and misalignment measurement method,0,H04N
+11477335,2022-10-18,Image forming apparatus and response notification method,0,G06F|H04N
+11470206,2022-10-11,Image forming apparatus and diagnostic system increasing frequency of acquiring diagnostic data,0,G06F|H04N
+11468709,2022-10-11,Image forming apparatus,0,G06V|H04N
+11467725,2022-10-11,"Operation target switching apparatus, operation target switching method, and operation target switching program",0,A61B|G06F
+11467524,2022-10-11,Image forming system and abnormal sheet information display method,2,B41J|G03G|G06F|G06K|H04N
+11461900,2022-10-04,Dynamic image analysis system and dynamic image processing apparatus,1,G06T
+11458738,2022-10-04,Image forming apparatus and image forming method,0,B41J|G01J|G03G|H04N
+11457887,2022-10-04,"Radiographic imaging apparatus, radiographic imaging system, and recording medium",0,A61B|G06F|G16H|H04N
+11457118,2022-09-27,"Information processing apparatus, image forming apparatus, information processing system, attribute identification method, and recording medium",0,H04L|H04N|H04W
+11457114,2022-09-27,Image forming apparatus and image forming method that perform inspection using line sensors,0,H04N
+11455717,2022-09-27,"Inspection device comparing a scan image to a reference image, image forming apparatus, and program for inspection device",0,G06T|H04N
+11451685,2022-09-20,Color conversion table corrector that corrects the color conversion table according to data related to a first captured image excluding a specified area,0,H04N
+11449991,2022-09-20,"Image processing method, image processing apparatus, and storage medium",0,G01N|G06T
+11449292,2022-09-20,"Image processing device, job management method, and non-transitory recording medium storing computer readable program",0,G06F|H04N
+11431876,2022-08-30,"Image inspection device, image forming apparatus, and image inspection method",0,G03G|G06T|H04N
+11431869,2022-08-30,"Color parameter generation apparatus, execution apparatus and non-transitory computer-readable recording medium",0,H04N
+11431862,2022-08-30,Terminal and storage medium,0,G06F|H04N
+11430120,2022-08-30,"Ultrasound image evaluation apparatus, ultrasound image evaluation method, and computer-readable non-transitory recording medium storing ultrasound image evaluation program",0,A61B|G06T
+11425271,2022-08-23,"Process condition setting system, process condition setting method, and program",0,G06F|G10L|H04N
+11425265,2022-08-23,Image forming apparatus for determining an end of life of a fixing apparatus based upon obtained motor torque,0,H04N
+11423533,2022-08-23,Image processing method and image processing system,0,G01N|G06T
+11418672,2022-08-16,Image forming apparatus and temperature control method,0,H04N
+11418668,2022-08-16,"Image forming system, image forming apparatus, and information processing apparatus",0,G06N|H04N|Y02D
+11418666,2022-08-16,"Image forming system including first storage that stores paper ejected after image formation processing and second storage that stores paper transferred from first storage, control method of image forming system, and program for allowing computer to execute control method",0,H04N
+11412093,2022-08-09,"Image processing system, device, and product forms reference images on a sheet by first and second imaging forming devices and determines image positional deviation",1,H04N
+11410312,2022-08-09,Dynamic analysis system,1,A61B|G06T|G16H
+11410006,2022-08-09,"Image forming apparatus, control method, and control program including calculation of chromaticity",0,B41J|G06K|H04N
+11409475,2022-08-09,"Inspection apparatus, image forming system, inspection program, and inspection method",2,G06F|G06T|H04N
+11406341,2022-08-09,"Radiography control apparatus, radiographic imaging apparatus, and radiographic imaging system",0,A61B|H04N
+11398025,2022-07-26,"Image processing apparatus, radiographic imaging system, recording medium, and exposure index calculation method",0,G06T
+11394845,2022-07-19,"Image forming apparatus, method of controlling the same, and storage medium",0,H04N
+11394598,2022-07-19,Spectrophotometric device,0,G01J|G01N|H04L
+11393096,2022-07-19,"Gas-detection image processing device, gas-detection image processing method, and gas-detection image processing program",0,G01M|G06T|G06V|H04N
+11388295,2022-07-12,Operation input device and image forming apparatus,0,G06F|H04N
+11388294,2022-07-12,"Image forming apparatus, control method for image forming apparatus, and control program for image forming apparatus",0,G10L|H04N|Y02D
+11381692,2022-07-05,"Image forming system, management server, and recording material information detecting apparatus",0,G06F|H04N
+11380309,2022-07-05,"Meeting support system, meeting support device, and meeting support program",0,G06F|G06Q|G10L
+11379962,2022-07-05,Image inspection device and image forming system,3,G06T|H04N
+11375071,2022-06-28,"Speech setting system, non-transitory computer-readable recording medium having speech setting assistance program stored thereon, and speech setting assistance device",0,G06F|G10L|H04N
+11375067,2022-06-28,"Image inspection apparatus, image inspection method, and non-transitory computer-readable medium for indicating areas to be inspected and areas exempt from inspection",0,H04N
+11369345,2022-06-28,"Method for producing MEMS transducer, MEMS transducer, ultrasound probe, and ultrasound diagnostic apparatus",0,A61B|B06B|B81B|B81C|G01N|H01L|H10N|Y10T
+11369335,2022-06-28,Radiation image detection device,0,A61B|H04N
+11368561,2022-06-21,Image forming apparatus and data transfer method,0,H04L|H04N|Y02D
+11361433,2022-06-14,"Image display control system, image display system, and image analysis device for dynamic medical imaging",1,A61B|G06T|G16H
+11358385,2022-06-14,"Image forming apparatus, image forming method, and image forming program",0,B41F|B41P|B44C|G06F|G06K
+11350001,2022-05-31,"Operation receiving apparatus, control method, image forming system, and recording medium",0,G06F|G10L|H04N
+11348289,2022-05-31,Medical image display device and medical image display system for superimposing analyzed images,1,G06T|G16H
+11343401,2022-05-24,Information processing device and control method to acquire and execute a workflow including interrelated jobs,0,H04N
+11343388,2022-05-24,Image forming device,0,G06F|H04N
+11338573,2022-05-24,Inkjet image forming apparatus and transfer control method,0,B41J|H04N
+11334012,2022-05-17,Image formation apparatus and control method therefor,2,G03G|H04N
+11316987,2022-04-26,Voice information processing apparatus and recording medium that provide information in response to user question,0,G10L|H04N
+11316984,2022-04-26,Image forming device and image forming device diagnostic system,1,H04N
+11315284,2022-04-26,Image display apparatus and radiation imaging system,0,G06T
+11314466,2022-04-26,"Information processing apparatus, image forming system, print control method, and recording medium",0,G06F|G06K
+11314464,2022-04-26,"Information processing apparatus with print control feature, print server, printing system, and recording medium",0,G06F
+11310370,2022-04-19,Image forming apparatus and diagnostic system increasing frequency of acquiring diagnostic data,0,G06F|H04N
+11308344,2022-04-19,"Image processing apparatus, image forming apparatus, display apparatus, image processing method, and storage medium",0,G06T|G06V
+11302010,2022-04-12,"Gas-detection image processing device, gas-detection image processing method, and gas-detection image processing program",0,G01M|G06T|G06V|H04N
+11301179,2022-04-12,Image forming apparatus and control program of image forming apparatus,0,G03G|G06F
+11298050,2022-04-12,"Posture estimation device, behavior estimation device, storage medium storing posture estimation program, and posture estimation method",2,A61B|G06T|G06V
+11290603,2022-03-29,"Assistance server, tunnel connection assistance method and non-transitory computer-readable recording medium encoded with tunnel connection assistance program",0,G06F|H04L|H04N
+11283944,2022-03-22,"Voice operation system, voice operation method, and program",0,G10L|H04N
+11282159,2022-03-22,Image display system that executes rendering by switching the rendering between rendering by a server and rendering by a client terminal,0,G06F|G06T|G09G
+11277530,2022-03-15,"Inspection system, inspection method, and inspection program",2,H04N
+11275535,2022-03-15,Image forming apparatus for adjusting pixels in image data when an ink ejection failure occurs in a nozzle,0,B41J|G06F
+11275534,2022-03-15,Image forming device,1,G06F
+11273631,2022-03-15,"Printed matter foil stamping system, foil stamping print control method, and foil stamping print control program",0,B41F|B41K|B41M|B44C|G03G|G06F
+11272121,2022-03-08,"Two-dimensional flicker measurement device, two-dimensional flicker measurement system, two-dimensional flicker measurement method, and two-dimensional flicker measurement program",0,G01J|G01M|G02F|G09F|H04N
+11269117,2022-03-08,Projection display apparatus,1,G02B|G03B|H04N
+11267441,2022-03-08,"Information processing apparatus, program, and information processing system",0,B60R|G06V|H04L|H04N|H04W
+11262682,2022-03-01,Image forming system and image forming method,0,B65H|G03G|H04N
+11252377,2022-02-15,"Camera device, gas leakage check system, gas leakage check method, and gas leakage check program",0,G01M|G01S|H04N
+11250558,2022-02-15,"Image inspecting apparatus, computer-readable recording medium storing a program, image processing apparatus, and image forming apparatus",2,G06T
+11250557,2022-02-15,"Reference image generating apparatus, image forming system, reference image generation method, and reference image generation program",0,G06F|G06T|H04N
+11250403,2022-02-15,"ID-POS information generation server, information processing system, ID-POS information generation method, and recording medium",0,G06Q
+11249695,2022-02-15,Image forming apparatus and image forming system,0,G06F|G06K|Y02D
+11245805,2022-02-08,"Image forming system, method for controlling power supply, and computer-readable recording medium",0,H04N|Y02D
+11244447,2022-02-08,Measurement device and computer readable storage medium,0,A61B|G06T
+11241209,2022-02-08,Device and system for determining a bone strength indicator,0,A61B|G06T|G16H
+11238590,2022-02-01,Dynamic image processing apparatus,0,A61B|G06T|G06V|G16H
+11238578,2022-02-01,"Foil-stamped print inspection apparatus, foil-stamped print inspection system, method of inspecting foil-stamped print, and non-transitory computer-readable storage medium storing program",0,G06T
+11238268,2022-02-01,"Image processing device, image processing method, and pathological diagnosis assistance system using same",0,G06T|G06V
+11237385,2022-02-01,Optical writing device and image forming apparatus,0,G02B|H04N
+11232559,2022-01-25,Image processing apparatus and computer-readable storage medium,0,G06T
+11223747,2022-01-11,"Image forming apparatus, image reading apparatus, and calibration method for a plurality of imaging sensors",0,H04N
+11218444,2022-01-04,Communication route selection based on access request,0,H04L
+11216929,2022-01-04,"Decorative print inspection apparatus, decorative print inspection system, method of inspecting decorative print, and non-transitory computer-readable storage medium storing program",0,G06T|G06V
+11216171,2022-01-04,Medical image management apparatus and recording medium,0,A61B|G06F|G16H
+11212404,2021-12-28,Image forming apparatus,0,H04N
+11212396,2021-12-28,"Operation setting selection apparatus, image forming apparatus, and operation setting selection method",0,H04N
+11205263,2021-12-21,"Remote image interpretation management apparatus, remote image interpretation system and storage medium",0,G06T|G16H
+11199950,2021-12-14,"Moving image reproduction apparatus, candidate jump destination display method, and computer program",0,G06F|H04N
+11199627,2021-12-14,Monitoring system,0,G01S|G01V|G02B|G06F|G08B
+11197652,2021-12-14,Radiographic image analysis apparatus and radiographic image analysis system,0,A61B|G06T|G16H
+11197646,2021-12-14,X-ray imaging system,0,A61B|G06T
+11197065,2021-12-07,"Gas detection device, information processing device, and program",2,G01M|G01N|G06T|H04N
+11189025,2021-11-30,"Dynamic image analysis apparatus, dynamic image analysis method, and recording medium",0,A61B|G06T
+11188762,2021-11-30,"Moving body risk assessment device, and moving body monitoring system",0,G01N|G06T|G06V|G08B
+11187880,2021-11-30,"Zoom lens, image pickup optical device, and digital apparatus",0,G02B|H04N
+11184492,2021-11-23,Image forming apparatus and voice input control,0,H04N
+11176664,2021-11-16,Information processing apparatus and recording medium,0,G06N|G06T|G06V
+11176638,2021-11-16,"Image processing apparatus, image processing method and program",0,A61B|G06T|G16H
+11172083,2021-11-09,Integrated workflow execution control that switches display to first screen or second screen based on determination criterion,0,H04N
+11170522,2021-11-09,"Storage medium storing image processing program, and image processor",0,G06T|G06V|G16H
+11169478,2021-11-09,"Image forming apparatus, image forming method, and non-transitory recording medium which performs adjustment of image formation based on adjusted sheet size",0,G03G|H04N
+11167949,2021-11-09,Image forming apparatus and sheet management system,0,B65H|G06F|G06V
+11165931,2021-11-02,Image forming apparatus and storage medium for high-accuracy colorimetry,2,G01J|H04N
+11160525,2021-11-02,Image processing apparatus and computer readable storage medium,0,A61B|G06T
+11159688,2021-10-26,"Inspection system, inspection method, and inspection program",1,H04N
+11158043,2021-10-26,Inspection device comparing a scan image to a reference image and deletion of the reference image from storage,0,G06T|H04N
+11157222,2021-10-26,Image forming system and post-processing determination method,0,G06F|H04N
+11151715,2021-10-19,Dynamic analysis system,0,G06T
+11151705,2021-10-19,Image inspecting apparatus and image forming system,1,G06T
+11150833,2021-10-19,Backup apparatus,0,G06F
+11150202,2021-10-19,X-ray imaging system,0,G01N|G06T
+11150136,2021-10-19,Color accuracy vertfication device that manages color accuracy of plurality of printers,2,G01J|G03G|G06F|G06T|H04N|Y02P
+11146697,2021-10-12,Image forming system and image forming apparatus with voice instruction to reform print setting operation,0,G06F|H04N
+11138725,2021-10-05,Radiation image display apparatus and radiation imaging system,1,A61B|G06F|G06T|G16H
+11134205,2021-09-28,"Control apparatus, radiographic imaging system, control method, and recording medium",1,A61B|H04N
+11134160,2021-09-28,Image scanning device,0,G06V|H04N
+11130404,2021-09-28,Head-up display apparatus,0,B60K|G02B|G09G|H04N
+11129584,2021-09-28,Radiography apparatus and radiography system,0,A61B|G16H|G16Z|H04N|H10F
+11128816,2021-09-21,Radiographic imaging system,1,A61B|G01T|H04N
+11128761,2021-09-21,"Image forming system, control method of image forming system, and control program of image forming system",1,H04N
+11128760,2021-09-21,"Image forming device, image reading device, non-transitory recording medium storing computer-readable program, image forming method, and image processing device",0,G06F|H04N
+11122172,2021-09-14,"Control apparatus, image forming system and program",0,G10L|H04N
+11120787,2021-09-14,"Job record specifying device, image processing apparatus, server, job record specifying method, and recording medium",1,G06F|G10L|H04N
+11115544,2021-09-07,"Information processing apparatus, character recognition method and non-transitory computer-readable recording medium encoded with character recognition instructions",0,G06V|H04N
+11113900,2021-09-07,"Image processing device, number-of-axles detection system, toll setting device, toll setting system, and non-transitory computer-readable medium storing program",1,G06T|G06V|G07B
+11113833,2021-09-07,Object detection system,0,G01S|G06T
+11113606,2021-09-07,"Learning method, learning device, program, and recording medium",0,G06F|G06N|G06T|G06V
+11108932,2021-08-31,"Image test apparatus, image forming system and recording medium",0,H04N
+11103217,2021-08-31,Ultrasound signal processing method and ultrasound signal processing device,0,A61B|G01S|G06T|G10K|G16H
+11099959,2021-08-24,Image processing device and non-transitory recording medium,0,G06F|H04N
+11095783,2021-08-17,Gesture-based menu scroll operation on a display apparatus,0,G06F|H04N
+11094048,2021-08-17,"Image inspection device, image forming device, and computer-readable recording medium storing a program",2,G06F|G06T|H04N
+11089225,2021-08-10,"Optical measuring device, image generating method, and image generating program",0,G01B|G01N|G03B|H04N
+11085827,2021-08-10,Measurement system and communication processing method in measurement system,0,G01J|G06F|G08C|H04L
+11085820,2021-08-10,"Diagnosis assistance device for optical characteristic measurement device, and diagnosis assistance method for optical characteristic measurement device",0,G01J|G06Q
+11082584,2021-08-03,"Image forming device, method, and program product with correction image not recognized as post-processing image",0,G03G|G06F|G06K|H04N
+11081639,2021-08-03,Piezoelectric element manufacturing method,0,H01L|H10N
+11080866,2021-08-03,Dynamic image processing method and dynamic image processing device,0,G06T
+11079708,2021-08-03,Image forming system and abnormal sheet information display method,1,B41J|G03G|G06F|G06K|H04N
+11074683,2021-07-27,"Image inspection apparatus, image inspection method, and image inspection program",0,G06T|H04N
+11070692,2021-07-20,Post-processing apparatus and image forming system,0,H04N
+11064079,2021-07-13,"Image forming apparatus, method of controlling image forming apparatus, and recording medium",0,G10L|H04N|H04R
+11062735,2021-07-13,Radiation image display apparatus and radiation image photographing system,2,A61B|G01T|G03B|G06F|G11B
+11055042,2021-07-06,Image forming apparatus and method for controlling image forming apparatus,0,G06F|H04N|Y02D
+11049253,2021-06-29,Dynamic analysis device and recording medium,0,G06T
+11044431,2021-06-22,Radiation image capturing apparatus,1,G01T|H04N|H10F
+11037257,2021-06-15,"Computer-readable recording medium, contract creation system, contract verification system, and final cipher creation system",0,G06Q|H04L
+11036440,2021-06-15,Image formation system having a plurality of image formation apparatuses and method for controlling them,0,G06F|H04N
+11035844,2021-06-15,"Image processing device, pathological diagnosis support system, storage medium for image processing, and image processing method",0,A61B|G01N|G06T|G06V
+11026651,2021-06-08,"Radiographing control apparatus, radiographic imaging apparatus and radiographic imaging system",0,A61B|G06T
+11023190,2021-06-01,Image forming apparatus,0,G06F|G10L|H04N
+11023184,2021-06-01,Image forming system and program between a portable terminal and an image forming device with confirmation feature,0,G06F|H04N
+11019235,2021-05-25,Image processing control and color adjustment for reproducing originals with spot colors or decorative attributes using a color sample,1,H04N
+11019234,2021-05-25,"Image forming system which calculates an image correction value according to shrinkage information, image forming system control method, and non-transitory computer-readable recording medium storing a program",0,G03G|H04N
+11019116,2021-05-25,"Conference system, conference server, and program based on voice data or illumination light",0,H04L
+11012656,2021-05-18,"Gas detection device, information processing device, and program",1,G01M|G06F|G06T|G09G|H04N
+11004194,2021-05-11,"Inspection device, image forming apparatus, and inspection method",0,G06T|H04N
+10999450,2021-05-04,Image inspection apparatus and image forming apparatus using reading result of incident light reflected from target both via and not via light guide member,1,H04N
+10997734,2021-05-04,"Gas detection-use image processing device, gas detection-use image processing method, and gas detection-use image processing program",0,G01M|G01N|G06T
+10997723,2021-05-04,"Image forming system, image forming apparatus, and program",0,G06T|H04N
+10993703,2021-05-04,Ultrasound diagnosis apparatus and computer readable recording medium,0,A61B|G06F|G16H
+10993683,2021-05-04,Radiation imaging apparatus and radiation imaging system,0,A61B|H04N
+10991090,2021-04-27,"Gas detection-use image processing device, gas detection-use image processing method, and gas detection-use image processing program",0,G01M|G06F|G06T|G06V
+10984297,2021-04-20,Image processing apparatus and method for estimating paper thickness,0,G01J|G06K|H04N
+10983673,2021-04-20,"Operation screen display device, image processing apparatus, and recording medium",0,G06F|G10L
+10982993,2021-04-20,"Overload detection processing apparatus, overload detection system and computer-readable recording medium storing program",0,G01B|G01G|G06T
+10979584,2021-04-13,"Image forming device, information processing device, display control method, and non-transitory computer-readable recording medium storing a program for controlling display of post-processing setup information",0,G06F|H04N
+10977793,2021-04-13,"Dynamic analysis apparatus, dynamic analysis system, and storage medium",0,A61B|G06T
+10973490,2021-04-13,Radiation image photographing apparatus and radiation image photographing system for radiation image photographing process and dark image acquiring process,2,A61B|G01T|H04N
+10972632,2021-04-06,Information processing apparatus with voice print authentication and program,1,G06F|G10L|H04N
+10972622,2021-04-06,Print control device and program,0,H04N
+10972615,2021-04-06,"Data processing apparatus, data processing method, and storage medium",0,H04N
+10972546,2021-04-06,"Image processing system, connection mediation server, and recording medium",0,H04L
+10970023,2021-04-06,Printing system for directly transmitting a print job to printer when a server is unavailable and printer driver program,0,G06F
+10966674,2021-04-06,"Radiographic image display apparatus, radiographic imaging system, and diagnostic method",2,A61B|G06T|G16H
+10955785,2021-03-23,"Image forming device, inspection device, and non-transitory computer-readable storage medium storing program",0,G03G|H04N
+10918351,2021-02-16,Radiographic-image processing apparatus,0,A61B|G06T|G16H
+10913287,2021-02-09,"Inkjet recording apparatus, method for driving inkjet head, and method for forming image",0,B41J|H04N
+10911618,2021-02-02,"Image processing device for receiving an operation instruction by a voice, method for controlling image processing device, and program",0,G06F|G06V|G10L|H04N
+10908079,2021-02-02,"Image-processing device for gas detection, image-processing method for gas detection, and image-processing program for gas detection",0,G01M|G01N|G06F|G06V

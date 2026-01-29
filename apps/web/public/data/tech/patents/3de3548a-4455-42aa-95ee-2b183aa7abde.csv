@@ -1,0 +1,575 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430558,2025-09-30,"Combining compression, partitioning and quantization of DL models for fitment in hardware processors",0,G06F|G06N
+12430517,2025-09-30,Method and system for document structure based unsupervised long-form technical question generation,0,G06F|G06Q|G06V
+12430233,2025-09-30,Method and system for performance management of distributed software applications,0,G06F
+12423712,2025-09-23,Method and system for data regulations-aware cloud storage and processing service allocation,0,G06F|G06Q
+12423638,2025-09-23,Method and system for generation of impact analysis specification document for a change request,0,G06F|G06Q
+12423556,2025-09-23,Molecular property prediction using edge-information fused global graph-read neural network function,0,G06N|G16C
+12423060,2025-09-23,Method and system for non-intrusive profiling of high-level synthesis (HLS) based applications,0,G06F
+12412671,2025-09-09,Method and system for classification of cognitive load using data obtained from wearable sensors,0,A61B|G06N|G16H
+12412383,2025-09-09,Method and system for scene graph generation,0,G06N|G06V
+12412270,2025-09-09,Method and system for determining progression of atrial fibrillation based on hemodynamic metrics,0,A61B|G06T|G16H
+12406313,2025-09-02,System and method for technology debt assessment,0,G06Q
+12406149,2025-09-02,System and method for intent discovery from user logs using deep semi-supervised contrastive clustering,0,G06F|G06N|G10L
+12405606,2025-09-02,System and method for performance and health monitoring to optimize operation of a pulverizer mill,0,B02C|F23K|G01V|G05B|G06F|G06N|G06Q|Y02P
+12400434,2025-08-26,Method and system for identifying and mitigating bias while training deep learning models,0,G06N|G06T|G06V
+12400168,2025-08-26,Systems and method for determining hygiene in enterprise documents with respect to regulatory obligations,0,G06F|G06Q
+12393514,2025-08-19,Pre-optimizer and optimizer based framework for optimal deployment of embedding tables across heterogeneous memory architecture,0,G06F|G06N
+12393451,2025-08-19,Systems and methods for dynamic task scheduling and rescheduling using heterogeneous multi-agent fleet,0,G06F
+12393195,2025-08-19,Method and system for reinforcement learning and dual channel action embedding based robotic navigation,0,G05D|G06N
+12391244,2025-08-19,Method and system for narrow passage path sampling based on levy flight,0,B60W|G01B|G01C|G06N
+12387282,2025-08-12,System and method for management of life cycle of contracts,0,G06Q
+12387083,2025-08-12,System and method for molecular property prediction using hypergraph message passing neural network (HMPNN),0,G06F|G06N|G16C
+12386368,2025-08-12,Methods and systems for optimized assignment of traversal tasks under imperfect sensing of autonomous vehicles,0,G05D|G06Q
+12380614,2025-08-05,System and method for augmented reality based indoor navigation,0,G01C|G06K|G06T|H04W
+12380274,2025-08-05,Methods and systems for complex natural language task understanding for embodied agents,0,G06F|G06N
+12380136,2025-08-05,Method and system for identifying labels of unlabelled column data,0,G06F|G06N
+12374001,2025-07-29,Method and system for generating color variants for fashion apparels,0,G06T
+12373762,2025-07-29,System and method for just in time characterization of raw materials,0,G06N|G06Q|Y02P
+12373250,2025-07-29,Enhancing batch predictions by localizing jobs contributing to time deviation and generating fix recommendations,0,G06F|G06Q
+12373021,2025-07-29,Method and system for ambient intelligence based user interaction,0,G01S|G06F|G06T|G06V
+12368478,2025-07-22,Systems and methods for meta-surface-based beamforming,0,H04B|H04L
+12367697,2025-07-22,Method and system for generating a data model for text extraction from documents,0,G06N|G06V
+12367596,2025-07-22,Fusion-based object tracker using LIDAR point cloud and surrounding cameras for autonomous vehicles,0,G01S|G06T|G06V
+12363443,2025-07-15,Method and system for zone-wise adaptive illumination of objects,0,G06T|G06V|H04N
+12360536,2025-07-15,Method and system of dynamic localization of a telepresence robot based on live markers,0,G05D|H04B|H04W
+12354234,2025-07-08,Method and system for multi-modal image super-resolution,0,G06T
+12353980,2025-07-08,System and method for mitigating generalization loss in deep neural network for time series classification,0,G06N
+12347159,2025-07-01,System and method for real-time radar-based action recognition using spiking neural network(SNN),0,G01S|G06N|G06V
+12347102,2025-07-01,Method and system for assessing soil carbon sequestration of a farm based on remote sensing,0,A01B|A01C|G06Q|G06T|G06V|H04W
+12346951,2025-07-01,"Method, system, and non-transitory machine-readable information storage medium for personalized substitute product recommendation",0,G06F|G06N|G06Q|G06V
+12346810,2025-07-01,Method and system for self supervised training of deep learning based time series models,0,F02C|F05D|F23N|G06F|G06N
+12340516,2025-06-24,Method and system for detection of field boundaries using coarse resolution satellite data and GIS,0,G06Q|G06T|G06V
+12340408,2025-06-24,Method and system for generation of descriptive copy of grocery products,0,G06F|G06N|G06Q
+12339933,2025-06-24,Method and system for getting desired property of blend by optimizing blending rules,0,G05B|G06F|G06Q
+12334057,2025-06-17,Method and system for visual context aware automatic speech recognition,0,G06F|G06V|G10L
+12333734,2025-06-17,System and method for imaging of localized and heterogeneous dynamics using laser speckle,0,A61B|G06T
+12327410,2025-06-10,Methods and systems for disambiguation of referred objects for embodied agents,0,G06F|G06T|G06V
+12327134,2025-06-10,Method and system for predicting batch processes,0,G06F|G06Q
+12326979,2025-06-10,System and method for acoustic based gesture tracking and recognition using spiking neural network,0,G01S|G06F|G06N
+12323471,2025-06-03,Method and system for managing multimedia exchange in tele-robotics using dew computing,0,H04L
+12315222,2025-05-27,Energy efficient hierarchical SNN architecture for classification and segmentation of high-resolution images,0,G06T|G06V
+12314845,2025-05-27,Field programmable gate array (FPGA) based neuromorphic computing architecture,0,G06N|Y02D
+12314642,2025-05-27,System and method for actor based simulation of complex system using reinforcement learning,0,G06F|G06N|G06Q
+12309388,2025-05-20,Methods and systems for quality of experience-centric adaptive bitrate encoding for live video streaming,0,H04N
+12309166,2025-05-20,Method and system for service authentication in an airport management network,0,H04L
+12309041,2025-05-20,Service-level objective (SLO) aware execution of concurrence inference requests on a fog-cloud network,0,G06F|H04L
+12307567,2025-05-20,Methods and systems for emotion-controllable generalized talking face generation,0,G06N|G06T|G06V|G10L
+12307420,2025-05-20,Method and system for facilitating planogram compliance for inventory management,0,G06Q|G06V
+12307405,2025-05-20,System and method for autonomous multi-bin parcel loading system,1,B65G|G06F|G06N|G06Q
+12307380,2025-05-20,Automated placement of objects in bins using look ahead information by virtual sorting and packing,0,B65G|G06N|G06Q
+12307360,2025-05-20,Method and system for optimized spike encoding for spiking neural networks,0,G06N
+12304090,2025-05-20,Systems and methods for anomaly detection and correction,0,B25J|G06F|G06N|G06V
+12298739,2025-05-13,Method and system for micro-climate management,0,G01W|G05B|G06Q
+12298420,2025-05-13,Method and system of error modelling for object localization using ultra wide band (UWB) sensors,0,G01S|H04W
+12288387,2025-04-29,Method and system for transfer learning based object detection,0,G06F|G06N|G06V
+12277588,2025-04-15,Categorization based on text and attribute factorization,0,G06F|G06N|G06Q
+12277510,2025-04-15,Systems and method for solving Quadratic Unconstrained D-ary Optimization (QUDO) problems by quantum computing,0,G06F|G06N
+12277394,2025-04-15,Systems and methods for multi-utterance generation of data with immutability regulation and punctuation-memory,0,G06F
+12277184,2025-04-15,Automated construction of ingredient-functionality lists for formulated products using search engine result excerpts,0,G06F|G06Q
+12274536,2025-04-15,Method and system for screening and monitoring of cardiac diseases,0,A61B|G06N
+12265639,2025-04-01,System and method for enabling differential privacy techniques,0,G06F
+12265542,2025-04-01,No-code platform for generating reports as a transaction,0,G06F
+12260618,2025-03-25,Method and system for fashion attribute detection,0,G06N|G06V
+12260176,2025-03-25,System and method for extracting issues based on trouble ticket mining,0,G06F|G06Q|H04L
+12254344,2025-03-18,Method and system for automated refactoring of mainframe based batch systems to cloud native environment,0,G06F
+12249422,2025-03-11,Method and system for detection and validation of nocturia in a person,0,A61B|G06N|G16H
+12248886,2025-03-11,Method and system for extraction of cause-effect relation from domain specific text,0,G06F|G06N
+12246765,2025-03-11,System for securing communication between central controller and signaling devices in traffic signaling networks,0,B61L|G08G|H04L
+12243019,2025-03-04,Automated extraction and classification of project initiation related information from request for proposal response documents,0,G06F|G06Q|G06V
+12242988,2025-03-04,Integer linear programming based generation of a personalized optimal questionnaire using a skill graph,0,G06F|G06N|G06Q
+12242977,2025-03-04,Extraction of tasks from documents using weakly supervision,0,G06F|G06N
+12242974,2025-03-04,Method and system for service synthesis and evaluation using patterns,0,G06F|G06N|G06Q
+12241841,2025-03-04,System and method for non-invasive real-time prediction of liquid food quality within enclosed package,0,G01N|G06Q
+12237086,2025-02-25,Method and system for digital biomarkers platform,0,G06F|G16H
+12230134,2025-02-18,Systems and methods for public transit arrival time prediction,0,G01C|G06N|G08G
+12225138,2025-02-11,Method and system for distributed digital signature computation,0,G06F|H04L
+12210589,2025-01-28,System and method for label generation for timeseries classification,0,G06F|G06N
+12203599,2025-01-21,Method and system for identification of materials for hydrogen storage,0,C01B|F17C|G06N|G16C|Y02E
+12198071,2025-01-14,System and method for dynamically generating composable workflow for machine vision application-based environments,0,G06F|G06N|G06V
+12197944,2025-01-14,System and method for modernization of legacy batch based on functional context,0,G06F
+12197902,2025-01-14,Method and system for learning based dynamic software system adaptation,0,G06F|G06N|G16H
+12190402,2025-01-07,Self-learning based mechanism for vehicle utilization and optimization,0,G06F|G06Q|G08G
+12190131,2025-01-07,Method and system for function call and variable access based relaxed backward slicing,0,G06F
+12182751,2024-12-31,Systems and methods for detecting disguised non-performing assets (NPAs) and predicting potential NPAs in agriculture,0,A01B|G06F|G06Q|G06T|G06V
+12182556,2024-12-31,Method and system for performing program transformations for precise analysis of enterprise applications,0,G06F
+12182029,2024-12-31,Optimal deployment of embeddings tables across heterogeneous memory architecture for high-speed recommendations inference,0,G06F|G06N
+12181880,2024-12-31,Telepresence robots having cognitive navigation capability,0,B25J|G05B|G05D|G06F|G06V|G10L|H04L
+12175680,2024-12-24,System and method for monitoring health of low-cost sensors used in soil moisture measurement,0,A01B|G01N|G06Q|G06T|G06V
+12175520,2024-12-24,"System, method, and non-transitory machine-readable information storage medium for recommendations of items and controlling an associated bias thereof",1,G06N|G06Q
+12175389,2024-12-24,Method and system for predictive maintenance of high performance systems (HPC),1,G05B|G06F|G06N
+12175167,2024-12-24,Method and system for design and engineering LED fiber rollout,0,G06F|G06Q
+12174639,2024-12-24,Methods and system for goal-conditioned exploration for object goal navigation,0,G05D|G06N|G06V
+12169399,2024-12-17,Method and system for infrastructure monitoring,0,G05B|G06F|H04L
+12165083,2024-12-10,Method and system for recommending tool configurations in machining,0,G05B|G06N
+12165077,2024-12-10,Method and system for generating model driven applications using artificial intelligence,0,G06F|G06N
+12164870,2024-12-10,Method and system for neural document embedding based ontology mapping,0,G06F|G06N|G16H
+12160517,2024-12-03,Method and system for generating protected biometric templates,0,G06F|G06V|H04L
+12159456,2024-12-03,Method and system for identification of agro-phenological zones and updation of agro-phenological zones,0,G06T|G06V
+12159453,2024-12-03,System and method for ontology guided indoor scene understanding for cognitive robotic tasks,0,B25J|G05B|G05D|G06N|G06V
+12155653,2024-11-26,Systems and methods for performing single input based multifactor authentication,0,H04L
+12154040,2024-11-26,System and method for training recommendation policies,0,G06N
+12153860,2024-11-26,Simulation techniques for determining deformation profiles and residual stresses in molded parts having composite materials,0,G06F
+12147915,2024-11-19,Systems and methods for modelling prediction errors in path-learning of an autonomous learning agent,0,G06N
+12141712,2024-11-12,Method and system for extracting contextual information from a knowledge base,0,G06F|G06N|G06Q
+12141185,2024-11-12,Systems and methods for generating causal insight summary,0,G06F
+12136286,2024-11-05,Method and system for keypoint extraction from images of documents,0,G06F|G06V
+12136035,2024-11-05,Neural networks for handling variable-dimensional time series data,0,G06F|G06N
+12135736,2024-11-05,Automated systems and methods for generating technical questions from technical documents,0,G06F|G10L
+12132818,2024-10-29,Method and system for privacy preserving classification of websites URL,0,G06F|G06N|H04L
+12131541,2024-10-29,Method and a system for spatio-temporal polarization video analysis,0,G06V|H04N
+12131466,2024-10-29,Method and system for domain knowledge augmented multi-head attention based robust universal lesion detection,0,G06T|G06V
+12131456,2024-10-29,Method and system for identification and classification of different grain and adulterant types,0,G06T|G06V
+12130906,2024-10-29,Recognition based multi-skill-multi-sensory passwords with dynamic identification of sensor combination based on end user skill,0,G06F|H04L
+12130859,2024-10-29,Method and system for feature based image retrieval,0,G06F|G06V
+12130856,2024-10-29,Method and system to create an accessible enterprise content by design preliminary,0,G06F
+12130845,2024-10-29,Method and system for validation of calculation code against calculation specification,0,G06F|G06Q
+12124491,2024-10-22,Identifying and categorizing adverse remarks from audit reports for knowledge base creation and generating recommendations,0,G06F
+12118303,2024-10-15,Method and system for text cleaning,0,G06F
+12112162,2024-10-08,Method and system for mapping intermediate representation objects for facilitating incremental analysis,0,G06F
+12111982,2024-10-08,Systems and methods for real-time tracking of trajectories using motion sensors,0,G06F|G06N|G06V
+12111856,2024-10-08,Method and system for long-form answer extraction based on combination of sentence index generation techniques,0,G06F
+12111620,2024-10-08,Multi-agent deep reinforcement learning for dynamically controlling electrical equipment in buildings,0,F24F|G05B|G06N
+12106196,2024-10-01,Method and system for generating synthetic time domain signals to build a classifier,0,A61B|G06F|G06N|G16H
+12101637,2024-09-24,Systems and methods for application-aware dynamic slicing in radio access network (RAN),0,H04W
+12100173,2024-09-24,Method and system for unsupervised prediction of image depth and confidence map,0,G06N|G06T|H04N
+12100124,2024-09-24,Methods and systems for generating end-to-end de-smoking model,1,G06T
+12099967,2024-09-24,Method and system for detection of hidden patterns for apparel strategies,0,G06F|G06Q|G06V
+12099822,2024-09-24,Method and system for identifying static analysis alarms based on semantics of changed source code,0,G06F
+12096248,2024-09-17,Method and system for improving Wi-Fi performance in co-existing communication networks,0,H04B|H04W
+12094035,2024-09-17,Methods and systems for localized smoke removal and color restoration of real-time video,1,G06T|G06V
+12093870,2024-09-17,Dynamic sustainability risk assessment of suppliers and sourcing location to aid procurement decisions,0,G06F|G06N|G06Q
+12093805,2024-09-17,Optimal policy learning and recommendation for distribution task using deep reinforcement learning model,0,G06N
+12093695,2024-09-17,Method and system to process asynchronous and distributed training tasks,0,G06F|G06N
+12087052,2024-09-10,Method and system for crop loss estimation,0,A01G|G06N|G06Q|G06V
+12081659,2024-09-03,System and method to randomize distribution of cryptographic keys across multiple secure key storage devices,0,H04L
+12079752,2024-09-03,System and method for scenario-driven optimization of sourcing cost,0,G06F|G06N|G06Q
+12061924,2024-08-13,Method and system for web service location allocation and virtual machine deployment,0,G06F|H04L
+12056171,2024-08-06,System and method for automated information extraction from scanned documents,0,G06F|G06V
+12051507,2024-07-30,System and method for learning disentangled representations for temporal casual inference,0,G06N|G16H
+12051229,2024-07-30,System and method for attention-based surface crack segmentation,0,G06F|G06T|G06V
+12051099,2024-07-30,"System, method, and non-transitory machine readable information storage medium for handling popularity bias in item recommendations",1,G06F|G06N|G06Q
+12050906,2024-07-30,Method and system for identifying relevant changes for incremental verification of evolving software,0,G06F
+12050695,2024-07-30,Method and system for identifying security vulnerabilities,0,G06F
+12050563,2024-07-30,Method and system for scalable acceleration of data processing pipeline,0,G06F
+12050448,2024-07-30,Method and system to control a continuous bioprocessing,0,C12M|G05B|G06N
+12046062,2024-07-23,Intelligent visual reasoning over graphical illustrations using a MAC unit,0,G06F|G06N|G06V
+12045953,2024-07-23,Extracting region of interest from scanned images and determining an associated image type thereof,0,G06T|G06V|H04N
+12045369,2024-07-23,System and method for data residency compliant data placement in cloud,0,G06F|G06Q|H04L
+12039730,2024-07-16,Method and system for plant health estimation,0,G01N|G06T|G06V
+12039641,2024-07-16,Symbol recognition from raster images of PandIDs using a single instance per symbol class,0,G06F|G06N|G06T|G06V
+12039556,2024-07-16,Method and system for protocol generation,0,G06F|G06Q
+12039434,2024-07-16,System and method for operation optimization of an equipment,0,G06N
+12038949,2024-07-16,Method and system for contradiction avoided learning for multi-class multi-label classification,0,G06F|G06N|G16H
+12038740,2024-07-16,Method and system for regime-based process optimization of industrial assets,0,G05B|G06F
+12038738,2024-07-16,Method and system for monitoring and optimizing the operation of an alumina rotary kiln,0,G05B|H04L
+12038427,2024-07-16,Apparatus and method for multimodal sensing and monitoring of perishable commodities,0,G01N|G05B|G06K|G06N|G06Q|G06T
+12033368,2024-07-09,Method and system for providing generalized approach for crop mapping across regions with varying characteristics,0,G06F|G06N|G06V
+12033352,2024-07-09,Methods and systems for generating end-to-end model to estimate 3-dimensional(3-D) pose of object,0,G06T|G06V
+12033188,2024-07-09,Systems and methods for performing user segmentation and recommending personalized offers at real time,0,G06Q
+12032359,2024-07-09,Prediction of preheat refractory temperature profile of a ladle furnace,0,B22D|F27B|F27D|G05B|G06N
+12026047,2024-07-02,Method and system for root cause identification of faults in manufacturing and process industries,0,G05B|G06F
+12025984,2024-07-02,Imperfect sensing based analysis of agents deployed in environments for traversal task execution,0,B60W|G05D|G06F
+12023815,2024-07-02,Method and system for automated object packing,0,B25J|B65G|G06Q
+12020024,2024-06-25,Method and system for identifying terms from cryptic forms of variable names in program code,0,G06F
+12019688,2024-06-25,Method and system for finding one or more unique entities in data,1,G06F
+12019659,2024-06-25,Method and system to optimize a plurality of topics by evaluation metrics,0,G06F
+12016705,2024-06-25,Methods and systems for identifying presence of abnormal heart sounds of a subject,0,A61B|G06F|G06N|G16H
+12008071,2024-06-11,System and method for parameter compression of capsule networks using deep features,0,G06F|G06N|G06V
+12007883,2024-06-11,Automated method and system for finding vulnerabilities in a program using fuzzing,0,G06F
+12002568,2024-06-04,Analyzing effect of a secondary cognitive load task on a primary executive task,0,A61B|G06F|G16H
+12002291,2024-06-04,Method and system for confidence level detection from eye features,0,G06F|G06N|G06T|G06V
+11996118,2024-05-28,Selection of speech segments for training classifiers for detecting emotional valence from input speech signals,0,G06N|G10L
+11992745,2024-05-28,Method and system for assessing and improving wellness of person using body gestures,0,A63B|G06T|G06V|G16H
+11989886,2024-05-21,Automated unsupervised localization of context sensitive events in crops and computing extent thereof,0,G06N|G06Q|G06T|G06V|Y02A
+11983278,2024-05-14,System and method for data anonymization using optimization techniques,0,G06F
+11978537,2024-05-07,Method and system for predicting protein-protein interaction between host and pathogen,0,G06N|G16B
+11978236,2024-05-07,Efficient retrieval of a target from an image in a collection of remotely sensed data,0,G06F|G06T|G06V
+11977966,2024-05-07,Method and system for minimizing passenger misconnects in airline operations through learning,0,G06F|G06N|G06Q|G08G
+11977608,2024-05-07,Method and system for real-time shelf-life prediction of food items,0,G01N|G06F|G06N|G06T|G06V
+11977200,2024-05-07,System and method for real-time monitoring and optimizing operation of connected oil and gas wells,0,E21B|G01V|G06F|G06Q
+11967133,2024-04-23,Integrated deep learning model for co-operative and cascaded inference on edge utilizing classifiers for input images,0,G06N|G06V
+11966674,2024-04-23,Method and system for designing artificially structured materials with customized functionalities,0,G02B|G06F|G06N
+11966498,2024-04-23,System and method for at-source masking of sensitive data,2,G06F
+11961028,2024-04-16,Method and system for graph signal processing based energy modelling and forecasting,0,G06F|G06Q
+11960654,2024-04-16,Acoustic system and method based gesture detection using spiking neural networks,0,G01S|G06F|G06N|G06V
+11960386,2024-04-16,Automated continuous validation for regulatory compliance of a computer system (CS) comprising a dynamic component,3,G06F|G06N
+11958194,2024-04-16,Control command based adaptive system and method for estimating motion parameters of differential drive vehicles,0,B25J|G01D|G05D|G06F|G06N
+11954630,2024-04-09,Real time method and system for analyzing data streams,0,G06F|G06Q|H04L
+11948213,2024-04-02,Method and system for sequencing asset segments of privacy policy,0,G06F|G06Q|H04L
+11941760,2024-03-26,Method and system for generating 3D mesh of a scene using RGBD image sequence,0,G06T
+11936677,2024-03-19,System and method for assessing insider influence on enterprise assets,0,G06F|H04L
+11934855,2024-03-19,System and method to autonomously manage hybrid information technology (IT) infrastructure,0,G06F
+11934815,2024-03-19,Method and system for translation of codes based on semantic similarity,0,G06F|G06N
+11934776,2024-03-19,System and method for measuring user experience of information visualizations,0,G06F|G06Q
+11934183,2024-03-19,Method and system for industrial anomaly detection,0,G05B|G06F
+11915792,2024-02-27,Method and a system for profiling of metagenome,0,G06F|G16B
+11915524,2024-02-27,Method and system for handwritten signature verification,0,G06F|G06V
+11915506,2024-02-27,Method and system for sustainability measurement,0,G06F|G06Q|G06V
+11915262,2024-02-27,Budget constrained deep Q-network for dynamic campaign allocation in computational advertising,0,G06Q
+11914960,2024-02-27,System and method for statistical subject identification from input data,0,G06F
+11912321,2024-02-27,System and method for railway network access planning,0,B61L|G06Q
+11909825,2024-02-20,Multi-master hybrid telerobotics system with federated avatar control,0,H04L
+11906958,2024-02-20,Systems and methods for determining occurrence of pattern of interest in time series data,0,G05B|G06F
+11906658,2024-02-20,Systems and methods for shapelet decomposition based gesture recognition using radar,0,G01S|G06F|G06N
+11899704,2024-02-13,"Systems and methods for extracting, digitizing, and using engineering drawing data",1,G06F|G06V
+11893751,2024-02-06,System and method for forecasting location of target in monocular first person view,1,G06N|G06T
+11893326,2024-02-06,Systems and methods for generating molded parts comprising reinforced composite materials,1,G06F|G06N|G06T
+11893305,2024-02-06,System and method for synthetic audio generation,0,G06F|G10H|G10K|G10L
+11887730,2024-01-30,Systems and methods for unobtrusive digital health assessment,0,G06N|G16H
+11887238,2024-01-30,Method and system for generating 2D animated lip images synchronizing to an audio signal,0,G06F|G06T|G06V|G10L
+11886396,2024-01-30,System and method for learning-based synthesis of data transformation rules,0,G06F
+11880981,2024-01-23,Method and system for leaf age estimation based on morphological features extracted from segmented leaves,0,G06F|G06T|G06V
+11880345,2024-01-23,Method and system for generating annotations and field-names for relational schema,0,G06F|G06N
+11874951,2024-01-16,System and method for risk aware data anonymization,0,G06F|G06N|H04W
+11874121,2024-01-16,Method and system for fleet route optimization,0,G01C|G06Q
+11872040,2024-01-16,Method and system for assessment of cognitive load from bio-potentials measured using wearable endosomatic device,0,A61B|G06N|G16H
+11868387,2024-01-09,Method and system for table structure recognition via deep spatial association of words,0,G06F|G06V
+11865740,2024-01-09,"Systematic disposal, classification and dynamic procurement of recyclable resin",0,B07C|B29B|G06F|G06N|G06Q|G06V|Y02W
+11861875,2024-01-02,System and method for adaptive image transformation,0,G06F|G06N|G06T|G06V
+11861506,2024-01-02,Method and system for packing products with increased efficiency across packaging levels,0,B65B|G06N|G06Q
+11854023,2023-12-26,System and method for sales volume decomposition,0,G06N|G06Q
+11853710,2023-12-26,Method and system for extracting natural language elements embedded in application source code,0,G06F|G06N
+11847123,2023-12-19,System and method for knowledge retrieval using ontology-based context matching,0,G06F
+11842800,2023-12-12,Artificial intelligence based temperature measurement in mixed fluid chamber,1,G01K|G06N|G16C
+11836638,2023-12-05,BiLSTM-siamese network based classifier for identifying target class of queries and providing responses thereof,2,G06F|G06N
+11836257,2023-12-05,Method and system for defending universal adversarial attacks on time-series data,0,G06F|G06N
+11829193,2023-11-28,Method and system for secure online-learning against data poisoning attack,2,G06F|G06N
+11822567,2023-11-21,System and method for auto-mapping source and target data attributes based on metadata information,0,G06F
+11817706,2023-11-14,System and method for transactive energy market,0,G06Q|H02J|Y04S
+11817217,2023-11-14,Discriminating features based sepsis prediction,0,A61B|G06F|G06N|G06V|G16H
+11816913,2023-11-14,Methods and systems for extracting information from document images,0,G06F|G06V
+11816190,2023-11-14,Systems and methods to analyze open source components in software products,0,G06F
+11816087,2023-11-14,Method and system for blockchain monitoring,0,G06F|H04L
+11810383,2023-11-07,System and method for determination of label values in unstructured documents,10,G06F|G06N|G06Q|G06V
+11809817,2023-11-07,Methods and systems for time-series prediction under missing data using joint impute and learn technique,0,G06F|G06N
+11805137,2023-10-31,Method and system for machine learning model testing and preventive measure recommendation,0,G06F|G06N|H04L
+11790518,2023-10-17,Identification of defect types in liquid pipelines for classification and computing severity thereof,0,G01N|G06F|G06T|G06V
+11790430,2023-10-17,Method and system for determining unified user intention from digital environment for plurality of strategies,0,G06Q
+11781773,2023-10-10,Method and system for maximizing space utilization in a building,0,F24F|G06Q|Y02B
+11778219,2023-10-03,Method and system for live video streaming with integrated encoding and transmission semantics,0,H04N
+11778162,2023-10-03,Method and system for draping a 3D garment on a 3D human body,0,G06T|H04N
+11777987,2023-10-03,Method and system for layered detection of phishing websites,0,G06F|H04L
+11776252,2023-10-03,Method and system for asset inspection using unmanned aerial vehicles,0,B64U|G06F|G06N|G06T|G06V
+11776078,2023-10-03,Systems and methods for generating strategic competitive intelligence data relevant for an entity,0,G06F|G06Q
+11775549,2023-10-03,Method and system for document indexing and retrieval,0,G06F
+11775264,2023-10-03,Efficient deployment of machine learning and deep learning model's pipeline for serving service level agreement,0,G06F|G06N
+11774248,2023-10-03,Systems and methods for performing inclusive indoor navigation,0,G01C|G06V|H04W
+11768759,2023-09-26,Method and system for automated testing of web service APIs,0,G06F|H04L
+11762885,2023-09-19,System and method for identifying semantic similarity,0,G06F
+11756051,2023-09-12,System and method for custom-made medical devices life cycle management,0,A61L|B33Y|G06F|G06N|G06Q|G16H|G16Y|Y02P
+11755840,2023-09-12,Extracting mentions of complex relation types from documents by using joint first and second RNN layers to determine sentence spans which correspond to relation mentions,0,G06F|G06N
+11755766,2023-09-12,Systems and methods for detecting personally identifiable information,3,G06F|G06N
+11748658,2023-09-05,System and method for categorical time-series clustering,0,G06F|G06N|G06Q|G16Y
+11748573,2023-09-05,System and method to quantify subject-specific sentiment,0,G06F|G06N
+11748292,2023-09-05,FPGA implementation of low latency architecture of XGBoost for inference and method therefor,0,G06F|G06N
+11741754,2023-08-29,Detecting and validating a user activity captured from multiple sensors,0,A61B|G06F|G06V
+11740612,2023-08-29,Multiscale material selection method for designing mechanical systems,0,G05B|G06F
+11736594,2023-08-22,Low-latency FPGA framework based on reliable UDP and TCP re-assembly middleware,0,H04L
+11735166,2023-08-22,Method and system for automatic speech recognition in resource constrained devices,0,G06N|G10L
+11734783,2023-08-22,System and method for detecting on-street parking violations,1,G06F|G06Q|G06V
+11734580,2023-08-22,Building analytical platform to enable device fabrication,1,G06F|G06N
+11734321,2023-08-22,Method and system for retrieval of prior court cases using witness testimonies,0,G06F|G06N|G06Q
+11720614,2023-08-08,Method and system for generating a response to an unstructured natural language (NL) query,0,G06F
+11714742,2023-08-01,Synthesizing printf and scanf statements for generating debug messages in high-level synthesis (HLS) code,0,G06F
+11704303,2023-07-18,Method and system for processing transactions in a blockchain network,0,G06F|H04L
+11699522,2023-07-11,Unified platform for domain adaptable human behaviour inference,0,A61B|G06F|G06N|G16H
+11699505,2023-07-11,Method and system for estimating corrosion inhibitor concentration using a multi-electrode array sensor,1,G01N|G06N|G16C
+11699275,2023-07-11,Method and system for visio-linguistic understanding using contextual language model reasoners,1,G06F|G06N|G06V
+11696736,2023-07-11,Anatomical landmark detection and identification from digital radiography images containing severe skeletal deformations,0,A61B|G06N|G06T|G06V
+11681827,2023-06-20,Method and system for enabling privacy in an application using fully homomorphic encryption,0,G06F|G06N|H04L
+11670047,2023-06-06,System and method for integrating objects in monocular slam,1,G06T
+11669314,2023-06-06,Method and system to enable print functionality in high-level synthesis (HLS) design platforms,0,G06F
+11663295,2023-05-30,Methods and systems for generating synthetic microstructure images of material with desired features,0,G06F|G06T|G06V
+11662874,2023-05-30,Method and system for transforming wireframes to as-is screens with responsive behaviour,0,G06F|G06T
+11657590,2023-05-23,Method and system for video analysis,2,G06F|G06N|G06V
+11657409,2023-05-23,System and method for product demand transfer estimation through machine learning,0,G06N|G06Q
+11651150,2023-05-16,Deep learning based table detection and associated data extraction from scanned image documents,1,G06F|G06V
+11650907,2023-05-16,Systems and methods for selective path sensitive interval analysis,0,G06F
+11645596,2023-05-09,Method and system for proof of work (POW) based protection of resources,0,G06F|G06Q|H04L
+11640542,2023-05-02,Method and system for system architecture technology recommendation,0,G06F|G06N
+11636498,2023-04-25,Methods and systems for predicting wait time of queues at service area,0,G06N|G06Q|G06V
+11631247,2023-04-18,System and method to capture spatio-temporal representation for video reconstruction and analysis,0,G06F|G06N|G06V
+11631233,2023-04-18,Method and system for document classification and text information extraction,1,G06F|G06V
+11625538,2023-04-11,Methods and systems for automatic extraction of self-reported activities of an individual,0,G06F|G06N
+11625536,2023-04-11,System and method for identification and profiling adverse events,0,G06F|G06N|H04L
+11619509,2023-04-04,Method and system for trip classification,0,G01C|G01S|G06Q|G08G
+11615603,2023-03-28,Method and system for learning spectral features of hyperspectral data using DCNN,0,G06F|G06N|G06V
+11615176,2023-03-28,Registration and verification of biometric modalities using encryption techniques in a deep neural network,1,G06F|G06N|G06V|H04L
+11611638,2023-03-21,Re-assembly middleware in FPGA for processing TCP segments into application layer messages,0,H04L
+11610649,2023-03-21,Method and system for identification of key driver organisms from microbiome / metagenomics studies,0,C12Q|G06F|G16B|G16H|Y02A
+11609156,2023-03-21,Methods and systems for benchmarking asset performance,0,F25B|G01M|G06Q|Y02P
+11605218,2023-03-14,Systems and methods for constructing a modular Siamese network for face verification,0,G06F|G06N|G06V
+11605147,2023-03-14,Method and system for tuning graphics processing unit (GPU) parameters of a GPU kernel,1,G06F|G06T
+11599894,2023-03-07,Method and system for generating customer decision tree through machine learning,0,G06Q
+11599805,2023-03-07,Method and system for utilizing domain knowledge to automatically identify solution to a problem,0,G06F|G06N
+11599580,2023-03-07,Method and system to extract domain concepts to create domain dictionaries and ontologies,0,G06F
+11593822,2023-02-28,Method and system for time series data prediction based on seasonal lags,0,G06N|G06Q
+11593651,2023-02-28,Method and system for training a neural network for time series data classification,0,G06F|G06N
+11593641,2023-02-28,Automatic generation of synthetic samples using dynamic deep autoencoders,1,G06N
+11593469,2023-02-28,Continuously validating a user during an established authenticated session using photoplethysmogram and accelerometer data,0,A61B|G06F|H04L
+11593325,2023-02-28,Systems and methods of data migration in multi-layer model-driven applications,0,G06F
+11592359,2023-02-28,System and method for calculating risk associated with failures in process plants,1,G01M|G06F|G06Q
+11589760,2023-02-28,System and method for physiological monitoring and feature set optimization for classification of physiological signal,0,A61B|G06F|G16H|H04R
+11586928,2023-02-21,Method and system for incorporating regression into stacked auto encoder (SAE),0,G06N
+11586596,2023-02-21,Methods and systems for hierarchical dynamic cataloging,0,G06F|G06N|G06Q
+11579851,2023-02-14,Method and system for identification of redundant function-level slicing calls,0,G06F
+11579576,2023-02-14,Systems and methods for optimizing performance parameters of air handling units in infrastructures,0,G05B|G06N
+11573563,2023-02-07,Edge centric communication protocol for remotely maneuvering a tele-presence robot in a geographically distributed environment,0,G05D|H04L
+11571162,2023-02-07,Recurrent neural network architecture based classification of atrial fibrillation using single lead ECG,2,A61B|G06N|G16H
+11568203,2023-01-31,Failed and censored instances based remaining useful life (RUL) estimation of entities,0,G05B|G06F|G06N
+11568084,2023-01-31,Method and system for sequencing asset segments of privacy policy using optimization techniques,0,G06F|H04L
+11567974,2023-01-31,Method and system for hierarchical time-series clustering with auto encoded compact sequence (AECS),1,G06F|G06N
+11562807,2023-01-24,Systems and methods for predicting structure and properties of atomic elements and alloy materials,1,G06F|G16C
+11561944,2023-01-24,"Method and system for identifying duplicate columns using statistical, semantics and machine learning techniques",0,G06F|G06N
+11558710,2023-01-17,Real-time monitoring of proximity between a plurality of computing devices,0,G01S|H04B|H04L|H04Q|H04W
+11556869,2023-01-17,Method and system for dynamically predicting vehicle arrival time using a temporal difference learning technique,0,G06N|G06Q|G08G
+11556789,2023-01-17,Time series prediction with confidence estimates using sparse recurrent mixture density networks,2,G06N
+11551394,2023-01-10,Audio-speech driven animated talking face generation using a cascaded generative adversarial network,2,G06F|G06N|G06T|G06V|G10L
+11551195,2023-01-10,Systems and methods for providing services to smart devices connected in an IoT platform,1,G06F|G06Q|H04L
+11551177,2023-01-10,Method and system for handling source field and key performance indicator calculation changes,0,G06F|G06Q
+11551142,2023-01-10,Systems and methods for conversational based ticket logging,0,G06F|G06N
+11550990,2023-01-10,"Machine first approach for identifying accessibility, non-compliances, remediation techniques and fixing at run-time",0,G06F|G06Q
+11544348,2023-01-03,Neural network based position estimation of target object of interest in video frames,0,G06F|G06N|G06T|G06V
+11540781,2023-01-03,Modeling a neuronal controller exhibiting human postural sway,0,A61B|G06N|G16H
+11538100,2022-12-27,Neural network based prediction of competition behaviour in energy markets,0,G06F|G06N|G06Q
+11537957,2022-12-27,Estimating capacity and usage pattern of behind-the-meter energy storage in electric networks,1,G06Q|H02J|Y02B|Y04S
+11537904,2022-12-27,Framework to assess technical feasibility of designs for additive manufacturing,0,B33Y|G06F|G06N|G06Q
+11531830,2022-12-20,Synthetic rare class generation by preserving morphological identity,0,A61B|G06F|G06N|G06Q|G16C|G16H
+11526629,2022-12-13,Method and system for providing data privacy based on customized cookie consent,0,G06F|G06N|H04L
+11526174,2022-12-13,Method and a system for hierarchical network based diverse trajectory proposal,0,G05B|G05D|G06N
+11525683,2022-12-13,Drift-free velocity estimation for multirotor systems and localization thereof,0,B64U|G01C|G01P|G05D|G06F
+11521507,2022-12-06,Method and system for securely conducting a digital examination,0,G06F|G06Q|G09B
+11521281,2022-12-06,Method and system for performing negotiation task using reinforcement learning agents,1,G06N|G06Q
+11515013,2022-11-29,Method and system for in-silico optimization and design of electrolytes,0,G06F|G16C|H01M|Y02E
+11507710,2022-11-22,System and method for optimization of industrial processes,0,G05B|G06F|G06N
+11501777,2022-11-15,Methods and systems for enabling human-robot interaction to resolve task ambiguity,1,B25J|G06F|G10L|H04W
+11494424,2022-11-08,System and method for artificial intelligence based data integration of entities post market consolidation,0,G06F|G06N|G06Q
+11494415,2022-11-08,Method and system for joint selection of a feature subset-classifier pair for a classification task,0,G06F|G06V
+11494345,2022-11-08,System and method for blockchain based decentralized storage with dynamic data operations,0,G06F|H04L
+11488687,2022-11-01,System and method for improved estimation of functional potential of genomes and metagenomes,0,G06N|G16B
+11488270,2022-11-01,System and method for context and sequence aware recommendation,1,G06N|G06Q
+11488226,2022-11-01,Method and system for designing formulated products,1,G06F|G06N|G06Q|Y10S
+11488032,2022-11-01,Systems and methods for real time configurable recommendation using user data,0,G06F|G06N
+11488026,2022-11-01,Method and system for partitioning of deep convolution network for executing on computationally constraint devices,0,G06N|H04L
+11488017,2022-11-01,System and method for monitoring and quality evaluation of perishable food items,0,G06N|G06Q|G16C
+11487577,2022-11-01,Robotic task planning for complex task instructions in natural language,0,B25J|G05B|G06F
+11487533,2022-11-01,Method and system for inferencing logic out of an application source,0,G06F|G06N
+11481830,2022-10-25,"Method, system and medium for user specific apparel attribute recommendation",0,G06F|G06N|G06Q
+11481602,2022-10-25,System and method for hierarchical category classification of products,0,G06F|G06N|G06Q
+11476669,2022-10-18,Method and system for building reinforcement learning (RL) based model for generating bids,0,G06F|G06N|G06Q|H02J
+11475784,2022-10-18,Method and system for securely distributing content in an examination,0,G06F|G06V|G09B|H04L
+11475531,2022-10-18,Method and system for adaptive inventory replenishment,1,G06N|G06Q
+11475341,2022-10-18,Systems and methods for obtaining optimal mother wavelets for facilitating machine learning tasks,0,G06F|G06N
+11475321,2022-10-18,Automated extraction of rules embedded in software application code using machine learning,2,G06F|G06N
+11475307,2022-10-18,Systems and methods for automating information extraction from piping and instrumentation diagrams,1,G06F|G06N|G06V
+11475180,2022-10-18,System and method for determination of air entrapment in ladles,1,B22D|G06F|G06N
+11468977,2022-10-11,Method and system for interpreting neural interplay involving proprioceptive adaptation during a dual task paradigm,3,A61B|A63B|G06F|G16H
+11468372,2022-10-11,Data modeling systems and methods for risk profiling,0,G06N|G06Q
+11462331,2022-10-04,Method and system for pressure autoregulation based synthesizing of photoplethysmogram signal,0,A61B|G06F|G16H
+11462328,2022-10-04,Method and system for injury risk prediction and corrective action for high contact type activity,0,G06F|G06T|G16H
+11462229,2022-10-04,System and method for reducing noise components in a live audio stream,0,G06F|G06N|G10L
+11462123,2022-10-04,System and method for digitized digit symbol substitution test,0,A61B|G06N|G09B
+11461396,2022-10-04,System and method of extraction of information and graphical representation for design of formulated products,0,G06F|G06Q
+11455899,2022-09-27,Teaching kit and method to design one or more games,0,A63F|G06Q|G09B
+11455558,2022-09-27,Method and system for managing events using automated rule generation,0,G06N|G06Q|H04L
+11449522,2022-09-20,Systems and methods for recommending execution environment for analysing sensor observational data,0,G06F
+11449413,2022-09-20,Accelerating development and deployment of enterprise applications in data driven enterprise IT systems,0,G06F|G06N
+11444774,2022-09-13,Method and system for biometric verification,0,H04L
+11443538,2022-09-13,System and method for machine assisted documentation in medical writing,0,G06F|G06V
+11443446,2022-09-13,Method and system for determining dynamism in a scene by processing depth image,0,G06T
+11443179,2022-09-13,Simultaneous multi-class learning for data classification,0,G06N
+11443136,2022-09-13,System and method for signal pre-processing based on data driven models and data dependent model transformation,0,G06F|G06N
+11442620,2022-09-13,Method and device providing multimodal input mechanism,0,G06F
+11432779,2022-09-06,Method and device for capacitive touch panel based biosignal measurement,1,A61B|G06F|G16H
+11432753,2022-09-06,Parallel implementation of deep neural networks for classifying heart sound signals,2,A61B|G06N|G16H
+11430576,2022-08-30,System and method for monitoring and quality evaluation of perishable food items,0,G06F|G06N|G06V|G16Y|H04L
+11429875,2022-08-30,Method and system for hierarchical decomposition of tasks and action planning in a robotic network,0,B25J|G05B|G06F|G06N
+11429837,2022-08-30,Sparse neural network based anomaly detection in multi-dimensional time series,1,G05B|G06F|G06N
+11429467,2022-08-30,Method and system for prediction of correct discrete sensor data based on temporal uncertainty,0,G05B|G06F|G06N
+11425628,2022-08-23,Method and system for achieving auto adaptive clustering in a sensor network,0,H04W
+11425539,2022-08-23,Method for NextGen mission critical networks to determine location of tetra network devices,0,H04L|H04W
+11419542,2022-08-23,System and method for non-apnea sleep arousal detection,0,A61B|G06F|G06V|G16H
+11418323,2022-08-16,Method and system for securing peer nodes in a blockchain network,1,H04L
+11416881,2022-08-16,Method and system for forecasting sales based on N-Gram model,0,G06N|G06Q
+11409925,2022-08-09,Systems and methods for simulation of electricity value ecosystem using agent based modeling approach,0,G06F|G06N|G06Q
+11409837,2022-08-09,Systems and methods for dense surface reconstruction of an object using graph signal processing,0,G01B|G06F|G06T|H04N|H10F
+11405459,2022-08-02,Immutable records based generation of machine learning models for dynamically triggering actions,0,G06F|G06N|G16Y|H04L
+11405415,2022-08-02,System and method for selection of cloud service providers in a multi-cloud,0,G06F|H04L
+11403523,2022-08-02,Sparsity constraints and knowledge distillation based learning of sparser and compressed neural networks,0,G06N
+11397837,2022-07-26,Systems and methods for pest forecasting using historical pesticide usage information,0,A01N|G06F|G06N|G06Q
+11392840,2022-07-19,System and method for generating recommendations,3,G06N|G06Q
+11386897,2022-07-12,Method and system for extraction of key-terms and synonyms for the key-terms,0,G06F|G10L
+11383928,2022-07-12,Systems and methods for optimizing scheduling of non-preemptive tasks in multi-robotic environment,0,B65G|G06Q
+11379717,2022-07-05,Systems and methods for classification of multi-dimensional time series of parameters,1,G06F|G06N|G16H
+11379261,2022-07-05,Systems and methods for automatically creating an image processing pipeline,0,G06F|G06N
+11375021,2022-06-28,Edge based sensor actuation and control in IoT network for event monitoring,0,G01S|G06F|G16Y|H04L|H04W
+11373757,2022-06-28,Method and system for classifying phonocardiogram signal quality,1,A61B|G06N|G16H
+11373315,2022-06-28,Method and system for tracking motion of subjects in three dimensional scene,0,G06T
+11373090,2022-06-28,Techniques for correcting linguistic training bias in training data,0,G06F|G06N
+11366941,2022-06-21,Systems and methods for designing unified architecture models for architecting digital products and digital services,0,G06F
+11366659,2022-06-21,Method and system for automated classification of variables using unsupervised distribution agnostic clustering,0,G06F
+11361548,2022-06-14,Method and system for multi instance visual tracking based on observer motion modelling,1,G06T|G06V
+11360835,2022-06-14,Method and system for recommender model selection,2,G06F|G06N|G06Q
+11354549,2022-06-07,Method and system for region proposal based object recognition for estimating planogram compliance,3,G06F|G06N|G06Q|G06T|G06V
+11354531,2022-06-07,System and method for enabling robot to perceive and detect socially interacting groups,1,G06F|G06T|G06V
+11354339,2022-06-07,Method and system for clustering users using cognitive stress report for classifying stress levels,0,A61B|G06F|G16H
+11354105,2022-06-07,Model driven system and method for development of micro service applications,1,G06F|G06Q
+11348693,2022-05-31,Graph convolution based gene prioritization on heterogeneous networks,0,G06F|G06N|G16B|G16H
+11348048,2022-05-31,Method and system for pre-emptive deviation detection for telecom process flow using digital twin,0,G06F|G06N|G06Q|H04W|Y02B
+11343100,2022-05-24,Method and system for privacy preserving multifactor biometric authentication,0,G06N|H04L
+11341033,2022-05-24,Method and system for automated generation of test scenarios and automation scripts,2,G06F
+11340863,2022-05-24,Systems and methods for muting audio information in multimedia files and retrieval thereof,0,G06F|G10L
+11335451,2022-05-17,Method and system for improving wellbeing of a person using a digital character,0,A61B|G06T|G16H
+11335329,2022-05-17,Method and system for generating synthetic multi-conditioned data sets for robust automatic speech recognition,0,G06F|G06N|G10L
+11328726,2022-05-10,Conversational systems and methods for robotic task identification using natural language,0,B25J|G05B|G06F|G10L
+11328376,2022-05-10,"Method, system, and non-transitory computer-readable medium for aggregating, accessing, and transacting a plurality of business applications",0,G06Q
+11328326,2022-05-10,Method and system for targeted advertising in an over-the-top (OTT) ecosystem,0,G06N|G06Q
+11323547,2022-05-03,Cloud driven application launcher for execution and control of applications in computing devices,0,G06F|H04L
+11323273,2022-05-03,System and method for generating a blockchain application for different blockchain technologies,6,G06F|H04L
+11321650,2022-05-03,System and method for concurrent dynamic optimization of replenishment decision in networked node environment,2,G06N|G06Q
+11321319,2022-05-03,System and method for SQL query extraction in an application,0,G06F
+11320955,2022-05-03,Server controlled framework for controlling widgets of a tabular structure,0,G06F
+11318610,2022-05-03,Robotic gripper for writing and object creation,0,B25J|B43L|B44D|G06F
+11314632,2022-04-26,Method and system for identification and elimination of false positives from delta alarms,0,G06F
+11311198,2022-04-26,System and method for determining psychological stress of a person,0,A61B|G06N|G16H|G16Z
+11307327,2022-04-19,Method and system for online monitoring and optimization of mining and mineral processing operations,0,G01V|G06N|G06Q
+11304663,2022-04-19,Systems and methods for detecting anomaly in a cardiovascular signal using hierarchical extremas and repetitions,0,A61B|G06F|G16H
+11303690,2022-04-12,Method and system for enhancing quality of experience (QOE) of video reception at receiver,1,H04L|H04N
+11301941,2022-04-12,Systems and methods for optimizing incentives for demand response,0,G06F|G06Q
+11301587,2022-04-12,Systems and methods for masking and unmasking of sensitive data,0,G06F|G11C|H04L
+11297135,2022-04-05,Data synchronization,0,H04L|H04W
+11295501,2022-04-05,Method and system for generating face animations from speech signal input,1,G06N|G06T|G10L
+11294946,2022-04-05,Methods and systems for generating textual summary from tabular data,0,G06F|G06N
+11294940,2022-04-05,Methods and systems for automated identification of agro-climatic zones,0,G06F|G06N|G06Q|Y02A
+11290293,2022-03-29,Conference manager (CM) for low bandwidth video conferencing,0,H04L|H04M
+11288769,2022-03-29,System and method for stitching images using non-linear optimization and multi-constraint cost function minimization,0,G06T
+11288584,2022-03-29,Systems and methods for predicting gender and age of users based on social media data,0,G06N|G06Q
+11282093,2022-03-22,Method and system for machine learning based item matching by considering user mindset,0,G06N|G06Q
+11281980,2022-03-22,Systems and methods for extending reasoning capability for data analytics in internet-of-things (IoT) platform,0,G06F|G06N
+11276017,2022-03-15,Method and system for estimating efforts for software managed services production support engagements,0,G06F|G06Q
+11275860,2022-03-15,System and method for software verification,0,G06F
+11270429,2022-03-08,Method and system for impurity detection using multi-modal imaging,0,G01N|G06T
+11270010,2022-03-08,Method and system for biometric template protection,0,G06F|G06N|H04L
+11269336,2022-03-08,Method and system for free space detection in a cluttered environment,0,G01C|G05B|G05D|G06T|G06V|Y02P
+11263450,2022-03-01,Method and system for pattern recognition in a signal using morphology aware symbolic representation,0,A61B|G06F
+11263203,2022-03-01,Systems and methods for storing data in an integrated array and linked list based structure,0,G06F
+11263164,2022-03-01,Multiple field programmable gate array (FPGA) based multi-legged order transaction processing system and method thereof,0,G06F|G06Q|H03K
+11256993,2022-02-22,Parallelization approaches of modified teaching learning based search optimization technique for variable selection,0,G06N|G06Q
+11256962,2022-02-22,Weakly supervised learning of 3D human poses from 2D poses,0,G06F|G06N|G06T|G06V
+11256826,2022-02-22,Method and system for generating consent recommendation,0,G06F|G06N|G06Q|H04L
+11255918,2022-02-22,Method and system for online estimation of SOH and RUL of a battery,1,G01R|G06N
+11251749,2022-02-15,"Methods and systems for fault detection, diagnosis and localization in solar panel network",1,G06F|H02S|Y02E
+11250310,2022-02-15,Electronic sensing systems and methods thereof,0,G01N|G06N
+11249876,2022-02-15,System and method for predicting application performance for large data size on big data cluster,0,G06F
+11249488,2022-02-15,System and method for offloading robotic functions to network edge augmented clouds,0,B25J|G05B|G05D|G06Q|H04L
+11245709,2022-02-08,Multi-verifier approach for attestation of nodes in a network,0,H04L|H04W
+11243874,2022-02-08,Knowledge centric approach to auto-generate test specifications for IoT solutions,0,G06F|G06N|G16Y
+11238389,2022-02-01,System and method for risk management in a supply chain,1,G06Q
+11216897,2022-01-04,Method and system for contract management in a data marketplace,0,G06F|G06Q
+11216692,2022-01-04,Systems and methods for coupled representation using transform learning for solving inverse problems,0,G06F|G06N|G06T
+11216254,2022-01-04,Method and system for automated and optimized code generation for contradictory non-functional requirements (NFRs),0,G06F
+11215961,2022-01-04,System and method of declarative modeling of a process for automation,2,G01S|G05B|G06F
+11212218,2021-12-28,Method and system for message based communication and failure recovery for FPGA middleware framework,0,G06F|H04L
+11210472,2021-12-28,Automated extraction of message sequence chart from textual description,0,G06F
+11210378,2021-12-28,System and method for authenticating humans based on behavioral pattern,0,G06F|G06N|G06V|G08B
+11200657,2021-12-14,Method and system for semantic change detection using deep neural network feature correlation,0,G06T|G06V
+11200250,2021-12-14,Method and system for optimizing validations carried out for input data at a data warehouse,0,G06F
+11200146,2021-12-14,Method and system for counter example guided loop abstraction refinement,1,G06F
+11195113,2021-12-07,Event prediction system and method,1,G06N|G06Q
+11188934,2021-11-30,Dynamic demand transfer estimation for online retailing using machine learning,0,G06N|G06Q
+11188747,2021-11-30,System and method for masking text within images,0,G06F|G06T|G06V
+11185227,2021-11-30,Method and system for automated healthcare monitoring of a patient,0,A61B|G06F|G06Q|G16H
+11182724,2021-11-23,Estimation of per-application migration pricing and application move group sequence for cloud migration,0,G06N|G06Q|H04L
+11182502,2021-11-23,Systems and methods for computing data privacy-utility tradeoff,0,G06F|G06N|H04K|H04L|H04W
+11176724,2021-11-16,Identity preserving realistic talking face generation using audio speech of a user,0,G06F|G06T|G06V|G10L|H04N
+11167420,2021-11-09,Systems and methods for auto-generating a control and monitoring solution for smart and robotics environments,0,B25J|G05B|G06F|G06Q|H04L|H04W
+11163924,2021-11-02,Identification of changes in functional behavior and runtime behavior of a system during maintenance cycles,0,G06F
+11163608,2021-11-02,Method and system for privacy enabled task allocation,0,G06F|G06Q
+11151130,2021-10-19,Systems and methods for assessing quality of input text using recurrent neural networks,0,G06F|G06N
+11146640,2021-10-12,System and method for enabling intelligent network services by cognitive sense-analyze-decide-respond framework,3,H04L|H04W
+11145137,2021-10-12,Method and system for augmented reality based liquid measurement and mapping,0,G06F|G06N|G06Q|G06T|G06V
+11141856,2021-10-12,Systems and methods for generating control system solutions for robotics environments,0,B25J|G05B|G06F
+11141061,2021-10-12,Cognitive load estimation based on pupil dilation,0,A61B|G06F
+11133101,2021-09-28,Method and system for data driven cognitive clinical trial feasibility program,0,G06N|G06Q|G16H
+11132495,2021-09-28,Method and device for dynamic viewport generation to enhance viewport usability,1,G06F
+11126835,2021-09-21,Hand detection in first person view,0,G06F|G06N|G06V
+11120228,2021-09-14,Method and system for generating ground truth labels for ambiguous domain specific tasks,0,G06F|G06N
+11120221,2021-09-14,Method and system to resolve ambiguities in regulations,0,G06F|G06N|G06Q
+11119132,2021-09-14,Method and system for low sampling rate electrical load disaggregation,0,G01D|G01R|G06N|G06Q|Y04S
+11115551,2021-09-07,Device for performing secure and automatic flipping and scanning of documents,0,B65H|G06K|G06V|H04N
+11115108,2021-09-07,Method and system for field agnostic source localization,0,G01S|G06F|H04B
+11113640,2021-09-07,Knowledge-based decision support systems and method for process lifecycle automation,0,G06F|G06N|G06Q
+11113337,2021-09-07,Method for imputing missed data in sensor data sequence with missing data,1,G01R|G06F|G06N
+11113266,2021-09-07,Detecting inconsistencies in semantics of business vocabulary and business rules (SBVR) using many-sorted logic,0,G06F|G06Q
+11113259,2021-09-07,Method and system for analyzing unstructured data for compliance enforcement,0,G06F|H04L
+11113080,2021-09-07,Context based adaptive virtual reality (VR) assistant in VR environments,0,G06F
+11112993,2021-09-07,Methods and systems for memory suspect detection,1,G06F
+11107014,2021-08-31,Method and system for model fitting to hierarchical time series cluster,0,G06F|G06N|G06Q
+11105675,2021-08-31,Unobtrusive and automated detection of frequency of vibrating objects using multiple strobe sources,0,G01H|H04N
+11102250,2021-08-24,Controlling behavior of an internet of things (IoT) automation system by identifying policy violations,0,G05B|H04L
+11100443,2021-08-24,Method and system for evaluating performance of workflow resource patterns,0,G06Q
+11098455,2021-08-24,Systems and methods for data acquisition and asset inspection in presence of magnetic interference,4,B64U|E01B|G06N|G06T
+11089334,2021-08-10,Methods and systems for maintaining quality of experience in real-time live video streaming,0,H04L|H04N
+11089108,2021-08-10,"Method and system for anomaly detection, missing data imputation and consumption prediction in energy data",3,G05B|G06F|G06N|G06Q|H04L
+11087248,2021-08-10,Systems and methods for contextual recommendation of learning content,0,G06F|G06N|G06Q
+11087085,2021-08-10,Method and system for inferential data mining,0,G06F|G06N
+11087078,2021-08-10,System and method for real time digitization of hand written input data,1,G06F|G06V
+11086473,2021-08-10,System and method for aiding communication,0,A61B|A61F|G02B|G06F|G06N|G09B|H04N
+11083416,2021-08-10,Method and system for detection of coronary artery disease in a person using a fusion approach,0,A61B|G06N|G16H
+11082306,2021-08-03,"System and method of provisioning, upgrading and tracking solutions in a multi tenanted platform",0,G06F|H04L
+11082148,2021-08-03,Method for detecting active radiofrequency wireless communication signal in a region,0,H04B|H04K|H04L|H04W
+11071038,2021-07-20,Method and system for multi-hop path selection for mobile robots based on cloud platform,0,H04W|Y02D
+11069253,2021-07-20,Method and system for language skill assessment and development,2,G06F|G09B
+11069108,2021-07-20,Method and system for creating an intelligent cartoon chat strip based on dynamic content,0,G06F|G06T|G06V|G10L
+11068779,2021-07-20,Statistical modeling techniques based neural network models for generating intelligence reports,0,G06F|G06N|G06V
+11062177,2021-07-13,Method and system for creating aesthetic design at scale,0,G06F|G06V|G10H
+11062047,2021-07-13,System and method for distributed computation using heterogeneous computing nodes,3,G06F|H04L|H04W
+11061953,2021-07-13,Method and system for extraction of relevant sections from plurality of documents,1,G06F
+11056147,2021-07-06,Automated conversion of text based privacy policy to video,0,G06F|G06Q|G06V|G10L|G11B
+11055447,2021-07-06,Methods and systems for adaptive parameter sampling,5,G01N|G01W|G06F|H04L|Y02A|Y04S
+11055200,2021-07-06,Systems and methods for validating domain specific models,1,G06F
+11051756,2021-07-06,System and method for analyzing user's activities on conductive fabrics to trigger IoT devices,0,A61B|G06F|G06V|G16Y
+11048881,2021-06-29,Method and system for identification of relation among rule intents from a document,2,G06F|G06N
+11048606,2021-06-29,Systems and methods for computing and evaluating internet of things (IoT) readiness of a product,1,G06F|G06N|G06Q
+11043286,2021-06-22,Polymeric carriers for controlled release of molecules,0,G06F|G16C
+11036475,2021-06-15,System and method for generation of model descriptor of a plurality of specifications,0,G06F|H04L
+11036303,2021-06-15,Systems and methods for three-dimensional (3D) reconstruction of human gestures from radar based measurements,10,G01S|G06F|G06N|G06V
+11030570,2021-06-08,System and method for dynamic fleet management,1,G06Q|G07C|G08G|G16Y
+11023686,2021-06-01,Method and system for resolving abstract anaphora using hierarchically-stacked recurrent neural network (RNN),0,G06F|G06N|H04L
+11023565,2021-06-01,System and protocol for integrating multiple service providers across various domains using a platform,0,G06F|H04L
+11023507,2021-06-01,Methods and systems for performing a model driven domain specific search,0,G06F
+11014235,2021-05-25,Systems and methods for semantic knowledge based dynamic utility calculation,0,B25J|G05B|G06N|G06Q
+11010673,2021-05-18,Method and system for entity relationship model generation,0,G06F|G06N
+11010503,2021-05-18,Method and system providing temporal-spatial prediction of load demand,1,B60L|G06F|Y02E|Y02T|Y04S
+11006874,2021-05-18,Real-time stress determination of an individual,1,A61B|G06F|G06V|G16H
+11003768,2021-05-11,System and method for consent centric data compliance checking,0,G06F|H04L
+11000222,2021-05-11,Particle filtering for continuous tracking and correction of body joint positions,1,A61B|G06F|G06T|G06V|G16H
+10991265,2021-04-27,Systems and methods for intelligent generation of inclusive system designs,2,G06F|G06N|G06V|G09B
+10984419,2021-04-20,Method and system for performing secure banking transactions,12,G06Q|G07F
+10983763,2021-04-20,Generating scalable and customizable location independent agile delivery models,0,G06F|G06N|G06Q
+10980447,2021-04-20,System and method for tracking body joints,1,A61B|G06T|G06V
+10977618,2021-04-13,System and method for management of workflow configurations,0,G06F|G06Q
+10977398,2021-04-13,Systems and methods for determining properties of composite materials for predicting behaviour of structures,0,G01N|G06F|G06Q|G16C|Y02P
+10970531,2021-04-06,Digitization of industrial inspection sheets by inferring visual relations,0,G06F|G06N|G06T|G06V
+10965519,2021-03-30,Exactly-once transaction semantics for fault tolerant FPGA based transaction systems,0,G06F|H04L
+10964076,2021-03-30,Method and system for solving inverse problems in image processing using deep dictionary learning (DDL),0,G06T
+10949791,2021-03-16,Collaborative platform for it service and vendor management,4,G06Q
+10949762,2021-03-16,Methods and systems for optimizing hidden Markov Model based land change prediction,0,G06N|G06Q
+10949583,2021-03-16,System and method for thermo-fluid management of conditioned space,0,G06F|H05K
+10948926,2021-03-16,Systems and methods for scalable multi-vehicle task allocation,1,G01C|G05D|G06F|G06Q
+10938673,2021-03-02,Automated SLA non-compliance detection and prevention system for batch jobs,0,G06F|H04L
+10936905,2021-03-02,Method and system for automatic object annotation using deep network,0,G06F|G06N|G06T|G06V
+10936897,2021-03-02,Method and system for information extraction from document images using conversational interface and database querying,5,G06F|G06N|G06T|G06V
+10932169,2021-02-23,Systems and methods for determining TCP transfer types in LTE-A communication networks and handling thereof,0,H04L|H04W
+10930286,2021-02-23,Method and system for muting classified information from an audio,0,G06F|G06N|G10L
+10930168,2021-02-23,Method and system for aggregating a plurality of learning technologies with an E-commerce layer,0,G06Q|G09B
+10929861,2021-02-23,Method and system for measuring a customer experience in an organization,0,G06F|G06Q
+10929785,2021-02-23,System and method for multi-level data representation of object lifecycle,1,G06Q
+10929182,2021-02-23,Systems and methods for scheduling a set of non-preemptive tasks in a multi-robot environment,1,B25J|G06F|G06Q
+10922614,2021-02-16,Converting procedural text to an actionable knowledge form,0,G06F|G06N|G06Q
+10922392,2021-02-16,Systems and methods for generating and managing composite digital identities,0,G06F|H04L
+10917305,2021-02-09,Method and system for conducting audit for an assessment platform,1,G06Q|H04L
+10915610,2021-02-09,Systems and methods for inclusive captcha,1,G06F|G06N|G09B
+10911543,2021-02-02,Resources management in internet of robotic things (IoRT) environments,0,G06F|H04L
+10909462,2021-02-02,Multi-dimensional sensor data based human behaviour determination system and method,1,G06N|G06Q|G16H

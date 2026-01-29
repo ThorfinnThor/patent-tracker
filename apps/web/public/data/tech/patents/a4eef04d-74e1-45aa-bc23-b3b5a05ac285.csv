@@ -1,0 +1,721 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432196,2025-09-30,Accessing a cloud-based service,0,H04L|H04N
+12430459,2025-09-30,Playback device queue access levels,0,G06F|H04N|Y04S
+12424220,2025-09-23,Network device interaction by range,0,G06F|G10L
+12423050,2025-09-23,Multiple-device setup,0,G06F|H04N
+12417071,2025-09-16,Techniques for intelligent home theater configuration,0,G06F|H04R|H04S
+12416963,2025-09-16,Portable playback device power management,0,G06F|Y02D
+12411652,2025-09-09,Capacitive touch sensor with integrated antenna(s) for playback devices,0,G06F|H01Q|H04B|H04R
+12407756,2025-09-02,Mirrored queues,0,G06F|G06Q|H04L|H04R
+12407097,2025-09-02,Position-based playback of multichannel audio,0,G06F|H01Q|H03G|H04B|H04R|H04S
+12401935,2025-08-26,Systems and methods for controlling playback and other features of a wireless headphone,0,G06F|G10L|H04R
+12395952,2025-08-19,Synchronization of content between networked devices,0,H04L|H04N|H04R|H04W
+12395700,2025-08-19,Adaptive media playback experiences for commercial environments,0,H04N|H04R
+12393397,2025-08-19,Distributed synchronization,0,G06F|G11B|H04N
+12393233,2025-08-19,Wireless antenna sensing in a playback device,0,G06F|H03K|H04N|H04R|H04S|Y02D
+12389494,2025-08-12,Simulation of device removal,0,H04W
+12389330,2025-08-12,Power management techniques for waking-up processors in media playback systems,0,G06F|H04W|Y02D
+12387716,2025-08-12,Wakewordless voice quickstarts,0,G06F|G10L
+12386880,2025-08-12,Social media queue across multiple streaming media services,0,G06F|G06Q|H04L
+12386583,2025-08-12,Smart music services preferences,0,G06F
+12382245,2025-08-05,Systems and methods for playback device management,0,G06F|G06N|G08C|H04B|H04N|H04R|H04W
+12382125,2025-08-05,Playback of synthetic media content via multiple devices,0,H04N
+12380161,2025-08-05,Queue identification,0,G06F|G11B
+12379893,2025-08-05,Streaming music using supported services,0,G06F
+12376008,2025-07-29,Re-establishing player connectivity,0,G06F|H04L|H04W
+12375750,2025-07-29,Networked device group information in a system with multiple media playback protocols,0,G06F|H04L|H04N|H04R
+12375052,2025-07-29,Audio notifications,0,G06F|H03G|H04L|H04N|H04R
+12374334,2025-07-29,Offline voice control,0,G06F|G10L|H04L
+12374333,2025-07-29,VAS toggle based on device orientation,0,G06F|G10L
+12373162,2025-07-29,Providing media for playback,0,G06F|G11B|H04L|H04N|H04R
+12367877,2025-07-22,Media content based on operational data,0,G06F|G06Q|G10L|H03G
+12367009,2025-07-22,Media playback system with virtual line-in,0,G05B|G06F|H04L|H04N
+12361048,2025-07-15,Generating digital media based on blockchain data,0,G06F|G06Q|G10H|H04N
+12360736,2025-07-15,Audio conflict resolution,0,G06F|G10L|H04R|H04S
+12360734,2025-07-15,Systems and methods for voice-assisted media content selection,0,G06F|G10L
+12356162,2025-07-08,Wearable audio device within a distributed audio playback system,0,G06F|H04B|H04N|H04R|H04S
+12348801,2025-07-01,Configuration of playback device audio settings,0,G06F|H04N
+12346372,2025-07-01,Playback queue collaboration and notification,0,G06F|H04N
+12342152,2025-06-24,Playback device calibration,0,G06F|H04R|H04S
+12342141,2025-06-24,Mapping and characterizing acoustic events within an environment via audio playback devices,0,G06F|G10K|G10L|H04R
+12340802,2025-06-24,Wake-word detection suppression,0,G06F|G10L|H04N
+12334078,2025-06-17,Voice control of playback devices,0,G06F|G10L|H04L
+12333209,2025-06-17,Control based on proximity,1,F21V|G06F|H03G|H04R|H05B
+12328543,2025-06-10,Headphone interaction with media playback system,0,G06F|H04R
+12327556,2025-06-10,Enabling and disabling microphones and voice assistants,0,G06F|G08B|G10L|H04R
+12324031,2025-06-03,Techniques to reduce time to music for a playback device,0,G06F|H04L|H04R|H04W
+12323668,2025-06-03,Media preference database,0,G06F|H04N|H04R
+12322390,2025-06-03,Conflict management for wake-word detection processes,0,G06F|G10L
+12321665,2025-06-03,Volume limit,0,G06F|G11B|H03G|H04R
+12321662,2025-06-03,Synchronizing playback of audio information received from other networks,0,G06F|H04N|H04R
+12316885,2025-05-27,Temporary configuration of a media playback system,0,G06F|G06Q|H04N
+12314633,2025-05-27,Playback device supporting concurrent voice assistants,0,G06F|G10L|H05B
+12309215,2025-05-20,Immersive audio in a media playback system,0,G06F|H04L|H04N|H04R|H04S
+12302075,2025-05-13,Updating playback device configuration information based on calibration data,0,G06F|H04R|H04S
+12301679,2025-05-13,Receiving media content based on user media preferences,0,G06F|H04L|H04N
+12299030,2025-05-13,Transferring playback between devices,0,G06F|G11B|H04L|H04N
+12294489,2025-05-06,Proximal playback devices,0,H04L|H04W
+12288558,2025-04-29,Systems and methods of operating media playback systems having multiple voice assistant services,0,G06F|G10L
+12284498,2025-04-22,Routines for playback devices,0,G06F|H04R
+12284241,2025-04-22,Group coordinator selection,0,H04L
+12283269,2025-04-22,Intent inference in audiovisual communication sessions,0,G10L|H04L
+12282707,2025-04-22,Techniques for extending the lifespan of playback devices,0,G06F|H04L
+12282706,2025-04-22,Facilitating calibration of an audio playback device,0,G06F|H03G|H04R|H04S
+12282373,2025-04-22,Portable playback device power management,0,G06F|Y02D
+12279096,2025-04-15,Systems and methods for associating playback devices with voice assistant services,0,G06F|G10L|H04R
+12279013,2025-04-15,Managing content quality and related characteristics of a media playback system,0,H04N
+12279008,2025-04-15,Audio encryption in a media playback system,0,G06F|G10L|H04N|H04W
+12277368,2025-04-15,Handling of loss of pairing between networked devices,0,G06F|G10L|H04L
+12277364,2025-04-15,Synchronization via out-of-band clock timing signaling,0,G06F|G11B|H04L|H04N
+12273084,2025-04-08,Playback device group volume control,0,H03G|H04L|H04N|H04R
+12271656,2025-04-08,Systems and methods of distributing audio to one or more playback devices,0,G06F|H03G|H04R
+12271655,2025-04-08,Distributed provisioning of properties of operational settings of a media playback system,0,G06F|H04R
+12262079,2025-03-25,Access control techniques for media playback systems,0,G06F|H04N
+12260151,2025-03-25,Calibration of a playback device based on an estimated frequency response,0,G06F|H04R|H04S
+12260064,2025-03-25,Group volume control,0,G06F|H04L|H04W
+12256200,2025-03-18,Thermal control of audio playback devices,0,G01K|H03G|H04N|H04R
+12255695,2025-03-18,Systems and methods for state detection via wireless radios,0,G01S|H04B|H04W
+12250530,2025-03-11,Portable playback devices with network operation modes,0,G06F|G10L|H04L|H04R
+12250528,2025-03-11,Array augmentation for audio playback devices,0,H04N|H04R|H04S
+12249348,2025-03-11,Management of media content playback,0,G06F|G11B|H04L|H04R
+12248732,2025-03-11,Playback device configuration and control,0,G06F|G11B|H04N|H04R|H04S
+12248510,2025-03-11,Playback of media content according to media preferences,0,G06F
+12245003,2025-03-04,Wireless radio switching,0,G06F|H04B|H04L|H04N|H04R
+12244895,2025-03-04,Group coordinator selection,0,G11B|H04B|H04L|H04N|H04R|H04W
+12242769,2025-03-04,Room association based on name,0,G05B|G06F|H04N|H04R
+12238490,2025-02-25,Validation of audio calibration using multi-dimensional motion check,0,G06F|G10L|H03G|H04R|H04S
+12236932,2025-02-25,Multi-channel acoustic echo cancellation,0,G06F|G10K|G10L|H04B|H04M|H04R
+12236162,2025-02-25,Audio parameter adjustment based on playback device separation distance,0,G01S|G06F|H04R|H04S
+12236161,2025-02-25,Playback queue with software components,0,G05B|G06F|H04L|H04N|H04R|H04W
+12236068,2025-02-25,Continuous playback queue,0,G06F|H04N
+12231859,2025-02-18,Music service selection,0,G06F|G10L|H04L|H04R|H04S|H04W
+12231714,2025-02-18,Techniques for clock rate synchronization,0,H04N
+12231479,2025-02-18,Ad-hoc playback group creation and operation,0,H04B|H04L|H04W
+12231477,2025-02-18,Social media connection recommendations based on playback information,0,G06F|G06Q|H04L
+12229181,2025-02-18,Media sharing across service providers,0,G06F|H04L
+12224898,2025-02-11,Wireless device connection,0,G06F|H04L|H04W
+12223226,2025-02-11,Playback queues for shared experiences,0,G06F|H04L|H04N|H04R
+12219328,2025-02-04,Zone scene activation,0,G05B|G06F|H03G|H04H|H04N|H04R
+12217748,2025-02-04,Systems and methods of multiple voice services,1,G06F|G10L
+12213022,2025-01-28,Systems and methods for device localization,0,G06F|G06N|G08C|H04B|H04N|H04R|H04W
+12212945,2025-01-28,Network microphone devices with automatic do not disturb actuation capabilities,0,G06F|G10L|H04N|H04R
+12212937,2025-01-28,Calibration state variable,0,G06F|H03G|H04R|H04S
+12211490,2025-01-28,Locally distributed keyword detection,0,A61M|A61N|G06F|G10L
+12210801,2025-01-28,Media playback system with concurrent voice assistance,0,G06F|G10L|H04L|H04N
+12210797,2025-01-28,Playback transitions,0,G06F|G10L|H04R
+12204816,2025-01-21,Device grouping,0,G06F|H04L|H04R
+12200454,2025-01-14,Methods and devices for rejoining a group,0,G06F|H02J|H04R
+12200034,2025-01-14,Indicating an association between a social-media account and a media playback system,0,G06Q|H04L
+12192713,2025-01-07,Voice control of a media playback system,0,G06F|G10L|H04L|H04R|H04S|H04W
+12183187,2024-12-31,Methods and devices for transferring data using sound signals,0,G08C|H04B|H04L
+12177636,2024-12-24,Controlling multi-site media playback systems,0,G06F|H04L|H04N|H04R
+12177278,2024-12-24,Audio playback network joining,0,H04L|H04W
+12176626,2024-12-24,Position-based playback of multichannel audio,0,G06F|H01Q|H03G|H04B|H04R|H04S
+12176625,2024-12-24,Position-based playback of multichannel audio,0,G06F|H01Q|H03G|H04B|H04R|H04S
+12175161,2024-12-24,Generative audio playback via wearable playback devices,0,G06F|G10H
+12175160,2024-12-24,Group coordinator selection,0,G06F|H04L
+12175157,2024-12-24,Interoperability of native media playback system with virtual line-in,0,G05B|G06F|H04L|H04N
+12174886,2024-12-24,Interfaces and techniques for audio content access and playback,0,G06F|G06Q|H04L|H04N
+12170873,2024-12-17,Spatial audio correction,0,G06F|H04R|H04S
+12170810,2024-12-17,Sound bar to provide information associated with a media item,0,H04L|H04N|H04R
+12170805,2024-12-17,"Networked devices, systems, and methods for associating playback devices based on sound codes",0,G06F|G10L|H04L|H04N|H04W
+12170802,2024-12-17,Priority media content,0,H04N
+12167222,2024-12-10,Playback device calibration,0,G06F|G10K|H04R|H04S
+12167216,2024-12-10,Playback device pairing,0,G06F|G11B|H03G|H04R|H04S
+12167092,2024-12-10,Cloud-based video user interfaces,0,H04N
+12167062,2024-12-10,Blockchain data based on synthetic content generation,0,G06F|G06Q|G10H|H04N
+12166762,2024-12-10,Authorization management in a media playback system,0,G06F|G10L|H04L|H04N
+12166518,2024-12-10,Audio playback management of multiple concurrent connections,0,G06F|H04B|H04L|H04N|H04R|H04S
+12165643,2024-12-10,"Devices, systems, and methods for distributed voice processing",0,G06F|G10L|H04R
+12164835,2024-12-10,Communication based on operation mode,0,G05B|G06F|H04L|H04W|Y02D
+12164834,2024-12-10,Zone grouping,0,G06F|H04R
+12164831,2024-12-10,Playlist generation based on a desired mental state,0,G05B|G06F|H04N
+12164827,2024-12-10,Extending playback with corresponding media,0,G06F|H04N
+12164362,2024-12-10,Synchronous playback with battery-powered playback device,0,G05B|G06F|H04L|H04N|H04W|Y02D
+12160455,2024-12-03,Share restriction for curated playlists,0,G06F|H04L|H04W
+12159626,2024-12-03,Dilated convolutions and gating for efficient keyword spotting,0,G06N|G10L
+12159085,2024-12-03,Vocal guidance engines for playback devices,0,G06F|H04R|H04W
+12155706,2024-11-26,Limited-access media,0,G06F|H04L|H04N
+12155527,2024-11-26,Playback devices and bonded zones,0,H04L|H04N
+12154569,2024-11-26,Home graph,0,G06F|G10L|H04R|H04S
+12153857,2024-11-26,Techniques for reducing latency in a wireless home theater environment,0,G06F|H04B|H04R|H04S
+12149897,2024-11-19,Audio playback settings for voice interaction,0,G06F|G10L|H03G|H04R
+12147731,2024-11-19,Portable playback device state variable,0,G05B|G06F|H04N|H04R
+12143800,2024-11-12,Systems and methods for authenticating and calibrating passive speakers with a graphical user interface,0,G06F|H04R|H04S
+12143788,2024-11-12,Playback transitions,0,G06F|H04L|H04R
+12143781,2024-11-12,Spatial audio correction,0,G06F|H04R|H04S
+12141502,2024-11-12,Dynamic computation of system response volume,0,G06F|H04R|H04S
+12141501,2024-11-12,Audio processing algorithms,0,G06F|H04R|H04S
+12141499,2024-11-12,Management of media devices having limited capabilities,0,G06F|H04R|H04S
+12141497,2024-11-12,Pre-caching of media,0,G05B|G06F|H04N
+12135865,2024-11-05,Multi-household support,0,G06F|H04L
+12135744,2024-11-05,Media content search in connection with multiple media content services,0,G06F
+12132459,2024-10-29,Audio calibration of a portable playback device,1,G06F|H03G|H04R|H04S
+12131096,2024-10-29,Contextual indexing of media items,0,G06F
+12126970,2024-10-22,Calibration of playback device(s),0,G06F|H03G|H04R|H04S
+12124768,2024-10-22,Modification of media playback,0,G06F
+12124766,2024-10-22,Networking in a media playback system,0,G06F|G10L|H04L|H04R|H04W|Y02D
+12124649,2024-10-22,Preventing accidental media device commands,0,G06F
+12119000,2024-10-15,Input detection windowing,0,G06F|G10L
+12118273,2024-10-15,Local voice data processing,0,G06F|G10L
+12118268,2024-10-15,Playback device with conforming capacitive touch sensor assembly,0,G04G|G06F|H03K|H04R
+12112121,2024-10-08,Remote creation of a playback queue for an event,0,G06F|H04N
+12107929,2024-10-01,Service provider user accounts,0,G06F|H04L|H04N
+12101591,2024-09-24,Dynamic earbud profile,0,G06F|G10L|H04R|H04S
+12096326,2024-09-17,Media playback system control via multiple networks,0,H04L|H04N|H04W
+12096187,2024-09-17,Playback device control,0,G06F|H03G|H04L|H04N|H04R
+12096098,2024-09-17,Content playback reminders,0,G06F|H04N|H04W
+12095870,2024-09-17,Managing application access of a media playback system,0,H04L
+12093608,2024-09-17,Noise classification for event detection,1,G06F|G08B|G10L|H04L|H04R
+12093606,2024-09-17,Techniques for re-bonding playback devices,0,G06F|H04R
+12093605,2024-09-17,Music discovery dial,0,G06F|H04R
+12093604,2024-09-17,Smart audio settings,0,G05B|G06F|H03G
+12093602,2024-09-17,Information display regarding playback queue subscriptions,0,G06F|G11B|H04L|H04N
+12093513,2024-09-17,Controlling and displaying zones in a multi-zone system,0,G06F|H04N
+12089019,2024-09-10,Content rules engines for audio playback devices,0,G06F|H04L|H04N|H04R
+12089018,2024-09-10,Providing aggregate playback information,0,H04N|H04R
+12088650,2024-09-10,Seamless transition of source of media content,0,G06F|H04L
+12080314,2024-09-03,Dynamic player selection for audio signal processing,0,G06F|G10L|H04R|H04W
+12075226,2024-08-27,Wireless transmission to satellites for multichannel audio system,1,H04J|H04L|H04N|H04R|H04S
+12075109,2024-08-27,Control with distributed command processing,0,H04N
+12073146,2024-08-27,Prioritizing media content requests,0,G05B|G06F|H04N|H04R
+12069444,2024-08-20,Calibration state variable,0,G06F|H03G|H04R|H04S
+12067049,2024-08-20,Music discovery,0,G06F
+12063729,2024-08-13,Sound and light experiences,0,G06F|H05B
+12063412,2024-08-13,Zone group control,0,H04L|H04N
+12063261,2024-08-13,Location-based playlist generation,0,G06F|H04L|H04N|H04R|H04W
+12062383,2024-08-13,Linear filtering for noise-suppressed speech detection via multiple network microphone devices,0,G06F|G10L|H04R
+12062364,2024-08-13,Memory allocation for keyword spotting engines,0,G06N|G10L
+12052461,2024-07-30,Systems and methods for networked media playback,0,G06F|G11B|H04L|H04N|H04R
+12051425,2024-07-30,Systems and methods of audio decoder determination and selection,0,G10L|H04N
+12051418,2024-07-30,Arbitration-based voice recognition,0,G06F|G10L|H04R
+12050642,2024-07-30,Suggested application download,0,G05B|G06F|H04L|H04W
+12047752,2024-07-23,Content mixing,0,G06F|G10L|H04L|H04R|H04S|H04W
+12047635,2024-07-23,Systems and methods for networked music playback,0,G06F|G11B|H04L|H04N|H04R
+12047625,2024-07-23,Policies for media playback,0,G06F|G11B|H04N
+12045541,2024-07-23,Power management and distributed audio processing techniques for playback devices,1,G06F|G10L|H03F|H04L|H04R
+12045453,2024-07-23,Lock screen media playback control,0,G06F|G08C
+12045452,2024-07-23,Playback modification based on proximity,0,G05B|G06F|G11B|H04N|H04R|H04W
+12045439,2024-07-23,Playback zone management,0,G06F|G08C|G11B
+12039617,2024-07-16,Social network account assisted service registration,0,G06F|G06Q|H04L|H04N|H04W
+12039224,2024-07-16,Multimedia experience according to biometrics,0,G06F|G06V|H04L
+12039071,2024-07-16,Playback device queue access levels,0,G06F|H04N|Y04S
+12032872,2024-07-09,Intelligent user interfaces for playback devices,0,G01S|G06F
+12032423,2024-07-09,Network identification of portable electronic devices while changing power states,0,G06F|H04L|H04N|H04W|Y02D
+12026432,2024-07-02,Media content display for playback,0,G06F
+12026431,2024-07-02,Multiple groupings in a playback system,1,G05B|G06F|H04R
+12026429,2024-07-02,Playback zone representations,0,G06F|H04N
+12026427,2024-07-02,Device group identification,0,G06F|H04N|H04R
+12026363,2024-07-02,Pre-saved groups in a media playback system,0,G06F|H04R
+12019670,2024-06-25,Providing media items from playback history,0,G06F|H04L|H04N
+12019496,2024-06-25,Portable playback device power management,1,G06F|Y02D
+12016062,2024-06-18,Systems and methods for configuring a media player device on a local network using a graphical user interface,0,G06F|G08B|H04L|H04M|H04W
+12014115,2024-06-18,Dynamic bonding of playback devices,0,G06F|G11B|H04R
+12009602,2024-06-11,Frequency routing based on orientation,0,G06F|H01Q|H03G|H04B|H04R|H04S
+12003576,2024-06-04,Cloud queue tombstone,0,G06F|H04L|H04N
+11996607,2024-05-28,Spatial antenna diversity techniques,0,G06F|H01Q|H04B|H04R
+11995376,2024-05-28,Playback device calibration based on representative spectral characteristics,1,G06F|H04R|H04S
+11995374,2024-05-28,Multiple-device setup,0,G06F|H04N
+11991515,2024-05-21,Failure recovery of wearable playback device,0,G06F|G11B|H04L|H04N|H04R|H04S
+11991506,2024-05-21,Playback device configuration,0,G06F|H04R|H04S
+11989486,2024-05-21,Streaming music using supported services,0,G06F
+11988784,2024-05-21,Detecting an audio signal with a microphone to determine presence of a playback device,1,G01S|G06F|G10L|H04R
+11985376,2024-05-14,Playback of generative media content,0,H04N
+11984123,2024-05-14,Network device interaction by range,1,G06F|G10L
+11983463,2024-05-14,Metadata exchange involving a networked playback system and a networked microphone system,0,G06F|G10L|H04L
+11983458,2024-05-14,Calibration assistance,0,G06F|H04S
+11979960,2024-05-07,Contextualization of voice inputs,0,G01S|G06F|G10L|H05B
+11979622,2024-05-07,Configuration of playback device audio settings,0,G06F|H04N
+11974106,2024-04-30,Array augmentation for audio playback devices,0,H04N|H04R|H04S
+11973893,2024-04-30,Do not disturb feature for audio notifications,0,G06F|H04M|H04W
+11968270,2024-04-23,Receiving media content based on user media preferences,0,G06F|H04L|H04N
+11966438,2024-04-23,Queue versioning,0,G06F|H04L|H04N
+11962815,2024-04-16,Networked device group information in a system with multiple media playback protocols,0,G06F|H04L|H04N|H04R
+11961519,2024-04-16,Localized wakeword verification,0,G06F|G10L|H04R
+11960704,2024-04-16,Social playback queues,0,G05B|G06F|H04L|H04N
+11960482,2024-04-16,Systems and methods for extracting data views from heterogeneous sources,0,G06F
+11956480,2024-04-09,Grouping in a system with multiple media playback protocols,0,G06F|H04L|H04N|H04R
+11948205,2024-04-02,Media content based on playback zone awareness,0,G06F|G06Q|H04N|H04R
+11947870,2024-04-02,Audio response playback,0,G06F|G10L|H04R|H04S
+11947865,2024-04-02,Identification of audio content,0,G06F|G11B|H04H|H04R
+11943823,2024-03-26,Techniques to reduce time to music for a playback device,0,G06F|H04L|H04R|H04W
+11941321,2024-03-26,Audio conflict resolution,0,G06F|G10L|H04R|H04S
+11934742,2024-03-19,Playback device supporting concurrent voice assistants,1,G06F|G10L|H05B
+11934739,2024-03-19,Playback device,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11928389,2024-03-12,Smart music services preferences,0,G06F
+11928151,2024-03-12,Playback of media content according to media preferences,0,G06F
+11916991,2024-02-27,Hybrid sniffing and rebroadcast for Bluetooth mesh networks,0,H04B|H04L|H04W
+11916733,2024-02-27,Updating network configuration parameters,0,H04L|H04W
+11910181,2024-02-20,Media playback based on sensor data,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11909588,2024-02-20,Wireless device connection,0,G06F|H04L|H04W
+11909550,2024-02-20,Multi-network playback devices,0,H04L|H04N|H04W
+11909365,2024-02-20,Zone volume control,0,G06F|H03G|H04R
+11907614,2024-02-20,Playback expansion,0,G06F|H04L|H04R
+11907610,2024-02-20,Guess access to a media playback system,0,G06F|G11B|H04R
+11902752,2024-02-13,Conditional content enhancement,0,G06F|H04R
+11900937,2024-02-13,Wake-word detection suppression,0,G06F|G10L|H04N
+11900014,2024-02-13,Systems and methods for podcast playback,1,G04G|G06F|H04N
+11899712,2024-02-13,Playback queue collaboration and notification,1,G06F|H04N
+11899708,2024-02-13,Multimedia content distribution system and method,0,G06F|G06Q|H04L
+11899519,2024-02-13,Multiple stage network microphone device with reduced power consumption and processing load,1,G06F|H04R|Y02D
+11895557,2024-02-06,Systems and methods for target device prediction,0,G06F|G06N|G08C|H04B|H04N|H04R|H04W
+11895457,2024-02-06,Headphone interaction with media playback system,0,G06F|H04R
+11894975,2024-02-06,Playback device connection,0,G06F|H04L|H04W
+11893308,2024-02-06,Media playback system with concurrent voice assistance,0,G06F|G10L|H04L|H04N
+11893306,2024-02-06,Audio content auditioning by playback device,1,G06F|G11B|H04L|H04N|H04R
+11893053,2024-02-06,Media content search based on metadata,0,G06F
+11889290,2024-01-30,Media playback based on sensor data,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11889160,2024-01-30,Multiple household management,0,G06F|G11B|H04L|H04N
+11887598,2024-01-30,Voice verification for media playback,0,G06F|G10L|H04R
+11886770,2024-01-30,Audio content selection and playback,0,G06F
+11886769,2024-01-30,Audio track selection and playback,0,G06F
+11886496,2024-01-30,Queue identification,1,G06F|G11B
+11881223,2024-01-23,Systems and methods of operating media playback systems having multiple voice assistant services,0,G06F|G10L
+11881222,2024-01-23,Command keywords with input detection windowing,0,G06F|G10L
+11880553,2024-01-23,Continuous playback queue,0,G06F|H04N
+11877139,2024-01-16,Playback device calibration,0,G06F|G10K|H04R|H04S
+11877015,2024-01-16,Temporary configuration of a media playback system,0,G06F|G06Q|H04N
+11870475,2024-01-09,Audio playback management of multiple concurrent connections,0,G06F|H04B|H04L|H04N|H04R|H04S
+11869503,2024-01-09,Offline voice control,0,G06F|G10L|H04L
+11863944,2024-01-02,Intelligent amplifier activation,0,G01D|G06F|H04R
+11863593,2024-01-02,Networked microphone device control,0,G06F|G10L|H04L|H04R
+11862161,2024-01-02,VAS toggle based on device orientation,0,G06F|G10L
+11854547,2023-12-26,Network microphone device with command keyword eventing,0,G06F|G10L
+11853184,2023-12-26,Adjusting a playback device,0,G06F|H03G
+11849299,2023-12-19,Media playback based on sensor data,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11832068,2023-11-28,Music service selection,3,G06F|G10L|H04L|H04R|H04S|H04W
+11831959,2023-11-28,Media preference database,0,G06F|H04N|H04R
+11831721,2023-11-28,Mirrored queues,0,G06F|G06Q|H04L|H04R
+11831627,2023-11-28,Cloud queue access control,0,G05B|G06F|H04H|H04L|H04N|H04R
+11830495,2023-11-28,"Networked devices, systems, and methods for intelligently deactivating wake-word engines",0,G10L|H04L
+11829682,2023-11-28,Music discovery dial,1,G06F|H04R
+11829590,2023-11-28,Multi-household support,2,G06F|H04L
+11825290,2023-11-21,Media playback based on sensor data,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11825289,2023-11-21,Media playback based on sensor data,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11825262,2023-11-21,Dynamic earbud profile,0,G06F|G10L|H04R|H04S
+11825174,2023-11-21,Remote playback queue,0,G06F|H04N
+11825152,2023-11-21,Associating playback devices with playback queues,0,H04N|H04R
+11824945,2023-11-21,Managing application access of a media playback system,0,H04L
+11822853,2023-11-21,Information display regarding playback queue subscriptions,0,G06F|G11B|H04L|H04N
+11818430,2023-11-14,Group coordinator selection,0,G11B|H04B|H04L|H04N|H04R|H04W
+11818427,2023-11-14,Adaptive media playback experiences for commercial environments,0,H04N|H04R
+11818225,2023-11-14,Automatic discovery and control of a remotely controllable system,0,G06Q|G07G|H04L|H04R|H04W
+11818187,2023-11-14,Mixed-mode synchronous playback,0,H04L
+11817076,2023-11-14,Multi-channel acoustic echo cancellation,23,G06F|G10K|G10L|H04B|H04M|H04R
+11816393,2023-11-14,Dynamic computation of system response volume,3,G06F|H04R|H04S
+11816390,2023-11-14,Playback device using standby in a media playback system,0,G06F|H04L|Y02D
+11816389,2023-11-14,Communication based on operation mode,0,G05B|G06F|H04L|H04W|Y02D
+11812253,2023-11-07,Wireless multi-channel headphone systems and methods,0,G06F|H04R|H04S
+11812250,2023-11-07,Playback device calibration,0,G06F|H04R|H04S
+11812240,2023-11-07,Playback of generative media content,0,G06F|H03G|H04R
+11812228,2023-11-07,Wireless radio switching,0,G06F|H04B|H04L|H04N|H04R
+11812096,2023-11-07,Access control techniques for media playback systems,0,G06F|H04N
+11809782,2023-11-07,Audio parameter adjustment based on playback device separation distance,0,G01S|G06F|H04R|H04S
+11809781,2023-11-07,Portable playback device state variable,0,G05B|G06F|H04N|H04R
+11809780,2023-11-07,Distributed synchronization,0,G06F|G11B|H04N
+11809779,2023-11-07,Providing media for playback,0,G06F|G11B|H04L|H04N|H04R
+11809778,2023-11-07,Techniques for extending the lifespan of playback devices,0,G06F|H04L
+11809776,2023-11-07,Volume limit,0,G06F|G11B|H03G|H04R
+11809257,2023-11-07,Portable playback device power management,0,G06F|Y02D
+11805174,2023-10-31,Transition between network connections,0,H04L|H04N
+11804903,2023-10-31,Control signal repeater system,0,G06F|H04B
+11803350,2023-10-31,Facilitating calibration of an audio playback device,0,G06F|H03G|H04R|H04S
+11803349,2023-10-31,Audio settings,0,G06F|G11B|H04R
+11800318,2023-10-24,Systems and methods for playback device management,0,G06F|G06N|G08C|H04B|H04N|H04R|H04W
+11800305,2023-10-24,Calibration interface,0,G06F|H03G|H04R|H04S
+11799433,2023-10-24,Media playback system with maximum volume setting,0,G06F|H03G|H04L|H04N|H04R
+11797266,2023-10-24,Group coordinator selection,0,G06F|H04L
+11797263,2023-10-24,Systems and methods for voice-assisted media content selection,2,G06F|G10L
+11797262,2023-10-24,Command dial in a media playback system,0,G06F|G08C|H03G|H04R
+11792589,2023-10-17,Thermal control of audio playback devices,1,G01K|H03G|H04N|H04R
+11790920,2023-10-17,Guest access for voice control of playback devices,1,G06F|G10L|H04L
+11789692,2023-10-17,Control based on proximity,0,F21V|G06F|H03G|H04R|H05B
+11789690,2023-10-17,System limits based on known triggers,1,G06F|H04L|H04N
+11782977,2023-10-10,Webpage media playback,0,G06F|H04N
+11782675,2023-10-10,Systems and methods of distributing audio to one or more playback devices,1,G06F|H03G|H04R
+11778404,2023-10-03,Systems and methods for authenticating and calibrating passive speakers with a graphical user interface,0,G06F|H04R|H04S
+11778378,2023-10-03,Volume management in a media playback system,1,G06F|H03G|H04R
+11778259,2023-10-03,"Networked devices, systems and methods for associating playback devices based on sound codes",0,G06F|G10L|H04L|H04N|H04W
+11778252,2023-10-03,Temporary access to a media playback system,0,G06Q|G09B|H04N|H04R|H04W
+11775251,2023-10-03,Playback transfer in a media playback system,0,G06F|H04L|H04N|H04R
+11775163,2023-10-03,Social network account assisted service registration,0,G06F|G06Q|H04L|H04N|H04W
+11775160,2023-10-03,Location based playback system control,0,G05B|G06F|G11B|H04N|H04R|H04W
+11771866,2023-10-03,Locally distributed keyword detection,0,A61M|A61N|G06F|G10L
+11770427,2023-09-26,Immersive audio in a media playback system,1,G06F|H04L|H04N|H04R|H04S
+11769519,2023-09-26,Device impairment detection,0,G06N|G10L|H04R|H04S
+11768655,2023-09-26,Contextual indexing of media items,0,G06F
+11765507,2023-09-19,Wireless transmission to satellites for multichannel audio system,0,H04J|H04L|H04N|H04R|H04S
+11764885,2023-09-19,Systems and methods for state detection via wireless radios,0,G01S|H04B|H04W
+11762625,2023-09-19,Zone grouping,0,G06F|H04R
+11762624,2023-09-19,Capacitive touch sensor with integrated antenna(s) for playback devices,0,G06F|H01Q|H04B|H04R
+11758469,2023-09-12,Re-establishing player connectivity,0,G06F|H04L|H04W
+11758342,2023-09-12,Calibration state variable,0,G06F|H03G|H04R|H04S
+11758327,2023-09-12,Playback device pairing,0,G06F|H03G|H04R|H04S
+11758326,2023-09-12,Wearable audio device within a distributed audio playback system,1,G06F|H04B|H04N|H04R|H04S
+11758317,2023-09-12,Systems and methods for controlling playback and other features of a wireless headphone,3,G06F|G10L|H04R
+11758214,2023-09-12,Techniques for clock rate synchronization,0,H04N
+11758199,2023-09-12,Grouped zones in a system with multiple media playback protocols,0,G06F|H04L|H04N|H04R
+11758005,2023-09-12,Service provider user accounts,0,G06F|H04L|H04N
+11757980,2023-09-12,Group coordinator selection,0,H04L
+11757866,2023-09-12,Accessing a cloud-based service,1,H04L|H04N
+11750969,2023-09-05,Default playback device designation,0,G06F|G10L|H04L|H04R|H04S|H04W
+11747863,2023-09-05,Wireless antenna sensing in a playback device,1,G06F|H03K|H04N|H04R|H04S|Y02D
+11743675,2023-08-29,Failure recovery of wearable playback device,2,G06F|G11B|H04L|H04N|H04R|H04S
+11743534,2023-08-29,Systems and methods for networked music playback,0,G06F|G11B|H04L|H04N|H04R
+11743533,2023-08-29,Sound bar to provide information associated with a media item,1,H04L|H04N|H04R
+11743183,2023-08-29,Methods and apparatus for direct routing between nodes of networks,0,H04L|H04W
+11740857,2023-08-29,Playback session transitions across different platforms,0,G05B|G06F|G10L|H04L|H04W
+11740855,2023-08-29,Account aware media preferences,0,G06F|H04L|H04N|H04R
+11740854,2023-08-29,Playing media content in response to detecting items having corresponding media content associated therewith,0,G06F|H04N
+11740774,2023-08-29,Controlling and displaying zones in a multi-zone system,0,G06F|H04N
+11737164,2023-08-22,Simulation of device removal,1,H04W
+11736878,2023-08-22,Spatial audio correction,0,G06F|H04R|H04S
+11736877,2023-08-22,Updating playback device configuration information based on calibration data,1,G06F|H04R|H04S
+11736860,2023-08-22,Voice control of a media playback system,0,G06F|G10L|H04L|H04R|H04S|H04W
+11734494,2023-08-22,Remote creation of a playback queue for an event,0,G06F|H04N
+11733835,2023-08-22,Playback zone management,0,G06F|G08C|G11B
+11733768,2023-08-22,Power control based on packet type,0,G06F|H03F|H03G|H04L|H04R
+11729568,2023-08-15,Acoustic signatures in a playback system,0,G06F|G10L|H03F|H03G|H04L|H04N|H04R
+11729564,2023-08-15,Low-latency audio networking,0,G06F|H04L|H04N|H04R|H04W
+11729457,2023-08-15,Context-based user music menu systems and methods,0,G06F|H04L|H04N
+11729233,2023-08-15,Location-based playlist generation,0,G06F|H04L|H04N|H04R|H04W
+11728907,2023-08-15,Playback device media item replacement,0,H04B|H04L|H04N
+11728780,2023-08-15,Audio calibration of a portable playback device,0,G06F|H03G|H04R|H04S
+11727933,2023-08-15,Arbitration-based voice recognition,0,G06F|G10L|H04R
+11727919,2023-08-15,Memory allocation for keyword spotting engines,0,G06N|G10L
+11727134,2023-08-15,Playback device queue access levels,0,G06F|H04N|Y04S
+11726742,2023-08-15,Handling of loss of pairing between networked devices,0,G06F|G10L|H04L
+11726739,2023-08-15,Distributed provisioning of properties of operational settings of a media playback system,0,G06F|H04R
+11722870,2023-08-08,Media playback system control via multiple networks,0,H04L|H04N|H04W
+11720320,2023-08-08,Playback queues for shared experiences,0,G06F|H04L|H04N|H04R
+11720319,2023-08-08,Playback queue with software components,0,G05B|G06F|H04L|H04N|H04R|H04W
+11716366,2023-08-01,Audio playback network joining,0,H04L|H04W
+11714600,2023-08-01,Noise classification for event detection,23,G06F|G08B|G10L|H04L|H04R
+11710487,2023-07-25,Locally distributed keyword detection,0,G06F|G10L
+11709652,2023-07-25,Techniques for reducing latency in a wireless home theater environment,0,G06F|H04B|H04R|H04S
+11709649,2023-07-25,Playlist generation based on a desired mental state,1,G05B|G06F|H04N
+11706579,2023-07-18,Validation of audio calibration using multi-dimensional motion check,0,G06F|G10L|H03G|H04R|H04S
+11706566,2023-07-18,Playback transitions,0,G06F|H04L|H04R
+11706473,2023-07-18,Priority media content,2,H04N
+11706116,2023-07-18,Facilitating the resolution of address conflicts in a networked media playback system,0,H04L|H04N|H04R
+11700436,2023-07-11,Content playback reminders,0,G06F|H04N|H04W
+11699450,2023-07-11,Systems and methods of audio decoder determination and selection,0,G10L|H04N
+11698771,2023-07-11,Vocal guidance engines for playback devices,0,G06F|H04R|H04W
+11698770,2023-07-11,Calibration of a playback device based on an estimated frequency response,0,G06F|H04R|H04S
+11698769,2023-07-11,Information display regarding playback queue subscriptions,0,G06F|G11B|H04L|H04N
+11696091,2023-07-04,Systems and methods for device localization,0,G06F|G06N|G08C|H04B|H04N|H04R|H04W
+11696074,2023-07-04,Systems and methods for associating playback devices with voice assistant services,2,G06F|G10L|H04R
+11694689,2023-07-04,Input detection windowing,25,G06F|G10L
+11693619,2023-07-04,Media playback system with virtual line-in,0,G05B|G06F|H04L|H04N
+11689858,2023-06-27,Device designation of playback and network microphone device arrangements,0,G06F|G10L|H04R|H04S
+11688419,2023-06-27,Linear filtering for noise-suppressed speech detection via multiple network microphone devices,6,G06F|G10L|H04R
+11687586,2023-06-27,Transferring playback from a mobile device to a playback device,3,G06F|G11B|H04L|H04N
+11683652,2023-06-20,Controlling multi-site media playback systems,0,G06F|H04L|H04N|H04R
+11683304,2023-06-20,Sharing access to a media service,1,H04L|H04N
+11681495,2023-06-20,Smart audio settings,1,G05B|G06F|H03G
+11681281,2023-06-20,Playback device control,0,G05B|G06F
+11676590,2023-06-13,Home graph,0,G06F|G10L|H04R|H04S
+11675786,2023-06-13,Systems and methods for extracting data views from heterogeneous sources,0,G06F
+11675564,2023-06-13,Activity reset,0,G06F|H04N
+11669299,2023-06-06,Playback device with device base,0,G06F|H04L|H04R
+11664023,2023-05-30,Voice detection by multiple devices,25,G06F|G10L
+11650786,2023-05-16,Device grouping,0,G06F|H04L|H04R
+11650784,2023-05-16,Adjusting volume levels,0,G05B|G06F|G11B|H04R|H04S
+11646023,2023-05-09,"Devices, systems, and methods for distributed voice processing",26,G06F|G10L|H04R
+11641559,2023-05-02,Audio playback settings for voice interaction,0,G06F|G10L|H03G|H04R
+11641539,2023-05-02,Headphone interaction with media playback system,0,G06F|H04R
+11640225,2023-05-02,Group volume control,0,G06F|H04L|H04W
+11635935,2023-04-25,Adjusting volume levels,0,G05B|G06F|G11B|H04R|H04S
+11625430,2023-04-11,Music discovery,2,G06F
+11625219,2023-04-11,Audio processing algorithms,0,G06F|H04R|H04S
+11614785,2023-03-28,Network identification of portable electronic devices while changing power states,1,G06F|H04L|H04N|H04W|Y02D
+11601104,2023-03-07,Zone volume control,0,G06F|H03G|H04R
+11593066,2023-02-28,Music discovery dial,2,G06F|H04R
+11570510,2023-01-31,Access control techniques for media playback systems,0,G06F|H04N
+11563842,2023-01-24,Do not disturb feature for audio notifications,0,G06F|H04M|H04W
+11562740,2023-01-24,Voice verification for media playback,0,G06F|G10L|H04R
+11562017,2023-01-24,Queue versioning,0,G06F|H04L|H04N
+11557294,2023-01-17,Systems and methods of operating media playback systems having multiple voice assistant services,2,G06F|G10L
+11556998,2023-01-17,Media content based on playback zone awareness,0,G06F|G06Q|H04N|H04R
+11556307,2023-01-17,Local voice data processing,1,G06F|G10L
+11556306,2023-01-17,Voice controlled media playback system,0,G06F|G10L
+11556305,2023-01-17,Synchronizing playback by media playback devices,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11552843,2023-01-10,Playback devices and bonded zones,0,H04L|H04N
+11551690,2023-01-10,"Networked devices, systems, and methods for intelligently deactivating wake-word engines",1,G10L|H04L
+11551669,2023-01-10,Locally distributed keyword detection,0,A61M|A61N|G06F|G10L
+11550989,2023-01-10,Application programming interface for browsing media content,0,G06F
+11550539,2023-01-10,Playback device,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11550537,2023-01-10,Multiple-device setup,0,G06F|H04N
+11550536,2023-01-10,Adjusting volume levels,0,G05B|G06F|G11B|H04R|H04S
+11546710,2023-01-03,Conditional content enhancement,0,G06F|H04R
+11545948,2023-01-03,Playback device group volume control,0,H03G|H04L|H04N|H04R
+11545169,2023-01-03,Dynamic player selection for audio signal processing,0,G06F|G10L|H04R|H04W
+11543876,2023-01-03,Synchronous playback with battery-powered playback device,0,G05B|G06F|H04L|H04N|H04W|Y02D
+11540073,2022-12-27,Playback device self-calibration,0,G06F|H04R|H04S
+11540050,2022-12-27,Playback device pairing,0,G06F|H03G|H04R|H04S
+11539995,2022-12-27,Configuration of playback device audio settings,0,G06F|H04N
+11539984,2022-12-27,Grouping in a system with multiple media playback protocols,0,G06F|H04L|H04N|H04R
+11539767,2022-12-27,Social media connection recommendations based on playback information,2,G06F|G06Q|H04L
+11539688,2022-12-27,Accessing a cloud-based service,0,H04L|H04N
+11539545,2022-12-27,Multi-network playback devices,0,H04L|H04N|H04W
+11538498,2022-12-27,Management of media content playback,0,G06F|G11B|H04L|H04R
+11538451,2022-12-27,Multi-channel acoustic echo cancellation,3,G06F|G10K|G10L|H04B|H04M|H04R
+11533562,2022-12-20,Content rules engines for audio playback devices,0,G06F|H04L|H04N|H04R
+11533378,2022-12-20,Service provider user accounts,0,G06F|H04L|H04N
+11533361,2022-12-20,Cloud queue tombstone,0,G06F|H04L|H04N
+11533116,2022-12-20,Systems and methods for state detection via wireless radios,4,G01S|H04B|H04W
+11531520,2022-12-20,Playback device supporting concurrent voice assistants,43,G06F|G10L|H05B
+11531517,2022-12-20,Networked playback device,0,G06F|G11B|H02B|H03G|H04R
+11531515,2022-12-20,Synchronized audio mixing,0,G06F|G11B|H04H|H04J|H04L|H04N|H04R
+11531514,2022-12-20,Calibration assistance,0,G06F|H04S
+11528578,2022-12-13,Media playback based on sensor data,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11528527,2022-12-13,Zone group control,0,H04L|H04N
+11528522,2022-12-13,Policies for media playback,2,G06F|G11B|H04N
+11526326,2022-12-13,Systems and methods of distributing audio to one or more playback devices,2,G06F|H03G|H04R
+11520464,2022-12-06,Playback zone management,0,G06F|G08C|G11B
+11516608,2022-11-29,Calibration state variable,0,G06F|H03G|H04R|H04S
+11516606,2022-11-29,Calibration interface,0,G06F|H03G|H04R|H04S
+11515620,2022-11-29,Spatial antenna diversity techniques,0,G06F|H01Q|H04B|H04R
+11514898,2022-11-29,Voice control of a media playback system,54,G06F|G10L|H04R
+11514777,2022-11-29,Methods and devices for transferring data using sound signals,1,G08C|H04B|H04L
+11514105,2022-11-29,Transferring playback from a mobile device to a playback device,0,G06F|G11B|H04L|H04N
+11514104,2022-11-29,Suggested application download,0,G05B|G06F|H04L|H04W
+11514099,2022-11-29,Media sharing across service providers,0,G06F|H04L
+11513763,2022-11-29,Audio response playback,3,G06F|G10L|H04R|H04S
+11513761,2022-11-29,Smart music services preferences,0,G06F
+11513581,2022-11-29,Portable playback device power management,0,G06F|Y02D
+11513580,2022-11-29,Portable playback device power management,0,G06F|Y02D
+11507343,2022-11-22,Group coordinator selection,0,G06F|H04L
+11503126,2022-11-15,Receiving media content based on user media preferences,0,G06F|H04L|H04N
+11501795,2022-11-15,Linear filtering for noise-suppressed speech detection via multiple network microphone devices,1,G06F|G10L|H04R
+11501773,2022-11-15,Network microphone device with command keyword conditioning,1,G06F|G10L
+11500611,2022-11-15,Dynamic computation of system response volume,1,G06F|H04R|H04S
+11496848,2022-11-08,Thermal control of audio playback devices,3,G01K|H03G|H04N|H04R
+11494157,2022-11-08,Extending playback with corresponding media,1,G06F|H04N
+11494063,2022-11-08,Controlling and displaying zones in a multi-zone system,0,G06F|H04N
+11494060,2022-11-08,Multi-household support,0,G06F|H04L
+11487500,2022-11-01,Portable playback device state variable,0,G05B|G06F|H04N|H04R
+11483670,2022-10-25,Systems and methods of providing spatial audio associated with a simulated environment,0,G06T|H04R|H04S
+11483608,2022-10-25,Priority media content,0,H04N
+11483396,2022-10-25,Managing application access of a media playback system,0,H04L
+11482978,2022-10-25,Audio notifications,1,G06F|H03G|H04L|H04N|H04R
+11482224,2022-10-25,Command keywords with input detection windowing,7,G06F|G10L
+11481744,2022-10-25,Discovery and media control at a point-of-sale display,1,G06Q|G07G|H04L|H04R|H04W
+11481437,2022-10-25,Facilitating streaming media access via a media-item database,0,G06F|H04L
+11481182,2022-10-25,Room association based on name,1,G05B|G06F|H04N|H04R
+11474778,2022-10-18,Audio track selection and playback,6,G06F
+11474777,2022-10-18,Audio track selection and playback,0,G06F
+11470134,2022-10-11,Limited-access media,0,G06F|H04L|H04N
+11467800,2022-10-11,Playback expansion,0,G06F|H04L|H04R
+11467799,2022-10-11,Guest access to a media playback system,0,G06F|G11B|H04R
+11464055,2022-10-04,Systems and methods for configuring a media player device on a local network using a graphical user interface,1,G06F|G08B|H04L|H04M|H04W
+11457327,2022-09-27,Playback device calibration,0,G06F|H04R|H04S
+11456928,2022-09-27,Playback device connection,0,G06F|H04L|H04W
+11451908,2022-09-20,Network microphone devices with automatic do not disturb actuation capabilities,0,G06F|G10L|H04N|H04R
+11451597,2022-09-20,Playback updates,0,G06Q|H04L|H04N
+11445301,2022-09-13,Portable playback devices with network operation modes,63,G06F|G10L|H04L|H04R
+11445261,2022-09-13,Multiple household management,0,G06F|G11B|H04L|H04N
+11444375,2022-09-13,Frequency routing based on orientation,0,G06F|H01Q|H03G|H04B|H04R|H04S
+11442690,2022-09-13,Interoperability of native media playback system with virtual line-in,0,G05B|G06F|H04L|H04N
+11442689,2022-09-13,Dynamic bonding of playback devices,1,G06F|G11B|H04R
+11442688,2022-09-13,Device group identification,0,G06F|H04N|H04R
+11438666,2022-09-06,Social network account assisted service registration,0,G06F|G06Q|H04L|H04N|H04W
+11432030,2022-08-30,"Networked devices, systems, and methods for associating playback devices based on sound codes",1,G06F|G10L|H04L|H04N|H04W
+11431804,2022-08-30,Mirrored queues,0,G06F|G06Q|H04L|H04R
+11431771,2022-08-30,Indicating an association between a social-media account and a media playback system,0,G06Q|H04L
+11429502,2022-08-30,Adjusting a playback device,0,G06F|H03G
+11429343,2022-08-30,Stereo playback configuration and control,0,G06F|G11B|H04N|H04R|H04S
+11429267,2022-08-30,Track playback,0,G06F|G11B|H04N
+11422771,2022-08-23,Smart audio settings,1,G05B|G06F|H03G
+11422770,2022-08-23,Techniques for reducing latency in a wireless home theater environment,0,G06F|H04B|H04R|H04S
+11418563,2022-08-16,Immersive audio in a media playback system,0,G06F|H04L|H04N|H04R|H04S
+11418556,2022-08-16,Seamless transition of source of media content,0,G06F|H04L
+11416210,2022-08-16,Management of media devices having limited capabilities,1,G06F|H04R|H04S
+11416209,2022-08-16,Distributed synchronization,1,G06F|G11B|H04N
+11409495,2022-08-09,Audio conflict resolution,0,G06F|G10L|H04R|H04S
+11405439,2022-08-02,Hybrid sniffing and rebroadcast for Bluetooth networks,0,H04B|H04L|H04W
+11405430,2022-08-02,Networked microphone device control,0,G06F|G10L|H04L|H04R
+11403063,2022-08-02,Fast-resume audio playback,0,G06F|G10L|G11B|H04N|H04R
+11403062,2022-08-02,Multiple groupings in a playback system,0,G05B|G06F|H04R
+11393478,2022-07-19,User specific context switching,3,G06F|G10L|H04L
+11388532,2022-07-12,Zone scene activation,23,G05B|G06F|H03G|H04H|H04N|H04R
+11385858,2022-07-12,Predefined multi-channel listening environment,4,G06F|G11B|H04N|H04R|H04S
+11380322,2022-07-05,Wake-word detection suppression,4,G06F|G10L|H04N
+11379179,2022-07-05,Playback device calibration based on representative spectral characteristics,0,G06F|H04R|H04S
+11374547,2022-06-28,Audio calibration of a portable playback device,0,G06F|H03G|H04R|H04S
+11372916,2022-06-28,Playback of media content according to media preferences,0,G06F
+11372656,2022-06-28,Displaying data related to media content,2,G06F|H04N
+11368803,2022-06-21,Calibration of playback device(s),0,G06F|H03G|H04R|H04S
+11366853,2022-06-21,Queue identification in a wearable playback device,0,G06F|G11B
+11363397,2022-06-14,Intelligent amplifier activation,0,G01D|G06F|H04R
+11360643,2022-06-14,Social playback queues,0,G05B|G06F|H04L|H04N
+11356777,2022-06-07,Playback transitions,0,G06F|H04L|H04R
+11356764,2022-06-07,Dynamic earbud profile,1,G06F|G10L|H04R|H04S
+11354092,2022-06-07,Noise classification for event detection,70,G06F|G08B|G10L|H04L|H04R
+11350233,2022-05-31,Playback device calibration,0,G06F|G10K|H04R|H04S
+11348592,2022-05-31,Systems and methods of audio decoder determination and selection,0,G10L|H04N
+11343614,2022-05-24,Device designation of playback and network microphone device arrangements,0,G06F|G10L|H04R|H04S
+11337018,2022-05-17,Conditional content enhancement,0,G06F|H04R
+11337017,2022-05-17,Spatial audio correction,0,G06F|H04R|H04S
+11327864,2022-05-10,Adjusting a playback device,0,G06F|H03G
+11323974,2022-05-03,Synchronization of content between networked devices,1,H04L|H04N|H04R|H04W
+11321046,2022-05-03,Playback transfer in a media playback system,0,G06F|H04L|H04N|H04R
+11317149,2022-04-26,Group coordinator selection,2,G11B|H04B|H04L|H04N|H04R|H04W
+11316595,2022-04-26,Playback device media item replacement,0,H04B|H04L|H04N
+11315556,2022-04-26,"Devices, systems, and methods for distributed voice processing by transmitting sound data associated with a wake word to an appropriate device for identification",66,G06F|G10L|H04R
+11310557,2022-04-19,Audio content playback management,0,G06F|G11B|H04L|H04N
+11308962,2022-04-19,Input detection windowing,3,G06F|G10L
+11308961,2022-04-19,Arbitration-based voice recognition,2,G06F|G10L|H04R
+11308958,2022-04-19,Localized wakeword verification,4,G06F|G10L|H04R
+11301207,2022-04-12,Playback device,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11301204,2022-04-12,Music streaming using supported services,0,G06F
+11301123,2022-04-12,Lock screen media playback control,0,G06F|G08C
+11294618,2022-04-05,Media player system,6,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11294617,2022-04-05,Contextual indexing of media items,0,G06F
+11290838,2022-03-29,Playback based on user presence detection,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11288039,2022-03-29,Media playback system with concurrent voice assistance,1,G06F|G10L|H04L|H04N
+11284214,2022-03-22,Failure recovery of wearable playback device,1,G06F|G11B|H04L|H04N|H04R|H04S
+11265652,2022-03-01,Playback device pairing,109,G06F|H03G|H04R|H04S
+11237792,2022-02-01,Calibration assistance,0,G06F|H04S
+11223661,2022-01-11,Social media connection recommendations based on playback information,2,G06F|G06Q|H04L
+11218524,2022-01-04,Location-based playlist generation,0,G06F|H04L|H04N|H04R|H04W
+11212629,2021-12-28,Updating playback device configuration information based on calibration data,0,G06F|H04R|H04S
+11212612,2021-12-28,Voice control of a media playback system,67,G06F|G10L|H04L|H04R|H04S|H04W
+11210055,2021-12-28,Control based on proximity,0,F21V|G06F|H03G|H04R|H05B
+11210053,2021-12-28,Portable playback device state variable,0,G05B|G06F|H04N|H04R
+11206002,2021-12-21,Media playback system with maximum volume setting,0,G06F|H03G|H04L|H04N|H04R
+11204737,2021-12-21,Playback queues for shared experiences,0,G06F|H04L|H04N|H04R
+11200900,2021-12-14,Offline voice control,2,G06F|G10L|H04L
+11200894,2021-12-14,Network microphone device with command keyword eventing,6,G06F|G10L
+11200889,2021-12-14,Dilated convolutions and gating for efficient keyword spotting,0,G06N|G10L
+11200025,2021-12-14,Playback device,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11200024,2021-12-14,Playback device with device base,3,G06F|H04L|H04R
+11197117,2021-12-07,Media playback based on sensor data,1,G01S|G06F|H04L|H04R|H04S|Y02B
+11197115,2021-12-07,Systems and methods for authenticating and calibrating passive speakers with a graphical user interface,4,G06F|H04R|H04S
+11197112,2021-12-07,Validation of audio calibration using multi-dimensional motion check,0,G06F|G10L|H03G|H04R|H04S
+11197096,2021-12-07,Systems and methods for associating playback devices with voice assistant services,1,G06F|G10L|H04R
+11194541,2021-12-07,Systems and methods of distributing audio to one or more playback devices,3,G06F|H03G|H04R
+11190564,2021-11-30,Multimedia content distribution system and method,0,G06F|G06Q|H04L
+11189286,2021-11-30,VAS toggle based on device orientation,1,G06F|G10L
+11188666,2021-11-30,Playback device queue access levels,0,G06F|H04N|Y04S
+11188621,2021-11-30,Share restriction for curated playlists,0,G06F|H04L|H04W
+11188590,2021-11-30,Playlist update corresponding to playback queue modification,3,G06F|H04N
+11188294,2021-11-30,Detecting the nearest playback device,0,G01S|G06F|G10L|H04R
+11184969,2021-11-23,Contextualization of voice inputs,36,G01S|G06F|G10L|H05B
+11184722,2021-11-23,Controlling multi-site media playback systems,0,G06F|H04L|H04N|H04R
+11184721,2021-11-23,Playback device control,9,G06F|H03G|H04L|H04N|H04R
+11184704,2021-11-23,Music service selection,63,G06F|G10L|H04L|H04R|H04S|H04W
+11184666,2021-11-23,Access control techniques for media playback systems,0,G06F|H04N
+11184645,2021-11-23,Temporary configuration of a media playback system within a place of accommodation,1,G06F|G06Q|H04N
+11184426,2021-11-23,Cloud queue tombstone,0,G06F|H04L|H04N
+11183183,2021-11-23,Systems and methods of operating media playback systems having multiple voice assistant services,1,G06F|G10L
+11183181,2021-11-23,Systems and methods of multiple voice services,5,G06F|G10L
+11182534,2021-11-23,Remote creation of a playback queue for an event,0,G06F|H04N
+11178504,2021-11-16,Wireless multi-channel headphone systems and methods,1,G06F|H04R|H04S
+11178441,2021-11-16,Configuration of playback device audio settings,0,G06F|H04N
+11175888,2021-11-16,Media playback system with concurrent voice assistance,1,G06F|G10L|H04L|H04N
+11175886,2021-11-16,Music discovery dial,0,G06F|H04R
+11175884,2021-11-16,Pre-caching of media,0,G05B|G06F|H04N
+11175883,2021-11-16,Playback session transitions across different platforms,3,G05B|G06F|G10L|H04L|H04W
+11175880,2021-11-16,Systems and methods for voice-assisted media content selection,66,G06F|G10L
+11175815,2021-11-16,Playback modification based on proximity,0,G05B|G06F|G11B|H04N|H04R|H04W
+11175805,2021-11-16,Controlling and displaying zones in a multi-zone system,0,G06F|H04N
+11172329,2021-11-09,Systems and methods for target device prediction,67,G06F|G06N|G08C|H04B|H04N|H04R|H04W
+11172328,2021-11-09,Systems and methods for device localization,67,G06F|G06N|G08C|H04B|H04N|H04R|H04W
+11172299,2021-11-09,Content rules engines for audio playback devices,0,G06F|H04L|H04N|H04R
+11172296,2021-11-09,Volume management in a media playback system,0,G06F|H03G|H04R
+11172030,2021-11-09,Managing application access of a media playback system,0,H04L
+11171827,2021-11-09,Playback devices and bonded zones,0,H04L|H04N
+11170447,2021-11-09,Media content based on playback zone awareness,1,G06F|G06Q|H04N|H04R
+11169768,2021-11-09,Providing media for playback,0,G06F|G11B|H04L|H04N|H04R
+11165882,2021-11-02,Service provider user accounts,0,G06F|H04L|H04N
+11163520,2021-11-02,Multimedia experience according to biometrics,0,G06F|G06V|H04L
+11159845,2021-10-26,Sound bar to provide information associated with a media item,0,H04L|H04N|H04R
+11157069,2021-10-26,Power control based on packet type,0,G06F|H03F|H03G|H04L|H04R
+11153706,2021-10-19,Playback based on acoustic signals,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11153617,2021-10-19,Playback device demonstration,0,G06Q|G09B|H04N|H04R|H04W
+11140485,2021-10-05,Wireless transmission to satellites for multichannel audio system,1,H04J|H04L|H04N|H04R|H04S
+11138975,2021-10-05,Locally distributed keyword detection,2,G06F|G10L
+11138969,2021-10-05,Locally distributed keyword detection,50,A61M|A61N|G06F|G10L
+11137979,2021-10-05,Metadata exchange involving a networked playback system and a networked microphone system,61,G06F|G10L|H04L
+11137975,2021-10-05,Mood detection and/or influence via audio playback devices,0,G05B|G06F|H04N
+11134291,2021-09-28,Social media queue,2,G05B|G06F|G06Q|H04L|H04N
+11134076,2021-09-28,Sharing access to a media service,6,H04L|H04N
+11133018,2021-09-28,Dynamic player selection for audio signal processing,0,G06F|G10L|H04R|H04W
+11132170,2021-09-28,Adjusting volume levels,8,G05B|G06F|G11B|H04R|H04S
+11129005,2021-09-21,Media playback system control via cellular network,0,H04L|H04N|H04W
+11126243,2021-09-21,Portable playback device power management,0,G06F|Y02D
+11122382,2021-09-14,Playback based on acoustic signals,0,G01S|G06F|H04L|H04R|H04S|Y02B
+11122379,2021-09-14,Low-latency audio networking,1,G06F|H04L|H04N|H04R|H04W
+11119540,2021-09-14,RF antenna proximity sensing in a playback device,2,G06F|H03K|H04N|H04R|H04S|Y02D
+11115405,2021-09-07,Sharing access to a media service,1,H04L|H04N
+11109157,2021-08-31,Providing aggregate playback information,0,H04N|H04R
+11106425,2021-08-31,Synchronizing operations among a plurality of independently clocked digital data processing devices,6,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11106424,2021-08-31,Synchronizing operations among a plurality of independently clocked digital data processing devices,1,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11106423,2021-08-31,Evaluating calibration of a playback device,0,G06F|H04R|H04S
+11099808,2021-08-24,Facilitating calibration of an audio playback device,0,G06F|H03G|H04R|H04S
+11093689,2021-08-17,Application programming interface for browsing media content,0,G06F
+11093016,2021-08-17,Portable playback device power management,0,G06F|Y02D
+11086589,2021-08-10,Systems and methods for podcast playback,3,G04G|G06F|H04N
+11082770,2021-08-03,Multi-channel pairing in a media system,5,G06F|H03G|H04R|H04S
+11080329,2021-08-03,Dynamic display of filter criteria,0,G06F
+11080008,2021-08-03,Command dial in a media playback system,0,G06F|G08C|H03G|H04R
+11080005,2021-08-03,Dynamic computation of system response volume,0,G06F|H04R|H04S
+11080001,2021-08-03,Concurrent transmission and playback of audio information,6,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+11080000,2021-08-03,Multiple-device setup,2,G06F|H04N
+11076216,2021-07-27,Headphone interaction with media playback system,0,G06F|H04R
+11076177,2021-07-27,Grouped zones in a system with multiple media playback protocols,0,G06F|H04L|H04N|H04R
+11076035,2021-07-27,Do not disturb feature for audio notifications,0,G06F|H04M|H04W
+11074035,2021-07-27,Smart audio settings,1,G05B|G06F|H03G
+11068528,2021-07-20,Providing media items from playback history,4,G06F|H04L|H04N
+11068231,2021-07-20,Media playback system with virtual line-in,2,G05B|G06F|H04L|H04N
+11064306,2021-07-13,Calibration state variable,0,G06F|H03G|H04R|H04S
+11057725,2021-07-06,Wireless radio switching,0,G06F|H04B|H04L|H04N|H04R
+11057458,2021-07-06,Group coordinator selection,0,H04L
+11055060,2021-07-06,Distributed provisioning of properties of operational settings of a media playback system,0,G06F|H04R
+11055059,2021-07-06,Identification of audio content,0,G06F|G11B|H04H|H04R
+11055058,2021-07-06,Playback queue with software components,1,G05B|G06F|H04L|H04N|H04R|H04W
+11051048,2021-06-29,Grouping in a system with multiple media playback protocols,3,G06F|H04L|H04N|H04R
+11042355,2021-06-22,Handling of loss of pairing between networked devices,0,G06F|G10L|H04L
+11042352,2021-06-22,Group coordinator selection,0,G06F|H04L
+11042351,2021-06-22,Fast-resume audio playback,6,G06F|G10L|G11B|H04N|H04R
+11038937,2021-06-15,Hybrid sniffing and rebroadcast for Bluetooth networks,4,H04B|H04L|H04W
+11036794,2021-06-15,Queue versioning,0,G06F|H04L|H04N
+11036467,2021-06-15,Audio track selection and playback,9,G06F
+11036461,2021-06-15,Zone grouping,1,G06F|H04R
+11032617,2021-06-08,Multiple household management,0,G06F|G11B|H04L|H04N
+11029917,2021-06-08,Audio processing algorithms,0,G06F|H04R|H04S
+11025509,2021-06-01,Playback device connection,0,G06F|H04L|H04W
+11023199,2021-06-01,Playback zone representations,2,G06F|H04N
+11016727,2021-05-25,Audio track selection and playback,9,G06F
+11006214,2021-05-11,Default playback device designation,0,G06F|G10L|H04L|H04R|H04S|H04W
+11005940,2021-05-11,Network topology based on a useful wired connection,0,H04L|H04N
+11004459,2021-05-11,Environmental condition detection,0,G06N|G10L|H04R|H04S
+10998615,2021-05-04,Spatial antenna diversity techniques,10,G06F|H01Q|H04B|H04R
+10997234,2021-05-04,Suggested application download,2,G05B|G06F|H04L|H04W
+10992775,2021-04-27,Receiving media content based on user media preferences,0,G06F|H04L|H04N
+10986460,2021-04-20,Grouping based on acoustic signals,1,G01S|G06F|H04L|H04R|H04S|Y02B
+10986376,2021-04-20,Networked device group information in a system with multiple media playback protocols,2,G06F|H04L|H04N|H04R
+10985982,2021-04-20,Proximal playback devices,0,H04L|H04W
+10983750,2021-04-20,Guest access to a media playback system,1,G06F|G11B|H04R
+10979310,2021-04-13,Playback device connection,0,G06F|H04L|H04W
+10976992,2021-04-13,Playback device mode based on device base,0,G06F|H04L|H04R
+10972784,2021-04-06,Zone group control,0,H04L|H04N
+10971185,2021-04-06,Management of media content playback,0,G06F|G11B|H04L|H04R
+10971139,2021-04-06,Voice control of a media playback system,3,G06F|G10L|H04R
+10970035,2021-04-06,Audio response playback,0,G06F|G10L|H04R|H04S
+10970034,2021-04-06,Audio distributor selection,1,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+10969940,2021-04-06,Multi-household support,0,G06F|H04L
+10966025,2021-03-30,Playback device pairing,1,G06F|H03G|H04R|H04S
+10965545,2021-03-30,Playback device connection,0,G06F|H04L|H04W
+10965024,2021-03-30,Frequency routing based on orientation,1,G06F|H01Q|H03G|H04B|H04R|H04S
+10963508,2021-03-30,Music discovery,0,G06F
+10963215,2021-03-30,Media playback device and system,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+10956119,2021-03-23,Playback device,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+10956118,2021-03-23,Audio content auditioning by playback device,1,G06F|G11B|H04L|H04N|H04R
+10956116,2021-03-23,Media playback system with virtual line-in groups,8,G05B|G06F|H04L|H04N
+10952128,2021-03-16,Re-establishing player connectivity,1,G06F|H04L|H04W
+10949163,2021-03-16,Playback device,0,G05B|G06F|G11B|H03G|H04H|H04J|H04L|H04N|H04R|H04W
+10945089,2021-03-09,Playback based on user settings,4,G01S|G06F|H04L|H04R|H04S|Y02B
+10945027,2021-03-09,Systems and methods for networked music playback,0,G06F|G11B|H04L|H04N|H04R
+10911507,2021-02-02,Immersive audio in a media playback system,0,G06F|H04L|H04N|H04R|H04S

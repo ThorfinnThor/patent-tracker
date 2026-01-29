@@ -1,0 +1,586 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12424933,2025-09-23,Power consumption control of an electronic system and apparatus for controlling the power consumption,0,G06F|H02M
+12423410,2025-09-23,Data processing system with secure memory sharing,0,G06F
+12423262,2025-09-23,Repeater generated forced resume for hosts with an EUSB repeater,0,G06F|H04B
+12415305,2025-09-16,Conduit inserts for encapsulant compound formulation kneading and encapsulation back-end assembly processes,0,B29C|H01L
+12413187,2025-09-09,Doherty amplifiers,0,H01L|H03F
+12406949,2025-09-02,Semiconductor device with RF interposer and method therefor,0,H01L|H01Q
+12406911,2025-09-02,Semiconductor device with embedded battery and method therefor,0,B81B|B81C|H01L|H02J
+12406896,2025-09-02,Semiconductor device package having thermal dissipation feature and method therefor,0,H01L|H05K
+12406716,2025-09-02,Refresh operations in embedded dynamic random access memories (DRAMs),0,G06F|G11C
+12401552,2025-08-26,Interference cancellation in a multi-radio system and apparatus for cancellation,0,H04B|H04L
+12399766,2025-08-26,Central processing unit system and method with improved self-checking,0,G06F
+12386776,2025-08-12,Enhanced serial peripheral interface,0,G06F
+12381164,2025-08-05,Semiconductor device with enclosed cavity and method therefor,0,H01L|H01P|H01Q
+12369380,2025-07-22,Transistor with dielectric spacers and field plate and method of fabrication therefor,0,H01L|H10D
+12363771,2025-07-15,"Device, system, and method for multi-link tunneled direct link setup (TDLS) setup",0,H04W
+12362795,2025-07-15,Bi-dimensional steering matrix alignment at beamformer,0,H04B|H04L
+12362294,2025-07-15,Wafer with semiconductor devices and integrated electrostatic discharge protection,0,H01L|H10D
+12355689,2025-07-08,"Device, system, and method for power spectrum density (PSD) limited transmissions",0,H04B|H04L|H04W
+12355503,2025-07-08,Calibration apparatus for a communication system,0,H04B|H04L
+12349433,2025-07-01,Transistors with self-aligned source-connected field plates,0,H01L|H10D
+12348191,2025-07-01,Combiner circuit for Doherty power amplifier and related method of operation for achieving enhanced radio frequency and video bandwidth,0,H01L|H03F
+12347753,2025-07-01,Semiconductor device having galvanic isolation and method therefor,0,H01L
+12347740,2025-07-01,Power amplifier module with transistor dies for multiple amplifier stages on a same heat dissipation structure,0,H01L|H03F|H05K
+12341089,2025-06-24,Device package substrate structure and method therefor,0,H01L
+12335075,2025-06-17,Method and apparatus for communications,0,H04L|H04W
+12335005,2025-06-17,Beamforming feedback reduction in wifi,0,H04B|H04L|H04W
+12334938,2025-06-17,Digital frequency synthesizer,0,G06F|H03L
+12334416,2025-06-17,Through substrate via (TSV) validation structure for an integrated circuit and method to form the TSV validation structure,0,G01R|H01L|H10D
+12332724,2025-06-17,Processing wakeup requests in a processing system having power management circuitry and a processing circuitry,0,G06F
+12328883,2025-06-10,Polycrystalline semiconductor resistor,0,H01L|H10D
+12328107,2025-06-10,Packaged power amplifier device with air cavity over die,0,H01L|H03F
+12327805,2025-06-10,Packaged power amplifier device,0,H01L|H03F
+12327778,2025-06-10,Transistor die with primary and ancillary transistor elements,0,H01L|H10D
+12326474,2025-06-10,"Multi-partition, multi-domain system-on-chip joint test action group (JTAG) debug control architecture and method",0,G01R|G06F
+12322719,2025-06-03,Semiconductor device structure and method therefor,0,H01L
+12321232,2025-06-03,Memory controller which implements partial writes with error signaling,0,G06F
+12306652,2025-05-20,System on a chip (SoC) having a low power mode of operation,0,G05F|G06F|H03K
+12300586,2025-05-13,Leadless semiconductor package with internal gull wing lead structures,0,H01L
+12293008,2025-05-06,Security device,0,B42D|G06F|G06K|G07D
+12288927,2025-04-29,Semiconductor device with low loss waveguide interface and method therefor,0,H01L|H01Q
+12288766,2025-04-29,Semiconductor device with open cavity and method therefor,0,H01L
+12287752,2025-04-29,Methods and systems for serial control with interleaved register mapping,0,G06F
+12278642,2025-04-15,Clock synchronization,0,G06F|H03L|H04W
+12273133,2025-04-08,Frequency multiplier based capacitive galvanically isolated communication link,0,H04B|H04L
+12271331,2025-04-08,ID-based transaction routing for PCIe endpoint lending,0,G06F
+12271260,2025-04-08,Method to retrieve transaction address resulting in an uncorrectable PCIe error,0,G06F
+12266713,2025-04-01,Transistor with dielectric spacers and method of fabrication therefor,0,H01L|H10D
+12265776,2025-04-01,Identifying test coverage gaps for integrated circuit designs based on node testability and physical design data,0,G01R|G06F
+12259764,2025-03-25,Architecture for managing asynchronous resets in a system-on-a-chip,0,G06F|H03K
+12250711,2025-03-11,High priority medium access,0,H04W
+12250043,2025-03-11,Apparatus and methods for multi-AP joint transmission and reception,0,H04B|H04W
+12245226,2025-03-04,"Trigger frame arranged to solicit transmission of distributed resource units, and methods for generating the trigger frame",0,H04L|H04W
+12244331,2025-03-04,Differential input receiver circuit testing with a loopback circuit,0,G01R|H03F|H04B|H04L
+12243842,2025-03-04,Semiconductor device with open cavity and method therefor,1,H01L|H01R
+12242331,2025-03-04,Method and apparatus for determining controller area network (CAN) bus loading,0,G06F|H04L
+12237257,2025-02-25,Compact transistor utilizing shield structure arrangement,0,H01L|H10D
+12231105,2025-02-18,Switchable termination resistance circuit,0,H03F|H03H|H04L
+12229071,2025-02-18,eUSB repeater for passing repeating mode packets between a differential bus and a single-ended bus,0,G06F
+12228670,2025-02-18,"Communication unit, integrated circuits and method for clock and data synchronization",0,G01S|G06F|H03L|H03M|H04L
+12224713,2025-02-11,Multiple-stage Doherty power amplifiers implemented with multiple semiconductor technologies,0,H01L|H03F
+12213076,2025-01-28,"Device, system, and method for transmissions during a restricted target wake time (rTWT) service period (SP)",0,H04W|Y02D
+12211759,2025-01-28,Circuit die with isolation test structure,1,H01L
+12210615,2025-01-28,System on chip with pre-exemption interrupts for partition execution control,0,G06F
+12210404,2025-01-28,Lockup detection circuit for an eUSB repeater,0,G06F
+12207329,2025-01-21,Multi-link device (MLD) association,0,H04W
+12207241,2025-01-21,Wireless communications device,0,H04W
+12206533,2025-01-21,Non-long range preamble design for long range wireless packet and methods for processing the preamble,0,H04L
+12203992,2025-01-21,Transceiver for transmitting and receiving signals and method for the transceiver,0,G01R|H04B|H04L
+12203774,2025-01-21,Trim circuit and method of oscillator drive circuit phase calibration,0,B81B|G01C|H03B|H03L|H04L
+12199064,2025-01-14,Substrate pad and die pillar design modifications to enable extreme fine pitch flip chip (FC) joints,0,H01L
+12192988,2025-01-07,"Device, system, and method for multi-link operations",0,H04W
+12189567,2025-01-07,Methods and systems for lightweight multiprotocol gateway and bridge,0,G06F
+12184237,2024-12-31,Surface-mount amplifier devices,0,H01L|H03F|H05K
+12182231,2024-12-31,Control channel architecture,0,G06F|H04L
+12176307,2024-12-24,Waveguide launcher in package based on high dielectric constant carrier,0,H01L
+12175283,2024-12-24,Hardware-accelerated computing system,0,G06F
+12170984,2024-12-17,Wireless communications device,0,H04W
+12170254,2024-12-17,Transistor with integrated short circuit protection,0,H01L|H03K|H10D
+12166901,2024-12-10,Lightweight fault countermeasure for stateful hash-based cryptography,0,H04L
+12166455,2024-12-10,Power amplifier with a power transistor and an electrostatic discharge protection circuit on separate substrates,0,H01L|H03F|H10D
+12164348,2024-12-10,Capturing of on-chip resets in an integrated circuit,0,G06F
+12160395,2024-12-03,Pilot design for distributed resource units,0,H04B|H04L
+12160329,2024-12-03,Method and apparatus for wireless communications,0,H04B|H04L|H04W
+12159845,2024-12-03,Transistor with integrated passive components,0,H01L|H10D
+12155354,2024-11-26,Power transistor devices and amplifiers with input-side harmonic termination circuits,0,H01L|H03F
+12153534,2024-11-26,Communications device,0,G06F
+12132099,2024-10-29,LDMOS transistor with implant alignment spacers,0,H01L|H10D
+12127254,2024-10-22,Method and apparatus for multi-link communications,0,H04W
+12127119,2024-10-22,TWT management and management frames for multi-link devices,0,H04W
+12126595,2024-10-22,Hardware firewalls with adaptive deny-by-default (DBD) access control,0,G06F|H04L
+12125716,2024-10-22,Semiconductor device packaging warpage control,0,H01L
+12124720,2024-10-22,Memory configuration within a data processing system,0,G06F
+12124328,2024-10-22,Data processing system having a memory controller with inline error correction code (ECC) support,0,G06F
+12124309,2024-10-22,Fault detection during entry to or exit from low power mode,1,G06F
+12120760,2024-10-15,Multi-link device (MLD) setup and multi-link operation (MLO),2,H04W
+12120206,2024-10-15,Encoding parameters for a wireless communication system,0,H04L|H04W
+12119316,2024-10-15,Patterned and planarized under-bump metallization,0,H01L
+12119300,2024-10-15,Transistor circuits with shielded reference transistors,0,H01L|H03F|H03K|H10D
+12114383,2024-10-08,Apparatus and method for multi-link communications,0,H04W
+12114259,2024-10-08,Access point and station multi-link device operation,0,H04W|Y02D
+12101412,2024-09-24,Lightweight fault detection mechanism for streaming of cryptographic data objects,0,H04L
+12095520,2024-09-17,Bidirectional bypass mode,1,G06F|H03K|H04B
+12094801,2024-09-17,Thick-silver layer interface,0,H01L
+12092496,2024-09-17,Capacitive sensing,0,G01D|G06F
+12088255,2024-09-10,Doherty amplifiers and amplifier modules with shunt inductor and capacitor circuit for improved carrier harmonic loading,0,H01L|H03F
+12087671,2024-09-10,Overmolded microelectronic packages containing knurled flanges and methods for the production thereof,0,H01L
+12079710,2024-09-03,Scalable neural network accelerator architecture,0,G06F|G06N
+12073221,2024-08-27,Context switching method and system for swapping contexts between register sets based on thread halt,0,G06F
+12072825,2024-08-27,Detector circuit for start signaling in an eUSB repeater,0,G06F
+12068902,2024-08-20,EHT capability design for PPE threshold,0,H04L|H04W
+12068893,2024-08-20,Two-dimensional high-speed equalizer with programmable direct current (DC) and peaking gains,0,H03F|H03K|H04L
+12068228,2024-08-20,Leadless semiconductor package with shielded die-to-pad contacts,0,H01L
+12066501,2024-08-20,Power supply peak current measurement,0,G01R|G06F|H04L
+12063057,2024-08-13,Signal coupler,0,H01P|H04B|H04L
+12058615,2024-08-06,Device and method for multi-link communications,0,H04W|Y02D
+12057499,2024-08-06,Transistor devices with termination regions,0,H01L|H10D
+12051642,2024-07-30,"QFN semiconductor package, semiconductor package and lead frame",0,H01L
+12040846,2024-07-16,Distance quality indicator (DQI) for phase-based distance estimation using narrowband radios,0,G01S|H04B|H04L
+12040291,2024-07-16,Radio frequency packages containing multilevel power substrates and associated fabrication methods,0,H01L
+12033950,2024-07-09,Semiconductor device with self-aligned waveguide and method therefor,0,H01L|H01Q
+12032088,2024-07-09,"Device for radar sensor, IC for a radar sensor and a radar sensor",0,G01S|H04B|H04W
+12028149,2024-07-02,System and method for range extension of wireless networks,1,H04B|H04W
+12028071,2024-07-02,High-speed wide-band low-power level shifter for high-speed applications,0,H03K|H04L
+12027485,2024-07-02,Semiconductor device assembly and method therefor,0,H01L
+12021950,2024-06-25,Multi-link communications,0,H04L
+12015439,2024-06-18,Methods and systems for communicating data and control information over a serial link,1,G06F|H03M|H04B
+12015004,2024-06-18,Hybrid device assemblies and method of fabrication,0,H01L|H10D
+12014971,2024-06-18,"Thermal interface structures, electrical systems with thermal interface structures, and methods of manufacture thereof",0,H01L
+12009831,2024-06-11,System having an analog to digital converter (ADC) and a digital signal processor,0,H03M|H04L
+12001674,2024-06-04,Reusing memory arrays for physically unclonable function (PUF) generation,0,G06F|G11C|H04L
+12001257,2024-06-04,Power management system with capacitor,0,G06F|H02M
+11998312,2024-06-04,Systems and methods for breathing detection and rate estimation using wireless communication signals,0,A61B|G16H|H04W
+11994888,2024-05-28,Power supply handling for multiple package configurations,1,G05F|G06F|H03K
+11990872,2024-05-21,Power amplifier modules including topside cooling interfaces and methods for the fabrication thereof,0,H01L|H03F
+11989417,2024-05-21,Column repair in a memory system using a repair cache,0,G06F|G11C
+11985089,2024-05-14,Sounding to mixed bandwidth stations,0,H04B|H04L
+11984429,2024-05-14,Leadless power amplifier packages including topside termination interposer arrangements and methods for the fabrication thereof,1,H01L|H03F
+11984408,2024-05-14,"Cavity formed in a molding compound of a semiconductor package to reduce mechanical stress on a portion of a die in the package, and methods of formation",0,H01L
+11977664,2024-05-07,Supply voltage proportionality monitoring in a system-on-chip (SOC),0,G01R|G06F|H03K
+11971447,2024-04-30,Automatic fault injection in a clock monitor unit,0,G01R|G06F
+11967507,2024-04-23,Tie bar removal for semiconductor device packaging,0,H01L
+11961776,2024-04-16,Semiconductor device with connector in package and method therefor,0,H01L|H01Q|H01R
+11954050,2024-04-09,System and method for direct memory access,0,G06F
+11950107,2024-04-02,Wireless frequency band-steering device,0,H04W
+11943665,2024-03-26,Apparatus and methods for power save in multi-link wireless systems,0,H04W|Y02D
+11937230,2024-03-19,Method and apparatus for wireless communications,1,H04L|H04W|Y02D
+11935809,2024-03-19,Semiconductor package thermal spreader having integrated EF/EMI shielding and antenna elements,0,H01L|H01Q|H05K
+11929310,2024-03-12,Radio frequency packages containing substrates with coefficient of thermal expansion matched mount pads and associated fabrication methods,0,H01L
+11924823,2024-03-05,Multi-link device association and reassociation,0,H04W
+11924668,2024-03-05,Operating parameter update with wider bandwidth,0,H04W
+11923275,2024-03-05,"Lead-frame assembly, semiconductor package and methods for improved adhesion",0,H01L
+11917723,2024-02-27,System and methods for transmitting protocol data units,0,H04W
+11917656,2024-02-27,Band steering of multi-band wireless clients,0,H04W
+11917473,2024-02-27,Modem arrangement,0,H04W
+11916624,2024-02-27,System and method for enabling multi-user multiple-input-multiple-output communication in wireless networks,1,H04B|H04W
+11908784,2024-02-20,Packaged semiconductor device assembly,0,H01L
+11907040,2024-02-20,Memory power management method and processor system,0,G06F|H04L|Y02D
+11888554,2024-01-30,Automotive MIMO radar system using efficient difference co-array processor,0,G01S|H04B|H04L
+11888238,2024-01-30,Linear impedance compensation system with microstrip and slotline coupling and controllable capacitance,0,H01L|H01P|H01Q|H03H|H04B
+11886349,2024-01-30,Remap address space controller,1,G06F
+11882062,2024-01-23,Method and apparatus for wireless communications,1,H04L|H04W
+11876676,2024-01-16,Network node firmware update,0,G06F|H04L
+11876514,2024-01-16,Optocoupler circuit with level shifter,0,H03K|H04L
+11876059,2024-01-16,Semiconductor device with directing structure and method therefor,0,G01S|H01L|H01Q
+11875988,2024-01-16,Substrate pad and die pillar design modifications to enable extreme fine pitch flip chip (FC) joints,0,H01L
+11870452,2024-01-09,IQ to phase conversion method and apparatus,0,G06F|H02M|H03M
+11863181,2024-01-02,Level-shifter,0,H03K|H04L
+11862584,2024-01-02,High dielectric constant carrier based packaging with enhanced WG matching for 5G and 6G applications,0,H01L|H01P
+11861403,2024-01-02,Method and system for accelerator thread management,0,G06F
+11855902,2023-12-26,Device and method for splitting data for transmission,0,H04L
+11846957,2023-12-19,Signal driver circuit,0,G05F|G06F|H03K
+11842996,2023-12-12,Transistor with odd-mode oscillation stabilization circuit,0,H01L|H03F|H10D
+11842957,2023-12-12,Amplifier modules and systems with ground terminals adjacent to power amplifier die,0,H01L|H03F
+11838788,2023-12-05,Apparatus and methods of access point operation in multi-link wireless communication systems,0,H04L|H04W
+11837560,2023-12-05,Semiconductor device with waveguide and method therefor,0,G01S|H01L|H01Q
+11832167,2023-11-28,Method and apparatus for wireless operations,0,H04W
+11831423,2023-11-28,Method and apparatus for communications with channel puncturing,0,H04B|H04L|H04W
+11830842,2023-11-28,Hybrid device assemblies and method of fabrication,1,H01L|H10D
+11823978,2023-11-21,Through substrate via (TSV) validation structure for an integrated circuit and method to form the TSV validation structure,0,G01R|H01L|H10D
+11823968,2023-11-21,Semiconductor device package having stress isolation and method therefor,0,G01L|H01L
+11821946,2023-11-21,Built in self test (BIST) for clock generation circuitry,0,G01R|G06F
+11817366,2023-11-14,Semiconductor device package having thermal dissipation feature and method therefor,0,H01L
+11815620,2023-11-14,"Digitally modulated radar transmitter modules, systems and methods",0,G01S|H03C|H03D|H04L
+11808804,2023-11-07,Power profiling in an integrated circuit having a current sensing circuit,0,G01R|G06F
+11805470,2023-10-31,Wireless device in a multi-link device (MLD) arranged to reduce duplication of multi-link operation (MLO) information and basic service set (BSS) information and methods,2,H04W
+11804527,2023-10-31,Transistor with center fed gate,0,H01L|H10D
+11800585,2023-10-24,Method and apparatus for wireless communications,0,H04W
+11800445,2023-10-24,Frame transmission between wireless devices,1,H04W|Y02D
+11800396,2023-10-24,Method and apparatus for wireless communications,0,H04W|Y02D
+11799523,2023-10-24,Group acknowledgement for multiple user communication in a wireless local area network,0,H04B|H04J|H04L|H04W
+11798871,2023-10-24,Device package substrate structure and method therefor,0,H01L
+11797681,2023-10-24,Fast and versatile multicore SoC secure boot method,0,G06F
+11792829,2023-10-17,Method and apparatus for multi-link operations,0,H04L|H04W|Y02D
+11791806,2023-10-17,Systems and methods for pulse width modulation shaping,0,H02J|H02M|H03K|H04B|H04L
+11791283,2023-10-17,Semiconductor device packaging warpage control,1,H01L
+11790347,2023-10-17,Systems and methods for providing NFC secure application support in battery on and battery off modes,0,G06Q|H04W|Y02D
+11789118,2023-10-17,Calibration of a phased array,1,G01S|G06F|H01Q
+11787097,2023-10-17,Conduit inserts for encapsulant compound formulation kneading and encapsulation back-end assembly processes,0,B29C|H01L
+11784857,2023-10-10,Adaptive linear drivers,1,H03F|H03G|H04L
+11784236,2023-10-10,Methods for forming semiconductor devices using sacrificial capping and insulation layers,0,H01L|H10D
+11784112,2023-10-10,Integrated circuit package and method to manufacture the integrated circuit package to reduce bond wire defects in the integrated circuit package,0,H01L
+11777002,2023-10-03,Laterally-diffused metal-oxide semiconductor transistor and method therefor,0,H01L|H10D
+11775467,2023-10-03,System and method for ordering transactions in system-on-chips,0,G06F
+11769567,2023-09-26,Devices and methods for preventing errors and detecting faults within a memory device,0,G06F|G11C|H03K
+11768987,2023-09-26,System for facilitating secure communication in system-on-chips,1,G06F|H04L
+11768963,2023-09-26,System and method for validating trust provisioning operation on system-on-chip,1,G06F|H04L
+11765713,2023-09-19,Method and apparatus for wireless communications,0,H04L|H04W
+11757565,2023-09-12,Operation of eMLSR and eMLMR,0,H04B|H04L|H04W
+11755785,2023-09-12,System and method of limiting access of processors to hardware resources,0,G06F
+11755411,2023-09-12,"Error rate reduction in a non-volatile memory (NVM), including magneto-resistive random access memories (MRAMS)",0,G06F|G11C
+11755355,2023-09-12,Systems and methods for assigning domain identifiers to remote peripheral devices using a hypervisor,0,G06F
+11751191,2023-09-05,Apparatus and methods of transmit power allocation in wireless communication systems,1,H04B|H04W
+11750329,2023-09-05,Apparatus and method for block acknowledgement management in multi-link communication systems,1,H04L|H04W
+11749639,2023-09-05,Die-substrate assemblies having sinter-bonded backside via structures and associated fabrication methods,0,H01L
+11747372,2023-09-05,Differential-signal-detection circuit,0,G01R|G06F|H03K
+11743016,2023-08-29,Method and apparatus for wireless communications,0,H04L|H04W
+11742897,2023-08-29,Method and apparatus for wireless communications,0,H04B|H04L|H04W
+11737133,2023-08-22,QoS guarantee for high priority low latency service,2,H04W|Y02D
+11736939,2023-08-22,Apparatus and method for multi-link management in multi-link communication systems,0,H04W
+11728336,2023-08-15,Compensated alternating polarity capacitive structures,1,H01L|H03M|H10D
+11728285,2023-08-15,Semiconductor device packaging warpage control,0,H01L
+11723113,2023-08-08,Apparatus and method for enabling and disabling links in multi-link communication systems,0,H04W|Y02D
+11722354,2023-08-08,EHT capability design for PPE threshold,2,H04L|H04W
+11721642,2023-08-08,Semiconductor device package connector structure and method therefor,0,H01L
+11716770,2023-08-01,Device and method for multi-link operations,0,H04W
+11716168,2023-08-01,Communications device and method of communications,0,H03K|H04L
+11716101,2023-08-01,Multi-radio device,0,H04B|H04W
+11711828,2023-07-25,Apparatus and methods for communication with respective communication types,0,H04L|H04W
+11711809,2023-07-25,System and method for providing an enhanced acknowledgement frame,0,H04L|H04W
+11711804,2023-07-25,Uplink multi-user sounding for WLAN,1,H04B|H04L|H04W
+11706128,2023-07-18,Method and apparatus for multi-link data transmission,0,H04L|H04W
+11705872,2023-07-18,Broadband power transistor devices and amplifiers with output T-match and harmonic termination circuits and methods of manufacture thereof,1,H01L|H03F|H04B|H10D
+11705410,2023-07-18,Semiconductor device having integrated antenna and method therefor,0,H01L|H01Q
+11700044,2023-07-11,Apparatus and methods for multi-AP joint transmission and reception,1,H04B|H04W
+11695375,2023-07-04,Power amplifier with a power transistor and an electrostatic discharge protection circuit on separate substrates,0,H01L|H03F
+11695013,2023-07-04,Capacitor with an electrode well,0,H01L|H10D
+11693029,2023-07-04,Methods and assemblies for tuning electronic modules,0,G01R|H01L
+11687430,2023-06-27,Method and apparatus for offloading functional data from an interconnect component,0,G06F|Y02D
+11683369,2023-06-20,System for centralized data collection in a distributed service-oriented system,0,G07C|H04L
+11677498,2023-06-13,Method and apparatus for communications,0,H04L|H04W
+11677424,2023-06-13,Transmit spectrum management for Bluetooth communication and apparatus for management,0,H04B|H04L
+11675897,2023-06-13,Process identifier transition monitoring and assessment,1,G06F
+11672038,2023-06-06,Apparatus and method for multi-link communications,1,H04W
+11671289,2023-06-06,End of packet detection,0,G01R|H03K|H04B|H04L
+11665103,2023-05-30,Dynamic packet data convergence protocol reordering,0,H04L|H04W
+11664443,2023-05-30,LDMOS transistor with implant alignment spacers,0,H01L|H10D
+11662948,2023-05-30,Norflash sharing,0,G06F
+11657981,2023-05-23,Method and apparatus for compensating for high Thermal Expansion Coefficient mismatch of a stacked device,0,H01G|H01L|H10D
+11656874,2023-05-23,Asymmetrical processor memory architecture,0,G06F
+11656643,2023-05-23,Capless low dropout regulation,2,G01R|G05F|G06F|H02M|H03F|Y02D
+11646783,2023-05-09,Optimal beamforming in millimeter-wave cellular networks using a single composite random access preamble,1,H04B|H04W
+11645201,2023-05-09,Memory address generator,0,G06F|G11C
+11641660,2023-05-02,Multi-antenna processing in multi-link wireless communication systems,1,H04B|H04W|Y02D
+11641253,2023-05-02,"Bandwidth indication, TXOP protection, and bandwidth negotiation",1,H04L|H04W
+11640964,2023-05-02,Integrated capacitors in an integrated circuit,0,H01L|H10D
+11638238,2023-04-25,Trigger frame based method and device for communications,1,H04W
+11637784,2023-04-25,Method and system for effective use of internal and external memory for packet buffering within a network device,0,H04L
+11636037,2023-04-25,Methods and apparatuses involving radar system data paths,0,G01S|G06F
+11632336,2023-04-18,Multi-radio device,0,H04L|H04W
+11631763,2023-04-18,Termination for trench field plate power MOSFET,0,H01L|H10D
+11631625,2023-04-18,Topside heatsinking antenna launcher for an integrated circuit package,1,H01L|H01P|H01Q
+11621898,2023-04-04,Methods and apparatus for estimating a time-of-arrival or a distance between two device,4,G01S|H04J|H04L|H04W
+11621673,2023-04-04,Power amplifier packages and systems incorporating design-flexible package platforms,2,H01L|H03F
+11621231,2023-04-04,Methods of fabricating leadless power amplifier packages including topside terminations,0,H01L
+11621228,2023-04-04,Substrate with thermal vias and sinter-bonded thermal dissipation structure,0,H01L|H05K
+11621206,2023-04-04,Amplifier with integrated temperature sensor,0,H01L|H03F|H10D
+11620078,2023-04-04,Apparatus and methods for varying output pulse-width modulation (PWM) control of an inverter,0,G06F|H02M
+11617104,2023-03-28,Selective relay of network protocol data units in a wireless mesh network,0,H04L|H04W
+11616040,2023-03-28,"Semiconductor dies having ultra-thin wafer backmetal systems, microelectronic devices containing the same, and associated fabrication methods",1,C25D|H01L|H03F|H10D
+11611417,2023-03-21,Physical layer parsing for multiple input multiple output (MIMO) punctured transmission and apparatus,0,H04B|H04L|H04W
+11609833,2023-03-21,Fault injection in a clock monitor unit,0,G01R|G06F|H03K
+11609821,2023-03-21,Method and system for managing fault recovery in system-on-chips,0,G06F
+11609600,2023-03-21,Glitch detector,0,G06F|H03K
+11606234,2023-03-14,"Systems, apparatuses and methods for a signal extension padding scheme",0,H04L
+11605962,2023-03-14,Multi-level encoding for battery management system,0,H01M|H02J|H03M|H04L|Y02E|Y02T
+11605228,2023-03-14,System and method for sensor fusion system having distributed convolutional neural network,1,G05D|G06F|G06N|G06V
+11604739,2023-03-14,Conditional direct memory access channel activation,1,G06F|H03K
+11604686,2023-03-14,System and method for system for acquiring data,0,B60R|B60W|G06F|G06V
+11602002,2023-03-07,Method and apparatus for multi-link operations,0,H04W
+11601999,2023-03-07,Apparatus and method for multi-link management,3,H04L|H04W
+11601922,2023-03-07,Determining whether a wireless communication medium is idle,1,H04L|H04W
+11595027,2023-02-28,High frequency pulse width modulation shaping,1,H02J|H02M|H03K|H04B|H04L
+11587852,2023-02-21,Power amplifier modules with flip-chip and non-flip-chip power transistor dies,5,H01L|H03F|H10D
+11586476,2023-02-21,Resource sharing in a multi-core system,0,G06F|Y02D
+11586442,2023-02-21,System and method for convolving image with sparse kernels,0,G06F|G06N|G06V
+11581241,2023-02-14,Circuit modules with front-side interposer terminals and through-module thermal dissipation structures,0,H01L|H03F|H05K
+11564275,2023-01-24,Method and apparatus for multi-link communications,2,H04W
+11558847,2023-01-17,Multi-user null data packet (NDP) ranging,0,H04L|H04W
+11558018,2023-01-17,Integrated circuits containing vertically-integrated capacitor-avalanche diode structures,0,H01L|H03F|H10D
+11557565,2023-01-17,Semiconductor device assembly and method therefor,0,H01L
+11557544,2023-01-17,Semiconductor device having a translation feature and method therefor,0,H01L|H01Q
+11557525,2023-01-17,Semiconductor package thermal spreader having integrated RF/EMI shielding and antenna elements,0,H01L|H01Q|H05K
+11552478,2023-01-10,Multi-level encoding for battery management system field,1,H01M|H02J|H03M|H04L|Y02E
+11551769,2023-01-10,Integrated circuits and methods for dynamic allocation of one-time programmable memory,0,G06F|G11C
+11550681,2023-01-10,System and method for error injection in system-on-chip,0,G06F|G11C
+11546370,2023-01-03,Anti-replay protection for network packet communications,0,H04L
+11540200,2022-12-27,Apparatus and method for multi-link communications,9,H04L|H04W
+11539481,2022-12-27,Client station arranged to indicate a maximum number of long training field (LTF) symbol transmit or receive capabilities and methods,0,H04B|H04L|H04W
+11539413,2022-12-27,Method for efficient beamformee implementation for Wi-Fi,2,H04B|H04W
+11537545,2022-12-27,Deadlock condition avoidance in a data processing system with a shared slave,0,G06F
+11533608,2022-12-20,Method and apparatus for wireless operations based on a given bandwidth and modulation and coding scheme,1,H04L|H04W
+11533209,2022-12-20,Determining number of midambles in a packet,0,H04L|H04W
+11532532,2022-12-20,Composite media protection for pressure sensor,0,B81B|B81C|G01L|H01L
+11528104,2022-12-13,OFMDA tone plan for 80MHZ,0,H04B|H04L|H04W
+11522499,2022-12-06,Integrated multiple-path power amplifier,11,H01L|H03F
+11522497,2022-12-06,Doherty amplifier incorporating output matching network with integrated passive devices,0,H01L|H03F
+11521947,2022-12-06,Space efficient flip chip joint design,0,H01L
+11521116,2022-12-06,Self-optimizing multi-core integrated circuit,0,G06F|G06N|Y02D
+11520725,2022-12-06,Performance monitor for interconnection network in an integrated circuit,0,G06F
+11520653,2022-12-06,System and method for controlling faults in system-on-chip,0,G06F
+11520398,2022-12-06,Processor system,0,G06F|Y02D
+11516059,2022-11-29,Clipped signal pulse restoration after deliberate peak clipping,0,H03M|H04L
+11515847,2022-11-29,Power amplifiers and unmatched power amplifier devices with low baseband impedance terminations,0,H01L|H03F
+11515238,2022-11-29,Power die package,1,H01L
+11509495,2022-11-22,Broadcast and multicast in a wireless communication system in a wireless communication network,0,H04B|H04L|H04W
+11507491,2022-11-22,System for controlling data flow between multiple processors,0,G06F|H04L|H04W
+11503499,2022-11-15,Acknowledgement of transmissions in a wireless local area network,1,H04B|H04L|H04W
+11502068,2022-11-15,Semiconductor device package having galvanic isolation and method therefor,0,H01L
+11502054,2022-11-15,Semiconductor device assembly and method therefor,0,H01L
+11502026,2022-11-15,Transistor with flip-chip topology and power amplifier containing same,0,H01L|H10D
+11500403,2022-11-15,System and method for power supply voltage scaling for secure embedded systems,0,B60R|G05F|G06F|H03K|Y04S
+11496926,2022-11-08,EHT padding and packet extension method and apparatus,0,H04L|H04W
+11496338,2022-11-08,Method and apparatus for beamforming,0,H04B|H04L
+11496202,2022-11-08,Fast and robust cell search for 5G and millimeter-wave wireless communication systems using joint frequency raster and receive beam search,0,H04B|H04J|H04L
+11490362,2022-11-01,Vehicular communications packet repetition,0,H04L|H04W
+11490258,2022-11-01,Method and apparatus for securing a Wi-Fi link in a wireless communication system,0,H04L|H04W
+11489072,2022-11-01,Mirror device structure for power MOSFET and method of manufacture,0,H01L|H10D
+11483547,2022-10-25,System and method for adaptive correction factor subsampling for geometric correction in an image processing system,2,B60R|G06T|H04N
+11483038,2022-10-25,Systems and methods for user grouping within a wireless local area network (WLAN),0,H04B|H04W
+11483020,2022-10-25,Gain adjustment circuit,0,H03F|H03G|H04B|H04W
+11482992,2022-10-25,Clock sweeping system,0,G06F|H03K
+11481280,2022-10-25,MCU-independent primary-secondary PMIC sequencing and centralized fault management,0,G06F
+11475545,2022-10-18,System and method for correcting geometric distortion in images,0,G06T
+11467742,2022-10-11,Configurable memory architecture for computer processing systems,0,G06F|G11C
+11464059,2022-10-04,Acknowledgment data unit for multiple uplink data units,0,H04L|H04W
+11463908,2022-10-04,Systems and methods for transmitting a preamble within a wireless local area network (WLAN),0,H04B|H04L|H04W
+11463903,2022-10-04,Resource request for uplink transmission,0,H04L|H04W
+11463134,2022-10-04,Secure Wi-Fi communication by perturbation of a spatial mapping matrix,0,H04B|H04L
+11463055,2022-10-04,Amplifiers and manufacture method thereof,3,H01L|H03F|H03H
+11462494,2022-10-04,Semiconductor device package having galvanic isolation and method therefor,0,H01F|H01L
+11462493,2022-10-04,Method and system for improved noise isolation in an electrostatic discharge protection scheme,0,H01L|H02H|H10D
+11460969,2022-10-04,Mutually capacitive sensor for a touchpad,0,G06F|H03K
+11457448,2022-09-27,Method and apparatus for operating a basic service set (BSS),0,H04W
+11456227,2022-09-27,Topside heatsinking antenna launcher for an integrated circuit package,0,H01L|H01P|H01Q
+11456188,2022-09-27,Method of making flexible semiconductor device with graphene tape,0,H01L
+11455026,2022-09-27,Power mode transition management for cascaded power supply,0,G06F
+11451337,2022-09-20,Media access control for punctured/aggregated communication channels in WLAN,0,H04L|H04W
+11450616,2022-09-20,Using a backside mask layer for forming a unique die mark identifier pattern,1,G03F|H01L
+11449657,2022-09-20,Integrated input/output pad and analog multiplexer architecture,0,G06F|H01L|H03K|H10D
+11448690,2022-09-20,Screening method and apparatus for detecting deep trench isolation and SOI defects,1,G01R|H01L
+11444586,2022-09-13,RF amplifiers with input-side fractional harmonic resonator circuits,1,H01L|H03F
+11444150,2022-09-13,Method and apparatus for a thin film dielectric stack,0,H01L|H10D
+11444044,2022-09-13,"Transistor die with output bondpad at the input side of the die, and power amplifiers including such dies",1,H01L|H03F|H10D
+11443411,2022-09-13,Method and system for image distortion correction using quarter and tangential lookup tables,0,G06T|H04N
+11437301,2022-09-06,Device with an etch stop layer and method therefor,0,H01L|H10D
+11437276,2022-09-06,Packaged dies with metal outer layers extending from die back sides toward die front sides,0,H01L
+11432138,2022-08-30,Secure communications among access points,2,H04L|H04W
+11431641,2022-08-30,Rate adaptation in wireless local area networks (WLANs),1,H04L|H04W
+11430874,2022-08-30,Semiconductor device with a crossing region,1,H01L|H10D
+11430743,2022-08-30,Transistor with shield system including multilayer shield structure arrangement,0,H01L|H10D
+11429437,2022-08-30,System for arbitrating between multiple flows,0,G06F
+11429142,2022-08-30,Glitch detector,0,G06F|H03K
+11422168,2022-08-23,"On-chip, low-voltage, current sensing circuit",1,G01R|G06F|H03F|H03K|Y02D
+11417541,2022-08-16,Protection from metal migration on IC packages,0,B29C|B29L|H01L
+11405247,2022-08-02,Impulse-radio receiver and method,0,H04B|H04L
+11405075,2022-08-02,Method and system for enabling distributed multiple-input-multiple-output communication in wireless networks,0,H04B|H04W
+11404539,2022-08-02,Apparatus for extension of operation voltage,0,H01L|H10D
+11404288,2022-08-02,Semiconductor device packaging warpage control,1,H01L
+11403727,2022-08-02,System and method for convolving an image,0,G06F|G06T
+11399084,2022-07-26,Hot plugging of sensor,0,G06F|H04L
+11398050,2022-07-26,"Apparatus, method and system for adjusting predefined calibration data for generating a perspective view",1,B60R|G06T
+11397670,2022-07-26,Embedded information system and method for memory management,0,G06F
+11388144,2022-07-12,Session setup in network applications,0,H04L
+11387955,2022-07-12,Aggregate MAC service data unit (A-MSDU) and aggregate MAC protocol data unit (A-MPDU) of next generation V2X (NGV) station (STA),0,H04L|H04W
+11387936,2022-07-12,Hybrid automatic repeat request (HARQ) retransmission schemes for a wireless local area network (WLAN),0,H04L
+11387373,2022-07-12,Low drain-source on resistance semiconductor component and method of fabrication,0,H01L|H10F|H10H
+11387169,2022-07-12,Transistor with I/O ports in an active area of the transistor,0,H01L|H10D
+11382035,2022-07-05,Target wake time negotiation in a multi-link wireless LAN system,0,H04L|H04W|Y02D
+11381441,2022-07-05,Dispersion compensation in mm-wave communication over plastic waveguide using OFDM,0,H04B|H04L
+11381276,2022-07-05,System and method for facilitating adaptive frequency hopping in communication systems,0,H04B|H04L|H04W
+11379380,2022-07-05,Systems and methods for managing cache replacement,0,G06F|Y02D
+11379307,2022-07-05,"Error rate reduction in a non-volatile memory (NVM), including magneto-resistive random access memories (MRAMs)",0,G06F|G11C
+11379297,2022-07-05,System and method to provide safety partition for automotive system-on-a-chip,0,G01R|G06F
+11375577,2022-06-28,Method and apparatus for retransmission,0,H04L|H04W
+11372790,2022-06-28,Redundancy in a PCI express system,0,G06F
+11372073,2022-06-28,Error recovery in null data packet (NDP) ranging,0,G01S|H04L
+11366689,2022-06-21,"Hardware for supporting OS driven observation and anticipation based on more granular, variable sized observation units",0,G06F
+11366488,2022-06-21,Timer for use in an asymmetric mutli-core system,3,G06F
+11357066,2022-06-07,Wireless communication apparatus and wireless communication methods based on link use capabilities of multi-link devices,0,H04W
+11357050,2022-06-07,Optimal beamforming in millimeter-wave cellular networks using multiple random access preambles,1,H04B|H04W
+11354408,2022-06-07,Technique for detecting and thwarting row-hammer attacks,2,G06F|G11C
+11354172,2022-06-07,Centralized access control circuit for controlling access to peripherals,0,G06F|Y02D
+11349438,2022-05-31,Power amplifier packages containing multi-path integrated passive devices,0,H01L|H03F
+11347952,2022-05-31,Camera interface circuit for barcode scanner,0,G06K|G06T
+11343919,2022-05-24,Packaged electronic devices with top terminations,1,H01L|H03F|H05K|H10F|H10H
+11343026,2022-05-24,Hybrid ARQ MAC support in WLAN devices,2,H04L|H04W
+11342887,2022-05-24,Wideband RF power splitters and amplifiers including wideband RF power splitters,0,H01L|H03F|H03H
+11342275,2022-05-24,Leadless power amplifier packages including topside terminations and methods for the fabrication thereof,1,H01L
+11335652,2022-05-17,"Method, system, and apparatus for forming three-dimensional semiconductor device package with waveguide",1,H01L|H01Q|H05K
+11334409,2022-05-17,Method and system for fault collection and reaction in system-on-chip,3,G06F
+11334108,2022-05-17,Modular interleaving techniques for scalable power electronics converter,0,G06F|H02M|H03K
+11330293,2022-05-10,Scaling video processing complexity based on power savings factor,0,H04N
+11330084,2022-05-10,Signaling of wireless station capabilities,0,H04L|H04W
+11329156,2022-05-10,Transistor with extended drain region,0,H01L|H10D
+11329150,2022-05-10,Termination for trench field plate power MOSFET,0,H01L|H10D
+11329013,2022-05-10,Interconnected substrate arrays containing electrostatic discharge protection grids and associated microelectronic packages,0,H01L|Y02P
+11328066,2022-05-10,Method and system for securely patching read-only-memory code,0,G06F|H04L
+11327908,2022-05-10,Method and system for facilitating communication between interconnect and system memory on system-on-chip,0,G06F
+11322844,2022-05-03,Impedance compensation system with microstrip and slotline coupling and controllable capacitance,2,H01L|H01P|H01Q|H03H|H04B
+11322491,2022-05-03,Integrated grid cell,0,H01L|H10D
+11320526,2022-05-03,Communication unit and method for clock distribution and synchronization,1,G01S|H04L
+11316519,2022-04-26,Distributed interleaving control of multiphase SMPCs,0,G06F|H02M|H03K
+11314686,2022-04-26,Hardware for supporting time triggered load anticipation in the context of a real time OS,0,G06F
+11309998,2022-04-19,Hybrid automatic repeat request for wireless local area network,0,H04L|H04W
+11309924,2022-04-19,Methods and apparatuses for mitigating an impact of settling times of components in matching networks,1,H03H|H04B|H04L
+11307767,2022-04-19,System for controlling memory operations in system-on-chips,0,G06F|G11C
+11304127,2022-04-12,Beaconing and capability and basic service set parameter announcement for multi-band operation,1,H04L|H04W
+11302609,2022-04-12,Radio frequency power dies having flip-chip architectures and power amplifier modules containing the same,0,H01L|H10D
+11297646,2022-04-05,Methods and apparatus for protecting transmissions in a wireless communication network,0,E21B|H04W
+11295151,2022-04-05,Line-based feature generation for vision-based driver assistance systems and methods,2,B60Q|B60R|G06F|G06T|G06V
+11295036,2022-04-05,Method of using protocol CRC to implement end to end protection of a CAN message,1,G06F|H04L
+11294709,2022-04-05,System and method of obtaining multiple factor performance gain in processing system,0,G06F
+11277276,2022-03-15,Multicast processing for neighbor discovery proxy devices using hardware filtering,0,H04L|H04W
+11277271,2022-03-15,SRAM based physically unclonable function and method for generating a PUF response,0,G11C|H04L
+11277100,2022-03-15,Multiple-stage power amplifiers implemented with multiple semiconductor technologies,0,H01L|H03F|H04B|H10D
+11277098,2022-03-15,Integrally-formed multiple-path power amplifier with on-die combining node structure,0,H01L|H03F
+11276654,2022-03-15,Bottom-side heatsinking waveguide for an integrated circuit package,1,H01L|H01P|H01Q
+11272364,2022-03-08,Security in a multi-band wireless communication system,0,H04W|Y02D
+11271686,2022-03-08,Hybrid automatic repeat request acknowledgement and upload multiuser operation,1,H04L
+11270416,2022-03-08,System and method of using optimized descriptor coding for geometric correction to reduce memory transfer bandwidth overhead,1,G06T
+11265927,2022-03-01,Media access control for multi-band communication in WLAN,8,H04W
+11264986,2022-03-01,Capacitive touch sensing with high safety integrity,0,G06F|H03K
+11252108,2022-02-15,Controller for ordering out-of-order transactions in SoC,1,H04L
+11244078,2022-02-08,Side channel attack protection,0,G06F
+11233663,2022-01-25,Physically unclonable function having source bias transistors,5,H04L
+11233625,2022-01-25,Power-boosted pilot tones in OFDM communication,0,H04L|H04W
+11229034,2022-01-18,Method and apparatus for concurrent coexistence of a plurality of radio access technologies in wireless communication,0,H04B|H04L|H04W
+11228391,2022-01-18,Control field for resource request with multiple formats,0,H04L|H04W
+11227921,2022-01-18,Laterally-diffused metal-oxide semiconductor transistor and method therefor,1,H01L|H10D
+11223964,2022-01-11,Managing and management of temperature of a wireless system,0,H04W|Y02D
+11223336,2022-01-11,Power amplifier integrated circuit with integrated shunt-l circuit at amplifier output,0,H01L|H03F
+11223326,2022-01-11,Multiple-stage power amplifiers implemented with multiple semiconductor technologies,1,H01L|H03F|H04B|H10D
+11222790,2022-01-11,Tie bar removal for semiconductor device packaging,0,H01L
+11216377,2022-01-04,Hardware accelerator automatic detection of software process migration,0,G06F
+11212705,2021-12-28,Extra high throughput preamble,5,H04L|H04W
+11205680,2021-12-21,Non-volatile random access memory (NVRAM),0,H01L|H10B|H10D|H10N
+11202310,2021-12-14,Methods and apparatus for adaptive channel access,0,H04W
+11200170,2021-12-14,Cache pre-loading in a data processing system,0,G06F
+11200098,2021-12-14,Reduction of interrupt service latency in multi-processor systems,0,G06F
+11196390,2021-12-07,Power amplifier devices containing frontside heat extraction structures and methods for the fabrication thereof,0,H01L|H03F
+11194379,2021-12-07,Wake-up circuit and methodology for reducing false wake-up events,0,G06F
+11190396,2021-11-30,Structure for low-power-low-rate data transmission in a wireless network,1,H04L|H04W|Y02D
+11190145,2021-11-30,Power amplifier with integrated bias circuit having multi-point input,0,H01L|H03F
+11189557,2021-11-30,Hybrid package,0,H01L
+11182160,2021-11-23,Generating source and destination addresses for repeated accelerator instruction,1,G06F
+11177729,2021-11-16,Adaptive and efficient standby power supply scheme for next generation low power automotive systems,0,G05F|G06F|H02M|Y02B|Y02D
+11177207,2021-11-16,Compact transistor utilizing shield structure arrangement,0,H01L|H10D
+11176386,2021-11-16,System and method for continuous operation of vision/radar systems in presence of bit errors,1,G06T|G06V|H04L|H04N
+11176254,2021-11-16,Automatic firmware rollback,3,G06F
+11175977,2021-11-16,Method and system to detect failure in PCIe endpoint devices,1,G06F
+11175779,2021-11-16,Position refinement in a touch indicating array,0,G06F
+11175723,2021-11-16,System and method of power mode management for a processor,1,G06F
+11175689,2021-11-16,System and method of early turnaround indication for a D-PHY communication interface,0,G06F
+11172512,2021-11-09,Contention-based orthogonal frequency division multiple access (OFDMA) communication,0,H04L|H04W
+11172456,2021-11-09,Methods and systems for communicating data and control information over a serial link,1,H04B|H04W
+11171696,2021-11-09,Distributed MIMO long training field method and system,0,H04B|H04L
+11171077,2021-11-09,Semiconductor device with lead frame that accommodates various die sizes,0,H01L
+11170109,2021-11-09,Boot ROM gating circuit,0,G06F
+11165614,2021-11-02,Wireless communication device,1,H04L|H04W
+11165610,2021-11-02,De-emphasis controller for transmit driver in wireline communication,4,H04B|H04L
+11165482,2021-11-02,Efficient engine and algorithm for control and data multiplexing/demultiplexing in 5G NR devices,0,H04B|H04J|H04L|H04W
+11164826,2021-11-02,Packaged integrated circuit having stacked die and method for making,0,H01L|H02J
+11164648,2021-11-02,Glitch profiling in an integrated circuit,0,G01R|G06F|G11C
+11145642,2021-10-12,Single-stack bipolar-based ESD protection device,0,H01L|H10D
+11145609,2021-10-12,Doherty amplifier with surface-mount packaged carrier and peaking amplifiers,3,H01L|H03F|H05K
+11144677,2021-10-12,Method and apparatus for digital only secure test mode entry,2,G01R|G06F
+11140745,2021-10-05,WLAN trigger frame padding for meeting minimum processing time requirement of receiver,0,H04L|H04W
+11140709,2021-10-05,Cooperative communication by access points in a WLAN,0,H04B|H04W
+11138134,2021-10-05,Non-intrusive semihosting solution for debug using direct memory access implementation-based library,3,G06F
+11134493,2021-09-28,WLAN physical layer design for efficient hybrid ARQ,1,H03M|H04L|H04W
+11134468,2021-09-28,Medium access control for multi-channel OFDM in a wireless local area network,0,H04L|H04W
+11133273,2021-09-28,Semiconductor device with waveguide and method therefor,4,G01S|H01L|H01Q
+11128925,2021-09-21,Media presentation system using audience and audio feedback for playback level control,0,G06F|G06N|G06V|H04N|H04S
+11128306,2021-09-21,Clock generation,1,G06F|H03K|H03L
+11128269,2021-09-21,Multiple-stage power amplifiers and devices with low-voltage driver stages,1,H01L|H03F|H04B
+11128268,2021-09-21,Power amplifier packages containing peripherally-encapsulated dies and methods for the fabrication thereof,5,H01L|H03F
+11127856,2021-09-21,LDMOS with diode coupled isolation ring,0,H01L|H10D
+11127645,2021-09-21,Grounding lids in integrated circuit devices,0,H01L
+11127622,2021-09-21,Deep trench isolation and substrate connection on SOI,0,H01L|H10D
+11127375,2021-09-21,Systems and methods for graphical layer blending,0,G06T|G09G
+11126573,2021-09-21,Systems and methods for managing variable size load units,6,G06F
+11126522,2021-09-21,Method and apparatus for offloading functional data from an interconnect component,0,G06F|Y02D
+11121467,2021-09-14,Semiconductor package with compact antenna formed using three-dimensional additive manufacturing process,0,H01L|H01Q
+11121072,2021-09-14,Semiconductor device with isolation structure,1,H01L
+11119922,2021-09-14,Data processing system implemented having a distributed cache,0,G06F
+11115065,2021-09-07,Method and apparatus for dynamic tuning,0,H04B|H04L|H04W
+11113219,2021-09-07,Protocol data unit end handling with fractional data alignment and arbitration fairness,1,G06F|H04L
+11108503,2021-08-31,Multiple traffic class data aggregation in a wireless local area network,0,H04L|H04W
+11108362,2021-08-31,"Multiple-path RF amplifiers with angularly offset signal path directions, and methods of manufacture thereof",0,H01L|H03F
+11108361,2021-08-31,Integrated multiple-path power amplifier with interdigitated transistors,0,H01L|H03F
+11105916,2021-08-31,Null data packet (NDP) ranging with unassociated stations,0,G01S|H04W
+11102780,2021-08-24,Media access control for punctured/aggregated communication channels in WLAN,1,H04L|H04W
+11095391,2021-08-17,Secure WiFi communication,0,H04B|H04K|H04L|H04W
+11088661,2021-08-10,Power amplifier devices containing inverted power transistor dies and methods for the fabrication thereof,1,H01L|H03F
+11082888,2021-08-03,Single acknowledgment policy for aggregate MPDU,0,H04L|H04W
+11082156,2021-08-03,Method and apparatus for generating a physical layer (PHY) data unit for hybrid automatic repeat request (HARQ),0,H04L|H04W
+11082155,2021-08-03,Physical layer (PHY) data unit format for hybrid automatic repeat request (HARQ),0,H04L|H04W
+11082016,2021-08-03,Amplifier devices with reflection absorption,0,H01L|H03F
+11076441,2021-07-27,Unreachable node recovery in wireless mesh networks,0,H04L|H04W
+11076350,2021-07-27,Methods and apparatus for increasing the number of training and data tones in wireless communications systems,0,H04L|H04W|Y02D
+11075743,2021-07-27,Adjustable high resolution timer,0,H04J|H04L
+11075110,2021-07-27,Transistor trench with field plate structure,0,H01L|H10D
+11069421,2021-07-20,Circuitry for checking operation of error correction code (ECC) circuitry,2,G06F|G11C
+11057171,2021-07-06,Method and apparatus for MU resource request,3,H04L|H04W
+11057073,2021-07-06,Integrated circuit with physical layer interface circuit,0,H03H|H04B|H04L
+11056457,2021-07-06,Semiconductor device with bond wire reinforcement structure,0,H01L
+11056161,2021-07-06,Data processing system and method for generating a digital code with a physically unclonable function,2,G11C|H04L
+11056160,2021-07-06,Non-volatile memory with selectable hard write,0,G06F|G11C
+11054513,2021-07-06,"Communication unit, integrated circuits and method for clock and data synchronization",3,G01S|H04L
+11051229,2021-06-29,Communicating network management parameters in a WLAN,2,H04L|H04W
+11050395,2021-06-29,Radio frequency (RF) amplifier,0,H01L|H03F
+11050388,2021-06-29,Compact three-way Doherty amplifier module,1,H01L|H03F
+11049837,2021-06-29,Bond wire array for packaged semiconductor device,0,H01L|H03F
+11048292,2021-06-29,Duty cycle control for reduced dynamic power consumption,0,G06F|H03K
+11047904,2021-06-29,Low power mode testing in an integrated circuit,0,G01R|G06F
+11039440,2021-06-15,OFDMA with block tone assignment for WLAN,1,H04L|H04W
+11039339,2021-06-15,WLAN with distributed access point functionality,2,H04W
+11032787,2021-06-08,Basic service set (BSS) color in null data packet (NDP) ranging,0,H04B|H04L|H04W
+11032237,2021-06-08,Changing a basic service set color identifier,0,H04L|H04W
+11031681,2021-06-08,Package integrated waveguide,3,H01L|H01P|H01Q
+11030127,2021-06-08,Multi-threaded architecture for memory controller data paths,0,G06F
+11025469,2021-06-01,Modulated signature added for enhanced authentication and integrity link,0,H03M|H04L|H04W
+11023993,2021-06-01,Apparatus and method for verifying fragment processing related data in graphics pipeline processing,0,G06F|G06T
+11018844,2021-05-25,Time-encoded messaging for radar cascaded synchronization system,0,G01S|G06F|H04L
+11018729,2021-05-25,Structured-pipelined CORDIC for matrix equalization,0,G06F|H04B|H04L
+11018629,2021-05-25,Integrated multiple-path power amplifier,10,H01L|H03F|H10D
+11018247,2021-05-25,Semiconductor device with a base link region and method therefor,0,H01L|H10D
+11018024,2021-05-25,Method of fabricating embedded traces,0,H01L
+11017077,2021-05-25,Run-time security protection system and method,0,G06F|G06N
+11016925,2021-05-25,Protocol-tolerant communications in controller area networks,0,G06F|H04L
+11016768,2021-05-25,Hardware support for OS-centric performance monitoring with data collection,0,G06F|Y02D
+11012035,2021-05-18,Amplifier devices with input transient termination,0,H01L|H03F
+11005630,2021-05-11,Efficient detection of primary broadcast channel in 5G-NR,0,H04L|H04W
+11004970,2021-05-11,Mirror device structure for power MOSFET and method of manufacture,0,H01L|H10D
+10999497,2021-05-04,System for parallelly processing image lines from multiple image sensors,1,G06T|H04N
+10998255,2021-05-04,Overmolded microelectronic packages containing knurled flanges and methods for the production thereof,0,H01L
+10998231,2021-05-04,Method for increasing semiconductor device wafer strength,1,H01L
+10997140,2021-05-04,Method and apparatus for acceleration of hash-based lookup,1,G06F
+10993197,2021-04-27,Distributed MIMO based on access point collaboration,1,H04B|H04W
+10992346,2021-04-27,Systems and devices with common mode noise suppression structures and methods,0,H01L|H04B|H10D
+10990544,2021-04-27,PCIE root complex message interrupt generation method using endpoint,0,G06F
+10986600,2021-04-20,Timing synchronization for multi-user (MU) ranging measurements in a wireless local area network (WLAN),7,G01S|H04L|H04W
+10986309,2021-04-20,Video buffering and frame rate doubling device and method,0,H04N
+10979543,2021-04-13,Structure for low-power-low-rate data transmission,2,H04L|H04W|Y02D
+10979412,2021-04-13,Methods and apparatus for secure device authentication,2,H04L|H04W
+10979198,2021-04-13,Short training field for WiFi,0,H04B|H04L|H04W
+10979033,2021-04-13,Current-controlled oscillator,0,G06F|H03K
+10978123,2021-04-13,Tamper protection of memory devices on an integrated circuit,0,G06F|G11C
+10977195,2021-04-13,Read-once memory and method of operating same,0,G06F
+10972196,2021-04-06,Trigger frame for ranging,5,G01S|H04B|H04W
+10971613,2021-04-06,"Semiconductor devices with doped regions functioning as enhanced resistivity regions or diffusion barriers, and methods of fabrication therefor",0,H01L|H10D
+10966280,2021-03-30,Transmitting control or status information in an MPDU delimiter,1,H04L|H04W
+10963036,2021-03-30,Idle loop detection and control for processors,0,G06F|Y02D
+10958492,2021-03-23,Compressed preamble for a wireless communication system,0,H04B|H04L
+10957790,2021-03-23,Semiconductor device with selectively etched surface passivation,1,H01L|H10D
+10952086,2021-03-16,Fast rate adaptation for WLAN devices,0,H04L|H04W|Y02D
+10951384,2021-03-16,Channel bonding mode signaling for punctured channels,1,H04L|H04W
+10951180,2021-03-16,"RF power transistors with impedance matching circuits, and methods of manufacture thereof",0,H01L|H03F
+10949352,2021-03-16,Data processing system having a shared cache,2,G06F
+10945245,2021-03-09,Trigger frame format for orthogonal frequency division multiple access (OFDMA) communication,2,H04L|H04W
+10944502,2021-03-09,"Systems, apparatuses and methods for a signal extension padding scheme",3,H04L
+10944001,2021-03-09,Deep trench and junction hybrid isolation,1,H01L|H03K|H10D
+10942444,2021-03-09,Optical control modules for integrated circuit device patterning and reticles and methods including the same,0,B23K|G03F|H01L
+10939371,2021-03-02,Power save optimization for wireless connectivity,1,H04W|Y02D
+10938495,2021-03-02,Orthogonal frequency division multiple access protection,0,H04J|H04L|H04W
+10938454,2021-03-02,Method and apparatus for uplink orthogonal frequency division multiple access,1,H04B|H04L|H04W
+10935664,2021-03-02,Null data packet (NDP) announcement frame for NDP ranging,2,G01S|H04L|H04W
+10931421,2021-02-23,Communicating subchannel availability information in a wireless local area network,0,H04L|H04W
+10924589,2021-02-16,RF transceiver and wireless mesh network,0,G06F|H04L|H04W
+10923451,2021-02-16,"Semiconductor dies having ultra-thin wafer backmetal systems, microelectronic devices containing the same, and associated fabrication methods",0,C25D|H01L|H03F|H10D
+10923286,2021-02-16,Method and apparatus for compensating for high thermal expansion coefficient mismatch of a stacked device,1,H01G|H01L|H10D
+10922781,2021-02-16,System for processing images from multiple image sensors,1,G06F|G06T
+10915485,2021-02-09,Circuit for asynchronous data transfer,0,G06F|H03K
+10911214,2021-02-02,Preamble detection in wireless systems with intermittent reception,0,H04B|H04L|H04W|Y02D
+10909668,2021-02-02,Adaptive sub-tiles for distortion correction in vision-based assistance systems and methods,3,G06T|H04N

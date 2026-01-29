@@ -1,0 +1,791 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432154,2025-09-30,MACsec architecture,0,H04L
+12430268,2025-09-30,Efficient signaling scheme for high-speed ultra short reach interfaces,0,G06F|H01L|H04L
+12430108,2025-09-30,Multistage compiler architecture,0,G06F
+12426051,2025-09-23,Methods and apparatus for control channel detection in an uplink shared channel,0,H04L|H04W
+12425070,2025-09-23,Adaptive cancellation of asynchronous near-end crosstalk,0,G06F|H04B
+12413656,2025-09-09,Communication of sensor data in a motor vehicle communication network,0,H04L|H04N|H04W
+12413336,2025-09-09,Methods and apparatus for decoding received uplink transmissions using log-likelihood ratio (LLR) optimization,0,G06N|H03M|H04L
+12411764,2025-09-09,"Multi-chiplet module system, method and device",0,G06F
+12407657,2025-09-02,In-band DSP management interface,0,G06F|H04L
+12405899,2025-09-02,Innovative way to improve the translation lookaside buffer (TLB) miss latency,0,G06F
+12401729,2025-08-26,Internal communications within a network device,0,H04L
+12399549,2025-08-26,Packet processing system with energy saving features,0,G06F
+12395417,2025-08-19,Circuit and method for timestamp filtering with RLS filter,0,H04L
+12395261,2025-08-19,Time-of-day correction for network clock protocol,0,H04J|H04L
+12395260,2025-08-19,Time aligned multi-packet delivery,0,H04J|H04L
+12393737,2025-08-19,"Hardware security module adapter system, method and device with active switch",0,G06F|H05K
+12393520,2025-08-19,"Address translation system, method and device",0,G06F
+12393437,2025-08-19,Method and apparatus for supporting security implementation in a virtual network,0,G06F|H04L
+12388699,2025-08-12,Methods and apparatus for frequency offset estimation,0,H04L
+12388488,2025-08-12,Spread spectrum modulation over an asymmetric ethernet link,0,H04B|H04J|H04L
+12386625,2025-08-12,System and method for instruction unwinding in an out-of-order processor,0,G06F
+12382394,2025-08-05,Frequency division multiple access (FDMA) support for wakeup radio (WUR) operation,0,H04W|Y02D
+12381963,2025-08-05,Method of using bit vectors to allow expansion and collapse of header layers within packets for enabling flexible modifications and an apparatus thereof,0,H04L
+12381631,2025-08-05,Coherent receiver with polarization diversity clock detection,0,H04B|H04L
+12380072,2025-08-05,Method and system for performing a compaction/merge job using a merge based tile architecture,0,G06F
+12375585,2025-07-29,Methods and apparatus for compressing data streams,0,G06N|H03M|H04L
+12375378,2025-07-29,Physical layer transceiver with reduced variation in packet latency,0,H04B|H04J|H04L
+12375256,2025-07-29,Time aware link-level telemetry,0,H04J|H04L
+12375223,2025-07-29,Automatic resending of WUP by slave device,0,G06F|H04L|H04W|Y02D
+12375205,2025-07-29,Systems and methods for performance monitoring with forward error correction mechanism,0,H04L
+12375110,2025-07-29,Ethernet physical layer transceiver with graceful temperature protection,0,H04B|H04L|H04Q|H05K
+12369016,2025-07-22,Midamble format for packets in a vehicular communication network,0,H04L|H04W
+12368606,2025-07-22,Secure verification of physical unclonable function,0,H04L
+12368528,2025-07-22,Optical transmitter with encoder encoding processed data including concatenating parity bits to generate fec data blocks,0,H03M|H04B|H04L
+12363018,2025-07-15,Circuit and method for timestamp jitter reduction,0,H04J|H04L
+12362293,2025-07-15,Double seal ring and electrical connection of multiple chiplets,0,H01L
+12356243,2025-07-08,Methods and apparatus for distributed baseband signal processing for fifth generation (5G) new radio downlink signals,0,H04B|H04L|H04W
+12355693,2025-07-08,"Methods and apparatus for symbol-to-symbol multiplexing of control, data, and reference signals on an uplink",0,H04L
+12355554,2025-07-08,Method and apparatus for passing clock signals between time domains,0,G06F|H04J
+12353764,2025-07-08,Single cycle request arbiter,0,G06F
+12348345,2025-07-01,Padding and backoff operations when transmitting via multiple frequency segments in a WLAN,0,H04L|H04W
+12348330,2025-07-01,Control of ethernet link-partner GPIO using OAM,0,H04L
+12346654,2025-07-01,Methods and apparatus for compressing data streams,0,G06F|H03M
+12342591,2025-06-24,Gate stack for metal gate transistor,0,H01L|H10D
+12342300,2025-06-24,Simultaneous transmission in multiple frequency segments,0,H04W
+12340100,2025-06-24,Memory allocation and reallocation for program instructions and data using intermediate processor,0,G06F
+12335056,2025-06-17,Energy efficient ethernet (EEE) operation,0,G06F|H04L
+12332817,2025-06-17,Automotive network switch with attack protection,0,G06F
+12332310,2025-06-17,Built-in testing in modular system-on-chip device,0,G01R|G06F
+12328377,2025-06-10,Packet formats for vehicular networks,0,H04L|H04W
+12327774,2025-06-10,Meeting performance and temperature requirements in electronic circuits,0,G05D|G06F|H01L
+12327082,2025-06-10,Methods and apparatus for compressing data streams,0,G06F|H03M
+12323279,2025-06-03,Methods and apparatus for providing a demapping system with phase compensation to demap uplink transmissions,0,H04L|H04W|Y02D
+12323202,2025-06-03,Explicit beamforming in a high efficiency wireless local area network,0,H04B|H04L|H04W
+12323145,2025-06-03,Method and system for reconfigurable parallel lookups using multiple shared memories,0,G06F|G11C|H03K|H04L
+12317271,2025-05-27,Reporting bandwidth capability of a bandwidth-limited communication device,0,H04W
+12314110,2025-05-27,Energy efficient ethernet (EEE) operation,0,G06F
+12314077,2025-05-27,Wireline transceiver with internal and external clock generation,0,G06F
+12313682,2025-05-27,"Method, system and device of serializing and de-serializing the delivery of scan test data through chip I/O to reduce the scan test duration of an integrated circuit",0,G01R|G06F
+12309764,2025-05-20,Methods and apparatus for combining received uplink transmissions,0,H04L|H04W
+12309267,2025-05-20,"Hardware security module adapter system, method and device",0,H04L
+12301456,2025-05-13,Protocol independent programmable switch (PIPS) for software defined data center networks,0,G06F|H04L
+12301351,2025-05-13,Flowlet scheduler for multicore network processors,0,H04L
+12298925,2025-05-13,"Packet processing system, method and device utilizing a port client chain",0,G06F|H04L
+12293190,2025-05-06,Managing commit order for an external instruction relative to queued instructions,0,G06F
+12293174,2025-05-06,Method and system for memory management within machine learning inference engine,0,G06F
+12292978,2025-05-06,System and method for SRAM less electronic device bootup using cache,0,G06F
+12289256,2025-04-29,Distributed link descriptor memory,0,H04L
+12289185,2025-04-29,Method and apparatus for providing an equalizer that achieves a given precision for non-invertible matrices,0,H04L|H04W
+12288104,2025-04-29,System and method for user devices in cloud computing environment,0,G06F|H04L
+12284708,2025-04-22,Method for selection between fast retrain procedures,0,H04L|H04W
+12284122,2025-04-22,Circuit and method for resource arbitration,0,H04L
+12284059,2025-04-22,Non-linear neural network equalizer for high-speed data channel,0,H04L
+12284010,2025-04-22,Methods and apparatus for beamforming in MIMO systems,0,H04B|H04W
+12282658,2025-04-22,System and method for large memory transaction (LMT) stores,0,G06F
+12278798,2025-04-15,Cable assembly with protection switching,0,H04L
+12274036,2025-04-08,Heatsink for co-packaged optical switch rack package,0,G02B|H01L|H04Q|H05K
+12273269,2025-04-08,Selective mesh routing through non-adjacent nodes,0,H04L
+12273248,2025-04-08,Link-quality estimation and anomaly detection in high-speed wireline receivers,0,H04L
+12273186,2025-04-08,Synchronization of clock domains on a data network,0,G06F|H04J|H04L
+12271737,2025-04-08,Pair merge execution units for microinstructions,0,G06F
+12271593,2025-04-08,Adjacent-page-assisted memory decoder and method,0,G06F
+12267249,2025-04-01,Directional link credit-based packet transmission,0,H04L
+12267222,2025-04-01,Circuit and method for timestamp filtering with input/output format conversion,1,H04L
+12267122,2025-04-01,Link training for a full-duplex ethernet link,0,H04B|H04L
+12266415,2025-04-01,Reliable electronic fuse based storage using error correction coding,0,G06F|G11C
+12261939,2025-03-25,System and method for mining digital currency in a blockchain network,0,G06Q|H04L
+12259941,2025-03-25,Methods and apparatus for job scheduling in a programmable mixed-radix DFT/IDFT processor,0,G06F|H04W
+12259747,2025-03-25,Clock monitoring using pointer techniques,0,G06F
+12255732,2025-03-18,Methods and apparatus for successive interference cancellation (SIC),0,H04B|H04J|H04L
+12248418,2025-03-11,Efficient signaling scheme for high-speed ultra short reach interfaces,0,G06F|H01L|H04L
+12244538,2025-03-04,Methods and apparatus for dynamic acknowledgement list selection in detection of uplink control channel formats,0,H03M|H04L|H04W
+12242857,2025-03-04,System and method for generating multiple platform-dependent instruction sets from single hardware specification,0,G06F
+12237982,2025-02-25,Early detection of cable failure in automotive networks,0,H04L
+12236135,2025-02-25,Switch device for interfacing multiple hosts to a solid state drive,0,G06F
+12231354,2025-02-18,Reducing power consumption in an electronic device,0,H04L
+12231342,2025-02-18,Queue pacing in a network device,0,H04L
+12231239,2025-02-18,WiFi multi-band communication,0,H04B|H04L|H04W
+12231124,2025-02-18,Hierarchical statisically multiplexed counters and a method thereof,0,H03K|H04L
+12224941,2025-02-11,Method and apparatus for flexible and efficient analytics in a network switch,0,H04L|H04M
+12216518,2025-02-04,Power saving in a network device,0,G06F
+12212508,2025-01-28,Media access control for frequency division full duplex in WLAN,0,H04J|H04L|H04W
+12212416,2025-01-28,Block acknowledgment operation,0,H04B|H04L|H04W
+12210631,2025-01-28,Method and apparatus for self-destruction of device protected by a physical unclonable function generator,0,G06F|H03K|H04L
+12210457,2025-01-28,Processor data cache with shared mid-level cache and low-level cache,0,G06F
+12206753,2025-01-21,Unified time base for storage device data channel,0,G11B|H03L|H04L
+12206600,2025-01-21,Network switching unit configuration,0,H04B|H04L
+12204904,2025-01-21,Dynamic designation of instructions as sensitive for constraining instruction execution,0,G06F
+12204486,2025-01-21,Network transceiver with clock sharing between dies,0,G06F|H04B|H04J|H04L
+12204455,2025-01-21,Method and apparatus for efficient address decoding and address usage reduction,0,G06F
+12202511,2025-01-21,System and method for neural network-based autonomous driving,0,B60W|G06N
+12200677,2025-01-14,Punctured operating channels in WLAN,0,H04L|H04W
+12199692,2025-01-14,Network optimization for mitigation of crosstalk between network links,0,H04B|H04L
+12199003,2025-01-14,Packaging stacked substrates and an integrated circuit die using a lid and a stiffening structure,0,H01L
+12198724,2025-01-14,Codeword interleaving over magnetic media surfaces,0,G06F|G11B
+12197947,2025-01-14,System and method for queuing work within a virtualized scheduler based on in-unit accounting of in-unit entries,0,G06F
+12197738,2025-01-14,Health management for magnetic storage media,0,G06F|G06N|G11B
+12193077,2025-01-07,WiFi backoff timer,0,H04W
+12192149,2025-01-07,Methods and apparatus for providing soft and blind combining for PUSCH acknowledgement (ACK) processing,0,H04L|H04W
+12190086,2025-01-07,Method and apparatus for ML graphs by a compiler,1,G06F|G06N
+12189979,2025-01-07,System and method for systematic generation of test cases used to validate memory coherence of a multiprocessor system,0,G06F
+12189456,2025-01-07,Methods and apparatus for adaptive power profiling in a baseband processing system,0,G06F|Y02D
+12185295,2024-12-31,"Bandwidth indication, negotiation and TXOP protection with multiple channel segments",0,H04L|H04W
+12184414,2024-12-31,Methods and systems for data transmission,0,H03M|H04L
+12184371,2024-12-31,Explicit multiuser beamforming training in a wireless local area network,0,H04B|H04L|H04W
+12183125,2024-12-31,Automotive data processing system with efficient generation and exporting of metadata,0,G06F|G06N|G07C
+12177168,2024-12-24,Automotive asymmetric ethernet using frequency-division duplex,0,H04B|H04L
+12174781,2024-12-24,Monolithically integrated system on chip for silicon photonics,0,G02B|G06F|H04L
+12174727,2024-12-24,Method and apparatus for correlating high-level code with low-level instructions for machine learning applications,0,G06F|G06N
+12171026,2024-12-17,Methods and devices for communicating in a wireless network with multiple virtual access points,0,H04B|H04L|H04W
+12170637,2024-12-17,Configurable transfer rates over a two-way ethernet link,0,H04L
+12169719,2024-12-17,Instruction set architecture (ISA) format for multiple instruction set architectures in machine learning inference engine,0,G06F|G06N
+12169466,2024-12-17,Distributed arbitration for shared data path,0,G06F
+12167487,2024-12-10,WiFi network operation with channel aggregation,0,H04W
+12166855,2024-12-10,Safety extension for precision time protocol (PTP),0,H04L
+12166676,2024-12-10,Apparatus and method of generating lookups and making decisions for packet modifying and forwarding in a software-defined network engine,0,G06F|H04L
+12166595,2024-12-10,Ethernet physical layer transceiver with non-linear neural network equalizers,0,G06N|H04B|H04L
+12160826,2024-12-03,WLAN packet with neighbor wakeup radio information,0,H04B|H04W|Y02D
+12160501,2024-12-03,Method and apparatus supporting tunable alignment for cipher/authentication implementations,0,H04L
+12160499,2024-12-03,Synchronized control of sensors in an Ethernet network,0,H04J|H04L|H04W
+12160279,2024-12-03,Automotive physical layer (PHY) cable fault diagnosis,0,G06F|G06N|G07C|H04B|H04L
+12155745,2024-11-26,Synchronized control of sensors in an ethernet network,0,H04J|H04L|H04W
+12155473,2024-11-26,Adaptive transient compensation in physical layer transceiver,0,G06F|H04L
+12154387,2024-11-26,Self-diagnosis for in-vehicle networks,0,G05B|G06F|G06N|G07C
+12147299,2024-11-19,Mechanism for improved data availability for DRAM in the presence of uncorrectable errors,0,G06F|G11C
+12145518,2024-11-19,Managing power in an integrated circuit for high-speed activation,0,B60R|G06F|Y02D
+12144064,2024-11-12,Transmitting network management information in a wireless local area network,0,H04W
+12144063,2024-11-12,WLAN operation using multiple component channels,3,H04L|H04W|Y02D
+12143212,2024-11-12,Physical layer preamble for wireless local area networks,0,H04L
+12143205,2024-11-12,Unidirectional fast retraining of a bidirectional ethernet link,0,H04L
+12137428,2024-11-05,Synchronization of joint transmissions with multiple access points,0,H04L|H04W
+12137014,2024-11-05,Methods and apparatus for generation of physical layer protocol data units for vehicular environments,0,H04L|H04W
+12133272,2024-10-29,Medium protection in wireless local area networks,0,H04L|H04W|Y02D
+12132578,2024-10-29,Physical layer (PHY) data unit encoding for hybrid automatic repeat request (HARQ) transmission,0,H04L|H04W
+12124827,2024-10-22,Method and system to expand accessible on-chip memory (OCM) of an inference engine,0,G06F|G06N
+12113643,2024-10-08,Sleep signaling handshake for ethernet,0,G06F|H04L|Y02D
+12112175,2024-10-08,Method and apparatus for performing machine learning operations in parallel on machine learning hardware,0,G06F|G06N
+12112174,2024-10-08,Streaming engine for machine learning architecture,7,G06F|G06N
+12108330,2024-10-01,Transmitting traffic streams via multiple WLAN communication links,0,H04L|H04W|Y02D
+12107603,2024-10-01,Adaptive read recovery for NAND flash memory devices,2,G06F|G06N|H03M|H04L
+12101186,2024-09-24,Soft FEC with parity check,0,H04L
+12099398,2024-09-24,Non-volatile memory switch with host isolation,0,G06F|G11C
+12095922,2024-09-17,System and method for bitcoin mining with reduced power,1,G06F|G06Q|H04L
+12095494,2024-09-17,Lateral escape using triangular structure of transceivers,0,H01L|H04B
+12095463,2024-09-17,Method and apparatus for sharing clocks between separate integrated circuit chips,0,G06F|H01L|H03K
+12093731,2024-09-17,Object-oriented memory for client-to-client communications,0,G06F
+12082178,2024-09-03,Allocating resource units for multi-user transmissions in wide bandwidths,1,H04W
+12081274,2024-09-03,Probabilistic shaping techniques for high performance coherent optical transceivers,0,H03M|H04B|H04J|H04L
+12078676,2024-09-03,System and method for device under test (DUT) validation reuse across multiple platforms,0,G01R|G06F|G06N
+12074961,2024-08-27,Clock path equalization in dual path CDR,1,H04L
+12069637,2024-08-20,Methods and apparatus for combining received uplink transmissions,0,H04L|H04W
+12063629,2024-08-13,Methods and apparatus for descrambling received uplink transmissions,0,H04L|H04W
+12063118,2024-08-13,Physical layer (PHY) data unit format for hybrid automatic repeat request (HARQ),0,H04L|H04W
+12061729,2024-08-13,Secure low-latency chip-to-chip communication,0,G06F|H04L
+12057403,2024-08-06,Light engine based on silicon photonics TSV interposer,0,G02B|H01L
+12047483,2024-07-23,Dual loop for clock recovery in CDR,0,H03M|H04L
+12047419,2024-07-23,Systems and methods for allowing flexible chip configuration by external entity,0,G06F|H04L
+12046553,2024-07-23,Electronic fuse (eFuse) designs for enhanced chip security,0,G01R|H01L|H10D
+12041577,2024-07-16,Null data packet (NDP) ranging measurement feedback,0,G01S|H04B|H04L|H04W
+12039359,2024-07-16,System and method for isolating work within a virtualized scheduler using tag-spaces,1,G06F
+12037010,2024-07-16,System and method for neural network-based autonomous driving,1,B60W|G06N
+12035384,2024-07-09,Network identifiers for WLAN using multiple communication links,0,H04W
+12034771,2024-07-09,Automotive gateway providing secure open platform for guest applications,0,B60R|G06F|H04L
+12034573,2024-07-09,Method and device for digital compensation of dynamic distortion in high-speed transmitters,0,G01R|H03F|H04B|H04L
+12032488,2024-07-09,Circuit and method for translation lookaside buffer (TLB) implementation,0,G06F
+12022534,2024-06-25,Wireless local area network management,0,H04L|H04W|Y02D
+12021673,2024-06-25,Generation and transmission of physical layer data units in a composite communication channel in a vehicular communication network,0,H04L|H04W
+12021670,2024-06-25,Equalization in high-speed data channel having sparse impulse response,0,H04B|H04L
+12021003,2024-06-25,Semiconductor device package with semiconductive thermal pedestal,0,H01L
+12019881,2024-06-25,Reduced power consumption by SSD using host memory buffer,0,G06F|Y02D
+12019552,2024-06-25,Low latency inter-chip communication mechanism in a multi-chip processing system,0,G06F
+12010673,2024-06-11,Methods and apparatus for combining received uplink transmissions,0,H04L|H04W
+12010200,2024-06-11,Methods and network device for uncoded bit protection in 10GBASE-T Ethernet,0,H03M|H04L|H04W
+12009951,2024-06-11,Optimizing host / module interface,0,G06N|H04B|H04L
+12009921,2024-06-11,Spectral content detection for equalizing interleaved data paths,0,G06F|H03M|H04B|H04L
+12009857,2024-06-11,Closed loop module control for communication based on signal quality,0,H04B|H04L
+12008389,2024-06-11,Flexible resource assignment to physical and virtual functions in a virtualized processing system,0,G06F
+11997599,2024-05-28,Transmitting traffic streams via multiple WLAN communication links,0,H04L|H04W|Y02D
+11996896,2024-05-28,Optical receiver including constrained frequency-domain circuitry with adaptive equalization,0,H04B|H04L
+11995569,2024-05-28,Architecture to support tanh and sigmoid operations for inference acceleration in machine learning,0,G06F|G06N
+11995463,2024-05-28,Architecture to support color scheme-based synchronization for machine learning,0,G06F|G06N|H04N
+11995448,2024-05-28,Method and apparatus for performing machine learning operations in parallel on machine learning hardware,0,G06F|G06N
+11994925,2024-05-28,Power management and staggering transitioning from idle mode to operational mode,0,G06F|Y02D
+11984910,2024-05-14,Reinforcement learning-enabled low-density parity check decoder,2,G06N|H03M
+11983139,2024-05-14,Multi-chip module with integrated circuit chip having power-efficient hybrid circuitry,0,G06F|H01L|H04L|Y02D
+11979870,2024-05-07,Quieting a wireless local area network,0,H04W|Y02D
+11979487,2024-05-07,System and method for mining digital currency in a blockchain network,2,G06Q|H04L
+11977963,2024-05-07,System and method for INT9 quantization,0,G06F|G06N
+11977475,2024-05-07,Method and apparatus for compiler and low-level instruction validation of machine learning operations on hardware,2,G06F|G06N
+11974202,2024-04-30,Midamble format for packets in a vehicular communication network,1,H04L|H04W
+11973700,2024-04-30,Trusted remote management unit,0,H04L
+11973545,2024-04-30,Coordinated multi-user transmissions with multiple access points,0,H04B|H04W
+11973517,2024-04-30,Reconfigurable FEC,0,H03M|H04B|H04L
+11968065,2024-04-23,Methods and apparatus for receiving a user message in a communication network,1,H04B|H04L
+11966780,2024-04-23,Object-oriented memory,1,G06F
+11966271,2024-04-23,Ethernet PHY-MAC communication with in-band wake-up/sleep commands,0,G06F|H04L|Y02D
+11962709,2024-04-16,Structures and methods for deriving stable physical unclonable functions from semiconductor devices,0,G06F|H04L
+11962444,2024-04-16,Physical layer frame format for WLAN,2,H04L|H04W
+11960727,2024-04-16,System and method for large memory transaction (LMT) stores,1,G06F
+11956741,2024-04-09,Simultaneous transmission in multiple frequency segments,0,H04W
+11956311,2024-04-09,Method and apparatus for direct memory access of network device,0,G06F|H04L
+11947964,2024-04-02,Carry chain for SIMD operations,0,G06F
+11943367,2024-03-26,Generic cryptography wrapper,1,H04L
+11943142,2024-03-26,Hybrid wildcard match table,0,G11C|H04L
+11943083,2024-03-26,Physical layer transceiver with increased noise and interference tolerance and reduced loss,1,H04L
+11942409,2024-03-26,High density low power interconnect using 3D die stacking,0,H01L
+11941447,2024-03-26,Object-oriented memory client,1,G06F
+11929940,2024-03-12,Circuit and method for resource arbitration,3,H04L
+11928504,2024-03-12,System and method for queuing work within a virtualized scheduler based on in-unit accounting of in-unit entries,1,G06F
+11928248,2024-03-12,Semiconductor device with mechanism to prevent reverse engineering,0,G06F
+11928019,2024-03-12,Serial management interface with improved reliability,0,G06F|Y02D
+11927932,2024-03-12,System and method to manage power to a desired power profile,0,G05B|G06F|G06N|Y02D
+11927630,2024-03-12,System and method for schedule-based I/O multiplexing for integrated circuit (IC) scan test,0,G01R|G06F|G11C
+11924105,2024-03-05,Method and apparatus for control of congestion in storage area network,0,H04L
+11923978,2024-03-05,Multi-port transceiver,0,H04B|H04L
+11921904,2024-03-05,System and methods for firmware security mechanism,1,G06F
+11917670,2024-02-27,Physical layer protocol data unit directional transmission,0,H04L|H04W
+11916574,2024-02-27,Receiver circuits performing error correction including identification of a most likely error event based on an enable signal indicative of presence of errors,0,H03M|H04L
+11914547,2024-02-27,Silicon photonics based module for executing peer-to-peer transactions,0,G02B|G06F|H04L
+11914528,2024-02-27,"Packet processing system, method and device utilizing a port client chain",0,G06F|H04L
+11910240,2024-02-20,Traffic characteristics for target wake time (TWT) negotiation,0,H04L|H04W|Y02D
+11909708,2024-02-20,Protection switching device with link selective switching between host devices for maintenance of communication connection,0,H04L
+11909570,2024-02-20,Padding and backoff operations when transmitting via multiple frequency segments in a WLAN,1,H04L|H04W
+11909554,2024-02-20,Period based bidirectional communication including transfer of control information via low power refresh signaling,0,G06F|H04L|Y02D
+11909356,2024-02-20,Tunable distributed oscillator,0,G06F|H03B|H03L
+11902721,2024-02-13,Networking switching devices and methods thereof,0,H04B|H04J|H04L|H04Q
+11901952,2024-02-13,Tap centerer method and structure for coherent optical receiver,0,H04B|H04L
+11900120,2024-02-13,Issuing instructions based on resource conflict constraints in microprocessor,0,G06F
+11895015,2024-02-06,Optimized path selection for multi-path groups,3,H04L
+11889488,2024-01-30,Aggregation of frames for transmission in a wireless communication network,0,H04L|H04W
+11888613,2024-01-30,Methods and systems for data transmission,0,H03M|H04L
+11886882,2024-01-30,Pipelines for secure multithread execution,1,G06F|G09C|H04L
+11880321,2024-01-23,Efficient signaling scheme for high-speed ultra short reach interfaces,0,G06F|H01L|H04L
+11877274,2024-01-16,"Bandwidth indication, negotiation and TXOP protection with multiple channel segments",1,H04L|H04W
+11876649,2024-01-16,Hybrid analog/digital equalizer architecture for high-speed receiver,1,H04B|H04L
+11874896,2024-01-16,Methods and apparatus for job scheduling in a programmable mixed-radix DFT/IDFT processor,0,G06F|H04W
+11874895,2024-01-16,Methods and apparatus for job scheduling in a programmable mixed-radix DFT/IDFT processor,1,G06F|H04W
+11874781,2024-01-16,"Packet processing system, method and device utilizing a port client chain",0,G06F|H04L
+11874780,2024-01-16,"Packet processing system, method and device utilizing a port client chain",0,G06F|H04L
+11871348,2024-01-09,Frequency division multiple access (FDMA) support for wakeup radio (WUR) operation,3,H04W|Y02D
+11870625,2024-01-09,Methods and apparatus for generation of physical layer protocol data units for vehicular environments,1,H04L|H04W
+11870579,2024-01-09,Systems and methods for introducing time diversity in Wifi transmissions,0,H04B|H04L
+11868475,2024-01-09,System and methods for latency reduction for fuse reload post reset,0,G06F
+11868282,2024-01-09,Network device using cache techniques to process control signals,3,G06F
+11868262,2024-01-09,Methods and systems for distributing memory requests,0,G06F
+11868193,2024-01-09,System and method for compensating for a droop event,0,G06F|Y02D
+11868173,2024-01-09,Wireline transceiver with internal and external clock generation,0,G06F
+11863468,2024-01-02,Control of ethernet link-partner GPIO using OAM,0,H04L
+11862453,2024-01-02,Gate stack for metal gate transistor,0,H01L|H10D
+11861190,2024-01-02,Memory allocation and reallocation for memory access instructions and data using intermediate processor,0,G06F
+11855818,2023-12-26,Adaptive orthogonal frequency division multiplexing (OFDM) numerology in a wireless communication network,1,H04L|H04W
+11855791,2023-12-26,Sleep and wakeup signaling for ethernet,0,G06F|H04L|Y02D
+11854235,2023-12-26,Lossless integer compression scheme,0,G06T|H03M
+11849453,2023-12-19,Reporting bandwidth capability of a bandwidth-limited communication device,1,H04W
+11849015,2023-12-19,Shift-register-based clock phase interpolator,1,H03L|H04L
+11849014,2023-12-19,Packet formats for vehicular networks,1,H04L|H04W
+11844074,2023-12-12,System and methods to increase uplink data throughput on a TD-LTE (A) system using efficient management of physical uplink control channels,0,H04L|H04W
+11843972,2023-12-12,Methods and apparatus for distributing baseband signal processing of fifth generation (5G) new radio uplink signals,0,H04W
+11843483,2023-12-12,Method and apparatus for training a full-duplex communication link,1,H04B|H04L
+11843378,2023-12-12,Hierarchical statistically multiplexed counters and a method thereof,0,H03K|H04L
+11842198,2023-12-12,Managing out-of-order retirement of instructions based on received instructions indicating start or stop to out-of-order retirement,0,G06F
+11842197,2023-12-12,System and methods for tag-based synchronization of tasks for machine learning operations,0,G06F|G06N
+11838265,2023-12-05,Managing address collision in a network device,0,H04L
+11837509,2023-12-05,Method of manufacturing and packaging silicon photonics integrated circuit dies in wafer form,1,G01M|G02B|H01L|H10F
+11836501,2023-12-05,System and methods for hardware-based PCIe link up based on post silicon characterization,0,G06F
+11832315,2023-11-28,WIFI backoff timer,2,H04W
+11832261,2023-11-28,Methods and apparatus for providing a demapping system to demap uplink transmissions,0,H04L|H04W|Y02D
+11831747,2023-11-28,Systems and methods for timing recovery with bandwidth extension,0,H04L
+11831567,2023-11-28,Distributed link descriptor memory,0,H04L
+11831370,2023-11-28,Spatial stream configuration encoding for wifi,0,H04B|H04L|H04W
+11831367,2023-11-28,Explicit beamforming in a high efficiency wireless local area network,1,H04B|H04L|H04W
+11829492,2023-11-28,System and method for hardware-based register protection mechanism,0,G06F
+11829322,2023-11-28,Methods and apparatus for a vector memory subsystem for use with a programmable mixed-radix DFT/IDFT processor,0,G06F
+11824796,2023-11-21,Protocol independent programmable switch (PIPS) for software defined data center networks,0,G06F|H04L
+11824652,2023-11-21,Physical layer preamble for wireless local area networks,1,H04L
+11822652,2023-11-21,Prime and probe attack mitigation,0,G06F
+11822494,2023-11-21,Network switch with DMA controller for independent direct memory access of host system,0,G06F
+11822369,2023-11-21,Efficient signaling scheme for high-speed ultra short reach interfaces,0,G06F|H01L|H04L
+11818799,2023-11-14,Data unit aggregation in a wireless network with multiple channel segments,3,H04L|H04W
+11818241,2023-11-14,One-step timestamping in network devices,1,H04J|H04L
+11816448,2023-11-14,Compressing like-magnitude partial products in multiply accumulation,0,G06F
+11812422,2023-11-07,Methods and apparatus for combining received uplink transmission,0,H04L|H04W
+11811898,2023-11-07,Methods and apparatus for compressing data streams,0,G06N|H03M|H04L
+11811700,2023-11-07,Methods and apparatus for providing soft and blind combining for PUSCH acknowledgement (ACK) processing,0,H04L|H04W
+11811551,2023-11-07,Sleep signaling handshake for ethernet,1,G06F|H04L|Y02D
+11810832,2023-11-07,Heat sink configuration for multi-chip module,0,H01L
+11805483,2023-10-31,Method and apparatus for restoring WUP mode for multi-speed ethernet device,0,H04L|H04W|Y02D
+11804925,2023-10-31,Soft FEC with parity check,0,H03M|H04B|H04L
+11799989,2023-10-24,Method of using bit vectors to allow expansion and collapse of header layers within packets for enabling flexible modifications and an apparatus thereof,0,H04L
+11799599,2023-10-24,Measuring reception quality of a Differential Manchester Encoded signal,0,H03M|H04L
+11791957,2023-10-17,Media access control for frequency division full duplex in WLAN,1,H04J|H04L|H04W
+11789513,2023-10-17,Power management and current/ramp detection mechanism,0,G06F|Y02D
+11784779,2023-10-10,Automotive asymmetric ethernet using a frequency-division duplex scheme with a low-rate echo cancelation,1,H04B|H04L
+11784692,2023-10-10,Explicit multiuser beamforming training in a wireless local area network,1,H04B|H04L|H04W
+11778690,2023-10-03,Transmitting network management information in a wireless local area network,1,H04W
+11778663,2023-10-03,Methods and systems for enabling communications from a station to an access point using a backoff counter and carrier sensing,1,H04L|H04W
+11770256,2023-09-26,System and method for bitcoin mining with reduced power,5,G06F|G06Q|H04L
+11766975,2023-09-26,Managing power in an integrated circuit for high-speed activation,0,B60R|G06F|Y02D
+11765069,2023-09-19,Hierarchical hardware linked list approach for multicast replication engine in a network ASIC,0,G06F|H04L
+11757609,2023-09-12,Serializer/deserializer (SerDes) lanes with lane-by-lane datarate independence,0,G06F|H03L|H03M|H04J|H04L
+11757605,2023-09-12,Inegrated circuits and method for maintaining a channel in an alive state during low power modes,0,G06F|H04B|H04L|H04W|Y02D
+11757570,2023-09-12,Physical layer frame format for WLAN,1,H04L|H04W
+11757553,2023-09-12,Methods and apparatus for successive interference cancellation (SIC),0,H04B|H04J|H04L
+11757355,2023-09-12,Clock data recovery circuit including charge pump having reduced glitch current,0,H02M|H03L|H04L
+11755483,2023-09-12,System and methods for reducing global coherence unit snoop filter lookup via local memories,0,G06F
+11755379,2023-09-12,Liaison system and method for cloud computing environment,1,G06F|H04L
+11751134,2023-09-05,Power save and group-addressed frames in WLAN using multiple communication links,0,H04L|H04W|Y02D
+11750422,2023-09-05,Methods and apparatus for decoding received uplink transmissions,0,H04L|H04W
+11750252,2023-09-05,Methods and apparatus for providing an adaptive beamforming antenna for OFDM-based communication systems,0,H04B|H04L
+11748418,2023-09-05,Storage aggregator controller with metadata computation control,1,G06F|G06N|H04L
+11748109,2023-09-05,System and method for implementing strong load ordering in a processor using a circular ordering ring,0,G06F
+11748107,2023-09-05,Complex I/O value prediction for multiple values with physical or virtual addresses,0,G06F
+11743960,2023-08-29,WiFi network operation with channel aggregation,1,H04W
+11743945,2023-08-29,Methods and devices for communicating in a wireless network with multiple virtual access points,1,H04B|H04L|H04W
+11743366,2023-08-29,Communication of sensor data in a motor vehicle communication network,1,H04L|H04N|H04W
+11742858,2023-08-29,Voltage power switch,0,G06F|H03K
+11740900,2023-08-29,Associatively indexed circular buffer,0,G06F|G11C
+11736596,2023-08-22,Optical module for CXL standard,0,G06F|H04B|H04L
+11734608,2023-08-22,Address interleaving for machine learning,0,G06F|G06N
+11734363,2023-08-22,Storage edge controller with a metadata computational engine,0,G06F|G06N|H04L
+11733983,2023-08-22,Method and apparatus for generating metadata by a compiler,0,G06F
+11729709,2023-08-15,Methods and apparatus for providing a resource element (RE) identification system to process received uplink transmissions,0,H04B|H04L|H04W
+11729640,2023-08-15,Methods and apparatus for configuring a front end to process multiple sectors with multiple radio frequency frames,0,H04W
+11728817,2023-08-15,Clock and data recovery devices with fractional-N PLL,0,H03K|H03L|H04L
+11727064,2023-08-15,Performing computations during idle periods at the storage edge,0,G06F|G06N|H04L
+11726931,2023-08-15,Artificial intelligence-enabled management of storage media access,0,G06F|G06N
+11722285,2023-08-08,Methods and apparatus for searching and tracking intercell interference in communication networks,0,H04B|H04L|H04W
+11716177,2023-08-01,Physical layer (PHY) data unit encoding for hybrid automatic repeat request (HARQ) transmission,1,H04L|H04W
+11711591,2023-07-25,Common-mode filtering for high-speed cable interface,0,H04B|H04N
+11711225,2023-07-25,Reduction of power-over-data-lines (PODL) filter parasitics for multi-gigabit ethernet,0,B60R|H03H|H04L
+11711224,2023-07-25,Ethernet transceiver to receive a non-data signal encoded with a control signal during a low-power mode of operation,0,H04B|H04L|Y02D
+11711157,2023-07-25,Full-duplex communication link using TDM,0,H04J|H04L
+11709674,2023-07-25,Implementing 128-bit SIMD operations on a 64-bit datapath,0,G06F
+11709534,2023-07-25,Method and apparatus for managing global chip power on a multicore system on chip,0,G06F|H04B|H04L|Y02D
+11705938,2023-07-18,Ethernet link transmit power and rate adjustment based on alien crosstalk feedback,0,H04B|H04L
+11700204,2023-07-11,"Phantom queue link level load balancing system, method and device",0,G06F|H04L
+11700202,2023-07-11,Port extender with local switching,0,H04L
+11700104,2023-07-11,Methods and apparatus for dynamic acknowledgement list selection in detection of uplink control channel formats,0,H03M|H04L|H04W
+11698974,2023-07-11,Method and apparatus for authorizing unlocking of a device,0,G06F
+11696426,2023-07-04,Automotive network communication devices and cabling with electromagnetic shielding,0,B60R|H01B|H01R|H04L|H05K
+11696344,2023-07-04,Wireless local area network management,2,H04L|H04W|Y02D
+11695490,2023-07-04,Robust link synchronization in ethernet networks,0,H04J|H04L
+11695383,2023-07-04,Termination circuits and attenuation methods thereof,0,H03F|H03H|H04B|H04L
+11694971,2023-07-04,Electro-optic package featuring sputtered EMI shield,0,H01L
+11693601,2023-07-04,Enabling virtual functions on storage media,0,G06F
+11690011,2023-06-27,Transmitting traffic streams via multiple WLAN communication links,2,H04L|H04W|Y02D
+11687837,2023-06-27,Architecture to support synchronization between core and inference engine for machine learning,0,G06F|G06N
+11687147,2023-06-27,Reducing leakage power in low-power mode of an integrated circuit device,0,G01R|G06F|G11C|H03K
+11687144,2023-06-27,System and methods for on-chip memory (OCM) port throttling for machine learning operations,0,G06F|G06N|Y02D
+11687136,2023-06-27,System and method to manage power throttling,0,G06F|G06N|G11C|H03L|Y02D
+11683371,2023-06-20,Automotive network with centralized storage,0,H04L
+11683203,2023-06-20,Methods and apparatus for providing a demapping system with phase compensation to demap uplink transmissions,1,H04L|H04W|Y02D
+11683124,2023-06-20,Soft FEC with parity check,0,H04L
+11683119,2023-06-20,Flowlet scheduler for multicore network processors,1,H04L
+11683101,2023-06-20,Probabilistic shaping techniques for high performance coherent optical transceivers,1,H03M|H04B|H04J|H04L
+11682646,2023-06-20,"IC chip package with dummy solder structure under corner, and related method",0,B23K|H01L
+11677664,2023-06-13,Apparatus and method of generating lookups and making decisions for packet modifying and forwarding in a software-defined network engine,0,G06F|H04L
+11677595,2023-06-13,Equalization in high-speed data channel having sparse impulse response,2,H04B|H04L
+11677478,2023-06-13,Method for co-packaging light engine chiplets on switch substrate,12,H01L|H04B|H04J
+11675655,2023-06-13,Solid-state drive error recovery based on machine learning,1,G06F|G06N|G11C
+11675623,2023-06-13,Object-oriented memory client,3,G06F
+11671296,2023-06-06,Extended guard interval for outdoor WLAN,0,H04L|H04W
+11671208,2023-06-06,Physical layer (PHY) data unit format for hybrid automatic repeat request (HARQ),1,H04L|H04W
+11669733,2023-06-06,Processing unit and method for computing a convolution using a hardware-implemented spiral algorithm,0,G06F|G06N
+11669419,2023-06-06,System and method for performing a failure assessment of an integrated circuit,1,G01R|G06F
+11665036,2023-05-30,Generation and transmission of physical layer data units in a composite communication channel in a vehicular communication network,1,H04L|H04W
+11664319,2023-05-30,Light engine based on silicon photonics TSV interposer,2,G02B|H01L
+11663130,2023-05-30,Cache replacement mechanisms for speculative execution,0,G06F
+11662382,2023-05-30,Method and apparatus for contemporary test time reduction for JTAG,0,G01R|G06F
+11656775,2023-05-23,Virtualizing isolation areas of solid-state storage media,1,G06F
+11656349,2023-05-23,Trigger frame for NDP ranging,0,G01S|H04W
+11653344,2023-05-16,Punctured operating channels in WLAN,1,H04L|H04W
+11652760,2023-05-16,"Packet processing system, method and device having reduced static power consumption",0,H04L|Y02D
+11652759,2023-05-16,Methods and apparatus for preamble detection in a communication network,0,G06F|H04L|H04W
+11652651,2023-05-16,Energy efficient ethernet (EEE) link recovery from low SNR,0,H04B|H04L
+11647485,2023-05-09,Methods and apparatus for descrambling received uplink transmissions,0,H04L|H04W
+11646971,2023-05-09,Limiting backpressure with bad actors,0,H04L
+11645209,2023-05-09,Method of cache prefetching that increases the hit rate of a next faster cache,0,G06F
+11641633,2023-05-02,Synchronization of joint transmissions with multiple access points,3,H04L|H04W
+11640269,2023-05-02,Solid-state drive with initiator mode,0,G06F
+11637713,2023-04-25,Energy-efficient Ethernet transceiver that adjusts based on environmental conditions,2,H04L|Y02D
+11635992,2023-04-25,Object-oriented memory for client-to-client communications,3,G06F
+11635987,2023-04-25,System and method for queuing work within a virtualized scheduler based on in-unit accounting of in-unit entries,3,G06F
+11635739,2023-04-25,System and method to manage power to a desired power profile,2,G05B|G06F|G06N|Y02D
+11635463,2023-04-25,System and methods for IJTAG reduced access time in a hierarchical design,0,G01R|G06F
+11632340,2023-04-18,Systems and methods for providing a compatible backplane operation mechanism for 2.5-gigabit high-speed Ethernet,0,H04L
+11632295,2023-04-18,Network boot for Ethernet physical-layer devices,1,H04L
+11630799,2023-04-18,Monolithically integrated system on chip for silicon photonics,11,G02B|G06F|H04L
+11630750,2023-04-18,Systems and methods for configuring a central processing unit having multiple cores,0,G06F
+11627610,2023-04-11,WiFi backoff timer,3,H04W
+11627564,2023-04-11,Methods and apparatus for control channel detection in an uplink shared channel,0,H04L|H04W
+11627087,2023-04-11,Method and apparatus for flexible and efficient analytics in a network switch,0,H04L|H04M
+11625173,2023-04-11,Reduced power consumption by SSD using host memory buffer,1,G06F|Y02D
+11621923,2023-04-04,Queueing system with head-of-line block avoidance,0,H04L
+11620225,2023-04-04,System and method for mapping memory addresses to locations in set-associative caches,0,G06F
+11620223,2023-04-04,Low latency inter-chip communication mechanism in a multi-chip processing system,0,G06F
+11616764,2023-03-28,In-band DSP management interface,0,G06F|H04L
+11615027,2023-03-28,Methods and systems for distributing memory requests,1,G06F
+11614986,2023-03-28,Non-volatile memory switch with host isolation,2,G06F|G11C
+11612079,2023-03-21,Heatsink for co-packaged optical switch rack package,12,G02B|H01L|H04Q|H05K
+11611935,2023-03-21,Group-addressed frames transmitted via multiple WLAN communication links,1,H04L|H04W|Y02D
+11611462,2023-03-21,Padding and backoff operations when transmitting via multiple frequency segments in a WLAN,3,H04L|H04W
+11609861,2023-03-21,Method and apparatus for efficient address decoding and address usage reduction,0,G06F
+11609597,2023-03-21,Wireline transceiver with internal and external clock generation,0,G06F|H03B|H03L
+11606765,2023-03-14,Simultaneous transmission in multiple frequency segments,2,H04W
+11606185,2023-03-14,Detection of physical layer parameter of a master device in an ethernet network,0,H04L
+11606110,2023-03-14,Method and device for timing recovery decoupled FFE adaptation in SerDes receivers,0,H04B|H04L
+11604873,2023-03-14,Noisy instructions for side-channel attack mitigation,0,G06F
+11604683,2023-03-14,System and methods for tag-based synchronization of tasks for machine learning operations,0,G06F|G06N
+11601312,2023-03-07,Multi-protocol frame format,0,H04L|H04W
+11599379,2023-03-07,Methods and systems for tracking a virtual memory of a virtual machine,0,G06F
+11595971,2023-02-28,Quieting a wireless local area network,1,H04W|Y02D
+11593116,2023-02-28,System and method for instruction unwinding in an out-of-order processor,1,G06F
+11588603,2023-02-21,Allocating resource units for uplink multi-user transmissions in wide bandwidths,4,H04B|H04L|H04W
+11586562,2023-02-21,"Packet processing system, method and device utilizing a port client chain",0,G06F|H04L
+11586446,2023-02-21,System and methods for hardware-based PCIe link up based on post silicon characterization,2,G06F
+11582752,2023-02-14,Operation with bandwidth-limited devices in a wireless network,0,H04L|H04W
+11582084,2023-02-14,"Systems and methods for operations, administration and maintenance (OAM) in the physical coding sublayer (PCS)",0,H04L
+11580059,2023-02-14,Multi-port memory architecture for a systolic array,0,G06F|G11C
+11576125,2023-02-07,Wakeup radio packet with BSS information,1,H04B|H04W|Y02D
+11575492,2023-02-07,Multi-rate filtering in high-speed data channel,0,H04B|H04L
+11575396,2023-02-07,Maximum likelihood error detection for decision feedback equalizers with pam modulation,0,H03M|H04L
+11573800,2023-02-07,Complex I/O value prediction for multiple values with physical or virtual addresses,1,G06F
+11570023,2023-01-31,Non-linear neural network equalizer for high-speed data channel,4,H04L
+11569917,2023-01-31,Analog receiver equalizer architectures for high-speed wireline and optical application,0,H04B|H04L
+11567771,2023-01-31,Method and apparatus for back end gather/scatter memory coalescing,0,G06F
+11567767,2023-01-31,Method and apparatus for front end gather/scatter memory coalescing,0,G06F
+11564264,2023-01-24,Medium protection in wireless local area networks,1,H04L|H04W|Y02D
+11563525,2023-01-24,WiFi multi-band communication,1,H04B|H04L|H04W
+11558428,2023-01-17,Automotive gateway providing secure open platform for guest applications,1,B60R|G06F|H04L
+11558226,2023-01-17,Methods and apparatus for generation of physical layer protocol data units for vehicular environments,2,H04L|H04W
+11558147,2023-01-17,Methods and apparatus for decoding received uplink transmissions using log-likelihood ratio (LLR) optimization,1,G06N|H03M|H04L
+11553065,2023-01-10,Packet formats for vehicular networks,2,H04L|H04W
+11551148,2023-01-10,System and method for INT9 quantization,0,G06F|G06N
+11550590,2023-01-10,System and method for implementing strong load ordering in a processor using a circular ordering ring,1,G06F
+11550384,2023-01-10,Methods and apparatus for adaptive power profiling in a baseband processing system,0,G06F|Y02D
+11546399,2023-01-03,Method and apparatus for providing a low latency transmission system using adjustable buffers,0,H04L
+11546021,2023-01-03,Coordinated multi-user transmissions with multiple access points,1,H04B|H04W
+11545987,2023-01-03,Traversing a variable delay line in a deterministic number of clock cycles,0,G06F|H03K|H03L
+11545981,2023-01-03,DLL-based clocking architecture with programmable delay at phase detector inputs,5,G06F|H03L
+11544000,2023-01-03,Managed switching between one or more hosts and solid state drives (SSDs) based on the NVMe protocol to provide host storage services,4,G06F
+11537542,2022-12-27,Direct memory access circuitry and method,0,G06F
+11533592,2022-12-20,Midamble format for packets in a vehicular communication network,2,H04L|H04W
+11531549,2022-12-20,System and method for instruction mapping in an out-of-order processor,2,G06F
+11527625,2022-12-13,Electrical performance and reliability of a semiconductor device comprising continuous diffusion structures,1,H01L|H10D
+11526731,2022-12-13,Systems and methods for vectorized FFT for multidimensional convolution operations,0,G06F|G06N
+11526204,2022-12-13,Power management and transitioning cores within a multicore system from idle mode to operational mode over a period of time,0,G06F|Y02D
+11523306,2022-12-06,Traffic characteristics for target wake time (TWT) negotiation,11,H04L|H04W|Y02D
+11520582,2022-12-06,Carry chain for SIMD operations,0,G06F
+11513958,2022-11-29,Shared mid-level data cache,4,G06F
+11511770,2022-11-29,System and method for neural network-based autonomous driving,3,B60W|G06N
+11510143,2022-11-22,Frequency division multiple access (FDMA) support for wakeup radio (WUR) operation,3,H04W|Y02D
+11509750,2022-11-22,Network switching with co-resident data-plane and network interface controllers,0,H04L
+11509509,2022-11-22,Environmentally-aware run-time configuration of filters in a high-speed data channel,2,H04B|H04L
+11507529,2022-11-22,Multi-chip module with configurable multi-mode serial link interfaces,0,G06F|H01L|H04L|Y02D
+11507379,2022-11-22,Managing load and store instructions for memory barrier handling,1,G06F
+11507170,2022-11-22,Power management and current/ramp detection mechanism,0,G06F|Y02D
+11507129,2022-11-22,Method and device for clock generation and synchronization for time interleaved networks,3,G06F|G11C|H03K|H03M
+11502974,2022-11-15,Timestamp-based packet switching using a trie data structure,0,H04L
+11500790,2022-11-15,Systems and methods for fast round robin for wide masters,0,G06F
+11500779,2022-11-15,Vector prefetching for computing systems,5,G06F
+11500748,2022-11-15,Processor core debugging with processor virtualization,1,G06F
+11494676,2022-11-08,Architecture for table-based mathematical operations for inference acceleration in machine learning,0,G06F|G06N
+11490388,2022-11-01,Methods and apparatus for combining received uplink transmissions,0,H04L|H04W
+11489647,2022-11-01,Methods and apparatus for searching and tracking intercell interference in communication networks,0,H04B|H04L|H04W
+11487874,2022-11-01,Prime and probe attack mitigation,0,G06F
+11487695,2022-11-01,Scalable peer to peer data routing for servers,0,G06F
+11483259,2022-10-25,VOQ-based network switch architecture using multi-stage arbitration fabric scheduler,0,H04L|H04Q
+11483024,2022-10-25,Preceding for asymmetric two-way ethernet physical layer,1,H04B|H04L
+11481156,2022-10-25,Throughput management of distributed storage system,3,G06F|H04L
+11481118,2022-10-25,Storage media programming with adaptive write buffer release,3,G06F
+11479263,2022-10-25,Automotive network switch with anomaly detection,1,B60W|G06N|H04L
+11476907,2022-10-18,Methods and apparatus for providing an adaptive beamforming antenna for OFDM-based communication systems,1,H04B|H04L
+11474953,2022-10-18,Configuration cache for the ARM SMMUv3,0,G06F
+11470038,2022-10-11,Line side multiplexers with protection switching,0,H04L
+11469920,2022-10-11,Asymmetric energy efficient ethernet,0,G06F|H04L|Y02D
+11469295,2022-10-11,Decoupling capacitor integrated in system on chip (SOC) device,0,H01L|H10D
+11467991,2022-10-11,Artificial intelligence-enabled management of storage media access,3,G06F|G06N
+11467964,2022-10-11,Mergeable counter system and method,0,G06F
+11467811,2022-10-11,Method and apparatus for generating metadata by a compiler,0,G06F
+11464011,2022-10-04,Allocating resource units for multi-user transmissions in wide bandwidths,3,H04W
+11463137,2022-10-04,Spatial stream configuration encoding for wifi,1,H04B|H04L|H04W
+11461147,2022-10-04,Liaison system and method for cloud computing environment,2,G06F|H04L
+11457399,2022-09-27,Selection of transmission modes in dense wireless networks,0,H01Q|H04B|H04L|H04W
+11455575,2022-09-27,System and methods for mesh architecture for high bandwidth multicast and broadcast network,0,G06F|G06N
+11452063,2022-09-20,Null data packet (NDP) ranging measurement feedback,1,G01S|H04B|H04L|H04W
+11451300,2022-09-20,Optical communication interface utilizing n-dimensional double square quadrature amplitude modulation,0,H03K|H04B|H04L
+11450348,2022-09-20,Health management for magnetic storage media,2,G06F|G06N|G11B
+11444886,2022-09-13,Out of order packet buffer selection,38,G06F|H04L
+11442864,2022-09-13,Managing prefetch requests based on stream information for previously recognized streams,0,G06F
+11442809,2022-09-13,Double-parity raid enabling recovery of two failed data units,1,G06F
+11438211,2022-09-06,Adaptive diagnostics for communication systems,4,G06N|H04L
+11438142,2022-09-06,System and method for mining digital currency in a blockchain network,4,G06Q|H04L
+11436077,2022-09-06,Serial management interface with improved reliability,0,G06F|Y02D
+11436040,2022-09-06,System and methods for hierarchical inline interrupt scheme for efficient interrupt propagation and handling,0,G06F
+11435925,2022-09-06,Method and system for reconfigurable parallel lookups using multiple shared memories,0,G06F|G11C|H03K|H04L
+11432189,2022-08-30,Methods and apparatus for distributed baseband signal processing for fifth generation (5G) new radio downlink signals,1,H04B|H04L|H04W
+11431416,2022-08-30,PAM4 transceivers for high-speed communication,1,H03K|H03L|H04B|H04L
+11430505,2022-08-30,In-memory computing using a static random-access memory (SRAM),0,G06F|G11C|H03K
+11429595,2022-08-30,Persistence of write requests in a database proxy,0,G06F
+11425732,2022-08-23,Wireless link control using contextual bandit,0,H04B|H04L|H04W
+11424852,2022-08-23,Method and apparatus for enhanced link training in a wireline communications system,0,H04B|H04L
+11424834,2022-08-23,Tap centerer method and structure for coherent optical receiver,1,H04B|H04L
+11422961,2022-08-23,Efficient signaling scheme for high-speed ultra short reach interfaces,0,G06F|H01L|H04L
+11418195,2022-08-16,Voltage power switch,0,G06F|H03K
+11416405,2022-08-16,System and method for mapping memory addresses to locations in set-associative caches,2,G06F
+11411627,2022-08-09,Explicit multiuser beamforming training in a wireless local area network,2,H04B|H04L|H04W
+11411604,2022-08-09,Noise mitigation in an automotive ethernet network,2,H04B|H04L
+11409553,2022-08-09,System and method for isolating work within a virtualized scheduler using tag-spaces,4,G06F
+11405134,2022-08-02,Apparatus and method for communicating data over an optical channel,0,H03M|H04B|H04L
+11403561,2022-08-02,Architecture to support synchronization between core and inference engine for machine learning,0,G06F|G06N
+11403101,2022-08-02,Introducing noise in threaded execution to mitigate cross-thread monitoring,1,G06F
+11402413,2022-08-02,Droop detection and mitigation,5,G01R|G06F|H03K
+11398931,2022-07-26,Interference mitigation in high speed ethernet communication networks,2,H04L
+11398904,2022-07-26,Key management for remote device access,0,H04L
+11398431,2022-07-26,Through-silicon via for high-speed interconnects,0,H01L
+11397703,2022-07-26,Methods and systems for accessing host memory through non-volatile memory over fabric bridging with direct target access,0,G06F|H04L
+11395359,2022-07-19,Simultaneous transmission of data units in multiple frequency segments,0,H04B|H04L|H04W
+11392534,2022-07-19,Silicon photonics based module for storing cryptocurrency and executing peer-to-peer transaction,0,G02B|G06F|H04L
+11388590,2022-07-12,Cryptographic security in multi-access point networks,2,H04L|H04W
+11388268,2022-07-12,Network systems and methods for CXL standard,14,G06F|H04B|H04L
+11388111,2022-07-12,Systems and methods for providing a compatible backplane operation mechanism for 2.5-gigabit high-speed ethernet,0,H04L
+11387855,2022-07-12,Method and apparatus for efficient fast retraining of ethernet transceivers,0,H04B|H04L
+11386027,2022-07-12,Network switch with endpoint and direct memory access controllers for in-vehicle data transfers,1,G06F
+11385927,2022-07-12,Interrupt servicing in userspace,0,G06F
+11385897,2022-07-12,Merge execution unit for microinstructions,0,G06F
+11382132,2022-07-05,Methods and devices for communicating in a wireless network with multiple virtual access points,2,H04B|H04L|H04W
+11382101,2022-07-05,"Bandwidth indication, negotiation and TXOP protection with multiple channel segments",12,H04L|H04W
+11381269,2022-07-05,Method and device for timing recovery decoupled FFE adaptation in SerDes receivers,1,H04B|H04L
+11379379,2022-07-05,Differential cache block sizing for computing systems,0,G06F
+11379372,2022-07-05,Managing prefetch lookahead distance based on memory access latency,1,G06F
+11379370,2022-07-05,System and methods for reducing global coherence unit snoop filter lookup via local memories,0,G06F
+11379368,2022-07-05,External way allocation circuitry for processor cores,0,G06F
+11374732,2022-06-28,Apparatus and related method to synchronize operation of serial repeater,0,H03L|H03M|H04B|H04L
+11374698,2022-06-28,Physical layer (PHY) data unit format for hybrid automatic repeat request (HARQ),2,H04L|H04W
+11374683,2022-06-28,Physical layer preamble for wireless local area networks,3,H04L
+11372647,2022-06-28,Pipelines for secure multithread execution,2,G06F|G09C|H04L
+11372580,2022-06-28,Enabling virtual functions on storage media,5,G06F
+11368559,2022-06-21,Methods and apparatus for compression data streams,0,G06N|H03M|H04L
+11368299,2022-06-21,Self-encryption drive (SED),0,G06F|G11B|H04L
+11368229,2022-06-21,Tap stabilizer method and structure for coherent optical receiver,0,H04B|H04L
+11368170,2022-06-21,Systems and methods for Nyquist error correction,0,H03M|H04L
+11367687,2022-06-21,Light engine based on silicon photonics TSV interposer,2,G02B|H01L
+11367480,2022-06-21,Memory device implementing multiple port read,0,G06F|G11C|Y02D
+11366753,2022-06-21,Controlling performance of a solid state drive,0,G06F|G11C
+11366610,2022-06-21,Solid-state drive with initiator mode,1,G06F
+11363657,2022-06-14,WiFi network operation with channel aggregation,4,H04W
+11362750,2022-06-14,Synchronization of automotive sensors using communication-link TDM timing,0,H04J|H04L
+11349922,2022-05-31,System and method for a database proxy,0,G06F|H04L
+11349696,2022-05-31,Systems and methods to reduce peak to average power ratio for dual sub-carrier modulated transmissions in a wireless network,0,H04L|H04W
+11347941,2022-05-31,Methods and apparatus for compressing data streams,0,G06F|H03M
+11346918,2022-05-31,Adaptive gain control for indoor positioning,0,G01S|H03G|H04W
+11343061,2022-05-24,Ethernet transceiver with PHY-level signal-loss detector,0,H04B|H04L
+11341400,2022-05-24,Systems and methods for high-throughput computations in a deep neural network,3,G06F|G06N
+11341083,2022-05-24,Monolithically integrated system on chip for silicon photonics,0,G02B|G06F|H04L
+11340673,2022-05-24,System and method to manage power throttling,3,G06F|G06N|G11C|H03L|Y02D
+11334571,2022-05-17,Artificial intelligence-enabled search for a storage system,0,G06F|G06N
+11334258,2022-05-17,System and method for memory region protection,1,G06F
+11329814,2022-05-10,Self-encryption drive (SED),0,G06F|G11B|H04L
+11327890,2022-05-10,Partitioning in a processor cache,4,G06F
+11327759,2022-05-10,Managing low-level instructions and core interactions in multi-core processors,0,G06F
+11314516,2022-04-26,Issuing instructions based on resource conflict constraints in microprocessor,0,G06F
+11310084,2022-04-19,Distributed dynamic power savings for adaptive filters in a high-speed data channel,2,H04B|H04L
+11307857,2022-04-19,Dynamic designation of instructions as sensitive for constraining multithreaded execution,3,G06F
+11303330,2022-04-12,Explicit beamforming in a high efficiency wireless local area network,2,H04B|H04L|H04W
+11301247,2022-04-12,System and method for handling floating point hardware exception,0,G06F
+11297012,2022-04-05,"Packet processing system, method and device having reduced static power consumption",0,H04L|Y02D
+11296904,2022-04-05,Asymmetric energy efficient ethernet,4,G06F|H04L|Y02D
+11296840,2022-04-05,Media access control for frequency division full duplex in WLAN,6,H04J|H04L|H04W
+11294965,2022-04-05,Metadata generation for multiple object types,0,G06F|G06N|H04L
+11294722,2022-04-05,Object-oriented memory client,5,G06F
+11294721,2022-04-05,Object-oriented memory for client-to-client communications,5,G06F
+11294715,2022-04-05,System and method for queuing work within a virtualized scheduler based on in-unit accounting of in-unit entries,5,G06F
+11294602,2022-04-05,Ethernet enabled solid state drive (SSD),1,G06F
+11290223,2022-03-29,Physical layer (PHY) data unit encoding for hybrid automatic repeat request (HARQ) transmission,6,H04L|H04W
+11288120,2022-03-29,Circuit and method for soft-error protection in operation of ECC and register,0,G06F
+11287869,2022-03-29,System and methods for on-chip memory (OCM) port throttling for machine learning operations,0,G06F|G06N|Y02D
+11284474,2022-03-22,Transmitting network management information in a wireless local area network,1,H04W
+11283588,2022-03-22,Frequency bias correction for clock-data recovery in a serial data channel,0,H03L|H04L
+11283562,2022-03-22,WiFi channelization for 6 gigahertz band,3,H04L|H04W
+11283467,2022-03-22,Methods and network device for uncoded bit protection in 10GBASE-T ethernet,1,H03M|H04L|H04W
+11282806,2022-03-22,Partitioned substrates with interconnect bridge,1,H01L
+11282762,2022-03-22,Heat sink design for flip chip ball grid array,1,H01L
+11277224,2022-03-15,Soft FEC with parity check,3,H03M|H04B|H04L
+11277138,2022-03-15,Hierarchical statistically multiplexed counters and a method thereof,0,H03K|H04L
+11275698,2022-03-15,Termination of non-volatile memory networking messages at the drive level,1,G06F|H04L
+11275646,2022-03-15,Solid-state drive error recovery based on machine learning,3,G06F|G06N|G11C
+11272270,2022-03-08,Networking switching devices and methods thereof,0,H04B|H04J|H04L|H04Q
+11269644,2022-03-08,System and method for implementing strong load ordering in a processor using a circular ordering ring,3,G06F
+11265119,2022-03-01,Multi-radio device for WLAN,2,H04L|H04W
+11265109,2022-03-01,Soft FEC with parity check,3,H04L
+11265025,2022-03-01,Reconfigurable FEC,2,H03M|H04B|H04L
+11263149,2022-03-01,Cache management of logical-physical translation metadata,0,G06F
+11263043,2022-03-01,Managing processor core synchronization using interrupts,6,G06F
+11263015,2022-03-01,Microarchitectural sensitive tag flow,1,G06F
+11258886,2022-02-22,Method of handling large protocol layers for configurable extraction of layer information and an apparatus thereof,0,H04L
+11258555,2022-02-22,Flexible scheme for high efficiency SIGB processing,0,H04B|H04L|H04W
+11256780,2022-02-22,Methods and apparatus for fast eigenvalue decomposition of Hermitian matrices,0,G06F|H04B
+11256517,2022-02-22,Architecture of crossbar of inference engine,0,G06F|G06N
+11256515,2022-02-22,Techniques for accelerating compaction,4,G06F
+11252110,2022-02-15,Negotiation of alignment mode for out of order placement of data in network devices,7,H04L
+11252109,2022-02-15,Out of order placement of data in network devices,0,H04L
+11252094,2022-02-15,Apparatus and method for application-aware network traffic management,0,H04L
+11250135,2022-02-15,Method and apparatus for authorizing unlocking of a device,1,G06F
+11249541,2022-02-15,Wake-on-frame for frame processing devices,1,G06F
+11245493,2022-02-08,Methods and systems for data transmission,3,H03M|H04L
+11240048,2022-02-01,Systems and methods for waking a network interface device in a low power mode,0,H04B|H04L
+11239991,2022-02-01,Systems and methods for timing recovery with bandwidth extension,3,H04L
+11239964,2022-02-01,"Methods and apparatus for symbol-to-symbol multiplexing of control, data, and reference signals on a 5G uplink",0,H04L
+11239912,2022-02-01,Closed loop module control for communication based on signal quality,1,H04B|H04L
+11238428,2022-02-01,System and method for secure transactions to transmit cryptocurrency,4,G06N|G06Q|H03M|H04B|H04L
+11237585,2022-02-01,Self-biased current trimmer with digital scaling input,5,G05F|G06F|H03K|H03M
+11233603,2022-01-25,High-speed ethernet coding,0,H03M|H04L
+11233002,2022-01-25,High density low power interconnect using 3D die stacking,1,H01L
+11231741,2022-01-25,Systems and methods for generating clock signals,5,G06F|H03L
+11229035,2022-01-18,Physical layer protocol data unit directional transmission,1,H04L|H04W
+11228465,2022-01-18,Rapid training method for high-speed ethernet,1,H04L
+11223441,2022-01-11,Methods and apparatus for successive interference cancellation (SIC),1,H04B|H04J|H04L
+11223439,2022-01-11,Maintaining a time of day in a physical layer circuit including compensating for drift away from a grandmaster time,1,H04J|H04L
+11218410,2022-01-04,Hybrid wildcard match table,0,G11C|H04L
+11218342,2022-01-04,Apparatus and method for high-speed ethernet over star quad media,0,H01B|H04L
+11218225,2022-01-04,Analog receiver equalizer architectures for high-speed wireline and optical applications,5,H04B|H04L
+11218156,2022-01-04,Clock and data recovery devices with fractional-N PLL,0,H03K|H03L|H04L
+11212144,2021-12-28,Methods and apparatus for decoding received uplink transmissions,1,H04L|H04W
+11212030,2021-12-28,Hybrid ARQ with varying modulation and coding,0,H03M|H04L|H04W
+11212009,2021-12-28,Reduced complexity constrained frequency-domain block LMS adaptive equalization for coherent optical receivers,1,H04B|H04L
+11210105,2021-12-28,Data transmission between memory and on chip memory of inference engine for machine learning via a single data gathering instruction,0,G06F|G06N
+11200193,2021-12-14,Transferring data between solid state drives (SSDs) via a connection between the SSDs,3,G06F|H04L
+11194733,2021-12-07,Accelerating access to memory banks in a data storage system,0,G06F
+11194584,2021-12-07,Managing out-of-order retirement of instructions,0,G06F
+11191082,2021-11-30,Systems and methods for rate selection and resource unit allocation within a wireless local area network (WLAN),0,H04W
+11190305,2021-11-30,Systems and methods for introducing time diversity in WiFi transmissions,0,H04B|H04L
+11190276,2021-11-30,Probabilistic shaping techniques for high performance coherent optical transceivers,2,H03M|H04B|H04J|H04L
+11188466,2021-11-30,Methods and systems for distributing memory requests,1,G06F
+11184296,2021-11-23,Chained lookups and counting in a network switch,0,G06F|H04L
+11183211,2021-11-23,Digitally assisted ultra-fast bandwidth calibration of a programmable analog filter,0,G06F|G11B
+11182288,2021-11-23,Decoding of high-density memory cells in a solid-state drive,0,G06F|G06N|G11C
+11181967,2021-11-23,Power management and transitioning cores within a multicore system from idle mode to operational mode over a period of time,0,G06F|Y02D
+11178630,2021-11-16,Simultaneous transmission in multiple frequency segments,3,H04W
+11177926,2021-11-16,Methods and apparatus for providing soft and blind combining for PUSCH acknowledgement (ACK) processing,0,H04L|H04W
+11176055,2021-11-16,Managing potential faults for speculative page table access,11,G06F
+11172379,2021-11-09,Methods and apparatus for configuring a front end to process multiple sectors with multiple radio frequency frames,0,H04W
+11171104,2021-11-09,"IC chip package with dummy solder structure under corner, and related method",3,B23K|H01L
+11169943,2021-11-09,Efficient signaling scheme for high-speed ultra short reach interfaces,0,G06F|H01L|H04L
+11169591,2021-11-09,Ethernet PHY-MAC communication with in-band wake-up/sleep commands,0,G06F|H04L|Y02D
+11166159,2021-11-02,Methods and apparatus for secure fine timing measurement with encoded long training fields,8,G01S|H04L|H04W
+11165892,2021-11-02,Physical layer frame format for WLAN,1,H04L|H04W
+11165533,2021-11-02,Ethernet over a reduced number of twisted pair channels,0,H03M|H04B|H04L
+11165509,2021-11-02,Method for co-packaging light engine chiplets on switch substrate,34,H01L|H04B|H04J
+11159348,2021-10-26,High efficiency long training field symbol transmission for multiple transmission streams,0,H04B|H04L|H04W|Y02D
+11157037,2021-10-26,Method and device for clock generation and synchronization for time interleaved networks,4,G06F|G11C|H03K|H03M
+11153063,2021-10-19,Managing bidirectional communication in constrained environments,3,H04J|H04L|H04W
+11153013,2021-10-19,Histogram based optimization for optical modulation,0,H04B|H04L
+11146434,2021-10-12,Range extension mode for WiFi,1,H04J|H04L|H04W
+11146311,2021-10-12,Coordinated multi-user transmissions with multiple access points,0,H04B|H04W
+11139800,2021-10-05,Optimized multi-pam finite impulse response (FIR) filter,1,H03H|H04L
+11134443,2021-09-28,Systems and methods for generating and transmitting short low power wake-up request (WUR) frames in a wireless communication system,0,H04W|Y02D
+11134135,2021-09-28,Mobile storage system for storing and transferring data generated by Internet of Things (IoT) devices,1,H04L
+11132049,2021-09-28,Methods and apparatus for adaptive power profiling in a baseband processing system,0,G06F|Y02D
+11129091,2021-09-21,Methods and apparatus for providing a resource element (RE) identification system to process received uplink transmissions,0,H04B|H04L|H04W
+11126556,2021-09-21,History table management for a correlated prefetcher,0,G06F
+11122567,2021-09-14,Coexistence techniques for wide area network devices operating in unlicensed bands,0,H04W
+11122558,2021-09-14,Medium access control entities operating in respective non-contiguous bands and sharing transmission of control frames,0,H04W
+11121955,2021-09-14,Retimer data communication modules,0,G06F|H04L
+11119967,2021-09-14,Methods and apparatus for PHY register access,0,G06F
+11119929,2021-09-14,Low latency inter-chip communication mechanism in multi-chip processing system,2,G06F
+11115992,2021-09-07,Methods and apparatus for simultaneous multiprotocol processing of different radio standards using a common pipeline,0,H04B|H04W
+11115151,2021-09-07,Method and apparatus for fast retraining of ethernet transceivers based on trickling error,1,H04L
+11113101,2021-09-07,Method and apparatus for scheduling arbitration among a plurality of service requestors,1,G06F
+11109314,2021-08-31,Padding for wakeup radio (WUR) packets,0,H04L|H04W|Y02D
+11108900,2021-08-31,Methods and apparatus for generation of physical layer protocol data units,0,H04L|H04W
+11102680,2021-08-24,Data transfer interface with reduced signaling,0,G06F|H04L|H04W
+11102336,2021-08-24,Multi-protocol frame format,0,H04L|H04W
+11095626,2021-08-17,Secure in-line received network packet processing,0,G06F|H04L
+11095561,2021-08-17,"Phantom queue link level load balancing system, method and device",0,G06F|H04L
+11095426,2021-08-17,Method and apparatus for clock recovery,2,H03K|H04L
+11093415,2021-08-17,"Packet processing system, method and device utilizing a port client chain",4,G06F|H04L
+11093405,2021-08-17,Shared mid-level data cache,2,G06F
+11088876,2021-08-10,Multi-chip module with configurable multi-mode serial link interfaces,26,G06F|H01L|H04L|Y02D
+11086633,2021-08-10,Single instruction set architecture (ISA) format for multiple ISAS in machine learning inference engine,0,G06F|G06N
+11082366,2021-08-03,Method and apparatus for using multiple linked memory lists,0,H04L
+11082098,2021-08-03,Methods and apparatus for providing an adaptive beamforming antenna for OFDM-based communication systems,1,H04B|H04L
+11081387,2021-08-03,Creating an aligned via and metal line in an integrated circuit including forming an oversized via mask,0,H01L
+11080337,2021-08-03,Storage edge controller with a metadata computational engine,0,G06F|G06N|H04L
+11080195,2021-08-03,Method of cache prefetching that increases the hit rate of a next faster cache,1,G06F
+11076407,2021-07-27,Methods and apparatus for detecting ACK/NACK bits with dual list-RM decoder and symbol regeneration for LTE PUCCH format 3,0,H03M|H04L|H04W
+11076301,2021-07-27,Multi-mode network access device,0,H04W
+11075879,2021-07-27,Apparatus and method for MAC address override for ethernet adapters,0,G06F|H04L
+11074013,2021-07-27,Apparatus and methods for providing quality of service over a virtual interface for solid-state storage,11,G06F
+11071060,2021-07-20,Systems and methods for wake-up radio multi-antenna transmission,0,H04B|H04W|Y02D
+11068544,2021-07-20,Systems and methods for generating metadata describing unstructured data objects at the storage edge,2,G06F|G06N|H04L
+11064435,2021-07-13,Rapid sync up mechanism for traffic control between two systems,2,H04L|H04W|Y02D
+11063718,2021-07-13,Response rules of trigger frame,0,H04L|H04W
+11061724,2021-07-13,Programmable hardware scheduler for digital processing systems,3,G06F
+11061670,2021-07-13,Dual-interface flash memory controller with execute-in-place cache control,0,G06F
+11061617,2021-07-13,High density fractional bit solid state drives using coded set partitions,0,G06F|G11C
+11061582,2021-07-13,Codeword interleaving for magnetic storage media,8,G06F|G11B
+11057850,2021-07-06,Transmit power control for null data packets,0,H04B|H04W
+11055244,2021-07-06,Apparatus and method for simultaneous bidirectional serial lanes over USB-C interface,3,G06F|Y02D
+11055063,2021-07-06,Systems and methods for deep learning processor,5,G06F|G06N
+11050859,2021-06-29,Method of using bit vectors to allow expansion and collapse of header layers within packets for enabling flexible modifications and an apparatus thereof,1,H04L
+11050589,2021-06-29,Systems and methods for a short null data packet transmission scheme in a wireless network,2,H04B|H04L|H04W
+11044726,2021-06-22,Selection of transmission parameters for acknowledgment packets,1,H04L|H04W
+11044669,2021-06-22,Wakeup radio (WUR) preamble design,1,H04W|Y02D
+11044296,2021-06-22,Ethernet controller with integrated TSN/AVB control point and time slave,1,H04J|H04L
+11044071,2021-06-22,Serializer/Deserializer (SerDes) lanes with lane-by-lane datarate independence,1,G06F|H03L|H03M|H04J|H04L
+11038856,2021-06-15,Secure in-line network packet transmittal,0,H04L
+11036913,2021-06-15,Integrated circuit methods using single-pin imaginary devices,0,G06F
+11036807,2021-06-15,Metadata generation at the storage edge,3,G06F|G06N|H04L
+11036643,2021-06-15,Mid-level instruction cache,3,G06F
+11036515,2021-06-15,System and method for instruction unwinding in an out-of-order processor,3,G06F
+11036403,2021-06-15,Shared memory block configuration,1,G06F|G11C|H04L
+11032216,2021-06-08,Merging read requests in network device architecture,0,H04L
+11032118,2021-06-08,Methods and apparatus for generation of physical layer protocol data units for vehicular environments,4,H04L|H04W
+11031358,2021-06-08,Overhang model for reducing passivation stress and method for producing the same,0,G06V|H01L
+11029963,2021-06-08,Architecture for irregular operations in machine learning inference engine,0,G06F|G06N
+11025368,2021-06-01,Physical layer frame format for WLAN,2,H04L|H04W
+11023312,2021-06-01,Serial management interface with improved reliability,0,G06F|Y02D
+11018935,2021-05-25,Network traffic quality-based dynamic path change,1,H04L
+11016801,2021-05-25,Architecture to support color scheme-based synchronization for machine learning,10,G06F|G06N|H04N
+11012548,2021-05-18,System and method for providing test scenario reproduction for a device under test,1,G06F|G09G|H04M
+11012544,2021-05-18,Multi-protocol frame format,0,H04L|H04W
+11012333,2021-05-18,Securing and controlling remote access of a memory-mapped device utilizing an ethernet interface and test port of a network device,0,G01R|G06F|H04L
+11012226,2021-05-18,Oscillator calibration structure and method,0,G06F|H03L|H04L|Y02D
+11010314,2021-05-18,Artificial intelligence-enabled management of storage media access,8,G06F|G06N
+11010165,2021-05-18,Buffer allocation with memory-based configuration,1,G06F|H04L
+11010133,2021-05-18,Parallel-prefix adder and method,0,G06F
+11006480,2021-05-11,Midamble for WLAN PHY packets,0,H04J|H04K|H04L|H04W
+11006416,2021-05-11,Operation with bandwidth-limited devices in a wireless network,0,H04L|H04W
+11006392,2021-05-11,Methods and apparatus for descrambling received uplink transmissions,0,H04L|H04W
+11005950,2021-05-11,Optimized bloom filter,1,G06F|H04L|H04W
+11005617,2021-05-11,Systems and methods for cross-channel scheduling of high efficiency (HE) multi-user (MU) frame transmission,0,H04L|H04W
+11005498,2021-05-11,Methods and network device for uncoded bit protection in 10Gbase-T ethernet,2,H03M|H04L|H04W
+10999124,2021-05-04,Rapid rate adaptation in NBASE-T ethernet,7,H04L
+10999049,2021-05-04,Phase and frequency control for clock-data recovery,0,H03L|H04L
+10998953,2021-05-04,Group addressing for beamforming training,0,H04B|H04L|H04W
+10998941,2021-05-04,Multi-band transmission system,0,H04B|H04L
+10997510,2021-05-04,Architecture to support tanh and sigmoid operations for inference acceleration in machine learning,1,G06F|G06N
+10997077,2021-05-04,Increasing the lookahead amount for prefetching,0,G06F
+10996957,2021-05-04,System and method for instruction mapping in an out-of-order processor,4,G06F
+10996738,2021-05-04,System and method for compensating for a droop event,5,G06F|Y02D
+10993243,2021-04-27,Systems and methods for uplink power control and rate adaptation within a wireless local area network (WLAN),1,H04B|H04L|H04W
+10986639,2021-04-20,Orthogonal frequency division multiple access for wireless local area network,1,H04L|H04W
+10983576,2021-04-20,Method and apparatus for managing global chip power on a multicore system on chip,2,G06F|H04B|H04L|Y02D
+10979688,2021-04-13,Matching merit value based stereo vision matching including disparity refinement,0,H04N
+10977199,2021-04-13,Modifying NVMe physical region page list pointers and data pointers to facilitate routing of PCIe memory requests,4,G06F
+10977176,2021-04-13,Prefetching data to reduce cache misses,0,G06F
+10972293,2021-04-06,Adaptive energy efficient Ethernet,1,H04B|H04L|Y02D
+10970080,2021-04-06,Systems and methods for programmable hardware architecture for machine learning,0,G06F|G06N
+10966227,2021-03-30,WiFi multi-band communication,3,H04B|H04L|H04W
+10966200,2021-03-30,Punctured operating channels in WLAN,7,H04L|H04W
+10964362,2021-03-30,Three-port memory cell and array for in-memory computing,5,G06N|G11C|H03K
+10959243,2021-03-23,Systems and methods for providing resource signaling within a wireless local area network (WLAN),0,H04B|H04L|H04W
+10959229,2021-03-23,Medium protection in wireless local area networks,2,H04L|H04W|Y02D
+10958504,2021-03-23,"Systems and methods for operations, administration and maintenance (OAM) in the physical coding sublayer (PCS)",0,H04L
+10956202,2021-03-23,Methods and systems for tracking a virtual memory of a virtual machine,4,G06F
+10952216,2021-03-16,Wireless local area network management,5,H04L|H04W|Y02D
+10951523,2021-03-16,Port extender with local switching,0,H04L
+10950325,2021-03-16,Memory built-in self test error correcting code (MBIST ECC) for low voltage memories,0,G06F|G11C|H03M
+10949168,2021-03-16,Compressing like-magnitude partial products in multiply accumulation,1,G06F
+10939476,2021-03-02,WiFi backoff timer,14,H04W
+10938516,2021-03-02,Systems and methods for ethernet packet error detection and correction in automotive environments,1,H04L
+10938512,2021-03-02,Correlation-based detection of encoded address in packet,0,H03M|H04L
+10930315,2021-02-23,Error correction for storage devices,0,G06F|G11B
+10929779,2021-02-23,Architecture to support synchronization between core and inference engine for machine learning,0,G06F|G06N
+10929778,2021-02-23,Address interleaving for machine learning,0,G06F|G06N
+10929760,2021-02-23,Architecture for table-based mathematical operations for inference acceleration in machine learning,1,G06F|G06N
+10928870,2021-02-23,Apparatus and methods for temperature-based memory management,2,G06F|G11C|Y02D
+10928505,2021-02-23,Null data packet (NDP) announcement frame and trigger frame for NDP ranging,4,G01S|H04W
+10924300,2021-02-16,Virtual controller area network,0,H04L

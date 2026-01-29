@@ -1,0 +1,403 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12405854,2025-09-02,Fault-tolerant memory appliance,0,G06F|H04L
+12393830,2025-08-19,Deep learning computational storage drive,0,G06N
+12386531,2025-08-12,Partial block performance management,0,G06F
+12379851,2025-08-05,Wear leveling and grouping of drives based on position in chassis,0,G06F
+12373345,2025-07-29,Intelligent management of ferroelectric memory in a data storage device,0,G06F
+12362920,2025-07-15,Threshold secret sharing with hidden access structures,0,H04L
+12334108,2025-06-17,Speculative read regulation in hard disk drives having read reliability budgets,0,G06F|G11B
+12316752,2025-05-27,Polynomial function secret sharing,0,H04L
+12289399,2025-04-29,Device specific multiparty computation,0,G06F|H04L
+12288575,2025-04-29,"Adhesive for processing a microelectronic substrate, and related methods",0,B24B|C08G|C08L|C09J|G11B|H01L
+12282681,2025-04-22,"Balancing power, endurance and latency in a ferroelectric memory",0,G06F|G11C
+12282438,2025-04-22,Scalable storage using NVMe communication,0,G06F
+12260117,2025-03-25,Secure command memory buffer transfers in a low trust environment,0,G06F
+12235961,2025-02-25,Malware mitigating storage controller,0,G06F
+12229933,2025-02-18,Method for grain size analysis,0,G06T
+12197782,2025-01-14,Hint-based fast data operations with replication in object-based storage,0,G06F
+12197750,2025-01-14,Radiation-resistant data storage device,0,G06F
+12189831,2025-01-07,Cartridge data storage with information-theoretic security,0,G06F
+12182444,2024-12-31,Efficient scheduling of data storage disc input/output,0,G06F
+12166873,2024-12-10,Updateable encryption in self encrypting drives,0,G06F|H04L
+12164814,2024-12-10,Data storage system with distributed operations for known hardware,0,G06F
+12157847,2024-12-03,"Methods of forming an adhesive layer, and related adhesive films and methods and systems of using adhesive films",0,B05D|B24B|C09J|H01L|Y10T
+12135895,2024-11-05,Hot data management in a data storage system,0,G06F
+12099646,2024-09-24,Prospective generation and storage of content for an alternate reality environment,0,G06F|G06T
+12099642,2024-09-24,No latency hardware interposer,0,G06F
+12093568,2024-09-17,Segregated filesystem metadata operations using buffered atomic write interface,0,G06F
+12093559,2024-09-17,Distributed data storage system with dedicated processing lane,1,G06F
+12093546,2024-09-17,Operating multiple storage devices using NVM interface,0,G06F
+12086462,2024-09-10,Pre-suspend before program in a non-volatile memory (NVM),0,G06F
+12086455,2024-09-10,Data storage system with workload-based asymmetry compensation,0,G06F
+12079355,2024-09-03,Performing remote hidden compute functions in one or more processing devices,0,G06F
+12061701,2024-08-13,On-chip NVM ISP emulation in FPGA,0,G06F
+12057147,2024-08-06,Thin-film crystalline structure with surfaces having selected plane orientations,0,B81C|B82B|B82Y|G11B|H01F|H01L
+12050781,2024-07-30,Distributed data storage system with bottleneck mitigation,0,G06F
+12027190,2024-07-02,Method of for bonding noble metal structure with a dielectric layer using an adhesive layer,0,C23C|G11B|H01L|Y10T
+12019898,2024-06-25,Data storage system with workload-based dynamic power consumption,0,G06F|Y02D
+12013857,2024-06-18,Identifying hot items in a distributed storage system,0,G06F
+12013816,2024-06-18,Querying metadata in a storage system,0,G06F
+12008146,2024-06-11,Code-based signatures for secure programs,0,G06F
+12001594,2024-06-04,Wireless data storage devices and systems,0,G05B|G06F|G11B|H05K
+11996862,2024-05-28,High performance decoder,0,G06F|H03M
+11994950,2024-05-28,Secondary key allocation to storage drive failure domains,0,G06F|H04L
+11994926,2024-05-28,"Drive performance, power, and temperature management",0,G06F|Y02D
+11989428,2024-05-21,Radiation-resistant data storage device,0,G06F
+11985240,2024-05-14,Computing system with decentralized authentication and authorization,0,G06F|H04L
+11977754,2024-05-07,External indicators for adaptive in-field recalibration,0,G06F
+11977445,2024-05-07,Host-level outer codes,0,G06F
+11966629,2024-04-23,Custom initialization in a distributed data storage system,0,G06F
+11966623,2024-04-23,Increased aerial density capability in storage drives using encoded data portions written to media surfaces with different aerial density capabilities,0,G06F
+11966617,2024-04-23,Air gapped data storage devices and systems,0,G05B|G06F
+11960767,2024-04-16,Outer codes for data storage devices,0,G06F|H03M
+11956350,2024-04-09,Yes and no secret sharing with hidden access structures,0,H04L
+11954505,2024-04-09,Distributed data storage system with dormant hardware activation,0,G06F
+11954341,2024-04-09,External storage of internal drive management data,0,G06F
+11949435,2024-04-02,Markov encoder-decoder optimized for cyclo-stationary communications channel or storage media,0,G06N|H03M
+11939570,2024-03-26,Microfluidic lab-on-a-chip for gene synthesis,0,B01L|C12N|C40B|G06F|G11C|G16B
+11934673,2024-03-19,Workload amplification metering and management,0,G06F
+11924173,2024-03-05,Sensor nodes and host forming a tiered ecosystem that uses public and private data for duplication,0,G06F|G06N|H04L|H04W
+11923026,2024-03-05,Data storage system with intelligent error management,0,G06F|G11C
+11922055,2024-03-05,Stack register having different ferroelectric memory element constructions,0,G06F|G11C
+11922024,2024-03-05,Storage device system performance management,0,G06F|G11B
+11917062,2024-02-27,Key rotation verification without decryption,0,H04L
+11907392,2024-02-20,System and method utilizing function secret sharing with conditional disclosure of secrets,0,G06F
+11900970,2024-02-13,Magnetoresistive asymmetry compensation,0,G06F|G11B|H03M
+11899952,2024-02-13,Lossless namespace metadata management system,0,G06F
+11899590,2024-02-13,Intelligent cache with read destructive memory cells,0,G06F|G11C
+11893268,2024-02-06,Opportunistic command scheduling,0,G06F|G11B
+11893258,2024-02-06,Offloaded data migration between storage devices,0,G06F
+11886732,2024-01-30,Data storage server with multi-memory migration,0,G06F
+11882211,2024-01-23,Multiple evaluation threshold function secret sharing,0,H04L
+11880568,2024-01-23,On demand configuration of FPGA interfaces,0,G06F
+11874801,2024-01-16,Deduplication in multiple-tiered storage systems,0,G06F
+11868621,2024-01-09,Data storage with multi-level read destructive memory,0,G06F|G11C
+11853213,2023-12-26,Intelligent management of ferroelectric memory in a data storage device,0,G06F
+11848055,2023-12-19,Asynchronous access multi-plane solid-state memory,0,G06F|G11C
+11844186,2023-12-12,Modular edge storage devices with high speed interconnects,11,G06F|G11B|H05K
+11843692,2023-12-12,On-cartridge encryption key storage for cartridge-based library,0,G06F|G07C|G11B|G11C|H04L
+11829288,2023-11-28,Mapping of object data and metadata in an object storage volume,0,G06F
+11829270,2023-11-28,Semiconductor die failure recovery in a data storage device,0,G06F
+11824752,2023-11-21,Port-to-port network routing using a storage device,0,G06F|H04L|Y02D
+11822817,2023-11-21,Ordering reads to limit collisions in a non-volatile memory (NVM),0,G06F
+11817124,2023-11-14,Composite data recovery procedure,0,G06F|G11B|G11C|H03M|H04L
+11809323,2023-11-07,Maintaining real-time cache coherency during distributed computational functions,0,G06F
+11803468,2023-10-31,Data storage system with write back cache,0,G06F
+11797396,2023-10-24,Decoding policy management to support multiple decoding schemes in a single buffer space,0,G06F
+11782717,2023-10-10,Embedded computation instruction performance profiling,0,G06F
+11782610,2023-10-10,Write and compare only data storage,0,G06F|H04L
+11762731,2023-09-19,Codeword redundancy,0,G06F|H03M
+11757472,2023-09-12,Coarse interleaving,0,G06F|G11B|H03M
+11755510,2023-09-12,Data detection and device optimization,0,G06F|Y02D
+11755078,2023-09-12,Solid-state drive with printed circuit boards coupled by a flexible interconnect,0,G06F|H05K
+11749300,2023-09-05,"Adhesive for processing a microelectronic substrate, and related methods",1,B24B|C08G|C08L|C09J|G11B|H01L
+11748494,2023-09-05,Distributed data security,1,G06F|H04L
+11748308,2023-09-05,Hybrid deduplication in storage systems,0,G06F
+11748277,2023-09-05,Client input/output (I/O) access rate variation compensation,0,G06F
+11748272,2023-09-05,Shared keys for no PCBA cartridges,0,G06F|H04L
+11747569,2023-09-05,Movable optical switching medium,0,B41M|C09D|G02B|G06T
+11743193,2023-08-29,Sliding window protocol for communication among more than two participants,0,H04L|H04W
+11736517,2023-08-22,Data storage device with security module,0,G06F|H04L
+11726921,2023-08-15,Combined page footer for parallel metadata storage,0,G06F
+11726710,2023-08-15,Matrix super parity for data storage,0,G06F|G11B
+11722558,2023-08-08,Server-side resource monitoring in a distributed data storage environment,0,H04L
+11720445,2023-08-08,Customized parameterization of read parameters after a decoding failure for solid state storage devices,0,G06F|G11C|H03M
+11714464,2023-08-01,Adjustable tray assembly for data storage devices,1,G06F|G11B|H01R|H05K
+11711212,2023-07-25,Post-quantum secure key-rotation for storage devices,0,H04L
+11706621,2023-07-18,Device registration to management domain,0,H04L|H04W
+11698975,2023-07-11,Distributed data storage system with backward attestation,0,G06F
+11698754,2023-07-11,Coalescing read commands by location from a host queue,0,G06F|G11C
+11698734,2023-07-11,Collision reduction through just-in-time resource allocation,0,G06F
+11693596,2023-07-04,Pre-emptive storage strategies to reduce host command collisions,0,G06F
+11687338,2023-06-27,Computational storage with pre-programmed slots using dedicated processor core,0,G06F
+11687292,2023-06-27,Data update management in a cloud computing environment,2,G06F
+11687278,2023-06-27,Data storage system with recently freed page reference state,0,G06F
+11687276,2023-06-27,Data streaming for computational storage,0,G06F
+11675540,2023-06-13,In-line data flow for computational storage,0,G06F
+11675533,2023-06-13,One-shot state transition probability encoder and decoder,0,G06F|H03M|H04L
+11671261,2023-06-06,Ledger-based artificial intelligence data storing,0,G06F|G06N|H04L
+11669459,2023-06-06,Multiplying data storage device read throughput,0,G06F
+11650167,2023-05-16,Abnormal surface pattern detection for production line defect remediation,2,G01N|G06T
+11647243,2023-05-09,System and method for using an application on a mobile device to transfer internet media content,0,G06F|H04L|H04M|H04N
+11646059,2023-05-09,Estimating read offset in a drive using machine learning,0,G06N|G11B
+11645409,2023-05-09,Search and access pattern hiding verifiable searchable encryption for distributed settings with malicious servers,0,G06F|H04L
+11645393,2023-05-09,Secure booting in a data storage device with front end bus,0,G06F
+11643647,2023-05-09,Methods of gene assembly and their use in DNA data storage,3,B01L|C12N|C40B|G06F|G11C|G16B
+11640336,2023-05-02,Fast cache with intelligent copyback,0,G06F
+11636041,2023-04-25,Object storage data storage systems and methods,2,G06F
+11635917,2023-04-25,Apparatus and method for sorting disk commands on energy used by the disk commands,0,G06F|Y02D
+11630779,2023-04-18,Hybrid storage device with three-level memory mapping,0,G06F
+11621857,2023-04-04,Fingerprint and provenance for movable storage devices,0,H04L
+11614865,2023-03-28,Controlling SSD performance by the number of active memory dies,0,G06F|Y02D
+11611589,2023-03-21,Data storage system with powered move attack protection,0,H04L
+11610603,2023-03-21,Intelligent region utilization in a data storage device,0,G06F|G11B
+11604731,2023-03-14,Systems and methods for maintaining cache coherency,0,G06F
+11599577,2023-03-07,System and method for content-hashed object storage,0,G06F|G06N
+11595421,2023-02-28,Method and system that determine malicious nodes in a distributed computation network,0,G06F|H04L
+11595369,2023-02-28,Promoting system authentication to the edge of a cloud computing network,1,H04L
+11595058,2023-02-28,Recovering from hard decoding errors by remapping log likelihood ratio values read from NAND memory cells,0,G06F|H03M
+11593636,2023-02-28,Machine learning system utilizing magnetization susceptibility adjustments,1,G01R|G06N|H01F
+11593262,2023-02-28,Garbage collection command scheduling,7,G06F
+11593236,2023-02-28,Preserving data integrity during controller failures,0,G06F
+11593190,2023-02-28,Detecting shingled overwrite errors,0,G06F|G11B
+11592984,2023-02-28,Onboard machine learning for storage device,0,G06F|G06N
+11580413,2023-02-14,Recovering timing information from DNA encoded data,0,G06N|G06V|G16B
+11580042,2023-02-14,Automated and intelligent data channel optimizers with sensitivity assessment,0,G06F|G06N
+11579771,2023-02-14,Data storage layouts,0,G06F
+11575501,2023-02-07,"Preserving aggregation using homomorphic encryption and trusted execution environment, secure against malicious aggregator",0,H04L
+11569995,2023-01-31,Provisional authentication of a new device added to an existing trust group,0,H04L
+11567834,2023-01-31,Data center storage availability architecture using rack-level network fabric,1,G06F
+11561704,2023-01-24,Artificial intelligence (AI) assisted anomaly detection of intrusion in storage systems,0,G06F|G06N
+11550647,2023-01-10,Adaptive fault prediction analysis of computing components,0,G06F
+11550370,2023-01-10,Modular data storage systems,0,G06F|G11B
+11545230,2023-01-03,Manufacturer self-test for solid-state drives,1,G06F|G11C|H03M|H04L
+11540421,2022-12-27,Data storage device (DSD) and cooling system for DSD chassis,0,G06F|G11B|H05K
+11537463,2022-12-27,Data integrity verification optimized at unit level,0,G06F
+11537289,2022-12-27,Intelligent data storage system activity tracking,0,G06F
+11526999,2022-12-13,Object tracking using multi-camera system,0,G06T|G06V
+11526874,2022-12-13,Offline value transfer using asymmetric cryptography,0,G06Q
+11522672,2022-12-06,Fully homomorphic encryption from error canceling set systems,0,H04L
+11520696,2022-12-06,Segregating map data among different die sets in a non-volatile memory,0,G06F|G11C|H01L|Y02D
+11515996,2022-11-29,Enforcing access structures in fully homomorphic encryption,0,H04L
+11514183,2022-11-29,Data storage system with decentralized policy alteration,0,G06F
+11509719,2022-11-22,Blockchain technology in data storage system,1,H04L
+11503381,2022-11-15,Distributed surveillance system with abstracted functional layers,0,G06F|G06V|H04N
+11501533,2022-11-15,Media authentication using distributed ledger,0,G06F|G06V|H04L
+11500547,2022-11-15,Mitigating data errors in a storage device,0,G06F|G11C
+11496287,2022-11-08,Privacy preserving fully homomorphic encryption with circuit verification,1,G06F|H04L
+11494081,2022-11-08,System and method for using telemetry data to change operation of storage middleware client of a data center,0,G06F|H04L
+11493984,2022-11-08,Data storage performance scaling based on external energy,1,G06F|Y02D
+11493499,2022-11-08,Event timing detection for DNA sequencing,0,B82Y|G01N|G06F|G16B
+11481342,2022-10-25,Data storage system data access arbitration,1,G06F
+11467997,2022-10-11,Hot-swappable protocol expander module for storage array,0,G06F|G11B
+11467987,2022-10-11,Computational pipelines for computational storage devices,3,G06F
+11467931,2022-10-11,Method and system for function-specific time-configurable replication of data manipulating functions,0,G06F
+11464129,2022-10-04,Modular edge storage devices with high speed interconnects,0,G06F|G11B|H05K
+11463739,2022-10-04,Parameter based load balancing in a distributed surveillance system,1,H04N
+11455402,2022-09-27,Non-volatile memory with precise write-once protection,1,G06F
+11455250,2022-09-27,Managing unexpected shutdown in a disk drive with multiple actuators and controllers,0,G06F|G11B
+11449643,2022-09-20,Distributed data storage system with offline optimization,2,G06F
+11449431,2022-09-20,Data storage device with rewritable in-place memory,0,G06F
+11449265,2022-09-20,"Secure erasure of a drive array using drive-defined, trusted computing group bands",0,G06F
+11449252,2022-09-20,Method of writing and reading data in an NVM using Lpage identification headers,0,G06F
+11449238,2022-09-20,Low cost data storage system,0,G06F
+11445012,2022-09-13,Proactive load balancer for data storage system,0,G06F|H04L
+11443826,2022-09-13,Storage area retirement in a storage device,0,G06F|G11C
+11442733,2022-09-13,Embedded computation instruction performance profiling,3,G06F
+11442715,2022-09-13,Asynchronous framework,0,G06F
+11437071,2022-09-06,Multi-session concurrent testing for multi-actuator drive,1,G06F|G11B
+11436151,2022-09-06,Semi-sequential drive I/O performance,0,G06F
+11429587,2022-08-30,Multiple duration deduplication entries,3,G06F
+11429315,2022-08-30,Flash queue status polling,0,G06F
+11425164,2022-08-23,Distributed secure edge heterogeneous storage network with byzantine attack resilience,0,G06F|H04L
+11411750,2022-08-09,Personal unclonnable function,0,G06F|G06V|H04L
+11409872,2022-08-09,Confirming a version of firmware loaded to a processor-based device,1,G06F
+11405420,2022-08-02,Distributed secure edge heterogeneous storage network with redundant storage and byzantine attack resilience,0,G06F|H04L
+11405220,2022-08-02,Moving target authentication protocols,0,H04L
+11403218,2022-08-02,Storage controller cache integrity management,0,G06F
+11397623,2022-07-26,Data storage device load sharing,0,G06F
+11394706,2022-07-19,Password-less login,0,G06F|H04L
+11394404,2022-07-19,Parameter estimation with machine learning for flash channel,0,G06N|G11C|H03M
+11392304,2022-07-19,Data storage device with adaptive object storage capabilities,0,G06F
+11381401,2022-07-05,Blockchain transaction forwarding,0,H04L
+11379301,2022-07-05,Fractional redundant array of silicon independent elements,0,G06F
+11379150,2022-07-05,Disk array using multiple actuator drives with logical units coupled to active and passive servers,1,G06F|G11B
+11377736,2022-07-05,"Atomic layer deposition systems, methods, and devices",0,C23C|G11B|H01L
+11374741,2022-06-28,Systems and methods for data provenance assurance,0,G06F|H04L
+11372553,2022-06-28,System and method to increase data center availability using rack-to-rack storage link cable,0,G06F
+11362816,2022-06-14,Layered secret sharing with flexible access structures,0,H04L
+11362681,2022-06-14,One-shot state transition probability encoder and decoder,0,G06F|H03M|H04L
+11361788,2022-06-14,Data path dynamic range optimization,1,G06F|G11B|H03G|H03K|H03L|H03M|H04B|H04L
+11360671,2022-06-14,Region-specific directed offline scan for hard disk drive,1,G06F|G11B
+11356283,2022-06-07,Data storage using an encryption key with a time expiration associated therewith,0,G06F|H04L
+11354398,2022-06-07,Off-cartridge encryption key storage for cartridge-based library,0,G06F|H04L
+11354045,2022-06-07,Storage device system performance management,0,G06F|G11B
+11349840,2022-05-31,Heuristic based authentication protocol for stateless protocol,1,H04L
+11349495,2022-05-31,Recovering from hard decoding errors by remapping log likelihood ratio values read from NAND memory cells,0,G06F|H03M
+11347860,2022-05-31,Randomizing firmware loaded to a processor memory,0,G06F
+11347573,2022-05-31,In-drive bus trace,1,G06F|H04N
+11347403,2022-05-31,Extending the life of a solid state drive by using MLC flash blocks in SLC mode,0,G06F|G11C
+11347394,2022-05-31,Controlling SSD performance by the number of active memory dies,0,G06F|Y02D
+11343544,2022-05-24,Selective use of cameras in a distributed surveillance system,3,H04N
+11341998,2022-05-24,Hardware-based read sample averaging,0,G06F|G11B
+11340979,2022-05-24,Mitigation of solid state memory read failures with a testing procedure,1,G06F|G11C
+11340972,2022-05-24,Error categorization based on bit information,2,G06F|G11B
+11340677,2022-05-24,Data storage device power monitoring,0,G06F|G11B|H02H|H05K
+11336304,2022-05-17,Concurrent recursive-read averaging and iterative inner and outer code decoding,0,G06F|H03M
+11334481,2022-05-17,Staggered garbage collection unit (GCU) allocation across dies,0,G06F|G11C
+11334434,2022-05-17,Multi-level erasure system with cooperative optimization,0,G06F
+11334274,2022-05-17,Offloaded data migration between storage devices,1,G06F
+11327858,2022-05-10,Preserving data integrity during controller failure,0,G06F
+11321023,2022-05-03,Method and apparatus for rapid volume reformatting,0,G06F
+11320385,2022-05-03,Intelligent defect identification system,2,G01N|G06T
+11316673,2022-04-26,Privacy preserving secret sharing from novel combinatorial objects,0,H04L
+11314433,2022-04-26,Remote deduplication of data in a storage system,3,G06F
+11314423,2022-04-26,Sync-mark detection error recovery,0,G06F
+11308239,2022-04-19,Jitter attack protection circuit,0,G06F|H04L
+11308194,2022-04-19,Monitoring device components using distributed ledger,0,G06F|H04L
+11308081,2022-04-19,Private information retrieval using one query to perform multiple retrievals,0,G06F|H04L
+11308041,2022-04-19,Distributed secure edge storage network utilizing redundant heterogeneous storage,0,G06F
+11308040,2022-04-19,Distributed secure edge storage network utilizing cost function to allocate heterogeneous storage,0,G06F
+11307997,2022-04-19,Logical to physical data storage mapping,0,G06F
+11307980,2022-04-19,Distributed data storage system with passthrough operations,0,G06F|H04L
+11307806,2022-04-19,Controlling SSD performance by queue depth,0,G06F
+11307805,2022-04-19,Disk drive controller incorporating task manager for reducing performance spikes,0,G06F
+11307768,2022-04-19,Namespace auto-routing data storage system,0,G06F
+11301376,2022-04-12,Data storage device with wear range optimization,0,G06F
+11301323,2022-04-12,Customized parameterization of read parameters after a decoding failure for solid state storage devices,0,G06F|G11C|H03M
+11296894,2022-04-05,Storage medium including computing capability for authentication,0,G06F|H04L
+11295758,2022-04-05,Trusted listening,1,G06F|G10L|H04L
+11295202,2022-04-05,Storage device with configurable neural networks,0,G06N
+11294593,2022-04-05,Cartridge-external preamplifier for read/write control of media library,0,G06F|G11B
+11294572,2022-04-05,Data storage system with late read buffer assignment after arrival of data in cache,0,G06F
+11288809,2022-03-29,Automated detection of artifacts in scan image,0,G01Q|G06T
+11287985,2022-03-29,Network data storage buffer system,0,G06F
+11287983,2022-03-29,Raid performance by offloading tasks to expanders,0,G06F
+11280905,2022-03-22,Underwater imaging system with multiple connected autonomous underwater vehicles,1,B63G|G01S|H04N
+11275684,2022-03-15,Media read cache,0,G06F
+11269537,2022-03-08,Software containers with security policy enforcement at a data storage device level,2,G06F
+11268311,2022-03-08,Flush mount telescoping straight angle panel-hinge system for container,0,B65D|E05D|E05Y|G06F|H05K
+11256799,2022-02-22,Device lifecycle distributed ledger,2,G06F|G06Q|H04L
+11256621,2022-02-22,Dual controller cache optimization in a deterministic data storage system,0,G06F
+11251975,2022-02-15,Block chain based trusted security infrastructure,10,G06Q|H04L
+11246251,2022-02-08,"Micro-component transfer systems, methods, and devices",0,B25J|H01L|H05K
+11245527,2022-02-08,Secure distribution networks,2,H04L
+11243887,2022-02-08,Cache transfer time mitigation,0,G06F
+11243698,2022-02-08,Initializing stripes in storage array,0,G06F
+11232037,2022-01-25,Using a first-in-first-out (FIFO) wraparound address lookup table (ALT) to manage cached data,0,G06F
+11227834,2022-01-18,Package grounding system,0,G11B|H01L
+11226293,2022-01-18,Structured illumination optical inspection platform for transparent materials,2,G01M|G01N|G06T
+11223447,2022-01-11,Multiple detector data channel and data detection utilizing different cost functions,1,H03M|H04L
+11221985,2022-01-11,Metadata space efficient snapshot operation in page storage,0,G06F
+11221956,2022-01-11,Hybrid storage device with three-level memory mapping,0,G06F
+11221765,2022-01-11,Apparatus and method for executing background operations using rotational position sorting,1,G06F|G06N
+11218396,2022-01-04,Port-to-port network routing using a storage device,0,G06F|H04L|Y02D
+11218159,2022-01-04,Transform domain analytics-based channel design,0,H03M|H04L
+11216345,2022-01-04,Technologies for limiting performance variation in a storage device,0,G06F
+11216215,2022-01-04,Enhancing quality of service of a storage device,0,G06F
+11211939,2021-12-28,Transform domain analytics-based channel design,0,H03M|H04L
+11210406,2021-12-28,Encrypting system level data structures,1,G06F|H04L
+11197393,2021-12-07,Fluid connectors for modular cooling systems,3,F16L|F28F|G06F|H05K
+11194746,2021-12-07,Exchanging drive information,0,G06F|H04L
+11189312,2021-11-30,Adhesive layer for bonding noble metal structure with a dielectric layer,4,C23C|G11B|H01L|Y10T
+11188252,2021-11-30,Data storage system with adaptive cache management,1,G06F
+11183215,2021-11-23,Thin-film crystalline structure with surfaces having selected plane orientations,1,B81C|B82B|B82Y|G11B|H01F|H01L
+11175980,2021-11-16,Mitigation of solid state memory read failures,0,G06F|G11C
+11170815,2021-11-09,Cancelling adjacent track interference,0,G06F|G11B
+11157482,2021-10-26,Data distribution within a failure domain tree,0,G06F
+11157364,2021-10-26,Distributed error correction coding for parallel storage devices,2,G06F|G11B
+11157212,2021-10-26,Virtual controller memory buffer,0,G06F
+11153570,2021-10-19,Determining redundancy in transformed sensor data,0,H04N
+11150836,2021-10-19,Deterministic optimization via performance tracking in a data storage system,2,G06F
+11150410,2021-10-19,Movable optical switching medium,0,B41M|C09D|G02B|G06T
+11147175,2021-10-12,Data storage system enclosure covers,0,G06F|G11B|H05K
+11146594,2021-10-12,Security incident blockchain,2,G06F|H04L
+11144654,2021-10-12,Environment-aware storage drive with expandable security policies,0,G06F|H04L
+11144389,2021-10-12,Non-volatile memory program failure recovery via redundant arrays,0,G06F|G11C
+11138105,2021-10-05,Large range defect allocation system and method,0,G06F|G11B
+11138069,2021-10-05,Providing additional parity for non-standard sized parity data sets,2,G06F|G11C|H03M
+11133831,2021-09-28,Code rate adaptation,0,G06F|H03M
+11133032,2021-09-28,Reader instability detection and recovery,0,G06F|G11B
+11132893,2021-09-28,Multi-sensor edge computing system,0,G01N|G06T|G06V|G08B|H04L|H04N
+11132324,2021-09-28,Data network with container virtualization,0,G06F
+11132244,2021-09-28,Block health checking,2,G06F
+11132140,2021-09-28,Processing map metadata updates to reduce client I/O variability and device time to ready (TTR),3,G06F
+11127606,2021-09-21,Cooling station with integrated isolation valves,0,C23C|H01L
+11120151,2021-09-14,Systems and methods for unlocking self-encrypting data storage devices,7,G06F|H04L
+11119937,2021-09-14,Multiplying data storage device read throughput,0,G06F
+11119862,2021-09-14,Delta information volumes to enable chained replication of data by uploading snapshots of data to cloud,2,G06F
+11119797,2021-09-14,Active drive API,1,G06F
+11119691,2021-09-14,Method and apparatus to perform a function level reset in a memory controller,3,G06F
+11119669,2021-09-14,External indicators for adaptive in-field recalibration,0,G06F
+11113002,2021-09-07,Command overlap checking in a data storage device,1,G06F
+11106390,2021-08-31,Combining in-process reads to reduce die collisions,2,G06F
+11105850,2021-08-31,Secure debug system for electronic devices,2,G01R|G06F
+11100236,2021-08-24,Distributed data security,0,G06F|H04L
+11099618,2021-08-24,Compact portable data storage device,2,G06F|G11B|H05K
+11093153,2021-08-17,Inter-drive data transfer,0,G06F|Y02D
+11093135,2021-08-17,"Drive performance, power, and temperature management",10,G06F|Y02D
+11086717,2021-08-10,Random selection of code words for read voltage calibration,0,G06F|G11C|H03M
+11081135,2021-08-03,Shingled magnetic recording storage system,1,G06F|G11B
+11080129,2021-08-03,Mitigation of solid state memory read failures with peer based thresholds,0,G06F
+11074943,2021-07-27,Methods and devices for alleviating thermal boil off in immersion-cooled electronic devices,1,G06F|G11B
+11074014,2021-07-27,Managing adjacent track interference in a data storage device,0,G06F
+11069383,2021-07-20,Thermal interface materials for immersion cooled data storage devices,1,F25D|G11B|H01L|H05K
+11066661,2021-07-20,Methods of gene assembly and their use in DNA data storage,6,B01L|C12N|C40B|G06F|G11C|G16B
+11061595,2021-07-13,Logical address remapping for direct write,1,G06F
+11055001,2021-07-06,Localized data block destaging,0,G06F
+11042439,2021-06-22,Efficient read and recovery with outer code,6,G06F|H03M
+11042316,2021-06-22,Reordered data deduplication in storage devices,1,G06F
+11042298,2021-06-22,Access schemes for drive-specific read/write parameters,0,G06F|G11B
+11025678,2021-06-01,AXI interconnect module communication network platform,0,G06F|H04L
+11024590,2021-06-01,And placement of de-coupling capacitors for PDN design,0,H01L
+11024396,2021-06-01,Reduction or elimination of a latency penalty associated with adjusting read thresholds for non-volatile memory,2,G06F|G11C
+11023352,2021-06-01,Wear mitigation in a data storage system through data migration,3,G06F|G06N|G11B
+11019754,2021-05-25,Acoustic and vibration mitigation in a data storage system,2,G05B|G06F|H05K|Y02D
+11018842,2021-05-25,Dynamic timing recovery bandwidth modulation for phase offset mitigation,2,G11B|H03L|H04L
+11017864,2021-05-25,Preemptive mitigation of cross-temperature effects in a non-volatile memory (NVM),1,G01K|G06F|G11C
+11017850,2021-05-25,Master set of read voltages for a non-volatile memory (NVM) to mitigate cross-temperature effects,1,G06F|G11C|H03M
+11017128,2021-05-25,Data security using bit transposition during memory accesses,2,G06F|G11C
+11017127,2021-05-25,Storage compute appliance with internal data encryption,8,G06F|G16H|H04L
+11017098,2021-05-25,Collection of uncorrelated entropy during a power down sequence,0,G06F|H04L
+11016919,2021-05-25,Intelligent switching peripheral connector,0,G06F
+11016889,2021-05-25,Storage device with enhanced time to ready performance,5,G06F
+11016880,2021-05-25,Data storage system with read disturb control strategy whereby disturb condition can be predicted,0,G06F|G11C
+11016848,2021-05-25,Distributed data storage system with initialization-less parity,0,G06F
+11016681,2021-05-25,Multi-threshold parameter adaptation,0,G06F|H03M
+11016679,2021-05-25,Balanced die set execution in a data storage system,4,G06F|G11C
+11016665,2021-05-25,Event-based dynamic memory allocation in a data storage device,0,G06F
+11005842,2021-05-11,External storage device that expands a data storage capability of a host device,0,H04L
+11005825,2021-05-11,Sensor nodes and host forming a tiered ecosystem that uses public and private data for duplication,0,G06F|G06N|H04L|H04W
+11005663,2021-05-11,Secure audit scheme in a distributed data storage system,0,G06F|H04L
+11004467,2021-05-11,Data storage device with data writer deactivation responsive to security threats,0,G06F|G11B
+11003580,2021-05-11,Managing overlapping reads and writes in a data cache,3,G06F
+11003394,2021-05-11,Multi-domain data storage system with illegal loop prevention,0,G06F
+10999310,2021-05-04,Endpoint security client embedded in storage drive firmware,0,H04L|H04W
+10997092,2021-05-04,Enabling out-of-band hardware management via an in-band communications channel,1,G06F
+10997068,2021-05-04,Rapid SSD preconditioning,3,G06F|G11C
+10996900,2021-05-04,Multi-cartridge control board with cartridge-external voice coil motor actuator components,2,G06F|G11B
+10990474,2021-04-27,Cost-benefit aware read-amplification in RAID scrubbing,2,G06F
+10990289,2021-04-27,Data storage systems using time-based read ahead,1,G06F
+10984274,2021-04-20,Detecting hidden encoding using optical character recognition,0,G06V|H04L
+10983943,2021-04-20,Data storage system with supplemental processing bus,0,G06F|G11B
+10983911,2021-04-20,Capacity swapping based on compression,0,G06F
+10983876,2021-04-20,Node management of pending and unstable operations,0,G06F
+10979077,2021-04-13,Generating hamming weights for data,0,G06F|G11C|H03M
+10977189,2021-04-13,Reducing forward mapping table size using hashing,2,G06F
+10977131,2021-04-13,Data storage composite layouts for data objects,0,G06F
+10976795,2021-04-13,Centralized power loss management system for data storage devices,2,G06F|H02J
+10970146,2021-04-06,Adaptive fault prediction analysis of computing components,2,G06F
+10963351,2021-03-30,Data storage backup system,0,G06F
+10963188,2021-03-30,Sensor processing system utilizing domain transform to process reduced-size substreams,1,G06F|G06N|G06V
+10963186,2021-03-30,Latent multiplicity detection,0,G06F
+10956068,2021-03-23,Time-stamped data in a data storage device,0,G06F|G11B
+10956064,2021-03-23,Adjusting code rates to mitigate cross-temperature effects in a non-volatile memory (NVM),3,G06F|G11C|H03M
+10955881,2021-03-23,Memory module cooling assembly,4,F28D|G06F|H01L
+10949130,2021-03-16,Virtual solid state storage system with solid state storage error emulation,0,G06F|G11C
+10949110,2021-03-16,Configurable mapping system in a non-volatile memory,1,G06F
+10944424,2021-03-09,Error correction with multiple LLR-LUTS for a single read,3,G06F|G11C|H03M|H04L
+10942937,2021-03-09,Data mining systems,1,G06F
+10942668,2021-03-09,Storage device and verification thereof,0,G06F|G11B|H04L
+10942655,2021-03-09,Mitigating data errors in a storage device,1,G06F|G11C
+10942503,2021-03-09,Mobile data storage device with predicted temperature management via command time delay,2,G05B|G05D|G06F|G11B|Y02D
+10936495,2021-03-02,Separate data registers and cache registers in memory,0,G06F
+10936453,2021-03-02,Data storage systems using elastic spares,0,G06F|H04L
+10936350,2021-03-02,Active drive API,1,G06F
+10936251,2021-03-02,I/O device and computing host interoperation,0,G06F
+10936003,2021-03-02,Phase locking multiple clocks of different frequencies,6,G06F|G11B|H03G|H03K|H03L|H03M|H04B|H04L
+10935603,2021-03-02,Data channel optimization with smart black box algorithms,0,G01R|G06F|G06N
+10931293,2021-02-23,Transform domain analytics-based channel design,0,H03M|H04L
+10929319,2021-02-23,Data storage device with front end bus,0,G06F|G11B
+10929286,2021-02-23,Arbitrated management of a shared non-volatile memory resource,0,G06F|G11C
+10929221,2021-02-23,Multi-tier detection and decoding in flash memories utilizing data from additional pages or wordlines,4,G06F|G11C
+10929025,2021-02-23,Data storage system with I/O determinism latency optimization,2,G06F
+10928601,2021-02-23,Network topology modules,0,G02B|H04B|H04L|H05K
+10923378,2021-02-16,"Micro-component batch transfer systems, methods, and devices",0,H01L|H10H
+10923160,2021-02-16,Testing assembly for sealed hard disk drives,0,G01R|G06F|G11B
+10922420,2021-02-16,Virtualized volume level security,1,G06F|H04L
+10922176,2021-02-16,Recovery of parity based storage systems,0,G06F
+10922014,2021-02-16,Die access order variation,5,G06F
+10915448,2021-02-09,Storage device initiated copy back operation,0,G06F
+10915262,2021-02-09,Hybrid storage device partitions with storage tiers,0,G06F
+10909272,2021-02-02,Storage compute appliance with user authentication and memory allocation capabilities,0,G06F|H04L
+10909051,2021-02-02,NAND flash reset control,1,G06F|G11C

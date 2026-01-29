@@ -1,0 +1,1153 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432141,2025-09-30,Transport of VPN traffic with reduced header information,0,H04L
+12432114,2025-09-30,"Apparatus, system, and method for intelligent power management of underutilized packet forwarding devices",0,H04L
+12425482,2025-09-23,Network service discovery,0,H04L
+12425331,2025-09-23,Avoiding loops by preventing further fast reroute (FRR) after an earlier FRR,0,H04L
+12425302,2025-09-23,Schema repository,0,H04L
+12418480,2025-09-16,Point-to-multipoint transport chain,0,H04L
+12418476,2025-09-16,Distributed broadband network gateway stateful N+1 hot-redundancy,0,H04L
+12411837,2025-09-09,"Devices, systems, and methods for updating remote databases via flooded packet fragments",0,G06F|H04L
+12407624,2025-09-02,Methods and apparatus for efficient use of link aggregation groups,0,H04L|H04Q|Y02D
+12407611,2025-09-02,"Reducing convergence time and/or avoiding split-brain in multi-homed ethernet segment deployments, such as esi-lag deployments",0,H04L
+12401569,2025-08-26,"Network slicing including modeling, distribution, traffic engineering and maintenance",0,H04L
+12395424,2025-08-19,"Apparatus, system, and method for determining traffic load distributions in connection with routes of hierarchical fowarding information bases",0,H04L
+12395008,2025-08-19,"Apparatus, system, and method for extending hold-up times for computing devices with redundant power supply units",0,G06F|H02J
+12388913,2025-08-12,Controller-to-controller interface for multi-layer network abstraction,0,H04L
+12388736,2025-08-12,Rules driven software deployment agent,0,G06F|H04L
+12382368,2025-08-05,Wireless access point proximity zones,0,H04B|H04L|H04W
+12381826,2025-08-05,Network port characterization,0,H04L
+12381825,2025-08-05,User plane load balancing in a disaggregated broadband network gateway architecture,0,H04L
+12381821,2025-08-05,Automatic policy configuration for packet flows,0,H04L
+12379448,2025-08-05,Methods and apparatus for using received signal strength information in a wireless system,0,G01S|G06N|H04B|H04W
+12375496,2025-07-29,Inferring trust in computer networks,0,G06N|H04L
+12375399,2025-07-29,Scalable multi-plane fabric-less connectivity for packet forwarding engine,0,H04L
+12375398,2025-07-29,Bandwidth advertisement for floor reflector (FR) traffic engineering (TE) links,0,H04L
+12375367,2025-07-29,Configuration of EVPN topologies using a user interface,1,H04L
+12375354,2025-07-29,Supporting out-of-band configuration changes in security policy management,0,H04L
+12375349,2025-07-29,Identifying out-of-band configuration changes to validate intent files,0,H04L
+12375276,2025-07-29,Providing quantum key distribution key delivery proof of origin and transit,0,H04L
+12373519,2025-07-29,Programmable model-driven license management and enforcement in a multi-tenant system,0,G06F|G06N
+12373322,2025-07-29,Machine learning for metric collection,0,G06F|G06N|H04L
+12373259,2025-07-29,Dynamically adjusting performance tuning parameters in a network system,0,G06F
+12373012,2025-07-29,Methods and apparatus relating to the supply of power to power over ethernet devices,0,G06F|H04L|Y02D
+12368757,2025-07-22,Intent-based enterprise security using dynamic learning of network segment prefixes,0,H04L
+12368717,2025-07-22,High availability multi-tenant cloud based network access control system,0,H04L
+12368712,2025-07-22,Organization identification of network access server devices into a multi-tenant cloud network access control service,0,H04L
+12368694,2025-07-22,Allocating addresses from pools,0,G06F|H04L
+12368672,2025-07-22,Facilitating elasticity of a network device,0,H04L
+12368662,2025-07-22,Dynamically detecting multihomed network devices and allocating protection group identifiers,0,H04L
+12368649,2025-07-22,User interface for cloud native software-defined network architectures,0,G06F|H04L
+12368648,2025-07-22,Query mechanism for a network management system,0,G06F|H04L
+12368635,2025-07-22,Load balancing and ensuring availability for network subscriber groups,0,H04L
+12368613,2025-07-22,Avoiding traffic flooding for known unicast traffic when an EVPN is inter-connected to a data plane VXLAN in all-active mode,0,H04L
+12368612,2025-07-22,Service-based transport classes for mapping services to tunnels,0,H04L
+12367109,2025-07-22,Making transmission control protocol (TCP) sessions robust in a socket replication environment,0,G06F|H04L
+12367074,2025-07-22,Network management software-as-a-service system for allocating resources (also termed threads) of containers for performance of a job,0,G06F
+12363035,2025-07-15,Opportunistic mesh for software-defined wide area network (SD-WAN),0,H04L
+12363030,2025-07-15,Multi-protocol service chaining among devices of interconnected topology,0,H04L
+12362990,2025-07-15,Diagnostics reporting for wide area network assurance system,0,H04L
+12362987,2025-07-15,Access point health metrics,0,H04L
+12356319,2025-07-08,Access network intelligent controller for multiple types of access networks,0,H04L|H04W
+12355803,2025-07-08,Remediation work score for network trust applications,0,H04L
+12355752,2025-07-08,Enabling a bulk release of multiple logins for a server device,0,H04L|H04W
+12355613,2025-07-08,Application assurance,0,H04L
+12348411,2025-07-01,Peer comparison-based outlier detection for network performance monitoring,0,H04L
+12342167,2025-06-24,Methods and apparatus for performing access and/or forwarding control in wireless networks such as WLANS,0,H04L|H04W
+12341669,2025-06-24,Staged sampling information for network traffic,0,H04L
+12335668,2025-06-17,Probabilistically shaped unamplified optical signaling,0,G06N|H04B|H04J|H04Q
+12333347,2025-06-17,Monitoring and policy control of distributed data and control planes for virtual nodes,0,G06F|H04L
+12323826,2025-06-03,Detection of insufficient RF coverage areas in a wireless network,0,H04L|H04W
+12323519,2025-06-03,Detecting and removing inactive encryption keys during encryption key rollover events,0,H04L
+12323385,2025-06-03,Mapping internet protocol (IP) addresses to IP over ethernet subscriber identifiers,0,H04L
+12323327,2025-06-03,EVPN host routed bridging (HRB) and EVPN cloud native data center,0,H04L
+12323317,2025-06-03,Providing border gateway protocol deterministic path forwarding,0,H04L
+12321386,2025-06-03,Generating XML configuration sub-streams based on an XML configuration stream and a metadata tree associated with the XML configuration stream,0,G06F
+12321213,2025-06-03,Power management of a network device,0,G06F
+12317352,2025-05-27,Local breakout for customer premise equipment in a 5G wireless wireline convergence at an access gateway function,0,H04W
+12316546,2025-05-27,Dynamically programming class of service configurations for network devices,0,H04L
+12316531,2025-05-27,"Apparatus, system, and method for optimizing storage usage in connection with segment identifiers",0,H04L
+12316096,2025-05-27,"Apparatus, system, and method for power-cycling field-replaceable units remotely",0,G06F|H02H
+12308999,2025-05-20,"X-over-Y tunnel signaling and configuration, and use of configured X-over-Y tunnel(s)",0,H04L
+12302133,2025-05-13,Automatic upgrade planning,1,H04B|H04L|H04W
+12301403,2025-05-13,Identifying root cause of failures through detection of network scope failures,0,H04L|H04W
+12294528,2025-05-06,Resource reservation protocol resource notification messages,0,H04L
+12294517,2025-05-06,Remotely updating routing tables,0,H04L
+12294511,2025-05-06,Safely engineering egress traffic changes,0,H04L
+12293307,2025-05-06,Determining dependent causes of a computer system event,0,G06N|H04L|H04W
+12289655,2025-04-29,Determining location based on dynamic path loss exponent (PLE) and intercept (INT) estimation,0,G01S|H04W
+12289406,2025-04-29,Deterministic distribution of rekeying procedures for a scaling virtual private network (VPN),0,H04L
+12289364,2025-04-29,Self-learning service scheduler for smart NICs,0,G06F|G06N|H04L
+12289349,2025-04-29,Network traffic monitoring based on content data,0,H04L
+12289347,2025-04-29,Adjusting a security policy based on system resource utilization,0,H04L
+12289325,2025-04-29,Blocking or allowing a file stream associated with a file based on an initial portion of the file,0,G06F|H04L
+12289249,2025-04-29,Virtual router deployment and configuration,0,H04L|H04W
+12289243,2025-04-29,Network policy application based on session state,0,H04L|H04W
+12289240,2025-04-29,Dynamic service rebalancing in network interface cards having processing units,0,H04L
+12289235,2025-04-29,Distributing service function chain data and service function instance data in a network,0,H04L
+12289234,2025-04-29,Logical fabric overlays,0,H04L
+12289233,2025-04-29,Virtualized cell site routers with layer 2 forwarding,0,H04L
+12289231,2025-04-29,Weighted multicast join load balance,0,H04L
+12289229,2025-04-29,Segment identifiers that support end-to-end segment routing with color extended community and border gateway protocol virtual private network option B,0,H04L
+12289226,2025-04-29,Anomaly detection for network devices using intent-based analytics,0,G06F|G16Y|H04L
+12289224,2025-04-29,Multiple state control interfaces between a control plane and a user plane in a disaggregated broadband network gateway architecture,0,H04L
+12289220,2025-04-29,Logical path down scope analysis,0,H04L
+12289203,2025-04-29,Controlling downlink interface configuration based on uplink interface network and protocol state,0,H04L
+12289198,2025-04-29,Network performance monitoring and fault management based on wide area network link health assessments,0,H04L
+12289194,2025-04-29,Systems and methods for a virtual network assistant,0,H04L
+12289182,2025-04-29,Proactive tunnel configuration computation for on-demand SD-WAN tunnels,0,H04L
+12288741,2025-04-29,Multi-pitch ball grid array,0,H01L|H05K
+12284626,2025-04-22,WiFi location enhancement,0,G01S|H04W
+12284218,2025-04-22,Efficient updating of device-level security configuration based on changes to security intent policy model,0,H04L
+12284117,2025-04-22,Load balancing of assisted replication network devices,0,H04L
+12284095,2025-04-22,Simple network management protocol object history collector management information base to curtail management traffic,0,H04L
+12284094,2025-04-22,Utilizing machine learning models for network traffic categorization,0,G06N|H04L|H04N
+12282409,2025-04-22,Third-party service and application data for quality of service,0,G06F|H04L
+12278912,2025-04-15,Facilitating authentication of routing modules associated with one or more network devices to allow zero touch provisioning,0,G06F|H04L|H04W
+12278749,2025-04-15,Method and system for estimating communication latency,0,H04L
+12273325,2025-04-08,Media access control security (MACsec) enabled links of a link aggregation group (LAG),0,G06F|H04L|Y02D
+12273318,2025-04-08,Broadband network gateway (BNG) as dynamic host configuration protocol (DHCP) server,0,H04L
+12273264,2025-04-08,Maintaining processing core affinity for fragmented packets in network devices,0,H04L
+12273263,2025-04-08,Systems and methods for enabling precision time protocol over a link aggregation group using link aggregation control protocol parameters,0,H04L
+12267300,2025-04-01,Intelligent firewall policy processor,0,G06N|H04L
+12267208,2025-04-01,Cloud native software-defined network architecture,0,G06F|H04L
+12267111,2025-04-01,Power efficient and scalable co-packaged optical devices,0,H04B|H04L
+12265808,2025-04-01,Automated application service deployment across multiple environments,0,G06F
+12261870,2025-03-25,Tracking host threats in a network and enforcing threat policy actions for the host threats,0,G06F|H04L
+12261742,2025-03-25,Storing configuration data changes to perform root cause analysis for errors in a network of managed network devices,0,H04L
+12261741,2025-03-25,Server to support client data models from heterogeneous data sources,0,G06F|H04L
+12259927,2025-03-25,Intent graph model generation using difference information,0,G06F|H04L
+12255812,2025-03-18,Service chaining among devices of interconnected topology,0,H04L
+12255802,2025-03-18,Active assurance for virtualized services,0,H04L|H04W
+12255798,2025-03-18,Synthesizing probe parameters based on historical data,0,H04L
+12255768,2025-03-18,Network graph model and root cause analysis for a network management system,0,H04L
+12250302,2025-03-11,Quantum cryptography in an internet key exchange procedure,0,H04L
+12250147,2025-03-11,Scalable multi-tenant underlay network supporting multi-tenant overlay network,0,G06F|H04L
+12250117,2025-03-11,Intent-driven configuration of a cloud-native router,0,G06F|H04L
+12245130,2025-03-04,Containerized router with a disjoint data plane,1,H04L|H04W
+12244642,2025-03-04,Rerouting network traffic based on detecting offline connection,0,H04L
+12244566,2025-03-04,Self-learning egress traffic controller,0,G06N|H04L
+12244493,2025-03-04,Securing multiprotocol label switching (MPLS) payloads,0,H04L
+12244463,2025-03-04,Adaptive location-based SD-WAN policies,0,H04L
+12238565,2025-02-25,Cloud-based management of hardware compliance data for access point devices,0,H04B|H04L|H04W
+12238069,2025-02-25,Self-correcting service level agreement enforcer,0,G06N|H04L
+12237999,2025-02-25,Logical port administrative states,0,H04L
+12237974,2025-02-25,Dynamic creation of overlay network slices using border gateway protocol flow specifications,0,H04L
+12232013,2025-02-18,Associating sets of data corresponding to a client device,0,H04B|H04L|H04W
+12231920,2025-02-18,Network slices for time sensitive networking,0,H04W
+12231340,2025-02-18,Edge device for telemetry flow data collection,0,H04L
+12231328,2025-02-18,Standby access gateway function signaling for a dynamic host configuration protocol,0,H04L
+12231320,2025-02-18,Adaptable software defined wide area network application-specific probing,0,H04L
+12231290,2025-02-18,Edge controller with network performance parameter support,0,H04L
+12224951,2025-02-11,Dynamic resource reservation protocol resource handling and deadlock avoidance,0,H04L
+12224907,2025-02-11,Translation of a source intent policy model to a target intent policy model,0,H04L
+12218910,2025-02-04,Autotuning a virtual firewall,0,G06F|G06N|H04L
+12218839,2025-02-04,Service function chaining with session-based routing,0,H04L
+12218835,2025-02-04,Bitmask route target in targeted distribution of information using a routing protocol,0,H04L
+12218831,2025-02-04,Containerized routing protocol process for virtual private networks,0,H04L
+12218818,2025-02-04,Multicast liveness detection,0,H04L
+12212667,2025-01-28,Deleting stale or unused keys to guarantee zero packet loss,0,H04L
+12212490,2025-01-28,Resource reservation protocol with traffic engineering path computation across intermediate system—intermediate system flood reflector clusters,0,H04L
+12212478,2025-01-28,Identifying and correlating metrics associated with unhealthy key performance indicators,0,G06N|H04L
+12210861,2025-01-28,Decentralized software upgrade image distribution for network device upgrades,0,G06F|H04L
+12207099,2025-01-21,Network monitoring and troubleshooting using augmented reality,0,G06T|H04B|H04L|H04W
+12206569,2025-01-21,Detecting miswirings in a spine and leaf topology of network devices,0,H04L
+12206566,2025-01-21,Predicting network issues based on historical data,0,H04L
+12200596,2025-01-14,Wireless signal strength-based detection of poor network link performance,0,H04L|H04W
+12200499,2025-01-14,Intelligent radio band reconfiguration for access points of a wireless network,0,H04B|H04W
+12200111,2025-01-14,Automatic generation and update of connectivity association keys for media access control security protocol,0,H04L
+12199813,2025-01-14,Framework for automated application-to-network root cause analysis,1,H04L
+12192241,2025-01-07,Network access control intent-based policy configuration,0,H04L
+12192095,2025-01-07,Maintaining a set of links associated with a link aggregation group to facilitate provisioning or updating of a customer edge device,0,H04L|Y02D
+12192093,2025-01-07,Distributed flooding technique,0,H04L
+12184659,2024-12-31,Creating roles and controlling access within a computer network,0,G06F|H04L
+12184535,2024-12-31,Increasing robustness of connections by offloading keep alive protocol data units,0,H04L
+12184532,2024-12-31,Using anycast as an abstract next hop (ANH) to reduce information related to border gateway protocol (BGP) next hops received by autonomous system border routers (ASBRs) and/or to improve BGP path convergence,0,H04L
+12184522,2024-12-31,Application service level expectation health and performance,0,H04L
+12184493,2024-12-31,Rollback-on-error support for forwarding components of a network device,0,H04L
+12182634,2024-12-31,Device access control for applications of multiple containers,0,G06F
+12177187,2024-12-24,Efficient encryption and decryption of duplicate packets communicated via a virtual private network,0,H04L
+12177186,2024-12-24,Selective transport layer security encryption,0,H04L
+12177134,2024-12-24,Dynamic computation of SR-TE policy for SR-enabled devices connected over non-SR-enabled devices,0,H04L
+12177069,2024-12-24,Network policy generation for continuous deployment,0,G06F|H04L
+12177066,2024-12-24,Configuration for multi-stage network fabrics,0,H04L
+12170935,2024-12-17,Determining orientation of deployed access points,0,H04W
+12170894,2024-12-17,Selective access point key caching,0,H04L|H04W
+12170670,2024-12-17,Use of sentiment analysis to assess trust in a network,1,G06F|G06N|H04L
+12170647,2024-12-17,Internet protocol (IP) version 6 fragmentation and reassembly optimization for port-aware IP translators,0,H04L
+12170645,2024-12-17,Edge device for source identification using source identifier,0,H04L
+12170608,2024-12-17,Link behavior prediction for use in path selection,0,G06N|H04L
+12170600,2024-12-17,Virtual network assistant having proactive analytics and correlation engine using unsupervised ML model,0,G06N|H04L|H04W
+12170593,2024-12-17,Business policy management for self-driving network,0,H04L
+12166799,2024-12-10,Using zones based on entry points and exit points of a network device to apply a security policy to network traffic,0,G06F|H04L
+12166758,2024-12-10,Closed-loop network provisioning based on network access control fingerprinting,0,H04L
+12166749,2024-12-10,Network management system for dial-out communication sessions,0,H04L
+12166672,2024-12-10,"Apparatus, system, and method for instant routing engine switchovers",0,H04L
+12166670,2024-12-10,Session monitoring using metrics of session establishment,0,H04L
+12164905,2024-12-10,Software upgrade deployment in mixed network of in-service software upgrade (ISSU)-capable and ISSU-incapable devices,0,G06F|H04L
+12160811,2024-12-03,Containerized router with virtual networking,0,H04L|H04W
+12160362,2024-12-03,Traceroute for multi-path routing,0,H04L
+12160354,2024-12-03,Methods and apparatus for capturing and/or using packets to facilitate fault detection,0,H04L|H04W
+12159176,2024-12-03,Protecting instances of resources of a container orchestration platform from unintentional deletion,2,G06F
+12155569,2024-11-26,Multi-stage virtual private network service provisioning for containerized routers,3,H04L
+12155553,2024-11-26,Metric-based multi-hop path selection,0,H04L
+12155531,2024-11-26,Self-driven and adaptable multi-vBNG management orchestration,0,H04L|H04W
+12153675,2024-11-26,Memory tracking for malware detection,0,G06F|H04L
+12147826,2024-11-19,Extending a software defined network between public cloud computing architecture and a data center,0,G06F|H04L
+12147315,2024-11-19,Using delta snapshots to facilitate intent policy model rollback and deployment,1,G06F|H04L
+12143385,2024-11-12,Role-based access control policy auto generation,0,G06F|H04L
+12143353,2024-11-12,Dynamically learning media access control and internet protocol addresses,0,G06N|H04L
+12143315,2024-11-12,Power level reduction based on maximum bandwidth requirement,0,H04L
+12143304,2024-11-12,Underlay-overlay correlation,1,G06F|H04L
+12143293,2024-11-12,Fast reroute for BUM traffic in ethernet virtual private networks,0,H04L
+12137400,2024-11-05,Concurrent multichannel processing of bluetooth low energy advertising channels,0,H04W
+12137046,2024-11-05,Optimization of segment routing-enabled multipath network,0,H04L
+12137045,2024-11-05,Metric-based multi-hop path selection,0,H04L
+12137024,2024-11-05,Network management actions based on access point classification,0,H04L|H04W
+12133145,2024-10-29,Physically attachable wireless apparatus,0,H04W
+12132623,2024-10-29,Agent for aggregation of telemetry flow data,0,H04L|Y02D
+12132622,2024-10-29,Enhanced conversation interface for network management,0,G06F|H04L
+12132615,2024-10-29,Model-based service placement,0,G06F|H04L
+12126504,2024-10-22,Measuring metrics of a computer network,0,H04L
+12120093,2024-10-15,Providing subscriber aware network address filtering using an open configuration remote procedure call framework,0,H04L|H04W
+12120022,2024-10-15,Traffic filtering based on destination address and incoming interface of a network device,1,H04L
+12120020,2024-10-15,Delaying resource reservation protocol label-switched path signaling through a restarting network device,0,H04L
+12113832,2024-10-08,Controlling access to microservices within a multi-tenancy framework,0,H04L
+12112177,2024-10-08,Policy driven zero touch provisioning of network devices,1,G06F|G06N|H04L
+12107726,2024-10-01,Network device upgrade based group priority,0,H04L
+12101253,2024-09-24,Container networking interface for multiple types of interfaces,0,G06F|H04L
+12101227,2024-09-24,Network policy validation,0,H04L
+12101204,2024-09-24,Network segmentation for container orchestration platforms,1,G06F|H04L
+12099427,2024-09-24,Machine learning for metric collection,0,G06F|H04L
+12095817,2024-09-17,Intent-based enterprise security using dynamic learning of network segment prefixes,0,H04L
+12095661,2024-09-17,Interspersing network traffic across members of a container label-switched path,0,H04L
+12095614,2024-09-17,Processing unmodified configuration data with a network device application,0,H04L
+12089271,2024-09-10,Utilizing a transport protocol for fifth generation (5G) client devices to carry messages on wireline access,0,H04L|H04W
+12088676,2024-09-10,Integrated broadband network gateway (BNG) device for providing a BNG control plane for one or more distributed BNG user plane devices,0,H04L|H04W
+12088486,2024-09-10,Tunnel processing distribution based on traffic type and learned traffic processing metrics,0,H04L
+12088464,2024-09-10,Reconfiguring an existing data center fabric,0,H04L|Y02D
+12088453,2024-09-10,Network anomaly detection and mitigation,0,G06N|H04L
+12088431,2024-09-10,Establishing a network micro-tunnel within a network tunnel,0,H04L|H04W
+12082296,2024-09-03,Control of roaming in a wireless network using a variable mobility threshold,0,H04W
+12082269,2024-09-03,Wi-Fi management in the presence of high priority receivers,0,H04B|H04W|Y02A
+12081367,2024-09-03,Generating route target values for virtual private network routes,0,H04L
+12081350,2024-09-03,Cooperative power management,0,G06F|H04L|H04M|Y02D
+12081336,2024-09-03,Packet drop monitoring in a virtual router,0,H04L
+12075337,2024-08-27,Radio access network tracking area visualization management and monitoring,0,H04L|H04W
+12074884,2024-08-27,Role-based access control autogeneration in a cloud native software-defined network architecture,0,G06F|H04L
+12074879,2024-08-27,Inferring trust in computer networks,2,G06N|H04L
+12074780,2024-08-27,Active assurance of network slices,0,H04L|H04W
+12069076,2024-08-20,System and method for detecting and classifying malware,0,G06F|G06N|H04L
+12068978,2024-08-20,Methods and apparatus related to a flexible data center security architecture,0,H04L|Y02D
+12068958,2024-08-20,Network service discovery,0,H04L
+12068917,2024-08-20,Configuration of a network using a flex-algorithm routing mechanism,0,H04L
+12063501,2024-08-13,AP-local dynamic switching,0,H04W
+12058535,2024-08-06,"Methods and apparatus for generating, transmitting and/or using beacons",1,H04W
+12058105,2024-08-06,Path prioritization for internet protocol address allocation entity,0,H04L|H04W
+12058022,2024-08-06,Analysis system for software-defined network architectures,0,H04L
+12056000,2024-08-06,Anomaly detection by analyzing logs using machine learning,1,G06F
+12052634,2024-07-30,Multi-wireless device location determination,0,G01S|H04W
+12052223,2024-07-30,Maintaining internet protocol security tunnels,0,H04L
+12052182,2024-07-30,Latency-aware load balancer for topology-shifting software defined networks,0,H04L
+12052181,2024-07-30,Generic layer independent fragmentation of non-internet protocol frames,0,H04L
+12052168,2024-07-30,Route target constraint to filter routes advertised to a node in a seamless MPLS or seamless SR network,0,H04L
+12052163,2024-07-30,Point-to-multipoint Layer-2 network extension over Layer-3 network,0,H04L|Y02D
+12052158,2024-07-30,Concurrent routing for network devices,0,H04L
+12052150,2024-07-30,Monitoring wireless access point events,0,H04L|H04W
+12047863,2024-07-23,Methods and apparatus relating to the use of real and/or virtual beacons,0,H04B|H04W
+12047410,2024-07-23,Systems and methods for avoiding offloading traffic flows associated with malicious data,0,H04L
+12047297,2024-07-23,"Apparatus, system, and method for determining traffic load distributions in connection with routes of hierarchical Forwarding Information Bases",0,H04L
+12047279,2024-07-23,Automatic application-based multipath routing for an SD-WAN service,0,H04L
+12047277,2024-07-23,Point-to-multipoint layer-2 network extension over layer-3 network,0,H04L|Y02D
+12047272,2024-07-23,Utilizing a centralized controller for traffic engineering segment routing inter-autonomous systems,0,H04L
+12047232,2024-07-23,Initializing network device and server configurations in a data center,0,H04L
+12041510,2024-07-16,Location metrics for monitoring or control of wireless networks,0,H04W
+12041162,2024-07-16,Inline security key exchange,0,H04L|H04W
+12041052,2024-07-16,Continuing a media access control security (MACSEC) key agreement (MKA) session upon a network device becoming temporarily unavailable,0,H04L
+12040984,2024-07-16,Proactive and on-demand destination next hop information sharing mechanism between a forwarding plane and a service plane,0,H04L
+12040934,2024-07-16,Conversational assistant for obtaining network information,0,G06F|H04L
+12039355,2024-07-16,Intent-based telemetry collection service with supported telemetry protocol in a virtualized computing infrastructure,0,G06F|H04L
+12035160,2024-07-09,Processing channel state information (CSI) to determine characteristics of a space between wireless access points,0,H04W
+12034793,2024-07-09,Retrieving operational command response text from network devices,0,H04L
+12034652,2024-07-09,Virtual network routers for cloud native software-defined network architectures,0,G06F|H04L
+12034638,2024-07-09,Multi-hop physical layer data collection protocol,0,H04L
+12034635,2024-07-09,Using and processing per slice segment identifiers in a network employing segment routing,0,H04L
+12034588,2024-07-09,Diagnostics reporting for wide area network assurance system,2,H04L
+12032662,2024-07-09,Programmable model-driven license management and enforcement in a multi-tenant system,0,G06F|G06N
+12021740,2024-06-25,Policy enforcement for bare metal servers by top of rack switches,0,H04L
+12021722,2024-06-25,Detecting network events having adverse user impact,1,H04L
+12021693,2024-06-25,Virtualization infrastructure element monitoring and policy control in a cloud environment using profiles,0,H04L
+12021692,2024-06-25,Policy implementation and management,0,G06F|H04L
+12021657,2024-06-25,Fast convergence for MAC mobility,0,H04L
+12010645,2024-06-11,Guided alignment of wireless device orientation,0,G01S|H01Q|H04B|H04W
+12010093,2024-06-11,Allocating addresses from pools,1,G06F|H04L
+12010031,2024-06-11,Methods and apparatus for facilitating fault detection and/or predictive fault detection,0,G06N|H04L|H04W
+12010011,2024-06-11,Fast reroute for ethernet virtual private networks—virtual extensible local area network,0,H04L
+12009988,2024-06-11,Monitoring and policy control of distributed data and control planes for virtual nodes,0,G06F|H04L
+12008382,2024-06-11,Automatic formation of a virtual chassis using zero touch provisioning,0,G06F|H04L
+12007865,2024-06-11,Machine learning for rule evaluation,0,G06F|H04L
+12004045,2024-06-04,Determining location based on dynamic path loss exponent (PLE) and intercept (Int) estimation,0,G01S|H04W
+12003551,2024-06-04,Lawfully intercepting traffic for analysis independent of a protocol associated with the traffic,0,H04L
+12003483,2024-06-04,Smart firewall filtering in a label-based network,0,H04L
+12003481,2024-06-04,Network device interface for supporting centralized address pool management,0,H04L
+12003429,2024-06-04,Dual user space-kernel space datapaths for packet processing operations,0,G06F|H04L
+12003379,2024-06-04,Service and topology exchange protocol having client-driven active-active repositories with high availability,0,H04L
+12003363,2024-06-04,Automatically troubleshooting and remediating network issues via connected neighbors,0,H04L
+11997025,2024-05-28,Selection of member ports in a link aggregation group,0,H04L
+11997014,2024-05-28,Automatic policy configuration for packet flows,0,H04L
+11997011,2024-05-28,Virtual port group,0,H04L
+11994924,2024-05-28,Power supply assembly with input module and power supply unit,0,G06F|H01R|H05K
+11991863,2024-05-21,"Apparatus, system, and method for mitigating deformation of spring-loaded heatsinks",0,G06F|H01L|H05K
+11991142,2024-05-21,Providing cloud-aware security for an application level network device,0,H04L
+11991097,2024-05-21,Hybrid data plane for a containerized router,1,H04L
+11991084,2024-05-21,AI-assisted WAN link selection for SD-WAN services,0,H04L
+11991081,2024-05-21,Micro SID packet processing,0,H04L
+11991077,2024-05-21,Data interfaces with isolation for containers deployed to compute nodes,1,G06F|H04L
+11991046,2024-05-21,Determining an organizational level network topology,0,G06F|H04L|Y02D
+11985169,2024-05-14,Classification of unknown network traffic,0,G06N|H04L
+11985166,2024-05-14,Systems and methods for random connectivity association key negotiation for media access control security,0,H04L
+11985025,2024-05-14,Network system fault resolution via a machine learning model,0,G05B|G06F|G06N|H04L|H04W
+11985023,2024-05-14,Supporting graphQL based queries on yang based configuration data models,1,G06F|H04L
+11979415,2024-05-07,Enforcing threat policy actions based on network addresses of host threats,0,H04L
+11979349,2024-05-07,Mobile network user plane with access network user plane function,1,H04L|H04W
+11979281,2024-05-07,Concurrent transactions on NETCONF devices across network services,0,H04L
+11977006,2024-05-07,Test system for evaluating thermal performance of a heatsink,0,G01K|G01M|G01N|G06F
+11973648,2024-04-30,Automatic deactivation and activation of configuration functionalities of a network device that are incompatible with performance of an in-service software upgrade procedure,1,H04L
+11973645,2024-04-30,Business policy management for self-driving network,1,H04L
+11973640,2024-04-30,Physical layer issue detection based on client-side behavior assessments,0,H04L
+11968251,2024-04-23,Self-learning service scheduler for smart NICs,2,G06F|G06N|H04L
+11968232,2024-04-23,Forwarding network traffic associated with a security classification via a routing path associated with the security classification,0,H04L
+11968183,2024-04-23,Systems and methods for selecting an internet protocol security tunnel during an internet key exchange based on a metric,0,H04L
+11968118,2024-04-23,Planning and managing network probes using centralized controller,0,H04L
+11968075,2024-04-23,Application session-specific network topology generation for troubleshooting the application session,2,H04L
+11968045,2024-04-23,Telemetry data error detection,0,G06F|H04L
+11962507,2024-04-16,Estimating standby socket window size during asynchronous socket replication,1,H04L
+11960943,2024-04-16,Event log management,0,G06F|G06N
+11960382,2024-04-16,Memory leak detection using real-time memory growth pattern analysis,0,G06F
+11960015,2024-04-16,Methods and apparatus for using received signal strength information in a wireless system,0,G01S|G06N|H04B|H04W
+11956328,2024-04-09,Avoiding stuck subscriber sessions on a disaggregated broadband network gateway,1,H04L
+11956141,2024-04-09,Service chaining with physical network functions and virtualized network functions,0,H04L
+11956116,2024-04-09,Programmable diagnosis model for correlation of network events,1,H04L
+11950139,2024-04-02,Application identification and path selection at a wireless access point for local network traffic breakout,0,H04L|H04W
+11949665,2024-04-02,Providing anonymous network data to an artificial intelligence model for processing in near-real time,0,G06N|H04L
+11949590,2024-04-02,Maintaining processing core affinity for fragmented packets in network devices,0,H04L
+11949584,2024-04-02,Utilizing domain segment identifiers for inter-domain shortest path segment routing,0,H04L
+11949568,2024-04-02,Wan link selection for SD-WAN services,0,H04L
+11949560,2024-04-02,Dynamic creation of overlay network slices using border gateway protocol flow specifications,1,H04L
+11949459,2024-04-02,Ternary modulation using inter-operable transmitters and receivers,0,H04B|H04L
+11943117,2024-03-26,Virtualization infrastructure underlay network performance measurement and monitoring,2,G06F|G06T|H04L
+11937395,2024-03-19,"Apparatus, system, and method for supporting field-replaceable units in telecommunications devices via retractable guide rails",0,A47B|G06F|H05K
+11937029,2024-03-19,Probabilistically shaped unamplified optical signaling,0,G06N|H04B|H04J|H04Q
+11936554,2024-03-19,Dynamic network interface card fabric,0,H04L
+11936520,2024-03-19,Edge controller with network performance parameter support,1,H04L
+11929987,2024-03-12,Preserving packet flow information across bump-in-the-wire firewalls,4,G06F|H04L
+11929886,2024-03-12,Model driven intent policy conflict detection and resolution through graph analysis,1,G06F|H04L
+11929545,2024-03-12,Methods and apparatus for implementing an access point supporting multiple communications protocols,0,H01Q|H04B|H04W|H05K
+11927807,2024-03-12,"Systems, methods, and apparatus for optical transceiver with multiple switch state configurations",0,G02B|H04B|H04J|H04L|H04Q
+11927685,2024-03-12,Estimating user risk based on wireless location determination,0,G01S|G08B|G16H|H04W
+11924734,2024-03-05,Wireless signal strength-based detection of poor network link performance,0,H04L|H04W
+11924044,2024-03-05,Organizing execution of distributed operating systems for network devices,0,G06F|H04L
+11923963,2024-03-05,Managing satellite devices within a branch network,0,H04B|H04L|H04W|Y02D
+11923642,2024-03-05,"Apparatus, system, and method for protecting power connectors against high-power arcing",0,G06F|H01R
+11922162,2024-03-05,"Intent-based, network-aware network device software-upgrade scheduling",2,G06F|H04L
+11917554,2024-02-27,Orientation based transmission power,0,H04B|H04W
+11916779,2024-02-27,Peer comparison-based outlier detection for network performance monitoring,0,H04L
+11916746,2024-02-27,Decision tree based dynamic mesh topology,0,G06N|H04L
+11909717,2024-02-20,Duplicate address detection for ranges of global IP addresses,0,H04L
+11909663,2024-02-20,Methods and apparatus for efficient use of link aggregation groups,0,H04L|H04Q|Y02D
+11909650,2024-02-20,Internet protocol operations and management option,0,H04L
+11909635,2024-02-20,Hardware-assisted fast data path switchover for a network device with redundant forwarding components,0,H04L
+11909632,2024-02-20,Distributed label assignment for labeled routing protocol routes,0,H04L
+11909629,2024-02-20,Seamless segment routing for multiprotocol label switching (MPLS) interworking,0,H04L
+11909556,2024-02-20,Resilient multiprotocol label switching (MPLS) rings using segment routing,0,H04L
+11902827,2024-02-13,Determining rate differential weighted fair output queue scheduling for a network device,0,H04L|H04W
+11902404,2024-02-13,Retaining key parameters after a transmission control protocol (TCP) session flap,0,H04L
+11902380,2024-02-13,Liveness detection for an authenticated client session,0,H04L
+11902365,2024-02-13,Regulating enqueueing and dequeuing border gateway protocol (BGP) update messages,0,H04L
+11902330,2024-02-13,Generating a network security policy based on a user identity associated with malicious behavior,5,H04L
+11902303,2024-02-13,System and method for detecting lateral movement and data exfiltration,0,G06F|H04L
+11902256,2024-02-13,Media access control security (MACsec) enabled links of a link aggregation group (LAG),0,G06F|H04L|Y02D
+11902160,2024-02-13,EVPN host routed bridging (HRB) and EVPN cloud native data center,2,H04L
+11902159,2024-02-13,Dynamic internet protocol translation for port-control-protocol communication,0,H04L
+11902157,2024-02-13,High-availability switchover based on traffic metrics,0,H04L
+11902153,2024-02-13,Compressed routing header,0,H04L
+11902148,2024-02-13,Weighted multicast join load balance,2,H04L
+11902146,2024-02-13,Identifying a maximum segment size (MSS) corresponding to a network path,0,H04L
+11902144,2024-02-13,Preserving consistency of redundant border gateway protocol link state topology information,0,H04L
+11902136,2024-02-13,Adaptive flow monitoring,0,H04L
+11902133,2024-02-13,Network performance monitoring using an active measurement protocol and relay mechanism,0,H04L
+11902097,2024-02-13,Adaptive location-based SD-WAN policies,1,H04L
+11902096,2024-02-13,Collection of error packet information for network policy enforcement,0,G06F|H04L
+11902051,2024-02-13,Detecting VLAN misconfiguration,0,G06N|H04L
+11901898,2024-02-13,"Apparatus, system, and method for achieving accurate insertion counts on removable modules",0,G01R|G06F|H01R|H03K
+11900273,2024-02-13,Determining dependent causes of a computer system event,0,G06N|H04L|H04W
+11900096,2024-02-13,Hitless upgrade of a network device,1,G06F|H04L
+11895234,2024-02-06,Delayed quantum key-distribution,0,H04B|H04L
+11895228,2024-02-06,Pausing a media access control security (MACsec) key agreement (MKA) protocol of an MKA session using a fast heartbeat session,0,H04L
+11895193,2024-02-06,Data center resource monitoring with managed message load balancing with reordering consideration,0,G06F|H04L
+11895129,2024-02-06,Detecting and blocking a malicious file early in transit on a network,0,G06F|H04L
+11895116,2024-02-06,"Methods and devices for blocking, detecting, and/or preventing malicious traffic",0,H04L
+11895086,2024-02-06,Dynamic prefix apportionment for address pool management,0,H04L
+11895020,2024-02-06,Virtualized cell site routers with layer 2 forwarding,1,H04L
+11894316,2024-02-06,Containing electromagnetic interference radiation in lidless semiconductor packages,0,H01L
+11888877,2024-01-30,Tracking host threats in a network and enforcing threat policy actions for the host threats,0,G06F|H04L
+11888814,2024-01-30,Managing address spaces across network elements,0,H04L
+11888738,2024-01-30,System and method for determining a data flow path in an overlay network,4,H04L
+11888733,2024-01-30,Label deduction with flexible-algorithm,0,H04L
+11888714,2024-01-30,Policy controller for distributed virtualization infrastructure element monitoring,0,G06F|H04L
+11888695,2024-01-30,Confirmed commit with user specified automatic rollback configuration,0,H04L
+11888680,2024-01-30,Early detection of telemetry data streaming interruptions,0,H04L
+11888679,2024-01-30,Hypothesis driven diagnosis of network systems,1,H04L
+11886304,2024-01-30,Making transmission control protocol (TCP) sessions robust in a socket replication environment,1,G06F|H04L
+11882150,2024-01-23,Dynamic security actions for network tunnels against spoofing,0,H04L
+11882046,2024-01-23,Network port characterization,1,H04L
+11882029,2024-01-23,Securing multiprotocol label switching (MPLS) payloads,0,H04L
+11882006,2024-01-23,User interface for 5G radio access network (RAN) topology,2,G06F|H04L
+11881997,2024-01-23,Determining reorder commands for remote reordering of policy rules,0,H04L
+11881963,2024-01-23,Service-based transport classes for mapping services to tunnels,1,H04L
+11880458,2024-01-23,Malware detection based on user interactions,0,G06F|H04L
+11876800,2024-01-16,Monitoring a media access control security session,0,G06F|H04L
+11876706,2024-01-16,Avoiding loops by preventing further fast reroute (FRR) after an earlier FRR,0,H04L
+11876695,2024-01-16,Path monitoring system (PMS) controller or ingress node based multiprotocal label switching (MPLS) ping and traceroute in inter-autonomous system (AS) segment routing (SR) networks,0,H04L
+11876673,2024-01-16,Storing configuration data changes to perform root cause analysis for errors in a network of managed network devices,0,H04L
+11875175,2024-01-16,Providing physical host hardware state information to virtual machines deployed on the physical host,0,G06F
+11870677,2024-01-09,Liveness detection and route convergence in software-defined networking distributed system,4,H04L
+11870642,2024-01-09,Network policy generation for continuous deployment,5,G06F|H04L
+11870559,2024-01-09,Identifying and correlating metrics associated with unhealthy key performance indicators,0,G06N|H04L
+11863524,2024-01-02,Autotuning a virtual firewall,0,G06F|G06N|H04L
+11863445,2024-01-02,Prefix range to identifier range mapping,0,H04L
+11863426,2024-01-02,Determining a best destination over a best path using multifactor path selection,0,H04L
+11855848,2023-12-26,Model-based service placement,0,G06F|H04L
+11848852,2023-12-19,Using anycast as an abstract next hop (ANH) to reduce information related to border gateway protocl (BGP) next hops received by autonomous system border routers (ASBRs) and/or to improve BGP path convergence,1,H04L
+11843957,2023-12-12,Detection of insufficient RF coverage areas in a wireless network,0,H04L|H04W
+11843542,2023-12-12,Safely engineering egress traffic changes,1,H04L
+11838172,2023-12-05,Identifying root cause of failures through detection of network scope failures,2,H04L|H04W
+11831520,2023-11-28,"Dynamic application SLA metric generation, distribution, and intent-based SD-WAN link selection",1,H04L
+11831519,2023-11-28,Configuration of EVPN topologies using a user interface,1,H04L
+11825534,2023-11-21,Multicast replication in 5G networks,0,H04L|H04W
+11824775,2023-11-21,Inter-network service chaining,0,G06F|H04L
+11824763,2023-11-21,Filtering topologies for path computation in massively scaled networks,0,H04L
+11823079,2023-11-21,Machine learning pipeline for predictions regarding a network,0,G06N|H04L
+11818647,2023-11-14,Containerized router with a generic data plane interface,0,H04L|H04W
+11818051,2023-11-14,Distributed node processing of network traffic,0,H04L
+11818041,2023-11-14,Containerized management of forwarding components in a router using routing engine processor,1,G06F|H04L
+11818032,2023-11-14,Bandwidth constraint for multipath segment routing,0,H04L
+11818029,2023-11-14,Detection of network measurement inaccuracies,0,H04L
+11818009,2023-11-14,Self-driven and adaptable multi-vBNG management orchestration,1,H04L|H04W
+11816051,2023-11-14,Systems and methods for providing a global navigation satellite system capability to a time sensitive network device,1,G04G|G04R|G06F|H04J
+11815987,2023-11-14,Log analysis in vector space,0,G06F|G06N
+11812362,2023-11-07,Containerized router with a disjoint data plane,0,H04L|H04W
+11812275,2023-11-07,Intelligent radio band reconfiguration for access points of a wireless network,1,H04B|H04W
+11811951,2023-11-07,Facilitating authentication of routing modules associated with one or more network devices to allow zero touch provisioning,0,H04L
+11811891,2023-11-07,Real-time detection of completion of sensor wrap completion in GNMI telemetry of a network device,0,G06F|H04L|H04Q
+11811834,2023-11-07,Lawfully intercepting traffic and providing the traffic to a content destination based on content destination availabilities and priorities,0,H04L
+11811830,2023-11-07,Displaying a firewall policy interface,0,G06F|H04L
+11811817,2023-11-07,SSL proxy whitelisting,0,H04L
+11811765,2023-11-07,Maximum device access restriction at authenticator level,0,H04L
+11811728,2023-11-07,Broadband network gateway (BNG) as dynamic host configuration protocol (DHCP) server,1,H04L
+11811721,2023-11-07,Edge device for source identification using source identifier,2,H04L
+11811685,2023-11-07,Selective packet processing including a run-to-completion packet processing data plane,0,H04L
+11811664,2023-11-07,Visualizing network traffic plans based on egress peer engineering,0,H04L
+11811651,2023-11-07,"Apparatus, system, and method for steering traffic over network slices",0,H04L
+11811649,2023-11-07,Automatic discovery of route reflection peering end-points,0,G06F|H04L
+11811641,2023-11-07,Secure network topology,0,H04L
+11811638,2023-11-07,Adaptable software defined wide area network application-specific probing,1,H04L
+11811627,2023-11-07,Network traffic monitoring based on content data,1,H04L
+11811618,2023-11-07,Systems and methods for efficient presentation of device-level information via scalable interactive device-visualization interfaces,0,G06F|H04L
+11811601,2023-11-07,Predictive pipeline analytics for a network management system,0,H04L
+11811595,2023-11-07,Signaling IP path tunnels for traffic engineering,1,H04L
+11811509,2023-11-07,Upstream multicast hop (UMH) extensions for anycast deployments,0,H04L
+11809266,2023-11-07,Failure impact analysis of network events,0,G06F|H04L
+11805013,2023-10-31,Prioritizing policy intent enforcement on network devices,0,G06F|H04L
+11805011,2023-10-31,Bulk discovery of devices behind a network address translation device,0,H04L|H04W|Y02D
+11805010,2023-10-31,Signaling IP path tunnels for traffic engineering,0,H04L
+11799779,2023-10-24,Session-based packet capture,1,H04L
+11799778,2023-10-24,Processing segment routing packets with two policy processing instructions in a segment routing domain,0,H04L
+11799772,2023-10-24,Support for multiple virtual networks over an underlay network topology,2,H04L
+11799762,2023-10-24,Layer-2 network extension over layer-3 network using layer-2 metadata,0,H04L|Y02D
+11799749,2023-10-24,Systems and methods for facilitating traceroute operations across segment routing paths within networks,0,H04L
+11799737,2023-10-24,Topology-based graphical user interface for network management systems,1,H04L
+11799716,2023-10-24,Core isolation for logical tunnels stitching multi-homed EVPN and L2 circuit,0,H04L
+11797408,2023-10-24,Dynamic prediction of system resource requirement of network software in a live network using data driven models,0,G06F|H04L
+11792126,2023-10-17,Configuring service load balancers with specified backend virtual networks,1,G06F|H04L
+11792119,2023-10-17,Multi-protocol service chaining among devices of interconnected topology,1,H04L
+11792111,2023-10-17,Systems and methods for replicating traffic statistics on redundant packet forwarding engine system,0,H04L
+11792071,2023-10-17,Intent-based user authentication for dynamic applications,1,G06F|H04L
+11792069,2023-10-17,Processing instructions to configure a network device,1,H04L
+11791994,2023-10-17,Quantum cryptography in an internet key exchange procedure,0,H04L
+11791981,2023-10-17,Generating cryptographic random data from raw random data,0,H04L
+11784937,2023-10-10,Dropped packet detection and classification for networked devices,0,H04L
+11784925,2023-10-10,Combined input and output queue for packet forwarding in network devices,0,G06F|H04L
+11784917,2023-10-10,Layer-2 network extension over Layer-3 network using encapsulation,0,H04L|Y02D
+11784874,2023-10-10,Bulk discovery of devices behind a network address translation device,0,H04L|Y02D
+11778418,2023-10-03,Aligned multi-wireless device location determination,1,G01S|H04W
+11777915,2023-10-03,Adaptive control of secure sockets layer proxy,0,G06F|H04L
+11777847,2023-10-03,Point-to-multipoint transport chain,1,H04L
+11777802,2023-10-03,Rules driven software deployment agent,1,G06F|H04L
+11777800,2023-10-03,Identifying out-of-band configuration changes to validate intent files,1,H04L
+11770466,2023-09-26,Providing timing information from a network via a virtual network address,0,H04L
+11770331,2023-09-26,Encoding forwarding policy data in multiprotocol label switching (MPLS) labels,1,H04L
+11770314,2023-09-26,Methods and apparatus for capturing and/or using packets to facilitate fault detection,0,H04L|H04W
+11770309,2023-09-26,On-demand probing for quality of experience metrics,1,H04L
+11770290,2023-09-26,Network management actions based on access point classification,2,H04L|H04W
+11765257,2023-09-19,Socket replication between nodes of a network device without operating system kernel modification,0,H04L
+11765238,2023-09-19,Non-translated port oversubscribing for a proxy device,0,H04L
+11765096,2023-09-19,Dynamic bandwidth throttling of a network device component for telecommunications standard compliance,0,G06F|H04L
+11765090,2023-09-19,Network traffic control based on application identifier,0,H04L
+11765077,2023-09-19,Ping and traceroute in inter-autonomous system (AS) segment routing (SR) networks without requiring headend router or path monitoring system (PMS) controller knowledge of topology outside of origin AS,0,H04L
+11765034,2023-09-19,Enforcing policies in cloud domains with different application nomenclatures,0,G06F|H04L
+11765014,2023-09-19,Intent-based distributed alarm service,4,H04L
+11762710,2023-09-19,Multithreaded route processing for routing information display,0,G06F|G09G|H04L
+11758398,2023-09-12,Untethered access point mesh system and method,0,H04W
+11757833,2023-09-12,Network device interface for supporting centralized address pool management,0,H04L
+11757751,2023-09-12,Detection of network measurement inaccuracies,0,H04L
+11757747,2023-09-12,Preventing traffic outages during address resolution protocol (ARP) storms,0,H04L
+11751111,2023-09-05,Wireless terminal roaming,0,H04L|H04W
+11750509,2023-09-05,Preventing unicast traffic loops during access link failures,0,H04L
+11750507,2023-09-05,Assignment of segment identifiers in segment routing,0,H04L
+11750480,2023-09-05,Agent for aggregation of telemetry flow data,1,H04L|Y02D
+11750464,2023-09-05,Global network state management,2,H04L
+11750441,2023-09-05,Propagating node failure errors to TCP sockets,1,H04L
+11743236,2023-08-29,Generating an application-based proxy auto configuration,0,H04L
+11743182,2023-08-29,Container networking interface for multiple types of interfaces,3,G06F|H04L
+11743181,2023-08-29,High-level definition language for configuring internal forwarding paths of network devices,0,G06F|H04L
+11743166,2023-08-29,Provisioning non-colored segment routing label switched paths via segment routing policies in border gateway protocol,0,H04L
+11743151,2023-08-29,Virtual network assistant having proactive analytics and correlation engine using unsupervised ML model,9,G06N|H04L|H04W
+11743114,2023-08-29,Bidirectional forwarding detection control packet to indicate maintenance mode operation,0,H04L
+11736410,2023-08-22,Synchronizing device resources for element management systems,1,H04L
+11736399,2023-08-22,Packet fragment forwarding without reassembly,0,H04L
+11736396,2023-08-22,Scalable multi-tenant underlay network supporting multi-tenant overlay network,1,G06F|H04L
+11736385,2023-08-22,Distributed flooding technique,0,H04L
+11729707,2023-08-15,Methods and apparatus for spectral scanning within a network,0,H04W
+11729101,2023-08-15,Load balancing over a plurality of packet forwarding components,0,H04L
+11729075,2023-08-15,Time series data collection for a network management system,0,H04L
+11729025,2023-08-15,Establishing a network micro-tunnel within a network tunnel,0,H04L|H04W
+11722408,2023-08-08,Service chaining among devices of interconnected topology,1,H04L
+11722395,2023-08-08,Inter-autonomous system trace route message,0,H04L
+11722391,2023-08-08,Dynamic prediction and management of application service level agreements,0,H04L
+11716309,2023-08-01,Allocating external IP addresses from isolated pools,3,G06F|H04L
+11716276,2023-08-01,Detecting miswirings in a spine and leaf topology of network devices,0,H04L
+11716263,2023-08-01,Network traffic monitoring or storage using a signed uniform resource locator,0,H04L|H04W
+11714904,2023-08-01,Behavioral detection of malicious scripts,0,G06F|H04L
+11711367,2023-07-25,Continuing a media access control security (MACsec) key agreement (MKA) session upon a network device becoming temporarily unavailable,0,H04L
+11711319,2023-07-25,Methods and apparatus for flow control associated with a switch fabric,0,H04L
+11711290,2023-07-25,Enabling selection of a bypass path from available paths in an open shortest path first (OSPF) domain and an intermediate system to intermediate system (ISIS) domain,0,H04L
+11711279,2023-07-25,Application records using session information,0,H04L
+11711266,2023-07-25,Deploying a network management controller in an existing data center fabric,1,H04L|Y02D
+11711262,2023-07-25,Server to support client data models from heterogeneous data sources,0,G06F|H04L
+11706216,2023-07-18,Application-based network security,0,H04L
+11706196,2023-07-18,Anti-spoofing techniques for overlay networks,0,G06F|H04L
+11706193,2023-07-18,"Intelligent flow state synchronization to improve resiliency, availability, and/or performance of redundant network security devices",0,G06F|H04L
+11706185,2023-07-18,Address resolution protocol (ARP) response to ARP requests,0,H04L
+11706138,2023-07-18,Distributing service function chain data and service function instance data in a network,0,H04L
+11706121,2023-07-18,Segment identifiers that support end-to-end segment routing with color extended community and border gateway protocol virtual private network option b,1,H04L
+11706099,2023-07-18,Monitoring and policy control of distributed data and control planes for virtual nodes,5,G06F|H04L
+11706085,2023-07-18,Configuration for multi-stage network fabrics,1,H04L
+11700237,2023-07-11,Intent-based policy generation for virtual networks,1,H04L
+11700236,2023-07-11,Packet steering to a host-based firewall in virtualized environments,0,G06F|H04L
+11700181,2023-07-11,Topology compiler for network management system,0,H04L
+11696092,2023-07-04,Multi-wireless device location determination,0,G01S|H04W
+11695688,2023-07-04,Computing segment identifier lists for multipaths in a segment routing-enabled network,0,H04L
+11695631,2023-07-04,Generating candidate links and candidate paths before selecting links for an optimized optical network plan,0,H04L
+11693656,2023-07-04,Automatic scaling of microservices applications,0,G06F
+11689463,2023-06-27,Reduced traversal for consistent hashing for packet flow load balancing,0,H04L
+11689431,2023-06-27,SLA packet steering in network service function chaining,0,H04L
+11689419,2023-06-27,Supporting concurrency for graph-based high level configuration models,0,H04L
+11689418,2023-06-27,Sharing configuration resources for network devices among applications,0,H04L
+11689289,2023-06-27,Power efficient and scalable co-packaged optical devices,1,H04B|H04L
+11683331,2023-06-20,Trust scoring of network entities in networks,4,G06F|H04L
+11678389,2023-06-13,Utilizing a transport protocol for fifth generation (5G) client devices to carry messages on wireline access,1,H04L|H04W
+11677659,2023-06-13,Optimization of segment routing-enabled multipath network,1,H04L
+11677644,2023-06-13,Dynamically modifying a service chain based on network traffic information,0,H04L
+11677612,2023-06-13,Systems and methods for a virtual network assistant,1,H04L
+11677586,2023-06-13,Fast convergence for MAC mobility,0,H04L
+11677486,2023-06-13,Transporting client timing information across a network,1,H04J|H04L
+11671376,2023-06-06,Methods and apparatus for facilitating fault detection and/or predictive fault detection,2,G06N|H04L|H04W
+11671367,2023-06-06,Methods and apparatus for improving load balancing in overlay networks,1,H04L
+11671366,2023-06-06,"Apparatus, system, and method for optimizing forwarding information bases on network devices",0,H04L
+11671351,2023-06-06,Maintaining a set of links associated with a link aggregation group to facilitate provisioning or updating of a customer edge device,1,H04L|Y02D
+11671339,2023-06-06,"Apparatus, system, and method for improving the efficiency of link-failure detection",0,H04L
+11671322,2023-06-06,Configuration of a network using a flex-algorithm routing mechanism,0,H04L
+11671309,2023-06-06,Asynchronous socket replication between nodes of a network,0,H04L
+11665088,2023-05-30,Assisted replication in software defined network,1,H04L
+11665053,2023-05-30,Initializing network device and server configurations in a data center,0,H04L
+11665050,2023-05-30,Model driven configuration management for microservices,0,H04L
+11664660,2023-05-30,"Apparatus, system, and method for selectively balancing power drawn from multiple power plants via redundant power architectures",0,G06F|H02J|H03K
+11658933,2023-05-23,Dynamically learning media access control and internet protocol addresses,1,G06N|H04L
+11658918,2023-05-23,Latency-aware load balancer for topology-shifting software defined networks,4,H04L
+11658902,2023-05-23,Session monitoring using metrics of session establishment,1,H04L
+11658895,2023-05-23,Synthesizing probe parameters based on historical data,0,H04L
+11658884,2023-05-23,Method for spatio-temporal monitoring,0,H04B|H04L|H04W
+11658874,2023-05-23,Assessment of operational states of a computing environment,7,H04L
+11658872,2023-05-23,Business policy management for self-driving network,2,H04L
+11652727,2023-05-16,Service chaining with physical network functions and virtualized network functions,0,H04L
+11652704,2023-05-16,Model driven intent policy conflict detection and resolution through graph analysis,0,G06F|H04L
+11652035,2023-05-16,Multi-pitch ball grid array,0,H01L|H05K
+11646941,2023-05-09,Multi-cluster configuration controller for software defined networks,0,H04L
+11640291,2023-05-02,"Intent-based, network-aware network device software-upgrade scheduling",1,G06F|H04L
+11637788,2023-04-25,Utilizing a model to manage resources of a network device and to prevent network device oversubscription by endpoint devices,0,H04L
+11637769,2023-04-25,Automatic application-based multipath routing for an SD-WAN service,0,H04L
+11637753,2023-04-25,Adaptive location-based SD-WAN policies,8,H04L
+11632389,2023-04-18,Content-based optimization and pre-fetching mechanism for security analysis on a network device,3,G06F|H04L
+11632364,2023-04-18,Dynamic provisioning of user groups within computer networks based on user attributes,0,G06F|H04L
+11632325,2023-04-18,Utilizing domain segment identifiers for inter-domain shortest path segment routing,0,H04L
+11632268,2023-04-18,Generating route target values for virtual private network routes,5,H04L
+11632243,2023-04-18,Multi-key exchange,0,H04L
+11632176,2023-04-18,Automatic negotiation of optical transceiver configuration parameters,1,H04B|H04L
+11627461,2023-04-11,AP-local dynamic switching,0,H04W
+11627093,2023-04-11,Generic layer independent fragmentation of non-internet protocol frames,1,H04L
+11627068,2023-04-11,Utilizing a centralized controller for traffic engineering segment routing inter-autonomous systems,1,H04L
+11627040,2023-04-11,Processing unmodified configuration data with a network device application,1,H04L
+11626981,2023-04-11,Facilitating hitless security key rollover using data plane feedback,0,H04L
+11621914,2023-04-04,Maintaining processing core affinity for fragmented packets in network devices,2,H04L
+11621910,2023-04-04,Concurrent routing for network devices,0,H04L
+11621907,2023-04-04,Enhanced two-way active measurement protocol,0,H04L
+11617030,2023-03-28,Methods and apparatus for consistency check in disaggregated dense wavelength-division multiplexing (DWDM) systems,0,H04B|H04J|H04L|H04Q|Y02D
+11616726,2023-03-28,End-to-end flow monitoring in a computer network,0,H04L
+11616703,2023-03-28,Scalable visualization of health data for network devices,0,G06F|H04L
+11616603,2023-03-28,Telemetry data error detection,0,G06F|H04L
+11614972,2023-03-28,Distributed processing of network device tasks,0,G06F
+11611852,2023-03-21,Physically attachable wireless apparatus,0,H04W
+11611506,2023-03-21,Processing a flow at the egress node in segment routing,0,H04L
+11611504,2023-03-21,Planning and managing network probes using centralized controller,2,H04L
+11611474,2023-03-21,Edge controller with network performance parameter support,1,H04L
+11606719,2023-03-14,Application identification and path selection at a wireless access point for local network traffic breakout,0,H04L|H04W
+11606390,2023-03-14,Rerouting network traffic based on detecting offline connection,6,H04L
+11606332,2023-03-14,Duplicate address detection for ranges of global IP addresses,0,H04L
+11606273,2023-03-14,Monitoring server performance using server processing time,1,H04L
+11606269,2023-03-14,Service placement assistance,1,G06F|H04L
+11605602,2023-03-14,"Apparatus, system, and method for increased current distribution on high-density circuit boards",1,H01F|H01L|H05K|H10D
+11601295,2023-03-07,Content delivery with reliable multicast using a redundant unicast overlay network,2,H04L
+11595393,2023-02-28,Role-based access control policy auto generation,2,G06F|H04L
+11595273,2023-02-28,Measuring metrics of a computer network,1,H04L
+11595146,2023-02-28,"Apparatus, systems, and methods for optical channel management",0,H04B|H04J|H04L|H04Q
+11588708,2023-02-21,Inter-application workload network traffic monitoring and visuailization,1,G06F|H04L
+11582710,2023-02-14,Guided alignment of wireless device orientation,2,G01S|H01Q|H04B|H04W
+11582115,2023-02-14,Dynamic intent assurance and programmability in computer networks,0,G06F|H04L
+11582099,2023-02-14,Predictive pipeline analytics for a network management system,1,H04L
+11582054,2023-02-14,Multicast source discovery protocol (MSDP) loop avoidance,0,H04L|H04W
+11581626,2023-02-14,Methods and apparatus for implementing an access point supporting multiple communications protocols,1,H01Q|H04B|H04W|H05K
+11576144,2023-02-07,Wireless signals for location determination,0,H04B|H04W
+11575662,2023-02-07,Transmitting and storing different types of encrypted information using TCP urgent mechanism,0,H04L
+11575653,2023-02-07,Efficient encryption and decryption of duplicate packets communicated via a virtual private network,0,H04L
+11575649,2023-02-07,Supporting dynamic host configuration protocol-based customer premises equipment in fifth generation wireline and wireless convergence,0,H04L|H04W
+11575581,2023-02-07,Utilizing constraints to determine optimized network plans and to implement an optimized network plan,0,H04L
+11575572,2023-02-07,Network controller horizontal scaling for network device configuration sessions management,3,H04L
+11575562,2023-02-07,Method for conveying AP error codes over BLE advertisements,0,H04L|H04W
+11575541,2023-02-07,Mapping of virtual routing and forwarding (VRF) instances using ethernet virtual private network (EVPN) instances,7,H04L
+11570283,2023-01-31,IPv6 extension header for stateless handling of fragments in IPv6,1,H04L
+11570266,2023-01-31,Real-time detection of completion of sensor wrap completion in GNMI telemetry of a network device,0,G06F|H04L|H04Q
+11570260,2023-01-31,Data collection configuration file generation,0,G06F|H04L
+11570207,2023-01-31,Dynamic security actions for network tunnels against spoofing,0,H04L
+11570162,2023-01-31,Preventing packet loss during timer-based encryption key rollover,1,H04L
+11570116,2023-01-31,Estimating standby socket window size during asynchronous socket replication,2,H04L
+11570094,2023-01-31,Scaling border gateway protocol services,0,H04L
+11570086,2023-01-31,Fast reroute for BUM traffic in ethernet virtual private networks,0,H04L
+11570080,2023-01-31,Multiple state control interfaces between a control plane and a user plane in a disaggregated broadband network gateway architecture,1,H04L
+11570073,2023-01-31,Service status notification,2,H04L|Y02D
+11570038,2023-01-31,Network system fault resolution via a machine learning model,6,G05B|G06F|G06N|H04L|H04W
+11569986,2023-01-31,Decryption of secure sockets layer sessions having enabled perfect forward secrecy using a Diffie-Hellman key exchange,0,H04L
+11564147,2023-01-24,Methods and apparatus relating to the use of real and/or virtual beacons,1,H04B|H04W
+11563715,2023-01-24,Pattern matching by a network device for domain names with wildcard characters,0,G06F|H04L
+11563671,2023-01-24,Routing engine switchover based on health determined by support vector machine,0,G06F|G06N|H04L
+11563601,2023-01-24,Proactive tunnel configuration computation for on-demand SD-WAN tunnels,9,H04L
+11562066,2023-01-24,Memory tracking for malware detection,0,G06F
+11562062,2023-01-24,Supporting multiple authentication methods on a port of a network device at the same time,0,G06F|H04L
+11561823,2023-01-24,Lockless management of immutable objects by multi-threaded processes using multiple counters,1,G06F
+11558775,2023-01-17,Determining rate differential weighted fair output queue scheduling for a network device,0,H04L|H04W
+11558465,2023-01-17,"Apparatus, system, and method for wirelessly accessing management interfaces of routers",0,H04L|H04W
+11558382,2023-01-17,Bulk delivery of change of authorization data via AAA protocols,0,H04L|H04W
+11558293,2023-01-17,Network controller subclusters for distributed compute deployments,0,H04L
+11558286,2023-01-17,Wireless control and fabric links for high-availability cluster nodes,0,H04L|H04W
+11552883,2023-01-10,Session establishment using path change,0,H04L
+11546253,2023-01-03,Fast reroute for ethernet virtual private networks—virtual extensible local area network,2,H04L
+11546249,2023-01-03,Layer-2 network extension over layer-3 network using layer-2 metadata,1,H04L|Y02D
+11546246,2023-01-03,Minimizing or reducing traffic loss when an external border gateway protocol (eBGP) peer goes down,0,H04L
+11546244,2023-01-03,Namespace-aware test agents for network performance measurement,1,H04L
+11539668,2022-12-27,Selective transport layer security encryption,1,H04L
+11539631,2022-12-27,Network traffic monitoring based on geolocation information,0,G06F|H04L|H04W
+11539619,2022-12-27,"Local-bias forwarding of L2 multicast, unknown unicast, and broadcast traffic for an ethernet VPN",0,H04L
+11539513,2022-12-27,Pausing a media access control security (MACsec) key agreement (MKA) protocol of an MKA session using a fast heartbeat session,3,H04L
+11537406,2022-12-27,Automatic formation of a virtual chassis using zero touch provisioning,1,G06F|H04L
+11533382,2022-12-20,Providing user subscription nomadicity in wireline broadband networks,0,H04L
+11533242,2022-12-20,Systems and methods for efficient delivery and presentation of network information,5,G06F|H04L
+11533215,2022-12-20,Programmable diagnosis model for correlation of network events,1,H04L
+11531165,2022-12-20,"Systems, methods, and apparatus for optical transceiver with multiple switch state configurations",3,G02B|H04B|H04J|H04L|H04Q
+11528213,2022-12-13,Sharing routes using an in-memory data store in a distributed network system,15,H04L
+11528190,2022-12-13,Configuration data migration for distributed micro service-based network applications,3,G06F|H04L
+11528122,2022-12-13,"Apparatus, system, and method for synchronizing slave clocks with optimal master clocks in partial timing networks",0,H04J|H04L
+11526426,2022-12-13,Memory leak detection using real-time memory growth pattern analysis,1,G06F
+11522834,2022-12-06,Autotuning a virtual firewall,1,G06F|G06N|H04L
+11522795,2022-12-06,End to end application identification and analytics of tunnel encapsulated traffic in the underlay,1,H04L
+11522794,2022-12-06,Time-to-live (TTL) handing for segment routing ping/traceroute,0,H04L
+11522727,2022-12-06,Cooperative power management,0,G06F|H04L|H04M|Y02D
+11522616,2022-12-06,Methods and apparatus for optical communications via pulse amplitude modulation (PAM) in dense wavelength-division multiplexing (DWDM) systems,0,H03M|H04B|H04J|H04L
+11516321,2022-11-29,Providing timing information from a network via a virtual network address,0,H04L
+11516254,2022-11-29,Controlling access to microservices within a multi-tenancy framework,4,H04L
+11516220,2022-11-29,Creating roles and controlling access within a computer network,5,G06F|H04L
+11516179,2022-11-29,Automatic recovery from duplicate network addresses,0,H04L
+11516136,2022-11-29,Distributed node processing of network traffic,0,H04L
+11516115,2022-11-29,Weighted multicast join load balance,1,H04L
+11516114,2022-11-29,Bandwidth constraint for multipath segment routing,1,H04L
+11516067,2022-11-29,Collecting metric information by sensors based on device characteristic information,2,H04L
+11514492,2022-11-29,Network router having service card,2,G06F|G06Q|H04L
+11509590,2022-11-22,Determining network device statistics associated with fast counters and slow counters,0,H04L
+11509534,2022-11-22,Collection of error packet information for network policy enforcement,0,G06F|H04L
+11503002,2022-11-15,Providing anonymous network data to an artificial intelligence model for processing in near-real time,0,G06N|H04L
+11502955,2022-11-15,Dynamic internet protocol translation using port-control-protocol communication,0,H04L
+11502954,2022-11-15,Processing segment routing packets with two policy processing instructions in a segment routing domain,0,H04L
+11502946,2022-11-15,Distributed label assignment for labeled routing protocol routes,1,H04L
+11502945,2022-11-15,High-availability networking as a service via Wi-Fi,0,H04L|H04W
+11502939,2022-11-15,Seamless segment routing for multiprotocol label switching (MPLS) interworking,0,H04L
+11501190,2022-11-15,Machine learning pipeline for predictions regarding a network,5,G06N|H04L
+11496559,2022-11-08,Regulating enqueueing and dequeuing border gateway protocol (BGP) update messages,2,H04L
+11496504,2022-11-08,SSL proxy whitelisting,0,H04L
+11496398,2022-11-08,Switch fabric packet flow reordering,0,H04L
+11496391,2022-11-08,"Defining non-forwarding adjacencies in bipartite networks, such as Clos networks, having a level 2 backbone and level 1 nodes",3,H04L
+11496389,2022-11-08,Utilizing egress peer engineering to determine optimized traffic plans and to implement an optimized traffic plan,0,H04L
+11496373,2022-11-08,Enhanced conversation interface for network management,4,G06F|H04L
+11496363,2022-11-08,Correlation of virtual network traffic across bare metal servers,0,G06F|H04L
+11496329,2022-11-08,EVPN multicast ingress forwarder election using source-active route,1,H04L
+11496235,2022-11-08,Symmetric path/link over LAG interface using LLDP for time synchronization between two nodes using PTP,0,H04J|H04L|Y02D
+11494255,2022-11-08,Adaptive log data level in a computing system,6,G06F|G06N|H04L
+11489767,2022-11-01,Interspersing network traffic across members of a container label-switched path,1,H04L
+11489724,2022-11-01,Processing instructions to configure a network device,2,H04L
+11489712,2022-11-01,Systems and methods for efficient configuration file management and distribution by network management systems,0,H04L
+11489528,2022-11-01,"Apparatus, system, and method for achieving accurate insertion counts on removable modules",1,G01R|G06F|H01R|H03K
+11483242,2022-10-25,Seamless end-to-end segment routing across metropolitan area networks,0,H04L
+11483229,2022-10-25,Detection of network measurement inaccuracies,1,H04L
+11477288,2022-10-18,High availability for streaming telemetry,3,H04L
+11477233,2022-10-18,Deploying secure neighbor discovery in EVPN,0,H04L
+11477119,2022-10-18,Micro SID packet processing,3,H04L
+11477117,2022-10-18,High-availability switchover based on traffic metrics,3,H04L
+11477115,2022-10-18,Layer-2 network extension over layer-3 network using encapsulation,2,H04L|Y02D
+11470656,2022-10-11,Wi-Fi management in the presence of high priority receivers,1,H04B|H04W|Y02A
+11469998,2022-10-11,Data center tenant network isolation using logical router interconnects for virtual network route leaking,9,H04L
+11469993,2022-10-11,Controlling paths in a network via a centralized controller or network devices,0,H04L
+11469958,2022-10-11,Network controller deployment,3,H04L
+11463358,2022-10-04,Translation between a first version of internet protocol and a second version of internet protocol when an application layer gateway (ALG) is involved,0,H04L
+11457043,2022-09-27,Enforcing micro-segmentation policies for physical and virtual application components in data centers,0,H04L
+11456955,2022-09-27,Tenant-based mapping for virtual routing and forwarding,0,H04L
+11451585,2022-09-20,Anti-spoof check of IPv4-in-IPv6 fragments without reassembly,1,H04L
+11451491,2022-09-20,Methods and apparatus related to virtualization of data center resources,1,H04L
+11451478,2022-09-20,"Distributed tactical traffic engineering (TE) using loop free alternative (LFA), remote-LFA (R-LFA) and/or topology independent-LFA (TI-LFA) secondary paths",3,H04L
+11451454,2022-09-20,Virtualization infrastructure underlay network performance measurement and monitoring,1,G06F|G06T|H04L
+11451450,2022-09-20,Scalable control plane for telemetry data collection within a distributed computing system,4,G06F|H04L
+11451449,2022-09-20,Configuration of EVPN topologies using a user interface,3,H04L
+11451440,2022-09-20,Sharing configuration resources for network devices among applications,0,H04L
+11445525,2022-09-13,Network data traffic buffering in mobile networks,0,H04L|H04W|Y02D
+11444855,2022-09-13,System and method for determining a data flow path in an overlay network,5,G06F|H04L
+11444836,2022-09-13,Multiple clusters managed by software-defined network (SDN) controller,1,G06F|H04L
+11444833,2022-09-13,Business policy management for self-driving network,3,H04L
+11444793,2022-09-13,Maximally redundant trees to redundant multicast source nodes for multicast protection,0,H04L|H04W
+11438259,2022-09-06,Flexible algorithm aware border gateway protocol (BGP) prefix segment routing identifiers (SIDs),0,H04L
+11431567,2022-08-30,Deploying a network management controller in an existing data center fabric,3,H04L|Y02D
+11425221,2022-08-23,Runtime extensible application programming interface server,0,H04L
+11425086,2022-08-23,Using DNS to communicate MC-TCP capability of server devices,0,H04L
+11425056,2022-08-23,Dynamic computation of SR-TE policy for SR-enabled devices connected over non-SR-enabled devices,4,H04L
+11425034,2022-08-23,Determining shielded backup paths,7,H04L
+11425022,2022-08-23,Service-based tunnel selection scheme for mapping services to tunnels,7,H04L
+11418546,2022-08-16,Scalable port range management for security policies,0,H04L
+11418441,2022-08-16,High-level definition language for configuring internal forwarding paths of network devices,0,G06F|H04L
+11418428,2022-08-16,Recomputation of multipaths in a segment routing-enabled network,0,H04L
+11416294,2022-08-16,Task processing for management of data center resources,6,G06F
+11412071,2022-08-09,Compressed routing header information for networks,0,H04L
+11412007,2022-08-09,Lawfully intercepting traffic and providing the traffic to a content destination based on chained traffic tapping,0,G06F|H04L
+11412006,2022-08-09,Lawfully intercepting traffic and providing the traffic to a content destination based on content destination availabilities and priorities,1,H04L
+11412005,2022-08-09,Lawfully intercepting traffic for analysis based on an application identifier or a uniform resource locator (URL) associated with the traffic,0,H04L
+11411882,2022-08-09,Generating automatic bandwidth adjustment policies per label-switched path,0,H04L
+11411875,2022-08-09,Network traffic control based on application identifier,0,H04L
+11411873,2022-08-09,Proactive and on-demand destination next hop information sharing mechanism between a forwarding plane and a service plane,1,H04L
+11411866,2022-08-09,Supporting multiple segment routing traffic engineering algorithms,0,H04L
+11411854,2022-08-09,Utilizing segment routing data and network data to determine optimized network plans and to implement an optimized network plan,0,H04L
+11411829,2022-08-09,Provisioning managed network nodes and/or managing network nodes,1,H04L
+11411732,2022-08-09,Prime number generation for encryption,0,G06F|H04L
+11411666,2022-08-09,Clock fault detection and correction between synchronized network devices,0,H04J|H04L
+11410920,2022-08-09,"Apparatus, system, and method for utilizing package stiffeners to attach cable assemblies to integrated circuits",0,H01L|H01R
+11409867,2022-08-09,Behavioral detection of malicious scripts,0,G06F|H04L
+11409522,2022-08-09,Automatic scaling of microservices applications,0,G06F
+11405424,2022-08-02,Displaying a firewall policy interface,2,G06F|H04L
+11405422,2022-08-02,Transmitting multiple copies of an encrypted packet via multiple tunnels between a transmitting network device and a receiving network device,0,H04L
+11405334,2022-08-02,Selection of member ports in a link aggregation group,0,H04L
+11405315,2022-08-02,Multi-hop physical layer data collection protocol,0,H04L
+11405308,2022-08-02,Automatic discovery of route reflection peering end-points,1,G06F|H04L
+11405297,2022-08-02,Adaptive flow monitoring,1,H04L
+11405261,2022-08-02,Optimizing bandwidth utilization when exporting telemetry data from a network device,0,H04L|H04Q
+11405260,2022-08-02,Network model aware diagnosis of a network,3,H04L
+11405141,2022-08-02,Telemetry data error detection,1,G06F|H04L
+11398991,2022-07-26,Methods and apparatus for flow control associated with a switch fabric,0,H04L
+11398972,2022-07-26,Transport endpoint segments for inter-domain segment routing,1,H04L
+11394663,2022-07-19,Selective packet processing including a run-to-completion packet processing data plane,2,H04L
+11394622,2022-07-19,Systems and methods for efficient presentation of device-level information via scalable interactive device-visualization interfaces,2,G06F|H04L
+11388141,2022-07-12,"Apparatus, system, and method for efficiently filtering packets at network devices",0,H04L
+11388140,2022-07-12,"Apparatus, system, and method for applying firewall rules at dynamic offsets within packets in kernel space",1,G06F|H04L
+11388099,2022-07-12,Methods and apparatus for facilitating real-time and/or predictive fault detection,3,G06N|H04L|H04W
+11388022,2022-07-12,Detecting VLAN misconfiguration,1,G06N|H04L
+11385929,2022-07-12,Migrating workloads in multicloud computing environments,0,G06F
+11385695,2022-07-12,Methods and apparatus relating to the supply of power to power over ethernet   devices,1,G06F|H04L|Y02D
+11381501,2022-07-05,Coordinating pseudowire connection characteristics and multi-homed provider edge device capabtilities,0,H04L
+11381474,2022-07-05,Wan link selection for SD-WAN services,82,H04L
+11379334,2022-07-05,Network device having dynamic port or link status indicators,14,G06F|H04L
+11379279,2022-07-05,Netlink asynchronous notifications for native and third party application in distributed network systems,0,G06F|H04L
+11374842,2022-06-28,Systems and methods for debugging network stacks based on evidence collected from selective tracing,1,G06F|H04L|Y02D
+11374820,2022-06-28,Centralized controller-based dynamic network bandwidth allocation and management,0,H04L
+11374790,2022-06-28,"Apparatus, system, and method for increasing bandwidth utilization in encapsulation tunnels",0,H04L
+11368856,2022-06-21,"Methods and apparatus for generating,transmitting and/or using beacons",1,H04W
+11368294,2022-06-21,Facilitating hitless security key rollover using data plane feedback,1,H04L
+11362942,2022-06-14,Avoiding loops by preventing further fast reroute (FRR) after an earlier FRR,2,H04L
+11362737,2022-06-14,Ternary modulation using inter-operable transmitters and receivers,1,H04B|H04L
+11356369,2022-06-07,Border gateway protocol update packing for a distributed routing information base,1,H04L
+11349749,2022-05-31,Node protection for bum traffic for multi-homed node failure,0,H04L
+11349735,2022-05-31,"Faster fault-detection mechanism, for example using bidirectional forwarding detection (BFD), on network nodes and/or hosts multihomed using a link aggregation group (LAG)",0,H04L|Y02D
+11349591,2022-05-31,"Apparatus, systems, and methods for optical channel management",0,H04B|H04J|H04L|H04Q
+11336647,2022-05-17,Error handling for media access control security,0,H04L
+11336570,2022-05-17,Layer three multi-homing for virtual networks,9,H04L
+11336569,2022-05-17,Ping and traceroute in inter-autonomous system (AS) segment routing (SR) networks without requiring headend router or path monitoring system (PMS) controller knowledge of topology outside of origin as,2,H04L
+11336504,2022-05-17,Intent-based distributed alarm service,1,H04L
+11336502,2022-05-17,Deriving network device and host connection,0,H04L|Y02D
+11336482,2022-05-17,Policy-driven on-demand tunnel creation/deletion based on traffic information in a wide area network (WAN),4,H04L
+11334267,2022-05-17,"Apparatus, system, and method for dynamically sizing memory pools based on tracked memory waste",0,G06F
+11330486,2022-05-10,Wireless terminal roaming,1,H04L|H04W
+11329966,2022-05-10,System and method for transferring packets between kernel modules in different network stacks,2,G06F|H04L
+11329921,2022-05-10,"Apparatus, system, and method for mapping incremental changes across hierarchical and non-hierarchical forwarding information bases",0,H04L
+11329918,2022-05-10,Facilitating flow symmetry for service chains in a computer network,3,G06F|H04L
+11329914,2022-05-10,User customization and automation of operations on a software-defined network,0,G06F|H04L
+11329911,2022-05-10,Local repair for underlay failure using prefix independent convergence,0,H04L
+11329909,2022-05-10,"Apparatus, system, and method for discovering network paths",0,H04L
+11329897,2022-05-10,SLA packet steering in network service function chaining,0,H04L
+11329882,2022-05-10,Multi-cluster configuration controller for software defined networks,4,H04L
+11329845,2022-05-10,Port mirroring over EVPN VXLAN,0,H04L
+11328308,2022-05-10,Systems and methods for matching and delivering account-level data from multiple customer-facing platforms based on contact-level touchpoints,0,G06Q
+11327685,2022-05-10,"Apparatus, system, and method for lockless resource versioning in single writer multiple reader technologies",0,G06F
+11324077,2022-05-03,Priority channels for distributed broadband network gateway control packets,3,H04L|H04W
+11324057,2022-05-03,Supporting multiple PDU sessions for 5G client devices on wireline access,1,H04L|H04W
+11323487,2022-05-03,Scalable policy management for virtual networks,3,H04L
+11323485,2022-05-03,Network traffic switching for virtual machines,1,G06F|H04L
+11323481,2022-05-03,Classification of unknown network traffic,0,G06N|H04L
+11323437,2022-05-03,Monitoring a media access control security session,2,G06F|H04L
+11323392,2022-05-03,Managing split-brain scenario in multi-homed environment,0,H04L|Y02D
+11323387,2022-05-03,Prioritized communication session establishment in computer networks,0,H04L
+11323382,2022-05-03,Dynamic bandwidth throttling of a network device component for telecommunications standard compliance,2,G06F|H04L
+11323381,2022-05-03,Dropped packet detection and classification for networked devices,1,H04L
+11323374,2022-05-03,Visualizing network traffic plans based on egress peer engineering,0,H04L
+11323371,2022-05-03,"Micro SID packet processing with operations, administration, and management",3,H04L
+11323369,2022-05-03,Transforming a multi-level hybrid hierarchical forwarding information base format,0,H04L
+11323364,2022-05-03,Ingress replication procedures to facilitate migration to segment routing technology in a computer network,0,H04L
+11323361,2022-05-03,GRE tunneling with reduced packet encryption at intermediate routers using loose source routing,0,H04L
+11323360,2022-05-03,Sequence number checksum for link state protocols,1,H04L
+11323350,2022-05-03,Methods and apparatus for tracking data flow based on flow state values,0,H04L
+11323341,2022-05-03,Methods and apparatus for capturing and/or using packets to facilitate fault detection,2,H04L|H04W
+11323339,2022-05-03,Service placement assistance,2,G06F|H04L
+11323330,2022-05-03,Validating network topologies,2,H04L
+11323327,2022-05-03,Virtualization infrastructure element monitoring and policy control in a cloud environment using profiles,36,H04L
+11323320,2022-05-03,Concurrent transactions on NETCONF devices across network services,1,H04L
+11323312,2022-05-03,Software-defined network monitoring and fault localization,14,H04L|H04W
+11323309,2022-05-03,Asynchronous socket replication between nodes of a network,2,H04L
+11323308,2022-05-03,Core isolation for logical tunnels stitching multi-homed EVPN and L2 circuit,1,H04L
+11323305,2022-05-03,Early detection of telemetry data streaming interruptions,2,H04L
+11323290,2022-05-03,Establishing a network micro-tunnel within a network tunnel,2,H04L|H04W
+11323279,2022-05-03,Internet group management protocol host mobility in ethernet virtual private network multicast networks,4,H04L
+11322367,2022-05-03,System and method for attaching an integrated circuit package to a printed circuit board with solder balls having a coined surface profile,3,H01L|H05K
+11316858,2022-04-26,Fast heartbeat liveness between packet processing engines using media access control security (MACsec) communication,0,H04L
+11316822,2022-04-26,Allocating external IP addresses from isolated pools,88,G06F|H04L
+11316796,2022-04-26,Spraying for unequal link connections in an internal switch fabric,0,H04L
+11316775,2022-04-26,Maintaining coherency in distributed operating systems for network devices,1,G06F|H04L
+11316763,2022-04-26,Network dashboard with multifaceted utilization visualizations,7,H04L
+11316744,2022-04-26,Organizing execution of distributed operating systems for network devices,0,G06F|H04L
+11316738,2022-04-26,Vendor agnostic profile-based modeling of service access endpoints in a multitenant environment,1,G06F|H04L
+11316667,2022-04-26,Key exchange using pre-generated key pairs,1,H04L
+11309261,2022-04-19,Enhanced bonding between III-V material and oxide material,1,H01L|H10D|H10H
+11307981,2022-04-19,Systems and methods for sharing memory pointers across multiple processes,0,G06F
+11307896,2022-04-19,"Apparatus, system, and method for lockless resource reclamation in single writer multiple reader technologies",0,G06F
+11303575,2022-04-12,Network traffic control based on application feature,0,H04L
+11303555,2022-04-12,Inter-data center software-defined network controller network,0,H04L
+11303549,2022-04-12,Segmented traceroute for segment routing traffic engineering,0,H04L
+11303474,2022-04-12,Split-horizon filtering for EVPN-VXLAN,4,H04L
+11296954,2022-04-05,Supporting near real time service level agreements,0,H04L
+11296908,2022-04-05,Using multiple ethernet virtual private network (EVPN) routes for corresponding service interfaces of a subscriber interface,2,H04L
+11296811,2022-04-05,Optical multicast switch with broadcast capability,0,G02B|H04J|H04L|H04Q
+11296783,2022-04-05,Managing satellite devices within a branch network,0,H04B|H04L|H04W|Y02D
+11294761,2022-04-05,"Apparatus, system, and method for correcting slow field-replaceable units in network devices",0,G06F|H04L
+11290395,2022-03-29,Emulating output queued behavior in a virtual output queue switch,2,H04L
+11290376,2022-03-29,Prioritized formation of BGP sessions,0,H04L
+11290348,2022-03-29,Interactive user interfaces for displaying features of an optimized network plan,5,G06T|H04L
+11288215,2022-03-29,Mapped register access by microcontrollers,0,G06F
+11283732,2022-03-22,Network functions virtualization (NFV) backplane on forwarding microchip,1,G06F|H04L
+11283691,2022-03-22,Model driven intent policy conflict detection and resolution through graph analysis,5,G06F|H04L
+11283672,2022-03-22,Forwarding detection of an aggregated interface,0,H04L|Y02D
+11281492,2022-03-22,Moving application containers across compute nodes,21,G06F
+11277338,2022-03-15,Distributing service function chain data and service function instance data in a network,1,H04L
+11277334,2022-03-15,Using and processing per slice segment identifiers in a network employing segment routing,0,H04L
+11277328,2022-03-15,Using anycast as an abstract next hop (ANH) to reduce information related to border gateway protocl (BGP) next hops received by autonomous system border routers (ASBRs) and/or to improve BGP path convergence,4,H04L
+11277315,2022-03-15,Dashboard for display of state information in a graphic representation of network topology,8,H04L
+11271871,2022-03-08,Methods and apparatus related to a flexible data center security architecture,0,H04L|Y02D
+11271849,2022-03-08,Service-based tunnel selection scheme for mapping services to tunnels,5,H04L
+11269711,2022-03-08,Failure impact analysis of network events,3,G06F|H04L
+11265216,2022-03-01,Communicating state information in distributed operating systems,1,G06F|H04L
+11265204,2022-03-01,Using a programmable resource dependency mathematical model to perform root cause analysis,0,H04L
+11259343,2022-02-22,Multicast replication in 5G networks,0,H04L|H04W
+11258774,2022-02-22,Adaptive control of secure sockets layer proxy,0,G06F|H04L
+11258661,2022-02-22,Initializing server configurations in a data center,4,H04L
+11252100,2022-02-15,"Apparatus, system, and method for providing node protection across label-switched paths that share labels",0,H04L
+11252091,2022-02-15,Updating a traffic rate limit for policing traffic,3,G06N|H04L
+11252090,2022-02-15,Systems and methods for predicting future traffic loads of outgoing interfaces on network devices,0,H04L
+11252082,2022-02-15,Filtering topologies for path computation in massively scaled networks,1,H04L
+11252074,2022-02-15,Detection of multihoming misconfiguration,0,H04L|Y02D
+11252072,2022-02-15,Graph-based rebinding of packet processors,1,H04L
+11252054,2022-02-15,Dynamically modifying a service chain based on network traffic information,1,H04L
+11252046,2022-02-15,System for identifying and assisting in the creation and implementation of a network service configuration using Hidden Markov Models (HMMs),0,G06N|H04L
+11252034,2022-02-15,Generating candidate links and candidate paths before selecting links for an optimized optical network plan,1,H04L
+11252025,2022-02-15,Model driven configuration management for microservices,3,H04L
+11251953,2022-02-15,Proving prime integers for encryption,0,H04L
+11250034,2022-02-15,Classification of software based on user interface elements,0,G06F
+11249902,2022-02-15,"Apparatus, system, and method for detecting and remedying memory buffer leaks in network devices",0,G06F|H04L
+11245752,2022-02-08,Load balancing in a high-availability cluster,0,G06F|H04L
+11245742,2022-02-08,"Apparatus, system, and method for flow-level switchover of video streams",0,H04L
+11245697,2022-02-08,Application-based network security,1,H04L
+11245669,2022-02-08,Firewall filter comprising one or more objects,2,H04L
+11245668,2022-02-08,Critical firewall functionality management,1,H04L
+11245637,2022-02-08,Methods and apparatus for efficient use of link aggregation groups,2,H04L|H04Q|Y02D
+11245617,2022-02-08,Compressed routing header,8,H04L
+11245608,2022-02-08,Tunnel processing distribution based on traffic type and learned traffic processing metrics,2,H04L
+11245599,2022-02-08,Network traffic monitoring or storage using a signed uniform resource locator,1,H04L
+11245551,2022-02-08,"Generating flexible, programmable, and scalable network tunnels on demand",0,H04L
+11240573,2022-02-01,Methods and apparatus for consistency check for disaggregated dense wavelength-division multiplexing (DWDM) systems,2,H04B|H04J|H04L|H04Q|Y02D
+11240151,2022-02-01,Combined input and output queue for packet forwarding in network devices,2,G06F|H04L
+11240144,2022-02-01,Assisted replication in software defined network,2,H04L
+11240142,2022-02-01,Class-based traffic engineering in an IP network,0,H04L
+11240128,2022-02-01,Policy controller for distributed virtualization infrastructure element monitoring,5,G06F|H04L
+11237325,2022-02-01,Atomic layer deposition bonding for heterogeneous integration of photonics and electronics,1,G02B|H01L
+11233778,2022-01-25,Secure forwarding of tenant workloads in virtual networks,5,H04L
+11233748,2022-01-25,Bandwidth management for resource reservation label switched path of a ring network,2,H04L
+11233741,2022-01-25,Replication mode selection for EVPN multicast,3,H04L
+11233715,2022-01-25,Dynamic prediction and management of application service level agreements,4,H04L
+11233714,2022-01-25,Validation of a user-defined cabling plan for a computer network based on a physical cabling topology,0,H04L|Y02D
+11229120,2022-01-18,"Apparatus, system, and method for retaining thermal interface material between electrical components and heatsinks",0,H01L|H05K
+11228631,2022-01-18,"Apparatus, system, and method for conditionally performing media delivery index measurements on streaming media",0,H04L
+11228603,2022-01-18,Learning driven dynamic threat treatment for a software defined networking environment,3,G06N|H04L
+11228524,2022-01-18,Methods and apparatus for efficient use of link aggregation groups,0,H04L
+11228504,2022-01-18,Systems and method for replaying and debugging live states of network devices,1,G06F|H04L
+11228495,2022-01-18,Bundling of wired and wireless interfaces in a redundant interface of a high-availability cluster,0,G06F|H04L|H04W
+11226392,2022-01-18,Estimating user risk based on wireless location determination,1,G01S|G08B|G16H|H04W
+11223548,2022-01-11,Variable timeouts for network device management queries,0,H04L
+11218488,2022-01-04,Access enforcement at a wireless access point,0,H04L|H04W
+11216309,2022-01-04,Using multidimensional metadata tag sets to determine resource allocation in a distributed computing environment,8,G06F
+11212229,2021-12-28,Employing machine learning to predict and dynamically tune static configuration parameters,0,G06N|H04L
+11212163,2021-12-28,Systems and methods for deadlock avoidance within MPLS networks,2,H04L
+11206200,2021-12-21,Dashboard for graphic display of computer network topology,4,G06F|H04L
+11206185,2021-12-21,Rules driven software deployment agent,5,G06F|H04L
+11201782,2021-12-14,Automation of maintenance mode operations for network devices,1,H04L
+11200133,2021-12-14,Intelligent device role discovery,0,G06F|G06N|H04L
+11190461,2021-11-30,Mapping services to tunnels in order to forward packets using a network device,1,H04L
+11178041,2021-11-16,Service chaining with physical network functions and virtualized network functions,4,H04L
+11178001,2021-11-16,Multi-stage switch fabric fault detection and handling,1,H04L|H04Q
+11177888,2021-11-16,Methods and apparatus for optical communications via pulse amplitude modulation (PAM) in dense wavelength-division multiplexing (DWDM) systems,0,H03M|H04B|H04J|H04L
+11171866,2021-11-09,Measuring packet residency and travel time,1,H04L
+11171834,2021-11-09,Distributed virtualized computing infrastructure management,42,G06F|H04L
+11171830,2021-11-09,Multiple networks for virtual execution elements,3,G06F|H04L
+11166326,2021-11-02,Utilizing a transport protocol for fifth generation (5G) client devices to carry messages on wireline access,2,H04L|H04W
+11165750,2021-11-02,Flexible services-based pipeline for firewall filter processing,3,H04L
+11165744,2021-11-02,Faster duplicate address detection for ranges of link local addresses,2,G06F|H04L
+11165703,2021-11-02,Prefix-based fat flows,0,H04L
+11165701,2021-11-02,IPV6 flow label for stateless handling of IPV4-fragments-in-IPV6,1,H04L
+11165697,2021-11-02,Network controller subclusters for distributed compute deployments,1,H04L
+11165696,2021-11-02,Providing convergence prioritization for border gateway protocol services across providers/customers,0,H04L
+11165695,2021-11-02,Identifying egress of nil forward equivalency class (FEC) used for FEC hiding,3,H04L
+11165691,2021-11-02,Assignment of segment identifiers in segment routing,10,H04L
+11165684,2021-11-02,Route consistency checker for network devices,1,H04L
+11165681,2021-11-02,Inter-autonomous system trace route message,1,H04L
+11165648,2021-11-02,Facilitating network configuration testing,6,H04L
+11165647,2021-11-02,Managing multiple semantic versions of device configuration schemas,4,G06F|H04L
+11165631,2021-11-02,Identifying a root cause of alerts within virtualized computing environment monitoring system,6,G06F|H04L
+11165625,2021-11-02,Network state management,0,H04L
+11165598,2021-11-02,Source-active community for improved multicasting,0,H04L
+11165527,2021-11-02,Time synchronization for encrypted traffic in a computer network,0,H04J|H04L
+11164893,2021-11-02,Radio-frequency loss reduction for integrated devices,1,G02F|H01L|H10D
+11163879,2021-11-02,Multi-file malware analysis,2,G06F
+11163600,2021-11-02,Providing physical host state information to virtual machines deployed on the physical host,0,G06F
+11160192,2021-10-26,"Apparatus, system, and method for increasing the cooling efficiency of cold plate devices",1,H01L|H05K
+11160190,2021-10-26,"Apparatus, system, and method for preventing demate between field-replaceable units and telecommunications systems",1,G06F|H04Q|H05K
+11159617,2021-10-26,"Apparatus, system, and method for synchronizing replicated objects across network nodes in highly scaled environments",0,H04L
+11159487,2021-10-26,Automatic configuration of perimeter firewalls based on security group information of SDN virtual firewalls,0,H04L
+11159431,2021-10-26,"Apparatus, system, and method for determining traffic load distributions in connection with routes of hierarchical forwarding information bases",0,H04L
+11159410,2021-10-26,Systems and methods for facilitating traceroute operations across segment routing paths within networks,0,H04L
+11159400,2021-10-26,Systems and methods for offloading IPFIX lookup and translation operations from observation domains,0,G06F|H04L
+11159389,2021-10-26,Inter-application workload network traffic monitoring and visualization,25,G06F|H04L
+11159378,2021-10-26,Self-driven and adaptable multi-vBNG management orchestration,1,H04L|H04W
+11159370,2021-10-26,Bulk discovery of devices behind a network address translation device,1,H04L|H04W|Y02D
+11159366,2021-10-26,Service chaining for virtual execution elements,88,G06F|H04L
+11159240,2021-10-26,Power efficient and scalable co-packaged optical devices,6,H04B|H04L
+11158564,2021-10-26,"Apparatus, system, and method for dynamic compensation of heatsink-clamping mechanisms",0,F28F|H01L|H05K
+11157609,2021-10-26,"Apparatus, system, and method for secure execution of unsigned scripts",3,G06F
+11153228,2021-10-19,Synchronizing device resources for element management systems,4,H04L
+11153217,2021-10-19,Systems and methods for policing network traffic rates,0,H04L
+11153194,2021-10-19,Control plane isolation for software defined network routing services,1,H04L
+11153173,2021-10-19,Dynamically updating compute node location information in a distributed computing environment,6,H04L
+11140200,2021-10-05,Distributing a network policy using connectivity fault management,9,H04L
+11140083,2021-10-05,Load balancing over a plurality of packet forwarding components,2,H04L
+11140075,2021-10-05,Network traffic steering among CPU cores using forwarding path elements,0,H04L
+11140069,2021-10-05,Optimizing information related to a route and/or a next hop for multicast traffic,0,H04L
+11140064,2021-10-05,Configuring a topology of devices to support scaling of an exchange point,0,H04L
+11140049,2021-10-05,Dynamic intent assurance and programmability in computer networks,4,G06F|H04L
+11140044,2021-10-05,Utilizing models for concurrently discovering network resources of a network,0,G06F|H04L
+11140031,2021-10-05,Intent aware contextual device configuration backup and restore,2,H04L
+11138313,2021-10-05,Malware detection based on user interactions,1,G06F|H04L
+11138059,2021-10-05,Log analysis in vector space,5,G06F|G06N
+11134004,2021-09-28,Enhanced flexible-algorithm definition,0,H04L
+11133958,2021-09-28,Resilient multiprotocol label switching (MPLS) rings using segment routing,13,H04L
+11129302,2021-09-21,"Apparatus, system, and method for electromagnetic interference mitigation in split heatsink technologies",1,H01L|H05K
+11129027,2021-09-21,Intelligent radio band reconfiguration of access points in a wireless network,2,H04B|H04W
+11115391,2021-09-07,Securing end-to-end virtual machine traffic,0,G06F|H04L
+11115389,2021-09-07,Media access control security (MACsec) enabled links of a link aggregation group (LAG),2,G06F|H04L|Y02D
+11115330,2021-09-07,Assisted replication with multi-homing and local bias,0,H04L
+11106839,2021-08-31,Network device modeling in preconfigured network modeling environments,0,G06F|G06N|H04L
+11095742,2021-08-17,Query proxy for delivery of dynamic system state,1,G06F|H04L
+11095504,2021-08-17,Initializing network device and server configurations in a data center,3,H04L
+11093666,2021-08-17,Automated network device model creation using randomized test beds,1,G06F|G06N|H04L
+11088952,2021-08-10,Network traffic control based on application path,1,H04L
+11088939,2021-08-10,Reducing open shortest path first protocol link flap,2,H04L
+11088917,2021-08-10,Lab resource platform,1,H04L
+11088897,2021-08-10,Bidirectional forwarding detection control packet to indicate maintenance mode operation,1,H04L
+11088871,2021-08-10,Fast convergence for MAC mobility,5,H04L
+11087046,2021-08-10,Providing diversity in simulation datasets during modeling of network devices,2,G06F|G06N|H04L
+11082337,2021-08-03,Support for multiple virtual networks over an underlay network topology,2,H04L
+11080083,2021-08-03,Providing physical host hardware state information to virtual machines deployed on the physical host,2,G06F
+11076502,2021-07-27,"Apparatus, system, and method for cooling multi-chip modules via clustered fluid-cooled plates",0,H01L|H05K
+11076341,2021-07-27,Methods and apparatus relating to the use of real and/or virtual beacons,4,H04B|H04W
+11075827,2021-07-27,"Apparatus, system, and method for improving the efficiency of link-failure detection",2,H04L
+11075806,2021-07-27,Hierarchical naming scheme for state propagation within network devices,1,H04L
+11075805,2021-07-27,Business policy management for self-driving network,9,H04L
+11075792,2021-07-27,Scalable and robust network management for cloud-based NAT environments,4,G06F|H04L
+11074322,2021-07-27,Adaptive capacity management for network licensing,3,G06F
+11074091,2021-07-27,Deployment of microservices-based network controller,55,G06F|H04L
+11070589,2021-07-20,Dynamic implementation of a security rule,0,G06F|H04L
+11070540,2021-07-20,Dynamic provisioning of user groups within computer networks based on user attributes,8,G06F|H04L
+11070522,2021-07-20,Removing anomalies from security policies of a network security device,4,H04L
+11070474,2021-07-20,Selective load balancing for spraying over fabric paths,9,H04L
+11070472,2021-07-20,Dynamically mapping hash indices to member interfaces,3,H04L
+11070469,2021-07-20,Scaling border gateway protocol services,3,H04L
+11070468,2021-07-20,Serverless segment routing (SR)-label distribution protocol (LDP) stitching,1,H04L
+11070464,2021-07-20,Optimized multicast forwarding with a cache,3,H04L
+11070463,2021-07-20,Guaranteed bandwidth for segment routed (SR) paths,1,G06F|H04L
+11070452,2021-07-20,Network dashboard with multifaceted utilization visualizations,14,H04L
+11070443,2021-07-20,Methods and apparatus for centralized operational management of heterogenous network devices through software-based node unification,0,H04L
+11070438,2021-07-20,"Apparatus, system, and method for collecting network statistics information",2,H04L
+11070386,2021-07-20,Controlling an aggregate number of unique PIM joins in one or more PIM join/prune messages received from a PIM neighbor,4,H04L
+11068314,2021-07-20,"Micro-level monitoring, visibility and control of shared resources internal to a processor of a host machine for a virtual environment",11,G06F|G06N|H04L
+11063877,2021-07-13,"Apparatus, device, and method for fragmenting packets into segments that comply with the maximum transmission unit of egress interfaces",0,H04L
+11063860,2021-07-13,Control plane-based EVPN optimized inter-subnet multicast (OISM) forwarding,0,H04L
+11057347,2021-07-06,Filtering data using malicious reference information,0,H04L
+11057317,2021-07-06,Synchronizing multicast router capability towards ethernet virtual private network (EVPN) multi-homed protocol independent multicast (PIM) device,0,H04L
+11057295,2021-07-06,Loop avoidance and egress link protection with ethernet virtual private network (EVPN) fast reroute (FRR),6,H04L
+11057290,2021-07-06,Ping/traceroute for static label switched paths (LSPs) and static segment routing traffic engineering (SRTE) tunnels,0,H04L
+11057243,2021-07-06,Aliasing behavior for traffic to multihomed sites in ethernet virtual private network (EVPN) networks,0,H04L|H04M|H04N
+11057235,2021-07-06,Controlling protocol independent multicast (PIM) join/prune messages from a downstream PIM neighbor using a PIM join/prune response(s) from an upstream PIM neighbor,3,H04L
+11057186,2021-07-06,Generating cryptographic random data from raw random data,1,H04L
+11055453,2021-07-06,Automated configuration and data collection during modeling of network devices,0,G06F|G06N|H04L
+11051169,2021-06-29,Methods and apparatus for performing access and/or forwarding control in wireless networks such as WLANS,1,H04L|H04W
+11050681,2021-06-29,Fast routing convergence for border gateway protocl (BGP) systems including one or more route reflectors (RRs),0,H04L
+11050679,2021-06-29,"Defining non-forwarding adjacencies in bipartite networks, such as Clos newtorks, having a level 2 backbone and level 1 nodes",2,H04L
+11050650,2021-06-29,Preventing traffic outages during address resolution protocol (ARP) storms,1,H04L
+11044035,2021-06-22,"Apparatus, systems, and methods for optical channel management",2,H04B|H04J|H04L|H04Q
+11032389,2021-06-08,Applying application-based policy rules using a programmable application cache,2,H04L|H04W
+11032318,2021-06-08,Network monitoring based on distribution of false account credentials,2,G06F|H04L
+11032203,2021-06-08,Providing predictable quality of service traffic steering,0,H04L
+11032196,2021-06-08,Per path and per link traffic accounting,0,H04L
+11032192,2021-06-08,"Signaling a planned off-lining, such as for maintenance, of a node or node component supporting a label switched path (LSP), and using such signaling",0,H04L
+11032107,2021-06-08,GRE tunneling with reduced packet encryption at intermediate routers,0,H04L
+11032106,2021-06-08,Layer 2 tunnel protocol (“L2TP”) node processing optimization using a dedicated hello channel keepalive mechanism,1,H04L
+11032093,2021-06-08,Multicast group membership management,0,H04L
+11032056,2021-06-08,Efficient unicast signaling in a precision time protocol enabled packet network,1,H04J|H04L
+11025708,2021-06-01,Group load balancing for virtual router redundancy,0,H04L
+11025525,2021-06-01,Methods and apparatus related to a virtual multi-hop network topology emulated within a data center,0,H04L
+11025522,2021-06-01,Path monitoring system (PMS) controller or ingress node based multiprotocal label switching (MPLS) ping and traceroute in inter- autonomous system (AS) segment routing (SR) networks,2,H04L
+11016852,2021-05-25,Guarded mode boot up and/or recovery of a network device,2,G06F|H04L|H04W
+11005729,2021-05-11,Satisfying service level agreement metrics for unknown applications,4,H04L
+11005721,2021-05-11,Scalable control plane for telemetry data collection within a distributed computing system,10,G06F|H04L
+11005585,2021-05-11,Transporting client timing information across a network,5,H04J|H04L
+10999410,2021-05-04,Configuring and managing network devices using program overlay on Yang-based graph database,4,H04L
+10999379,2021-05-04,Liveness detection for an authenticated client session,2,H04L
+10999280,2021-05-04,Bulk delivery of change of authorization data via AAA protocols,0,H04L|H04W
+10999253,2021-05-04,Maintaining internet protocol security tunnels,3,H04L
+10999251,2021-05-04,Intent-based policy generation for virtual networks,10,H04L
+10999242,2021-05-04,Carrier grade NAT subscriber management,3,H04L
+10999219,2021-05-04,Automated packet switch type and host selection for efficient virtualized network function service chaining,17,H04L
+10999195,2021-05-04,Multicast VPN support in data centers using edge replication tree,12,H04L
+10999187,2021-05-04,Wireless control and fabric links for high-availability cluster nodes,1,H04L|H04W
+10999183,2021-05-04,Link state routing protocol adjacency state machine,0,H04L
+10999163,2021-05-04,Multi-cloud virtual computing environment provisioning using a high-level topology description,11,G06F|H04L
+10999151,2021-05-04,"Apparatus, system, and method for topology discovery across geographically redundant gateway devices",0,H04L
+10999142,2021-05-04,Correlation of virtual network traffic across bare metal servers,3,G06F|H04L
+10999126,2021-05-04,Failure handling for active-standby redundancy in EVPN data center interconnect,0,H04L
+10999125,2021-05-04,Inter-application communication via signal-routes,5,G06F|H04L
+10999090,2021-05-04,Multicast flow prioritization,0,H04L
+10998252,2021-05-04,Efficient heat-sinking in PIN diode,0,H01L|H01S|H10D
+10997356,2021-05-04,Computing device user interface having auto-grouping of data columns,0,G06F
+10997291,2021-05-04,Extending dynamic detection of malware using static and dynamic malware analyses,2,G06F
+10996938,2021-05-04,Automated selection of software images for network devices,5,G06F|H04L
+10996937,2021-05-04,Automated software installation using a click area prediction model,1,G06F|G06N
+10992749,2021-04-27,Synchronization between virtual network functions and host systems,0,G06F|H04L
+10992637,2021-04-27,Detecting hardware address conflicts in computer networks,3,G06F|H04L
+10992591,2021-04-27,"Apparatus, system, and method for discovering path maximum transmission units",2,H04L
+10992577,2021-04-27,Auto discovery and auto scaling of services in software-defined network environment,3,H04L
+10992566,2021-04-27,"Apparatus, system, and method for improved memory consumption in network devices via efficient route management",3,H04L
+10992388,2021-04-27,Ternary modulation using inter-operable transmitters and receivers,2,H04B|H04L
+10986607,2021-04-20,Wireless signals for location determination,7,H04B|H04W
+10986606,2021-04-20,Methods and apparatus for using received signal strength information in a wireless system,4,G01S|G06N|H04B|H04W
+10986024,2021-04-20,Dynamic prefix list for route filtering,0,H04L
+10985969,2021-04-20,Systems and methods for a virtual network assistant,53,H04L
+10979339,2021-04-13,Node representations of packet forwarding path elements,0,H04L
+10979316,2021-04-13,"Dynamic application SLA metric generation, distribution, and intent-based SD-WAN link selection",4,H04L
+10976791,2021-04-13,Methods and apparatus relating to the supply of power to power over ethernet devices,1,G06F|H04L|Y02D
+10972508,2021-04-06,Generating a network security policy based on behavior detected after identification of malicious behavior,21,G06N|H04L
+10972442,2021-04-06,Distributed predictive packet quantity threshold reporting,2,H04L
+10972402,2021-04-06,Dynamic management of inline entries in hardware across protocols in a scaled environment,4,H04L
+10972386,2021-04-06,Scalable multi-tenant underlay network supporting multi-tenant overlay network,33,G06F|H04L
+10972342,2021-04-06,Network device configuration using a message bus,2,G06F|H04L
+10969984,2021-04-06,Maintaining a DNS store for control plane restart or failover,0,G06F|H04L
+10965637,2021-03-30,Duplicate address detection for ranges of global IP addresses,9,H04L
+10965592,2021-03-30,Inter-network service chaining,5,G06F|H04L
+10958585,2021-03-23,Methods and apparatus for facilitating fault detection and/or predictive fault detection,60,G06N|H04L|H04W
+10958567,2021-03-23,Controlling paths in a network via a centralized controller or network devices,3,H04L
+10958564,2021-03-23,Rendezvous point (RP) router with improved processing of first hop router (FHR) information in a protocol independent multicast (PIM) network domain,5,H04L
+10958561,2021-03-23,Utilizing egress peer engineering to determine optimized traffic plans and to implement an optimized traffic plan,3,H04L
+10958559,2021-03-23,Scaled inter-domain metrics for link state protocols,2,H04L
+10958555,2021-03-23,Real-time application-driven synthetic probing,2,H04L|H04W
+10958543,2021-03-23,Monitoring wireless access point events,9,H04L|H04W
+10958537,2021-03-23,Method for spatio-temporal monitoring,54,H04B|H04L|H04W
+10951548,2021-03-16,Method for resetting a packet processing component to an operational state,0,G06F|H04L
+10951527,2021-03-16,Switch fabric packet flow reordering,0,H04L
+10951506,2021-03-16,Offloading heartbeat responses message processing to a kernel of a network device,1,G06F|H04L
+10951495,2021-03-16,Application signature generation and distribution,1,G06F|H04L
+10951494,2021-03-16,"Apparatus, system, and method for self-regulating sampling domains within network devices",1,H04L
+10951468,2021-03-16,"Apparatus, system, and method for dynamically scaling memory for virtual routers",0,G06F|H04L
+10951428,2021-03-16,Reliable multicast using a redundant unicast overlay network,1,H04L
+10944793,2021-03-09,Rules-based network security policy modification,4,G06F|G06N|H04L
+10944665,2021-03-09,Auto-discovery and provisioning of IP fabric underlay networks for data centers,7,H04L
+10943874,2021-03-09,"Apparatus, system, and method for mitigating warpage of integrated circuits during reflow processes",0,H01L
+10943848,2021-03-09,"Apparatus, system, and method for dynamic compensation of heatsink-clamping mechanisms",0,F28F|H01L|H05K
+10938660,2021-03-02,Automation of maintenance mode operations for network devices,11,H04L
+10932141,2021-02-23,"Methods and apparatus for generating,transmitting and/or using beacons",5,H04W
+10931628,2021-02-23,Duplicate address detection for global IP address or range of link local IP addresses,4,G06F|H04L
+10931589,2021-02-23,Methods and apparatus for flow-controllable multi-staged queues,0,H04L
+10931526,2021-02-23,Virtualized network function descriptors for virtualized network function configuration,1,G06F|H04L
+10931369,2021-02-23,Methods and apparatus for adaptively detecting signal degradation in an optical communication system using the pre-forward error correction bit error rate,2,G06N|H04B|H04J|H04L
+10924458,2021-02-16,Generating an application-based proxy auto configuration,2,H04L
+10924419,2021-02-16,Underlay-overlay correlation,24,G06F|H04L
+10924392,2021-02-16,Planning and managing network probes using centralized controller,6,H04L
+10924383,2021-02-16,Utilizing segment routing data and network data to determine optimized network plans and to implement an optimized network plan,0,H04L
+10924375,2021-02-16,"Apparatus, system, and method for probing the status of unreachable virtual interfaces partitioned on remote physical interfaces",0,G06F|H04L
+10924335,2021-02-16,Reduced configuration for multi-stage network fabrics,7,H04L
+10924332,2021-02-16,Node protection for bum traffic for multi-homed node failure,0,H04L
+10924323,2021-02-16,"Apparatus, system, and method for enabling network management systems to query and obtain related objects stored on network devices",0,G06F|H04L
+10922072,2021-02-16,"Apparatus, system, and method for seamless and reversible in-service software upgrades",6,G06F
+10917385,2021-02-09,Sharing matching filters among interfaces of a network device,0,H04L
+10917378,2021-02-09,Facilitating communication between network devices of a virtual router redundancy protocol (VRRP) group,3,G06F|H04L
+10917339,2021-02-09,System and method for user customization and automation of operations on a software-defined network,3,G06F|H04L
+10917337,2021-02-09,Time to live (TTL) handing for segment routing ping/traceroute,4,H04L
+10917331,2021-02-09,Utilizing a centralized controller for traffic engineering segment routing inter-autonomous systems,4,H04L
+10917330,2021-02-09,Minimizing or reducing traffic loss when an external border gateway protocol (eBGP) peer goes down,5,H04L
+10917296,2021-02-09,Managing and troubleshooting changes in device configurations on a network node,0,G06F|H04L
+10911460,2021-02-02,"Methods and devices for blocking, detecting, and/or preventing malicious traffic",0,H04L
+10911351,2021-02-02,Network as a service using virtual nodes,0,H04L
+10911336,2021-02-02,Scalable visualization of health data for network devices,1,G06F|H04L
+10911296,2021-02-02,Targeted selection of cascade ports,2,H04L

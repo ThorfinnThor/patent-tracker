@@ -1,0 +1,458 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430214,2025-09-30,Time-based virtual machine reversion,0,G06F
+12399785,2025-08-26,Backup of containerized applications using a backup services container and a backup services container-orchestration pod,0,G06F
+12380006,2025-08-05,Anti-entropy-based metadata recovery in a strongly consistent distributed data storage system,0,G06F
+12380001,2025-08-05,Management database long-term archiving to a recovery manager,0,G06F
+12375560,2025-07-29,Enhanced network attached storage (NAS) services interfacing to cloud storage,0,G06F|H04L
+12375530,2025-07-29,"Secure data replication to, and recovery of data from, air-gapped data storage pools",0,G06F|H04L
+12373308,2025-07-29,Restoring virtual machine data to cloud using a virtual server cloud file system,0,G06F
+12373307,2025-07-29,Information management security health monitoring system,0,G06F|G06N
+12367177,2025-07-22,Migrating data between data storage systems integrated with application orchestrators,0,G06F
+12367107,2025-07-22,Content indexing of files in virtual disk block-level backup copies,0,G06F
+12362930,2025-07-15,"Data protection service using isolated, encrypted backup data",0,G06F|H04L
+12360944,2025-07-15,Cloud-based secure operation of a recovery storage manager,0,G06F
+12360942,2025-07-15,Selection of a simulated archiving plan for a desired dataset,0,G06F
+12360861,2025-07-15,Hyper visor-independent reference copies of virtual machine payload data,0,G06F
+12353376,2025-07-08,Optimizing retention timeframes of deduplicated copies at storage platforms that are write-once read-many (WORM) enabled,0,G06F
+12353362,2025-07-08,Synchronization of metadata in a distributed storage system,0,G06F
+12353298,2025-07-08,Synthesizing format-specific full backup images,0,G06F
+12353297,2025-07-08,Protection of virtual private cloud configurations,0,G06F
+12346193,2025-07-01,Management of internet of things devices,0,G06F|H04L
+12339747,2025-06-24,Back up and restore related data on different cloud storage tiers,0,G06F
+12333007,2025-06-17,Detecting ransomware in monitored data,0,G06F|G06N
+12323464,2025-06-03,Expedited recovery based on data storage management integration with cyber threat deception,0,H04L
+12321592,2025-06-03,Data object store and server for a cloud storage environment,0,G06F|G06Q|H04L|Y04S
+12321456,2025-06-03,Automatic generation of malware detection traps,0,G06F|H04L
+12321313,2025-06-03,Optimized restoration of deduplicated data stored in cloud-based storage resources,0,G06F
+12316718,2025-05-27,Data storage system with rapid restore capability,0,H04L
+12316490,2025-05-27,Managing data from internet of things (IoT) devices,0,G06F|H04L
+12314417,2025-05-27,Methods for managing user permissions,0,G06F
+12306725,2025-05-20,Cloud-based recovery of backed up data using auxiliary copy replication and on-demand failover resources,0,G06F
+12299467,2025-05-13,Virtual server agent load balancing,0,G06F
+12294624,2025-05-06,Change-based restore from a cloud-based data protection service,0,G06F|H04L
+12294622,2025-05-06,Commissioning and decommissioning metadata nodes in a running distributed data storage system,0,G06F|G06V|H04L|H04N
+12293210,2025-05-06,Live mounting a virtual machine in a public cloud based on accessing a simulated virtual disk as an internet small computer systems interface (ISCSI) target,0,G06F
+12292974,2025-05-06,Analysis of backup copies to identify malware-encrypted primary data,0,G06F
+12292802,2025-05-06,Synthesizing a restore image from one or more secondary copies to facilitate data restore operations to a file server,0,G06F
+12284246,2025-04-22,Network storage backup using distributed media agents,0,H04L
+12282585,2025-04-22,Controlling information privacy in a shared data storage management system,0,G06F
+12259977,2025-03-25,Entropy-based ransomware detection,0,G06F
+12253977,2025-03-18,Continuously run log backup with minimal configuration and resource usage from the source machine,0,G06F
+12248375,2025-03-11,Resiliency of a data storage system by protecting its management database to meet a recovery point objective (RPO),0,G06F
+12242449,2025-03-04,Automated log-based remediation of an information management system,0,G06F|G06N
+12242358,2025-03-04,Streamlined secondary copy operations for data stored on shared file storage,0,G06F
+12235744,2025-02-25,Snapshot-based disaster recovery orchestration of virtual machine failover and failback operations,0,G06F
+12229582,2025-02-18,Scalable recovery and/or migration to cloud-based custom-made virtual machines without using failed machines' credentials,0,G06F|H04L
+12216613,2025-02-04,"Image level copy or restore, such as image level restore without knowledge of data object metadata",0,G06F
+12204929,2025-01-21,Targeted snapshot based on virtual machine location,0,G06F
+12204414,2025-01-21,Using resource pool administrative entities in a data storage management system to provide shared infrastructure to tenants,0,G06F
+12199952,2025-01-14,Data protection component scaling in a cloud- based data storage system,0,H04L
+12197293,2025-01-14,Holistic protection of cloud-based serverless applications,0,G06F|H04L
+12182092,2024-12-31,Distributed framework for data proximity-based task splitting in a content indexing system,0,G06F
+12181988,2024-12-31,Automated media agent state management,0,G06F|G06N
+12174710,2024-12-24,Restoring archived database data,0,G06F
+12169444,2024-12-17,"Cache management for faster live browsing and file indexing of backup copies, including block-level backup copies of virtual machines and/or file systems",0,G06F
+12159044,2024-12-03,Cloud-based destination for block-level data replication processing,0,G06F
+12153493,2024-11-26,Lightweight metadata handling for file indexing and live browse of backup copies,0,G06F
+12147408,2024-11-19,File indexing for virtual machine backups in a data storage management system,0,G06F
+12147312,2024-11-19,Incrementally accumulating in-process performance data into a data stream in a secondary copy operation,0,G06F|H04L
+12135618,2024-11-05,Protecting configuration data in a clustered container system,1,G06F
+12130708,2024-10-29,Cloud-based air-gapped data storage management system,0,G06F|H04L
+12124339,2024-10-22,Management database long-term archiving to a recovery manager,0,G06F
+12124338,2024-10-22,Data loss vulnerability detection,0,G06F
+12105598,2024-10-01,"Data protection scheduling, such as providing a flexible backup window in a data protection system",0,G06F
+12099414,2024-09-24,Backup index generation process,2,G06F
+12093575,2024-09-17,Global de-duplication of virtual disks in a storage platform,0,G06F
+12093386,2024-09-17,Ransomware detection and data pruning management,0,G06F
+12086624,2024-09-10,Live recovery of virtual machines in a public cloud computing environment based on temporary live mount,0,G06F
+12067242,2024-08-20,Performing secondary copy operations based on deduplication performance,0,G06F|G06N|G06V
+12063270,2024-08-13,Commissioning and decommissioning metadata nodes in a running distributed data storage system,0,G06F|G06V|H04L|H04N
+12061798,2024-08-13,Virtual machine change block tracking,0,G06F
+12061524,2024-08-13,Content indexing of files in block-level backup copies of virtual machine data,1,G06F
+12058209,2024-08-06,Migration to cloud storage,0,G06F|H04L
+12056384,2024-08-06,Skipping data backed up in prior backup operations,0,G06F
+12056086,2024-08-06,File system content archiving based on third-party application archiving rules and metadata,0,G06F
+12056026,2024-08-06,Automatic failover of a storage manager,0,G06F
+12056018,2024-08-06,Systems and methods for enforcing a recovery point objective (RPO) for a production database without generating secondary copies of the production database,0,G06F
+12056014,2024-08-06,Single snapshot for multiple applications,1,G06F
+12050806,2024-07-30,Distributed data storage system using erasure coding on storage nodes fewer than data plus parity fragments and healing failed write attempts,0,G06F
+12047472,2024-07-23,Data storage system with rapid restore capability,0,H04L
+12045145,2024-07-23,Protecting a management database of a data storage management system to meet a recovery point objective (RPO),0,G06F
+12045140,2024-07-23,Live browsing of granular mailbox data,0,G06F|H04L
+12039183,2024-07-16,Creating local copies of data stored in cloud-based data repositories,0,G06F
+12039048,2024-07-16,System and method for automatic generation of malware detection traps,1,G06F|H04L
+12038814,2024-07-16,Virtual server cloud file system for backing up cloud-based virtual machine data,0,G06F
+12033004,2024-07-09,Dynamically provisioning computing pods in a computing resource cluster based on a resource request from a storage manager of an information management system,0,G06F
+12032855,2024-07-09,Using an application orchestrator computing environment for automatically scaled deployment of data protection resources needed for data in a production cluster distinct from the application orchestrator or in another application orchestrator computing environment,1,G06F
+12032542,2024-07-09,Systems and methods for optimizing storage and retention of deduplicated secondary copies at storage platforms that are write-once read-many (WORM) enabled,0,G06F
+12032455,2024-07-09,Time-based virtual machine reversion,0,G06F
+12026252,2024-07-02,Detecting ransomware in secondary copies of client computing devices,0,G06F|G06N
+12026127,2024-07-02,Dynamically configuring a proxy server using containerization,0,G06F|H04L
+12019687,2024-06-25,Mobile control application for managing an information management system,0,G06F
+12019665,2024-06-25,Targeted search of backup data using calendar event data,0,G06F|G06V
+12019525,2024-06-25,Cloud-based recovery of backed up data using auxiliary copy replication and on-demand failover resources,0,G06F
+12008135,2024-06-11,Controlling information privacy in a shared data storage management system,0,G06F
+12007967,2024-06-11,Deduplication database without reference counting,0,G06F
+12007940,2024-06-11,Container data mover for migrating data between distributed data storage systems integrated with application orchestrators,0,G06F
+12007856,2024-06-11,Dynamic resizing and re-distribution of destination data storage resources for bare metal restore operations in a data storage management system,0,G06F
+12007854,2024-06-11,Backup of containerized applications using a backup services container and a backup services container-orchestration pod,0,G06F
+12003581,2024-06-04,Enhanced network attached storage (NAS) interoperating with and overflowing to cloud storage resources,0,G06F|H04L
+12001451,2024-06-04,Application of information management policies based on operation with a geographic entity,2,G06F
+12001301,2024-06-04,Hypervisor-independent reference copies of virtual machine payload data based on block-level pseudo-mount,0,G06F
+12001295,2024-06-04,Heterogeneous indexing and load balancing of backup and indexing resources,0,G06F|H04L
+11989102,2024-05-21,Using different target storage devices in a backup storage system,0,G06F
+11989101,2024-05-21,"Data storage management system for multi-cloud protection, recovery, and migration of databases-as-a-service (DBAAS) and/or serverless database management systems (DBMS)",0,G06F|H04L
+11983077,2024-05-14,Incrementally accumulating in-process performance data and hierarchical reporting thereof for a data stream in a secondary copy operation,0,G06F|H04L
+11983075,2024-05-14,Migrating data and metadata from a backup system,0,G06F
+11971784,2024-04-30,Recovery Point Objective (RPO) driven backup scheduling in a data storage management system,0,G06F
+11956310,2024-04-09,Information management of data associated with multiple cloud services,0,G06F|H04L
+11954513,2024-04-09,Scalable recovery and/or migration to cloud- based custom-made virtual machines without using failed machines' credentials,1,G06F|H04L
+11947990,2024-04-02,Cross-hypervisor live-mount of backed up virtual machine data,0,G06F
+11941275,2024-03-26,Disk usage growth prediction system,0,G06F|G06N
+11940952,2024-03-26,Techniques for serving archived electronic mail,0,G06F|H04L
+11934859,2024-03-19,Targeted snapshot based on virtual machine location,0,G06F
+11934356,2024-03-19,Synchronization of metadata in a distributed storage system,0,G06F
+11928229,2024-03-12,Automatic file encryption,0,G06F|H04L
+11928031,2024-03-12,Using resource pool administrative entities to provide shared infrastructure to tenants,0,G06F
+11924034,2024-03-05,Migration of an existing computing system to new hardware,0,G06F|H04L
+11922197,2024-03-05,Virtual server agent load balancing,0,G06F
+11921675,2024-03-05,Accessing a file system using tiered deduplication,0,G06F
+11921594,2024-03-05,"Enhanced file indexing, live browsing, and restoring of backup copies of virtual machines and/or file systems by populating and tracking a cache storage area and a backup index",0,G06F
+11921591,2024-03-05,Synthesizing a restore image from one or more secondary copies to facilitate data restore operations to a file server,0,G06F
+11916886,2024-02-27,In-flight data encryption/decryption for a distributed storage platform,0,G06F|H04L
+11914477,2024-02-27,Lightweight metadata handling for file indexing and live browse of backup copies,0,G06F
+11907168,2024-02-20,"Data object store and server for a cloud storage environment, including data deduplication and data management across multiple cloud storage sites",1,G06F|G06Q|H04L|Y04S
+11892991,2024-02-06,Anomaly detection in deduplication pruning operations,1,G06F
+11886303,2024-01-30,Streamlined secondary copy operations for data stored on shared file storage,1,G06F
+11880487,2024-01-23,Graphical representation of an information management system,0,G06F
+11853191,2023-12-26,Management of internet of things devices,3,G06F|H04L
+11847026,2023-12-19,Single snapshot for multiple agents,0,G06F
+11836156,2023-12-05,Snapshot replication operations based on incremental block change tracking,0,G06F
+11829331,2023-11-28,Continuously run log backup with minimal configuration and resource usage from the source machine,0,G06F
+11829256,2023-11-28,Data storage management system for holistic protection of cloud-based serverless applications in single cloud and across multi-cloud computing environments,1,G06F|H04L
+11829255,2023-11-28,Information management security health monitoring system,0,G06F|G06N
+11829251,2023-11-28,Restore using deduplicated secondary copy data,1,G06F
+11824932,2023-11-21,Archiving applications in information management systems,0,G06F|H04L|H04M
+11822434,2023-11-21,Management database long-term archiving to a recovery manager,0,G06F
+11816005,2023-11-14,Systems and methods for change block tracking for backing up changed data,0,G06F
+11816001,2023-11-14,Managing structured data in a data storage system,0,G06F
+11815993,2023-11-14,Remedial action based on maintaining process awareness in data storage management,0,G06F
+11809285,2023-11-07,Protecting a management database of a data storage management system to meet a recovery point objective (RPO),3,G06F
+11803411,2023-10-31,Live synchronization and management of virtual machines across computing and virtualization platforms including in cloud computing environments,1,G06F
+11803308,2023-10-31,Ensuring the integrity of data storage volumes used in block-level live synchronization operations in a data storage management system,0,G06F
+11799956,2023-10-24,Network storage backup using distributed media agents,1,H04L
+11792164,2023-10-17,Data protection component scaling in a cloud-based data storage system,0,H04L
+11789830,2023-10-17,Anti-entropy-based metadata recovery in a strongly consistent distributed data storage system,8,G06F
+11782891,2023-10-10,Automated log-based remediation of an information management system,1,G06F|G06N
+11782750,2023-10-10,Cross-hypervisor live recovery of virtual machines,1,G06F
+11768800,2023-09-26,Archiving data objects using secondary copies,0,G06F
+11755424,2023-09-12,Restoring archived object-level database data,0,G06F
+11748332,2023-09-05,Organically managing storage of a data object based on an expiry timeframe supplied by a user of the data object,0,G06F
+11748143,2023-09-05,Live mount of virtual machines in a public cloud computing environment,5,G06F
+11734127,2023-08-22,Information management cell health monitoring system,0,G06F|G06N
+11734035,2023-08-22,Virtual machine load balancing,0,G06F
+11733930,2023-08-22,Global de-duplication of virtual disks in a storage platform,0,G06F
+11733877,2023-08-22,Restore for block-level backups,0,G06F
+11726887,2023-08-15,Table level database restore in a data storage system,0,G06F
+11714568,2023-08-01,On-demand restore of virtual machine data,1,G06F
+11711301,2023-07-25,Throttling data streams from source computing devices,0,G06F|H04L
+11709739,2023-07-25,Block-level single instancing,0,G06F
+11709615,2023-07-25,Block-level data replication,1,G06F
+11704223,2023-07-18,Managing data from internet of things (IoT) devices in a vehicle,2,G06F|H04L
+11698727,2023-07-11,Performing secondary copy operations based on deduplication performance,1,G06F|G06N|G06V
+11695831,2023-07-04,Geo-location-based data replication,0,G06F|G06N|H04L
+11693744,2023-07-04,Synthesizing format-specific full backup images,1,G06F
+11693740,2023-07-04,Dynamic triggering of block-level backups based on block change thresholds and corresponding file identities,0,G06F
+11693572,2023-07-04,Optimized deduplication based on backup frequency in a distributed data storage system,1,G06F|H04L
+11687511,2023-06-27,Distributed framework for data proximity-based task splitting in a content indexing system,0,G06F
+11687424,2023-06-27,Automated media agent state management,1,G06F|G06N
+11681804,2023-06-20,System and method for automatic generation of malware detection traps,3,G06F|H04L
+11681587,2023-06-20,Generating copies through interoperability between a data storage management system and appliances for data storage and deduplication,0,G06F
+11677824,2023-06-13,Multi-threaded scanning of distributed file systems,1,G06F|H04L
+11677632,2023-06-13,Smart network topology systems and methods,0,H04L
+11669414,2023-06-06,External dynamic virtual machine synchronization,6,G06F|H04L
+11669408,2023-06-06,Historical network data-based scanning thread generation,0,G06F|H04L
+11669400,2023-06-06,Lightweight metadata handling for file indexing and live browse of backup copies,4,G06F
+11669261,2023-06-06,Skipping data backed up in prior backup operations,0,G06F
+11663178,2023-05-30,Efficient implementation of multiple deduplication databases in a heterogeneous data storage system,3,G06F
+11663099,2023-05-30,Snapshot-based disaster recovery orchestration of virtual machine failover and failback operations,7,G06F
+11659064,2023-05-23,Data storage system with rapid restore capability,0,H04L
+11657358,2023-05-23,Assessing user performance in a community of users of data storage resources,0,G06F|G06Q
+11656956,2023-05-23,Lightweight data reconstruction based on backup data,0,G06F
+11656951,2023-05-23,Data loss vulnerability detection,1,G06F
+11656784,2023-05-23,Creating local copies of data stored in cloud-based data repositories,1,G06F
+11650885,2023-05-16,Live browsing of granular mailbox data,0,G06F|H04L
+11647075,2023-05-09,Commissioning and decommissioning metadata nodes in a running distributed data storage system,6,G06F|G06V|H04L|H04N
+11645175,2023-05-09,Automatic failover of a storage manager,2,G06F
+11645169,2023-05-09,Dynamic resizing and re-distribution of destination data storage resources for bare metal restore operations in a data storage management system,0,G06F
+11645168,2023-05-09,Management database long-term archiving to a recovery manager,2,G06F
+11640338,2023-05-02,"Data recovery operations, such as recovery from modified network data management protocol data",2,G06F
+11636133,2023-04-25,Distributed and scalable client-based and microservices-based storage management,0,G06F
+11636010,2023-04-25,Enhancing file indexing of block-level backup copies of virtual machines and/or file systems by populating and tracking a cache storage area and a backup index,3,G06F
+11630739,2023-04-18,Database protection using block-level mapping,0,G06F
+11625439,2023-04-11,Volume or virtual machine level backup and generating placeholders for virtual machine files,0,G06F
+11615147,2023-03-28,Mobile storage manager control application for managing a storage manager of an information management system,0,G06F
+11615059,2023-03-28,Smart archiving and data previewing for mobile devices,3,G06F|Y02D
+11615002,2023-03-28,Dynamically allocating streams during restoration of data,0,G06F
+11614883,2023-03-28,Distributed data storage system using erasure coding on storage nodes fewer than data plus parity fragments,4,G06F
+11611479,2023-03-21,Migration of existing computing systems to cloud computing sites or virtual machines,0,G06F|H04L
+11609827,2023-03-21,Distributed architecture for tracking content indexing,2,G06F
+11609826,2023-03-21,Multi-streaming backup operations for mailboxes,7,G06F|G06Q|H04L
+11604706,2023-03-14,Back up and restore related data on different cloud storage tiers,8,G06F
+11593228,2023-02-28,Live browse cache enhacements for live browsing block-level backup copies of virtual machines and/or file systems,8,G06F
+11593227,2023-02-28,Load balancing across multiple data paths,1,G06F
+11593224,2023-02-28,Opportunistic execution of secondary copy operations,0,G06F
+11593223,2023-02-28,Using resource pool administrative entities in a data storage management system to provide shared infrastructure to tenants,3,G06F
+11593217,2023-02-28,Systems and methods for managing single instancing data,1,G06F
+11586648,2023-02-21,Storing a variable number of instances of data objects,0,G06F
+11580066,2023-02-14,Auto summarization of content for use in new storage policies,0,G06F
+11579980,2023-02-14,Snapshot and backup copy operations for individual virtual machines,0,G06F
+11579681,2023-02-14,Power management of components within a storage management system,2,G06F|Y02D
+11575747,2023-02-07,Enhanced network attached storage (NAS) services interfacing to cloud storage,2,G06F|H04L
+11574050,2023-02-07,Media agent hardening against ransomware attacks,6,G06F|G06N
+11573866,2023-02-07,Evaluation and reporting of recovery readiness in a data storage management system,5,G06F|H04L
+11573862,2023-02-07,Application aware backup of virtual machines,0,G06F
+11573859,2023-02-07,Content-independent and database management system-independent synthetic full backup of a database based on snapshot technology,9,G06F
+11573744,2023-02-07,"Using storage managers in data storage management systems for quota distribution, compliance, and updates",0,G06F|G06Q
+11570243,2023-01-31,"Decommissioning, re-commissioning, and commissioning new metadata nodes in a working distributed data storage system",7,G06F|G06V|H04L|H04N
+11567990,2023-01-31,On-demand metadata extraction of clinical image data,1,G06F|G16H
+11561978,2023-01-24,Intelligent cache management for mounted snapshots based on a behavior model,0,G06F|G06N
+11561866,2023-01-24,Preparing containerized applications for backup using a backup services container and a backup services container-orchestration pod,2,G06F
+11550680,2023-01-10,Assigning backup resources in a data storage management system based on failover of partnered data storage resources,0,G06F
+11550670,2023-01-10,Automation of data storage activities,0,G06F|G06Q|H04L
+11546426,2023-01-03,System and method for client policy assignment in a data storage system,0,G06F|H04L
+11544221,2023-01-03,Systems and methods to identify unprotected virtual machines,0,G06F
+11544155,2023-01-03,Granular restoration of virtual machine application data,0,G06F
+11537959,2022-12-27,Dynamic computing progress tracker,0,G06F|G06N|G06Q
+11531602,2022-12-20,Data restoration operations based on network path information,1,G06F
+11526410,2022-12-13,Time-based virtual machine reversion,2,G06F
+11520755,2022-12-06,Migration of a database management system to cloud storage,0,G06F
+11520736,2022-12-06,Using utilities injected into cloud-based virtual machines for speeding up virtual machine backup operations,0,G06F
+11516289,2022-11-29,Method and system for displaying similar email messages based on message contents,0,G06F|G06Q|H04L
+11513922,2022-11-29,Systems and methods for change block tracking for backing up changed data,5,G06F
+11513708,2022-11-29,Optimized deduplication based on backup frequency in a distributed data storage system,4,G06F|H04L
+11513696,2022-11-29,Scalable auxiliary copy processing in a data storage management system using media agent resources,0,G06F
+11513694,2022-11-29,Secondary storage editor,0,G06F
+11507470,2022-11-22,Unified snapshot storage management,0,G06F|H04L
+11500821,2022-11-15,Synchronizing metadata in a data storage platform comprising multiple computer nodes,1,G06F
+11500751,2022-11-15,Log monitoring,4,G06F
+11500730,2022-11-15,"Storage management of data using an open-archive architecture, including streamlined access to primary data originally stored on network-attached storage and archived to secondary storage",3,G06F
+11500669,2022-11-15,Live recovery of virtual machines in a public cloud computing environment,10,G06F
+11500566,2022-11-15,Cloud-based distributed data storage system using block-level deduplication based on backup frequencies of incoming backup copies,5,G06F|H04L
+11494417,2022-11-08,Automated email classification in an information management system,0,G06F|G06N|H04L
+11494340,2022-11-08,Dynamic management of expandable cache storage for multiple network shares configured in a file server,0,G06F
+11494332,2022-11-08,"Search filtered file system using secondary storage, including multi-dimensional indexing and searching of archived files",0,G06F
+11494273,2022-11-08,Holistically protecting serverless applications across one or more cloud computing environments,5,G06F|H04L
+11487468,2022-11-01,Healing failed erasure-coded write attempts in a distributed data storage system configured with fewer storage nodes than data plus parity fragments,4,G06F
+11481542,2022-10-25,Summarization and processing of email on a client computing device based on content contribution to an email thread using weighting techniques,1,G06F|G06Q|H04L
+11474984,2022-10-18,Differential health checking of an information management system,0,G06F|H04L
+11474896,2022-10-18,"Monitoring, diagnosing, and repairing a management database in a data storage management system",2,G06F
+11474753,2022-10-18,Systems and methods for backing up to a virtual tape library,0,G06F
+11470152,2022-10-11,Using multiple streams with network data management protocol to improve performance and granularity of backup and restore operations from/to a file server,2,G06F|H04L
+11470056,2022-10-11,In-flight data encryption/decryption for a distributed storage platform,0,G06F|H04L
+11468015,2022-10-11,Storage and synchronization of metadata in a distributed storage system,1,G06F
+11468005,2022-10-11,Systems and methods to identify unprotected virtual machines,1,G06F
+11467914,2022-10-11,Migrating content and metadata from a backup system,10,G06F
+11467863,2022-10-11,Cross-hypervisor live mount of backed up virtual machine data,2,G06F
+11467753,2022-10-11,On-demand restore of virtual machine data,4,G06F
+11463264,2022-10-04,Use of data block signatures for monitoring in an information management system,0,H04L
+11461184,2022-10-04,"Data storage management system for protecting cloud-based data including on-demand protection, recovery, and migration of databases-as-a-service and/or serverless database management systems",11,G06F|H04L
+11461016,2022-10-04,Lightweight mounting of a secondary file system data,0,G06F
+11455280,2022-09-27,Synchronization of metadata in a distributed storage system,1,G06F
+11455212,2022-09-27,Block-level single instancing,1,G06F
+11449486,2022-09-20,File indexing for virtual machine backups in a data storage management system,1,G06F
+11449394,2022-09-20,"Failover systems and methods for performing backup operations, including heterogeneous indexing and load balancing of backup and indexing resources",6,G06F|H04L
+11449253,2022-09-20,Disk usage growth prediction system,0,G06F|G06N
+11443061,2022-09-13,Data protection within an unsecured storage environment,0,G06F
+11442896,2022-09-13,Systems and methods for optimizing restoration of deduplicated data stored in cloud-based storage resources,10,G06F
+11442820,2022-09-13,Systems and methods of unified reconstruction in storage systems,0,G06F
+11442768,2022-09-13,Cross-hypervisor live recovery of virtual machines,4,G06F
+11442623,2022-09-13,Faster browse of secondary copies of block-level data volumes,0,G06F
+11436210,2022-09-06,Classification of virtualization data,0,G06F
+11436202,2022-09-06,Cross-platform virtual machine data and memory backup and replication,7,G06F
+11436096,2022-09-06,Object-level database restore,4,G06F
+11436038,2022-09-06,Hypervisor-independent block-level live browse for access to backed up virtual machine (VM) data and hypervisor-free file-level recovery (block- level pseudo-mount),2,G06F
+11431797,2022-08-30,System for managing multiple information management cells,0,G06F|H04L
+11429499,2022-08-30,"Heartbeat monitoring of virtual machines for initiating failover operations in a data storage management system, including operations by a master monitor node",1,G06F|H04L
+11422991,2022-08-23,Fast deduplication data verification,0,G06F|H04L
+11422976,2022-08-23,Distributed deduplicated storage system,0,G06F|H04L
+11422900,2022-08-23,Platform-agnostic containerized application data protection,2,G06F
+11422732,2022-08-23,Live browsing and private writable environments based on snapshots and/or backup copies provided by an ISCSI server,0,G06F
+11422709,2022-08-23,Virtual machine change block tracking,6,G06F
+11416341,2022-08-16,Systems and methods to reduce application downtime during a restore operation using a pseudo-storage device,2,G06F|H04L
+11416328,2022-08-16,Remote monitoring and error correcting within a data storage system,0,G06F
+11416280,2022-08-16,Targeted snapshot based on virtual machine location,2,G06F
+11409765,2022-08-09,Application of information management policies based on operation with a geographic entity,0,G06F
+11409611,2022-08-09,Snapshot and backup copy operations for individual virtual machines,7,G06F
+11392542,2022-07-19,"Image level copy or restore, such as image level restore without knowledge of data object metadata",0,G06F
+11392538,2022-07-19,Archiving data objects using secondary copies,0,G06F
+11379457,2022-07-05,Management of log data,3,G06F
+11366723,2022-06-21,Data storage management system for holistic protection and migration of serverless applications across multi-cloud computing environments,18,G06F|H04L
+11366722,2022-06-21,Selective snapshot and backup copy operations for individual virtual machines in a shared storage,0,G06F
+11347707,2022-05-31,File indexing for virtual machine backups based on using live browse features,4,G06F
+11347408,2022-05-31,Shared network-available storage that permits concurrent data access,0,G06F|H04L
+11341106,2022-05-24,Deduplication system without reference counting,3,G06F
+11340672,2022-05-24,Persistent reservations for virtual disk using multiple targets,5,G06F
+11334442,2022-05-17,Management database long-term archiving to a recovery manager,6,G06F
+11330052,2022-05-10,Network storage backup using distributed media agents,2,H04L
+11327663,2022-05-10,Ensuring the integrity of data storage volumes used in block-level live synchronization operations in a data storage management system,6,G06F
+11323531,2022-05-03,Methods for backing up virtual-machines,0,H04L
+11323513,2022-05-03,Geo-location-based data replication,10,G06F|G06N|H04L
+11323373,2022-05-03,Intelligent local management of data stream throttling in secondary-copy operations,2,G06F|H04L
+11321383,2022-05-03,Data storage management operations in a secondary storage subsystem using image recognition and image-based criteria,1,G06F
+11321281,2022-05-03,Managing structured data in a data storage system,7,G06F
+11321195,2022-05-03,Hypervisor-independent reference copies of virtual machine payload data based on block-level pseudo-mount,4,G06F
+11321191,2022-05-03,Lightweight data reconstruction based on backup data,0,G06F
+11321190,2022-05-03,Distributed framework for task splitting and task assignments in a content indexing system,3,G06F
+11321189,2022-05-03,Information management by a media agent in the absence of communications with a storage manager,5,G06F
+11321188,2022-05-03,Platform-agnostic containerized application data protection,13,G06F|H04L
+11321184,2022-05-03,Streamlined secondary copy operations for data stored on shared file storage,1,G06F
+11321183,2022-05-03,Multi-tiered backup indexing,4,G06F|H04L
+11321181,2022-05-03,"Data protection scheduling, such as providing a flexible backup window in a data protection system",2,G06F
+11321180,2022-05-03,Backup index generation process,2,G06F
+11316920,2022-04-26,Cross-system storage management for transferring data across autonomous information management systems,0,G06F|H04L
+11314687,2022-04-26,Container data mover for migrating data between distributed data storage systems integrated with application orchestrators,21,G06F
+11314618,2022-04-26,Management of internet of things devices,3,G06F|H04L
+11314602,2022-04-26,Information management security health monitoring system,3,G06F|G06N
+11314458,2022-04-26,Global de-duplication of virtual disks in a storage platform,4,G06F
+11314424,2022-04-26,Restore for block-level backups,2,G06F
+11308035,2022-04-19,"Data object store and server for a cloud storage environment, including data deduplication and data management across multiple cloud storage sites",10,G06F|G06Q|H04L|Y04S
+11308034,2022-04-19,Continuously run log backup with minimal configuration and resource usage from the source machine,3,G06F
+11303570,2022-04-12,Dynamic management of effective bandwidth of data storage operations,1,G06F|H04L
+11301420,2022-04-12,Highly reusable deduplication database after disaster recovery,3,G06F
+11301334,2022-04-12,Monitoring of nodes within a distributed storage environment,0,G06F|H04L
+11301333,2022-04-12,Incrementally accumulating in-process performance data and hierarchical reporting thereof for a data stream in a secondary copy operation,4,G06F|H04L
+11294871,2022-04-05,Deduplication system without reference counting,2,G06F
+11294786,2022-04-05,Management of internet of things devices,11,G06F|H04L
+11294768,2022-04-05,Live browsing of backed up data residing on cloned disks,5,G06F
+11288236,2022-03-29,Data synchronization management,0,G06F|H04L
+11288235,2022-03-29,Synchronized data deduplication,1,G06F|H04L
+11288135,2022-03-29,Synthesizing a restore image from one or more secondary copies to facilitate data restore operations to a file server,2,G06F
+11287980,2022-03-29,Defensible pruning,0,G06F
+11287974,2022-03-29,Systems and methods for storage modeling and costing,3,G06F|G06N|G06Q|Y10S
+11281642,2022-03-22,"Handling user queries against production and archive storage systems, such as for enterprise customers having large and/or numerous files",0,G06F
+11269734,2022-03-08,"Data storage management system for multi-cloud protection, recovery, and migration of databases-as-a-service and/or serverless database management systems",7,G06F|H04L
+11269732,2022-03-08,Managing structured data in a data storage system,8,G06F
+11269543,2022-03-08,Integrated snapshot interface for a data storage system,1,G06F
+11263173,2022-03-01,Transaction log index generation in an enterprise backup system,8,G06F
+11263088,2022-03-01,Distributed architecture for tracking content indexing,3,G06F
+11256724,2022-02-22,Systems and methods for probabilistic data classification,1,G06F
+11256673,2022-02-22,Anomaly detection in deduplication pruning operations,3,G06F
+11256665,2022-02-22,Systems and methods for using metadata to enhance data identification operations,5,G06F|Y10S
+11249864,2022-02-15,External dynamic virtual machine synchronization,14,G06F|H04L
+11249863,2022-02-15,Backup-based media agent configuration,3,G06F
+11249858,2022-02-15,Point-in-time backups of a production application made accessible over fibre channel and/or ISCSI as data sources to a remote application by representing the backups as pseudo-disks operating apart from the production application and its host,6,G06F|H04L
+11245759,2022-02-08,Consolidated processing of storage-array commands by a snapshot-control media agent,0,G06F|H04L
+11243849,2022-02-08,"Restoration of centralized data storage manager, such as data storage manager in a hierarchical data storage system",0,G06F
+11238173,2022-02-01,Automated intelligent provisioning of data storage resources in response to user requests in a data storage management system,4,G06F
+11238064,2022-02-01,Snapshot replication operations based on incremental block change tracking,2,G06F
+11237935,2022-02-01,Anomaly detection in data protection operations,4,G06F
+11237924,2022-02-01,Dynamic resizing and re-distribution of destination data storage resources for bare metal restore operations in a data storage management system,2,G06F
+11237919,2022-02-01,Data transfer to a distributed storage environment,0,G06F|H04L
+11237915,2022-02-01,Recovery Point Objective (RPO) driven backup scheduling in a data storage management system,9,G06F
+11232065,2022-01-25,Using a Unix-based file system to manage and serve clones to windows-based computing clients,0,G06F
+11228647,2022-01-18,System and method for sharing SAN storage,0,G06F|H04L
+11223535,2022-01-11,Smart network topology systems and methods,20,H04L
+11221939,2022-01-11,Managing data from internet of things devices in a vehicle,11,G06F|H04L
+11218450,2022-01-04,Data protection component scaling in a cloud-based data storage system,8,H04L
+11204710,2021-12-21,Filtered reference copy of secondary storage data in a data storage system,25,G06F
+11201919,2021-12-14,Offline messaging between a repository storage operation cell and remote storage operation cells via an intermediary media agent,0,H04L
+11200124,2021-12-14,Assigning backup resources based on failover of partnered data storage servers in a data storage management system,12,G06F
+11200110,2021-12-14,Remedial action based on maintaining process awareness in data storage management,6,G06F
+11194775,2021-12-07,"Efficient database search and reporting, such as for enterprise customers having large and/or numerous files",3,G06F
+11194492,2021-12-07,Machine learning-based data object storage,2,G06F|G06N
+11188504,2021-11-30,Managing deletions from a deduplication database,3,G06F
+11188271,2021-11-30,"Using storage managers in data storage management systems for license distribution, compliance, and updates",0,G06F|G06Q
+11182255,2021-11-23,Sharing of secondary storage data,0,G06F
+11175996,2021-11-16,Efficient deduplication database validation,1,G06F
+11175982,2021-11-16,Remote monitoring and error correcting within a data storage system,0,G06F
+11169888,2021-11-09,Client-side repository in a networked deduplicated storage system,1,G06F
+11169729,2021-11-09,Using an enhanced data agent to restore backed up data across autonomous storage management systems,2,G06F|H04L
+11159469,2021-10-26,Using machine learning to modify presentation of mailbox objects,3,G06N|G06Q|H04L
+11157450,2021-10-26,High availability distributed deduplicated storage system,6,G06F
+11157171,2021-10-26,Migrating data to disk without interrupting running operations,0,G06F
+11150883,2021-10-19,Customized deployment in information management systems,4,G06F|H04L
+11144402,2021-10-12,Opportunistic execution of secondary copy operations,4,G06F
+11132139,2021-09-28,Systems and methods for migrating components in a hierarchical storage network,7,G06F
+11126365,2021-09-21,Skipping data backed up in prior backup operations,2,G06F
+11119984,2021-09-14,Managing deletions from a deduplication database,7,G06F
+11119974,2021-09-14,File system content archiving based on third-party application archiving rules and metadata,1,G06F
+11119868,2021-09-14,Load balancing across multiple data paths,2,G06F
+11119865,2021-09-14,Cross-application database restore,10,G06F
+11113246,2021-09-07,Accessing a file system using tiered deduplication,25,G06F
+11113154,2021-09-07,User-level quota management of data objects stored in information management systems,1,G06F
+11108864,2021-08-31,System and method for client policy assignment in a data storage system,1,G06F|H04L
+11108861,2021-08-31,System for managing multiple information management cells,1,G06F|H04L
+11108858,2021-08-31,Archiving mail servers via a simple mail transfer protocol (SMTP) server,0,G06F|H04L
+11106632,2021-08-31,"Dynamically configuring a proxy server using containerization for concurrent and/or overlapping backup, restore, and/or test operations",18,G06F|H04L
+11100064,2021-08-24,Automated log-based remediation of an information management system,17,G06F|G06N
+11100043,2021-08-24,Volume-level replication of data via snapshots and using a volume-replicating server in an information management system,1,G06F
+11099956,2021-08-24,Snapshot-based disaster recovery orchestration of virtual machine failover and failback operations,48,G06F
+11099944,2021-08-24,Storing metadata at a cloud-based data recovery center for disaster recovery testing and recovery of backup data stored remotely from the cloud-based data recovery center,2,G06F
+11099943,2021-08-24,Indexing backup data generated in backup operations,10,G06F
+11099886,2021-08-24,Archiving virtual machines in a data storage system,0,G06F
+11093336,2021-08-17,Browsing data stored in a backup format,0,G06F
+11086834,2021-08-10,Distributed framework for data proximity-based task splitting in a content indexing system,4,G06F
+11082489,2021-08-03,Method and system for displaying similar email messages based on message contents,2,G06F|G06Q|H04L
+11080232,2021-08-03,Backup and restoration for a deduplicated file system,0,G06F
+11074140,2021-07-27,Live browsing of granular mailbox data,3,G06F|H04L
+11074138,2021-07-27,Multi-streaming backup operations for mailboxes,7,G06F|G06Q|H04L
+11068187,2021-07-20,Systems and methods for data migration in a clustered file system,0,G06F
+11061714,2021-07-13,System for assignment of proxies for virtual-machine secondary copy operations,1,G06F|H04L
+11042663,2021-06-22,Automatic file encryption,1,G06F|H04L
+11042511,2021-06-22,Smart archiving and data previewing for mobile devices,0,G06F|Y02D
+11042449,2021-06-22,Database protection using block-level mapping,8,G06F
+11042446,2021-06-22,Application-level live synchronization across computing platforms such as cloud platforms,2,G06F
+11042318,2021-06-22,Block-level data replication,6,G06F
+11036679,2021-06-15,Auto summarization of content,1,G06F
+11036592,2021-06-15,Distributed content indexing architecture with separately stored file previews,9,G06F
+11032350,2021-06-08,Remote commands framework to control clients,2,G06F|H04L
+11032146,2021-06-08,Migration of existing computing systems to cloud computing sites or virtual machines,4,G06F|H04L
+11030059,2021-06-08,Automation of data storage activities,5,G06F|G06Q|H04L
+11030058,2021-06-08,Restoring archived object-level database data,8,G06F
+11023334,2021-06-01,Table level database restore in a data storage system,9,G06F
+11016859,2021-05-25,De-duplication systems and methods for application-specific data,11,G06F
+11016858,2021-05-25,Systems and methods for managing single instancing data,1,G06F
+11016696,2021-05-25,Redundant distributed data storage system,11,G06F
+11012508,2021-05-18,Region-based distributed information management system,0,H04L
+11010261,2021-05-18,Dynamically allocating streams during restoration of data,0,G06F
+11010258,2021-05-18,Generating backup copies through interoperability between components of a data storage management system and appliances for data storage and deduplication,2,G06F
+11010011,2021-05-18,"File manager integration with virtualization in an information management system with an enhanced storage manager, including user control and storage management of virtual machines",19,G06F|H04L
+11005935,2021-05-11,Using multiple streams with network data management protocol to improve performance and granularity of backup and restore operations from/to a file server,16,G06F|H04L
+11003626,2021-05-11,Creating secondary copies of data based on searches for content,0,G06F
+10999373,2021-05-04,Information management of data associated with multiple cloud services,0,G06F|H04L
+10999368,2021-05-04,Storage management operations based on executable files served on demand to storage management components,10,H04L
+10997038,2021-05-04,Table level database restore in a data storage system,9,G06F
+10997035,2021-05-04,Using a snapshot as a data source,0,G06F
+10996974,2021-05-04,"Cross-hypervisor live mount of backed up virtual machine data, including management of cache storage for virtual machine data",12,G06F
+10996866,2021-05-04,Scalable auxiliary copy processing in a data storage management system using media agent resources,1,G06F
+10990484,2021-04-27,Performing backup operations and indexing backup data,11,G06F
+10990430,2021-04-27,"Efficient data management improvements, such as docking limited-feature data management modules to a full-featured data management system",0,G06F|H04L
+10986181,2021-04-20,Cross-system storage management for transferring data across autonomous information management systems,2,G06F|H04L
+10984041,2021-04-20,Natural language processing integrated with database and data storage management,9,G06F|G10L
+10983986,2021-04-20,Organically managing primary and secondary storage of a data object based on an expiry timeframe supplied by a user of the data object,11,G06F
+10983875,2021-04-20,Time-based virtual machine reversion,15,G06F
+10983870,2021-04-20,"Data recovery operations, such as recovery from modified network data management protocol data",2,G06F
+10983863,2021-04-20,Intelligent protection of data,0,G06F|H04L
+10977231,2021-04-13,Predicting scale of data migration,2,G06F
+10977225,2021-04-13,Differential health checking of an information management system,1,G06F|H04L
+10972413,2021-04-06,"System and method for monitoring, blocking according to selection criteria, converting, and copying multimedia messages into storage locations in a compliance file format",2,G06F|G06Q|H04L
+10970304,2021-04-06,Storing a variable number of instances of data objects,1,G06F
+10963422,2021-03-30,"Search filtered file system using secondary storage, including multi-dimensional indexing and searching of archived files",1,G06F
+10963350,2021-03-30,Dynamic triggering of block-level backups based on block change thresholds and corresponding file identities using indexing in a data storage management system,5,G06F
+10956299,2021-03-23,Diagnosing errors in data storage and archiving in a cloud or networking environment,3,G06F
+10956286,2021-03-23,Deduplication replication in a distributed deduplication data storage system,15,G06F|H04L
+10956275,2021-03-23,Collaborative restore in a networked storage system,13,G06F
+10956274,2021-03-23,Block-level single instancing,4,G06F
+10956201,2021-03-23,Systems and methods for repurposing virtual machines,1,G06F
+10949398,2021-03-16,Synchronization operations for network-accessible folders,10,G06F|H04L
+10949382,2021-03-16,User-centric interfaces for information management systems,10,G06F
+10949308,2021-03-16,Application aware backup of virtual machines,28,G06F
+10949240,2021-03-16,Live synchronization and management of virtual machines across computing and virtualization platforms and using live synchronization to support disaster recovery,4,G06F
+10942894,2021-03-09,Operation readiness checking and reporting,6,G06F
+10938723,2021-03-02,Intelligent local management of data stream throttling in secondary-copy operations,4,G06F|H04L
+10929027,2021-02-23,Reporting using data obtained during backup of primary storage,3,G06F
+10922197,2021-02-16,Creating a customized bootable image for a client computing device from an earlier image such as a backup copy,2,G06F
+10922189,2021-02-16,Historical network data-based scanning thread generation,2,G06F|H04L
+10922006,2021-02-16,System and method for storing redundant information,0,G06F|G11B
+10915255,2021-02-09,Restore of secondary data using thread pooling,0,G06F

@@ -1,0 +1,1185 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430334,2025-09-30,Database management apparatus and method,0,G06F
+12429856,2025-09-30,"Factory plan device, factory plan system, and factory plan method",0,G05B|G06Q|Y02P
+12423636,2025-09-23,Risk management system and method,0,G06F|G06N|G06Q
+12423602,2025-09-23,Data-creation assistance apparatus and data-creation assistance method,0,G06F|G06N
+12423600,2025-09-23,"Integration device, integration method, and storage medium",0,G06N|G16H
+12420811,2025-09-23,Detecting anomalies in vehicle artificial intelligence systems,0,B60W|G06N
+12417213,2025-09-16,Computer system and service construction support method,0,G06F
+12411547,2025-09-09,"Pressure sensor device, method for manufacturing the same, and work management system using the same",0,G01L|G06F
+12406752,2025-09-02,System for generating compound structure representation,0,G06N|G16C
+12406190,2025-09-02,Failure probability evaluation system and method,0,G01M|G06F|G06N|G06Q
+12405976,2025-09-02,Method and system for generating training data for classifying intents in a conversational system,0,G06F
+12405954,2025-09-02,"Graph search device, graph search system, and graph search method",0,G06F
+12405602,2025-09-02,"Information processing apparatus, information processing system, and information processing method",0,G05B|G06T|Y02P
+12403605,2025-09-02,Methodology for safe remote humanoid takeover for multi-user telexistence with minimal hardware user requirements,0,B25J|G05B|G06F|G06V
+12402115,2025-08-26,"Management device, communication control system, and communication control method",0,H04L|H04W
+12402059,2025-08-26,"Management apparatus, management system, and management method",0,H04L|H04W
+12401678,2025-08-26,Computer system and analysis method for impact of security risk,0,G06F|G06Q|H04L
+12400932,2025-08-26,Power conversion device with refrigerant,0,H01L|H02M|H05K
+12400045,2025-08-26,Support device and search key shape registration method,0,G06F
+12399013,2025-08-26,Power generation planning device and power generation planning method,0,B63B|G01C|G06Q|H02J
+12396374,2025-08-19,Semiconductor device comprising plurality of diffusion layer electrodes with different conductivities and gate electrodes,0,G06N|H10N
+12393897,2025-08-19,"Service plan change assistance apparatus, decision model creation apparatus, decision model creation program, and train traffic management system",0,B61L|G06Q
+12393177,2025-08-19,Facility operation system and facility operation method,0,B25J|G05B|G06Q
+12387426,2025-08-12,Three-dimensional grid-based data processing device and three-dimensional grid-based data processing method,0,G06T|G06V
+12386727,2025-08-12,Method and apparatus for bug bounty system for blockchain,0,G06F
+12386359,2025-08-12,Safety control device and safety rule adjustment method,0,B60L|B61L|G05B|G05D|G06Q|G08G
+12383986,2025-08-12,Welding work measurement system,0,B23K|G06T|G09B|H04N
+12382407,2025-08-05,Resource control for system logging,0,H04W
+12380752,2025-08-05,"System, method and computer program product for automatically opening a gate of a public transport station",0,G07B|G07C|H04W
+12380191,2025-08-05,Information processing system and information processing method,0,G06F
+12374008,2025-07-29,Behind-the-meter devices visualization method and computing system,0,G06T
+12367535,2025-07-22,"Community evaluation system, community evaluation method, behavior evaluation system, and behavior evaluation method",0,G06Q
+12365564,2025-07-22,"Number-of-people information acquisition system, number-of-people information acquisition method, and elevator",0,B66B|G06V|H04N
+12361592,2025-07-15,Ranging sensor calibration system and ranging sensor calibration method,0,G01C|G01S|G06T
+12360014,2025-07-15,Production line analyzer and visualizer for line performance improvement,0,G01M|G06Q
+12359975,2025-07-15,Object recognition device and object recognition method,0,G01J|G06T|G06V
+12355890,2025-07-08,Authentication apparatus and authentication method,0,G06F|H04L
+12354360,2025-07-08,Method to operate multiple sensors for multiple instances of interconnected human activity recognition,0,G06V|H04N|H04W
+12354311,2025-07-08,Data compression and decompression system and method thereof,0,G06N|G06T|H04N
+12354161,2025-07-08,Power generation plant operation assistance system and power generation plant control system,0,G06Q|H02J|Y04S
+12348032,2025-07-01,Apparatus enabling interactions between actors of an energy-related infrastructure,0,G06Q|H02J
+12340228,2025-06-24,Information processing terminal and sensing system,0,G06F
+12339652,2025-06-24,Facility diagnosis device and facility diagnosis method,0,B25J|G05B|G06Q
+12339641,2025-06-24,Distributed system and data transmission method,0,G05B|G06F
+12335271,2025-06-17,"System, method and program for an industrial control system having assets that require different authentication and authorization levels for access",0,H04L
+12335167,2025-06-17,Security function execution device,0,H04L
+12333621,2025-06-17,"Evidence management method, evidence management system, and node",0,G06F|G06Q
+12333409,2025-06-17,Information processing device and learning recognition system,0,G06N|G06V
+12333044,2025-06-17,"Information processing system, information processing method, and computer",0,G06F|G06Q|H04L
+12332843,2025-06-17,"Data management apparatus, data management method, and computer program",0,G06F
+12332818,2025-06-17,Distributed system and data transfer method,0,G06F|H04L
+12330683,2025-06-17,"Computing device, vehicle-mounted device, and autonomous driving system",0,B60W|B62D|G06N|G08G|G09B
+12327083,2025-06-10,Related expression extraction device and related expression extraction method,0,G06F
+12326835,2025-06-10,File management system and work support system,0,G06F
+12326730,2025-06-10,Autonomous system and its control method,0,B65G|G05B|G05D|G06Q
+12326719,2025-06-10,Control system,0,G05B|G06F
+12321626,2025-06-03,Copy data's tier management,0,G06F
+12321470,2025-06-03,"Data management system, data management method, and non-transitory computer readable medium",0,G06F|H04L
+12315633,2025-05-27,Medical image processing apparatus and medical image processing method,1,G06N|G06T|G16H
+12314875,2025-05-27,"Value chain plan linking method, value chain plan linking apparatus, and value chain plan linking system",0,G06Q
+12314848,2025-05-27,Computer system and model training method,0,G06N
+12314699,2025-05-27,Software query information management system and software query information management method,0,G06F|G06Q|H04L|H04W
+12309676,2025-05-20,Network system and network slice generation method,0,H04L|H04W
+12307809,2025-05-20,Photographing apparatus and authentication apparatus,0,A61B|G06F|G06V|H04N
+12307800,2025-05-20,"Inter-word score calculation apparatus, question and answer extraction system and inter-word score calculation method",0,G06F|G06V
+12307441,2025-05-20,Electronic payment system and electronic payment method,0,G06Q|G09C|H04L
+12307395,2025-05-20,Timetable planning system and timetable generating method,0,B61L|G06Q|Y02T
+12299157,2025-05-13,"Policy setting control device, policy setting control method, and policy setting control program",0,G06F
+12289184,2025-04-29,Estimation system and estimation method,0,G06F|G06N|G06Q|G16Y|H04L|Y04S
+12288105,2025-04-29,Environment construction system and environment construction method,0,G06F
+12283038,2025-04-22,"Tool wear monitoring device, tool wear monitoring system, and program",0,G01B|G01N|G01R|G02B|G06T|H04N
+12280813,2025-04-22,Train operation support system and train operation support method,0,B61L|G06Q
+12278672,2025-04-15,Computing apparatus and margin measurement method,0,H04B|H04L
+12277407,2025-04-15,Programming aiding method in a visual programming interface,0,G06F|G06N
+12277337,2025-04-15,Automatic storage configuration system,0,G06F
+12260090,2025-03-25,Storage network resource management,0,G06F
+12254654,2025-03-18,Microstructural image analysis device and microstructural image analysis method,0,G06T
+12254478,2025-03-18,Delivery date answering apparatus and delivery date answering method,0,G06Q|Y02P
+12254428,2025-03-18,"Timetable creation apparatus, timetable creation method, and automatic vehicle control system",0,B61L|G06N|G06Q
+12248769,2025-03-11,"Program analyzing apparatus, program analyzing method, and trace processing addition apparatus",0,G06F
+12248391,2025-03-11,"Defect analysis apparatus, program, and defect analysis method",0,G06F
+12244785,2025-03-04,State monitoring method and state monitoring system,0,G06T|G06V|H04N
+12242862,2025-03-04,Data processing system and data processing method,0,G06F
+12238008,2025-02-25,Communication test device and communication test method,0,H04L
+12236223,2025-02-25,Systems and methods for selecting templates for application deployment,0,G06F|H04L
+12235862,2025-02-25,Time series prediction method for graph structure data,0,G06F
+12235819,2025-02-25,Auto fault tree generation system,0,G06F
+12235728,2025-02-25,Automatic identification and attachment of replicated volumes to application,0,G06F
+12230934,2025-02-18,Laser oscillator,0,G06N|H01S
+12223030,2025-02-11,"Data access control method, data access control apparatus, and data access control program",0,G06F
+12222864,2025-02-11,"Data conversion apparatus, system, and method",0,G05B|G06F|G16Y|H04L
+12222725,2025-02-11,Moving range setting system and moving range setting method,0,B25J|G05B|G05D|G06N
+12217469,2025-02-04,Photographing apparatus and authentication apparatus,0,G06T|G06V
+12216688,2025-02-04,Information system and information collection method,0,G05B|G06F|G06Q
+12211256,2025-01-28,"Image recognition support apparatus, image recognition support method, and image recognition support program",0,G06N|G06V
+12211149,2025-01-28,"Drive assist apparatus, drive assist method, and drive assist system",0,G05D|G06T|G06V
+12210992,2025-01-28,Multi-party business collaboration platform for electrification ecosystems,0,G06Q
+12210975,2025-01-28,"Data analysis apparatus, data analysis method, and recording medium",0,G06F|G06N
+12210557,2025-01-28,Data extraction system and data extraction method,0,G06F
+12204776,2025-01-21,Storage management system and storage management method,0,G06F
+12204775,2025-01-21,Storage system and a method of controlling energy consumption therein,0,G06F|Y02D
+12203761,2025-01-21,Vehicle operation assistance device and vehicle operation assistance method,0,B61L|G01C|G06Q
+12198321,2025-01-14,Fracture surface analysis apparatus and fracture surface analysis method,0,G01N|G06T
+12198176,2025-01-14,Replacement candidate recommendation system and method,0,G06F|G06Q
+12197760,2025-01-14,Backup system and method,0,G06F
+12197325,2025-01-14,Storage apparatus and method of controlling storage controller,0,G06F
+12191663,2025-01-07,Power supply and demand planning device,0,G06Q|H02J
+12191661,2025-01-07,System and method for supporting creation of system plan to change configuration of power system,0,G06Q|H02J|Y04S
+12182736,2024-12-31,"Method for estimating intra-building traffic, and system for estimating intra-building traffic",0,B66B|G06F|G06N|G06Q
+12181865,2024-12-31,"Operating state classification system, and operating state classification method",0,G05B|G06N
+12176315,2024-12-24,"Electrical connection member, electrical connection structure, and method for manufacturing electrical connection member",0,B21J|B21K|B23K|H01B|H01L
+12175728,2024-12-24,"Labeling system, activity recognition system, and teaching material generating system",0,G06N|G06V
+12174838,2024-12-24,Computer system and data providing method,0,G06F
+12169759,2024-12-17,Quantum information processing device,0,B82Y|G06N|H10D
+12169632,2024-12-17,Storage system and storage control method including storing a log related to the stored data,0,G06F
+12169441,2024-12-17,Data management system and data management method,0,G06F
+12166348,2024-12-10,Management system and management method for managing parts in manufacturing made from renewable energy,0,G05B|G06Q|H02J|Y02P
+12165654,2024-12-10,Multi-speaker diarization of audio input using a neural network,0,G06N|G10L
+12164389,2024-12-10,Automatic copy configuration,0,G06F
+12163849,2024-12-10,Board analysis supporting method and board analysis supporting system,0,G01L|G06F
+12159487,2024-12-03,"Action recognition apparatus, learning apparatus, and action recognition method",0,G06F|G06V
+12159051,2024-12-03,Migration of application on container platform,0,G06F
+12158882,2024-12-03,Query based method to derive insight about manufacturing operations,0,G06F
+12158822,2024-12-03,Information processing system and backup method,0,G06F
+12158784,2024-12-03,Drive box,0,G06F
+12155209,2024-11-26,Adjustment power procurement device and adjustment power procuring method,0,G05B|G06Q|H02J
+12154294,2024-11-26,Model creation device and model creation method,0,G06T
+12154070,2024-11-26,"Procurement work assistance system, procurement work assistance device, and procurement work assistance method",0,G06Q|Y02P
+12153946,2024-11-26,Remote work supporting apparatus and method,0,G06F
+12153672,2024-11-26,Security management system and security management method,0,G06F|H04L
+12153582,2024-11-26,Storage system and data cache method,0,G06F
+12153518,2024-11-26,Storage device,0,G06F
+12153405,2024-11-26,Control system and control method therefor,0,G05B|G06F|Y02P
+12149992,2024-11-19,Redundant communication system,0,H04W
+12147756,2024-11-19,Apparatus for generating draft document and method therefor,0,G06F|G06Q
+12147543,2024-11-19,Vulnerability management system and vulnerability management method,0,G06F
+12147406,2024-11-19,Database management apparatus and database management method,0,G06F
+12147218,2024-11-19,"Information collection and display system, information collection method, and information display method",0,G05B|G06F|G06Q|Y02P
+12143357,2024-11-12,Communication control apparatus and system,0,H04L
+12142092,2024-11-12,Distributed system and data processing method,0,G06F|G07C
+12141604,2024-11-12,Arithmetic operation method and arithmetic operation instruction system,0,G06F
+12141589,2024-11-12,"Related data extraction apparatus, related data extraction system, related data extraction method, and related data extraction program",0,G06F|Y02P
+12140934,2024-11-12,Distributed production planning and instruction apparatus and distributed production planning and instruction system,0,G05B|G06Q
+12135892,2024-11-05,Storage system and data transfer method that suppress a drop in the I/O performance of the storage device caused by a rebalancing,0,G06F
+12132743,2024-10-29,Trail recording system and data verification method,0,G06F|H04L
+12132014,2024-10-29,Power semiconductor apparatus,0,H01L|H02M
+12131023,2024-10-29,"Computer system, method of tracking lineage of data, and non-transitory computer-readable medium",0,G06F
+12130818,2024-10-29,"Data management apparatus, data management system, and data management method",0,G06F
+12130752,2024-10-29,Storage system,0,G06F
+12125284,2024-10-22,Object search device and object search method,0,G06T|G06V
+12124732,2024-10-22,"Information processing apparatus, data control method, and recording medium for parallel access of processors to storage areas",0,G06F|H04L
+12124726,2024-10-22,Data replication system and data replication method,0,G06F|H03M
+12124712,2024-10-22,Storage system,0,G06F|Y02D
+12124340,2024-10-22,"Management method, recording medium, and management apparatus",0,G06F
+12124337,2024-10-22,Storage system and storage control method,0,G06F
+12124336,2024-10-22,Data acquisition of snapshots,0,G06F
+12123729,2024-10-22,Precautionary observation zone for vehicle routing,0,B60W|G01C|G06N
+12118393,2024-10-15,Resource allocation control based on performance-resource relationship,0,G06F|Y02D
+12118100,2024-10-15,Data distribution intermediary device and data distribution intermediary method,0,G06F|G06Q
+12117809,2024-10-15,"Planning device, planning method, and planning program",1,B25J|G05B|G06F
+12117299,2024-10-15,"Demand coverage, service and capacity fulfilment route optimization",0,G01C|G06N|G06Q
+12113721,2024-10-08,Network interface and buffer control method thereof,1,H04L
+12111730,2024-10-08,Storage system and failure handling method,0,G06F
+12106029,2024-10-01,High-level synthesis device and high-level synthesis method,0,G06F
+12105977,2024-10-01,Multi-node storage system and cooperation method for performing input output,0,G06F
+12105972,2024-10-01,Storage system and storage control method of data deduplication between virtual devices,0,G06F
+12105854,2024-10-01,Data intermediary system and data intermediary method,0,G06F|H04L
+12105824,2024-10-01,Information processing system for managing data storage and retrieval and method,0,G06F
+12105605,2024-10-01,Data replication control for high available system,0,G06F
+12105603,2024-10-01,Distributed transaction control system and distributed transaction control method,0,G06F|H04L
+12101736,2024-09-24,Position estimation system and position estimation method,0,G06F|H04W
+12101677,2024-09-24,Network application orchestration system,0,H04L|H04W
+12099910,2024-09-24,System to invoke update of machine learning models on edge computers,0,G06F|G06N
+12099836,2024-09-24,Source code analysis apparatus and source code analysis method,0,G06F
+12099726,2024-09-24,Rebalancing volumes in computer system comprising upper and lower cluster,0,G06F
+12099621,2024-09-24,"Computer system, data control method, and storage medium",0,G06F|H04L
+12095382,2024-09-17,"Semiconductor device, electric power conversion device, and manufacturing method of semiconductor device",0,H01L|H02M
+12094067,2024-09-17,Machine fastening work method using augmented reality,0,B25B|G02B|G06Q|G06T|Y02P
+12093653,2024-09-17,"Analyzer, moral analysis method, and recording medium",0,G06F
+12093415,2024-09-17,Data intermediary system and data intermediary method,0,G06F|G06Q|H04L
+12093142,2024-09-17,Computer system and data control method,0,G06F
+12086731,2024-09-10,Workshop assistance system and workshop assistance method,0,G06F|G06N|G06Q|G10L|Y02P
+12086614,2024-09-10,System replication method in hybrid cloud environment,0,G06F
+12086470,2024-09-10,Storage device and data processing method,0,G06F|H03M
+12086411,2024-09-10,Storage control apparatus and method for a database storing data in pages,0,G06F
+12086240,2024-09-10,Electronic device and attack detection method of electronic device,0,G06F
+12086190,2024-09-10,Metadata propagation method for graph structure data,0,G06F
+12081514,2024-09-03,"Communication control method, computer system, and computer",0,G06F|H04L
+12081455,2024-09-03,Computer system and resource allocation control method,0,G06F|H04L
+12079497,2024-09-03,"System configuration management device, system configuration management method, and system configuration management program",0,G06F
+12073656,2024-08-27,"Activity detection device, activity detection system, and activity detection method",0,G06F|G06N|G06V
+12073607,2024-08-27,Recognition model distribution system and updating method of recognition model,0,G06T|G06V|G08G
+12073295,2024-08-27,Machine learning model operation management system and method,0,G06F|G06N|Y02P
+12073089,2024-08-27,Storage device and data recovery method by storage device,0,G06F
+12073080,2024-08-27,System and method for improving reliability of a data storage system,0,G06F|H03M
+12067413,2024-08-20,Apparatus for determining resource migration schedule,0,G06F
+12067372,2024-08-20,Method and system for restricting transmission of sensitive information contained in a document,0,G06F
+12067297,2024-08-20,Storage system and data layout conversion method in storage system,0,G06F
+12067095,2024-08-20,"Biometric authentication system, biometric authentication method, and storage medium",0,G06F|G06N|G06V
+12066913,2024-08-20,Storage system having multiple management controllers for detecting a failure,1,G06F
+12066894,2024-08-20,Storage system,0,G06F
+12061936,2024-08-13,Computer system and program execution method,0,G06F
+12061810,2024-08-13,Information processing apparatus and method in hybrid cloud system including hosts provided in cloud and storage apparatus provided at a location other than the cloud,0,G06F|H04L
+12061804,2024-08-13,Storage system and data processing method,0,G06F
+12061528,2024-08-13,Storage system and storage system control method,0,G06F
+12058165,2024-08-06,"Storage system, coupling priority determination method, and recording medium",0,H04L
+12056366,2024-08-06,Storage system,0,G06F
+12056166,2024-08-06,System and method for supporting corporate business,0,G06F|G06Q
+12056129,2024-08-06,Computer system and query processing method,0,G06F
+12050797,2024-07-30,Storage system and storage cost optimization method,0,G06F|G06Q
+12050521,2024-07-30,Management method,0,G06F
+12047451,2024-07-23,IoT system and data collection control method,0,G06F|G16Y|H04L
+12045531,2024-07-23,Context-based information displays,0,G06F|G06K|G06Q|G06V
+12045507,2024-07-23,"Storage system, data write control method, and non-transitory computer readable medium for storing data write control program",0,G06F
+12045133,2024-07-23,Storage system,0,G06F
+12038899,2024-07-16,Data annotation method and system for unstructured data integrating with data catalog,0,G06F
+12038889,2024-07-16,Data integration method and data integration system,1,G06F
+12038888,2024-07-16,Storage control apparatus and method,0,G06F|H03M
+12038821,2024-07-16,Alert rule manipulation in sync of temporary configuration change,0,G06F
+12036679,2024-07-16,Information processing device and information processing method,0,B25J|G05B|G06F|G06Q
+12036609,2024-07-16,"Additive manufacturing condition search apparatus, additive manufacturing condition search method, and reference sample",0,B22F|B29C|B33Y|G01N|G05B|G06N
+12035212,2024-07-09,Wireless communication device and control method for wireless communication device,0,H04W
+12033001,2024-07-09,Optimizing machine learning as-a-service performance for cellular communication systems,1,G06F|G06N|H04B
+12026391,2024-07-02,Copy control device and copy control method,0,G06F
+12026262,2024-07-02,Storage system and data deletion method,0,G06F
+12026242,2024-07-02,"Key generation apparatus, key utilization apparatus, and key generation method",0,G06F|H04L
+12019921,2024-06-25,Apparatus for processing received data,0,G06F|H03M
+12019885,2024-06-25,Information processing system and configuration management method including storage nodes connected by network,0,G06F
+12019595,2024-06-25,Failure probability evaluation system,0,G06F|G06Q
+12015664,2024-06-18,Information processing system and application services distribution method in information processing system,0,G06F|H04L|Y02D
+12008376,2024-06-11,Information processing system and information processing method,0,G06F
+12003047,2024-06-04,Wiring substrate and information processing device,0,G06F|H01R|H05K
+12001692,2024-06-04,Access control system and access control method,0,G06F
+12001396,2024-06-04,File storage and computer system,0,G06F|H03M|H04L
+12001181,2024-06-04,Power generation planning apparatus,0,G05B|G06Q|H02J|Y02E|Y04S
+11997072,2024-05-28,Apparatus for detecting unauthorized communication in a network and searching for a substitute device,0,H04L
+11995586,2024-05-28,Production planning system and production planning method,0,G05B|G06Q
+11995202,2024-05-28,Computer system and data access control method,0,G06F|H04L|H04W
+11994965,2024-05-28,"Storage system, failover control method, and recording medium",0,G06F
+11994839,2024-05-28,Optimization system of manufacturing process and method thereof,0,G05B|G06Q|G16C
+11994454,2024-05-28,Particle beam experiment data analysis device,0,G01N|G06N
+11994448,2024-05-28,Leakage oil detection device and leakage oil detection method,0,G01M|G06T
+11989623,2024-05-21,Quantum computer and quantum state controlling method in quantum computer,0,G01R|G06N
+11989455,2024-05-21,"Storage system, path management method, and recording medium",0,G06F
+11989412,2024-05-21,Storage system and method for minimizing node down time,0,G06F
+11989105,2024-05-21,Storage system and control method for adjusting timeout based on network conditions,0,G06F|H04L
+11989079,2024-05-21,System management device and system management method,0,G06F
+11985792,2024-05-14,Electronic computing apparatus and enclosure therefor,0,G06F|H05K
+11983526,2024-05-14,Software inquiry information management system and software inquiry information management method,0,G06F|G06Q|Y02P
+11983002,2024-05-14,Failure probability assessment system and method therefor,0,G05B|G06N
+11982992,2024-05-14,Task and cycle time detection method and system,0,G05B|G06N|G06Q|G06V
+11977876,2024-05-07,"Update device, update method and program",0,G06F
+11977866,2024-05-07,Application screen display program installing method,0,G06F
+11977765,2024-05-07,Storage system and data processing method,0,G06F
+11977764,2024-05-07,Predictive optimization system and method for data generation and transmission in storage networks,0,G06F
+11977636,2024-05-07,Storage transaction log,0,G06F
+11977487,2024-05-07,"Data control device, storage system, and data control method",0,G06F|H04L
+11977441,2024-05-07,Fault tree generation device and fault tree generation method,0,G05B|G06F|G06Q
+11977433,2024-05-07,Failure area identification system,0,G06F
+11972119,2024-04-30,Storage system and cryptographic operation method,0,G06F
+11971998,2024-04-30,"Data comparison device, data comparison system, and data comparison method",0,G06F|H04L
+11967624,2024-04-23,Semiconductor device,0,H01L|H10D
+11966716,2024-04-23,Apparatus and method for fully parallelized simulated annealing using a self-action parameter,0,G06F|G06N
+11960939,2024-04-16,"Management computer, management system, and recording medium",0,G06F|H04L
+11960928,2024-04-16,Event monitoring system and event monitoring method,0,G06F
+11960862,2024-04-16,Source code correction assistance apparatus and source code correction assistance method,0,G06F
+11960771,2024-04-16,Storage system and data management method,0,G06F
+11954604,2024-04-09,Maintenance operation assistance system,0,G01M|G01R|G05B|G06N|Y02P
+11954600,2024-04-09,"Image processing device, image processing method and image processing system",0,G06F|G06N|G06V
+11954335,2024-04-09,Computer system and redundant element configuration method,0,G06F
+11954001,2024-04-09,Storage system,0,G06F|Y02D
+11947811,2024-04-02,Storage system and data replication method in storage system,0,G06F
+11941898,2024-03-26,Three-dimensional position and posture recognition device and method,0,B25J|G01B|G06T|G06V
+11941284,2024-03-26,"Management system, QoS violation detection method, and QoS violation detection program",0,G06F
+11941255,2024-03-26,Storage system and data management method,0,G06F
+11935012,2024-03-19,Construct information management system and method,0,G06F|G06Q|H04L
+11934865,2024-03-19,Vehicle control system for dynamically updating system components,0,B60W|G06F
+11934353,2024-03-19,Storage system including encoder,0,G06F|G06N
+11933993,2024-03-19,"Imaging optical system, imaging apparatus and focal-depth extension optical system",0,G02B|G06T|H04N
+11928889,2024-03-12,Photographing apparatus and authentication apparatus,1,A61B|G06F|G06V|H04N
+11928618,2024-03-12,"Transport allocation planning system, information processing apparatus, and method for controlling transport allocation planning system",0,G01C|G06F|G06N|G06Q|G08G
+11928591,2024-03-12,Information processing apparatus and information processing method,1,G06F|G06N|G06V
+11928524,2024-03-12,Computer system and computer system usage management method,0,G06F|H04L
+11926053,2024-03-12,Robotic simulation distributed version control system,0,B25J|G05B|G06F
+11924672,2024-03-05,"Communication system, communication control method, and storage medium",0,H04L|H04W
+11923072,2024-03-05,Image diagnosis supporting device and image processing method,0,G06T|G16H
+11922018,2024-03-05,Storage system and storage control method including dimension setting information representing attribute for each of data dimensions of multidimensional dataset,0,G06F|G06N|G11B|H03M
+11921845,2024-03-05,"Risk evaluation and countermeasure planning system, and risk evaluation and countermeasure planning method",1,G06F|H04L|H04W
+11921737,2024-03-05,"ETL workflow recommendation device, ETL workflow recommendation method and ETL workflow recommendation system",0,G06F|G06Q
+11921688,2024-03-05,Environment construction support device and environment construction support method,0,G06F
+11920808,2024-03-05,Energy management system and energy management method,1,F24F|G05B|G06Q
+11914988,2024-02-27,Cloud application deployment device and cloud application deployment method,0,G06F|G06N
+11914950,2024-02-27,Report writing support system and report writing support method,0,G06F|G06Q
+11914868,2024-02-27,"Storage system, method for moving drives, and non-transitory computer-readable medium",0,G06F
+11914603,2024-02-27,Data layout model generation system,0,G06F
+11914507,2024-02-27,Software test apparatus and software test method,0,G06F|G06N
+11909567,2024-02-20,Equalizer and equalization system,0,H04L
+11909541,2024-02-20,"Management method, management device, and recording medium",0,G06F|H04L
+11907871,2024-02-20,"Generation device, generation method, and recording medium",0,G06F|G06Q
+11907856,2024-02-20,Determining an operating envelope for controlling equipment,0,G05B|G06F|G06N|G06Q
+11907746,2024-02-20,Compound storage system,0,G06F
+11900701,2024-02-13,Left object detection device and left object detection method,0,G06V|G08B|H04N
+11900669,2024-02-13,Calibration device and calibration method,0,G01S|G06F|G06V|H04N
+11899799,2024-02-13,Security risk reduction method and security risk reduction system,0,G06F
+11899787,2024-02-13,"Information processing system, inference method, attack detection method, inference execution program and attack detection program",0,G06F|G06N|G06V
+11895776,2024-02-06,"Flexible printed wiring board, joined body, pressure sensor and mass flow controller",0,G01L|G05D|H01L|H05K
+11893528,2024-02-06,Logistics operation optimization apparatus and logistics operation optimization method,0,G06Q|Y02P
+11892826,2024-02-06,Anomaly detection system,0,G05B|G06F|G06N
+11886459,2024-01-30,Data management system and data management method,0,G06F
+11886300,2024-01-30,Data duplication system and backup method,0,G06F
+11886294,2024-01-30,Distributed storage system,0,G06F|H03M|H04L
+11880589,2024-01-23,Storage system and control method,0,G06F
+11880570,2024-01-23,"Storage system, data transmission method, and network interface",0,G06F
+11880566,2024-01-23,Storage system and control method of storage system including a storage control unit that performs a data amount reduction processing and an accelerator,0,G06F
+11880478,2024-01-23,"Distribution management apparatus, distribution management system, and distribution management method",0,G06F|G06Q|H04L
+11880284,2024-01-23,"Storage restore system, storage restore method, and storage medium",0,G06F
+11880278,2024-01-23,Storage system and storage administration method,0,G06F
+11876860,2024-01-16,"Data sharing system, data sharing method and non-transitory computer-readable recording medium for data sharing program",0,H04L
+11876608,2024-01-16,Redundant control system,0,H04J|H04L|H04W
+11875901,2024-01-16,"Registration apparatus, registration method, and recording medium",0,G06F|G06N|G16H
+11869492,2024-01-09,Anomaly detection system and method using noise signal and adversarial neural network,0,G01H|G05B|G06N|G10L
+11868967,2024-01-09,Schedule creation assisting device and schedule creation assisting method,0,G06F|G06N|G06Q
+11868630,2024-01-09,Method for changing configuration of storage system and storage system,0,G06F
+11868367,2024-01-09,Information processing apparatus and information processing method,0,G06F
+11862631,2024-01-02,"Radiation resistant circuit device, pressure transmission device, and nuclear power plant measurement system",0,G01L|G21C|H01L|H05K|H10D|Y02E
+11861305,2024-01-02,Word processing system and word processing method,0,G06F
+11861205,2024-01-02,Distributed storage system and volume migration method,0,G06F
+11856400,2023-12-26,Unauthorized-communication coping system and unauthorized-communication coping method,0,H04L|H04W
+11855778,2023-12-26,Network interface for storage controller,0,H04L
+11853582,2023-12-26,Storage system,0,G06F
+11853560,2023-12-26,Conditional role decision based on source environments,0,G06F
+11853260,2023-12-26,Data search system and data search method,1,G06F
+11853198,2023-12-26,Program development assistance system and program development assistance method,0,G06F|G06Q
+11853175,2023-12-26,Cluster system and restoration method that performs failover control,0,G06F
+11853099,2023-12-26,Recovery method of remote copy,0,G06F
+11842308,2023-12-12,Computer system and method for managing data of an executed workflow,0,G06F|G06Q
+11842269,2023-12-12,AI enabled sensor data acquisition,0,G05B|G06F|G06N|H04L|H04W
+11842055,2023-12-12,Data processing system and data compression method,0,G06F|G06N
+11841779,2023-12-12,Disaster recovery system and disaster recovery method,0,G06F
+11837029,2023-12-05,Biometric authentication device and biometric authentication method,0,G02B|G06F|G06T|G06V
+11836657,2023-12-05,"Resource management planning support device, resource management planning support method, and programs",0,B61L|G06Q
+11836393,2023-12-05,Storage system and control method of migrating storage control unit based on maximum amount of mountable storage control units,0,G06F
+11836391,2023-12-05,Distributed storage system and storage control method,0,G06F
+11836386,2023-12-05,Storage system and method of controlling storage system that set ports associated with a logical unit,0,G06F
+11836378,2023-12-05,Storage system,0,G06F
+11836110,2023-12-05,"Storage system, computer system, and control method",7,G06F
+11836071,2023-12-05,Method and apparatus creating test environments for blockchain systems,0,G06F|H04L
+11836055,2023-12-05,"Backup management system, management calculator, and non-temporary computer-readable recording medium",0,G06F
+11829617,2023-11-28,Virtual storage system,0,G06F
+11829600,2023-11-28,Storage system and data processing method using data compression,0,G06F|H03M
+11829226,2023-11-28,"Anomaly detection apparatus, anomaly detection method, and anomaly detection program",0,G06F
+11824687,2023-11-21,Information processing apparatus and legitimate communication determination method,0,H04L
+11823294,2023-11-21,Site management apparatus and management method,1,G06Q
+11823111,2023-11-21,Work instruction system and work instruction method,0,G05B|G06Q|Y02P
+11823097,2023-11-21,"Process management support system, process management support method, and process management support program",0,G06F|G06Q
+11822979,2023-11-21,Computer system and data transmission control method,0,G06F|H04L
+11822787,2023-11-21,Storage system and QoS management method in storage system,0,G06F
+11822425,2023-11-21,"Programmable device, and controller using the same",0,G06F|H03K
+11819351,2023-11-21,"Medical imaging apparatus, medical image processing apparatus, and image processing program",0,A61B|G06F|G06N|G06T|G06V|G16H
+11816611,2023-11-14,Work support apparatus and work support method,0,G06Q|H04W
+11816336,2023-11-14,Storage system and control method thereof,0,G06F
+11816331,2023-11-14,Storage system and storage program update method,0,G06F
+11816109,2023-11-14,Data provision method in a data utilization system,2,G06F|G06Q
+11811741,2023-11-07,Information processing system and information processing method,0,H04L
+11810387,2023-11-07,Location system and method,0,G06V|H04N
+11809244,2023-11-07,Information processing apparatus,0,G06F|G11B|H05K
+11803990,2023-10-31,Distribution system visualization method and computing system,0,G06T|H02J
+11803930,2023-10-31,Timetable modification device and automatic train control system,0,B61L|G06Q
+11803655,2023-10-31,"Retrieval system, retrieval device and retrieval method",0,G06F
+11803443,2023-10-31,"Storage system, data copy control method, and recording medium",0,G06F
+11799820,2023-10-24,"Network system, communication control device, and communication control method",0,H04L
+11798410,2023-10-24,"Traffic flow control system, traffic flow control program, traffic flow control method, and traveling controller",0,G06Q|G08G
+11798108,2023-10-24,Transportation service planning system and transportation service planning method,0,G06N|G06Q
+11797556,2023-10-24,Database management service provision system,0,G06F|G06Q|H04L
+11797402,2023-10-24,Storage system and control method,0,G06F
+11797384,2023-10-24,Storage management system and management method,0,G06F
+11797209,2023-10-24,Storage pool determination system,0,G06F
+11796989,2023-10-24,Monitoring system and monitoring method,0,G05B|G06N|G06Q
+11796987,2023-10-24,System and method for supporting production management,0,G05B|G06Q
+11796980,2023-10-24,Additive-manufactured object design supporting device and additive-manufactured object design supporting method,0,B22F|B29C|B33Y|G05B|G06F|Y02P
+11792650,2023-10-17,Unauthorized communication detection apparatus and recording medium,0,G06N|H04L|H04W
+11790661,2023-10-17,Image prediction system,0,G06F|G06N|G06V
+11789613,2023-10-17,Storage system and data processing method,0,G06F
+11785112,2023-10-10,"Job execution system, and job execution method",0,H04L
+11784489,2023-10-10,Supply and demand adjustment monitoring device of power grid and supply and demand adjustment monitoring method for power grid,0,G06Q|H02J|Y02E|Y04S
+11782603,2023-10-10,Optimized communicaton in storage system,1,G06F
+11778512,2023-10-03,Wireless management system and wireless management method,0,H04W
+11778020,2023-10-03,Computer system and scale-up management method,0,H04L
+11775175,2023-10-03,"Storage system, storage management method, and storage management program",0,G06F|Y02D
+11768616,2023-09-26,"Resource allocation control device, computing system, and resource allocation control method",0,G06F
+11768608,2023-09-26,"Computer system, compute node, and data management method",0,G06F
+11765203,2023-09-19,Communication device and communication method for plant control system,0,H04L|H04W
+11765196,2023-09-19,"Attack scenario simulation device, attack scenario generation system, and attack scenario generation method",0,G06F|H04L
+11763025,2023-09-19,Personal information analysis system and personal information analysis method,0,G06F
+11762741,2023-09-19,"Storage system, storage node virtual machine restore method, and recording medium",0,G06F|H04L
+11762729,2023-09-19,"Apparatus and method for anomaly countermeasure decision, execution and evaluation",0,G06F
+11762574,2023-09-19,Backup system and method,0,G06F
+11762562,2023-09-19,Performance analysis apparatus and performance analysis method,1,G06F|G06N|G06Q
+11762360,2023-09-19,"Sensor device, data acquisition method, and current monitoring system",0,G05B|G06N
+11755249,2023-09-12,Storage system including storage nodes to determine cache allocations to implement cache control,0,G06F
+11754404,2023-09-12,Transport navigation system and transport navigation method,0,G01C|G06F|G06Q|G08G
+11749996,2023-09-05,"Aggregation control system, aggregation control method, and control apparatus",0,B60L|G06Q|H02J|Y02B|Y02E|Y02T|Y04S
+11748317,2023-09-05,"Management system, method for management by management system, and recording medium",0,G06F
+11748000,2023-09-05,Storage system and file arrangement method of storage system,0,G06F
+11741113,2023-08-29,Measurement guide device and simulation computing device used therefor,0,G01N|G06F
+11740823,2023-08-29,Storage system and storage control method,1,G06F
+11740799,2023-08-29,Storage system and input and output control method,0,G06F
+11734475,2023-08-22,Performance measurement methodology for co-simulation,0,G06F
+11734201,2023-08-22,Control system,0,G05B|G06F|Y02P
+11734137,2023-08-22,"System, and control method and program for input/output requests for storage systems",0,G06F
+11734133,2023-08-22,Cluster system and fail-over control method of cluster system,0,G06F
+11734063,2023-08-22,Job management based on generated execution time prediction model and prediction accuracy,0,G06F
+11727214,2023-08-15,"Sentence classification apparatus, sentence classification method, and sentence classification program",0,G06F|G06N
+11726691,2023-08-15,Computer system and communication management method,0,G06F
+11721092,2023-08-08,Event analysis system and event analysis method,0,G06F|G06V
+11720820,2023-08-08,Operational support system and method,0,G06N|G06Q
+11720264,2023-08-08,Compound storage system and storage control method to configure change associated with an owner right to set the configuration change,0,G06F
+11715055,2023-08-01,Manufacture and sales strategy planning method and device thereof,0,G06Q|Y02P
+11715036,2023-08-01,Updating weight values in a machine learning system,0,G06N
+11714751,2023-08-01,Complex system and data transfer method,0,G06F
+11714419,2023-08-01,Automatic article conveying system and automatic article conveying method,0,G05D|G06Q
+11710500,2023-07-25,Abnormality degree calculation system and method,0,G06N|G10L
+11710087,2023-07-25,Replanned plan output device,0,G06F|G06Q|G08G
+11709839,2023-07-25,Database system and query execution method,0,G06F
+11709628,2023-07-25,File storage and computer system that creates new chunks after an update,0,G06F
+11707845,2023-07-25,"Assembly planning device, assembly planning method, and non-transitory computer-readable storage medium",0,B25J|G05B|G06Q|Y02P
+11706287,2023-07-18,Information processing system and application services distribution method in information processing system,0,G06F|H04L|Y02D
+11704612,2023-07-18,"Supply chain management system, supply chain management method, and supply chain management apparatus",1,G06Q
+11704426,2023-07-18,Information processing system and information processing method,0,G06F
+11704346,2023-07-18,"System of highly detailing map data, server for the same, and method of highly detailing map data",1,G01C|G06F|G08G
+11704337,2023-07-18,Storage system and data replication method in storage system,0,G06F
+11700214,2023-07-11,Network interface and buffer control method thereof,3,H04L
+11698857,2023-07-11,Storage system for migrating data between tiers,0,G06F
+11698838,2023-07-11,Data storage volume re-bind method,0,G06F
+11698740,2023-07-11,Computer system,0,G06F
+11694112,2023-07-04,Machine learning data management system and data management method,0,G06F|G06N
+11693924,2023-07-04,System and method for maintenance recommendation in industrial networks,1,G05B|G06F|G06N|H04L
+11693684,2023-07-04,Information processing system and information processing method,1,G06F
+11693653,2023-07-04,Software analysis support system and computer program therefor,1,G06F|G06T
+11693392,2023-07-04,System for manufacturing dispatching using deep reinforcement and transfer learning,0,G05B|G06N|G06Q|Y02P
+11689946,2023-06-27,Communication system and communication management method,0,H04L|H04W
+11687643,2023-06-27,Information linkage system and information linkage method,0,G06F|G06Q|H04W
+11687269,2023-06-27,Determining data copy resources,0,G06F|H04L
+11687239,2023-06-27,File storage system and method for managing file storage system,0,G06F
+11682009,2023-06-20,"Resource accommodation assistance system, resource accommodation assistance method, and resource accommodation assistance apparatus",1,G06Q|G07F|Y04S
+11681820,2023-06-20,Computer system and data access control method,0,G06F|Y02P
+11681682,2023-06-20,Data processing system and cache update control method,0,G06F
+11675756,2023-06-13,Data complementing system and data complementing method,0,G06F
+11675545,2023-06-13,Distributed storage system and storage control method,0,G06F
+11675523,2023-06-13,Remote copy of compressed journal data and corresponding metadata,0,G06F
+11669649,2023-06-06,Support device,0,G06F
+11669628,2023-06-06,"Data management device, data management system, and data management method",0,G06F
+11669417,2023-06-06,Redundancy determination system and redundancy determination method,0,G06F
+11669396,2023-06-06,Storage system,0,G06F
+11669252,2023-06-06,Storage system and cryptographic operation method,0,G06F
+11665096,2023-05-30,"Entity relationship estimation apparatus, entity relationship estimation method, and recording medium",0,G06F|H04L
+11663713,2023-05-30,Image generation system,0,G01B|G01N|G06F|G06N|G06T
+11663040,2023-05-30,Computer system and resource reallocation method,0,G06F
+11663029,2023-05-30,Virtual machine storage controller selection in hyperconverged infrastructure environment and storage system,1,G06F
+11662953,2023-05-30,"Data compression/decompression system, and data compression/decompression method",1,G06F|H03M
+11659431,2023-05-23,"Traffic control method, receiver, and communication system",0,G01C|G08G|H04L|H04W
+11659030,2023-05-23,"Server management system, method of managing server, and program of managing server",0,H04L
+11657123,2023-05-23,Method and apparatus for people flow analysis using similar-image search,0,G06F|G06V
+11656787,2023-05-23,"Calculation system, information processing device, and optimum solution search process method",0,G06F|G06N
+11652707,2023-05-16,Network management system and method,0,H04L
+11651671,2023-05-16,"Motion evaluation system, motion evaluation device, and motion evaluation method",0,A61B|G06F|G08B
+11651317,2023-05-16,Work operation analysis system and work operation analysis method,0,G06Q|G06V|G08B|G09B|H04N
+11650988,2023-05-16,Database management system and database processing method,0,G06F
+11645864,2023-05-09,"Imaging device, authentication device, and biometric imaging method",0,G06F|G06V
+11645312,2023-05-09,Attribute extraction apparatus and attribute extraction method,0,G06F|G06V|Y02P
+11645299,2023-05-09,Data management device and data management method,0,G06F
+11644976,2023-05-09,Transmission control method and transmission control system,0,G06F
+11640337,2023-05-02,Data recovery of distributed data using redundant codes,0,G06F
+11640265,2023-05-02,Apparatus for processing received data,0,G06F|H03M
+11636558,2023-04-25,Energy management system and energy management method for water supply,0,G01R|G05B|G06Q|H02J|Y02A|Y02B|Y04S
+11636358,2023-04-25,"Data analysis apparatus, data analysis method, and data analysis program",0,G06N
+11636107,2023-04-25,"Database management system, computer, and database management method",0,G06F
+11636073,2023-04-25,File storage system and file management method by file storage system,0,G06F
+11636015,2023-04-25,Storage system and control software deployment method,1,G06F
+11635996,2023-04-25,Management system and management method for migrating a business system operating on a target infrastructure,0,G06F
+11635921,2023-04-25,Storage environment selection based on characteristic of data and characteristic of storage environments,0,G06F
+11630734,2023-04-18,Scale-out storage system and storage control method,0,G06F
+11630452,2023-04-18,Scheduling system and method for online program update,0,G05B|G06F|Y02P
+11627127,2023-04-11,Authentication and authorization system and authentication and authorization method using access tokens,0,G06F|H04L
+11627122,2023-04-11,Inter-system linking method and node,0,G06F|H04L
+11625168,2023-04-11,Storage device accelerator providing aggregation of divided plaintext data read,0,G06F|G11C|H03M
+11625080,2023-04-11,"Electronic apparatus, fan control method, and recording medium",0,G06F|H05K|Y02D
+11625029,2023-04-11,Manufacturing condition setting automating apparatus and method,0,G05B|G06F|Y02P
+11624675,2023-04-11,"Water leakage detection method, water leakage detection apparatus, and vibration sensor terminal",0,E03B|G01M|G06F|G06Q|Y02A
+11623842,2023-04-11,Building human flow estimation system and estimation method,0,B66B|G06F
+11621850,2023-04-04,"Distributed ledger management method, distributed ledger system, and node",0,H04L
+11620479,2023-04-04,System for determining diverting availability of object recognition model,0,G06F|G06T|G06V
+11620069,2023-04-04,Dynamic volume provisioning for remote replication,0,G06F
+11615447,2023-03-28,Zero invoicing by replicated state,0,G06Q
+11615005,2023-03-28,Storage system and control method therefor,0,G06F
+11612055,2023-03-21,Printed wiring board and information processing apparatus,0,G06F|G11C|H05K
+11611546,2023-03-21,Method for controlling connection with client or server,0,G06F|H04L
+11610062,2023-03-21,Label assignment model generation device and label assignment model generation method,0,G06F|G06N
+11609999,2023-03-21,Control system,0,B60W|G05B|G06F|G07C
+11609698,2023-03-21,Data storage system and storage control method including storing a log related to the stored data,1,G06F
+11609188,2023-03-21,Processing condition determination system and processing condition searching method,0,G01N|G03F|G06N|H01L
+11604584,2023-03-14,Storage system,0,G06F
+11604447,2023-03-14,Condition monitoring system,0,G05B|G06F
+11599297,2023-03-07,"Storage apparatus, maintenance support method, and maintenance support program",0,G06F
+11599292,2023-03-07,Storage system and load distribution method for storage system,0,G06F
+11599289,2023-03-07,Information processing apparatus and method for hybrid cloud system including hosts provided in cloud and storage apparatus provided at a location other than the cloud,0,G06F|H04L
+11599279,2023-03-07,Information processing system and data transfer method,0,G06F
+11597397,2023-03-07,"Abnormality determination apparatus, vehicle assistance system, and server",1,B60W|G07C|G08G|H04W
+11595419,2023-02-28,"Communication monitoring system, communication monitoring apparatus, and communication monitoring method",1,G06F|G06Q|H04L
+11595191,2023-02-28,Encryption key management system and encryption key management method,1,H04L
+11593739,2023-02-28,System and method for supporting production management,1,G05B|G06Q|Y02P
+11593734,2023-02-28,System and method for management and support of workplace,0,G06Q|G16H
+11593733,2023-02-28,Plan coordination apparatus and plan coordination method,0,G06Q|Y02P
+11593690,2023-02-28,Data prediction system and data prediction method,0,G06F|G06N|G06Q
+11593687,2023-02-28,Vehicle operation analysis of a driver,2,G06N|G06Q|G07C
+11593541,2023-02-28,Particle behavior simulation method and particle behavior simulation system,0,G06F
+11593518,2023-02-28,Medical image processing apparatus and medical image processing method,0,G06F|G06T|G06V|G16H
+11593182,2023-02-28,Storage system,0,G06F
+11592999,2023-02-28,Information processing system and information processing method,0,G06F
+11592807,2023-02-28,Manufacturing defect factor searching method and manufacturing defect factor searching apparatus,1,G05B|G06F|G06V|Y02P
+11589013,2023-02-21,Automatic display system for gaze area and remote state monitoring system using the same,0,G06V|G08B|H04N
+11587230,2023-02-21,Cell sheet evaluation method,0,G06T
+11587226,2023-02-21,Magnetic domain image processing apparatus and magnetic domain image processing method,0,G01R|G06T
+11587024,2023-02-21,Supply chain model generation system,0,G06Q|Y02P
+11586516,2023-02-21,"Storage system, storage device, and storage device management method",0,G06F
+11586471,2023-02-21,Computer system and control method for computer system,1,G06F
+11580481,2023-02-14,Production management support system and production management support method that automatically determine loss factors,1,G06Q
+11580272,2023-02-14,3D model creation support system and 3D model creation support method,0,G06F|G06T|G06V
+11580196,2023-02-14,Storage system and storage control method,0,G06F|G06N|H03M
+11579963,2023-02-14,"Maintenance support device, maintenance support method, and maintenance support program",0,G06F
+11579793,2023-02-14,Storage system and data processing method,0,G06F
+11579780,2023-02-14,Volume remote copy based on application priority,2,G06F
+11574582,2023-02-07,Display system and display device,0,G05B|G06F|G09G
+11574166,2023-02-07,Method for reproducibility of deep learning classifiers using ensembles,0,G05B|G06N|G06Q
+11574165,2023-02-07,Optimization system and optimization method,0,G06F|G06N
+11574062,2023-02-07,Application development assistance system and application development assistance method,0,G06F
+11573975,2023-02-07,"Data migration method, data migration system, and node",0,G06F|H04L
+11573541,2023-02-07,Future state estimation device and future state estimation method,0,G05B|G06F|G06Q
+11570906,2023-01-31,Multi-core cable assembling method and multi-core cable assembly producing method,0,G06F|H01B|H05K
+11568399,2023-01-31,"Distributed ledger management system, distributed ledger management method, and node",0,G06Q|H04L
+11568213,2023-01-31,"Analyzing apparatus, analysis method and analysis program",0,G06F|G06N
+11567143,2023-01-31,Partial discharge determination device and method,0,G01R|G06N
+11562126,2023-01-24,Coaching system and coaching method,0,G06F|G06Q|G09B
+11561721,2023-01-24,Data replication system and data replication method,0,G06F|H03M
+11556661,2023-01-17,Data access control system and data access control method,0,G06F
+11556554,2023-01-17,Distributed transaction management method and system,0,G06F|H04L
+11556428,2023-01-17,Backup system including a data protection area and a read-only volume used by a controller to read a copy of backup data from the data protection area,4,G06F
+11556383,2023-01-17,System and method for appraising resource configuration,0,G06F
+11556269,2023-01-17,"Information processing system, data transfer method and data transfer program",0,G06F
+11553040,2023-01-10,Relay apparatus and relay method,0,G06F|H04L
+11552965,2023-01-10,Abnormality cause specification support system and abnormality cause specification support method,0,G06F|H04L
+11552875,2023-01-10,Communication support system and method,0,H04L
+11551818,2023-01-10,Computer system and method of presenting information related to basis of predicted value output by predictor,0,G06F|G06N|G16H|Y02A
+11551078,2023-01-10,Data processing apparatus and data processing method,0,G06N|G06Q
+11550613,2023-01-10,Computer system,1,G06F
+11550489,2023-01-10,Storage system and processing migration method,0,G06F|H04L
+11550488,2023-01-10,Computer system and load distribution method,0,G06F
+11547309,2023-01-10,"Biological information detection device, biological information detection method and non-transitory computer-readable storage medium for biological information detection",1,A61B|G06T
+11546232,2023-01-03,Video analysis and data delivery method,0,H04L
+11545978,2023-01-03,Control device,0,G06F|H03K
+11544676,2023-01-03,Equipment repair management and execution,6,G06N|G06Q
+11544649,2023-01-03,Electric vehicles operation management equipment,0,B60L|B60Y|G06Q|H02J|Y02E|Y02T|Y04S
+11544600,2023-01-03,Prediction rationale analysis apparatus and prediction rationale analysis method,0,G06N
+11544250,2023-01-03,Fault finding support system and method,0,G01M|G06F|G07C
+11544134,2023-01-03,System and method for data-driven analytical redundancy relationships generation for early fault detection and isolation with limited data,0,G05B|G06F|G06N
+11544111,2023-01-03,"Sensor device, sensor device management system, and sensor device management method",0,E03B|G01M|G01V|G06F|Y02D
+11544030,2023-01-03,Remote work-support system,0,G02B|G06F|G06V|G09G
+11544005,2023-01-03,Storage system and processing method,0,G06F
+11543989,2023-01-03,Storage system and control method thereof,0,G06F
+11543972,2023-01-03,Storage system and control method thereof,1,G06F
+11539788,2022-12-27,Information processing system and method of controlling information processing system,0,G06F|H04L
+11538491,2022-12-27,"Interaction system, non-transitory computer readable storage medium, and method for controlling interaction system",0,G06F|G10L
+11537795,2022-12-27,"Document processing device, document processing method, and document processing program",0,G06F
+11537750,2022-12-27,"Image access management device, image access management method, and image access management system",1,G06F|G06N|G06T|G06V
+11537712,2022-12-27,"Security system, storage medium storing computer program, and data diagnostic method",0,G06F
+11535934,2022-12-27,Vaporizer,0,C23C|H01L
+11531896,2022-12-20,Neural network circuit providing for operations with bit shifting and rounded values of weight information,0,G06F|G06N
+11531811,2022-12-20,Method and system for extracting keywords from text,0,G06F
+11531643,2022-12-20,Computer system and method of evaluating changes to data in a prediction model,1,G06F|G06Q
+11531631,2022-12-20,Storage device and control method for storage device,0,G06F
+11531576,2022-12-20,Maintenance recommendation system,0,G06F
+11531474,2022-12-20,Storage system and data replication method in storage system,2,G06F
+11528045,2022-12-13,Signal transmission device,0,G05B|H01L|H04B
+11527325,2022-12-13,Analysis apparatus and analysis method,0,G06N|G16H
+11526810,2022-12-13,System for prediction model management with treatment pathways and biomarker data,0,G06N|G16H
+11526722,2022-12-13,"Data analysis apparatus, data analysis method, and data analysis program",0,G06N
+11521766,2022-12-06,"Wire-harness electric wire length correcting device, and wire harness producing device",0,B60R|G06F|H01B|H01R
+11521266,2022-12-06,Supply and demand matching within an exchange market for anticipative demand from early signals,0,G06N|G06Q
+11521150,2022-12-06,Autonomous control of analyzing business-related data by a robot system,0,B25J|G06Q
+11521021,2022-12-06,Object recognition system and object recognition method,0,G06F|G06N|G06V
+11520954,2022-12-06,"Simulation management method, simulation system, and program",0,B62D|G05B|G06F
+11520945,2022-12-06,"Modeling support system, modeling support method, and modeling support program",0,G06F|G06T
+11520745,2022-12-06,Distributed storage device and data management method in distributed storage device,0,G06F
+11514461,2022-11-29,Customer service assistance system and customer service assistance method,0,G06F|G06N|G06Q|H04L|H04M
+11514443,2022-11-29,"Operation management method, operation management system, and operation management program",1,G06F|G06Q
+11514384,2022-11-29,Productivity improvement support system and productivity improvement support method,0,G06Q
+11508018,2022-11-22,Work information management system and work information management method,2,G05B|G06F|G06Q|G06V|G16Y|Y02P
+11507881,2022-11-22,"Analysis apparatus, analysis method, and analysis program for calculating prediction error and extracting error factor",0,G06F|G06N
+11507797,2022-11-22,"Information processing apparatus, image recognition apparatus, and parameter setting method for convolutional neural network",2,G06F|G06N|G06V
+11507755,2022-11-22,Information processing method and information processing apparatus,0,G06F|G06N
+11507325,2022-11-22,Storage apparatus and method for management process,0,G06F
+11507307,2022-11-22,Storage system including a memory controller that enables each storage controller of a plurality of storage controllers to exclusively read and write control information of the memory,0,G06F
+11507032,2022-11-22,Control device using artificial intelligence,1,G05B|G06F|G06N
+11502046,2022-11-15,Semiconductor chip,0,A61B|B06B|B81B|H01L
+11501132,2022-11-15,Predictive maintenance system for spatially correlated industrial equipment,2,G06N|G06Q|Y02P
+11500370,2022-11-15,System for predictive maintenance using generative adversarial networks for failure prediction,0,G05B|G06F|G06N|G06V
+11500364,2022-11-15,Index selection device and method,0,G05B|G06F
+11496547,2022-11-08,Storage system node communication,1,H04L
+11494888,2022-11-08,"Work terminal, oil leakage detection apparatus, and oil leakage detection method",0,G01C|G01M|G01S|G06T
+11494697,2022-11-08,Method of selecting a machine learning model for performance prediction based on versioning information,0,G06F|G06N
+11494638,2022-11-08,Learning support device and learning support method,0,G06F|G06N
+11494448,2022-11-08,"Database server device, server system and request processing method",0,G06F|H04L
+11494383,2022-11-08,Database management system and database management method,0,G06F
+11494371,2022-11-08,Computer system and data management method,0,G06F|G06Q
+11494089,2022-11-08,"Distributed storage system, data control method and storage medium",0,G06F
+11493905,2022-11-08,System and method for supporting production management,0,G05B|G06Q|Y02P
+11487972,2022-11-01,Reward function generation method and computer system,3,G06F|G06N
+11487619,2022-11-01,Distributed storage system,0,G06F|H03M|H04L
+11487462,2022-11-01,Method and device of predicting inter-volume copy time based on inter-pool copy speed,0,G06F
+11487440,2022-11-01,Evaluation system for evaluating resource operation of information system by user,0,G06F
+11483158,2022-10-25,"Distributed ledger device, distributed ledger system, and distributed ledger management method",1,G06F|H04L
+11482001,2022-10-25,"Image processing device, image processing method, and image processing system",0,G06F|G06T|G06V
+11481692,2022-10-25,Machine learning program verification apparatus and machine learning program verification method,0,G06N
+11481292,2022-10-25,Storage system and control method therefor,0,G06F
+11481114,2022-10-25,Storage apparatus and control method of storage apparatus,1,G06F|Y02D
+11475373,2022-10-18,Learning management system and learning management method,0,G06F|G06N|G06Q
+11475121,2022-10-18,Confidential information processing system and confidential information processing method,0,G06F|H04L
+11474997,2022-10-18,Distributed transaction system and distributed transaction processing method in distributed transaction system,0,G06F
+11474884,2022-10-18,Event monitoring apparatus and event monitoring method,0,G06F
+11474877,2022-10-18,Computer system and scale-out method of computer system,0,G06F|H04L|Y02D
+11474751,2022-10-18,Storage apparatus and data processing method therefor,0,G06F
+11474732,2022-10-18,"Security system, host system, and backup method",0,G06F
+11474730,2022-10-18,Storage system and migration method of storage system,0,G06F
+11468265,2022-10-11,Neural networks for discovering latent factors from data,2,G06F|G06N
+11467908,2022-10-11,"Distributed storage system, distributed storage node, and parity update method for distributed storage system",0,G06F
+11467907,2022-10-11,Storage system with multiple storage devices to store data,0,G06F
+11467904,2022-10-11,Storage system and control method of the same,0,G06F
+11467752,2022-10-11,Data migration system and data migration method,0,G06F
+11461506,2022-10-04,Storage system and encryption processing method,0,G06F
+11461032,2022-10-04,Storage controller replacement and firmware upgrade without service interruption,0,G06F
+11460394,2022-10-04,Corrosive environment monitoring method and corrosive environment monitoring system,1,G01N|G06F|G06T
+11457192,2022-09-27,Digital evidence management method and digital evidence management system,0,G06Q|H04N
+11456619,2022-09-27,Energy operation support system and method thereof,0,G05F|G06Q|H02J|Y02T
+11455696,2022-09-27,Multi-layer hybrid model power generation prediction method and computing system,0,G06N|G06Q|Y02E
+11455122,2022-09-27,Storage system and data compression method for storage system,0,G06F
+11455105,2022-09-27,Storage system and data management method of switching access authority,0,G06F
+11452147,2022-09-20,Horizontal embedded architecture for system of systems (SoS) and internet of everything (IoE),0,G06F|H04W
+11451524,2022-09-20,Network system interface for controlling confidential information,0,H04L
+11449629,2022-09-20,Data transfer management system and data transfer management method,1,G06F|H04B|H04L
+11449263,2022-09-20,Backup system and method,0,G06F
+11443564,2022-09-13,"Vehicle management system, vehicle management device, and vehicle management method",0,G06Q|G07C
+11443265,2022-09-13,Analysis system and analysis method,0,G06Q|Y02P
+11443238,2022-09-13,Computer system and presentation method of information,0,G06F|G06N
+11443217,2022-09-13,Information processing apparatus and information processing method,0,G06F|G06N
+11443204,2022-09-13,Computer system and method of presenting information on basis of prediction result for input data,0,G06F|G06N|G16H
+11438361,2022-09-06,Method and system for predicting an attack path in a computer network,0,G06N|H04L
+11437338,2022-09-06,"Semiconductor device, sintered metal sheet, and method for manufacturing sintered metal sheet",0,B22F|H01L
+11436617,2022-09-06,Behavior pattern search system and behavior pattern search method,0,G06F|G06Q
+11436614,2022-09-06,Server device and traceability method,0,G06F|G06K|G06Q|Y02P
+11436322,2022-09-06,Vehicle unauthorized access countermeasure taking apparatus and vehicle unauthorized access countermeasure taking method,0,B60R|G06F|G07C
+11435924,2022-09-06,Storage system and storage cost optimization method,0,G06F|G06Q
+11435706,2022-09-06,Control system and control method,0,G05B|G06F|G06N|G06V|H04N|H04R
+11429316,2022-08-30,Multi controller storage system and method of controlling multi controller storage system,0,G06F
+11429278,2022-08-30,Storage system and information processing method by storage system,0,G06F|H04L
+11423409,2022-08-23,"Electronic transaction device, electronic transaction verification device, and electronic transaction method",4,G06Q|H04L
+11423299,2022-08-23,Device and computer realizing calculation of reservoir layer of reservoir computing,0,G02F|G06N
+11423286,2022-08-23,Computing system and method,0,G06F|G06N
+11422527,2022-08-23,Automatic inspection system,0,G05B|G06N|Y02P
+11422171,2022-08-23,"Method for calculating power supply voltage waveform, method for analyzing circuit coupled magnetic field, program and recording medium recording program",0,G01R|G06F|H02P
+11420905,2022-08-23,Ceramic substrate and production method for same,0,C04B|H01L|H05K
+11418534,2022-08-16,Threat analysis system and threat analysis method,0,G06F|G06N|H04L
+11418430,2022-08-16,QOS management system and method,0,H04L
+11417702,2022-08-16,Semiconductor detector and method of manufacturing the same,0,G01T|H01L|H10F
+11417496,2022-08-16,"Stage device, charged particle beam apparatus, and vacuum apparatus",0,G03F|H01J|H01L
+11416797,2022-08-16,"Resource management system, information processing device, and resource management method",0,G06Q|H04Q
+11416409,2022-08-16,Computer system and memory management method,0,G06F|Y02D
+11416302,2022-08-16,Computer system and method for determining of resource allocation,0,G06F
+11416160,2022-08-16,Volume operation propagation for synchronous remote copy,0,G06F
+11416157,2022-08-16,Storage device and data migration method,0,G06F
+11412034,2022-08-09,Information processing system and application services distribution method in information processing system,0,G06F|H04L|Y02D
+11410123,2022-08-09,Article placement optimization system and article placement optimization method,0,B65G|G06N|G06Q
+11409498,2022-08-09,Data processing system and data processing method,1,G06F|G06Q|H02J
+11409369,2022-08-09,"Wearable user interface control system, information processing system using same, and control program",0,G06F|G06V
+11405600,2022-08-02,Stereo camera,0,B60Q|G02B|G03B|H04N
+11403592,2022-08-02,Inventory count method and asset management system,1,G01S|G06Q|H04N
+11403160,2022-08-02,Fault predicting system and fault prediction method,1,G06F|G06N|G06Q
+11399071,2022-07-26,Program operation system and program operation method,0,G06F|H04L
+11398234,2022-07-26,"Utterance support apparatus, utterance support method, and recording medium",0,G06Q|G06T|G10L
+11398055,2022-07-26,"Color evaluation device, color evaluation method, and indication object used in color evaluation method",0,G01J|G01K|G01N|G06T|H04N
+11397853,2022-07-26,Word extraction assistance system and word extraction assistance method,0,G06F|G06N|G06V
+11397655,2022-07-26,Abnormality diagnosis system that reconfigures a diagnostic program based on an optimal diagnosis procedure found by comparing a plurality of diagnosis procedures,0,G05B|G06F
+11397643,2022-07-26,Storage management system and management method,1,G06F
+11393143,2022-07-19,Process state analysis device and process state display method,0,G05B|G06F|G06Q|G06T|G09G
+11393084,2022-07-19,Processing recipe generation device,1,G06T|H01L
+11393050,2022-07-19,"Resource accommodation device, schedule management device, and resource accommodation system",0,G06Q|Y02P
+11393002,2022-07-19,"Transaction system, method, and medium",0,G06Q
+11392871,2022-07-19,"Work support device, work support method, and work support program",1,G06Q|G06T
+11392540,2022-07-19,Computer system and data access control method,0,G06F
+11392307,2022-07-19,Data-protection-aware capacity provisioning of shared external volume,0,G06F
+11388578,2022-07-12,Mobile communication terminal and communication control method for selecting a communication device according to calculated communication scheduling information,0,G01C|G05D|G07C|H04L|H04W
+11388392,2022-07-12,Information processing apparatus and measurable region simulation method,0,G06F|G06T|H04N
+11388223,2022-07-12,"Management device, management method, and management program",0,G06N|G06V|H04L
+11388048,2022-07-12,"Display information processing apparatus, display information processing method and computer readable recording medium",0,G09G|H04L
+11387635,2022-07-12,Wire harness wiring operation support system,0,B60R|G06F|G09B|H02G
+11386321,2022-07-12,Neural network circuit,0,G06F|G06N|H03K
+11385977,2022-07-12,Reconfiguration control device,0,G05B|G06F
+11385825,2022-07-12,"Computer apparatus, computer system, and data migration method",0,G06F
+11385815,2022-07-12,Storage system,0,G06F
+11381602,2022-07-05,Security design planning support device,1,B60R|G06F|H04L
+11381470,2022-07-05,"Hyperparameter management device, hyperparameter management system, and hyperparameter management method",0,G06F|G06N|H04L
+11380764,2022-07-05,"Semiconductor device, method of manufacturing same, and sensor",0,H01L|H10D
+11380518,2022-07-05,Measurement system and method for setting observation conditions of measurement apparatus,0,G06F|H01J
+11379814,2022-07-05,Method and system for supporting promotion of use of digital local currency,1,G06F|G06K|G06Q|G06V|G07F
+11379327,2022-07-05,Storage system and rebuilding method for storage system,0,G06F
+11379321,2022-07-05,"Computer system, control method, and recording medium",0,G06F
+11379319,2022-07-05,LAN-free and application consistent backup method,0,G06F
+11379274,2022-07-05,Hybrid spatial-temporal event probability prediction method,0,G06F|G06N|H02J|Y02E|Y04S
+11379143,2022-07-05,Storage system and computer system,0,G06F
+11379130,2022-07-05,Predicting and preparing volume configurations,0,G06F
+11379091,2022-07-05,Operation support device and operation support method,0,G06F|G06Q|G09B|H02J|Y04S
+11378521,2022-07-05,Optical condition determination system and optical condition determination method,0,G01N|G06T
+11373301,2022-06-28,"Image diagnostic device, image processing method, and program for obtaining diagnostic prediction models using deep learning",1,A61B|G06T
+11373173,2022-06-28,"Distributed ledger system, distributed ledger subsystem, and distributed ledger node",1,G06F|G06Q
+11372976,2022-06-28,Accelerating method of snapshot investigation for rollback from ransomware,0,G06F
+11372973,2022-06-28,Virus detection system and virus detection method using USB relay device,0,G06F
+11372755,2022-06-28,Storage system,0,G06F
+11372584,2022-06-28,"Storage system, path management method, and recording medium",0,G06F
+11372583,2022-06-28,Storage device and control method for maintaining control information in the event of power failure,0,G06F
+11372575,2022-06-28,Information processing device and information processing method,0,G06F
+11372570,2022-06-28,"Storage device, computer system, and data transfer program for deduplication",2,G06F
+11372552,2022-06-28,Storage device,0,G06F
+11372399,2022-06-28,System section data management device and method thereof,0,G01R|G05B|G06Q|H02J|Y04S
+11372379,2022-06-28,Computer system and control method,0,G05B|G06N
+11367219,2022-06-21,"Video analysis apparatus, person retrieval system, and person retrieval method",0,G06T|G06V|H04N
+11367218,2022-06-21,Calculation system and calculation method,0,G06T|G06V
+11367032,2022-06-21,System and method for supporting production management,1,G06Q
+11367031,2022-06-21,Delivery plan creating device and delivery plan creating method,0,G06Q
+11366954,2022-06-21,Text preparation apparatus,0,G06F|G06N
+11366695,2022-06-21,System and method for assisting charging to use of accelerator unit,0,G06F|H04L
+11366614,2022-06-21,Storage system,0,G06F
+11366443,2022-06-21,Controller,0,G05B|G06F|H04L
+11360966,2022-06-14,Information processing system and method of controlling information processing system,0,G06F|G06Q|H04L|Y02P
+11360843,2022-06-14,System and signal processing method for failure mode identification,0,G06F|G06N|H04W
+11360690,2022-06-14,Storage device and method for erasing data of storage device,0,G06F
+11360669,2022-06-14,Storage device accelerator providing aggregation of divided plaintext data,1,G06F|G11C|H03M
+11354206,2022-06-07,"Distributed processing method, distributed processing system, and server",1,G06F|H04L
+11349705,2022-05-31,Control system and control method,0,H04L
+11349000,2022-05-31,"Semiconductor device, manufacturing method thereof, and pressure transmitter using semiconductor device",1,H01L|H10D
+11347672,2022-05-31,Storage apparatus,1,G06F|H04L
+11347432,2022-05-31,Storage system including storage nodes to determine cache allocations to implement cache control,0,G06F
+11346748,2022-05-31,Method for extracting signal in presence of strong noise,0,G01M|G01N|G06N|H04L|H04W
+11343309,2022-05-24,Server load prediction system and server load prediction method,0,G06F|H04L
+11342750,2022-05-24,"Power demand/supply adjustment power procurement plan support device and method, and power demand/supply adjustment power procurement plan support system",1,G06Q|H02J|Y02B|Y04S
+11341425,2022-05-24,Computing apparatus incorporating quantum effects that performs high-speed computation on inverse problems or computational optimization problems requiring exhaustive search,1,G06F|G06N
+11341398,2022-05-24,Recognition apparatus and learning system using neural networks,2,G06N
+11341327,2022-05-24,Score generation for relationships between extracted text and synonyms,1,G06F
+11341292,2022-05-24,Production plan supporting apparatus and method,0,G06F|G06N|G06Q
+11341007,2022-05-24,Storage system and storage control method,0,G06F
+11340969,2022-05-24,Processing system for data distribution and program thereof,0,G06F
+11340820,2022-05-24,Storage system and data migration method of migrating group of volume and logical resources of the volume,0,G06F
+11340611,2022-05-24,Autonomous body system and control method thereof,0,G05B|G05D|H04N
+11340273,2022-05-24,Presence-in-house determination system and presence-in-house determination method,0,G01R|G06Q
+11335036,2022-05-17,Image synthesizing system and image synthesizing method,1,B61L|G06T|H04N
+11334838,2022-05-17,Business model generation support method and business model generation support device,0,G06Q
+11334761,2022-05-17,Information processing system and information processing method,0,G06F|G06N|G06V
+11334508,2022-05-17,"Storage system, data management method, and data management program",0,G06F
+11334350,2022-05-17,Program component evaluation system and program component evaluation method,0,G06F
+11334058,2022-05-17,"Plant data classification device, plant data display processing device, and plant control system",0,G05B|G06F|G06Q|Y02P
+11333892,2022-05-17,"Display apparatus, display system, and display method",1,G02B|G06F|G06Q|G09G
+11333524,2022-05-17,"Information management system, information management method, and information management device",0,B60L|G01C|G06Q|Y02T
+11330425,2022-05-10,"Communication system, communication method, and communication program",0,H04W|Y02D
+11330162,2022-05-10,Moving object imaging device and moving object imaging method,0,G01S|G02B|G03B|G06T|H04N
+11330056,2022-05-10,Storage system and controller location method,0,G06F|H04L
+11328163,2022-05-10,Methods and apparatus for automated surveillance systems,0,G06V|G08B|H04N
+11328024,2022-05-10,Data analysis device and data analysis method,0,G06F
+11327748,2022-05-10,Software cooperation possibility determination apparatus and software cooperation possibility determination method,0,G06F
+11327724,2022-05-10,System and method that support application software development,1,G06F
+11327661,2022-05-10,Storage system and data management method,0,G06F
+11327660,2022-05-10,Storage system and input and output control method,1,G06F
+11327653,2022-05-10,"Drive box, storage system and data transfer method",1,G06F|G11B
+11323344,2022-05-03,"Data processing method, edge device, and data processing system",0,G16Y|H04L
+11321302,2022-05-03,Computer system and database management method,0,G06F
+11321208,2022-05-03,Distributed storage system and distributed storage control method,0,G06F
+11321196,2022-05-03,Disaster recovery collaborated with storage system and backup appliance in hybrid cloud environment,6,G06F
+11321129,2022-05-03,Resource allocation control based on performance-resource relationship,0,G06F|Y02D
+11320808,2022-05-03,Plant data display processing device and plant control system,0,G05B|G06T
+11315359,2022-04-26,Biological-information detecting device and biological-information detecting method,0,G01N|G06F|G06V|H04N
+11315064,2022-04-26,Information processing device and production instruction support method,0,G06Q|Y02P
+11315033,2022-04-26,Machine learning computer system to infer human internal states,2,G06N
+11314907,2022-04-26,Simulation including multiple simulators,3,G06F
+11314816,2022-04-26,Research and development support system,0,G06F|G06N
+11314752,2022-04-26,Computer system and data analysis method,0,G06F
+11308533,2022-04-19,Supplier evaluation system and supplier evaluation method,0,G06Q
+11308494,2022-04-19,Transaction execution method and system,0,G06F|G06N|G06Q
+11308158,2022-04-19,"Information processing system, method for controlling information processing system, and storage medium",1,G06F|G06T
+11308122,2022-04-19,Remote copy system,0,G06F
+11308102,2022-04-19,Data catalog automatic generation system and data catalog automatic generation method,1,G06F|G06N|G06Q
+11307944,2022-04-19,Automated failover for asynchronous remote copy,1,G06F
+11307789,2022-04-19,Storage system and storage control method,0,G06F|H04L
+11307044,2022-04-19,Server and vehicle control system,1,G01C|G08G|H04W
+11301441,2022-04-12,Information processing system and information processing method,0,G06F
+11301286,2022-04-12,System and method for supporting optimization of usage efficiency of resources,0,G06F
+11301159,2022-04-12,Storage system and data transfer method,0,G06F
+11301137,2022-04-12,Storage system and data arrangement method of storage system,0,G06F
+11296927,2022-04-05,"Apparatus for integrating log, system for integrating log, and method for integrating log",0,G06F|H04L
+11296191,2022-04-05,Power module and power converter,0,H01L|H02M|H10D
+11295635,2022-04-05,Data processing system and data processing method,0,G06F|G09C|H04L
+11294795,2022-04-05,"Fault reproduction assist system, fault reproduction assist method",0,G06F
+11294751,2022-04-05,"Storage apparatus, dump data management method, and dump data management program",0,G06F
+11294591,2022-04-05,Apparatus configured to create extended configuration proposal of storage system including multiple notes,1,G06F
+11294578,2022-04-05,Storage system and control method thereof,0,G06F
+11294567,2022-04-05,File storage system and method for managing file storage system,0,G06F
+11292491,2022-04-05,Server and vehicle control system,0,B60W|G05D|G08G|H04W
+11290703,2022-03-29,"Stereo camera, onboard lighting unit, and stereo camera system",0,B60Q|G01C|G02B|G03B|G06T|H04N
+11290343,2022-03-29,System and method for asset and data management,3,H04L
+11290277,2022-03-29,Data processing system,0,G06F|H04L
+11288577,2022-03-29,Deep long short term memory network for estimation of remaining useful life of the components,1,G05B|G06F|G06N
+11288006,2022-03-29,Storage system and volume copying method where changes to address conversion table is rolled back,0,G06F
+11287977,2022-03-29,Storage system and control method of storage system,0,G06F
+11287782,2022-03-29,"Computer, method for determining processing control parameter, substitute sample, measurement system, and measurement method",1,G05B|G06F|G06N
+11282244,2022-03-22,"Moving body tracking apparatus, radiation therapy system including the same, program, and moving body tracking method",0,A61N|G06T
+11282156,2022-03-22,"Transportation planning apparatus, transportation planning system, and transportation planning method",0,G06Q|Y02T
+11281985,2022-03-22,Causal inference model construction method,0,G06F|G06N
+11281942,2022-03-22,"Machine learning system, domain conversion device, and machine learning method",0,G06F|G06N|G06T|G06V
+11281644,2022-03-22,Blockchain logging of data from multiple systems,6,G06F|G06Q|H04L
+11281507,2022-03-22,API selection system and API selection method,1,G06F
+11276155,2022-03-15,Automated inspection system and automated inspection method including a data collection device that generates exposure parameter determination information,0,G06T|G08C|H04Q
+11275729,2022-03-15,Template search system and template search method,0,G06F
+11275665,2022-03-15,Analysis system,0,G05B|G06F|Y02P
+11275511,2022-03-15,Storage apparatus and data processing method for storage apparatus,0,G06F
+11275505,2022-03-15,Storage system,0,G06F|H03M
+11271832,2022-03-08,Communication monitoring apparatus and communication monitoring method,0,G06F|H04L
+11271809,2022-03-08,"Computer system, configuration change control device, and configuration change control method",0,H04L
+11270562,2022-03-08,Video surveillance system and video surveillance method,0,G06T|G06V|G08B
+11270473,2022-03-08,Mechanical fastening unit management method using augmented reality,0,B25B|G05B|G06F|G06T|Y02P
+11269703,2022-03-08,Information processing system and storage device control method to determine whether data has been correctly written into a storage device,0,G06F
+11269550,2022-03-08,Storage system and history information management method,0,G06F
+11269317,2022-03-08,System and method for supporting production management,0,G05B|G06Q|Y02P
+11268883,2022-03-08,Data processing device and data processing method,0,G01M|G06Q|G07C
+11265262,2022-03-01,Information processing system and bursting control method,13,G06F|H04L
+11263350,2022-03-01,Cryptographic apparatus and self-test method of cryptographic apparatus,0,G06F
+11263107,2022-03-01,Application development support system and application development support method,2,G06F|G06Q
+11263092,2022-03-01,Resource allocation optimization for cloud bursting use case,0,G06F
+11262917,2022-03-01,Storage system and SSD swapping method of storage system,0,G06F
+11256586,2022-02-22,Remote copy system and remote copy management method,0,G06F|H04L
+11256585,2022-02-22,Storage system,0,G06F
+11256582,2022-02-22,"System, and control method and program for input/output requests for storage systems",0,G06F
+11256449,2022-02-22,Storage system,0,G06F
+11256440,2022-02-22,Method and distributed storage system for aggregating statistics,0,G06F
+11256422,2022-02-22,Storage system and compressed sensor data recording method for sensors grouped based on parameters,0,G06F|G06N|H03M
+11256419,2022-02-22,Optimal object placement device and method,2,G06F
+11255716,2022-02-22,"Analysis support apparatus, analysis support method, and a computer-readable medium containing an analysis support program",0,G01H|G01M|G06N
+11252265,2022-02-15,Packet communication system and method,0,H04L
+11250951,2022-02-15,"Feature engineering method, apparatus, and system",0,G06N|G16H
+11250361,2022-02-15,Efficient management method of storage area in hybrid cloud,0,G06Q
+11249687,2022-02-15,System and method for supporting data analysis,0,G06F|G06N|H03M
+11247774,2022-02-15,Moving body identification system and identification method,4,B64U|G06T|G08B|G08G|H04L|H04Q
+11245767,2022-02-08,Multi-route communication system and route selection system,0,H04L
+11245596,2022-02-08,Management system that manages computer system,0,G06F|H04L
+11244877,2022-02-08,Sealing structure and manufacturing method thereof,0,B29C|B29K|B29L|H01L
+11244235,2022-02-08,Data analysis device and analysis method,0,G06F|G06N
+11244109,2022-02-08,Information processing device and information processing method,0,G06F
+11243937,2022-02-08,"Log analysis apparatus, log analysis method, and log analysis program",0,G06F
+11240402,2022-02-01,"Optical scanning device, imaging device, and distance measurement device",0,G01S|G02B|H04N
+11240245,2022-02-01,Computer system,0,H04L
+11239314,2022-02-01,Semiconductor device and method of manufacturing the same,0,H01L|H10D
+11238673,2022-02-01,Automatic inspection system and method for controlling automatic inspection system,1,G05B|G07B|G07C|G08C|H04L|H04Q
+11238192,2022-02-01,Support apparatus,0,G06F|G06N
+11237962,2022-02-01,Complex system and data transfer method,0,G06F
+11237770,2022-02-01,Storage system and queue control method of storage system,0,G06F
+11237746,2022-02-01,Storage system and node management method,0,G06F
+11237745,2022-02-01,Computer system and volume arrangement method in computer system to reduce resource imbalance,0,G06F
+11233826,2022-01-25,System and method of microservice-based application deployment with automating authorization configuration,3,G06F|H04L
+11232589,2022-01-25,Object recognition device and object recognition method,0,G06F|G06T|G06V
+11232245,2022-01-25,Circuit generation device and software generation device,0,G06F
+11232197,2022-01-25,Computer system and device management method,0,G06F
+11231703,2022-01-25,Multi task learning with incomplete labels for predictive maintenance,3,G05B|G06N
+11228499,2022-01-18,Control network planning,2,G16Y|H04L
+11227062,2022-01-18,"Data management method, apparatus and system for machine learning system",0,G06F|G06N|G16H
+11227037,2022-01-18,"Computer system, verification method of confidential information, and computer",0,G06F|H04L
+11226915,2022-01-18,Data transfer system,1,G06F
+11226830,2022-01-18,"System for building, managing, deploying and executing reusable analytical solution modules for industry applications",0,G06F|G06Q
+11226769,2022-01-18,Large-scale storage system and data placement method in large-scale storage system,0,G06F
+11222180,2022-01-11,"Dialogue method, dialogue system, and program",0,G06F
+11221986,2022-01-11,Data management method and data analysis system,1,G06F
+11221935,2022-01-11,"Information processing system, information processing system management method, and program thereof",1,G06F
+11221903,2022-01-11,Maintenance management system and maintenance management confirmation device used for the same,0,G05B|G06F|G06Q|G07C
+11221790,2022-01-11,Storage system,0,G06F
+11216336,2022-01-04,Storage apparatus and memory device control method,0,G01K|G06F|Y02D
+11216317,2022-01-04,Computer system and computer system usage management method,3,G06F|H04L
+11212423,2021-12-28,Video device,0,G02B|H04N
+11212231,2021-12-28,Data processing system and method of controlling the same,1,H04L
+11210770,2021-12-28,AI-based inspection in transportation,0,G06F|G06Q|G06T|G06V
+11210214,2021-12-28,Storage system and compression method of storing compressed data from storage controller physical address space to logical and physical address space of nonvolatile memory,1,G06F
+11210032,2021-12-28,Storage device and data processing method,3,G06F|H03M
+11209889,2021-12-28,Energy saving device management method and energy saving device management system,0,G06F|H04W|Y02D
+11209335,2021-12-28,Monitoring system and its method,0,E03B|E03F|G01M|G06F|Y02A
+11206673,2021-12-21,Priority control method and data processing system,1,G06Q|H04L|H04W
+11205091,2021-12-21,Object information registration apparatus and object information registration method,0,G06F|G06V
+11204941,2021-12-21,"Distributed database system, distributed database management method, and distributed database management program",1,G06F|H04L
+11204899,2021-12-21,File storage system and file management method by file storage system,0,G06F
+11204782,2021-12-21,Computer system and method for controlling arrangement of application data,0,G06F|H04L
+11204757,2021-12-21,"Server, software update system, and software update apparatus",0,G06F|H04L
+11204709,2021-12-21,Storage system and storage control method,1,G06F
+11201834,2021-12-14,"Communication control device, communication control method, and communication system",0,G05B|H04L|H04W
+11201788,2021-12-14,Distributed computing system and resource allocation method,0,H04L
+11200528,2021-12-14,Data integrated analysis system,0,G06Q
+11200172,2021-12-14,Storage system and method of controlling storage system,1,G06F
+11200137,2021-12-14,System and methods for failure occurrence prediction and failure duration estimation,1,G06F
+11199973,2021-12-14,"Storage system, computer system, and control method for storage system",0,G06F
+11199972,2021-12-14,Information processing system and volume allocation method,0,G06F
+11196823,2021-12-07,"Service deployment control system, service deployment control method, and storage medium",0,G06Q|H04L
+11196806,2021-12-07,Method and apparatus for replicating data between storage systems,0,G06F|H04L
+11194723,2021-12-07,"Data processing device, storage device, and prefetch method",4,G06F|G06N
+11194504,2021-12-07,Information processing device and data management method of information processing device,1,G06F
+11194499,2021-12-07,Caching meihod for hybrid cloud storage running dev/test on public cloud,0,G06F
+11192562,2021-12-07,Moving object control system and moving object control method,1,B60W|G05B|G06F
+11190950,2021-11-30,"Communication system, communication management method, and network management apparatus",0,H04B|H04W
+11190581,2021-11-30,Job allocation support system and method,0,H04L
+11189270,2021-11-30,"Method of controlling dialogue system, dialogue system, and data storage medium",1,G06F|G10L
+11188945,2021-11-30,Information processing apparatus and information processing method,1,G06F|G06Q|G09F
+11188567,2021-11-30,Data analysis support apparatus and data analysis support system,1,G06F|G06Q
+11188258,2021-11-30,Distributed storage system,0,G06F
+11188243,2021-11-30,"Storage management apparatus, information system, and storage management method",1,G06F
+11187760,2021-11-30,Magnetic resonance imaging apparatus and quantitative-value computing program,0,A61B|G01R|H04N
+11184163,2021-11-23,"Value comparison server, value comparison encryption system, and value comparison method",0,H04L
+11183840,2021-11-23,Multi-time scale energy storage management framework for performance-based frequency regulation (FR) market,0,G05B|G06Q|H01M|H02J|Y02E|Y04S
+11182413,2021-11-23,Analysis system,0,G06F|G06V
+11182364,2021-11-23,Data analysis support apparatus and data analysis support method,0,G06F|G06N
+11182157,2021-11-23,"Information processing device, arithmetic device, and information processing method",0,G06F|G06N
+11182131,2021-11-23,System and method that support production management,0,G06F|H04L
+11179115,2021-11-23,X-ray CT data processing device and X-ray CT device comprising same,2,A61B|G06T|G16H
+11178786,2021-11-16,Method for manufacturing hermetic sealing lid member,0,B23K|B32B|H01L|H03H|H05K|H10N|Y10T
+11176700,2021-11-16,Systems and methods for a real-time intelligent inspection assistant,0,G06F|G06T|G06V
+11176497,2021-11-16,Routing method and routing device,0,G01C|G06Q|Y02T
+11176360,2021-11-16,Work skill supporting device and work skill supporting system,0,G06F|G06Q|G06V
+11176283,2021-11-16,Analysis model creation assistance device and analysis model creation assistance method,0,G06F|G06T
+11176092,2021-11-16,Database management system and anonymization processing method,1,G06F
+11175857,2021-11-16,Storage device and storage management method,0,G06F
+11175830,2021-11-16,Storage system and data restoration method,0,G06F
+11170635,2021-11-09,"Automatic inspection system, inspection target reading device for automatic inspection system, and control method for automatic inspection system",0,G08C|H04M|H04Q|H04W
+11170332,2021-11-09,Data analysis system and apparatus for analyzing manufacturing defects based on key performance indicators,2,G05B|G06Q
+11170327,2021-11-09,Dynamic production planning system and dynamic production planning device,0,G05B|G06Q|Y02P
+11169879,2021-11-09,Storage system,3,G06F
+11169764,2021-11-09,Remote work-support system,0,G02B|G06F|G06V|G09G
+11165850,2021-11-02,Storage system and method of storing data in nodes,1,H04L
+11164594,2021-11-02,"Abnormal sound detection system, artificial sound creation system, and artificial sound creating method",0,G01M|G06N|G10L
+11164398,2021-11-02,"Software management system, gateway device, maintenance device, server device, and control method for software management system",4,G06F|G07C|H04L
+11163469,2021-11-02,Data management system and data management method,0,G06F
+11157821,2021-10-26,Traceability system and method for traceability,0,G06F|G06N|G06Q
+11157775,2021-10-26,"Computer, neural network construction method, and computer system",0,G06F|G06N|G06V
+11157550,2021-10-26,Image search based on feature values,2,G06F
+11152237,2021-10-19,"Substitute sample, method for determining control parameter of processing, and measurement system",1,G01B|G05B|H01L
+11152119,2021-10-19,Care path analysis and management platform,0,G06N|G16H
+11151697,2021-10-19,Ultrasonic diagnosis device and program,0,A61B|G06T
+11151141,2021-10-19,Data processing device and data processing method,0,G06F
+11151122,2021-10-19,Distributed ledger data linkage management,2,G06F|G06Q
+11151115,2021-10-19,Information linkage system and information management method,1,G06F
+11151045,2021-10-19,"Distributed storage system, data management method, and data management program",0,G06F
+11150846,2021-10-19,"Storage system, computer-readable recording medium, and control method for system that reconstructs and distributes data",0,G06F
+11150829,2021-10-19,Storage system and data control method,1,G06F
+11150827,2021-10-19,Storage system and duplicate data management method,0,G06F
+11150820,2021-10-19,Storage system and storage management method,2,G06F
+11145094,2021-10-12,Image reconstruction apparatus and image reconstruction method,0,A61B|G06F|G06T
+11144415,2021-10-12,Storage system and control software deployment method,0,G06F
+11144341,2021-10-12,Management apparatus and management method,0,G06F
+11144292,2021-10-12,Packaging support system and packaging support method,0,G06F|Y02P
+11144242,2021-10-12,Distributed storage system,0,G06F
+11144202,2021-10-12,"Volume management apparatus, volume management method, and volume management program",1,G06F
+11143426,2021-10-12,Thermal demand adjustment device for energy network and thermal demand adjustment method for energy network,0,F24F|G05B|G06Q|H02P
+11141078,2021-10-12,"Magnetic resonance imaging device, magnetic resonance imaging method and susceptibility calculation program",0,A61B|G01R|G06T|G16H
+11138515,2021-10-05,"Data analysis device, data analysis method, and recording medium",0,G06N|G16H
+11138173,2021-10-05,Table relation analysis assisting apparatus and table relation analysis assisting method,0,G06F
+11137940,2021-10-05,Storage system and control method thereof,0,G06F
+11137935,2021-10-05,Storage system with plurality of storage controllers communicatively coupled for determination of storage controller indentifiers,0,G06F
+11137600,2021-10-05,"Display device, display control method, and display system",0,G02B|G06F
+11134921,2021-10-05,Ultrasonic diagnostic device and ultrasonic three-dimensional image generation method,0,A61B|G06T|G16H
+11134121,2021-09-28,Method and system for recovering data in distributed computing system,0,G06F|H04L
+11133900,2021-09-28,Sensor device management method and sensor device management system,0,G06K|H04L|H04W
+11133880,2021-09-28,"Computer system, method for estimating radio wave propagation characteristic in space, and computer",0,H04B|H04W
+11132813,2021-09-28,Distance estimation apparatus and method,0,G01B|G06T
+11132810,2021-09-28,Three-dimensional measurement apparatus,15,G01B|G06T|H04N
+11132235,2021-09-28,"Data processing method, distributed data processing system and storage medium",0,G06F
+11131988,2021-09-28,"Diagnostic apparatus, diagnostic method, and diagnostic program",0,G01M|G05B|G06N
+11128535,2021-09-21,Computer system and data management method,0,G06F|H04L
+11127153,2021-09-21,"Radiation imaging device, image processing method, and image processing program",0,A61B|G06T
+11127123,2021-09-21,Medical image processing device and medical image processing method,1,A61B|G06T
+11126948,2021-09-21,Analysis method and computer,0,G05B|G06F|G06Q|Y02P
+11126945,2021-09-21,"Organization management support system, organization management support method, and organization management support apparatus",1,G06F|G06Q
+11123024,2021-09-21,X-ray CT device and image display method for parallel imaging process and reconstruction process based on data-preservation process,0,A61B|G01N|G06T
+11120383,2021-09-14,System and methods for operator profiling for improving operator proficiency and safety,0,G06N|G06Q|H04W|Y02P
+11120143,2021-09-14,"Data analysis server, data analysis system, and data analysis method",0,G06F|G06N|H04L
+11119702,2021-09-14,Apparatus for processing received data,0,G06F|H03M
+11115288,2021-09-07,"Parameter setting method, data analysis device and data analysis system",1,H04L
+11115214,2021-09-07,Biometric signature system and biometric signature method,0,G06F|G06V|H04L
+11113810,2021-09-07,"X-ray CT scanner, image generation method, and image generation program",0,A61B|G06T
+11113607,2021-09-07,Computer and response generation method,0,G06F|G06N
+11113493,2021-09-07,Biometric authentication system,0,G06F|G06T|G06V
+11113364,2021-09-07,Time series data analysis control method and analysis control device,0,G01D|G05B|G06F|G06Q
+11112996,2021-09-07,"Computer, computer system, and data quantity restriction method",0,G06F
+11112973,2021-09-07,Computer system and data management method,0,G06F
+11112971,2021-09-07,"Storage device, data management method, and data management program",2,G06F
+11112252,2021-09-07,Sensor fusion for accurate localization,3,G01C|G01S|G06F|G09B
+11109843,2021-09-07,Ultrasonic image pickup device and image processing device,1,A61B|G06T
+11107094,2021-08-31,Prediction system and prediction method,1,G06Q|H02J
+11106957,2021-08-31,System and method to track pipes using tags based on high redundancy codes,0,G06K|G06Q
+11106680,2021-08-31,"System, method of real-time processing under resource constraint at edge",1,G06F|H04L|H04W
+11106650,2021-08-31,Data selection system and data selection method,0,G06F
+11106635,2021-08-31,"Computer system, file storage controller, and data sharing method",0,G06F|H04L
+11106552,2021-08-31,Distributed processing method and distributed processing system providing continuation of normal processing if byzantine failure occurs,0,G06F|H04L
+11106395,2021-08-31,Application execution apparatus and application execution method,0,G06F
+11106371,2021-08-31,I/O path reservation with out of band management,1,G06F
+11102908,2021-08-24,Storage apparatus,2,G06F|G11B|H05K
+11102299,2021-08-24,Data processing system,0,G06F|H04L
+11102144,2021-08-24,Support apparatus and method,0,G06F|H04L
+11102001,2021-08-24,Trust management system and trust management method,5,G06Q|H04L
+11100638,2021-08-24,Medical imaging device and medical image processing method using a neutral network,1,A61B|G01R|G06T
+11100149,2021-08-24,"Search support system, search support method, and search support program",0,G06F
+11100099,2021-08-24,"Data acquisition device, data acquisition method, and recording medium",0,G06F
+11099551,2021-08-24,Deep learning architecture for maintenance predictions with multiple modes,1,G05B|G06F|G06N
+11096641,2021-08-24,Radiation imaging apparatus and calibration method for photon counting detector,0,A61B|G01T|G06T|H04N
+11095712,2021-08-17,Computer system and control method for data transfer,0,H04L
+11093484,2021-08-17,Data management method and data management system,0,G06F|H04L
+11093134,2021-08-17,"Storage device, management method, and program in tiered storage system",0,G06F
+11089702,2021-08-10,Power conversion apparatus and electric vehicle,1,B60L|H01L|H02M|H05K
+11088042,2021-08-10,Semiconductor device and production method therefor,0,H01L
+11087049,2021-08-10,Online self-driving car virtual test and development system,0,G06F|G09B
+11086924,2021-08-10,Image search device and image search method,1,G06F
+11086682,2021-08-10,Management system for managing computer system,0,G06F
+11086562,2021-08-10,Computer system having data amount reduction function and storage control method,0,G06F
+11084433,2021-08-10,Total supporting method and total supporting system of wire harness,1,B60R|G06F|H01B|H02G
+11080825,2021-08-03,Magnetic resonance imaging apparatus and image processing method,0,A61B|G01R|G06T
+11080192,2021-08-03,Storage system and storage control method,0,G06F|G11C
+11080173,2021-08-03,Boundary search test support device and boundary search test support method,0,G06F|G06N|G06V
+11080126,2021-08-03,Apparatus and method for monitoring computer system,0,G06F
+11080081,2021-08-03,Virtual machine and volume allocation in hyperconverged infrastructure environment and storage system,2,G06F
+11080080,2021-08-03,Virtual machine and volume allocation in hyperconverged infrastructure environment and storage system,2,G06F
+11079956,2021-08-03,Storage system and storage control method,0,G06F
+11075990,2021-07-27,Cloud usage assisting apparatus and cloud usage assisting method,1,G06F|H04L
+11074518,2021-07-27,"Computer system, generation method of plan, and non-transitory computer readable storage medium",0,G06N
+11074296,2021-07-27,Query generation assist method and query generation assist apparatus,0,G06F
+11074271,2021-07-27,Database management system and database management method,0,G06F|Y02D
+11074010,2021-07-27,Storage system and control method thereof,0,G06F
+11074003,2021-07-27,Storage system and restoration method,0,G06F
+11073997,2021-07-27,Storage system and data management method of storage system,0,G06F
+11071495,2021-07-27,Movement evaluation system and method,1,A61B|G06N|G08B
+11071483,2021-07-27,Mood score calculation apparatus and mood score calculation method,1,A61B|G06F|G16H
+11070425,2021-07-20,Method and system of detecting device rearrangement in manufacturing field,0,G05B|G06F|G06T|H04L|H04N
+11068367,2021-07-20,Storage system and storage system control method,0,G06F|H03M
+11068317,2021-07-20,Information processing system and resource allocation method,1,G06F
+11068288,2021-07-20,"Method of controlling communication system including mode switching between modes for receiving a touch input or an audio input, communication system, and storage medium",0,G06F|G10L|Y02D
+11068180,2021-07-20,System including non-volatile memory drive,0,G06F
+11067973,2021-07-20,"Data collection system, abnormality detection method, and gateway device",1,G01R|G05B|G06N
+11067971,2021-07-20,Production line configuration change system and production line configuration change method,0,G05B|G06Q|Y02P
+11066087,2021-07-20,Maintenance assistance system and maintenance assistance method for railroad ground equipment,2,B61L|G06Q
+11065762,2021-07-20,Robot work system and method of controlling robot work system,5,B25J|G05B|G06N|Y02P
+11063873,2021-07-13,Data collection server and data collection method,0,G06F|H04L
+11062274,2021-07-13,Maintenance planning apparatus and maintenance planning method,0,G06Q
+11061907,2021-07-13,Database management system and method,0,G06F|Y02D
+11061851,2021-07-13,"Computer system, processing method, and driver program",0,G06F|H04L
+11061781,2021-07-13,Backup system,0,G06F
+11061664,2021-07-13,Code management system and code management method,1,G06F
+11060962,2021-07-13,Flow analysis method,0,B29C|B29K|G01F|G01N|G06F
+11058384,2021-07-13,"Image processing device, X-ray CT device, and image processing method",2,A61B|G06T
+11055825,2021-07-06,"Medical image processing device and X-ray CT device provided with same, and medical image processing method",0,A61B|G06T
+11055703,2021-07-06,Smart contract lifecycle management,7,G06F|G06Q|H04L
+11055224,2021-07-06,Data processing apparatus and prefetch method,0,G06F|G06N
+11055211,2021-07-06,Control device,0,G05B|G06F
+11055210,2021-07-06,Software test equipment and software testing method,0,G06F
+11055024,2021-07-06,"Data processing apparatus, data processing method, and data processing program",0,G06F
+11054385,2021-07-06,Gas sensor,0,G01N|H01L|H10D
+11050614,2021-06-29,"Display information processing apparatus, display information processing method and computer readable recording medium",1,G09G|H04L
+11049477,2021-06-29,"Configuration display apparatus, configuration display method, and recording medium",0,G06F|G09G|H04L
+11049255,2021-06-29,Image processing device and method thereof,0,A61B|G06F|G06T|G16H
+11049252,2021-06-29,"Moving object tracking apparatus, radiotherapy system and moving object tracking method",0,A61B|A61N|G01N|G06T|G06V
+11049060,2021-06-29,Operating envelope recommendation system with guaranteed probabilistic coverage,0,G06N|G06Q|H04L
+11048546,2021-06-29,Information processing system and information processing method with high availability during failover caused by fault occurance,7,G06F
+11048543,2021-06-29,Computer system and resource access control method for securely controlling access using roles with a plurality of users,0,G06F
+11048493,2021-06-29,"Computer system, method of updating software with computer system, and program therefor",2,G06F|H04L
+11048412,2021-06-29,Storage system and information processing method by storage system,0,G06F|H04L
+11048246,2021-06-29,Operation assistance device and operation assistance method,0,G05B|G06F|G06Q
+11047889,2021-06-29,"Monitoring apparatus, monitoring method, and non-transitory recording medium",0,G01R|G05B|G06F|H02J|H04Q|Y02E|Y04S
+11044319,2021-06-22,"Equipment analysis support apparatus, equipment analysis support method, and equipment analysis system",0,G01M|G06Q|G08B|G16Y|H04L
+11042823,2021-06-22,Business management system,0,G06Q
+11042463,2021-06-22,"Computer, bottleneck identification method, and non-transitory computer readable storage medium",0,G06F
+11042145,2021-06-22,Automatic health indicator learning using reinforcement learning for predictive maintenance,7,G05B|G06F|G06N
+11042134,2021-06-22,Power system status estimation device and status estimation method,0,G01R|G05B|G06F|G06Q|H02J|Y02E|Y04S
+11037573,2021-06-15,Management and execution of equipment maintenance,5,A61B|G06F|G06N|G06Q|G10L|G16H|H04N
+11037553,2021-06-15,Learning-type interactive device,0,G06F|G10L
+11036585,2021-06-15,Distributed storage system,0,G06F|H03M|H04L
+11036516,2021-06-15,"Parallel distributed processing control system, program, and parallel distributed processing control method",0,G06F|G06Q|Y02P
+11035314,2021-06-15,Machine control system,0,F02D|G05B|G06N|Y02T
+11031238,2021-06-08,Silicon carbide stacked substrate and manufacturing method thereof,1,C30B|H01L|H10D
+11030218,2021-06-08,Computer system and data processing method,0,G06F
+11030010,2021-06-08,Processing storage management request based on current and threshold processor load using request information,0,G06F
+11029850,2021-06-08,System of controlling data rebalance and its method,0,G06F
+11023404,2021-06-01,Daisy chain connection system and system control method,2,G06F|Y02D
+11023268,2021-06-01,Computer system and computer,0,G06F
+11018876,2021-05-25,"Signature verification system, signature verification method, and storage medium",2,G06F|H04L
+11017512,2021-05-25,Blood flow image processing apparatus and blood flow image processing method,1,A61B|G06T|G16H
+11016828,2021-05-25,Task support system and method,0,G06F
+11016758,2021-05-25,Analysis software managing system and analysis software managing method,0,G06F|G06Q|G16Z
+11016698,2021-05-25,Storage system that copies write data to another storage system,0,G06F
+11016515,2021-05-25,System operation decision-making assistance device and method,0,G05F|G06F|G06Q|H02J|Y04S
+11010393,2021-05-18,"Library search apparatus, library search system, and library search method",0,G06F
+11010269,2021-05-18,Distributed processing system and method for management of distributed processing system,0,G06F
+11010238,2021-05-18,Management system of storage system,1,G06F
+11004218,2021-05-11,Three-dimensional image processing device and three-dimensional image processing method for object recognition from a vehicle,0,B60R|G06T|G06V
+11003810,2021-05-11,Simulation system and simulation method,1,G06F
+11003647,2021-05-11,Multidimensional data management system and multidimensional data management method,0,G06F
+11003368,2021-05-11,Compound storage system and storage control method to configure change associated with an owner right to set the configuration change,0,G06F
+10999777,2021-05-04,"Communication management method, communication system, and storage medium",1,H04L|H04W
+10996076,2021-05-04,Sensor device management method and sensor device management system,0,G01D|G06F|H04L|H04W
+10992909,2021-04-27,Video recording device and head mounted display,0,H04N
+10992788,2021-04-27,Modeling method of semantic gateway and semantic gateway,0,G05B|G06F|H04L|Y02P
+10990917,2021-04-27,Data analysis system and method of generating action,0,G06Q
+10990491,2021-04-27,Storage control apparatus and recovery method of a failed track,0,G06F
+10990468,2021-04-27,Computing system and error handling method for computing system,0,G06F
+10990313,2021-04-27,Multi-storage node system and capacity management method of multi-storage node system,0,G06F
+10990305,2021-04-27,Storage apparatus and configuration management request processing method for storage apparatus,0,G06F
+10990085,2021-04-27,Machine-tool-state determination system and machine-tool-state determination method,2,G05B|G06F|G06N|G06V
+10989428,2021-04-27,Performance diagnosis device and performance diagnosis method for air conditioner,0,F24F|G05B|G06F
+10986006,2021-04-20,Performance analysis method and management computer,0,H04L
+10984053,2021-04-20,Operation assistance system and method,0,G06F|G06N|G06Q|H04L
+10983882,2021-04-20,Method for latency improvement of storages using low cost hardware,0,G06F
+10983720,2021-04-20,System for converting data protection levels of storage nodes,0,G06F
+10983712,2021-04-20,Storage control system and power consumption control method,1,G06F|Y02D
+10983580,2021-04-20,Computer system and electric power control method for computer system,1,G06F|Y02D
+10979987,2021-04-13,Sensor system for collecting data using an encryption key,0,H04L|H04W|Y02D
+10979505,2021-04-13,Distributed storage system and data migration method,0,H04L
+10977515,2021-04-13,"Image retrieving apparatus, image retrieving method, and setting screen used therefor",2,G06F|G06T|G06V
+10977146,2021-04-13,Application operation monitoring apparatus and application operation monitoring method,0,G06F
+10977124,2021-04-13,"Distributed storage system, data storage method, and software program",0,G06F
+10977082,2021-04-13,Resource allocation optimization support system and resource allocation optimization support method,3,G06F
+10976946,2021-04-13,Method and computer system for managing blocks,1,G06F
+10970250,2021-04-06,"System, data management method, and file server",0,G06F|H04L
+10970237,2021-04-06,Storage system,0,G06F
+10969985,2021-04-06,Storage system and control method thereof,2,G06F
+10967609,2021-04-06,Clad material,0,B21B|B23K|B32B|C21D|C22C|C22F|H01L|H01M|Y02E|Y10T
+10966355,2021-03-30,Electric power conversion apparatus,0,B60K|B60L|B60Y|H01L|H02M|H02P|H05K|Y02T|Y10S
+10965472,2021-03-30,Secure bootstrap for a blockchain network,0,H04L
+10963736,2021-03-30,"Object recognition apparatus, object recognition system, and object recognition method",0,G06F|G06V
+10963485,2021-03-30,Storage system and data replication method in storage system,4,G06F
+10963161,2021-03-30,Storage apparatus and its control method,0,G06F|H04L
+10956509,2021-03-23,Material development assistance system and material development assistance method,0,G02B|G06F|G09F
+10956393,2021-03-23,Data storage system and process for providing distributed storage in a scalable cluster system and computer program for such data storage system,0,G06F|H04L
+10956251,2021-03-23,Abnormality detection device,0,B21B|G01M|G05B|G06F
+10956147,2021-03-23,"Software distribution system, software distribution server, and software distribution method",1,G06F|H04L
+10956063,2021-03-23,Virtual storage system,12,G06F
+10953630,2021-03-23,Method for manufacturing clad material,0,B21B|B23K|B32B|C21D|C22C|C22F|H01L|H01M|Y02E|Y10T
+10952694,2021-03-23,Method and apparatus for correcting computed tomography image,0,A61B|G06T
+10951793,2021-03-16,"Imaging device, imaging method, and image processing device generating a complex sensor image",2,G02B|G06T|H04N
+10949610,2021-03-16,Computing machine and template management method,1,G06F|G06T|G06V
+10949423,2021-03-16,"Operation management device, operation management method, and operation management system",0,G06F|H04Q
+10949405,2021-03-16,"Data deduplication device, data deduplication method, and data deduplication program",0,G06F
+10949323,2021-03-16,"Application management system, method, and computer program",0,G06F
+10948904,2021-03-16,Product inspection system and production inspection method,0,G05B|G06Q|G06T|H04N|Y02P
+10942815,2021-03-09,"Storage control system managing file-level and block-level storage services, and methods for controlling such storage control system",0,G06F
+10937731,2021-03-02,Semiconductor module and method for manufacturing semiconductor module,0,H01L|H10D
+10937209,2021-03-02,Tomography imaging apparatus and method of reconstructing tomography image,5,A61B|G06T
+10936971,2021-03-02,Optimization apparatus and optimization method for hyper parameter,0,G06F|G06N
+10936634,2021-03-02,"Synonymous column candidate selecting apparatus, synonymous column candidate selecting method, and synonymous column candidate selecting program",0,G06F
+10936518,2021-03-02,"Storage system, data management method, and data management program",1,G06F
+10936377,2021-03-02,Distributed database system and resource management method for distributed database system,0,G06F|G06N|Y10S
+10936243,2021-03-02,Storage system and data transfer control method,0,G06F
+10933895,2021-03-02,Control arrangements for maintenance of a collection of physical devices and methods for controlling maintenance of a collection of physical devices,1,B61L|G06Q
+10929273,2021-02-23,"Application logic, and verification method and configuration method thereof",0,G06F|G21C|G21D|Y02E
+10929042,2021-02-23,"Data storage system, process, and computer program for de-duplication of distributed data in a scalable cluster system",1,G06F
+10929030,2021-02-23,Computer and control method,0,G06F|H04L
+10922091,2021-02-16,Distributed realtime edge-core analytics with feedback,0,G06F
+10915563,2021-02-09,"Analysis server device, data analysis system, and data analysis method",0,G06F|H04L
+10915441,2021-02-09,Storage system having non-volatile memory device,0,G06F
+10915401,2021-02-09,Data saving caused by a partial failure of the memory device,15,G06F
+10915362,2021-02-09,"Task management system, task management method, and task management program",0,G06F
+10914804,2021-02-09,Medical image diagnostic assistance device and magnetic resonance imaging device,0,A61B|G01R|G06T|G16H
+10913680,2021-02-09,"Lead-free glass composition, glass composite material, glass paste, sealing structure, electrical/electronic component and coated component",1,C03C|H01B|H01J|H01L|H03H|H05B|H10F|H10K
+10911643,2021-02-02,Imaging device modulating intensity of light with grating pattern,1,G02F|H04N
+10911240,2021-02-02,Off-chain blockchain storage with validation,0,H04L
+10909558,2021-02-02,Marketing support system,0,G06N|G06Q
+10909016,2021-02-02,Management computer and method of managing computer to be managed,0,G06F
+10909007,2021-02-02,Storage system and storage control method for replacing storage controllers in a communication-disabled state during a shutdown-less replacement,0,G06F
+10908988,2021-02-02,Storage apparatus,0,G06F
+10908834,2021-02-02,Load balancing for scalable storage system,0,G06F
+10908121,2021-02-02,"Membrane device, measurement device, and method for producing membrane device",2,G01N|H01L

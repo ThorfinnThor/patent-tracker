@@ -1,0 +1,1210 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432170,2025-09-30,Agnostic domain communication via a user interface of a communication platform,0,G06F|H04L
+12430849,2025-09-30,Systems and methods for multimodal pretraining for three-dimensional understanding models,0,G06F|G06N|G06T
+12430828,2025-09-30,User interface for presenting time series metrics,0,G06F|G06T
+12430585,2025-09-30,Systems and methods for program synthesis,0,G06F|G06N
+12430584,2025-09-30,Systems and methods for program synthesis,0,G06F|G06N
+12430454,2025-09-30,Database systems and methods for securely sharing a record within a conversation,0,G06F
+12430317,2025-09-30,Verification of backup data across a data pipeline,0,G06F
+12425462,2025-09-23,Surfacing relevant topics in a group-based communication system,0,H04L
+12425260,2025-09-23,Methods and apparatuses for determining a user status avatar for rendering within a group-based communication interface,0,G06Q|H04L
+12423525,2025-09-23,Applied artificial intelligence technology for narrative generation based on explanation communication goals,0,G06F|G06N
+12423356,2025-09-23,Systems and methods of programmatic control of scaling read requests to a database system,0,G06F
+12423334,2025-09-23,Collecting and supporting querying of high-cardinality time-series data,0,G06F
+12423288,2025-09-23,Target environment data seeding,0,G06F
+12418405,2025-09-16,Protecting application private keys with remote and local security controllers,0,H04L
+12418404,2025-09-16,Secure data migration,0,G06F|H04L
+12417385,2025-09-16,"Systems and methods for learning unified representations of language, image, and point cloud for three-dimensional recognition",0,G06F|G06N|G06T|G06V
+12417384,2025-09-16,"Systems and methods for learning unified representations of language, image, and point cloud for three-dimensional recognition",0,G06F|G06N|G06T|G06V
+12417236,2025-09-16,Evaluating clustering in case of data stewardship actions,0,G06F
+12417217,2025-09-16,Multi-tenant database resource utilization,0,G06F
+12417063,2025-09-16,Displaying a communication platform summary,0,G06F|G06N|G06Q
+12413829,2025-09-09,Systems and methods for controllable video generation,0,G06F|G06N|G06T|H04N
+12413524,2025-09-09,Access control for restricted entities,0,H04L
+12412022,2025-09-09,Visual text summary generation,0,G06F|G06N|G06T
+12411971,2025-09-09,Authenticating accesses to a shared datastore of a multi-tenant computer system,0,G06F|H04L
+12411872,2025-09-09,Infoscenting fields for multi-fact data model analysis using shared dimensions,0,G06F
+12411830,2025-09-09,Rule evaluation for real-time data stream,0,G06F|G06Q|H04N
+12411755,2025-09-09,Testing integration applications for systems,0,G06F
+12411743,2025-09-09,Methods of immutable deployment of persistent relational databases,0,G06F
+12411669,2025-09-09,Package generation for configuring a working environment on a server instance,0,G06F
+12406669,2025-09-02,"Method, apparatus, and computer program product for searchable real-time transcribed audio and visual content within a group-based communication system",0,G06F|G06V|G10L|H04L|H04M|H04N
+12406210,2025-09-02,Techniques for machine learning model selection for domain generalization,0,G06F|G06N
+12406154,2025-09-02,Systems and methods for search based neural text generation models,0,G06F
+12405947,2025-09-02,Statement-level instead-of database triggers,0,G06F
+12405946,2025-09-02,Automatic query generation for large language models,0,G06F|G06N
+12405927,2025-09-02,Database object lifecycle states,0,G06F
+12401708,2025-08-26,Systems and methods to protect against information disclosure,0,G06F|H04L
+12401652,2025-08-26,System and methods for network address based blocking for multiple substrates,0,G06F|H04L
+12401626,2025-08-26,Multi-factor network segmentation,0,H04L
+12400136,2025-08-26,Systems and methods for counterfactual explanation in machine learning models,0,G06F|G06N
+12400073,2025-08-26,Systems and methods for shared latent space prompt tuning,0,G06F|G06N
+12400072,2025-08-26,Systems and methods for structured conversation summarization,0,G06F
+12400068,2025-08-26,Systems and methods for natural language code search,0,G06F|G06N
+12399963,2025-08-26,System and method for configurable multi-factor health credential validation,0,G06F|G16H
+12399947,2025-08-26,AI driven page navigation based on user behavior,0,G06F
+12399872,2025-08-26,Intelligent service for data migration,0,G06F
+12395535,2025-08-19,Security techniques for enterprise messaging systems,0,H04L
+12394220,2025-08-19,Systems and methods for attention mechanism in three-dimensional object detection,0,G06N|G06T|G06V
+12393569,2025-08-19,Operation statement analysis for database trigger firing,0,G06F
+12393557,2025-08-19,Declarative entity segmentation,0,G06F
+12393414,2025-08-19,System and method for statistically distributed rate limiting of application programming interface traffic,0,G06F|H04L
+12388955,2025-08-12,Asynchronous online meeting metadata flow,0,H04L|H04N
+12387340,2025-08-12,Systems and methods for open vocabulary instance segmentation in unannotated images,0,G06T|G06V
+12387107,2025-08-12,Training multi-task neural network while minimizing catastrophic forgetting,0,G06N
+12386920,2025-08-12,Automatic product description generation,0,G06F|G06N|G06V
+12386919,2025-08-12,Synthetic data generation for machine learning model simulation,0,G06F|G06N
+12386832,2025-08-12,Synthetic data generation for query plans,0,G06F|G06N
+12386675,2025-08-12,Orchestration of operations on a cloud platform based on multiple version maps of services,0,G06F
+12380430,2025-08-05,Intermediary roles in public trust ledger actions via a database system,0,G06Q
+12380280,2025-08-05,Topic identification based on virtual space machine learning models,0,G06F|G06N|G10L|H04L
+12380084,2025-08-05,Delta transition table for database triggers,0,G06F
+12380081,2025-08-05,Reducing requests using probabilistic data structures,0,G06F|H04L
+12379865,2025-08-05,Mechanisms for grouping nodes,0,G06F
+12375538,2025-07-29,"Ambient, ad hoc, multimedia collaboration in a group-based communication system",0,G06F|G06Q|H04L
+12375493,2025-07-29,Enforcing JIT access control by leveraging pam and LDAP,0,H04L
+12375450,2025-07-29,Enabling private communication in public multi-cloud environments,0,H04L
+12375439,2025-07-29,"Apparatuses, methods, and computer program products for data retention in a common group-based communication channel",0,G06F|H04L
+12375343,2025-07-29,Site management in an on-demand system,0,F24F|G05B|G05F|G06F|H02J|H04L|Y02B|Y02P|Y04S
+12374099,2025-07-29,Systems and methods for visual question answering,0,G06N|G06V
+12373756,2025-07-29,Contextual workflow buttons,0,G06F|G06Q
+12373553,2025-07-29,State-based detection of anomalous API calls within a real-time data stream,0,G06F
+12373467,2025-07-29,Query semantics for multi-fact data model analysis using shared dimensions,0,G06F
+12373438,2025-07-29,Database like peeking,0,G06F
+12373321,2025-07-29,Database disruption detection and failover,0,G06F
+12373187,2025-07-29,Automatic microgateway taxonomy tags,0,G06F|H04L
+12367662,2025-07-22,Systems and methods for video models with procedure understanding,0,G06F|G06V
+12367187,2025-07-22,Distributed database locking,0,G06F
+12363137,2025-07-15,Detection of multi-killchain alerts,0,H04L
+12361325,2025-07-15,"Automatic generation of an explanation, based on data lineage and user feedback, of a prediction produced by a machine learning system",0,G06F|G06N|G06Q
+12361295,2025-07-15,Machine learning to automate request tagging for conversion funnels,0,G06F|G06N
+12361201,2025-07-15,Systems and methods for parameter ensembling for reducing hallucination in abstractive summarization,0,G06F|G06N
+12361153,2025-07-15,Providing web application components within remote systems,0,G06F|H04L
+12360982,2025-07-15,Hybrid database system for strongly consistent and highly scalable metadata storage,0,G06F
+12360783,2025-07-15,API governance enforcement architecture,0,G06F
+12360760,2025-07-15,Cloud services release orchestration,0,G06F
+12360759,2025-07-15,Downgrading database software via a downgradability test,0,G06F
+12360757,2025-07-15,Upgrading a target system in a continuous integration system,0,G06F
+12355776,2025-07-08,Computing system permission administration engine,0,G06F|G06N|H04L
+12354244,2025-07-08,Systems and methods for reversible transformations using diffusion models,0,G06T
+12354113,2025-07-08,Integrating and managing social networking information in an on-demand database system,0,G06F|G06Q|H04L
+12354089,2025-07-08,Database system public trust ledger multi-owner token architecture,0,G06F|G06Q|H04L
+12354013,2025-07-08,Systems and methods for masked self-training of unsupervised image classification,0,G06N|G06V
+12353587,2025-07-08,Data security using multi-factor authentication,0,G06F
+12353411,2025-07-08,Database systems and client-side query transformation methods,0,G06F
+12353402,2025-07-08,Generating scalability scores for tenants using performance metrics,0,G06F
+12353401,2025-07-08,Database systems and client-side methods for offline operation,0,G06F
+12348507,2025-07-01,Administration of services executing in cloud platform based datacenters for web-based applications,0,H04L
+12348475,2025-07-01,Smart events framework,0,H04L
+12346949,2025-07-01,Online recommendations,0,G06N|G06Q
+12346880,2025-07-01,Integrating structured data containers into virtual spaces for communication platform,0,G06F|G06Q|H04L
+12346538,2025-07-01,Configuring subscriptions for objects of third-party applications integrated into a communication platform,0,G06F|G06N|G06Q|H04L
+12341833,2025-06-24,Production tools for collaborative videos,0,H04L
+12340239,2025-06-24,Method and system for application programming interface based container service for supporting multiple machine learning applications,0,G06F|G06N|H04L
+12340232,2025-06-24,Systems and methods for integrating mobile application plug-ins,0,G06F
+12340213,2025-06-24,Application and infrastructure template management to easily create secure applications for enterprises,0,G06F
+12339867,2025-06-24,Data management in a large scale distributed cloud service,0,G06F
+12335215,2025-06-17,Providing an instant messaging interface for data analytics,0,G06F|H04L
+12333577,2025-06-17,Automatic rule generation for next-action recommendation engine,0,G06Q
+12333346,2025-06-17,Discovery and routing to inference servers based on monitored version information,0,G06F|G06N|H04L
+12333280,2025-06-17,"Systems, methods, and devices for automatic application programming interface model generation based on network traffic",0,G06F
+12333036,2025-06-17,API consumption,0,G06F
+12332846,2025-06-17,Data deduplication using modulus reduction arrays,0,G06F
+12332766,2025-06-17,Defining feature variable configurations that enable access to features of a system,0,G06F
+12328645,2025-06-10,"Method, apparatus, and computer program product for organizational telemetry discovery within a group based communication system",0,H04L|H04W
+12328376,2025-06-10,Techniques for cross-platform communication process flow object posting,0,H04L
+12327303,2025-06-10,Using semantic alignment to present time series metrics,0,G06F|G06T
+12327199,2025-06-10,Multi-scale exponential-smoothing forecaster for time series data,0,G06F|G06N
+12327095,2025-06-10,Systems and methods of decomposing user experience components into functioning subcomponents,0,G06F
+12326787,2025-06-10,Methods and systems for stateful workflow execution,0,G06F
+12323380,2025-06-03,Techniques for cross platform communication process flow event posting,0,G06Q|H04L
+12321899,2025-06-03,Aggregating an event occurrence feedback report within a group-based communication system,0,G06Q|H04L
+12321865,2025-06-03,Event prediction based on multimodal learning,0,G06F|G06N|G06V
+12321864,2025-06-03,Multi-hop search for entity relationships,0,G06F|G06N
+12321784,2025-06-03,Automatically identifying and right sizing instances,0,G06F
+12321740,2025-06-03,Upgrading multi-instance software using enforced computing zone order,0,G06F
+12321418,2025-06-03,Systems and methods for contrastive attention-supervised tuning,0,G06F|G06N|G06T|G06V
+12321338,2025-06-03,Mechanisms for deploying database clusters,0,G06F
+12316594,2025-05-27,Generating interactive emails and tracking user interactions,0,G06F|G06Q|H04L|H04M
+12314861,2025-05-27,Systems and methods for semi-supervised learning with contrastive graph regularization,0,G06F|G06N|G06V
+12314733,2025-05-27,Systems and methods for implementing a shim database driver,0,G06F
+12314674,2025-05-27,Applied artificial intelligence technology for narrative generation based on a conditional outcome framework,0,G06F|G06N|G10L
+12314673,2025-05-27,Generative language model for few-shot aspect-based sentiment analysis,0,G06F|G06N
+12314666,2025-05-27,Stable identification of entity mentions,0,G06F|G06N
+12314663,2025-05-27,Endpoint detection,0,G06F
+12309109,2025-05-20,Techniques for communication process flow approval management,0,G06F|H04L
+12307551,2025-05-20,Machine learning based on graphical element generator for communication platform,0,G06F|G06T
+12307243,2025-05-20,Code management cross-support and synchronization,0,G06F
+12307204,2025-05-20,Systems and methods for contextualized and quantized soft prompts for natural language understanding,0,G06F|G06N
+12307191,2025-05-20,In-line live data mentions,0,G06F
+12306896,2025-05-20,Automatic layout anomaly detection for website localization,0,G06F
+12302197,2025-05-13,"Apparatuses, methods, and computer program products for centralized channel management in a group-based communication system",0,H04L|H04M|H04W
+12301657,2025-05-13,Sharing objects across namespaces in a container-orchestration system,0,G06F|H04L
+12301555,2025-05-13,Automating responses to authentication requests using unsupervised computer learning techniques,0,G06N|H04L|H04W
+12299982,2025-05-13,Systems and methods for partially supervised online action detection in untrimmed videos,0,G06F|G06N|G06V
+12299961,2025-05-13,Systems and methods for unified vision-language understanding and generation,0,G06F|G06T|G06V
+12299437,2025-05-13,Method and system for updating configuration settings during the execution of an application,0,G06F
+12299265,2025-05-13,Systems and methods for cross domain service component interaction,0,G06F|G06Q|H04L
+12298982,2025-05-13,Diversity and explainability parameters for recommendation accuracy in machine learning recommendation systems,0,G06F|G06N
+12294557,2025-05-06,Sharing of collaborative documents with users via instant messaging,0,G06F|G06Q|H04L
+12292906,2025-05-06,Systems and methods for real-time document recommendation,0,G06F
+12292862,2025-05-06,Schema change operations,0,G06F
+12292816,2025-05-06,"System, method, and graphical user interface for temporal presentation and navigation of code path data",0,G06F
+12289206,2025-04-29,System and method for generic configuration management system application programming interface,0,H04L
+12288380,2025-04-29,Systems and methods for unified vision-language understanding and generation,0,G06F|G06T|G06V
+12288190,2025-04-29,"Method, apparatus, and computer program product for authorizing and authenticating user communication within an enterprise group-based communication platform",0,G06Q|H04L|H04W
+12288078,2025-04-29,Systems and methods for bootstrap management,0,G06F|H04L
+12288047,2025-04-29,Extensible binding mechanism for translating between application programming interface description languages,0,G06F
+12288039,2025-04-29,Applied artificial intelligence technology for adaptively classifying sentences based on the concepts they express to improve natural language understanding,0,G06F|G06N
+12288032,2025-04-29,Secure complete phrase utterance recommendation system,0,G06F|G06N
+12287950,2025-04-29,User interface for searching content of a communication platform using reaction icons,0,G06F|H04L
+12287897,2025-04-29,Field level encryption searchable database system,0,G06F
+12287716,2025-04-29,Techniques for providing application contextual information,0,G06F
+12284215,2025-04-22,Security configuration evaluation,0,H04L
+12284175,2025-04-22,Context specific user chatbot,0,H04L
+12282487,2025-04-22,"Methods, apparatuses and computer program products for outputting improved autosuggestions in a group-based communication platform",0,G06F
+12282475,2025-04-22,Multi-threaded dynamic queries on an unpartitioned database,0,G06F
+12282470,2025-04-22,Skip-list checkpoint creation,0,G06F
+12282458,2025-04-22,Database systems and methods for automated database modifications,0,G06F
+12278767,2025-04-15,Dynamic traffic throttling,0,H04L
+12277414,2025-04-15,Controlled updates of containers in a distributed application deployment environment,0,G06F
+12277133,2025-04-15,Automatic data linting rules for ETL pipelines,0,G06F
+12273347,2025-04-08,Techniques and architectures for sharing remote resources among a trusted group of users,0,H04L
+12271792,2025-04-08,Systems and methods for vision-and-language representation learning,0,G06F|G06N|G06V
+12271361,2025-04-08,Multi-tenant partitioned data store using key/value buckets,0,G06F
+12267415,2025-04-01,Cryptographic key migration,0,H04L
+12266213,2025-04-01,Proactive contact tracing associated with shared health events,0,G06F|G06V|G16H
+12265947,2025-04-01,Region-specific content creation,0,G06Q|G06T
+12265909,2025-04-01,Systems and methods for a k-nearest neighbor based mechanism of natural language processing models,0,G06F|G06N
+12265783,2025-04-01,Systems and methods for multi-modal conversation summarization on a conversation platform,0,G06F|G06V|H04L
+12265587,2025-04-01,Systems and method for investigating relationships among entities,0,G06F
+12265530,2025-04-01,Automated data ingestion and processing,0,G06F
+12261923,2025-03-25,Techniques for cross platform communication process flow metric generation and display,0,G06F|G06Q|H04L
+12261874,2025-03-25,Library security methods and systems using a web application firewall,0,H04L
+12260478,2025-03-25,Visualization recommendations for time-series metrics presentations,0,G06F|G06T
+12260434,2025-03-25,System and method for a scalable pricing engine,0,G06F|G06Q
+12260185,2025-03-25,Coarse-to-fine abstractive dialogue summarization with controllable granularity,0,G06F
+12259851,2025-03-25,Testing templates used for implementing infrastructure as code,0,G06F
+12256044,2025-03-18,Call center mobile messaging,0,H04L|H04M|H04W
+12256043,2025-03-18,Call center mobile messaging,0,H04L|H04M|H04W
+12256039,2025-03-18,Maintaining service availability,0,G06F|H04M
+12255934,2025-03-18,Seamless communication resource transition between a group-based communication system and an external communication system,0,H04L
+12255925,2025-03-18,Systems and methods for automatically rendering and deploying network security policies,0,H04L
+12255872,2025-03-18,Protectively displaying specific fields in specific views of a secure interface,0,H04L
+12255865,2025-03-18,Object interface for quick access to objects of a communication platform,0,G06F|G06Q|H04L
+12255859,2025-03-18,Message moderation in a communication platform,0,G06F|H04L
+12253916,2025-03-18,Redo avoidance during database recovery,0,G06F
+12250197,2025-03-11,Automated external IP address discovery of services in a public cloud environment,0,H04L
+12250183,2025-03-11,"Method, apparatus, and computer program product for initiating and executing a group based communication browser session and rendering a group based communication interface",0,G06F|H04L
+12248823,2025-03-11,Dynamic personalized API assembly,0,G06F|H04L
+12248754,2025-03-11,Database systems with automated structural metadata assignment,0,G06F|G10L|H04L
+12248513,2025-03-11,Expandable data object management and indexing architecture for intersystem data exchange compatibility,0,G06F|G06Q|H04L
+12248461,2025-03-11,Applied artificial intelligence technology for natural language generation using a graph data structure and configurable chooser code,0,G06F|G06N
+12248443,2025-03-11,Database migration,0,G06F
+12248370,2025-03-11,Workflows for automated operations management,0,G06F
+12244768,2025-03-04,Call center mobile messaging,0,H04L|H04M|H04W
+12244734,2025-03-04,Certificate revocation at datacenters,0,H04L
+12244594,2025-03-04,Secure configuration management interfaces for networking devices,0,G06F|H04L
+12244504,2025-03-04,Automatic testing of networks using smart contracts,0,H04L
+12244484,2025-03-04,Interspersed message batching in a database system,0,G06F|H04L
+12242835,2025-03-04,"Systems and methods for exporting, publishing, browsing and installing on-demand applications in a multi-tenant database environment",0,G06F|H04L
+12242834,2025-03-04,Security model for live applications in a cloud collaboration platform,0,G06F|H04L
+12242638,2025-03-04,Mechanisms to predict system resource consumption of transactions,0,G06F
+12242618,2025-03-04,Multi-tenant cryptography implementation compliance,0,G06F|H04L
+12242509,2025-03-04,Dynamic pairing mechanism for live database replication,0,G06F
+12238246,2025-02-25,Call center mobile messaging,0,H04L|H04M|H04W
+12238114,2025-02-25,"Method, apparatus, and computer program product for selectively granting permissions to group-based objects in a group-based communication system",0,G06F|H04L
+12238060,2025-02-25,Integrating structured data containers via templates for communication platform,0,G06Q|H04L
+12237939,2025-02-25,Methods to generate communication channel for data objects,0,H04L
+12236264,2025-02-25,Data shards for distributed processing,0,G06F|G06N|H04L
+12236253,2025-02-25,Creation and presentation of accessible targeted prompts,0,G06F
+12235865,2025-02-25,No-code configuration of data visualization actions for execution of parameterized remote workflows with data context via API,0,G06F
+12235850,2025-02-25,Systems and methods for online adaptation for cross-domain streaming data,0,G06F|G06N
+12235849,2025-02-25,Multi-context stateful rule execution,0,G06F
+12235844,2025-02-25,Anomalous query identification using query clustering,0,G06F
+12235790,2025-02-25,Deep neural network-based decision network,0,G06F|G06N|G06V
+12231517,2025-02-18,"Group-based communication apparatus, method, and computer program product configured to manage draft messages in a group-based communication system",0,H04L
+12231476,2025-02-18,Systems and methods for multimedia multipoint real-time conferencing allowing real-time bandwidth management and prioritized media distribution,0,G06F|G06Q|H04L|H04N
+12231423,2025-02-18,Administration of services executing in cloud platform based datacenters using token with data structure,0,G06F|H04L
+12229856,2025-02-18,Semantic alignment of text and visual cards to present time series metrics,0,G06F|G06T
+12229701,2025-02-18,Techniques for communication process flow and data platform integration,0,G06Q
+12229655,2025-02-18,Methods and system for deep learning model generation of samples with enhanced attributes,0,G06N
+12229318,2025-02-18,Applications permissions framework,0,G06F|H04L
+12229119,2025-02-18,Multiple index scans,0,G06F
+12225123,2025-02-11,Electronic mail authentication and tracking in database system using message identifier within body of electronic mail,0,H04L
+12223305,2025-02-11,Methods and systems for deployment of services,0,G06F
+12223270,2025-02-11,Systems and methods near negative distinction for evaluating NLP models,0,G06F
+12222924,2025-02-11,Buffering techniques for a change record stream of a database,0,G06F
+12222836,2025-02-11,Rendering a stack trace visualization display,0,G06F
+12219007,2025-02-04,Selectively adding users to channels in a group-based communication system,0,H04L
+12217146,2025-02-04,Generating dual sequence inferences using a neural network model,0,G06F|G06N
+12217082,2025-02-04,Methods and systems for automating deployment of applications in a multi-tenant database environment,0,G06F
+12217033,2025-02-04,Systems and methods for code understanding and generation,0,G06F|G06N
+12216678,2025-02-04,Search tool for exploring quantifiable trends in line charts,0,G06F
+12212654,2025-01-28,"Systems, methods, and apparatuses for information isolation using a distributed ledger accessible by a cloud based computing environment",1,G06Q|H04L
+12210976,2025-01-28,Systems and methods for video representation learning with a weak teacher,0,G06F|G06N|G06V
+12210916,2025-01-28,Regeneration audit log,0,G06F|G06Q|H04L
+12210621,2025-01-28,System and method to automatically construct kill-chain from security alert,0,G06F|G06N
+12210579,2025-01-28,High scalable document generation service,0,G06F|H04L
+12210540,2025-01-28,Systems and methods of database connection and management of requests,0,G06F
+12205105,2025-01-21,Decentralized tokenization technologies,0,G06F|G06Q|H04L
+12204948,2025-01-21,Elastic data partitioning of a database,0,G06F
+12204892,2025-01-21,Using templates to provision infrastructures for machine learning applications in a multi-tenant on-demand serving infrastructure,0,G06F|G06N
+12204881,2025-01-21,Dynamically applying profile-guided optimization to a DBMS,0,G06F
+12204875,2025-01-21,Rapid prototyping of user experience components and related application functionality,0,G06F
+12204857,2025-01-21,Systems and methods for text classification using label modular prompts,0,G06F
+12204847,2025-01-21,Systems and methods for text summarization,0,G06F|G06N
+12199985,2025-01-14,Multi-modal user authorization in group-based communication systems,0,H04L
+12198453,2025-01-14,Systems and methods for open vocabulary object detection,0,G06F|G06N|G06T|G06V
+12198432,2025-01-14,Systems and methods for video and language pre-training,0,G06F|G06V
+12198205,2025-01-14,System and method for aggregating social network feed information,0,G06Q
+12198060,2025-01-14,Systems and methods for mutual information based self-supervised learning,0,G06F|G06N
+12198047,2025-01-14,Quasi-recurrent neural network based encoder-decoder model,0,G06F|G06N|G10L
+12197456,2025-01-14,Data virtualization adapter in an integration platform,0,G06F
+12197317,2025-01-14,Systems and methods for providing an automated testing pipeline for neural network models,0,G06F
+12192206,2025-01-07,Dynamically reconfiguring a database system of a tenant based on risk profile(s) of the tenant,0,H04L
+12192081,2025-01-07,De-centralized high risk actions on coordinated computer systems,0,H04L
+12190148,2025-01-07,System and method for asynchronous backend processing of expensive command line interface commands,0,G06F
+12189686,2025-01-07,Integration of video conferencing applications with on-demand database services,0,G06F|H04N
+12189650,2025-01-07,Facilitating mobile device interaction with an enterprise database system,0,G06F|G10L|H04L
+12189417,2025-01-07,Time proposals in director-based database system for transactional consistency,0,G06F
+12184706,2024-12-31,Method for resource sharing in video teleconferences,0,H04L
+12184651,2024-12-31,"Methods, systems, and apparatuses for improved multi-factor authentication in a multi-app communication system",0,G06F|H04L
+12182108,2024-12-31,Automatic GoTo routing in process flow generation,0,G06F|G06Q
+12177381,2024-12-24,Method and system for capturing data of actions,0,H04L|H04M
+12177361,2024-12-24,Avoiding information disclosure about user actions on configuration data submissions in multi-tenant network management interfaces,0,H04L
+12177270,2024-12-24,Real-time updates for document collaboration sessions in a group-based communication system,0,H04L
+12177176,2024-12-24,Triaging incoming information in a card-based mobile interface,0,G06F|H04L
+12174857,2024-12-24,User identifier match and merge process,1,G06F
+12174833,2024-12-24,Technologies for runtime selection of query execution engines,0,G06F
+12174829,2024-12-24,Aggregate query optimization,0,G06F
+12170693,2024-12-17,Correlation of security policy input and output changes,0,G06F|H04L
+12170692,2024-12-17,Network security orchestration and management across different clouds,0,H04L
+12170668,2024-12-17,Network security path identification and validation,0,H04L
+12169742,2024-12-17,Deployed application programming interface management,1,G06F|H04L
+12169698,2024-12-17,Systems and methods for reading comprehension for a question answering task,0,G06F|G06N
+12169577,2024-12-17,Securely executing client code in a shared infrastructure,0,G06F
+12169509,2024-12-17,Arbitrary dimensional resource accounting on N-ary tree of assets in databases,0,G06F
+12166738,2024-12-10,Contextual discovery and design of application workflow,0,G06F|G06Q|H04L
+12165053,2024-12-10,System and method for graph-based resource allocation using neural networks,0,G06N|G06Q
+12164979,2024-12-10,Controlling location-based features with usage maps,0,G06F|H04W
+12164975,2024-12-10,Federated distributed mutation,0,G06F
+12164945,2024-12-10,Metadata driven guided rules editor,0,G06F|G06Q
+12164909,2024-12-10,Application icon generation based on unique application property representation,0,G06F|G06T
+12164878,2024-12-10,Systems and methods for cross-lingual transfer in natural language processing,0,G06F
+12164844,2024-12-10,Dynamic asset management system and methods for generating interactive simulations representing assets based on automatically generated asset records,0,G06F
+12164497,2024-12-10,Embedding scalable CRM dashboards in transactional pages,0,G06F
+12164494,2024-12-10,Key permission distribution,0,G06F
+12160484,2024-12-03,Variable content generation and engagement tracking,0,G06Q|H04L
+12160451,2024-12-03,Governance and security control for services executing on cloud platforms,0,H04L
+12160321,2024-12-03,Multiplexing message distribution within group-based communication system,0,H04L|H04W
+12159247,2024-12-03,Method and system for managing business deals,0,G06Q
+12159244,2024-12-03,Systems and methods for creating a rich social media profile,0,G06F|G06Q
+12159150,2024-12-03,Systems and methods of preventing user interface (UI) flickering,0,G06F
+12159128,2024-12-03,Orchestration of datacenter creation on a cloud platform,0,G06F|H04L
+12159104,2024-12-03,Describing changes in a workflow based on changes in structured documents containing workflow metadata,0,G06F
+12155767,2024-11-26,Zero-knowledge identity verification in a distributed computing system,0,H04L
+12155658,2024-11-26,Multi-tenant two-stage authentication,0,G06F|H04L
+12155610,2024-11-26,Messaging omni-channel authentication,0,H04L
+12153707,2024-11-26,Systems and methods of personally identifiable information (PII) tracking in a network,0,G06F|G06Q
+12153697,2024-11-26,Controlling just in time access to a cluster,0,G06F
+12153640,2024-11-26,Machine-learning based document recommendation for online real-time communication system,0,G06F
+12153633,2024-11-26,Prepackaged data ingestion from various data sources,0,G06F|G06N|H04L
+12153618,2024-11-26,Applied artificial intelligence technology for automatically generating narratives from visualization data,0,G06F|G06T
+12153603,2024-11-26,Database layered filtering,0,G06F
+12153563,2024-11-26,Assistant nodes in director-based database system for transactional consistency,0,G06F
+12147820,2024-11-19,Multi-instance user interface management,2,G06F
+12147765,2024-11-19,Systems and methods for contextualized and quantized soft prompts for natural language understanding,0,G06F|G06N
+12147646,2024-11-19,Application builder,3,G06F
+12147556,2024-11-19,Providing data as a service using a multi-tenant system,2,G06F
+12147419,2024-11-19,Database systems and methods of batching data requests for application extensions,0,G06F
+12147414,2024-11-19,"Method, apparatus, and computer program product for digital content auditing and retention in a group based communication repository",0,G06F|G06Q|H04L
+12147337,2024-11-19,Memory usage monitoring and improvement in a garbage-collected programming environment,0,G06F
+12143917,2024-11-12,Role-based access control system,0,H04L|H04M|H04W
+12143394,2024-11-12,"Method, apparatus, and computer program product for installing and updating third party applications requiring variable host address identification in a group-based communication system",0,G06F|H04L
+12143352,2024-11-12,Context-based notifications presentation,0,H04L|H04M|H04W
+12143345,2024-11-12,Methods and systems for configuring an email engine,0,G06F|G06Q|H04L
+12141523,2024-11-12,Automatic structure selection and content fill within a group-based communication system,0,G06F|G06Q|H04L
+12141303,2024-11-12,Referencing a document in a virtual space,0,G06F|H04L
+12141159,2024-11-12,Updating one or more databases based on dataflow events,0,G06F|G06N
+12141119,2024-11-12,Write protecting tenant data in a multi-tenant database system,0,G06F
+12141100,2024-11-12,Repository for quick retrieval of object(s) of a communication platform,0,G06F|H04L
+12136114,2024-11-05,System and method for asynchronous pricing to improve pricing service scalability,0,G06Q
+12136053,2024-11-05,Communicating based on a workflow using web behavior data,0,G06Q
+12135630,2024-11-05,Automatic non-code test suite generation from API specification,0,G06F
+12132717,2024-10-29,Identity information linking,0,G06F|H04L
+12132716,2024-10-29,"Systems, methods, and devices for automation and integration of credentialing and authentication in workflows associated with computing platforms",2,G06F|H04L
+12126582,2024-10-22,Sharing information via group-based communication systems using searchable messages,0,G06F|H04L
+12124859,2024-10-22,Hybrid multi-tenant framework for reconfiguring software components,1,G06F
+12124824,2024-10-22,Technology agnostic canvas to generate interfaces,0,G06F
+12124689,2024-10-22,Organization of channel labels associated with a plurality of group-based communication channels in a communication platform,0,G06F|G06Q|H04L
+12124458,2024-10-22,Database system observability data querying and access,0,G06F
+12124453,2024-10-22,Metadata driven dataset management,0,G06F
+12118378,2024-10-15,Application programming interface for spinning up machine learning inferencing server on demand,0,G06F|G06N|H04L
+12118373,2024-10-15,Metadata driven guided rules editor,0,G06F|G06Q
+12118349,2024-10-15,Systems and methods of context-mapped container deployment for controlled application updates,0,G06F
+12112523,2024-10-08,Systems and methods for vision-language distribution alignment,0,G06F|G06V
+12112138,2024-10-08,Systems and methods for an end-to-end evaluation and testing framework for task-oriented dialog systems,0,G06F|H04L
+12112131,2024-10-08,Systems and methods for factual extraction from language model,0,G06F|G06N
+12112119,2024-10-08,Systems and methods for contextual summarization in an online conversation channel,0,G06F|G06N|G06Q|G06V|H04L
+12112029,2024-10-08,Reader mode for presentation slides in a cloud collaboration platform,0,B25J|G06F|G06N|G06Q|G09G|G10L|H04L
+12111858,2024-10-08,Database system interaction embedding and indexing for text retrieval and generation,5,G06F|G06N
+12111827,2024-10-08,Signals and measurement of business goals in a chatbot platform,0,G06F
+12106541,2024-10-01,Systems and methods for contrastive pretraining with video tracking supervision,0,G06T|G06V
+12106199,2024-10-01,Real-time predictions based on machine learning models,0,G06N
+12106153,2024-10-01,Tenant-level monitoring,0,G06F
+12106131,2024-10-01,Metadata driven guided rules editor,1,G06F|G06Q
+12106077,2024-10-01,Process flow builder for extensible web component sequences,0,G06F|H04L
+12106073,2024-10-01,Reducing code path permutations,0,G06F
+12106043,2024-10-01,Generating structured data containers for communication platform,0,G06F|H04L
+12105835,2024-10-01,Efficient API with privacy protection,0,G06F
+12105744,2024-10-01,Systems and methods for semantic parsing with primitive level enumeration,0,G06F
+12105725,2024-10-01,Automatic determination of alternative paths for a process flow using machine learning,0,G06F|G06N
+12105715,2024-10-01,Tenant identification for cache keys,0,G06F
+12099770,2024-09-24,Displaying predicted tasks based on changing devices,1,G06F|H04L
+12099553,2024-09-24,Flap detection in a computer system,0,G06F
+12099524,2024-09-24,Database systems and related replication monitoring methods,0,G06F|H04L
+12099496,2024-09-24,Database system public trust ledger contract linkage,0,G06F|H04L
+12099491,2024-09-24,Database systems and methods for client-side initiation of server-side actions,0,G06F
+12095716,2024-09-17,Data retention in group-based communication platform,0,H04L
+12093727,2024-09-17,Process flow builder customization,0,G06F|G06Q
+12093670,2024-09-17,"System, method, and graphical user interface for temporal presentation of stack trace and associated data",0,G06F
+12093283,2024-09-17,Sharing data in a data storage system,0,G06F|G06Q
+12088696,2024-09-10,Protecting application private keys with remote and local security controllers and local MPC key generation,0,H04L
+12087281,2024-09-10,Systems and methods for unsupervised structure extraction in task-oriented dialogues,0,G06F|G06N|G10L
+12086698,2024-09-10,Systems and methods for field extraction from unlabeled data,0,G06N|G06V
+12086562,2024-09-10,Applied artificial intelligence technology for performing natural language generation (NLG) using composable communication goals and ontologies to generate narrative stories,0,G06F|G06N|G06Q
+12086539,2024-09-10,System and method for natural language processing using neural network with cross-task training,1,G06F|G06N
+12086188,2024-09-10,Generation of regular expressions,0,G06F
+12086142,2024-09-10,Database virtual partitioning,0,G06F
+12086128,2024-09-10,Mechanisms for serializing triples of a database store,0,G06F
+12086041,2024-09-10,Early database transaction visibility,0,G06F
+12086032,2024-09-10,Workflows for automated operations management,0,G06F
+12086016,2024-09-10,Anomaly detection and root cause analysis in a multi-tenant environment,2,G06F
+12079602,2024-09-03,Systems and methods for a conversational framework of program synthesis,0,G06F|G06N
+12079311,2024-09-03,AI-enhanced data labeling,1,G06F|G06N|G06T|G06V
+12079224,2024-09-03,Database systems with adaptive automated metadata assignment,0,G06F
+12079206,2024-09-03,Transmitting change data capture events during database replication,0,G06F
+12073367,2024-08-27,"Method, apparatus and computer program product for providing a channel calendar in a group-based communication system",0,G06Q|H04L
+12073258,2024-08-27,Configuration map based sharding for containers in a machine learning serving infrastructure,1,G06F|G06N|H04L
+12073178,2024-08-27,Systems and methods for refining pre-trained language models with improved gender fairness,1,G06F|G06N
+12072955,2024-08-27,Parameter utilization for language pre-training,0,G06F|G06N
+12072881,2024-08-27,Key range query optimization,0,G06F
+12072759,2024-08-27,Cross-region software failure recovery,0,G06F
+12069054,2024-08-20,Converting private channels to public channels,0,G06F|H04L
+12068873,2024-08-20,Domain and invite management in a group-based communication system,0,H04L
+12067508,2024-08-20,Providing access to a private resource in an enterprise social networking system,0,G06Q|H04L
+12067207,2024-08-20,"Method, apparatus and computer program product for providing a member calendar in a group-based communication system",0,G06F|G06Q|H04L
+12067004,2024-08-20,Identifying recurring sequences of user interactions with an application,0,G06F|H04L
+12066998,2024-08-20,Online updates to schema information in multi-tenant database system,0,G06F
+12066986,2024-08-20,Methods and apparatus for suppressing network feed activities using an information feed in an on-demand database service environment,0,G06F
+12066983,2024-08-20,Building collaborative data processing flows,0,G06F|G06Q|H04L
+12066910,2024-08-20,Reinforcement learning based group testing,0,G06F|G06N
+12063197,2024-08-13,Techniques for bidirectional cross-platform communications,0,G06F|H04L
+12061619,2024-08-13,Configuring service consoles based on service feature templates using a database system,0,G06F|G06Q|H04L
+12061526,2024-08-13,History information in director-based database system for transactional consistency,0,G06F
+12058090,2024-08-06,"Method, apparatus, and computer program product for organizational telemetry discovery within a group based communication system",0,H04L
+12057116,2024-08-06,Intent disambiguation within a virtual agent platform,0,G06F|G06N|G10L
+12056610,2024-08-06,Systems and methods for partially supervised learning with momentum prototypes,0,G06F|G06N|G06V
+12056537,2024-08-06,Managing execution of continuous delivery pipelines for a cloud platform based data center,0,G06F
+12056138,2024-08-06,Techniques for data retention,0,G06F
+12056117,2024-08-06,Applied artificial intelligence technology for natural language generation using a story graph and different structurers,0,G06F|G06N
+12056109,2024-08-06,Database systems and methods for custom sorting records,0,G06F
+12056106,2024-08-06,Data storage architecture for an enterprise communication system,0,G06F|H04L
+12056009,2024-08-06,Automated operations management for computer systems,0,G06F
+12052312,2024-07-30,Secure integration between an external telephony system and a customer relationship management (CRM) system,0,G06F|H04L
+12052247,2024-07-30,Delegation based access to secure systems,0,G06F|H04L
+12051008,2024-07-30,Generating reliability measures for machine-learned architecture predictions,0,G06N|G06Q
+12050855,2024-07-30,Systems and methods for query-focused summarization,0,G06F
+12050618,2024-07-30,Upgrading replicated databases with small downtime,0,G06F
+12049008,2024-07-30,Techniques and architectures for managing heterogeneous robots to manage deliveries,0,B25J|G06N|G06Q
+12047448,2024-07-23,Cookie-based network location of storage nodes in cloud,0,G06F|H04L
+12045834,2024-07-23,Integrating and managing social networking information in an on-demand database system,1,G06F|G06Q|H04L
+12045197,2024-07-23,Size-based record partitioning,0,G06F
+12045164,2024-07-23,Concurrent computation on data streams using computational graphs,0,G06F
+12041170,2024-07-16,Cloud to cloud test set up for authentication and monitoring,0,G06F|H04L
+12039798,2024-07-16,Processing forms using artificial intelligence models,0,G06F|G06N|G06V
+12039351,2024-07-16,Machine learning for targeting help content,0,G06F
+12039312,2024-07-16,Deployment of a multi-technology-stack application,0,G06F
+12038992,2024-07-16,Suggesting actions for evaluating user performance in an enterprise social network,0,G06F|G06Q|H04L
+12038981,2024-07-16,Knowledge graph for information retrieval and exploration,0,G06F
+12038874,2024-07-16,Dynamically updating distributed content objects,0,G06F|G06Q|H04L
+12038816,2024-07-16,Determining insights related to performance bottlenecks in a multi-tenant database system preliminary class,0,G06F
+12034552,2024-07-09,Scheduled synchronous multimedia collaboration sessions,0,H04L
+12032551,2024-07-09,Techniques and architectures for data field lifecycle management,0,G06F
+12028377,2024-07-02,Active fingerprinting for transport layer security (TLS) servers,0,H04L
+12028303,2024-07-02,Techniques for configuring communication process flow actions,0,G06F|H04L
+12021821,2024-06-25,Methods and apparatuses for managing data integration between an external email resource and a group-based communication system,0,G06F|H04L
+12021805,2024-06-25,Collaboration software development kit,0,G06Q|H04L
+12021646,2024-06-25,Documenting multimedia collaboration session content,0,H04L
+12020049,2024-06-25,Method and system for automatically invoking functionality while using a primary application without user action,0,G06F|G06N|G06Q
+12019984,2024-06-25,Multi-lingual intent model with out-of-domain detection,0,G06F|G10L
+12019896,2024-06-25,Mechanisms for grouping nodes,0,G06F
+12019775,2024-06-25,Managing permissions for collaborative shared documents,0,G06F|H04N
+12019623,2024-06-25,Data transfer resiliency during bulk to streaming transition,0,G06F
+12019610,2024-06-25,Mechanisms for truncating tenant data,1,G06F
+12019607,2024-06-25,"Methods, apparatuses, and computer program products for management of and search index generation based on geographically distributed data",0,G06F|H04L
+12015699,2024-06-18,"Method, apparatus, and computer program product for encryption key management within a group-based communication system",0,H04L
+12014404,2024-06-18,Product category driven navigation menu,0,G06F|G06Q
+12014257,2024-06-18,Domain specific language for generation of recurrent neural network architectures,0,G06N
+12014211,2024-06-18,Techniques for cross platform communication process flow management,0,G06F|H04L
+12014171,2024-06-18,Managing security approval of services deployed in cloud platform using an extensible platform as a service,0,G06F
+12014162,2024-06-18,Controlled updates of containers in a distributed application deployment environment,0,G06F
+12013860,2024-06-18,Key-value storage using a skip list,0,G06F
+12013831,2024-06-18,Index for multi-level data structures,0,G06F
+12010219,2024-06-11,Key management providing high availability without key replication,0,H04L
+12010120,2024-06-11,Computing system permission administration engine,0,G06F|G06N|H04L
+12010034,2024-06-11,Orchestration in a multi-layer network,0,G06F|H04L
+12009989,2024-06-11,On demand synthetic data matrix generation,0,G05B|G06F|G06N|H04L
+12008408,2024-06-11,Automatically identifying and right sizing instances,1,G06F
+12008407,2024-06-11,Automatically identifying and right sizing instances,1,G06F
+12008207,2024-06-11,Representing loading of a page of a user interface,0,G06F|G06N|G06T
+12007842,2024-06-11,Database node soft restart,0,G06F|H04L
+12004052,2024-06-04,Communication apparatus configured to manage user identification queries and render user identification interfaces within a group-based communication system,0,H04L|H04W
+12003635,2024-06-04,Centrally rotating private/public encryption keys in a large scale system,0,H04L
+12003602,2024-06-04,Method and system for universal security services abstraction,0,H04L
+12002125,2024-06-04,Provisioning an escrow user account for tracking learning progress of an end user of a cloud computing platform while interacting with virtual learning entities of the cloud computing platform that represent content of an external learning application,0,G06F|G06Q|H04L
+12002039,2024-06-04,Database system public trust ledger multi-owner token architecture,0,G06F|G06Q|H04L
+12001898,2024-06-04,Method and system for processing a stream of incoming messages sent from a specific input message source and validating each incoming message of that stream before sending them to a specific target system,0,G06F|H04L
+12001807,2024-06-04,Applied artificial intelligence technology for narrative generation using an invocable analysis service,0,G06F|G06N
+12001801,2024-06-04,Question answering using dynamic question-answer database,0,G06F|G06N
+12001798,2024-06-04,Generation of training data for machine learning based models for named entity recognition for natural language processing,0,G06F|G06N|H04L
+12001786,2024-06-04,Applied artificial intelligence technology for natural language generation using a graph data structure with follow-up capabilities,0,G06F|G06N
+12001591,2024-06-04,Methods and systems for protecting data integrity,0,G06F
+12001546,2024-06-04,Systems and methods for causality-based multivariate time series anomaly detection,1,G06F|G06N
+12001409,2024-06-04,Merges using key range data structures,0,G06F
+12001284,2024-06-04,Application programming interface for automated operations management,0,G06F
+11997215,2024-05-28,Secret protection during software development life cycle,0,G06F|H04L
+11997204,2024-05-28,Authenticating computing system requests across tenants of a multi-tenant database system,0,G06F|H04L
+11997161,2024-05-28,Distributing risk of multiple realms across multiple resources based on a realm risk model,0,G06F|H04L
+11995647,2024-05-28,System and method of providing interoperable distributed and decentralized ledgers using consensus on consensus and delegated consensus,1,G06F|G06Q|H04L
+11995140,2024-05-28,Pattern detection for tenant-specific performance data,0,G06F|G06Q
+11995137,2024-05-28,Generalizing a segment from user data attributes,0,G06F|G06Q
+11995061,2024-05-28,Techniques and architectures for partition mapping in a multi-node computing environment,0,G06F
+11995046,2024-05-28,Record management for database systems using fuzzy field matching,0,G06F
+11991137,2024-05-21,Notification timing in a group-based communication system,0,G06F|H04L
+11991135,2024-05-21,Differentiated message presentation in a communication platform,0,G06F|H04L|H04W
+11989941,2024-05-21,Systems and methods for video and language pre-training,0,G06F|G06V
+11989858,2024-05-21,Systems and methods of determining margins of an image for content insertion to form a composite image,0,G06T|G06V
+11989726,2024-05-21,Database system public trust ledger token creation and exchange,2,G06Q|H04L
+11989659,2024-05-21,Method and apparatus for triggering the automatic generation of narratives,1,G06F|G06N
+11989519,2024-05-21,Applied artificial intelligence technology for using natural language processing and concept expression templates to train a natural language generation system,0,G06F|G06N|G10L
+11989169,2024-05-21,Autonomous refactoring system for database,0,G06F
+11989051,2024-05-21,Time alignment in director-based database system for transactional consistency,0,G06F
+11983650,2024-05-14,Intelligent routing of data objects between paths using machine learning,0,G06Q
+11983557,2024-05-14,Orchestration for data pipeline execution plans,0,G06F
+11983503,2024-05-14,Applied artificial intelligence technology for narrative generation based on a conditional outcome framework,0,G06F|G06N|G10L
+11983484,2024-05-14,Systems and methods for creating custom actions,2,G06F|G06Q|H04L|H04W
+11983221,2024-05-14,"Method, apparatus and computer program product for generating tiered search index fields in a group-based communication platform",0,G06F|G06N
+11983184,2024-05-14,"Multi-tenant, metadata-driven recommendation system",0,G06F|G06N
+11983153,2024-05-14,Multi-tenant database resource utilization,0,G06F
+11983082,2024-05-14,Server clustering in a computing-on-demand system,0,G06F|H04L
+11979364,2024-05-07,"Method, apparatus, and computer program product for group-based communication interface with email channeling",0,G06Q|H04L
+11979285,2024-05-07,System and method for generic configuration management system application programming interface,0,H04L
+11977921,2024-05-07,Automatically identifying and right sizing instances,1,G06F
+11977920,2024-05-07,Automatically identifying and right sizing instances,1,G06F
+11977862,2024-05-07,Automatically cataloging application programming interface (API),0,G06F
+11977761,2024-05-07,Predictive allocation of ephemeral containers for cloud computing services,0,G06F|G06N
+11973846,2024-04-30,Polling command strategy for near real time updates,0,G06F|H04L
+11973845,2024-04-30,"Methods, apparatuses and computer program products for managing organization connections in a group-based communication system",0,G06F|H04L|H04W
+11973761,2024-04-30,Access control for private channels in a channel-based discussion system,0,H04L
+11972275,2024-04-30,Layered functional and graphical user interface system,0,G06F
+11971874,2024-04-30,"Systems, methods, and apparatuses for implementing efficient storage and validation of data and metadata within a blockchain using distributed ledger technology (DLT)",2,G06F|H04L
+11971822,2024-04-30,Progressive caching of filter rules,0,G06F
+11971712,2024-04-30,Self-aware visual-textual co-grounded navigation agent,0,B25J|G05D|G06F|G06N|G06V
+11968313,2024-04-23,Generating a legally binding object within a group-based communication system,1,G06F|G06Q|H04L
+11968278,2024-04-23,Method and system for decentralized message handling for distributed computing environments,0,G06F|H04L
+11968244,2024-04-23,Clustering virtual space servers based on communication platform data,0,G06F|H04L
+11968203,2024-04-23,Administration of services executing in cloud platform based datacenters using token with data structure,0,G06F|H04L
+11968177,2024-04-23,Systems and methods for verifying a firewall for a cloud provider,0,G06F|H04L
+11968131,2024-04-23,Techniques for providing connections to services in a network environment,0,G06Q|H04L
+11967080,2024-04-23,Object localization framework for unannotated image data,2,G06F|G06T|G06V
+11966770,2024-04-23,Collaboration across isolated virtual environments,0,G06F
+11960910,2024-04-16,Method and system for declarative configuration of user self-registration pages and processes for a service provider and automatic deployment of the same,0,G06F|H04L
+11960658,2024-04-16,Method and apparatus for bypass block webpage navigation,0,G06F|H04L
+11960577,2024-04-16,Publication of collaborative file to library,0,G06F
+11960551,2024-04-16,Cookieless delivery of personalizied content,0,G06F
+11960465,2024-04-16,Database inventory isolation,0,G06F|G06Q
+11956305,2024-04-09,Incremental application programming interface (API) processing based on resource utilization,0,G06F|H04L
+11954629,2024-04-09,Activation policies for workflows,0,G06F|G06Q
+11954463,2024-04-09,User interface design update automation,0,G06F|G06N
+11954189,2024-04-09,Method and system for contextual user logon authentication,0,G06F
+11954183,2024-04-09,System and method using metadata to manage packaged applications components based on tenant licenses,0,G06F
+11954109,2024-04-09,Declarative specification of visualization queries,0,G06F
+11954094,2024-04-09,Database system public trust ledger architecture,0,G06F|H04L
+11954088,2024-04-09,Alert feed and subscription management,0,G06F
+11949739,2024-04-02,"Methods, apparatuses, and computer program products for management of data deletion requests based on geographically distributed data",0,G06F|H04L
+11949714,2024-04-02,Cross-site request forgery protection,0,G06F|H04L
+11949675,2024-04-02,Direct access to embedded link via authenticated application,0,H04L
+11948665,2024-04-02,Systems and methods for language modeling of protein engineering,1,G06F|G16B
+11947976,2024-04-02,System and method for semantic metadata extensions in API governance using validation rulesets,0,G06F
+11947949,2024-04-02,Techniques for data package generation,0,G06F
+11947777,2024-04-02,Metric presentation within a flow builder,0,G06F
+11947532,2024-04-02,Lifecycle tracking of data objects,0,G06F
+11947440,2024-04-02,Management of search features via declarative metadata,0,G06F
+11947428,2024-04-02,Archive control techniques for database systems,0,G06F
+11943321,2024-03-26,Techniques for cross-platform communication process flow object posting,0,H04L
+11943180,2024-03-26,Draft message object collaboration in a group-based communication platform,0,G06F|H04L
+11941356,2024-03-26,Systems and methods for multi-scale pre-training with densely connected transformer,1,G06F|G06N|G10L
+11941346,2024-03-26,Systems and methods for long document summarization,1,G06F
+11941230,2024-03-26,Multiple stakeholders for a single business process,0,G06F|G06Q
+11941229,2024-03-26,Systems and methods for reacting to messages,0,G06F|H04L
+11941103,2024-03-26,Multidevice user authentication in group-based communication systems,0,G06F|H04L
+11941086,2024-03-26,Systems and methods for contrastive attention-supervised tuning,0,G06F|G06N|G06T|G06V
+11940994,2024-03-26,Mechanisms for maintaining chains without locks,0,G06F
+11940963,2024-03-26,Mechanisms for handling schema changes,0,G06F
+11940893,2024-03-26,Techniques for providing application contextual information,0,G06F
+11936638,2024-03-19,Link protocol agents for inter-application communications,0,H04L
+11934952,2024-03-19,Systems and methods for natural language processing using joint energy-based models,0,G06F|G06N
+11934781,2024-03-19,Systems and methods for controllable text summarization,0,G06F|G06N
+11934655,2024-03-19,Systems and methods for a log partitioner service,0,G06F|H04L
+11934646,2024-03-19,Systems and methods for cross domain service component interaction,0,G06F|G06Q|H04L
+11934403,2024-03-19,Generating training data for natural language search systems,0,G06F|G06N
+11934397,2024-03-19,Query plan overrides,0,G06F
+11934351,2024-03-19,Lossless conversion of expressive metadata,0,G06F|G06Q
+11929975,2024-03-12,Message suggestions in a group-based communication platform,0,G06F|H04L
+11929901,2024-03-12,Infrastructure-agnostic performance of computation sequences,0,H04L
+11928600,2024-03-12,Sequence-to-sequence prediction using a neural network model,0,G06F|G06N
+11928584,2024-03-12,Distributed hyperparameter tuning and load balancing for mathematical models,0,G06N|H04L
+11928090,2024-03-12,Anomaly detection mechanism,0,G06F
+11924289,2024-03-05,Multi-workspace shared communication channel,0,H04L
+11924210,2024-03-05,Protected resource authorization using autogenerated aliases,3,G06F|H04L
+11924207,2024-03-05,Inter-application management of user credential data,0,G06F|H04L
+11923998,2024-03-05,Channeling messaging communications in a selected group-based communication interface,0,G06F|H04L|H04M
+11922382,2024-03-05,Transaction system having a serverless architecture that provides multi-language multi-platform transaction support for multiple vendors in conjunction with a cloud-based computing platform,0,G06F|G06Q
+11922323,2024-03-05,Meta-reinforcement learning gradient estimation with variance reduction,0,G06N
+11922305,2024-03-05,Systems and methods for safe policy improvement for task oriented dialogues,2,G06F|G06N
+11922303,2024-03-05,Systems and methods for distilled BERT-based training model for text classification,0,G06F|G06N
+11922156,2024-03-05,"Systems, methods, and devices for synchronization of content associated with computing platforms",0,G06F
+11922094,2024-03-05,Database systems and methods for conversation-driven dynamic updates,1,G06F
+11922003,2024-03-05,Reflecting data input into fields of a scrollable user interface,0,G06F
+11921887,2024-03-05,Decentralized identity metaverse database system,0,G06F|G06Q|G06T
+11921750,2024-03-05,Database systems and applications for assigning records to chunks of a partition in a non-relational database system with auto-balancing,0,G06F
+11921743,2024-03-05,Dynamic profile reconciliation in group-based communication systems,0,G06F|H04L
+11921721,2024-03-05,Maintaining data across query executions of a long-running query,0,G06F
+11916918,2024-02-27,System mode override during flow execution,0,G06F|H04L
+11916909,2024-02-27,"Method, apparatus, and computer program product for determining access control parameter discrepancies in group-based communication channels with a group-based communication system",0,G06F|G06Q|H04L|H04W
+11916864,2024-02-27,"Apparatuses, methods, and computer program products for data retention in a common group-based communication channel",0,G06F|H04L
+11916862,2024-02-27,Mentions processor configured to process mention identifiers,0,H04L
+11915500,2024-02-27,Neural network based scene text recognition,0,G06F|G06N|G06V
+11914986,2024-02-27,API gateway self paced migration,0,G06F|H04L
+11914744,2024-02-27,Intelligent contextual help chat in a multi-tenant database system,0,G06F|G06Q|H04L
+11914612,2024-02-27,Selective synchronization of linked records,0,G06F
+11914580,2024-02-27,Mechanisms for deploying database clusters,0,G06F
+11914463,2024-02-27,Automatic support service,0,G06F|G06N|H04L
+11914453,2024-02-27,Computing device notification management software,0,G06F
+11909742,2024-02-20,Managing admin controlled access of external resources to group-based communication interfaces via a group-based communication system,0,H04L
+11907880,2024-02-20,Systems and methods for workflow visualization in a multi-tenant management platform,0,G06Q
+11907708,2024-02-20,Application and infrastructure template management to easily create secure applications for enterprises,1,G06F
+11907396,2024-02-20,Using policies to comply with a request from a person for data that pertains to a person,0,G06F|H04L
+11907387,2024-02-20,Service for sharing data insights,0,G06F|G06Q
+11907385,2024-02-20,Process flow granular control and execution,0,G06F
+11907267,2024-02-20,User interface for frequent pattern analysis,0,G06F
+11907210,2024-02-20,Advanced searching of relational data via a mobile device,2,G06F
+11902852,2024-02-13,On-site appointment assistant,1,G06Q|H04W
+11902239,2024-02-13,Unified application messaging service,0,H04L|H04W
+11902236,2024-02-13,Context-based notifications presentation,0,H04L|H04M|H04W
+11902228,2024-02-13,Interactive user status,1,G06F|H04L
+11902227,2024-02-13,E-mail containing live content,1,G06Q|H04L
+11902221,2024-02-13,Customizing chatbots based on user specification,0,G06F|G06N|G10L|H04L
+11902102,2024-02-13,Techniques and architectures for efficient allocation of under-utilized resources,0,H04L
+11902041,2024-02-13,User account telemetry within a communication platform,0,G06Q|H04L
+11900424,2024-02-13,Automatic rule generation for next-action recommendation engine,0,G06Q
+11899817,2024-02-13,"Systems, methods, and apparatuses for storing PII information via a metadata driven blockchain using distributed and decentralized storage for sensitive user information",3,G06F|G06Q|H04L
+11899813,2024-02-13,Data security using multi-factor authentication,0,G06F
+11895166,2024-02-06,Dynamic channel conversion in group-based communication systems,0,H04L
+11895119,2024-02-06,"Systems, methods, and apparatuses for pre-configured per-tenant isolation in a multi-tenant cloud based computing environment",0,H04L
+11893377,2024-02-06,Dependency-aware rules engine for delivering managed package upgrades,0,G06F
+11893131,2024-02-06,Contextual data loss prevention for a group-based communication system,0,G06F|H04L
+11893043,2024-02-06,Identifying associated data objects,0,G06F
+11893024,2024-02-06,Metadata driven dataset management,0,G06F
+11893002,2024-02-06,System or method to run distributed validation of workflows across a network in a shared distributed ledger in multi-tenant cloud environment,0,G06F|H04L
+11892992,2024-02-06,Unique identification management,0,G06F
+11888908,2024-01-30,Integrated workspace on a communication platform,0,H04L
+11888631,2024-01-30,Document management in a communication platform,0,G06F|H04L
+11888605,2024-01-30,Methods and systems for making effective use of system resources,0,G06F|G06N|H04L
+11887599,2024-01-30,Configurable conversation engine for executing customizable chatbots,0,G06F|G10L
+11887180,2024-01-30,Integration of independent data for search and discovery,0,G06Q
+11887117,2024-01-30,"Payments platform, method and system having external and internal operating modes for ingesting payment transaction data from payment gateway services at a cloud computing platform",0,G06F|G06Q
+11887088,2024-01-30,Smart moderation and/or validation of product and/or service details in database systems,0,G06Q|H04L
+11887076,2024-01-30,"Payments platform, method and system for a cloud computing platform",0,G06Q
+11887033,2024-01-30,Dynamically configuring a process based on environmental characteristics monitored by a mobile device,0,G06F|G06Q
+11886912,2024-01-30,Multi substrate public cloud big data jobs as a service,0,G06F
+11886691,2024-01-30,Group-based communication system dynamic group-based communication interface focusing,0,G06F|G06N|G06Q|H04L
+11886678,2024-01-30,Multiple windows for a group-based communication system,1,G06F|H04L
+11886461,2024-01-30,Machine-learnt field-specific standardization,0,G06F|G06N
+11886458,2024-01-30,Configurable data transformation between different database systems,0,G06F
+11886449,2024-01-30,"Methods, apparatuses and computer program products for outputting improved autosuggestions in a group-based communication platform",0,G06F
+11886444,2024-01-30,Ranking search results using hierarchically organized coefficients for determining relevance,0,G06F
+11886421,2024-01-30,"Systems, methods, and apparatuses for distributing a metadata driven application to customers and non-customers of a host organization using distributed ledger technology (DLT)",1,G06F|H04L
+11886401,2024-01-30,Database key compression,0,G06F|H03M
+11881959,2024-01-23,"Method, apparatus and computer program product for generating externally shared communication channels",0,G06F|G06Q|H04L
+11880835,2024-01-23,Prevention of duplicate transactions across multiple transaction entities in database systems,0,G06F|G06Q
+11880659,2024-01-23,Hierarchical natural language understanding systems,1,G06F|G06N
+11880484,2024-01-23,Enforcing data isolation in jobs executed by a multi-tenant system on a secondary platform,0,G06F
+11880372,2024-01-23,Distributed metadata definition and storage in a database system for public trust ledger smart contracts,1,G06F|H04L
+11880349,2024-01-23,System or method to query or search a metadata driven distributed ledger or blockchain,9,G06F|H04L
+11880297,2024-01-23,Codeless logging in an integration platform,0,G06F
+11880295,2024-01-23,Web service test and analysis platform,0,G06F
+11876910,2024-01-16,"Systems, methods, and apparatuses for implementing a multi tenant blockchain platform for managing Einstein platform decisions using distributed ledger technology (DLT)",6,G05B|G06F|G06N|H04L
+11875400,2024-01-16,"Systems, methods, and apparatuses for dynamically assigning nodes to a group within blockchains based on transaction type and node intelligence using distributed ledger technology (DLT)",4,G06F|G06N|G06Q
+11875393,2024-01-16,Generation of recommendations from dynamically-mapped data,0,G06F|G06Q
+11875360,2024-01-16,Method and system for generating insights regarding a party in response to a call,4,G06F|G06Q|H04M
+11875311,2024-01-16,Communication platform document as a communication channel,1,G06F|G06Q|H04L
+11875305,2024-01-16,Video training data for machine learning detection/recognition of products,0,G06F|G06N|G06Q|G06T|G06V
+11875294,2024-01-16,Multi-objective recommendations in a data analytics system,0,G06N|G06Q
+11875110,2024-01-16,Seamless addition and removal of form fields,0,G05B|G06F|G06Q
+11875081,2024-01-16,Shared screen tools for collaboration,0,G06F|G09G|H04L
+11874797,2024-01-16,Smart privilege escalation in a cloud platform,0,G06F
+11871305,2024-01-09,"System, apparatus, and computer program product for generating a group-based communication interface having improved panes positioned in a defined display window",0,G06Q|H04L|H04W
+11870882,2024-01-09,Data processing permits system with keys,0,G06F|H04L
+11870860,2024-01-09,Administration of services executing in cloud platform based datacenters,0,H04L
+11870845,2024-01-09,Selectively adding users to channels in a group-based communication system,0,H04L
+11870782,2024-01-09,Management of hosted channel membership in a communication platform,0,G06F|H04L|H04W
+11869014,2024-01-09,Physical proximity graphing,0,G06F|G06Q|G06T|H04W
+11868790,2024-01-09,One-to-many automatic content generation,0,G06F|G06N|G06V
+11868750,2024-01-09,Orchestration of datacenter creation on a cloud platform,0,G06F|H04L
+11868702,2024-01-09,Scoped containers using CSS custom properties and color pairs,0,G06F|G06T
+11868505,2024-01-09,Automatic self-removal of sensitive data items,1,G06F
+11868321,2024-01-09,Cryptographically secure multi-tenant data exchange platform,0,G06F|H04L
+11863685,2024-01-02,Clock-synced transient encryption,0,H04L
+11863640,2024-01-02,"System, method, and apparatus for generating a third-party resource usage map in a group based communication system",0,H04L
+11863603,2024-01-02,Surfacing relevant topics in a group-based communication system,0,H04L
+11863602,2024-01-02,Inter-application data interchange via a group-based communication system that triggers user intervention,0,G06Q|H04L
+11863525,2024-01-02,Contact passlisting across digital channels,0,G06Q|H04L|H04M
+11863338,2024-01-02,Methods to generate communication channel for data objects,0,H04L
+11861399,2024-01-02,User specific event threading,0,G06F|G06Q
+11861380,2024-01-02,Systems and methods for rendering and retaining application data associated with a plurality of applications within a group-based communication system,0,G06F|G06Q
+11860847,2024-01-02,Efficient production and consumption for data changes in a database under high concurrency,0,G06F
+11856046,2023-12-26,Endpoint URL generation and management,0,G06F|H04L
+11855953,2023-12-26,Methods and apparatuses for managing external approval provisioning and external messaging communication requests in a group-based communication system,0,G06Q|H04L|H04W
+11853530,2023-12-26,"Apparatuses, computer program products, and methods for group-based communication channel organization",1,G06F|H04L
+11853275,2023-12-26,Upgrading a database management system deployed in a cloud platform,0,G06F
+11853271,2023-12-26,Creating an extensible and scalable data mapping and modeling experience,0,G06F|H04L
+11853268,2023-12-26,Declarative segment attribute activation,0,G06F
+11848985,2023-12-19,Mass electronic mail sending system with flexible public sending network addresses,0,G06F|H04L
+11848936,2023-12-19,"Method, apparatus, and computer program product for selectively granting permissions to group-based objects in a group-based communication system",1,G06F|H04L
+11848923,2023-12-19,Secure peer-to-peer connection network and associated protocols for a group-based communication system,0,H04L
+11848906,2023-12-19,Updating a user interface based on proximity data of users of a communication platform,0,G06F|H04L|H04W
+11848904,2023-12-19,Sharing custom history in multi-party direct message,0,H04L
+11848829,2023-12-19,Modifying a data center based on cloud computing platform using declarative language and compiler,0,H04L
+11847642,2023-12-19,Secure communication of data during transactions across multiple transaction entities in database systems,0,G06F|G06Q
+11847509,2023-12-19,Infrastructure base model API,0,G06F
+11847438,2023-12-19,Offline capabilities for live applications in a cloud collaboration platform,0,G06F|H04L
+11847329,2023-12-19,Techniques for implementing fault domain sets,0,G06F
+11847165,2023-12-19,Integration of video conferencing applications with on-demand database services,0,G06F|H04N
+11847107,2023-12-19,Key permission distribution,0,G06F
+11843662,2023-12-12,Sharing objects across namespaces in a container-orchestration system,0,G06F|H04L
+11843646,2023-12-12,Systems and methods for managing distributed client device membership within group-based communication channels,0,G06F|G06N|H04L
+11842731,2023-12-12,Method and system for executing an action for a user based on audio input,0,G01C|G06F|G10L
+11841967,2023-12-12,Systems and methods of database encryption in a multitenant database management system,0,G06F|H04L
+11841881,2023-12-12,Querying for custom data objects,0,G06F
+11841872,2023-12-12,"Interactively building previews of extract, transform, load (ETL) graphs using cached previews of subgraphs",0,G06F
+11841852,2023-12-12,Tenant specific and global pretagging for natural language queries,0,G06F
+11841847,2023-12-12,Declarative transaction control,0,G06F
+11838223,2023-12-05,Techniques for handling message queues,1,H04L
+11836540,2023-12-05,Dynamic personalized API assembly,1,G06F|H04L
+11836528,2023-12-05,Throttling thread resources of service computing platform,0,G06F
+11836450,2023-12-05,Secure complete phrase utterance recommendation system,1,G06F|G06N
+11836150,2023-12-05,System and architecture for standardizing and centralizing data movement between systems,1,G06F
+11836123,2023-12-05,Automated process flow layout generation,0,G06F
+11831693,2023-11-28,"Ambient, ad hoc, multimedia collaboration in a group-based communication system",0,H04L
+11829745,2023-11-28,Augmented circuit breaker policy,0,G06F|H04L
+11829398,2023-11-28,Three-dimensional probabilistic data structure,0,G06F
+11829391,2023-11-28,"Systems, methods, and apparatuses for executing a graph query against a graph representing a plurality of data stores",0,G06F
+11824970,2023-11-21,"Systems, methods, and apparatuses for implementing user access controls in a metadata driven blockchain operating via distributed ledger technology (DLT) using granular access objects and ALFA/XACML visibility rules",3,G06F|H04L
+11824864,2023-11-21,"Systems, methods, and apparatuses for implementing a declarative and metadata driven blockchain platform using distributed ledger technology (DLT)",0,G06F|G06Q|H04L
+11824731,2023-11-21,Allocation of processing resources to processing nodes,0,G06F|G06N|H04L
+11823120,2023-11-21,System or method of verifying an asset using blockchain and collected asset and device information,2,G06F|G06Q|H04L|H04W
+11822954,2023-11-21,Methods and systems for automating deployment of applications in a multi-tenant database environment,0,G06F
+11822785,2023-11-21,Managing application focus transitions,1,G06F|H04L
+11822764,2023-11-21,User interface for searching content of a communication platform using reaction icons,0,G06F|H04L
+11822625,2023-11-21,"Systems, methods, and apparatuses for licensing and provisioning a software product within a cloud based computing environment",0,G06F|G06Q
+11822608,2023-11-21,Learning affinities through design variations,0,G06F|G06Q
+11822583,2023-11-21,Interest groups based on network feed items,0,G06F|G06Q|H04L
+11822535,2023-11-21,Director-based database system for transactional consistency,3,G06F
+11818250,2023-11-14,Encryption key management for channels with multiple organizations,0,H04L
+11818091,2023-11-14,Embeddings-based discovery and exposure of communication platform features,0,G06F|H04L
+11816510,2023-11-14,Elastic data partitioning of a database,0,G06F
+11816431,2023-11-14,Autocomplete of user entered text,0,G06F|G06N
+11816308,2023-11-14,Web browser tab navigation during video conference session,0,G06F|H04L
+11816098,2023-11-14,Database system public trust ledger contract linkage,0,G06F|H04L
+11816090,2023-11-14,Selectively processing an event published responsive to an operation on a database record that relates to consent,0,G06F|G06Q
+11816076,2023-11-14,Declarative data evacuation for distributed systems,0,G06F
+11811769,2023-11-07,"Systems, methods, and apparatuses for implementing a declarative, metadata driven, cryptographically verifiable multi-network (multi-tenant) shared ledger",6,G06F|H04L
+11810298,2023-11-07,Machine-learned hormone status prediction from image analysis,0,G06F|G06N|G06T|G06V|G16H
+11810031,2023-11-07,On-site appointment assistant,0,G06Q|H04W
+11809828,2023-11-07,Systems and methods of data augmentation for pre-trained embeddings,0,G06F|G06N|G06V
+11809565,2023-11-07,Security for private data inputs to artificial intelligence models,0,G06F|G06N
+11809491,2023-11-07,Expandable data object management and indexing architecture for intersystem data exchange compatibility,0,G06F|G06Q|H04L
+11809409,2023-11-07,Multi-tenant distributed ledger interfaces,0,G06F|H04L
+11809386,2023-11-07,Schema change operations,1,G06F
+11805021,2023-10-31,Network path recommendations for services executing on cloud platforms,3,H04L
+11804954,2023-10-31,Encryption key management for an automated workflow,0,G06F|H04L
+11803920,2023-10-31,System and method for aggregating social network feed information,0,G06Q
+11803555,2023-10-31,Integrated entity view across distributed systems,0,G06F
+11803541,2023-10-31,Primitive-based query generation from natural language queries,0,G06F|G06N
+11803537,2023-10-31,"Systems, methods, and apparatuses for implementing an SQL query and filter mechanism for blockchain stored data using distributed ledger technology (DLT)",1,G06F|H04L
+11803466,2023-10-31,Codeless logging in an integration platform,0,G06F
+11803428,2023-10-31,Feature based application programming interface federation,0,G06F
+11803370,2023-10-31,Configurable transaction status interface,0,G06F|G06Q|G07G
+11799901,2023-10-24,Predictive rate limiting system for cloud computing services,1,G06N|H04L
+11799816,2023-10-24,Automated internet protocol (IP) warming,0,H04L
+11799636,2023-10-24,"Method, apparatus, and computer program product for encryption key management within a group-based communication system",0,H04L
+11798210,2023-10-24,Neural network based detection of image space suitable for overlaying media content,0,G06F|G06N|G06T|H04N
+11798044,2023-10-24,Pluggable architecture for performance of pricing operations,3,G06Q
+11797948,2023-10-24,"Method, apparatus and computer program product for improving event creation and modification in a group-based communication platform",0,G06Q|H04L
+11797825,2023-10-24,Training a joint many-task neural network model using successive regularization,2,G06F|G06N|G10L
+11797575,2023-10-24,Capturing data lake changes,0,G06F
+11797573,2023-10-24,Dynamic and selective object update for local storage copy based on network connectivity characteristics,0,G06F|H04L
+11797498,2023-10-24,Systems and methods of database tenant migration,0,G06F
+11797351,2023-10-24,High-availability continuous delivery of datacenter builds on cloud computing platforms,0,G06F
+11792285,2023-10-17,Recipient-based filtering in a publish-subscribe messaging system,0,H04L
+11792146,2023-10-17,Techniques for communication process flow approval management,0,G06F|H04L
+11792144,2023-10-17,Format-dynamic string processing in group-based communication systems,0,G06F|H04L
+11790894,2023-10-17,Machine learning based models for automatic conversations in online systems,1,G06F|G10L|H04L
+11790414,2023-10-17,Techniques and architectures for customizable modular line item evaluation,3,G06F|G06Q
+11790169,2023-10-17,Methods and systems of answering frequently asked questions (FAQs),0,G06F|G10L
+11790009,2023-10-17,Knowledge operating system,0,G06F|G06N
+11789952,2023-10-17,Ranking enterprise search results based on relationships between users,0,G06F|G06Q
+11784955,2023-10-10,Virtual space server redundancy across geographic regions,0,H04L
+11784949,2023-10-10,Limited functionality interface for communication platform,0,G06F|G06Q|H04L
+11783210,2023-10-10,Self-managing database system using machine learning,0,G06F|G06N
+11783071,2023-10-10,Authenticating accesses to a shared datastore of a multi-tenant computer system,0,G06F|H04L
+11783024,2023-10-10,"Systems, methods, and apparatuses for protecting consumer data privacy using solid, blockchain and IPFS integration",7,G06F|H04L
+11782954,2023-10-10,User identifier match and merge process,0,G06F
+11782943,2023-10-10,Method and system for case management,0,G06F|G06Q
+11782904,2023-10-10,Advanced smart contract with decentralized ledger in a multi-tenant environment,0,G06F|G06Q|G16H|H04L
+11782773,2023-10-10,Automated application programing interface importation,0,G06F
+11782684,2023-10-10,Declarative container components for builders,0,G06F
+11778539,2023-10-03,Role-based access control system,0,H04L|H04M|H04W
+11778023,2023-10-03,Shared channel invitation paths,0,G06F|H04L|H04W
+11778022,2023-10-03,Dynamically generated context pane within a group-based communication interface,0,G06F|G06N|H04L|H04W
+11775859,2023-10-03,Generating feature vectors from RDF graphs,0,G06F|G06N
+11775675,2023-10-03,Systems and methods of secure data input using a closed shadow document object model (DOM),0,G06F
+11775524,2023-10-03,Cache for efficient record lookups in an LSM data structure,0,G06F
+11775520,2023-10-03,"Updating of a denormalized database object after updating, deleting, or inserting a record in a source database object",0,G06F
+11775519,2023-10-03,Optimizing indexes for accessing database tables,0,G06F|G06N
+11775435,2023-10-03,Invalidation and refresh of multi-tier distributed caches,0,G06F|H04L
+11775418,2023-10-03,Techniques and architectures for providing an isolated runtime context in a shared environment,0,G06F
+11775287,2023-10-03,Manifest and content delivery,1,G06F
+11775144,2023-10-03,Place-based semantic similarity platform,0,G06F|G06T
+11775137,2023-10-03,Connections interface for communication platform,0,G06F|G06Q|H04L
+11770445,2023-09-26,Decentralized information management database system,5,H04L
+11770354,2023-09-26,Facilitating cross-organization communications,2,H04L|H04W
+11769013,2023-09-26,Machine learning based tenant-specific chatbots for performing actions in a multi-tenant system,0,G06F|G06N|H04L
+11768835,2023-09-26,Merging multiple unsynchronized streams of related events and multi-tenant support,0,G06F
+11768812,2023-09-26,Declarative entity segmentation,0,G06F
+11768799,2023-09-26,Adaptive document curation,0,G06F|G06N
+11765048,2023-09-19,Declarative and reactive data layer for component-based user interfaces,0,G06F|G06N|H04L
+11764978,2023-09-19,Method and system for certificate management,1,H04L
+11764950,2023-09-19,System or method to implement right to be forgotten on metadata driven blockchain using shared secrets and consensus on read,13,G06F|H04L
+11763208,2023-09-19,Systems and methods for creating a rich social media profile,1,G06F|G06Q
+11763090,2023-09-19,Predicting user intent for online system actions through natural language inference-based machine learning model,0,G06F|G06N
+11762884,2023-09-19,Shared key prefix values across objects,0,G06F
+11762763,2023-09-19,Orchestration for automated performance testing,0,G06F
+11762699,2023-09-19,Assignment of resources to database connection processes based on application information,1,G06F|G06N
+11762656,2023-09-19,Service fabrication tool,2,G06F|G06Q
+11758011,2023-09-12,Automated routing based on content metadata,0,H04L|H04N
+11757852,2023-09-12,Encryption key management for international data residency,0,H04L
+11757845,2023-09-12,Private communication service in a public cloud environment,0,H04L
+11757824,2023-09-12,Techniques for cross platform communication process flow event posting,0,G06Q|H04L
+11757823,2023-09-12,Electronic mail authentication and tracking in database system,0,H04L
+11757819,2023-09-12,Generating interactive emails and tracking user interactions,0,G06F|G06Q|H04L|H04M
+11757809,2023-09-12,Integrating external contacts in a communication platform,0,H04L
+11757806,2023-09-12,Publisher and share action integration in a user interface for automated messaging,0,G06F|G06Q|H04L
+11755914,2023-09-12,Machine learning from data steward feedback for merging records,0,G06F|G06N|G06Q
+11755847,2023-09-12,Systems and methods for code-mixing adversarial training,0,G06F|G06N
+11755780,2023-09-12,Restricting access and edit permissions of metadata,0,G06F
+11755761,2023-09-12,Determining a combined compliance assessment metric,0,G06F|G06Q|H04L
+11755725,2023-09-12,Machine learning anomaly detection mechanism,0,G06F|G06N
+11755720,2023-09-12,Secure membranes and cross namespace communication,2,G06F
+11755698,2023-09-12,"Systems, methods, and devices for automation and integration of credentialing and authentication in workflows associated with computing platforms",0,G06F
+11755681,2023-09-12,Real-time equivalent user interaction generation,0,G06F
+11755680,2023-09-12,Adaptive recognition of entities,0,G06F|G06N
+11755655,2023-09-12,Routing of cases using unstructured input and natural language processing,1,G06F
+11755637,2023-09-12,Multi-attribute control for text summarization using multiple decoder heads,0,G06F|G06N
+11755612,2023-09-12,Techniques and architectures for importation of large data load,0,G06F|H04L
+11755608,2023-09-12,Interactive dataflow preview,0,G06F
+11755596,2023-09-12,Personalized NLS query suggestions using language models,0,G06F|G06N
+11755582,2023-09-12,Adaptive field-level matching,0,G06F|G06N
+11755468,2023-09-12,Automated generation of load tests for API testing,0,G06F
+11755400,2023-09-12,Error detection and mitigation for software pull requests,0,G06F
+11755394,2023-09-12,"Systems, methods, and apparatuses for tenant migration between instances in a cloud based computing environment",0,G06F|G06N|H04L
+11755352,2023-09-12,Automated C-structure introspection and discovery,0,G06F
+11755317,2023-09-12,Extensible platform as a service platform for use by multiple enterprises,0,G06F
+11750692,2023-09-05,Connection pool anomaly detection mechanism,0,G06F|H04L
+11750460,2023-09-05,Identifying duplicate entries in views of same and other network management interfaces,0,H04L
+11749264,2023-09-05,System and methods for training task-oriented dialogue (TOD) language models,0,G06F|G10L
+11748329,2023-09-05,Updating a multi-tenant database concurrent with tenant cloning,0,G06F
+11748320,2023-09-05,Detect duplicates with exact and fuzzy matching on encrypted match indexes,4,G06F|H04L
+11748243,2023-09-05,Intelligent generation of page objects for user interface testing,3,G06F|G06N
+11748199,2023-09-05,Security engine for automated operations management,0,G06F
+11748090,2023-09-05,Cloud services release orchestration,0,G06F
+11748029,2023-09-05,Protecting writes to shared storage in a distributed search system,0,G06F
+11743137,2023-08-29,"Systems, methods, and apparatuses for implementing a metadata driven rules engine on blockchain using distributed ledger technology (DLT)",6,H04L
+11743044,2023-08-29,Password-less authentication using key agreement and multi-party computation (MPC),1,H04L
+11741408,2023-08-29,Method and system for managing business deals,1,G06Q
+11741246,2023-08-29,Systems and methods for secure data transfer between entities in a multi-user on-demand computing environment,0,G06F|H04L
+11741119,2023-08-29,Canonical data model for distributed data catalog and metadata exchange,1,G06F
+11741100,2023-08-29,Providing matching security between data stores in a database system,1,G06F
+11741050,2023-08-29,Cloud storage class-based variable cache availability,0,G06F
+11740994,2023-08-29,Systems and methods for secure data transfer between entities in a multi-user on-demand computing environment,0,G06F|H04L
+11740989,2023-08-29,Generating performance metrics from events derived from user interface logs,0,G06F
+11740913,2023-08-29,Method and user interface for data mapping,0,G06F|G06Q
+11736503,2023-08-22,Detection of anomalous lateral movement in a computer network,1,H04L
+11736431,2023-08-22,Context-based notifications presentation,0,H04L|H04M|H04W
+11734325,2023-08-22,Detecting and processing conceptual queries,0,G06F|G06N|G06Q
+11734278,2023-08-22,Cache management for multiple tenants,1,G06F
+11734266,2023-08-22,Generic scheduling,0,G06F|G06Q|H04L
+11734265,2023-08-22,Automatic GraphQL data source field change handler,1,G06F
+11734166,2023-08-22,Codeless logging in an integration platform,0,G06F
+11734153,2023-08-22,Automated discovery of API endpoints for health check and automated health check generation,0,G06F
+11734058,2023-08-22,Systems and methods of a virtualized management operation engine of a distributed system,0,G06F|H04L
+11734053,2023-08-22,Attribute-based access control using a dynamic expression engine,0,G06F|G06Q
+11733999,2023-08-22,Versioning and cataloging application programming interface (API) specifications,1,G06F
+11733990,2023-08-22,Generating software artifacts from a conceptual data model,0,G06F
+11733987,2023-08-22,Executing shared pipelines for continuous delivery of services in cloud platforms,0,G06F|H04L
+11733850,2023-08-22,Slide grid snapping and comment anywhere for presentation slides in a cloud collaboration platform,0,B25J|G06F|G06N|G06Q|G09G|G10L|H04L
+11729130,2023-08-15,Live database records in a chat platform,0,G06F|H04L
+11728974,2023-08-15,Tenant-based database encryption,1,H04L
+11727937,2023-08-15,Channel-agnostic conversation intelligence service,0,G06F|G10L
+11727463,2023-08-15,Systems and methods of image-based neural network apparel recommendation,3,G06Q|G06T
+11727190,2023-08-15,Previews for collaborative documents,0,G06F|H04L
+11727131,2023-08-15,Referencing a document in a virtual space,0,G06F|H04L
+11727084,2023-08-15,Techniques for automatically configuring web components,0,G06F|G06N
+11727068,2023-08-15,Customizable intent driven application triggering system,1,G06F|G06N|G06Q|H04L
+11727027,2023-08-15,Providing enhanced page layout representations of database entries,0,G06F
+11727017,2023-08-15,Methods for introspecting code in a multi-tenant environment,0,G06F
+11726961,2023-08-15,Dynamically updating distributed content objects,0,G06F|G06Q|H04L
+11726842,2023-08-15,Techniques and architectures for non-blocking parallel batching,0,G06F
+11722856,2023-08-08,Identifying decisions and rendering decision records in a group-based communication interface,0,G06Q|H04L|H04W
+11722579,2023-08-08,Dependency management for shared data objects in a database system,0,G06F|H04L
+11722446,2023-08-08,Message moderation in a communication platform,1,G06F|H04L
+11720825,2023-08-08,Framework for multi-tenant data science experiments at-scale,0,G06F|G06N
+11720746,2023-08-08,Techniques for data object generation,0,G06F|H04L
+11720595,2023-08-08,Generating a query using training observations,1,G06F|G06N
+11720424,2023-08-08,Single flow execution,0,G06F
+11716380,2023-08-01,Secure self-contained mechanism for managing interactions between distributed computing components,0,G06F|H04L
+11716358,2023-08-01,Comparing network security specifications for a network,0,G06F|H04L
+11716289,2023-08-01,Authorizations associated with externally shared communication resources,0,G06F|G06Q|H04L
+11715290,2023-08-01,Machine learning based models for object recognition,1,G06F|G06V
+11715144,2023-08-01,Dynamic ranking of recommendation pairings,1,G06F|G06N|G06Q
+11715110,2023-08-01,Integrating and managing social networking information in an on-demand database system,2,G06F|G06Q|H04L
+11714923,2023-08-01,Methods and systems for protecting data integrity,1,G06F
+11714821,2023-08-01,Adjustable connection pool mechanism,0,G06F|H04L
+11714811,2023-08-01,Run-time querying of multi-tenant non-relational platform objects,1,G06F
+11714694,2023-08-01,Error notification mechanism for streaming events,0,G06F
+11711404,2023-07-25,Embeddings-based recommendations of latent communication platform features,0,G06N|H04L
+11711353,2023-07-25,Authenticated service application sessions using visual authentication indicia,0,G06F|H04L|H04W
+11711330,2023-07-25,Out of office message configuration,0,G06F|H04L
+11710077,2023-07-25,Image augmentation and object detection,0,G06F|G06N|G06T|G06V
+11709869,2023-07-25,Dynamically identifying and associating disparate records,0,G06F
+11709814,2023-07-25,Building of tries over sorted keys,0,G06F
+11709735,2023-07-25,Workflows for automated operations management,0,G06F
+11706313,2023-07-18,"Systems, methods, and devices for user interface customization based on content data network priming",0,G06F|H04L
+11706234,2023-07-18,Feature-agnostic behavior profile based anomaly detection,0,G06F|G06N|H04L
+11706173,2023-07-18,"Method, apparatus and computer program product for metadata search in a group-based communication platform",0,G06F|H04L
+11706168,2023-07-18,Triggering event identification and application dialog validation,0,H04L
+11704855,2023-07-18,Customizable animation experience,0,G06F|G06T
+11704102,2023-07-18,"Systems and methods for exporting, publishing, browsing and installing on-demand applications in a multi-tenant database environment",0,G06F|H04L
+11704093,2023-07-18,Rapid prototyping of user experience components and related application functionality,0,G06F
+11704043,2023-07-18,Backup and/or restore as a service,4,G06F
+11700223,2023-07-11,Asynchronous collaboration in a communication platform,2,H04L
+11700112,2023-07-11,Distributed key caching for encrypted keys,0,G06F|H04L
+11699352,2023-07-11,Implementing an achievement platform using a database system,4,A63F|G06F|G06Q|G09B|Y10S
+11699297,2023-07-11,Image analysis based document processing for inference of key-value pairs in non-fixed digital documents,2,G06F|G06V
+11699094,2023-07-11,Automatic feature selection and model generation for linear models,0,G06F|G06N
+11699027,2023-07-11,Systems and methods for a collaborative reading assistance tool,1,G06F|G09B
+11699026,2023-07-11,Systems and methods for explainable and factual multi-document summarization,0,G06F|G06N
+11699024,2023-07-11,Performance perception when browser's main thread is busy,0,G06F|G06T
+11698983,2023-07-11,Permission management of cloud-based documents,0,G06F|H04L
+11698898,2023-07-11,Lock wait tracing,0,G06F
+11698894,2023-07-11,Multi-master data replication in a distributed multi-tenant system,1,G06F
+11695806,2023-07-04,Intercepting calls for encryption handling in persistent access multi-key systems,1,G06F|H04L
+11695773,2023-07-04,Distributing dynamic access control lists for managing interactions with a cloud datacenter,0,H04L
+11695727,2023-07-04,Techniques for bidirectional cross-platform communications,0,G06F|H04L
+11695721,2023-07-04,"Method, apparatus, and computer program product for categorizing multiple group-based communication messages",0,H04L
+11695717,2023-07-04,Dynamic email content engine,0,G06Q|H04L
+11695712,2023-07-04,Machine learning based supervised user experience for an application monitored by multiple secondary applications,0,G06F|G06N|H04L
+11695674,2023-07-04,Estimation of network quality metrics from network request data,0,H04L
+11695559,2023-07-04,Nested tenancy that permits a hierarchy having a plurality of levels,0,G06F|H04L
+11694220,2023-07-04,"Advertisement distribution system, method and computer program product using a multi-tenant on-demand database system",0,G06Q
+11694018,2023-07-04,Machine-learning based generation of text style variations for digital content items,1,G06F|G06N|G06T
+11693853,2023-07-04,Capture and replay of user requests for performance analysis,0,G06F
+11693648,2023-07-04,Automatically producing and code-signing binaries,0,G06F|H04W
+11689895,2023-06-27,"Apparatuses, methods, and computer program products for centralized channel management in a group-based communication system",0,H04L|H04M|H04W
+11689485,2023-06-27,Techniques for configuring communication process flow actions,0,G06F|H04L
+11687533,2023-06-27,Centralized storage for search servers,0,G06F
+11687524,2023-06-27,Identifying recurring sequences of user interactions with an application,2,G06F|H04L
+11687523,2023-06-27,System and method for efficiently transferring data for offline use,0,G06F
+11687503,2023-06-27,Maintaining foreign key references across domains,0,G06F
+11687422,2023-06-27,Server clustering in a computing-on-demand system,0,G06F|H04L
+11683318,2023-06-20,Dynamic deployment of access controls anchored on request actions,0,G06F|H04L
+11683281,2023-06-20,Systems and methods for initiating external actions via a group-based communication system,0,G06Q|H04L
+11683254,2023-06-20,Rate limit and burst limit enhancements for request processing,1,H04L
+11681948,2023-06-20,Message objection identification and handling,0,G06F|G06N|H04L
+11681705,2023-06-20,Trie data structure with subtrie data structures,0,G06F
+11681522,2023-06-20,Self-healing build pipelines for an application build process across distributed computer platforms,0,G06F
+11677842,2023-06-13,Enhanced user profiles within a communication platform,0,G06F|H04L
+11677732,2023-06-13,Conversational authentication,0,H04L|H04W
+11677701,2023-06-13,Data retention in group-based communication platform,0,H04L
+11677620,2023-06-13,Declarative specification based override mechanism for customizing data centers deployed on cloud platforms,0,G06F|H04L
+11677562,2023-06-13,HASSH profiling mechanism,0,H04L
+11676015,2023-06-13,Personalized recommendations using a transformer neural network,0,G06N|G06Q
+11675890,2023-06-13,Just-in-time user provisioning framework in a multitenant environment,0,G06F|H04L
+11675803,2023-06-13,Updating one or more databases based on dataflow events,0,G06F|G06N
+11675800,2023-06-13,Version control and execution on a mobile device,0,G06F
+11675764,2023-06-13,Learned data ontology using word embeddings from multiple datasets,0,G06F
+11675760,2023-06-13,Detection of duplicate values during index generation,0,G06F
+11675758,2023-06-13,Early detection and warning for system bottlenecks in an on-demand environment,0,G06F
+11675642,2023-06-13,Computing device notification management software,0,G06F
+11671392,2023-06-06,Disabling interaction with messages in a communication platform,1,G06F|H04L
+11669767,2023-06-06,"Automatic generation of an explanation, based on data lineage and user feedback, of a prediction produced by a machine learning system",1,G06F|G06N|G06Q
+11669522,2023-06-06,Generic scheduling,0,G06F|G06Q|H04L
+11665173,2023-05-30,Security verification of communications to tenants of a shared system,0,G06F|H04L
+11665080,2023-05-30,Inspecting network performance at diagnosis points,0,H04L
+11663642,2023-05-30,Systems and methods of multicolor search of images,3,G06F|G06N|G06Q|G06T
+11663517,2023-05-30,Automatic machine learning model generation,0,G06N
+11663322,2023-05-30,Distributed security introspection,0,G06F
+11663207,2023-05-30,Translation of tenant identifiers,0,G06F
+11663205,2023-05-30,Technologies for asynchronous querying,1,G06F
+11663070,2023-05-30,Root cause analysis of logs generated by execution of a system,0,G06F
+11657511,2023-05-23,Heuristics-based detection of image space suitable for overlaying media content,0,G06T|G06V
+11657179,2023-05-23,Processing private data using a workflow action,0,G06F|H04L
+11657064,2023-05-23,Componentized dashboards,0,G06F
+11656911,2023-05-23,"Systems, methods, and apparatuses for implementing a scheduler with preemptive termination of existing workloads to free resources for high priority items",2,G06F|H04L
+11652875,2023-05-16,Dynamic user integration in group-based communication systems,0,H04L|H04W
+11652858,2023-05-16,Integration of communication platform functionality with a third-party application,0,G06F|H04L
+11652807,2023-05-16,Device validation apparatus and protocol for a group-based communication system,0,G06F|H04L|H04W
+11652769,2023-05-16,Snippet(s) of content associated with a communication platform,0,H04L
+11651291,2023-05-16,Real-time predictions based on machine learning models,1,G06N
+11651237,2023-05-16,Predicting aggregate value of objects representing potential transactions based on potential transactions expected to be created,2,G06N|G06Q
+11651158,2023-05-16,Entity resolution for chatbot conversations,3,G06F|G06N|H04L
+11651040,2023-05-16,Networked database connectivity,0,G06F|H04L
+11650985,2023-05-16,Caching techniques for a database change stream,0,G06F
+11650894,2023-05-16,Content-sensitive container scheduling on clusters,0,G06F
+11650831,2023-05-16,Enhancement of application service engagement based on user behavior,0,G06F
+11645321,2023-05-09,Calculating relationship strength using an activity-based distributed graph,2,G06F|G06Q|G06T
+11640407,2023-05-02,Driving application experience via search inputs,0,G06F
+11637841,2023-04-25,Actionability determination for suspicious network events,0,G06F|H04L
+11637831,2023-04-25,Application programmer interface platform with direct data center access,0,H04L
+11637714,2023-04-25,Embeddings-based discovery and exposure of communication platform features,0,H04L
+11636181,2023-04-25,Publication of collaborative file to library,1,G06F
+11636159,2023-04-25,Ranking results of searches of databases,0,G06F
+11636098,2023-04-25,Computerized implementation framework to abstract data object definitions across multiple computing environments,0,G06F
+11636076,2023-04-25,Method and system for managing recent data in a mobile device linked to an on-demand service,0,G06F|H04L
+11636025,2023-04-25,Intelligent generation of automated user interface testing methods,1,G06F|G06N
+11635989,2023-04-25,Systems and methods dynamically routing an event to a component of a hybrid application,0,G06F
+11632372,2023-04-18,Provisioning resources for access by an untrusted computer network,0,H04L
+11630907,2023-04-18,Live data viewing security,0,G06F|G06V
+11630835,2023-04-18,Modifications of user datasets to support statistical resemblance,0,G06F|G06N
+11630648,2023-04-18,Generation of application based on declarative specification,0,G06F
+11626980,2023-04-11,Authentication using key agreement,1,G06F|G06K|H04L
+11625663,2023-04-11,Systems and methods of assessing web accessibility of computing systems,0,G06Q
+11625409,2023-04-11,Driving application experience via configurable search-based navigation interface,1,G06F
+11625265,2023-04-11,Enabling execution of program instructions in the background,0,G06F
+11625239,2023-04-11,Systems and methods supporting fine/coarse-grained deployment of source code to environments via version control systems,0,G06F
+11622000,2023-04-04,Grey failure handling in distributed storage systems,1,H04L
+11621936,2023-04-04,Integrating a communication platform into a third-party platform,1,G06F|H04L
+11620697,2023-04-04,Systems and methods of polymorphic content generation,0,G06F|G06Q
+11620598,2023-04-04,Electronic board associated with a communication platform,3,G06Q
+11620483,2023-04-04,Discovering suspicious person profiles,0,G06F|G06N
+11620345,2023-04-04,Method and apparatus for a mechanism for event replay when a reroute of recordation of the event occurred in a multiplexed event recordation system,0,G06F
+11620116,2023-04-04,Programming language interoperability engine and enforcement in multi-tenant environments,0,G06F
+11617064,2023-03-28,Differentiated privacy permissions for management of communication privileges,0,G06F|H04L|H04W
+11615261,2023-03-28,Jaccard similarity estimation of weighted samples: scaling and randomized rounding sample selection with circular smearing,0,G06F|G06V
+11615203,2023-03-28,Representing access permissions to documents,0,G06F
+11615142,2023-03-28,Mapping and query service between object oriented programming objects and deep key-value data stores,0,G06F
+11614967,2023-03-28,Distributed scheduling in a virtual machine environment,0,G06F
+11614932,2023-03-28,Method and system for machine learning framework and model versioning in a machine learning serving infrastructure,0,G06F|G06N
+11610138,2023-03-21,Machine learning-based inference of granular font properties,1,G06F|G06N|G06T|G06V
+11609928,2023-03-21,Systems and methods of determining target database for replication of tenant data,1,G06F
+11609686,2023-03-21,Configuring subscriptions for objects of third-party applications integrated into a communication platform,0,G06F|G06N|G06Q|H04L
+11606272,2023-03-14,Techniques for cross platform communication process flow anomaly detection and display,46,H04L
+11604814,2023-03-14,Interest groups based on network feed items,1,G06F|G06Q|H04L
+11599721,2023-03-07,Intelligent training set augmentation for natural language processing tasks,0,G06F|G10L
+11599585,2023-03-07,Cookieless delivery of personalized content,0,G06F
+11599235,2023-03-07,Mobile-generated desktop reminders,1,G06F|H04L
+11595327,2023-02-28,"Method, apparatus, and computer program product for associating an identifier with one or more message communications within a group-based communication system",3,G06F|H04L
+11595309,2023-02-28,Source network address translation for unique sender identification,0,H04L
+11593975,2023-02-28,Systems and methods of generating color palettes with a generative adversarial network,0,G06F|G06T|G06V
+11593341,2023-02-28,Method and system for row lock solution,0,G06F|G06N
+11592962,2023-02-28,Online tool graphical user interface with tiles,0,G06F|G06N|H04L
+11588840,2023-02-21,"Automated encryption degradation detection, reporting and remediation",0,H04L
+11588800,2023-02-21,Customizable voice-based user authentication in a multi-tenant system,0,G10L|H04L
+11586696,2023-02-21,Enhanced web browsing,0,G06F
+11586584,2023-02-21,"Method, apparatus and computer program product for generating externally shared communication channels",6,G06F|G06Q|H04L
+11582500,2023-02-14,Updating object subscriptions based on trigger events,1,H04N
+11582271,2023-02-14,Reservation management for polling requests in a communication system,0,H04L
+11582178,2023-02-14,Facilitating cross-organization communications,1,H04L|H04W
+11582091,2023-02-14,Provisioning network devices using a vendor-neutral platform,0,G06F|H04L
+11580977,2023-02-14,Configurable conversation engine for executing customizable chatbots,0,G06F|G10L
+11579929,2023-02-14,Cross platform application flow orchestration by transmitting the application flow including a transition rule to a plurality of computation layers,0,G06F
+11575772,2023-02-07,Systems and methods for initiating processing actions utilizing automatically generated data of a group-based communication system,1,G06F|H04L
+11575530,2023-02-07,Systems and methods for call initiation based on mobile device proximity,0,G06F|H04L|H04N
+11574078,2023-02-07,Real-time feature activation in distributed environment,0,G06F|H04L
+11573808,2023-02-07,Methods of providing an integrated interface that includes a virtual mobile device,0,G06F|G06Q|H04L
+11573786,2023-02-07,Deployment strategies for continuous delivery of software artifacts in cloud platforms,10,G06F
+11573713,2023-02-07,Identifying and preventing invalid memory access,2,G06F
+11573683,2023-02-07,Systems and methods for reacting to messages,0,G06F|H04L
+11570303,2023-01-31,Managing telephone based channel communication in a group-based communication system,1,H04L|H04M|H04W
+11570059,2023-01-31,Machine learning based end to end system for TCP optimization,0,H04L
+11570048,2023-01-31,Declarative language and compiler for provisioning and deploying data centers on cloud platforms,0,H04L
+11568322,2023-01-31,Using a client-side machine learning model dynamically in a mobile enterprise application on a mobile device,0,G06N
+11567909,2023-01-31,Monitoring database management systems connected by a computer network,0,G06F
+11567850,2023-01-31,Detecting application events based on encoding application log values,0,G06F|G06N
+11567799,2023-01-31,System and method for updating applications with current instance configurations in real-time,0,G06F
+11563825,2023-01-24,"Group-based communication apparatus, method, and computer program product configured to manage draft messages in a group-based communication system",0,H04L
+11562142,2023-01-24,Neural network based representation learning for natural language processing,1,G06F
+11561995,2023-01-24,Multitenant database instance view aggregation,0,G06F
+11561972,2023-01-24,Query conversion for querying disparate data sources,0,G06F
+11561936,2023-01-24,Building collaborative data processing flows,0,G06F|G06Q|H04L
+11561889,2023-01-24,Orchestration for automated performance testing,2,G06F
+11561846,2023-01-24,API notebook tool,0,G06F
+11561784,2023-01-24,Versioning of pipeline templates for continuous delivery of services on datacenters configured in cloud platforms,1,G06F|H04L
+11561755,2023-01-24,"Method, apparatus, and computer program product for sharing interface annotations among participating devices within a group-based communication system",0,G06F|G06Q|G06T|G09G|H04L
+11561673,2023-01-24,User interface for searching content of a communication platform using reaction icons,0,G06F|H04L
+11558210,2023-01-17,Systems and methods for initiating actions based on multi-user call detection,4,G06Q|H04L
+11556600,2023-01-17,Generalizing a segment from user data attributes,0,G06F|G06Q
+11556595,2023-01-17,Attribute diversity for frequent pattern analysis,0,G06F|G06Q
+11556402,2023-01-17,Metadata plane for application programming interface,0,G06F|H04L
+11556399,2023-01-17,Dynamic personalized API assembly,2,G06F|H04L
+11552896,2023-01-10,Filtering network traffic from automated scanners,0,H04L
+11552813,2023-01-10,Modifying direct message communication membership,1,G06F|H04L
+11552802,2023-01-10,Stateless mutual authentication between services,2,H04L
+11551184,2023-01-10,Aggregated and distributed inventory availability,0,G06F|G06Q|H04L|H04W
+11544470,2023-01-03,Efficient determination of user intent for natural language expressions based on machine learning,2,G06F|G10L
+11544450,2023-01-03,Structured data in a business networking feed,0,G06F|G06Q
+11544052,2023-01-03,Tenant declarative deployments with release staggering,0,G06F
+11539652,2022-12-27,Rate limiting actions with a message queue,1,G06F|G06Q|H04L
+11539649,2022-12-27,Group-based communication interface with subsidiary channel-based thread communications,5,H04L
+11537628,2022-12-27,Systems and methods for interacting with external content objects,2,G06F
+11537571,2022-12-27,Column data compression schemes for scaling writes and reads on database systems,0,G06F|H03M
+11537564,2022-12-27,Group-based communication interface with subsidiary file communications,1,G06F|G06Q|H04L
+11537283,2022-12-27,Configuring components in a display template based on a user interface type,3,G06F
+11531885,2022-12-20,Training data generation for visual search model training,3,G06F|G06N|G06T|G06V
+11531821,2022-12-20,Intent resolution for chatbot conversations with negation and coreferences,0,G06F|G10L|H04L
+11531557,2022-12-20,Determining user interface elements required for task completion using machine learning,0,G06F|G06N
+11526799,2022-12-13,Identification and application of hyperparameters for machine learning,0,G06F|G06N
+11526551,2022-12-13,Search query generation based on audio processing,0,G06F|G10L
+11526539,2022-12-13,Temporary reservations in non-relational datastores,0,G06F
+11526507,2022-12-13,Neural network based translation of natural language queries to database queries,1,G06F|G06N
+11526470,2022-12-13,Data validation for data record migrations,0,G06F
+11526466,2022-12-13,Uniform growth for differently sized files,0,G06F
+11522936,2022-12-06,Synchronization of live streams from web-based clients,0,H04L
+11522824,2022-12-06,Displaying a database record in a chat platform,1,G06F|H04L
+11522691,2022-12-06,Techniques for virtual cryptographic key ceremonies,0,G06F|H04L
+11522686,2022-12-06,Securing data using key agreement,2,H04L
+11520924,2022-12-06,Identifying that an item of information potentially includes an item of sensitive information,0,G06F|G06Q|H04L
+11520797,2022-12-06,Leveraging time-based comments on communications recordings,0,G06F|G06N|G06Q|H04M
+11520780,2022-12-06,Distributed database systems and structures,2,G06F|H04L
+11520740,2022-12-06,Efficiently deleting data from objects in a multi-tenant database system,0,G06F
+11520468,2022-12-06,Systems and methods for cross domain service component interaction,2,G06F|G06Q|H04L
+11514151,2022-11-29,Multidevice user authentication in group-based communication systems,0,G06F|H04L
+11514008,2022-11-29,Dynamically controlling data migration,0,G06F
+11509608,2022-11-22,Methods and systems for configuring an email engine,2,G06F|G06Q|H04L
+11509585,2022-11-22,Balancing traffic of multiple realms across multiple resources,0,H04L
+11508481,2022-11-22,Machine-learned hormone status prediction from image analysis,0,G06F|G06N|G06T|G06V|G16H
+11507989,2022-11-22,Multi-label product categorization,0,G06F|G06N|G06Q
+11507729,2022-11-22,Scoped containers using CSS custom properties and color pairs,0,G06F|G06T
+11507617,2022-11-22,Unsupervised dialogue topic extraction,0,G06F
+11500893,2022-11-15,System and method for dynamically finding database nodes and replication state,2,G06F|H04L
+11500859,2022-11-15,System and method for propagating modifications in flows,0,G06F|G06Q
+11500857,2022-11-15,Asynchronous remote calls with undo data structures,0,G06F
+11500836,2022-11-15,Systems and methods of creation and deletion of tenants within a database,0,G06F
+11500553,2022-11-15,Controlling access to memory cells,0,G06F
+11496434,2022-11-08,Facilitating integration of collaborative communication platform and document collaboration tool,1,G06F|H04L
+11496332,2022-11-08,Channeling messaging communications in a selected group-based communication interface,1,G06F|H04L|H04M
+11495011,2022-11-08,Template-based key-value extraction for inferring OCR key values within form images,0,G06F|G06V
+11494504,2022-11-08,Access to data in multiple instances through a single record,0,G06F|G06Q|H04L
+11494378,2022-11-08,Runtime optimization of grouping operators,0,G06F
+11489839,2022-11-01,Automatic user permission refinement through cluster-based learning,4,G06F|G06N|H04L
+11489828,2022-11-01,Tenant aware mutual TLS authentication,1,H04L
+11489806,2022-11-01,Systems and methods for sorting unread messages in a group-based communication platform,1,G06F|H04L
+11489671,2022-11-01,Serverless connected app design,1,G06F|H04L
+11488082,2022-11-01,Monitoring and verification system for end-to-end distribution of messages,0,G06F|G06Q
+11487885,2022-11-01,Enabling and validating data encryption,0,G06F|H04L
+11487785,2022-11-01,Monitoring database agents running on servers connected by a computer network,0,G06F
+11487753,2022-11-01,Optimizing transaction times in distributed databases,1,G06F
+11487718,2022-11-01,Methods and apparatus for suppressing network feed activities using an information feed in an on-demand database service environment,1,G06F
+11487546,2022-11-01,Change management of services deployed on datacenters configured in cloud platforms,1,G06F
+11483374,2022-10-25,Simultaneous optimization of multiple TCP parameters to improve download outcomes for network-based mobile applications,0,G06N|H04L|H04W
+11483272,2022-10-25,Automated internet protocol (IP) warming,0,H04L
+11483258,2022-10-25,Techniques for providing connections to services in a network environment,1,G06Q|H04L
+11483135,2022-10-25,Secure handling of customer-supplied encryption secrets,0,H04L
+11481464,2022-10-25,Suggesting actions for evaluating user performance in an enterprise social network,1,G06F|G06Q|H04L
+11481449,2022-10-25,Learning affinities through design variations,0,G06F|G06Q
+11481376,2022-10-25,Platform for handling data corruptions,0,G06F
+11477190,2022-10-18,Dynamic user ID,0,H04L
+11475207,2022-10-18,Subject line tester,2,G06F|G06N|H04L
+11475071,2022-10-18,Configuring dynamic content previews,1,G06F|H04L
+11475049,2022-10-18,Methods and systems for organization extensibility and cluster scalability,0,G06F
+11468406,2022-10-11,Method of converting language-based written contract to smart legal contract using natural language processing,9,G06F|G06Q
+11468175,2022-10-11,Caching for high-performance web applications,0,G06F|H04L
+11467950,2022-10-11,Codeless logging in an integration platform,2,G06F
+11467877,2022-10-11,Throttling and limiting thread resources of service computing platform,0,G06F
+11463543,2022-10-04,Automated routing based on content metadata,0,H04L|H04N
+11461824,2022-10-04,Systems and methods of product recommendation and integrated language modelling,0,G06Q
+11461537,2022-10-04,Systems and methods of data augmentation for pre-trained embeddings,4,G06F|G06N|G06V
+11460975,2022-10-04,Metric presentation within a flow builder,0,G06F
+11457063,2022-09-27,Distributing risk of multiple realms across multiple resources based on a realm risk model,0,G06F|H04L
+11455674,2022-09-27,Systems and methods of item set generation in an electronic catalog,0,G06Q
+11449525,2022-09-20,Facilitating mobile device interaction with an enterprise database system,1,G06F|G10L|H04L
+11443350,2022-09-13,Mapping and filtering recommendation engine,0,G06F|G06N|G06Q|H04L
+11443064,2022-09-13,Verifiable removal of item of confidential information from data of a record,0,G06F
+11443011,2022-09-13,Page objects library,0,G06F
+11442989,2022-09-13,Scalable roll-up summary field calculation using graphs,9,G06F
+11442952,2022-09-13,User interface for commerce architecture,2,G06F|G06Q
+11442754,2022-09-13,Targeting system for web page components,2,G06F
+11436233,2022-09-06,Generating adaptive match keys,0,G06F
+11436227,2022-09-06,Accessing and displaying shared data,0,G06F
+11436223,2022-09-06,Query pin planner,0,G06F
+11431663,2022-08-30,Technologies for predicting personalized message send times,4,G06F|G06N|H04L
+11431500,2022-08-30,Authorization code management for published static applications,0,G06F|H04L
+11431481,2022-08-30,System for securing memory dumps,2,H04L
+11430346,2022-08-30,Systems and methods for validating localized assessments in an external system,0,G06F|G09B
+11429570,2022-08-30,Batch data import advance mapping,0,G06F
+11425245,2022-08-23,Method and system for capturing data of actions,3,H04L|H04M
+11425084,2022-08-23,Data processing for multi-objective communication engagement,1,G06Q|H04L
+11423063,2022-08-23,Flattening hierarchical database records using inverted indexing,0,G06F
+11416790,2022-08-16,Method and system for managing business deals,3,G06Q
+11416484,2022-08-16,Performance optimization of hybrid sharing model queries,0,G06F
+11416470,2022-08-16,Multiversion concurrency control of database records with uncommitted transactions,2,G06F
+11416382,2022-08-16,Change list-based snapshots of applications for development and testing,1,G06F
+11416318,2022-08-16,Application programming interface for integration flow design,1,G06F
+11411997,2022-08-09,Active fingerprinting for transport layer security (TLS) servers,0,H04L
+11411871,2022-08-09,Augmenting functionality in distributed systems with payload headers,2,H04L
+11410087,2022-08-09,Dynamic query response with metadata,1,G06Q
+11409777,2022-08-09,Entity-centric knowledge discovery,1,G06F
+11409742,2022-08-09,Efficient database searching for queries using wildcards,0,G06F
+11409695,2022-08-09,Batch job processing using a database system,0,G06F
+11409416,2022-08-09,Custom user interface generation for completing a predicted task,0,G06F|G06N|G06Q
+11403265,2022-08-02,Dynamically controlling data migration,0,G06F
+11403145,2022-08-02,Enforcing system configuration freeze of services deployed via continuous delivery on datacenters configured in cloud platforms,2,G06F
+11403079,2022-08-02,Integrated system for designing a user interface,1,G06F|G06N|H04L
+11399068,2022-07-26,Distributing data management setup between multiple users,0,H04L
+11397736,2022-07-26,Large scale data ingestion,1,G06F
+11397567,2022-07-26,Integrated system for designing a user interface,0,G06F|G06N|H04L
+11394807,2022-07-19,Critical path estimation for accelerated and optimal loading of web pages,0,G06F|H04L
+11392361,2022-07-19,Software release orchestration for continuous delivery of features in a cloud platform based data center,2,G06F
+11388231,2022-07-12,Multi-substrate fault tolerant continuous delivery of datacenter builds on cloud computing platforms,3,G06F|H04L
+11386434,2022-07-12,Integrating and managing social networking information in an on-demand database system,3,G06F|G06Q|H04L
+11385921,2022-07-12,Collaboration across isolated virtual environments,0,G06F
+11385871,2022-07-12,Adjusting a user interface layout based on user usage patterns,0,G06F|G06N
+11381540,2022-07-05,Tracking premature events in electronic message processing,0,G06Q|H04L
+11379905,2022-07-05,Processing fulfillment using stateless APIs and complex classes,0,G06F|G06Q
+11379671,2022-07-05,Identification of response list,2,G06F|G06N
+11379351,2022-07-05,Change list-based snapshots of applications for testing and development,0,G06F
+11379192,2022-07-05,Saving a snippet of visual programming logic for reuse amongst programs created using an automation building tool,0,G06F
+11373343,2022-06-28,Systems and methods of generating color palettes with a generative adversarial network,5,G06F|G06T|G06V
+11372667,2022-06-28,Restoring the state of paused virtual machine environments with external attached volumes,1,G06F
+11366578,2022-06-21,Declarative entity segmentation,0,G06F
+11361362,2022-06-14,Method and system utilizing ontological machine learning for labeling products in an electronic product catalog,0,G06F|G06Q
+11354515,2022-06-07,Discovery and recommendation of online learning resources,0,G06F|G06N
+11354119,2022-06-07,Automatically upgrading and finding components similar to legacy versions,0,G06F|G06V
+11349896,2022-05-31,Optimal strategy for data replay in a complex multiplexing network,0,G06F|H04L|H04W
+11336627,2022-05-17,Packet inspection and forensics in an encrypted network,1,G06F|H04L
+11334920,2022-05-17,System and method for dynamically retrieving and monitoring geofence activity,0,G06Q|H04W
+11327987,2022-05-10,Configuring service consoles based on service feature templates using a database system,1,G06F|G06Q|H04L
+11310295,2022-04-19,Integrated workspace on a communication platform,10,H04L

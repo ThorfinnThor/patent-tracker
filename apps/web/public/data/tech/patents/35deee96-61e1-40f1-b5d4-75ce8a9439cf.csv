@@ -1,0 +1,446 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12425363,2025-09-23,Content management system with integrated email service,0,G06Q|H04L
+12407635,2025-09-02,Messaging client application integrated with a content management system,0,G06F|H04L
+12393550,2025-08-19,Generating and modifying a collection content item for organizing and presenting content items,0,G06F|H04L
+12386913,2025-08-12,Utilizing machine-learning models to generate identifier embeddings and determine digital connections between digital content items,0,G06F|G06N
+12386667,2025-08-12,Dynamically selecting artificial intelligence models and hardware environments to execute tasks,0,G06F|H04L
+12380315,2025-08-05,Providing contextualized large language model recommendations,0,G06N
+12373798,2025-07-29,Determining chronotypes of users for display within a scheduling interface,0,G06Q
+12373506,2025-07-29,Personalized retrieval-augmented generation system,0,G06F
+12373492,2025-07-29,Generating and providing content stacks utilizing machine-learning models,0,G06F
+12373391,2025-07-29,Dynamic facet generation using large language models,0,G06F
+12373090,2025-07-29,Modifying a file storage structure utilizing a multi-section graphical user interface,0,G06F
+12368651,2025-07-22,User interface for managing and viewing synchronization settings in a synchronization system,0,G06F|H04L
+12367301,2025-07-22,Server-side rendering password protected documents,0,G06F|H04L
+12367051,2025-07-22,Storing and restoring desktop application scenes,0,G06F
+12355856,2025-07-08,Systems and methods for managing content items having multiple resolutions,0,G06F|H04L|H04M|H04N
+12353825,2025-07-08,Updating autofill templates for password autofill,0,G06F
+12341856,2025-06-24,Communication protocols for an online content management system,0,H04L
+12339965,2025-06-24,Malware detection and content item recovery,0,G06F
+12339813,2025-06-24,Embedded folder views,0,G06F|H04L
+12335157,2025-06-17,Rate limiter state caching,0,H04L
+12332949,2025-06-17,Generating a hybrid search index for unified search,0,G06F
+12332938,2025-06-17,Organizing media content items utilizing detected scene types,0,G06F
+12332882,2025-06-17,Directed acyclic graph framework for executing search function operations,0,G06F
+12326789,2025-06-10,Remotely backing up device data using a web application at a remote device,0,G06F
+12306869,2025-05-20,Restoring integrity of a social media thread from a social network export,0,G06F|G06Q|H04L
+12306813,2025-05-20,Object management system for efficient content item management,0,G06F|H04L
+12306800,2025-05-20,Multi-root content management system,0,G06F|H04L
+12306799,2025-05-20,Ignore objects from synchronizing to content management system,0,G06F|H04L
+12299060,2025-05-13,Intelligently generating and managing third-party sources within a contextual hub,0,G06F|G06N|H04L
+12287765,2025-04-29,Dropsite for shared content,0,G06F
+12279006,2025-04-15,Synchronized video viewing using a logical clock,0,H04N
+12277622,2025-04-15,Synthesizing visualizations for content collections,0,G06F|G06T
+12277533,2025-04-15,Generating collaborative content items to provide customizable graphical representations in online graphical user interfaces,0,G06F|G06Q
+12277103,2025-04-15,Techniques for collapsing views of content items in a graphical user interface,0,G06F
+12266382,2025-04-01,Modifying and collaborating with digital videos through interactions with video transcripts,0,G06F|G11B
+12265722,2025-04-01,Generating and maintaining a batch action clipboard for web-based platforms,0,G06F
+12265508,2025-04-01,Generating and providing graphical user interfaces for presenting and navigating digital content in a nonhierarchical visual structure,1,G06F
+12254269,2025-03-18,Machine learning recommendation engine for content item data entry based on meeting moments and participant activity,0,G06F|G06N|H04L
+12253975,2025-03-18,Suggesting content items to be accessed by a user,0,G06F
+12248482,2025-03-11,Generating modified view based on identified subset of content items and providing modified view to user associated with user account for display,0,G06F
+12242427,2025-03-04,Implementing different synchronization processes using a multi-root system,0,G06F
+12235923,2025-02-25,Intelligently generating and managing third-party sources within a contextual hub,0,G06F|G06N|H04L
+12235856,2025-02-25,Performing unified search using a hybrid search index,0,G06F
+12216982,2025-02-04,Generating and utilizing digital media clips based on contextual metadata from digital environments,0,G06F
+12216546,2025-02-04,Restoring a directory to a state prior to a past synchronization event,0,G06F|H04L
+12211160,2025-01-28,Techniques for capturing and displaying partial motion in virtual or augmented reality scenes,0,G06T|H04N
+12210948,2025-01-28,Cross-model score normalization,0,G06F|G06N|H04L
+12210901,2025-01-28,Generating and providing synthesized tasks presented in a consolidated graphical user interface,0,G06F|G06Q
+12210823,2025-01-28,Toggling the display of rich content within a digital document,0,G06F
+12210812,2025-01-28,Generating and utilizing digital media clips based on contextual metadata from digital environments,0,G06F
+12210518,2025-01-28,Personalized spelling correction,0,G06F
+12204499,2025-01-21,Virtual space platform for a content block browser,0,G06F
+12200023,2025-01-14,Accessing content items for meetings through a desktop tray,0,G06F|G06Q|H04L
+12199988,2025-01-14,Proxy authorization of a network device,0,H04L
+12177199,2024-12-24,Identifying related user accounts based on authentication data,0,H04L
+12174855,2024-12-24,Interrupted synchronization detection and recovery,0,G06F
+12174814,2024-12-24,Aggregates index,0,G06F|H04L
+12169505,2024-12-17,Updating a local tree for a client synchronization service,0,G06F|H04L
+12153585,2024-11-26,Systems and methods for selecting content items to store and present locally on a user device,0,G06F|G06Q
+12149581,2024-11-19,Link file sharing and synchronization,0,G06F|H04L
+12147393,2024-11-19,Enabling collaboration on an object from a backup service through integration with an object synchronization service,0,G06F
+12141518,2024-11-12,System and method of adding content items to a content management system,0,G06F|H04L
+12135937,2024-11-05,Generating coaching insights using large language models to improve pulse status,2,G06F
+12135733,2024-11-05,File journal interface for synchronizing content,0,G06F|H04L
+12126719,2024-10-22,Utilizing encryption key exchange with access permissions to share passwords among devices via a shared folder,0,G06F|H04L
+12124796,2024-10-22,Generating fillable documents and fillable templates in a collaborative environment,0,G06F|G06V
+12118112,2024-10-15,Nested namespaces for selective content sharing,0,G06F|H04L
+12113989,2024-10-08,Lossless decompression of digital images using prior image context,0,H04N
+12111845,2024-10-08,Backup feature provided by bidirectional synchronized content management system,0,G06F
+12105764,2024-10-01,Empty search state,0,G06F
+12105686,2024-10-01,Content item purging,0,G06F
+12105677,2024-10-01,Per-node metadata for custom node behaviors across platforms,0,G06F|H04L
+12099974,2024-09-24,Managing tasks in a content management system,0,G06F|G06Q
+12099886,2024-09-24,Techniques for performing clipboard-to-file paste operations,0,G06F
+12099566,2024-09-24,Content type embeddings,0,G06F|G06N|G06V
+12099564,2024-09-24,User-initiated workflow to collect media,0,G06F|H04L|H04N
+12099521,2024-09-24,Storage constrained synchronization of shared content items,0,G06F|H04L
+12093895,2024-09-17,Presenting project data managed by a content management system,0,G06F|G06Q
+12093299,2024-09-17,Generating and summarizing content blocks within a virtual space interface,0,G06F
+12093221,2024-09-17,Synchronizing changes within a collaborative content management system,0,G06F|G06Q
+12088667,2024-09-10,Generating and managing multilocational data blocks,0,G06F|G06Q|H04L
+12086387,2024-09-10,Processing electronic signature data in a collaborative environment,0,G06F|G06Q|H04L
+12086276,2024-09-10,Collection folder for collecting file submissions in response to a public file request,0,G06F|H04L
+12086151,2024-09-10,Shared folder backed integrated workspaces,0,G06F|G06Q|H04L
+12081607,2024-09-03,Shared capture session,0,G06F|H04L
+12079353,2024-09-03,Collection folder for collecting file submissions,0,G06F|H04L
+12073174,2024-08-27,Identifying downloadable objects in markup language,0,G06F|G09G
+12069058,2024-08-20,Security mechanisms for content management systems,0,G06F|H04L
+12061998,2024-08-13,Managing projects in a content management system,1,G06F|G06Q
+12061623,2024-08-13,Selective synchronization of content items in a content management system,0,G06F|H04L
+12061576,2024-08-13,Binding local device folders to a content management system for synchronization,0,G06F|H04L
+12056142,2024-08-06,Content capture across diverse sources,0,G06F
+12050868,2024-07-30,Machine learning recommendation engine for content item data entry based on meeting moments and participant activity,0,G06F|G06N|H04L
+12050591,2024-07-30,Verifying data consistency using verifiers in a content management system for a distributed key-value database,0,G06F
+12050518,2024-07-30,Storing and restoring user account data backups across online platforms,0,G06F
+12040908,2024-07-16,Generating customized meeting insights based on user interactions and meeting media,0,G06F|G06N|G10L|H04L
+12039252,2024-07-16,Enhancing documents portrayed in digital images,0,G06F|G06T|G06V
+12039148,2024-07-16,Searching digital content,0,G06F
+12039068,2024-07-16,Links as actors in a file system,0,G06F
+12039063,2024-07-16,Links platform-as-a-service,0,G06F
+12033050,2024-07-09,Generating context specific electronic communications utilizing a neural network,2,G06N|H04L
+12019599,2024-06-25,Data model and data service for content management system,0,G06F
+12014132,2024-06-18,Live document detection in a captured video stream,0,G06F|G06T|G06V
+12013912,2024-06-18,Sharing unmanaged content using a content management system,0,G06F
+12013901,2024-06-18,Intelligently identifying and presenting digital documents,0,G06F|G06V
+12008065,2024-06-11,Utilizing machine-learning models to generate identifier embeddings and determine digital connections between digital content items,0,G06F|G06N
+12008051,2024-06-11,Generating digital content clusters based on web activity,0,G06F
+12001574,2024-06-04,Evaluating an access control list from permission statements,0,G06F
+11995521,2024-05-28,Cross-model score normalization,0,G06F|G06N|H04L
+11991129,2024-05-21,Content-item relationship messaging system,0,H04L
+11989694,2024-05-21,Managing projects in a content management system,0,G06F|G06Q
+11985192,2024-05-14,Synchronized content library,0,H04L
+11979296,2024-05-07,User interface for viewing items in a synchronization system,0,G06F|H04L
+11971860,2024-04-30,Embedded folder views,0,G06F|H04L
+11966462,2024-04-23,Malicious dependency prevention,0,G06F|H04L
+11961047,2024-04-16,Generating and providing synthesized tasks presented in a consolidated graphical user interface,0,G06F|G06Q
+11960911,2024-04-16,Storing and restoring desktop application scenes,0,G06F
+11960529,2024-04-16,Restoring integrity of a social media thread from a social network export,1,G06F|G06Q|H04L
+11960525,2024-04-16,Automatically formatting content items for presentation,0,G06F
+11954313,2024-04-09,Browsing and selecting content items based on user gestures,0,G06F
+11948473,2024-04-02,Assignments for classrooms,1,G06F|G09B|H04L
+11948104,2024-04-02,Generating and providing team member recommendations for content collaboration,0,G06N|G06Q
+11947601,2024-04-02,Seeding and generating suggested content collections,0,G06F|G06N
+11947549,2024-04-02,Generating modified view based on identified subset of content items and providing modified view to user associated with user account for display,1,G06F
+11943320,2024-03-26,Systems and methods for managing content items having multiple resolutions,0,G06F|H04L|H04M|H04N
+11943264,2024-03-26,Change comments for synchronized content items,0,G06F|H04L
+11941344,2024-03-26,Document differences analysis and presentation,1,G06F
+11941241,2024-03-26,Navigating galleries of digital content,0,G06F|H04L|H04N
+11940877,2024-03-26,Restoring a directory to a state prior to a past synchronization event,0,G06F|H04L
+11935007,2024-03-19,Generating collaborative content items to provide customizable graphical representations in online graphical user interfaces,1,G06F|G06Q
+11934357,2024-03-19,Dropsite for shared content,0,G06F
+11928326,2024-03-12,Activating a camera function within a content management application,0,G06F
+11928320,2024-03-12,Storing and arranging application windows for video call scenes,0,G06F|H04L|H04N
+11921812,2024-03-05,Content creative web browser,2,G06F
+11921694,2024-03-05,Techniques for collapsing views of content items in a graphical user interface,1,G06F
+11921595,2024-03-05,System and method for multi-tier synchronization,4,G06F|H04L
+11914585,2024-02-27,Servicing queries of a hybrid event index,0,G06F
+11900324,2024-02-13,Managing projects in a content management system,0,G06F|G06Q
+11899623,2024-02-13,Suggesting content items to be accessed by a user,0,G06F
+11893701,2024-02-06,Method for simulating natural perception in virtual and augmented reality scenes,0,G06F|G06T
+11893262,2024-02-06,Generating and maintaining a batch action clipboard for web-based platforms,2,G06F
+11893075,2024-02-06,Intelligently generating and managing third-party sources within a contextual hub,0,G06F|G06N|H04L
+11892978,2024-02-06,Suggesting content items to be accessed by a user,0,G06F
+11880384,2024-01-23,Forced mount points / duplicate mounts,0,G06F|H04L
+11875028,2024-01-16,Native application collaboration,0,G06F|H04L
+11863600,2024-01-02,Techniques for efficient communication during a video collaboration session,1,G06F|H04L|H04N
+11860836,2024-01-02,Object management system for efficient content item management,0,G06F|H04L
+11860823,2024-01-02,Aggregated details displayed within file browser interface,0,G06F|G06Q
+11855769,2023-12-26,Accessing content items for meetings through a desktop tray,0,G06F|G06Q|H04L
+11854149,2023-12-26,Techniques for capturing and displaying partial motion in virtual or augmented reality scenes,0,G06T|H04N
+11853968,2023-12-26,Generating and providing collections of collaborative content items to teams of user accounts,0,G06Q
+11853817,2023-12-26,Utilizing a natural language model to determine a predicted activity event based on a series of sequential tokens,1,G06F|G06N
+11853380,2023-12-26,Intelligently generating and managing third-party sources within a contextual hub,0,G06F|G06N|H04L
+11849004,2023-12-19,Activation of dynamic filter generation for message management systems through gesture-based input,0,G06F|G06Q|H01L|H04L
+11848994,2023-12-19,Communication protocols for an online content management system,0,H04L
+11836207,2023-12-05,User-initiated workflow to collect media,1,G06F|H04L|H04N
+11836151,2023-12-05,Synchronizing symbolic links,0,G06F|H04L
+11822513,2023-11-21,Work spaces including links to content items in their native storage location,0,G06F|H04L
+11816615,2023-11-14,Managing project tasks using content items,0,G06Q
+11816128,2023-11-14,Managing content across discrete systems,0,G06F
+11809450,2023-11-07,Selectively identifying and recommending digital content items for synchronization,0,G06F|H04L
+11809381,2023-11-07,Accessing network based content items by a mobile device while offline,0,G06F
+11803652,2023-10-31,Determining access changes,1,G06F
+11799958,2023-10-24,Evaluating access based on group membership,1,G06F|H04L
+11799810,2023-10-24,Managing message attachments,0,G06F|G06Q|H04L|H04W
+11797752,2023-10-24,Identifying downloadable objects in markup language,0,G06F|G09G
+11797449,2023-10-24,Providing a dynamic digital content cache,0,G06F|H04L
+11792199,2023-10-17,Application-assisted login for a web browser,0,H04L
+11792140,2023-10-17,Enhancing performance of message search and retrieval,0,G06F|H04L
+11789976,2023-10-17,Data model and data service for content management system,2,G06F|H04L
+11789930,2023-10-17,Method and apparatus for a file sharing and synchronization system,0,G06F|H04L
+11789590,2023-10-17,User interface for content sharing client in a desktop file system context,0,G06F
+11785279,2023-10-10,Synchronized video viewing using a logical clock,0,H04N
+11783059,2023-10-10,Collection folder for collecting file submissions,0,G06F|H04L
+11782949,2023-10-10,Violation resolution in client synchronization,0,G06F|H04L
+11777880,2023-10-03,Messaging client application integrated with a content management system,2,G06F|H04L
+11775140,2023-10-03,Generating a customized organizational structure for uploading content to a cloud-based storage system,0,G06F|H04L
+11769216,2023-09-26,Collection of transaction receipts using an online content management service,0,G06Q|H04L
+11768999,2023-09-26,Collaborative in-line content item annotations,0,G06F
+11762898,2023-09-19,Generating and utilizing digital media clips based on contextual metadata from digital environments,0,G06F
+11755616,2023-09-12,Synchronized organization directory with team member folders,1,G06F|H04L
+11750607,2023-09-05,Identifying accounts having shared credentials,1,H04L
+11748366,2023-09-05,Shared folder backed integrated workspaces,0,G06F|G06Q|H04L
+11748333,2023-09-05,Verifying data consistency using verifiers in a content management system for a distributed key-value database,0,G06F
+11748315,2023-09-05,Binding local device folders to a content management system for synchronization,0,G06F|H04L
+11747996,2023-09-05,System and methods for implementing a key-value data store,0,G06F
+11747962,2023-09-05,Bookmarking shared file and folder links,0,G06F
+11741300,2023-08-29,Embedded spreadsheet data implementation and synchronization,0,G06F
+11740891,2023-08-29,Providing access to a hybrid application offline,0,G06F|H04L
+11716476,2023-08-01,Lossless compression of digital images using prior image context,0,H04N
+11714526,2023-08-01,Organize activity during meetings,1,G06F|H04L
+11711375,2023-07-25,Team member transfer tool,0,G06F|G06Q|H04L
+11704379,2023-07-18,Sharing unmanaged content using a content management system,0,G06F
+11704356,2023-07-18,Restoring integrity of a social media thread from a social network export,0,G06F|G06Q|H04L
+11704336,2023-07-18,Efficient filename storage and retrieval,0,G06F|H04L
+11703987,2023-07-18,Systems and methods for facilitating communication between users of a content management service,0,G06F|H04L
+11689379,2023-06-27,Generating customized meeting insights based on user interactions and meeting media,2,G06F|G06N|G10L|H04L
+11687703,2023-06-27,Shortcut to move a selection into a new document,0,G06F
+11687550,2023-06-27,Live data conversion and migration for distributed data object systems,1,G06F|H04L
+11687508,2023-06-27,Accessing historical content items of a content management system through placeholders,0,G06F
+11683389,2023-06-20,Browser display of native application presence and interaction data,0,G06F|H04L
+11681942,2023-06-20,Providing intelligent file name suggestions,0,G06F|G06N
+11675864,2023-06-13,Proxy links to support legacy links,0,G06F
+11675811,2023-06-13,Storage constrained synchronization of shared content items,0,G06F|H04L
+11669544,2023-06-06,Allocation and reassignment of unique identifiers for synchronization of content items,1,G06F|H04L
+11657067,2023-05-23,Updating a remote tree for a client synchronization service,0,G06F|H04L
+11645826,2023-05-09,Generating searchable text for documents portrayed in a repository of digital images utilizing orientation and text prediction neural networks,0,G06F|G06V
+11645235,2023-05-09,File system warnings for moves of shared content items,0,G06F
+11644952,2023-05-09,Processing electronic signature data in a collaborative environment,0,G06F|G06Q|H04L
+11640234,2023-05-02,Navigating digital content using visual characteristics of the digital content,1,G06F|G06V
+11630909,2023-04-18,Managing content item collections,0,G06F|H04L
+11630841,2023-04-18,Traversal rights,0,G06F|H04L
+11630554,2023-04-18,Display of a plurality of files from multiple devices,0,G06F|H04L
+11625686,2023-04-11,Managing reminders in a content management system,0,G06Q|H04L
+11620438,2023-04-04,Live document detection in a captured video stream,0,G06F|G06T|G06V
+11609770,2023-03-21,Co-managing links with a link platform and partner service,0,G06F|H04L
+11604769,2023-03-14,Synchronizing an external location,0,G06F|H04L
+11595207,2023-02-28,Utilizing encryption key exchange and rotation to share passwords via a shared folder,0,G06F|H04L
+11593549,2023-02-28,Managing content item collections,0,G06F|H04L
+11593394,2023-02-28,File system warnings application programing interface (API),1,G06F|H04L
+11593314,2023-02-28,Technologies for integrating cloud content items across platforms,0,G06F|H04L
+11586590,2023-02-21,Synchronizing an external location,0,G06F|H04L
+11580241,2023-02-14,Nested namespaces for selective content sharing,0,G06F|H04L
+11580221,2023-02-14,Malware detection and content item recovery,2,G06F
+11568896,2023-01-31,Synchronizing edits to digital content items,0,G11B|H04N
+11568018,2023-01-31,Utilizing machine-learning models to generate identifier embeddings and determine digital connections between digital content items,0,G06F|G06N
+11567958,2023-01-31,Content item templates,0,G06F|G06Q|H04L
+11567812,2023-01-31,Utilizing a natural language model to determine a predicted activity event based on a series of sequential tokens,0,G06F|G06N
+11562000,2023-01-24,Storage constrained synchronization engine,0,G06F
+11550865,2023-01-10,Truncated search results that preserve the most relevant portions,0,G06F
+11537786,2022-12-27,Generating fillable documents and fillable templates in a collaborative environment,0,G06F|G06V
+11537784,2022-12-27,Collaborative in-line content item annotations,0,G06F
+11526533,2022-12-13,Version history management,1,G06F
+11526464,2022-12-13,Scaling HDFS for hive,0,G06F
+11526260,2022-12-13,Native application collaboration,0,G06F
+11520766,2022-12-06,Event context enrichment,0,G06F
+11516288,2022-11-29,Synchronized content library,0,H04L
+11514078,2022-11-29,File journal interface for synchronizing content,0,G06F|H04L
+11509664,2022-11-22,Secure sent message identifier,0,G06Q|H04L
+11502980,2022-11-15,Content-item relationship messaging system,0,H04L
+11500899,2022-11-15,Efficient management of client synchronization updates,0,G06F|H04L
+11500897,2022-11-15,Allocation and reassignment of unique identifiers for synchronization of content items,3,G06F|H04L
+11500518,2022-11-15,Contact cards with dynamic interaction information,0,G06F|H04L
+11496552,2022-11-08,Intent tracking for asynchronous operations,0,H04L
+11494070,2022-11-08,Activating a camera function within a content management application,0,G06F
+11488602,2022-11-01,Meeting transcription using custom lexicons based on document history,0,G06F|G06Q|G10L
+11487405,2022-11-01,Searching digital content,0,G06F
+11483417,2022-10-25,Systems and methods for managing content items having multiple resolutions,0,G06F|H04L|H04M|H04N
+11483215,2022-10-25,User interface for viewing items in a synchronization system,0,G06F|H04L
+11475144,2022-10-18,Collection folder for collecting file submissions,0,G06F|H04L
+11475041,2022-10-18,Resynchronizing metadata in a content management system,2,G06F|H04L
+11475035,2022-10-18,Live data conversion and migration for distributed data object systems,1,G06F|H04L
+11474977,2022-10-18,Snapshot isolation in a distributed storage system,0,G06F
+11468053,2022-10-11,Servicing queries of a hybrid event index,0,G06F
+11468013,2022-10-11,Prioritizing content item synchronization based on sharing,0,G06F
+11467891,2022-10-11,Kernel event triggers for content item security,0,G06F|G06Q|H04L
+11463446,2022-10-04,Team member transfer tool,0,G06F|G06Q|H04L
+11461428,2022-10-04,Intelligently generating and managing third-party sources within a contextual hub,0,G06F|G06N|H04L
+11461365,2022-10-04,Atomic moves with lamport clocks in a content management system,0,G06F|H04L
+11461341,2022-10-04,Identifying relevant information within a document hosting system,0,G06F
+11461272,2022-10-04,Generating and modifying a collection content item for organizing and presenting content items,1,G06F|H04L
+11461196,2022-10-04,System and method for multi-tier synchronization,0,G06F|H04L
+11460984,2022-10-04,Browsing and selecting content items based on user gestures,0,G06F
+11455278,2022-09-27,Workflow functions of content management system enforced by client device,0,G06F|G06Q|H04L
+11449391,2022-09-20,Network folder resynchronization,0,G06F|H04L
+11445018,2022-09-13,Technologies for synchronizing content items across content management systems,0,G06F|G06Q|H04L
+11444899,2022-09-13,Activation of dynamic filter generation for message management systems through gesture-based input,0,G06F|H04L
+11444892,2022-09-13,Enhancing performance of message search and retrieval,0,G06F|H04L
+11429634,2022-08-30,Storage interface for synchronizing content,2,G06F|H04L
+11425175,2022-08-23,Change comments for synchronized content items,0,G06F|H04L
+11424945,2022-08-23,Techniques for avoiding conflicting user actions during a video collaboration session,3,G06F|H04L
+11423359,2022-08-23,Managing tasks in a content management system,0,G06F|G06Q
+11423357,2022-08-23,Reusable components for collaborative content items,2,G06F|G06Q
+11423048,2022-08-23,Content management client synchronization service,0,G06F|H04L
+11422990,2022-08-23,Content item purging,0,G06F
+11422721,2022-08-23,Data storage scheme switching in a distributed data storage system,0,G06F|G06N|H03M
+11422676,2022-08-23,Display of a plurality of files from multiple devices,0,G06F|H04L
+11410195,2022-08-09,User re-engagement with online photo management service,0,G06F|G06Q|H04L
+11394715,2022-07-19,Proxy authorization of a network device,0,H04L
+11392575,2022-07-19,Techniques for collapsing views of content items in a graphical user interface,0,G06F
+11392554,2022-07-19,Synchronizing an external location,0,G06F|H04L
+11386116,2022-07-12,Prevention of loss of unsynchronized content,1,G06F|H04L
+11385788,2022-07-12,Sharing a file with a single contact,0,G06F|H04L
+11385757,2022-07-12,Systems and methods for facilitating communication between users of a content management service,1,G06F|H04L
+11381758,2022-07-05,System and method for acquiring virtual and augmented reality scenes by a user,0,G06F|G06T|H04N
+11381613,2022-07-05,Accessing content items for meetings through a desktop tray,4,G06F|G06Q|H04L
+11381536,2022-07-05,Mobile notifications for comment threads,0,G06F|H04L
+11379498,2022-07-05,Live data conversion and migration for distributed data object systems,6,G06F|H04L
+11379418,2022-07-05,File system warnings for moves of shared content items,0,G06F
+11372990,2022-06-28,Restricting access to content,0,G06F|H04L
+11372816,2022-06-28,Accessing network based content items by a mobile device while offline,0,G06F
+11367259,2022-06-21,Method for simulating natural perception in virtual and augmented reality scenes,0,G06F|G06T
+11366793,2022-06-21,Data model and data service for content management system,0,G06F
+11356396,2022-06-07,Content management system with integrated email service,0,G06Q|H04L
+11354328,2022-06-07,Shared folder backed integrated workspaces,0,G06F|G06Q|H04L
+11347762,2022-05-31,Intelligent scrolling in shared folder back integrated workspaces,4,G06F|G06Q|H04L
+11343514,2022-05-24,Lossless compression of digital images using prior image context,0,H04N
+11341114,2022-05-24,Method and apparatus for a file sharing and synchronization system,0,G06F|H04L
+11340760,2022-05-24,Generating a customized organizational structure for uploading content to a cloud-based storage system,0,G06F|H04L
+11334970,2022-05-17,Enhancing a digital image,0,G06T
+11334596,2022-05-17,Selectively identifying and recommending digital content items for synchronization,0,G06F|H04L
+11334555,2022-05-17,Method and apparatus for a file sharing and synchronization system,2,G06F|H04L
+11321275,2022-05-03,Technologies for migrating content items from a server on a network to an online content management system,0,G06F
+11314774,2022-04-26,Cursor with last observed access state,0,G06F|H04L
+11308118,2022-04-19,File system warnings,0,G06F|H04L
+11308039,2022-04-19,Binding local device folders to a content management system for synchronization,2,G06F|H04L
+11308032,2022-04-19,Suggesting content items to be accessed by a user,0,G06F
+11307754,2022-04-19,Drag and drop quick actions,0,G06F
+11290531,2022-03-29,Immediate cloud content item creation from local file system interface,0,H04L
+11290402,2022-03-29,Managing message attachments,0,G06F|G06Q|H04L|H04W
+11282008,2022-03-22,Managing projects in a content management system,1,G06F|G06Q
+11275891,2022-03-15,Automated outline generation of captured meeting audio in a collaborative document context,0,G06F|G10L
+11275763,2022-03-15,Storage constrained synchronization of shared content items,0,G06F|H04L
+11270008,2022-03-08,Collection folder for collecting file submissions,1,G06F|H04L
+11269852,2022-03-08,Method and apparatus for a file sharing and synchronization system,0,G06F|H04L
+11269491,2022-03-08,Bookmarking shared file and folder links,0,G06F
+11269490,2022-03-08,User interface for content sharing client in a desktop file system context,0,G06F
+11249950,2022-02-15,Aggregated details displayed within file browser interface,0,G06F|G06Q
+11249632,2022-02-15,"Presence, access, and seen state for local copies of shared content items",0,G06F|G06Q|H04L
+11244062,2022-02-08,Collection folder for collecting file submissions,0,G06F|H04L
+11238414,2022-02-01,Generating digital associations between documents and digital calendar events based on content connections,0,G06F|G06N|G06Q|H04L
+11233851,2022-01-25,"System, method, and computer program for enabling a user to access and edit via a virtual drive objects synchronized to a plurality of synchronization clients",0,G06F|H04L
+11226954,2022-01-18,Replication lag-constrained deletion of data in a large-scale distributed data storage system,0,G06F
+11226939,2022-01-18,Synchronizing changes within a collaborative content management system,0,G06F|G06Q
+11222247,2022-01-11,Semantic image retrieval,0,G06F|G06V
+11222162,2022-01-11,Managing content item collections,0,G06F|H04L
+11221918,2022-01-11,Undo changes on a client device,0,G06F
+11216568,2022-01-04,Server-side rendering password protected documents,0,G06F|H04L
+11204938,2021-12-21,Caching of file system warning queries to determine an applicable file system warning,0,G06F|H04L
+11200044,2021-12-14,Providing access to a hybrid application offline,0,G06F|H04L
+11194767,2021-12-07,Technologies for integrating cloud content items across platforms,0,G06F|H04L
+11194766,2021-12-07,Technologies for integrating cloud content items across platforms,0,G06F|H04L
+11188710,2021-11-30,Inline content item editor commands,0,G06F|G06Q
+11188559,2021-11-30,Directory snapshots with searchable file paths,1,G06F|H04L
+11188216,2021-11-30,Selectively emphasizing digital content,0,G06F|H04L|H04N
+11184341,2021-11-23,Identifying related user accounts based on authentication data,1,H04L
+11182348,2021-11-23,Sharing collections with external teams,0,G06F|H04L
+11176164,2021-11-16,Transition to an organization directory,0,G06F|H04L
+11172038,2021-11-09,Browser display of native application presence and interaction data,0,G06F|H04L
+11172004,2021-11-09,Real time collaboration and document editing by multiple participants in a content management system,0,G06F|G06Q|G09G|H04L
+11171909,2021-11-09,Delayed processing for arm policy determination for content management system messaging,0,G06F|H04L
+11170345,2021-11-09,Content item activity feed for presenting events associated with content items,3,G06F|G06Q|H04L
+11170056,2021-11-09,Comment management in shared documents,0,G06F|H04L
+11163787,2021-11-02,Content capture across diverse sources,0,G06F
+11157636,2021-10-26,Collection folder for collecting file submissions in response to a public file request,0,G06F|H04L
+11157514,2021-10-26,Topology-based monitoring and alerting,0,G06F
+11153290,2021-10-19,Advanced security protocol for broadcasting and synchronizing shared folders over local area network,0,G06F|H04L
+11151086,2021-10-19,Comment previews displayed in context within content item,2,G06F
+11151036,2021-10-19,Providing a dynamic digital content cache,0,G06F|H04L
+11144573,2021-10-12,Synchronization protocol for multi-premises hosting of digital content items,0,G06F|H04L
+11144514,2021-10-12,Techniques for providing user interface enhancements for online content management system version histories,0,G06F
+11140255,2021-10-05,Messaging client application interface,18,G06F|H04L|H04M
+11134119,2021-09-28,Intent tracking for asynchronous operations,1,H04L
+11132107,2021-09-28,Native application collaboration,0,G06F
+11128704,2021-09-21,Linking content items and collaboration content items,0,H04L
+11128691,2021-09-21,In-collaborative content item notifications in shared collaborative content items,0,G06Q|H04L
+11128594,2021-09-21,Managing drafts of electronic documents across client devices,1,G06F|G06Q|H04L|H04W
+11128593,2021-09-21,Event-based electronic communications management,0,G06F|H04L|H04W
+11126792,2021-09-21,Version history for offline edits,1,G06F
+11126669,2021-09-21,Comment management in shared documents,0,G06F|H04L
+11121966,2021-09-14,Centralized application-layer routing at the edge of an online application service provider network,0,H04L
+11120089,2021-09-14,Personal content item searching system and method,0,G06F|G06Q
+11120039,2021-09-14,Updating a remote tree for a client synchronization service,0,G06F|H04L
+11113463,2021-09-07,Note browser,0,G06F|H04L
+11113411,2021-09-07,Authentication security model for a content management system,0,G06F|H04L
+11113248,2021-09-07,Generating and sharing metadata for indexing synchronized content items,0,G06F
+11112948,2021-09-07,Dynamic preview in a file browser interface,0,G06F
+11112941,2021-09-07,Content item creation from desktop tray,0,G06F
+11106778,2021-08-31,Toggle between accounts,0,G06F|H04L
+11106636,2021-08-31,Dropsite for shared content,0,G06F
+11100053,2021-08-24,Technologies for integrating cloud content items across platforms,0,G06F|H04L
+11093112,2021-08-17,Navigating digital content using visual characteristics of the digital content,0,G06F|G06V
+11087222,2021-08-10,Providing intelligent storage location suggestions,0,G06F|G06N
+11086823,2021-08-10,File deduplication using signature information,1,G06F
+11082426,2021-08-03,Identifying accounts having shared credentials,1,H04L
+11080297,2021-08-03,Incremental client synchronization,0,G06F|H04L
+11074400,2021-07-27,Collaborative in-line content item annotations,3,G06F
+11074396,2021-07-27,Animating edits to documents,0,G06F
+11070500,2021-07-20,Third-party integration in activity feeds,1,H04L
+11063888,2021-07-13,Shared content item commenting,0,H04L
+11061553,2021-07-13,Drag and drop quick actions,2,G06F
+11055264,2021-07-06,Automatically coordinating application schema changes in a distributed data storage system,0,G06F
+11055084,2021-07-06,Interacting with product features using support methods,0,G06F
+11050696,2021-06-29,Content-item linking system for messaging services,1,H04L
+11048720,2021-06-29,Efficiently propagating diff values,0,G06F|H04L
+11048383,2021-06-29,Contact cards with dynamic interaction information,0,G06F|H04L
+11044088,2021-06-22,System and method for rotating client security keys,1,H04L
+11042283,2021-06-22,Navigating galleries of digital content,0,G06F|H04L|H04N
+11038973,2021-06-15,Contact event feeds and activity updates,1,G06F|G06Q|H04L
+11025746,2021-06-01,Systems and methods for managing content items having multiple resolutions,0,G06F|H04L|H04M|H04N
+11023858,2021-06-01,System and method for generating desktop focus work areas,3,G06Q
+11023537,2021-06-01,Comment management in shared documents,0,G06F|H04L
+11023424,2021-06-01,Migrating content items,0,G06F
+11017354,2021-05-25,Managing projects in a content management system,7,G06F|G06Q
+11017159,2021-05-25,Enhancing documents portrayed in digital images,0,G06F|G06T|G06V
+11017158,2021-05-25,Live document detection in a captured video stream,0,G06F|G06T|G06V
+11016991,2021-05-25,Efficient filename storage and retrieval,0,G06F|H04L
+11016987,2021-05-25,Shared folder backed integrated workspaces,2,G06F|G06Q|H04L
+11010402,2021-05-18,Updating a remote tree for a client synchronization service,0,G06F|H04L
+11005902,2021-05-11,Streaming of variable length content segments,0,H04L
+11004154,2021-05-11,Collection of transaction receipts using an online content management service,0,G06Q|H04L
+11003841,2021-05-11,Enhancing documents portrayed in digital images,0,G06F|G06T|G06V
+11003711,2021-05-11,Accessing audio files from an online content management system,2,G06F
+11003685,2021-05-11,Commit protocol for synchronizing content items,0,G06F|H04L
+11003327,2021-05-11,Systems and methods for displaying an image capturing mode and a content viewing mode,1,G06F|H04L
+10997200,2021-05-04,Synchronized organization directory with team member folders,0,G06F|H04L
+10997189,2021-05-04,Processing conversation attachments in shared folder backed integrated workspaces,2,G06F|G06Q|H04L
+10997188,2021-05-04,Commenting in shared folder backed integrated workspaces,1,G06F|G06Q|H04L
+10992785,2021-04-27,Managing edits of content items,0,H04L
+10984444,2021-04-20,Systems and methods for generating intelligent account reconfiguration offers,1,G06Q
+10983677,2021-04-20,Prefetching digital thumbnails from remote servers to client devices based on a dynamic determination of file display criteria,0,G06F|G06N|H04L
+10979527,2021-04-13,Managing a local cache for an online content-management system,0,H04L
+10979235,2021-04-13,Content management system supporting third-party code,0,G06F|H04L
+10977864,2021-04-13,Techniques for capturing and displaying partial motion in virtual or augmented reality scenes,0,G06T|H04N
+10977677,2021-04-13,Contact importer,0,G06Q
+10977324,2021-04-13,Personal content item searching system and method,0,G06F|H04L
+10977219,2021-04-13,Migrating content items,5,G06F
+10970679,2021-04-06,Presenting project data managed by a content management system,0,G06F|G06Q
+10970656,2021-04-06,Automatically suggesting project affiliations,9,G06Q
+10970193,2021-04-06,Debugging a client synchronization service,0,G06F
+10965746,2021-03-30,Determining presence in an application accessing shared and synchronized content,0,G06F|H04L
+10963446,2021-03-30,Techniques for collapsing views of content items in a graphical user interface,0,G06F
+10963430,2021-03-30,Shared workspaces with selective content item synchronization,2,G06F|H04L
+10956511,2021-03-23,Intelligently identifying and presenting digital documents,1,G06F|G06V
+10956404,2021-03-23,Method and apparatus for a file sharing synchronization system,0,G06F|H04L
+10956387,2021-03-23,Accessing historical content items of a content management system through placeholders,0,G06F
+10955998,2021-03-23,Searching digital content,2,G06F
+10951702,2021-03-16,Synchronized content library,2,H04L
+10949445,2021-03-16,Content management client synchronization service,0,G06F|H04L
+10943060,2021-03-09,Automated outline generation of captured meeting audio in a collaborative document context,1,G06F|G10L
+10942944,2021-03-09,Managing content across discrete systems,3,G06F
+10938670,2021-03-02,User interface for viewing items in a synchronization system,0,G06F|H04L
+10936622,2021-03-02,Storage interface for synchronizing content,3,G06F|H04L
+10936159,2021-03-02,Display of a plurality of files from multiple devices,0,G06F|H04L
+10931505,2021-02-23,System and method for multi-tier synchronization,0,G06F|H04L
+10929547,2021-02-23,Collection folder for collecting file submissions using email,0,G06F|H04L
+10929427,2021-02-23,Selective synchronization of content items in a content management system,0,G06F|H04L
+10929426,2021-02-23,Traversal rights,4,G06F|H04L
+10929349,2021-02-23,Technologies for integrating cloud content items across platforms,0,G06F|H04L
+10922426,2021-02-16,Managing content item collections,1,G06F|H04L
+10922333,2021-02-16,Efficient management of client synchronization updates,22,G06F|H04L
+10922012,2021-02-16,Fair data scrubbing in a data storage system,2,G06F
+10917468,2021-02-09,Systems and methods of re-associating content items,0,G06F|H04L
+10915584,2021-02-09,Event-related document generation,0,G06F|G06Q|H04L
+10911518,2021-02-02,Network folder synchronization,3,G06F|H04L

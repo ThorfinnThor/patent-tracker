@@ -1,0 +1,932 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12418707,2025-09-16,"Network device, method and computer-readable medium for video content processing",0,G11B|H04N
+12418384,2025-09-16,Methods and apparatus for generating and using dynamic profiles for cable transmission systems,0,H04L
+12413980,2025-09-09,Practical easyconnect onboarding of extenders,0,H04L|H04W
+12413731,2025-09-09,System for coding high dynamic range and wide color gamut sequences,0,H04N
+12413439,2025-09-09,Systems and methods for R-MACPHY partial service support,0,H04J|H04L|H04N
+12412577,2025-09-09,Voice control configuration using a graphical user interface,0,G06F|G10L|H04N
+12412018,2025-09-09,UHD HDR IP client device PCB design layout,0,G06F|H05K
+12407619,2025-09-02,Tunable latency with minimum jitter,0,H04L
+12407592,2025-09-02,R-PHY map advance time selection,0,H04L
+12407516,2025-09-02,Anti-cloning architecture for device identity provisioning,0,G06F|H04L|H04W
+12407436,2025-09-02,Method of measuring timing holdover performance in an R-PHY system,0,H04J|H04N
+12407435,2025-09-02,System for channel map delivery for hi split cable networks,0,H04H|H04L|H04N
+12401541,2025-08-26,Classifier reduction for low latency DOCSIS,0,H04L
+12399709,2025-08-26,Obfuscation for protection of streaming media and other data flows,0,G06F|H04L
+12395769,2025-08-19,OLT power management system,0,H04B|H04L|H04N|H04Q
+12395708,2025-08-19,Providing dynamic media captioning and augmented/virtual reality feedback in home network environments,0,G06N|G10L|H04N
+12393539,2025-08-19,System and method for an adaptive storage media interface,0,G06F
+12389304,2025-08-12,Client steering based on client battery level,0,H04W|Y02D
+12389142,2025-08-12,Daisy chaining of remote OLTs,0,H04L|H04Q
+12389085,2025-08-12,Manifest customization in adaptive bitrate streaming,0,H04N
+12388790,2025-08-12,VPN manager and monitor for VPN connection selection,0,H04L
+12382144,2025-08-05,Media program viewership measurement using blockchains,0,H04H|H04L|H04N
+12381716,2025-08-05,Optimized key management for data signing systems,0,H04L
+12380211,2025-08-05,Method and apparatus for detecting disablement of data backup processes,0,G06F
+12375491,2025-07-29,Method and system for parental control of broadband devices,0,H04L
+12373186,2025-07-29,Enhancing firmware upgrades in electronic devices included in a network,0,G06F|H04L
+12368934,2025-07-22,Method and system for synchronizing play position between main player and companion devices and providing value added services,0,H04N
+12368512,2025-07-22,Shared geographically dispersed virtualization of PON,0,H04B|H04L|H04Q
+12363359,2025-07-15,System for presentation time stamp recovery from a transcoder,0,H04L|H04N
+12356217,2025-07-08,Wi-Fi multiple access point—third party extender configuration,0,G06F|H04W
+12356051,2025-07-08,Broadcast channel tuning parameters support using switched digital video delivery,0,H04N
+12356000,2025-07-08,Video bitstream coding,0,H04N
+12355966,2025-07-08,System and method for reshaping and adaptation of high dynamic range video data,0,G06T|H04N
+12355580,2025-07-08,Bitrate optimized clustering for OFDM/OFDMA profile generation,0,H04L|H04W
+12353556,2025-07-08,Intelligent switching to a debug load operation for an electronic device,0,G06F
+12353519,2025-07-08,Digital rights management authorization token pairing,0,G06F|H04L|H04N
+12348835,2025-07-01,System and method for improved determination of satellite interface type,0,H04H|H04N|H04Q
+12348741,2025-07-01,Modification of picture parameter set (PPS) for HEVC extensions,0,H04N
+12348620,2025-07-01,Method and apparatus for two-step data signing,0,G06F|H04L
+12348577,2025-07-01,Techniques for efficient content delivery in a multicast adaptive bit rate (MABR) system,0,H04L|H04N
+12346415,2025-07-01,Method and apparatus for license credit management,0,G06F
+12342035,2025-06-24,Gaze-responsive advertisement,0,G06Q|H04N
+12342031,2025-06-24,Out of band control for legacy set top boxes,0,A61B|H04N
+12342017,2025-06-24,Adaptive video slew rate for video delivery,0,H03K|H04N
+12340145,2025-06-24,Technologies for providing audio components/sessions to devices,0,G06F|H04L|H04N|H04R|H04S
+12335546,2025-06-17,Partial video async support using R-MACPHY device,0,H04H|H04J|H04N
+12335511,2025-06-17,System and method of motion information storage for video coding and signaling,0,H04N
+12335464,2025-06-17,Adaptive unequal weight planar prediction,0,H04N
+12335390,2025-06-17,Anti-cloning of device cryptographic keys for counterfeit prevention,0,H04L
+12335380,2025-06-17,Prevention of unauthorized migration of wireless access points across service providers,0,H04L
+12335064,2025-06-17,Node with radio frequency (RF) switching network and corresponding methods for identifying coupled client devices,0,H04L|H04N
+12335030,2025-06-17,Systems and methods for large phase correction in R-PHY network architectures,1,H04J|H04L
+12331751,2025-06-17,Dynamic acoustic-based fan control,0,F04D|G06F
+12328539,2025-06-10,Resource targeted scheduling for a PON network,0,H04L|H04Q
+12328478,2025-06-10,Recommending audiovisual content items to a subscriber based on locations visited by the subscriber,0,H04N
+12328433,2025-06-10,Reducing overhead for multiple-hypothesis temporal prediction,0,H04N
+12328224,2025-06-10,Association of devices to a sensing device control system,0,H04L|H04W
+12323667,2025-06-03,"System, method, and computer-readable recording medium of detecting wireless home digital interface devices and configuring parental control for each",0,H04N
+12323653,2025-06-03,System and method for providing common key among media gateway appliance subsystem,0,G06F|H04L|H04N
+12323637,2025-06-03,Method and apparatus for firewalling images at a network endpoint,0,G06V|H04L|H04N
+12323612,2025-06-03,Carriage systems encoding or decoding JPEG 2000 video,0,H04N
+12323601,2025-06-03,Reducing motion vector information transmission in bi-directional temporal prediction,0,H04N
+12323510,2025-06-03,Transmission of secure information in a content distribution network,0,H04L|H04W
+12321481,2025-06-03,Cloud-based whitebox node locking,0,G06F|H04L
+12316888,2025-05-27,Video classification using user behavior from a network digital video recorder,0,H04N
+12316581,2025-05-27,Full duplex expander in a full duplex network,0,H03F|H04B|H04L
+12316492,2025-05-27,Orchestrating backhaul and fronthaul topologies in mixed mode mesh network,0,H04L|H04W
+12315504,2025-05-27,System and method for controlling a media device to provide an improved sonic environment for the reception of a voice command,0,G06F|G10L
+12315503,2025-05-27,Customized interface between electronic devices,0,G06F|G10L|H04L|H04N|H04W
+12302107,2025-05-13,Functionality to improve extender onboarding prior to country code determination,0,H04W
+12301419,2025-05-13,Method and apparatus for management of a network configuration session,0,G06F|H04L
+12301410,2025-05-13,"Electronic device, method for electronic device, computer readable medium, and apparatus",0,H04L
+12284333,2025-04-22,Simplified processing of weighted prediction syntax and semantics using a bit depth variable for high precision data,0,H04N
+12284193,2025-04-22,Proactive identification of potential security threats on residential gateway devices,0,H04L
+12282593,2025-04-22,Virtual reality device with ambient audio synchronization,0,G06F
+12279020,2025-04-15,Dynamic update system for a remote physical device,0,G06F|H04N
+12278953,2025-04-15,Coding weighted angular prediction for intra coding,0,G06F|H04N
+12273567,2025-04-08,System and method for reducing blocking artifacts and providing improved coding efficiency,0,H04N
+12267745,2025-04-01,Device steering based on profile and historical behavior,0,H04W
+12266356,2025-04-01,Context-sensitive actions within client device,0,G06F|G06Q|G10L
+12265597,2025-04-01,Digital rights management system resource manager,0,G06F
+12265493,2025-04-01,Dynamic DMA buffer management,0,G06F
+12261931,2025-03-25,Method and apparatus for provisioning node-locking confidential data,0,G06F|H04L
+12256127,2025-03-18,Synchronized playback controls for parallel viewing of video content,0,H04N
+12248734,2025-03-11,Audio services agent manager,0,G06F|G10L
+12245061,2025-03-04,"Network access device and method for the same, medium and computer program product",0,H04L|H04W
+12244907,2025-03-04,System and method for automated audio transitions in a multi-window video environment,0,H04N
+12244833,2025-03-04,Re-sampling with phase offset adjustment for luma and chroma to select filters in scalable video coding,0,H04N
+12244825,2025-03-04,Weighted angular prediction for intra coding,0,G06T|H04N
+12244789,2025-03-04,Unequal weight planar motion vector derivation,0,H04N
+12244721,2025-03-04,Advanced crypto token authentication,0,H04L
+12238300,2025-02-25,Weighted angular prediction coding for intra coding,0,G01B|H04N
+12231713,2025-02-18,System and method to synchronize rendering of multi-channel audio to video presentation,0,H04N
+12231710,2025-02-18,Reduction of startup time in remote HLS,0,H04N
+12231435,2025-02-18,"Electronic device, method, medium, and program for switching parental control modes",0,H04L
+12231321,2025-02-18,Interference group creation in full duplex networks,0,H04B|H04J|H04L|H04W
+12225261,2025-02-11,Picture-in-picture control interface,0,G09G|H04N
+12225258,2025-02-11,Intelligent remote control positioning and alert system,0,H04N|H04W
+12225237,2025-02-11,Conditionally parsed extension syntax for HEVC extension processing,0,H04N
+12225226,2025-02-11,Signaling high dynamic range and wide color gamut content in transport streams,0,H04N
+12223034,2025-02-11,Secure voice interface in a streaming media device to avoid vulnerability attacks,0,G06F|G10L
+12219287,2025-02-04,System and method for dynamically configuring the output of a device,0,G08C|H04N
+12219179,2025-02-04,System and method for deblocking HDR content,0,H04N
+12219149,2025-02-04,System and method for constructing a plane for planar prediction,0,H04N
+12200232,2025-01-14,Constrained position dependent intra prediction combination (PDPC),0,H04N
+12199673,2025-01-14,Fiber-enabled backfeed network architecture,0,H04B|H04N|H04Q
+12192575,2025-01-07,Method and system for advanced customer bug reporting,0,G06F|G06Q|H04N
+12192413,2025-01-07,Method of ensuring Voice over Internet Protocol reliability after entering a power saving mode,0,H04L|H04M
+12189752,2025-01-07,Multimodal authentication and liveliness detection,0,G06F|H04L
+12185136,2024-12-31,Perform network speed tests on a wireless client device using a master device,0,H04L|H04W
+12184910,2024-12-31,Narrowcasting to one-way set top boxes,0,H04L|H04N
+12177603,2024-12-24,Switched filter amp circuit for soft duplex CATV architectures,0,H03F|H04H|H04L|H04N
+12177321,2024-12-24,PON system optimized for internet of things,0,H04J|H04L|H04Q
+12177035,2024-12-24,System and method for the improved provision of user bands via one or more single-cable interfaces,0,H04H|H04L|H04N
+12170948,2024-12-17,"Access point, and method, medium, and computer program product for access point",0,H04L|H04W
+12170813,2024-12-17,Channel reporting during fast channel change,0,H04L|H04N
+12170667,2024-12-17,Fast access to local area network (LAN) graphical user interface (GUI) by client device,0,H04L|H04W
+12167064,2024-12-10,VOD product rendering controller,0,H04N
+12166645,2024-12-10,Hostname based management of features of a network device,0,G06F|H04L
+12164930,2024-12-10,Systems and methods for narrowing the scope of a problem when a modem is bricked,0,G06F
+12149786,2024-11-19,"Cable modem and method thereof, computer readable medium and apparatus",0,H04L|H04N
+12148291,2024-11-19,System to control multiple devices with a remote control device,0,G08C|H04N
+12147321,2024-11-19,System and method for memory-pressure and processor usage visualization,0,G06F
+12143587,2024-11-12,Single layer high dynamic range coding with standard dynamic range backward compatibility,0,G06T|H04N
+12143243,2024-11-12,Scheduler-directed source multiplexing for return path noise mitigation,0,H03M|H04B|H04H|H04L|H04N
+12137266,2024-11-05,System for content delivery estimation,0,H04N
+12136332,2024-11-05,Blocked vent sensor for electronic devices,0,F04D|G01K|G06F|G08B|H05K
+12132636,2024-10-29,Electronic apparatus and method for latency measurements and presentation for an optimized subscriber service,1,H04L
+12132582,2024-10-29,Systems and methods for upstream and downstream CATV plant capacity expansion,0,H04L|H04N
+12127175,2024-10-22,Seamlessly switching wireless frequency of a connected network device using a mobile application,0,H04W
+12126854,2024-10-22,Method and system for creating theatrical effect information through an additional track,0,G06F|G16Y|H04L|H04N
+12126665,2024-10-22,Command services manager for secure sharing of commands to registered agents,0,H04L
+12126463,2024-10-22,Method to support redundancy switching of virtual MAC cores,0,G06F|H04L|H04N
+12126433,2024-10-22,Timing adjustment for distributed network architecture,0,H04B|H04J|H04L
+12120514,2024-10-15,Multi-modal approach to a secure and closed solution for providing scheduled notifications,0,A61B|H04L|H04W|Y02D
+12120374,2024-10-15,Device and method to switch television operation to primary content mode after displaying an important content on secondary input mode,0,H04N|H04R
+12120217,2024-10-15,Strong fully homomorphic white-box and method for using same,0,G06F|H04L
+12120120,2024-10-15,Wi-Fi multiple access point—biometric based improvements,0,H04L|H04W
+12114026,2024-10-08,System for queuing flows to channels,0,H04L|H04N
+12101500,2024-09-24,Unequal weight planar prediction,0,H04N
+12101225,2024-09-24,Soft configuration and data exchange for in-home devices,0,H04L|H04W
+12100419,2024-09-24,Method and system for improving estimation of sound source localization by using indoor position data from wireless system,0,G01S|G10L|H04R|H04W
+12100006,2024-09-24,Previous source input return,0,G06Q|H04L|H04N
+12096014,2024-09-17,Adaptive perceptual mapping and signaling for video coding,0,H04N
+12095830,2024-09-17,Method and system for integrating internet of things (IoT) devices and mobile client audiovisual into a video conferencing application,0,G16Y|H04L|H04N
+12095670,2024-09-17,Throttling network throughput based on a throttling factor,0,H04L
+12089373,2024-09-10,Metamaterial heat spreader,0,G06F|G11B|H05K
+12089295,2024-09-10,Multiple virtual interfaces through a single physical interface,0,H04L|H04W
+12088698,2024-09-10,System and method for securely delivering keys and encrypting content in cloud computing environments,1,H04L
+12088615,2024-09-10,Method and system for automated protection against vulnerability and notification to service provider,0,H04L
+12082301,2024-09-03,Method of reporting received signal strength on per frame basis in Wi-Fi network,1,H04B|H04L|H04W
+12082045,2024-09-03,Method and apparatus for optimized OFDMA subcarrier allocation,0,H04L|H04W
+12081822,2024-09-03,Service switching for content output,0,H04N
+12075071,2024-08-27,Modification of picture parameter set (PPS) for HEVC extensions,0,H04N
+12075033,2024-08-27,Restructuring technique for video frames,0,G06V|H04N
+12074795,2024-08-27,"Router, method for router, computer-readable medium and apparatus",0,H04L
+12074783,2024-08-27,"Device, method, medium and computer program product for voice data transmission",0,H04L|H04M
+12074692,2024-08-27,Method of measuring timing holdover performance in an R-PHY system,0,H04J|H04N
+12073415,2024-08-27,Identification of unsupported device capability to service provider for enhancement and customer attraction,0,G06Q|H04L
+12069261,2024-08-20,JVET quadtree plus binary tree (QTBT) structure with multiple asymmetrical partitioning,0,H04N
+12068913,2024-08-20,Using client device to optimize wireless driver restarts in router on changing network configuration settings,0,H04L|H04W
+12068801,2024-08-20,Configuring dedicated service flows for home networks,0,H04B|H04L|H04W
+12062371,2024-08-13,Voice based interface for residential gateways and access point devices,0,G06F|G10L|H04L
+12061534,2024-08-13,Method for providing error detection for a disk drive of a set top box,0,G06F|G11B
+12058842,2024-08-06,Method and system for small scale structures to improve thermal efficiency,0,G06F|H04N|H05K
+12058406,2024-08-06,Broadcast delivered HLS system,0,H04L|H04N
+12058376,2024-08-06,JVET coding block structure with asymmetrical partitioning,0,H04N
+12058218,2024-08-06,Management of opening a connection to the internet for smart assistant devices,0,G06F|G08B|H04L
+12058188,2024-08-06,Method for providing multicast DNS services across IP subnet boundaries using TCP proxy or source and destination network address translation,0,H04L
+12058104,2024-08-06,Remote controller source address verification and retention for access devices,0,H04L
+12058068,2024-08-06,Optimized method for wi-fi band steering,0,H04L|H04W
+12058060,2024-08-06,Mixed airtime management,0,H04B|H04L|H04W
+12057882,2024-08-06,Efficient remote PHY dataplane management for a cable system,0,H04B|H04L|H04N
+12056733,2024-08-06,Real-time advertisement-insertion verification,0,G06Q|H04N
+12056242,2024-08-06,Configurable code signing system and method,0,G06F|H04L
+12052661,2024-07-30,Interconnectivity of voice interface network devices to control aspects of a network environment,0,H04W
+12052213,2024-07-30,Method for instant messaging/alert to multiple home devices,0,H04L
+12047867,2024-07-23,Unsolicited handling of unique identifier for stations,1,H04L|H04W
+12047866,2024-07-23,Protected pre-association device identification,1,H04L|H04W
+12047634,2024-07-23,Method and system for displaying an electronic program guide in a bullet screen format,0,H04N
+12047620,2024-07-23,Burn-in subtitle signaling mechanism for avoiding text overlapping with subtitles,0,H04N
+12047498,2024-07-23,Translating protected content in a video processing server,0,G06F|H04L|H04N
+12041529,2024-07-16,Handling of unique identifiers for stations,1,H04L|H04W
+12041318,2024-07-16,System and method for automatic detection and reporting of group watermarking data,0,H04L|H04N
+12041299,2024-07-16,Interactive smart media device,0,G06F|G10L|H04N
+12041236,2024-07-16,System for coding high dynamic range and wide color gamut sequences,0,H04N
+12041155,2024-07-16,Packet timing system with improved hop count,0,H04J|H04L
+12040929,2024-07-16,Double-sideband continuous wave test (CWT) tone signals for data over cable service interface specification (DOCSIS) full duplex (FDX) interference group discovery,0,H04B|H04L
+12035515,2024-07-09,UHD HDR IP client device,0,H01Q|H04N|H05K
+12035016,2024-07-09,Reset system for a remote physical device,0,G06F|H04L|H04N
+12034946,2024-07-09,Signaling for addition or removal of layers in video coding,0,H04N
+12028586,2024-07-02,Advertisement preparation systems,0,G11B|H04N
+12028585,2024-07-02,Manifest customization in adaptive bitrate streaming,0,H04N
+12028542,2024-07-02,High dynamic range adaptation operations at a video decoder,0,G06T|H04L|H04N
+12028523,2024-07-02,System and method for reshaping and adaptation of high dynamic range video data,1,G06T|H04N
+12028202,2024-07-02,Out of band frequency conversion using demodulation,0,H04H|H04L
+12028185,2024-07-02,"Methods, systems, and devices for steering packets across multiple access technologies",0,H04L|H04M
+12022169,2024-06-25,Real-time ad tracking proxy,0,H04L|H04N
+12022166,2024-06-25,System to monitor and manage integrated receiver decoders,0,H04N
+12022158,2024-06-25,Technologies for controlling the flow of subscriber media content outside of a home media content delivery network,0,H04N
+12021962,2024-06-25,Two-stage IP de-jitter algorithm in a multiplexer for a group of statistically multiplexed single program transport streams,0,H04L|H04N
+12021845,2024-06-25,Method to anonymize client mac addresses for cloud reporting,0,G06F|H04L|H04W
+12021753,2024-06-25,Preserving quality of service (QoS) markings for downstream flows,0,H04L|H04W
+12016081,2024-06-18,Method of reporting received signal strength on per frame basis in Wi-Fi network,0,H04B|H04L|H04W
+12015961,2024-06-18,Enhanced mobile device connectivity between wireless networks,0,H04L|H04W
+12015558,2024-06-18,Enhancing classification of data packets in an electronic device,0,G06N|H04L
+12010404,2024-06-11,Dynamic user engagement and auxiliary search on streaming media content,0,H04N
+12010382,2024-06-11,Providing enhanced viewing experience using user gaze detection and video casting,0,G06F|G10L|H04N
+12010377,2024-06-11,System and method for adaptive storage of video data,0,H04N
+12010111,2024-06-11,Providing credentials from web hosted application to a network device on a local network,0,G06F|H04L|H04W
+12010005,2024-06-11,Cable modem termination system,0,H04L
+12009978,2024-06-11,NETCONF based alarm management for passive optical network,0,H04B|H04L|H04Q
+12009966,2024-06-11,Modem reset package with self-healing,0,H04L
+12008124,2024-06-11,Secure deferred file decryption,0,G06F|H04L
+12008090,2024-06-11,System and method for pairing transmitter and receiver devices using HDCP KSV keys,0,G06F|H04L
+12007908,2024-06-11,Method and apparatus to dynamically encode data at runtime,1,G06F|H04L
+12004266,2024-06-04,Wireless backbone and structured wireless,0,H04W
+12003827,2024-06-04,System and method for authentication and login portability for multiscreen discovery and launch of first screen content,0,H04N
+12003506,2024-06-04,Biometrics based access controls for network features,0,G06V|H04L|H04W
+12003482,2024-06-04,Client device based solution for handling MAC randomization,0,H04L|H04W
+12003392,2024-06-04,Data aggregation for communications network optimization,0,H04L
+11997558,2024-05-28,WiFi multi-access point-SSID monitoring and provisioning enhancements,0,H04W
+11997305,2024-05-28,System and method of motion information storage for video coding and signaling,0,H04N
+11997290,2024-05-28,Weighted angular prediction for intra coding,0,G06T|H04N
+11997273,2024-05-28,General block partitioning method,0,H04N
+11996930,2024-05-28,Traffic management architecture,0,G06F|H04H|H04L|H04N
+11991560,2024-05-21,Propagation of Quality of Service (QoS) management through a heterogenous network,1,H04L|H04W
+11990152,2024-05-21,Classification of audio as originating from a human source or a non-human to avoid false wake-word detection,0,G01S|G06F|G06V|G10L|H04W
+11990030,2024-05-21,Audio tone assisted RCU programming,0,G06F|G08C
+11989321,2024-05-21,Multi-modal approach to a secure and closed solution monitoring and control of user data,0,G06F|H04L|H04N|H04W
+11985798,2024-05-14,Method and system for flexible heat spreader attachment,0,H01L|H05K
+11985394,2024-05-14,System and method for detecting advertisements in multimedia assets,0,G06F|G10L|H04N
+11985379,2024-05-14,System and method for seamless content transition,0,H04L|H04N
+11985046,2024-05-14,Dynamic data recombination through deployable modules,0,H04L
+11984969,2024-05-14,Systems and methods for large phase correction in R-PHY network architectures,1,H04J|H04L
+11979817,2024-05-07,Device and method for monitoring social distancing and contact tracing,0,H04W
+11979491,2024-05-07,Transmission of secure information in a content distribution network,0,H04L|H04W
+11977730,2024-05-07,Non-linear navigation of data representation,0,G06F|G09G|H04N
+11974361,2024-04-30,Parental control based upon detection of mobile device,0,G06F|H04L|H04W
+11974336,2024-04-30,System and method for graphical symbolic Wi-Fi SSID display support,0,H04M|H04W
+11974209,2024-04-30,Wi-Fi home network controller steering using FTM requests,0,H04B|H04W
+11974018,2024-04-30,Recommending audiovisual content items to a subscriber based on locations visited by the subscriber,0,H04N
+11974002,2024-04-30,"Apparatus, system, method, and computer-readable recording medium for automatic routing of an audio output",0,G06F|G10L|H04N
+11974000,2024-04-30,Controller for establishing personalized video channels,0,H04N
+11973995,2024-04-30,System and method for the utilization of a low-latency video source,0,H04H|H04N
+11973982,2024-04-30,Color volume transforms in coding of high dynamic range and wide color gamut sequences,0,G06T|H04L|H04N
+11973676,2024-04-30,Using analytics to assist with user activity scheduling,0,H04L
+11971988,2024-04-30,Detection of suspicious objects in customer premises equipment (CPE),0,G06F
+11968474,2024-04-23,Electronic tunable cable simulator,0,H04B|H04N
+11968411,2024-04-23,Statistical multiplexing system for variable bit rate encoding with constant bit rate encoder,0,H04N
+11968168,2024-04-23,Generic routing encapsulation (GRE) domain name service (DNS) resolution using embedded router (eRouter) and embedded cable modem (eCM) physical interface,0,H04L
+11962823,2024-04-16,System and method for adaptive streaming management,0,H04N
+11962698,2024-04-16,Token node locking with fingerprints authenticated by digital certificates,0,H04L
+11962626,2024-04-16,Video conference manager,0,G16H|H04L|H04M|H04N
+11962563,2024-04-16,Enabling low latency traffic handling within IPv6 MAP-T environment using NAT,0,H04L
+11962400,2024-04-16,System for channel map delivery for hi split cable networks,0,H04H|H04L|H04N
+11956576,2024-04-09,Resource targeted scheduling for a PON network,0,H04L|H04Q
+11956477,2024-04-09,System and method for deblocking HDR content,0,H04N
+11956459,2024-04-09,Video bitstream coding,0,H04N
+11956445,2024-04-09,Reducing overhead for multiple-hypothesis temporal prediction,1,H04N
+11950096,2024-04-02,Using a client device for providing extra level of security for critical parameters,0,H04W
+11949943,2024-04-02,Gaze-responsive advertisement,0,G06Q|H04N
+11949929,2024-04-02,Systems and methods for delay manifests in ABR content delivery,0,H04N
+11949718,2024-04-02,Establishing a trusted path and transmitting information via a network of untrusted elements,0,H04L|H04W
+11949687,2024-04-02,"Router, method for router, computer readable medium, and apparatus",0,H04L
+11949555,2024-04-02,Setting country code in a network access device during an onboarding process,0,H04L|H04W
+11943843,2024-03-26,Gateway device with clock speed that reduces electro-magnetic noise,0,G06F|H04B|H04W
+11943710,2024-03-26,"Electronic device, method, medium and apparatus for managing extender nodes",0,H04W|Y02D
+11943683,2024-03-26,Automated frequency coordination and device location awareness,0,G01S|H04W
+11943506,2024-03-26,System and method for media hub software updating,0,G06F|H04N
+11943494,2024-03-26,Adaptive video slew rate for video delivery,0,H03K|H04N
+11943361,2024-03-26,Method for seamlessly recovering a single sign-on password in Wi-Fi multi-access point device network,0,G06F|H04L|H04W
+11941143,2024-03-26,Cloud-based whitebox node locking,0,G06F|H04L
+11941106,2024-03-26,Client device based management of multiple devices with single user account,0,G06F|H04L
+11937108,2024-03-19,Detection and mitigation of wide band signal jamming,0,H04B|H04J|H04K|H04W
+11936949,2024-03-19,Method and system for HDMI smart error recovery and recommended actions,0,H04N
+11936858,2024-03-19,Constrained position dependent intra prediction combination (PDPC),1,H04N
+11936856,2024-03-19,Template matching for JVET intra prediction,0,H04N
+11936854,2024-03-19,Adaptive unequal weight planar prediction,0,H04N
+11936510,2024-03-19,"Electronic device, method executed by the electronic device and computer readable medium",0,H04L
+11936464,2024-03-19,System and method for automated determination of satellite transceiver type,0,H04B|H04H|H04N
+11934680,2024-03-19,Systems and methods for booting from NAND flash using squashfs to maximize memory,0,G06F|G11C
+11930445,2024-03-12,Single-carrier quadrature amplitude modulation (SC-QAM) downstream channel fast pre-scanning,0,H04B|H04L|H04N|H04W
+11930363,2024-03-12,Multi-modal approach to a secure and closed solution for controlling access to an optical instrument associated with a client user,0,G16H|H04L|H04W
+11929995,2024-03-12,Method and apparatus for protecting confidential data in an open software stack,0,G06F|H04L
+11924582,2024-03-05,Inclusive video-conference system and method,0,G06F|G06V|G10L|H04N
+11924288,2024-03-05,Methods and systems for transferring a user session between devices,0,G06F|H04L
+11924071,2024-03-05,Band steering using deep packet inspection,0,H04L|H04W
+11917420,2024-02-27,Provisioning an access point device using an EIRP mask,0,H04L|H04W
+11917261,2024-02-27,Broadcast channel tuning parameters support using switched digital video delivery,0,H04N
+11917259,2024-02-27,Node with radio frequency (RF) switching network and corresponding methods for identifying coupled client devices,0,H04L|H04N
+11917241,2024-02-27,Electronic device and its execution method and computer-readable medium,0,H04N
+11917166,2024-02-27,Weighted angular prediction coding for intra coding,1,G01B|H04N
+11916850,2024-02-27,Full duplex expander in a full duplex network,1,H03F|H04B|H04L
+11916690,2024-02-27,Automated lifecycle management with flexible scaling and dynamic resource allocation for virtualized cable data plane applications,0,H04L|H04N|H04W
+11914734,2024-02-27,System and method for protecting content,0,G06F|H04L
+11914555,2024-02-27,Data processing for networking systems,0,G06F|H04L|H04N
+11910204,2024-02-20,Provisioning an access point device using an eirp mask,0,H04B|H04L|H04W
+11910129,2024-02-20,Multi-modal approach to a secure and closed solution for providing scheduled notifications,0,G06F|H04L|H04M|H04N|H04W
+11909796,2024-02-20,Processing real-time-streaming-protocol (RTSP) packets to enhance video-on-demand services,0,H04L
+11908340,2024-02-20,Magnification enhancement of video for visually impaired viewers,0,G06V|G09B|H04N
+11907356,2024-02-20,"System, method, and computer-readable recording medium of creating, accessing, and recovering a user account with single sign on password hidden authentication",0,G06F|H04L
+11903091,2024-02-13,Method for employing keychain storage in client device to retrieve critical information for reinstalled applications,0,G06F|H04L|H04W
+11903064,2024-02-13,Network connection management across a multi-band wireless network,0,H04W
+11902975,2024-02-13,Cloud based prompt wireless connection method,0,H04L|H04W
+11902797,2024-02-13,Managing air time fairness of client devices in a wireless network,0,H04W
+11902621,2024-02-13,System and method for media stream filler detection and smart processing for presentation,0,H04N
+11902605,2024-02-13,Partial video async support using R-MACPHY device,0,H04H|H04J|H04N
+11902519,2024-02-13,Post-filtering for weighted angular prediction,1,H04N
+11902151,2024-02-13,Reliable LLD with LAG,1,H04L
+11895551,2024-02-06,Wireless steering controller,1,H04B|H04W
+11894876,2024-02-06,Dynamic mode control of upstream ONU transmitters in an RFoG network,0,H04B|H04J|H04L
+11889417,2024-01-30,"Gateway device, wireless extender, method, device and medium",0,H04W|Y02D
+11889316,2024-01-30,In home Wi-Fi channel scanning enhancements,0,H04W
+11889134,2024-01-30,System for queuing flows to channels,0,H04L|H04N
+11888637,2024-01-30,Secure access for vCores,0,H04L
+11882615,2024-01-23,Automatic backoff of a spectrum allocation server heartbeat,0,H04L|H04W
+11882224,2024-01-23,Generic code signing client with downloadable modules,0,G06F|H04L
+11881982,2024-01-23,Transaction-based messaging and logging infrastructure for networking systems and computing devices,0,H04L
+11880713,2024-01-23,Method and apparatus for optimization of cryptographic resource usage,0,G06F|H04L
+11880331,2024-01-23,Testing current draw capacity from an unknown USB supply,0,G06F|H02J
+11877212,2024-01-16,System and method for device location,0,H04W
+11877036,2024-01-16,Rendering scrolling captions,0,H04N
+11876753,2024-01-16,Echo canceller training in full duplex networks,0,H04B|H04L|H04W
+11871464,2024-01-09,Unified graphical user interface for devices in a wireless network,0,H04L|H04W
+11871453,2024-01-09,Ingress noise mitigation on channels implemented in a network,0,H04H|H04W
+11871149,2024-01-09,Multi-modal approach to a secure and closed solution monitoring and control of user data,0,G06F|H04L|H04M|H04N|H04W
+11870878,2024-01-09,Enhancing transmission efficiency of electronic devices in a wireless network,0,H04L|H04W
+11870876,2024-01-09,Enhanced DOCSIS packet classification for tunneled traffic having IPV4 and IPV6 rules mixed in a single upstream (US) and/or downstream (DS) traffic classifier,0,H04L
+11870838,2024-01-09,Steering between content streaming devices using derived link metrics and channel utilization information,0,H04B|H04L|H04W
+11870692,2024-01-09,Dynamic port forwarding,0,H04L
+11870403,2024-01-09,Half duplex amplifier,0,H03F|H03G|H04B|H04H|H04N
+11869038,2024-01-09,Tracking ad preferences in adaptive bit rate systems,0,G06Q|H04L
+11864214,2024-01-02,Multiple party Wi-Fi router in a wireless network,0,H04W
+11863531,2024-01-02,Virtual tenant account management for an MDU,0,G06F|G06Q|H04L|H04W
+11863233,2024-01-02,Selective reset system for a remote physical device,0,G06F|H04B|H04L|H04N
+11855899,2023-12-26,System to dynamically detect and enhance classifiers for low latency traffic,0,H04L
+11855835,2023-12-26,Availability and redundancy for vCores,0,H04L|H04N
+11849346,2023-12-19,Unilateral quality-of-service mirroring,0,H04L|H04W
+11847042,2023-12-19,Automatic adjustment of a logging level of an electronic device,0,G06F
+11843727,2023-12-12,"Network device, system and method for video content processing",0,H04N
+11843169,2023-12-12,Antenna system for small form factor,0,H01Q|H04W|H05K
+11838775,2023-12-05,Request for synchronized packet and analytics capture,0,H04L|H04W
+11838451,2023-12-05,Reduction of startup time in remote HLS,1,H04N
+11838353,2023-12-05,Remote access of local file system,0,G06F|H04H|H04L|H04N
+11838110,2023-12-05,Method of remotely monitoring the timing performance of a PTP slave,0,G06F|H04J|H04L
+11832073,2023-11-28,System and method for improved content casting audio management,0,G06F|H04R
+11831946,2023-11-28,Audio only playback from STB in standby mode,0,G06F|G10L|H04N
+11831689,2023-11-28,Providing transfer and configuration of web conferencing between consumer devices,0,H04L
+11831515,2023-11-28,Client device based home subnet management,0,H04L|H04W
+11830500,2023-11-28,System and method for digital assistant management,0,G06F|G10L
+11830283,2023-11-28,Apparatus and method for biometric control of a set top box,0,G06F|G06N|G06V|H04N
+11829585,2023-11-28,"Embedded product, method for displaying embedded product information and computer readable medium",0,G06F|G06Q
+11825411,2023-11-21,"Network device, method and computer readable medium for wireless networks",0,H04W|Y02D
+11825339,2023-11-21,Enhanced band steering in a wireless network,0,G06F|H04L|H04W
+11824908,2023-11-21,Providing synchronization for video conference audio and video,0,H04L|H04N
+11824786,2023-11-21,Dynamic traffic handling for low latency traffic in a layer 2 modem,0,H04L
+11823547,2023-11-21,System and method of non-intrusive alerts for monitoring vulnerable people,0,G06V|G08B|H04N
+11818692,2023-11-14,Wi-Fi management frame recorder,0,H04L|H04W
+11818110,2023-11-14,Method and apparatus for providing secure short-lived downloadable debugging tools,0,H04L
+11817102,2023-11-14,System and method for digital assistant user reminders,0,G06F|G10L
+11816477,2023-11-14,Obfuscation for protection of streaming media and other data flows,0,G06F|H04L
+11812487,2023-11-07,"Method, device, extender, and computer medium for automatically restoring connection",0,H04L|H04W
+11812112,2023-11-07,Method to automatically highlight special program in the electronic program guide (EPG) when user's physical condition is not healthy,0,A61B|G16H|H04N
+11811939,2023-11-07,Advanced crypto token authentication,0,H04L
+11811840,2023-11-07,UHD HLS streaming trusted client server environment,0,G06F|G06T|H04L|H04N
+11811828,2023-11-07,Access control list cloning,0,H04L
+11811581,2023-11-07,IPDR communication system for virtualized core sources,0,H04L|H04N
+11811504,2023-11-07,RPD UCD refresh for timestamp recovery,0,H04H|H04J|H04L
+11805285,2023-10-31,Systems and methods to signal changes in HLS content constructs via the media playlist,0,H04N
+11803631,2023-10-31,Binding a hardware security token to a host device to prevent exploitation by other host devices,0,G06F|H04L
+11800190,2023-10-24,Method and system for content switching and content control based on facial identification profiling,0,G06N|G06V|H04N
+11799903,2023-10-24,Detecting and preventing router-solicitation flood attacks,0,H04L|H04W
+11797794,2023-10-24,Technologies for providing media control device quick response (QR) code functionality,0,G06K|G06Q|H04L
+11797422,2023-10-24,Cloud controlled bug recovery,0,G06F
+11792757,2023-10-17,Identifying a synchronization master for radio nodes,0,H04B|H04L|H04W
+11792692,2023-10-17,Personalized data throttling in a residential wireless network,0,H04L|H04W
+11792488,2023-10-17,"Electronic device, method, medium, and program for simultaneous interpretation",1,G06F|H04N
+11792470,2023-10-17,Transfer of media content viewing experience using EPG guide,0,H04N
+11790620,2023-10-17,Method and system for augmented reality Wi-Fi coverage map,0,G06T|H04W
+11785481,2023-10-10,"Access point device, method, apparatrus and medium",0,H04B|H04W
+11785274,2023-10-10,Protected client inventory redeployment,0,G06F|H04N
+11785206,2023-10-10,Adaptive unequal weight planar prediction,0,H04N
+11784679,2023-10-10,Multi-slope equalizers for a cable network,0,H04B|H04L|H04N
+11783585,2023-10-10,Detection of demarcating segments in video,0,G06F|G06V|G11B|H04N
+11778728,2023-10-03,Pass-through latching heat sink,0,G06F|H05K
+11778483,2023-10-03,Communication-performance characterization via augmented reality,0,G06T|H04B|H04L|H04W
+11778266,2023-10-03,Providing alternative advertising content,0,G06Q|H04N
+11778251,2023-10-03,Selective MPEG packet encryption and decryption based upon data and security priorities,0,H04L|H04N
+11778246,2023-10-03,Linear advertising for adaptive bitrate splicing,0,H04N
+11778014,2023-10-03,Throttling content download in adaptive HTTP live streaming,0,H04L|H04N
+11777898,2023-10-03,Apparatus and method for establishing and maintaining a DS-lite tunnel,0,H04L
+11777732,2023-10-03,Token node locking,0,H04L
+11777721,2023-10-03,Method and apparatus for two-step data signing,0,G06F|H04L
+11776872,2023-10-03,Accordion heat sink,0,H01L|H05K
+11775937,2023-10-03,Dynamic capacity ranges for workforce routing,0,G06Q
+11765599,2023-09-19,Make-before-break grant switching,0,H04B|H04L|H04W
+11765128,2023-09-19,DHCP server IP address allocation improvement to nullify the impact of mac randomization,0,H04L|H04W
+11765076,2023-09-19,Distributed spanning tree protocol,0,H04L
+11765038,2023-09-19,"Apparatuses, methods, and system for matching operations of client devices hosted on a network with contextual automations",0,G05B|G16Y|H04L|H04W
+11763346,2023-09-19,Managing advertising content,0,G06F|G06Q|H04L|H04N
+11758550,2023-09-12,Dynamic exchange of information specifying available spectrum,0,H04W
+11758198,2023-09-12,"Using motion compensated temporal filter (MCTF) statistics for scene change detection when a fade, dissolve or cut occurs",0,H04N
+11758153,2023-09-12,Weighted angular prediction for intra coding,0,G06T|H04N
+11757791,2023-09-12,System and method for increasing flexibility and high availability in remote network devices,0,H04L|H04N
+11757752,2023-09-12,Diagnostic testing or analysis of elements of network devices,0,H04L
+11757673,2023-09-12,Systems and methods for sounding in a full duplex CATV architecture,0,H04B|H04L|H04N
+11757637,2023-09-12,Token node locking with signed fingerprints offloaded to clients,0,H04L
+11757597,2023-09-12,Smart window allocation,0,H04H|H04L
+11757521,2023-09-12,Method and control of hop limitation in Wi-Fi multi-access point device network,0,H04B|H04L|H04W
+11756052,2023-09-12,Personal program source validation system,0,G06Q|H04N
+11755183,2023-09-12,User friendly targeted methodology for satellite installation using mobile app,0,G06F|H04W
+11751065,2023-09-05,First grant request optimization based on geographic location,0,H04W
+11750882,2023-09-05,Trick play and trick rate support for HLS,0,H04N
+11750814,2023-09-05,Single layer high dynamic range coding with standard dynamic range backward compatibility,0,G06T|H04N
+11743728,2023-08-29,Cross access login controller,0,G06F|H04L|H04W
+11743208,2023-08-29,Optimizing agent for identifying traffic associated with a resource for an optimized service flow,0,H04L|H04W
+11743197,2023-08-29,System to enable end to end QoS-low latency-prioritization for NAT enabled networks,0,H04L
+11729629,2023-08-15,Transmitting traffic in a shared frequency bandwidth,0,H04W
+11729489,2023-08-15,Video chat with plural users using same camera,0,G10L|H04N
+11729474,2023-08-15,System and method for ensuring media appliance stability,0,H04N
+11729466,2023-08-15,Automatic digital video recorder scheduling,0,H04L|H04N
+11729443,2023-08-15,Legacy video network configuration in a distributed access architecture,0,H04H|H04N
+11729109,2023-08-15,Excess bitrate distribution based on quality gain in SABR server,0,H04L|H04N
+11728965,2023-08-15,Strong fully homomorphic white-box and method for using same,0,G06F|H04L
+11728831,2023-08-15,Multiband switching Wi-Fi radio,0,H04B|H04W
+11727444,2023-08-15,Customizing targeted advertisements based on profile information exchange,0,G06Q
+11722748,2023-08-08,Reset system for a remote physical device,0,G06F|H04L|H04N
+11722725,2023-08-08,Method and system for synchronized viewing of content over multiple remote media play devices,0,H04N
+11722663,2023-08-08,JVET quadtree plus binary tree (QTBT) structure with multiple asymmetrical partitioning,0,H04N
+11716642,2023-08-01,Determination of extender onboarding completion status,0,G06F|H04B|H04L|H04W
+11716590,2023-08-01,Contact tracing based on associations in a wireless network,1,G08B|H04W
+11716489,2023-08-01,Re-sampling filters for scalable video coding,0,H04N
+11716443,2023-08-01,LC filtering with auto tuning,0,H03F|H04B|H04H|H04N
+11716373,2023-08-01,Distributed storage of state information and session recovery using state information,0,H04L
+11716272,2023-08-01,Remedial action based on monitored wireless throughput,0,H04L|H04W
+11711753,2023-07-25,Channel discovery in a small-cell network,0,H04W
+11711752,2023-07-25,Backwards compatibility using selective probe-response suppression,0,H04W
+11711522,2023-07-25,Signaling for addition or removal of layers in scalable video,0,H04N
+11706638,2023-07-18,Optimized onboarding of devices in a wireless network,0,H04B|H04W
+11706488,2023-07-18,Locating and identifying paired electronic devices,0,H04L|H04N|H04W
+11706455,2023-07-18,JVET coding block structure with asymmetrical partitioning,0,H04N
+11706265,2023-07-18,Companion camera and microphone,0,A61B|H04L|H04N
+11706124,2023-07-18,Low latency for network devices not supporting LLD,3,H04L
+11706052,2023-07-18,"Smart control apparatus, system, method, and computer-readable recording media for a wireless network",0,H04L|H04W
+11705978,2023-07-18,Traffic management architecture,0,G06F|H04H|H04L|H04N
+11700671,2023-07-11,Client-specific mesh paths to root access points in a mesh network,0,H04L|H04W
+11700294,2023-07-11,Video-call user experience testing and assurance,0,G06N|H04L
+11700072,2023-07-11,Timing synchronization over cable networks,0,H04J|H04L
+11696320,2023-07-04,"Method, apparatus and computer medium for switching user terminal, and access point",0,H04W
+11696171,2023-07-04,Mitigation of excessive client steering attempts in multiple access point networks,0,H04W
+11696157,2023-07-04,Enhanced configuring of electronic devices in a network,0,H04L|H04W
+11695947,2023-07-04,Signaling high dynamic range and wide color gamut content in transport streams,0,H04N
+11695584,2023-07-04,Stateful IGMP fastleave,0,H04L|H04W
+11690069,2023-06-27,Split-spectrum grant request,6,H04W
+11690013,2023-06-27,"Electronic apparatus having a first radio, and a second low power radio for waking the first radio",0,G06F|H04L|H04W|Y02D
+11689914,2023-06-27,Using a mobile application with a cloud server to manage a home network,0,G06F|H04L|H04W
+11689445,2023-06-27,Dynamic low latency routing,2,H04L
+11689352,2023-06-27,Strong white-box cryptography,0,H04L
+11689346,2023-06-27,Switched amplifier for data transmission,0,H01B|H03F|H04B|H04L
+11688253,2023-06-27,Relaying device status information using light indicator patterns,1,G06V|G08B|H04B|H04L
+11683312,2023-06-20,Client device authentication to a secure network,0,H04L|H04W
+11683194,2023-06-20,R-PHY map advance time measurement,0,H04J|H04L|H04N
+11683170,2023-06-20,Implicit RSA certificates,0,G06F|H04L
+11682395,2023-06-20,"Electronic device, system, method and program for externally adding voice control functionality to another device",0,G06F|G10L|H04N
+11681808,2023-06-20,Configurable code signing system and method,1,G06F|H04L
+11681515,2023-06-20,"Method of delivering and updating software on peripheral devices connected to set-top boxes, IoT-hubs, or gateways",1,G06F|H04L
+11681346,2023-06-20,Modem energy management system and method,0,G06F|H04W|Y02D
+11678256,2023-06-13,Handling of unique identifiers for stations,0,H04L|H04W
+11678255,2023-06-13,Handling of unique identifiers for stations,0,H04L|H04W
+11678254,2023-06-13,Utilizing blacklist steering to prevent rejection of BSS transition management (BTM) steering,0,H04W
+11678197,2023-06-13,Flexible gateway for heterogeneous-device management,0,H04L|H04W
+11678182,2023-06-13,Methods for managing access to a consortium of networks,0,H04L|H04W
+11678018,2023-06-13,Method and system for log based issue prediction using SVM+RNN artificial intelligence model on customer-premises equipment,0,G06N|G06Q|H04N
+11677967,2023-06-13,Scalable video coding system with parameter signaling,0,H04N
+11677945,2023-06-13,General block partitioning method,1,H04N
+11677938,2023-06-13,Method to reduce contour artifacts on recursive temporal filters,0,H04N
+11677821,2023-06-13,Internet group management protocol host tracking,0,H04L
+11677799,2023-06-13,Client feedback enhanced methods and devices for efficient adaptive bitrate streaming,0,H04L|H04N
+11677548,2023-06-13,Secure distribution of device key sets over a network,0,G06F|H04L
+11671647,2023-06-06,System and method for audio control of concurrently displayed video programs,0,H04N
+11669859,2023-06-06,Real-time advertisement-insertion verification,0,G06Q|H04N
+11665591,2023-05-30,Load balancing among bands and access points in a wireless network,0,H04W
+11665521,2023-05-30,Communicating alert to additional contacts,0,H04L|H04M|H04W
+11665136,2023-05-30,Specifying a user group in a multicast domain name system,0,H04L|H04W
+11665058,2023-05-30,Remote factory reset of an electronic device,0,G06F|H04L|H04W
+11659424,2023-05-23,Selective providing of a transition recommendation based on response history,0,H04W
+11659229,2023-05-23,System and method for management and presentation of alternate media,0,H04N
+11659183,2023-05-23,System and method for reshaping and adaptation of high dynamic range video data,0,G06T|H04N
+11659177,2023-05-23,JVET quadtree plus binary tree (QTBT) structure with multiple asymmetrical partitioning,0,H04N
+11659176,2023-05-23,JVET quadtree plus binary tree (QTBT) structure with multiple asymmetrical partitioning,0,H04N
+11659168,2023-05-23,Template matching for JVET intra prediction,0,H04N
+11659047,2023-05-23,Method and apparatus for management of a network configuration session,1,H04L
+11653041,2023-05-16,Jitter management in a statistical multiplexer employing an IP network,0,H04L|H04N
+11653028,2023-05-16,JVET coding block structure with asymmetrical Partitioning,0,H04N
+11653027,2023-05-16,JVET coding block structure with asymmetrical partitioning,0,H04N
+11652993,2023-05-16,JVET quadtree plus binary tree (QTBT) structure with multiple asymmetrical partitioning,0,H04N
+11652992,2023-05-16,JVET quadtree plus binary tree (QTBT) structure with multiple asymmetrical partitioning,0,H04N
+11652894,2023-05-16,Device capability over dial,0,H04L
+11652754,2023-05-16,Smart bandwidth allocation,0,H04L
+11652701,2023-05-16,Predicting network anomalies based on event counts,0,H04L|H04W
+11650744,2023-05-16,Virtual elastic queue,0,G06F
+11647397,2023-05-09,Downstream modem channel analysis and allocation system and method,0,H04L|H04N|H04W
+11647063,2023-05-09,Method and apparatus for presentation of video content,0,H04L|H04N
+11641610,2023-05-02,Wi-Fi multiple access point—user friendly installation,0,H04W
+11641484,2023-05-02,Bit depth variable for high precision data in weighted prediction syntax and semantics,0,H04N
+11641476,2023-05-02,Constrained position dependent intra prediction combination (PDPC),0,H04N
+11641428,2023-05-02,OFDM and OFDMA profile assignments for cable modems,0,H04L|H04M
+11641340,2023-05-02,Generation of a unique device identifier for a client device in a wireless network,1,H04L|H04W
+11641277,2023-05-02,Entitlement management message epoch as an external trusted time source,0,G06F|H04L|H04N
+11641239,2023-05-02,Methods and systems for launching tranverse magnetic waves using data-carrying arrestor,0,G02B|H01C|H01P|H02H|H03H|H04B|H04N|H05K
+11637809,2023-04-25,Client device based solution for handling MAC randomization,0,H04L|H04W
+11632493,2023-04-18,System and method for controlling a network camera,0,G06F|H04L|H04N
+11630883,2023-04-18,Threat control and prevention for android systems,0,G06F|H04L|H04N
+11630860,2023-04-18,System and method for the migration of legacy digital content,0,G06F|H04L
+11627638,2023-04-11,Integrated system with an access point powered by a radio node,0,G06F|H04L|H04W
+11627377,2023-04-11,Set-top box ambiance and notification controller,0,G06N|H04N
+11627363,2023-04-11,Multimedia bullet screen on TV via remote control input device and set top box,0,G10L|H04N
+11627315,2023-04-11,Post-filtering for weighted angular prediction,0,H04N
+11627312,2023-04-11,Coding weighted angular prediction for intra coding,3,G06F|H04N
+11627176,2023-04-11,Method for dynamically managing content delivery,0,H04L|H04N
+11627010,2023-04-11,Method to support redundancy switching of virtual MAC cores,0,G06F|H04L|H04N
+11626975,2023-04-11,Secure online issuance of customer-specific certificates with offline key generation,0,E02B|H04L
+11625498,2023-04-11,Cloud-based whitebox node locking,0,G06F|H04L
+11625150,2023-04-11,"Adapting order of menu, submenus and cards in user interface based on particular customer usage",0,G06F
+11622278,2023-04-04,Wireless access CBRS node and spectrum access system interface,0,H04L|H04W
+11622144,2023-04-04,Active video bandwidth management using SDV control,0,H04L|H04N
+11622121,2023-04-04,Scalable coding of video sequences using tone mapping and different color gamuts,0,H04N
+11622107,2023-04-04,Unequal weight planar motion vector derivation,0,H04N
+11621842,2023-04-04,Origin certificate based online certificate issuance,0,H04L
+11617132,2023-03-28,"Wi-Fi power reduction system, method and media",0,H04W|Y02D
+11617004,2023-03-28,Resolving tuner conflicts at digital video recorder,0,H04N
+11616997,2023-03-28,Methods and systems for trick play using partial video file chunks,0,H04N
+11616994,2023-03-28,Embedding information in elliptic curve base point,0,H04L|H04N
+11616824,2023-03-28,Transparent intercept for adaptive bitrate splicer,0,H04L|H04N
+11616762,2023-03-28,Method and system for voice based application blocker,0,H04L
+11616632,2023-03-28,Full duplex expander in a full duplex network,4,H03F|H04B|H04L
+11611904,2023-03-21,Optimized data collection in a wireless network,0,H04B|H04W
+11611869,2023-03-21,Secure system and method for onboarding router,0,H04W
+11611512,2023-03-21,System to dynamically detect and enhance classifiers for low latency traffic,0,H04L
+11609541,2023-03-21,System and method of IOT device control using augmented reality,0,G05B|G06F|G06T|H04L|H04W
+11606792,2023-03-14,Wi-Fi access point for enhancing SSID availability with smart channel selection,0,H04W
+11606760,2023-03-14,Dynamic power adjustment for small cells,1,H04B|H04W
+11606627,2023-03-14,System to monitor and manage integrated receiver decoders,1,H04N
+11606340,2023-03-14,Method to anonymize client MAC addresses for cloud reporting,0,G06F|H04L|H04W
+11606189,2023-03-14,Method and apparatus for improving the speed of advanced encryption standard (AES) decryption algorithm,0,G06F|H04L
+11606165,2023-03-14,"Method, medium, program product, and modem for setting modulation modes",0,H04L
+11604680,2023-03-14,Low system memory detection,0,B01J|C07C|C07D|C07F|G06F
+11601857,2023-03-07,Method for providing steering in a Wi-Fi network,0,H04B|H04W
+11601716,2023-03-07,Smart notification for over-the-top (OTT) streaming among multiple devices,0,H04N
+11601711,2023-03-07,Electronic device and method for enabling DOCSIS 4.0 FDD/FDX operation in HFC plants,0,H04N
+11601668,2023-03-07,System and method of motion information storage for video coding and signaling,1,H04N
+11601290,2023-03-07,Centralized database with provisions to prevent PKI key and security certificate duplication,0,G06F|H04L
+11596017,2023-02-28,Automatic backoff of a spectrum allocation server heartbeat,0,H04L|H04W
+11595900,2023-02-28,Controlling a mode of operation of an electronic device,0,G06F|H04W|Y02D
+11595734,2023-02-28,Technologies for providing stream metadata to clients,0,H04L|H04N
+11595698,2023-02-28,System and method for deblocking HDR content,0,H04N
+11595457,2023-02-28,System and method for dynamic adjustment of content streaming rates,0,H04L
+11593840,2023-02-28,Client driven client steering,0,G06Q|H04W
+11589404,2023-02-21,Location-aware identification of network resources,0,G01S|H04W
+11589134,2023-02-21,Narrowcasting to one-way set top boxes,0,H04L|H04N
+11589074,2023-02-21,Color volume transforms in coding of high dynamic range and wide color gamut sequences,0,G06T|H04L|H04N
+11588552,2023-02-21,Data-carrying arrester,0,G02B|H01C|H01P|H02H|H03H|H04B|H04N|H05K
+11582643,2023-02-14,Method and apparatus for optimized OFDMA subcarrier allocation,0,H04L|H04W
+11582515,2023-02-14,Set top box having downloaded extender service agent to provide enhanced Wi-Fi coverage,0,H04L|H04N|H04W
+11581971,2023-02-14,DOCSIS clock emulation in distributed access architectures,0,H04J|H04L
+11576112,2023-02-07,Discovery and security in LWA communication,0,H04W
+11575992,2023-02-07,System and method for dynamic line-of-sight multi-source audio control,0,H04N|H04R|H04S
+11575952,2023-02-07,Digital rights management while streaming to display array,0,G06F|G09G|H04N
+11575915,2023-02-07,Memory reduction implementation for weighted angular prediction,0,H04N
+11575899,2023-02-07,Single layer high dynamic range coding with standard dynamic range backward compatibility,0,G06T|H04N
+11575568,2023-02-07,Systems and methods for secure provisioning of SSH credentials,0,G06F|H04L
+11575533,2023-02-07,Automated lifecycle management with flexible scaling and dynamic resource allocation for virtualized cable data plane applications,0,H04L|H04N|H04W
+11570932,2023-01-31,Heat exchange ribbon,0,G06F|H05K
+11570929,2023-01-31,Ejectable fan with push-push attachment mechanism and corresponding methods,1,F04D|F05D|G06F|H05K
+11570630,2023-01-31,Electronic device with configurable antenna-pattern group,0,H04W
+11570459,2023-01-31,Video bitstream coding,1,H04N
+11570159,2023-01-31,Secure key management in a high volume device deployment,0,H04L|Y04S
+11568025,2023-01-31,High definition secure playback with downloadable DRM for android platforms,0,G06F|H04L|H04N
+11564074,2023-01-24,GAP and GATT adaptation protocol over internet protocol,2,H04L|H04W
+11563990,2023-01-24,Method and apparatus for automatic HLS bitrate adaptation,0,H04N
+11563792,2023-01-24,Managing repositioning requests in HLS and dash,0,H04L
+11563658,2023-01-24,Cable modem termination system,0,H04L
+11563623,2023-01-24,Home network health metrics reporting,0,G06F|G06Q|H04L
+11563491,2023-01-24,Geometric configuration of device for launching tranverse magnetic waves,1,G02B|H01C|H01P|H02H|H03H|H04B|H04N|H05K
+11558815,2023-01-17,"Network device, method and computer readable medium for wireless networks",1,H04W|Y02D
+11558303,2023-01-17,Prioritized protocol messaging,0,H04L|H04W
+11558243,2023-01-17,Proactive error capture,0,G06F|H04L
+11553333,2023-01-10,Method of reporting received signal strength on per frame basis in wi-fi network,1,H04B|H04L|H04W
+11553248,2023-01-10,System and method for the access and routing of content on the basis of facial recognition,0,G06V|H04N
+11553244,2023-01-10,Downstream plant capacity,3,H04B|H04L|H04N
+11553189,2023-01-10,Weighted angular prediction coding for intra coding,2,G01B|H04N
+11552928,2023-01-10,Remote controller source address verification and retention for access devices,0,H04L
+11546775,2023-01-03,Dual non-contiguous channel allocation for reliable communication,0,H04L|H04W
+11546649,2023-01-03,VOD product rendering controller,0,H04N
+11546549,2023-01-03,Multi-modal approach to a secure and closed solution for providing scheduled notifications,0,G06F|H04L|H04M|H04N|H04W
+11546150,2023-01-03,Secure scalable link key distribution using bootsrapping,0,H04L
+11546072,2023-01-03,Systems and methods to improve holdover performance in R-PHY network architectures,0,H04J|H04L
+11540199,2022-12-27,Discovery of a network topology from a client perspective,0,H04B|H04W
+11540194,2022-12-27,Wireless steering controller,0,H04B|H04W
+11540024,2022-12-27,Method and system for precise presentation of audiovisual content with temporary closed captions,0,G06F|H04N
+11539999,2022-12-27,Session control of broadcast video services for DAA and non-DAA automation,0,H04L|H04N
+11539680,2022-12-27,Method and apparatus for providing secure short-lived downloadable debugging tools,0,H04L
+11539454,2022-12-27,Service validation using emulated virtual clients,1,H04B|H04L|H04W
+11539124,2022-12-27,Antenna system for small form factor,0,H01Q|H04W|H05K
+11537500,2022-12-27,Method for providing error detection for a disk drive of a set top box,0,G06F|G11B
+11533780,2022-12-20,Wireless backbone and structured wireless,0,H04B|H04W
+11533526,2022-12-20,Adaptive video slew rate for video delivery,1,H03K|H04N
+11533510,2022-12-20,JVET coding block structure with asymmetrical partitioning,0,H04N
+11533492,2022-12-20,Reducing motion vector information transmission in bi-directional temporal prediction,0,H04N
+11533490,2022-12-20,Reducing overhead for multiple-hypothesis temporal prediction,1,H04N
+11533184,2022-12-20,Method and apparatus for online and offline generation of unique digital certificates,1,H04L
+11528824,2022-12-13,Bracket assemblies for PCI cards,1,G06F|H05K
+11528521,2022-12-13,Partial video async support using R-MACPHY device,3,H04H|H04J|H04N
+11528331,2022-12-13,Management system for vCores,0,G06F|H04L
+11528132,2022-12-13,Transmission of secure information in a content distribution network,0,H04L|H04W
+11527015,2022-12-13,Coding schemes for virtual reality (VR) sequences,0,G06T|H04N
+11523151,2022-12-06,Rendering stream controller,0,H04N
+11523105,2022-12-06,Simplified processing of weighted prediction syntax and semantics using a bit depth variable for high precision data,0,H04N
+11522929,2022-12-06,Providing synchronization for video conference audio and video,0,H04L|H04N
+11510121,2022-11-22,Wireless client device detection and steering on a network with multiple access points,0,H04B|H04L|H04W
+11509936,2022-11-22,JVET coding block structure with asymmetrical partitioning,0,H04N
+11509862,2022-11-22,Multi-modal approach to a secure and closed solution monitoring and control of user data,0,G06F|H04L|H04M|H04N|H04W
+11509557,2022-11-22,Management of bitloading profiles for network communications,0,H04L
+11503460,2022-11-15,Method for wearable device to work as net disk of mobile phone to protect users private data,0,G06F|H04B|H04M|H04W
+11503368,2022-11-15,Method and system for advanced customer bug reporting,0,G06F|G06Q|H04N
+11503353,2022-11-15,Integrated receiver decoder management in HTTP streaming networks,0,H04N
+11503017,2022-11-15,EHN venue-specific application provisioning,0,H04B|H04L|H04W
+11502906,2022-11-15,System and method of audible network device configuration,0,G06F|G10L|H04L
+11502742,2022-11-15,Method and control of hop limitation in wi-fi multi-access point device network,0,H04B|H04L|H04W
+11500966,2022-11-15,System and method to configure required security capabilities,0,G06F|H04L
+11500662,2022-11-15,Method for dynamic optimization of web applications,0,G06F|H04L
+11496868,2022-11-08,Request to hand over a session between a mobile communication device and a customer premises equipment,0,H04L|H04M|H04W
+11496795,2022-11-08,System for jitter recovery from a transcoder,0,H04L|H04N
+11496727,2022-11-08,Streaming to display array,0,G06F|G09G|H04N
+11494062,2022-11-08,User friendly targeted methodology for satellite installation using mobile app,0,G06F|H04W
+11490268,2022-11-01,Monitoring and installation enhancements for devices in a wireless network,0,H04L|H04W
+11490146,2022-11-01,Push video on demand schedule simulator,0,H04N
+11490117,2022-11-01,Bit depth variable for high precision data in weighted prediction syntax and semantics,0,H04N
+11490116,2022-11-01,Bit depth variable for high precision data in weighted prediction syntax and semantics,0,H04N
+11489888,2022-11-01,"Apparatus, system, method, and computer-readable recording medium for detecting devices in a network and transferring a media session",0,H04L|H04W
+11489711,2022-11-01,Digital optical transmitter for digitized narrowcast signals,0,H04H|H04J|H04L
+11489605,2022-11-01,Systems and methods to improve holdover performance in R-PHY network architectures,0,H04J|H04L
+11488370,2022-11-01,Method and system for augmented reality Wi-Fi coverage map,0,G06T|H04W
+11483364,2022-10-25,UHD HLS streaming trusted client server environment,0,G06F|G06T|H04L|H04N
+11483297,2022-10-25,Method and apparatus for protecting confidential data in an open software stack,0,G06F|H04L
+11483281,2022-10-25,Apparatus and method for establishing and maintaining a DS-lite tunnel,0,H04L
+11482192,2022-10-25,Automated object selection and placement for augmented reality,0,G02B|G06F|G09G
+11477661,2022-10-18,"Electronic apparatus and method for dynamically selecting a Wi-Fi and Bluetooth coexistence mode based on packet statistics, signal condition, and application characteristics",0,H04B|H04W
+11477540,2022-10-18,Advertisement preparation systems,0,G11B|H04N
+11477522,2022-10-18,Trick play and trick rate support for HLS,0,H04N
+11476937,2022-10-18,CATV digital transmission with bandpass sampling,0,H04B|H04L|H04N
+11475761,2022-10-18,System and method for smart device management,0,G08C|H04L|H04W
+11474968,2022-10-18,Testing current draw capacity from an unknown USB supply,1,G06F|H02J
+11470543,2022-10-11,Access restriction for a private or neutral-host network,1,H04L|H04W
+11470390,2022-10-11,System and method for media hub software updating,0,G06F|H04N
+11470351,2022-10-11,Bit depth variable for high precision data in weighted prediction syntax and semantics,1,H04N
+11470350,2022-10-11,Bit depth variable for high precision data in weighted prediction syntax and semantics,0,H04N
+11470349,2022-10-11,Bit depth variable for high precision data in weighted prediction syntax and semantics,0,H04N
+11470311,2022-10-11,Region specific encoding and SAO-sensitive-slice-width-adaptation for improved-quality HEVC encoding,0,H04N
+11469955,2022-10-11,Stacked computer network devices having multiple master nodes,0,G06F|H04L
+11463889,2022-10-04,Communication-performance characterization via augmented reality,1,G06T|H04B|H04L|H04W
+11463766,2022-10-04,Providing alternative advertising content,0,G06Q|H04N
+11463708,2022-10-04,System and method of implementing multiple prediction models for local illumination compensation,0,H04N
+11457233,2022-09-27,Motion information storage for video coding and signaling,1,H04N
+11456967,2022-09-27,System and method for increasing flexibility and high availability in remote network devices,0,H04L|H04N
+11456866,2022-09-27,Key ladder generating a device public key,0,H04L|H04N
+11456774,2022-09-27,"Electronic device, method, and storage medium for enhancing upstream transmission performance",0,H04B|H04L
+11451803,2022-09-20,Re-sampling with phase offset adjustment for luma and chroma to select filters in scalable video coding,0,H04N
+11451798,2022-09-20,Method of encoding video with film grain,0,H04N
+11445271,2022-09-13,Real-time ad tracking proxy,2,H04L|H04N
+11444935,2022-09-13,Certificate-based client authentication and authorization for automated interface,1,G06F|H04L
+11444887,2022-09-13,Excess bitrate distribution based on quality gain in sabr server,0,H04L|H04N
+11438653,2022-09-06,Method and system for detecting incompatible cable (HDMI),0,G01R|G09G|H04N
+11438305,2022-09-06,"Methods, routers, media and apparatus for implementing enhanced UPnP subscriptions",0,G06F|H04L
+11436834,2022-09-06,Detection of demarcating segments in video,0,G06F|G06V|G11B|H04N
+11436575,2022-09-06,Virtual wallet for customer premise equipment device,0,G06Q
+11431675,2022-08-30,Client device based solution for handling MAC randomization,0,H04L|H04W
+11425589,2022-08-23,Selective probe-response suppression based on snr,0,H04B|H04W
+11425564,2022-08-23,Wireless services gateway,0,H04L|H04W
+11425296,2022-08-23,System and method for controlling a network camera,0,G06F|H04L|H04N
+11424798,2022-08-23,Multi-input-multi-output access points having switchable ground elements for improved isolation and related methods,0,H01Q|H04B|H04W
+11419043,2022-08-16,Collaborative determination of wireless signal strength by access points,0,H04B|H04W
+11418828,2022-08-16,Controller for establishing personalized video channels,0,H04N
+11418478,2022-08-16,Systems and methods for improving ARP/ND performance on host communication devices,0,H04L
+11405794,2022-08-02,Downstream modem channel analysis and allocation system and method,0,H04L|H04N|H04W
+11405752,2022-08-02,Automated frequency coordination and device location awareness,0,G01S|H04W
+11405671,2022-08-02,Capturing information using set-top box for advertising insertion and/or other purposes,0,H04N
+11405239,2022-08-02,"Smart control apparatus, system, method, and computer-readable recording media for a wireless network",0,H04L|H04W
+11399343,2022-07-26,Delayed power saving mode for customer-premise equipment or customer-provided equipment (CPE) broadband devices,0,H04W
+11395150,2022-07-19,Coordinated and distributed frequency separation during coexisting communication,1,H04W
+11395126,2022-07-19,Technique for establishing a mesh network,0,H04L|H04W
+11395047,2022-07-19,System and method for authentication and login portability for multiscreen discovery and launch of first screen content,0,H04N
+11395036,2022-07-19,Automatic annotation of video quality impairment training data for generating machine learning models of video quality prediction,0,G06N|G06V|H04N
+11394986,2022-07-19,Scalable video coding using reference and scaled reference layer offsets,0,H04N
+11394806,2022-07-19,System and method for the transfer of content between devices,0,G06F|G09G|H04L|H04N|H04W
+11394523,2022-07-19,Echo canceller training in full duplex networks,1,H04B|H04L|H04W
+11388680,2022-07-12,"Method, electronic device, medium, and apparatus for setting transmit power of wireless signal",0,H04B|H04W
+11388660,2022-07-12,Updating client device communication with electronic device within a network,0,H04L|H04W
+11388577,2022-07-12,Station steering profiles in a wireless network control system,0,H04W
+11388463,2022-07-12,Reduction of startup time in remote HLS,2,H04N
+11388405,2022-07-12,Content aware scheduling in a HEVC decoder operating on a multi-core processor platform,0,H04N
+11388051,2022-07-12,"Router, method for router, computer-readable medium, and apparatus",0,H04L
+11387996,2022-07-12,Cable modem anti-cloning,0,H04L
+11381620,2022-07-05,Method and apparatus for Wi-Fi video packet re-prioritization for live MPEG transport streaming,0,H04L
+11381542,2022-07-05,Generic routing encapsulation (GRE) domain name service (DNS) resolution using embedded router (eRouter) and embedded cable modem (eCM) physical interface,0,H04L
+11375267,2022-06-28,Playback resume between mobile entertainment system and set-top box,0,H04N
+11375215,2022-06-28,Reference layer and scaled reference layer offsets for scalable video coding,0,H04N
+11375193,2022-06-28,System for coding high dynamic range and wide color gamut sequences,0,H04N
+11368900,2022-06-21,Backwards compatibility using selective probe-response suppression,0,H04W
+11368851,2022-06-21,Transmitting traffic in a shared frequency bandwidth,1,H04W
+11368731,2022-06-21,Method and apparatus for segmenting data,0,H04L|H04N
+11368701,2022-06-21,Adaptive perceptual mapping and signaling for video coding,1,H04N
+11363553,2022-06-14,Identifying a synchronization master for radio nodes,0,H04B|H04L|H04W
+11363421,2022-06-14,Increasing reliable data throughput in a wireless network,0,H04L|H04W
+11363301,2022-06-14,Conditionally parsed extension syntax for HEVC extension processing,0,H04N
+11363281,2022-06-14,Scalable coding of video sequences using tone mapping and different color gamuts,1,H04N
+11362799,2022-06-14,Digital return receiver with digital data aggregation,0,H03M|H04L
+11362751,2022-06-14,Timing adjustment for distributed network architecture,0,H04B|H04J|H04L
+11362734,2022-06-14,Systems and methods for optical modulation index calibration in a CATV network,0,H04B|H04J|H04N
+11356916,2022-06-07,WLAN steering based on capabilities,0,H04W
+11356709,2022-06-07,"Using motion compensated temporal filter (MCTF) statistics for scene change detection when a fade, dissolve or cut occurs",0,H04N
+11356673,2022-06-07,HTTP streaming apparatus and system with pseudo manifest file and just-in-time encoding,0,H04L|H04N
+11356403,2022-06-07,Network support for locally offloaded traffic,0,H04L|H04W
+11350468,2022-05-31,Selective probe-response suppression,0,H04W
+11350454,2022-05-31,Adapting RTS-CTS protection in a WLAN,0,H04W
+11350352,2022-05-31,System and method for handling non-associated station list,0,H04W
+11350114,2022-05-31,Signaling for addition or removal of layers in video coding,0,H04N
+11349682,2022-05-31,Systems and methods for power savings in HFC amplifiers,0,H04L
+11343540,2022-05-24,Conditionally parsed extension syntax for HEVC extension processing,0,H04N
+11343491,2022-05-24,Unequal weight planar motion vector derivation,0,H04N
+11343122,2022-05-24,Wireless extender with on-boarding SSID for simple and extensible onboarding,0,H04B|H04L|H04W
+11336921,2022-05-17,Acceleration of context adaptive binary arithmetic coding (CABAC) in video codecs,0,H04N
+11336514,2022-05-17,Systems and methods for secure provisioning of SSH credentials,0,G06F|H04L
+11330517,2022-05-10,Utilizing network controller to manage association of wireless device to access point within wireless network,0,H04W
+11330515,2022-05-10,Redistributing clients based on comparisons to historical connection metrics,0,H04W
+11330339,2022-05-10,Method and system to dynamically configure subtitles through wearable devices,0,G06F|H04N
+11330322,2022-05-10,Multimedia bullet screen on TV via remote control input device and set top box,0,G10L|H04N
+11329967,2022-05-10,Key-ladder protected personalization data conversion from global to unique encryption,0,G06F|H04L
+11329735,2022-05-10,"Calibration device, method and program for achieving synchronization between audio and video data when using short range wireless audio devices",0,H04B|H04L|H04M|H04N|H04R|H04S|H04W
+11323415,2022-05-03,Method and apparatus for providing over the top streaming,0,H04H|H04L|H04N
+11323282,2022-05-03,"Apparatus, system, method, and computer-readable recording media for onboarding of a wireless extender in a wireless network",0,H04L|H04W
+11317330,2022-04-26,Method for providing steering in a Wi-Fi network,1,H04B|H04W
+11317315,2022-04-26,Virtual-machine dataplane having fixed interpacket time,0,G06F|H04L|H04W
+11317168,2022-04-26,System and method for detecting advertisements in multimedia assets,0,G06F|G10L|H04N
+11317151,2022-04-26,Automatic digital video recorder scheduling,0,H04L|H04N
+11317146,2022-04-26,Viewer identification based on wireless device proximity,0,H04N|H04W
+11317121,2022-04-26,Conditionally parsed extension syntax for HEVC extension processing,0,H04N
+11317105,2022-04-26,Modification of picture parameter set (PPS) for HEVC extensions,0,H04N
+11316922,2022-04-26,Dynamic selection of storage device for storing media,0,H04L|H04N
+11316602,2022-04-26,Message collision reduction in unicable systems,0,H04B|H04H|H04L|H04N
+11310844,2022-04-19,Captcha on wireless access point and human and machine user computing device classification,0,G06F|H04L|H04W
+11310804,2022-04-19,Coordinated frequency usage in multi-AP environments,0,H04W
+11310724,2022-04-19,Key management for fast transitions,0,H04L|H04W
+11310494,2022-04-19,Template matching for JVET intra prediction,0,H04N
+11310271,2022-04-19,Using secure web sockets to extend reach of conditional access systems,0,H04L|H04N
+11310110,2022-04-19,Provisional modes for multi-mode network devices,0,H04L
+11304206,2022-04-12,Rapid determination of an antenna pattern,0,H04B|H04W
+11303906,2022-04-12,Weighted angular prediction for intra coding,0,G06T|H04N
+11303759,2022-04-12,Gateway function control via telephony/voice service,0,H04L|H04M
+11297560,2022-04-05,Establishing LWA-WLAN communication,1,H04W
+11297351,2022-04-05,System and method for deblocking HDR content,4,H04N
+11297318,2022-04-05,General block partitioning method,4,H04N
+11297125,2022-04-05,Steering between content streaming devices using derived link metrics and channel utilization information,2,H04B|H04L|H04W
+11291038,2022-03-29,Dynamic grant switch,0,H04W
+11290953,2022-03-29,Utilizing BSS transition management (BTM) steering primer messages to determine whether wireless devices support BTM steering,0,H04W
+11290936,2022-03-29,Device steering based on profile and historical behavior,0,H04W
+11288935,2022-03-29,Relaying device status information using light indicator patterns,1,G06V|G08B|H04B|H04L
+11283535,2022-03-22,Method of remotely monitoring the timing performance of a PTP slave,0,G06F|H04J|H04L
+11277610,2022-03-15,Single layer high dynamic range coding with standard dynamic range backward compatibility,3,G06T|H04N
+11277351,2022-03-15,Priority-based queueing for scalable device communication,0,H04L|H04W
+11277273,2022-03-15,Computer network service providing system including self adjusting volume enforcement functionality,0,G06Q|H04L
+11272374,2022-03-08,Make-before-break grant switching,1,H04B|H04L|H04W
+11272361,2022-03-08,Zero-touch onboarding in a network,1,H04L|H04W
+11272038,2022-03-08,User interface for configuring device-specific IoT applications,1,G16Y|H04L
+11271671,2022-03-08,WLAN testing using an RF abstraction layer,1,H04B|H04L|H04W
+11269621,2022-03-08,Obfuscation for protection of streaming media and other data flows,0,G06F|H04L
+11265800,2022-03-01,Dynamic wireless-client distribution across radio bands,0,H04L|H04W
+11265596,2022-03-01,Channel reporting during fast channel change,0,H04L|H04N
+11259027,2022-02-22,System and method for constructing a plane for planar prediction,1,H04N
+11258623,2022-02-22,Stateful IGMP fastleave,0,H04L|H04W
+11256923,2022-02-22,Detecting sentinel frames in video delivery using a pattern analysis,0,G06F|G06V
+11252481,2022-02-15,Sentiment mapping in a media content item,0,G06Q|H04N
+11252455,2022-02-15,Multichannel video programming distributor stream controller,0,H04L|H04N
+11252450,2022-02-15,Video classification using user behavior from a network digital video recorder,5,H04N
+11252447,2022-02-15,Linear advertising for adaptive bitrate splicing,0,H04N
+11251955,2022-02-15,System and method for simplified wifi set up of client devices,0,G06F|G09C|H04L|H04W
+11250846,2022-02-15,Voice enabled searching for wireless devices associated with a wireless network and voice enabled configuration thereof,0,G10L|H04L|H04W
+11250133,2022-02-15,Configurable code signing system and method,2,G06F|H04L
+11240749,2022-02-01,Provisioning radios associated with access points for testing a wireless network,0,H04L|H04W
+11240734,2022-02-01,Utilizing blacklist steering to prevent rejection of BSS transition management (BTM) steering,0,H04W
+11240691,2022-02-01,Selective providing of a transition recommendation based on response history,0,H04W
+11233675,2022-01-25,System and method for enabling coexisting hotspot and DMZ,0,G06F|H04L
+11218778,2022-01-04,Method to automatically highlight special program in the electronic program guide (EPG) when user's physical condition is not healthy,1,A61B|G16H|H04N
+11218712,2022-01-04,On reference layer and scaled reference layer offset parameters for inter-layer prediction in scalable video coding,0,H04N
+11218329,2022-01-04,Certificate generation with fallback certificates,0,G06F|H04L
+11212678,2021-12-28,Cross access login controller,1,G06F|H04L|H04W
+11212369,2021-12-28,Distributed storage of state information and session recovery using state information,0,H04L
+11212035,2021-12-28,Systems and methods for assessing Wi-Fi coverage for client devices in a multi-access point environment,0,H04B|H04L|H04W
+11206576,2021-12-21,Rapidly disseminated operational information for WLAN management,0,H04W
+11206244,2021-12-21,Method to preserve video data obfuscation for video frames,0,H04L|H04N
+11197197,2021-12-07,Dynamic load balancing of gateway access points,0,H04L|H04W
+11197043,2021-12-07,Legacy video network configuration in a distributed access architecture,0,H04H|H04N
+11196795,2021-12-07,Method and apparatus for predicting video decoding time,0,H04L|H04N
+11190855,2021-11-30,Automatic generation of descriptive video service tracks,1,G06V|G10L|H04N
+11190295,2021-11-30,Remedial action based on inter-packet receive power,1,H04B|H04L|H04W|Y02D
+11184179,2021-11-23,Security using self-signed certificate that includes an out-of-band shared secret,0,H04L
+11178403,2021-11-16,Signaling for addition or removal of layers in scalable video,0,H04N
+11177977,2021-11-16,Method and system for GRE tunnel control based on client activity detection,0,H04L
+11172244,2021-11-09,Process controller for creation of ABR VOD product manifests,0,H04N
+11160133,2021-10-26,Automatic backoff of a spectrum allocation server heartbeat,0,H04L|H04W
+11159971,2021-10-26,Interference group creation in full duplex networks,1,H04B|H04J|H04L|H04W
+11159828,2021-10-26,Adaptive unequal weight planar prediction,0,H04N
+11159813,2021-10-26,Video bitstream coding,0,H04N
+11159804,2021-10-26,QoE feedback based intelligent video transport stream tuning,1,H04L|H04N
+11159802,2021-10-26,Signaling and selection for the enhancement of layers in scalable video,0,H04N
+11159786,2021-10-26,Adaptive unequal weight planar prediction,2,H04N
+11153748,2021-10-19,Secure system and method for onboarding router,0,H04W
+11153589,2021-10-19,High dynamic range adaptation operations at a video decoder,0,G06T|H04L|H04N
+11153573,2021-10-19,Weighted angular prediction coding for intra coding,2,G01B|H04N
+11153571,2021-10-19,Individual temporal layer buffer management in HEVC transport,0,H04N
+11153413,2021-10-19,Distributed state recovery in a system having dynamic reconfiguration of participating nodes,1,H04L
+11146827,2021-10-12,System and method for reducing blocking artifacts and providing improved coding efficiency,0,H04N
+11146822,2021-10-12,Method and apparatus for decoding an enhanced video stream,0,H04N
+11146821,2021-10-12,JVET coding block structure with asymmetrical partitioning,1,H04N
+11146807,2021-10-12,Signaling high dynamic range and wide color gamut content in transport streams,0,H04N
+11146796,2021-10-12,Reducing motion vector information transmission in bi-directional temporal prediction,1,H04N
+11141822,2021-10-12,System and method for assembling hook type heatsink,0,B23P|H01L|H05K
+11134458,2021-09-28,Synchronizing indoor radio nodes,0,H04J|H04W|Y02D
+11131973,2021-09-28,System and method of IOT device control using augmented reality,1,G05B|G06F|G06T|H04L|H04W
+11128881,2021-09-21,Personal video recorder,0,H04N
+11126525,2021-09-21,In-home legacy device onboarding and privacy enhanced monitoring,0,G05B|G06F|G06N|G10L|H04K|H04L
+11121953,2021-09-14,Access point performance monitoring and anomaly detection based on temporal and spatial anomalies,0,H04L|H04W
+11115865,2021-09-07,Load balancing among bands and access points in a wireless network,1,H04W
+11115854,2021-09-07,Adjusting bandwidth utilization of wireless network based on potential issues being predicted,0,H04W
+11113365,2021-09-07,System and method to limit content distribution,0,G06F|H04L|H04N
+11109302,2021-08-31,Handling of unique identifiers for stations,0,H04L|H04W
+11109095,2021-08-31,Automatic activation of closed captioning for low volume periods,1,G10L|H04N
+11108657,2021-08-31,QoE-based CATV network capacity planning and upgrade system,0,H04L
+11102529,2021-08-24,Echo cancellation in a bidirectional communication system for out of band signaling to a user device,0,H04B|H04N
+11102514,2021-08-24,Conditionally parsed extension syntax for HEVC extension processing,0,H04N
+11102261,2021-08-24,"Devices, systems, and methods for converting or translating dynamic adaptive streaming over HTTP (DASH) to HTTP live streaming (HLS)",0,G06F|H04L|H04N
+11102163,2021-08-24,Network support for locally offloaded traffic,0,H04L|H04W
+11096234,2021-08-17,Establishing media device control based on wireless device proximity,0,G06Q|H04L|H04M|H04N|H04W
+11095933,2021-08-17,Apparatus and method for monitoring the progress of the presentation of content,0,H04N
+11095369,2021-08-17,Device and method for launching tranverse magnetic waves,1,G02B|H01C|H01P|H02H|H03H|H04B|H04N|H05K
+11095060,2021-08-17,Bottom layer mount for USB connector,0,G06F|H01R
+11093978,2021-08-17,Creating derivative advertisements,0,G06Q|H04H|H04N
+11089383,2021-08-10,Method and system for prioritizing targeted advertisements,0,G06Q|H04N|H04W
+11088988,2021-08-10,Virtual-machine dataplane with DHCP-server functionality,6,H04L
+11083080,2021-08-03,Virtual silk screen for printed circuit boards,0,B41C|G06T|G06V|H05K
+11082842,2021-08-03,Operator formed network consortiums,1,H04L|H04W
+11082353,2021-08-03,Domain name system response spoofing at customer premise equipment device,0,H04L
+11075919,2021-07-27,System and method for providing proximity alert for trusted visitor,0,H04L|H04W
+11075881,2021-07-27,Proxy between wireless local area network infrastructures,0,H04L|H04W
+11073979,2021-07-27,Non-linear navigation of data representation,0,G06F|G09G|H04N
+11070840,2021-07-20,Bit depth variable for high precision data in weighted prediction syntax and semantics,0,H04N
+11070826,2021-07-20,Constrained position dependent intra prediction combination (PDPC),0,H04N
+11070809,2021-07-20,System and method for reshaping and adaptation of high dynamic range video data,0,G06T|H04N
+11070457,2021-07-20,Remedial action based on monitored wireless throughput,0,H04L|H04W
+11070292,2021-07-20,Multiple upstream split support in a fiber-deep HFC network,2,H04B|H04L|H04N
+11064354,2021-07-13,Virtual tenant for multiple dwelling unit,0,H04L|H04W
+11064204,2021-07-13,Automatic video comparison of the output of a video decoder,1,H04N
+11063753,2021-07-13,Secure distribution of device key sets over a network,0,G06F|H04L
+11062482,2021-07-13,Coding schemes for virtual reality (VR) sequences,0,G06T|H04N
+11057653,2021-07-06,Jitter management in a statistical multiplexer employing an IP network,1,H04L|H04N
+11057625,2021-07-06,JVET quadtree plus binary tree (QTBT) structure with multiple asymmetrical partitioning,0,H04N
+11051180,2021-06-29,Electronic device with configurable antenna-pattern group,0,H04W
+11050490,2021-06-29,Methods and systems for launching tranverse magnetic waves using data-carrying arrestor,0,G02B|H01C|H01P|H02H|H03H|H04B|H04N|H05K
+11039166,2021-06-15,Devices and methods for using base layer intra prediction mode for enhancement layer intra mode prediction,0,H04N
+11039146,2021-06-15,Visual artifact detector,1,G06N|H04N
+11038761,2021-06-15,Group isolation in wireless networks,1,H04L|H04W
+11038757,2021-06-15,Soft configuration and data exchange for in-home devices,1,H04L|H04W
+11032771,2021-06-08,"Electronic apparatus having a first radio, and a second low power radio for waking the first radio",0,G06F|H04L|H04W|Y02D
+11032084,2021-06-08,Generic code signing client with downloadable modules,3,G06F|H04L
+11025424,2021-06-01,Entitlement management message epoch as an external trusted time source,1,G06F|H04L|H04N
+11023737,2021-06-01,Detection of demarcating segments in video,2,G06F|G06V|G11B|H04N
+11019479,2021-05-25,Technique for establishing a mesh network,0,H04L|H04W
+11019353,2021-05-25,Unequal weight planar prediction,2,H04N
+11018790,2021-05-25,Timing adjustment for distributed network architecture,1,H04B|H04J|H04L
+11012923,2021-05-18,Discovery and security in LWA communication,0,H04W
+11005656,2021-05-11,Embedding information in elliptic curve base point,0,H04L|H04N
+11005577,2021-05-11,Reducing wireless interference from a wired digital interface,0,H04B|H04N|H04W
+10999724,2021-05-04,Video gateway as an internet of things mesh enhancer apparatus and method,1,H04L|H04W
+10999627,2021-05-04,Playback manipulation in response to notification,2,H04M|H04N
+10999584,2021-05-04,Re-sampling with phase offset adjustment for luma and chroma to select filters in scalable video coding,0,H04N
+10999574,2021-05-04,Simplified processing of weighted prediction syntax and semantics using a bit depth variable for high precision data,0,H04N
+10992934,2021-04-27,Post-filtering for weighted angular prediction,1,H04N
+10992446,2021-04-27,Switched amplifier for data transmission,3,H01B|H03F|H04B|H04L
+10990691,2021-04-27,Secure deferred file decryption,0,G06F|H04L
+10986343,2021-04-20,Reducing overhead for multiple-hypothesis temporal prediction,5,H04N
+10986152,2021-04-20,Method for dynamically managing content delivery,0,H04L|H04N
+10985978,2021-04-20,System and method for first time automatic on-boarding of Wi-Fi access point,0,H04L|H04W
+10985905,2021-04-20,Strong fully homomorphic white-box and method for using same,1,G06F|H04L
+10984121,2021-04-20,System and method for protecting content,0,G06F|H04L
+10979747,2021-04-13,Statistical multiplexing system for variable bit rate encoding with constant bit rate encoder,0,H04N
+10979725,2021-04-13,Memory reduction implementation for weighted angular prediction,0,H04N
+10979689,2021-04-13,Adaptive stereo scaling format switch for 3D video encoding,0,H04N
+10977342,2021-04-13,High definition secure playback with downloadable DRM for android platforms,0,G06F|H04L|H04N
+10972915,2021-04-06,Method of controlling hotspot access on multi-band access point,0,H04L|H04W
+10972801,2021-04-06,"Electronic apparatus, method and program for selecting content based on time of day",0,H04N
+10972790,2021-04-06,HDMI hardware isolation,0,G06F|H04N
+10966160,2021-03-30,Dynamic power adjustment for small cells,1,H04B|H04W
+10965977,2021-03-30,Controller for establishing personalized video channels,0,H04N
+10965965,2021-03-30,Detecting of graphical objects to identify video demarcations,0,G06V|G11B|H04N
+10965949,2021-03-30,Carriage systems encoding or decoding JPEG 2000 video,0,H04N
+10959159,2021-03-23,Service set steering based upon device identifier,0,H04W
+10959148,2021-03-23,Wireless steering controller,3,H04B|H04W
+10959144,2021-03-23,Wireless client device detection and steering on a network with multiple access points,1,H04B|H04L|H04W
+10958902,2021-03-23,Template matching for JVET intra prediction,0,H04N
+10958697,2021-03-23,Approach to live multi-camera streaming of events with hand-held cameras,0,G06F|H04L|H04N
+10958433,2021-03-23,Origin certificate based online certificate issuance,2,H04L
+10958347,2021-03-23,Full duplex bidirectional transmission on coaxial cable in CATV network,2,H04B|H04L|H04N
+10952059,2021-03-16,Method and system for wireless extender onboarding,0,H04B|H04W
+10951599,2021-03-16,Secure shell (SSH) server public key validation by a SSH client in a high volume device deployment,0,H04L|Y04S
+10951467,2021-03-16,Secure enabling and disabling points of entry on a device remotely or locally,0,H04L|Y04S
+10951390,2021-03-16,Two-stage IP de-jitter algorithm in a multiplexer for a group of statistically multiplexed single program transport streams,1,H04L|H04N
+10945230,2021-03-09,System and method for automatic redirection of wireless client to nearby wireless hotspot device,0,H04L|H04W
+10945005,2021-03-09,Multiple parental rating content and method of presentation,4,H04N
+10944963,2021-03-09,Coding weighted angular prediction for intra coding,2,G06F|H04N
+10939356,2021-03-02,Access-point discovery of wireless-network topology,0,H04B|H04L|H04W
+10939349,2021-03-02,Method and apparatus to configure access points in a home network controller protocol,2,H04W
+10939257,2021-03-02,Request to hand over a session between a mobile communication device and a customer premises equipment,1,H04L|H04M|H04W
+10939184,2021-03-02,Image capture of multimedia content,0,H04N
+10939148,2021-03-02,Playback synchronization among adaptive bitrate streaming clients,14,H04L|H04N
+10939097,2021-03-02,Weighted angular prediction for intra coding,0,G06T|H04N
+10931727,2021-02-23,Transparent intercept for adaptive bitrate splicer,0,H04L|H04N
+10924253,2021-02-16,Full duplex expander in a full duplex network,3,H03F|H04B|H04L
+10917681,2021-02-09,Multimedia bullet screen on TV via remote control input device and set top box,4,G10L|H04N
+10911838,2021-02-02,Mechanism for transference of media meta-data,0,H04N
+10909161,2021-02-02,System to build advertisement database from unreliable sources,0,G06F|H04N

@@ -1,0 +1,469 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430911,2025-09-30,Systems and methods of servicing equipment,0,B23P|F01D|F05D|G01M|G02B|G06F|G06Q|G06V|G08B|G09B|Y02T
+12430847,2025-09-30,3D imaging for engine assembly inspection,0,F01D|F05D|G01B|G06T|G06V
+12422331,2025-09-23,Methods and apparatus to autonomously detect thermal anomalies,0,F02C|F05D|G01J|G01M|G06T|G08B|H04N
+12366210,2025-07-22,Power and thermal management and coordinated control of an integrated system,0,B64D|F01K|F02C|F05D|G06F
+12355866,2025-07-08,Communicating securely with devices in a distributed control system,0,H04L
+12346184,2025-07-01,Reduced common mode voltage pulse width modulation switching scheme with capacitor voltage balancing for a multilevel power converter,0,B64D|G06F|H02M
+12345167,2025-07-01,System and method of using a tool assembly,0,F01D|F05D|G01B|G01M|G01N|G06T
+12333225,2025-06-17,System and method for monitoring and diagnosis of engine health using a snapshot-CEOD based approach,0,G05B|G06F|G07C
+12327208,2025-06-10,Systems and methods for improved interruption and resumption management,0,G06F|G06Q|G06V|G16H
+12326553,2025-06-10,Tool stabilization mechanism and related methods,0,G01N|G02B|H04N
+12309327,2025-05-20,"Automated beam scan calibration, alignment, and adjustment",0,B22F|B23K|B33Y|H04N|Y02P
+12299358,2025-05-13,Additive manufacturing simulations,0,B22F|B29C|B33Y|G06F
+12284272,2025-04-22,Methods and systems for starting secure communication in systems with high availability,0,H04L|H04W
+12269090,2025-04-08,System and method for additive manufacturing control,0,B22F|B29C|B33Y|G05B|G06N|G06T|Y02P
+12266036,2025-04-01,Computed tomography scatter and crosstalk correction,0,G01N|G01T|G06T
+12263017,2025-04-01,Plane selection using localizer images,0,A61B|G06T
+12259693,2025-03-25,Potential replacement algorithm selection based on algorithm execution context information,0,G05B|G06F|G06N
+12257044,2025-03-25,System and method for neuroactivity detection in infants,0,A61B|G06T|G06V|H04N
+12254965,2025-03-18,Devices and method for a healthcare collaboration space,0,G06F|G08B|G16H|H04L
+12254366,2025-03-18,System to track hot-section flowpath components in assembled condition using high temperature material markers,0,B42D|F01D|F05D|G06K|G06Q
+12243358,2025-03-04,"Methods, apparatuses, and storage media to track engine components",0,G06Q|G07C|H04W
+12241382,2025-03-04,Vibration response reduction for aircraft engines,0,F01D|F05D|G01H|G01M|G06N
+12240130,2025-03-04,System and method for automated movement of a robotic arm,0,B25J|G05B|G06T
+12224058,2025-02-11,"Monitoring, predicting and alerting for census periods in medical inpatient units",0,G06F|G06N|G06Q|G16H
+12222838,2025-02-11,System and methods for generating fault indications for an additive manufacturing process based on a probabilistic comparison of the outputs of multiple process models to measured sensor data,0,B29C|B33Y|G05B|G06F
+12214903,2025-02-04,Apparatus for and a method of deicing a ducted fan engine,0,B08B|B64D|B64F|G06T
+12198257,2025-01-14,System and method of producing a computer-generated image of a component part using computed tomography,0,G01N|G06T
+12191384,2025-01-07,Techniques for fabricating charge balanced (CB) trench-metal-oxide-semiconductor field-effect transistor (MOSFET) devices,0,H01L|H10D
+12182743,2024-12-31,System and method for prognostic analytics of an asset,0,G06Q
+12165389,2024-12-10,Machine learning model training corpus apparatus and method,0,G06T|G06V
+12163473,2024-12-10,Contamination accumulation modeling,0,B08B|B64F|F01D|F02C|F04D|F05D|G05B|G06F|G06Q|G07C
+12153598,2024-11-26,Method of extracting technical information from a technical manual,1,G06F|G06N
+12150279,2024-11-19,Systems and methods for using additive manufacturing for thermal management,0,B22F|B33Y|F28D|G06F|H05K
+12142354,2024-11-12,Systems and methods of medical device data collection and processing,0,G06F|G16H|H04L
+12141174,2024-11-12,Subject matter expert knowledge mapping using dynamic clustering,0,G06F|G06N
+12141052,2024-11-12,Resilient estimation for grid situational awareness,0,G06F|G06N|G06V|H04L|H04W|Y04S
+12139109,2024-11-12,Systems and methods of servicing equipment,2,B60S|F01D|F02C|F05D|G05D|G06N|G07C|Y02T
+12125745,2024-10-22,Electrical component with a dielectric passivation stack,0,H01L
+12125584,2024-10-22,Integrated systems and methods for evolving state protocols and decision support,0,G06Q|G16H
+12115679,2024-10-15,Systems and methods of servicing equipment,1,B23P|B25J|F01D|F05D|G06Q
+12110805,2024-10-08,Fan blade with intrinsic damping characteristics,0,F01D|F05D|G06F|Y02T
+12091985,2024-09-17,Engine component with structural segment,0,F01D|F05D|G06F
+12079735,2024-09-03,Control logic for thrust link whiffle-tree hinge positioning for improved clearances,0,F01D|F02C|F05D|G06N
+12070354,2024-08-27,Methods and system for detecting medical imaging scan planes using probe position feedback,0,A61B|G06N
+12067124,2024-08-20,Systems and methods for node selection and ranking in cyber-physical systems,1,G06F|H04L
+12066979,2024-08-20,Intelligent and automated review of industrial asset integrity data,0,G01M|G05B|G06F|G06Q|Y02P
+12045549,2024-07-23,Hybrid measurement and simulation based distortion compensation system for additive manufacturing processes,0,B29C|B33Y|G01B|G06F
+12044147,2024-07-23,Segmented leading edge guards,0,F01D|F05D|G06N
+12039718,2024-07-16,"Inference apparatus, medical apparatus, and program",0,G06N|G06T
+12017301,2024-06-25,"Systems and methods for compression, management, and analysis of downbeam camera data for an additive machine",1,B22F|B23K|B33Y|G06N|Y02P
+12015275,2024-06-18,Hybrid power plant,0,G05B|G06Q|H02J|Y02E|Y04S
+12003627,2024-06-04,Communication system and method for applying quantum key distribution security for a time sensitive network,0,H04L
+11999363,2024-06-04,"Methods and apparatus for detecting fuel in oil, lube degradation, and fob thru optical and color characterization",0,B60W|F16H|G01N|G05B|G06N|G06T
+11992952,2024-05-28,Systems and methods of servicing equipment,0,B23P|B25J|F01D|F05D|G06Q
+11972563,2024-04-30,Contrast imaging system and method,0,A61B|G06T|G16H
+11971329,2024-04-30,Methods and apparatus to autonomously detect thermal anomalies,0,F02C|F05D|G01J|G01M|G06T|G08B|H04N
+11964430,2024-04-23,Controlling irradiation parameters of an additive manufacturing machine,0,B22F|B29C|B33Y|G06N|Y02P
+11956063,2024-04-09,Engine control system,0,H04B|H04W
+11952149,2024-04-09,System and method of forecasting aircraft engine operational data for predictive analytics,0,B60W|B64D|B64F|G05B|G06F|G06N|G07C
+11951566,2024-04-09,Assignment of multiple print parameter sets in additive manufacturing,1,B22F|B23K|B29C|B33Y|G06F|Y02P
+11948215,2024-04-02,Intellectual property exchange ecosystem for additive manufacturing,0,B29C|B33Y|B61D|B64F|F03D|G06F|G06Q|Y02E|Y02P
+11938907,2024-03-26,Systems and methods of servicing equipment,3,B23P|B25J|B60S|F01D|F02C|F05D|G06T|Y02T
+11935290,2024-03-19,Systems and methods of servicing equipment,3,B23P|F01D|F05D|G01M|G02B|G06F|G06Q|G06V|G08B|G09B|Y02T
+11934527,2024-03-19,"Devices, systems, and methods for securely initializing an embedded system",0,G06F
+11915531,2024-02-27,Systems and methods of servicing equipment,0,B23P|F01D|F02C|F02K|F05D|G05D|G06N|G07C|Y02T
+11913345,2024-02-27,System and method of using a tool assembly,0,F01D|F05D|G01B|G01M|G01N|G06T
+11911213,2024-02-27,Techniques for determining ultrasound probe motion,0,A61B|G01S|G06T
+11907695,2024-02-20,"Devices, systems, and methods for providing on-demand engine software using a distributed ledger",0,B64D|B64F|G06F|G06Q
+11893525,2024-02-06,Dispatch advisor to assist in selecting operating conditions of power plant that maximizes operational revenue,0,G05B|G06F|G06Q|Y02E
+11892003,2024-02-06,Application of machine learning to process high-frequency sensor signals of a turbine engine,0,F04D|F05D|G01M|G05B|G06N
+11887407,2024-01-30,Equipment repair control system,0,G05D|G06Q|G07C
+11880962,2024-01-23,System and method for synthesizing magnetic resonance images,0,A61B|G01R|G06N|G06T
+11880464,2024-01-23,Vulnerability-driven cyberattack protection system and method for industrial assets,1,G06F|G06N|H04L|Y04S
+11869192,2024-01-09,System and method for vegetation modeling using satellite imagery and/or aerial imagery,2,G06N|G06Q|G06T|G06V
+11865619,2024-01-09,Structures and components having composite unit cell matrix construction,0,B22F|B29C|B33Y|G06F|Y02P
+11863300,2024-01-02,System and method for controlling time dilation in time-sensitive networks,0,H04J|H04K|H04L
+11854958,2023-12-26,Wafer level stacked structures having integrated passive features,0,B81B|B81C|H01L|H10D
+11854122,2023-12-26,Systems and methods for image quality enhancement for multi-head camera,0,A61B|G06T
+11846933,2023-12-19,"Apparatus, system and method for developing industrial process solutions using artificial intelligence",0,G05B|G06Q
+11842149,2023-12-12,System and method for maintenance of a fleet of machines,0,G05B|G06F|G06N|G06Q|Y02P
+11835568,2023-12-05,Systems and methods for monitoring and diagnosing power system assets,0,G01R|G05B|G06F
+11829942,2023-11-28,Blockchain enabled transaction processing for an industrial asset supply chain,1,G06F|G06Q|H04L|Y04S
+11824030,2023-11-21,Mechanical punched via formation in electronics package and electronics package formed thereby,0,H01L
+11822507,2023-11-21,Data acquisition utilizing spare databus capacity,0,G06F|G07C|G08G|H04L|H04W
+11819353,2023-11-21,CT imaging method of coronary artery and computer readable storage medium,0,A61B|G06T
+11810666,2023-11-07,Systems and methods for intelligent radiology work allocation,0,G06F|G16H
+11810302,2023-11-07,Automated organ risk segmentation machine learning methods and systems,0,G06T
+11810301,2023-11-07,System and method for image segmentation using a joint deep learning model,0,G06F|G06N|G06T
+11810288,2023-11-07,Systems and methods for generating a single observation image to analyze coating defects,0,G01M|G06T
+11810251,2023-11-07,Remote sensing method to model terrain shape by detecting reliable ground points,0,G01C|G06F|G06T|G06V|G09B
+11806191,2023-11-07,Phased array transducers and wafer scale manufacturing for making the same,0,A61B|B06B|H01L|H10N|Y10T
+11799788,2023-10-24,Resilient network configuration for time sensitive traffic,1,H04L|Y02D|Y04S
+11797890,2023-10-24,Performance manager to autonomously evaluate replacement algorithms,0,G06N
+11790279,2023-10-17,System and method for class specific deep learning,5,G06N
+11790081,2023-10-17,Systems and methods for controlling an industrial asset in the presence of a cyber-attack,0,G05B|G06F|G06N|H04L|H04W|Y02E
+11789770,2023-10-17,Systems and methods for creating surrogate models,0,G06F|G06N
+11787120,2023-10-17,Systems and method for predicting distortion of green body parts during sintering,0,B22F|B28B|B29C|B33Y|G01N|G06F|Y02P
+11783346,2023-10-10,Blockchain enabled collaborative transaction information processing for a supply chain,0,B33Y|G06F|G06Q|H04L|Y04S
+11783099,2023-10-10,Autonomous surrogate model creation platform,0,G06F|G06N
+11782786,2023-10-10,Systems and methods for handling invalid floating-point operations without exceptions,0,G06F
+11782416,2023-10-10,Compensation for additive manufacturing,0,B22F|B29C|B33Y|G05B|G06F|Y02P
+11779288,2023-10-10,"Methods, systems, and apparatus for determining radiation doses",0,A61B|G06T|G06V|G09B
+11770816,2023-09-26,Frequency-based communication system and method,3,B61L|H04B|H04L|H04W
+11764257,2023-09-19,Systems and methods for junction termination of wide band gap super-junction power devices,0,H01L|H10D
+11759860,2023-09-19,Systems and methods for compensating a geometry of a green body part based on sintering-induced distortion,0,B22F|B29C|B33Y|G05B|G06F|G06T|Y02P
+11755937,2023-09-12,Multi-source modeling with legacy data,0,G06F|G06N
+11755737,2023-09-12,Reporting and configuration enhancements of on-board certified software,0,B64D|G06F|G07C|G08G|H04L|H04W
+11751833,2023-09-12,Training method and system for collimator border detection method,0,A61B|G06T|G21K
+11740618,2023-08-29,Systems and methods for global cyber-attack or fault detection model,0,G05B|G06F|G06N
+11739695,2023-08-29,Gas turbine engine maintenance tool,0,B05B|F01D|F02C|F05D|H04N|Y02T
+11729190,2023-08-15,Virtual sensor supervised learning for cyber-attack neutralization,0,G06F|H04L|Y04S
+11727125,2023-08-15,Emergent language based data encryption,0,G06F|G06N|H04L
+11727052,2023-08-15,Inspection systems and methods including image retrieval module,0,G06F|G06N|G06T|G06V
+11720067,2023-08-08,Method for handling a simultaneous failure of all channels of a multi-channel engine controller for a gas turbine engine,0,G05B|G06F
+11716626,2023-08-01,Network access control system,0,H04L|H04W
+11714938,2023-08-01,Method for distortion prediction and compensation for sintering of binder jet printed parts,0,B29C|B33Y|G06F|G06T|Y02P
+11712208,2023-08-01,Systems and methods to deliver point of care alerts for radiological findings,0,A61B|G06T|G16H
+11711206,2023-07-25,Communicating securely with devices in a distributed control system,0,H04L
+11703424,2023-07-18,System and method for training anomaly detection analytics to automatically remove outlier data,0,F03D|F05B|G01M|G06F|G06N|H04L|Y02E
+11702940,2023-07-18,Fan blade with intrinsic damping characteristics,0,F01D|F05D|G06F|Y02T
+11696732,2023-07-11,System and method for subject shape estimation,0,A61B|G01T|G06T
+11693763,2023-07-04,Resilient estimation for grid situational awareness,0,G06F|G06N|G06V|H04L|H04W|Y04S
+11693371,2023-07-04,Potential replacement algorithm selection based on algorithm execution context information,2,G05B|G06F|G06N
+11685051,2023-06-27,Systems and methods of servicing equipment,0,B25J|F01D|F05D|G06Q|Y02T
+11684422,2023-06-27,System and method for optimal catheter selection for individual patient anatomy,0,A61B|G06T|G16H
+11683438,2023-06-20,Systems and methods to semi-automatically segment a 3D medical image using a real-time edge-aware brush,0,G06F|G06T|G06V|G09G|H04N
+11683397,2023-06-20,Hierarchical data exchange management system,0,G06F|G06Q|H04L
+11679548,2023-06-20,Method for melt pool monitoring,0,B22F|B29C|B33Y|G06T|Y02P
+11675825,2023-06-13,"Method and system for principled approach to scientific knowledge representation, extraction, curation, and utilization",0,G06F|G06N
+11670176,2023-06-06,"Apparatus, system and method for managing airspace for unmanned aerial vehicles",0,B64U|G08G|H04W
+11659001,2023-05-23,Non-intrusive replay attack detection system,1,G01D|G01K|G05B|G06F|G06N|H04L|Y02P|Y04S
+11658988,2023-05-23,Dynamic physical watermarking for attack detection in cyber-physical systems,0,H04L
+11657506,2023-05-23,Systems and methods for autonomous robot navigation,0,G05D|G06F|G06N|G06T|G06V
+11657316,2023-05-23,Self-feeding deep learning method and system,0,G06N|H04L
+11657148,2023-05-23,Event analysis in an electric power system,0,G01D|G05B|G06F|H02J|Y04S
+11654566,2023-05-23,Robotic activity decomposition,1,B25J|G05B|G06N
+11651857,2023-05-16,Methods and apparatus to capture patient vitals in real time during an imaging procedure,0,B60W|G06T|G06V|G10L|G16H
+11651584,2023-05-16,System and method for memory augmented domain adaptation,0,G06F|G06N|G06V
+11640659,2023-05-02,System and method for assessing the health of an asset,0,G06T
+11636557,2023-04-25,Systems and methods for enhanced power system model validation,0,G06F|G06Q|Y02E
+11636412,2023-04-25,System and method for prognostic analytics of an asset,1,G06Q
+11635346,2023-04-25,Bearing element inspection system and method,0,G01M|G01N|G06T|H04N
+11631334,2023-04-18,Flight optimization system and method for airline operations,0,B64D|B64F|G01W|G05B|G05D|G06N|G06Q|G08G
+11631060,2023-04-18,Additive manufacturing-coupled digital twin ecosystem based on a surrogate model of measurement,1,B33Y|G05B|G06N|G06Q|Y02P
+11627151,2023-04-11,"Industrial asset cyber-attack detection algorithm verification using secure, distributed ledger",0,H04L|H04W|Y04S
+11625483,2023-04-11,Fast identification of trustworthy deep neural networks,0,G06F|G06N|G06V
+11620421,2023-04-04,System and method for identifying distortion-compensation threshold for sintering parts with complex features,0,B29C|B33Y|G06F|G06T
+11610140,2023-03-21,Predicting fatigue of an asset that heals,0,G05B|G06F|G06N|G16H
+11609549,2023-03-21,Transfer learning/dictionary generation and usage for tailored part parameter generation from coupon builds,0,B22F|B29C|B33Y|G05B|G06F|Y02P
+11605609,2023-03-14,Ultra-thin embedded semiconductor device package and method of manufacturing thereof,0,H01L|H05K|Y02P
+11603008,2023-03-14,System and method for electric vehicle charging and billing using a wireless vehicle communication service,0,B60L|G06Q|G07F|Y02T|Y04S
+11600397,2023-03-07,Systems and methods for conversational flexible data presentation,0,G06F|G06N|G10L|G16H
+11599695,2023-03-07,Systems and methods for validating product and manufacturing information (PMI) for models,0,G06F|G06N|G06T
+11597960,2023-03-07,Assessment of micro-organism presence,0,B01L|C12M|C12Q|G01N|G06T
+11594002,2023-02-28,Overlay and manipulation of medical images in a virtual environment,2,G06T
+11587448,2023-02-21,Systems and methods for manifolds learning of airline network data,0,G06N|G06Q|G08B|G08G
+11584083,2023-02-21,Method and system of additive manufacturing contour-based hatching,0,B22F|B23P|B29C|B33Y|F01D|F05D|G05B|G06F|G06T|Y02P
+11583188,2023-02-21,Automated detection and localization of bleeding,0,A61B|G06N|G06T
+11582042,2023-02-14,"Industrial data verification using secure, distributed ledger",1,G06F|H04L|Y04S
+11580677,2023-02-14,Systems and methods for deep learning-based image reconstruction,0,A61B|G06N|G06T
+11580430,2023-02-14,System and methods for determining a quality score for a part manufactured by an additive manufacturing machine,0,B22F|B23K|B29C|B33Y|G06F|G06N|Y02P
+11580335,2023-02-14,Transaction management of machine learning algorithm updates,0,G06F|G06N|H04L
+11573879,2023-02-07,Active asset monitoring,0,G01R|G05B|G06F|G06N
+11573053,2023-02-07,Cyclone cooler device,0,F28D|F28F|H01L|H05K
+11563688,2023-01-24,Communication system and method for integrating a data distribution service into a time sensitive network,1,H04L|Y04S
+11561873,2023-01-24,Test equipment interface add-on having a production support equipment module and a selectively removable test support equipment module,0,G06F
+11556837,2023-01-17,Cross-domain featuring engineering,1,G06F|G06N
+11551796,2023-01-10,Systems and methods for prescription and dosing of therapeutic stimuli using recorded guarantees,0,A61B|A61N|G06F|G16H|H04L|Y02A
+11544900,2023-01-03,"Primitive-based 3D building modeling, sensor simulation, and estimation",0,G06T|G06V
+11544426,2023-01-03,Systems and methods for enhanced sequential power system model parameter estimation,0,G06F|G06N|G06Q|H02J|Y02E|Y04S
+11538769,2022-12-27,High voltage semiconductor devices having improved electric field suppression,0,H01L|H10D
+11538593,2022-12-27,Cloud-based clincial information systems and methods of use,0,G16H|G16Z|H04L
+11538560,2022-12-27,Imaging related clinical context apparatus and associated methods,0,G06F|G06N|G16H
+11531970,2022-12-20,Imaging modality maintenance care package systems and methods,0,G06N|G06Q
+11531901,2022-12-20,Imaging modality smart find maintenance systems and methods,1,G06N|G06Q
+11527025,2022-12-13,Multi source geographic information system (GIS) web based data visualization and interaction for vegetation management,2,G06F|G06N|G06Q|G06T|G06V
+11520881,2022-12-06,Framework for cyber-physical system protection of electric vehicle charging stations and power grid,3,B60L|G06F|H04L|Y02T|Y04S
+11520810,2022-12-06,Subject matter expert knowledge mapping using dynamic clustering,0,G06F|G06N
+11514355,2022-11-29,Flat representation of machine learning model,0,G06F|G06N
+11514329,2022-11-29,Data-driven deep learning model generalization analysis and improvement,0,G06F|G06N|G06V
+11511491,2022-11-29,Machine learning assisted development in additive manufacturing,1,B29C|B33Y|G06F|G06N
+11507822,2022-11-22,Scalable artificial intelligence model generation systems and methods for healthcare,0,G06F|G06N|G16H
+11507616,2022-11-22,Inspection systems and methods including image retrieval module,0,G06F|G06N
+11504853,2022-11-22,Robotic system architecture and control processes,0,B25J|G01N|G05B|G06F|G06T|G06V|Y02P
+11503704,2022-11-15,Systems and methods for hybrid glass and organic packaging for radio frequency electronics,0,H01L|H05K
+11503045,2022-11-15,Scalable hierarchical abnormality localization in cyber-physical systems,0,G05B|G06N|H04L|Y04S
+11502904,2022-11-15,Systems and methods for automatic feedback control in a distributed control system,0,G05B|H04L|H04W
+11499431,2022-11-15,Engine component with structural segment,0,F01D|F05D|G06F
+11497459,2022-11-15,Methods and system for optimizing an imaging scan based on a prior scan,0,A61B|G06T
+11497418,2022-11-15,System and method for neuroactivity detection in infants,0,A61B|G06T|G06V|H04N
+11487598,2022-11-01,"Adaptive, self-tuning virtual sensing system for cyber-attack neutralization",0,G05B|G06F|G06N|H04L|Y02P|Y04S
+11487525,2022-11-01,Method and system for remote load of on-board certified software,0,G06F|G08G|H04B|H04L|H04W
+11487350,2022-11-01,Dynamically representing a changing environment over a communications channel,0,B25J|G05D|G06F|G06V|Y10S
+11486950,2022-11-01,Systems and methods for automated graphical prescription with deep neural networks,0,A61B|G01R|G06N|G16H
+11482449,2022-10-25,Electrical component with a dielectric passivation stack,0,H01L
+11481998,2022-10-25,Building footprint generation by using clean mask generation and received image data,1,G01C|G06F|G06T|G06V
+11481664,2022-10-25,Methods and systems for generating device-specific machine learning model,0,B22F|B33Y|G06F|G06N|Y02P
+11475250,2022-10-18,Concurrent image and corresponding multi-channel auxiliary data generation for a generative model,0,G06F|G06N|G06V
+11475179,2022-10-18,Systems and methods for assigning product and manufacturing information to computer-aided design models,2,G06F|Y02P
+11475124,2022-10-18,Anomaly forecasting and early warning generation,0,G06F|G06N
+11474058,2022-10-18,Systems and methods for detecting water in a fan case,0,F04D|G01N|G06T
+11471131,2022-10-18,Ultrasound imaging system and method for displaying an acquisition quality level,0,A61B|G06T|G09B
+11468573,2022-10-11,Method and system for enhanced visualization of color flow ultrasound,0,A61B|G01S|G06T
+11468528,2022-10-11,Intellectual property exchange ecosystem for additive manufacturing,3,B29C|B33Y|B61D|B64F|F03D|G06F|G06Q|Y02E|Y02P
+11468205,2022-10-11,Systems and methods for transferring product manufacturing information (PMI) between models,1,G06F|G06N
+11468164,2022-10-11,"Dynamic, resilient virtual sensing system and shadow controller for cyber-attack neutralization",0,G05B|G06F|G06N|Y04S
+11467616,2022-10-11,System and method for controlling operation of an energy generation and storage system,0,G05B|G05F|G06F|G06Q|H02J|Y02E|Y04S
+11467100,2022-10-11,Imaging element for a borescope,0,G01N|G02B|H04N
+11465359,2022-10-11,Prevention of unauthorized parts from being 3D-printed,0,B22F|B29C|B33Y|G05B|G06F|H04L|Y02P
+11464488,2022-10-11,Methods and systems for a medical grading system,0,A61B|G06F
+11461691,2022-10-04,Performance manager to autonomously evaluate replacement algorithms,2,G06N
+11461596,2022-10-04,Methods and apparatus to adapt medical imaging interfaces based on learning,0,A61B|G06F|G06N|G06T|G16H
+11454490,2022-09-27,Strain sensor placement,0,B29C|B29K|B29L|B33Y|G01B|G06F
+11453170,2022-09-27,Distribution of customized engineering models for additive manufacturing,0,B29C|B33Y|G06F
+11451383,2022-09-20,Communication systems and methods,0,H04L
+11448671,2022-09-20,Signature identification for power system events,0,G01R|G06N|Y04S
+11443850,2022-09-13,"Max-margin temporal transduction for automatic prognostics, diagnosis and change point detection",0,A61B|G05B|G06N|G16H
+11435305,2022-09-06,Thermographic inspection system mounted on motorized apparatus and methods of using same,2,G01J|G01N|G06T
+11430728,2022-08-30,Wafer level stacked structures having integrated passive features,0,B81B|B81C|H01L|H10D
+11429507,2022-08-30,Performance benchmarking for real-time software and hardware,0,G06F
+11428475,2022-08-30,"Additively manufactured structures for thermal and/or mechanical systems, and methods for manufacturing the structures",1,B23K|B33Y|B64G|F28D|H01L
+11422967,2022-08-23,Data acquisition utilizing spare databus capacity,0,G06F|G07C|G08G|H04L|H04W
+11422725,2022-08-23,Point-cloud dataset storage structure and method thereof,0,B33Y|G06F|G06T
+11420259,2022-08-23,Mated components and method and system therefore,0,B22F|B29C|B33Y|F01D|F05D|G06F|H04L
+11417759,2022-08-16,Semiconductor device and method for reduced bias threshold instability,0,H01L|H10D
+11415975,2022-08-16,Deep causality learning for event diagnosis on industrial time-series data,2,G05B|G06F|G06N
+11411983,2022-08-09,"Dynamic, resilient sensing system for automatic cyber-attack neutralization",1,G01R|G06F|G06N|H04L
+11410525,2022-08-09,Systems and methods for generating hazard alerts for a site using wearable sensors,0,G06F|G08B|H04W
+11410519,2022-08-09,Systems and methods for generating hazard alerts using quantitative scoring,1,G06Q|G08B
+11410086,2022-08-09,System and method for class specific deep learning,0,G06N
+11408836,2022-08-09,Method for inspecting components using computed tomography,0,G01N|G06T
+11407179,2022-08-09,Recoater automated monitoring systems and methods for additive manufacturing machines,1,B29C|B33Y|G06F|G06T
+11399803,2022-08-02,Ultrasound imaging system and method,0,A61B|G06F
+11399048,2022-07-26,Remote collaboration based on multi-modal communications and 3D model visualization in a shared virtual workspace,1,G06Q|G06T|H04L
+11398870,2022-07-26,Systems and methods for optical data communication using wide bandgap semiconductor detectors,0,H01L|H04B|H10F|H10H
+11398445,2022-07-26,Mechanical punched via formation in electronics package and electronics package formed thereby,0,H01L
+11397112,2022-07-26,System and method for monitoring of gas turbine components with infrared system,1,F01D|G01J|G03B|G05B|H04N|Y02T
+11396825,2022-07-26,Turbine diagnostic feature selection system,1,F01D|F02K|F05D|G06F|G06N
+11393577,2022-07-19,Machine-learning and combinatorial optimization framework for managing tasks of a dynamic system with limited resources,2,G06Q|G16H
+11373761,2022-06-28,Device and methods for machine learning-driven diagnostic testing,0,G06N|G16H
+11373069,2022-06-28,Analogy engine for grounding and situational awareness,0,G06F|G06N|G06V
+11373026,2022-06-28,Deep learning surrogate for turbulent flow,1,G06F|G06N
+11372657,2022-06-28,Systems and methods for adaptive user interfaces,0,G06F|G06N
+11365636,2022-06-21,Fan blade with intrinsic damping characteristics,2,F01D|F05D|G06F|Y02T
+11354791,2022-06-07,Methods and system for transforming medical images into different styled images with deep neural networks,2,G01S|G06T
+11349872,2022-05-31,Provably secure application-specific cross-domain solutions,1,G06F|H04L
+11347907,2022-05-31,Systems and methods for distributed power system model calibration,0,G06F|G06N|G06Q|H02J|Y02E|Y04S
+11343266,2022-05-24,Self-certified security for assured cyber-physical systems,0,H04L
+11341646,2022-05-24,Systems and methods to deliver point of care alerts for radiological findings,0,G06T|G16H
+11341289,2022-05-24,Method for remodeling a component,1,G05B|G06F|Y02P
+11339660,2022-05-24,Turbine assembly maintenance methods,1,B23P|F01D|F05D|H04N|Y02T
+11334854,2022-05-17,Systems and methods to generate an asset workscope,1,G06Q
+11334834,2022-05-17,System and method for controlling power production from a wind farm,1,F03D|F05B|G06F|G06Q|H02J|Y02E|Y04S
+11334062,2022-05-17,Method of evaluating a part,0,G05B|G06F|G06Q
+11328973,2022-05-10,Power semiconductor devices with high temperature electrical insulation,0,H01L
+11328623,2022-05-10,System and method for using wearable technology in manufacturing and maintenance,0,G01L|G06F|G09B
+11328107,2022-05-10,Hybrid measurement and simulation based distortion compensation system for additive manufacturing processes,0,B29C|B33Y|G01B|G06F
+11327870,2022-05-10,System and methods for generating fault indications for an additive manufacturing process based on a probabilistic comparison of the outputs of multiple process models to measured sensor data,0,B29C|B33Y|G05B|G06F
+11323544,2022-05-03,Hierarchical data exchange management system,0,G06F|G06Q|H04L
+11315272,2022-04-26,Image and video capture architecture for three-dimensional reconstruction,0,G01C|G05D|G06T|G08G|H04L
+11315062,2022-04-26,System and method for autonomous service operation validation,0,F03D|F05B|G06Q
+11314398,2022-04-26,Method and system for enhanced visualization of ultrasound images by performing predictive image depth selection,0,A61B|G01S|G06F|G06T
+11314338,2022-04-26,Locally connected system for remote technical support,0,G06F|H04L
+11314231,2022-04-26,Optimizing support structures for additive manufacturing,2,B22F|B23K|B29C|B33Y|G05B|G06F|Y02P
+11309304,2022-04-19,Stackable electronic package and method of fabricating same,0,H01L
+11308249,2022-04-19,Hybrid support structures for additively printed parts,0,B29C|B29L|B33Y|G06F
+11307278,2022-04-19,Reconstruction of MR image data,0,G01R|G06N|G06T
+11307276,2022-04-19,Use of a spacer between layered coil sections in a superconducting magnet structure,0,G01R|G06F|H01F
+11305665,2022-04-19,Cyber-attack detection and electrical system stability for electric vehicle charging infrastructure,0,B60L|G06F|H02J|H04L|Y02E|Y02T|Y04S
+11305663,2022-04-19,Energy efficient hands-free electric vehicle charger for autonomous vehicles in uncontrolled environments,0,B60L|G05D|G06F|H02J|H02M|Y02T
+11304683,2022-04-19,Biopsy workflow using multimodal imaging,0,A61B|G06T|G16H
+11302170,2022-04-12,Systems and methods for mapping hazards using wearable sensors,0,G01C|G06F|G08B
+11301977,2022-04-12,Systems and methods for automatic defect recognition,0,G06F|G06T
+11294921,2022-04-05,Multivariate time-series data search,0,G06F|G06N
+11289444,2022-03-29,Sensor systems and methods for providing sensor systems,0,B81B|B81C|H01L|H10N
+11288052,2022-03-29,"Devices, systems, and methods for providing on-demand engine software using a distributed ledger",0,B64D|B64F|G06F|G06Q
+11286849,2022-03-29,Ultrasonic cleaning system and method,0,B08B|F01D|F02B|H01L|Y02T
+11285671,2022-03-29,Method for melt pool monitoring using Green's theorem,0,B22F|B29C|B33Y|G06F|G06T|Y02P
+11284342,2022-03-22,Method and apparatus for device finding after network configuration,0,H04L|H04W
+11280751,2022-03-22,System and method for optimizing a manufacturing process based on an inspection of a component,3,F01D|F05D|G01B|G01N|G05B|G06Q
+11275037,2022-03-15,Alloy powder cleanliness inspection using computed tomography,0,G01N|G06T
+11271076,2022-03-08,Systems and methods for junction termination in semiconductor devices,0,H01L|H10D
+11270477,2022-03-08,Systems and methods for tailored image texture in iterative image reconstruction,1,G06F|G06T
+11269749,2022-03-08,System and method for monitoring health status of a gradient coil,0,G01R|G06F|G06N
+11268449,2022-03-08,Contamination accumulation modeling,3,B08B|B64F|F01D|F02C|F04D|F05D|G05B|G06F|G06Q|G07C
+11263597,2022-03-01,Workscope system and method of use thereof,0,G06N|G06Q
+11256755,2022-02-22,Tag mapping process and pluggable framework for generating algorithm ensemble,0,G06F
+11253212,2022-02-22,Tileable X-ray detector cassettes,3,A61B|G01T|H04N
+11252847,2022-02-15,Heat dissipation system and an associated method thereof,1,F28D|H01L|H05K
+11252169,2022-02-15,Intelligent data augmentation for supervised anomaly detection associated with a cyber-physical system,0,G06N|H04L|Y04S
+11250947,2022-02-15,Providing auxiliary information regarding healthcare procedure and system performance using augmented reality,1,G06T|G06V|G16H
+11245003,2022-02-08,Systems and methods for junction termination of wide band gap super-junction power devices,0,H01L|H10D
+11244259,2022-02-08,Method to view schedule interdependencies and provide proactive clinical process decision support in day view form,0,G06Q|G16H
+11244249,2022-02-08,Machine learning templates in a machine learning framework,0,G06F|G06N
+11233402,2022-01-25,System and method for stabilizing weak grids with one or more wind farms connected thereto,0,F03D|G06N|H02J|Y02E
+11233157,2022-01-25,Systems and methods for unipolar charge balanced semiconductor power devices,1,H01L|H10D
+11232344,2022-01-25,Multi-task feature selection neural networks,1,G06N|G16H
+11231704,2022-01-25,Cumulative cost model for predicting asset maintenance cost from distress models,0,F01D|F05D|G05B|G06Q
+11228820,2022-01-18,Generating and/or encoding rotational data for a mechanical element over a digital network,0,G01P|G08C|H04L|H04Q|H04W
+11228431,2022-01-18,Communication systems and methods for authenticating data packets within network flow,0,H04L
+11227418,2022-01-18,Systems and methods for deep learning-based image reconstruction,1,G06T
+11222726,2022-01-11,Receiver health systems and methods for a real time location platform,2,G06F|G16H|H04L|H04W
+11222421,2022-01-11,Medical image display method and imaging apparatus,0,G06F|G06T
+11221610,2022-01-11,Optimized support design for sintering parts with complex features,0,B22F|B29C|B33Y|G05B|G06F|Y02P
+11216683,2022-01-04,"Computer aided scanning method for medical device, medical device, and readable storage medium",1,G06F|G06T|G06V|G16H
+11216477,2022-01-04,System and method for performing semantically-informed federated queries across a polystore,0,G06F
+11212869,2021-12-28,Methods and systems to identify smart sensor locations by the application of physical stimulus,0,G01D|G06F|H04L|H04W
+11207055,2021-12-28,Ultrasound Cardiac Doppler study automation,0,A61B|G01S|G06T
+11207020,2021-12-28,Fetal monitoring hub,0,A61B|G06F|G16H|H04L
+11199494,2021-12-14,Inspection system and method,0,G01J|G01N|G06T
+11199175,2021-12-14,Method and system for determining and tracking the top pivot point of a wind turbine tower,3,F03D|F05B|G01M|G01S|H04L|Y02E
+11199105,2021-12-14,Monitoring system for a gas turbine engine,2,F01D|F05D|G06T|H04N|Y02T
+11197657,2021-12-14,Methods and systems for identifying ultrasound images,0,A61B|G06F|G06T
+11195310,2021-12-07,Iterative image reconstruction framework,1,G06N|G06T
+11191525,2021-12-07,Method and system for visualizing overlapping images,0,A61B|G06T
+11182520,2021-11-23,Multiphysics automated support generation for additively manufactured components,0,B29C|B33Y|G06F
+11182514,2021-11-23,Facilitating introducing known amounts of variation into sets of kitted components,0,F05D|G06F|G06Q|Y02P
+11181898,2021-11-23,Methods and apparatus to generate a predictive asset health quantifier of a turbine engine,2,F05B|G05B|G06Q
+11177204,2021-11-16,Power electronics package and method of manufacturing thereof,0,H01L
+11175365,2021-11-16,System and method for sparse image reconstruction utilizing null data consistency,0,G01R|G06T
+11170881,2021-11-09,Devices and method for a healthcare collaboration space,2,G06F|G08B|G16H|H04L
+11170314,2021-11-09,Detection and protection against mode switching attacks in cyber-physical systems,0,G06F|G06N|H04L
+11166701,2021-11-09,Ultrasound diagnostic system,0,A61B|G06T
+11160534,2021-11-02,Utilizing depth from ultrasound volume rendering for 3D printing,0,A61B|B33Y|G06F|G06K|G06T
+11159540,2021-10-26,Dynamic physical watermarking for attack detection in cyber-physical systems,4,H04L
+11158400,2021-10-26,Autonomous reasoning and experimentation agent for molecular discovery,1,G06N|G16C
+11158095,2021-10-26,System and method for reducing artifact bloom in a reconstructed object,0,A61B|G06T
+11155072,2021-10-26,Methods for fine feature detail for additive manufacturing,0,B29C|B29K|B29L|B33Y|H04N|Y02P
+11151758,2021-10-19,Systems and methods for image quality enhancement for multi-head camera,1,A61B|G06T
+11150634,2021-10-19,Methods and systems for implementing distributed ledger manufacturing history,0,B29C|B33Y|G05B|G06F|H04L
+11146579,2021-10-12,Hybrid feature-driven learning system for abnormality detection and localization,0,G06F|G06N|H04L|H04W
+11145051,2021-10-12,Three-dimensional modeling of an object,0,B64U|G05D|G06T|G06V
+11144972,2021-10-12,Methods and systems related to calculating equpment consumption rates for power plant maintenance and service,0,G06Q|Y04S
+11144683,2021-10-12,Real-time adaptation of system high fidelity model in feature space,0,G06F
+11144045,2021-10-12,Apparatus and method for repair of edge devices,0,G05B|H04L
+11144044,2021-10-12,Apparatus and method for alarm management,0,G05B|G06F|G08B|H04L
+11144035,2021-10-12,Quality assessment feedback control loop for additive manufacturing,1,B22F|B33Y|G05B|G06N|Y02P
+11144034,2021-10-12,Additive manufacturing systems and methods of generating CAD models for additively printing on workpieces,1,B29C|B33Y|G05B|G06F|Y02P
+11143056,2021-10-12,System and method for gas turbine compressor cleaning,1,F01D|F05D|G06F
+11141079,2021-10-12,Systems and methods for profile-based scanning,0,A61B|G06T|G16H
+11139963,2021-10-05,Communication systems and methods,0,H04B|H04L
+11126914,2021-09-21,Image generation using machine learning,5,G01N|G06N|G06T
+11125211,2021-09-21,System and method for wind turbine multivariable control using state dependent quadratic regulator,0,F03D|G05B|G06F|G06N|Y02E
+11121978,2021-09-14,Time sensitive network (TSN) scheduler with verification,0,H04L
+11120904,2021-09-14,Imaging modality maintenance smart dispatch systems and methods,1,G06F|G16H
+11119799,2021-09-14,Contextual digital twin runtime environment,4,G06F|G06Q
+11119454,2021-09-14,System and method for power generation control,0,G05B|G06N|G06Q|G07C
+11118268,2021-09-14,Method for reducing surface roughness,0,B33Y|C23C|C23F|H01L
+11113395,2021-09-07,System and method for anomaly and cyber-threat detection in a wind turbine,0,F03D|F05B|G06F|H04L|Y02E|Y04S
+11112839,2021-09-07,"Additively manufactured cooling assemblies for thermal and/or mechanical systems, and methods for manufacturing the assemblies",3,F28D|G06F|H05K|Y02E
+11107169,2021-08-31,Systems and methods for controlling and monitoring power assets,0,G06Q|H02J|Y02E|Y04S
+11101050,2021-08-24,Systems and methods to evaluate and reduce outages in power plants,0,G05B|G06F|G21D|Y02E
+11100286,2021-08-24,Methods and systems for implied graph patterns in property chains,0,G06F|G06N
+11099531,2021-08-24,System and method for mechanical transmission control,4,G05B|G06N|G07C
+11097348,2021-08-24,Structures and components having composite unit cell matrix construction,1,B22F|B29C|B33Y|G06F|Y02P
+11093820,2021-08-17,Image analysis using deviation from normal data,1,G06F|G06N|G06T|G06V|G16H
+11089962,2021-08-17,Patient monitoring system and method with volume assessment,0,A61B|G06F|G16H
+11089007,2021-08-10,Role-based resource access control,0,G06F|H04L
+11087192,2021-08-10,Systems and methods for equipment services,2,G05B|G06F|G06K
+11084582,2021-08-10,System and method for integrating flight path and site operating data,0,B64U|G01C|G05B|G05D|G06Q|G08G|Y02E
+11082807,2021-08-03,Hardware system for active RFID identification and location tracking,0,G01S|G06K|G06Q|G16H|G16Z|H04L|H04W
+11080849,2021-08-03,Systems and methods for deep learning based automated spine registration and label propagation,1,G06N|G06T|G16H
+11079739,2021-08-03,Transfer learning/dictionary generation and usage for tailored part parameter generation from coupon builds,0,B22F|B29C|B33Y|G05B|G06F|Y02P
+11079738,2021-08-03,Framework for rapid additive design with generative techniques,0,B33Y|G05B|G06F|G06N
+11075958,2021-07-27,Communication system and method for applying security for a time sensitive network,0,H04L
+11074687,2021-07-27,Deep convolutional neural network with self-transfer learning,0,G06F|G06N|G06T|G06V|G16H
+11074482,2021-07-27,Classification and localization based on annotation information,1,G06F|G06N|G06V|G16H
+11071003,2021-07-20,Methods and systems for control of wireless connections between host and client devices,2,H04W
+11070584,2021-07-20,Graceful neutralization of industrial assett attack using cruise control,0,G05B|H04L|Y02P|Y04S
+11069056,2021-07-20,Multi-modal computer-aided diagnosis systems and methods for prostate cancer,2,A61B|G01N|G06T|G16H
+11068752,2021-07-20,Inspection systems and methods including image classification module,0,G06F|G06V
+11067002,2021-07-20,Gas turbine engine maintenance tool,1,B05B|F01D|F02C|F05D|H04N|Y02T
+11065746,2021-07-20,Method for clamped joint seating detection,0,B25B|G01L|G06F|Y10T
+11063115,2021-07-13,Semiconductor device and method of making thereof,0,H01L|H10D
+11062527,2021-07-13,Overlay and manipulation of medical images in a virtual environment,1,G06T
+11061414,2021-07-13,Fleet mission advisor,0,B64C|F41H|G05D|G06Q|G07C|G08G
+11061382,2021-07-13,Methods of forming electroformed components and related system,0,C25D|G05B|G06N
+11060504,2021-07-13,Systems and methods for continuous machine learning based control of wind turbines,3,F03D|F05B|G06N|Y02E
+11056989,2021-07-06,Operation of power plant at transient loads during switching event on transmission lines,0,F01D|F02C|G05B|G06Q|H02J|H02P
+11056586,2021-07-06,Techniques for fabricating charge balanced (CB) trench-metal-oxide-semiconductor field-effect transistor (MOSFET) devices,1,H01L|H10D
+11051773,2021-07-06,Systems and methods for imaging with improved dosages,0,A61B|G06T
+11050651,2021-06-29,Systems and methods for health monitoring and upgrade of a distributed controller,0,G05B|G06F|H04L|Y04S
+11049289,2021-06-29,Systems and methods to semi-automatically segment a 3D medical image using a real-time edge-aware brush,5,G06F|G06T|G06V|G09G|H04N
+11049250,2021-06-29,Systems and methods to deliver point of care alerts for radiological findings,3,G06N|G06T|G16H
+11048228,2021-06-29,System and method to protect items associated with additive manufacturing,0,B33Y|G05B|H04L|Y04S
+11047368,2021-06-29,Systems and methods for maintaining wind turbine blades,1,F03D|F05B|G06T|H04N|Y02E|Y02P
+11043289,2021-06-22,"Monitoring, predicting and alerting for census periods in medical inpatient units",0,G06N|G16H
+11042803,2021-06-22,Method and apparatus for using generative adversarial networks in magnetic resonance image reconstruction,0,G01R|G06N|G06T
+11039805,2021-06-22,Deep learning based estimation of data for use in tomographic reconstruction,1,A61B|G06N|G06T|G06V|G16H
+11039281,2021-06-15,Methods and apparatus to facilitate proximity detection and location tracking,0,G01S|G06K|G06Q|G16H|G16Z|H04L|H04W
+11036523,2021-06-15,Systems and methods for adaptive user interfaces,3,G06F|G06N
+11031139,2021-06-08,Systems and methods for conversational flexible data presentation,1,G06F|G06N|G10L|G16H
+11031124,2021-06-08,Optimizing state transition set points for schedule risk management,0,G06Q|G16H
+11024418,2021-06-01,Systems and methods for intelligent radiology work allocation,0,G06F|G16H
+11020907,2021-06-01,Method for melt pool monitoring using fractal dimensions,0,B22F|B29C|B33Y|G06T|Y02P
+11017269,2021-05-25,System and method for optimization of deep learning architecture,1,G06F|G06N|G06V|G16H
+11010887,2021-05-18,Automated distress ranking system,0,F05B|G01M|G01N|G06F|G06T
+11010642,2021-05-18,Concurrent image and corresponding multi-channel auxiliary data generation for a generative model,1,G06F|G06N|G06V
+11005873,2021-05-11,Multi-mode boundary selection for threat detection in industrial asset control system,0,H04L
+11005870,2021-05-11,Framework to develop cyber-physical system behavior-based monitoring,4,G06F|H04L
+11005863,2021-05-11,Threat detection and localization for monitoring nodes of an industrial asset control system,0,H04L|H04W
+11003988,2021-05-11,Hardware system design improvement using deep learning algorithms,4,G06F|G06N
+11003146,2021-05-11,Distributed optimal control of an aircraft propulsion system,6,B64D|F02C|F05D|G05B|G06F|H04L
+11000239,2021-05-11,"Methods, systems, and apparatus for determining radiation doses",0,A61B|G06T|G06V|G09B
+10997724,2021-05-04,System and method for image segmentation using a joint deep learning model,2,G06F|G06N|G06T
+10997530,2021-05-04,Systems and methods for multi-resource scheduling,0,G06Q
+10997415,2021-05-04,Augmented reality system for asset tracking and visualization using indoor positioning system,2,G01S|G06V|H04L|H04W
+10997187,2021-05-04,Knowledge-driven federated big data query and analytics platform,2,G06F|G06N
+10996648,2021-05-04,Apparatus and method for third party creation of control logic,0,G05B|G06Q
+10996306,2021-05-04,MRI system and method using neural network for detection of patient motion,3,G01R|G06F|G06N|G06T|G06V
+10993689,2021-05-04,Method and system for motion assessment and correction in digital breast tomosynthesis,2,A61B|G06T
+10991461,2021-04-27,Assessing the current state of a physical area of a healthcare facility using image analysis,22,G06T|G06V|G16H
+10991101,2021-04-27,Multi-stage segmentation using synthetic images,1,G06T|G06V
+10991057,2021-04-27,Systems and methods for rescheduling airline passengers,0,G06Q|H04L
+10990668,2021-04-27,Local and global decision fusion for cyber-physical system abnormality detection,0,G06F|H04L
+10990090,2021-04-27,Apparatus and method for automatic detection and classification of industrial alarms,0,G05B|H04L
+10984195,2021-04-20,Methods and systems for using implied properties to make a controlled-english modelling language more natural,0,G06F
+10983579,2021-04-20,Healthcare asset tracker apparatus and methods,0,G06F|H04W|Y02D
+10980496,2021-04-20,"Heart CT image processing method and apparatus, and non-transitory computer readable storage medium",0,A61B|G06T
+10977485,2021-04-13,"Method for identifying RT positioning image, computer program, and computer storage",0,A61N|G06T|G06V
+10972582,2021-04-06,System and method for scoped attributes,0,H04L
+10971263,2021-04-06,Methods and apparatus for recording anonymized volumetric data from medical image visualization software,0,G06F|G16H
+10970885,2021-04-06,Iterative image reconstruction,1,G06N|G06T
+10970669,2021-04-06,Blockchain enabled transaction processing for an industrial asset supply chain,7,G06F|G06Q|H04L|Y04S
+10970634,2021-04-06,Methods and systems for capturing analytic model authoring knowledge,0,G06F|G06N|G06Q
+10970586,2021-04-06,Systems and methods of 3D scene segmentation and matching for robotic operations,1,B25J|G05B|G06F|G06T|G06V
+10970169,2021-04-06,Data configuration management system for an engine,0,B64D|F02C|G06F
+10968529,2021-04-06,Insulation systems and methods of depositing insulation systems,0,C25D|H01L|H05K
+10964427,2021-03-30,Integrated systems and methods for evolving state protocols and decision support,1,G06Q|G16H
+10964017,2021-03-30,Deep learning for arterial analysis and assessment,10,G06N|G06T|G16H
+10963800,2021-03-30,Service layer augmentation of response to semantically-informed query of arbitrary external data sources,1,G06F|G06N
+10963518,2021-03-30,Knowledge-driven federated big data query and analytics platform,1,G06F|G06N
+10963123,2021-03-30,Computer system and method for changing display of components shown on a display device,0,G01S|G06F
+10960607,2021-03-30,Systems and methods for monitoring powder spreading in additive manufacturing systems,1,B22F|B29C|B33Y|G06T|Y02P
+10957832,2021-03-23,Electronics package for light emitting semiconductor devices and method of manufacturing thereof,0,H01L|H10H
+10957759,2021-03-23,Systems and methods for termination in silicon carbide charge balance power devices,0,H01L|H10D
+10957451,2021-03-23,Patient healthcare interaction device and methods for implementing the same,2,G06F|G06N|G16H
+10957066,2021-03-23,Systems and methods for locating humans using dynamic field robotic-sensor network of human robot team,0,G01S|G06F|G06T|G06V
+10957010,2021-03-23,Deformable registration for multimodal images,0,A61B|G01R|G06T
+10956578,2021-03-23,Framework for determining resilient manifolds,0,G05B|G06F
+10954919,2021-03-23,Machine-learning model-based analytic for monitoring wind farm power performance,2,F03D|F05B|G05B|G06F|G06N|G06Q|Y02E|Y04S
+10952705,2021-03-23,Method and system for creating and utilizing a patient-specific organ model from ultrasound image data,0,A61B|G06T|G16H
+10951735,2021-03-16,Peer based distribution of edge applications,0,G05B|G06F|H04L
+10950015,2021-03-16,"Medical image processing method, and computer readable storage medium",0,A61B|G06T
+10949951,2021-03-16,Patient-specific deep learning image denoising methods and systems,14,G06F|G06N|G06T|G16H
+10949813,2021-03-16,Methods and apparatus to generate an asset workscope operation,0,F01D|F05D|G06Q
+10949775,2021-03-16,Method for rescheduling flights affected by a disruption and an airline operations control system and controller,1,G06Q
+10947849,2021-03-16,Systems and methods for recontouring engine components,0,B23P|F01D|F04D|F05D|G05B|G06N
+10943240,2021-03-09,Additively manufactured component including a contrast agent for part identification,0,B22F|B29C|B33Y|C23C|G06Q|Y02P
+10939820,2021-03-09,Wireless patient monitoring system and method,0,A61B|G16H|H04Q|H04W|Y02D
+10938950,2021-03-02,Hierarchical data exchange management system,2,G06F|G06Q|H04L
+10937870,2021-03-02,Electric field shielding in silicon carbide metal-oxide-semiconductor (MOS) device cells using body region extensions,3,H01L|H10D
+10937869,2021-03-02,Systems and methods of masking during high-energy implantation when fabricating wide band gap semiconductor devices,0,H01L|H10D
+10937155,2021-03-02,Imaging system and method for generating a medical image,1,G06T|G16H
+10937150,2021-03-02,Systems and methods of feature correspondence analysis,1,G06F|G06T|G06V
+10936618,2021-03-02,Systems and methods for managing aviation records,2,G06F|G06N|G06Q
+10935964,2021-03-02,Method and system for optimizing a manufacturing process based on a surrogate model of a part,2,G05B|G06N
+10931687,2021-02-23,"Cyber-attack detection, localization, and neutralization for unmanned aerial vehicles",3,B64U|G06F|G06N|G08G|H04L
+10929771,2021-02-23,"Multimodal, small and big data, machine tearing systems and processes",3,G06N|G06Q
+10928811,2021-02-23,Method and system to model industrial assets using heterogenous data sources,1,F03D|F05B|G05B|G06N|G06Q|Y02E
+10928809,2021-02-23,"As-designed, as-manufactured, as-tested, as-operated and as-serviced coupled digital twin ecosystem",3,B64F|G05B|G06F|Y02P
+10922634,2021-02-16,Determining compliance of a target asset to at least one defined parameter based on a simulated transient response capability of the target asset and as a function of physical operation data measured during an actual defined event,0,G06F|G06Q
+10920590,2021-02-16,Turbine assembly maintenance methods,1,B23P|F01D|F05D|H04N|Y02T
+10915990,2021-02-09,Systems and methods for denoising medical images with deep learning network,5,G06F|G06T|G06V
+10915558,2021-02-09,Anomaly classifier,0,G06F
+10912101,2021-02-02,Frequency-based communication system and method,2,B61L|H04B|H04L|H04W
+10906101,2021-02-02,Systems and methods for additive manufacturing powder assessment,1,B22F|B33Y|G01N|G06Q|G07C|Y02P
+10905882,2021-02-02,Systems and methods for predicting optimal deep brain stimulation parameters,0,A61B|A61N|G01R|G06F|G06N|G16H

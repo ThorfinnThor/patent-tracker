@@ -1,0 +1,1244 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432186,2025-09-30,System and method for secure and performant ECU pairing,0,B60R|H04L
+12432102,2025-09-30,Method and sensor bus system,0,H04L|H04Q
+12430922,2025-09-30,Device and method for ascertaining a physical property of a physical object,0,B60W|G06F|G06N|G06V
+12430550,2025-09-30,Training method for a generator neural network imposing data equivariances,0,G06N|G06V
+12430448,2025-09-30,Cryptography module for controlling device,0,G06F|H04L
+12430158,2025-09-30,"Method, system and domain for providing a security execution environment for security-relevant applications",0,B60R|G06F
+12429469,2025-09-30,Method and device for operating a gas sensor,0,G01N|G06F
+12428227,2025-09-30,"Method for operating a production supermarket, device for operating a production supermarket, trolley and system",0,B65G|G06Q|Y02P
+12425265,2025-09-23,Subscriber station for a serial bus system and method for communication in a serial bus system,0,H04L
+12424033,2025-09-23,Method and device for recording event data in a vehicle,0,G07C|H04L
+12423973,2025-09-23,Device and computer implemented method for explainable scene clustering,0,G06N|G06V
+12423258,2025-09-23,"Apparatus for interprocessor communication, control device having the apparatus and vehicle having the control device, method for operating the apparatus",0,B60R|B62D|G06F
+12423216,2025-09-23,Rating of the relevance of test cases for technical systems,0,G06F
+12423198,2025-09-23,Data processing network for performing reliable data processing,0,G06F
+12422537,2025-09-23,Method and apparatus for detecting signal propagation type,0,G01S|H04L
+12418631,2025-09-16,Configurable audio and video sectors,0,G06F|G08B|H04N
+12417622,2025-09-16,Systems and methods of interactive visual graph query for program workflow analysis,0,G06F|G06N|G06V
+12417387,2025-09-16,Efficient second order pruning of computer-implemented neural networks,0,G06F|G06N|G06V
+12417261,2025-09-16,Visualization system and method for interpretation and diagnosis of deep neural networks,0,G06F|G06T|G06V
+12415550,2025-09-16,Method for classifying a behavior of a road user and method for controlling an ego vehicle,0,B60W|G06N|G06V|G08G
+12413987,2025-09-09,Device for and method of operating a radio network,0,H04W
+12413453,2025-09-09,Interference-free transmission of signals between different earth potentials,0,G08C|H03K|H04L
+12413445,2025-09-09,Communication control device and transmit/receive device for a subscriber station of a serial bus system and method for communication in a serial bus system,0,H04L|Y02P
+12412257,2025-09-09,Anomaly monitoring for technical systems based on the compatibility of image data with a predefined distribution,0,B60W|G06T|G06V
+12405911,2025-09-02,Transfer device for a differential bus system,0,G06F|H04L
+12403958,2025-09-02,"Method for displaying an environment of a vehicle having a coupled trailer, computer program, computing device and vehicle",0,B60R|B62D|G06T|H04N
+12400111,2025-08-26,Compressing a deep neural network,0,G06F|G06N
+12400006,2025-08-26,System and method with masking for certified defenses against adversarial patches,0,G06F
+12399723,2025-08-26,Method for safely starting an arithmetic logic unit,0,G06F
+12397392,2025-08-26,Method for determining state information relating to a belt grinder by means of a machine learning system,0,B24B|G05B|G06N
+12394992,2025-08-19,"Method for interacting with at least one user of a rechargeable-battery-operated machining tool, and system for carrying out the method",0,B25F|G01R|G05B|H02J|H04L
+12394182,2025-08-19,Systems and methods for multi-teacher group-distillation for long-tail classification,0,G06N|G06V
+12394028,2025-08-19,System and method with masking and inpainting strategy for generic defense against patch attacks,0,G06T|G06V
+12393667,2025-08-19,Computing device for checking a software key,0,G06F
+12391264,2025-08-19,Method and system for testing a control unit of a vehicle,0,B60W|G06F
+12388947,2025-08-12,Method of transmissivity-aware chroma keying,0,G06N|G06V|H04N
+12388562,2025-08-12,Method for loss reduction in a communication interface,0,H04L
+12387581,2025-08-12,Method and device for detecting smoke,0,G06N|G06T|G08B
+12387464,2025-08-12,Device and method for training a neural network for controlling a robot for an inserting task,0,B25J|G05B|G06T|G06V
+12387402,2025-08-12,System and method for localized text to image generation for free via cross attention,0,G06F|G06N|G06T
+12387351,2025-08-12,Method for picking up an object by means of a robotic device,0,B25J|G05B|G06T
+12387057,2025-08-12,System and method for utilizing weak learners on large language models,0,G06F
+12387010,2025-08-12,"System for providing a plurality of functions for a device, in particular for a vehicle",0,G06F
+12386725,2025-08-12,Method and system for remote verification of the integrity of a computer program in a computing unit to be checked,0,G06F
+12386724,2025-08-12,Method for assessing a software for a control unit of a vehicle,0,B60W|G06F|G06V|G07C
+12386324,2025-08-12,Method and device for training a data-based time determining model for determining an opening or closing time of an injection valve using a machine learning method,0,F02D|G05B|G06N
+12386072,2025-08-12,Optical sensor,0,G01S|H04N|H10F
+12384411,2025-08-12,Systems and methods for distribution-aware goal prediction for modular autonomous vehicle control,0,B60W|G06N|G06V
+12383977,2025-08-12,Method and device for operating a laser material processing machine,0,B23K|G06N
+12382247,2025-08-05,Vehicle road side location of a target via unwrapped differential phase RF signals,0,G06N|H04B|H04W
+12380704,2025-08-05,Method for training an artificial neural network,0,G06N|G06T|G06V
+12379897,2025-08-05,"Processing unit, method and computer program for multiplication",0,G06F|Y02D
+12374093,2025-07-29,Shared training of neural networks to reduce data and for the object detection of image data,0,G06N|G06T|G06V|H04N
+12374092,2025-07-29,Image analysis model comprising an integer coupling layer,0,G06N|G06V
+12374083,2025-07-29,On-the-fly calibration of an image classifier,0,G06N|G06V
+12373927,2025-07-29,"Method for reducing image artifacts in a display of the surrounding environment of a vehicle, computer program, computing device, and vehicle",0,B60R|G06T
+12373331,2025-07-29,Method for testing a data processing distributed to multiple programs,0,G06F
+12368827,2025-07-22,Method for actuating an actuable deflection device of an optical system for a virtual retinal display,0,G02B|H04N
+12367760,2025-07-22,Method for communicating between a motor vehicle and an infrastructure,0,G05D|G08G|H04L|H04W
+12367377,2025-07-22,Making time-series predictions using a trained decoder model,0,B60W|G05B|G06F|G06N|G06V
+12367076,2025-07-22,Method for process allocation on multicore systems,0,G06F
+12362404,2025-07-15,Method and apparatus for operating an early warning system for robustly detecting an error of an electrical energy store for a device by means of machine learning methods,0,G01R|G06N|G07C|H01M
+12361569,2025-07-15,Deep equilibrium flow estimation,0,G06T
+12361322,2025-07-15,Device and method for training a gaussian process state space model,0,B25J|G06N
+12361283,2025-07-15,System and method for training a neural ode network,0,G06F|G06N|G06V
+12361279,2025-07-15,Classification model calibration,0,G06F|G06N
+12360905,2025-07-15,Computer-implemented method for managing cache utilization,0,G06F
+12356977,2025-07-15,Method for applying a spray agent onto an agricultural area,0,A01B|A01M|G06T
+12355610,2025-07-08,Computer-implemented method for maintaining a function in local entities upon connection disruption to a backend in a communication system,0,H04L
+12355585,2025-07-08,"Subscriber station for a serial bus system, and method for communication in a serial bus system",0,H03K|H04J|H04L
+12354381,2025-07-08,Method and device for detecting a lane for a driver assistance system for a vehicle with a vehicle camera and detection system for a vehicle,0,B60W|G06T|G06V
+12354343,2025-07-08,Generative adversarial network for classifying an image by masking and globally pooling a feature map,0,G06N|G06T|G06V
+12354332,2025-07-08,Device and method to improve synthetic image generation of image-to-image translation of industrial images,0,G06T|G06V
+12354331,2025-07-08,Computer-implemented method for analyzing relevance of visual parameters for training a computer vision model,0,G06F|G06N|G06T|G06V
+12354230,2025-07-08,System and method with spherical autoencoder for object discovery,0,G06T|G06V
+12354017,2025-07-08,Aligning knowledge graphs using subgraph typing,0,G06F|G06N
+12353996,2025-07-08,Forecasting with deep state space models,0,G06N|G06V
+12353930,2025-07-08,Application programming interface security,0,G06F
+12350847,2025-07-08,"Method for controlling a robot for manipulating, in particular picking up, an object",0,B25J|G05B|G06T
+12348551,2025-07-01,Automatically classifying and scoring of network vulnerabilities,0,H04L
+12347701,2025-07-01,Molding device with self-blocking feed channel,0,B29C|B29L|H01L
+12347184,2025-07-01,Method and apparatus for suppressing noise in 3D road surface reconstruction,0,G06T|G06V
+12346071,2025-07-01,Method and control unit for automatically selecting data sets for a method for machine learning,0,G01D|G05B|G06F|G06N
+12340572,2025-06-24,Device and method to adapt a pretrained machine learning system to target data that has different distribution than the training data without the necessity of human annotations on target data,0,G06N|G06V
+12340208,2025-06-24,Method for updating software,0,G06F|H04L
+12337829,2025-06-24,Method for the at least partially automated guidance of a motor vehicle,0,B60W|B62D|G05D|G06Q|G07B|G08G|H04L
+12335749,2025-06-17,Relaying communications between radio nodes,0,H04B|H04W
+12335277,2025-06-17,Frame invalidation in the bus system including intrusion detection system,0,H04L
+12333870,2025-06-17,Method for diagnosing a vehicle electrical system of a vehicle,0,G05B|G06F|G07C|H04L
+12333406,2025-06-17,Method and device for classifying sensor data and for ascertaining an activation signal for activating an actuator,0,G06N
+12333390,2025-06-17,Computer implemented machine learning system and a method for operating the machine learning system for determining a time series,0,G05B|G06F|G06N
+12333071,2025-06-17,Method and device for determining a direction of gaze of an eye and data glasses,0,G01B|G02B|G06F
+12332613,2025-06-17,Device and method for training a control strategy for a control device over several iterations,0,G05B|G05D|G06N
+12330973,2025-06-17,On-demand water treatment system,0,C02F|H04W
+12328765,2025-06-10,"Radio terminal, method to operate a radio terminal, and method to operate a radio communications network",0,H04W
+12327442,2025-06-10,Vehicle diagnostic system and method having specialized data,0,G06Q|G07C
+12327331,2025-06-10,System and method for augmenting vision transformers,0,G06N|G06T|G06V
+12326976,2025-06-10,"Method for determining an eye distance in a pair of data glasses, and data glasses",0,G02B|G06F
+12326917,2025-06-10,Sensor and method for generating training data for a machine learning classifier in a sensor,0,G06F|G06N
+12326726,2025-06-10,Method for location-dependent verification of a teleoperator for remote control of a vehicle,0,G05D|H04W
+12323288,2025-06-03,Method and device for determining a control signal,0,G05B|G06N|H04L
+12321827,2025-06-03,Method and device for transfer learning between modified tasks,0,G06F|G06N|G06V
+12321289,2025-06-03,Method for the repeated transmission of defined data,0,G06F|H04L
+12319300,2025-06-03,"Method for executing a driving task in a decentralized control unit system, and decentralized control unit system",0,B60R|B60W|G05B|G06F|G07C
+12318936,2025-06-03,Method for determining a torque for an operation of a robot using a model and method for teaching the model,0,B25J|G05B|G06F|G06N
+12316705,2025-05-27,Negative list-based recognition/prevention of intrusion into a service-oriented communication system,0,G06F|G07C|H04L|H04W
+12315373,2025-05-27,Method for assisting a motor vehicle,0,G01S|G06V|G08G|H04W
+12315239,2025-05-27,Method for coding a sequence of video images,0,G06V|H04N
+12314819,2025-05-27,Method and control device for generating training data for training a machine learning algorithm,0,G06F|G06N|G06V
+12314686,2025-05-27,Method and validation system for validating a software component for highly automated driving,0,G06F|G06V
+12314249,2025-05-27,Device for carrying out transactions and operating method therefor,0,G06F|G06Q|H04L
+12314098,2025-05-27,Method and apparatus for determining temperatures in an electric machine,0,G06F|G06N
+12313767,2025-05-27,Method for manufacturing a radar sensor,0,G01S|G02B|H01L|H01Q
+12308993,2025-05-20,System and method for generating random numbers within a vehicle controller,0,H04L
+12307833,2025-05-20,Method for testing a sensor system of a motor vehicle,0,G01M|G06V|G07C|H04N
+12307007,2025-05-20,"Method for a pupil detection and/or pupil tracking, optical system and smart glasses",0,A61B|G02B|G06F
+12306985,2025-05-20,Method and system for detection and protection of personal data in autonomous driving,0,G06F|G06V|G07C|H04W
+12306946,2025-05-20,Mitigating a vehicle software manipulation,0,G06F
+12306931,2025-05-20,Computerized systems and methods for secure execution and offloading of computations between trusted and untrusted devices,0,G06F
+12306517,2025-05-20,Method for producing a camera module and use of a contact element,0,G02B|G03B|H04N
+12304087,2025-05-20,Method and device for operating a machine,0,B25J|G05B|G06F
+12300033,2025-05-13,"Apparatus, method and system for person detection and identification utilizing wireless signals and images",0,G06F|G06Q|G06V|H04N|H04W
+12300030,2025-05-13,"Detection device for recognizing an object and/or a person, method, computer program and storage medium",0,G06T|G06V
+12299998,2025-05-13,Method for determining a value of a controller variable,0,B60W|G06F|G06V
+12299837,2025-05-13,Method for fast domain adaptation from perspective projection image domain to omnidirectional image domain in machine perception tasks,0,G06N|G06T|G06V
+12293773,2025-05-06,Automatically selecting a sound recognition model for an environment based on audio data and image data associated with the environment,0,G06N|G10L
+12293572,2025-05-06,Method and device for generating training data to generate synthetic real-world-like raw depth maps for the training of domain-specific models for logistics and manufacturing tasks,0,G06T|G06V
+12289173,2025-04-29,"Radio device, method to operate a radio device",0,H04L
+12288464,2025-04-29,Method and device for controlling a transmit power of an active vehicle surround sensor,0,B60W|G01S|G08G|H04W
+12288388,2025-04-29,System and method to alter an image,0,G06F|G06N|G06V
+12288364,2025-04-29,"Method for providing calibration data for calibrating a camera, method for calibrating a camera, method for producing at least one predefined point-symmetric region, and device",0,G06T
+12288156,2025-04-29,"Machine learning system and a method, a computer program and a device for creating the machine learning system",0,G06N
+12287867,2025-04-29,Method and device for operating a computing device,0,G06F|H04L
+12287754,2025-04-29,Method for performing a data transmission using ethernet as a physical layer with a non-ethernet serial protocol,0,G06F
+12287722,2025-04-29,Method for the provision of a function by a group of computing units,0,G06F
+12284459,2025-04-22,"Method to compensate for projection errors when outputting images, system having an arithmetic logic unit for carrying out the method and computer program",0,G02B|H04N
+12284397,2025-04-22,Lossy compression of video content into a graph representation,0,G06T|H04N
+12284264,2025-04-22,"Subscriber station for a serial bus system, and method for communication in a serial bus system",1,H04J|H04L
+12284053,2025-04-22,Transmitting/receiving device for a bus system and method for reducing line emissions in a bus system,1,H04L
+12284052,2025-04-22,Method and device for processing data associated with a signal,0,G06N|H04L
+12282412,2025-04-22,Coverage-guided fuzzing via dynamic instrumentation,0,G06F|G06N
+12282319,2025-04-22,Method and device for setting operating parameters of a laser material processing machine,0,G05B|G06F
+12278906,2025-04-15,"Method and device for checking an incoming secured, encrypted message",0,H04L
+12278710,2025-04-15,"Method for operating a communication system, communication system, and computing system",0,H04L
+12277781,2025-04-15,Device and method for training a machine learning model for recognizing an object topology of an object from an image of the object,0,B25J|G05B|G06N|G06T|G06V
+12277696,2025-04-15,Data augmentation for domain generalization,0,G06N|G06T
+12277620,2025-04-15,Method for identifying a motor vehicle,0,G06Q|H04L
+12277365,2025-04-15,Audio arrangement as well as a method for capturing and/or creating a system configuration of the audio arrangement,0,G06F|H04R|H04S
+12277333,2025-04-15,Computer-implemented method for optimizing the memory of a partitioned system,0,G06F
+12273434,2025-04-08,Sensor for generating tagged sensor data,0,B60W|G06N|G06V|H04L
+12273218,2025-04-08,Control unit,0,B60W|H04L
+12272353,2025-04-08,"System for enhancing speech understanding with effective and efficient integration of automated speech recognition error correction, out-of-domain detection, and/or domain classification",0,G06F|G10L
+12272123,2025-04-08,Training a generator for generating realistic images using a semantically segmenting discriminator,0,G06T|G06V
+12271815,2025-04-08,Systems and methods for false positive mitigation in impulsive sound detectors,0,G06N|G10L
+12271796,2025-04-08,Machine learning system to generate output using first and second latent spaces,0,G06F|G06N
+12271159,2025-04-08,Controller with neural network and improved stability,0,B25J|G05B|G06N
+12270824,2025-04-08,"Sensor system, method for operating a sensor system",0,B81B|G01P|H01L
+12269181,2025-04-08,Method for ascertaining object information with the aid of image data,0,B25J|G05B|G06N
+12269177,2025-04-08,Machine learning based on a probability distribution of sensor data,0,B25J|G06N
+12266161,2025-04-01,Device and method for training a machine learning system for generating images,0,G06N|G06V
+12265901,2025-04-01,"Method for training and operating an artificial neural network capable of multitasking, artificial neural network capable of multitasking, and device",0,G06N
+12263906,2025-04-01,Method and device for classifying an accident event involving a two-wheeled vehicle,0,B60R|B60W|B62J|B62M|H04W
+12263600,2025-04-01,"Calibration method and apparatus for industrial robot, three-dimensional environment modeling method and device for industrial robot, computer storage medium, and industrial robot operating platform",0,B25J|G01B|G06T
+12260652,2025-03-25,System and method for determining events in a cabin of a vehicle,0,G01N|G06V|H04N
+12260302,2025-03-25,"Method and apparatus for performing learning from demonstrations, particularly imitation learning",0,G06F|G06N
+12260244,2025-03-25,Device and method for managing communication via interfaces in a virtualized system,0,G06F|H04W
+12260243,2025-03-25,Method for operating a microcontroller,0,G06F
+12260198,2025-03-25,Computer-implemented method for generating a linker code for a generation process of an executable code for a processing unit from a source code,0,G06F
+12259870,2025-03-25,Method for checking a processing of payload data,0,G06F
+12257477,2025-03-25,Controller to determine swim characteristics of a swimmer and method thereof,0,A63B|G06F|G06V
+12255917,2025-03-18,Remote intrusion monitoring,0,H04L
+12255902,2025-03-18,"Method for handling an anomaly of data, in particular in a motor vehicle",0,H04L
+12255252,2025-03-18,Vertical field-effect transistor and method for forming same,0,H01L|H10D
+12255068,2025-03-18,Method for forming an electrical contact and method for forming a semiconductor device,0,H01L|H10D
+12254704,2025-03-18,Method for detecting an environment by means of images from at least two image sensors,0,G06T|G06V|H04N
+12254675,2025-03-18,Training of machine learning systems for image processing,0,G06N|G06V
+12254384,2025-03-18,Device and method to improve the robustness against ‘adversarial examples’,0,G06F|G06N|G06V
+12253918,2025-03-18,Inference calculation for neural networks with protection against memory errors,0,G06F|G06N
+12252147,2025-03-18,Method and system for prompting an evasive maneuver of autonomous or semi-autonomous vehicles,0,B60W|G07C|H04B|H04W
+12252113,2025-03-18,Method for a provision of image recordings,0,B60W|G06T|G06V|H04N
+12252020,2025-03-18,Monitoring and identifying sensor failure in an electric drive system,0,B60L|B60W|G01D|G05B|G06F|G06N
+12250308,2025-03-11,Method and apparatus for managing cryptographic keys,0,H04L
+12249224,2025-03-11,Fixing system for mounting a camera to a support structure,0,F16M|G03B|G08B|H04N
+12249191,2025-03-11,Method for determining the operating state of vehicle components,0,G06N|G07C
+12249128,2025-03-11,"Method, device, and computer program for an uncertainty assessment of an image classification",0,G06N|G06V
+12248878,2025-03-11,Device and method for training a neuronal network,0,G05D|G06F|G06N
+12248578,2025-03-11,Digital shadows for remote attestation of vehicle software,0,G06F|H04L
+12246450,2025-03-11,Device and method to improve learning of a policy for robots,0,B25J|G05B|G05D|G06F|G06N
+12243241,2025-03-04,"Tracking of multiple objects using neural networks, local memories, and a shared memory",0,G06F|G06N|G06T
+12242957,2025-03-04,Device and method for the generation of synthetic data in generative networks,0,G06F|G06N
+12242657,2025-03-04,Method and system of crown based for adversarial attacks,0,G06F|G06V
+12242610,2025-03-04,Mitigation of a manipulation of software of a vehicle,0,G06F
+12240478,2025-03-04,System for remote calibration and testing of a vehicle and a method thereof,0,B60W|G06F|G07C|G08C|H04Q
+12240333,2025-03-04,Reducing switching-on and switching-off processes in an electric drivetrain,0,B60L|B60R|G06Q|Y02T
+12238576,2025-02-25,Method for transferring a message in a communications network for communication between a road user and at least one further road user,0,H04W
+12237915,2025-02-25,"Method for operating a primary communication device, involving modification of the transmission configuration",0,H04L|H04W
+12236672,2025-02-25,Processing of learning data sets including noisy labels for classifiers,0,G06F|G06N|G06V
+12236136,2025-02-25,"Processor for performing a predetermined computational operation, and processing unit",0,G06F
+12235900,2025-02-25,"Computer-implemented data structure, electronic storage medium, and method for data exchange",0,G06F
+12235776,2025-02-25,Sensor and sensor network,0,G06F
+12235507,2025-02-25,"Method for producing a camera module, camera module",0,G02B|H04N
+12231523,2025-02-18,Method for location attestation for a device connected to a network,0,H04L
+12230457,2025-02-18,Method for manufacturing a MEMS switch having an embedded metal contact,0,H01H|H01L
+12230039,2025-02-18,Systems and methods for detecting symptoms of occupant illness,0,G01S|G06F|G06N|G06T|G06V
+12230010,2025-02-18,Training of classifiers and/or regressors on uncertain training data,0,G06F|G06N|G06V
+12228423,2025-02-18,Method for generating a map display for vehicles,0,G01C|G06F|G06V
+12226919,2025-02-18,Device and method for training a machine learning model to derive a movement vector for a robot from image data,0,B25J|G05B|G06N|G06T|G06V
+12226904,2025-02-18,"Robot device, method for the computer-implemented training of a robot control model, and method for controlling a robot device",0,B25J|G05B|G06T
+12224852,2025-02-11,Method for determining a master clock in a communication network,0,G04C|G04G|H04J|H04L|H04W
+12223440,2025-02-11,Device and method for determining a knowledge graph,0,G06F|G06N
+12222813,2025-02-11,Device and method for controlling a technical system,0,G06F
+12217744,2025-02-04,System and method with neural representation of event-centric commonsense knowledge for response selection,0,G06F|G06N|G10L
+12216682,2025-02-04,Method and device for validating data sets in a database,0,G06F
+12216562,2025-02-04,"Method for handling an anomaly of data, in particular in a motor vehicle",0,G06F|H04L
+12213036,2025-01-28,Methods and apparatuses for determining and receiving V2X messages,0,G08G|H04W
+12212684,2025-01-28,Method for the digital signing of a message,0,H04L
+12212682,2025-01-28,Method of preventing capture of an AI module and an AI system thereof,0,H04L
+12210966,2025-01-28,Method and system for probably robust classification with detection of adversarial examples,0,G06N
+12210619,2025-01-28,Method and system for breaking backdoored classifiers through adversarial examples,0,G06F|G06N
+12210147,2025-01-28,Method and processing unit for activating at least one drive unit of at least one deflection unit of a microscanner device,0,G02B|G09G|H03B|H04N
+12210084,2025-01-28,Ultra-wideband intelligent sensing system and method for car states detection,0,B60R|G01S|G06N|G07C|H01Q
+12208522,2025-01-28,Method for controlling a robot and robot controller,0,B25J|G05B|G06N
+12206909,2025-01-21,Method for a provision of data,0,B60W|G06F|H04N
+12206681,2025-01-21,Method for checking a message in a communication system,0,G06F|H04L
+12206522,2025-01-21,Sensor assembly of a vehicle,0,H04L
+12205349,2025-01-21,System and method for improving robustness of pretrained systems in deep neural networks utilizing randomization and sample rejection,0,G06F|G06T|G06V
+12204653,2025-01-21,"System and method, in particular computer implemented method for determining a perturbation for attacking and/or validating an object tracker",0,G06F|G06V
+12204094,2025-01-21,"Method for operating a mems system, and MEMS system",0,G02B|G09G|H04N
+12202495,2025-01-21,Device for controlling an automated driving operation of a vehicle,0,B60R|B60W|G06F
+12200541,2025-01-14,Methods and apparatuses for communication,0,H04L|H04W
+12198020,2025-01-14,Efficient temporal memory for sparse binary sequences,0,G06N
+12197620,2025-01-14,Methods and systems for managing personal data associated with image processing,0,G06F|G06V
+12195330,2025-01-14,"Method for producing a plurality of sensor devices, and sensor device",0,B81B|B81C|H01L
+12195048,2025-01-14,Method for the prediction of trajectories of an outside vehicle using neural networks with control action inputs,0,B60W|G06N
+12194631,2025-01-14,Device and method for controlling a physical system,0,B25J|G05B|G06F|G06N
+12193004,2025-01-07,"Apparatus, method for a radio communications network and use thereof",0,H04W
+12192872,2025-01-07,Methods and devices for radio communication,0,H04L|H04W
+12192370,2025-01-07,Computer-implemented method to provide secure interactions between users in a network,0,G06F|H04L
+12190606,2025-01-07,Plausibilizing the output of neural classifier networks,0,G05D|G06F|G06N|G06V
+12190598,2025-01-07,"Method and device for recognizing an object for a vehicle including a mono camera, and camera system",0,B60R|B60W|G06T|G06V
+12190597,2025-01-07,Method and device for processing a 3D point cloud representing surroundings,0,G01C|G01S|G06T|G06V
+12190536,2025-01-07,Device and method for training a neural network for controlling a robot,1,G06F|G06T|G06V
+12190105,2025-01-07,Method for controlling a robotic device,0,B60W|G05B|G06F|Y02P
+12189767,2025-01-07,System and method for intrusion detection on a physical level using an internal analog to digital converter,0,G06F
+12186915,2025-01-07,Device and method for controlling one or more robots,0,B25J|G05B|G06N
+12186834,2025-01-07,Method and device for operating a laser material processing machine,0,B23K|G06F|G06N
+12184793,2024-12-31,HSM-memory-efficient means of providing HSM-based PKI operations for vehicle controllers,0,G06F|H04L
+12184788,2024-12-31,Smart meter and method for the reliable provision of measurement data in a decentralized transaction database,0,G06F|H04L
+12184757,2024-12-31,Method for providing a state channel,0,H04L
+12184745,2024-12-31,Method for configuring quality-of-service quantities in a network having a first network segment and multiple second network segments including multiple network subscribers,0,H04L
+12184627,2024-12-31,Network device configured for cryptographically protected communication supporting multiple execution environments,0,H04L
+12184449,2024-12-31,Method and device for processing data associated with messages transmittable via a bus system,0,H04L
+12182668,2024-12-31,Method and system to classify sensor data with improved training robustness,0,G06F|G06N
+12182301,2024-12-31,System and method for processing a data subject rights request using biometric data matching,0,G06F|G06N|H04L
+12181850,2024-12-31,Dynamic coordination and execution of independent heterogeneous program units,0,G05B|G06F|Y02P
+12181665,2024-12-31,"Method for operating smart glasses including a virtual retinal display, processing unit, and smart glasses",0,G02B|G06F
+12175744,2024-12-24,Systems and methods for interactive image scene graph pattern search and analysis,0,G06F|G06N|G06T|G06V
+12175690,2024-12-24,"Display apparatus for a video monitoring system, video monitoring system and method",0,G06T|H04N
+12175336,2024-12-24,System and method for utilizing perturbation in a multimodal environment,0,G06N
+12174920,2024-12-24,Method and apparatus for determining a distance metric for determining a distance dimension of heterogeneous data points,0,G06F
+12174695,2024-12-24,Method for providing a function via a network of processing units,0,G06F
+12174693,2024-12-24,Safeguarding a system against false negatives,0,B60W|G06F
+12174384,2024-12-24,Optical system for a virtual retinal display,0,G02B|G06F|G06T|G09G
+12169560,2024-12-17,Resource-efficient verification of messages in a service-oriented communication system,1,G06F
+12166754,2024-12-10,Computer-implemented method to secure interactions between at least two users in a network,1,G06F|H04L
+12166631,2024-12-10,Configuring a communication network,0,H04L
+12165817,2024-12-10,Configurable electromechanical rotatable knob,0,B60D|B60K|B60W|B62D|G05G|G06F|H01H
+12165442,2024-12-10,Filtering of operating scenarios in the operation of a vehicle,0,G06F|G07C
+12165388,2024-12-10,Method for treating plants in a field,0,A01B|A01M|G06T|G06V
+12164636,2024-12-10,Techniques for protecting a computer-based classifier,0,G06F
+12164567,2024-12-10,"Apparatus, computer-implemented method and computer program for automatic analysis of data",0,G06F
+12164302,2024-12-10,Configuring a neural network for equivariant or invariant behavior,0,B25J|G05D|G06N
+12163483,2024-12-10,Method for determining a characteristic variable of a solenoid valve and method for training a pattern recognition method based on artificial intelligence,0,F02D|G06N|Y02A|Y02T
+12162162,2024-12-10,Method and data processing device for analyzing a sensor assembly configuration and at least semi-autonomous robots,0,B25J|G01S|G06F|G06N|G06V|G07C
+12160173,2024-12-03,Circuit for use in voltage supply for an electrical device and corresponding use,0,G06F|H02J|H02M|H04L
+12159447,2024-12-03,Device and method for training a classifier,0,G06N|G06V
+12156027,2024-11-26,Ultra-wide band device fingerprinting,0,H04B|H04W
+12155636,2024-11-26,Method for controlling an energy grid,0,H02J|H04L|Y04S
+12153728,2024-11-26,Optical system for a virtual retina display and a gesture detection of a user of the virtual retina display,0,G02B|G06F|G06V
+12153510,2024-11-26,Method and device for operating fuzz testing of a program code,0,G06F
+12151676,2024-11-26,Rider-assistance system and control method for rider-assistance system,0,B60W|B60Y|G08G|H04W
+12149805,2024-11-19,Method for manufacturing a camera module,0,G02B|G03B|H04N
+12148253,2024-11-19,System and method to detect malicious use of diagnostic state changes in a vehicle,0,G07C|H04L|H04W
+12148135,2024-11-19,Determination of the decision-relevant image components for an image classifier using binary masks,0,G06N|G06T|G06V
+12147389,2024-11-19,Method and device for processing measurement data format files,0,G06F
+12146763,2024-11-19,Inertial sensor and computer-implemented method for self-calibration of an inertial sensor,0,G01C|G01P|G05B|G06N
+12145612,2024-11-19,Device and method for controlling a hardware agent in a control situation having a plurality of hardware agents,0,B60W|G06N
+12145592,2024-11-19,Systems and methods for multi-modal data augmentation for perception tasks in autonomous driving,2,B60W|G06F|G06V
+12141334,2024-11-12,Method for initializing a security bus in a master-slave system,0,G06F
+12141275,2024-11-12,Graphical user interface tool for configuring a vehicle's intrusion detection system,0,G06F
+12137315,2024-11-05,Earphone and method for identifying whether an earphone is being inserted into an ear of a user,0,G01P|G06F|H03K|H04R|H04S
+12135690,2024-11-05,Method for processing a system image,0,G06F
+12134550,2024-11-05,Method for transporting a goods carrier by means of an industrial truck operable in an at least partially automated manner,0,B66F|G05D|G06Q
+12132647,2024-10-29,Adaptive multipath scheduler,0,H04L
+12131633,2024-10-29,Method for the infrastructure-supported assistance of a motor vehicle,0,G01S|G05D|G06F|G06V|G08G
+12131620,2024-10-29,Personal safety system,0,A61B|G06V|G08B|H04W
+12131483,2024-10-29,Device and method for training a neural network for controlling a robot for an inserting task,0,B25J|G05B|G06T|G06V
+12130594,2024-10-29,Method for determining at least one system state by means of a Kalman filter,1,B60W|G05B|G06F
+12125478,2024-10-22,System and method for a natural language understanding system based on iterative intent detection and slot filling neural layers,1,G06F|G10L
+12125387,2024-10-22,Concept for assisting a motor vehicle,0,B60W|B62D|G07B|G07C|G08G|H04W
+12125268,2024-10-22,Method and device for testing the robustness of an artificial neural network,0,G06N|G06V
+12125228,2024-10-22,Training a machine learnable model to estimate relative object scale,0,B25J|G05B|G05D|G06T
+12124821,2024-10-22,Method and software tool for making executable specifications in the system development or the system validation of complex functional systems,0,G06F
+12124800,2024-10-22,Computerized systems and methods for hierarchical structure parsing and building,0,G06F|G06N
+12124268,2024-10-22,"System and method for detecting virtual points and ascertaining virtual planes for autonomous navigation of a movable robotic unit, and robotic system including the robotic unit",0,G05D|G06T
+12123921,2024-10-22,Method and apparatus for determining a state of health of an electrical energy store of unknown type by using machine learning methods,0,B60L|G01R|G06N|Y02T
+12120410,2024-10-15,"Method for manufacturing a camera module, camera module",0,G02B|G03B|H04N
+12120010,2024-10-15,Error detection test device for a subscriber station of a serial bus system and method for testing mechanisms for detecting errors in a communication in a serial bus system,0,H04L
+12117383,2024-10-15,Method and device for evaluating signals of a sensor unit including at least two sensors,0,G01N|G06N|G16Y|H04L
+12111417,2024-10-08,OFDM radar sensor including multiple transmission channels and progressive computation of time signals,0,G01S|H04L
+12111348,2024-10-08,Evaluation module and evaluation method for evaluating multichip module lifespan,0,G01R|H01L|H10D
+12106097,2024-10-01,Using hardware-accelerated instructions,0,G06F|G06N
+12106010,2024-10-01,"Arrangement of audio devices, configuration apparatus, method and computer program",0,G06F|H04H|H04R
+12105618,2024-10-01,Method for fuzz testing,0,G06F|G06N
+12104691,2024-10-01,"Device, method and machine learning system for determining a state of a transmission for a vehicle",0,F16H|G06F|G06N
+12100198,2024-09-24,Physical environment interaction with an equivariant policy,0,G06F|G06N|G06V
+12100197,2024-09-24,Method and device for training a machine learning system,0,G06N|G06V
+12098688,2024-09-24,Method and device for operating a fuel injection valve with the aid of machine learning methods,0,F02D|G06N
+12095928,2024-09-17,Techniques for updating a software component,0,G06F|H04L
+12094717,2024-09-17,Method for forming a trench in a first semiconductor layer of a multi-layer system,0,B81B|B81C|H01L
+12094580,2024-09-17,Neural network force field computational training routines for molecular dynamics computer simulations,0,G06N|G16C
+12094270,2024-09-17,Identification of corner cases of operating scenarios,0,G06F|G07C
+12094124,2024-09-17,Method for measuring the boundary performance of a semantic segmentation network,1,B25J|G06F|G06N|G06T|G06V
+12093345,2024-09-17,Generator networks for generating images with predetermined counts of objects,0,G06F|G06N|G06V
+12093119,2024-09-17,Safeguarding a system against false positives,0,B60W|G06F
+12093006,2024-09-17,Method and device for controlling a driving function,0,B60R|B60W|G05B|G06F
+12092741,2024-09-17,Conversion of measured data between measurement modalities,0,G01S|G06F|G06N|G06T|G06V
+12092050,2024-09-17,Method and device for operating a fuel injection valve,0,F02D|G05B|G06N
+12090662,2024-09-17,Controller and method for selecting evaluation points for a Bayesian optimization method,0,B25J|G05B|G06F|G06N
+12088358,2024-09-10,Predictive quality of service via channel aggregation,0,G06N|H04B
+12087006,2024-09-10,"Method for generating an optical marker, method for recognizing an optical marker, and marker device that includes the optical marker",0,G01C|G06K|G06T
+12086993,2024-09-10,Tracking of multiple objects in cooperation with multiple neural networks,0,G06F|G06N|G06T
+12086214,2024-09-10,Method and device for creating a machine learning system,0,G06F|G06N|G06T|G06V
+12085665,2024-09-10,Method for designing a sensor arrangement for a vehicle,0,B60W|G01S|G06F
+12084107,2024-09-10,Method for ascertaining a spatial orientation of a trailer,2,B60D|B60R|B60Y|B62D|G06N|G06T|G06V
+12084073,2024-09-10,Method and device for optimum parameterization of a driving dynamics control system for vehicles,0,B60W|G06N
+12079995,2024-09-03,System and method for a hybrid unsupervised semantic segmentation,0,G06T
+12079280,2024-09-03,Retrieval-based dialogue system with relevant responses,0,G06F|G06N
+12078984,2024-09-03,Safeguarding resources of physical entities in a shared environment,0,G05B|G05D|G06N|G06Q
+12078917,2024-09-03,Swivel mechanism for a camera,0,F16M|G03B|H04N
+12074627,2024-08-27,Transceiver for a user station of a serial bus system and method for communicating in a serial bus system,0,H04B|H04L
+12074578,2024-08-27,Method and device for attenuating oscillations on bus lines of a bus system based on differential voltage signals,1,H03H|H04L
+12073667,2024-08-27,Method and device for mutual monitoring and/or control of autonomous technical systems,0,B60W|G05B|G05D|G06F|G07C|G08G|H04L|H04W
+12072612,2024-08-27,"Camera module, method for manufacturing a camera module",0,G02B|G03B|H04N
+12072182,2024-08-27,Acquisition device and method for acquiring sets of multiple object data of at least one object,0,B07C|B25J|G01B|G01D|H04N
+12069141,2024-08-20,"Method for coupling and coupling up a sensor, and communication network",0,H04L
+12061871,2024-08-13,Device for an automated generation of a knowledge graph,0,G06F|G06N
+12056608,2024-08-06,System and method for distributed neural networks on edge devices,0,G06N
+12051238,2024-07-30,System and method with visual concept framework for self-supervised semantic segmentation,0,G06N|G06V
+12051135,2024-07-30,System and method for a precise semantic segmentation,0,G06F|G06T|G06V
+12050990,2024-07-30,Device and method for training an augmented discriminator,0,G06N
+12049002,2024-07-30,System and methods for monitoring machine health,0,B25J|G06F|G07C
+12047853,2024-07-23,Method and device for determining a position of a vehicle,0,G01C|G01S|G08G|H04W
+12046024,2024-07-23,Determination of the decision-relevant image components for an image classifier by targeted modification in the latent space,0,G06F|G06T|G06V
+12045156,2024-07-23,Method for testing a product,0,G06F
+12038904,2024-07-16,Device and method for anomaly detection,0,G05B|G06F|G06N
+12036999,2024-07-16,Robustness quotient for vehicle diagnostics and monitoring,0,B60W|G06F|G07C|H04L
+12036977,2024-07-16,Determining a distance between a camera and a hitch ball,0,B60W|G06T|G06V
+12034564,2024-07-09,"Method for operating a vehicle electrical system, vehicle electrical system, and computing system",0,H04L|H04W
+12033337,2024-07-09,"Method for determining the position of a first image region in a correspondence image, SOC and control device, and system for carrying out the method, and computer program",0,G06T|G06V
+12032880,2024-07-09,Method and device for simulating a technical system,0,G06F
+12032688,2024-07-09,Method of training a module and method of preventing capture of an AI module,0,G06F
+12032343,2024-07-09,Control system for controlling a machine using a control agent with parallel training of the control agent,0,B25J|G05B|G06N
+12030510,2024-07-09,Method for operating a processing unit,0,B60W|G06F
+12028894,2024-07-02,"First wireless network unit, method to operate a first wireless network unit, second wireless network unit, method to operate a second wireless network unit, and a radio telecommunications network",0,H04W
+12027858,2024-07-02,Distributed control for demand flexibility in thermostatically controlled loads,0,G05F|G06N|H02J
+12027040,2024-07-02,Method and device for providing annotated traffic area data,0,G01C|G06N|G08G
+12026621,2024-07-02,Method and system for low-query black-box universal attacks,0,G06F|G06N|G06V
+12026366,2024-07-02,System and method for coarse and fine selection keyboard user interfaces,0,G06F|G06T
+12026187,2024-07-02,"Interaction layer neural network for search, retrieval, and ranking",0,G06F|G06N
+12026081,2024-07-02,Method for validating a software,0,B60W|G05B|G05D|G06F|G06N|H03H|H04L
+12025433,2024-07-02,Detection device and method for detecting multiple object data sets of at least one object,0,B07C|B25J|G01B|G01D|H04N
+12024185,2024-07-02,Method and system for synchronizing at least two sensor systems,0,B60W|G01D|H04L
+12024178,2024-07-02,Evaluating locating measurements of a surroundings sensor for a motor vehicle,0,B60W|G01S|G06F|G06V
+12024159,2024-07-02,Device and method for generating a compressed network from a trained neural network,0,B60W|G06N
+12020166,2024-06-25,"Meta-learned, evolution strategy black box optimization classifiers",0,G06N
+12020156,2024-06-25,Systems and methods for automatic alignment between audio recordings and labels extracted from a multitude of asynchronous sensors in urban settings,0,G06N|G10L
+12020153,2024-06-25,Device and method for training an image generator,0,G06N|G06T
+12019490,2024-06-25,System and method to detect malicious can controller behavior from adversarial clock control,0,G06F|H04L
+12019414,2024-06-25,Method for generating a training data set for training an artificial intelligence module for a control device of a vehicle,0,B25J|G05B|G05D|G06T|G06V
+12014581,2024-06-18,Method and device for creating an emissions model of an internal combustion engine,0,F02D|G06F|G07C
+12014512,2024-06-18,System adapted to detect road condition in a vehicle and a method thereof,0,B60W|G06T|G06V
+12014280,2024-06-18,Measuring the sensitivity of neural network image classifiers against adversarial attacks,0,G06F|G06N|G06V
+12013968,2024-06-18,Data anonymization for data labeling and development purposes,0,G06F|G06T|G10L
+12008743,2024-06-11,Hazard detection ensemble architecture system and method,0,G06N|G06T|G06V
+12008481,2024-06-11,Device and method for machine learning,0,G06F|G06N
+12008295,2024-06-11,Method and device for creating a model of a technical system from measurements,1,B60R|G06F
+12007247,2024-06-11,Creation and updating of maps in the off-street area,0,G01C|G06F|G08G
+12005932,2024-06-11,Method and device for automating a driving function,0,B60W|G06F|G06N
+12005580,2024-06-11,Method and device for controlling a robot,0,B25J|G05B|G06N
+12000711,2024-06-04,"Method for verifying a digital map of a higher-level automated vehicle, corresponding device and computer program",0,G01C|G01S|G08G|H04W
+11996955,2024-05-28,"Interface module for a communication control device, transmitting/receiving device for a subscriber station of a serial bus system, and method for communication in a serial bus system",0,H04L
+11996954,2024-05-28,Method and device for evaluating a signal,0,G06F|H04L
+11996903,2024-05-28,Device and method for assessing a state of a radio channel,0,G06F|H04B|H04W
+11995553,2024-05-28,Parameterization of a machine learning system for a control system,0,G05B|G06F|G06N
+11995151,2024-05-28,Image generation model based on log-likelihood,0,G06F|G06N|G06V
+11994399,2024-05-28,Management and upload of ride monitoring data of rides of a mobility service provider,0,G01C|G06Q|G07C|H04L|H04Q|H04W
+11993214,2024-05-28,Data and/or command device,0,B60K|B60R|G06Q
+11989944,2024-05-21,Method for selecting an image detail of a sensor,0,G01S|G06F|G06V
+11989889,2024-05-21,Method for determining a relative movement using a digital image sequence,0,G06T
+11989151,2024-05-21,"Transceiver device and communication control device for a user station of a serial bus system, and method for communicating in a serial bus system",0,G06F|H04L
+11988630,2024-05-21,Method to use artificial intelligence to enhance visual inspection of oxygen sensors,0,G01N|G06N|G06T
+11986960,2024-05-21,Apparatus and method for training a machine learning model to recognize an object topology of an object from an image of the object,1,B25J|G05B|G06F|G06N|G06T|G06V
+11985628,2024-05-14,"Vehicle terminals, and method for operating vehicle terminals to monitor wireless resources",0,H04W
+11985491,2024-05-14,"Evaluation device and method for analyzing a public address system, and public address system",0,G06N|H04R
+11983895,2024-05-14,Method and device for determining an eye position using a laser device for a set of smart glasses and laser device,0,G02B|G06F|G06T
+11980973,2024-05-14,Weld spot analytics,0,B23K|G05B|G06N
+11979800,2024-05-07,"Device, particularly a hand-held power tool management device and method for monitoring and/or managing a plurality of objects",0,G06Q|H04W
+11979269,2024-05-07,Detecting anomalous communications,0,H04L
+11978658,2024-05-07,Method for manufacturing a polysilicon SOI substrate including a cavity,0,B81B|B81C|H01L
+11978264,2024-05-07,Scalable road sign knowledge graph construction with machine learning and human in the loop,0,G06F|G06N|G06V
+11978262,2024-05-07,Image classification and associated training for safety-relevant classification tasks,0,B60Q|G06F|G06N|G06V
+11978218,2024-05-07,Method for detecting and re-identifying objects using a neural network,0,B25J|G05B|G06F|G06N|G06T|G06V
+11978188,2024-05-07,Method and system for graph level anomaly detection,0,G06F|G06N|G06T|G06V
+11978061,2024-05-07,Casting embedded hardware encryption,0,G06F|G06K|G06Q
+11977759,2024-05-07,"Method for operating a cache memory, cache memory and processing unit",0,G06F
+11977507,2024-05-07,"User station for a serial bus system, and method for communicating in a serial bus system",0,G06F|H03M|H04L
+11977478,2024-05-07,Compositional verification of embedded software systems,0,G06F
+11973064,2024-04-30,Semiconductor power module,0,H01L
+11972293,2024-04-30,"Data structure, memory means and device",0,G06F
+11970076,2024-04-30,Method for operating an electrical energy store,22,B60L|B60R|G01R|G06N|Y02T
+11967126,2024-04-23,Computer implemented method and device for anomaly detection,0,G06F|G06N|G06T|G06V
+11965935,2024-04-23,Method and apparatus for operating a system for providing predicted states of health of electrical energy stores for a device using machine learning methods,0,G01R|G06N
+11964400,2024-04-23,Device and method for controlling a robot to pick up an object in various positions,0,B25J|G05B|G06F|G06N|G06T|G06V
+11962410,2024-04-16,"User station for a serial bus system, and method for communicating in a serial bus system",0,H03M|H04L
+11962409,2024-04-16,"User station for a serial bus system, and method for communicating in a serial bus system",0,H04L
+11961275,2024-04-16,Device and method for training a normalizing flow,0,G06F|G06N|G06V
+11960991,2024-04-16,Device and method for training a classifier,0,A63F|G05B|G06F|G06N|G07C
+11960648,2024-04-16,Method for determining a current viewing direction of a user of data glasses with a virtual retina display and data glasses,0,G02B|G06F
+11960611,2024-04-16,"Efficient distribution of processes between a vehicle control computing device and a cryptographic module, and method for operation thereof",1,G06F|H04L
+11960291,2024-04-16,Computer-implemented method and device for controlling a mobile robot based on semantic environment maps,1,B25J|G05D|G06N
+11960195,2024-04-16,"Method for manufacturing an objective, objective, and imager module including an objective",0,B08B|B29D|B60S|G02B|G03B|H04N
+11956826,2024-04-09,"Radio terminal, method to operate a radio terminal, and method to operate a radio communications network",1,H04W
+11956369,2024-04-09,Accelerated verification of automotive software in vehicles,0,G06F|H04L
+11955197,2024-04-09,Memory device and method for shifting memory values,0,G06F|G11C
+11947910,2024-04-02,Device and method for determining at least one part of a knowledge graph,0,G06F|G06N
+11947863,2024-04-02,Intelligent audio analytic apparatus (IAAA) and method for space system,0,G05B|G06F|G06N|G06Q|G10L
+11947807,2024-04-02,Method and device for processing data stored in a memory unit,0,G06F|G11C
+11947625,2024-04-02,Data-based updating of the training of classifier networks,0,G06F|G06N|G06V
+11947051,2024-04-02,Sensor calibration set-up tool with angular offset functionality,1,B60R|G01B|G01D|G01S|H04N
+11946746,2024-04-02,Method for satellite-based detection of a vehicle location by means of a motion and location sensor,0,G01C|G01S|G06N
+11943623,2024-03-26,"Electronic apparatus, system for wireless information exchange, and method for coupling two apparatuses",0,H04W
+11943426,2024-03-26,Method for assessing a camera calibration,0,G06T|H04N
+11943076,2024-03-26,User station for a serial bus system and method for communication in a serial bus system,0,H04L
+11943068,2024-03-26,User station for a serial bus system and method for error signaling for a message received in a serial bus system,0,G06F|H04L
+11941892,2024-03-26,Method and device for providing data for creating a digital map,0,G01C|G01S|G06N|G06T|G06V
+11941888,2024-03-26,"Method and device for generating training data for a recognition model for recognizing objects in sensor data of a sensor, in particular, of a vehicle, method for training and method for activating",0,G06F|G06N|G06V
+11941846,2024-03-26,Device and method for ascertaining the pose of an object,0,G06T
+11941150,2024-03-26,In-vehicle system for monitoring rides of a mobility service provider,0,G01S|G06F|G07C|H04L|H04N
+11938964,2024-03-26,Method for safely ascertaining infrastructure data,0,B60W|H04W
+11938880,2024-03-26,Low impact crash detection for a vehicle,0,B60R|B60W|G06N
+11938838,2024-03-26,Method and device for the robust prediction of the aging behavior of an energy storage unit in a battery-operated machine,23,B60L|G01R|G06N|G07C|H02J|Y02T
+11937153,2024-03-19,Method for improving the estimation of existence probabilities,0,G06F|H04W
+11937018,2024-03-19,"Surveillance system, method, computer program, storage medium and surveillance device",0,G06V|H04N
+11936498,2024-03-19,Device for a subscriber station of a serial bus system and method for communication in a serial bus system,0,H04L
+11934176,2024-03-19,Device and method for controlling a robot,1,G05B|G05D|G06N
+11932088,2024-03-19,Vehicle mounted virtual visor system with grid snapping for jitter reduction,0,B60J|B60R|E06B|G06F|G06V
+11928448,2024-03-12,System and method for development and distribution of mobility solutions,0,G06F
+11928278,2024-03-12,System and method of predicting multi-finger force in touch screens using artificial intelligence,0,G06F|G06N
+11928104,2024-03-12,Method and device for operating a decentralized application by users of a blockchain,0,G06F|G06Q
+11926348,2024-03-12,Method and device for controlling applications distributed between a vehicle and a cloud,0,B60W|G07C|H04L
+11924725,2024-03-05,"Method for communication between at least two vehicles travelling in succession, and vehicle having at least one communication apparatus",1,H04B|H04W
+11922291,2024-03-05,Image processing via isotonic convolutional neural networks,0,G06F|G06N|G06T|G06V
+11921817,2024-03-05,Unsupervised training of a video feature extractor,1,G06F|G06N|G06V
+11917356,2024-02-27,Apparatus and method for identifying head gestures,0,G01P|G06F|G06V|H04R
+11917274,2024-02-27,"Method for manufacturing a camera module, camera module",0,G02B|H04N|H05K
+11916801,2024-02-27,Method for integrating interface devices into a network,0,H04L
+11916737,2024-02-27,Method and unit for operating a TSN communication system,0,H04L
+11914872,2024-02-27,"Method, computer program, electronic memory medium and device for providing a piece of data",0,G06F
+11914387,2024-02-27,Imaging device,0,G01S|G02B|G05D|H04N
+11913805,2024-02-27,Method and device for processing sensor data,0,G01C|H04W
+11909726,2024-02-20,Method for controlling a vehicle,0,H04L|H04W
+11909553,2024-02-20,"Frame screening unit, user station for a serial bus system, and method for communicating in a serial bus system",0,G06F|H04L
+11909211,2024-02-20,"Procedure for operating an electrical energy storage unit and also corresponding apparatus, computer program, machine-readable storage medium and electrical energy storage unit",1,G01R|G06N|H02J
+11908142,2024-02-20,"Method, artificial neural network, device, computer program, and machine-readable memory medium for the semantic segmentation of image data",0,G06N|G06T
+11907662,2024-02-20,System and method for domain-independent terminology linking,0,G06F|G06N
+11907550,2024-02-20,Method for dynamically assigning memory bandwidth,0,G06F
+11906254,2024-02-20,Heat sink with carbon-nanostructure-based fibres,0,D03D|D04H|D10B|F28F|H01L
+11902429,2024-02-13,Distributed secure multi party computation,1,H04L
+11900691,2024-02-13,"Method for evaluating sensor data, including expanded object recognition",0,B60W|G01S|G06F|G06N|G06T|G06V
+11900257,2024-02-13,Method for representing an environment of a mobile platform,0,G01S|G05D|G06F|G06N|G06V
+11899785,2024-02-13,Method for detecting an unauthorized physical access to a bus system,1,G06F
+11899561,2024-02-13,"Method for operating a control unit when testing software of the control unit, and method for operating a test computer when testing software of a control unit",0,G06F
+11899131,2024-02-13,Augmentation and processing of radar data with machine learning,0,G01S|G06N
+11893709,2024-02-06,Image quantization using machine learning,0,G06N|G06T|H04N
+11893496,2024-02-06,Method for recognizing objects in an environment of a vehicle,2,G06F|G06N|G06V|G08G
+11893087,2024-02-06,Defending multimodal fusion models against single-source adversaries,1,G06F|G06N|G06T|G06V
+11892297,2024-02-06,Scalable graph SLAM for HD maps,0,G01C|G06F
+11887379,2024-01-30,Road sign content prediction and search in smart data management for training machine learning model,0,G06F|G06N|G06V
+11886995,2024-01-30,Recognition of objects in images with equivariance or invariance in relation to the object size,0,G05D|G06F|G06N|G06T|G06V
+11886782,2024-01-30,Dynamics model for globally stable modeling of system dynamics,1,G05B|G06F|G06N
+11885642,2024-01-30,Laser leveling tool with gesture control,0,G01C|G06F
+11882460,2024-01-23,Apparatuses and methods to determine a high-resolution QoS prediction map,1,G06N|G06T|H04B|H04L|H04W
+11882213,2024-01-23,"Method for key generation upon request by a secure access device, using an electronic control unit of a vehicle",0,G06F|G07C|H04L|H04W
+11876955,2024-01-16,Method for qualification of a camera system and/or its image/camera signals,1,B60W|G06V|H04N
+11876641,2024-01-16,"Transceiver device and communication control device for a user station of a serial bus system, and method for communicating in a serial bus system",0,G06F|H04L
+11876640,2024-01-16,"User station for a serial bus system, and method for transferring data with manipulation protection in a serial bus system",0,H04L
+11875617,2024-01-16,Cloud connectivity for in-vehicle sensing modules,0,B60R|B60W|G01C|G01N|G01P|G01S|G01V|G06V|G07C|H04L|Y02A
+11875581,2024-01-16,Method for generating a monitoring image,0,G06F|G06T|G06V|H04N
+11875514,2024-01-16,"Analysis device, monitoring assembly comprising the analysis device, and method for determining a background image which is privacy-compliant",0,G06Q|G06T|G06V
+11875345,2024-01-16,Method and device for conducting a transaction between a plurality of partitions of a blockchain,0,G06Q
+11875299,2024-01-16,Apparatus for and method of operating a means of transport,0,G06Q
+11875265,2024-01-16,Computer-implemented method and device for text analysis,0,G06F|G06N
+11875120,2024-01-16,Augmenting textual data for sentence classification using weakly-supervised multi-reward reinforcement learning,0,G06F|G06N
+11875112,2024-01-16,"Method and device for analyzing elements of a text collection, method and device for searching for information in digital data",0,G06F
+11874636,2024-01-16,Method and device for controlling a machine,0,G05B|G06F|G06N
+11869245,2024-01-09,"Monitoring device, monitoring system, method, computer program and machine-readable storage medium",0,G06T|G06V
+11868887,2024-01-09,Making time-series predictions of a computer-controlled system,3,G05B|G06N
+11868627,2024-01-09,Method for operating a processing unit,0,G06F
+11868528,2024-01-09,"Method for a user activity recognition for data glasses, and data glasses",0,G02B|G06F
+11868522,2024-01-09,Method for ascertaining a viewing direction of an eye,0,A61B|G01B|G01S|G02B|G06F
+11868293,2024-01-09,"Device for a user station of a serial bus system, and method for communicating in a serial bus system",0,G06F|H04L
+11868195,2024-01-09,Activation of a second processing unit of a computing device that includes a first processing unit and the second processing unit,0,B60R|G06F|H04L|Y02D
+11867831,2024-01-09,Generation of synthetic radar signals,0,G01S|G06F|G06N|G09B
+11867806,2024-01-09,Synthetic aperture acoustic imaging with deep generative model,0,G01S|G06N|H04R
+11867593,2024-01-09,Method and device for detecting anomalies in sensor recordings of a technical system,0,G01M|G06N
+11861559,2024-01-02,Method and device for providing a resource,0,G06F|G06Q|H04L
+11858511,2024-01-02,Control system for a motor vehicle and method for adapting the control system,1,B60W|G06N
+11858506,2024-01-02,Adaptation of the trajectory of an ego vehicle to moving extraneous objects,0,B60W|G06F|G06N|G06V|G08G
+11855942,2023-12-26,"Activation system, control module, and method for operating",0,H04L
+11855522,2023-12-26,Method and device for controlling an electronic converter in a technical system using methods of artificial intelligence,22,G06F|H02M|H03K|Y02B
+11854392,2023-12-26,Methods and devices for radio communication,1,G08G|H04L|H04W
+11854275,2023-12-26,Systems and methods for detecting symptoms of occupant illness,0,G01S|G06F|G06N|G06T|G06V
+11854225,2023-12-26,Method for determining a localization pose of an at least partially automated mobile platform,0,G01S|G06F|G06N|G06T|G06V
+11853747,2023-12-26,Method for testing an application for vehicles,0,G06F
+11849308,2023-12-19,Circuit for processing a wake-up signal,0,F02D|G01R|H04W|Y02D
+11848797,2023-12-19,"Communication control device for a user station for a serial bus system, and method for communicating in a serial bus system",0,H04L
+11847918,2023-12-19,Method for the communication of at least two users of a networked traffic system,0,G08G|H04W
+11847560,2023-12-19,Hardware compute fabrics for deep equilibrium models,1,G06N
+11846244,2023-12-19,Method and apparatus for operating a fuel injection valve with the aid of machine learning methods,1,F02D|G06N
+11843478,2023-12-12,Communication system for a vehicle and operating method therefor,0,H04L|H04W
+11840242,2023-12-12,Method and device for ascertaining a dynamic tire circumference of a means of transportation,0,B60T|B60W|B62D|G06F
+11838146,2023-12-05,Subscriber station for a serial bus system and method for communicating in a serial bus system,1,H04L
+11838145,2023-12-05,Communication control device and transmitting/receiving device for a subscriber station of a serial bus system and method for communication in a serial bus system,0,H04L
+11836988,2023-12-05,Method and apparatus for recognizing an object from input data,0,B60W|G06T|G06V
+11836892,2023-12-05,"Device and method for training a model, and a vehicle",0,G06F|G06N|G06T|G06V
+11835620,2023-12-05,More reliable classification of radar data from dynamic settings,0,G01S|G06N|G06V|G09B
+11835589,2023-12-05,Method and apparatus for machine-individual improvement of the lifetime of a battery in a battery-operated machine,1,B60L|G01R|G06N|Y02T|Y04S
+11831466,2023-11-28,"User station for a serial bus system, and method for transmitting a message in a serial bus system",1,H04L
+11831465,2023-11-28,"Overlap detection unit for a user station of a serial bus system, and method for communicating in a serial bus system",1,G06F|H04L
+11831404,2023-11-28,"Method for ascertaining signal propagation times, and system for fusing sensor data from at least two sensors for an object detection",0,H04J|H04L
+11830239,2023-11-28,Systems and methods for automatic extraction and alignment of labels derived from camera feed for moving sound sources recorded with a microphone array,0,G06F|G06T|G06V|G10L|H04R
+11829316,2023-11-28,Method and device for determining information of a bus system,0,G06F
+11825240,2023-11-21,"Video based monitoring system using multiple cameras, method, computer program and storage medium",1,G06F|G06N|G06V|G08B|H04N
+11824577,2023-11-21,Receive module and method for receiving differential signals in a serial bus system,0,G06F|H04B|H04L
+11823462,2023-11-21,Device and method for training a polyhedral classifier,0,G06F|G06N|G06V
+11823302,2023-11-21,Device for and computer implemented method of digital signal processing,0,G06N|G06T
+11822717,2023-11-21,Method and device for recognizing a viewing direction and/or a state of an eye using a laser device and laser device,0,G02B|G06F
+11822661,2023-11-21,Method for carrying out a secured startup sequence of a control unit,0,G06F|G09C|H04L
+11822496,2023-11-21,"Method for operating a communications network, communications network, and users for same",0,G06F
+11822469,2023-11-21,Method for validating software functions in a driver assistance system for motor vehicles,0,B60W|G06F
+11822463,2023-11-21,Computer-implemented method and device for selecting a fuzzing method for testing a program code,0,G06F|G06N
+11818449,2023-11-14,"Method for producing a camera module, camera module",0,H04N|H05K
+11817184,2023-11-14,Graph neural network force field computational algorithms for molecular dynamics computer simulations,0,G06N|G16C
+11815945,2023-11-14,Efficient scaling of neural-network interatomic potential prediction on CPU clusters,0,G06F|G06N|G06V
+11813990,2023-11-14,Vehicle mounted virtual visor system with optimized blocker pattern,0,B60J|B60R|G06F|G06T|G06V
+11812215,2023-11-07,Method and system for calibrating a structure-borne sound-sensitive acceleration sensor and method for correcting the measuring signals of a structure-borne sound-sensitive acceleration signal,0,G06F|H04R
+11811552,2023-11-07,Method and device for processing data associated with a message received via a communications system,0,H04L
+11810435,2023-11-07,System and method for audio event detection in surveillance systems,1,G06F|G06N|G08B|G10L|G11B
+11810341,2023-11-07,"Method of identifying filters in a neural network, system and storage medium of the same",0,G06F|G06N|G06V
+11810311,2023-11-07,Two-stage depth estimation machine learning algorithm and spherical warping layer for equi-rectangular projection stereo matching,0,G06N|G06T
+11806872,2023-11-07,Device and method for controlling a robotic device,0,B25J|G06N
+11805306,2023-10-31,Image detection unit for a vehicle and method for manufacturing an image detection unit,0,B60S|G02B|G03B|H04N
+11804034,2023-10-31,Training a function to respond predictably to differences,0,G06F|G06N|G06V
+11803732,2023-10-31,Device and method for classifying data in particular for a controller area network or an automotive ethernet network,0,G06N|H04L
+11803616,2023-10-31,Function testing for movable objects in safety critical applications with spatial representation learning and adversarial generation,0,G06F|G06N|G06V
+11801850,2023-10-31,Method for synchronizing signals,0,B60W|G01R|H04L
+11801823,2023-10-31,Computer-based system for testing a server-based vehicle function,0,B60K|B60W|B60Y|G01M|G05B|G06F
+11797858,2023-10-24,Translation of training data between observation modalities,0,G06F|G06N|G06V
+11791911,2023-10-17,Method and apparatus for detecting signal propagation type,0,G01S|H04B|H04W
+11790663,2023-10-17,Fast detection of secondary objects that may intersect the trajectory of a moving primary object,0,B60Q|B60T|B60W|B62D|B64U|G05D|G06F|G06N|G06T|G06V|G08G
+11790662,2023-10-17,"Method and device for determining a motion state of at least one object in the surroundings of a vehicle, and method and device for activating a vehicle system of a vehicle",0,G06T|G06V
+11790639,2023-10-17,Measuring the sensitivity of image classifiers to modifications of the input image,0,G06F|G06V
+11790218,2023-10-17,"Machine learning system, as well as a method, a computer program, and a device for creating the machine learning system",0,G05D|G06N|G06T
+11789135,2023-10-17,Ultra-wideband intelligent sensing system and method for car states detection,1,B60R|G01S|G06N|G07C|H01Q
+11785317,2023-10-10,Camera module and method for manufacturing a camera module,0,G03B|H04N
+11784849,2023-10-10,"Communication control device for a user station for a serial bus system, and method for communicating in a serial bus system",0,G06F|H04L
+11783636,2023-10-10,System and method for detecting abnormal passenger behavior in autonomous vehicles,0,G06F|G06V
+11783202,2023-10-10,Method for predicting a persistence over time of entries of a knowledge base,0,G06N
+11783190,2023-10-10,Method and device for ascertaining an explanation map,0,G06F|G06N|G06V
+11783179,2023-10-10,System and method for domain- and language-independent definition extraction using deep neural networks,1,G06F|G06N
+11782418,2023-10-10,Method for the modular adjustment of a programmable controller,0,G05B|G06F
+11777968,2023-10-03,Method and device for handling an anomaly at a control unit,0,B60R|G05D|G06F|H04L|H04W
+11776332,2023-10-03,In-vehicle sensing module for monitoring a vehicle,0,B60R|B60W|G01C|G01N|G01P|G01S|G01V|G06V|G07C|H04L|Y02A
+11775818,2023-10-03,Training system for training a generator neural network,0,G06F|G06N
+11775763,2023-10-03,Weakly supervised and explainable training of a machine-learning-based named-entity recognition (NER) mechanism,0,G06F|G06N
+11772609,2023-10-03,Wiper device,0,B60Q|B60S|G06F
+11770202,2023-09-26,User station for a mobile communication system and method for its operation,0,H04J|H04W
+11765256,2023-09-19,Method and device for analyzing service-oriented communication,0,H04L
+11763135,2023-09-19,Concept-based adversarial generation method with steerable and diverse semantics,0,G06F|G06N|G06V
+11762784,2023-09-19,User station for a bus system and method for transmitting a message at different bit rates in a bus system,0,G06F|H04L
+11762761,2023-09-19,Generating synthetic test cases for network fuzz testing,0,G06F|G06N
+11762346,2023-09-19,Method and device for determining a control strategy for a technical system,1,G05B|G06F
+11760364,2023-09-19,Method for determining control parameters for a control system,0,B60W|G06N
+11759947,2023-09-19,Method for controlling a robot device and robot device controller,0,B25J|G05B|G06N
+11752951,2023-09-12,Vehicle mounted virtual visor system that localizes a resting head pose,0,B60J|B60R|G06F|G06T|G06V
+11750416,2023-09-05,Subscriber station for a serial bus system and method for communicating in a serial bus system,1,H04L
+11750176,2023-09-05,"Reflection attenuation device for a bus of a bus system, and method for attenuating reflections during a data transfer in a bus system",0,H03H|H04B|H04L
+11748910,2023-09-05,Method for assessing a camera calibration,0,G06T
+11748627,2023-09-05,Neural network with a layer solving a semidefinite program,0,G06F|G06N
+11748407,2023-09-05,Activity level based management and upload of ride monitoring data of rides of a mobility service provider,0,G06F|G06Q|G06V|G07C
+11748275,2023-09-05,Method for securely updating control units,0,G06F
+11747405,2023-09-05,System and method for audio and vibration based power distribution equipment condition monitoring,0,G01R|G06N|H02J
+11740809,2023-08-29,Method for configuring a memory unit of a computing unit,0,G06F
+11738463,2023-08-29,Method and device for controlling a robot,0,B25J|G05B|G05D|G06N
+11736590,2023-08-22,Method for communicating data requests to one or more data sources and for processing requested data from one or more data sources in an application,0,G06F|H04L
+11736314,2023-08-22,Emission reduction device and method for reducing the emissions of a transceiver device for a serial bus system,0,H04L
+11734910,2023-08-22,Real-time object detection using depth sensors,1,G06F|G06N|G06T|G06V
+11734267,2023-08-22,System and method for information extraction and retrieval for automotive repair assistance,0,G06F
+11734200,2023-08-22,Method for accessing data in an external memory of a microcontroller,0,G06F
+11734164,2023-08-22,Method and computer program for testing a technical system,0,G06F
+11734024,2023-08-22,Device for managing digital twins,0,G06F|H04L
+11733774,2023-08-22,Eye-tracking arrangement,0,G02B|G06F|G06V
+11733313,2023-08-22,Method and apparatus for operating a system for providing states of health of electrical energy stores for a multiplicity of devices with the aid of machine learning methods,1,G01R|G06F|G06N
+11731641,2023-08-22,Method and control unit for determining an evaluation algorithm from a plurality of available evaluation algorithms for the processing of sensor data of a vehicle sensor of a vehicle,0,B60W|G06F|G06V
+11729188,2023-08-15,Method and device for intrusion detection in a computer network,0,H04L
+11729021,2023-08-15,User station for a serial bus system and method for communication in a serial bus system,0,H04L
+11729020,2023-08-15,Transmitting/receiving device for a bus system and method for reducing oscillations of a bus differential voltage in the case of coupled-in interferences,0,H04L
+11727277,2023-08-15,Method and apparatus for automatically producing an artificial neural network,0,G06F|G06N
+11722335,2023-08-08,"User station for a serial bus system, and method for communicating in a serial bus system",0,H04L
+11722292,2023-08-08,System and method for improving the efficiency of advanced encryption standard in multi-party computation with precomputed data,0,H04L
+11720748,2023-08-08,Automatically labeling data using conceptual descriptions,0,G06F|G06N
+11720542,2023-08-08,Method for assessing validation points for a simulation model,0,G06F
+11720519,2023-08-08,"User station for a serial bus system, and method for transmitting a message in a serial bus system",0,G06F|H04L|Y02D
+11719458,2023-08-08,HVAC control fine-grained occupancy pattern estimation,0,F24F|G06N
+11715300,2023-08-01,Systems and methods for providing product assembly step recognition using augmented reality,0,G06F|G06T|G06V
+11715032,2023-08-01,Training a machine learning model using a batch based active learning approach,0,G06N
+11715020,2023-08-01,"Device, configured to operate a machine learning system based on predefinable rollout",0,G06F|G06N
+11715019,2023-08-01,Method and device for operating a neural network in a memory-efficient manner,0,G06F|G06N
+11714474,2023-08-01,Clock control to increase robustness of a serial bus interface,0,G06F|H04L|Y02D
+11713029,2023-08-01,Hydraulic pressure control unit,0,B60R|B60T|H04L
+11710512,2023-07-25,Method for writing to and reading out a non-volatile electronic memory,0,G06F|G11C
+11709971,2023-07-25,Method for detecting an unauthorized physical access to a bus system,1,G06F
+11708059,2023-07-25,"Method for managing a control software of a braking system of a vehicle, a hydraulic system for a braking system of a vehicle and a method for manufacturing the same",0,B60T|G06F
+11706235,2023-07-18,Method and device for processing data of a technical system,0,H04L
+11706049,2023-07-18,Subscriber station for a serial bus system and method for communication in a serial bus system,1,H04L
+11704947,2023-07-18,In-vehicle sensing module for monitoring a vehicle,0,B60R|B60W|G01C|G01N|G01P|G01S|G01V|G06V|G07C|H04L|Y02A
+11704916,2023-07-18,"Three-dimensional environment analysis method and device, computer storage medium and wireless sensor system",0,G06T|G06V
+11704272,2023-07-18,Method and device for operating a transfer device,0,G06F
+11704259,2023-07-18,Method for transferring packets of a communication protocol,0,G06F
+11703871,2023-07-18,Method of controlling a vehicle and apparatus for controlling a vehicle,0,G01C|G05B|G05D|G06N
+11702140,2023-07-18,Vehicle front optical object detection via photoelectric effect of metallic striping,0,B60R|B60W|B62D|G06F|G06V
+11700502,2023-07-11,"System, control unit, and method for deciding geofence event of vehicle",0,G01S|H04W
+11700271,2023-07-11,Device and method for anomaly detection in a communications network,0,H04L|H04W
+11700143,2023-07-11,"User station for a serial bus system, and method for communicating in a serial bus system",0,H04L
+11699076,2023-07-11,Method and system for learning rules from a data base,0,G06N
+11699075,2023-07-11,"Method for training an artificial neural network, artificial neural network, use of an artificial neural network, and corresponding computer program, machine-readable memory medium, and corresponding apparatus",0,G06N|G06V
+11698672,2023-07-11,Selective deactivation of processing units for artificial neural networks,0,G06F|G06N|G06V|Y02D
+11694141,2023-07-04,On-demand workflow combination and variant generation,0,G06F|G06N|G06Q
+11687990,2023-06-27,System and apparatus for a personalized remote shopping assistance,0,G06F|G06Q
+11687725,2023-06-27,Computer-implemented method and device for processing data,0,G06F|G06N
+11687619,2023-06-27,Method and system for an adversarial training using meta-learned initialization,0,G06F|G06N|G06V
+11687084,2023-06-27,Method and device for socially aware model predictive control of a robotic device using machine learning,0,B25J|G01C|G05B|G05D|G06N
+11686651,2023-06-27,Method and device for detecting anomalies in technical systems,0,G01M|G05B|G06N
+11686650,2023-06-27,Dynamic spatiotemporal beamforming,0,G01M|G01N|G01R|G05D|H04N
+11686593,2023-06-27,"Method for operating a more highly automated vehicle (HAF), in particular a highly automated vehicle",0,G01C|G05D|G06V|H04W
+11683341,2023-06-20,System and method for network intrusion detection based on physical measurements,0,G06F|H04L
+11683323,2023-06-20,Method and device for authenticating a message transmitted via a bus,1,H04L
+11683198,2023-06-20,"Method for operating a first network device, first network device, and method for operating a communications network",0,H04L|H04W
+11681516,2023-06-20,Computer-implemented method and device for the update management of different versions of distributed software with the aid of machine learning methods,0,G06F|G06N
+11677581,2023-06-13,Subscriber station for a serial bus system and method for communicating in a serial bus system,0,H04L
+11676025,2023-06-13,"Method, apparatus and computer program for generating robust automatic learning systems and testing trained automatic learning systems",2,G06N
+11675361,2023-06-13,Method for ascertaining driving profiles,0,B60W|F01N|G01C|G05D|G06N
+11671463,2023-06-06,"Device for processing data including at least two data interfaces, and operating method therefor",1,H04L
+11669740,2023-06-06,Graph-based labeling rule augmentation for weakly supervised training of machine-learning-based named entity recognition,0,G06F|G06N
+11669438,2023-06-06,Method for testing a system,0,G06F
+11669070,2023-06-06,"Method and device for setting at least one parameter of an actuator control system, actuator control system and data set",0,G05B|G06N
+11667303,2023-06-06,Hands-off detection for autonomous and partially autonomous vehicles,0,B60W|G01M|G06F|G07C
+11665019,2023-05-30,Apparatus for transmitting data over a bus system and operating method for that purpose,0,H04L
+11664955,2023-05-30,"First terminal, method for operating the first terminal, second terminal, and method for operating the second terminal",0,H04L|H04W
+11661067,2023-05-30,Method for ascertaining driving profiles,0,B60W|G06N
+11657290,2023-05-23,System and method with a robust deep generative model,0,G06F|G06N
+11657165,2023-05-23,Cryptography module and method for operating same,0,G06F|H04L
+11657153,2023-05-23,System and method for detecting an adversarial attack,1,G06F|G06N
+11653287,2023-05-16,Apparatus and method for a radio access network,0,H04L|H04W
+11652804,2023-05-16,Data privacy system,0,G06F|H04L|H04W
+11651626,2023-05-16,"Method for detecting of comparison persons to a search person, monitoring arrangement, in particular for carrying out said method, and computer program and computer-readable medium",0,G06F|G06V
+11651220,2023-05-16,Asymmetrical robustness for classification in adversarial environments,0,G06F|G06N|G06V
+11651205,2023-05-16,"Method for training a generative adversarial network (GAN), generative adversarial network, computer program, machine-readable memory medium, and device",1,G06F|G06N
+11648664,2023-05-16,Method for controlling a robot and robot controller,0,B25J|G05B|G06N
+11647502,2023-05-09,"Apparatus, method for a radio communications network and use thereof",0,H04W
+11645828,2023-05-09,Method and device for ascertaining an explanation map,0,G06F|G06V
+11645502,2023-05-09,Model calculation unit and control unit for calculating an RBF model,0,B60W|G05D|G06N
+11645499,2023-05-09,Model calculating unit and control unit for calculating a neural layer of a multilayer perceptron model,0,F02D|G05B|G06N
+11643106,2023-05-09,Movement prediction of pedestrians useful for autonomous driving,1,B60W|G06N|G06T|G06V
+11643016,2023-05-09,Rearview camera field of view with alternative tailgate positions,0,B60R|G06T|G06V
+11641671,2023-05-02,First and second terminal of a radio network and method for operating the first and second terminal,0,H04L|H04W
+11641284,2023-05-02,"System, machine, method for configuring a system and method for operating a machine",0,G06F|H04L
+11640703,2023-05-02,Method for classifying measuring points of a point cloud,0,G06F|G06V
+11639112,2023-05-02,Fusion of data of multiple sensors for object identification,0,B60L|B60W|G01S|G05B|G06F|G06V
+11633917,2023-04-25,Laser additive manufacturing control system and method,0,B22F|B29C|B33Y|G06F|Y02P
+11632265,2023-04-18,Transceiver unit and communication control unit for a user station of a serial bus system and method for communication in a serial bus system,0,H04L
+11630187,2023-04-18,Enclosure for an optoelectronic sensor and lidar sensor,0,F28C|F28D|F28F|G01S|H01L|H02K|H05K
+11627637,2023-04-11,First road-side network node and method to operate the first road-side network node,0,H04L|H04W
+11624890,2023-04-11,Method for producing a camera module,0,G02B|G03B|H04N
+11622166,2023-04-04,Camera assembly and method for assembling,1,H04N
+11621868,2023-04-04,"Device for a user station of a serial bus system, and method for communicating in a serial bus system",0,H04L
+11620817,2023-04-04,Hardware-accelerated operation of artificial neural networks,0,G06F|G06N|G06V
+11620517,2023-04-04,Control of a physical system based on inferred state,0,G05B|G06N
+11619568,2023-04-04,Device and method for operating a test stand,0,G01M|G06N
+11617054,2023-03-28,"Method and device for determining a position of a mobile participant of a wireless communication network, participant of the wireless communication network, remotely disposed network unit, wireless communication network",0,G01S|H04L|H04W
+11616969,2023-03-28,Target identification system and method thereof,0,G06F|G06V|G08G|H04N|H04W
+11616922,2023-03-28,Intensity-normalized image sensor,0,H04N|H10F
+11615274,2023-03-28,Plausibility check of the output of neural classifier networks based on additional information about features,0,G06F|G06V
+11613255,2023-03-28,Redundant environment perception tracking for automated driving systems,0,B60W|G06F|G06V|G08G
+11610574,2023-03-21,"Sound processing apparatus, system, and method",0,G06F|G06N|G10K|G10L|H04R
+11610129,2023-03-21,System and method for multiscale deep equilibrium models,1,G06F|G06N|G06T|G06V
+11610096,2023-03-21,Evaluation system for measured data from multiple domains,0,G01S|G06F|G06N|G06V
+11610034,2023-03-21,Method and device for synchronizing a simulation with a real-time system,0,B60R|G01M|G06F
+11606224,2023-03-14,Method for checking a message in a communication system,0,H03L|H03M|H04L
+11606203,2023-03-14,Method for faster secure multiparty inner product with SPDZ,0,G06F|G06N|H04L
+11605232,2023-03-14,System and method for road sign ground truth construction with a knowledge graph and machine learning,0,G06F|G06N|G06V
+11605222,2023-03-14,Apparatus and system related to an intelligent helmet,0,A42B|B60W|B60Y|G02B|G06F|G06V|H04N|H04W
+11604948,2023-03-14,State-aware cascaded machine learning system and method,0,G06F|G06N
+11601301,2023-03-07,Transceiver device for a bus system and method for reducing conducted emissions,1,H04L
+11601231,2023-03-07,"Radio device, method to operate a radio device",1,H04L
+11601221,2023-03-07,"Communication control device for a user station for a serial bus system, and method for communicating in a serial bus system",1,H04L
+11601134,2023-03-07,Optimized quantization for reduced resolution neural networks,0,G06F|G06N|H03M
+11599827,2023-03-07,Method and apparatus for improving the robustness of a machine learning system,0,G06F|G06N
+11599787,2023-03-07,Model calculation unit and control device for calculating a multi-layer perceptron model,0,G06N
+11595638,2023-02-28,"Calibration unit for a monitoring device, monitoring device for man-overboard monitoring, and method for calibration",0,G06T|H04N
+11595409,2023-02-28,Method for monitoring an industrial network,0,H04L
+11595229,2023-02-28,"Subscriber station for a serial bus system, and method for data transmission in a serial bus system",0,G01R|H04L
+11594035,2023-02-28,"Monitoring device, and method for monitoring a man overboard situation",0,G06T|G06V|G08B|H04N
+11593589,2023-02-28,System and method for interpretable sequence and time-series data modeling,0,G06F|G06N
+11593232,2023-02-28,Method and device for verifying a neuron function in a neural network,0,G06F|G06N
+11592900,2023-02-28,"Method and device for operating a laser unit as a function of a detected state of an object, and laser device",0,G01C|G02B|G06F
+11592360,2023-02-28,Method and device for testing a technical system,0,G01M|G05B|G06F
+11591012,2023-02-28,Vehicle trajectory prediction using road topology and traffic participant object states,0,B62D|G05D|G06N|G06V|G08G
+11589441,2023-02-21,"Laser projection device, method for operating same, and laser projector",0,G02B|G09G|H01S|H04N|H05B
+11588960,2023-02-21,Camera device and method for assembling a camera device,1,G02B|H04N
+11588917,2023-02-21,Method for a communication between an application and a machine in a production,1,H04L
+11588894,2023-02-21,Method and device for operating a communication system,0,H04L
+11588845,2023-02-21,Method for managing a memory,0,B60R|G07C|H04L|H04W
+11587330,2023-02-21,Visual analytics platform for updating object detection models in autonomous driving applications,0,G05D|G06F|G06N|G06V
+11587328,2023-02-21,Method for operating a sensor unit of a vehicle,0,G01S|G06V|H04W
+11587237,2023-02-21,Image segmention via efficient semidefinate-programming based inference for binary and multi-class Markov Random Fields,0,B60W|G06T
+11587009,2023-02-21,Risk-based assessment of passenger transfer,0,G06Q|G08G
+11586855,2023-02-21,Method for determining a confidence value of a detected object,0,G06F|G06N|G06V
+11586777,2023-02-21,"Device, system and method for verifying an integrity status of a device",0,G06F|H04L
+11586203,2023-02-21,Method for training a central artificial intelligence module,0,G05D|G06F|G06N|G07C|H04L
+11586035,2023-02-21,Laser projection device having starting point of reflector shifted,0,G02B|G09G|H04N
+11585834,2023-02-21,Circuit for a bus system and method for operating a circuit,1,G01R|H04L
+11584079,2023-02-21,Build chamber for use in powder bed-based laser additive manufacturing processes,0,B22F|B29C|B33Y|G06F|Y02P
+11582747,2023-02-14,"Road-side network node, method to operate the road-side node, network infrastructure node, method to operate the network infrastructure node, and network setup",0,H04L|H04W
+11581634,2023-02-14,Method and apparatus for recognizing an absorptive radome coating,0,G01S|H01Q|H04W
+11580793,2023-02-14,"Sensor for emitting signals and for receiving reflected echo signals, and system including a control unit and such a sensor",0,G01S|G07C|G08C|H04L|H04Q
+11580695,2023-02-14,"Method for a sensor-based and memory-based representation of a surroundings, display device and vehicle having the display device",0,B60R|G06T|G06V|H04N
+11580653,2023-02-14,Method and device for ascertaining a depth information image from an input image,1,B60W|G06N|G06T
+11580332,2023-02-14,Method and device for reliably identifying objects in video images,0,G06F|G06N|G06V
+11580252,2023-02-14,Method for controlling user information in an automatically learning device,1,G06F|G06N|G06Q
+11580050,2023-02-14,"User station for a serial bus system, and method for communicating in a serial bus system",2,G06F|H04L
+11579034,2023-02-14,"Pressure detecting unit for a measuring device for measuring a pressure status value of a plant specimen, and method for manufacturing a pressure detecting unit",0,A01G|G01L|G01N|H01L
+11577679,2023-02-14,Detection of an impact event,0,B60R|B60W|H04W
+11574428,2023-02-07,Graph plotter and replicator tool,0,G06F|G06T
+11574143,2023-02-07,Systems and methods with robust classifiers that defend against patch attacks,1,G06F|G06N|G06T|G06V
+11573857,2023-02-07,Method for the secured storing of a data element in an external memory and interface module,0,G06F
+11570645,2023-01-31,First roadside network unit and method for operating the first roadside network unit,0,G08G|H04W
+11570189,2023-01-31,Simultaneously testing whether a plurality of electronic devices connected via a communication network correctly handle exceptions,0,G06N|G07C|H04L
+11569151,2023-01-31,Composite assembly of three stacked joining partners,0,B23K|H01L
+11568061,2023-01-31,Private model utility by minimizing expected loss under noise,0,G06F|G06N
+11567798,2023-01-31,Method and apparatus for managing computing performance in a data processing system,0,G06F
+11567012,2023-01-31,Mold detecting device using sensor to measure pH of a surface,0,G01N|G06T
+11565315,2023-01-31,Simulating melt pool characteristics for selective laser melting additive manufacturing,0,B22F|B28B|B29C|B33Y|G06F|Y02P
+11563751,2023-01-24,Method for managing a memory,0,B60R|G06F|G07C|H04L
+11562144,2023-01-24,Generative text summarization system and method,4,G06F|G06N|G06Q
+11561971,2023-01-24,Method and system for keyword search over a knowledge graph,0,G06F|G06N
+11561857,2023-01-24,Method for the secured storing of a data element to be stored by a computer program in an external memory,0,G06F
+11558715,2023-01-17,Method and apparatus for detecting signal propagation type,0,G01S|H04B|H04W
+11556493,2023-01-17,"System component having a configurable communication behavior, and method for operating such a system component",0,G06F|H04L
+11553325,2023-01-10,Communication system for monitoring process units,0,H04W
+11552939,2023-01-10,Method for the secure configuration of automation systems,0,G05B|H04L|H04W
+11551084,2023-01-10,System and method of robust active learning method using noisy labels and domain adaptation,0,G06F|G06N
+11550958,2023-01-10,System and method for confidential multi-party software in the loop simulation,0,G06F|H04L
+11550904,2023-01-10,System and method for improving measurements of an intrusion detection system by transforming one dimensional measurements into multi-dimensional images,0,G06F|G06N
+11550272,2023-01-10,Method and device for setting at least one parameter of an actuator control system and actuator control system,0,G05B|G06N
+11549822,2023-01-10,Device and method for monitoring a sensor clock signal,0,G01D|G06F|H03K|H04L
+11546188,2023-01-03,Transceiver device for a bus system and operating method therefor,0,H04L
+11544946,2023-01-03,System and method for enhancing neural sentence classification,0,G06F|G06N|G06V
+11541885,2023-01-03,Location prediction for dynamic objects,1,B60W|G06N|G06V|G08G
+11539889,2022-12-27,"Method for the noise optimization of a camera, in particular a handheld thermal imaging camera",0,G03B|G06T|H04N
+11537901,2022-12-27,System and method for unsupervised domain adaptation with mixup training,1,G06N
+11537361,2022-12-27,"Processing unit, method and computer program for multiplying at least two multiplicands",0,G06F|G06N
+11537122,2022-12-27,Method for controlling a motor vehicle remotely,0,B60W|G05D|H04L|H04W
+11537090,2022-12-27,"Model calculating unit and control unit for selectively calculating an RBF model, a gaussian process model and an MLP model",0,F02P|G05B|G06N
+11536630,2022-12-27,Method and device for detecting anomalies in sensor recordings of a technical system,0,G01M|G06N
+11535247,2022-12-27,Method and device for a cooperative coordination between future driving maneuvers of one vehicle and the maneuvers of at least one other vehicle,0,B60W|G06F|G08G|H04W
+11533388,2022-12-20,Method and device for analyzing service-oriented communication,0,H04L
+11533327,2022-12-20,Method and device for intrusion detection in a computer network,1,H04L
+11533322,2022-12-20,Method for detecting attacks on a network component of an industrial network,0,H04L
+11532100,2022-12-20,"Method for environmental acquisition, data processing unit",0,G01S|G06T|G06V
+11531899,2022-12-20,Method for estimating a global uncertainty of a neural network,0,G06N
+11531890,2022-12-20,Padding method for a convolutional neural network,0,G05D|G06N|G06V
+11531888,2022-12-20,"Method, device and computer program for creating a deep neural network",0,G06N
+11531832,2022-12-20,Method for determining a confidence value of an object of a class,0,G06F|G06N|G06V
+11527114,2022-12-13,Transceiver for a can bus system and method for detecting a short circuit using a can transceiver,2,G06F|G07C|H04L
+11526965,2022-12-13,Multiplicative filter network,0,G06F|G06N|G06T
+11526747,2022-12-13,Training a deep learning system to detect engine knock with accuracy associated with high fidelity knock detection sensors despite using data from a low fidelity knock detection sensor,0,F02D|G06N
+11526689,2022-12-13,Few-shot learning of repetitive human tasks,0,G06F|G06N
+11526177,2022-12-13,Method and device for operating a vehicle,0,B60W|G01C|G05D|G06F|G06V
+11525704,2022-12-13,Sensor device with capacitive sensor,0,G01D|G01R|G01V|G06F|H03K
+11524409,2022-12-13,Method and device for efficiently ascertaining output signals of a machine learning system,0,B25J|G06F|G06N|G06V
+11522892,2022-12-06,Method and device for intrusion detection in a computer network,0,G06F|H04L
+11522624,2022-12-06,"Method for the locationally selective transmission of a signal by radio, method for the locationally selective reception of a signal by radio, and transmitter/receiver unit for carrying out such a method",0,H04H|H04W
+11521375,2022-12-06,Method and system for improved object marking in sensor data,0,G06F|G06N|G06V
+11521124,2022-12-06,Reciprocating generative models,0,G06F|G06N
+11520892,2022-12-06,Integrated circuit and embedded system including such an integrated circuit with bootstrap configuration for attack prevention,0,G06F|G11C|H01L
+11519628,2022-12-06,System and method for optimizing energy use of a structure using a clustering-based rule-mining approach,0,F24F|G01K|G01R|G05B|G06N
+11514338,2022-11-29,Active activity planning system and method for supporting temporal constraints,0,G06F|G06N|G06Q
+11514268,2022-11-29,Method for the safe training of a dynamic model,0,G06F|G06N
+11513673,2022-11-29,Steering deep sequence model with prototypes,0,G06F|G06N
+11513594,2022-11-29,Method for operating a pair of smart glasses,0,G02B|G02C|G06F
+11511418,2022-11-29,Uniform remote control of mobile platforms,0,B25J|G05B|H04L
+11509867,2022-11-22,Method and device for determining a visual impairment of a camera,1,G06T|H04N
+11508237,2022-11-22,Method and system for ascertaining particular pieces of status information for at least one geographical position with the aid of autonomous or semi-autonomous vehicles,1,B60W|G05D|G06V|G08G|H04W
+11507784,2022-11-22,"Device and method of digital image content recognition, training of the same",0,G06F|G06V
+11503545,2022-11-15,Wakeup messaging for backscatter communication system node,0,H02J|H04B|H04W|Y02D
+11502876,2022-11-15,Transceiver device for a bus system and operating method therefor,3,H04L
+11501482,2022-11-15,"Anonymization apparatus, surveillance device, method, computer program and storage medium",0,G06T|G06V|G11B|H04N
+11501449,2022-11-15,Method for the assessment of possible trajectories,0,G06T|G06V|G08G
+11500998,2022-11-15,Measuring the vulnerability of AI modules to spoofing attempts,0,G06F|G06N|G06V
+11500679,2022-11-15,Operating a controller in a motor vehicle according to different time slots,0,G05B|G06F
+11500470,2022-11-15,System and method of vehicle aware gesture recognition in vehicles with smart helmets,0,G06F|G07C|H04B|H04L
+11500055,2022-11-15,Detection method and detection apparatus,0,G01S|H04W|Y02D
+11499810,2022-11-15,Acquisition device and method for acquiring sets of multiple object data of at least one object,2,B07C|B25J|G01B|G01D|H04N
+11498551,2022-11-15,Method and system for operating a vehicle,0,B60W|G06F|G06V
+11498212,2022-11-15,Method and system for robot manipulation planning,1,B25J|G05B|G06N
+11497057,2022-11-08,First and second terminal of a radio network and method for operating the first and second terminal,0,H04L|H04W
+11496520,2022-11-08,Method for operating a communications system,0,H04L
+11496296,2022-11-08,Method of authentication for delivery of a product,0,G06Q|H04L
+11494639,2022-11-08,Bayesian-optimization-based query-efficient black-box adversarial attacks,0,G06F|G06N|G06T|G06V
+11494535,2022-11-08,Method and device for simulating a control unit,0,G06F
+11494325,2022-11-08,"Communication module, user and method",0,G05D|G06F
+11493948,2022-11-08,Sensor-data processing device,0,G06F|G08C|H04J|H04Q
+11492013,2022-11-08,Vehicle fleet management having a hierarchy of priority factors,0,B60W|G01C|G05D|G06Q|G07C|G08G
+11489694,2022-11-01,"Device for a user station of a serial bus system, and method for communicating in a serial bus system",5,H04L
+11488006,2022-11-01,Discretization of numerical values with adaptive accuracy,0,G06F|G06N|H03M
+11487687,2022-11-01,Device for a user station of a serial bus system and method for communication in a serial bus system,4,G06F|H04L
+11487642,2022-11-01,Method for verifying software,0,G06F
+11486745,2022-11-01,"Method for providing sensor data of a sensor, and sensor system",0,G01C|G01D|G01P|H04L
+11482829,2022-10-25,Method for calibrating at least one laser diode,0,H01S|H04N
+11481681,2022-10-25,Classification robust against multiple perturbation types,0,G06F|G06N
+11481649,2022-10-25,Adapting a base classifier to novel classes,0,G06F|G06N|G06V
+11480978,2022-10-25,Method and device for operating an automated vehicle,0,G05D|G08G|H04W
+11475723,2022-10-18,Determining a fault in an electronic controller,0,G01R|G06F|G07C
+11474961,2022-10-18,Reducing runtime load for vehicle system data encryption using crypto engine with direct memory access (DMA),1,G06F|H04L|H04W
+11473906,2022-10-18,Method and device for aligning a calibration device,0,G01B|G01C|G01S|G06T|H04N
+11468687,2022-10-11,Training and operating a machine learning system,5,B60W|G06F|G06N|G06T|G06V
+11468276,2022-10-11,System and method of a monotone operator neural network,0,B60W|G06F|G06N|G06V
+11462999,2022-10-04,Hysteretic control of a boost converter,0,H02M|H04N|H10F
+11461479,2022-10-04,Computing device and method for operating same,0,G06F|H04L
+11461159,2022-10-04,"Integrated circuit, embedded system and motor vehicle",0,G06F
+11460539,2022-10-04,Method and device for operating multiple sensors of a vehicle,3,G01S|H04B|H04W
+11460319,2022-10-04,Method and device for storing travel distance data,0,G01C|G06F|G07C
+11457490,2022-09-27,Backscatter communication system,1,H04B|H04W
+11456995,2022-09-27,Method and device for operating a communications network,0,H04L
+11455791,2022-09-27,"Method, device, computer program, and machine-readable storage medium for the detection of an object",0,G06F|G06N|G06V
+11455515,2022-09-27,Efficient black box adversarial attacks exploiting input data structure,0,G06F|G06N|G06T|G06V
+11455439,2022-09-27,Neural network force field computational algorithms for molecular dynamics computer simulations,1,G06F|G06N|G16C
+11455393,2022-09-27,"Device for securing diagnostic commands to a control unit, and corresponding motor vehicle",0,G06F
+11455374,2022-09-27,System and method for combining differentiable partial differential equation solvers and graph neural networks for fluid flow prediction,0,G06F|G06N
+11454202,2022-09-27,Method and device for ascertaining a closure point in time of an injector of an internal combustion engine with the aid of a machine learning system,0,F02D|F02M|G06N
+11449737,2022-09-20,Model calculation unit and control unit for calculating a multilayer perceptron model with feedforward and feedback,0,G06F|G06N
+11445547,2022-09-13,"First radio terminal, method to operate a first radio terminal, and method to operate a radio communications network",4,H04W
+11445133,2022-09-13,Low power and low data-rate imager,1,G06F|H04N|Y02D
+11443529,2022-09-13,"Method and apparatus for detecting surroundings, and vehicle with such an apparatus",1,G01S|G06F|G06V|G08G|H04N
+11443521,2022-09-13,"Method and device for evaluating images, operational assistance method and operating device",0,B60T|G06T|G06V
+11442913,2022-09-13,Method and device for creating a localization map,1,G01C|G06F|G06N
+11442462,2022-09-13,Method for creating a feature-based localization map for a vehicle taking into account characteristic structures of objects,0,G05D|G06F|G06V|H04W
+11442300,2022-09-13,Vehicle mounted virtual visor system and method thereof,0,B60J|G02F|G06F|G06T|G06V
+11438804,2022-09-06,Method and apparatus for operating a wireless communication network,0,H04B|H04W
+11438028,2022-09-06,Communication set-up for wireless communication and method for controlling such a communication set-up,0,H04B|H04L|H04W
+11436476,2022-09-06,Refreshing of data stored by memristors,0,G06N|G11C
+11436180,2022-09-06,"I3C slave interface, integrated circuit including an I3C slave interface, and method for operating an I3C slave interface",0,G06F|H04L
+11435757,2022-09-06,"Method for verifying a digital map of a more highly automated vehicle (HAV), especially of a highly automated vehicle",1,G01C|G05D|G06V|H04W
+11433901,2022-09-06,Selection of a main object for an assistance function or automated driving function of a driver assistance system or driving system of a motor vehicle,0,B60W|G05D|G06N
+11430683,2022-08-30,Conveying device for conveying at least one wafer,3,B65G|H01L|H02K
+11430153,2022-08-30,Method for detecting an arrangement of at least two cameras of a multi-camera system of a mobile carrier platform relative to one another and method for detecting an arrangement of the camera with respect to an object outside the mobile carrier platform,0,B60R|G06T
+11430146,2022-08-30,Two-stage depth estimation machine learning algorithm and spherical warping layer for EQUI-rectangular projection stereo matching,1,G06N|G06T
+11429868,2022-08-30,Method for detecting an anomalous image among a first dataset of images using an adversarial autoencoder,0,G06F|G06N|G06V
+11429731,2022-08-30,Data protection configuration for electronic devices in a network,0,G06F|H04L|H04W
+11429386,2022-08-30,Method and apparatus for an advanced convolution on encrypted data,0,G06F|G06N|H04L
+11429375,2022-08-30,"Method for exchanging a first executable program code and a second executable program code, and a control unit",0,G06F
+11425346,2022-08-23,"Device and method for providing a multi-coloured light beam for a projector, projector and method of production",0,G02B|H04N
+11424951,2022-08-23,Device and method for a transmitter/receiver device of a bus system,0,H04L
+11423778,2022-08-23,Device and method for controlling the output of driver information and for maintaining the attention of a driver of an automated vehicle,0,B60K|B60R|B60W|G01C|G06F|G06V|G08G|H04W
+11423598,2022-08-23,"Method, apparatus and computer program for generating an image",0,G06F|G06N|G06T
+11423228,2022-08-23,Weakly supervised semantic entity recognition using general and target domain knowledge,1,G06F
+11423021,2022-08-23,Computer-implemented method for keyword search in a knowledge graph,0,G06F
+11422878,2022-08-23,Control unit and method for operating a control unit,0,G06F
+11422806,2022-08-23,Parallelized processing of elements of a first vector and a second vector using cyclical transmission of vector elements between processors,0,G06F
+11420643,2022-08-23,Device and method for calibrating vehicle assistance systems,2,B60W|G01B|G06T
+11418558,2022-08-16,Method and apparatus for real-time-capable data transmission between two networks,0,H04L
+11417552,2022-08-16,Method and device for determining a feature for devices produced on a wafer,0,G05B|G06F|G06N|H01L
+11416371,2022-08-16,Method and apparatus for evaluating and selecting signal comparison metrics,0,G05B|G06F
+11415433,2022-08-16,Method for calibrating a multi-sensor system using an artificial neural network,0,G01C|G06N
+11411827,2022-08-09,Computer network and method for running a computer network,0,H04L|Y02D
+11411818,2022-08-09,Method and apparatus for a communication network,0,H04L
+11410436,2022-08-09,Method and system for vision-based vehicle interior environment sensing guided by vehicle prior information,0,G06F|G06T|G06V
+11410433,2022-08-09,Semantically-consistent augmented training data for traffic light detection,0,G06F|G06N|G06T|G06V
+11410022,2022-08-09,Method and a machine learning system for classifying objects,0,G01S|G06F|G06N|G06V
+11409679,2022-08-09,System component and use of a system component,0,G06F
+11409273,2022-08-09,Device and method for determining the pinpoint-ability of possible defects of one or multiple component(s),0,G05B|G06F
+11407635,2022-08-09,"Bonding pad layer system, gas sensor and method for manufacturing a gas sensor",0,B81B|B81C|G01N|H01L
+11405192,2022-08-02,Searchable symmetric encryption system and method of processing inverted index,2,G06F|H04L
+11404106,2022-08-02,Read only memory architecture for analog matrix operations,2,G06N|G11C
+11404074,2022-08-02,Method for the classification of temporally sequential digital audio data,1,G06N|G10L
+11403854,2022-08-02,"Operating assistance method, control unit, operating assistance system and working device",0,G06T|G06V|G08G
+11403441,2022-08-02,Method for checking a vehicle dynamics model,1,B60W|G06F|G06N
+11403249,2022-08-02,Circuit for a bus system and method for operating a circuit,0,G06F|H03K
+11402808,2022-08-02,Configuring a system which interacts with an environment,0,B25J|G05B|G06F|G06N
+11402497,2022-08-02,Device for a vehicle,0,G01S|H01Q|H04L
+11402485,2022-08-02,Ultra-wideband intelligent sensing system and method,1,A61B|G01S|G05D|G06F|G07C|G08B
+11402219,2022-08-02,Method and localization system for setting up or updating an environment map,0,G01C|G05D|G06F
+11398087,2022-07-26,Event-based identification and tracking of objects,0,G06F|G06T|G06V
+11397660,2022-07-26,"Method and apparatus for testing a system, for selecting real tests, and for testing systems with machine learning components",0,G06F
+11397121,2022-07-26,Micromechanical pressure sensor system and method for manufacturing a micromechanical pressure sensor system,0,F16J|G01L|H01L
+11396449,2022-07-26,Method for checking a sensor value of a MEMS sensor,0,B81B|B81C|G01P|G06F
+11393225,2022-07-19,System and method for detecting abnormal settling of passengers in a vehicle,0,B60R|G06F|G06V
+11392804,2022-07-19,Device and method for generating label objects for the surroundings of a vehicle,1,G05D|G06F|G06V
+11386328,2022-07-12,"Method, apparatus and computer program for generating robust automated learning systems and testing trained automated learning systems",1,G06N
+11382047,2022-07-05,"Terminal device, method of operating a terminal device, industrial machine, and method of setting up an industrial machine",0,H04W
+11381376,2022-07-05,Method for synchronizing networks,0,H04J|H04L
+11373385,2022-06-28,Person recognition device and method,0,G06T|G06V|H04N
+11373356,2022-06-28,Method and system for efficient rendering of 3D particle systems for weather effects,0,G06T
+11372315,2022-06-28,Method for attaching a camera objective to an objective holder,0,G02B|G03B|H04N
+11370419,2022-06-28,Use of driver assistance collision mitigation systems with autonomous driving systems,0,B60W|H04L|H04W
+11368673,2022-06-21,Device designed for detecting a soiling of at least one transmitting window and/or one receiving window of a sensor,0,G01C|G01N|G01S|G02B|G03H|G06T|H04N
+11367041,2022-06-21,Occupancy sensing system for custodial services management,0,G06Q
+11366987,2022-06-21,"Method for determining explainability mask by neural network, system and medium",0,G06F|G06N|G06V
+11366938,2022-06-21,Method and device for operating a bus system,0,G06F|H04L
+11366911,2022-06-21,Cryptography module and method for operating same,1,G06F|H04L
+11366279,2022-06-21,Method for producing a camera module,1,G02B|G03B|H04N
+11366194,2022-06-21,Method for providing and improving a positional probability distribution for GNSS received data,0,B61L|G01S|H04W
+11364925,2022-06-21,Method for the self-check of driving functions of an autonomous or semi-autonomous vehicle,0,B60W|G06F
+11363660,2022-06-14,"Radio module, method to operate a radio module, radio terminal, method to operate a radio terminal",0,H04B|H04W
+11363034,2022-06-14,Method and device for operating a control unit in a network of control units,0,H04L
+11362628,2022-06-14,Input stage for an LVDS receiver circuit,0,H03F|H03K|H04L
+11361554,2022-06-14,Performing object and activity recognition based on data from a camera and a radar sensor,2,G01S|G05D|G06F|G06V
+11361450,2022-06-14,"Method for determining mutually corresponding pixels, SoC for carrying out the method, camera system including the SoC, control unit and vehicle",0,B60R|G06T|H04N
+11361272,2022-06-14,Device and method for monitoring a mobile object,0,G06Q|G07B
+11360849,2022-06-14,Method and monitoring unit for checking data in a storage unit or a system on a chip,0,G06F
+11360443,2022-06-14,Model calculation unit and control unit for calculating a partial derivative of an RBF model,0,F02D|G05B|G06F|G06N
+11356297,2022-06-07,User station for a bus system and method for transmitting a message at different bit rates in a bus system,0,H04J|H04L
+11356290,2022-06-07,Method and device for commissioning a smart home appliance,0,G10L|H04L
+11355284,2022-06-07,Cooling device for cooling a power component,0,H01G|H01L|H05K|Y02T
+11354786,2022-06-07,"Method for masking an image of an image sequence with a mask, computer program, machine-readable storage medium and electronic control unit",0,G06T|G08B
+11354411,2022-06-07,Microcontroller program instruction execution fingerprinting and intrusion detection,0,G06F|G06N|H05K
+11354203,2022-06-07,Error correction in a redundant processing system,0,G06F
+11354089,2022-06-07,System and method for dialog interaction in distributed automation systems,3,G06F|G10L|H04L
+11343118,2022-05-24,User station for a serial bus system and method for transmitting a message in a serial bus system,0,H04L
+11341654,2022-05-24,Correspondence search between matrix elements,0,G06F|G06T
+11341065,2022-05-24,"Method, computer program, electronic memory medium, device for providing a datum",0,G06F|G11C
+11335196,2022-05-17,Method for data classification and data transmission in vehicles,1,B60K|B62J|G06F|G08G
+11335135,2022-05-17,Method and device for determining accident effects on a vehicle,1,B60R|B60W|G07C|G08B|G08G|H04W
+11334985,2022-05-17,System and method for shared vehicle cleanliness detection,2,G06Q|G06T|G06V|G07C
+11334514,2022-05-17,Circuit for a bus system and method for operating a circuit,0,G06F|H04L
+11334283,2022-05-17,"Method for providing application data of at least one application executable on a control unit of a vehicle, method for calibrating a control unit, control unit and evaluation unit",0,G06F
+11333678,2022-05-17,"Method for offset calibration of a yaw rate sensor signal of a yaw rate sensor, system and computer program",0,G01C|G01D|G01P|G06F|G06Q|H03H|H04B|H04L
+11332162,2022-05-17,Methods and devices for communication that is comprehensive among users,0,B60W|G05D|G06Q|G07C|G08G|H04W
+11331835,2022-05-17,"Mounting element, mounting set, method for mounting, and component",0,B29C|B29K|B29L|G06F|H01R
+11330233,2022-05-10,Device and method for projecting an image,0,G02B|H04N
+11330013,2022-05-10,Method and device for monitoring data communications,0,H04L
+11329805,2022-05-10,"First vehicle-side terminal, method for operating the first terminal, second vehicle-side terminal and method for operating the second vehicle-side terminal",0,H04L|H04W
+11328587,2022-05-10,Method and system for confirming the identity of a vehicle,0,B60L|B60S|G01M|G07C|G08G|H04L|H04W|Y02T
+11327878,2022-05-10,Method for rating a software component of an SiL environment,1,B60W|G06F
+11327152,2022-05-10,FMCW radar sensor including synchronized high-frequency modules,1,G01S|G06F
+11323618,2022-05-03,"Method for displaying a model of a surrounding area, control unit and vehicle",0,B60R|G06T|H04N
+11323444,2022-05-03,Method for faster secure multiparty inner product computation with SPDZ,0,G06F|H04L
+11321911,2022-05-03,Method for representing the surroundings of a vehicle,1,B60R|G06T|G06V|G08G
+11321871,2022-05-03,Method for calibrating a detection system,0,G06T|H04N
+11321815,2022-05-03,Method for generating digital image pairs as training data for neural networks,0,G01S|G06N|G06T
+11321429,2022-05-03,"Safety system for an electronic device of a vehicle, electronic device, vehicle and method",0,B60R|G06F|H03K|H04W
+11316856,2022-04-26,Transparency mechanism for the local composition of personal user data stored in a distributed fashion,0,G06F|H04L
+11315279,2022-04-26,Method for training a neural convolutional network for determining a localization pose,0,G01C|G05D|G06N|G06T
+11315266,2022-04-26,Self-supervised depth estimation method and system,0,G06N|G06T
+11314989,2022-04-26,Training a generative model and a discriminative model,0,G06F|G06N
+11313754,2022-04-26,Leak detection for piping systems using a sound signal,0,E03B|G01M|G06N
+11312393,2022-04-26,Artificially falsifying sensor data to initiate a safety action for an autonomous vehicle,0,B60W|G01C|G05B|G06F|G06V
+11310913,2022-04-19,"Semiconductor component, and contacting assembly having a semiconductor component and a printed circuit board",0,H01L|H05K|Y02P
+11307110,2022-04-19,Pressure-sensor assembly having a carrier substrate,0,G01L|H01L
+11305730,2022-04-19,Method for controlling access to a vehicle,0,B60R|G07C|H04W
+11303808,2022-04-12,Energy gathering image sensor system,0,H02M|H03K|H04N|H10F
+11301749,2022-04-12,Method for calculating an output of a neural network,0,G05B|G06N
+11301724,2022-04-12,Semantic adversarial generation based function testing method in autonomous driving,0,G06F|G06N|G06T|G06V
+11301058,2022-04-12,"Method for ascertaining a user input, and media device",0,G06F|H04R
+11296970,2022-04-05,Method for detecting a disruption in a vehicle's communication system by checking for abnormalities in communication,1,G06F|H04L
+11295756,2022-04-05,Ontology-aware sound classification,0,G06F|G06N|G10L
+11292463,2022-04-05,Determination of a control signal for an in-part-autonomous vehicle,3,B60W|G01S|G02B|G06F|G06V|G08G
+11290264,2022-03-29,Secure and efficient multi-server oblivious random access machine in a malicious execution environment,0,G06F|H04L
+11287799,2022-03-29,Method for coordinating and monitoring objects,0,G05B|G05D|H04L|H04W
+11283705,2022-03-22,"Anomaly detector, anomaly detection network, method for detecting an abnormal activity, model determination unit, system, and method for determining an anomaly detection model",0,H04L|H04W
+11282395,2022-03-22,Method for operating an automated vehicle convoy,0,G05D|G08G|H04L|H04W
+11282158,2022-03-22,Method for managing tracklets in a particle filter estimation framework,1,G05B|G06F|G06T|G06V|Y02P
+11281295,2022-03-22,Apparatus for sensing and three dimensional haptic,2,B60W|G06F
+11280828,2022-03-22,Method for testing a system for a requirement,0,G01R|G05B|G06F
+11279282,2022-03-22,Methods and systems for aligning a vehicle with a trailer,0,B60D|B60Q|B60R|B60W|G06T
+11277722,2022-03-15,Method for operating a roadside network unit and roadside network unit,1,H04L|H04W
+11277299,2022-03-15,Method and device for anomaly detection in a vehicle,0,H04L
+11277166,2022-03-15,Occupancy sensing using ultra-wide band,1,H04B|H04W
+11276140,2022-03-15,"Method and device for digital image, audio or video data processing",0,G06F|G06N|G06T|H04N
+11275621,2022-03-15,Device and method for selecting tasks and/or processor cores to execute processing jobs that run a machine,0,G06F
+11275381,2022-03-15,Control and monitoring of physical system based on trained Bayesian neural network,0,G05B|G05D|G06F|G06N
+11275362,2022-03-15,Test time reduction for manufacturing processes by substituting a test parameter,0,G05B|G06F|G06N|G06V|Y02P
+11270135,2022-03-08,Method and device for classifying objects on a roadway in surroundings of a vehicle,0,G06F|G06T|G06V
+11269862,2022-03-08,Method and device for checking a situation in a decentralized transaction system,0,G06F|G06Q|G07F|H04L
+11269154,2022-03-08,Camera device for a vehicle for driver observation,0,B60R|G02B|H04N
+11269005,2022-03-08,Device for measuring a thermal degradation of the cooling path of power electronic components using luminescence,0,G01K|G01R|H01L|H02M
+11263495,2022-03-01,"Device and method of digital image content recognition, training of the same",0,G06F|G06N|G06T|G06V
+11263465,2022-03-01,Low-dimensional ascertaining of delimited regions and motion paths,0,B60Q|G06T|G06V
+11263163,2022-03-01,Processing control of a sensor system,0,G06F
+11261774,2022-03-01,Method for ascertaining a NOx concentration and a NH3 slip downstream from an SCR catalytic converter,0,F01N|G06N|Y02A|Y02T
+11259159,2022-02-22,Method and device for controlling vehicle sensor systems,0,G06V|H04L|H04W
+11258637,2022-02-22,Method for operating TSN-enabled network coupling elements,0,H04L
+11258633,2022-02-22,Timestamp unit and communication control unit for a user station of a communication network,0,H04J|H04L
+11256269,2022-02-22,Optimization of task completion in a facility,0,G05D|G06Q|H04W|Y02P
+11255704,2022-02-22,Sensor system and method for operating a sensor system,0,G01D|G06F|H04Q|Y02D
+11252388,2022-02-15,Method and device for processing an image signal of an image sensor for a vehicle,0,G06T|H04N
+11252086,2022-02-15,Method and device for operating a network component and a control instance in a software-defined networking communication infrastructure,0,G06F|H04L
+11251957,2022-02-15,System and method for delegating ticket authentication to a star network in the internet of things and services,0,H04L|H04W
+11250853,2022-02-15,Sarcasm-sensitive spoken dialog system,0,G06F|G10L
+11250279,2022-02-15,Generative adversarial network models for small roadway object detection,0,G06F|G06T|G06V
+11250155,2022-02-15,Method for managing personal data in a distributed system,0,G06F|G06Q|H04L
+11247674,2022-02-15,Method for cooperative maneuver coordination,1,B60W|G05D|G08G|H04W
+11245873,2022-02-08,Method and camera system for monitoring a packaging process,0,G01B|G01G|G05B|G06Q|G06T|H04N
+11245549,2022-02-08,"Bus system, subscriber station therefor, and method for configuring a static bus system for a dynamic communication",1,H04L
+11243858,2022-02-08,Method and device for testing a technical system,0,G06F
+11243663,2022-02-08,Method for operating an information device,0,G06F
+11240704,2022-02-01,Road-side network node and method to operate the road-side network node,0,H04L|H04W
+11240645,2022-02-01,Road-side network node and method to operate the road-side network node,0,H04L|H04W
+11240489,2022-02-01,"Testing method for a camera system, a control unit of the camera system, the camera system, and a vehicle having this camera system",0,B60R|H04N
+11240445,2022-02-01,Single-chip RGB-D camera,1,G01S|H04N
+11238166,2022-02-01,Data processing device and operating method therefor,0,G06F
+11237931,2022-02-01,Method and device for testing a technical system,0,G06F
+11233579,2022-01-25,Current injection based generation of indistinguishable Glauber-state and decoy-state optical signals,0,G02F|G06N|H04B|H04L
+11231914,2022-01-25,Community detection using fast low-cardinality semidefinite programming,0,G06F
+11231283,2022-01-25,Localization with neural network based image registration of sensor data and map data,1,G01C|G01S|G06T|G06V
+11228605,2022-01-18,Method and device for handling an anomaly in a communication network,0,H04L
+11227166,2022-01-18,"Method and device for evaluating images, operating assistance method, and operating device",0,G05D|G06F|G06T|G06V
+11226825,2022-01-18,Dynamic assignment of special tasks in distributed networks,0,G06F|H04L
+11224359,2022-01-18,Repetitive human activities abnormal motion detection,0,A61B|G06F|G06N|G06V|G09B
+11223490,2022-01-11,Robust computational fuzzy extractor and method for authentication,0,H04L|H04W
+11222136,2022-01-11,Method and system for dynamic searchable symmetric encryption with forward privacy and delegated verifiability,0,G06F|G16H|H04L
+11220214,2022-01-11,Vehicle viewing system and method including electronic image displays for rearward viewing by a driver,3,B60R|G06V|H04N
+11218335,2022-01-04,Transmitter/receiver device for a bus system and method for reducing conducted emissions,2,H04L
+11216721,2022-01-04,Method for calculating a neuron layer of a multi-layer perceptron model with simplified activation function,0,G06F|G06N
+11216673,2022-01-04,Direct vehicle detection as 3D bounding boxes using neural network image processing,2,B60R|B60W|G05D|G06F|G06N|G06V
+11216672,2022-01-04,Detecting driving-relevant situations at a larger distance,0,B60R|G06F|G06V|H04N
+11215509,2022-01-04,"Method for determining a temperature without contact, and infrared measuring system",1,G01J|H04N
+11215485,2022-01-04,"Method, device and computer program for ascertaining an anomaly",0,G01D|G01S|G06F|G06N
+11212480,2021-12-28,Brightness and contrast optimization of images in real time,1,G06T|H04N
+11212408,2021-12-28,"Multimedia device, multimedia arrangement having the multimedia device, and method for transferring an optical code using the multimedia arrangement",0,G06K|H04N
+11209929,2021-12-28,Faulty pressure sensor determination of a portable communication device touch display,0,G01L|G06F
+11209891,2021-12-28,Clock control to increase robustness of a serial bus interface,2,G06F|H04L|Y02D
+11206274,2021-12-21,Method and apparatus for calibrating a system for recognizing attempts to penetrate a computer network,1,H04L
+11206094,2021-12-21,Synchronization of components by a control unit,0,G04G|G04R|H04J|H04L
+11202002,2021-12-14,Method and preprocessing device for preprocessing camera raw data of an image sensor of a camera,0,G06T|H04N
+11201766,2021-12-14,Detector circuit and system for galvanically isolated transmission of digital signals,0,H03F|H04L
+11201734,2021-12-14,Method and system for fault tolerant and secure multiparty computation with SPDZ,0,G06F|H04L
+11200195,2021-12-14,Method and device for the initial programming of a secondary computer,0,G06F
+11199561,2021-12-14,System and method for standardized evaluation of activity sequences,0,G01P|G06F|G06T|G06V|G09G
+11199419,2021-12-14,Method for reducing exhaust gas emissions of a drive system of a vehicle including an internal combustion engine,1,B60W|G01C|G06N|G06Q
+11198373,2021-12-14,Method for operating a charging device,0,B60L|G06Q|G08G|H02J|Y02T|Y04S
+11196510,2021-12-07,User station for a serial communication network and method for correcting individual errors in a message of a serial communication network,0,H04L
+11196492,2021-12-07,Apparatus for person identification and motion direction estimation,1,G06N|H04B|H04W
+11195287,2021-12-07,Method and device for checking the plausibility of a flow vector hypothesis,0,G06F|G06T
+11195258,2021-12-07,Device and method for automatic image enhancement in vehicles,0,G06T|G06V
+11190738,2021-11-30,Vehicle standstill recognition,0,B60T|B60W|H04N
+11186243,2021-11-30,Methods and devices for triggering personal protection devices having a common system time,1,B60R|B60W|G07C|H04L
+11184531,2021-11-23,Dynamic image blending for multiple-camera vehicle systems,1,B60R|G06T|H04N
+11181379,2021-11-23,System and method for enhancing non-inertial tracking system with inertial constraints,3,G01C|G01S|H04L
+11179843,2021-11-23,"Method for operating a robot in a multi-agent system, robot, and multi-agent system",0,B25J|G05B|G06Q
+11178364,2021-11-16,"Operating method and control unit for a laser projection unit, and laser projection unit",0,H04N
+11178162,2021-11-16,Method and device for detecting anomalies in a computer network,1,H04L
+11176422,2021-11-16,Apparatus and system for unsupervised disentangled representation learning with a residual variational autoencoder,0,G06F|G06N|G06V
+11175331,2021-11-16,"Aging detector for an electrical circuit component, method for monitoring an aging of a circuit component, component and control device",0,G01R|H01L
+11172347,2021-11-09,Method and device for providing a piece of injury information about an injury of an unprotected road user in the event of a collision with a vehicle,5,B60R|G06F|G06N|G08B|H04W
+11171857,2021-11-09,Identifying an electronic device connected to a communication network that has XCP enabled,0,G06F|H04L
+11170141,2021-11-09,Graph transformer neural network force field for prediction of atomic forces and energies in molecular dynamic simulations,1,G06F|G06N
+11165594,2021-11-02,Reverse computational fuzzy extractor and method for authentication,0,H04L
+11164458,2021-11-02,"Device for monitoring an occupancy status of a parking space of a parking area, and a system and a parking area that include such a device",0,G06K|G08C|G08G|H04B|H04W
+11163562,2021-11-02,Processing unit and operating method therefor,1,B60W|G05B|G06F
+11157746,2021-10-26,Method and system for detecting an elevated object situated within a parking facility,1,G06V|G08G|H04N
+11155248,2021-10-26,Method for ascertaining the slope of a roadway,0,B60T|G06T
+11153534,2021-10-19,Virtual mask for use in autotracking video camera images,0,G01S|G06T|G06V|G08B|H04N
+11151475,2021-10-19,Method and device for generating a machine learning system and virtual sensor device,0,G06F|G06N
+11150657,2021-10-19,Lossy data compressor for vehicle control systems,0,B60W|G06F|G06N|G06V|G08G|H03M
+11150079,2021-10-19,Distance measuring element,0,G01B|G06K|H04N
+11146712,2021-10-12,Method for manufacturing camera modules and a camera module array,0,H04N|H10F
+11146419,2021-10-12,Transceiver for a bus system and method for reducing line-associated emissions,2,H04L
+11146410,2021-10-12,Pseudo-random generation of matrices for a computational fuzzy extractor and method for authentication,2,G06F|H04L
+11146264,2021-10-12,Electric circuit for testing a power-on reset circuit,0,G01R|G06F|H03K
+11146160,2021-10-12,Transporting device with a stator for the controlled transport of a transport element relative to the stator,1,B60L|B65G|H01L|H02K|H02N|H02P
+11144842,2021-10-12,Model adaptation and online learning for unstable environments,1,G05B|G06N
+11144663,2021-10-12,Method and system for search pattern oblivious dynamic symmetric searchable encryption,4,G06F|H04L
+11144327,2021-10-12,"Method for operating a control unit, and device having an associated control unit",0,B60R|G06F
+11143562,2021-10-12,Device for detecting a pressure of a fluid medium and method for manufacturing the device,0,G01L|H01L
+11140689,2021-10-05,"Method for operating a network infrastructure-side network unit, network infrastructure-side network unit, method for operating a roadside network unit, roadside network unit",0,H04L|H04W
+11140340,2021-10-05,Single-chip RGB-D camera,0,G01S|H04N
+11140002,2021-10-05,Method for switching off a communication and corresponding communication system,0,H04L|Y02D
+11139865,2021-10-05,"Method, program instructions, storage medium, and device",0,H04B|H04J|H04L|H04W
+11138467,2021-10-05,"Method, device, product, and computer program for operating a technical system",0,G06F|G06N|G06V
+11138067,2021-10-05,"Method and device for determining check sums, buffer memory and processor",0,G06F
+11138054,2021-10-05,"Clock fractional divider module, image and/or video processing module, and apparatus",0,G06F
+11137256,2021-10-05,Parking area map refinement using occupancy behavior anomaly detector,2,B60W|B62D|G01C|G06F|G06V|G08G
+11134133,2021-09-28,Communication method,0,G05B|H04L|Y02D
+11133982,2021-09-28,Process for deploying a mesh network and a mesh network node device,0,H04L|H04W
+11132585,2021-09-28,System and method for detecting abnormal passenger behavior in autonomous vehicles,0,G06F|G06V
+11129029,2021-09-21,Road-side network node and method to operate the road-side network node,3,H04L|H04W|Y02D
+11129001,2021-09-21,Method and device to provide a coexistence mechanism for two different wireless communication technologies on a shared frequency range,1,H04W
+11128726,2021-09-21,Transmission method,1,G05B|H04L|Y02P
+11126855,2021-09-21,Artificial-intelligence powered ground truth generation for object detection and tracking on image sequences,3,G06F|G06N|G06V
+11126852,2021-09-21,"Method for training a person recognition model using images from a camera, and method for recognizing persons from a trained person recognition model by means of a second camera in a camera network",0,G06F|G06N|G06T|G06V|G08B|H04N
+11126847,2021-09-21,System and method for integrating machine learning and crowd-sourced data annotation,1,G06F|G06N|G06V
+11125858,2021-09-21,Method for initial calibration of a sensor for a driver assistance system of a vehicle,0,B60W|G01S|G05D|G06T|H04N
+11120682,2021-09-14,System and method for operating physical entities based on a virtual representation of the physical entities,0,G06F|G06Q|G06T|G08C|G09G|H04L|H04W
+11120590,2021-09-14,Hierarchy detection for block diagrams,2,G06F|G06T
+11116089,2021-09-07,Component assembly including a connection between two components,0,H04N|H05K
+11115236,2021-09-07,Subscriber station for a bus system and method for transmitting data in a bus system,0,B60R|G06F|H04L
+11115232,2021-09-07,Method and device for operating a control unit,0,B60W|G06F|H04L
+11113561,2021-09-07,"Method, artificial neural network, device, computer program and machine-readable memory medium for the semantic segmentation of image data",1,G06F|G06N|G06V
+11113549,2021-09-07,Method and device for analyzing an image and providing the analysis for a driving assistance system of a vehicle,0,B60W|G06F|G06V
+11113099,2021-09-07,Method and apparatus for protecting a program counter structure of a processor system and for monitoring the handling of an interrupt request,0,G06F
+11112861,2021-09-07,Determination of a spatial orientation,0,A61B|G01C|G06F
+11108658,2021-08-31,"Method for detecting data, method for updating a scenario catalog, a device, a computer program and a machine-readable memory medium",0,B60W|H04L|H04W
+11106940,2021-08-31,Training of a classifier,0,B60R|G06F|G06V
+11106449,2021-08-31,Method for updating software components of a network subscriber of a network,0,G06F|H04L
+11104273,2021-08-31,Arrangement to prevent erroneous image orientation for rear view camera,0,B60K|B60R|G06V|H04N
+11100624,2021-08-24,Method and device for analyzing image sections for a correspondence calculation,0,G06T|H04N
+11100433,2021-08-24,Valet parking method,3,B60L|B60W|G05D|G06Q|G08G|Y02T
+11100358,2021-08-24,"Method, artificial neural network, device, computer program and machine-readable memory medium for the semantic segmentation of image data",0,G06F|G06N|G06T|G06V
+11100337,2021-08-24,"Determining a state of the surrounding area of a vehicle, using linked classifiers",0,G06F|G06V
+11099565,2021-08-24,Method for providing personal stowage using a highly or fully automatically operated vehicle,0,B60R|B60W|G05D|G06Q|G08G
+11096061,2021-08-17,Method and device to provide a coexistence mechanism for two different wireless communication technologies on a shared frequency range,0,H04W
+11093863,2021-08-17,"Method for ascertaining a time characteristic of a measured variable, prediction system, actuator control system, method for training the actuator control system, training system, computer program, and machine-readable storage medium",0,A61B|F02D|G05B|G06N|H10N
+11093764,2021-08-17,Available parking space detection localization using historical aggregation shifting,0,B60R|G06F|G06V|G08G
+11093753,2021-08-17,RGB-D camera based tracking system and method thereof,1,G06F|G06T|G06V
+11093717,2021-08-17,Domain-specific process difficulty prediction,0,G06F|G06N
+11090812,2021-08-17,"Inspection apparatus for optically inspecting an object, production facility equipped with the inspection apparatus, and method for optically inspecting the object using the inspection apparatus",0,B25J|G01M|G01N|G06T|H04N
+11089610,2021-08-10,Method and device to provide a coexistence mechanism for two different wireless communication technologies on a shared frequency range,0,H04W
+11089243,2021-08-10,"Image sensor element for outputting an image signal, and method for manufacturing an image sensor element for outputting an image signal",0,H04N|H10F
+11088868,2021-08-10,Method for communicating between a microcontroller and a transceiver component,0,H04B|H04J|H04L
+11087470,2021-08-10,Image analysis including targeted preprocessing,1,G05D|G06N|G06T|G06V
+11087171,2021-08-10,"System for assessing an image, operating assistance method, control unit for a working device, and working device",0,G06F|G06N|G06T|G06V
+11087167,2021-08-10,First-person camera based visual context aware system,1,G06F|G06N|G06V|G09B
+11086666,2021-08-10,Activating tasks in an operating system using activation schemata,0,G06F
+11086580,2021-08-10,Method for checking a validity of image data,0,G06F|G06T|G09G
+11082234,2021-08-03,Method and system for privacy-preserving social media advertising,0,G06Q|H04L
+11080530,2021-08-03,Method and system for detecting an elevated object situated within a parking facility,0,G06V|G08G|H04N
+11079591,2021-08-03,Method and device for generating a visible image on a projection surface,0,G02B|G03B|G06F|H04N
+11078857,2021-08-03,Calculation of exhaust emissions of a motor vehicle,2,F01N|F02B|F02D|G01M|G05B|G06N
+11076227,2021-07-27,Method and device for detecting damage to a motor vehicle,0,G06N|H04R
+11074361,2021-07-27,Server application and method for checking the plausibility of privacy statements,0,G06F|G06Q|H04L
+11074276,2021-07-27,Methods and systems for optimized visual summarization for sequences of temporal event data,0,G06F
+11071203,2021-07-20,Circuit substrate arrangement with improved electrical contact,0,H01L|H05K
+11070703,2021-07-20,3D printer touchscreen interface lockout,0,B29C|B33Y|G06F|H04L|H04N
+11069243,2021-07-20,Method for warning a vulnerable road user,2,G08G|H04W
+11068429,2021-07-20,Oscillation reduction unit for a bus system and method for reducing an oscillation tendency when transitioning between different bit states,4,G06F|H04L
+11064170,2021-07-13,"Laser projection device, method for its operation, and laser projector",0,G02B|G06F|H04N
+11062491,2021-07-13,Graph plotter and replicator tool,1,G06F|G06T
+11062145,2021-07-13,Camera device for the exterior region of a building,1,G06V|G08B|H04L|H04N|H04R|H04W
+11061562,2021-07-13,Method for providing haptic feedback to an operator of a touch-sensitive display device,0,G06F
+11059717,2021-07-13,Micromechanical pressure sensor and method for producing said micromechanical pressure sensor,0,B29C|B81B|B81C|G01L|H01L
+11059517,2021-07-13,"Driving assistance method, driving assistance system and vehicle",0,B62D|G06T|G06V
+11057279,2021-07-06,Method and device for ascertaining anomalies in a communications network,0,G06F|G06N|H04L
+11055632,2021-07-06,Method and device for improving the robustness against “adversarial examples”,0,G05B|G06N
+11055163,2021-07-06,Method and device for error handling in a communication between distributed software components,0,G06F
+11051432,2021-06-29,"Electronic module, in particular an electronic power module for hybrid vehicles or electric vehicles",0,H01L|H05K
+11049394,2021-06-29,Method for communicating with a road user,0,G08G|H04W
+11048575,2021-06-29,Method and device for error handling in a communication between distributed software components,0,G06F
+11044029,2021-06-22,"Method for the locationally selective transmission of a signal by radio, method for the locationally selective reception of a signal by radio, and transmitter/receiver unit for carrying out such a method",0,H04H|H04W
+11042974,2021-06-22,Method and system for determining a degree of correlation between a simulated camera image and an actual camera image,0,G06F|G06T|G06V
+11042763,2021-06-22,"Method, device and sensor system for monitoring the surroundings for a vehicle",1,G06F|G06V
+11042143,2021-06-22,Method and device for detecting errors occurring during computing data models in safety-critical systems,0,G05B|G06F
+11041813,2021-06-22,"Inspection apparatus for optically inspecting an object, and object inspection system",0,G01B|G01N|H04N
+11041589,2021-06-22,"Method, apparatus and system for safety control",0,F16P|G07C|H04W
+11040678,2021-06-22,"Method for calibrating a vehicle control unit via a voltage supply line, and a correspondingly calibratable vehicle control unit",0,B60R|B60W|G06F|H02J
+11037867,2021-06-15,Semiconductor module,0,H01L
+11036774,2021-06-15,Knowledge-based question answering system for the DIY domain,2,G06F|G06N
+11023477,2021-06-01,Method and system for fuzzy keyword search over encrypted data,3,G06F|H04L
+11018894,2021-05-25,Apparatuses and methods for transmitting a communication signal and electric power between two user stations of a bus system,0,H04L
+11012453,2021-05-18,Method for protecting a vehicle network against manipulated data transmission,0,H04L|H04W
+11012195,2021-05-18,"Method, sensor, and controller for transmitting a data packet from a sensor to a controller",0,H04L
+11009430,2021-05-18,Method and arrangement for monitoring an operation of a plant,0,G01M|G05B|G06N|H04W
+10999421,2021-05-04,System and method for utilizing pressure sensors in an electric device,1,G06F|H04M
+10999058,2021-05-04,System-on-chip and security circuit including a system-on-chip of this type,0,G06F|G09C|H04L
+10997474,2021-05-04,"Apparatus and method for person detection, tracking, and identification utilizing wireless signals and images",1,G01S|G06F|G06V|H04N|H04W
+10997467,2021-05-04,Visual analytics exposure of image object detector weakness,1,G06F|G06T|G06V
+10996693,2021-05-04,Haptic feedback actuation via open/closed loop control system,0,G05D|G06F|G08B|H04M
+10996548,2021-05-04,Truss-mounted security device,0,E04B|F16M|G03B|G08B|H04N
+10996235,2021-05-04,System and method for cycle duration measurement in repeated activity sequences,0,G01P|G06F|G09G
+10994989,2021-05-04,Method for producing a microelectromechanical component and wafer system,0,B81B|B81C|H01L
+10994701,2021-05-04,Incident capture system for parked vehicles using an rear/multi view camera system,0,B60R|H04N
+10991643,2021-04-27,Power module comprising a housing which is formed in levels,0,H01L
+10990381,2021-04-27,Method and device for updating a program,1,G06F
+10990092,2021-04-27,Test time reduction for manufacturing processes by removing a redundant test,0,G05B|G06F|G06Q|Y02P
+10989555,2021-04-27,System and method for automated semantic map generation,0,G01C|G06N
+10984502,2021-04-20,Monitoring apparatus for person recognition and method,0,B64U|G05D|G06T|G06V
+10984311,2021-04-20,Involved generative machine learning models for functional testing,0,G06F|G06N|G06V
+10984054,2021-04-20,Visual analytics system for convolutional neural network based classifiers,3,G06F|G06N|G06V
+10981568,2021-04-20,Redundant environment perception tracking for automated driving systems,0,B60W|G06F|G06V|G08G
+10979642,2021-04-13,Camera system for positioning an optical unit of the camera system,0,G02B|G03B|H04N
+10978750,2021-04-13,Electrical connector for a battery module,0,H01L|H01M|H05K|Y02E
+10972250,2021-04-06,Device and method for correcting at least one transmission parameter,1,G08C|H03K|H04L|H04Q
+10970747,2021-04-06,Access and control for driving of autonomous vehicle,7,B60W|G06Q|G06V
+10965384,2021-03-30,Method and system for suppressing an interference signal during detection of a chirp signal,0,H04B|H04L
+10962631,2021-03-30,Method for operating a laser distance measuring device,0,G01S|G06T|H04N
+10959479,2021-03-30,Apparatus and warning system for intelligent helmet,2,A42B|B62J|G08B|H04N
+10958680,2021-03-23,Method to mitigate voltage based attacks on key agreement over controller area network (CAN),2,G09C|H04L|H04Q
+10958675,2021-03-23,Method for the automated creation of rules for a rule-based anomaly recognition in a data stream,0,H04L
+10958264,2021-03-23,Circuit system for controlling an electrical consumer,0,G06F|H03K
+10956752,2021-03-23,"Camera for monitoring a monitored area and monitoring device, and method for monitoring a monitored area",2,G06T|G06V|G08B|H04N
+10956356,2021-03-23,Clock control to increase robustness of a serial bus interface,2,G06F
+10956269,2021-03-23,Electronic data-distribution control unit and method for operating such a control unit,0,G06F|H04L
+10955939,2021-03-23,Method for estimating the orientation of a portable device,0,G06F
+10955267,2021-03-23,Sensor device,0,G01D|G08C|H04W
+10950455,2021-03-16,Method for manufacturing a semiconductor device and semiconductor device,0,B81C|H01L
+10949682,2021-03-16,Method for ascertaining a piece of topological information of an intersection,0,G01C|G06N|G06V|G08G
+10949681,2021-03-16,Method and device for ascertaining an optical flow based on an image sequence recorded by a camera of a vehicle,1,G06T|G06V|H04N
+10949529,2021-03-16,Processing unit and method for operating a processing unit,0,G06F
+10949317,2021-03-16,Sensor system for outputting sensor data,1,G05B|G06F
+10948732,2021-03-16,Light-emitting unit and method for producing a light-emitting unit,0,G02B|H01S|H04N
+10948360,2021-03-16,Switching element having temperature monitoring and method for temperature monitoring,0,G01K|H01L|H10D
+10948354,2021-03-16,Measuring people-flow through doorways using easy-to-install IR array sensors,3,F24F|G01J|G06T
+10946832,2021-03-16,"Method and control unit for monitoring an interior of a motor vehicle, in particular during a delivery",0,B60R|G06Q|G07C
+10943489,2021-03-09,Method for improving driving safety when vehicles are traveling in convoy,0,G08G|H04W
+10942797,2021-03-09,Fault tree analysis for technical systems,0,G05B|G06F|G07C
+10937714,2021-03-02,Electrical device having a covering material,0,H01L
+10936663,2021-03-02,Generating sensitive dialogue through lightweight simulation,1,G06F|G10L|H04M|H04W
+10932113,2021-02-23,Movement-dependent transmission of data between a hand-held machine tool and an external unit,0,B25F|H04L|H04W
+10930577,2021-02-23,Device for cooling electrical components,0,H01L|H05K
+10929689,2021-02-23,Using a camera to assist forward vehicles in a caravan,0,B60Q|B60R|B60W|G01S|G05D|G06F|G06V|G08G
+10929334,2021-02-23,Subscriber station for a serial bus system and method for data transmission in a serial bus system,0,G06F|H04L
+10924471,2021-02-16,Method for enabling and/or requesting access by a first network subscriber to a second network subscriber in a network,0,H04L|H04W
+10922973,2021-02-16,RSS-based parking detection system and method thereof,0,G01S|G08G|H04B|H04W
+10921376,2021-02-16,Sensor apparatus for monitoring at least one battery cell,0,G01K|G01R|H01L|Y02E
+10915784,2021-02-09,Method for detecting map errors,0,G01S|G06T|G06V
+10915375,2021-02-09,Method and device for the synchronization of processes on at least two processors,0,G06F|H04L
+10914594,2021-02-09,Method and apparatus for localizing and automatically operating a vehicle,1,G01C|G05D|G06F|G06V
+10913152,2021-02-09,"Robot device controller, robot device arrangement and method for controlling a robot device",2,B25J|G06N
+10912019,2021-02-02,Distributed wireless intercom audio routing over ethernet with synchronization and roaming,0,H04M|H04N|H04W
+10909149,2021-02-02,Method and device for creating and providing a map,0,G01C|G01S|G06F
+10906483,2021-02-02,Reduced-complexity vehicle instrument control utilizing backchannel transmission,1,B60K|B60R|G06F|H04L

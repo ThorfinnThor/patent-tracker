@@ -1,0 +1,797 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432449,2025-09-30,Electronic image stabilization device and method thereof,0,H04N
+12432373,2025-09-30,Method and apparatus for hardware-friendly template matching in video coding system,0,G06V|H04N
+12432349,2025-09-30,Method and apparatus of entropy coding for scalable video coding,0,H04N
+12430722,2025-09-30,Image processing method and image processing device,0,G06T
+12430542,2025-09-30,Compiling asymmetrically-quantized neural network models for deep learning acceleration,0,G06F|G06N
+12425683,2025-09-23,Clock control method and electronic device thereof,0,G09G|H04N
+12425597,2025-09-23,Method and apparatus for multiple hypothesis prediction in video coding system,0,H04N
+12424989,2025-09-23,Electronic device and method for envelope tracking,0,H03F|H04B|H04L
+12424531,2025-09-23,Semiconductor package structure,0,H01L
+12422912,2025-09-23,Electronic system and protection method for power management circuit,0,G06F
+12418859,2025-09-16,UE auto update cag configuration when accessing pni-npn as hosting network for localized services,0,H04W
+12418819,2025-09-16,Method and apparatus for satellite access network measurement within overlapping gaps,0,H04B|H04W
+12418787,2025-09-16,Apparatuses and methods for simultaneous reception or transmission associated with dual subscriber numbers using a single radio frequency (RF) device,0,H04W
+12417119,2025-09-16,Thermal-aware task scheduling,0,G06F|Y02D
+12411474,2025-09-09,"Integrated circuit configurable to perform adaptive thermal ceiling control in per-functional-block manner, associated main circuit, associated electronic device and associated thermal control method",0,G05B|G06F|Y02D
+12408084,2025-09-02,Wireless communication device using higher physical layer data rate for channel state information transmission and associated wireless communication method,0,H04L|H04W
+12407546,2025-09-02,Decision-feedback equalizer using feedback filter with controllable delay circuit and associated method,0,H03K|H04L
+12407371,2025-09-02,Dynamic tuning method for time-average SAR and user equipment thereof,0,H04B|H04W
+12402073,2025-08-26,Control method of user equipment with adaptive system selection strategy,0,H04W|Y02D
+12400944,2025-08-26,Board-level pad pattern for multi-row QFN packages,0,H01L|H05K
+12400687,2025-08-26,Semiconductor die having on-die power switch for selecting target operation voltage from operation voltages provided by different power sources,0,G06F|G11C
+12399858,2025-08-26,Method and device for reducing latency in a peripheral component interconnect express link,0,G06F
+12395862,2025-08-19,Apparatuses and methods for co-reception (Co-Rx) operation of multiple transceiver radios sharing the same antenna and low noise amplifier (LNA),0,H04B|H04W
+12395640,2025-08-19,Method and apparatus for hardware-friendly rate-distortion optimized quantization in video coding,0,H04N
+12395624,2025-08-19,Method and apparatus for coding mode selection in video coding system,0,H04N
+12395187,2025-08-19,Computer architecture with data decompression support for neural network computing,0,G06F|H03M
+12389228,2025-08-12,"Attack prevention method for dealing with authentication flooding attack, association flooding attack, and/or reassociation flooding attack and access point using the same",0,H04W
+12388560,2025-08-12,Mechanism to cancel LTE CRS interference from neighboring cell in DSS,0,H04L|H04W
+12388447,2025-08-12,Clock and data recovery circuit with spread spectrum clocking synthesizer,0,H03L|H04B|H04L
+12388194,2025-08-12,Antenna-in-module package-on-package with air trenches,0,H01L|H01Q
+12388026,2025-08-12,Electronic package with rotated semiconductor die,0,H01L|H03M
+12382526,2025-08-05,Handling of collision between PDU session establishment and modification procedure,0,H04W
+12382478,2025-08-05,Wireless fidelity device with dynamic capability allocation and related capability allocation method,0,H04W
+12382417,2025-08-05,Parameters handling for SNPN-enabled UE,0,H04W
+12379735,2025-08-05,Reference voltage auto-switching mechanism used in regulator for saving more power in low-power mode,0,G05F|G06F|H02M
+12376010,2025-07-29,Cell search based on spatial-temporal statistical information,0,H04W
+12369155,2025-07-22,Method and apparatus for scheduling restriction with higher subcarrier spacing in mobile communications,0,H04L|H04W
+12369042,2025-07-22,Methods of efficient wideband operation for intra-band non-contiguous spectrum,0,H04L|H04W
+12363692,2025-07-15,Specialized BWP switch,0,H04L|H04W
+12362856,2025-07-15,Trellis coded DFTS-OFDM,0,H04L
+12361692,2025-07-15,Method and electronic device for motion prediction,0,G01S|G06V|H04N
+12361584,2025-07-15,"Video processing method for detecting location, pixels, and skeleton of object, and associated video processing circuit",0,G06T|G06V
+12360904,2025-07-15,Fast synchronization mechanism for heterogeneous computing,0,G06F
+12356447,2025-07-08,Control method employed by wireless fidelity multi-link device for dealing with multi-link coherent operation,0,H04B|H04W
+12356342,2025-07-08,Modem performance enhancement via smart transmission power distribution,0,H04W
+12356309,2025-07-08,Sidelink configuration and traffic forwarding for layer-2 UE-to-UE relay,0,H04L|H04W
+12354882,2025-07-08,Semiconductor structure and method for forming the same,0,B82Y|H01L|H10D
+12353904,2025-07-08,System for application protection and non-transitory machine-readable medium for storing program code that provides application protection when executed,0,G06F
+12353861,2025-07-08,Instruction-based performance prediction for deep learning accelerator,0,G06F|G06N
+12349186,2025-07-01,Method of logical channel prioritization to support sidelink relay,0,H04W
+12348866,2025-07-01,Auto focus method using image disparity and image capturing device using auto focus method,0,H04N
+12341710,2025-06-24,Packet forwarding apparatus with buffer recycling and associated packet forwarding method,0,G06F|H04L
+12341608,2025-06-24,Method for link transition in universal serial bus and system thereof,0,G06F|H03M|H04L
+12335800,2025-06-17,User equipment (UE)-triggered handover with early preparation in mobile networks,0,H04W
+12335517,2025-06-17,Shared architecture for multiple video coding modes,0,H04N
+12335166,2025-06-17,Method for controlling download speed of normal traffic in the presence of high-priority traffic and associated network device,0,H04L
+12335036,2025-06-17,Method for link transition in universal serial bus and system thereof,0,G06F|H04L
+12334444,2025-06-17,Semiconductor package structure and method for forming the same,0,H01L
+12328365,2025-06-10,UART-hub design for multiple data transmission,0,G06F|H04L
+12324052,2025-06-03,Enhancements on user equipment (UE) handling of non-access stratum (NAS) signaling connection release,0,H04W
+12321678,2025-06-03,Integrated circuit with compact layout arrangement,0,G06F
+12317287,2025-05-27,Coreset configurations,0,H04L|H04W
+12317146,2025-05-27,Mobility between configured cells,0,H04W
+12316980,2025-05-27,Method and system for de-flickering frames,0,H04N
+12316901,2025-05-27,Video stream processing system and video stream processing method,0,H04N
+12316552,2025-05-27,Data bandwidth management method and device,0,H04L
+12315106,2025-05-27,Frame sequence quality booster using information in an information repository,0,G06T
+12309921,2025-05-20,Board-level pad pattern for multi-row QFN packages,0,H01L|H05K
+12309742,2025-05-20,MUSIM IMSI offset value handling for paging timing collision control,0,H04W
+12307095,2025-05-20,Electronic system and method for controlling burst length to access memory device of electronic system,0,G06F
+12306926,2025-05-20,Dynamic command protection method and dynamic command protection system by using time-vary salt data,0,G06F
+12306693,2025-05-20,Method and device for saving power,0,G06F
+12300679,2025-05-13,Semiconductor package structure,0,H01G|H01L|H05K|H10D
+12300573,2025-05-13,Semiconductor device and manufacturing method thereof,0,H01L
+12292782,2025-05-06,Control system using device controllers and device root to manage processing units and associated control method,0,G06F|G09G
+12289753,2025-04-29,Delay-aware bandwidth scheduling for wireless communication network,0,H04W
+12289692,2025-04-29,Method for improving transmission power management with compliance to regulations of radiofrequency exposure,0,H04L|H04W
+12284552,2025-04-22,"Method of traffic flow management in wireless communications system with stream classification service, and associated apparatus",0,H04L|H04W
+12279230,2025-04-15,PEIPS applicability considering non-3GPP registration,0,H04W
+12278992,2025-04-15,Method and apparatus for sign coding of transform coefficients in video coding system,0,H04N
+12277022,2025-04-15,"Method for adaptively adjusting state transition time in peripheral component interconnect express system to enhance overall performance, and associated apparatus",0,G06F
+12273295,2025-04-08,Two-stage design for new radio (NR) sidelink control information (SCI),0,H04L|H04W
+12272755,2025-04-08,Semiconductor structure,0,B82Y|H01L|H10D
+12272022,2025-04-08,Frame sequence quality booster under uneven quality conditions,0,G06T
+12269761,2025-04-08,Method for NR radio link monitoring (RLM) and evaluation period determination,0,A01G|A01K|A01M|C02F|H02S|H04B|H04L|H04W|Y02E
+12267710,2025-04-01,Method for configuring channel state information computation period for high mobility,0,H04L|H04W
+12267597,2025-04-01,Image signal amplifying circuit and image signal amplifying method,0,G06T|H04N
+12267265,2025-04-01,Apparatus and method for configuring application of TCI state to reference signal,0,H04L|H04W
+12265838,2025-04-01,Model protection system,0,G06F
+12262431,2025-03-25,Wi-Fi multi-link device for indicating capabilities of affiliated stations for different enabled link combinations during association and related capability indication method,0,H04B|H04W
+12256423,2025-03-18,Electronic device and method for scheduling restriction,0,H04B|H04L|H04W
+12256094,2025-03-18,Methods and apparatuses of sharing preload region for affine prediction or motion compensation,0,H04N
+12253960,2025-03-18,Method and system for improving the efficiency of protecting a multi-content process,0,G06F
+12253902,2025-03-18,Power consumption control device applied to electronic device and associated method,0,G06F
+12245334,2025-03-04,Physical protocol data unit transmission method employed by wireless fidelity multi-link device,0,H04L|H04W
+12238790,2025-02-25,MA PDU session and user plane resource establishment for data transmission,0,H04W
+12237949,2025-02-25,Communication receiver using multi-stage channel equalization and associated method,0,H04L
+12231289,2025-02-18,Beam failure recovery with secondary cells,0,H04B|H04L|H04W
+12230622,2025-02-18,Electronic device with stacked printed circuit boards,0,H01L|H05K
+12230598,2025-02-18,Semiconductor package,0,H01L
+12230562,2025-02-18,Three-dimensional pad structure and interconnection structure for electronic devices,0,H01L
+12230560,2025-02-18,Semiconductor package structure,0,H01L
+12228657,2025-02-18,Region-adapted neural network for location determination,0,G01S|H04B|H04W
+12225423,2025-02-11,Method to avoid bad user experience by using rapid initial IMS registration,0,H04L|H04W
+12225375,2025-02-11,Authentication reject handling for SNPN-enabled UE,0,H04W
+12224891,2025-02-11,Method and apparatus for performing efficient correlation computation between data sequence and both of in-phase code sequence and quadrature code sequence,0,H04B|H04L
+12224786,2025-02-11,Dynamic tuning method for SAR and user equipment thereof,0,H04B|H04W
+12224756,2025-02-11,Clock and data recovery circuit using neural network circuit to obtain frequency difference information,0,G06N|H03L
+12223300,2025-02-11,Deep learning model inference for dynamic input shapes,0,G06F|G06N
+12219650,2025-02-04,Apparatuses and methods for multi-radio access technology (RAT) coordination,0,H04W
+12219625,2025-02-04,Connection establishment for layer 2 UE-to-network relay,1,H04W
+12219591,2025-02-04,Method and user equipment for scheduling with multiple cells,0,H04L|H04W
+12218850,2025-02-04,Transmission rate management method and device,0,H04L
+12207219,2025-01-21,NID provisioning under UE mobility scenarios,0,H04W
+12207196,2025-01-21,Efficient preamble design and modulation schemes for wake-up packets in WLAN with wake-up radio receivers,0,H04L|H04W|Y02D
+12205869,2025-01-21,Method for forming a semiconductor package,0,H01L
+12205238,2025-01-21,Automatic dolly zoom image processing device,0,G06T|H04N
+12205237,2025-01-21,Automatic dolly zoom image processing device,0,G06T|H04N
+12204450,2025-01-21,Dynamic cache resource allocation for quality of service and system power reduction,0,G06F
+12198655,2025-01-14,Image adjusting method and image adjusting device,0,G06T|G06V|G09G|Y02D
+12197926,2025-01-14,Dynamic loading neural network inference at DRAM/on-bus SRAM/serial flash for power optimization,0,G06F|G06N|Y02D
+12197785,2025-01-14,Controller integrated circuit and method for controlling storage device for host device with aid of queue auxiliary notification information,0,G06F
+12192980,2025-01-07,Method and user equipment for scheduling with multiple cells,0,H04L|H04W
+12192486,2025-01-07,Video encoding parallelization with time-interleaving cache access,0,H04N
+12191226,2025-01-07,Method of manufacturing heat dissipation substrate with high thermal conductivity for semiconductor device,0,H01L|H10D
+12185198,2024-12-31,Configuration enhancements on access point name (APN) or data network name (DNN) selection in user equipment (UE),0,H04L|H04W
+12183723,2024-12-31,Semiconductor package with dummy MIM capacitor die,0,H01L|H10D
+12177713,2024-12-24,Methods of using aggregated control subfield for traffic indication signaling,0,H04W
+12177595,2024-12-24,"Video device, wireless audio device and method for performing audio and video synchronization between video device and wireless audio device",0,H04N|H04R
+12177162,2024-12-24,Partial sounding method for sounding reference signal in mobile communications,0,H04L
+12177148,2024-12-24,CSI reporting for channel part and interference part separately,0,H04B|H04L
+12175134,2024-12-24,Abort handling by host controller for storage device,0,G06F
+12165961,2024-12-10,Semiconductor package structure,0,H01L|H10F
+12165927,2024-12-10,"Semiconductor structure with buried power rail, integrated circuit and method for manufacturing the semiconductor structure",0,H01L|H10D
+12160584,2024-12-03,Video encoding apparatus for performing video compression with aid of content activity analysis and associated video encoding method,0,H04N
+12160287,2024-12-03,Antenna allocation between different radio access technologies,0,H04B|H04W
+12156271,2024-11-26,Apparatuses and methods for expedited tunnel establishment with a non-third generation partnership project (3GPP) interworking gateway to access a 3GPP network,0,H04L|H04W
+12149475,2024-11-19,Method for channel state information measurement and computation for high mobility,0,H04L
+12143612,2024-11-12,Context-based adaptive binary arithmetic coding decoder capable of decoding multiple bins in one cycle and associated decoding method,0,H04N
+12143249,2024-11-12,Error detection and correction device capable of detecting head position of suspicious error and performing forward error propagation path tracking for providing information needed by follow-up error correction and associated method,0,H04L
+12142633,2024-11-12,Semiconductor package with TSV inductor,0,H01L|H10D
+12142598,2024-11-12,Semiconductor package structure having an annular frame with truncated corners,0,H01L
+12138078,2024-11-12,Mobile device and control method thereof,0,A61B|G06F|H01R|H04M
+12136597,2024-11-05,Semiconductor package having an interposer in which one or more dies are formed and method of forming the same,1,H01L
+12133155,2024-10-29,Enhancements on user equipment (UE) handling of UE route selection policy (URSP) rules selection,0,H04W
+12127220,2024-10-22,Method for performing 2-stage downlink control information based cross-carrier scheduling in carrier aggregation,0,H04L|H04W
+12127108,2024-10-22,Enhancements on user equipment (UE) handling in a limited service state over non-third generation partnership project (3GPP) access,0,H04W
+12124548,2024-10-22,Authentication system using neural network architecture,0,G06F|G06N
+12120293,2024-10-15,Mmvd mode separation and interpolation reordering,0,H04N
+12118653,2024-10-15,Depth analyzer and shading rate controller,0,G06T
+12108490,2024-10-01,UE capability signaling for supporting reference signal based measurements in 5G new radio unlicensed spectrum (NR-U),0,H04B|H04L|H04W
+12108299,2024-10-01,Relay selection and reselection,0,H04W
+12107649,2024-10-01,Noise filtering of channel-state information in wireless communication,0,H04B|H04W
+12107059,2024-10-01,Semiconductor package and manufacturing method thereof,0,H01L
+12105662,2024-10-01,Chip having dual-mode device that switches between root complex mode and endpoint mode in different system stages and associated computer system,0,G06F|Y02D
+12095142,2024-09-17,Semiconductor package having discrete antenna device,0,H01L|H01Q
+12089134,2024-09-10,Method and apparatus for setting up coordinated service period in multiple access point environment,0,H04W
+12087664,2024-09-10,Semiconductor package having liquid-cooling lid,0,H01L
+12086463,2024-09-10,Abort handling by host controller for storage device,0,G06F
+12082184,2024-09-03,TCI state activation for downlink transmission and uplink transmission,0,H04L|H04W
+12082065,2024-09-03,Session continuity for 3GPP and non-3GPP interworking,0,H04W
+12081214,2024-09-03,Clock gating cells,0,G06F|H03K|Y02D
+12080614,2024-09-03,Lidded semiconductor package,0,H01L|H05K
+12079306,2024-09-03,Methods and apparatuses of contrastive learning for color constancy,1,G06F|G06N|G06T|G06V|H04N
+12074698,2024-08-27,NR CSI measurement and CSI reporting,0,H04L|H04W
+12072831,2024-08-27,Dynamic PCIE speed-adjusting method and wireless device and user equipment thereof,0,G06F
+12063360,2024-08-13,Prediction processing system using reference data buffer to achieve parallel non-inter and inter prediction and associated prediction processing method,0,H04N
+12063043,2024-08-13,Clock scheme circuit and a mobile double data rate memory using the clock scheme circuit,0,G06F|G11C|H03L
+12062213,2024-08-13,Method and apparatus for performing image color correction according to image content analysis,0,G06T|H04N
+12062151,2024-08-13,Image-guided adjustment to super-resolution operations,0,G06F|G06N|G06T|G09G|H01L|H04N
+12061923,2024-08-13,Memory protection for virtual machines,0,G06F
+12047222,2024-07-23,AI-assisted communication circuit optimization,0,G06N|H03F|H04B|H04L
+12041442,2024-07-16,Random media access control address with fast reconnection mechanism,0,G06F|H04L|H04W
+12028710,2024-07-02,Stand-alone Non-Public Network as service provider,1,H04L|H04W
+12025653,2024-07-02,Artificial intelligence-based constrained random verification method for design under test and non-transitory machine-readable medium for storing program code that performs artificial intelligence-based constrained random verification method when executed,0,G01R|G06F
+12022552,2024-06-25,Method and mobile communications device for maintaining mobile communication continuity,0,H04L|H04W
+12022510,2024-06-25,Uplink designs for new radio unlicensed spectrum,0,H04W
+12022386,2024-06-25,Network selection for supported standalone non-public network (S-SNPN),0,H04W
+12021068,2024-06-25,Semiconductor device with dummy thermal features on interposer,0,H01L
+12021031,2024-06-25,Semiconductor package structure,0,H01L
+12021013,2024-06-25,Ball pad design for semiconductor packages,0,H01L
+12020998,2024-06-25,Semiconductor structure and package structure having multi-dies thereof,0,H01L
+12015456,2024-06-18,Acquisition of channel state information,0,H04B|H04L
+12010552,2024-06-11,Enhancements on 5G session management (5GSM) handling of network rejection not due to congestion control,0,H04W
+12010456,2024-06-11,Method for performing frame interpolation based on single-directional motion and associated non-transitory machine-readable medium,0,G06T|H04N
+12003299,2024-06-04,Channel state information measurement method and associated wireless communication chip and electronic device,0,H04B|H04H|H04L
+12003245,2024-06-04,Clock and data recovery circuit with spread spectrum clocking synthesizer,0,H03L|H04B|H04L
+12002742,2024-06-04,Semiconductor package structure,0,H01L|H01Q
+11991572,2024-05-21,User equipment (UE)-triggered handover with early preparation in mobile networks,0,H04W
+11989077,2024-05-21,Maximum current suppression for power management in a multi-core system,0,G06F|Y02D
+11989005,2024-05-21,Adaptive thermal ceiling control system,0,G05B|G06F|Y02D
+11985576,2024-05-14,Multiplexing of physical sidelink control channel (PSCCH) and physical sidelink shared channel (PSSCH),0,H04L|H04W
+11983848,2024-05-14,AI frame engine for mobile edge,0,G06T
+11979593,2024-05-07,Method and apparatus for video coding with of low-precision floating-point operations,0,G06T|H04N
+11978734,2024-05-07,Semiconductor structure and method of forming the same,0,B82Y|H01L|H10D
+11974071,2024-04-30,Dynamic frame rate adjustment mechanism,0,G09G|G11B|H04N
+11973985,2024-04-30,Video encoder with motion compensated temporal filtering,0,H04N
+11968712,2024-04-23,Shared wireless fidelity communication device for controlling operations of station during shared period that is part of time period of transmission opportunity obtained by sharing access point,0,H04W
+11967570,2024-04-23,Semiconductor package having improved thermal interface between semiconductor die and heat spreading structure,0,H01L|H01Q
+11967096,2024-04-23,Methods and apparatuses of depth estimation from focus information,0,G06N|G06T|H04N
+11962847,2024-04-16,Channel hiatus correction method and HDMI device,0,H04N
+11956738,2024-04-09,Automatic gain control for serving cell activation based on two different reference signals,0,H04B|H04W
+11950016,2024-04-02,Control method and circuitry of receiver,0,H04N|Y02D
+11949920,2024-04-02,Method and apparatus for contorlling coefficient transmission by early determining whether to decode information that inverse transform needs,0,H04N
+11948895,2024-04-02,Semiconductor package structure,0,H01L
+11942439,2024-03-26,Semiconductor package structure,0,H01L
+11942399,2024-03-26,Semiconductor devices having a serial power system,0,G06F|G11C|H01L|H03K
+11941741,2024-03-26,Hybrid rendering mechanism of a graphics pipeline and an effect engine,0,G06T
+11941298,2024-03-26,Abort handling by host controller for storage device,0,G06F
+11937251,2024-03-19,Apparatuses and methods for flexible Resource Unit (RU) allocation,1,H04W
+11935852,2024-03-19,Semiconductor package and manufacturing method thereof,0,H01L
+11930427,2024-03-12,Configuration enhancements on access point name (APN) or data network name (DNN) selection in user equipment (UE),0,H04L|H04W
+11924413,2024-03-05,Intra prediction for multi-hypothesis,0,H04N
+11923460,2024-03-05,Semiconductor structure,1,B82Y|H01L|H10D
+11917144,2024-02-27,Efficient in-loop filtering for video coding,0,H04N
+11916432,2024-02-27,Chip with power-glitch detection,0,G01R|G06F|H02J|H03K|Y02B|Y04S
+11910247,2024-02-20,Method and device for switching between different radio access technologies,0,H04W
+11908767,2024-02-20,Semiconductor package structure,0,H01L
+11908759,2024-02-20,Semiconductor device,0,H01L
+11908382,2024-02-20,Seamless switching control for foldable or flip devices,0,G06F|G09G|H04M
+11906895,2024-02-20,Method and system for blending images captured under different strobe conditions,0,G03B|H04N
+11904234,2024-02-20,"Position tracking ring, band or bracelet and virtual reality system",0,A63F|G06F
+11902063,2024-02-13,PDCCH DMRS mapping and coreset resource allocation,0,H04L|H04W
+11895516,2024-02-06,Spatial quasi-co-location for radio link monitoring in new radio mobile communications,1,H04L|H04W
+11889434,2024-01-30,Wireless communication system using one or more throughput enhancement techniques,0,H04W
+11887976,2024-01-30,Land-side silicon capacitor design and semiconductor package using the same,0,H01G|H01L|H10D
+11882277,2024-01-23,Video encoding method using multiple in-loop filters in low latency video encoding and associated video encoding apparatus,0,H04N
+11877289,2024-01-16,Multiple physical uplink control channel (PUCCH) resources for an uplink control information (UCI) report,0,H04L|H04W
+11877241,2024-01-16,Apparatuses and methods for discontinuous reception (DRX) support in sidelink communication,2,H04W
+11876990,2024-01-16,Video residual decoding apparatus using storage device to store side information and/or state information for syntax element decoding optimization and associated method,0,H04N
+11871312,2024-01-09,Method and apparatus of sidelink resource allocation for V2X in new radio mobile communications,0,H04L|H04W
+11869849,2024-01-09,Semiconductor package with EMI shielding structure,0,H01L
+11869831,2024-01-09,Semiconductor package with improved board level reliability,0,H01L
+11865441,2024-01-09,Intelligent Wi-Fi high performance support for gaming mode,0,A63F|H04W
+11864315,2024-01-02,Vertical interconnection structure of a multi-layer substrate,0,H01L|H05K
+11863710,2024-01-02,Audio device and method for detecting device status of audio device in audio/video conference,0,G10K|H04M|H04N
+11862578,2024-01-02,Semiconductor package structure,0,H01L
+11856227,2023-12-26,Transform architecture in video encoding systems,0,H04N
+11854930,2023-12-26,Semiconductor chip package and fabrication method thereof,0,H01L
+11854924,2023-12-26,Semiconductor package with improved reliability,0,H01L
+11854784,2023-12-26,Chip scale package structure and method of forming the same,0,H01L
+11848878,2023-12-19,BWP operation in NR-based unlicensed spectrum,1,H04L|H04W
+11848481,2023-12-19,Antenna-in-package with frequency-selective surface structure,0,H01L|H01Q
+11838557,2023-12-05,Methods and apparatuses of ALF derivation in video encoding system,0,H04N
+11837552,2023-12-05,"Semiconductor package with layer structures, antenna layer and electronic component",0,H01L|H01Q
+11836893,2023-12-05,Online AI super resolution engine and operations,0,G06F|G06N|G06T|G06V|H04L
+11830851,2023-11-28,Semiconductor package structure,0,H01L
+11830820,2023-11-28,Electronic package with rotated semiconductor die,1,H01L|H03M
+11825492,2023-11-21,Channel access procedure for UL transmission,0,H04L|H04W
+11824020,2023-11-21,Semiconductor package structure including antenna,0,H01L|H01Q|H05K|Y02P
+11821975,2023-11-21,Radar module incorporated with a pattern-shaping device,0,G01S|H01L|H01Q|H05K
+11817974,2023-11-14,Sounding-interval adaptation using link quality,0,H04B|H04L|H04W
+11812165,2023-11-07,Method and apparatus for dynamically changing frame rate of sensor output frames according to whether motion blur condition is met,0,H04N
+11811686,2023-11-07,Packet reordering method of sound bar,0,H04L
+11805532,2023-10-31,Polar bit allocation for partial content extraction,0,H04H|H04L|H04W|Y02D
+11805245,2023-10-31,Latency reduction for reordering prediction candidates,0,H04N
+11805054,2023-10-31,Method and electronic device for saving power applied to a router,0,H04L
+11804991,2023-10-31,Sequence detection device using path-selective sequence detection and associated sequence detection method,0,H04L
+11803503,2023-10-31,Chip having dual-mode device that switches between root complex mode and endpoint mode in different system stages and associated computer system,0,G06F|Y02D
+11800122,2023-10-24,Video processing apparatus using internal prediction buffer that is shared by multiple coding tools for prediction,0,H04N
+11800102,2023-10-24,Low-latency video coding methods and apparatuses for chroma separated tree,0,H04N
+11792352,2023-10-17,Camera view synthesis on head-mounted display for virtual reality and augmented reality,0,G06T|H04N
+11791970,2023-10-17,Intra-PPDU resource reallocation for multiple users,0,H04L|H04W|Y02D
+11791266,2023-10-17,Chip scale package structure and method of forming the same,0,H01L
+11790977,2023-10-17,Transmitter with voltage level adjustment mechanism in memory controller,0,G06F|G11C
+11785658,2023-10-10,Method and apparatus for performing internet reachability management with aid of indicator,0,G06F|H04L|H04W
+11785611,2023-10-10,Method for performing 2-stage downlink control information based cross-carrier scheduling in carrier aggregation,0,H04L|H04W
+11785204,2023-10-10,Frequency domain mode decision for joint chroma coding,0,H04N
+11778322,2023-10-03,Method and apparatus for performing electronic image stabilization with dynamic margin,0,H04N
+11776899,2023-10-03,Via array design for multi-layer redistribution circuit structure,0,H01L|H05K
+11770732,2023-09-26,Link condition announcement method employed by wireless fidelity multi-link device and associated apparatus,0,H04L|H04W
+11770728,2023-09-26,"Method for performing measurement scheduling control by user equipment, and associated apparatus",0,H04B|H04W|Y02D
+11770696,2023-09-26,UE capability signaling for supporting reference signal based measurements in 5G new radio unlicensed spectrum (NR-U),0,H04B|H04L|H04W
+11770647,2023-09-26,Task assigning method and task assigning device,0,G06F|H04M|H04R
+11770583,2023-09-26,HDMI device and power-saving method for immediately switching HDMI ports,0,G09G|H04N
+11765370,2023-09-19,Video residual decoding apparatus using neighbor storage device with smaller storage size to store neighbor data for context selection and associated method,0,H04N
+11765349,2023-09-19,Method and apparatus of in-loop filtering for virtual boundaries,0,H04N
+11762439,2023-09-19,Method and apparatus of dynamic thermal management based on surface temperatures of portable device,0,G06F
+11758463,2023-09-12,Methods of mobile device based relay for coverage extension,0,H04W
+11751279,2023-09-05,Apparatuses and methods for multi-radio access technology (RAT) coordination,0,H04W
+11743937,2023-08-29,Channel occupancy structure indication in the time domain,1,H04W
+11743926,2023-08-29,Method and apparatus for dynamic physical downlink control channel monitoring in mobile communications,0,H04L|H04W
+11743912,2023-08-29,Method for cross-carrier HARQ management in two or more serving cells,0,H04L|H04W
+11743867,2023-08-29,Blind detection and CCE allocation for carrier aggregation,0,H04L|H04W
+11743009,2023-08-29,Reference signal design for NR downlink positioning: supplementary RS design,1,H04L|H04W
+11742875,2023-08-29,Compression of floating-point numbers for neural networks,0,G06F|G06N|H03M
+11742564,2023-08-29,Fan-out package structure with integrated antenna,0,H01L|H01Q
+11737141,2023-08-22,Method and apparatus of setting protection frames for protecting transmission of preamble punctured physical layer protocol data unit,0,H04W
+11736998,2023-08-22,Method for preventing an inter-rat change from being triggered and communications apparatus utilizing the same,0,H04W
+11736804,2023-08-22,Method and apparatus for generating high dynamic range frame through white balance compensation that uses white balance gain table generated from combining multiple sets of white balance gain settings,0,G06F|G06V|H04N
+11736704,2023-08-22,Methods and apparatuses of SATD folding hardware design in video encoding systems,0,H04N
+11736245,2023-08-22,Enhanced spatial reuse in a wireless local area network,0,H04B|H04L|H04W
+11729816,2023-08-15,Simultaneous uplink transmissions,0,H04L|H04W
+11729716,2023-08-15,Efficient preamble design and modulation schemes for wake-up packets in WLAN  with wake-up radio receivers,0,H04L|H04W|Y02D
+11729637,2023-08-15,Enhancement to expedite secondary cell (SCell) or primary SCell (PSCell) addition or activation,1,H04L|H04W
+11729027,2023-08-15,Enhancement on sounding reference signal transmission,0,H04L
+11728320,2023-08-15,Semiconductor package,0,H01L
+11728292,2023-08-15,Semiconductor package assembly having a conductive electromagnetic shield layer,0,H01L
+11728232,2023-08-15,Semiconductor package having a stiffener ring,0,H01L
+11726544,2023-08-15,Dynamic agent for multiple operators optimization,0,G06F|G06N|Y02D
+11721882,2023-08-08,Semiconductor package having discrete antenna device,0,H01L|H01Q
+11715754,2023-08-01,Semiconductor package with TSV inductor,1,H01L|H10D
+11711865,2023-07-25,Detection of RRC connection reestablishment without reconfiguration in mobile communications,1,H04W
+11710688,2023-07-25,Semiconductor package structure,1,H01L|H10F
+11706665,2023-07-18,Enhanced handling on 5G QoS operations,0,H04L|H04W
+11705413,2023-07-18,Semiconductor package having improved thermal interface between semiconductor die and heat spreading structure,0,H01L|H01Q
+11696307,2023-07-04,Multiplexing of short physical downlink control channel and data in mobile communications,0,H04L|H04W
+11696170,2023-07-04,Method and apparatus for single network slice selection assistance information based congestion control in mobile communications,0,H04L|H04W
+11695953,2023-07-04,Method and apparatus of constrained overlapped block motion compensation in video coding,0,H04N
+11695439,2023-07-04,Semiconductor chip with local oscillator buffer reused for signal transmission and associated transmission method,0,H01L|H04B|H04W
+11694972,2023-07-04,Semiconductor package with heatsink,0,H01L
+11693782,2023-07-04,Cache management method using object-oriented manner and associated microcontroller,0,G06F|Y02D
+11689317,2023-06-27,Re-transmission CRC for polar coding incremental-redundancy HARQ,0,H03M|H04L
+11689267,2023-06-27,Aperiodic CSI triggering in scenarios with multiple PDCCHs,1,H04B|H04L|H04W
+11688655,2023-06-27,Semiconductor package including lid structure with opening and recess,0,H01L
+11683749,2023-06-20,Network selection for supported standalone non-public network (S-SNPN),2,H04W
+11678361,2023-06-13,Transmission prioritization mechanism for determining between sidelink transmissions and uplink transmissions in wireless communication system,0,H04W
+11676018,2023-06-13,Feature extraction with keypoint resampling and fusion (KRF),1,G06N|G06T|G06V
+11672012,2023-06-06,Detection of beginning of a transmission session in new radio unlicensed spectrum,0,H04L|H04W
+11671948,2023-06-06,Methods of efficient bandwidth part switching in carrier aggregation,0,H04L|H04W
+11671891,2023-06-06,Enhanced UE route selection policy (URSP) rule matching,0,H04L|H04W
+11671871,2023-06-06,Radio resource control (RRC) message segmentation,1,H04W
+11671860,2023-06-06,Method and apparatus for collecting latency information and generating uplink latency indicators on access point side,0,H04B|H04L|H04W
+11671805,2023-06-06,Method and apparatus for improving wireless communication performance under coexistence of multiple wireless communication systems in same electronic device,0,H04L|H04W
+11670596,2023-06-06,Semiconductor package structure,0,H01L
+11663690,2023-05-30,Video processing method for remapping sample locations in projection-based frame with projection layout to locations on sphere and associated video processing apparatus,0,G06T|H04N
+11659487,2023-05-23,Wireless device and associated wireless communication method,0,H04W|Y02D
+11659486,2023-05-23,Wireless communication method with adaptive power control mechanism and associated circuitry within electronic device,0,H04W|Y02D
+11659479,2023-05-23,Network accessing method and communications apparatus utilizing the same,0,H04W
+11659430,2023-05-23,Adaptation framework for UE power saving,0,H04L|H04W
+11659206,2023-05-23,Video encoding method with syntax element signaling of guard band configuration of projection-based frame and associated video decoding method and apparatus,0,H04N
+11659198,2023-05-23,Method and apparatus of pattern-based motion vector derivation for video coding,1,H04N
+11658768,2023-05-23,Wireless fidelity multi-link device with dynamic operation mode switch and associated method,0,H04B|H04L|H04W
+11653346,2023-05-16,Beam selection and resource allocation for beam-formed random access procedure,1,H04W
+11653301,2023-05-16,Wake-up signal and preamble design for mobile communications,2,H04L|H04W|Y02D
+11653286,2023-05-16,Methods of mobile device based relay for coverage extension,0,H04W
+11652903,2023-05-16,Method and system for streaming applications using rate pacing and MPD fragmenting,0,H04L
+11652595,2023-05-16,Tracking reference signal and framework thereof in mobile communications,1,H04B|H04L|H04W
+11652273,2023-05-16,Innovative air gap for antenna fan out package,0,H01L|H01Q
+11646295,2023-05-09,Semiconductor package structure having an annular frame with truncated corners,1,H01L
+11641668,2023-05-02,Uplink designs for new radio unlicensed spectrum,0,H04W
+11640930,2023-05-02,Semiconductor package having liquid-cooling lid,2,H01L
+11640184,2023-05-02,Phase synchronized LO generation,0,G06F|H03K
+11632715,2023-04-18,Enhanced mechanism for accessing non-public network,0,H04W
+11627170,2023-04-11,Enhancements for real-time text (RTT) call control over an IP multimedia subsystem (IMS) network,0,H04L|H04W
+11622415,2023-04-04,Enhancement of feature support after interworking,0,H04W
+11622284,2023-04-04,Physical downlink control channel design for NR systems,2,H04B|H04L|H04W
+11621211,2023-04-04,Semiconductor package structure,0,H01L
+11616970,2023-03-28,Motion vector refinement apparatus having motion vector predictor derivation circuit that is allowed to start new task without waiting for motion vector difference computation and associated motion vector refinement method,0,H04N
+11616966,2023-03-28,Interaction between core transform and secondary transform,3,H04N
+11616552,2023-03-28,UE capability for CSI reporting,0,H04B|H04W
+11611973,2023-03-21,User equipment uplink latency in wireless communications,0,H04L|H04W
+11611921,2023-03-21,Bandwidth part switching within different switching delays,0,H04B|H04W|Y02D
+11611461,2023-03-21,On PDCCH DMRS mapping and coreset resource allocation,0,H04L|H04W
+11611334,2023-03-21,Method and circuit for monitoring and controlling duty margin of a signal,1,G06F|H03K|H03M
+11601944,2023-03-07,Virtual carrier configuration and operation for wireless systems with large carrier bandwidth,0,H04L|H04W
+11601156,2023-03-07,Apparatus and methods for improved transmit power,0,H03L|H04B|H04L
+11596024,2023-02-28,Physical protocol data unit transmission method employed by wireless fidelity multi-link device,0,H04L|H04W
+11589376,2023-02-21,Low-power coexistence mechanism based on packet traffic arbitration,0,H04W|Y02D
+11589239,2023-02-21,Methods of efficient wideband operation for intra-band non-contiguous spectrum,1,H04L|H04W
+11589041,2023-02-21,Method and apparatus of neural network based processing in video coding,1,G06N|H04N
+11588588,2023-02-21,Additional bit freezing for polar coding,0,H03M|H04L
+11587853,2023-02-21,Semiconductor devices having a serial power system,0,G06F|G11C|H01L|H03K
+11587846,2023-02-21,Semiconductor device and method of forming the same,1,H01L|H10D
+11582822,2023-02-14,Apparatuses and methods for coordinating operations associated with multiple subscriber identities,0,H04W
+11582812,2023-02-14,Control link switch method employed by wireless fidelity multi-link device,0,H04W
+11582719,2023-02-14,Enhancement of logical channel prioritization for sidelink transmission,1,H04W
+11582656,2023-02-14,5GSM handling on invalid PDU session,0,H04W
+11582466,2023-02-14,Constraints for inter-layer referencing,0,G06N|H04N
+11582015,2023-02-14,Enhancement for bandwidth part (BWP) operation towards secondary cell (SCELL) dormancy indication,1,H04L|H04W|Y02D
+11582007,2023-02-14,Apparatuses and methods for resource unit (RU) allocation signaling to support trigger-based physical layer protocol data unit (TB PPDU) with multi-RU,0,H04L|H04W
+11581851,2023-02-14,Relaxation oscillator that samples voltage difference between voltages generated by resistor-capacitor charging and discharging for controlling output clock frequency of controllable oscillator and associated relaxation oscillation method,0,G06F|H03B|H03K
+11580621,2023-02-14,AI frame engine for mobile edge,0,G06T
+11575716,2023-02-07,Apparatuses and methods for providing reliable delivery of application data,0,H04L
+11574881,2023-02-07,Semiconductor package structure with antenna,1,H01L|H01Q
+11573264,2023-02-07,Device for testing chip or die with better system IR drop,0,G01R|H01L
+11570715,2023-01-31,Power saving with latency control mechanism of electronic device,0,H04W|Y02D
+11570616,2023-01-31,Provide EPS security capability and receive eps security algorithm information in 5GS,0,H04L|H04W
+11570381,2023-01-31,Method and apparatus of adaptive infrared projection control,0,G06T|G06V|H04N
+11569805,2023-01-31,Minimum intrinsic timing utilization auto alignment on multi-die system,0,G06F|G11C|H03K|H03M|H04L
+11563829,2023-01-24,Simple ethernet header compression,1,H04L|H04W
+11563467,2023-01-24,Precoding-matched CSI feedback in mobile communications,0,H04B|H04W
+11562960,2023-01-24,Semiconductor device structure and method for forming the same,0,B82Y|H01L|H10D
+11562948,2023-01-24,Semiconductor package having step cut sawn into molding compound along perimeter of the semiconductor package,1,H01L
+11558762,2023-01-17,Techniques of controlling operation of M-DCI based M-TRP reception,1,H04L|H04W
+11556654,2023-01-17,Security schemes for multiple trusted-execution-environments (TEEs) and multiple rich-execution-environments (REEs),0,G06F|H04L
+11553549,2023-01-10,Multi-access PDU session state synchronization between UE and network,0,H04W
+11552727,2023-01-10,Apparatuses and methods for fast switching from trigger mode to contention mode uplink (UL) transmission,0,H04L|H04W
+11552700,2023-01-10,Uplink transmission timing for non-terrestrial networks,4,H04B|H04L|H04W
+11546897,2023-01-03,Control information for wideband operation,0,H04W
+11546820,2023-01-03,Enhanced handover methods and apparatuses using the same,0,H04W
+11546603,2023-01-03,Triangle prediction with applied-block settings and motion storage settings,0,H04N
+11546587,2023-01-03,Adaptive loop filter with adaptive parameter set,0,H04N
+11545822,2023-01-03,Protection circuit applied to electronic device and associated protection method,0,G06F|H02H
+11540297,2022-12-27,Wireless communication method and associated wireless device,0,H04W
+11533149,2022-12-20,Techniques of reducing SCell activation delay,3,H04L|H04W
+11533118,2022-12-20,Synchronization signal block raster shift in mobile communications,1,H04J|H04L|H04W
+11532617,2022-12-20,Semiconductor structure and method of forming the same,2,B82Y|H01L|H10D
+11528595,2022-12-13,UE capability signaling to support 5G new radio (NR) in unlicensed spectrum (NR-U),0,H04J|H04W
+11528592,2022-12-13,Apparatuses and methods for robust moving between a roaming 3GPP network and a non-3GPP network,0,H04W
+11528035,2022-12-13,Bit selection for polar coding incremental-redundancy HARQ,0,H03M|H04L
+11516631,2022-11-29,On-demand network configuration of V2X UE autonomy in new radio mobile communications,0,H04L|H04W
+11516513,2022-11-29,Method and apparatus of optimized splitting structure for video coding,0,H04N
+11516395,2022-11-29,Electronic apparatus with image stabilization,0,G02B|G06F|G09G|H04N
+11515978,2022-11-29,Method for channel state indication-reference signal configuration update and spatial indication switch,0,H04L|H04W
+11515952,2022-11-29,Testing method and testing system for evaluating radio device,1,H04B|H04W
+11510215,2022-11-22,Electronic device and method for radio resource management (RRM) measurement relaxation,0,H04B|H04W
+11509038,2022-11-22,Semiconductor package having discrete antenna device,0,H01L|H01Q
+11508707,2022-11-22,Semiconductor package with dummy MIM capacitor die,2,H01L|H10D
+11508678,2022-11-22,Semiconductor package structure including antenna,1,H01L|H01Q|H05K|Y02P
+11503667,2022-11-15,Enhancement for multi-access PDU session release,0,H04W
+11502795,2022-11-15,Multi-user downlink orthogonal frequency-division multiple access configuration method,0,H04L|H04W
+11496944,2022-11-08,Enhanced UE route selection policy (URSP) rules evaluation,1,H04L|H04W
+11494870,2022-11-08,Method and apparatus for reducing artifacts in projection-based frame,0,G06T|H04N
+11490428,2022-11-01,Initial access in new radio unlicensed spectrum,2,H04L|H04W
+11490365,2022-11-01,Method to handle joint restriction of transmission resource and data QoS requirement,1,H04L|H04W
+11490283,2022-11-01,L1-SINR measurement period based on channel measurement resource (CMR) and interference measurement resource (IMR),1,H04B|H04L|H04W
+11489558,2022-11-01,Wireless communication circuitry and wireless communication method,0,H04B|H04L|H04W
+11483767,2022-10-25,Cross-slot scheduling for power saving in mobile communications,2,H04L|H04W|Y02D
+11483754,2022-10-25,Handover handling for multi-access PDU session,1,H04W
+11481338,2022-10-25,Hardware control system and hardware control method,0,G06F
+11477701,2022-10-18,Apparatuses and methods for voice call service provision,0,H04L|H04W
+11477490,2022-10-18,Video processing method with sample adaptive offset filtering disabled across virtual boundary in reconstructed frame and associated video processing apparatus,0,H04N
+11477474,2022-10-18,Methods and apparatus for multi-hypothesis mode reference and constraints,0,H04N
+11470523,2022-10-11,Apparatuses and methods for user equipment (UE) to report new radio (NR) measurement gap requirement information,0,H04W
+11470522,2022-10-11,Radio resource management (RRM) measurement for new radio (NR) network,0,H04L|H04W
+11470495,2022-10-11,Wi-Fi measurement report enhancement techniques,0,H04W
+11470356,2022-10-11,Method and apparatus of neural network for video coding,0,G06N|H04N
+11469201,2022-10-11,Semiconductor package and method for fabricating base for semiconductor package,0,H01L|H05K|H10D|Y02P
+11469152,2022-10-11,Semiconductor chip package and fabrication method thereof,1,H01L
+11467041,2022-10-11,"Thermal sensor integrated circuit, resistor used in thermal sensor and method for detecting temperature",0,G01K|H01L|H10D
+11464446,2022-10-11,Physiological status monitoring apparatus and method,0,A61B|H04W
+11463282,2022-10-04,Sounding-interval adaptation using link quality,0,H04B|H04L|H04W
+11463227,2022-10-04,Activated secondary cells transition between dormancy behavior and active behavior in 5G NR system,0,H04L|H04W
+11457351,2022-09-27,Flexible signaling of capability of UE processing time in wireless communications,0,H04B|H04L|H04W
+11457173,2022-09-27,Dynamic frame rate adjustment mechanism,2,G09G|G11B|H04N
+11456811,2022-09-27,Wireless communication method and associated wireless communication device,0,H04J|H04W
+11451816,2022-09-20,Storage of motion vectors for affine prediction,0,H04N
+11451366,2022-09-20,Lead-on detection circuitry of biopotential acquisition system,0,A61B|H03D|H03K|H04L
+11451359,2022-09-20,Secondary cell activation in new radio system,3,H04B|H04L|H04W
+11450606,2022-09-20,Chip scale package structure and method of forming the same,2,H01L
+11449453,2022-09-20,Multi-package system using configurable input/output interface circuits for single-ended intra-package communication and differential inter-package communication,0,G06F|H01L
+11445538,2022-09-13,Channel access procedure for UL transmission,0,H04L|H04W
+11445401,2022-09-13,Session management in wireless communication system,0,H04W
+11438794,2022-09-06,Radio link monitoring in sidelink communications,1,H04L|H04W
+11438034,2022-09-06,Apparatuses and methods for a physical random access channel (PRACH) retransmission,0,H04B|H04W
+11436483,2022-09-06,Neural network engine with tile-based execution,0,G06F|G06N|Y02D
+11432117,2022-08-30,Multiplexing of physical sidelink control channel (PSCCH) and physical sidelink shared channel (PSSCH),2,H04L|H04W
+11425388,2022-08-23,Methods and apparatuses of coding pictures with CTU based slice partitions in video coding system,0,H04N
+11424204,2022-08-23,Semiconductor component and manufacturing method thereof,0,H01L
+11419174,2022-08-16,Connection recovery method for recovering a connection between a communications apparatus and a data network and the associated communications apparatus,0,H04W
+11418631,2022-08-16,Efficient packet delivery methods and associated communications apparatus,0,H04L
+11411806,2022-08-09,Beam failure recovery with secondary cells,0,H04B|H04L|H04W
+11410936,2022-08-09,Semiconductor package structure,6,H01L
+11405929,2022-08-02,Electronic device and method for beam failure recovery,0,H04B|H04L|H04W
+11405813,2022-08-02,Radio link monitoring (RLM) procedures in new radio unlicensed bands (NR-U),0,H04B|H04L|H04W
+11405649,2022-08-02,Specifying slice chunks of a slice within a tile,2,H04N
+11405630,2022-08-02,Video decoding method for decoding part of bitstream to generate projection-based frame with constrained picture size and associated electronic device,0,H04N
+11405629,2022-08-02,Video decoding method for decoding part of bitstream to generate projection-based frame with constrained guard band size and/or constrained projection face size and associated electronic device,0,H04N
+11405139,2022-08-02,Code block group (CBG) level retransmission in wireless communication system,3,H04L
+11404587,2022-08-02,Semiconductor structure,2,B82Y|H01L|H10D
+11404025,2022-08-02,Video processing system for performing artificial intelligence assisted picture quality enhancement and associated video processing method,0,G09G|H04N
+11399370,2022-07-26,Virtual carrier configuration and operation for wireless systems with large carrier bandwidth,0,H04L|H04W
+11399308,2022-07-26,Error handling on missing configuration for inter-system change in mobile communications,0,H04W
+11395294,2022-07-19,Method and apparatus for resource selection of multiple transmission occasions in new radio sidelink communications,0,H04L|H04W
+11395115,2022-07-19,Resource allocation in presence of in-band emission for NR V2X mobile communications,0,H04B|H04W
+11388667,2022-07-12,Triggering adaptation mechanisms for UE power-saving,0,H04W|Y02D
+11388599,2022-07-12,Device-to-device subscriber identity module sharing method and associated apparatuses,1,H04W
+11387813,2022-07-12,Frequency multiplier and delay-reused duty cycle calibration method thereof,1,G06F|H03K
+11387176,2022-07-12,Semiconductor package structure,1,H01L|H01Q
+11386019,2022-07-12,Data protection method and storage device,0,G06F
+11382066,2022-07-05,Radio PBCH scrambling design,0,H04B|H04J|H04L|H04W
+11382003,2022-07-05,Apparatuses and methods for coordinating communication operations associated with a plurality of subscriber identities,0,H04L|H04W
+11381371,2022-07-05,Secondary cell activation with beam management in new radio mobile communications,0,H04L|H04W
+11373957,2022-06-28,"Semiconductor package with layer structures, antenna layer and electronic component",1,H01L|H01Q
+11368948,2022-06-21,Transmission configuration indication switching procedure in new radio mobile communications,0,H04B|H04L|H04W
+11363302,2022-06-14,Method and apparatus of neural network for video coding,1,G06T|H04N
+11362722,2022-06-14,Beam failure recovery procedure for secondary cell in mobile communications,2,H04B|H04L|H04W
+11362044,2022-06-14,Semiconductor package structure,2,H01L
+11357007,2022-06-07,Efficient wide bandwidth operation and efficient UE-specific RF bandwidth adaptation,0,H04L|H04W
+11356972,2022-06-07,PRS sequence initialization,0,H04B|H04J|H04L|H04W
+11356162,2022-06-07,CSI reporting for multiple transmission points,1,H04B|H04L|H04W
+11355450,2022-06-07,Semiconductor package with EMI shielding structure,0,H01L
+11349485,2022-05-31,Clock and data recovery and associated signal processing method,0,H03L|H04L
+11348900,2022-05-31,Package structure,0,H01L
+11343699,2022-05-24,EPS bearer context status synchronization upon inter-system change from evolved packet system (EPS) to fifth generation system (5GS),0,H04W
+11342316,2022-05-24,Semiconductor package,0,H01L
+11342267,2022-05-24,Semiconductor package structure and method for forming the same,0,H01L
+11337267,2022-05-17,Apparatuses and methods for 5G session management (5GSM) procedure enhancement,0,H04W
+11336403,2022-05-17,Group-based hybrid automatic repeat request (HARQ) acknowledgement  feedback,1,H04L|H04W
+11330654,2022-05-10,Methods for performing mobility procedure in NSA mode and communications apparatus utilizing the same,0,H04W
+11330457,2022-05-10,Method for beam management with beam indication in wireless communication systems with beamforming,1,H04B|H04L|H04W
+11329793,2022-05-10,Efficient bandwidth adaptation for a wideband carrier,0,H04L|H04W|Y02D
+11329702,2022-05-10,"Multi-in multi-out bluetooth module, and wireless device using the multi-in multi-out bluetooth module",0,H04B|H04W
+11329691,2022-05-10,Non-orthogonal multiple access wireless communications methods and apparatus thereof,0,H04B|H04J|H04L|H04W
+11324048,2022-05-03,Method for mitigating interference in a communications apparatus and a communications apparatus utilizing the same,0,H04B|H04W
+11322823,2022-05-03,Antenna-in-package with frequency-selective surface structure,2,H01L|H01Q
+11321901,2022-05-03,Hybrid rendering mechanism of a graphics pipeline and an effect engine,0,G06T
+11317379,2022-04-26,Blind detection and CCE allocation for carrier aggregation,0,H04L|H04W
+11317351,2022-04-26,Electronic device and method for beam management with power saving,0,H04W|Y02D
+11317345,2022-04-26,Method and apparatus for data network name selection in mobile communications,0,H04L|H04W
+11310661,2022-04-19,Security key synchronization method and associated communications apparatus,0,H04L|H04W
+11310526,2022-04-19,Hardware friendly constrained motion vector refinement,3,H04N
+11310320,2022-04-19,Enhanced procedure transaction ID (PTI) error handling,0,H04L|H04W
+11303931,2022-04-12,Method and apparatus for processing projection-based frame having projection faces packed in hemisphere cubemap projection layout with face packing constraints,0,H04N
+11303900,2022-04-12,Method and apparatus for motion boundary processing,1,H04N
+11303898,2022-04-12,Coding transform coefficients with throughput constraints,0,H04N
+11303477,2022-04-12,Enhancement on sounding reference signal transmission,0,H04L
+11302657,2022-04-12,Semiconductor package having improved thermal interface between semiconductor die and heat spreading structure,1,H01L|H01Q
+11302592,2022-04-12,Semiconductor package having a stiffener ring,1,H01L
+11297654,2022-04-05,Methods and apparatus to transmit with resources overlapped,0,H04W
+11297574,2022-04-05,Wake-up signal operation for UE power saving,2,H04L|H04W|Y02D
+11297348,2022-04-05,Implicit transform settings for coding a block of pixels,4,H04N
+11297320,2022-04-05,Signaling quantization related parameters,2,H04N
+11296821,2022-04-05,Method and apparatus for communication,0,H03M|H04L
+11296006,2022-04-05,Circuit board and packaged chip,0,H01L
+11291910,2022-04-05,Apparatuses and methods for providing a virtual input key,0,A63F|G06F
+11291041,2022-03-29,Simultaneous uplink transmissions,0,H04L|H04W
+11290894,2022-03-29,Apparatuses and methods for beam identification through the physical random access channel (PRACH) and efficient PRACH resource utilization,0,H04L|H04W
+11290739,2022-03-29,Video processing methods and apparatuses of determining motion vectors for storage in video coding systems,1,H04N
+11290711,2022-03-29,Method and apparatus of shared merge candidate list region for video coding,1,H04N
+11290229,2022-03-29,Reference signal design for NR downlink positioning: supplementary RS design,4,H04L|H04W
+11284458,2022-03-22,Handling of mapped EPS bearer context with duplicate EPS bearer ID,0,H04W
+11284359,2022-03-22,Uplink power control and time-division multiplexing patterns for dual active protocol stack based handover,0,H04W
+11272182,2022-03-08,Methods and apparatus of alternative transform skip mode for image and video coding,0,H04N
+11265936,2022-03-01,Handling QoS flow description and EPS bearer operation errors in 4G 5G systems,0,H04W
+11265771,2022-03-01,AT commands for supporting session and service continuity modes of 5G protocol data unitsession operations,0,H04W
+11265767,2022-03-01,Enhancement for multi-access PDU session,0,H04W
+11265561,2022-03-01,Method and apparatus for range derivation in context adaptive binary arithmetic coding,0,H03M|H04N
+11265487,2022-03-01,Camera view synthesis on head-mounted display for virtual reality and augmented reality,1,G06T|H04N
+11265049,2022-03-01,Wireless communications method for transmitting pre-coded stream outputs that are generated from applying pre-coding to stream inputs with different packet formats and associated wireless communications apparatus,0,H04B|H04L|H04W
+11264337,2022-03-01,Semiconductor package structure,1,H01L
+11264309,2022-03-01,Multi-row QFN semiconductor package,0,H01L|H05K|Y02P
+11263722,2022-03-01,Video processing method for remapping sample locations in projection-based frame with hemisphere cubemap projection layout to locations on sphere and associated video processing apparatus,0,G06T|H04N
+11259210,2022-02-22,Methods for data traffic switching and network selection,0,H04W
+11259205,2022-02-22,IP multimedia core network subsystem signaling in 5GS,0,H04L|H04W
+11259025,2022-02-22,Method and apparatus of adaptive multiple transforms for video coding,0,H04N
+11258897,2022-02-22,Communication device controlling method,0,H04M|H04W
+11258560,2022-02-22,Physical downlink control channel (PDCCH) transmission and reception with multiple transmission points,0,H04B|H04L|H04W|Y02D
+11257780,2022-02-22,Semiconductor package having multi-tier bonding wires and components directly mounted on the multi-tier bonding wires,0,H01L
+11252406,2022-02-15,Method and apparatus of encoding or decoding video blocks by current picture referencing coding,3,H04N
+11246064,2022-02-08,PDN connection supports interworking to 5GS,0,H04W
+11246054,2022-02-08,Interworking between evolved packet system (EPS) session management (ESM) and 5G session management (5GSM),0,H04W
+11245922,2022-02-08,Shared candidate list,0,H04N
+11244913,2022-02-08,Semiconductor package,0,H01L|H01Q
+11240699,2022-02-01,Insufficient resources in the UE during PDU session establishment procedure,1,H04W
+11240524,2022-02-01,Selective switch for parallel processing,1,H04N
+11233868,2022-01-25,Method and system for streaming applications using rate pacing and MPD fragmenting,2,H04L
+11229055,2022-01-18,Rach timeline,1,H04L|H04W
+11229009,2022-01-18,Narrowband reference signal transmission on non-anchor carriers in NB-IoT,0,H04W
+11228997,2022-01-18,Handling of multi-access PDU session when inter-system change,0,H04W
+11228976,2022-01-18,Power saving for new radio carrier aggregation,1,H04W|Y02D
+11228787,2022-01-18,Signaling multiple transmission selection,0,H04N
+11228756,2022-01-18,Method and apparatus of implicit intra coding tool settings with intra directional prediction modes for video coding,0,H04N
+11227846,2022-01-18,Semiconductor package having improved thermal interface between semiconductor die and heat spreading structure,4,H01L|H01Q
+11224082,2022-01-11,Methods and apparatus to improve MR-DC SN addition procedure,0,H04L|H04W
+11224058,2022-01-11,Device and method for generating a physical layer convergence procedure (PLCP) using aggregation operation,0,H04L|H04W|Y02D
+11223988,2022-01-11,Quality of service rule management in 5G,0,H04L|H04W
+11223837,2022-01-11,Inter-layer texture coding with adaptive transform and multiple inter-layer motion candidates,0,H04N
+11222850,2022-01-11,Electronic package with rotated semiconductor die,2,H01L|H03M
+11218917,2022-01-04,Optimized handovers of Wi-Fi offload service from a Wi-Fi network to a cellular network,0,H04L|H04W
+11218721,2022-01-04,Method and apparatus of motion compensation bandwidth reduction for video coding system utilizing multi-hypothesis,9,H04N
+11218288,2022-01-04,Low PAPR reference signal,0,H04L
+11212720,2021-12-28,5GSM handling on invalid PDU session,0,H04W
+11212523,2021-12-28,Video processing methods and apparatuses of merge number signaling in video coding systems,22,H04N
+11212324,2021-12-28,Handling of IP multimedia subsystem VoPS indication,0,H04L|H04W
+11206602,2021-12-21,Enhancement for closed access groups,1,H04W
+11206597,2021-12-21,Enhanced UE route selection policy (URSP) rules selection,0,H04W
+11206563,2021-12-21,Apparatuses and methods for extending use of SFN (system frame number) and frame timing difference (SFTD) measurements,3,H04B|H04W
+11206395,2021-12-21,Signaling quantization matrix,0,H04N
+11205999,2021-12-21,Amplifier with signal dependent mode operation,1,H03F|H03M|H04L|H04R
+11202339,2021-12-14,Apparatuses and methods for packet distribution on multiple subscriber identities,0,H04W
+11202237,2021-12-14,Method for preventing an inter-rat change from being triggered and communications apparatus utilizing the same,0,H04W
+11202073,2021-12-14,Methods and apparatuses of quantization scaling of transform coefficients in video coding system,0,H04N
+11202068,2021-12-14,Method and apparatus of constrained cross-component adaptive loop filtering for video coding,0,H04N
+11201711,2021-12-14,Physical downlink control channel (PDCCH) transmission and reception with multiple transmission points,1,H04B|H04L|H04W|Y02D
+11201689,2021-12-14,CSI measurement configuration and UE capability signaling,0,H04L|H04W
+11200636,2021-12-14,Method and apparatus for generating a series of frames with aid of synthesizer to offload graphics processing unit rendering in electronic device,2,G06T|G09G
+11197338,2021-12-07,Power saving radio resource management (RRM) measurements in a wireless network,3,H04W|Y02D
+11197216,2021-12-07,Handling of collision between SR procedure and PDU session establishment procedure for PDU session handover,0,H04L|H04W
+11197191,2021-12-07,Method and apparatus for transmitting user data under congestion control in wireless communications,0,H04L|H04W
+11197185,2021-12-07,NR CSI-RS based beam failure detection/radio link monitoring in FR2,0,H04L|H04W
+11197040,2021-12-07,Deriving and signaling a region or viewport in streaming media,5,G06T|H04N
+11196992,2021-12-07,Method and apparatus of neural network based processing in video coding,11,G06N|H04N
+11195796,2021-12-07,Semiconductor device structure and method for forming the same,1,B82Y|H01L|H10D
+11191063,2021-11-30,Multiple physical uplink control channel (PUCCH) resources for an uplink control information (UCI) report,0,H04L|H04W
+11190801,2021-11-30,Video encoding method with syntax element signaling of mapping function employed by cube-based projection and associated video decoding method,0,G06T|H04N
+11190768,2021-11-30,Video encoding method with syntax element signaling of packing of projection faces derived from cube-based projection and associated video decoding method and apparatus,0,G06T|H04N
+11184934,2021-11-23,AT-command for always-on PDU session,0,H04W
+11184642,2021-11-23,Methods and apparatus for simplification of coding residual blocks,0,H04N
+11184132,2021-11-23,Transmission configuration indication (TCI)—state indication for non-coherent joint transmission (NCJT) channel state information (CSI) reporting,2,H04B|H04L|H04W|Y02D
+11178414,2021-11-16,Classification for multiple merge tools,4,H04N
+11178404,2021-11-16,Method and apparatus of video coding,0,H04N
+11178397,2021-11-16,Method and apparatus of encoding or decoding using reference samples determined by predefined criteria,0,H04N
+11175920,2021-11-16,Efficient work execution in a parallel computing system,0,G06F
+11172349,2021-11-09,Efficient file identifiers (FIDs) and short file identifiers (SFIs) under universal subscriber identity module (USIM) application dedicated file (ADF),0,H04W
+11172203,2021-11-09,Intra merge prediction,3,H04N
+11172145,2021-11-09,Method of image fusion on camera device equipped with multiple cameras,0,H04N
+11171113,2021-11-09,Semiconductor package structure having an annular frame with truncated corners,2,H01L
+11169250,2021-11-09,Radar module incorporated with a pattern-shaping device,1,G01S|H01L|H01Q|H05K
+11166264,2021-11-02,Multiplexing of short physical downlink control channel and data in mobile communications,2,H04L|H04W
+11166037,2021-11-02,Mutual excluding settings for multiple tools,16,H04N
+11166029,2021-11-02,Video encoding apparatus having reconstruction buffer with fixed size and/or bandwidth limitation and associated video encoding method,0,H04N
+11165539,2021-11-02,Method and apparatus for detecting word boundary between codewords in data stream transmitted via data channel of high definition multimedia interface,0,H04L
+11165450,2021-11-02,Control method and wireless module applied to wireless device,0,H04B|H04W
+11160123,2021-10-26,5G session management handling on PSI mismatch,0,H04W
+11160019,2021-10-26,Electronic devices and methods for determining energy efficiency,0,H04W|Y02D
+11159976,2021-10-26,Handling of mapped EPS bearer context for invalid QoS flow description,0,H04W
+11159973,2021-10-26,Apparatuses and methods for scheduling cell measurements associated with multiple subscriber identities,0,H04W
+11159791,2021-10-26,Method and apparatus for signaling adaptive loop filter parameters in video coding,0,H04N
+11159788,2021-10-26,Method and apparatus of enhanced Intra Block Copying mode for video coding,0,H04N
+11153925,2021-10-19,Handling of QoS flow description without valid EPS bearer context,0,H04L|H04W
+11153921,2021-10-19,Method and apparatus for link enablement and disablement during multi-link operation in a wireless network,1,H04W|Y02D
+11153899,2021-10-19,Collision of PUCCH considering multi-slot operation,0,H04L|H04W
+11153840,2021-10-19,UE feedback of timing adjustment after a measurement gap,0,H04W
+11153797,2021-10-19,Quality of service rule management in 5G,0,H04L|H04W
+11153607,2021-10-19,Length-adaptive deblocking filtering in video coding,0,H04N
+11153599,2021-10-19,Method and apparatus of bi-directional optical flow for video coding,2,H04N
+11147009,2021-10-12,Apparatuses and methods for configuration of initial downlink (DL) bandwidth part (BWP),0,H04W
+11146824,2021-10-12,Video encoding or decoding methods and apparatuses related to high-level information signaling,2,H04N
+11146815,2021-10-12,Method and apparatus of adaptive bi-prediction for video coding,1,H04N
+11146794,2021-10-12,Method of system for video coding using intra block copy mode,1,H04N
+11144322,2021-10-12,Code and data sharing among multiple independent processors,0,A61F|G06F|Y02D
+11144282,2021-10-12,Mathematical accelerator for artificial intelligence applications,0,G06F
+11140675,2021-10-05,Methods of efficient bandwidth part switching in carrier aggregation,2,H04L|H04W
+11140593,2021-10-05,Method for preventing an inter-RAT change from being triggered and communications apparatus utilizing the same,0,H04W
+11140398,2021-10-05,Methods and apparatus for generating affine candidates,1,H04N
+11139000,2021-10-05,Method and apparatus for signaling spatial region information,5,G11B|H04N
+11138037,2021-10-05,Switch policy for hybrid scheduling in multi-processor systems,0,G06F|Y02D
+11134419,2021-09-28,Interworking between fifth generation system (5GS) and evolved packet system (EPS) for session management,0,H04W
+11134271,2021-09-28,Method and apparatus of block partition for VR360 video coding,1,H04N
+11129239,2021-09-21,Apparatuses and methods for In-Device Coexistence (IDC) interference prevention,4,H04L|H04W
+11128868,2021-09-21,Method and apparatus of matrix-based intra prediction for video coding,0,G06F|H04N
+11128496,2021-09-21,Transmitter with equalization,0,H03K|H04L
+11122285,2021-09-14,Sub-prediction unit temporal motion vector prediction (sub-PU TMVP) for video coding,0,G06F|H04N
+11122276,2021-09-14,Method and system of decoded picture buffer for intra block copy mode,0,H04N
+11122272,2021-09-14,Triangle prediction with applied-block settings and motion storage settings,0,H04N
+11122260,2021-09-14,Method and apparatus of Merge list generation for Intra Block Copy mode,0,H04N
+11121814,2021-09-14,Techniques of CSI feedback with unequal error protection messages,1,H03M|H04B|H04L|Y02D
+11121803,2021-09-14,NR CSI measurement and CSI reporting,0,H04L|H04W
+11121108,2021-09-14,Flip chip package utilizing trace bump trace interconnection,0,H01L
+11115896,2021-09-07,Handling QoS rules on QoS operation errors,0,H04W
+11115660,2021-09-07,Method and apparatus of syntax interleaving for separate coding tree in video coding,0,H04N
+11115653,2021-09-07,Intra block copy merge list simplification,2,H04N
+11115595,2021-09-07,Privacy-aware image encryption,1,G06F|H04N
+11113216,2021-09-07,Dispatching interrupts in a multi-processor system based on power and performance factors,0,G06F|Y02D
+11109064,2021-08-31,Signaling of motion vector difference derivation,1,H04N
+11109062,2021-08-31,Method and apparatus of motion refinement based on bi-directional optical flow for video coding,1,H04N
+11109061,2021-08-31,Method and apparatus of motion compensation based on bi-directional optical flow techniques for video coding,22,H04N
+11109057,2021-08-31,Overlapped block motion compensation based on blended predictors,2,H04N
+11109056,2021-08-31,Method and apparatus of current picture referencing for video coding using adaptive motion vector resolution and sub-block prediction mode,1,H04N
+11108431,2021-08-31,Wireless communication apparatus for performing beamforming under frequency hopping and associated wireless communication method,0,H04B|H04L|H04W
+11102756,2021-08-24,Enhancement for paging indication and radio resource management (RRM) measurements for UE power saving in a wireless network,0,H04B|H04W|Y02D
+11102678,2021-08-24,Radio resource control (RRC) message segmentation,1,H04W
+11096089,2021-08-17,Data packaging method and communication device,0,H04L|H04W
+11095912,2021-08-17,"Video decoding method for decoding part of bitstream to generate projection-based frame with constrained guard band size, constrained projection face size, and/or constrained picture size",0,H04N
+11095729,2021-08-17,Service discovery in multi-medium communications networks,0,H04L|H04W|Y02D
+11094594,2021-08-17,"Semiconductor structure with buried power rail, integrated circuit and method for manufacturing the semiconductor structure",4,H01L|H10D
+11094088,2021-08-17,Method and apparatus of in-loop filtering for virtual boundaries in video coding,0,G06T|H04N
+11089612,2021-08-10,On user equipment uplink latency in wireless communications,1,H04L|H04W
+11089499,2021-08-10,Candidate beam detection in DRX mode,0,H04W|Y02D
+11089335,2021-08-10,Method and apparatus of in-loop filtering for virtual boundaries,0,H04N
+11089332,2021-08-10,Method and apparatus of alternative transform for video coding,0,H04N
+11089323,2021-08-10,Method and apparatus of current picture referencing for video coding,2,H04N
+11082713,2021-08-03,Method and apparatus for global motion compensation in video coding system,1,H04N
+11082110,2021-08-03,Communication method and communication device,0,H04B|H04W
+11082107,2021-08-03,Frequency-selective precoding for uplink transmissions in mobile communications,0,H04B|H04L
+11081453,2021-08-03,Semiconductor package structure with antenna,3,H01L|H01Q
+11076450,2021-07-27,Method and associated user equipment for improving versatility of cellular network,0,H04W
+11071043,2021-07-20,Enhanced handling on forbidden PLMN list,0,H04W
+11070825,2021-07-20,Method and apparatus of encoding or decoding video data with adaptive colour transform,0,H04N
+11070815,2021-07-20,Method and apparatus of intra-inter prediction mode for video coding,9,H04N
+11069026,2021-07-20,Method for processing projection-based frame that includes projection faces packed in cube-based projection layout with padding,0,G06T|H04N
+11064450,2021-07-13,Synchronization of QoS flows and rules in mobile communications,0,H04W
+11064384,2021-07-13,Apparatuses and methods for multipath communications using a plurality of wireless technologies,0,H04L|H04W
+11064220,2021-07-13,Method and apparatus of video data processing with restricted block size in video coding,0,H04N
+11064209,2021-07-13,System and method for content adaptive clipping,0,H04N
+11057780,2021-07-06,Channel utilization in unlicensed spectrum,1,H04L|H04W
+11057776,2021-07-06,"Device identifying method, identifying device, and device pairing method",0,H04L|H04W
+11057643,2021-07-06,Method and apparatus for generating and encoding projection-based frame that includes at least one padding region and at least one projection face packed in 360-degree virtual reality projection layout,0,H04N
+11051045,2021-06-29,High efficiency adaptive loop filter processing for video coding,0,H04N
+11051036,2021-06-29,Method and apparatus of constrained overlapped block motion compensation in video coding,3,H04N
+11051010,2021-06-29,Merge candidates with multiple hypothesis,7,H04N
+11051009,2021-06-29,Video processing methods and apparatuses for processing video data coded in large size coding units,3,H04N
+11050135,2021-06-29,Antenna-in-package with better antenna performance,0,H01L|H01Q
+11049323,2021-06-29,"Method and apparatus for deriving VR projection, packing, ROI and viewport related tracks in ISOBMFF and supporting viewport roll signaling",0,G02B|G06F|G06T|G06V|H04N
+11049314,2021-06-29,Method and apparatus for reduction of artifacts at discontinuous boundaries in coded virtual-reality images,0,G06T|H04N
+11043730,2021-06-22,Fan-out package structure with integrated antenna,3,H01L|H01Q
+11039477,2021-06-15,NB-IoT PRACH resource partitioning and multiple grants in RAR for EDT,4,H04L|H04W
+11039475,2021-06-15,Detection of beginning of a transmission session in new radio unlicensed spectrum,1,H04L|H04W
+11039369,2021-06-15,Handling 5G QoS rules on QoS operation errors,0,H04L|H04W
+11039361,2021-06-15,Enhanced 5GSM state mapping when interworking,1,H04L|H04W
+11039163,2021-06-15,Adapting merge candidate positions and numbers according to size and/or shape of prediction block,0,H04N
+11039147,2021-06-15,Method and apparatus of palette mode coding for colour video data,6,H04N
+11032857,2021-06-08,Apparatuses and methods for synchronizing states of separate subscriber identities with network,0,H04B|H04L|H04W
+11032851,2021-06-08,QCL in rach different from that in other signals,2,H04L|H04W
+11032550,2021-06-08,Method and apparatus of video coding,8,H04N
+11026275,2021-06-01,Handling of collision between PDU session establishment and release procedures,0,H04W
+11026127,2021-06-01,Method and apparatus for inter-system change in wireless communication,3,H04W
+11026124,2021-06-01,Enhanced handling on 5G QoS operations,0,H04L|H04W
+11025947,2021-06-01,Method and apparatus for generating motion field motion vectors for blocks of current frame in on-the-fly manner,0,H04N
+11025457,2021-06-01,Enhancements on QCL frameworks for multiple TRP operation,2,H04B|H04L|H04W
+11025240,2021-06-01,Circuits for delay mismatch compensation and related methods,0,G06F|H03K
+11024954,2021-06-01,Semiconductor package with antenna and fabrication method thereof,3,H01L|H01Q
+11024257,2021-06-01,Android platform based display device and image display method thereof,0,G06F|G09G
+11019559,2021-05-25,VHT operation information subfield design in WLAN,2,H04W
+11019338,2021-05-25,Methods and apparatuses of video encoding or decoding with adaptive quantization of video data,1,H04N
+11018910,2021-05-25,On PDCCH DMRS mapping and coreset resource allocation,3,H04L|H04W
+11006478,2021-05-11,Enhanced procedure transaction ID handling,0,H04W
+11006450,2021-05-11,Method of allocating protection duration of radio subsystem to intra-BSS stations using frames with network allocation vector,0,H04W|Y02D
+11006344,2021-05-11,Enhanced UE route selection policy (URSP) rule matching,0,H04L|H04W
+11006117,2021-05-11,Method and apparatus for range derivation in context adaptive binary arithmetic coding,0,H04N
+11005936,2021-05-11,Security mechanism for multi-client access to a single storage device through a single controller,27,G06F|H04L
+11005602,2021-05-11,HARQ buffer size design for communication systems,0,H04L
+11005252,2021-05-11,Protection circuit applied to electronic device and associated protection method,0,G06F|H02H
+11004232,2021-05-11,Method and apparatus for performing object detection according to bounding box distribution that is determined by considering lens configuration,0,G06F|G06T|H04N
+11004173,2021-05-11,Method for processing projection-based frame that includes at least one projection face packed in 360-degree virtual reality projection layout,0,G06T|H04N
+11003781,2021-05-11,Root key processing method and associated device,0,G06F
+11003457,2021-05-11,Power-saving mechanism for memory sub-system in pipelined processor,0,G06F
+10999604,2021-05-04,Adaptive implicit transform setting,0,H04N
+10999595,2021-05-04,Method and apparatus of motion vector prediction or merge candidate derivation for video coding,6,H04N
+10998274,2021-05-04,"Seal ring structure, semiconductor die, and method for detecting cracks on semiconductor die",1,G01R|H01L|H10D
+10998267,2021-05-04,Wafer-level chip-size package with redistribution layer,0,H01L
+10992451,2021-04-27,Audio and video playback system and method for playing audio data applied thereto,0,G06F|H04L|H04N
+10991669,2021-04-27,Semiconductor package using flip-chip technology,2,H01L|H05K|Y02P
+10990843,2021-04-27,Method and electronic device for enhancing efficiency of searching for regions of interest in a virtual environment,0,G06F|G06T|G06V|H04N
+10986693,2021-04-20,Apparatuses and methods for performing a cell measurement,1,H04W
+10986371,2021-04-20,Sample adaptive offset filtering method for reconstructed projection-based frame that employs projection layout of 360-degree virtual reality projection,0,G06F|G06T|H04N
+10986365,2021-04-20,Method of adaptive interpolation filtering in video coding,3,H04N
+10985862,2021-04-20,Wireless communicating method and associated electronic device,1,H04L|H04W
+10984832,2021-04-20,Video processing system using ring buffer and racing-mode ring buffer access control scheme,0,G09G|G11B|H04N
+10980074,2021-04-13,Apparatuses and methods for supporting dual talk of multiple subscriber identities,1,H04L|H04W
+10979975,2021-04-13,Method and apparatus for maintaining radio resource control connection in mobile communications,0,H04W|Y02D
+10979925,2021-04-13,Measurement timing configuration for CSI-RS,1,H04L|H04W
+10979707,2021-04-13,Method and apparatus of adaptive inter prediction in video coding,1,H04N
+10979178,2021-04-13,Mechanism for short guard interval indication in high efficiency WLAN,0,H04L|H04W
+10979081,2021-04-13,Polar code interleaving and bit selection,5,H03M|H04L
+10978406,2021-04-13,Semiconductor package including EMI shielding structure and method for forming the same,0,H01L
+10977001,2021-04-13,Asymmetric quantization of multiple-and-accumulate operations in deep learning processing,0,G06F|G06N
+10972963,2021-04-06,Determination and transmission of BSS load metrics for MU WLAN systems,0,H04B|H04L|H04W
+10972956,2021-04-06,Enhanced handling on QoS flow description,3,H04L|H04W
+10972953,2021-04-06,Dual SIM dual standby user equipment RAT selection,0,H04W
+10972738,2021-04-06,Video encoding apparatus having reconstruction buffer with fixed size and/or bandwidth limitation and associated video encoding method,0,H04N
+10972730,2021-04-06,Method and apparatus for selective filtering of cubic-face frames,0,H04N
+10965955,2021-03-30,Method and apparatus of motion refinement for video coding,2,H04N
+10963987,2021-03-30,Method and apparatus for decoding projection based frame with 360-degree content represented by triangular projection faces packed in triangle-based projection layout,0,G02B|G06T
+10958988,2021-03-23,Methods and apparatus for media content asset changes,0,H04N
+10958897,2021-03-23,Method and apparatus of depth fusion,0,G06F|G06T|G06V|H04N
+10957729,2021-03-23,Image sensor with embedded light-measuring pixels and method of automatic exposure control using the same,0,H04N|H10F
+10957611,2021-03-23,Semiconductor package including lid structure with opening and recess,0,H01L
+10957589,2021-03-23,Self-aligned contact and method for forming the same,0,H01L|H10D
+10952242,2021-03-16,Rach numerology with BWP operation,2,H04L|H04W
+10952094,2021-03-16,AT commands for 5G QoS management,1,H04W
+10951874,2021-03-16,Incremental quality delivery and compositing processing,6,G06T|H04N
+10945200,2021-03-09,User equipment and method for handling network feature capabilities,0,H04W
+10945177,2021-03-09,Method and apparatus for session release in wireless communication,0,H04L|H04W
+10944997,2021-03-09,Method and apparatus of video coding,0,H04N
+10944989,2021-03-09,Method and apparatus of non-square intra prediction for chroma components in coding system with quad-tree and binary-tree partition,5,H04N
+10944983,2021-03-09,Method of motion information coding,1,H04N
+10944592,2021-03-09,Method for data transmission and reception of random access procedure,0,H04J|H04L|H04W
+10942067,2021-03-09,Method and apparatus for surface and ambient temperature estimation for portable devices,4,G01K|G06F
+10939495,2021-03-02,Method and apparatus for handling packet data convergence protocol duplication in mobile communications,0,H04L|H04W
+10939442,2021-03-02,Beam selection and resource allocation for beam-formed random access procedure,2,H04W
+10939362,2021-03-02,Apparatuses and methods for system information (SI) request through a contention-based random access procedure,2,H04W
+10939118,2021-03-02,Luma-based chroma intra-prediction method that utilizes down-sampled luma samples derived from weighting and associated luma-based chroma intra-prediction apparatus,1,H04N
+10939102,2021-03-02,Post processing apparatus with super-resolution filter and loop restoration filter in block-level pipeline and associated post processing method,0,H04N
+10937434,2021-03-02,Audio output monitoring for failure detection of warning sound playback,0,B60Q|G06F|G10L|H04L|H04R
+10932358,2021-02-23,Semiconductor devices and methods for enhancing signal integrity of an interface provided by a semiconductor device,0,G06F|H01L|H05K
+10932245,2021-02-23,Reception of multiple PDSCHS simultaneously,0,H04L|H04W
+10932147,2021-02-23,Gap-based cell measurement in wireless communication system,1,H04L|H04W
+10931974,2021-02-23,Method and apparatus of smoothing filter for ringing artefact removal,1,H04N
+10931354,2021-02-23,UE capability for CSI reporting,2,H04B|H04W
+10925032,2021-02-16,Polar bit allocation for partial content extraction,0,H04H|H04L|H04W|Y02D
+10924950,2021-02-16,Conditional extension of evaluation period for radio link monitoring in new radio mobile communications,1,H04W
+10924820,2021-02-16,Method and apparatus of bitstream random access and synchronization for multimedia applications,5,H04N
+10924746,2021-02-16,Method and apparatus for adaptive motion vector precision,7,H04N
+10924225,2021-02-16,Group-based hybrid automatic repeat request (HARQ) acknowledgement feedback,3,H04L|H04W
+10922783,2021-02-16,"Cube-based projection method that applies different mapping functions to different square projection faces, different axes, and/or different locations of axis",0,G06T
+10921876,2021-02-16,Runtime power table index adjustment for performance and power management,0,G06F|Y02D
+10917838,2021-02-09,Handling of PLMN-specific attempt counter in mobile communications,0,H04W
+10917662,2021-02-09,Method and apparatus for dealing with compressed bitstream interleaving,1,H04N
+10917628,2021-02-09,IR pattern characteristics for active stereo matching,0,G06F|G06T|G06V|H04N
+10917212,2021-02-09,Default QCL assumption for PDSCH reception,0,H04B|H04L|H04W
+10916854,2021-02-09,Antenna structure with integrated coupling element and semiconductor package using the same,0,H01L|H01Q|H05K
+10916449,2021-02-09,Semiconductor package and method for fabricating base for semiconductor package,0,H01F|H01L|H05K
+10912144,2021-02-02,Method to reduce access delay,0,H04W
+10912005,2021-02-02,Apparatuses and methods for fast recovery to a certain radio access technology (RAT),0,H04W
+10911997,2021-02-02,Radio resource management (RRM) measurement for new radio (NR) network,1,H04L|H04W
+10911995,2021-02-02,Apparatuses and methods for dual active of multiple subscriber identities,1,H04M|H04W
+10911979,2021-02-02,AT commands for 5G session management,2,H04W
+10911761,2021-02-02,Method and apparatus of bilateral template MV refinement for video coding,0,H04N
+10911757,2021-02-02,Methods and apparatuses of processing pictures in an image or video coding system,0,H04N
+10910330,2021-02-02,Pad structure and integrated circuit die using the same,0,H01L
+10910323,2021-02-02,Semiconductor package with reduced noise,0,H01L
+10910320,2021-02-02,Shielded MOM capacitor,0,H01L|H10D
+10909656,2021-02-02,Method and apparatus of image formation and compression of cubic images for 360 degree panorama display,0,G06T|H04N

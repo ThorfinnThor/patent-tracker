@@ -1,0 +1,1119 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430356,2025-09-30,Data source visualizations,0,G06F
+12417302,2025-09-16,Updating an edge device operating in a secure computing environment,0,G06F
+12417286,2025-09-16,Automated attack chain following by a threat analysis platform,0,G06F
+12417210,2025-09-16,Log data extraction from data chunks of an isolated execution environment,0,G06F|H04L
+12417090,2025-09-16,Software development observability platform,0,G06F
+12412103,2025-09-09,Monitoring and visualization of model-based clustering definition performance,0,G06N|G06Q
+12400233,2025-08-26,Risk analysis using risk definition relationships,0,G06Q|H04L
+12400005,2025-08-26,Managing security of a software development life cycle,0,G06F
+12399607,2025-08-26,Complex action parameter support in a visual playbook editor,0,G06F
+12393688,2025-08-19,File analysis engines for identifying security-related threats,0,G06F
+12393678,2025-08-19,Integrated development environment extension for developing information technology and security operations application apps,0,G06F
+12386810,2025-08-12,Custom indexed tags,0,G06F|G06Q
+12375522,2025-07-29,Managing security actions in a computing environment using enrichment information,0,G06F|H04L
+12363158,2025-07-15,Generating action recommendations based on attributes associated with incidents used for incident response,0,G06F|H04L
+12363154,2025-07-15,Generating playbook run statistics for playbooks executed by an information technology and security operations application,0,G06F|H04L
+12353312,2025-07-08,Code profiling call stack linking,0,G06F|G06T
+12346708,2025-07-01,Concurrent visualization of session data and session playback,0,G06F
+12332999,2025-06-17,Expediting processing of events based on a specified duration,0,G06F
+12332880,2025-06-17,Rendering a service graph to illustrate page provider dependencies at an aggregate level,0,G06F
+12299819,2025-05-13,Mesh updates via mesh frustum cutting,1,G01B|G01S|G06T|H04L
+12298981,2025-05-13,Generation of queries using non-textual input,0,G06F
+12298980,2025-05-13,Optimized storage of metadata separate from time series data,0,G06F
+12298937,2025-05-13,Network activity identification and characterization based on characteristic active directory (AD) event segments,0,G06F|G06N|H04L
+12298885,2025-05-13,Aggregating metrics for workflows associated with a real user session,0,G06F
+12293179,2025-05-06,Deployment orchestrator in a cloud based service for customer enterprises,0,G06F
+12289295,2025-04-29,Trusted tunnel bridge,0,G06F|H04L
+12282988,2025-04-22,Automated generation of display layouts,0,G06F|G06T
+12277659,2025-04-15,Networked remote collaboration system,0,G06T|H04L
+12271428,2025-04-08,Interactive chart using a data processing package,0,G06F
+12271423,2025-04-08,Automated provision of a listing of events related and corresponding attributes related to a selected event through generation of graph-based dense representations of events of a nodal graph,1,G06F|G06N
+12267339,2025-04-01,Executing modular alerts and associated security actions,0,G06F|H04L
+12265863,2025-04-01,Technology add-on interface,0,G06F|G06N|G06Q|G09G
+12265858,2025-04-01,Implementing a split-brain prevention strategy when configuring automatic cluster manager failover,0,G06F|H04L
+12265540,2025-04-01,Executing commands from a distributed execution model,0,G06F|H04L|H04W
+12265525,2025-04-01,Modifying a query for processing by multiple data processing systems,0,G06F
+12265459,2025-04-01,Automated determination of tuned parameters for analyzing observable metrics,0,G06F
+12254019,2025-03-18,Interactive visualization of a relationship of isolated execution environments,0,G06F
+12248804,2025-03-11,Managing user data in a multitenant deployment,0,G06F
+12248484,2025-03-11,Reassigning processing tasks to an external storage system,0,G06F
+12242892,2025-03-04,Implementation of a data processing pipeline using assignable resources and pre-configured resources,4,G06F
+12242495,2025-03-04,Chart creation based on a data processing package,1,G06F
+12242474,2025-03-04,Language conversion system,0,G06F
+12237988,2025-02-25,Service analyzer interface presenting performance information of machines providing component services,0,G06F|H04L
+12224919,2025-02-11,Hybrid execution of custom playbook codeblocks,0,G06F|H04L
+12222840,2025-02-11,Generating span related metric data streams by an analytic engine,0,G06F
+12217075,2025-02-04,Interface for presenting performance data for hierarchical networked components represented in an expandable visualization of nodes,0,G06F|G06T
+12216527,2025-02-04,"System and method for data ingestion, anomaly and root cause detection",2,G06F|G06N
+12212475,2025-01-28,Applying updated configuration dynamically to remote capture agents,0,H04L
+12205022,2025-01-21,Data field extraction by a data intake and query system,0,G06F|G06N
+12204593,2025-01-21,Data search and analysis for distributed data systems,0,G06F
+12204536,2025-01-21,Query scheduling based on a query-resource allocation and resource availability,0,G06F
+12204531,2025-01-21,Dynamically modifying remote capture agent event stream destinations,0,G06F
+12204437,2025-01-21,Techniques for visualizing browser test metrics,0,G06F
+12200064,2025-01-14,External sensor integration at edge device for delivery of data to intake system,0,H04L
+12199997,2025-01-14,Systems and methods for detecting beaconing communications using machine learning techniques,0,G06N|H04L
+12197962,2025-01-14,Resegmenting chunks of data based on one or more criteria to facilitate load balancing,0,G06F
+12197908,2025-01-14,Enabling pass-through authentication in a multi-component application,0,G06F|H04L
+12197567,2025-01-14,Configuring detectors to detect anomalous behavior using statistical modeling procedures,0,G06F|G06N
+12197451,2025-01-14,Appending time ranges to distinct statements of a data processing package,1,G06F
+12197420,2025-01-14,Providing supplemental values for events,0,G06F|G06Q|G06T
+12189931,2025-01-07,Drill down of statistics chart row,0,G06F|G06V
+12189624,2025-01-07,Facilitating management and storage of configurations,0,G06F
+12184744,2024-12-31,Controlling access in multi-tenant environments,0,G06F|H04L
+12182174,2024-12-31,Exploratory data analysis system for generation of wildcards within log templates through log clustering and analysis thereof,0,G06F
+12182169,2024-12-31,Systems and methods for machine-learning based alert grouping including temporal constraints,0,G06F|G06N
+12182151,2024-12-31,Framework for managing dynamic configurations of data intake and query systems deployed in remote computing environments,0,G06F
+12182110,2024-12-31,Bi-directional query updates in a user interface,0,G06F
+12181956,2024-12-31,Machine-learning based prioritization of alert groupings,0,G06F
+12175403,2024-12-24,Defining a graphical visualization along a time-based graph lane using key performance indicators derived from machine data,0,G06F|G06Q|G06T|H04L
+12169499,2024-12-17,Interactive filter tokens in a GUI interface,1,G06F
+12169498,2024-12-17,Creating and searching tiered metric time series object storage,0,G06F
+12169471,2024-12-17,Managing datasets generated by search queries,0,G06F|G08B
+12164889,2024-12-10,Selecting a custom function from available custom functions to be added into a playbook,1,G06F
+12164565,2024-12-10,Processing ingested data to identify anomalies,1,G06F|G06N
+12164524,2024-12-10,User interface for customizing data streams and processing pipelines,0,G06F|H04L
+12164522,2024-12-10,Metric processing for streaming machine learning applications,2,G06F|G06N
+12164402,2024-12-10,Deactivating a processing node based on assignment of a data group assigned to the processing node,1,G06F
+12158880,2024-12-03,Hyperparameter tuning for anomaly detection service implementing machine learning forecasting,0,G06F
+12141047,2024-11-12,Configuring automated workflows for application performance monitoring,0,G06F
+12135788,2024-11-05,Generating information technology incident risk score narratives,1,G06F
+12135627,2024-11-05,Facilitating management of collection agents,0,G06F|H04L
+12131233,2024-10-29,Systems and methods for auto-deployment of a machine learning component within a pipelined search query,1,G06F|G06N
+12130866,2024-10-29,Creating a correlation search,0,G06F
+12130829,2024-10-29,Generation of modified queries using a field value for different fields,2,G06F
+12124687,2024-10-22,Automatic selection of visualization parameter based on field selection,0,G06F|G06T
+12124669,2024-10-22,Spatially aligned concurrent display of results from multiple non-identical time-based search queries of event data,0,G06F
+12124441,2024-10-22,Utilizing shared search queries for defining multiple key performance indicators,39,G06F|G06Q|G06T
+12124324,2024-10-22,System and method for identifying resource access faults based on webpage assessment,0,G06F
+12120170,2024-10-15,Presenting un-deployed features of an application,0,G06F|H04L
+12120124,2024-10-15,Live app testing within an app editor for an information technology and security operations application,0,G06F|H04L
+12120005,2024-10-15,Managing event group definitions in service monitoring systems,1,G06F|H04L
+12118497,2024-10-15,Providing a user interface reflecting service monitoring adaptation for maintenance downtime,0,G06Q|H04L
+12118334,2024-10-15,Determination of schema compatibility between neighboring operators within a search query statement,0,G06F|G06N
+12118127,2024-10-15,Data stream integrity in a tiered blockchain structure,1,G06F|H04L
+12118009,2024-10-15,Supporting query languages through distributed execution of query engines,3,G06F
+12113856,2024-10-08,Systems and methods for detecting associated webpages and initiating an automated deletion event,0,G06F|H04L
+12112435,2024-10-08,Collaboration spaces in extended reality conference sessions,1,G06F|G06T|G06V|H04L|H04N
+12112434,2024-10-08,Mesh updates in an extended reality environment,0,G06F|G06T|G09G
+12112010,2024-10-08,Data visualization in an extended reality environment,0,G06F
+12111874,2024-10-08,Exploratory data analysis system for automated generation of search queries using machine learning techniques to identify certain log fields and correlation thereof,0,G06F
+12106419,2024-10-01,Live updates in a networked remote collaboration session,1,G06F|G06T
+12105740,2024-10-01,Low-latency streaming analytics,0,G06F|G06Q
+12105724,2024-10-01,Tokenized HTTP event collector,1,G06F|H04L
+12105632,2024-10-01,Cache aware searching based on files of buckets,0,G06F
+12099517,2024-09-24,Supplementing extraction rules based on event clustering,0,G06F
+12099492,2024-09-24,Identity resolution of network entities,1,G06F|H04L
+12099428,2024-09-24,Multiple modalities of data collection and analysis for real-time monitoring (RUM) in a microservices-based architecture,8,G06F
+12093318,2024-09-17,Recommending query parameters based on tenant information,3,G06F
+12093272,2024-09-17,Retrieving data identifiers from queue for search of external data system,3,G06F
+12088611,2024-09-10,Systems and methods for training a machine learning model to detect beaconing communications,1,G06F|G06N|H04L
+12086920,2024-09-10,Submesh-based updates in an extended reality environment,0,G06F|G06T
+12086451,2024-09-10,Automated downscaling of data stores,0,G06F
+12086150,2024-09-10,Generating files for visualizing query results,1,G06F
+12086045,2024-09-10,Systems and methods for machine-learning based alert grouping,0,G06F|G06N
+12081418,2024-09-03,Sensor data device,0,G06F|H04L|H04W
+12079672,2024-09-03,Providing efficient message queuing services using a redelivery monitor,0,G06F
+12079304,2024-09-03,Online data forecasting,1,G06F|G06N|G06Q
+12079255,2024-09-03,Systems and methods for updating a status indication in a system providing dynamic indexer discovery,1,G06F
+12079233,2024-09-03,Multiple seasonality online data decomposition,1,G06F
+12079175,2024-09-03,Streaming synthesis of distributed traces from machine logs,1,G06F
+12079100,2024-09-03,Systems and methods for machine-learning based alert grouping and providing remediation recommendations,0,G06F|G06N
+12074901,2024-08-27,Security action verification in a computing network,0,G06F|H04L
+12073103,2024-08-27,Multiple storage system event handling,0,G06F
+12072939,2024-08-27,Federated data enrichment objects,7,G06F
+12072913,2024-08-27,Unhandled data protection for programmatic input/output routing to datasets with user-defined partitions,0,G06F
+12072907,2024-08-27,Graphical user interface for time-based data visualization,0,G06F
+12072891,2024-08-27,Multi-phased execution of a search query,0,G06F
+12072859,2024-08-27,Accessibility controls for manipulating data visualizations,0,G06F
+12072852,2024-08-27,Generating schema change alerts in a data intake and query system,0,G06F
+12072783,2024-08-27,Performing iterative entity discovery and instrumentation,0,G06F
+12067008,2024-08-20,Display of log data and metric data from disparate data sources,4,G06F
+12067007,2024-08-20,Analyzing a pipelined search to determine data on which to execute the pipelined search,0,G06F
+12066995,2024-08-20,Generating a query response by combining partial results from separate partitions of event records,0,G06F
+12066915,2024-08-20,Systems and methods for retraining machine-learning models to perform alert grouping,0,G06F|G06N
+12062234,2024-08-13,Codeless anchor detection for detectable features in an environment,1,G06F|G06T|G06V|H04W
+12061691,2024-08-13,Graphical user interface for presentation of network security risk and threat information,0,G06F|H04L
+12061638,2024-08-13,Presenting filtered events having selected extracted values,0,G06F|H04L
+12061533,2024-08-13,Ingest health monitoring,0,G06F
+12057208,2024-08-06,Visualizing anomalous feature vectors based on data from healthcare records systems,1,G06F|G16H
+12056169,2024-08-06,Systems and methods for DNS text classification,1,G06F|G06N
+12050597,2024-07-30,Search-time field extraction in a data intake and query system,0,A61K|C07K|C12N|C12Y|G06F
+12050507,2024-07-30,"System and method for data ingestion, anomaly detection and notification",8,G06F
+12047450,2024-07-23,Management of connected sensor devices,0,G01M|G06F|H04L|H04W
+12047407,2024-07-23,Managing security actions in a computing environment based on movement of a security threat,1,G06F|H04L
+12045201,2024-07-23,Automatically configuring connectors of an information technology and security operations application,4,G06F
+12039310,2024-07-16,Information technology networked entity monitoring with metric selection,0,G06F|H04L
+12039307,2024-07-16,Dynamically changing input data streams processed by data stream language programs,0,G06F
+12039046,2024-07-16,Generating suggested courses of actions for incidents based on previous incident handling,0,G06F|G06Q|H04L
+12038993,2024-07-16,Techniques for showing matched URLs for a URL grouping rule,0,G06F
+12038926,2024-07-16,Intelligent search-time determination and usage of fields extracted at index-time,2,G06F
+12034759,2024-07-09,Automatic creation and updating of event group summaries,0,G06F|H04L
+12032629,2024-07-09,Anomaly and outlier explanation generation for data ingested to a data intake and query system,0,G06F|G06N
+12028226,2024-07-02,Content pack management in service monitoring system,1,H04L
+12028222,2024-07-02,Obtaining simulated results for a course of action executed in an information technology environment,0,H04L
+12028208,2024-07-02,Selective event stream data storage based on network traffic volume,41,G06F|H04L
+12026176,2024-07-02,Disaster recovery in a clustered environment using generation identifiers,0,G06F|H04L
+12026155,2024-07-02,Executing one query based on results of another query,4,G06F
+12021698,2024-06-25,Entity retirement in service monitoring system,0,G06F|H04L
+12020077,2024-06-25,Autoscaling in a stateful system,1,G06F
+12019939,2024-06-25,Control of a display device included in a display grid,0,G06F|G09G
+12019858,2024-06-25,Generating new visualizations based on prior journey definitions,0,G06F
+12019634,2024-06-25,Reassigning a processing node from downloading to searching a data group,3,G06F|H04L
+12019624,2024-06-25,Adding a command entry to a command entry list,0,G06F|G06Q
+12014255,2024-06-18,Generating machine learning-based outlier detection models using timestamped event data,0,G06F|G06N
+12013895,2024-06-18,Processing data using containerized nodes in a containerized scalable environment,7,G06F
+12013880,2024-06-18,Dynamic resolution estimation for a detector,0,G06F|H04L
+12013879,2024-06-18,Dynamic resolution estimation in metric time series data,0,G06F|H04L
+12013852,2024-06-18,Unified data processing across streaming and indexed data sets,3,G05B|G06F|G06N
+12008046,2024-06-11,System and method for automated determination of search query parameters for anomaly detection,10,G06F|H04L
+12007996,2024-06-11,Management of distributed computing framework components,8,G06F|H04L
+12007989,2024-06-11,Query execution using access permissions of queries,0,G06F|G06Q|G06T
+12003574,2024-06-04,Processing distributed jobs using multiple connections,0,G06F|H04L
+12003572,2024-06-04,Two-way replication of search node configuration files using a mediator node,0,H04L
+12001426,2024-06-04,Supporting graph data structure transformations in graphs generated from a query to event data,1,G06F
+11995571,2024-05-28,Determination of decision step logic for incident response in an information technology environment,0,G06F|G06N|G06Q
+11995381,2024-05-28,Two-tier capacity planning,0,G06F
+11995094,2024-05-28,Executing alert actions based on search query results,0,G06F
+11995079,2024-05-28,Generating a subquery for an external data system using a configuration file,7,G06F
+11995071,2024-05-28,Assigning field values based on an identified extraction rule,0,G06F
+11995052,2024-05-28,System and method for categorical drift detection,1,G06F|G06Q
+11989707,2024-05-21,Assigning raw data size of source data to storage consumption of an account,0,G06F|G06Q
+11989592,2024-05-21,Workload coordinator for providing state credentials to processing tasks of a data processing pipeline,4,G06F|H04L
+11989194,2024-05-21,Addressing memory limits for partition tracking among worker nodes,7,G06F
+11983181,2024-05-14,Data stream processing instruction set previews using batch conversion,0,G06F
+11983167,2024-05-14,Loading queries across interfaces,0,G06F|G06Q|G06T
+11983166,2024-05-14,Summarized view of search results with a panel in each column,0,G06F|G06Q|G06T
+11977544,2024-05-07,"Pipelined search query, leveraging reference values of an inverted index to access a set of event data and performing further queries on associated raw data",0,G06F
+11977523,2024-05-07,Enhanced data extraction via efficient extraction rule matching,0,G06F
+11973852,2024-04-30,Generating event data at remote capture agents based on identified network addresses,0,H04L
+11972203,2024-04-30,Using anchors to generate extraction rules,0,G06F
+11971778,2024-04-30,Anomaly detection from incoming data from a data stream,0,G06F
+11968101,2024-04-23,Remote custom code pre-loading for hybrid playbook execution,0,G06F|H04L
+11966797,2024-04-23,Indexing data at a data intake and query system based on a node capacity threshold,4,G06F
+11966426,2024-04-23,Non-tabular datasource connector,0,G06F
+11966391,2024-04-23,Using worker nodes to process results of a subquery,9,G06F
+11966388,2024-04-23,Updating and executing search queries of multiple independent panels of a dashboard,0,G06F
+11960575,2024-04-16,Data processing for machine learning using a graphical user interface,0,G06F|G06N|G06V
+11960545,2024-04-16,Retrieving event records from a field searchable data store using references values in inverted indexes,0,G06F
+11956137,2024-04-09,Analyzing servers based on data streams generated by instrumented software executing on the servers,0,G06F|H04L
+11956133,2024-04-09,Navigator performance optimization and signalflow query acceleration,0,H04L
+11954541,2024-04-09,Highly available message ingestion by a data intake and query system,0,G06F
+11954127,2024-04-09,Determining affinities for data set summarizations,0,G06F
+11949702,2024-04-02,Analysis and mitigation of network security risks,0,H04L
+11949547,2024-04-02,Enhanced simple network management protocol (SNMP) connector,1,H04L
+11947988,2024-04-02,Load balancer bypass for direct ingestion of data into a data intake and query system,6,G06F
+11947614,2024-04-02,Method and system for centralized multi-instance deployment consolidation,0,G06F
+11947556,2024-04-02,"Computerized monitoring of a metric through execution of a search query, determining a root cause of the behavior, and providing a notification thereof",0,G06F
+11947528,2024-04-02,Automatic generation of queries using non-textual input,6,G06F
+11947513,2024-04-02,Search phrase processing,0,G06F
+11941421,2024-03-26,Evaluating and scaling a collection of isolated execution environments at a particular geographic location,0,G06F
+11940967,2024-03-26,Query handling using a field searchable datastore or an inverted index,0,G06F
+11940899,2024-03-26,Using application performance events to calculate a user experience score for a computer application program,1,G06F
+11936764,2024-03-19,Generating event streams based on application-layer events captured by remote capture agents,0,H04L
+11936545,2024-03-19,Systems and methods for detecting beaconing communications in aggregated traffic data,2,H04L
+11934869,2024-03-19,Enhancing efficiency of data collection using a discover process,0,G06F
+11934418,2024-03-19,Reducing index file size based on event attributes,0,G06F
+11934417,2024-03-19,Dynamically monitoring an information technology networked entity,1,G06F|H04L
+11934408,2024-03-19,Interactive development environment for visualization of query result information,0,G06F
+11934256,2024-03-19,Determining ingestion latency of data intake and query system instances,0,G06F|H04L
+11928242,2024-03-12,Masking personally identifiable information from machine-generated data,0,G06F
+11928118,2024-03-12,Generating a correlation search,0,G06F
+11928046,2024-03-12,Real-time processing of data streams received from instrumented software,0,G06F
+11928014,2024-03-12,"In a microservices-based application, tracking errors by mapping traces to error stacks",1,G06F
+11924284,2024-03-05,"Automated security, orchestration, automation, and response (SOAR) app generation based on application programming interface specification data",2,H04L
+11924021,2024-03-05,Actionable event responder architecture,0,G06F|H04L
+11922232,2024-03-05,Responding to incidents identified by an information technology and security operations application using a mobile application,0,G06F|H04L
+11922222,2024-03-05,Generating a modified component for a data intake and query system using an isolated execution environment image,15,G06F
+11921873,2024-03-05,Authenticating data associated with a data intake and query system using a distributed ledger system,2,G06F|H04L
+11921799,2024-03-05,Generating and using alert definitions,0,G06F|H04L
+11921720,2024-03-05,Systems and methods for decoupling search processing language and machine learning analytics from storage of accessed data,0,G06F|G06N
+11921693,2024-03-05,HTTP events with custom fields,1,G06F|H04L
+11921672,2024-03-05,Query execution at a remote heterogeneous data store of a data fabric service,10,G06F
+11916929,2024-02-27,Automatic assignment of incidents in an information technology (IT) and security operations application,4,H04L
+11916764,2024-02-27,Server-side operations for edge analytics,1,G06F|G06N|H04L
+11915377,2024-02-27,Collaboration spaces in networked remote collaboration sessions,1,G06T|H04L
+11915156,2024-02-27,Identifying leading indicators for target event prediction,1,G06F|G06N
+11915044,2024-02-27,Distributed task assignment in a cluster computing system,1,G06F
+11914588,2024-02-27,Determining a user-specific approach for disambiguation based on an interaction recommendation machine learning model,0,G06F|G06N
+11914562,2024-02-27,Generating search results based on intermediate summaries,0,G06F
+11914552,2024-02-27,Facilitating existing item determinations,0,G06F
+11914501,2024-02-27,User interface for specifying data stream processing language programs for analyzing instrumented software,0,G06F
+11909750,2024-02-20,Data reduction and evaluation via link analysis,1,G06F|H04L
+11907271,2024-02-20,Distinguishing between fields in field value extraction,0,G06F
+11907244,2024-02-20,Modifying field definitions to include post-processing instructions,0,G06F
+11907227,2024-02-20,System and method for changepoint detection in streaming data,0,G06F|G06Q
+11907097,2024-02-20,Techniques for processing trace data,0,G06F|H04L
+11902306,2024-02-13,Advanced persistent threat detection by an information technology and security operations application,7,H04L
+11902081,2024-02-13,Managing collection agents via an agent controller,0,H04L
+11899670,2024-02-13,Generation of queries for execution at a separate system,7,G06F
+11899658,2024-02-13,Codeless anchor detection for aggregate anchors,1,G06F|G06T|G06V|H04W
+11895237,2024-02-06,Scaled authentication of endpoint devices,0,H04L
+11895192,2024-02-06,Managing subscriptions to resource updates made via a target interface,1,H04L
+11895143,2024-02-06,Providing action recommendations based on action effectiveness across information technology environments,1,G06F|H04L
+11895126,2024-02-06,Analyzing data across tenants of an information technology (IT) and security operations application,3,G06F|H04L
+11893703,2024-02-06,Precise manipulation of virtual object position in an extended reality environment,0,G06F|G06T
+11893675,2024-02-06,Processing updated sensor data for remote collaboration,3,G06F|G06T
+11893296,2024-02-06,Notification interface on a wearable device for data alerts,3,G06F
+11893010,2024-02-06,Data model selection and application based on data sources,0,G06F
+11892996,2024-02-06,Identifying an indexing node to process data using a resource catalog,6,G06F
+11892988,2024-02-06,Content pack management,1,G06F
+11892976,2024-02-06,Enhanced search performance using data model summaries stored in a remote data store,0,G06F
+11886845,2024-01-30,Computer dashboard editing tool,0,G06F
+11886844,2024-01-30,Updating reusable custom functions across playbooks,0,G06F
+11886502,2024-01-30,Facilitating event creation via previews,0,G06F|G06V
+11886475,2024-01-30,IT service monitoring by ingested machine data with KPI prediction and impactor determination,1,G06F|G06N|G06Q|H04L
+11886464,2024-01-30,Triage model in service monitoring system,3,G06F|G06Q|H04L
+11886455,2024-01-30,Networked cloud service monitoring,7,G06F
+11886453,2024-01-30,Quantization of data streams of instrumented software and handling of delayed or late data,0,G06F|H04L
+11886451,2024-01-30,Quantization of data streams of instrumented software and handling of delayed data by adjustment of a maximum delay,0,G06F
+11886440,2024-01-30,Guided creation interface for streaming data processing pipelines,6,G06F
+11886430,2024-01-30,Intent-based natural language processing system,0,G06F|G06N
+11882099,2024-01-23,Trusted tunnel bridge,1,G06F|H04L
+11882054,2024-01-23,Terminating data server nodes,0,G06F|H04L
+11880558,2024-01-23,Interface layout profiles including interface actions in an information technology and security operations application,0,G06F|H04L
+11880399,2024-01-23,Data categorization using inverted indexes,0,G06F|G06T
+11876821,2024-01-16,Combined real-time and batch threat detection,4,G06F|G06N|H04L
+11876809,2024-01-16,Identifying a cyber-attack impacting a particular asset,0,H04L
+11875275,2024-01-16,Custom time series models in computer analytics systems,0,G06F|G06N
+11875032,2024-01-16,Detecting anomalies in key performance indicator values,0,G06F|H04L
+11874691,2024-01-16,Managing efficient query execution including mapping of buckets to search nodes,19,G06F
+11870802,2024-01-09,Identifying automated responses to security threats based on communication interactions content,0,G06F|H04L
+11870795,2024-01-09,Identifying attack behavior based on scripting language activity,0,H04L
+11870673,2024-01-09,Intercepting and examining a packet header or trailer,0,H04L
+11870558,2024-01-09,Identification of related event groups for IT service monitoring system,1,G06F|H04L
+11868411,2024-01-09,Techniques for compiling and presenting query results,0,G06F
+11868404,2024-01-09,Monitoring service-level performance using defined searches of machine data,0,G06F|G06Q|G06T|H04L
+11868364,2024-01-09,Graphical user interface for extracting from extracted fields,0,G06F
+11868234,2024-01-09,Generating metrics values at component levels of a monolithic application and of a microservice of a microservices-based architecture,0,G06F
+11868158,2024-01-09,Generating search commands based on selected search options,0,G06F|G06V
+11863583,2024-01-02,Generating action recommendations for courses of action used for incident response,0,G06F|H04L
+11863408,2024-01-02,Generating event streams including modified network data monitored by remote capture agents,0,H04L
+11861767,2024-01-02,Streaming data visualizations,1,G06F|G06T
+11860940,2024-01-02,Identifying buckets for query execution using a catalog of buckets,18,G06F
+11860881,2024-01-02,Tracking event records across multiple search sessions,0,G06F|H04L
+11860874,2024-01-02,Multi-partitioning data for combination operations,12,G06F
+11860858,2024-01-02,Decoding distributed ledger transaction records,7,G06F|H04L
+11860821,2024-01-02,Generating target application packages for groups of computing devices,0,G06F
+11860760,2024-01-02,Aggregating metrics for workflows associated with a real user session,2,G06F
+11860717,2024-01-02,Graphical user interface for presenting crash data,0,G06F|G06Q
+11855998,2023-12-26,Enabling role-based operations to be performed on machine data in a machine environment,0,G06F|G06Q|H04L
+11855863,2023-12-26,Animated visualizations of network activity across network address spaces,0,H04L
+11853533,2023-12-26,Data visualization workspace in an extended reality environment,1,G06F
+11853367,2023-12-26,Identifying and preserving evidence of an incident within an information technology operations platform,0,G06F|G06T|H04L
+11853366,2023-12-26,Generating extended reality views based on user-based filters,1,G06F|G06N
+11853361,2023-12-26,Performance monitoring using correlation search with triggering conditions,1,G06F|G06Q|G06T|H04L
+11853330,2023-12-26,Data structure navigator,2,G06F
+11853303,2023-12-26,Data stream generation based on sourcetypes associated with messages,0,G06F|G06N
+11847773,2023-12-19,Geofence-based object identification in an extended reality environment,0,G06F|G06N|G06T|G06V|H04L|H04W
+11847133,2023-12-19,Real-time collaborative data visualization and interaction,1,G06F|G06T|H04L
+11843622,2023-12-12,Providing machine learning models for classifying domain names for malware detection,9,G06N|H04L
+11843528,2023-12-12,Lower-tier application deployment for higher-tier system,0,G06F|H04L
+11843505,2023-12-12,System and method of generation of a predictive analytics model and performance of centralized analytics therewith,2,G06F|H04L
+11842118,2023-12-12,Interface for data visualizations on a wearable device,0,G04G|G06F|G09G
+11841908,2023-12-12,Extraction rule determination based on user-selected text,0,G06F
+11841853,2023-12-12,Identifying related field sets based on related source types,0,G06F
+11841834,2023-12-12,Method and apparatus for efficient synchronization of search heads in a cluster using digests,0,G06F
+11841827,2023-12-12,Facilitating generation of data model summaries,0,G06F
+11838372,2023-12-05,URL normalization for rendering a service graph,0,G06F|H04L
+11838351,2023-12-05,Customizable load balancing in a user behavior analytics deployment,0,H04L
+11838189,2023-12-05,Creating a budget-based time series,0,H04L
+11836869,2023-12-05,Generating three-dimensional data visualizations in an extended reality environment,1,G06F|G06T
+11836579,2023-12-05,Data analytics in edge devices,0,G06F|G06N|H04L
+11836526,2023-12-05,Processing data streams received from instrumented software using incremental finite window double exponential smoothing,0,G06F
+11836148,2023-12-05,Data source correlation user interface,1,G06F
+11836146,2023-12-05,Storing indexed fields per source type as metadata at the bucket level to facilitate search-time field learning,2,G06F|H04L
+11835989,2023-12-05,FPGA search in a cloud compute node,0,G06F
+11831649,2023-11-28,Optimizing resource allocation for projects executing in a cloud-based environment,0,G06F|G06Q|H04L
+11831523,2023-11-28,Systems and methods for displaying adjustable metrics on real-time data in a computing environment,0,G06F|H04L
+11831521,2023-11-28,Entity lifecycle management in service monitoring system,1,G06F|H04L
+11829746,2023-11-28,Enabling agile functionality updates using multi-component application,2,G06F|H04L
+11829471,2023-11-28,Anomaly event detection,0,G06F|H04L
+11829415,2023-11-28,Mapping buckets and search peers to a bucket map identifier for searching,1,G06F
+11829381,2023-11-28,Data source metric visualizations,1,G06F
+11829378,2023-11-28,Automated generation of insights for machine generated data,0,G06F
+11829330,2023-11-28,Log data extraction from data chunks of an isolated execution environment,1,G06F|H04L
+11829236,2023-11-28,Monitoring statuses of monitoring modules of a distributed computing system,0,G06F
+11824938,2023-11-21,External sensor integration at edge device for delivery of data to intake system,2,H04L
+11824729,2023-11-21,Generating a three-dimensional cityscape including a cluster of nodes,0,G06T|H04L
+11824646,2023-11-21,Processing anomaly data to identify network security threats by use of rarity analysis,6,G06F|G06N|G06V|H04L
+11823407,2023-11-21,Codeless anchor detection for three-dimensional object models,0,G06T|H04L
+11822640,2023-11-21,User credentials verification for search,0,G06F|H04L
+11822597,2023-11-21,Geofence-based object identification in an extended reality environment,0,G06F|G06N|G06T|G06V|H04L|H04W
+11822512,2023-11-21,Graphical user interface for previewing events using a selected field delimiter option,0,G06F
+11822433,2023-11-21,Qualification parameters for captain selection in a search head cluster,0,G06F|H04L
+11822372,2023-11-21,Automated extraction rule modification based on rejected field values,0,G06F|G06Q|Y04S
+11818087,2023-11-14,User-to-user messaging-based software troubleshooting tool,1,G06F|H04L
+11818018,2023-11-14,Configuring event streams based on identified security risks,1,H04L
+11816801,2023-11-14,Codeless anchor generation for three-dimensional object models,0,G06T|H04L
+11816670,2023-11-14,Risk analysis using risk definition relationships,0,G06Q|H04L
+11816511,2023-11-14,Virtual partitioning of a shared message bus,0,G06F
+11816321,2023-11-14,Enhancing extraction rules based on user feedback,1,G06F|G06N
+11816316,2023-11-14,Event identification based on cells associated with aggregated metrics,0,G06F|G06V
+11816140,2023-11-14,Non-text machine data processing,0,G06F
+11816108,2023-11-14,Dynamic alert messages using tokens based on searching events,0,G06F|G06Q|H04L
+11811805,2023-11-07,Detecting fraud by correlating user behavior biometrics with other data sources,0,G06F|G06N|H04L
+11811587,2023-11-07,Generating incident response action flows using anonymized action implementation data,0,G06F|H04L
+11809810,2023-11-07,Dynamically displaying portions of a hierarchically organized data file in a web application,0,G06F
+11809497,2023-11-07,Relating events and matching events to steps of a process using field values from different fields,1,G06F
+11809492,2023-11-07,Online artificial intelligence algorithm for a data intake and query system,3,G06F|G06N
+11809447,2023-11-07,Collapsing nodes within a journey model,4,G06F
+11809439,2023-11-07,Updating client dashboarding component of an asset monitoring and reporting system,0,G06F
+11809405,2023-11-07,Generating and distributing delta files associated with mutable events in a distributed system,0,G06F
+11809397,2023-11-07,Managing slot requests for query execution in hybrid cloud deployments,0,G06F
+11809395,2023-11-07,"Load balancing, failover, and reliable delivery of data in a data intake and query system",7,G06F
+11805148,2023-10-31,Modifying incident response time periods based on incident volume,0,G06F|H04L
+11805144,2023-10-31,Polygon based interactive security visualization of network entity data,0,G06F|G06T|H04L
+11803548,2023-10-31,Automated generation of metrics from log data,0,G06F
+11799798,2023-10-24,Generating infrastructure templates for facilitating the transmission of user data into a data intake and query system,0,G06F|H04L
+11799728,2023-10-24,Multistage device clustering,0,G06F|H04L
+11798235,2023-10-24,Interactions in networked remote collaboration environments,1,G06T|H04L
+11798209,2023-10-24,Systems and methods for rendering a third party visualization in response to events received from search queries,0,G06F|G06T
+11797618,2023-10-24,Data fabric service system deployment,16,G06F
+11797542,2023-10-24,Combining data streams generated by instrumented software using metadata correlation,0,G06F
+11797532,2023-10-24,Dashboard display using panel templates,0,G06F|G06Q
+11797366,2023-10-24,Identifying a root cause of an error,0,G06F|G06N|H04L
+11797168,2023-10-24,Binning information associated with ranges of time,0,G06F
+11792291,2023-10-17,Proxying hypertext transfer protocol (HTTP) requests for microservices,0,H04L
+11792157,2023-10-17,Detection of DNS beaconing through time-to-live and transmission analyses,0,G06F|H04L
+11790649,2023-10-17,External asset database management in an extended reality environment,0,G06F|G06T|G06V|H04L|H04W
+11790623,2023-10-17,Manipulation of virtual object position within a plane of an extended reality environment,0,G06F|G06T
+11789993,2023-10-17,Correlating non-text machine data using event fields,0,G06F
+11789961,2023-10-17,Interaction with particular event for field selection,0,G06F
+11789950,2023-10-17,Dynamic storage and deferred analysis of data stream events,3,G06F
+11789943,2023-10-17,Configuring alerts for tags associated with high-latency and error spans for instrumented software,0,G06F
+11789901,2023-10-17,Source type definition configuration using a graphical user interface,0,G06F
+11789804,2023-10-17,Identifying the root cause of failure observed in connection to a workflow,1,G06F
+11784996,2023-10-10,Runtime credential requirement identification for incident response,0,H04L
+11782989,2023-10-10,Correlating data based on user-specified search criteria,0,G06F
+11782987,2023-10-10,Using an augmented process model to track process instances,2,G06F|G06Q
+11782920,2023-10-10,Durable search queries for reliable distributed data retrieval,3,G06F
+11782678,2023-10-10,Graphical user interface for extraction rules,0,G06F
+11778033,2023-10-03,Playback of a stored networked remote collaboration session,0,G06F|G06T|H04L
+11777974,2023-10-03,Systems data availability validation,0,G06F|H04L
+11777945,2023-10-03,Predicting suspiciousness of access between entities and resources,0,G06F|G06N|H04L
+11776218,2023-10-03,Networked remote collaboration system,2,G06T|H04L
+11775767,2023-10-03,Systems and methods for automated iterative population of responses using artificial intelligence,3,G06F|G06N|G10L
+11775548,2023-10-03,Selection of representative data subsets from groups of events,0,G06F
+11775501,2023-10-03,Trace and span sampling and analysis for instrumented software,1,G06F|H04L
+11775343,2023-10-03,Duty cycle estimation for job assignment,0,G06F|H04L
+11768960,2023-09-26,Machine data anonymization,3,G06F
+11768875,2023-09-26,Monitoring system control interface for asset tree determination,0,G05B|G06F|H04L
+11768848,2023-09-26,"Retrieving, modifying, and depositing shared search configuration into a shared data store",0,G06F|H04L|H04W
+11768836,2023-09-26,Automatic entity definitions based on derived content,0,G06F|G06Q
+11768811,2023-09-26,Managing user data in a multitenant deployment,1,G06F
+11768776,2023-09-26,Evicting data associated with a data intake and query system from a local storage,0,G06F
+11768666,2023-09-26,Executing playbooks including custom code function blocks,0,G06F|H04L
+11765198,2023-09-19,Selecting actions responsive to computing environment incidents based on severity rating,0,G06F|H04L
+11762869,2023-09-19,Generating journey flow visualization with node placement based on shortest distance to journey start,5,G06F|G06T|H04L
+11762759,2023-09-19,Multiple modes of storing and querying trace data in a microservices-based architecture,1,G06F
+11762728,2023-09-19,Displaying error stacks in a graphical user interface (GUI) to track error propagation across microservices-based applications,1,G06F
+11762442,2023-09-19,Real-time machine learning at an edge of a distributed network,11,G06F|G06N|H04L
+11757925,2023-09-12,Managing security actions in a computing environment based on information gathering activity of a security threat,0,G06F|H04L
+11755938,2023-09-12,Graphical user interface indicating anomalous events,0,G06F|G06N
+11755635,2023-09-12,Presentation and sorting of summaries of alert instances triggered by search queries,0,G06F
+11755634,2023-09-12,Generating reports from unstructured data,1,G06F|G06T
+11755626,2023-09-12,Systems and methods for classifying data objects,2,G06F
+11755577,2023-09-12,Skewing of scheduled search queries,0,G06F
+11755559,2023-09-12,Automatic entity control in a machine data driven service monitoring system,52,G06F|G06Q|G06T
+11755531,2023-09-12,System and method for storage of data utilizing a persistent queue,0,G06F|H04L
+11755453,2023-09-12,Performing iterative entity discovery and instrumentation,1,G06F
+11755446,2023-09-12,Application topology graph for representing uninstrumented objects in a microservices-based architecture,0,G06F|G06N
+11755405,2023-09-12,Identifying suggested actions for responding to incidents in an it environment,2,G06F|G06Q
+11755390,2023-09-12,Using keep-alive markers to extend redelivery deadlines,0,G06F
+11755387,2023-09-12,Updating code of an app feature based on a value of a query feature,0,G06F
+11755371,2023-09-12,"Data intake and query system with distributed data acquisition, indexing and search",0,G06F|H04L
+11755344,2023-09-12,Dynamic drill-down of nested graphical interfaces,0,G06F|G06T
+11750663,2023-09-05,Threat identification-based collection of forensic data from endpoint devices,0,H04L
+11748634,2023-09-05,Systems and methods for integration of machine learning components within a pipelined search query to generate a graphic visualization,5,G06F|G06N
+11748394,2023-09-05,Using indexers from multiple systems,0,G06F
+11748390,2023-09-05,Evaluating key performance indicators of information technology service,0,G06F|G06Q|H04L
+11748358,2023-09-05,Feedback on inferred sourcetypes,1,G06F|G06N
+11748351,2023-09-05,Class specific query processing,0,G06F
+11743285,2023-08-29,Correlating forensic and non-forensic data in an information technology environment,7,H04L
+11741396,2023-08-29,Efficient command execution using aggregated compute units,0,G06F|G06N|H04L
+11741160,2023-08-29,Determining states of key performance indicators derived from machine data,0,G06F|G06Q|G06T|H04L
+11741131,2023-08-29,Fragmented upload and re-stitching of journey instances detected within event data,6,G06F
+11741089,2023-08-29,Interactive location queries for raw machine data,1,G06F
+11741086,2023-08-29,Queries based on selected subsets of textual representations of events,0,G06F
+11736502,2023-08-22,Generating meta-notable event summary information,0,G06F|G06T|H04L
+11736452,2023-08-22,Secure update of dashboard properties,0,H04L
+11736378,2023-08-22,Collaborative incident management for networked computing systems,0,G06F|H04L
+11734886,2023-08-22,Interaction tools in networked remote collaboration,3,G06T
+11734878,2023-08-22,Polygon clipping based on traversing lists of points,0,G06T
+11734297,2023-08-22,Monitoring platform job integration in computer analytics system,0,G06F
+11734008,2023-08-22,Reusable sets of instructions for responding to incidents in information technology environments,0,G06F
+11733982,2023-08-22,Dynamically changing input data streams processed by data stream language programs,0,G06F
+11733829,2023-08-22,Monitoring tree with performance states,0,G06F|H04L|H10N
+11729074,2023-08-15,Online data decomposition,2,G06F|H04L
+11728928,2023-08-15,Securely sharing public and private blockchain data,0,G06F|H04L
+11727643,2023-08-15,Multi-environment networked remote collaboration system,3,G06T|H04L
+11727039,2023-08-15,Low-latency streaming analytics,7,G06F|G06Q
+11727016,2023-08-15,Surfacing and displaying exemplary spans from a real user session in response to a query,15,G06F|H04L
+11727007,2023-08-15,Systems and methods for a unified analytics platform,3,G06F|G06N
+11726990,2023-08-15,Efficient updating of journey instances detected within unstructured event data,1,G06F
+11726898,2023-08-15,Generating metrics values for teams of microservices of a microservices-based architecture,2,G06F|G06Q
+11726774,2023-08-15,Application programming interface for a registry,0,G06F
+11722507,2023-08-08,User configurable alert notifications applicable to search query results,0,G06F|H04L
+11720824,2023-08-08,Visualizing outliers from timestamped event data using machine learning-based models,0,G06F|G06N
+11720591,2023-08-08,Virtual metrics,1,G06F
+11720549,2023-08-08,Data stream integrity using blockchain,4,G06F|H04L
+11720537,2023-08-08,Bucket merging for a data intake and query system using size thresholds,16,G06F
+11716405,2023-08-01,System and method for identifying cache miss in backend application,2,G06F|H04L
+11716260,2023-08-01,Hybrid execution of playbooks including custom code,1,G06F|H04L
+11716248,2023-08-01,Selective event stream data storage based on network traffic volume,0,G06F|H04L
+11715051,2023-08-01,Service provider instance recommendations using machine-learned classifications and reconciliation,14,G06F|G06N|G06Q|H04L
+11714980,2023-08-01,Techniques for using tag placement to determine 3D object orientation,0,G06F|G06K|G06T
+11714823,2023-08-01,Generating metric data from log data using metricization rules,4,G06F
+11714799,2023-08-01,Automated testing of add-on configurations for searching event data using a late-binding schema,1,G06F
+11714698,2023-08-01,System and method for machine-learning based alert prioritization,2,G06F
+11714683,2023-08-01,Information technology and security application automation architecture,7,G06F|H04L
+11711432,2023-07-25,Remote management of application settings,1,G06F|H04L
+11709850,2023-07-25,Using a timestamp selector to select a time information and a type of time information,0,G06F
+11709661,2023-07-25,Representing result data streams based on execution of data stream language programs,0,G06F
+11704490,2023-07-18,Log sourcetype inference model training for a data intake and query system,4,G06F|G06N
+11704341,2023-07-18,Search result replication management in a search head cluster,0,G06F
+11704313,2023-07-18,Parallel branch operation using intermediary nodes,21,G06F
+11704285,2023-07-18,Metrics and log integration,1,G06F
+11704219,2023-07-18,Performance monitoring of distributed ledger nodes,15,G06F
+11703826,2023-07-18,Monitoring asset hierarchies based on asset group metrics,0,G05B|G06F
+11699268,2023-07-11,Techniques for placement of extended reality objects relative to physical objects in an extended reality environment,1,G06F|G06T
+11698901,2023-07-11,Interactive data field analyzer,1,G06F|G06T
+11698900,2023-07-11,Leveraging search query history in a search interface,0,G06F
+11695830,2023-07-04,Multi-threaded processing of search responses,1,G06F|H04L
+11695803,2023-07-04,Extension framework for an information technology and security operations application,0,G06F|H04L
+11693904,2023-07-04,Pushing presented data visualizations to assigned displays,0,G06F|G06T
+11693895,2023-07-04,Graphical user interface with chart for event inference into tasks,0,G06F|G06N|G06T
+11693871,2023-07-04,Graphical user interface for dynamic elements of asset monitoring and reporting system,1,G06F|H04L
+11693850,2023-07-04,Rendering a service graph to illustrate page provider dependencies at an aggregate level,2,G06F
+11693761,2023-07-04,Rendering a service graph to illustrate page provider dependencies,2,G06F
+11693710,2023-07-04,Workload pool hierarchy for a search and indexing system,3,G06F|H04L
+11687515,2023-06-27,Time selection to specify a relative time for event display,0,G06F
+11687487,2023-06-27,Text files updates to an active processing pipeline,10,G06F|G06Q|H04L
+11687438,2023-06-27,Adaptive thresholding of data streamed to a data processing pipeline,14,G06F
+11687413,2023-06-27,Data snapshots for configurable screen on a wearable device,3,G06F|H04B|H04W
+11687219,2023-06-27,Statistics chart row mode drill down,0,G06F|G06V
+11683221,2023-06-20,Automatic generation of template for provisioning services in a hosted computing environment,0,G06F|H04L
+11681900,2023-06-20,Providing field extraction recommendations for display,0,G06F|G06N
+11681707,2023-06-20,Analytics query response transmission,0,G06F
+11677780,2023-06-13,Identifying automated response actions based on asset classification,0,G06F|H04L
+11677760,2023-06-13,Executing modular alerts and associated security actions,1,G06F|H04L
+11676345,2023-06-13,Automated adaptive workflows in an extended reality environment,16,G06F|G06Q|G06T|G06V
+11676092,2023-06-13,Graphical user interface with hybrid role-based access control,1,G06Q
+11676072,2023-06-13,Interface for incorporating user feedback into training of clustering model,15,G06F|G06N
+11675900,2023-06-13,Generating suggested courses of actions for incidents based on previous incident handling,0,G06F|G06Q|H04L
+11675816,2023-06-13,Grouping evens into episodes using a streaming data processor,13,G06F|G06N
+11675810,2023-06-13,Disaster recovery in a clustered environment using generation identifiers,0,G06F|H04L
+11675771,2023-06-13,Identity resolution,0,G06F|H04L
+11675473,2023-06-13,User interface for summarizing data to generate previews of metric data,48,G06F
+11671457,2023-06-06,On-premises action execution agent for cloud-based information technology and security operations applications,2,G06F|H04L
+11671312,2023-06-06,Service detail monitoring console,8,G06Q|H04L
+11670288,2023-06-06,Generating predicted follow-on requests to a natural language request received by a natural language processing system,7,G06F|G06N|G10L
+11670062,2023-06-06,Web-based three-dimensional extended reality workspace editor,4,G06F|G06K|G06T|H04L
+11670021,2023-06-06,Enhanced graphical user interface for representing events,1,G06F|G06Q|G06T
+11669551,2023-06-06,Rule-based data stream processing,0,G06F
+11669533,2023-06-06,Inferring sourcetype based on match rates for rule packages,0,G06F|H04L
+11669499,2023-06-06,Management of journal entries associated with customizations of knowledge objects in a search head cluster,0,G06F
+11669382,2023-06-06,Anomaly detection for data stream processing,0,G06F
+11663244,2023-05-30,Segmenting machine data into events to identify matching events,1,G06F
+11663227,2023-05-30,Generating a subquery for a distinct data intake and query system,20,G06F
+11663219,2023-05-30,Determining a set of parameter values for a processing pipeline,17,G06F
+11663212,2023-05-30,Identifying configuration parameters for a query using a metadata catalog,2,G06F
+11663176,2023-05-30,Data field extraction model training for a data intake and query system,6,G06F|G06N
+11663172,2023-05-30,Cascading payload replication,1,G06F|H04L
+11663109,2023-05-30,Automated seasonal frequency identification,7,G06F
+11658998,2023-05-23,Translating security actions into computing asset-specific action procedures,0,G06F|H04L
+11658992,2023-05-23,Lateral movement candidate detection in a computer network,0,G06F|G06N|H04L
+11658863,2023-05-23,Aggregation of incident data for correlated incidents,4,H04L
+11657582,2023-05-23,Precise plane detection and placement of virtual objects in an augmented reality environment,0,G06F|G06K|G06T
+11657065,2023-05-23,Clustering events while excluding extracted values,0,G06F
+11657057,2023-05-23,Revising catalog metadata based on parsing queries,1,G06F
+11652849,2023-05-16,Identifying recommended feature sets based on application feature popularity,0,G06F|H04L
+11651571,2023-05-16,Mesh updates via mesh splitting,1,G01S|G06T
+11651563,2023-05-16,Dockable billboards for labeling objects in a display having a three dimensional perspective of a virtual or real environment,0,G06F|G06T
+11651149,2023-05-16,Event selection via graphical user interface control,4,G06F
+11651012,2023-05-16,Coding commands using syntax templates,7,G06F
+11651011,2023-05-16,Threshold-based determination of key performance indicator values,0,G06F|G06Q|H04L
+11650995,2023-05-16,User defined data stream for routing data to a data destination based on a data route,8,G06F|H04L
+11650908,2023-05-16,Processing data streams received from instrumented software in real time using incremental-decremental implementation of the KPSS stationarity statistic,0,G06F
+11647043,2023-05-09,Identifying security actions based on computing asset relationship data,0,G06F|H04L
+11646953,2023-05-09,Identification of network issues by correlation of cross-platform performance data,0,G06F|H04L|H04W
+11645471,2023-05-09,Determining a relationship recommendation for a natural language request,1,G06F|G06N
+11645286,2023-05-09,Dynamic data processor for streaming and batch queries,9,G06F
+11645210,2023-05-09,Cache aware searching based on one or more files in remote storage,1,G06F
+11645183,2023-05-09,User interface for correlation of virtual machine information and storage information,0,G06F
+11644955,2023-05-09,Assigning a global parameter to queries in a graphical user interface,33,G06F
+11644940,2023-05-09,Data visualization in an extended reality environment,2,G06F
+11641372,2023-05-02,Generating investigation timeline displays including user-selected screenshots,0,G06F|H04L
+11641310,2023-05-02,Entity lifecycle management in service monitoring system,0,G06F|H04L
+11640341,2023-05-02,Data recovery in a multi-pipeline data forwarder,0,G06F|H04L
+11636397,2023-04-25,Graphical user interface for concurrent forecasting of multiple time series,1,G06F|G06N
+11636311,2023-04-25,Anomaly detection based on predicted textual characters,0,G06F|G06N|G06Q
+11636160,2023-04-25,Related content identification for different types of machine-generated data,1,G06F
+11636128,2023-04-25,Displaying query results from a previous query when accessing a panel,28,G06F
+11636116,2023-04-25,User interface for customizing data streams,10,G06F|H04L
+11636105,2023-04-25,Generating a subquery for an external data system using a configuration file,22,G06F
+11632383,2023-04-18,Predictive model selection for anomaly detection,2,G06N|H04L
+11630695,2023-04-18,Dynamic reassignment in a search and indexing system,1,G06F
+11627149,2023-04-11,Security monitoring of network connections using metrics data,0,H04L
+11625404,2023-04-11,Multi-phased execution of a search query,0,G06F
+11625394,2023-04-11,Supporting graph data structure transformations in graphs generated from a query to event data,4,G06F
+11625254,2023-04-11,Interface for customizing dashboards based on parallel edges,0,G06F
+11621899,2023-04-04,Automatic creation of related event groups for an IT service monitoring system,5,G06F|H04L
+11621883,2023-04-04,Monitoring state information for incidents in an IT environment including interactions among analysts responding to other similar incidents,0,G06F|H04L
+11620541,2023-04-04,Custom use case framework in computer analytics system,5,G06F|G06N
+11620336,2023-04-04,Managing and storing buckets to a remote shared storage system based on a collective bucket size,23,G06F
+11620303,2023-04-04,Security essentials and information technology essentials for a data intake and query system,17,G06F
+11620300,2023-04-04,Real-time measurement and system monitoring based on generated dependency graph models of system components,11,G06F|G06N
+11620296,2023-04-04,Online machine learning algorithm for a data intake and query system,6,G06F|G06N
+11620288,2023-04-04,Dynamically assigning a search head to process a query,9,G06F
+11620164,2023-04-04,Virtual partitioning of a shared message bus,3,G06F
+11620157,2023-04-04,Data ingestion pipeline anomaly detection,6,G06F|G06N
+11615104,2023-03-28,Subquery generation based on a data ingest estimate of an external data system,20,G06F
+11615102,2023-03-28,Swappable online machine learning algorithms implemented in a data intake and query system,6,G06F|G06N
+11615101,2023-03-28,Anomaly detection in data ingested to a data intake and query system,4,G06F|G06N
+11615087,2023-03-28,Search time estimate in a data intake and query system,21,G06F
+11615084,2023-03-28,Unified data processing across streaming and indexed data sets,9,G05B|G06F|G06N
+11615082,2023-03-28,Using a data store and message queue to ingest data for a data intake and query system,14,G06F|H04L
+11615073,2023-03-28,Supplementing events displayed in a table format,0,G06F|G06Q|G06T
+11614923,2023-03-28,Dual textual/graphical programming interfaces for streaming data processing pipelines,12,G06F
+11614856,2023-03-28,Row-based event subset display based on field metrics,0,G06F|G06V
+11611493,2023-03-21,Displaying interactive topology maps of cloud computing resources,1,H04L
+11610156,2023-03-21,Transmitting machine learning models to edge devices for edge analytics,1,G06F|G06N|G06V
+11609913,2023-03-21,Reassigning data groups from backup to searching for a processing node,11,G06F|H04L
+11606384,2023-03-14,Clustering-based security monitoring of accessed domain names,1,A61G|G06F|G06T|H04L
+11606379,2023-03-14,Identifying threat indicators by processing multiple anomalies,1,G06F|G06N|H04L
+11604877,2023-03-14,Nested courses of action to support incident response in an information technology environment,3,G06F|H04L
+11604799,2023-03-14,Performing panel-related actions based on user interaction with a graphical user interface,31,G06F
+11604795,2023-03-14,Distributing partial results from an external data system between worker nodes,21,G06F
+11604789,2023-03-14,Bi-directional query updates in a user interface,15,G06F
+11604782,2023-03-14,Systems and methods for scheduling concurrent summarization of indexed data,0,G06F
+11604779,2023-03-14,Query acceleration using intermediate summaries,0,G06F
+11604763,2023-03-14,Graphical user interface for parsing events using a designated field delimiter,0,G06F
+11601324,2023-03-07,Composite display of multi-sourced IT incident related information,1,G06F|H04L
+11599549,2023-03-07,Sampling-based preview mode for a data intake and query system,6,G06F|G06N
+11599547,2023-03-07,Data replication and site replication in a clustered computing environment,0,G06F|H04L
+11599541,2023-03-07,Determining records generated by a processing task of a query,13,G06F
+11599400,2023-03-07,Segmenting machine data into events based on source signatures,1,G06F
+11599396,2023-03-07,Resegmenting chunks of data based on source type to facilitate load balancing,0,G06F
+11595274,2023-02-28,Server-side operations for edge analytics,2,G06F|G06N|H04L
+11593477,2023-02-28,Expediting processing of selected events on a time-limited basis,10,G06F
+11593443,2023-02-28,Facilitating alerts for predicted conditions,0,G06F|H04L
+11593400,2023-02-28,Automatic triage model execution in machine data driven monitoring automation apparatus,1,G06F|G06Q|H04L
+11593377,2023-02-28,Assigning processing tasks in a data intake and query system,23,G06F
+11588841,2023-02-21,Generating malicious network traffic detection models using cloned network environments,0,G06F|G06N|H04L
+11588678,2023-02-21,Generating incident response action recommendations using anonymized action implementation data,0,G06F|H04L
+11586729,2023-02-21,Frequent pattern based anomaly event detection,1,G06F|H04L
+11586722,2023-02-21,Securely managing authentication information for automated incident responses,0,G06F|H04L
+11586692,2023-02-21,Streaming data processing,22,G06F
+11586627,2023-02-21,Partitioning and reducing records at ingest of a worker node,23,G06F
+11582316,2023-02-14,URL normalization for rendering a service graph and aggregating metrics associated with a real user session,6,G06F|H04L
+11582036,2023-02-14,Scaled authentication of endpoint devices,1,H04L
+11580107,2023-02-14,Bucket data distribution for exporting data to worker nodes,24,G06F
+11580071,2023-02-14,Monitoring changes to data items using associated metadata,0,G06F
+11580067,2023-02-14,Storage volume regulation for multi-modal machine data,2,G06F|G06Q
+11579860,2023-02-14,Model driven state machine transitions to configure an installation of a software program,1,G06F|G06N
+11579764,2023-02-14,Interfaces for data monitoring and event response,12,G06F|H04L
+11575693,2023-02-07,Composite relationship graph for network security,75,G06F|G06N|G06V|H04L
+11574429,2023-02-07,Automated generation of display layouts,6,G06F|G06T
+11574242,2023-02-07,Guided workflows for machine learning-based data analyses,12,G06F|G06N
+11573971,2023-02-07,Search and data analysis collaboration system,10,G06F
+11573959,2023-02-07,Generating search commands based on cell selection within data tables,0,G06F|G06Q|G06T
+11573955,2023-02-07,Data-determinant query terms,6,G06F|H04L
+11567993,2023-01-31,Copying buckets from a remote shared storage system to memory associated with a search node for query execution,26,G06F
+11567978,2023-01-31,Hybrid structured/unstructured search and query system,0,G06F
+11567960,2023-01-31,Isolated execution environment system monitoring,5,G06F
+11567959,2023-01-31,Self-contained files for generating a visualization of query results,2,G06F
+11567735,2023-01-31,Systems and methods for integration of multiple programming languages within a pipelined search query,7,G06F|G06N
+11563813,2023-01-24,Presentation of collaboration environments for a networked remote collaboration session,9,G06F|G06T|H04L
+11562023,2023-01-24,Merging buckets in a data intake and query system,28,G06F
+11561952,2023-01-24,Storing events derived from log data and performing a search on the events and data that is not log data,1,G06F
+11558412,2023-01-17,Interactive security visualization of network entity data,6,G06F|G06T|H04L
+11558270,2023-01-17,Monitoring a stale data queue for deletion events,1,G06F|G06Q|H04L
+11556592,2023-01-17,Storage estimate generation,1,G06F
+11556577,2023-01-17,Filtering event records based on selected extracted value,0,G06F|H04L
+11552974,2023-01-10,Cybersecurity risk analysis and mitigation,11,H04L
+11551421,2023-01-10,Mesh updates via mesh frustum cutting,6,G01B|G01S|G06T|H04L
+11550849,2023-01-10,Journey instance generation based on one or more pivot identifiers and one or more step identifiers,6,G06F
+11550847,2023-01-10,Hashing bucket identifiers to identify search nodes for efficient query execution,25,G06F
+11550829,2023-01-10,Systems and methods for load balancing in a system providing dynamic indexer discovery,0,G06F
+11550772,2023-01-10,Time series search phrase processing,1,G06F
+11550695,2023-01-10,Measuring mobile application program reliability caused by runtime errors,1,G06F
+11546437,2023-01-03,Playback of a stored networked remote collaboration session,8,G06F|G06T|H04L
+11546343,2023-01-03,Optimizing resource allocation for projects executing in a cloud-based environment,0,G06F|G06Q|H04L
+11544911,2023-01-03,Manipulation of virtual object position within a plane of an extended reality environment,0,G06F|G06T
+11544904,2023-01-03,Mesh updates in an extended reality environment,3,G06F|G06T|G09G
+11544343,2023-01-03,Codeless anchor generation for detectable features in an environment,1,G06F|G06T|G06V|H04W
+11544282,2023-01-03,Three-dimensional drill-down data visualization in extended reality environment,4,G06F
+11544257,2023-01-03,Interactive table-based query construction using contextual forms,0,G06F|G06Q|G06T
+11544248,2023-01-03,Selective query loading across query interfaces,0,G06F|G06Q|G06T
+11539578,2022-12-27,Generating actionable alert messages for resolving incidents in an information technology environment,0,G06F|G06Q|H04L
+11537951,2022-12-27,Efficiently executing commands at external computing services,0,G06F|G06N|H04L
+11537942,2022-12-27,Machine learning-based data analyses for outlier detection,9,G06F|G06N
+11537627,2022-12-27,Information technology networked cloud service monitoring,22,G06F
+11537585,2022-12-27,Determining time stamps in machine data derived events,1,G06F
+11537492,2022-12-27,Application topology graph for representing instrumented and uninstrumented objects in a microservices-based architecture,2,G06F|G06N
+11531713,2022-12-20,Suggested field extraction,0,G06F
+11531679,2022-12-20,Incident review interface for a service monitoring system,0,G06F|H04L
+11526511,2022-12-13,Monitoring interface for information technology environment,3,G06F|G06Q|G06T
+11526504,2022-12-13,Search-time field extraction in a data intake and query system,9,A61K|C07K|C12N|C12Y|G06F
+11526482,2022-12-13,Determining timestamps to be associated with events in machine data,1,G06F
+11526425,2022-12-13,Generating metric data streams from spans ingested by a cloud deployment of an instrumentation analytics engine,8,G06F
+11522812,2022-12-06,Workflows for configuring the ingestion of user data from a service provider network into a data intake and query system,5,G06F|H04L
+11522769,2022-12-06,Service monitoring interface with an aggregate key performance indicator of a service and aspect key performance indicators of aspects of the service,1,G06F|H04L
+11516269,2022-11-29,Application performance monitoring (APM) detectors for flagging application performance alerts,3,G06F|H04L
+11516069,2022-11-29,Aggregate notable events in an information technology and security operations application,10,H04L
+11514278,2022-11-29,Graphical user interface for automated data preprocessing for machine learning,0,G06F|G06N|G06V
+11514086,2022-11-29,Generating statistics associated with unique field values,0,G06F|G06Q|Y04S
+11514006,2022-11-29,Modifying event generation rules responsive to detected schema changes,0,G06F
+11513846,2022-11-29,"Distributed data acquisition, indexing and search system",3,G06F|H04L
+11513844,2022-11-29,Pipeline set selection based on duty cycle estimation,10,G06F|H04L
+11509706,2022-11-22,Customizable load balancing in a user behavior analytics deployment,2,H04L
+11507562,2022-11-22,Associating data from different nodes of a distributed ledger system,20,G06F|G16Y|H04L
+11501238,2022-11-15,Per-entity breakdown of key performance indicators,2,G06Q
+11501184,2022-11-15,Automated determination of decision step logic in a course of action for information technology incident response,2,G06F|G06N|G06Q
+11501112,2022-11-15,"Detecting, diagnosing, and directing solutions for source type mislabeling of machine data, including machine data that may contain PII, using machine learning",3,G06F|G06N
+11500875,2022-11-15,Multi-partitioning for combination operations,26,G06F
+11500871,2022-11-15,Systems and methods for decoupling search processing language and machine learning analytics from storage of accessed data,10,G06F|G06N
+11500783,2022-11-15,Evicting data associated with a data intake and query system from a local storage,0,G06F
+11500709,2022-11-15,Mobile application crash monitoring user interface,0,G06F|G06Q
+11496371,2022-11-08,Executing custom playbook code in a hybrid security operations application environment,0,G06F|H04L
+11494395,2022-11-08,Creating dashboards for viewing data in a data storage system based on natural language requests,1,G06F|G06N
+11494381,2022-11-08,Ingestion and processing of both cloud-based and non-cloud-based data by a data intake and query system,1,G06F
+11494380,2022-11-08,Management of distributed computing framework components in a data fabric service system,27,G06F|H04L
+11487759,2022-11-01,Query execution optimization for partially typed semantics,0,G06F
+11487513,2022-11-01,Reusable custom functions for playbooks,4,G06F
+11482002,2022-10-25,Codeless anchor detection for detectable features in an environment,1,G06F|G06T|G06V|H04W
+11481797,2022-10-25,Mobile device position correlation with data sources,0,G06Q
+11481396,2022-10-25,Executing untrusted commands from a distributed execution model,2,G06F|H04L|H04W
+11481361,2022-10-25,Cascading payload replication to target compute nodes,4,G06F|H04L
+11477263,2022-10-18,Identifying un-deployed features of an application,1,G06F|H04L
+11477161,2022-10-18,Systems and methods for detecting DNS communications through time-to-live analyses,1,G06F|H04L
+11475053,2022-10-18,Providing completion recommendations for a partial natural language request received by a natural language processing system,14,G06F|G06N
+11475024,2022-10-18,Anomaly and outlier explanation generation for data ingested to a data intake and query system,8,G06F|G06N
+11474673,2022-10-18,Handling modifications in programming of an iterative message processing system,12,G06F
+11470096,2022-10-11,Network security anomaly and threat detection using rarity scoring,2,G06F|G06N|G06V|H04L
+11469974,2022-10-11,Analytics for edge devices to intelligently throttle data reporting,5,G06F|G06Q|H04L|H04W
+11467794,2022-10-11,Displaying device-associated data in an extended reality environment,0,G06F|G06K|G09G|H04L
+11463464,2022-10-04,Anomaly detection based on changes in an entity relationship graph,51,H04L
+11461408,2022-10-04,Location-based object identification and data visualization,2,G06F|H04W
+11461378,2022-10-04,Generating dashboards based on user-based filters,1,G06F
+11461350,2022-10-04,Control interface for dynamic elements of asset monitoring and reporting system,3,G06F|H04L
+11461334,2022-10-04,Data conditioning for dataset destination,31,G06F|H04L
+11461320,2022-10-04,Determining a user-specific approach for disambiguation based on an interaction recommendation machine learning model,1,G06F|G06N
+11455590,2022-09-27,Service monitoring adaptation for maintenance downtime,2,G06Q|H04L
+11455314,2022-09-27,Management of queries in a hybrid cloud deployment of a query system,0,G06F
+11455087,2022-09-27,Generating search commands based on field-value pair selections,0,G06F|G06V
+11451453,2022-09-20,Configuring the generation of ephemeral event streams by remote capture agents,0,H04L
+11450419,2022-09-20,Medication security and healthcare privacy systems,6,G06F|G16H
+11449464,2022-09-20,Graphical user interface for parsing events using a selected field delimiter option,0,G06F
+11449371,2022-09-20,Indexing data at a data intake and query system based on a node capacity threshold,11,G06F
+11449293,2022-09-20,Interface for data visualizations on a wearable device,0,G04G|G06F|G09G
+11442935,2022-09-13,Determining a record generation estimate of a processing task,29,G06F
+11442924,2022-09-13,Selective filtered summary graph,2,G06F|G06Q|G06T
+11438221,2022-09-06,System and method for centralized analytics through provision of enrichment data to an edge device,5,G06F|H04L
+11436268,2022-09-06,Multi-site cluster-based data intake and query systems,0,G06F
+11436222,2022-09-06,"Pipelined search query, leveraging reference values of an inverted index to determine a set of event data and performing further queries on the event data",0,G06F
+11436116,2022-09-06,Recovering pre-indexed data from a shared storage system following a failed indexer,12,G06F
+11430196,2022-08-30,Precise manipulation of virtual object position in an extended reality environment,5,G06F|G06T
+11429627,2022-08-30,System monitoring driven by automatically determined operational parameters of dependency graph model with user interface,8,G06F
+11429608,2022-08-30,Optimizing search of an accelerated data model by enabling emitting of structured and unstructured fields from the data model,0,G06F
+11429600,2022-08-30,Loading queries using search points,0,G06F
+11429354,2022-08-30,Executing playbooks including multi-prompt blocks,0,G06F|H04L
+11425229,2022-08-23,Generating event streams from encrypted network traffic monitored by remote capture agents,0,H04L
+11423216,2022-08-23,Providing extraction results for a particular field,0,G06F
+11422873,2022-08-23,Efficient message queuing service using multiplexing,1,G06F
+11422686,2022-08-23,Binning information associated with ranges of time,3,G06F
+11416561,2022-08-16,Identifying evidence within an information technology (IT) operations platform,4,G06F|G06T|H04L
+11416528,2022-08-16,Query acceleration data store,36,G06F
+11416505,2022-08-16,Querying an archive for a data store,0,G06F
+11416465,2022-08-16,Processing data associated with different tenant identifiers,21,G06F
+11416285,2022-08-16,Efficient and secure scalable-two-stage data collection,2,G06F
+11416278,2022-08-16,Presenting hypervisor data for a virtual machine with associated operating system data,0,G06F
+11411966,2022-08-09,Processing anomaly data to identify threats to network security,49,G06F|G06N|G06V|H04L
+11411804,2022-08-09,Actionable event responder,1,G06F|H04L
+11410403,2022-08-09,Precise scaling of virtual objects in an extended reality environment,1,G06F|G06T
+11409758,2022-08-09,Field value and label extraction from a field value,4,G06F
+11409756,2022-08-09,Creating and communicating data analyses using data visualization pipelines,29,G06F
+11409645,2022-08-09,Intermittent failure metrics in technological processes,1,G06F
+11405301,2022-08-02,Service analyzer interface with composite machine scores,0,G06F|H04L
+11405290,2022-08-02,Automatic creation of related event groups for an IT service monitoring system,2,G06F|H04L
+11403393,2022-08-02,Utilizing predicted resolution times to allocate incident response resources in an information technology environment,1,G06F
+11403350,2022-08-02,Mixed mode ERP process executing a mapreduce task,0,G06F
+11403333,2022-08-02,User interface search tool for identifying and summarizing data,1,G06F|G06T
+11403157,2022-08-02,Identifying a root cause of an error,1,G06F|G06N|H04L
+11402979,2022-08-02,Interactive expandable histogram timeline module for security flagged events,0,G06F|G06Q
+11394767,2022-07-19,Central repository of configuration files and two-way replication of search node configuration files,3,H04L
+11392655,2022-07-19,Determining and spawning a number and type of ERP processes,0,G06F
+11392654,2022-07-19,Data fabric service system,35,G06F
+11392605,2022-07-19,Integration in computer analytics system,4,G06F
+11392604,2022-07-19,Designating fields in machine data using templates,1,G06F
+11392590,2022-07-19,Triggering alerts from searches on events,0,G06F|G06Q|H04L
+11392578,2022-07-19,Automatically generating metadata for a metadata catalog based on detected changes to the metadata catalog,11,G06F|H04L
+11388211,2022-07-12,Filter generation for real-time data stream,24,G06F|H04L
+11386158,2022-07-12,Recommending query parameters based on tenant information,28,G06F
+11386156,2022-07-12,Threshold establishment for key performance indicators derived from machine data,0,G06F|G06Q|G06T|H04L
+11386133,2022-07-12,Graphical display of field values extracted from machine data,7,G06F|G06T
+11386127,2022-07-12,Low-latency streaming analytics,17,G06F|G06Q
+11386113,2022-07-12,Data source tokens,3,G06F
+11386109,2022-07-12,Sharing configuration information through a shared storage location,0,G06F|H04L|H04W
+11385936,2022-07-12,Achieve search and ingest isolation via resource management in a search and indexing system,2,G06F|H04L
+11381492,2022-07-05,Analyzing servers based on data streams generated by instrumented software executing on the servers,0,G06F|H04L
+11379670,2022-07-05,Automatically populating responses using artificial intelligence,2,G06F|G06N|G10L
+11379530,2022-07-05,Leveraging references values in inverted indexes to retrieve associated event records comprising raw machine data,0,G06F
+11379508,2022-07-05,User interface with automated condensation,1,G06F|G06N|G06T
+11379479,2022-07-05,Skewing of scheduled search queries,0,G06F
+11379475,2022-07-05,Analyzing tags associated with high-latency and error spans for instrumented software,2,G06F
+11375011,2022-06-28,Method and system for synchronizing webpages within a web browser,1,G06F|H04L
+11372956,2022-06-28,Multiple input neural networks for detecting fraud,0,G06F|G06N
+11372923,2022-06-28,Monitoring I.T. service-level performance using a machine data key performance indicator (KPI) correlation search,2,G06F|G06Q|G06T|H04L
+11372532,2022-06-28,User role-based interface layout profiles in an information technology (IT) and security operations application,0,G06F|H04L
+11366842,2022-06-21,IT service monitoring by ingested machine data with KPI prediction and impactor determination,22,G06F|G06N|G06Q|H04L
+11366686,2022-06-21,Managing user data in a multitenant deployment,1,G06F
+11363047,2022-06-14,Generating investigation timeline displays including activity events and investigation workflow events,1,G06F|H04L
+11354365,2022-06-07,Using aggregate compatibility indices to identify query results for queries having qualitative search terms,0,G06F|H04L
+11354322,2022-06-07,Creating a correlation search,0,G06F
+11354308,2022-06-07,Visually distinct display format for data portions from events,0,G06F
+11354012,2022-06-07,Automated placement and time selection for dashboard panels in an extended reality environment,0,G06F|G06T
+11349947,2022-05-31,Proxying hypertext transfer protocol (HTTP) requests for microservices,1,H04L
+11348294,2022-05-31,Systems and methods for updating a third party visualization in response to a query,0,G06F|G06T
+11348112,2022-05-31,Risk monitoring system,0,G06Q|H04L
+11347695,2022-05-31,Clustered search head configuration synchronization,3,G06F
+11347625,2022-05-31,Rendering a service graph illustrate page provider dependencies at query time using exemplars,17,G06F
+11347622,2022-05-31,Generating metrics values for teams of microservices of a microservices-based architecture,16,G06F|G06Q
+11347578,2022-05-31,Tracking error propagation across microservices-based applications,3,G06F
+11347577,2022-05-31,Monitoring features of components of a distributed computing system,3,G06F
+11343268,2022-05-24,Detection of network anomalies based on relationship graphs,6,G06F|H04L
+11341131,2022-05-24,Query scheduling based on a query-resource allocation and resource availability,45,G06F
+11341129,2022-05-24,Summary report overlay,0,G06F|G06Q|G06T
+11340774,2022-05-24,Anomaly detection based on a predicted value,4,G06F|H04L
+11334543,2022-05-17,Scalable bucket merging for a data intake and query system,69,G06F
+11327992,2022-05-10,Authenticating a user to access a data intake and query system,42,G06F|H04L
+11327827,2022-05-10,Optimizing display of suggested actions in a workbook,15,G06F|G06Q
+11323472,2022-05-03,Identifying automated responses to security threats based on obtained communication interactions,0,G06F|H04L
+11321321,2022-05-03,Record expansion and reduction based on a processing task in a data intake and query system,44,G06F
+11321311,2022-05-03,Data model selection and application based on data sources,0,G06F
+11321217,2022-05-03,Generating metrics values at component levels of a monolithic application and of a microservice of a microservices-based architecture,6,G06F
+11321160,2022-05-03,"In a microservices-based application, mapping distributed error stacks across multiple dimensions",3,G06F
+11316882,2022-04-26,User configurable alert notifications applicable to search query results,0,G06F|H04L
+11316749,2022-04-26,Generating three-dimensional representation of one or more cloud computing systems,3,G06T|H04L
+11315010,2022-04-26,Neural networks for detecting fraud based on user behavior biometrics,2,G06F|G06N|H04L
+11314799,2022-04-26,Event-based data intake and query system employing non-text machine data,0,G06F
+11314761,2022-04-26,Method and system for centralized multi-instance deployment consolidation,8,G06F
+11314759,2022-04-26,In-memory catalog for searching metrics data,0,G06F|G06T|H04L
+11314758,2022-04-26,Storing and querying metrics data using a metric-series index,1,G06F|G06T|H04L
+11314753,2022-04-26,Execution of a query received from a data intake and query system,41,G06F
+11314744,2022-04-26,Interactive development environment for visualization of queries and query result information,0,G06F
+11314737,2022-04-26,Transforming event data using values obtained by querying a data source,0,G06F
+11314733,2022-04-26,Identification of relevant data events by use of clustering,0,G06F
+11314613,2022-04-26,Graphical user interface for visual correlation of virtual machine information and storage volume information,0,G06F
+11310313,2022-04-19,Multi-threaded processing of search responses returned by search peers,0,G06F|H04L
+11308163,2022-04-19,Monitoring system control interface for asset tree determination,0,G05B|G06F|H04L
+11308061,2022-04-19,Query management for indexer clusters in hybrid cloud deployments,0,G06F
+11303503,2022-04-12,Multi-source incident management and monitoring system,2,G06F|H04L
+11302083,2022-04-12,Web-based three-dimensional extended reality workspace editor,1,G06F|G06K|G06T|H04L
+11301475,2022-04-12,Transmission handling of analytics query response,3,G06F
+11297087,2022-04-05,Validation of systems data,0,G06F|H04L
+11296955,2022-04-05,Aggregate key performance indicator spanning multiple services and based on a priority value,16,G06F|G06Q|H04L
+11296951,2022-04-05,Interval-based generation of event streams by remote capture agents,1,H04L
+11294941,2022-04-05,Message-based data ingestion to a data intake and query system,81,G06F
+11294559,2022-04-05,Navigating sections with exposable content in a viewing area,0,G06F
+11288319,2022-03-29,Generating trending natural language request recommendations,16,G06F|G06N
+11288283,2022-03-29,Identifying metrics related to data ingestion associated with a defined time period,12,G06F|G06Q
+11288231,2022-03-29,Reproducing datasets generated by alert-triggering search queries,0,G06F|G08B
+11281706,2022-03-22,Multi-layer partition allocation for query execution,45,G06F
+11281643,2022-03-22,Generating event streams including aggregated values from monitored network data,1,G06F|H04L
+11281565,2022-03-22,Processing data streams received from instrumented software in real time using incremental-decremental implementation of the KPSS stationarity statistic,0,G06F
+11277312,2022-03-15,Behavioral based device clustering,0,G06F|H04L
+11276240,2022-03-15,Precise plane detection and placement of virtual objects in an augmented reality environment,0,G06F|G06K|G06T
+11276236,2022-03-15,Techniques for placement of extended reality objects relative to other extended reality objects in an extended reality environment,4,G06F|G06T
+11275944,2022-03-15,External asset database management in an extended reality environment,7,G06F|G06T|G06V|H04L|H04W
+11275775,2022-03-15,Performing search queries for key performance indicators using an optimized common information model,3,G06F|G06Q|H04L
+11275733,2022-03-15,Mapping search nodes to a search head using a tenant identifier,25,G06F
+11271939,2022-03-08,Facilitating detection of suspicious access to resources,3,G06F|G06N|H04L
+11269939,2022-03-08,Iterative message-based data processing including streaming analytics,79,G06F|H04L
+11269908,2022-03-08,Cross-system journey monitoring based on relation of machine data,11,G06F
+11269876,2022-03-08,Supporting graph data structure transformations in graphs generated from a query to event data,32,G06F
+11269872,2022-03-08,Intent-based natural language processing system,19,G06F|G06N
+11269871,2022-03-08,Displaying multiple editable queries in a graphical user interface,41,G06F
+11269859,2022-03-08,Correlating different types of data of a distributed ledger system,24,G06F
+11269808,2022-03-08,Event collector with stateless data ingestion,9,G06F|H04L
+11269476,2022-03-08,Concurrent display of search results from differing time-based search queries executed across event data,2,G06F
+11265206,2022-03-01,Dynamic updates of incident status information,1,G06F|H04L
+11263386,2022-03-01,Optimizing the display of hierarchically organized data in a web application,5,G06F
+11263268,2022-03-01,Recommending query parameters based on the results of automatically generated queries,43,G06F
+11263229,2022-03-01,Efficient detection of alert states within unstructured event data based on evaluation of structured data set,24,G06F
+11263140,2022-03-01,Cache aware searching based on one or more files in one or more buckets in remote storage,2,G06F
+11258807,2022-02-22,Anomaly detection based on communication between entities over a network,53,G06F|G06N|G06V|H04L
+11258803,2022-02-22,Enabling role-based operations to be performed on machine data in a machine environment,0,G06F|G06Q|H04L
+11258693,2022-02-22,Collaborative incident management for networked computing systems,2,G06F|H04L
+11256604,2022-02-22,Multiple modes of data collection and analysis in a microservices-based architecture,5,G06F
+11256497,2022-02-22,Enabling agile functionality updates using multi-component application,9,G06F|H04L
+11252224,2022-02-15,Utilizing multiple connections for generating a job result,1,G06F|H04L
+11252056,2022-02-15,Transforming event data generated by remote capture agents using user-generated code,0,H04L
+11250371,2022-02-15,Managing process analytics across process components,0,G06F|G06Q
+11250069,2022-02-15,Related content identification for different types of machine-generated data,14,G06F
+11250068,2022-02-15,Processing of performance data and raw log data from an information technology environment using search criterion input via a graphical user interface,1,G06F
+11250056,2022-02-15,Updating a location marker of an ingestion buffer based on storing buckets in a shared storage system,50,G06F
+11249971,2022-02-15,Segmenting machine data using token-based signatures,4,G06F
+11249710,2022-02-15,Technology add-on control console,3,G06F|G06N|G06Q|G09G
+11245581,2022-02-08,Selective event stream data storage based on historical stream data,11,G06F|H04L
+11244247,2022-02-08,Facilitating concurrent forecasting of multiple time series,0,G06F|G06N
+11243963,2022-02-08,Distributing partial results to worker nodes from an external data system,44,G06F|H04L
+11240348,2022-02-01,Remotely managing application settings using hash value comparison,2,G06F|H04L
+11240120,2022-02-01,Simulating multiple paths of a course of action executed in an information technology environment,0,H04L
+11238112,2022-02-01,Search service system monitoring,42,G06F
+11238057,2022-02-01,Generating structured metrics from log data,0,G06F|G06T|H04L
+11238049,2022-02-01,Revising catalog metadata based on parsing queries,17,G06F
+11238048,2022-02-01,Guided creation interface for streaming data processing pipelines,29,G06F
+11238033,2022-02-01,Interactive location queries for raw machine data,1,G06F
+11238012,2022-02-01,Log data extraction from data chunks of an isolated execution environment,9,G06F|H04L
+11237922,2022-02-01,Removing data from a data pipeline for efficient forwarding of live data,2,G06F|H04L
+11237813,2022-02-01,Model driven state machine transitions to configure an installation of a software program,4,G06F|G06N
+11232146,2022-01-25,Searching non-text machine data,0,G06F
+11232125,2022-01-25,Conversion of cloud computing platform data for ingestion by data intake and query system,2,G06F
+11232124,2022-01-25,Selection of a representative data subset of a set of unstructured data,0,G06F
+11232100,2022-01-25,Resource allocation for multiple datasets,56,G06F
+11231840,2022-01-25,Statistics chart row mode drill down,7,G06F|G06V
+11227208,2022-01-18,Automated data-generation for event-based system,1,G06F|G06N|G06Q
+11226977,2022-01-18,Application of event subtypes defined by user-specified examples,2,G06F
+11226964,2022-01-18,Automated generation of metrics from log data,19,G06F
+11222066,2022-01-11,Processing data using containerized state-free indexing nodes in a containerized scalable environment,60,G06F
+11222014,2022-01-11,Interactive table-based query construction using interface templates,2,G06F|G06Q|G06T
+11218366,2022-01-04,Automatic generation of template for provisioning services in a hosted computing environment,0,G06F|H04L
+11218357,2022-01-04,Aggregation of incident data for correlated incidents,1,H04L
+11217023,2022-01-04,Generating three-dimensional data visualizations in an extended reality environment,2,G06F|G06T
+11216511,2022-01-04,Executing a child query based on results of a parent query,38,G06F
+11216491,2022-01-04,Field extraction rules from clustered data samples,3,G06F|G06N
+11216453,2022-01-04,Data visualization in a dashboard display using panel templates,3,G06F|G06Q
+11212207,2021-12-28,Injecting custom classes in application code to facilitate network traffic monitoring,0,H04L
+11210622,2021-12-28,Generating augmented process models for process analytics,0,G06F|G06Q
+11210325,2021-12-28,Automatic rule modification,0,G06F|H04L
+11210278,2021-12-28,Asset group interface driven by search-derived asset tree hierarchy,9,G05B|G06F|G06Q|H04L|Y02P
+11210072,2021-12-28,System for generating a map illustrating bindings,0,G06F
+11204817,2021-12-21,Deriving signature-based rules for creating events from machine data,1,G06F
+11200246,2021-12-14,Hash bucketing of data,7,G06F|G06T|H04L
+11200130,2021-12-14,Automatic entity control in a machine data driven service monitoring system,7,G06F|G06Q|G06T
+11196756,2021-12-07,Identifying notable events based on execution of correlation searches,2,G06F|H04L
+11194794,2021-12-07,Search input recommendations,0,G06F|G06N
+11194697,2021-12-07,Real-time processing of data streams received from instrumented software,0,G06F
+11194647,2021-12-07,User interface for monitoring crashes of a mobile application,0,G06F|G06Q
+11194564,2021-12-07,Maintaining compatibility in a multi-component application,24,G06F|H04L
+11194552,2021-12-07,Assisted visual programming for iterative message processing system,31,G06F|G06N
+11190539,2021-11-30,Modifying incident response time periods based on containment action effectiveness,0,G06F|H04L
+11190422,2021-11-30,Visualizing network activity across network address spaces,1,H04L
+11189083,2021-11-30,Clipping polygons based on a scan of a storage grid,0,G06T
+11188600,2021-11-30,Facilitating metric forecasting via a graphical user interface,0,G06F|H04L
+11188550,2021-11-30,Metrics store system,9,G06F|G06T|H04L
+11188397,2021-11-30,Mobile application for an information technology (IT) and security operations application,2,G06F|H04L
+11184467,2021-11-23,Multi-thread processing of messages,0,H04L
+11182576,2021-11-23,Techniques for using tag placement to determine 3D object orientation,3,G06F|G06K|G06T
+11182367,2021-11-23,Distributed license management for a data limited application,0,G06F|H04L
+11182163,2021-11-23,Customizable courses of action for responding to incidents in information technology environments,16,G06F
+11178167,2021-11-16,Graphical display suppressing events indicating security threats in an information technology system,0,G06F|H04L
+11178160,2021-11-16,Detecting and mitigating leaked cloud authorization keys,1,H04L
+11176208,2021-11-16,Search functionality of a data intake and query system,46,G06F
+11176146,2021-11-16,Determining indications of unique values for fields,0,G06F|H04L
+11172065,2021-11-09,Monitoring framework,0,G06Q|H04M
+11170129,2021-11-09,Anonymizing events from machine data,1,G06F
+11170016,2021-11-09,Navigating hierarchical components based on an expansion recommendation machine learning model,3,G06F|G06N
+11169900,2021-11-09,Timeline displays of event data with start and end times,3,G06F
+11165812,2021-11-02,Containment of security threats within a computing environment,10,G06F|H04L
+11163758,2021-11-02,External dataset capability compensation,48,G06F
+11163738,2021-11-02,Parallelization of collection queries,0,G06F
+11163599,2021-11-02,Determination of performance state of a user-selected parent component in a hierarchical computing environment based on performance states of related child components,0,G06F
+11159397,2021-10-26,Lower-tier application deployment for higher-tier system data monitoring,8,G06F|H04L
+11157498,2021-10-26,Query generation using a dataset association record of a metadata catalog,23,G06F
+11157497,2021-10-26,Dynamically assigning a search head and search nodes for a query,20,G06F
+11157446,2021-10-26,Network ingestion of multimodal multisource machine data to traffic regulated volume,6,G06F|G06Q
+11153325,2021-10-19,Server-based restricted access storage,7,G06F|H04L
+11151137,2021-10-19,Multi-partition operation in combination operations,51,G06F
+11151125,2021-10-19,Efficient updating of journey instances detected within unstructured event data,24,G06F
+11151083,2021-10-19,Generating target application packages for groups of computing devices,1,G06F
+11146574,2021-10-12,Annotation of event data to include access interface identifiers for use by downstream entities in a distributed data processing system,4,G06F|G06N|G06V|H04L
+11145123,2021-10-12,Generating extended reality overlays in an industrial environment,16,B25J|G06F|G06K|G06T|G06V|G09G
+11144608,2021-10-12,Triggering generation of an accelerated data model summary for a data model,0,G06F
+11144545,2021-10-12,Monitoring console for entity detail,13,G06F|G06Q|G06T
+11144528,2021-10-12,Event time selection output techniques,0,G06F
+11144526,2021-10-12,Applying time-based search phrases across event data,4,G06F
+11144521,2021-10-12,Query handling for field searchable raw machine data using a field searchable datastore or an inverted index,0,G06F
+11144336,2021-10-12,Customization tool for dashboards,3,G06F
+11144185,2021-10-12,Generating and providing concurrent journey visualizations associated with different journey definitions,11,G06F
+11138218,2021-10-05,Reducing index file size based on event attributes,1,G06F
+11138191,2021-10-05,Multi-field search query of result data set generated from event data,12,G06F
+11134094,2021-09-28,Detection of potential security threats in machine data based on pattern detection,0,G06F|H04L
+11133977,2021-09-28,Anonymizing action implementation data obtained from incident analysis systems,1,G06F|H04L
+11132373,2021-09-28,Decoupled update cycle and disparate search frequency dispatch for dynamic elements of an asset monitoring and reporting system,52,G06F
+11132111,2021-09-28,Assigning workflow network security investigation actions to investigation timelines,1,G06F|H04L
+11127223,2021-09-21,Mesh updates via mesh splitting,12,G01S|G06T
+11126632,2021-09-21,Subquery generation based on search configuration data from an external data system,55,G06F
+11126538,2021-09-21,User interface for specifying data stream processing language programs for analyzing instrumented software,1,G06F
+11126477,2021-09-21,Identifying matching event data from disparate data sources,3,G06F
+11120344,2021-09-14,Suggesting follow-up queries based on a follow-up recommendation machine learning model,3,G06F|G06N
+11119982,2021-09-14,Correlation of performance data and structure data from an information technology environment,0,G06F
+11119833,2021-09-14,Identifying behavioral patterns of events derived from machine data that reveal historical behavior of an information technology environment,3,G06F
+11119728,2021-09-14,Displaying event records with emphasized fields,0,G06F
+11115505,2021-09-07,Facilitating custom content extraction rule configuration for remote capture agents,1,H04L
+11113353,2021-09-07,Visual programming for iterative message processing system,31,G06F|H04L
+11113342,2021-09-07,Techniques for compiling and presenting query results,0,G06F
+11113301,2021-09-07,Generating metadata for events based on parsed location information of data chunks of an isolated execution environment,1,G06F
+11113294,2021-09-07,Recommending query templates during query formation,40,G06F
+11108807,2021-08-31,Performing rule-based actions for newly observed domain names,0,A61G|G06F|G06T|H04L
+11108659,2021-08-31,Using storage reactors to transform event data generated by remote capture agents,0,H04L
+11106734,2021-08-31,Query execution using containerized state-free search nodes in a containerized scalable environment,100,G06F
+11106713,2021-08-31,Sampling data using inverted indexes in response to grouping selection,2,G06F|G06T
+11106691,2021-08-31,Automated extraction rule generation using a timestamp selector,0,G06F
+11106681,2021-08-31,Conditional processing based on inferred sourcetypes,2,G06F|G06N
+11106442,2021-08-31,Information technology networked entity monitoring with metric selection prior to deployment,75,G06F|H04L
+11102225,2021-08-24,Detecting fraud by correlating user behavior biometrics with other data sources,1,G06F|G06N|H04L
+11102095,2021-08-24,Monitoring data queues and providing alerts,3,G06F|G06Q|H04L
+11100172,2021-08-24,Providing similar field sets based on related source types,2,G06F|G06N
+11100150,2021-08-24,Determining rules based on text,4,G06F|H04L
+11100113,2021-08-24,Object score adjustment based on analyzing machine data,0,G06F
+11095690,2021-08-17,Threat identification-based collection of forensic data from endpoint devices,2,H04L
+11093837,2021-08-17,Event forecasting,3,G06F|G06N
+11093564,2021-08-17,Identifying configuration parameters for a query using a metadata catalog,6,G06F
+11093518,2021-08-17,Information technology networked entity monitoring with dynamic metric and threshold selection,50,G06F|H04L
+11093506,2021-08-17,Combining data streams generated by instrumented software using metadata correlation,0,G06F
+11093476,2021-08-17,HTTP events with custom fields,11,G06F|H04L
+11089107,2021-08-10,Management of connected sensor devices,9,G01M|G06F|H04L|H04W
+11087263,2021-08-10,System monitoring with key performance indicators from shared base search of machine data,14,G06Q|H04L
+11087236,2021-08-10,Transmitting machine learning models to edge devices for edge analytics,1,G06F|G06N|G06V
+11086974,2021-08-10,Customizing a user behavior analytics deployment,1,G06F
+11086897,2021-08-10,Linking event streams across applications of a data intake and query system,0,G06F|H04L
+11086890,2021-08-10,Extraction rule validation,7,G06F|H04L
+11086869,2021-08-10,Data intake and query system gateway,18,G06F
+11086289,2021-08-10,Control interface for metric definition specification for assets driven by search-derived asset tree hierarchy,1,G05B|G06F
+11080641,2021-08-03,Graphical user interface for enabling association of timestamped machine-generated data and human-generated data,0,G06Q
+11080345,2021-08-03,Search functionality of worker nodes in a data fabric service system,52,G06F
+11075825,2021-07-27,Generating and displaying topology map time-lapses of cloud computing resources,3,H04L
+11074560,2021-07-27,Tracking processed machine data,0,G06F|G06Q
+11074283,2021-07-27,Linking data set summarizations using affinities,2,G06F
+11074216,2021-07-27,Source type definition configuration using a graphical user interface,1,G06F
+11074196,2021-07-27,Evicting data associated with a data intake and query system from a local storage,10,G06F
+11074152,2021-07-27,Measuring mobile application program reliability caused by runtime errors,1,G06F
+11068452,2021-07-20,Column-based table manipulation of event data to add commands to a search query,0,G06F
+11068323,2021-07-20,Automatic registration of empty pointers,0,G06F
+11062042,2021-07-13,Authenticating data associated with a data intake and query system using a distributed ledger system,31,G06F|H04L
+11062016,2021-07-13,Systems and methods for verifying user credentials for search,2,G06F|H04L
+11061967,2021-07-13,Defining a graphical visualization along a time-based graph lane using key performance indicators derived from machine data,1,G06F|G06Q|G06T|H04L
+11061918,2021-07-13,Locating and categorizing data using inverted indexes,12,G06F
+11061548,2021-07-13,Context-sensitive user interfaces in an information technology (IT) and security operations application,19,G06F|H04L
+11055925,2021-07-06,Techniques for placement of extended reality objects relative to physical objects in an extended reality environment,4,G06F|G06T
+11055405,2021-07-06,Anomaly event detection using frequent patterns,20,G06F|H04L
+11055300,2021-07-06,Real-time search techniques,11,G06F|G06T|H04L
+11048760,2021-06-29,Techniques for placing content in and applying layers in an extended reality environment,4,G06F|G06T
+11044264,2021-06-22,Graph-based detection of lateral movement,49,G06F|G06N|H04L
+11044179,2021-06-22,Service monitoring interface controlling by-service mode operation,9,G06F|H04L
+11042697,2021-06-22,Determining an extraction rule from positive and negative examples,2,G06F
+11042591,2021-06-22,Analytical search engine,3,G06F
+11042545,2021-06-22,Class specific context aware query processing,0,G06F
+11042539,2021-06-22,Identifying field values based on user-selected extraction mode,1,G06F
+11042515,2021-06-22,Detecting and resolving computer system errors using fast file change monitoring,0,G06F
+11042510,2021-06-22,Configuration file management in a search head cluster,0,G06F
+11038915,2021-06-15,Dynamic generation of courses of action for incident response in an information technology environment,2,G06F|H04L
+11038905,2021-06-15,Identifying attack behavior based on scripting language activity,3,H04L
+11037342,2021-06-15,Visualization modules for use within a framework for displaying interactive visualizations of event data,29,G06F|G06T
+11037192,2021-06-15,Correlating geographic positions of mobile devices with confirmed point-of-sale device transactions,0,G01S|G06Q|H04L|H04W
+11036567,2021-06-15,Determining system behavior using event patterns in machine data,3,G06F
+11036566,2021-06-15,Analyzing machine data based on relationships between log data and network traffic data,1,G06F
+11036456,2021-06-15,Control of a display device included in a display grid,2,G06F|G09G
+11032307,2021-06-08,User interface for defining custom threat rules in a network security system,13,G06F|H04L
+11030254,2021-06-08,Storage estimation in a data indexing and query system,1,G06F
+11030192,2021-06-08,Updates to access permissions of sub-queries at run time,9,G06F|G06Q|G06T
+11030173,2021-06-08,Report acceleration using intermediate results in a distributed indexer system,0,G06F
+11030068,2021-06-08,Graphical user interface (GUI) for representing instrumented and uninstrumented objects in a microservices-based architecture,26,G06F|G06N
+11025664,2021-06-01,Identifying security actions for responding to security threats based on threat state information,0,G06F|H04L
+11023539,2021-06-01,Data intake and query system search functionality in a data fabric service system,56,G06F
+11023511,2021-06-01,Mobile device composite interface for dual-sourced incident management and monitoring system,30,G06F
+11023508,2021-06-01,Determining a key performance indicator state from machine data with time varying static thresholds,1,G06F|G06Q|H04L
+11023504,2021-06-01,Searching unstructured data in response to structured queries,1,G06F
+11023463,2021-06-01,Converting and modifying a subquery for an external data system,58,G06F
+11023280,2021-06-01,Processing data streams received from instrumented software using incremental finite window double exponential smoothing,0,G06F
+11019093,2021-05-25,Graphical interface for incident response automation,10,G06F|H04L
+11019092,2021-05-25,Learning based security threat containment,10,G06F|H04L
+11019088,2021-05-25,Identifying threat indicators by processing multiple anomalies,7,G06F|G06N|H04L
+11017764,2021-05-25,Predicting follow-on requests to a natural language request received by a natural language processing system,42,G06F|G06N|G10L
+11016821,2021-05-25,Resegmenting chunks of data for efficient load balancing across indexers,0,G06F
+11010970,2021-05-18,Conveying data to a user via field-attribute mappings in a three-dimensional model,0,G06F|G06T
+11010435,2021-05-18,Search service for a data fabric system,56,G06F
+11010412,2021-05-18,Coding commands using syntax templates,2,G06F
+11010390,2021-05-18,Using an electron process to determine a primary indexer for responding to search queries including generation identifiers,0,G06F|H04L
+11010342,2021-05-18,Network activity identification and characterization based on characteristic active directory (AD) event segments,0,G06F|G06N|H04L
+11010278,2021-05-18,Real-time reporting based on instrumentation of software,3,G06F
+11010236,2021-05-18,Predicting system behavior using machine data,0,G06F|G06N
+11010235,2021-05-18,Tracking error propagation across microservices based applications using distributed error stacks,9,G06F
+11010214,2021-05-18,Identifying pattern relationships in machine data,4,G06F
+11003714,2021-05-11,Search node and bucket identification using a search node catalog and a data store catalog,86,G06F
+11003691,2021-05-11,Determining affinities for data set summarizations,1,G06F
+11003687,2021-05-11,Executing data searches using generation identifiers,0,G06F|H04L
+11003682,2021-05-11,Metrics analysis workflow,3,G06F|H04L
+11003675,2021-05-11,Interactive display of search result information,0,G06F|H04L
+11003644,2021-05-11,Directly searchable and indirectly searchable using associated inverted indexes raw machine datastore,0,G06F
+11003475,2021-05-11,Interface for presenting performance data for hierarchical networked components represented in an expandable visualization of nodes,2,G06F|G06T
+11003337,2021-05-11,Executing search commands based on selection on field values displayed in a statistics table,0,G06F|G06V
+10999164,2021-05-04,Securely executing custom playbook code in a hybrid execution environment,68,G06F|H04L
+10997192,2021-05-04,Data source correlation user interface,19,G06F
+10997191,2021-05-04,Query-triggered processing of performance data and log data from an information technology environment,6,G06F
+10997190,2021-05-04,Context-adaptive selection options in a modular visualization framework,17,G06F
+10997180,2021-05-04,Dynamic query processor for streaming and batch queries,31,G06F
+10997138,2021-05-04,Query handling for field searchable raw machine data using a field searchable datastore and an inverted index,0,G06F
+10992560,2021-04-27,Time series anomaly detection service,0,H04L
+10986120,2021-04-20,Selecting actions responsive to computing environment incidents based on action impact information,10,G06F|H04L
+10986106,2021-04-20,Method and system for generating an entities view with risk-level scoring for performing computer security monitoring,9,G06F|G06N|G06V|H04L
+10985994,2021-04-20,Simulated incident response using simulated result when actual result is unavailable,6,H04L
+10985970,2021-04-20,Automatic actionable event responder for operational clusters,27,G06F|H04L
+10984044,2021-04-20,Identifying buckets for query execution using a catalog of buckets stored in a remote shared storage system,96,G06F
+10984013,2021-04-20,Tokenized event collector,5,G06F|H04L
+10983788,2021-04-20,Registry for mapping names to component instances using configurable bindings and pointer definitions,0,G06F
+10977316,2021-04-13,Pushing data visualizations to registered displays,4,G06F|G06T
+10977286,2021-04-13,Graphical controls for selecting criteria based on fields present in event data,0,G06F|G06T
+10977260,2021-04-13,Task distribution in an execution node of a distributed execution environment,67,G06F|H04L
+10977233,2021-04-13,Aggregating search results from a plurality of searches executed across time series data,8,G06F
+10977222,2021-04-13,Mechanism for data schema consistency monitoring,5,G06F
+10970298,2021-04-06,Control interface for disparate search frequency dispatch for dynamic elements of an asset monitoring and reporting system,14,G06F|H04L
+10965559,2021-03-30,Automatic creation of related event groups for an IT service monitoring system,4,G06F|H04L
+10963347,2021-03-30,Data snapshots for configurable screen on a wearable device,21,G06F|H04B|H04W
+10958674,2021-03-23,User interface for defining anomaly action rules in a network security system,5,H04L
+10956834,2021-03-23,Tool for machine-learning data analysis,0,G06N|H04L
+10956481,2021-03-23,Event-based correlation of non-text machine data,1,G06F
+10956415,2021-03-23,Generating a subquery for an external data system using a configuration file,64,G06F
+10956362,2021-03-23,Searching archived data,1,G06F
+10956278,2021-03-23,Intelligent captain selection for disaster recovery of search head cluster,1,G06F|H04L
+10951474,2021-03-16,Configuring event stream generation in cloud-based computing environments,3,H04L
+10949420,2021-03-16,Identifying similar field sets using related source types,4,G06F
+10949419,2021-03-16,Generation of search commands via text-based selections,0,G06F
+10949253,2021-03-16,"Data forwarder for distributed data acquisition, indexing and search system",3,G06F|H04L
+10949180,2021-03-16,Dynamically changing input data streams processed by data stream language programs,2,G06F
+10942960,2021-03-09,Automatic triage model execution in machine data driven monitoring automation apparatus with visualization,3,G06F|G06Q|H04L
+10942946,2021-03-09,Automatic triage model execution in machine data driven monitoring automation apparatus,7,G06F|G06Q|H04L
+10942897,2021-03-09,Facilitating file monitoring via a kernel,0,G06F
+10942774,2021-03-09,Dynamic reassignment of search processes into workload pools in a search and indexing system,13,G06F
+10938634,2021-03-02,System and method for centralized analytics for edge devices with enrichment pushdown,25,G06F|H04L
+10937052,2021-03-02,Correlation of mobile device positions determined using wireless access points with data sources,0,G06Q
+10936716,2021-03-02,Incident handling assistance based on previous incident handling,0,G06F|G06Q|H04L
+10936643,2021-03-02,User interface with automated condensation of machine data event streams,29,G06F|G06N|G06T
+10936585,2021-03-02,Unified data processing across streaming and indexed data sets,56,G05B|G06F|G06N
+10936488,2021-03-02,Incident response in an information technology environment using cached data from external services,1,G06F
+10929560,2021-02-23,Identifying personally identifiable information in machine-generated data,1,G06F
+10929415,2021-02-23,Isolated execution environment system monitoring,53,G06F
+10929163,2021-02-23,Method and system for dynamically monitoring performance of a multi-component computing environment via user-selectable nodes,0,G06F
+10922892,2021-02-16,Manipulation of virtual object position within a plane of an extended reality environment,15,G06F|G06T
+10922625,2021-02-16,Distributed data processing for machine learning,2,G06F|G06N|H04L
+10922493,2021-02-16,Determining a relationship recommendation for a natural language request,32,G06F|G06N
+10922341,2021-02-16,Non-tabular datasource connector,14,G06F
+10917389,2021-02-09,Trusted tunnel bridge,2,G06F|H04L
+10916063,2021-02-09,Dockable billboards for labeling objects in a display having a three-dimensional perspective of a virtual or real environment,0,G06F|G06T
+10915583,2021-02-09,Suggested field extraction,14,G06F
+10915579,2021-02-09,Threshold establishment for key performance indicators derived from machine data,2,G06F|G06Q|G06T|H04L
+10911470,2021-02-02,Detecting anomalies in a computer network based on usage similarity scores,78,G06F|G06N|G06V|H04L
+10911468,2021-02-02,Sharing of machine learning model state between batch and real-time processing paths for detection of network security issues,10,G06F|G06N|G06V|H04L
+10911369,2021-02-02,Processing event data using dynamic data server nodes,1,G06F|H04L
+10911346,2021-02-02,Monitoring I.T. service-level performance using a machine data key performance indicator (KPI) correlation search,2,G06F|G06Q|G06T|H04L
+10909772,2021-02-02,Precise scaling of virtual objects in an extended reality environment,4,G06F|G06T
+10909182,2021-02-02,Journey instance generation based on one or more pivot identifiers and one or more step identifiers,8,G06F
+10909151,2021-02-02,Distribution of index settings in a machine data processing system,0,G06F
+10909140,2021-02-02,Clustering events based on extraction rules,1,G06F
+10909128,2021-02-02,Analyzing journey instances that include an ordering of step instances including a subset of a set of events,13,G06F
+10908977,2021-02-02,Efficient message queuing service,10,G06F

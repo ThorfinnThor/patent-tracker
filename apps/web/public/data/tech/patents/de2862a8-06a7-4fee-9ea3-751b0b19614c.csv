@@ -1,0 +1,686 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12425537,2025-09-23,Excluding video frame blocks from compensation based on difference determination,0,G06T|G06V|H04N
+12423904,2025-09-23,Intersection testing in a ray tracing system,0,G06T
+12418657,2025-09-16,Guaranteed data compression,0,G06T|H04N
+12417577,2025-09-16,Coherency gathering for ray tracing,0,G06T
+12417122,2025-09-16,Memory allocation for 3-D graphics rendering,0,G06F|G06T
+12417073,2025-09-16,Floating point to fixed point conversion,0,G06F|H03M
+12412334,2025-09-09,Anisotropic texture filtering by combining isotropic filtering results at each of a plurality of sampling points,0,G06F|G06T
+12412234,2025-09-09,Memory management for multicore 3-D graphics rendering,0,G06T
+12406433,2025-09-02,Processing fragments which have a shader-dependent property in a graphics processing system,0,G06T
+12406325,2025-09-02,Tile based computer graphics,0,G06T
+12405804,2025-09-02,Hardware unit for performing matrix multiplication with clock gating,0,G06F|G06N
+12405802,2025-09-02,Methods and systems for inter-pipeline data hazard avoidance,0,G06F
+12395312,2025-08-19,Method and apparatus for time synchronisation in wireless networks,0,H04J|H04L|H04N|H04W
+12394136,2025-08-19,Intersection testing in a ray tracing system using comparison of intersection distance differences between primitive intersections,0,G06T
+12394134,2025-08-19,Transformation of data in a ray tracing system,0,G06T
+12394133,2025-08-19,Texture address generation using fragment pair differences,0,G06T
+12394132,2025-08-19,Graphics processing system and method of rendering,0,G06T
+12393517,2025-08-19,Flexible cache structure for caching compressed and uncompressed data,0,G06F
+12387416,2025-08-12,Anisotropic texture filtering using weights of an anisotropic filter that minimize a cost function,0,G06F|G06T
+12387413,2025-08-12,Graphics processing system and method of rendering,0,G06T
+12387091,2025-08-12,Activation functions for deep neural networks,0,G06N
+12386806,2025-08-12,Hierarchy merging in computer graphics,0,G06F|G06T
+12386709,2025-08-12,Periodic reset of graphics processor unit in safety-critical graphics processing system,0,G06F|G06T
+12380646,2025-08-05,Accessing primitive data using tessellated primitive ID,0,G06T
+12380626,2025-08-05,Systems and methods for 3-D scene acceleration structure creation and updating,0,G06T
+12380606,2025-08-05,Compression and decompression of sub-primitive presence indications for use in a rendering system,0,G06T
+12380040,2025-08-05,Priority based arbitration,0,G06F
+12374048,2025-07-29,Tessellation method using displacement factors,0,G06T
+12374030,2025-07-29,Post-tessellation blending in a GPU pipeline,0,G06F|G06T
+12374021,2025-07-29,Anisotropic texture filtering by combining results of isotropic filtering at a plurality of sampling points with a gaussian filter,0,G06F|G06T
+12373621,2025-07-29,Verification of hardware design for data transformation component,0,G01R|G06F
+12367634,2025-07-22,Allocation of resources to tasks,0,G06F|G06T
+12367633,2025-07-22,"Data structures, methods and tiling engines for hierarchically storing tiling information in a graphics processing system",0,G06T
+12367614,2025-07-22,Random accessible image data compression,0,G06F|G06T|H04N
+12367046,2025-07-22,Scheduling tasks using swap flags,0,G06F
+12361606,2025-07-15,ASTC interpolation,0,G06T|H04N
+12360864,2025-07-15,Workload repetition redundancy,0,G06F|G06T
+12354208,2025-07-08,Multi-rendering in graphics processing units using render progression checks,0,G06F|G06T
+12354185,2025-07-08,Sparse rendering in computer graphics,0,G06T
+12353883,2025-07-08,Executing memory requests out of order,0,G06F|Y02D
+12347119,2025-07-01,Training a machine learning algorithm to perform motion estimation of objects in a set of frames,0,G06F|G06T
+12340528,2025-06-24,Determining dominant gradient orientation in image processing using double-angle gradients,0,G06F|G06T|G06V
+12333768,2025-06-17,Data compression and decompression,0,G06F|G06T|H03M|H04N
+12333753,2025-06-17,Matching local image feature descriptors in image analysis,0,G06F|G06T|G06V
+12333641,2025-06-17,Random accessible lossless parameter data compression for tile based 3D computer graphics systems,0,G06T
+12326778,2025-06-10,Processing tasks in a processing system,0,G06F
+12322042,2025-06-03,Multi-viewport transformation module for use in 3D rendering system,0,G06F|G06T|G09G
+12322025,2025-06-03,Reducing redundant rendering in a graphics system,0,G06T
+12322024,2025-06-03,"Data structures, methods and primitive block generators for storing primitives in a graphics processing system",0,A63F|G06T|G09G
+12322005,2025-06-03,Task assembly for SIMD processing using characteristics of computation instance for allocation to a task,0,G06T
+12321271,2025-06-03,Distributed system level cache,0,G06F
+12315471,2025-05-27,Gamut mapping using luminance parameters,0,G09G|H04N
+12315067,2025-05-27,Geometry to tiling arbiter for tile-based rendering system,0,G06T
+12315035,2025-05-27,Input/output filter unit for graphics processing unit,0,G06F|G06T
+12315033,2025-05-27,Modifying processing of commands in a command queue based on accessed data related to a command,0,G06F|G06T
+12315032,2025-05-27,Multi-core draw splitting,0,G06T
+12314682,2025-05-27,Floating point adder,0,G06F
+12314645,2025-05-27,Method and system for verifying a sorter,0,G06F
+12307724,2025-05-20,Image data decompression using difference values between data values and origin values for image data channels,0,G06F|G06T|H04N
+12307597,2025-05-20,Assembling primitive data into multi-view primitive blocks in a graphics processing system,0,G06T
+12307555,2025-05-20,Cube mapping using gradients of an input block of fragments,0,G06F|G06T
+12299937,2025-05-13,Image data compression,0,G06F|G06T|H04N
+12299838,2025-05-13,ASTC interpolation,0,G06T|H04N
+12299768,2025-05-13,Multicore master/slave communications,0,G06F|G06T
+12299412,2025-05-13,Multiple-input floating-point processing with mantissa bit extension,0,G06F
+12298924,2025-05-13,Sorting memory address requests for parallel memory access using input address match masks,0,G06F
+12293448,2025-05-06,Graphics processing method and system for rendering items of geometry based on their size,0,G06T
+12288288,2025-04-29,Determining lighting information for rendering a scene in computer graphics using illumination point sampling,0,G06T
+12282751,2025-04-22,Performing constant modulo arithmetic,0,G06F
+12278887,2025-04-15,Synchronizing devices using clock signal delay comparison,0,H03K|H04L
+12277641,2025-04-15,Methods and hardware logic for writing ray tracing data from a shader processing unit of a graphics processing unit,0,G06T
+12277488,2025-04-15,Buffer addressing for a convolutional neural network,0,G06F|G06N
+12271259,2025-04-08,Out-of-bounds recovery circuit,0,G06F
+12266083,2025-04-01,Bilateral filter with data model,0,G06T
+12266047,2025-04-01,Intersection testing in a ray tracing system using three-dimensional axis-aligned box,0,G06T
+12266044,2025-04-01,"Data structures, methods and tiling engines for storing tiling information in a graphics processing system",0,G06T
+12265797,2025-04-01,Apparatus and method for processing floating-point numbers,0,G06F|H03K
+12265450,2025-04-01,Tile region protection using multiple GPUs,0,G06F|G06T
+12260528,2025-03-25,Graphics processing systems and methods,0,G06T|G09G
+12260488,2025-03-25,Methods and graphics processing units for determining differential data for rays of a ray bundle,0,G06T
+12260487,2025-03-25,Intersection testing in ray tracing systems with skipping of nodes in sub-trees of hierarchical acceleration structures,0,G06T
+12260336,2025-03-25,Training a neural network,0,G06F|G06N
+12259822,2025-03-25,GPU virtualisation,0,G06F|G06T
+12243156,2025-03-04,Graphics processing using directional representations of lighting at probe positions within a scene,0,G06T
+12243151,2025-03-04,Reduced acceleration structures for ray tracing systems,0,G06T
+12243119,2025-03-04,Graphics processor,0,G06T
+12242886,2025-03-04,Buffer checker for task processing fault detection,0,G06F
+12236518,2025-02-25,Method of traversing a hierarchical acceleration structure,0,G06T
+12236516,2025-02-25,Intersection testing in a ray tracing system,0,G06T
+12236263,2025-02-25,Scheduling computation tasks for execution by multiple processing units using computation task profiling,0,G06F|G06T
+12235767,2025-02-25,Memory interface having multiple snoop processors,0,G06F
+12229878,2025-02-18,Primitive block generator for graphics processing systems,0,G06T
+12229868,2025-02-18,Ray tracing in computer graphics using intersection testing at selective resolution,0,G06T
+12229865,2025-02-18,Graphics processor with non-blocking concurrent architecture,0,G06F|G06T
+12229851,2025-02-18,Tile assignment to processing cores within a graphics processing unit,0,G06F|G06T
+12229593,2025-02-18,Synchronizing scheduling tasks with atomic ALU,0,G06F
+12229105,2025-02-18,Indexing elements in a source array,0,G06F|G06T
+12229002,2025-02-18,Method and circuit for performing error detection on a clock gated register signal,0,G01R|G06F
+12223586,2025-02-11,3-D graphics rendering with implicit geometry,0,G06T
+12223583,2025-02-11,Rendering a scene using secondary ray tracing,0,G06T
+12223351,2025-02-11,Scheduling tasks in a processor,0,G06F|G06T|Y02D
+12217358,2025-02-04,Untransformed display lists in a tile based rendering system,0,G06T
+12217352,2025-02-04,Systems and methods for soft shadowing in 3-D rendering casting multiple rays from ray origins,0,G06T
+12217328,2025-02-04,Multistage collector for outputs in multiprocessor systems,0,G06T
+12217161,2025-02-04,Convolutional neural network hardware configuration,0,G06F|G06N
+12217020,2025-02-04,Small multiplier after initial approximation for operations with increasing precision,0,G06F
+12211136,2025-01-28,On demand geometry and acceleration structure creation with tile object lists,0,G06T
+12211135,2025-01-28,Intersection testing in a ray tracing system using axis-aligned box coordinate components,0,G06T
+12211118,2025-01-28,Graphics processing systems with expansion transformation stage masks,0,G06F|G06T
+12205256,2025-01-21,Image noise reduction,0,G06T
+12205248,2025-01-21,Image processing using filtering function covariance,1,G06T
+12204872,2025-01-21,Look ahead normaliser,0,G06F
+12204448,2025-01-21,Processing work items in processing logic,0,G06F|G06T
+12198307,2025-01-14,Rendering an image of a 3-D scene using guided image filtering,0,G06T
+12198254,2025-01-14,Ray tracing system architectures and methods,0,G06T|G09G
+12198230,2025-01-14,Anisotropic texture filtering using adaptive filter kernel,0,G06T
+12198034,2025-01-14,Hardware implementation of windowed operations in three or more dimensions,0,G06F|G06N|G06T
+12197835,2025-01-14,Verification of hardware design for integrated circuit implementing polynomial input variable function,0,G06F
+12190449,2025-01-07,Tessellation of patches of surfaces in a tile based rendering system,0,G06T
+12190432,2025-01-07,Edge test and depth calculation in graphics processing hardware,0,G06T
+12190413,2025-01-07,Anisotropic texture filtering for sampling points in screen space,0,G06T
+12190145,2025-01-07,Memory allocation in a ray tracing system,0,G06F|G06T
+12190035,2025-01-07,Verification of hardware design for an integrated circuit that implements a function that is polynomial in one or more sub-functions,0,G06F
+12189711,2025-01-07,Interpolating a sample position value by interpolating surrounding interpolated positions,0,G06F
+12182031,2024-12-31,Computer system and method using a first page table and a second page table,0,G06F
+12175586,2024-12-24,Texture filtering of texture represented by multilevel mipmap,0,G06T|G06V
+12175349,2024-12-24,Hierarchical mantissa bit length selection for hardware implementation of deep neural network,0,G06F|G06N
+12175179,2024-12-24,Assessing performance of a hardware design using formal evaluation logic,0,G06F|Y02P
+12174910,2024-12-24,Methods and systems for implementing a convolution transpose layer of a neural network,0,G06F|G06N
+12170534,2024-12-17,Guaranteed data compression using reduced bit depth data,0,H03M|H04N
+12169700,2024-12-17,Method and apparatus for use in the design and manufacture of integrated circuits,0,G06F
+12166954,2024-12-10,Stereoscopic graphics processing,0,G06T|H04N
+12165278,2024-12-10,Downscaler and method of downscaling,0,G06F|G06T|G06V|H03H
+12165253,2024-12-10,Asynchronous and concurrent ray tracing and rasterization rendering processes,0,G06F|G06T|G09G
+12165045,2024-12-10,Hardware implementation of a deep neural network with variable output data format,0,G06F|G06N|Y02D
+12164958,2024-12-10,Building and scheduling tasks for parallel processing,0,G06F|G06T
+12160597,2024-12-03,Data decompression and packing,0,H04N
+12159350,2024-12-03,Tessellation method using vertex tessellation factors,0,G06T
+12159347,2024-12-03,Method and system for multisample antialiasing,0,G06T
+12156154,2024-11-26,Clock synchronisation between devices using message timestamps,0,H04J|H04L|H04N|H04W
+12156135,2024-11-26,Method and system for wirelessly transmitting data,0,G08B|H04W|Y02D
+12155845,2024-11-26,Decoding images compressed using MIP map compression,0,G06T|H04N
+12154210,2024-11-26,Graphics processing method and system for rendering items of geometry based on their size,0,G06T
+12154209,2024-11-26,Efficient convolution operations with a kernel shader,0,G06T
+12153814,2024-11-26,Methods and systems for storing variable length data blocks in memory,0,G06F|G06T|G09G|H03M
+12148188,2024-11-19,Image data decompression,0,G06T|H04N
+12148093,2024-11-19,Object illumination in hybrid rasterization and ray traced 3-D rendering,0,G06T
+12148084,2024-11-19,Graphics processing units and methods for controlling rendering complexity using cost indications for sets of tiles of a rendering space,0,G06F|G06T
+12141909,2024-11-12,Controlling rendering operations by shader buffer identification,0,G06F|G06T|G09G
+12141684,2024-11-12,Neural network architecture using single plane filters,0,G06F|G06N
+12141548,2024-11-12,Trailing or leading digit anticipator,0,G06F
+12135886,2024-11-05,Methods and allocators for allocating portions of a storage unit using virtual partitioning,0,G06F
+12131564,2024-10-29,Sampling for feature detection in image analysis,0,G06F|G06T|G06V|H04N
+12131403,2024-10-29,Task merging,0,G06F|G06T
+12118398,2024-10-15,Scheduling heterogeneous computation on multithreaded processors,0,G06F
+12112423,2024-10-08,Systems and methods for distributed scalable ray processing,0,G06F|G06T|G09G
+12112421,2024-10-08,Intersection testing in a ray tracing system using convex polygon edge signed parameters,0,G06T
+12112410,2024-10-08,Conservative rasterization using gradients,0,G06T|G09G
+12112396,2024-10-08,Task execution in a SIMD processing unit with parallel groups of processing lanes,0,G06F|G06T
+12112197,2024-10-08,Processor with hardware pipeline,0,G06F
+12106525,2024-10-01,Methods and decompression units for decompressing image data compressed using pattern-based compression,0,G06T|H04N
+12106424,2024-10-01,Dedicated ray memory for ray tracing in graphics systems,0,G06T
+12100062,2024-09-24,Computing systems and methods for processing graphics data using cost indications for sets of tiles of a rendering space,0,G06F|G06T|H04N
+12093621,2024-09-17,Detecting out-of-bounds violations in a hardware design using formal verification,0,G06F
+12088856,2024-09-10,Compressing and decompressing image data using compacted region transforms,0,H03M|H04N
+12086922,2024-09-10,Intersection testing in ray tracing systems using hierarchical acceleration structures with implicitly represented nodes,0,G06T
+12086912,2024-09-10,Conservative rasterization,0,G06T
+12086566,2024-09-10,Selecting an Ith largest or a Pth smallest number from a set of n m-bit numbers,0,G06F
+12079917,2024-09-03,Rendering optimisation by recompiling shader instructions,0,G06F|G06T|G09G
+12073612,2024-08-27,Apparatus and method for processing detection boxes,0,G06F|G06T|G06V
+12073593,2024-08-27,Coding blocks of pixels,0,G06T|H04N
+12073568,2024-08-27,Learned feature motion detection,0,G06F|G06T|G06V
+12073567,2024-08-27,Analysing objects in a set of frames,0,G06F|G06T
+12073505,2024-08-27,Intersection testing in a ray tracing system using multiple ray bundle intersection tests,0,A63F|G06T
+12072833,2024-08-27,Executing functions in response to reading event indices on an event queue by a state machine,0,G05B|G06F|Y02D
+12067681,2024-08-20,Scalable parallel tessellation,0,G06F|G06T
+12061972,2024-08-13,Hardware implementation of a neural network,0,G06N|G11C
+12061233,2024-08-13,Method and circuit for performing error detection on a clock gated register signal,0,G01R|G06F
+12056600,2024-08-06,Histogram-based per-layer data format selection for hardware implementation of deep neural network,0,G06F|G06N
+12056499,2024-08-06,Hypervisor removal,0,G06F|G06T
+12051159,2024-07-30,Method and apparatus for rendering a computer generated image,0,G06T
+12051158,2024-07-30,Tessellation hardware subdivision of patches into sub-patches,0,G06T
+12050986,2024-07-30,Neural network architecture using convolution engines,0,G06F|G06N
+12050849,2024-07-30,Livelock detection in a hardware design using formal evaluation logic,0,G06F
+12039667,2024-07-16,Accessing primitive data using tessellated primitive ID,1,G06T
+12039643,2024-07-16,Tile-based scheduling using per-tile hash values,0,G06T
+12034934,2024-07-09,Guaranteed data compression,0,G06T|H04N
+12033236,2024-07-09,Detecting error in safety-critical GPU by monitoring for response to an instruction,0,G06F|G06T
+12032886,2024-07-09,Verifying a hardware design for a multi-stage component,0,G06F
+12026855,2024-07-02,Rendering an image of a 3-D scene,0,G06T
+12026828,2024-07-02,Post-tessellation blending in a GPU pipeline,1,G06F|G06T
+12026820,2024-07-02,Texture address generation using fragment pair differences,0,G06T
+12026819,2024-07-02,Anisotropic texture filtering using weights of an anisotropic filter that minimize a cost function,0,G06F|G06T
+12020366,2024-06-25,Anisotropic texture filtering by combining isotropic filtering results at each of a plurality of sampling points,0,G06F|G06T
+12020362,2024-06-25,Methods and control stream generators for generating a control stream for a tile group in a graphics processing system,0,G06T
+12020145,2024-06-25,End-to-end data format selection for hardware implementation of deep neural networks,0,G06F|G06N
+12020067,2024-06-25,Scheduling tasks using targeted pipelines,0,G06F
+12019119,2024-06-25,Methods and systems for fault injection testing of an integrated circuit hardware design,0,G01R|G06F
+12014457,2024-06-18,Importance sampling for determining a light map,0,G06T
+12008791,2024-06-11,Image data compression,0,G06T|H04N
+12008703,2024-06-11,Methods and systems for constructing ray tracing acceleration structures,0,G06F|G06T
+12008397,2024-06-11,Common priority information for multiple resource arbitration,0,G06F
+12008301,2024-06-11,Mapping multi-dimensional coordinates to a 1D space,0,G06F|G06T|H03M
+12003871,2024-06-04,Generating sparse sample histograms in image processing,0,G06T|H04N
+11995386,2024-05-28,Verification of hardware design for data transformation component,1,G01R|G06F
+11989816,2024-05-21,Allocation of resources to tasks,0,G06F|G06T
+11989299,2024-05-21,Verifying firmware binary images using a hardware design and formal assertions,0,G06F
+11983811,2024-05-14,Intersection testing in a ray tracing system using convex polygon edge parameters,0,G06T
+11983510,2024-05-14,Evaluating a mathematical function in a computational environment,0,G06F
+11977913,2024-05-07,Buffer checker for task processing fault detection,0,G06F
+11972520,2024-04-30,Graphics processing system and method of rendering,0,G06T
+11967012,2024-04-23,Efficient convolution operations,0,G06T
+11961286,2024-04-16,Performing object detection in an image,0,G06F|G06T|G06V
+11961175,2024-04-16,Anisotropic texture filtering by combining results of isotropic filtering at a plurality of sampling points with a gaussian filter,0,G06F|G06T
+11954803,2024-04-09,Generation of a control stream for a tile,0,G06T
+11954784,2024-04-09,Method and system for safety critical rendering of a frame,0,G06T|G09G
+11954759,2024-04-09,Tile-based graphics,0,G06F|G06T
+11954456,2024-04-09,Float division by constant integer,0,G06F
+11948652,2024-04-02,Formal verification tool to verify hardware design of memory unit,0,G06F|G11C
+11948070,2024-04-02,Hardware implementation of a convolutional neural network,0,G06F|G06N
+11947999,2024-04-02,Multi-phased and multi-threaded program execution based on SIMD ratio,0,G06F|G06T|Y02D
+11941757,2024-03-26,Rendering views of a scene in a graphics processing unit,0,G06T
+11941430,2024-03-26,Handling memory requests,0,G01N|G06F|Y02D
+11940866,2024-03-26,Verifying processing logic of a graphics processing unit,0,G06F
+11934878,2024-03-19,Memory allocation for 3-D graphics rendering,0,G06F|G06T
+11934257,2024-03-19,Processing tasks in a processing system,0,G06F
+11928776,2024-03-12,Processing primitives which have unresolved fragments in a graphics processing system,1,G06T
+11928768,2024-03-12,Ordering of patch selection in tessellation operations,0,G06T
+11922566,2024-03-05,Coarse depth test in graphics processing systems,0,G06F|G06T
+11922555,2024-03-05,"Data structures, methods and tiling engines for hierarchically storing tiling information in a graphics processing system",1,G06T
+11922536,2024-03-05,Input/output filter unit for graphics processing unit,0,G06F|G06T
+11922534,2024-03-05,Tile based computer graphics,0,G06T
+11922321,2024-03-05,Methods and systems for selecting quantisation parameters for deep neural networks using back-propagation,0,G06N|G06Q
+11916798,2024-02-27,Estimating network bandwidth using probe packets,0,H04L
+11915455,2024-02-27,Random accessible image data compression,0,G06F|G06T|H04N
+11915397,2024-02-27,Rendering an image of a 3-D scene,0,G06T
+11915396,2024-02-27,Denoising filter,0,G06T
+11915363,2024-02-27,Transformed geometry data cache for graphics processing systems,0,G06T
+11915358,2024-02-27,Method and system for safety critical rendering of a frame,0,G06T|G09G
+11915345,2024-02-27,Cube mapping using gradients of an input block of fragments,0,G06F|G06T
+11914514,2024-02-27,Data coherency manager with mapping between physical and virtual address spaces,0,G06F
+11908106,2024-02-20,Processing received pixel values in an image processing system using pixel value subset groups,0,G06F|G06T|G06V|H04N
+11907830,2024-02-20,Neural network architecture using control logic determining convolution operation sequence,0,G06F|G06N
+11900543,2024-02-13,Tessellation method using displacement factors,0,G06T
+11900503,2024-02-13,Multi-core draw splitting,0,G06T
+11900122,2024-02-13,Methods and systems for inter-pipeline data hazard avoidance,1,G06F
+11900036,2024-02-13,Methods and systems for verifying a property of an integrated circuit hardware design using a quiescent state,0,G06F
+11893754,2024-02-06,Determining dominant gradient orientation in image processing using double-angle gradients,0,G06F|G06T|G06V
+11887244,2024-01-30,Intersection testing for ray tracing,0,G06T
+11887240,2024-01-30,Multi-rendering in graphics processing units using render progression checks,1,G06F|G06T
+11887212,2024-01-30,Sparse rendering in computer graphics,0,G06T
+11886536,2024-01-30,Methods and systems for implementing a convolution transpose layer of a neural network,0,G06F|G06N
+11880933,2024-01-23,Primitive fragment processing in the rasterization phase of a graphics processing system,0,G06F|G06T
+11880925,2024-01-23,Atomic memory update unit and methods,0,G06F|G06T
+11880907,2024-01-23,Configuration check for safety-critical GPU,0,G06F|G06T
+11875443,2024-01-16,Graphics processing system and method of rendering,0,G06T
+11875248,2024-01-16,Implementation of a neural network in multicore hardware,0,G06N|G11C
+11869133,2024-01-09,Intersection testing for ray tracing,0,G06T
+11868807,2024-01-09,Scheduling tasks using work fullness counter,0,G06F
+11868775,2024-01-09,Encoding and decoding variable length instructions,0,G06F|H03M
+11868692,2024-01-09,Address generators for verifying integrated circuit hardware designs for cache memory,0,G06F|G11C
+11868426,2024-01-09,Hardware implementation of convolutional layer of deep neural network,0,G06F|G06N
+11868290,2024-01-09,Communication interface between host system and state machine using event slot registers,0,G06F|Y02D
+11863765,2024-01-02,Coding blocks of pixels,0,H04N
+11863656,2024-01-02,Method and apparatus for time synchronisation in wireless networks,1,H04J|H04L|H04N|H04W
+11863208,2024-01-02,Data compression and storage,0,G06N|H03M
+11861792,2024-01-02,Tessellation of patches of surfaces in a tile based rendering system,0,G06T
+11861787,2024-01-02,3-D graphics rendering with implicit geometry,0,G06T
+11861786,2024-01-02,Determining lighting information for rendering a scene in computer graphics using illumination point sampling,0,G06T
+11861782,2024-01-02,"Data structures, methods and tiling engines for storing tiling information in a graphics processing system",1,G06T
+11861323,2024-01-02,Partially and fully parallel normaliser,0,G06F
+11861220,2024-01-02,Allocation of memory by mapping registers referenced by different instances of a task to individual logical memories,0,G06F
+11855662,2023-12-26,Guaranteed data compression using alternative lossless and lossy compression techniques,0,G06F|G06T|H03M
+11853866,2023-12-26,Implementation of a neural network in multicore hardware,0,G06N|G11C
+11853811,2023-12-26,Priority based arbitration between shared resource requestors using priority vectors and binary decision tree,0,G06F
+11853796,2023-12-26,Controlling operation of a GPU,0,G06F|G06T|Y02D
+11853718,2023-12-26,Small multiplier after initial approximation for operations with increasing precision,0,G06F
+11853716,2023-12-26,System and method for rounding reciprocal square root results of input floating point numbers,0,G06F
+11853155,2023-12-26,Tile region protection using multiple GPUs,1,G06F|G06T
+11849137,2023-12-19,Setting selection values for motion estimation vectors based on remote motion vectors of interpolated frames,0,H04N
+11847492,2023-12-19,Controlling scheduling of a GPU,0,G06F|G06T|Y02D
+11847456,2023-12-19,Livelock recovery circuit for detecting illegal repetition of an instruction and transitioning to a known state,0,G06F
+11847429,2023-12-19,Apparatus and method for processing floating-point numbers,0,G06F|H03K
+11842462,2023-12-12,Determining anti-aliasing settings in graphics processing based on assessment of presence of primitive edges,0,G06T|G09G
+11842435,2023-12-12,Methods and tiling engines for tiling primitives in a graphics processing system,0,A63F|G06T|G09G
+11838109,2023-12-05,Time stamp replication within a wireless network based on transmission prediction,0,H04J|H04R|H04W
+11836849,2023-12-05,Primitive block generator for graphics processing systems,0,G06T
+11836846,2023-12-05,Intersection testing for ray tracing,0,G06T
+11836845,2023-12-05,Texture filtering with dynamic scheduling in computer graphics,0,G06F|G06T
+11836830,2023-12-05,Multi-output decoder for texture decompression,0,G06T|H04N
+11836460,2023-12-05,Error bounded multiplication by invariant rationals,0,G06F
+11836368,2023-12-05,Lossy data compression,0,G06F|H04N
+11831745,2023-11-28,Clock frequency adjustment for semi-conductor devices,0,G06F|H04L|Y02D
+11831342,2023-11-28,Guaranteed data compression,0,H03M|H04N
+11830153,2023-11-28,Generating an augmented reality image using a blending factor,0,G06T|G06V
+11830144,2023-11-28,Frustum rendering in computer graphics,0,G06T
+11830143,2023-11-28,Tessellation method using recursive sub-division of triangles,0,G06T
+11829728,2023-11-28,Floating point adder,0,G06F
+11829694,2023-11-28,Verification of hardware design for component that evaluates an algebraic expression using decomposition and recombination,0,G06F
+11829305,2023-11-28,Priority based arbitration,1,G06F
+11823420,2023-11-21,Image data compression,2,G06F|G06T|H04N
+11823419,2023-11-21,Image data decompression using difference values between data values and origin values for image data channels,2,G06F|G06T|H04N
+11823324,2023-11-21,Graphics processing method and system for processing sub-primitives,0,G06T
+11823317,2023-11-21,Single pass rendering for head mounted displays,1,G02B|G03B|G06T|H04N
+11818368,2023-11-14,Encoding images using MIP map compression,0,G06T|H04N
+11817885,2023-11-14,Guaranteed data compression,0,G06T|H03M|H04N
+11816782,2023-11-14,Rendering of soft shadows,0,G06T
+11816780,2023-11-14,Compressed ray direction data in a ray tracing system,0,G06T
+11816044,2023-11-14,Sorting memory address requests for parallel memory access using input address match masks,0,G06F
+11810240,2023-11-07,Methods and systems for constructing ray tracing acceleration structures,0,G06F|G06T
+11810239,2023-11-07,Methods and graphics processing units for determining differential data for rays of a ray bundle,0,G06T
+11810238,2023-11-07,Hierarchical acceleration structures for use in ray tracing systems,0,G06T
+11809795,2023-11-07,Implementing fixed-point polynomials in hardware logic,0,G06F
+11804001,2023-10-31,Ray tracing system architectures and methods,0,G06T|G09G
+11803936,2023-10-31,Tile assignment to processing cores within a graphics processing unit,0,G06F|G06T
+11803738,2023-10-31,Neural network architecture using convolution engine filter weight buffers,1,G06F|G06N
+11798257,2023-10-24,Generating feature descriptors for image analysis,0,G06T|G06V
+11798219,2023-10-24,Topology preservation in a graphics pipeline by analyzing a geometry shader,0,G06F|G06T
+11790560,2023-10-17,Methods and decompression units for decompressing a compressed block of image data,0,G06F|G06T|H04N
+11790503,2023-10-17,Noise enhanced histograms,0,G06T|H04N
+11790480,2023-10-17,Tiling a primitive in a graphics processing system by edge-specific testing of a subset of tiles in a rendering space,1,G06T
+11789623,2023-10-17,Methods and allocators for allocating portions of a storage unit using virtual partitioning,0,G06F
+11783105,2023-10-10,Method and system for verifying a sorter,0,G06F
+11782806,2023-10-10,Workload repetition redundancy,2,G06F|G06T
+11782679,2023-10-10,Multiplexing between different processing channels,0,G06F|G06T|H03K
+11775206,2023-10-03,Maintaining synchronisation between memory writing and reading blocks using an internal buffer and a control channel,1,G06F|G06N|Y02D
+11768658,2023-09-26,Look ahead normaliser,0,G06F
+11763054,2023-09-19,Verification of hardware design for integrated circuit implementing polynomial input variable function,0,G06F
+11756257,2023-09-12,Intersection testing in ray tracing systems with skipping of nodes in sub-trees of hierarchical acceleration structures,0,G06T
+11756256,2023-09-12,Dedicated ray memory for ray tracing in graphics systems,0,G06T
+11756222,2023-09-12,Matching local image feature descriptors in image analysis,1,G06F|G06T|G06V
+11756162,2023-09-12,Image noise reduction,0,G06T
+11755474,2023-09-12,Tile based interleaving and de-interleaving for digital signal processing,1,G06F|H03M
+11755365,2023-09-12,Scheduling tasks in a processor,0,G06F|G06T|Y02D
+11751135,2023-09-05,Method and system for wirelessly transmitting data,0,G08B|H04W|Y02D
+11750227,2023-09-05,Method and device for transmitting a data stream with selectable ratio of error correction packets to data packets,0,G06F|H03M|H04L|H04M
+11748941,2023-09-05,Primitive processing in a graphics processing system,0,G06T
+11748200,2023-09-05,Periodic reset of graphics processor unit in safety-critical graphics processing system,0,G06F|G06T
+11748060,2023-09-05,Method and apparatus for use in the design and manufacture of integrated circuits,0,G06F
+11748010,2023-09-05,Methods and systems for storing variable length data blocks in memory,0,G06F|G06T|G09G|H03M
+11741659,2023-08-29,Intersection testing in a ray tracing system using three-dimensional axis-aligned box,0,G06T
+11741656,2023-08-29,Graphics processing method and system for rendering items of geometry based on their size,0,G06T
+11741655,2023-08-29,Intersection testing in a ray tracing system using axis-aligned box coordinate components,0,G06T
+11741654,2023-08-29,Edge test and depth calculation in graphics processing hardware,0,G06T
+11741641,2023-08-29,ASTC interpolation,0,G06T|H04N
+11740470,2023-08-29,Low latency distortion unit for head mounted displays,0,G02B|G06T|H04N
+11734879,2023-08-22,Graphics processing using directional representations of lighting at probe positions within a scene,1,G06T
+11734794,2023-08-22,ASTC interpolation,0,G06T|H04N
+11734788,2023-08-22,Task execution in a SIMD processing unit with parallel groups of processing lanes,0,G06F|G06T
+11734553,2023-08-22,Error allocation format selection for hardware implementation of deep neural network,0,G06F|G06N
+11734177,2023-08-22,Memory interface having multiple snoop processors,0,G06F
+11727895,2023-08-15,Gamut mapping using luminance parameters,1,G09G|H04N
+11727623,2023-08-15,Asynchronous and concurrent ray tracing and rasterization rendering processes,0,G06F|G06T|G09G
+11727549,2023-08-15,Bilateral filter with data model,1,G06T
+11727525,2023-08-15,Task merging,1,G06F|G06T
+11721068,2023-08-08,Multi-viewpoint transformation module for use in 3D rendering system,0,G06F|G06T|G09G
+11721060,2023-08-08,Intersection testing for ray tracing,0,G06T
+11720399,2023-08-08,Task scheduling in a GPU using wakeup event state data,0,G06F|G06T|Y02D
+11716094,2023-08-01,Guaranteed data compression using intermediate compressed data,0,G06F|G06T|H03K|H03M|H04N
+11715256,2023-08-01,Intersection testing in a ray tracing system using ray coordinate system basis vectors,0,G06F|G06T
+11715255,2023-08-01,Intersection testing in a ray tracing system using ray bundle vectors,0,G06T
+11715254,2023-08-01,Systems and methods for distributed scalable ray processing,0,G06F|G06T|G09G
+11715243,2023-08-01,Anisotropic texture filtering for sampling points in screen space,1,G06T
+11715175,2023-08-01,Hierarchical tiling in a graphics processing system using chain sorting of primitives,0,G06T
+11710268,2023-07-25,Graphics processing units and methods for controlling rendering complexity using cost indications for sets of tiles of a rendering space,1,G06F|G06T
+11710263,2023-07-25,Rasterising aliased lines,0,G06T
+11709682,2023-07-25,Replicating logic blocks to enable increased throughput with sequential enabling of input register blocks,0,G06F
+11699260,2023-07-11,Coherency gathering for ray tracing,0,G06T
+11699258,2023-07-11,Graphics processing method and system for rendering items of geometry based on their size,0,G06T
+11699210,2023-07-11,Multistage collector for outputs in multiprocessor systems,0,G06T
+11698790,2023-07-11,Queues for inter-pipeline data hazard avoidance,1,G06F
+11688123,2023-06-27,Rendering optimisation by recompiling shader instructions,0,G06F|G06T|G09G
+11688121,2023-06-27,Geometry to tiling arbiter for tile-based rendering system,0,G06T
+11688047,2023-06-27,Systems and methods for processing a stream of data values using data value subset groups,0,G06F|G06T
+11682163,2023-06-20,Using tiling depth information in hidden surface removal in a graphics processing system,0,G06T
+11682161,2023-06-20,Intersection testing in a ray tracing system using a ray coordinate system,0,G06F|G06T
+11682160,2023-06-20,Intersection testing in a ray tracing system using multiple ray bundle intersection tests,0,A63F|G06T
+11682159,2023-06-20,Systems and methods for soft shadowing in 3-D rendering casting multiple rays from ray origins,0,G06T
+11682158,2023-06-20,Foveated rendering,0,G06F|G06T
+11682147,2023-06-20,Conservative rasterization,0,G06T
+11677927,2023-06-13,Stereoscopic graphics processing,0,G06T|H04N
+11677415,2023-06-13,Guaranteed data compression using reduced bit depth data,0,H03M|H04N
+11676339,2023-06-13,Scalable parallel tessellation,0,G06F|G06T
+11676337,2023-06-13,Tessellation hardware subdivision of patches into sub-patches,1,G06T
+11676336,2023-06-13,Accessing primitive data using tessellated primitive ID,1,G06T
+11676335,2023-06-13,Tessellation method using vertex tessellation factors,0,G06T
+11676323,2023-06-13,Controlling rendering operations by shader buffer identification,0,G06F|G06T|G09G
+11676288,2023-06-13,Learned feature motion detection,0,G06F|G06T|G06V
+11670048,2023-06-06,Method and apparatus for rendering a computer generated image,0,G06T
+11669460,2023-06-06,Virtual memory management,0,G06F|G06T
+11669305,2023-06-06,Trailing or leading digit anticipator,0,G06F
+11663771,2023-05-30,Transformed geometry data cache for graphics processing systems,0,G06T
+11663743,2023-05-30,Image data decompression,0,G06T|H04N
+11663386,2023-05-30,Detecting out-of-bounds violations in a hardware design using formal verification,0,G06F
+11663385,2023-05-30,Verification of hardware design for data transformation pipeline,0,G01R|G06F
+11659510,2023-05-23,Clock synchronisation between devices using message timestamps,0,H04J|H04L|H04N|H04W
+11657565,2023-05-23,Hidden culling in tile-based computer generated images,0,G06T
+11657198,2023-05-23,Verification of hardware design for data transformation component,2,G01R|G06F
+11656908,2023-05-23,Allocation of memory resources to SIMD workgroups,0,G06F|Y02D
+11650619,2023-05-16,Synchronising devices using clock signal delay estimation,0,G06F|H03L|H04L
+11647234,2023-05-09,Compressing and decompressing image data using compacted region transforms,0,H03M|H04N
+11645042,2023-05-09,Float division by constant integer,0,G06F
+11640648,2023-05-02,Graphics processing systems with expansion transformation stage masks,1,G06F|G06T
+11640318,2023-05-02,Building and scheduling tasks for parallel processing,0,G06F|G06T
+11636643,2023-04-25,Normal offset smoothing,0,G06T
+11636306,2023-04-25,Implementing traditional computer vision algorithms as neural networks,0,G06F|G06N
+11630640,2023-04-18,Median value determination in a data processing system,0,G06F|G06T
+11625885,2023-04-11,Graphics processor with non-blocking concurrent architecture,0,G06F|G06T
+11625883,2023-04-11,Random accessible lossless parameter data compression for tile based 3D computer graphics systems,0,G06T
+11625581,2023-04-11,Hardware implementation of a convolutional neural network,0,G06F|G06N
+11616920,2023-03-28,Generating sparse sample histograms in image processing,1,G06T|H04N
+11615589,2023-03-28,Method and graphics processing system for rendering one or more fragments having shader-dependent properties,0,G06F|G06T
+11615577,2023-03-28,Intersection testing in a ray tracing system using scaled minimum and maximum culling distances,0,G06T
+11611754,2023-03-21,Guaranteed data compression,0,G06T|H04N
+11610368,2023-03-21,Tessellation of patches of surfaces in a tile based rendering system,0,G06T
+11610361,2023-03-21,Intersection testing in a ray tracing system using scaled ray components,0,G06T
+11610358,2023-03-21,"Data structures, methods and tiling engines for hierarchically storing tiling information in a graphics processing system",1,G06T
+11610127,2023-03-21,Methods and systems for selecting quantisation parameters for deep neural networks using back-propagation,0,G06N|G06Q
+11610099,2023-03-21,Neural network architecture using single plane filters,1,G06F|G06N
+11609741,2023-03-21,Apparatus and method for processing floating-point numbers,0,G06F
+11600034,2023-03-07,Methods and control stream generators for generating a control stream for a tile group in a graphics processing system,0,G06T
+11595461,2023-02-28,Monitoring network conditions,0,H04L
+11593986,2023-02-28,Intersection testing in a ray tracing system using convex polygon edge parameters,0,G06T
+11593626,2023-02-28,Histogram-based per-layer data format selection for hardware implementation of deep neural network,0,G06F|G06N
+11593193,2023-02-28,Out-of-bounds recovery circuit,0,G06F
+11588497,2023-02-21,Floating point to fixed point conversion using exponent offset,0,G06F|H03M
+11587290,2023-02-21,Frustum rendering in computer graphics,0,G06T
+11587282,2023-02-21,Hybrid hierarchy of bounding and grid structures for ray tracing,0,G06F|G06T
+11587281,2023-02-21,Unified rasterization and ray tracing rendering environments,0,G06T
+11587199,2023-02-21,Upscaling lower resolution image data for processing,0,G06T|H04N
+11587198,2023-02-21,Critical workload check,0,G06F|G06T
+11587197,2023-02-21,Critical workload check,0,G06F|G06T
+11579844,2023-02-14,Small multiplier after initial approximation for operations with increasing precision,0,G06F
+11574434,2023-02-07,Producing rendering outputs from a 3-D scene using volume element light transport data,0,G06T
+11574387,2023-02-07,Luminance-normalised colour spaces,0,G06T|H04N
+11574171,2023-02-07,Neural network architecture using convolution engines,0,G06F|G06N
+11573766,2023-02-07,Floating point to fixed point conversion,0,G06F|H03M
+11570398,2023-01-31,Image component detection,0,G06T|G06V|H04N
+11570372,2023-01-31,Virtual camera for 3-d modeling applications,0,G06T|H04N
+11570115,2023-01-31,Bandwidth management,0,H04L
+11568592,2023-01-31,On demand geometry and acceleration structure creation with tile object lists,0,G06T
+11568580,2023-01-31,Multi-output decoder for texture decompression,0,G06T|H04N
+11567126,2023-01-31,Methods and systems for fault injection testing of an integrated circuit hardware design,0,G01R|G06F
+11562533,2023-01-24,Assembling primitive data into multi-view primitive blocks in a graphics processing system,0,G06T
+11562526,2023-01-24,3-D graphics rendering with implicit geometry,0,G06T
+11556613,2023-01-17,Methods and systems for implementing a convolution transpose layer of a neural network,0,G06F|G06N
+11551401,2023-01-10,"Data structures, methods and primitive block generators for storing primitives in a graphics processing system",0,A63F|G06T|G09G
+11551326,2023-01-10,Tile-based graphics,0,G06F|G06T
+11551065,2023-01-10,Neural network architecture using control logic determining convolution operation sequence,0,G06F|G06N
+11546619,2023-01-03,Data stream encoder configuration,0,H04N
+11544892,2023-01-03,Decoder unit for texture decompression,0,G06T|H04N
+11539976,2022-12-27,Motion estimation using collocated blocks,0,H04N
+11538215,2022-12-27,Primitive processing in a graphics processing system,0,G06T
+11537427,2022-12-27,Handling memory requests,0,G01N|G06F|Y02D
+11532115,2022-12-20,"Data structures, methods and tiling engines for storing tiling information in a graphics processing system",1,G06T
+11532068,2022-12-20,Sparse rendering in computer graphics,0,G06T
+11531800,2022-12-20,Verification of hardware design for component that evaluates an algebraic expression using decomposition and recombination,0,G06F
+11531799,2022-12-20,Assessing performance of a hardware design using formal evaluation logic,0,G06F|Y02P
+11531545,2022-12-20,Scheduling tasks using swap flags,0,G06F
+11531522,2022-12-20,Selecting an ith largest or a pth smallest number from a set of n m-bit numbers,0,G06F
+11531479,2022-12-20,Lossy data compression,0,G06F|H04N
+11527040,2022-12-13,Tessellating patches of surface data in tile based computer graphics rendering,0,G06T
+11527039,2022-12-13,Primitive block generator for graphics processing systems,0,G06T
+11527036,2022-12-13,Coherency gathering for ray tracing,0,G06T
+11527034,2022-12-13,Methods and tiling engines for tiling primitives in a graphics processing system,0,A63F|G06T|G09G
+11520958,2022-12-06,Verifying a hardware design for a multi-stage component,1,G06F
+11509450,2022-11-22,Clock frequency adjustment for semi-conductor devices,0,G06F|H04L|Y02D
+11509330,2022-11-22,Guaranteed data compression,0,G06F|G06T|H03M
+11508028,2022-11-22,Tile assignment to processing cores within a graphics processing unit,0,G06F|G06T
+11507436,2022-11-22,Priority based arbitration,2,G06F
+11502973,2022-11-15,Voice data transmission with adaptive redundancy,1,G10L|H04L|H04M
+11501494,2022-11-15,Tessellation method using displacement factors,0,G06T
+11500677,2022-11-15,Synchronizing scheduling tasks with atomic ALU,0,G06F
+11494970,2022-11-08,Importance sampling for determining a light map,0,G06T
+11494622,2022-11-08,Method and apparatus for implementing a deep neural network performing an activation function,2,G06N
+11489781,2022-11-01,Bandwidth management,0,H04L|H04N
+11481954,2022-10-25,Systems and methods for 3-D scene acceleration structure creation and updating,0,G06T
+11481952,2022-10-25,Allocation of primitives to primitive blocks,0,G06T
+11481951,2022-10-25,Graphics processing method and system for rendering items of geometry based on their size,0,G06T
+11475193,2022-10-18,Control path verification of hardware design for pipelined process,0,G06F
+11468622,2022-10-11,Ordering of patch selection in tessellation operations,1,G06T
+11468620,2022-10-11,Topology preservation in a graphics pipeline,0,G06F|G06T
+11467840,2022-10-11,Livelock recovery circuit for detecting illegal repetition of an instruction and transitioning to a known state,1,G06F
+11455451,2022-09-27,Verifying a hardware design for a component that implements a permutation respecting function,0,G06F
+11450060,2022-09-20,Untransformed display lists in a tile based rendering system,0,G06T
+11443458,2022-09-13,Methods and decompression units for decompressing a compressed block of image data,0,G06F|G06T|H04N
+11443457,2022-09-13,Random accessible image data compression,0,G06F|G06T|H04N
+11430164,2022-08-30,Tile-based scheduling,0,G06T
+11429546,2022-08-30,Addressing read and write registers in an event slot of a communications interface with a single address by a host system and individually addressable by a state machine,0,G06F|Y02D
+11429389,2022-08-30,Data selection for a processor pipeline using multiple supply lines,0,G06F|G06T
+11423579,2022-08-23,Image data compression,4,G06F|G06T|H04N
+11423285,2022-08-23,Buffer addressing for a convolutional neural network,1,G06F|G06N
+11422953,2022-08-23,Arbitrating requests for access to a computer resource by ordered requestors,0,G06F
+11422802,2022-08-23,Iterative estimation hardware,0,G06F
+11422742,2022-08-23,Allocation of memory,1,G06F
+11416442,2022-08-16,Circuit architecture mapping signals to functions for state machine execution,0,G05B|G06F|Y02D
+11416215,2022-08-16,Look ahead normaliser,0,G06F
+11410385,2022-08-09,Generation of a control stream for a tile,1,G06T
+11409557,2022-08-09,Buffer checker for task processing fault detection,1,G06F
+11409500,2022-08-09,Performing constant modulo arithmetic,0,G06F
+11403803,2022-08-02,Hierarchical acceleration structures for use in ray tracing systems,0,G06T
+11394524,2022-07-19,Method and apparatus for time synchronization in wireless networks,2,H04J|H04L|H04N|H04W
+11393165,2022-07-19,Method and system for multisample antialiasing,0,G06T
+11392823,2022-07-19,Error allocation format selection for hardware implementation of deep neural network,3,G06F|G06N
+11386617,2022-07-12,Tessellation method using recursive sub-division of triangles,0,G06T
+11386571,2022-07-12,Double-angle gradients,2,G06F|G06T|G06V
+11386534,2022-07-12,Noise enhanced histograms,1,G06T|H04N
+11386528,2022-07-12,Denoising filter,0,G06T
+11380042,2022-07-05,Intersection testing in ray tracing systems using hierarchical acceleration structures with implicitly represented nodes,2,G06T
+11379309,2022-07-05,Periodic reset of graphics processor unit in safety-critical graphics processing system,0,G06F|G06T
+11374733,2022-06-28,Synchronisation symbol detector,0,H04L
+11374590,2022-06-28,Guaranteed data compression using intermediate compressed data,0,G06F|G06T|H03K|H03M|H04N
+11373394,2022-06-28,Sampling for feature detection in image analysis,1,G06F|G06T|G06V|H04N
+11373371,2022-06-28,Scalable parallel tessellation,0,G06F|G06T
+11373349,2022-06-28,Conservative rasterization using gradients,0,G06T|G09G
+11373025,2022-06-28,Livelock detection in a hardware design using formal evaluation logic,0,G06F
+11372777,2022-06-28,Memory interface between physical and virtual address spaces,0,G06F
+11368166,2022-06-21,Efficient encoding methods using bit inversion and padding bits,0,G06F|H03M|Y02D
+11366691,2022-06-21,Scheduling tasks using targeted pipelines,4,G06F
+11366637,2022-06-21,Multiplexing between different processing channels,0,G06F|G06T|H03K
+11363085,2022-06-14,In-band quality data,0,H04L|H04N
+11361499,2022-06-14,Post-tessellation blending in a GPU pipeline,2,G06F|G06T
+11361398,2022-06-14,Processing received pixel values in an image processing system using pixel value subset groups,2,G06F|G06T|G06V|H04N
+11354859,2022-06-07,Tessellation hardware subdivision of patches into sub-patches,2,G06T
+11354835,2022-06-07,Rasterising aliased lines,0,G06T
+11348302,2022-05-31,Graphics processing units and methods for controlling rendering complexity using cost indications for sets of tiles of a rendering space,2,G06F|G06T
+11348197,2022-05-31,Computing systems and methods for processing graphics data using cost indications for sets of tiles of a rendering space,3,G06F|G06T|H04N
+11347509,2022-05-31,Encoding and decoding variable length instructions,0,G06F|H03M
+11343769,2022-05-24,Method and system for wirelessly transmitting data,0,G08B|H04W|Y02D
+11341601,2022-05-24,Task assembly for SIMD processing,1,G06T
+11341110,2022-05-24,Hierarchy merging,0,G06F|G06T
+11335055,2022-05-17,Intersection testing in ray tracing systems with skipping of nodes in sub-trees of hierarchical acceleration structures,0,G06T
+11335031,2022-05-17,Image data decompression,4,G06F|G06T|H04N
+11330286,2022-05-10,Biasing selection of motion estimation vectors,0,H04N
+11323718,2022-05-03,Guaranteed data compression,2,G06T|H04N
+11323136,2022-05-03,Method and apparatus for processing a received sequence of data packets by removing unsuitable error correction packets from the sequence,0,G06F|H03M|H04L|H04M
+11321808,2022-05-03,Modifying processing of commands in a command queue based on subsequently received data,0,G06F|G06T
+11321096,2022-05-03,Hardware unit for performing matrix multiplication with clock gating,2,G06F|G06N
+11315302,2022-04-26,Dedicated ray memory for ray tracing in graphics systems,0,G06T
+11314845,2022-04-26,Interpolating a sample position value by interpolating surrounding interpolated positions,4,G06F
+11309907,2022-04-19,Guaranteed data compression,7,G06T|H03M|H04N
+11308691,2022-04-19,Accessing primitive data using tessellated primitive ID,3,G06T
+11308683,2022-04-19,Intersection testing in a ray tracing system using ray bundle vectors,0,G06T
+11307862,2022-04-19,Compiling and combining instructions from different branches for execution in a processing element of a multithreaded processor,0,G06F
+11302057,2022-04-12,Rendering of soft shadows,0,G06T
+11295524,2022-04-05,Frustum rendering in computer graphics,0,G06T
+11295509,2022-04-05,Intersection testing in a ray tracing system using multiple ray bundle intersection tests,0,A63F|G06T
+11295485,2022-04-05,ASTC interpolation,0,G06T|H04N
+11294634,2022-04-05,Float division by constant integer,0,G06F
+11294625,2022-04-05,System and method for rounding reciprocal square root results of input floating point numbers,0,G06F
+11289049,2022-03-29,Gamut mapping with blended scaling and clamping,0,G09G|H04N
+11288855,2022-03-29,Determining lighting information for rendering a scene in computer graphics using illumination point sampling,0,G06T
+11288145,2022-03-29,Workload repetition redundancy,0,G06F|G06T
+11287843,2022-03-29,Synchronisation of hardware clock using software clock synchronisation error,0,G06F|G11B|H04N
+11284090,2022-03-22,Encoding images using MIP map compression,1,G06T|H04N
+11282262,2022-03-22,Systems and methods for distributed scalable ray processing,0,G06F|G06T|G09G
+11282216,2022-03-22,Image noise reduction,0,G06T
+11282162,2022-03-22,Tile based computer graphics,2,G06T
+11277632,2022-03-15,Motion estimation using collocated blocks,1,H04N
+11276233,2022-03-15,Rendering in computer graphics systems,0,G06T
+11276222,2022-03-15,Rendering optimisation by recompiling shader instructions,0,G06F|G06T|G09G
+11276212,2022-03-15,Conservative rasterization,0,G06T
+11270493,2022-03-08,Controlling rendering operations by shader buffer identification,0,G06F|G06T|G09G
+11269594,2022-03-08,Apparatus and method for processing floating-point numbers,0,G06F|H03K
+11263811,2022-03-01,Tessellation method using vertex tessellation factors,0,G06T
+11263806,2022-03-01,Graphics processing method and system for processing sub-primitives,1,G06T
+11263798,2022-03-01,Multi-rendering in graphics processing units using render progression checks,0,G06F|G06T
+11263288,2022-03-01,Rendering a scene using a reduced memory representation of a polynomial function to determine an output value approximating a mathematical function,0,G06F
+11258457,2022-02-22,Guaranteed data compression,3,H03M|H04N
+11257271,2022-02-22,Atomic memory update unit and methods,0,G06F|G06T
+11257181,2022-02-22,Tiling a primitive in a graphics processing system by edge-specific testing of a subset of tiles in a rendering space,0,G06T
+11250927,2022-02-15,Formal verification tool to verify hardware design of memory unit,1,G06F|G11C
+11250192,2022-02-15,Detecting out-of-bounds violations in a hardware design using formal verification,0,G06F
+11249925,2022-02-15,Sorting memory address requests for parallel memory access using input address match masks,0,G06F
+11244498,2022-02-08,Assigning primitives to tiles in a graphics processing system,0,G06T
+11244432,2022-02-08,Image filtering based on image gradients,0,G06T
+11244421,2022-02-08,Memory for storing untransformed primitive blocks,0,G06F|G06T
+11240406,2022-02-01,Object tracking using momentum and acceleration vectors in a motion estimation system,0,G06T|H04N
+11238638,2022-02-01,Edge test and depth calculation in graphics processing hardware,0,G06T
+11232634,2022-01-25,Method and apparatus for rendering a computer generated image,0,G06T
+11228388,2022-01-18,Time stamp replication within a wireless network based on transmission prediction,0,H04J|H04R|H04W
+11227362,2022-01-18,Multistage collector for outputs in multiprocessor systems,0,G06T
+11217008,2022-01-04,Graphics renderer and method for rendering 3D scene in computer graphics using object pointers and depth values,0,G06T
+11217007,2022-01-04,Primitive block generator for graphics processing systems,0,G06T
+11216990,2022-01-04,Anisotropic texture filtering for sampling points in screen space,6,G06T
+11210217,2021-12-28,Tile based interleaving and de-interleaving for digital signal processing,1,G06F|H03M
+11205295,2021-12-21,Ray tracing system architectures and methods,0,G06T|G09G
+11204800,2021-12-21,Task scheduling in a GPU using wakeup event state data,1,G06F|G06T|Y02D
+11200723,2021-12-14,Texture filtering with dynamic scheduling in computer graphics,0,G06F|G06T
+11200064,2021-12-14,Methods and systems for inter-pipeline data hazard avoidance,2,G06F
+11189004,2021-11-30,Task execution in a SIMD processing unit with parallel groups of processing lanes,0,G06F|G06T
+11188817,2021-11-30,Methods and systems for converting weights of a deep neural network from a first number format to a second number format,1,G06N|H03M
+11188383,2021-11-30,Scheduling tasks using work fullness counter,0,G06F
+11184509,2021-11-23,Cadence analysis for a video signal having an interlaced format,0,H04N
+11184110,2021-11-23,Dynamic scaling of channel state information,0,H03M|H04L
+11182952,2021-11-23,Hidden culling in tile-based computer generated images,0,G06T
+11182668,2021-11-23,Neural network architecture using convolution engine filter weight buffers,5,G06F|G06N
+11176733,2021-11-16,Processing primitives which have unresolved fragments in a graphics processing system,0,G06T
+11169781,2021-11-09,Evaluating a mathematical function in a computational environment,0,G06F
+11164365,2021-11-02,Primitive processing in a graphics processing system,0,G06T
+11164364,2021-11-02,Coarse depth test in graphics processing systems,2,G06F|G06T
+11158023,2021-10-26,Primitive block-based rasterization in graphics processing systems,1,G06T
+11157592,2021-10-26,Hardware implementation of convolutional layer of deep neural network,0,G06F|G06N
+11151685,2021-10-19,Hierarchical tiling in a graphics processing system using chain sorting of primitives,0,G06T
+11145025,2021-10-12,Graphics processing systems with expansion transformation stage masks,1,G06F|G06T
+11144819,2021-10-12,Convolutional neural network hardware configuration,10,G06F|G06N
+11144794,2021-10-12,Systems and methods for processing a stream of data values using data value subset groups,1,G06F|G06T
+11132299,2021-09-28,Memory interface having multiple snoop processors,0,G06F
+11127198,2021-09-21,Graphics processing using directional representations of lighting at probe positions within a scene,0,G06T
+11127196,2021-09-21,Transformed geometry data cache for graphics processing systems,0,G06T
+11127191,2021-09-21,Asynchronous and concurrent ray tracing and rasterization rendering processes,1,G06F|G06T|G09G
+11126771,2021-09-21,Verification of hardware design for data transformation pipeline,1,G01R|G06F
+11122301,2021-09-14,Compressing and decompressing image data using compacted region transforms,0,H03M|H04N
+11113786,2021-09-07,ASTC interpolation,0,G06T|H04N
+11106847,2021-08-31,Verification of hardware design for integrated circuit implementing polynomial input variable function,0,G06F
+11100386,2021-08-24,Buffer addressing for a convolutional neural network,1,G06F|G06N
+11100375,2021-08-24,Processing a stream of pixel values in an image processing system using pixel value subset groups,1,G06F|G06T
+11089261,2021-08-10,Image component detection,1,G06T|G06V|H04N
+11087554,2021-08-10,Generating an augmented reality image using a blending factor,0,G06T|G06V
+11080926,2021-08-03,Using tiling depth information in hidden surface removal in a graphics processing system,0,G06T
+11079597,2021-08-03,Low latency distortion unit for head mounted displays,1,G02B|G06T|H04N
+11074750,2021-07-27,Scalable parallel tessellation,0,G06F|G06T
+11074381,2021-07-27,Verification of hardware design for data transformation component,3,G01R|G06F
+11070227,2021-07-20,Guaranteed data compression,3,H03M|H04N
+11069041,2021-07-20,Bilateral filter with data model,3,G06T
+11069024,2021-07-20,Primitive processing in a graphics processing system with tag buffer storage of primitive identifiers,0,G06T
+11068703,2021-07-20,Learned feature motion detection,0,G06F|G06T|G06V
+11062501,2021-07-13,Vertex processing pipeline for building reduced acceleration structures for ray tracing systems,0,G06T
+11044128,2021-06-22,Systems and methods for adjusting the sample timing of a GFSK modulated signal,0,H03M|H04L
+11043020,2021-06-22,Decoder unit for texture decompression,0,G06T|H04N
+11043016,2021-06-22,Random accessible lossless parameter data compression for tile based 3D computer graphics systems,0,G06T
+11042486,2021-06-22,Virtual memory management,0,G06F|G06T
+11037360,2021-06-15,Systems and methods for soft shadowing in 3-D rendering,1,G06T
+11030797,2021-06-08,Primitive fragment processing in the rasterization phase of a graphics processing system,1,G06F|G06T
+11030795,2021-06-08,Systems and methods for soft shadowing in 3-D rendering casting multiple rays from ray origins,2,G06T
+11030794,2021-06-08,Importance sampling for determining a light map,0,G06T
+11030103,2021-06-08,Data coherency manager with mapping between physical and virtual address spaces,0,G06F
+11030039,2021-06-08,Out-of-bounds recovery circuit,1,G06F
+11017589,2021-05-25,Untransformed display lists in a tile based rendering system,0,G06T
+11016906,2021-05-25,GPU virtualisation,0,G06F|G06T
+11010956,2021-05-18,Foveated rendering,4,G06F|G06T
+11010515,2021-05-18,Implementing fixed-point polynomials in hardware logic,0,G06F
+11010477,2021-05-18,Verifying firmware binary images using a hardware design and formal assertions,0,G06F
+11004172,2021-05-11,Memory management for systems for generating 3-dimensional computer images,0,G06F|G06T|G09G|H04N
+10997100,2021-05-04,Communications interface between host system and state machine,2,G06F|Y02D
+10991153,2021-04-27,Object illumination in hybrid rasterization and ray traced 3-D rendering,0,G06T
+10990726,2021-04-27,Address generators for verifying integrated circuit hardware designs for cache memory,0,G06F|G11C
+10990448,2021-04-27,Allocation of memory resources to SIMD workgroups,0,G06F|Y02D
+10985901,2021-04-20,Synchronisation symbol detector,1,H04L
+10985776,2021-04-20,Guaranteed data compression using intermediate compressed data,2,G06F|G06T|H03K|H03M|H04N
+10984162,2021-04-20,Verification of hardware design for data transformation pipeline with equivalent data transformation element output constraint,2,G01R|G06F
+10983756,2021-04-20,Small multiplier after initial approximation for operations with increasing precision,0,G06F
+10977860,2021-04-13,Tessellation hardware subdivision of patches into sub-patches,3,G06T
+10977833,2021-04-13,Compressing m-bit data using spatial decorrelation and entropy encoding on n-bit data,1,G06T|H04N|Y02D
+10977000,2021-04-13,Partially and fully parallel normaliser,3,G06F
+10972126,2021-04-06,Data compression and storage,5,G06N|H03M
+10970914,2021-04-06,Multiple precision level intersection testing in a ray tracing system,6,G06T
+10970912,2021-04-06,3-D graphics rendering with implicit geometry,2,G06T
+10965603,2021-03-30,Bandwidth management,0,H04L|H04N
+10964105,2021-03-30,Rendering views of a scene in a graphics processing unit,0,G06T
+10964090,2021-03-30,Hybrid hierarchy of bounding and grid structures for ray tracing,0,G06F|G06T
+10963611,2021-03-30,Assessing performance of a hardware design using formal evaluation logic,1,G06F|Y02P
+10957097,2021-03-23,Allocation of primitives to primitive blocks,1,G06T
+10949590,2021-03-16,Control path verification of hardware design for pipelined process,0,G06F
+10949169,2021-03-16,Trailing or leading digit anticipator,0,G06F
+10949167,2021-03-16,Error bounded multiplication by invariant rationals,0,G06F
+10943386,2021-03-09,On demand geometry and acceleration structure creation with tile object lists,0,G06T
+10942986,2021-03-09,Hardware implementation of convolutional layer of deep neural network,0,G06F|G06N
+10939402,2021-03-02,High definition timing synchronisation function,0,H04J|H04L|H04W
+10939398,2021-03-02,Clock synchronisation between devices using third device,0,H04J|H04L|H04N|H04W
+10937234,2021-03-02,Multi-viewpoint transformation module for use in 3D rendering system,0,G06F|G06T|G09G
+10937228,2021-03-02,Post-tessellation blending in a GPU pipeline,3,G06F|G06T
+10937198,2021-03-02,Multi-output decoder for texture decompression,0,G06T|H04N
+10936775,2021-03-02,Detecting out-of-bounds violations in a hardware design using formal verification,1,G06F
+10936509,2021-03-02,Memory interface between physical and virtual address spaces,0,G06F
+10930052,2021-02-23,Systems and methods for 3-D scene acceleration structure creation and updating,0,G06T
+10929583,2021-02-23,Clock verification,0,G01R|G06F
+10929138,2021-02-23,Executing memory requests out of order,1,G06F|Y02D
+10924695,2021-02-16,Processing received pixel values in an image processing system using pixel subset average values of grouped subsets,1,G06F|G06T|H04N
+10922873,2021-02-16,Rendering a 3-D scene using secondary ray tracing,0,G06T
+10909745,2021-02-02,Unified rasterization and ray tracing rendering environments,2,G06T
+10909742,2021-02-02,Ordering of patch selection in tessellation operations,2,G06T
+10909289,2021-02-02,Livelock detection in a hardware design using formal evaluation logic,0,G06F
+10908945,2021-02-02,Handling memory requests,2,G01N|G06F|Y02D
+10908877,2021-02-02,Median value determination in a data processing system,0,G06F|G06T

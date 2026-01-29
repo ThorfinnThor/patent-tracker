@@ -1,0 +1,718 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432762,2025-09-30,Sidelink resource pool selection for urgent packet transmission,0,H04W
+12431955,2025-09-30,Reception of channel based on time for applying transmission configuration indictor state,0,H04B|H04L|H04W
+12426042,2025-09-23,Uplink control multiplexing of a PUCCH repetition,0,H04W
+12425965,2025-09-23,Quiet interval termination,0,H04W|Y02D
+12425612,2025-09-23,Intra block copy vector difference wrap around,0,H04N
+12425141,2025-09-23,Feedback resource,0,H04L|H04W
+12418863,2025-09-16,Power control procedures with common beams,0,H04L|H04W
+12408213,2025-09-02,Wireless device related to time sensitive network for protocol data unit session establishment with access management function,0,H04L|H04W
+12408209,2025-09-02,Random access type selection for small data transmission,0,H04W
+12408121,2025-09-02,Power headroom report for multiple sounding reference signal resource sets,0,H04W
+12402190,2025-08-26,Bandwidth part failure indication in radio link failure report,0,H04L|H04W
+12402143,2025-08-26,Interrupted transmission in control channel repetition,0,H04L|H04W
+12402136,2025-08-26,Activation and deactivation of configured grant,0,H04L|H04W
+12402133,2025-08-26,Shared uplink channel transmissions based on sounding reference signal resource sets,0,H04W|Y02D
+12402101,2025-08-26,Paging cause indication,0,H04W
+12402085,2025-08-26,Power control for wireless communications,0,H04W
+12402023,2025-08-26,CSI transmission with multiple bandwidth parts,0,H04B|H04L|H04W
+12401474,2025-08-26,Determination of spatial filter for transmissions,0,H04B|H04L|H04W
+12401401,2025-08-26,Sidelink channel state information acquisition,0,H04B|H04L|H04W
+12396054,2025-08-19,Parameters for small data transmission procedure identified with field,0,H04W
+12396023,2025-08-19,Semi-persistent scheduling in high frequency,0,H04L|H04W
+12396017,2025-08-19,Communication and data processing in wireless communications,0,H04L|H04W
+12395860,2025-08-19,Default spatial relation for physical uplink shared channel transmissions,0,H04B|H04L|H04W
+12389449,2025-08-12,Contention window determination,0,H04L|H04W
+12389424,2025-08-12,"Methods, systems, and apparatuses for beam management",0,H04B|H04L|H04W
+12389417,2025-08-12,Preemption indication with multi-beam,0,H04B|H04L|H04W
+12389339,2025-08-12,Transmission power determination using multiple reference signals,0,H04L|H04W
+12389296,2025-08-12,Session management for edge computing,0,H04L|H04W
+12388993,2025-08-12,Geometric partitioning refinement,0,H04N
+12388591,2025-08-12,Sidelink demodulation reference signal indication in sidelink control information,0,H04L|H04W
+12388578,2025-08-12,Physical uplink control channel (PUCCH) switching capability of PUCCH cells in a PUCCH group,0,H04L|H04W
+12388515,2025-08-12,Default beam for downlink signal transmissions,0,H04B|H04L
+12382511,2025-08-05,Random access response reception for a two-step random access procedure,0,H04L|H04W
+12382488,2025-08-05,Cancellation indications of uplink and sidelink transmissions,0,H04W
+12382466,2025-08-05,Downlink control channel monitoring in new radio unlicensed band,0,H04L|H04W
+12382461,2025-08-05,Transmission and reception point configuration for beam failure recovery,0,H04B|H04W
+12382445,2025-08-05,Transmission and reception of channel state information,0,H04B|H04L|H04W
+12382322,2025-08-05,Beam failure detection and recovery procedures with common beams,0,H04B|H04L|H04W
+12382089,2025-08-05,Adaptive reordering of adjusted block vector predictor candidates,0,H04N
+12381697,2025-08-05,Bandwidth part switching based on priority level,0,H04L|H04W
+12381615,2025-08-05,Beam update for search space set specific control resource sets,0,H04B|H04L|H04W
+12381614,2025-08-05,Beam management for cells in wireless communications,0,H04B|H04W
+12379445,2025-08-05,Location management,0,G01S|H04W
+12376137,2025-07-29,Communication and data processing in wireless communications,0,H04L|H04W
+12376097,2025-07-29,Digital signal reception,0,H04B|H04L|H04W
+12376058,2025-07-29,Reporting timing advance information in non-terrestrial networks,0,H04B|H04W
+12376051,2025-07-29,Cell configuration in inactive state,0,H04W
+12376001,2025-07-29,Port information of time sensitive network bridge,0,H04L|H04W
+12375611,2025-07-29,Charging for timing resiliency service,0,H04M|H04W
+12375590,2025-07-29,Data unit identification,0,H04L|H04W
+12375247,2025-07-29,Random access procedure in multiple transmission and reception points,0,H04L|H04W
+12375225,2025-07-29,Sidelink hybrid automatic repeat request acknowledgement information generation,0,H04L|H04W
+12375217,2025-07-29,Discontinuous reception operation of multicast and broadcast services,0,H04L|H04W
+12375157,2025-07-29,Beam management for cells in wireless communications,0,H04B|H04W
+12369105,2025-07-22,Access information for closed access groups,0,H04L|H04W
+12369083,2025-07-22,Early timing advance acquisition,0,H04W
+12368882,2025-07-22,Block vector predictor refinement based on reference region boundary,0,H04N
+12363763,2025-07-15,Beam management for random access procedures,0,H04B|H04L|H04W
+12363761,2025-07-15,Access power management with multiple transmission reception points,0,H04B|H04L|H04W
+12363735,2025-07-15,Multiple timing advance with multiple transmission reception points,0,H04L|H04W
+12363733,2025-07-15,Semi-persistent scheduling confirmation,0,H04W
+12363726,2025-07-15,Application delay of downlink control channel skipping,0,H04L|H04W
+12363193,2025-07-15,Multimedia priority service,0,H04L|H04W
+12356498,2025-07-08,Small data transmission timer,0,H04W
+12356494,2025-07-08,User equipment assistance information to support multiple public land mobile networks,0,H04W
+12356487,2025-07-08,Small data transmission,0,H04W
+12356485,2025-07-08,Wireless backhaul link information via adaptation layer packets,0,H04B|H04L|H04W
+12349229,2025-07-01,Discontinuous reception for a two-step random access procedure,1,H04L|H04W|Y02D
+12349065,2025-07-01,Power saving operation for multicast and broadcast services,0,H04L|H04W|Y02D
+12348728,2025-07-01,Block vector difference signaling for intra block copy,0,H04N
+12348360,2025-07-01,Enhancing beam failure recovery procedure of a wireless device,0,H04B|H04L|H04W
+12342335,2025-06-24,Sidelink channel state information report,0,H04W
+12342308,2025-06-24,Protocol data unit session establishment associated with aerial service,0,H04L|H04W
+12336057,2025-06-17,Multi-universal subscriber identity module gap,0,H04W
+12336048,2025-06-17,Releasing wireless device context,0,H04L|H04W
+12336030,2025-06-17,Random access on multiple active protocol stacks,0,H04W
+12336013,2025-06-17,Four-step to two-step random access procedure,0,H04W
+12335977,2025-06-17,Monitoring for cross-carrier scheduling based on active bandwidth part,0,H04L|H04W|Y02D
+12335833,2025-06-17,Emergency service,0,H04W
+12335017,2025-06-17,Cell grouping in beam failure recovery procedure,0,H04B|H04L|H04W
+12328683,2025-06-10,Transmission and reception with multiple panels,0,H04B|H04W
+12328169,2025-06-10,Channel state information reporting for non-coherent joint transmission,0,H04B|H04L|H04W
+12327383,2025-06-10,Chroma prediction from luma for video coding,0,G06T|H04N
+12324053,2025-06-03,Network slice management based on inactivity,0,H04W
+12323996,2025-06-03,Beam-based downlink monitoring,0,H04L|H04W
+12323926,2025-06-03,Power control in power headroom report,0,H04B|H04W
+12317365,2025-05-27,Transmission of layer 1 reference signal received power in channel state information during a discontinuous operation,0,H04B|H04L|H04W|Y02D
+12317278,2025-05-27,Scheduling requests in non-terrestrial networks,0,H04B|H04W
+12317211,2025-05-27,Maintenance of multiple timing advance groups,0,H04L|H04W
+12317196,2025-05-27,Power control for multiple transmission reception points,0,H04W
+12317158,2025-05-27,Channel state information report for multicast and broadcast services,0,H04L|H04W
+12317149,2025-05-27,Connection reestablishment procedure,0,H04W
+12309867,2025-05-20,Beam failure recovery with multiple cells,0,H04B|H04W
+12309811,2025-05-20,Beam indication and application with multiple carriers,0,H04B|H04L|H04W
+12309797,2025-05-20,Requesting feedback information in multi-downlink scheduling,0,H04L|H04W
+12309620,2025-05-20,CSI transmission with multiple bandwidth parts,0,H04B|H04L|H04W
+12309081,2025-05-20,Switching schemes for repetitions of transport blocks,0,H04L|H04W
+12308933,2025-05-20,Beam failure recovery procedures with shared radio spectrum,0,H04B|H04L|H04W
+12302438,2025-05-13,Timer for small data transmission,0,H04W
+12302423,2025-05-13,Charging aggregation control for network slices,0,H04L|H04M|H04W
+12302388,2025-05-13,Bandwidth part switching and determination of a contention window,0,H04L|H04W
+12302360,2025-05-13,Collision timeline for bandwidth aggregation,0,H04L|H04W
+12302252,2025-05-13,Sounding reference signal transmission in a wireless communication system,0,H04L|H04W|Y02D
+12301865,2025-05-13,Intra prediction,0,H04N
+12301512,2025-05-13,Radio resource control triggered bandwidth part switching,0,H04L|H04W
+12301364,2025-05-13,Techniques for periodic resource activation or release,0,H04L|H04W
+12301322,2025-05-13,Channel state information feedback for multiple transmission reception points,0,H04B|H04L|H04W
+12295055,2025-05-06,Cell reselection during ongoing SDT procedure,0,H04W
+12295014,2025-05-06,Sidelink radio link failure based on carrier reselection,0,H04L|H04W
+12295011,2025-05-06,Devices for skipping physical downlink control channel monitoring of bandwidth part based on downlink control indication,0,H04B|H04L|H04W
+12279332,2025-04-15,Subsequent data assistance information for small data transmission,0,H04W
+12279281,2025-04-15,Transmission of acknowledgement in control channel repetition,0,H04L|H04W
+12279232,2025-04-15,Beam determination procedures with uplink assistant information,0,H04L|H04W
+12279132,2025-04-15,Beam determination procedures in radio systems,0,H04B|H04L|H04W
+12278947,2025-04-15,Decoder side displacement vector prediction,0,H04N
+12273947,2025-04-08,Beam management procedures in wireless networks,0,H04B|H04L|H04W
+12273924,2025-04-08,Supplemental carrier selection for multiple active downlink bandwidth parts,0,H04L|H04W
+12273842,2025-04-08,Geographical zone-based registration area tracking,0,G01S|H04B|H04W
+12273806,2025-04-08,Uplink carrier switching confirmation for unlicensed carriers in a wireless network,0,H04L|H04W
+12273302,2025-04-08,Downlink control information activating a cell and a bandwidth part,0,H04L|H04W
+12273290,2025-04-08,Antenna port determination based on maximum number of transmission layers of bandwidth part,0,H04B|H04L|H04W
+12267718,2025-04-01,Measurement information feedback reporting,0,H04W
+12262388,2025-03-25,Sidelink feedback reporting in a wireless network,0,H04B|H04L|H04W
+12262328,2025-03-25,Power control for multiple services,0,H04L|H04W
+12262270,2025-03-25,Power control for bandwidth part switching,0,H04L|H04W
+12261891,2025-03-25,Synchronization for multiple data flows,1,H04L|H04M|H04W
+12255829,2025-03-18,Data unit processing,0,H04L|H04W
+12250671,2025-03-11,Power control procedures with flexible pathloss reference signals,0,H04L|H04W
+12245249,2025-03-04,Multi-cell downlink control information,0,H04B|H04L|H04W
+12245227,2025-03-04,Hybrid automatic repeat request process for configured grant,0,H04L|H04W
+12245199,2025-03-04,Resource selection window for sidelink inter-UE coordination,0,H04W
+12245193,2025-03-04,Paging message reception,0,H04W
+12245057,2025-03-04,Beam management and beam failure recovery in radio systems,0,H04B|H04L|H04W
+12238740,2025-02-25,Beam management in radio systems,0,H04B|H04L|H04W
+12238702,2025-02-25,Cross-carrier scheduling for sidelink communications,0,H04W
+12238653,2025-02-25,Power headroom report based on dynamic pathloss estimation,0,H04W
+12237946,2025-02-25,Uplink signal transmission and reception based on sounding reference signal resource set,0,H04B|H04L|H04W
+12237930,2025-02-25,Feedback indicator for semi-persistent scheduling in multicast and broadcast service,0,H04L|H04W
+12232083,2025-02-18,Preemption indication and radio resource selection for transmission,0,H04L|H04W
+12232047,2025-02-18,Pathloss determination for beam management sounding reference signals,0,H04L|H04W
+12231949,2025-02-18,Always-on packet data unit session indication,0,H04L|H04M|H04W
+12231245,2025-02-18,Ordering of feedback information bits in feedback codebook based on resource block indexes,0,H04L|H04W
+12225526,2025-02-11,Release of configured grant,0,H04W
+12225522,2025-02-11,PUSCH repetition via a plurality of TRPs,0,H04B|H04L|H04W
+12225505,2025-02-11,Resource reservation for sidelink communications,0,H04L|H04W
+12225459,2025-02-11,Multiple-input multiple-output capability information for power savings,0,H04B|H04L|H04W|Y02D
+12219602,2025-02-04,Hybrid automatic repeat request process handling for uplink transmissions after listen-before-talk,0,H04L|H04W
+12218885,2025-02-04,Bandwidth part inactivity timer,0,H04B|H04L|H04W|Y02D
+12212423,2025-01-28,Packet duplication,0,H04L|H04W
+12207306,2025-01-21,Consecutive transmissions of a plurality of preambles by a wireless device,0,H04B|H04W
+12207298,2025-01-21,Channel access procedures in a wireless network,0,H04W
+12207201,2025-01-21,Uplink power control in a wireless device,0,H04W
+12207178,2025-01-21,Time window for radio link failure detection of an unlicensed cell,0,H04W
+12206621,2025-01-21,Restarting a deactivation timer of a secondary cell in a wireless network,0,H04L|H04W|Y02D
+12200807,2025-01-14,Power control for small data transmission,0,H04W
+12195210,2025-01-14,Aerial service,0,B64U|H04L|H04W
+12193103,2025-01-07,Sidelink discontinuous reception alignment,0,H04L|H04W
+12193054,2025-01-07,Contention resolution window size based on uplink carrier switching,0,H04W
+12193010,2025-01-07,Base station scheduling of sidelink feedback reporting,0,H04B|H04L|H04W
+12192978,2025-01-07,Beam management and beam indication in radio systems,0,H04B|H04L|H04W
+12192942,2025-01-07,Random access response window configuration,0,H04B|H04W
+12192510,2025-01-07,Validity determination of block vector candidates,0,H04N
+12192128,2025-01-07,Radio link monitoring in a multi-transmission and reception point scenario,0,H04B|H04L|H04W
+12185236,2024-12-31,Mobility management function determination for allowed network slices of wireless device,0,H04W
+12177939,2024-12-24,Group communication session inactivity notification,0,H04L|H04W
+12177905,2024-12-24,Uplink carrier determination for random access procedure,0,H04W
+12177891,2024-12-24,Position of a channel occupancy time parameter in a downlink control channel,0,H04L|H04W
+12177655,2024-12-24,Conditional handover execution,0,H04W
+12170759,2024-12-17,Chroma from luma prediction model selection,0,H04N
+12170575,2024-12-17,Hybrid automatic repeat request feedback control by base station,0,H04L|H04W
+12167473,2024-12-10,Random access initialization during mobility,2,H04W
+12167394,2024-12-10,Resource block numbering in control channel repetition,0,H04L|H04W
+12167336,2024-12-10,Dormancy management in a wireless cellular system,0,H04L|H04W|Y02D
+12166585,2024-12-10,Transmission power determination for uplink channel repetition,0,H04L|H04W
+12160924,2024-12-03,Network exposure function and wireless device with releasable connection,0,H04W
+12160878,2024-12-03,Zone management and hybrid automatic repeat request for sidelink,0,H04L|H04W
+12160799,2024-12-03,Initialization of scrambling sequence for data in multicast and broadcast services,0,H04L|H04W
+12160781,2024-12-03,Timing advance indication from base station for a beam during handover,0,H04W
+12156275,2024-11-26,Session duplication for uplink or downlink packets,0,H04W
+12150199,2024-11-19,Predefined rules in control channel repetition,0,H04L|H04W
+12150181,2024-11-19,Performing listen-before-talk procedure during random access procedure,0,H04W
+12150180,2024-11-19,Random access procedure type in a wireless system,0,H04L|H04W
+12150163,2024-11-19,Sidelink signal repetition and preemption,1,H04W
+12149487,2024-11-19,Sidelink resource pool configuration for sidelink communications,0,H04L|H04W
+12149477,2024-11-19,Beam management in multiple transmission and reception points,0,H04L|H04W
+12149467,2024-11-19,Spatial relation in new radio,0,H04B|H04L|H04W
+12144057,2024-11-12,Release message in small data transmission procedure,0,H04W
+12143998,2024-11-12,Resource configuration for integrated access and backhaul nodes,0,H04B|H04L|H04W
+12143994,2024-11-12,Processing time in control channel repetition,0,H04L|H04W
+12143992,2024-11-12,Downlink scheduling and hybrid automatic repeat request feedback,0,H04L|H04W
+12143990,2024-11-12,Downlink control information and bandwidth part switching in a wireless device,0,H04L|H04W
+12143916,2024-11-12,Non-public network overload and congestion control,0,H04W
+12143875,2024-11-12,Communication of cell configuration parameters of an unlicensed cell,0,H04L|H04W|Y02D
+12133183,2024-10-29,Prioritization of sidelink and uplink transmissions,0,H04W
+12133113,2024-10-29,Base station header compression and decompression,0,H04L|H04W
+12132911,2024-10-29,BVD sign inference in IBC based on BV and BVP components,0,H04N
+12127276,2024-10-22,Tunnel failure procedures,0,H04L|H04W
+12127218,2024-10-22,Multiplexing uplink control information,0,H04L|H04W
+12127127,2024-10-22,Base station handling of transitioning wireless device to inactive state,0,H04W|Y02D
+12127098,2024-10-22,Restricted local operator services by base station for wireless network,0,H04L|H04M|H04W
+12127046,2024-10-22,Vehicle-to-everything support of a cell via base stations,0,H04L|H04W
+12120775,2024-10-15,Multi access packet/protocol data unit session,0,H04W
+12120704,2024-10-15,Default downlink signaling in control channel repetition,0,H04B|H04L|H04W
+12113998,2024-10-08,No reference image quality assessment based decoder side intra prediction,0,C12N|H04N
+12108470,2024-10-01,Application triggering for a wireless device,0,H04W
+12108348,2024-10-01,Power headroom report in multiple data scheduling,0,H04W
+12107779,2024-10-01,Sidelink multi-antenna transmission and reception,0,H04B|H04L|H04W
+12101840,2024-09-24,Downlink control reception based on small data transmission,0,H04W
+12101813,2024-09-24,Channel occupancy time duration for cell starting from downlink control information slot,0,H04L|H04W
+12101789,2024-09-24,Power control adjustment for PUCCH with multi-PDSCH scheduling,0,H04B|H04L|H04W
+12101785,2024-09-24,Receiving uplink data via a transmission time interval of an unlicensed cell,0,H04L|H04W
+12101782,2024-09-24,Downlink control information for supporting multiple services,0,H04L|H04W
+12101740,2024-09-24,Signaling delivery in a wireless network,0,H04W
+12101712,2024-09-24,Network access management,1,H04W
+12101210,2024-09-24,Starting time alignment timer before receiving an initial timing advance command,0,H04L|H04W
+12101196,2024-09-24,QoS policy of mission critical video service,0,H04L|H04M|H04W
+12096494,2024-09-17,Location based selection of localized proxy application server,0,H04L|H04W
+12096429,2024-09-17,Joint beam indication based on a unified reference pool,1,H04B|H04L|H04W
+12096368,2024-09-17,Measurement based sidelink discontinuous reception operation,0,H04W|Y02D
+12096003,2024-09-17,Reduced residual inter prediction,0,H04N
+12089285,2024-09-10,Beam failure management for preconfigured resource,0,H04B|H04W
+12089226,2024-09-10,Hybrid automatic repeat request transmission with multiple transmission and reception points and multiple panels,0,H04L|H04W
+12089093,2024-09-10,Handover for closed access group,0,H04W
+12088517,2024-09-10,Sidelink sensing in wireless network,0,H04L|H04W
+12082226,2024-09-03,Uplink transmission in a wireless communication system,0,H04W
+12082216,2024-09-03,Transmission power determination for uplink channel repetition,0,H04L|H04W
+12082121,2024-09-03,Uplink power control,0,H04L|H04W
+12082058,2024-09-03,Communicating group-radio network temporary identifier during handover procedure,0,H04W
+12082053,2024-09-03,Handover in unlicensed band,0,H04L|H04W
+12081966,2024-09-03,Capability of positioning service level for wireless device,0,H04W
+12081494,2024-09-03,Reference occasion determination in control channel repetition,0,H04B|H04L|H04W
+12081485,2024-09-03,Uplink transmission cancellation,0,H04L|H04W
+12075490,2024-08-27,Switching between two-step and four-step random access procedures in non-terrestrial networks,1,H04W
+12075448,2024-08-27,Default rules in uplink transmissions,0,H04B|H04L|H04W
+12075447,2024-08-27,Multiple physical downlink shared channel transmissions,0,H04L|H04W
+12075296,2024-08-27,Activation of linked bandwidth parts,0,H04B|H04L|H04W
+12074716,2024-08-27,HARQ feedback collision in unlicensed bands,0,H04L|H04W
+12074711,2024-08-27,Hybrid automatic repeat request acknowledgement codebook determination,0,H04L|H04W|Y02D
+12069713,2024-08-20,Sidelink resource selection procedure,0,H04B|H04W
+12069664,2024-08-20,Request message transmission for sidelink inter-UE coordination,0,H04W
+12069582,2024-08-20,Power control in random access procedure for multiple transmission and reception points,1,H04B|H04L|H04W|Y02D
+12069507,2024-08-20,Buffer status report frame transmission in a multi-link communication environment,0,H04L|H04W
+12068820,2024-08-20,Sidelink channel state information acquisition,2,H04B|H04L|H04W
+12063702,2024-08-13,Backhaul link connection information,0,H04W
+12063651,2024-08-13,Reservation of radio resources for preemption in a wireless network,0,H04B|H04L|H04W
+12063550,2024-08-13,Multiple access policy control,5,H04L|H04M|H04W
+12058760,2024-08-06,Logical channel configuration,0,H04W
+12058708,2024-08-06,Resource pool configuration and hybrid automatic repeat request transmission,0,H04L|H04W
+12058700,2024-08-06,Common beam indication based on link selection,1,H04B|H04L|H04W
+12058655,2024-08-06,Resource reselection triggering conditions for sidelink communications,1,H04L|H04W
+12058652,2024-08-06,Bandwidth part for multicast and broadcast services,0,H04L|H04W
+12058622,2024-08-06,Power control for sidelink feedback,0,H04B|H04L|H04W
+12052761,2024-07-30,Random access response reception of random access procedure,0,H04L|H04W
+12052754,2024-07-30,Transmission and scheduling for multiple panels,0,H04B|H04L|H04W
+12047917,2024-07-23,Sensing procedure for sidelink,2,H04W
+12047890,2024-07-23,Beam measurement based validation in inactive state,0,H04B|H04L|H04W
+12047845,2024-07-23,Geographical location based registration request,0,G01S|G06F|H04W
+12041633,2024-07-16,Dynamic transmission reception point group indication,0,H04B|H04L|H04W
+12041631,2024-07-16,Code block group retransmission using configured grant,0,H04L|H04W
+12041617,2024-07-16,Power control in multiple data scheduling,0,H04L|H04W
+12041543,2024-07-16,Quiet interval termination,1,H04W|Y02D
+12035402,2024-07-09,Radio link failure report for connection failure during random access,0,H04L|H04W
+12035365,2024-07-09,Sharing channel occupancy ratio information,1,H04B|H04L|H04W
+12035319,2024-07-09,Uplink shared channel transmissions based on sounding reference signal resource sets,1,H04W|Y02D
+12035303,2024-07-09,Delaying sending of user plane connection activation for a downlink data packet,0,H04W
+12035296,2024-07-09,Delay timer for data transmission in inactive state,0,H04W
+12035249,2024-07-09,Power control in carrier aggregation with multiple transmission reception points,1,H04W
+12028921,2024-07-02,Radio link control bearer configuration,0,H04W
+12028906,2024-07-02,Configuration of a random access channel of a base station,0,H04J|H04L|H04W
+12028856,2024-07-02,Feedback transmission with multiple transmission reception points,0,H04L|H04W
+12028712,2024-07-02,Determining an environmental parameter from sensor data of a plurality of automobiles using a cellular network,0,H04L|H04W
+12022431,2024-06-25,Wireless connection state,2,H04L|H04W
+12022420,2024-06-25,Wireless device authorization by uncrewed aerial system service supplier,1,H04L|H04W
+12016016,2024-06-18,Uplink control multiplexing of a PUCCH repetition,2,H04W
+12015785,2024-06-18,No reference image quality assessment based decoder side inter prediction,0,H04N
+12015734,2024-06-18,Policy information to policy control and confirmation to session management,0,H04L|H04M|H04W
+12015492,2024-06-18,Feedback resource,0,H04L|H04W
+12015465,2024-06-18,Random access procedure based on CSI-RS selection,0,H04B|H04J|H04W
+12010701,2024-06-11,Signal multiplexing in uplink channel repetition,0,H04B|H04L|H04W
+12010695,2024-06-11,Uplink beam indication with activated beams,0,H04B|H04L|H04W|Y02D
+12010610,2024-06-11,Support for tunneling,0,H04W
+12010608,2024-06-11,Configuration of secondary control channel group by base station,0,H04B|H04L|H04W
+12010529,2024-06-11,Default spatial relation for physical uplink shared channel transmissions,0,H04B|H04L|H04W
+12010202,2024-06-11,Data unit in wireless system,1,H04L|H04W
+12010070,2024-06-11,Bandwidth part management in a secondary cell of a wireless device,0,H04B|H04L|H04W
+12004248,2024-06-04,Cell configuration parameters,0,H04W
+12004234,2024-06-04,Transmission and access with multiple panels,0,H04B|H04W|Y02D
+12004227,2024-06-04,Uplink carrier selection based on power threshold and speed,0,H04W
+12004220,2024-06-04,Transmission and access with multiple transmission reception points,1,H04B|H04L|H04W
+12004151,2024-06-04,Coverage enhancement with frequency selective transmission,0,H04L|H04W
+12004091,2024-06-04,Physical channel processing capability for power states,0,H04L|H04W|Y02D
+12004090,2024-06-04,Type 2 power headroom of a primary cell in a wireless device,0,H04W
+12004087,2024-06-04,Prioritizing uplink signals of a radio access technology,0,H04L|H04W
+12003989,2024-06-04,Sidelink multi-port transmission,0,H04B|H04L|H04W
+12003988,2024-06-04,Link monitoring in new radio,1,H04B|H04L|H04W
+11997606,2024-05-28,Uplink transmission in a wireless communication system,2,H04L|H04W|Y02D
+11997587,2024-05-28,Slice group information,0,H04W
+11997517,2024-05-28,Synchronization detection based on radio link monitoring in power saving mode,0,H04L|H04W|Y02D
+11991761,2024-05-21,Request to establish protocol data unit session with time sensitive network parameters,1,H04L|H04W
+11991621,2024-05-21,Beam update for control resource sets,4,H04B|H04L|H04W
+11990972,2024-05-21,Beam management for uplink transmissions in radio systems,0,H04B|H04L|H04W
+11985708,2024-05-14,Random access counter management based on listen before talk,0,H04W
+11985596,2024-05-14,Sidelink resource allocation mode switching based on power state transitioning,0,H04L|H04W|Y02D
+11979935,2024-05-07,Data for small data transmission,0,H04W
+11979920,2024-05-07,Random access type selection for small data transmission,1,H04W
+11979890,2024-05-07,Selecting one or more power control parameters for a downlink reference signal,1,H04L|H04W
+11979798,2024-05-07,Session establishment to join a group communication,0,H04W
+11979778,2024-05-07,Release of a second session of a wireless device by an access and mobility management function,1,H04W
+11973638,2024-04-30,Beam failure recovery procedure in dormant state,1,H04L|H04W|Y02D
+11968740,2024-04-23,Layer 1 reference signal received power reporting during a discontinuous reception operation,0,H04B|H04L|H04W|Y02D
+11968710,2024-04-23,Dynamic scheduling of PRACH,0,H04W
+11968624,2024-04-23,Power saving operation in carrier aggregation,0,H04W|Y02D
+11963198,2024-04-16,Semi-persistent scheduling of multicast and broadcast services,0,H04L|H04W
+11962784,2024-04-16,Intra prediction,0,H04N
+11962386,2024-04-16,Restrictions in beam failure detection,0,H04B|H04L|H04W
+11956856,2024-04-09,Network slice isolation information for session management function discovery,0,H04L|H04W
+11956722,2024-04-09,Power saving operation for multicast and broadcast services,0,H04L|H04W|Y02D
+11956056,2024-04-09,Cell grouping in beam failure recovery procedure,2,H04B|H04L|H04W
+11950306,2024-04-02,Transmission configuration indicator configuration,1,H04B|H04L|H04W|Y02D
+11950176,2024-04-02,Parameter of time sensitive network bridge,0,H04L|H04W
+11943742,2024-03-26,Power saving for paging wireless devices,0,H04L|H04W|Y02D
+11943059,2024-03-26,Periodic resource activation and/or release,1,H04L|H04W
+11937332,2024-03-19,Starting a discontinuous reception timer in response to a feedback timing indicator,0,H04L|H04W|Y02D
+11937268,2024-03-19,Power saving operation for a wireless device,0,H04L|H04W|Y02D
+11937240,2024-03-19,Radio resource mapping of a feedback channel,0,H04L|H04W
+11936593,2024-03-19,Bandwidth part switching for sidelink communication,0,H04L|H04W
+11936575,2024-03-19,Transmission scheme for multiple transmission reception points in radio system,1,H04L|H04W
+11930531,2024-03-12,Consecutive listen-before-talk procedures based on bandwidth part switching,0,H04L|H04W
+11930450,2024-03-12,MIMO capability information per cell group for power savings,0,H04B|H04L|H04W|Y02D
+11930396,2024-03-12,Sounding reference signal transmissions in different frequency bands,0,H04L|H04W
+11929946,2024-03-12,Bandwidth parts operation in multiple active bandwidth parts,0,H04L|H04W
+11929805,2024-03-12,Channel state information reporting for non-coherent joint transmission,0,H04B|H04L|H04W
+11924782,2024-03-05,Power value for uplink transmission when adding base station distributed unit,1,H04L|H04W
+11917549,2024-02-27,Scaling transmission power of uplink signals of a wireless device,0,H04W
+11910461,2024-02-20,Beam failure recovery with multiple cells,0,H04B|H04W
+11910404,2024-02-20,Physical uplink shared channel processing period,0,H04L|H04W
+11910345,2024-02-20,Random access preambles using transmit beams of base station,0,H04B|H04W
+11910309,2024-02-20,Base station power state transition in the presence of uplink traffic,1,H04L|H04W|Y02D
+11910297,2024-02-20,Access information for closed access groups,0,H04L|H04W
+11909907,2024-02-20,Charging policy information for a home session management function,0,H04L|H04M|H04W
+11903072,2024-02-13,Uplink resource allocation for unlicensed cells,0,H04L|H04W
+11902994,2024-02-13,Resource conflict,0,H04B|H04W
+11902914,2024-02-13,Transmitting a type 2 power headroom value for a primary cell,0,H04W
+11902905,2024-02-13,Receiving with an uplink transmission power based on a pathloss reference identified by a pathloss index,0,H04L|H04W
+11902199,2024-02-13,Indicating DMRS configuration for sidelink,0,H04L|H04W
+11895726,2024-02-06,Completion indication of small data transmission,0,H04W
+11895717,2024-02-06,Charging aggregation control for network slices,0,H04L|H04M|H04W
+11895598,2024-02-06,Power headroom report for multiple antenna groups,2,H04W
+11895597,2024-02-06,Power control parameter set and pathloss reference signal for wireless device,0,H04B|H04W
+11895582,2024-02-06,Power saving operations in a wireless communication system,2,H04B|H04L|H04W|Y02D
+11889527,2024-01-30,Bandwidth part operation in new radio,0,H04L|H04W|Y02D
+11889525,2024-01-30,Management of transmission configuration indicator states,1,H04B|H04L|H04W
+11889471,2024-01-30,Paging time adjustment in a wireless network,1,H04W
+11889465,2024-01-30,Paging cause value,2,H04W
+11889452,2024-01-30,Geographical zone-based registration area tracking,1,G01S|H04B|H04W
+11888621,2024-01-30,Uplink channel switching capability and selecting between uplink channels in a cell group based thereon,0,H04L|H04W
+11888575,2024-01-30,Control of BWP inactivity timer for primary cell based on deactivation timer of secondary cell,1,H04B|H04L|H04W
+11888559,2024-01-30,Beamforming with multiple panels in a radio system,0,H04B|H04L
+11877200,2024-01-16,Session creation for wireless device,0,H04W
+11870689,2024-01-09,Cell site gateway,1,H04L|H04W
+11870611,2024-01-09,Uplink operations of multi-transmission reception points and panel,0,H04B|H04L|H04W
+11864186,2024-01-02,Cross carrier scheduling,1,H04L|H04W|Y02D
+11864023,2024-01-02,Triggering a buffer status report,1,H04W
+11856636,2023-12-26,Access information for node configuration,0,H04W
+11856558,2023-12-26,Sidelink feedback signal transmission,1,H04B|H04L|H04W
+11856470,2023-12-26,Registration request indicating failure of network,2,H04W
+11849343,2023-12-19,Measurement information feedback for wireless networks,0,H04W
+11848744,2023-12-19,Non-access stratum connection handling for wireless devices,2,H04B|H04W
+11844131,2023-12-12,Wireless backhaul link information via adaptation layer,1,H04B|H04L|H04W
+11838949,2023-12-05,Transport block transmission based on listen before talk,0,H04L|H04W
+11838896,2023-12-05,Resource reservation for sidelink communications,2,H04L|H04W
+11838875,2023-12-05,Power headroom reporting by wireless device,0,H04W
+11838874,2023-12-05,Power control for multiple panels in radio system,0,H04B|H04L|H04W
+11838551,2023-12-05,Adaptive block level bit-depth prediction,0,H04N
+11832341,2023-11-28,Group communication service request,0,H04W
+11832247,2023-11-28,Configuration release,1,H04W
+11831443,2023-11-28,Transmitting or dropping HARQ feedback based on transport block priority,0,H04L|H04W
+11825544,2023-11-21,Power control for small data transmission,0,H04W
+11825466,2023-11-21,Scheduling adaptation and power saving for multicast and broadcast services,1,H04W|Y02D
+11825335,2023-11-21,Always-on packet data unit session indication,1,H04L|H04M|H04W
+11824815,2023-11-21,Default common beam mechanism for multiple beam scenario,1,H04B|H04L
+11824810,2023-11-21,Restarting a deactivation timer of a secondary cell in a wireless network,0,H04L|H04W|Y02D
+11824807,2023-11-21,Default spatial filter determination,1,H04B|H04L|H04W
+11818784,2023-11-14,Beam management procedures in wireless networks,0,H04B|H04L|H04W
+11818733,2023-11-14,Downlink control channel skipping,1,H04B|H04L|H04W
+11818713,2023-11-14,Hybrid automatic repeat request feedback in radio systems,0,H04L|H04W
+11818686,2023-11-14,Power saving for paging message reception,1,H04W
+11818618,2023-11-14,Base station backhaul link information,0,H04W
+11818603,2023-11-14,Packet duplication,2,H04L|H04M|H04W
+11818600,2023-11-14,Radio link monitoring in control channel repetition,0,H04B|H04L|H04W
+11818384,2023-11-14,Affine intra block copy refinement,0,G06T|H04N
+11817960,2023-11-14,Group scheduling of multicast and broadcast services,2,H04L|H04W
+11812442,2023-11-07,Beam-based downlink monitoring,0,H04L|H04W
+11811706,2023-11-07,Bandwidth part inactivity timer,0,H04B|H04L|H04W|Y02D
+11800521,2023-10-24,Cell configuration,0,H04W
+11800505,2023-10-24,Configuration of listen-before-talk,0,H04L|H04W
+11800432,2023-10-24,Location reporting handling,0,H04W
+11800414,2023-10-24,Communication of cell configuration parameters of an unlicensed cell,0,H04L|H04W|Y02D
+11799616,2023-10-24,Bandwidth part management in a wireless system,0,H04B|H04L|H04W|Y02D
+11799596,2023-10-24,HARQ feedback of multicast and broadcast services,1,H04L|H04W
+11792745,2023-10-17,Power headroom report based on dynamic pathloss estimation,0,H04W
+11792743,2023-10-17,Transmit power priority based on cell types in wireless devices,0,H04L|H04W
+11792717,2023-10-17,Time window for radio link failure detection of an unlicensed cell,1,H04W
+11785668,2023-10-10,Group communication signaling overload mitigation,4,H04L|H04W
+11785632,2023-10-10,On demand system information for sidelink communications,2,H04B|H04L|H04W
+11785533,2023-10-10,Secondary cell activation,0,H04B|H04L|H04W
+11778601,2023-10-03,Ignoring grant in response to switching between bandwidth parts,0,H04L|H04W
+11778564,2023-10-03,Monitoring paging in inactive state,0,H04W|Y02D
+11778426,2023-10-03,Reliable transmission of multicast and broadcast services,2,H04L|H04W
+11777661,2023-10-03,URLLC HARQ processes,2,H04L|H04W
+11770860,2023-09-26,Performing listen-before-talk procedure during random access procedure,1,H04W
+11765780,2023-09-19,Handover based on one or more results of listen-before-talk processes,0,H04L|H04W
+11765695,2023-09-19,Selection window determination for sidelink inter-UE coordination,0,H04W
+11758543,2023-09-12,Sidelink feedback reporting in a wireless network,1,H04B|H04L|H04W
+11758529,2023-09-12,Frequency resource allocation for multicast and broadcast services,2,H04W
+11758499,2023-09-12,Session management for aerial system,2,H04L|H04W
+11758486,2023-09-12,Power control procedures for radio systems,2,H04L|H04W
+11751208,2023-09-05,Uplink control information in unlicensed bands in a wireless network,4,H04L|H04W
+11750328,2023-09-05,Power control parameter determination in uplink channel repetition,2,H04L|H04W
+11743965,2023-08-29,Uplink downlink session duplication,2,H04W
+11743942,2023-08-29,Listen before talk procedure and uplink switching,3,H04W
+11743919,2023-08-29,Pathloss reference signal determination in uplink channel repetition,2,H04L|H04W
+11743904,2023-08-29,Configured grant processes in a wireless device,2,H04L|H04W
+11743767,2023-08-29,Compression of ethernet packet header,0,H04L|H04W
+11743063,2023-08-29,Charging control for non-public network,2,H04L|H04M|H04W
+11737149,2023-08-22,Random access procedure based on contention resolution,1,H04W
+11737035,2023-08-22,Transmission power determination for transport block repetitions,0,H04L|H04W
+11729850,2023-08-15,Bandwidth part indication in radio link failure report,0,H04L|H04W
+11729800,2023-08-15,Control channel with multiple transmission reception points,0,H04L|H04W
+11729775,2023-08-15,Antenna panel activation/deactivation,0,H04W|Y02D
+11729712,2023-08-15,Network slice isolation information of at least one network slice for a wireless device,0,H04W
+11729679,2023-08-15,Timing advance indication for a beam during handover,0,H04W
+11729424,2023-08-15,Visual quality assessment-based affine transformation,0,H04N
+11728941,2023-08-15,Sidelink multi-antenna transmission and reception,0,H04B|H04L|H04W
+11723109,2023-08-08,Downlink data of small data transmission procedure,0,H04W
+11723071,2023-08-08,Channel occupancy time duration for a cell starting from a slot of a downlink control information,0,H04L|H04W
+11723038,2023-08-08,Sidelink downlink control information configuration,3,H04W
+11722922,2023-08-08,Pathloss measurement using multiple unlicensed cells,0,H04L|H04W
+11722195,2023-08-08,Deactivation of PUCCH secondary cell in PUCCH group,0,H04B|H04L|H04W|Y02D
+11716174,2023-08-01,HARQ acknowledgement codebook transmission in unlicensed band,1,H04L|H04W
+11711844,2023-07-25,Position of a channel occupancy time parameter in a downlink control channel,0,H04L|H04W
+11711740,2023-07-25,Handover execution notification of a wireless device,0,H04W
+11711195,2023-07-25,Delaying a radio resource control triggered bandwidth part switching,0,H04L|H04W
+11706721,2023-07-18,Power control of sidelink operation,1,H04W
+11706705,2023-07-18,Multimedia priority service,1,H04L|H04W
+11700549,2023-07-11,Policy control for multiple accesses,0,H04L|H04M|H04W
+11696329,2023-07-04,Contention window determination,3,H04L|H04W
+11696215,2023-07-04,Restricted local operator services for a wireless network,0,H04L|H04M|H04W
+11695603,2023-07-04,Starting a time alignment timer before receiving an initial timing advance command,0,H04L|H04W
+11690131,2023-06-27,Beam failure management for preconfigured resource in RRC inactive state,0,H04B|H04W
+11690130,2023-06-27,Network initiated release assistance information,0,H04W
+11690110,2023-06-27,Time sensitive network bridge configuration,2,H04L|H04W
+11690021,2023-06-27,Resource blocks and transmit power for uplink signals in a wireless device,0,H04L|H04W
+11690007,2023-06-27,Restricted service type for restricted local operator services in a wireless network,0,H04W
+11689988,2023-06-27,Configuration of secondary control channel group,0,H04B|H04L|H04W
+11689937,2023-06-27,Beam management for uplink transmission in wireless communication systems,1,H04B|H04L|H04W
+11683846,2023-06-20,Random access response reception for a two-step random access procedure,2,H04L|H04W
+11683764,2023-06-20,Transmitting with an uplink transmission power based on a pathloss reference identified by a pathloss index,0,H04L|H04W
+11683743,2023-06-20,Uplink carrier switching and confirmation transmission for licensed and unlicensed carriers,1,H04L|H04W
+11683191,2023-06-20,Mission critical video identifier for mission critical video policies,0,H04L|H04M|H04W
+11678302,2023-06-13,Sidelink sensing procedure,1,H04W
+11672019,2023-06-06,Random access procedure,0,H04W
+11671965,2023-06-06,Reservation of radio resources for preemption in a wireless network,2,H04B|H04L|H04W
+11671964,2023-06-06,Resource determination in control channel repetition,1,H04L|H04W
+11671227,2023-06-06,Multi-subframe uplink grant in a wireless device,0,H04L|H04W
+11665668,2023-05-30,Offset of international mobile subscriber identity,1,H04W
+11659433,2023-05-23,Modifying video call QoS based on a signal quality measurement,1,H04L|H04M|H04N|H04W
+11659097,2023-05-23,Charging policy information for a packet data unit session of a wireless device,0,H04L|H04M|H04W
+11658793,2023-05-23,Downlink control information activating a cell and a bandwidth part,0,H04L|H04W
+11653393,2023-05-16,Selecting a random access procedure type in a wireless system,1,H04L|H04W
+11653277,2023-05-16,Active bandwidth part switching based on beam failure recovery configuration parameters of another cell,1,H04B|H04L|H04W
+11653273,2023-05-16,Traffic pattern parameters in a handover procedure of a wireless network,0,B25B|H04W
+11653237,2023-05-16,Transmissions in control channel repetition,2,H04L|H04W
+11653178,2023-05-16,Positioning service level,4,H04W
+11653001,2023-05-16,Intra block copy,1,H04N
+11652526,2023-05-16,Channel state information feedback for multiple transmission reception points,1,H04B|H04L|H04W
+11646832,2023-05-09,HARQ feedback collision in unlicensed bands,7,H04L|H04W
+11641692,2023-05-02,Discontinuous reception for a two-step random access procedure,1,H04L|H04W|Y02D
+11641564,2023-05-02,Flexible zone-based registration area tracking in a wireless network,1,G01S|G06F|H04W
+11638324,2023-04-25,Uplink resource release,0,H04L|H04W
+11638301,2023-04-25,Listen before talk procedure and bandwidth part switching,2,H04L|H04W
+11632783,2023-04-18,Default downlink signaling in control channel repetition,1,H04B|H04L|H04W
+11632756,2023-04-18,Beam management and beam indication in a radio system,1,H04B|H04L|H04W
+11632705,2023-04-18,Device configuration for time sensitive network bridge,0,H04L|H04W
+11627632,2023-04-11,Small data transmission,2,H04W|Y02D
+11626948,2023-04-11,Antenna port indication based on maximum number of transmission layers,0,H04B|H04L|H04W
+11622344,2023-04-04,Wireless device assisted resource selection for sidelink,0,H04W
+11617164,2023-03-28,Uplink transmission in new radio unlicensed band,0,H04L|H04W
+11611387,2023-03-21,Restarting primary cell bandwidth part inactivity timer based on expiration of secondary cell deactivation timer,3,H04B|H04L|H04W
+11606796,2023-03-14,Zone management and hybrid automatic repeat request for sidelink in a wireless communication system,2,H04L|H04W
+11606692,2023-03-14,Determining an environmental parameter from sensor data of a plurality of automobiles using a cellular network,1,H04L|H04W
+11601928,2023-03-07,Beam management procedures in radio systems,0,H04B|H04L|H04W
+11601840,2023-03-07,Enhanced congestion control mechanism for sidelink,0,H04B|H04L|H04W
+11601252,2023-03-07,Bandwidth part operations,0,H04L|H04W
+11596022,2023-02-28,Subsequent data information for small data transmission,2,H04W
+11596000,2023-02-28,Configuration parameters for a random access channel of a base station,0,H04J|H04L|H04W
+11595979,2023-02-28,Downlink control information and bandwidth part switching in a wireless device,1,H04L|H04W
+11595906,2023-02-28,Dropping transmission of uplink signals of a radio access technology,3,H04L|H04W
+11588729,2023-02-21,Cell site gateway,2,H04L|H04W
+11588656,2023-02-21,Selecting a user plane function based on a device type received by a session management function,2,B60L|H04L|H04M|H04W|Y02T
+11582831,2023-02-14,Layer 1 reference signal received power reporting during a discontinuous reception operation,0,H04B|H04L|H04W|Y02D
+11582778,2023-02-14,Time duration of a delay between receiving a downlink data packet and user plane connection activation,1,H04W
+11582735,2023-02-14,Wireless device capability for a physical uplink shared channel processing period,1,H04L|H04W
+11581942,2023-02-14,Selecting a non-access stratum period based on a non-terrestrial access network type,3,H04B|H04W
+11576194,2023-02-07,Uplink resource configuration,1,H04L|H04W
+11576168,2023-02-07,Selecting one or more power control parameters for a downlink reference signal,2,H04L|H04W
+11576079,2023-02-07,Ethernet header compression in a wireless network,2,H04L|H04W
+11570844,2023-01-31,Release message in small data transmission procedure,2,H04W
+11570836,2023-01-31,Logical channel configuration,1,H04W
+11570739,2023-01-31,Uplink data indication,0,H04W
+11570708,2023-01-31,Deactivation timer management in a wireless device and wireless network,1,H04L|H04W|Y02D
+11570668,2023-01-31,Release of a second session of a wireless device by an access and mobility management function,2,H04W
+11570642,2023-01-31,Uplink transmissions for downlink control channel repetition,1,H04L|H04W
+11569951,2023-01-31,Radio link monitoring in a multi-TRP scenario,1,H04B|H04L|H04W
+11564281,2023-01-24,UE-assistance to support multiple systems based on frequency band combinations,1,H04W
+11564163,2023-01-24,Power saving and cell dormancy operation,0,H04W|Y02D
+11564133,2023-01-24,Second base station addition request for vehicle-to-everything (V2X),1,H04W
+11558773,2023-01-17,Sidelink scheduling request in a wireless network,1,H04W
+11546963,2023-01-03,Default rules in control channel repetition,0,H04L|H04W
+11546808,2023-01-03,Communication of vehicle-to-everything support of a cell between base stations,0,H04L|H04W
+11546115,2023-01-03,Resource selection based on sensing sidelinks by wireless device,1,H04L|H04W
+11546090,2023-01-03,Hybrid automatic repeat request process,1,H04L|H04W
+11539468,2022-12-27,Periodic resource activation and/or release,2,H04L|H04W
+11533773,2022-12-20,Early data transmission,0,H04W
+11533690,2022-12-20,Sending third power value for uplink transmission for adding as base station distributed unit,0,H04L|H04W
+11528765,2022-12-13,Cell configuration parameters,2,H04W
+11528739,2022-12-13,Timer parameter handling with sidelink downlink control information,1,H04W|Y02D
+11523403,2022-12-06,Retrieving one or more temporary mobile group identities during a connection resume procedure,0,H04L|H04W
+11516873,2022-11-29,Small data transmission,2,H04W
+11516869,2022-11-29,Radio link failure report indicating a bandwidth part,1,H04L|H04W
+11516806,2022-11-29,Resource pool configuration and hybrid automatic repeat request transmission,1,H04L|H04W
+11516750,2022-11-29,SRS transmit power priority based on a cell type in a wireless device,0,H04L|H04W
+11510127,2022-11-22,Network failure,1,H04W
+11510079,2022-11-22,Sidelink sensing measurement,0,H04B|H04L|H04W
+11509439,2022-11-22,Multi-subframe uplink grant in a wireless device,1,H04L|H04W
+11509426,2022-11-22,URLLC HARQ processes,0,H04L|H04W
+11503661,2022-11-15,Wireless backhaul link information,1,H04B|H04L|H04W
+11503648,2022-11-15,Listen-before-talk failure reporting between base stations,1,H04W
+11490334,2022-11-01,Power saving in a wireless communication system,5,H04L|H04W|Y02D
+11490291,2022-11-01,Handover for closed access group,2,H04W
+11490275,2022-11-01,Beam management and beam failure recovery in a radio system,3,H04B|H04L|H04W
+11483839,2022-10-25,Sidelink resource pool selection for urgent packet transmission,1,H04W
+11483802,2022-10-25,Hybrid automatic repeat request feedback in radio systems,1,H04L|H04W
+11483789,2022-10-25,Geographical zone-based registration area tracking,3,G01S|H04B|H04W
+11477837,2022-10-18,Beam failure recovery with multiple cells,0,H04B|H04W
+11477820,2022-10-18,Cell resource status information,2,H04B|H04L|H04W
+11477762,2022-10-18,Sidelink feedback signal transmission,0,H04B|H04L|H04W
+11477740,2022-10-18,Power headroom reporting by a wireless device,2,H04W
+11477693,2022-10-18,Establishing a session with a user plane function supporting uplink classifier functionality,0,H04L|H04W
+11470550,2022-10-11,Multiple-input multiple-output capability information based on cell groupings,0,H04B|H04L|H04W|Y02D
+11464025,2022-10-04,Sidelink signal repetition and preemption,1,H04W
+11463942,2022-10-04,Access information for node configuration,0,H04L|H04W
+11463863,2022-10-04,Network slice isolation information for session management function discovery,0,H04L|H04W
+11463291,2022-10-04,Downlink control information indicating a slot format of an active bandwidth part,0,H04L|H04W
+11452027,2022-09-20,Activation of a secondary cells of primary and secondary control channel groups,0,H04B|H04L|H04W
+11451344,2022-09-20,HARQ feedback,2,H04L|H04W
+11445458,2022-09-13,Validation of preconfigured resource in inactive state,0,H04B|H04L|H04W
+11438935,2022-09-06,Selecting an uplink carrier of a cell based on a power-threshold and speed of a wireless device,0,H04W
+11438931,2022-09-06,Selecting a random access procedure type in a wireless system,3,H04L|H04W
+11438894,2022-09-06,Ignoring a grant in response to switching between bandwidth parts,1,H04L|H04W
+11438876,2022-09-06,Sidelink multi-antenna transmission and reception,0,H04B|H04L|H04W
+11438810,2022-09-06,Communication of configuration parameters of radio resources of an unlicensed cell,0,H04L|H04W|Y02D
+11438775,2022-09-06,Radio link monitoring in new radio,2,H04B|H04L|H04W
+11438215,2022-09-06,Beam failure recovery procedure of a wireless device,0,H04B|H04L|H04W
+11438049,2022-09-06,Beam management for uplink transmission in a radio system,1,H04B|H04L|H04W
+11425706,2022-08-23,Dynamic transmission reception point group indication,3,H04B|H04L|H04W
+11425687,2022-08-23,Single cell multicast traffic channel scheduling in a wireless network,0,H04W
+11419156,2022-08-16,Uplink resource management in two-step random-access procedures,0,H04W
+11419154,2022-08-16,Random access process of an unlicensed cell in a wireless device,1,H04W
+11419096,2022-08-16,Resource retrieve procedure,0,H04W
+11412566,2022-08-09,Uplink downlink session duplication,3,H04W
+11412551,2022-08-09,Layer resetting in two-step random-access procedures,1,H04W
+11412550,2022-08-09,Random access response reception for a two-step random access procedure,3,H04L|H04W
+11412498,2022-08-09,Receiving uplink data starting at a starting position in a subframe and ending before an ending symbol,0,H04L|H04W
+11412492,2022-08-09,Sidelink feedback reporting in a wireless network,3,H04B|H04L|H04W
+11412478,2022-08-09,Wireless device paging by a wireless network,3,H04W
+11412456,2022-08-09,Scaling transmission power of uplink signals of a wireless device,2,H04W
+11412455,2022-08-09,Power control for sidelink feedback,0,H04B|H04L|H04W
+11412422,2022-08-09,Handover in unlicensed band,5,H04L|H04W
+11411809,2022-08-09,Handling sidelink scheduling request,1,H04L|H04W
+11405851,2022-08-02,Closed access group overload and congestion control,1,H04W
+11405812,2022-08-02,Measurement information feedback for groupcast communication,1,H04W
+11405166,2022-08-02,Bandwidth part management in a wireless system,0,H04B|H04L|H04W|Y02D
+11399393,2022-07-26,Random access backoff indicator,2,H04W
+11399363,2022-07-26,Radio resource mapping of a feedback channel,1,H04L|H04W
+11399304,2022-07-26,Packet duplication by core network,1,H04L|H04M|H04W
+11398930,2022-07-26,Uplink operations of multi-transmission reception points and panel,2,H04B|H04L|H04W
+11395303,2022-07-19,Transmission configuration indication state partitioning in multi-beam scenarios,4,H04L|H04W
+11395173,2022-07-19,First and second unlicensed cells jointly serving as reference cells,0,H04L|H04W
+11388723,2022-07-12,Uplink transmission in a wireless communication system,3,H04W
+11387957,2022-07-12,Antenna port indication for sidelink,1,H04L|H04W
+11387879,2022-07-12,PUCCH secondary cell deactivation in a wireless device,0,H04B|H04L|H04W|Y02D
+11368937,2022-06-21,Paging time adjustment in a wireless network,2,H04W
+11368922,2022-06-21,Power control for multiple panels in a radio system,0,H04B|H04L|H04W
+11368885,2022-06-21,Communicating a group-radio network temporary identifier during a handover procedure,0,H04W
+11363627,2022-06-14,Multiplexing and/or prioritization of uplink signals,1,H04L|H04W
+11363625,2022-06-14,Bandwidth part operation in new radio,0,H04L|H04W|Y02D
+11363480,2022-06-14,Conditional radio resource management measurements,4,H04L|H04W
+11362727,2022-06-14,Restarting a bandwidth part inactivity timer of a wireless device,0,H04B|H04L|H04W
+11356981,2022-06-07,Resource reservation for sidelink communications,4,H04L|H04W
+11356956,2022-06-07,Uplink power control in a wireless device,1,H04W
+11356229,2022-06-07,Bandwidth part inactivity timer,2,H04B|H04L|H04W|Y02D
+11350478,2022-05-31,Resource allocation based on listen-before-talk priority,0,H04L|H04W
+11349624,2022-05-31,Deactivation timer for a secondary cell with a control channel,0,H04L|H04W
+11343844,2022-05-24,Resource conflict,1,H04B|H04W
+11343737,2022-05-24,Base station backhaul link information,3,H04W
+11343653,2022-05-24,Session establishment to join a group communication,3,H04W
+11337164,2022-05-17,Power control parameter set and a pathloss reference signal for a wireless device,1,H04B|H04W
+11330667,2022-05-10,Group communication signaling overload mitigation,3,H04L|H04W
+11330648,2022-05-10,Charging aggregation control for network slices,0,H04L|H04M|H04W
+11330504,2022-05-10,Restricted local operator services for a wireless network,0,H04L|H04M|H04W
+11330456,2022-05-10,Radio link monitoring in power saving mode,1,H04L|H04W|Y02D
+11330443,2022-05-10,HARQ feedback for configured grant,4,H04B|H04L|H04W
+11323932,2022-05-03,Handover execution notification of a wireless device,0,H04W
+11323277,2022-05-03,Mission critical video identifier for mission critical video policies,0,H04L|H04M|H04W
+11316619,2022-04-26,HARQ feedback transmission,0,H04L|H04W
+11310723,2022-04-19,Bandwidth part and uplink carrier switching,1,H04L|H04W
+11304258,2022-04-12,Power saving mechanism,0,H04L|H04W|Y02D
+11304168,2022-04-12,Random access preambles using transmit beams of a base station,2,H04B|H04W
+11304111,2022-04-12,Selecting a network gateway based on a number of bearers supported by the network gateway,0,H04W
+11304092,2022-04-12,Session packet duplication control,8,H04B|H04W
+11303345,2022-04-12,Beam failure recovery procedure in carrier aggregation,0,H04B|H04L|H04W
+11297677,2022-04-05,Discontinuous reception,1,H04L|H04W|Y02D
+11297550,2022-04-05,Switching an uplink bandwidth part for a beam failure recovery of a wireless device,1,H04B|H04L|H04W
+11291048,2022-03-29,Listen before talk,2,H04L|H04W
+11291018,2022-03-29,Allocating resources of uplink grants to a logical channel,0,H04W
+11290226,2022-03-29,Transmission scheme for multiple transmission reception points in a radio system,2,H04L|H04W
+11284451,2022-03-22,Two-step random-access procedure in unlicensed bands,2,H04W
+11284431,2022-03-22,Downlink reception in multiple transmission and reception points,1,H04L|H04W
+11284400,2022-03-22,Random access response of an uplink bandwidth part of a cell,3,H04B|H04L|H04W
+11284352,2022-03-22,Mobile initiated only mode,3,H04W|Y02D
+11272540,2022-03-08,Channel access and uplink switching,3,H04W
+11272539,2022-03-08,Channel access and bandwidth part switching,5,H04L|H04W
+11272445,2022-03-08,Power state transition in the presence of uplink traffic,0,H04L|H04W|Y02D
+11265958,2022-03-01,Access information for node configuration,0,H04W
+11265910,2022-03-01,Configured grant for unlicensed cells,2,H04L|H04W
+11259331,2022-02-22,RACH type switching,5,H04W
+11259293,2022-02-22,Two-stage preamble transmission,0,H04L|H04W
+11259256,2022-02-22,Physical channel processing capability adaptation,2,H04L|H04W|Y02D
+11252765,2022-02-15,Reception of split random access response,3,H04W
+11252754,2022-02-15,Configured grant for unlicensed cells,5,H04L|H04W
+11252694,2022-02-15,Core paging handling,1,H04W
+11246141,2022-02-08,Feedback timing,2,H04L|H04W|Y02D
+11245539,2022-02-08,Charging control for non-public network,0,H04L|H04M|H04W
+11245510,2022-02-08,Beam failure recovery procedure for bandwidth parts,1,H04B|H04L|H04W
+11245460,2022-02-08,Switching bandwidth parts based on beam failure recovery configuration,2,H04B|H04L|H04W
+11245453,2022-02-08,Selecting a CSI-RS for a random access procedure of a cell,0,H04B|H04J|H04W
+11239956,2022-02-01,Timers for control channel monitoring,2,H04L|H04W
+11234199,2022-01-25,Power control procedure in a wireless network,1,H04L|H04W
+11233606,2022-01-25,HARQ retransmission and control channel monitoring,3,H04L|H04W
+11228990,2022-01-18,Random access power control,13,H04B|H04W
+11224093,2022-01-11,Network initiated UPF sessions transfer,4,H04W
+11211990,2021-12-28,Beam failure recovery in multi-TRP scenarios,3,H04B|H04L|H04W
+11206710,2021-12-21,Network initiated release assistance indication,0,H04W
+11206569,2021-12-21,Modifying video call QoS based on a signal quality measurement,0,H04L|H04M|H04N|H04W
+11202315,2021-12-14,Dynamic PRACH scheduling using slot formats,2,H04W
+11202223,2021-12-14,Restrict services and policy control for always-on PDU session,2,H04L|H04M|H04W
+11197273,2021-12-07,Cell information for access management,2,H04W
+11197239,2021-12-07,Restricted service type for restricted local operator services in a wireless network,0,H04W
+11197232,2021-12-07,Location reporting handling,0,H04W
+11191071,2021-11-30,Monitoring downlink control information supporting multiple services,5,H04L|H04W
+11186274,2021-11-30,Floor request based on an organization identifier among wireless devices,1,B60W|G01S|H04L|H04W
+11184894,2021-11-23,Configuration of listen before talk subframes for a wireless device,1,H04L|H04W
+11178725,2021-11-16,Multi access packet/protocol data unit session,9,H04W
+11178606,2021-11-16,Changing a secondary base station based on having a backhaul interface,0,H04W
+11178592,2021-11-16,Device configuration for time sensitive network bridge,1,H04L|H04W
+11172427,2021-11-09,Secondary control channel group configuration in a wireless device,0,H04B|H04L|H04W
+11172417,2021-11-09,Multiple access configuration information,1,H04W
+11166325,2021-11-02,Control plane based configuration for time sensitive networking,0,H04L|H04W
+11166269,2021-11-02,Interaction between power saving adaptation and bandwidth part adaptation,1,H04L|H04W|Y02D
+11166234,2021-11-02,Uplink transmission in power saving mode,4,H04L|H04W|Y02D
+11160108,2021-10-26,Channel access for unlicensed carriers in a radio system,3,H04L|H04W
+11160099,2021-10-26,Uplink transmission skipping,0,H04W
+11159956,2021-10-26,Uplink beam management in wireless communication system,2,H04B|H04L|H04W
+11147064,2021-10-12,Resource selection for data multiplexing,1,H04L|H04W
+11146986,2021-10-12,AF initiated always-on PDU session,0,H04L|H04M|H04W
+11140722,2021-10-05,Pathloss measurement in multiple cells,1,H04L|H04W
+11134108,2021-09-28,Determining an access network for an IMS session based on T-ADS information,0,H04L
+11129215,2021-09-21,Location based selection of localized proxy application server,2,H04L|H04W
+11122470,2021-09-14,Network slice information for handover procedure,3,H04W
+11116032,2021-09-07,Power saving mechanism,3,H04L|H04W|Y02D
+11115892,2021-09-07,Beam failure information for radio configuration,0,H04B|H04W
+11115115,2021-09-07,Non-access stratum connection handling,3,H04B|H04W
+11109418,2021-08-31,Multiple preamble transmission for random access in a wireless device and wireless network,1,H04B|H04W
+11109304,2021-08-31,Radio link failure detection of an unlicensed cell by a wireless device,2,H04W
+11096126,2021-08-17,Transmitting with an uplink transmission power based on a pathloss reference identified by a pathloss index,1,H04L|H04W
+11095419,2021-08-17,Simultaneous bandwidth parts switching,0,H04L|H04W
+11089585,2021-08-10,Transmission structure and access for a radio system,3,H04L|H04W
+11088881,2021-08-10,Starting time alignment timer in response to an RRC message,0,H04L|H04W
+11083018,2021-08-03,Transmission structure with beamforming for a radio system,3,H04L|H04W
+11076360,2021-07-27,Uplink beam management in a wireless network,1,H04B|H04L|H04W
+11071157,2021-07-20,Adding a base station for dual connectivity of a wireless device,0,H04L|H04W
+11071066,2021-07-20,Dropping a configured transmission based on transmission power and feedback channel priority,4,H04W
+11070627,2021-07-20,Discovery of a user plane function that supports cellular IoT optimization,2,H04L|H04W
+11070328,2021-07-20,Bandwidth parts operation in multiple active bandwidth parts,0,H04L|H04W
+11039018,2021-06-15,Charging control with SMF and PCF,0,H04L|H04M|H04W
+11026171,2021-06-01,Two stage grant for a secondary cell in a wireless device,1,H04L|H04W|Y02D
+11025331,2021-06-01,Timing in beam failure recovery procedure,1,H04B|H04L|H04W
+11019668,2021-05-25,PDU session establishment for cellular IoT,2,H04W
+11019659,2021-05-25,Radio link monitoring for unlicensed carriers in a radio system,3,H04B|H04L|H04W
+11019652,2021-05-25,Parallel scheduling request process management,0,H04W
+11019518,2021-05-25,Random access and bandwidth part operation,8,H04L|H04W
+11013054,2021-05-18,UE-assistance to support multiple systems based on frequency band combinations,3,H04W
+11013028,2021-05-18,Processing uplink grants received during time durations in a wireless device,1,H04W
+11006445,2021-05-11,Confirmation mechanism for CSI report activation and deactivation,6,H04L|H04W
+11006316,2021-05-11,Header compression for ethernet frame,4,H04L|H04W
+11006305,2021-05-11,Physical and MAC layer processes in a wireless device,1,H04L|H04W
+11005633,2021-05-11,Secondary cell deactivation timer management in a wireless network,0,H04L|H04W|Y02D
+10999447,2021-05-04,Charging control in roaming scenario,3,H04L|H04M|H04W
+10993220,2021-04-27,Signaling for SRS and PUSCH transmission in a last symbol,1,H04L|H04W
+10986589,2021-04-20,Dropping or scaling SRS signals based on frequency bands,1,H04L|H04W
+10980058,2021-04-13,Cell and channel access for wide bandwidth,4,H04L|H04W
+10979928,2021-04-13,Primary PUCCH TPC index and a secondary PUCCH TPC index in a wireless network,2,H04L|H04W|Y02D
+10973040,2021-04-06,Data notification during a service request procedure,1,H04W
+10966191,2021-03-30,Power control for mobility handover in a radio system,4,H04L|H04W
+10966158,2021-03-30,Resource blocks and transmit power for uplink signals in a wireless device,2,H04L|H04W
+10959142,2021-03-23,Extended buffering management,0,H04W

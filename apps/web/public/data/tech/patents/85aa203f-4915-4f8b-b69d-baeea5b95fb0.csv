@@ -1,0 +1,500 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12431017,2025-09-30,Electrical data processing system for monitoring or affecting movement of a vehicle using a traffic device,0,B60W|G08B|G08G|H04W
+12424032,2025-09-23,Processing system for dynamic collision verification and sensor selection,0,G06N|G07C|H04W
+12423214,2025-09-23,Methods and systems for an intelligent technical debt helper bot,0,G06F|G06N|G06Q
+12417473,2025-09-16,Content output systems using vehicle-based data,0,E01F|G06F|G06Q|G07C|G08B|G08G|G09G
+12417165,2025-09-16,Systems and methods for automated code validation,0,G06F|G06V
+12412437,2025-09-09,Vehicle mode determination based on edge-computing,0,G06N|G07C|G08G|H04W
+12411815,2025-09-09,Central repository system with customizable subset schema design and simplification layer,0,G06F|G06Q
+12411656,2025-09-09,Intelligent voice response systems and methods,0,B60Q|B60W|G06F|G06N
+12405609,2025-09-02,Safe hand-off between human driver and autonomous driving system,0,B60W|G05D|G06N
+12393913,2025-08-19,Onboarding platform for performing dynamic mitigation analysis,0,G06F|G06Q|H04N
+12393793,2025-08-19,Systems and methods for user classification with respect to a chatbot,0,G06F|H04L
+12386943,2025-08-12,Systems and methods for detecting digital security breaches of connected assets based on location tracking and asset profiling,0,G06F|G06Q|H04L|H04W
+12382250,2025-08-05,Multi-computer processing system for dynamically executing response actions based on movement data,0,G06F|G06Q|G06V|H04L|H04W
+12373893,2025-07-29,Chatbot system and machine learning modules for query analysis and interface generation,0,G06F|G06N|G06Q|H04L
+12367496,2025-07-22,System and method for accumulation and maintenance of money in a vehicle maintenance savings account,0,G06Q|G07F
+12361494,2025-07-15,Subjective route risk mapping and mitigation,0,G01C|G06Q
+12360739,2025-07-15,Processing system having a machine learning engine for providing an output via a digital assistant system,0,G06F|G06N|G06Q|G10L|H04W
+12359936,2025-07-15,Automated vehicle control and guidance based on real-time blind corner navigational analysis,0,G01C|G06F|G06V
+12354042,2025-07-08,Asset risk profiling for enterprise resources,0,G06Q
+12354032,2025-07-08,Vehicle sharing optimization,0,G01C|G01W|G06N|G06Q|G08G
+12352598,2025-07-08,Personalized driving risk modeling and estimation system and methods,0,G01C|G06Q
+12351195,2025-07-08,"Data processing system for guidance, control, and testing autonomous vehicle features and driver response",0,B60W|G01M|G06Q
+12346973,2025-07-01,Driver identity detection and alerts,0,G01C|G06Q|H04W
+12340432,2025-06-24,System for determining type of property inspection based on captured images,0,G06Q|G06T|H04N
+12340421,2025-06-24,Automated damage assessment and claims processing,0,G06Q|H04N
+12340346,2025-06-24,Consumer engagement and management platform using machine learning for intent driven orchestration,0,G06F|G06N|G06Q
+12340280,2025-06-24,Systems and methods for reducing false positive error rates using imbalanced data models,0,G06N
+12339131,2025-06-24,Using context based machine learning for generation of customized driving outputs,0,B60W|G01C|G06F|G06N|G06Q
+12339123,2025-06-24,Exit routes,0,G01C|G06V|H04W
+12335812,2025-06-17,Detecting handling of a device in a vehicle,0,H04W
+12333581,2025-06-17,Processing system having a machine learning engine for providing a surface dimension output,0,G06N|G06Q|G06T|G06V
+12330661,2025-06-17,Shared mobility service passenger matching based on passenger attributes,0,B60W|G01C|G05D|G06Q|G08G|H04W
+12323879,2025-06-03,Detection of mobile device location within vehicle using vehicle based data and mobile device based data,0,G01C|G01S|H04W
+12322219,2025-06-03,System generated damage analysis using scene templates,0,G06F|G06N|G06Q|G07C
+12315018,2025-05-27,Configuration and transfer of image data using a mobile device,0,G06Q|H04N
+12315014,2025-05-27,Reward system related to a vehicle-to-vehicle communication system,0,G05D|G06Q|G07F|G08G|H04L|H04W
+12315013,2025-05-27,Determining a property of an insurance policy based on the autonomous features of a vehicle,0,G06Q
+12307835,2025-05-20,Vehicle diagnostics,0,B60S|G06Q|G07C
+12305994,2025-05-20,Systems and methods for classifying vehicle trips,0,G01C|G06N|G06Q|G07C|H04W
+12300043,2025-05-13,Roadside assistance detection,0,G01C|G01S|G06N|G06Q|G07C|G08G
+12299719,2025-05-13,Processing system having a machine learning engine for providing a surface dimension output,0,G06N|G06Q|G06T|G06V
+12299707,2025-05-13,Vehicle telematics system to promote good driving behavior using positive feedback and award points,0,G06Q
+12293416,2025-05-06,Communication of insurance claim data,0,G06Q
+12282965,2025-04-22,Personalized insurance systems,0,G01C|G06Q|G08G
+12282964,2025-04-22,Hub for automated recovery after a critical event in shared mobility services,0,G06F|G06N|G06Q|H04N
+12282951,2025-04-22,"Apparatuses, systems, and methods for customizing product packages",0,G06Q
+12282327,2025-04-22,Data processing system with machine learning engine for providing driving data analysis and vehicle control functions,0,B60W|G05D|G06N|G08G
+12269424,2025-04-08,Unauthorized access detection,0,B60R|G06N|G06V|H04W
+12266017,2025-04-01,Accident detection and recovery,0,G01P|G06Q|G16H|H04W
+12265633,2025-04-01,Context based privacy risk footprint and incident protection,0,G06F|G06N
+12264927,2025-04-01,Processing system having a machine learning engine for providing a common trip format (CTF) output,0,G01C|G06Q|G07C|H04W
+12253369,2025-03-18,Multi-stop route selection system,0,G01C|H04L|H04W
+12248991,2025-03-11,Home event detection and processing,0,G06Q
+12246750,2025-03-11,Vehicle control systems,0,B60Q|B60R|B60T|B60W|G05B|G06N|G06Q
+12246730,2025-03-11,"Utilizing vehicle telematics to detect, evaluate, and respond to driving behaviors",0,B60W|G06Q|G07C
+12243091,2025-03-04,Synchronized interactive voice response system and graphical user interface for automated roadside service,0,G06F|G06Q|G06T|G10L
+12240468,2025-03-04,Driving analysis using vehicle-to-vehicle communication,0,B60W|G06Q|G08G|G09B
+12236802,2025-02-25,Systems and methods for delivering vehicle-specific educational content for a critical event,0,G06F|G06Q|G07C|G09B|H04L
+12233803,2025-02-25,Event-based connected vehicle control and response systems,0,B60R|G05D|G06N|G06Q|G07C|G08G|H04L
+12223551,2025-02-11,Communication of insurance claim data,0,G06Q
+12218921,2025-02-04,Cryptographically protecting data transferred between spatially distributed computing devices using an intermediary database,0,G07C|H04L
+12217557,2025-02-04,Dynamic processing system for roadside service control and output generation,0,G06Q|G07C|G08G
+12217278,2025-02-04,Lead management platform for targeted output generation,0,G06Q
+12212587,2025-01-28,Digital safety and account discovery,0,G06F|H04L
+12210955,2025-01-28,Adaptable on-deployment learning platform for driver analysis output generation,0,G06N|H04L|H04W
+12205461,2025-01-21,Generating and transmitting parking instructions for autonomous and non- autonomous vehicles,0,G05D|G06N|G08G
+12205063,2025-01-21,Intelligent prediction systems and methods for conversational outcome modeling frameworks for sales predictions,0,G06F|G06Q|G10L
+12195037,2025-01-14,Driver behavior tracking and prediction,0,B60W|G05D|G06F|G06N|G06Q|G07C|G08G|G09B
+12192273,2025-01-07,Systems and methods for automated application deployment,0,G06F|H04L
+12190026,2025-01-07,Multi-platform model processing and execution management engine,1,G06F
+12182881,2024-12-31,User devices in claims damage estimation,0,G06Q
+12182879,2024-12-31,Generating insurance quotes,0,G06Q
+12182504,2024-12-31,Dynamic fillable form rendering engine utilizing compilationless modifications,0,G06F|G06N
+12182290,2024-12-31,Universal access layer for accessing heterogeneous data stores,0,G06F
+12179775,2024-12-31,Systems and methods of driving behavior assessment using telematics data,0,B60W|G06Q|G07C|H04W
+12175541,2024-12-24,Reward system related to a vehicle-to-vehicle communication system,0,G06Q
+12175540,2024-12-24,Processing insured items holistically with mobile damage assessment and claims processing,0,G06Q|H04N
+12175538,2024-12-24,Early notification of non-autonomous area,0,B60W|G05D|G06Q
+12175524,2024-12-24,Onboarding platform for performing dynamic mitigation analysis,0,G06F|G06Q
+12169847,2024-12-17,Data processing system with machine learning engine to provide output generation functions,0,A61B|G06F|G06N|G06Q|G16H|H04W
+12165217,2024-12-10,Determining body characteristics based on images,0,G06Q|G06V|H04N
+12165210,2024-12-10,Distributed processing to provide transparency in rate determination,0,G06Q
+12165086,2024-12-10,Retail deployment model,0,G06Q
+12155676,2024-11-26,Consumer threat intelligence service,0,G06F|H04L
+12154435,2024-11-26,Data processing system with machine learning engine to provide roadside assistance functions,0,G06F|G06N|G06Q|G08G|H04L|H04W
+12154178,2024-11-26,Polynomial risk maps,0,G01C|G06Q
+12154140,2024-11-26,Data processing system with machine learning engine to provide output generating functions,0,G06F|G06N|G06Q|G06V|G16H
+12154119,2024-11-26,Assistance on the go,0,G06F|G06Q|G07C|G07F|G08G|H04L|H04M|H04W
+12153190,2024-11-26,Intelligent structural protection systems and methods,0,G01S|G01W|G05B|G06F|G06N|G06Q
+12150028,2024-11-19,Generating and sending automated support communications using location detection and keyword identification,0,G07C|G08G|G10L|H04M|H04W
+12150009,2024-11-19,Detecting device movement and/or device usage within a vehicle,0,G01C|G06Q|H04M|H04W
+12149528,2024-11-19,Authenticating devices via tokens and verification computing devices,0,G06F|H04L|H04W
+12146756,2024-11-19,Real time risk assessment and operational changes with semi-autonomous vehicles,0,B60W|G01C|G05D|G06Q
+12141829,2024-11-12,Home maintenance monitoring and rewards,0,G06Q
+12141762,2024-11-12,Analyzing images and videos of damaged vehicles to determine damaged vehicle parts and vehicle asymmetries,0,G06Q|G06T|G06V
+12135804,2024-11-05,Privacy score,0,G06F|G06Q
+12135803,2024-11-05,End-to-end privacy ecosystem,0,G06F
+12131240,2024-10-29,Data processing system with machine learning engine to provide output generating functions,0,G06F|G06N|G06Q|G06V|G16H
+12131153,2024-10-29,Systems and methods for automating and monitoring software development operations,0,G06F
+12126609,2024-10-22,Cryptographically transmitting and storing identity tokens and/or activity data among spatially distributed computing devices,0,H04L|H04W
+12125388,2024-10-22,Roadside assistance program,0,G06Q|G07C|G08G|H04L|H04W
+12125110,2024-10-22,Virtual collaboration,0,G06Q
+12125107,2024-10-22,Insurance based on driving data,0,G06Q
+12124604,2024-10-22,Unsubscribe and delete automation,0,G06F|G06Q|H04L|H04W
+12118624,2024-10-15,Social journey,0,G01C|G01S|G06Q
+12106462,2024-10-01,Computer vision methods for loss prediction and asset evaluation based on aerial images,0,G06N|G06Q|G06T|G06V
+12100055,2024-09-24,Determining an event,0,G06F|G06Q|G08B
+12094346,2024-09-17,Shared mobility simulation and prediction system,0,G06Q|G08G
+12086888,2024-09-10,Retail deployment model,0,G06F|G06Q
+12086885,2024-09-10,Generation and presentation of media to users,0,G06Q
+12086884,2024-09-10,Insurance system for analysis of autonomous driving,0,G06Q|G07C
+12086724,2024-09-10,Determining driver and vehicle characteristics based on an edge-computer device,1,B60K|B60W|G06N|G07C
+12079878,2024-09-03,Feedback loop in mobile damage assessment and claims processing,0,G06Q
+12079877,2024-09-03,Processing insured items holistically with mobile damage assessment and claims processing,0,G06Q|G06V
+12079876,2024-09-03,Device sensing,0,G06Q
+12079851,2024-09-03,Onboarding platform for performing dynamic mitigation analysis,1,G06F|G06N|G06Q|G16H
+12072199,2024-08-27,Data processing system communicating with a map data processing system to generate a display of one or more segments of one or more vehicle routes,0,G01C|G06F|G06Q|G06T|G08G|H04W
+12072197,2024-08-27,System and method for identifying trip similarities,0,G01C|G06F
+12071139,2024-08-27,Driver passenger detection using ultrasonic sensing,0,B60W|G06F|G06N|G06V|H04W
+12067133,2024-08-20,End-to-end privacy ecosystem,0,G06F
+12067128,2024-08-20,Dynamic system profiling based on data extraction,0,G06F
+12056965,2024-08-06,Vehicle diagnostic platform using augmented reality for damage assessment,1,G06F|G06N|G06T|G06V|G07C
+12056958,2024-08-06,Toll payment equipment,0,G06Q|G07B
+12056755,2024-08-06,Geotagging location data,0,G06F|G06Q|G06T|G06V|H04W
+12056663,2024-08-06,Systems and methods for obtaining data annotations,0,G06F|G06Q
+12056170,2024-08-06,Processing system having machine learning engine for providing customized user functions,0,A61B|G06F|G06N|G06Q|G16H
+12054168,2024-08-06,Logical configuration of vehicle control systems based on driver profiles,0,B60W|G06Q
+12052221,2024-07-30,Embedded virtual private network,0,H04L
+12051115,2024-07-30,Multicomputer processing of user data with centralized event control,0,B60R|G06Q|G07C|H04L|H04W
+12051114,2024-07-30,Computer vision methods for loss prediction and asset evaluation based on aerial images,0,G06F|G06Q|G06V
+12047428,2024-07-23,Virtual carpooling,0,G01C|G06F|G06Q|H04L
+12045900,2024-07-23,Home assessment,0,G06F|G06Q
+12045892,2024-07-23,Autonomous vehicle control systems with collision detection and response capabilities,0,B60R|B60W|G05D|G06Q|G08G
+12045890,2024-07-23,Virtual assistant for recommendations on whether to arbitrate claims,0,G06Q
+12044539,2024-07-23,Data processing system communicating with a map data processing system to determine or alter a navigation path based on one or more road segments,0,G01C|G06F|G06Q|G06T|G08G|H04W
+12039552,2024-07-16,Commercial insurance growth data for agents,0,G06Q
+12038294,2024-07-16,Machine learning platform for dynamic device and sensor quality evaluation,0,G01C|G01S|G06N|G06Q|G07C|H04W
+12036979,2024-07-16,Dynamic distance estimation output generation based on monocular video,0,B60R|B60W|G05B|G05D|G06N|G06V
+12035072,2024-07-09,Bilateral communication in a login-free environment,0,G06Q|G06T|H04L|H04M|H04N
+12034816,2024-07-09,Digital footprint visual navigation,0,G06F|G06Q|H04L
+12034678,2024-07-09,Processing system performing dynamic training response output generation control,0,G06F|G06N|G06Q|H04L
+12033217,2024-07-09,Electronic exchange of insurance information,0,G06Q
+12033091,2024-07-09,Matching drivers with shared vehicles to optimize shared vehicle services,1,B60W|G06Q
+12028358,2024-07-02,Digital safety and account discovery,0,G06F|H04L
+12026960,2024-07-02,Dynamic driving metric output generation using computer vision methods,0,G06T|G06V|G07C|H04N
+12020519,2024-06-25,Telematics authentication,0,G06F|G07C
+12020327,2024-06-25,Virtual simulation for insurance,1,G06F|G06Q|G09B
+12020324,2024-06-25,Dynamic usage-based policies,0,G06Q
+12020207,2024-06-25,Canonical model for product development,0,G06F|G06Q|Y10S
+12014422,2024-06-18,Instant insurance,2,G06Q
+12010182,2024-06-11,System and methods for application programming interface validation and testing,0,G06F|H04L
+12010123,2024-06-11,Cyber-security presence monitoring and assessment,0,G06F|H04L
+12002308,2024-06-04,Driving event data analysis,0,G06F|G07C
+12002103,2024-06-04,Vehicle-to-vehicle incident information collection,0,G06Q|G07C|G08G
+12002068,2024-06-04,Data processing system with machine learning engine to provide output generation functions,0,A61B|G06F|G06N|G06Q|G16H|H04W
+12001931,2024-06-04,Simultaneous hyper parameter and feature selection optimization using evolutionary boosting machines,0,G06F|G06N
+11995726,2024-05-28,Home device sensing,0,G06Q
+11994860,2024-05-28,Processing system for evaluating autonomous vehicle control systems through continuous learning,0,B60W|G05D|G06N|G07C
+11994403,2024-05-28,Systems and methods of connected driving based on dynamic contextual factors,0,B60W|G01C|G06N|G08G
+11991311,2024-05-21,Bilateral communication in a login-free environment,0,G06Q|H04L|H04M|H04N
+11989785,2024-05-21,Automatic exchange of information in response to a collision event,0,G06Q|G07C
+11987235,2024-05-21,Subscription-based and event-based connected vehicle control and response systems,0,B60W|G06N|G06Q|G07C|G08G|H04L
+11984011,2024-05-14,Systems and methods for disturbance detection and identification based on disturbance analysis,0,G06N|G08B
+11976930,2024-05-07,Altering autonomous or semi-autonomous vehicle operation based on route traversal values,0,B60W|G01C|G01S|G06Q
+11972688,2024-04-30,Roadside assistance system,0,G06F|G06Q|G08G
+11971804,2024-04-30,Methods and systems for an intelligent technical debt helper bot,1,G06F|G06N|G06Q
+11963071,2024-04-16,Text message control system,0,H04W
+11961339,2024-04-16,Collision analysis platform using machine learning to reduce generation of false collision outputs,0,B60R|G06N|G07C|G08G
+11954632,2024-04-09,Agency business planning tool,0,G06Q
+11947872,2024-04-02,"Natural language processing platform for automated event analysis, translation, and transcription verification",8,G06F|G06Q|G10L
+11946748,2024-04-02,Automated vehicle control and guidance based on real-time blind corner navigational analysis,0,G01C|G06F|G06V
+11945448,2024-04-02,Vehicle telematics based driving assessment,0,B60W|G06Q|G07C
+11941704,2024-03-26,Risk behavior detection methods based on tracking handset movement within a moving vehicle,0,B60W|G01S|G06Q|G07C|G08G|H04W
+11940790,2024-03-26,Safe hand-off between human driver and autonomous driving system,0,B60W|G05D|G06N
+11935219,2024-03-19,Systems and methods for automated property damage estimations and detection based on image analysis and neural network training,2,G06F|G06N|G06Q|G06T|G06V
+11935130,2024-03-19,Image-based processing for products,0,G01S|G06Q|G06T|G06V|H04N
+11935126,2024-03-19,Retail location services,0,G06Q
+11933624,2024-03-19,Distributed data processing systems for processing remotely captured sensor data,0,G01C|G01P|G05D|G06F|G06Q|G07C|G08G|H04L|H04W
+11928736,2024-03-12,System and network for tiered optimization,0,G06F|G06Q
+11928621,2024-03-12,Controlling vehicles using contextual driver and/or rider data based on automatic passenger detection and mobility status,0,G06Q|G10L
+11924191,2024-03-05,Safe logon,0,G06Q|H04L
+11922548,2024-03-05,Accident re-creation using augmented reality,0,G06F|G06Q|G06T|G06V|H04N
+11922513,2024-03-05,Life insurance clearinghouse,0,G06Q
+11915535,2024-02-27,Vehicle mode detection systems,0,G01C|G06Q|G07C
+11915321,2024-02-27,Configuration and transfer of image data using a mobile device,0,G06Q|H04N
+11915318,2024-02-27,Controlling autonomous vehicles to optimize traffic characteristics,0,G06Q|G08G
+11900471,2024-02-13,System for monitoring and using data indicative of driver characteristics based on sensors,0,G01C|G06Q
+11898865,2024-02-13,Using context based machine learning for generation of customized driving outputs,2,B60W|G01C|G06F|G06N|G06Q
+11898857,2024-02-13,Systems and methods for classifying vehicle trips,0,G01C|G06N|G06Q|G07C|H04W
+11895131,2024-02-06,Digital safety and account discovery,0,G06F|H04L
+11893387,2024-02-06,Systems and methods for software quality prediction,0,G06F|G06N|G06Q
+11891071,2024-02-06,Vehicle to vehicle telematics,0,B60W|G07C|G08G|H04L
+11891070,2024-02-06,Motor vehicle operating data collection and analysis,0,B60W|G06F|G06Q|G07C|G08B|G08G|G09B
+11887195,2024-01-30,Catastrophe resource system,0,G06Q|H04L|H04W
+11880886,2024-01-23,Parts valuation and use,0,G06Q|Y02W|Y10T
+11878700,2024-01-23,"Utilizing vehicle telematics to detect, evaluate, and respond to driving behaviors",0,B60W|G06Q|G07C
+11878643,2024-01-23,Event-based connected vehicle control and response systems,0,B60R|G05D|G06N|G06Q|G07C|G08G|H04L
+11875087,2024-01-16,Processing system having a machine learning engine for providing an output via a digital assistant system,0,G06F|G06N|G06Q|G10L|H04W
+11869093,2024-01-09,Driving patterns,0,G06Q
+11869090,2024-01-09,Enhanced unmanned aerial vehicles for damage inspection,1,B64U|G06Q
+11861953,2024-01-02,Systems and methods for using sensors to determine a holistic vehicle characteristic and/or to generate parameters for a vehicle service,1,G06Q|G07C
+11861725,2024-01-02,Communication of insurance claim data,0,G06Q
+11861724,2024-01-02,Virtual simulation for insurance,0,G06Q
+11861721,2024-01-02,Maintaining current insurance information at a mobile device,2,G06Q
+11861540,2024-01-02,Natural language processing platform for automated training and performance evaluation,0,G06F|G06Q|G10L
+11859407,2024-01-02,Remotely accessible secure enclosure,0,E05B|G07C|H04W
+11854369,2023-12-26,Multi-computer processing system for compliance monitoring and control,0,G06F|G06Q|G06V|G08B|H04N
+11854086,2023-12-26,Delivery of customized insurance products and services,2,G06Q
+11853196,2023-12-26,Artificial intelligence driven testing,2,G06F
+11849375,2023-12-19,Systems and methods for automatic breakdown detection and roadside assistance,0,G07C|G08G|H04W
+11848902,2023-12-19,Unsubscribe and delete automation,0,G06F|G06Q|H04L|H04W
+11847667,2023-12-19,Road segment safety rating system,1,G01C|G06Q|G07C|G08G
+11842405,2023-12-12,Claims adjuster allocation,0,G06Q
+11838761,2023-12-05,Fraud detection based on geolocation data,0,B60W|G07C|H04L|H04W
+11836806,2023-12-05,Insurance claim capitation and predictive payment modeling,0,G01S|G06Q|G07C
+11836241,2023-12-05,Automatic update of user information,2,G06F
+11829920,2023-11-28,Intelligent prediction systems and methods for conversational outcome modeling frameworks for sales predictions,1,G06F|G06Q|G10L
+11823575,2023-11-21,Risk management system with internet of things,0,G06Q|G08G|H04L|H04W
+11823279,2023-11-21,Communication of insurance claim data,0,G06Q
+11820229,2023-11-21,In vehicle driver feedback device,0,B60K|B60R|G06F|G06T|G07C|H04W|Y02T
+11816737,2023-11-14,Driver identity detection and alerts,0,G01C|G06Q|H04W
+11816232,2023-11-14,Privacy score,0,G06F|G06Q
+11811754,2023-11-07,Authenticating devices via tokens and verification computing devices,0,G06F|H04L|H04W
+11810196,2023-11-07,Prioritization of insurance requotations,0,G06Q
+11810030,2023-11-07,Roadside assistance service provider assignment system,0,B60R|G06Q|G07C|H04W
+11800323,2023-10-24,Vehicle mobility patterns based on user location data,0,G06F|G06Q|H04W
+11798098,2023-10-24,Generation of an insurance quote based on another insurance quote,0,G06Q
+11798095,2023-10-24,Commercial claim processing platform using machine learning to generate shared economy insights,0,G06N|G06Q
+11798088,2023-10-24,Optimized inventory analysis for insurance purposes,0,G06F|G06Q
+11792318,2023-10-17,Systems and methods for automated call-handling and processing,0,G06F|G06N|H04M
+11785417,2023-10-10,Multi-computer processing system for dynamically executing response actions based on movement data,1,G06F|G06Q|G06V|H04L|H04W
+11783430,2023-10-10,Automatic claim generation,0,G06Q|H04W
+11783428,2023-10-10,Agent-facilitated claims damage estimation,0,G06Q
+11783423,2023-10-10,Connected home system with risk units,14,G06N|G06Q
+11783421,2023-10-10,Traveling-based insurance ratings,0,G06Q|G07C|H04W
+11776391,2023-10-03,Generating and transmitting parking instructions for autonomous and non-autonomous vehicles,1,G05D|G06N|G08G
+11770685,2023-09-26,Systems for predicting and classifying location data based on machine learning,0,G06F|G06N|H04W
+11770682,2023-09-26,Vehicle commute location patterns based on user location data,0,G06F|G06Q|H04W
+11769212,2023-09-26,Predictive claims platform for managing repairs,0,G06Q|G07C
+11769119,2023-09-26,Autonomous car repair,1,G06Q|G07C
+11768945,2023-09-26,Machine learning system for determining a security vulnerability in computer software,1,G06F|G06N|G06Q
+11765566,2023-09-19,Generating and sending automated support communications using location detection and keyword identification,0,G07C|G08G|G10L|H04M|H04W
+11763689,2023-09-19,Systems and methods for delivering vehicle-specific educational content for a critical event,0,G06F|G06Q|G07C|G09B|H04L
+11763391,2023-09-19,Polynomial risk maps,0,G01C|G06Q
+11757862,2023-09-12,Cryptographically transmitting and storing identity tokens and/or activity data among spatially distributed computing devices,0,H04L|H04W
+11756131,2023-09-12,Automated damage assessment and claims processing,0,G06Q|H04N
+11755949,2023-09-12,Multi-platform machine learning systems,0,G06N
+11755752,2023-09-12,End-to-end privacy ecosystem,0,G06F
+11754406,2023-09-12,Multi-stop route selection system,1,G01C|H04L|H04W
+11750601,2023-09-05,User authentication based on telematics information,0,G06F|H04L|H04W
+11748817,2023-09-05,Systems and methods for generating an assessment of safety parameters using sensors and sensor data,8,G01N|G01W|G06Q
+11748780,2023-09-05,Content output systems using vehicle-based data,1,E01F|G06F|G06Q|G07C|G08B|G08G|G09G
+11748765,2023-09-05,Assistance on the go,1,G06F|G06Q|G07C|G07F|G08G|H04L|H04M|H04W
+11741763,2023-08-29,Systems and methods for system generated damage analysis,0,G06N|G07C
+11741549,2023-08-29,Generating insurance quotes,0,G06Q
+11735046,2023-08-22,Designing preferred vehicle routes based on driving scores from other vehicles,0,B60W|G01C|G06Q|G07C|G08G
+11727496,2023-08-15,Social network risk analysis,0,G06Q
+11727477,2023-08-15,Virtual reality visualization system with object recommendation engine,0,G06F|G06Q|G06T|G06V
+11726437,2023-08-15,Vehicle control systems,2,B60Q|B60R|B60T|B60W|G05B|G06N|G06Q
+11721340,2023-08-08,Personal information assistant computing system,1,G06F|G10L
+11721134,2023-08-08,Dynamic processing system for roadside service control and output generation,0,G06Q|G07C|G08G
+11720971,2023-08-08,Machine learning based accident assessment,0,G06N|G06Q
+11715161,2023-08-01,Safety notification service,0,G06Q|H04W
+11710189,2023-07-25,Determining body characteristics based on images,0,G06Q|G06V|H04N
+11710186,2023-07-25,Determining geocoded region based rating systems for decisioning outputs,0,G06F|G06N|G06Q
+11704631,2023-07-18,Analyzing images and videos of damaged vehicles to determine damaged vehicle parts and vehicle asymmetries,0,G06Q|G06T|G06V
+11694271,2023-07-04,Multicomputer processing of user data with centralized event control,0,B60R|G06Q|G07C|H04L|H04W
+11694155,2023-07-04,Parts inventory management,0,G06F|G06Q
+11692838,2023-07-04,Real time risk assessment and operational changes with semi-autonomous vehicles,5,B60W|G01C|G05D|G06Q
+11688209,2023-06-27,Crowd-sourced driver grading,1,B60R|G06Q|G07C
+11683383,2023-06-20,Digital footprint visual navigation,0,G06F|G06Q|H04L
+11682077,2023-06-20,Total loss evaluation and handling system and method,2,G06Q
+11677763,2023-06-13,Consumer threat intelligence service,0,G06F|H04L
+11676430,2023-06-13,Vehicle mode determination based on edge-computing,3,G06N|G07C|G08G|H04W
+11676213,2023-06-13,Vehicle ignition control,2,B60K|B60Y|F02N|G06Q|H04W
+11669911,2023-06-06,"Automated accident detection, fault attribution, and claims processing",0,G06Q|G07C|G08G
+11657464,2023-05-23,System for determining type of property inspection based on captured images,0,G06Q|G06T|H04N
+11657458,2023-05-23,Data processing system for secure data sharing and customized output generation,0,G06F|G06Q|H04L|H04W
+11651436,2023-05-16,Deductible determination system,0,G06Q
+11651316,2023-05-16,Controlling vehicles using contextual driver and/or rider data based on automatic passenger detection and mobility status,0,B60W|G06Q
+11644327,2023-05-09,Processing system having a machine learning engine for providing a common trip format (CTF) output,1,G01C|G06Q|G07C|H04W
+11644326,2023-05-09,Machine learning platform for dynamic device and sensor quality evaluation,1,G01C|G01S|G06N|G06Q|G07C|H04W
+11635877,2023-04-25,Processing system having a machine learning engine for providing a selectable item availability output,64,G06F|G06N|G06Q
+11625791,2023-04-11,Feedback loop in mobile damage assessment and claims processing,2,G06F|G06Q
+11625790,2023-04-11,Virtual collaboration,1,G06Q
+11625745,2023-04-11,Vehicle telematics system to promote good driving behavior using positive feedback and award points,2,G06Q
+11620895,2023-04-04,Systems and methods for disturbance detection and identification based on disturbance analysis,0,G06N|G08B
+11620494,2023-04-04,Adaptable on-deployment learning platform for driver analysis output generation,0,G06N|H04L|H04W
+11615479,2023-03-28,Determining an event,0,G06F|G06Q|G08B
+11615478,2023-03-28,Selectively shared vehicle-based telematics,1,G06Q|G07C|H04W
+11613271,2023-03-28,Driver behavior tracking and prediction,0,B60W|G05D|G06F|G06N|G06Q|G07C|G08G|G09B
+11609558,2023-03-21,Processing system for dynamic event verification and sensor selection,0,G01P|G05B|G06N|G07C|H04W
+11606371,2023-03-14,Digital safety and account discovery,0,G06F|H04L
+11601384,2023-03-07,Processing system performing dynamic training response output generation control,0,G06F|G06N|G06Q|H04L
+11599652,2023-03-07,End-to-end privacy ecosystem,0,G06F
+11597389,2023-03-07,Driving cues and coaching,0,B60W|G05D|G06Q
+11592308,2023-02-28,Data processing system communicating with a map data processing system to generate a display of one or more segments of one or more vehicle routes,2,G01C|G06F|G06Q|G06T|G08G|H04W
+11590981,2023-02-28,Shared mobility service passenger matching based on passenger attributes,0,B60W|G01C|G05D|G06Q|G08G|H04W
+11587178,2023-02-21,Retail deployment model,0,G06F|G06Q
+11586415,2023-02-21,Processing system having a machine learning engine for providing an output via a digital assistant system,1,G06F|G06N|G06Q|G10L|H04W
+11580852,2023-02-14,Electrical data processing system for monitoring or affecting movement of a vehicle using a traffic device,0,B60W|G08B|G08G|H04W
+11580792,2023-02-14,Vehicle diagnostics,2,B60S|G06Q|G07C
+11580605,2023-02-14,Feedback loop in mobile damage assessment and claims processing,0,G06Q
+11580003,2023-02-14,Data processing system with machine learning engine to provide output generating functions,2,G06F|G06N|G06Q|G06V|G16H
+11578990,2023-02-14,Personalized driving risk modeling and estimation system and methods,7,G01C|G06Q
+11575789,2023-02-07,Bilateral communication in a login-free environment,1,G06Q|H04L|H04M|H04N
+11574357,2023-02-07,Onboarding platform for performing dynamic mitigation analysis,2,G06F|G06Q
+11568496,2023-01-31,Risk behavior detection methods based on tracking handset movement within a moving vehicle,0,B60W|G01S|G06Q|G07C|G08G|H04W
+11562603,2023-01-24,Collision analysis platform using machine learning to reduce generation of false collision outputs,0,B60R|G06N|G07C|G08G
+11561100,2023-01-24,Exit routes,1,G01C|G06V|H04W
+11556997,2023-01-17,Connected home and alert notifications,2,G06Q
+11551309,2023-01-10,Reward system related to a vehicle-to-vehicle communication system,1,G06Q
+11548390,2023-01-10,Vehicle driver feedback device,3,B60K|B60R|G06F|G06T|G07C|H04W|Y02T
+11544176,2023-01-03,Systems and methods for automatically assessing and conforming software development modules to accessibility guidelines in real-time,0,G06F
+11539723,2022-12-27,Digital safety and account discovery,0,G06F|H04L
+11538057,2022-12-27,Data processing system with machine learning engine to provide output generation functions,0,A61B|G06F|G06N|G06Q|G16H|H04W
+11537935,2022-12-27,Data processing system with machine learning engine to provide output generating functions,3,G06N|G06Q|G16H
+11532049,2022-12-20,Configuration and transfer of image data using a mobile device,0,G06Q|H04N
+11532048,2022-12-20,User interactions in mobile damage assessment and claims processing,0,G06Q|H04N
+11531765,2022-12-20,Dynamic system profiling based on data extraction,0,G06F
+11530925,2022-12-20,Multi-computer system for dynamically detecting and identifying hazards,2,G01C|G06N|G08G
+11528364,2022-12-13,Machine learning system for routing optimization based on historical performance data,2,G06Q|H04M
+11521272,2022-12-06,Parsing databases to generate customized recommendations for home assessment,0,G06Q
+11521271,2022-12-06,Autonomous vehicle control systems with collision detection and response capabilities,0,B60R|B60W|G05D|G06Q|G08G
+11521268,2022-12-06,Dynamic usage-based policies,0,G06Q
+11501384,2022-11-15,System for capturing passenger and trip data for a vehicle,2,G06Q|G07C
+11493351,2022-11-08,Systems and methods of connected driving based on dynamic contextual factors,0,B60W|G01C|G06N|G08G
+11488254,2022-11-01,Customized platform for host protection in home sharing,0,G06Q
+11482112,2022-10-25,Data processing system with machine learning engine to provide roadside assistance functions,0,G06F|G06N|G06Q|G08G|H04L|H04W
+11481847,2022-10-25,Home event detection and processing,1,G06Q
+11481844,2022-10-25,Insurance product development maintenance system and method,0,G06Q
+11481732,2022-10-25,Onboarding platform for performing dynamic mitigation analysis,0,G06F|G06Q|H04N
+11472421,2022-10-18,"Data processing system for guidance, control, and testing autonomous vehicle features and driver response",0,B60W|G01M|G06Q
+11468714,2022-10-11,Toll payment equipment,2,G06Q|G07B
+11468533,2022-10-11,Vehicle rating system,0,G06Q|G07C
+11468516,2022-10-11,Personalized insurance systems,2,G01C|G06Q|G08G
+11468476,2022-10-11,Modulation of advertisement display based on vehicle operation data,4,G06Q|G06V|H04L|H04N|H04W
+11466999,2022-10-11,Altering autonomous or semi-autonomous vehicle operation based on route traversal values,0,B60W|G01C|G01S|G06Q
+11463654,2022-10-04,Bilateral communication in a login-free environment,6,G06Q|G06T|H04L|H04M|H04N
+11462104,2022-10-04,Electrical data processing system for monitoring or affecting movement of a vehicle using a traffic device,0,B60W|G08B|G08G|H04W
+11461849,2022-10-04,Recommendation of insurance products based on an inventory analysis,1,G06Q
+11461488,2022-10-04,Universal access layer for accessing heterogeneous data stores,0,G06F
+11455691,2022-09-27,Processing insured items holistically with mobile damage assessment and claims processing,2,G06Q|H04N
+11451595,2022-09-20,Virtual carpooling,0,G01C|G06F|G06Q|H04L
+11449950,2022-09-20,Data processing systems with machine learning engines for dynamically generating risk index dashboards,0,G06F|G06N|G06Q
+11449946,2022-09-20,Hub for automated recovery after a critical event in shared mobility services,4,G06F|G06N|G06Q|H04N
+11449843,2022-09-20,Using vehicle telematics to compensate drivers for increases in fuel prices,0,G06Q
+11449832,2022-09-20,Systems and methods for obtaining data annotations,0,G06F|G06Q
+11443381,2022-09-13,Multicomputer processing of user data with centralized event control,1,B60R|G06Q|G07C|H04L|H04W
+11438324,2022-09-06,Cryptographically transmitting and storing identity tokens and/or activity data among spatially distributed computing devices,1,H04L|H04W
+11436648,2022-09-06,Processing system having a machine learning engine for providing a surface dimension output,3,G06N|G06Q|G06T|G06V
+11436364,2022-09-06,Privacy scout,0,G06F|H04W
+11433908,2022-09-06,"Utilizing vehicle telematics to detect, evaluate, and respond to driving behaviors",1,B60W|G06Q|G07C
+11431845,2022-08-30,Systems and methods for automated call-handling and processing,0,G06F|G06N|H04M
+11430228,2022-08-30,Dynamic driving metric output generation using computer vision methods,0,G06T|G06V|G07C|H04N
+11425530,2022-08-23,Generating and transmitting parking instructions for autonomous and non-autonomous vehicles,2,G06Q|G07B|G07C|H04W
+11423335,2022-08-23,Data processing system with machine learning engine to provide output generating functions,2,G06F|G06N|G06Q|G06V|G16H
+11418624,2022-08-16,System and methods for application programming interface validation and testing,0,G06F|H04L
+11417212,2022-08-16,Risk management system with internet of things,66,G06Q|G08G|H04L|H04W
+11416789,2022-08-16,Roadside assistance service provider assignment system,0,B60R|G06Q|G07C|H04W
+11410248,2022-08-09,Social journey,0,G01C|G01S|G06Q
+11403953,2022-08-02,Shared mobility simulation and prediction system,0,G06Q|G08G
+11403713,2022-08-02,Configuration and transfer of image data using a mobile device,0,G06Q|H04N
+11392966,2022-07-19,Commercial insurance growth data for agents,0,G06Q
+11386503,2022-07-12,Processing insured items holistically with mobile damage assessment and claims processing,2,G06Q|G06V
+11379926,2022-07-05,Home device sensing,0,G06Q
+11373245,2022-06-28,Systems and methods for detecting digital security breaches of connected assets based on location tracking and asset profiling,1,G06F|G06Q|H04L|H04W
+11367319,2022-06-21,Telematics authentication,1,G06F|G07C
+11367144,2022-06-21,Agent-facilitated claims damage estimation,0,G06Q
+11361385,2022-06-14,Application facilitated claims damage estimation,0,G06Q
+11361380,2022-06-14,Enhanced image capture and analysis of damaged tangible objects,24,G06Q|H04L|H04N|H04W
+11348451,2022-05-31,Electrical data processing system for determining a navigation route based on the location of a vehicle and generating a recommendation for a vehicle maneuver,0,G08G|H04W
+11348186,2022-05-31,Driving patterns,1,G06Q
+11348185,2022-05-31,Life insurance clearinghouse,0,G06Q
+11348175,2022-05-31,Total loss evaluation and handling system and method,0,G06Q
+11348170,2022-05-31,Systems and methods for identifying and transferring digital assets,1,G06Q
+11348134,2022-05-31,Data processing system with machine learning engine to provide output generation functions,1,A61B|G06F|G06N|G06Q|G16H|H04W
+11341580,2022-05-24,Image-based processing for products,0,G01S|G06Q|G06T|G06V|H04N
+11341579,2022-05-24,Processing an application for insurance coverage,0,G06Q
+11338807,2022-05-24,Dynamic distance estimation output generation based on monocular video,0,B60R|B60W|G05B|G05D|G06N|G06V
+11334351,2022-05-17,Systems and methods for software quality prediction,13,G06F|G06N|G06Q
+11315190,2022-04-26,Vehicle-to-vehicle incident information collection,5,G06Q|G07C|G08G
+11314798,2022-04-26,Processing system having machine learning engine for providing customized user functions,1,A61B|G06F|G06N|G06Q|G16H
+11307042,2022-04-19,Three-dimensional risk maps,4,B60R|G01C|G06Q|G06T|G06V
+11297466,2022-04-05,Systems for predicting and classifying location data based on machine learning,1,G06F|G06N|H04W
+11295391,2022-04-05,Reward system related to a vehicle-to-vehicle communication system,1,G05D|G06Q|G07F|G08G|H04L|H04W
+11295312,2022-04-05,System and method for accumulation and maintenance of money in a vehicle maintenance savings account,0,G06Q|G07F
+11281218,2022-03-22,Generating and transmitting parking instructions for autonomous and non-autonomous vehicles,2,G05D|G06N|G08G
+11270387,2022-03-08,Parts valuation and use,0,G06Q|Y02W|Y10T
+11263700,2022-03-01,Communication of insurance claim data,1,G06Q
+11263698,2022-03-01,Determining body characteristics based on images,0,G06Q|G06V|H04N
+11257164,2022-02-22,Home assessment and issue probability generation,0,G06N|G06Q
+11257162,2022-02-22,Insurance based on driving data,6,G06Q
+11257132,2022-02-22,Processing systems and methods having a machine learning engine for providing a surface dimension output,7,G06N|G06Q|G06T|G06V
+11250514,2022-02-15,Early notification of non-autonomous area,13,B60W|G05D|G06Q
+11242064,2022-02-08,Vehicle to vehicle telematics,3,B60W|G07C|G08G|H04L
+11232379,2022-01-25,Retail deployment model,0,G06Q
+11230243,2022-01-25,Event-based connected vehicle control and response systems,3,B60R|G05D|G06N|G06Q|G07C|G08G|H04L
+11216887,2022-01-04,Virtual simulation for insurance,14,G06Q
+11216824,2022-01-04,Role assignment for enhanced roadside assistance,7,G06Q
+11214266,2022-01-04,Vehicle telematics based driving assessment,0,B60W|G06Q|G07C
+11199943,2021-12-14,Processing system having a machine learning engine for providing a selectable item availability output,0,G06F|G06N|G06Q
+11196734,2021-12-07,Safe logon,0,G06Q|H04L
+11196693,2021-12-07,Unsubscribe automation,0,G06Q|H04L|H04M
+11195425,2021-12-07,Systems and methods for delivering vehicle-specific educational content for a critical event,0,G06F|G06Q|G07C|G09B|H04L
+11195233,2021-12-07,Virtual simulation for insurance,2,G06F|G06Q|G09B
+11194456,2021-12-07,Webpage testing tool,0,G06F
+11190490,2021-11-30,Embedded virtual private network,1,H04L
+11187550,2021-11-30,Distributed data processing systems for processing remotely captured sensor  data,0,G01C|G01P|G05D|G06F|G06Q|G07C|G08G|H04L|H04W
+11176615,2021-11-16,Generation of an insurance quote based on another insurance quote,1,G06Q
+11165769,2021-11-02,User authentication based on telematics information,0,G06F|H04L|H04W
+11164356,2021-11-02,Accident re-creation using augmented reality,0,G06F|G06Q|G06T|G06V|H04N
+11164261,2021-11-02,Communication of insurance claim data,0,G06Q
+11164258,2021-11-02,Insurance claim capitation and predictive payment modeling,0,G01S|G06Q|G07C
+11162802,2021-11-02,Systems and methods for classifying vehicle trips,1,G01C|G06N|G06Q|G07C|H04W
+11158002,2021-10-26,"Automated accident detection, fault attribution and claims processing",1,G06Q|G07C|G08G
+11151667,2021-10-19,Mobile food order in advance systems,0,G06Q
+11144996,2021-10-12,Systems and methods for early identification of a total loss vehicle,1,G06Q
+11138669,2021-10-05,Prioritization of insurance requotations,0,G06Q
+11138622,2021-10-05,Interactive rewards system for rewarding drivers,0,G06Q|G07C
+11138366,2021-10-05,Systems and methods for automated code validation,0,G06F|G06V
+11132629,2021-09-28,Crowdsourced roadside assistance service provider assignment system,2,B60R|G06Q|G07C|H04W
+11128754,2021-09-21,Machine learning system for routing optimization based on historical performance data,3,G06Q|H04M
+11127082,2021-09-21,Virtual assistant for recommendations on whether to arbitrate claims,6,G06Q
+11127081,2021-09-21,Generation and presentation of media to users,4,G06Q
+11127042,2021-09-21,Content output systems using vehicle-based data,4,E01F|G06F|G06Q|G07C|G08B|G08G|G09G
+11122391,2021-09-14,Detection of mobile device location within vehicle using vehicle based data and mobile device based data,1,G01C|G01S|H04W
+11118923,2021-09-14,Data processing system communicating with a map data processing system to determine or alter a navigation path based on one or more road segments,2,G01C|G06F|G06Q|G06T|G08G|H04W
+11113775,2021-09-07,System and method for standardized evaluation of driver's license eligibility,0,G06Q
+11094200,2021-08-17,Dynamic processing system for roadside service control and output generation,2,G06Q|G07C|G08G
+11094018,2021-08-17,Connected home and alert notifications,0,G06Q
+11089465,2021-08-10,Generating and sending automated support communications using location detection and keyword identification,1,G07C|G08G|G10L|H04M|H04W
+11087405,2021-08-10,System for risk mitigation based on road geometry and weather factors,0,G01C|G06Q|G08G|H04W
+11087347,2021-08-10,Home maintenance monitoring and rewards,8,G06Q
+11087292,2021-08-10,Analyzing images and videos of damaged vehicles to determine damaged vehicle parts and vehicle asymmetries,4,G06Q|G06T|G06V
+11080792,2021-08-03,Total cost of vehicle ownership,0,G06Q
+11074767,2021-07-27,Automatic crash detection,0,B60R|G01P|G07C|G08B|H04L|H04W
+11068998,2021-07-20,Polynomial risk maps,0,G01C|G06Q
+11068985,2021-07-20,Dynamic usage-based policies,6,G06Q
+11067409,2021-07-20,Distributed data processing systems for processing remotely captured sensor data,1,G01C|G01P|G05D|G06F|G06Q|G07C|G08G|H04L|H04W
+11067408,2021-07-20,Distributed data processing systems for processing remotely captured sensor data,0,G01C|G01P|G05D|G06F|G06Q|G07C|G08G|H04L|H04W
+11064324,2021-07-13,Systems and methods for automatic breakdown detection and roadside assistance,0,G07C|G08G|H04W
+11062397,2021-07-13,Communication schemes for property claims adjustments,0,G06Q
+11062380,2021-07-13,Geotagging location data,2,G06F|G06Q|G06T|G06V|H04W
+11062341,2021-07-13,Road segment safety rating system,8,G01C|G06Q|G07C|G08G
+11055785,2021-07-06,System for monitoring and using data indicative of driver characteristics based on sensors,7,G01C|G06Q
+11055208,2021-07-06,Systems and methods for automatically assessing and conforming software development modules to accessibility guidelines in real-time,6,G06F
+11050850,2021-06-29,System and methods for application programming interface validation and testing,0,G06F|H04L
+11049401,2021-06-29,Roadside assistance system,0,G06F|G06Q|G08G
+11049337,2021-06-29,Vehicle mode detection systems,0,G01C|G06Q|G07C
+11044244,2021-06-22,Authenticating devices via one or more pseudorandom sequences and one or more tokens,0,G06F|H04L|H04W
+11042945,2021-06-22,Device sensing,0,G06Q
+11042938,2021-06-22,Driver identity detection and alerts,20,G01C|G06Q|H04W
+11037444,2021-06-15,Designing preferred vehicle routes based on driving scores from other vehicles,1,B60W|G01C|G06Q|G07C|G08G
+11037255,2021-06-15,System for determining type of property inspection based on captured images,18,G06Q|G06T|H04N
+11037247,2021-06-15,Route risk mitigation,3,G01C|G06Q|G08G|H04W
+11037245,2021-06-15,Generating insurance quotes,2,G06Q
+11037107,2021-06-15,Automatic determination of rental car term associated with a vehicle collision repair incident,2,G06Q|G07B|G07C
+11030704,2021-06-08,Automated damage assessment and claims processing,1,G06Q|H04N
+11023965,2021-06-01,Systems and methods for customizing insurance,0,G06Q
+11023961,2021-06-01,Virtual reality visualization system with object recommendation engine,4,G06F|G06Q|G06T|G06V
+11023898,2021-06-01,System and method for accumulation and maintenance of money in a vehicle maintenance savings account,5,G06Q|G07F
+11019080,2021-05-25,Digital safety and account discovery,0,G06F|H04L
+11017472,2021-05-25,Total loss evaluation and handling system and method,0,G06Q
+11015946,2021-05-25,Distributed data processing systems for processing remotely captured sensor data,0,G01C|G01P|G05D|G06F|G06Q|G07C|G08G|H04L|H04W
+11012861,2021-05-18,Fraud-detection based on geolocation data,2,B60W|G07C|H04L|H04W
+11012526,2021-05-18,Inspection and assessment based on mobile edge-computing,7,B64U|G06F|G06N|G06Q|G06V|H04L
+11010839,2021-05-18,Determining an event,0,G06F|G06Q|G08B
+11010837,2021-05-18,Enhanced unmanned aerial vehicles for damage inspection,0,B64U|G06Q
+11004357,2021-05-11,Pre-license development tool,0,G06F|G09B
+11004153,2021-05-11,Retail location services,2,G06Q
+11004152,2021-05-11,Route risk mitigation,0,G01C|G06Q|G08G|H04W
+11003334,2021-05-11,Home services condition monitoring,87,G06F|G06Q|H04L
+10999710,2021-05-04,Multi-computer processing system for dynamically executing response actions based on movement data,1,G06F|G06Q|G06V|H04L|H04W
+10997669,2021-05-04,System for capturing passenger and trip data for a vehicle,4,G06Q|G07C
+10997605,2021-05-04,Assistance on the go,2,G06F|G06Q|G07C|G07F|G08G|H04L|H04M|H04W
+10994727,2021-05-04,Subscription-based and event-based connected vehicle control and response systems,16,B60W|G06N|G06Q|G07C|G08G|H04L
+10984480,2021-04-20,Vehicle ignition control,1,B60K|B60Y|F02N|G06Q|H04W
+10983789,2021-04-20,Systems and methods for automating and monitoring software development operations,1,G06F
+10976173,2021-04-13,Distributed data processing systems for processing remotely captured sensor data,2,G01C|G01P|G05D|G06F|G06Q|G07C|G08G|H04L|H04W
+10970788,2021-04-06,Controlling autonomous vehicles to optimize traffic characteristics,0,G06Q|G08G
+10963966,2021-03-30,Electronic exchange of insurance information,18,G06Q
+10963138,2021-03-30,Webpage testing tool,1,G06F
+10958701,2021-03-23,Systems and methods for modulating advertisement frequencies in streaming signals based on vehicle operation data,1,G06Q|H04L
+10957122,2021-03-23,Vehicle diagnostics,1,B60S|G06Q|G07C
+10956983,2021-03-23,Insurance system for analysis of autonomous driving,5,G06Q|G07C
+10949923,2021-03-16,Home device sensing,4,G06Q
+10946862,2021-03-16,"Utilizing vehicle telematics to detect, evaluate, and respond to driving behaviors",7,B60W|G06Q|G07C
+10942038,2021-03-09,Real time risk assessment and operational changes with semi-autonomous vehicles,5,B60W|G01C|G05D|G06Q
+10938825,2021-03-02,Authenticating drivers,4,B62D|G01C|G06F|G07C|H04L|H04W
+10937103,2021-03-02,Machine learning based accident assessment,8,G06N|G06Q
+10924501,2021-02-16,Cyber-security presence monitoring and assessment,1,G06F|H04L
+10922967,2021-02-16,Electrical data processing system for determining status of traffic device and vehicle movement,0,B60W|G08G|H04M|H04W
+10917752,2021-02-09,Connected services configurator,0,H04L|H04M|H04W
+10915964,2021-02-09,System and method for providing vehicle services based on driving behaviors,43,G06Q
+10915840,2021-02-09,Roadside assistance service provider assignment system,1,B60R|G06Q|G07C|H04W
+10911909,2021-02-02,Text message control system,0,H04W
+10909629,2021-02-02,Testing autonomous cars,16,B60R|G05D|G06F|G06Q|G07C
+10907978,2021-02-02,Automated vehicle control and guidance based on real-time blind corner navigational analysis,0,G01C|G06F|G06V

@@ -1,0 +1,560 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12431416,2025-09-30,Chip package with integrated current control,0,H01L
+12430275,2025-09-30,Methods to extend NoC interconnect across multiple dice in 3D,0,G06F
+12425974,2025-09-23,Power and temperature driven bandwidth throttling using delay insertion,0,G06F|H04W
+12424580,2025-09-23,Chip package with integrated off-die inductor,0,H01L
+12413394,2025-09-09,Key management system,0,G06F|H04L
+12412109,2025-09-09,Machine learning deployment platform,0,G06N
+12411789,2025-09-09,Data bus width configurable interconnection circuitry,0,G06F
+12411785,2025-09-09,Direct memory access system with read reassembly circuit,0,G06F
+12411780,2025-09-09,Variable buffer size descriptor fetching for a multi-queue direct memory access system,0,G06F
+12407652,2025-09-02,Firewalling communication ports in a multi-port system,0,G06F|H04L
+12406121,2025-09-02,3D integrated circuit with enhanced debugging capability,0,G01R|G06F|H01L
+12393480,2025-08-19,Reclamation of memory ECC bits for error tolerant number formats,0,G06F
+12388802,2025-08-12,Secure shell and role isolation for multi-tenant compute,0,G06F|H04L
+12386723,2025-08-12,High-speed offloading of trace data from an integrated circuit,0,G06F
+12375380,2025-07-29,Host polling of a network adapter,0,G06F|H04L
+12373371,2025-07-29,Self-reliant SmartNICs,0,G06F
+12373360,2025-07-29,Integrated circuit transaction redundancy,0,G06F
+12373353,2025-07-29,Systems and methods for decentralized address translation,0,G06F
+12373168,2025-07-29,Pre-carry data processing apparatus and method,0,G06F|H03M|H04N
+12367145,2025-07-22,Remote acceleration for data dependent address calculation,0,G06F
+12361808,2025-07-15,Tamper sensor for 3-dimensional die stack,0,G08B|G11C|H01L|H10B
+12354978,2025-07-08,Coupled loop and void structure integrated in a redistribution layer of a chip package,0,H01L
+12346585,2025-07-01,Memory controller to perform in-line data processing and efficiently organize data and associated metadata in memory,0,G06F
+12346226,2025-07-01,System and method for SEU detection and correction,0,G06F
+12340154,2025-06-24,Latency balancing of paths in multi-processor computing architecture designs for deadlock avoidance,0,G06F
+12332801,2025-06-17,Descriptor cache eviction for multi-queue direct memory access,0,G06F
+12327077,2025-06-10,Deadlock detection and prevention for routing packet-switched nets in electronic systems,0,G06F
+12315781,2025-05-27,Heat spreader for a semiconductor package,0,H01L
+12314863,2025-05-27,Determining quantization scale factors for layers of a machine learning model,0,G06N
+12314735,2025-05-27,Data processing array event trace and profiling using processor system executed kernels,0,G06F
+12307217,2025-05-20,Dynamic adjustment of floating point exponent bias for exponent compression,0,G06F|H03M
+12298887,2025-05-13,"Data processing array event trace customization, offload, and analysis",0,G06F
+12273668,2025-04-08,Multi-die non-blocking crossbar switch,0,G06F|H03K|H04Q
+12273106,2025-04-08,Clocking architecture for communicating synchronous and asynchronous clock signals over a communication interface,0,G06F|H03K
+12271818,2025-04-08,Implementation-tuned architecture for neural network processing in a learned transform domain,0,G06N
+12271670,2025-04-08,Testbench for sub-design verification,0,G06F
+12271332,2025-04-08,Redundancy scheme for activating circuitry on a base die of a 3D stacked device,0,G06F|H01L|H10B
+12261603,2025-03-25,Adaptive integrated programmable device platform,0,G06F|H03K
+12259833,2025-03-25,Descriptor fetching for a multi-queue direct memory access system,0,G06F
+12254253,2025-03-18,Resource estimation for implementing circuit designs within an integrated circuit,0,G06F|G06Q
+12248786,2025-03-11,Instruction set architecture for data processing array control,0,G06F
+12248761,2025-03-11,Deterministic reset mechanism for asynchronous gearbox FIFOs for predictable latency,0,G06F
+12244518,2025-03-04,Network-on-chip architecture for handling different data sizes,0,G06F|H04L
+12237287,2025-02-25,Chip bump interface compatible with different orientations and types of devices,0,G11C|H01L
+12235950,2025-02-25,Hierarchical hardware-software partitioning and configuration,0,G06F
+12235782,2025-02-25,NoC routing in a multi-chip device,0,G06F
+12235671,2025-02-25,Adding soft logic to flush a pipeline and reduce current ramp,0,G06F
+12231532,2025-02-18,Scalable tweak engines and prefetched tweak values for encyrption engines,0,G06F|H04L
+12224954,2025-02-11,Network interface device,0,G06F|G06N|H04L
+12223355,2025-02-11,Synchronization of system resources in a multi-socket data processing system,0,G06F
+12204940,2025-01-21,Transparent and remote kernel execution in a heterogeneous computing system,0,G06F
+12200087,2025-01-14,Dynamic data conversion for network computer systems,0,G06F|H03M|H04L
+12190077,2025-01-07,Method and apparatus for eliminating inter-link skew in high-speed serial data communications,0,G06F|H04L
+12183311,2024-12-31,Clock recovery circuit,0,G09G|H04N
+12182552,2024-12-31,Splitting vector processing loops with an unknown trip count,0,G06F
+12175622,2024-12-24,Smart cache implementation for image warping,0,G06T
+12164451,2024-12-10,Data processing array interface having interface tiles with multiple direct memory access circuits,0,G06F
+12159212,2024-12-03,Shared depthwise convolution,0,G06F|G06N|G06V
+12159057,2024-12-03,Implementing data flows of an application across a memory hierarchy of a data processing array,0,G06F
+12149348,2024-11-19,Fast clock domain crossing architecture for high frequency trading (HFT),0,G06Q|H04L
+12147379,2024-11-19,Scalable acceleration of reentrant compute operations,0,G06F
+12147369,2024-11-19,Spatial distribution in a 3D data processing unit,0,G06F|H04L
+12136613,2024-11-05,Chip package with near-die integrated passive device,0,H01L
+12135990,2024-11-05,Modeling and compiling tensor processing applications for a computing platform using multi-layer adaptive data flow graphs,0,G06F
+12130769,2024-10-29,Clocking architecture for communicating clock signals having different frequencies over a communication interface,0,G06F
+12124323,2024-10-22,Register integrity check in configurable devices,0,G06F
+12111784,2024-10-08,NoC buffer management for virtual channels,0,G06F
+12105716,2024-10-01,Parallel compute offload to database accelerator,0,G06F
+12105667,2024-10-01,Device with data processing engine array that enables partial reconfiguration,0,G06F
+12105658,2024-10-01,Intra-chip and inter-chip data protection,0,G06F
+12099790,2024-09-24,High-speed communication between integrated circuits of an emulation system,0,G06F|H04J
+12093394,2024-09-17,System and method for secure deconstruction sensor in a heterogeneous integration circuitry,0,G06F|H04L
+12086576,2024-09-10,Method for mitigating memory access conflicts in a multi-core graph compiler,0,G06F
+12086572,2024-09-10,Software defined neural network layer pipelining,1,G06F|G06N
+12086521,2024-09-10,Circuit design simulation and clock event reduction,0,G06F
+12086083,2024-09-10,Multi-tenant aware data processing units,0,G06F
+12079484,2024-09-03,Random reads using multi-port memory and on-chip memory blocks,0,G06F
+12079158,2024-09-03,Reconfigurable neural engine with extensible instruction set architecture,0,G06F|G06N
+12073155,2024-08-27,Method and system for building hardware images from heterogeneous designs for electronic systems,0,G06F
+12068257,2024-08-20,Integrated circuit (IC) structure protection scheme,0,G06F|H01L|H10D
+12067484,2024-08-20,Learning neural networks of programmable device blocks directly with backpropagation,0,G06N
+12067406,2024-08-20,Multiple overlays for use with a data processing array,0,G06F|G06N
+12066969,2024-08-20,IC with adaptive chip-to-chip interface to support different chip-to-chip,0,G06F
+12063129,2024-08-13,Frequency detector for clock data recovery,0,H03L|H04L
+12061990,2024-08-13,Static block scheduling in massively parallel software defined hardware systems,0,G06F|G06N|H04W
+12056505,2024-08-06,Distributed configuration of programmable devices,0,G06F
+12050944,2024-07-30,Network attached MPI processing architecture in smartnics,0,G06F|H04L|Y02D
+12048083,2024-07-23,Micro device with adaptable thermal management device,0,H01L|H05K
+12047275,2024-07-23,Efficiency and quality of service improvements for systems with higher bandwidth clients mixed with lower bandwidth clients,0,H04L
+12045502,2024-07-23,Memory controller with reduced latency transaction scheduling,0,G06F
+12045469,2024-07-23,Single event upset tolerant memory device,0,G06F
+12045187,2024-07-23,Routing network using global address map with adaptive main memory expansion for a plurality of home agents,0,G06F
+12032932,2024-07-09,Compiler-based generation of transaction accurate models from high-level languages,0,G06F
+12027493,2024-07-02,Fanout integration for stacked silicon package assembly,0,H01L
+12026444,2024-07-02,Dynamic port handling for isolated modules and dynamic function exchange,0,G06F
+12020021,2024-06-25,Impactless firmware update,1,G06F
+12019964,2024-06-25,Optimizing use of computer resources in implementing circuit designs through machine learning,0,G06F|G06N
+12019908,2024-06-25,Dynamically allocated buffer pooling,0,G06F
+12019576,2024-06-25,Systems and methods to transport memory mapped traffic amongst integrated circuit devices,2,G06F
+12019526,2024-06-25,Lock-stepping asynchronous logic,0,G06F|H03L
+12014072,2024-06-18,High-throughput regular expression processing using an integrated circuit,0,G06F
+12001367,2024-06-04,Multi-die integrated circuit with data processing engine array,0,G06F
+11995021,2024-05-28,Zoned accelerator embedded processing,0,G06F
+11989537,2024-05-21,Dataflow-based computer program visualization and refactoring,1,G06F
+11985061,2024-05-14,Distributed look-ahead routing in network-on-chip,0,G06F|H04L
+11984919,2024-05-14,PIM cancellation architecture,0,H04B|H04L
+11983575,2024-05-14,Cache coherent acceleration function virtualization with hierarchical partition hardware circuity in accelerator,0,G06F
+11983478,2024-05-14,Selection of full or incremental implementation flows in processing circuit designs,0,G06F
+11983441,2024-05-14,Arbitration of commands between non-volatile memory storage and remote hosts,0,G06F
+11983264,2024-05-14,Adaptive acceleration of transport layer security,0,G06F|H04L
+11983133,2024-05-14,Adaptive integrated programmable data processing unit,0,G06F
+11983122,2024-05-14,High-throughput regular expression processing with path priorities using an integrated circuit,0,G06F
+11983117,2024-05-14,Fine-grained multi-tenant cache management,0,G06F
+11972132,2024-04-30,Data processing engine arrangement in a device,0,G06F
+11966351,2024-04-23,Network interface device,0,G06F|H04L
+11961823,2024-04-16,Forming and/or configuring stacked dies,3,H01L
+11960596,2024-04-16,Network interface device,1,G06F|H04L
+11954359,2024-04-09,Circular buffer architecture using local memories with limited resources,0,G06F
+11950358,2024-04-02,Integrated circuit package with voltage droop mitigation,1,G06F|H01L|H05K
+11949425,2024-04-02,Digital-to-analog converter (DAC)-based voltage-mode transmit driver architecture with tunable impedance control and transition glitch reduction techniques,0,H03M|H04L
+11947469,2024-04-02,Flexible queue provisioning for partitioned acceleration device,0,G06F
+11947459,2024-04-02,Multipath memory with static or dynamic mapping to coherent or MMIO space,0,G06F
+11947409,2024-04-02,Parity protection of control registers based on register bit positions,0,G06F
+11941248,2024-03-26,Compression of sparse tensors,0,G06F|G06N|H03M
+11934932,2024-03-19,Error aware module redundancy for machine learning,1,G06F|G06N
+11924032,2024-03-05,Network interface device,0,H04L|H04W
+11922223,2024-03-05,Flexible data-driven software control of reconfigurable platforms,0,G06F|H04L
+11916552,2024-02-27,Method for supporting multiple concurrent plugins in a programmable integrated circuit,0,G06F|H03K
+11914905,2024-02-27,Memory self-refresh re-entry state,0,G06F
+11901338,2024-02-13,Interwafer connection structure for coupling wafers in a wafer stack,1,H01L
+11901300,2024-02-13,Universal interposer for a semiconductor package,0,H01L
+11894959,2024-02-06,Ultra-high-speed PAM-N CMOS inverter serial link,0,H04L
+11892966,2024-02-06,Multi-use chip-to-chip interface,2,G06F
+11888693,2024-01-30,Time-division multiplexing (TDM) in integrated circuits for routability and runtime enhancement,0,G06F|H04J|H04L
+11887558,2024-01-30,Method and apparatus for memory management in a video processing system,0,G06T|G09G
+11886854,2024-01-30,Acceleration-ready program development and deployment for computer systems and hardware acceleration,0,G06F
+11886789,2024-01-30,Block design containers for circuit design,0,G06F
+11886344,2024-01-30,Cached system for managing state vectors,0,G06F
+11876880,2024-01-16,TCP processing for devices,0,G06Q|H04L
+11875100,2024-01-16,Distributed parallel processing routing,0,G06F
+11874768,2024-01-16,Flash memory emulation,0,G06F|H03K
+11868174,2024-01-09,Clock tree routing in a chip stack,1,G06F|H01L
+11861326,2024-01-02,Flow control between non-volatile memory storage and remote hosts over a fabric,0,G06F
+11861171,2024-01-02,High-throughput regular expression processing with capture using an integrated circuit,0,G06F
+11861010,2024-01-02,Extensible device hosted root of trust architecture for integrated circuits,0,G06F
+11853235,2023-12-26,Communicating between data processing engines using shared memory,0,G06F|G11C
+11847108,2023-12-19,System and method for capturing data to provide to a data analyser,0,G06F|H04L
+11842168,2023-12-12,Circuit architecture for determining threshold ranges and values of a dataset,0,G06F
+11836426,2023-12-05,Early detection of sequential access violations for high level synthesis,0,G06F
+11832035,2023-11-28,Localized NoC switching interconnect for high bandwidth interfaces,0,G06F|H04Q
+11831743,2023-11-28,Streaming architecture for packet parsing,0,H04L
+11829733,2023-11-28,Synthesis flow for data processing engine array applications relying on hardware library packages,0,G06F
+11824830,2023-11-21,Network interface device,0,H04L
+11824761,2023-11-21,Identifying alignment markers using partial correlators,0,H04L
+11824564,2023-11-21,Lossless compression using subnormal floating point values,0,G06F|H03M
+11824548,2023-11-21,Pulse generator for injection locked oscillator,0,G06F|H03K|H03L
+11824534,2023-11-21,"Transmit driver architecture with a jtag configuration mode, extended equalization range, and multiple power supply domains",1,G06F|H03K|H04J|H04L
+11809367,2023-11-07,Programmed input/output mode,0,G06F|H04L
+11803681,2023-10-31,Wafer-scale large programmable device,0,G06F|H01L|H10D
+11790139,2023-10-17,Predicting a performance metric based on features of a circuit design and explaining marginal contributions of the features to the prediction,0,G06F
+11784149,2023-10-10,Chip bump interface compatible with different orientations and types of devices,1,G11C|H01L
+11778743,2023-10-03,Expansion card with mezzanine level connector,0,G06F|H05K
+11775457,2023-10-03,Command pattern sequencer for memory calibration,0,G06F
+11769710,2023-09-26,Heterogeneous integration module comprising thermal management apparatus,17,H01L
+11768663,2023-09-26,Compaction of multiplier and adder circuits,0,G06F
+11765836,2023-09-19,Integrated circuit device with edge bond dam,0,H01L|H05K
+11762958,2023-09-19,Markov decision process based recipe generation for multi-chip apparatus,0,G01R|G06F|G06N
+11762762,2023-09-19,Static and automatic inference of inter-basic block burst transfers for high-level synthesis,1,G06F
+11755804,2023-09-12,Hybrid synchronous and asynchronous control for scan-based testing,0,G01R|G06F|H01L|H03K
+11755801,2023-09-12,Data flow graph refinement using range set information for improved synthesis,0,G06F
+11755511,2023-09-12,Data bus inversion using multiple transforms,0,G06F|H04L
+11750195,2023-09-05,Compute dataflow architecture,0,G06F|H03K
+11748289,2023-09-05,Protocol aware bridge circuit for low latency communication among integrated circuits,1,G06F
+11743134,2023-08-29,Programmable traffic management engine,0,G06F|H04L
+11743051,2023-08-29,Blockchain machine compute acceleration engine with a block verify and a block validate,0,G06F|G09C|H04L
+11735519,2023-08-22,In-package passive inductive element for reflection mitigation,0,H01F|H01L|H01Q
+11734217,2023-08-22,Software or firmware managed hardware capability and control configuration for PCIe devices,0,G06F
+11733980,2023-08-22,Application implementation and buffer allocation for a data processing engine array,0,G06F
+11730325,2023-08-22,Dual mode interconnect,0,A47K|E04H|G06F|H04L|Y02A|Y02D
+11728962,2023-08-15,Multi-phase clock signal generation circuitry,0,H03K|H03L|H04L
+11726936,2023-08-15,Multi-host direct memory access system for integrated circuits,0,G06F
+11726928,2023-08-15,Network interface device with bus segment width matching,0,G06F|G11C
+11721651,2023-08-08,Communication between integrated circuit (IC) dies in wafer-level fan-out package,0,H01L|H03K
+11721373,2023-08-08,Shared multi-port memory from single port,0,G06F|G11C
+11720735,2023-08-08,Flat shell for an accelerator card,0,G06F
+11720422,2023-08-08,Unified container for hardware and software binaries,0,G06F
+11720255,2023-08-08,Random reads using multi-port memory and on-chip memory blocks,0,G06F
+11714950,2023-08-01,Automated timing closure on circuit designs,0,G06F
+11714779,2023-08-01,NoC relaxed write order scheme,0,G06F|H04L
+11709790,2023-07-25,Spatial distribution in a 3D data processing unit,1,G06F|H04L
+11709624,2023-07-25,System-on-chip having multiple circuits and memory controller in separate and independent power domains,0,G06F|Y02D
+11709522,2023-07-25,Power and temperature driven clock throttling,1,G06F|Y02D
+11709521,2023-07-25,Synchronous clock domain crossing skew optimization and multi-clock buffer (MBUFG),0,G06F
+11705910,2023-07-18,Fast line rate switching in peripheral component interconnect express (PCIe) analyzers,0,G06F|H03K|H03L
+11704536,2023-07-18,Convolution circuitry,0,G06N
+11704535,2023-07-18,Hardware architecture for a neural network accelerator,2,G06F|G06N
+11695669,2023-07-04,Network interface device,0,H04L
+11695535,2023-07-04,Reconfigurable mixer design enabling multiple radio architectures,0,H03D|H03K|H04B|H04L
+11695397,2023-07-04,Offset circuitry and threshold reference circuitry for a capture flip-flop,1,H03K|H04B|H04L
+11694066,2023-07-04,Machine learning runtime library for neural network acceleration,0,G06N|G06V
+11693808,2023-07-04,Multi-die integrated circuit with data processing engine array,3,G06F
+11693805,2023-07-04,Routing network using global address map with adaptive main memory expansion for a plurality of home agents,1,G06F
+11693777,2023-07-04,Network interface device supporting multiple interface instances to a common bus,0,G06F
+11689648,2023-06-27,Network interface device,0,G06F|H04L
+11689361,2023-06-27,Distributed key expansion,0,H03K|H04L
+11688675,2023-06-27,Core cavity noise isolation structure for use in chip packages,0,H01L
+11687327,2023-06-27,Control and reconfiguration of data flow graphs on heterogeneous computing platform,0,G06F
+11683038,2023-06-20,Adaptive integrated programmable device platform,0,G06F|H03K
+11681846,2023-06-20,Sub-FPGA level compilation platform with adjustable dynamic region for emulation/prototyping designs,0,G06F
+11681844,2023-06-20,Configurable testing of semiconductor devices,0,G06F
+11676004,2023-06-13,Architecture optimized training of neural networks,0,G06N
+11675006,2023-06-13,Implementing a JTAG device chain in multi-die integrated circuit,0,G01R|G06F|G08G
+11670630,2023-06-06,Multi-chip structure including a memory die stacked on die having programmable integrated circuit,0,H01L
+11670585,2023-06-06,Power distribution for active-on-active die stack with reduced resistance,0,C07K|C12Q|G01N|H01L
+11669464,2023-06-06,Multi-addressing mode for DMA and non-sequential read and write patterns,5,G06F
+11664964,2023-05-30,PIM model adaptation,1,H04B|H04L
+11663490,2023-05-30,Partial sum pre-computation to implement quantized neural networks on programmable devices,2,G06F|G06N
+11662378,2023-05-30,Reference less glitch detection circuitry with autocalibration,0,G01R|G06F
+11657040,2023-05-23,Blockchain machine network acceleration engine,1,G06F|G06Q|H04L
+11652481,2023-05-16,Designing single event upset latches,1,G06F|H03K
+11651127,2023-05-16,Placement of logic based on relative activation rates,0,G06F
+11650821,2023-05-16,Branch stall elimination in pipelined microprocessors,0,G06F
+11645440,2023-05-09,Machine learning based delay estimation,3,G06F|G06N
+11645053,2023-05-09,Hardware-software design flow with high-level synthesis for heterogeneous and programmable devices,0,G06F|H03K
+11641323,2023-05-02,Programmable congestion control engine,0,H04L
+11639962,2023-05-02,Scalable scan architecture for multi-circuit block arrays,0,G01R|G06F
+11637645,2023-04-25,Method for time stamping with increased accuracy,0,G11C|H03L|H04J|H04L
+11636061,2023-04-25,On-demand packetization for a chip-to-chip interface,0,G06F|H04L
+11630935,2023-04-18,Data traffic injection for simulation of circuit designs,0,G01R|G06F
+11621808,2023-04-04,"Machine learning based methodology for signal waveform, eye diagram, and bit error rate (BER) bathtub prediction",1,G06N|H04L
+11620490,2023-04-04,Multi-layer neural network processing by a neural network accelerator using host communicated merged weights and a package of per-layer instructions,3,G06N
+11615300,2023-03-28,System and method for implementing neural networks in integrated circuits,1,G06N
+11615052,2023-03-28,Packet identification (ID) assignment for routing network,1,G06F|H04L
+11610042,2023-03-21,Scalable scribe regions for implementing user circuit designs in an integrated circuit using dynamic function exchange,0,G06F
+11606317,2023-03-14,Table based multi-function virtualization,0,H04L
+11605886,2023-03-14,Radome with integrated passive cooling,2,H01L|H01Q|H05K
+11604758,2023-03-14,Systems and methods for systolic array design from a high-level program,0,G06F|G06N
+11604751,2023-03-14,Optimizing hardware design throughput by latency aware balancing of re-convergent paths,0,G06F
+11604490,2023-03-14,Low frequency power supply spur reduction in clock signals,1,G05F|G06F|H02M|H03F|H03H|H03K
+11599498,2023-03-07,Device with data processing engine array that enables partial reconfiguration,0,G06F
+11593547,2023-02-28,Prediction and optimization of multi-kernel circuit design performance using a programmable overlay,1,G06F
+11593126,2023-02-28,Implementation for a heterogeneous device,0,G06F
+11586908,2023-02-21,System and method for implementing neural networks in integrated circuits,1,G06F|G06N
+11586791,2023-02-21,Visualization of data buses in circuit designs,0,G06F
+11586578,2023-02-21,Machine learning model updates to ML accelerators,1,G06F|G06N|H04L
+11586369,2023-02-21,Hybrid hardware-software coherent framework,0,G06F
+11585854,2023-02-21,Runtime measurement of process variations and supply voltage characteristics,1,G01R|G06F|H03K|H03L
+11582021,2023-02-14,Protection against differential power analysis attacks involving initialization vectors,1,G11C|H03K|H04L
+11580191,2023-02-14,Method and system for convolution,1,G06F|G06N
+11580057,2023-02-14,"Subsystem for configuration, security, and management of an adaptive system",0,G06F|H03K
+11579957,2023-02-14,Distributed watchdog timer and active token exchange,0,G06F
+11575497,2023-02-07,Reduced power and area efficient receiver circuitry,0,H04B|H04L
+11573726,2023-02-07,Data processing engine arrangement in a device,0,G06F
+11570045,2023-01-31,Network interface device,0,H04L|H04W
+11568218,2023-01-31,Neural network processing system having host controlled kernel acclerators,4,G06N
+11567881,2023-01-31,"Event-based debug, trace, and profile in device with data processing engine array",0,G06F
+11563639,2023-01-24,Logical transport overlayed over a physical transport having a tree topology,2,H04L
+11561826,2023-01-24,Scheduling processing of machine learning tasks on heterogeneous compute circuits,2,G06F|G06N
+11561779,2023-01-24,Applications for hardware accelerators in computing systems,0,G06F
+11556344,2023-01-17,Hardware coherent computational expansion memory,0,G06F
+11543452,2023-01-03,Hierarchical access simulation for signaling with more than two state values,0,G01R|G06F
+11539770,2022-12-27,Host-to-kernel streaming support for disparate platforms,0,G06F|H04L
+11537541,2022-12-27,Network interface device and host processing device,0,G06F
+11531869,2022-12-20,Neural-network pooling,0,G06N
+11522735,2022-12-06,Digital noise-shaping FFE/DFE for ADC-based wireline links,1,H03H|H04L
+11520717,2022-12-06,Memory tiles in data processing engine array,6,G06F
+11520570,2022-12-06,Application-specific hardware pipeline implemented in an integrated circuit,0,G06F
+11508667,2022-11-22,Embedded shield for protection of memory cells,1,H01L
+11507394,2022-11-22,Changing accelerator card images without host system reboot,0,G06F
+11502845,2022-11-15,Network interface device and method,1,G06F|H04L
+11501142,2022-11-15,Tiling control circuit for downloading and processing an input tile based on source and destination buffer availability,1,G06F|G06N
+11500017,2022-11-15,Testing memory elements using an internal testing interface,1,G01R|G06F|G11C
+11496418,2022-11-08,Packet-based and time-multiplexed network-on-chip,5,G06F|H04J|H04L
+11489876,2022-11-01,System and apparatus for providing network security,0,H04L
+11489705,2022-11-01,Integrated circuit including a continuous time linear equalizer (CTLE) circuit and method of operation,3,H04L
+11488936,2022-11-01,Stacked silicon package assembly having vertical thermal management,1,H01L
+11488887,2022-11-01,Thermal enablement of dies with impurity gettering,1,H01L|H10D
+11487643,2022-11-01,Debugging for integrated scripting applications,2,G06F
+11487585,2022-11-01,Dynamic load balancing and configuration management for heterogeneous compute accelerators in a data center,2,G06F
+11481615,2022-10-25,Anti-spoofing of neural networks,0,G06N|G06T|G06V
+11477049,2022-10-18,Logical transport over a fixed PCIE physical transport network,0,G06F|H04L|Y02D
+11475199,2022-10-18,Parallelizing simulation and hardware co-simulation of circuit designs through partitioning,1,G06F
+11474871,2022-10-18,Cache coherent acceleration function virtualization,4,G06F
+11474826,2022-10-18,Boot image file having a global partition for data processing engines of a programmable device,1,G06F
+11474555,2022-10-18,Data-driven platform characteristics capture and discovery for hardware accelerators,2,G06F
+11469877,2022-10-11,High bandwidth CDR,9,H03L|H04L
+11461625,2022-10-04,Tensor compression,0,G06F|G06N|H03M
+11456951,2022-09-27,Flow table modification for network accelerators,1,H04L
+11455369,2022-09-27,Streaming FFT with bypass function,0,G06F|H04L
+11455144,2022-09-27,Softmax calculation and architecture using a modified coordinate rotation digital computer (CORDIC) approach,0,G06F|G06N
+11451230,2022-09-20,Compute dataflow architecture,0,G06F|H03K
+11449347,2022-09-20,Time-multiplexed implementation of hardware accelerated functions in a programmable integrated circuit,3,G06F
+11449344,2022-09-20,Regular expression processor and parallel processing architecture,3,G06F
+11443091,2022-09-13,Data processing engines with cascade connected cores,0,G06F
+11443088,2022-09-13,Simulation using accelerated models,2,G06F
+11443018,2022-09-13,Locking execution of cores to licensed programmable devices in a data center,0,G06F|H04L
+11442844,2022-09-13,High speed debug hub for debugging designs in an integrated circuit,3,G01R|G06F|H04L
+11431815,2022-08-30,Mining proxy acceleration,0,H04L
+11429851,2022-08-30,Neural network controller,1,G06F|G06N
+11429850,2022-08-30,Performing consecutive mac operations on a set of data using different kernels in a MAC circuit,0,G06F|G06N
+11429848,2022-08-30,Host-directed multi-layer neural network processing via per-layer work requests,2,G06F|G06N|H03K
+11429769,2022-08-30,Implementing a hardware description language memory using heterogeneous memory primitives,0,G06F|G11C
+11429767,2022-08-30,Accelerator automation framework for heterogeneous computing in datacenters,0,G06F|G06N
+11429481,2022-08-30,Restoring memory data integrity,0,G06F
+11429438,2022-08-30,Network interface device and host processing device,1,G06F
+11425231,2022-08-23,"Method, apparatus and computer program product for processing data",0,H04L
+11425036,2022-08-23,Pipelined match-action circuitry,2,H04L
+11423952,2022-08-23,Multi-chip devices,0,G11C|H01L|H03K
+11423303,2022-08-23,Machine learning based methodology for adaptative equalization,6,G06N|H03G
+11422879,2022-08-23,Universal in-band error masking,0,G06F
+11422781,2022-08-23,Generation of vector codes for tensor convolutions,2,G06F
+11416659,2022-08-16,Implementing an asymmetric memory with random port ratios using dedicated memory primitives,0,G06F
+11409569,2022-08-09,Data processing system,0,G06F
+11405617,2022-08-02,Method and system to enhance compression efficiency in encoded video by using dual pass entropy coding,0,G06F|H04N
+11403447,2022-08-02,Runtime intellectual property core metadata to rebuild a next-compile-time intellectual property core,0,G06F
+11403429,2022-08-02,Per instance core control in accelerated computing environments,0,G06F
+11403068,2022-08-02,Efficient hardware implementation of the exponential function using hyperbolic functions,0,G06F
+11398934,2022-07-26,Ultra-high-speed PAM-N CMOS inverter serial link,5,H04L
+11398469,2022-07-26,Electrostatic discharge (ESD) protection in stacked chips,9,H01L|H10D
+11394768,2022-07-19,Network interface device,1,G06F|G06N|H04L
+11394664,2022-07-19,Network interface device,0,H04L
+11392429,2022-07-19,Modifying application behaviour,0,G06F
+11388270,2022-07-12,Auto-negotiation with parallel detection architecture for different data rates,3,H04L
+11388060,2022-07-12,Systems and methods for discovery and configuration of a network device,3,G06F|H04L
+11386644,2022-07-12,Image preprocessing for generalized image processing,1,G06F|G06N|G06T|G06V
+11386034,2022-07-12,High throughput circuit architecture for hardware acceleration,0,G06F|Y02D
+11386031,2022-07-12,Disaggregated switch control path with direct-attached dispatch,0,G06F
+11386020,2022-07-12,Programmable device having a data processing engine (DPE) array,1,G06F|H03K
+11386009,2022-07-12,Programmable device configuration memory system,0,G06F|H03K
+11385287,2022-07-12,Method for adaptively utilizing programmable logic devices,0,G01R|G06F|G11C
+11379580,2022-07-05,Mixed storage of data fields,3,G06F|G11C|H04L
+11379389,2022-07-05,Communicating between data processing engines using shared memory,1,G06F|G11C
+11375050,2022-06-28,Multiple protocol layer conversion,2,H04L
+11374777,2022-06-28,Feed processing,0,G06F|H04L
+11374564,2022-06-28,Power gating in stacked die structures,1,H01L|H03K|H10D
+11373989,2022-06-28,Package integration for laterally mounted IC dies with dissimilar solder interconnects,3,H01L
+11373929,2022-06-28,Thermal heat spreader plate for electronic device,4,H01L
+11373024,2022-06-28,Circuit simulation based on a high-level language circuit specification,0,G06F
+11372803,2022-06-28,Data processing engine tile architecture for an integrated circuit,0,G06F
+11372769,2022-06-28,Fine-grained multi-tenant cache management,1,G06F
+11372700,2022-06-28,Fault-tolerant data transfer between integrated circuits,2,G06F
+11356379,2022-06-07,Channelized rate adaptation,0,H04L
+11356066,2022-06-07,Digital communications circuits and systems,1,H03F|H04B|H04L
+11355412,2022-06-07,Stacked silicon package assembly having thermal management,1,H01L
+11348624,2022-05-31,Shared multi-port memory from single port,4,G06F|G11C
+11336287,2022-05-17,Data processing engine array architecture with memory tiles,12,G06F|H03K
+11330738,2022-05-10,Force balanced package mounting,1,H01L|H01Q|H05K
+11330258,2022-05-10,Method and system to enhance video quality in compressed video by manipulating bit usage,0,H04N
+11329665,2022-05-10,BWT circuit arrangement and method,0,H03M|H04N
+11328976,2022-05-10,Three-dimensional thermal management apparatuses for electronic devices,2,H01L
+11327899,2022-05-10,Hardware-based virtual-to-physical address translation for programmable logic masters in a system on chip,0,G06F|H03K
+11327836,2022-05-10,Protection of data on a data path in a memory system,4,G06F
+11327677,2022-05-10,Data mover circuitry for N-dimensional data in an integrated circuit,0,G06F|H04L
+11323391,2022-05-03,Multi-port stream switch for stream interconnect network,2,G06F|H04L|Y02D
+11323108,2022-05-03,Low current line termination structure,0,G06F|H03K|H04L|H05K
+11321150,2022-05-03,Ordered event notification,0,G06F|H04L
+11315858,2022-04-26,Chip package assembly with enhanced solder resist crack resistance,0,H01L
+11314911,2022-04-26,High-level synthesis implementation of data structures in hardware,0,G06F
+11314277,2022-04-26,Serial lane-to-lane skew reduction,0,G06F
+11308572,2022-04-19,Method and system for invisible watermarking of images and video,1,G06T|H04N
+11303911,2022-04-12,Systems and methods for storing video data in memory,0,H04N
+11302674,2022-04-12,Modular stacked silicon package assembly,0,H01L
+11301295,2022-04-12,Implementing an application specified as a data flow graph in an array of data processing engines,3,G06F
+11295000,2022-04-05,Static configuration of accelerator card security modes,1,G06F|H04L
+11294992,2022-04-05,Locking execution of cores to licensed programmable devices in a data center,0,G06F|H04L
+11290361,2022-03-29,Programmable network measurement engine,0,H04L
+11290095,2022-03-29,Programmable dynamic clock stretch for at-speed debugging of integrated circuits,1,G06F|H03K
+11288222,2022-03-29,Multi-die integrated circuit with data processing engine array,2,G06F
+11282824,2022-03-22,Multi-chip structure including a memory die stacked on die having programmable integrated circuit,0,H01L
+11282776,2022-03-22,High density routing for heterogeneous package integration,1,G01R|H01L
+11282775,2022-03-22,Chip package assembly with stress decoupled interconnect layer,1,H01L
+11281834,2022-03-22,Protection of high-level language simulation models,1,G06F
+11281810,2022-03-22,Memory access protection in programmable logic device,1,G06F|H03K
+11281440,2022-03-22,Control and reconfiguration of data flow graphs on heterogeneous computing platform,3,G06F
+11276098,2022-03-15,Database lookup using a scannable code for part selection,1,G06F|G06K|G06Q
+11271860,2022-03-08,Compressed tag coherency messaging,0,H04L
+11270977,2022-03-08,Power delivery network for active-on-active stacked integrated circuits,1,H01L
+11270051,2022-03-08,Model-based design and partitioning for heterogeneous integrated circuits,2,G06F
+11263377,2022-03-01,Circuit architecture for expanded design for testability functionality,3,G01R|G06F|H01L|H03K
+11263169,2022-03-01,Configurable network-on-chip for a programmable device,0,G06F|H04L
+11256648,2022-02-22,Virtual hot plug system and method for PCIe devices,2,G06F
+11256520,2022-02-22,Tracing status of a programmable device,0,G06F
+11250193,2022-02-15,Productivity platform using system-on-chip with programmable circuitry,0,G06F
+11249938,2022-02-15,Programmed input/output mode,0,G06F|H04L
+11249872,2022-02-15,Governor circuit for system-on-chip,2,G06F
+11246211,2022-02-08,Micro device with through PCB cooling,2,H01L|H05K
+11245915,2022-02-08,Conversion between raster and coded formats,0,H04N
+11245554,2022-02-08,Frequency detector for clock data recovery,2,H03L|H04L
+11239203,2022-02-01,Multi-chip stacked devices,0,H01L
+11238206,2022-02-01,Partition wire assignment for routing multi-partition circuit designs,14,G06F
+11238199,2022-02-01,High-level synthesis vector library for single-instruction multiple data programming and electronic system design,3,G06F
+11232247,2022-01-25,Adaptable dynamic region for hardware acceleration,0,G06F
+11232219,2022-01-25,Protection of electronic designs,3,G06F|H04L
+11232053,2022-01-25,Multi-host direct memory access system for integrated circuits,5,G06F
+11223351,2022-01-11,Activity-aware clock gating for switches,0,G06F|H03K|Y02D
+11222256,2022-01-11,Neural network processing system having multiple processors and a neural network accelerator,7,G06N
+11217550,2022-01-04,Chip package assembly with enhanced interconnects and method for fabricating the same,0,H01L
+11216591,2022-01-04,Incremental authentication for memory constrained systems,2,G06F|H04L
+11216275,2022-01-04,Converting floating point data into integer data using a dynamically adjusted scale factor,2,G06F|H03M
+11216259,2022-01-04,Performing multiple functions in single accelerator program without reload overhead in heterogenous computing system,0,G06F
+11212072,2021-12-28,Circuit for and method of processing a data stream,0,H03L|H04L
+11210148,2021-12-28,Reception according to a data transfer protocol of data directed to any of a plurality of destination entities,0,G06F|H04L
+11205639,2021-12-21,Integrated circuit device with stacked dies having mirrored circuitry,1,H01L
+11204821,2021-12-21,Error re-logging in electronic systems,1,G06F
+11204747,2021-12-21,Re-targetable interface for data exchange between heterogeneous systems and accelerator abstraction into software instructions,12,G06F|G06N
+11204745,2021-12-21,Dataflow graph programming environment for a heterogenous processing system,3,G06F
+11201623,2021-12-14,Unified programmable computational memory and configuration network,0,G06F|H03K
+11201095,2021-12-14,Chip package having a cover with window,1,H01L
+11200182,2021-12-14,System and method for device synchronization,1,G06F
+11199582,2021-12-14,Implementing a JTAG device chain in multi-die integrated circuit,1,G01R|G06F|G08G
+11196715,2021-12-07,Slice-aggregated cryptographic system and method,0,G06F|H04L
+11196418,2021-12-07,Calibration of transmitter output impedance and receiver termination impedance using a single reference pin,8,G11C|H03K|H04L
+11195780,2021-12-07,Stacked silicon package assembly having thermal management using phase change material,3,H01L
+11194490,2021-12-07,Data formatter for convolution,3,G06F
+11189338,2021-11-30,Multi-rank high bandwidth memory (HBM) memory,1,G11C|H01L
+11188697,2021-11-30,On-chip memory access pattern detection for power and resource reduction,0,G01R|G06F|G11B|G11C|H01L|Y02D
+11188684,2021-11-30,Software defined subsystem creation for heterogeneous integrated circuits,1,G06F
+11188312,2021-11-30,Hardware-software design flow with high-level synthesis for heterogeneous and programmable devices,1,G06F|H03K
+11182317,2021-11-23,Dual-driver interface,0,G06F
+11182110,2021-11-23,On-chip memory block circuit,8,G06F|G11C|H03K|Y02D
+11177984,2021-11-16,CMOS analog circuits having a triode-based active load,0,H04L|H10D
+11176296,2021-11-16,Unified data model for heterogeneous integrated circuit,1,G06F
+11169945,2021-11-09,Bridge supporting multiple interfaces access to subsystem,1,G06F
+11169892,2021-11-09,Detecting and reporting random reset faults for functional safety and other high reliability applications,0,G06F
+11169822,2021-11-09,Configuring programmable logic region via programmable network,1,G06F|H03K
+11165720,2021-11-02,Network interface device,0,G06F|G06N|H04L
+11165683,2021-11-02,Network interface device,0,G06F|H04L
+11164749,2021-11-02,Warpage reduction,1,H01L|H10D
+11163605,2021-11-02,Heterogeneous execution pipeline across different processor architectures and FPGA fabric,1,G06F
+11159445,2021-10-26,Systems and methods for extending internal endpoints of a network device,2,H04L|Y02D
+11151298,2021-10-19,Metal track routing with buffer bank insertion,0,G06F
+11146508,2021-10-12,Data processing system,0,G06F|H04L
+11145566,2021-10-12,Stacked silicon package assembly having thermal management,2,H01L
+11144687,2021-10-12,Method and system providing visualization of sub-circuit iterations based on handshake signals,0,G06F
+11144652,2021-10-12,Secure update of programmable integrated circuits in data center computing environments,9,G06F|G09C|H04L
+11138116,2021-10-05,Network interface device supporting multiple interface instances to a common bus,0,G06F
+11138019,2021-10-05,Routing in a compilation flow for a heterogeneous multi-core architecture,6,G06F
+11134256,2021-09-28,Systems and methods for efficient parallelized video encoding,0,H04N
+11134140,2021-09-28,TCP processing for devices,3,G06Q|H04L
+11133963,2021-09-28,Dsp cancellation of track-and-hold induced ISI in ADC-based serial links,6,H03M|H04B|H04L
+11132317,2021-09-28,Encapsulated accelerator,0,G06F|G06Q|H04L
+11132296,2021-09-28,Linear interpolator of tabulated functions,1,G06F
+11127718,2021-09-21,Multi-chip stacked devices,0,H01L|H03K
+11127643,2021-09-21,Test structures for validating package fabrication process,1,H01L
+11127442,2021-09-21,Data transfers between a memory and a distributed compute array,0,G06F|G06N|G11C
+11119956,2021-09-14,Dual-driver interface,0,G06F
+11119921,2021-09-14,State machine generation for multi-buffer electronic systems,1,G06F
+11119146,2021-09-14,Testing of bonded wafers and structures for testing bonded wafers,3,G01R|H01L
+11114429,2021-09-07,Integrated circuit device with electrostatic discharge (ESD) protection,0,H01L|H10D
+11114360,2021-09-07,Multi-die device structures and methods,0,H01L
+11114344,2021-09-07,IC die with dummy structures,0,H01L|H10D
+11113223,2021-09-07,Dual mode interconnect,3,A47K|E04H|G06F|H04L|Y02A|Y02D
+11113194,2021-09-07,Producer-to-consumer active direct cache transfers,1,G06F
+11113030,2021-09-07,Constraints for applications in a heterogeneous programming environment,6,G06F
+11108644,2021-08-31,Data processing engine (DPE) array routing,2,H04L
+11108633,2021-08-31,Protocol selection in dependence upon conversion time,0,H04L
+11108401,2021-08-31,Low noise quadrature signal generation,0,G06F|H03B|H03F|H03K|H03L|H04L
+11107770,2021-08-31,Integrated electrical/optical interface with two-tiered packaging,40,G02B|H01L
+11107696,2021-08-31,Implantation for etch stop liner,0,H01L|H10D
+11106968,2021-08-31,Circuit arrangements and methods for traversing input feature maps,3,G06F|G06N
+11106851,2021-08-31,Serialization in electronic design automation flows,0,G06F
+11106616,2021-08-31,Virtualized peripheral component interconnect express (PCIe) device,1,G06F
+11100267,2021-08-24,Multi dimensional memory compression using bytewide write enable,1,G06F|G11C|H03K
+11099918,2021-08-24,Accelerating algorithms and applications on FPGAs,0,G06F
+11095515,2021-08-17,Using receive timestamps to update latency estimates,0,H04L
+11093394,2021-08-17,Delegated snoop protocol,0,G06F
+11093284,2021-08-17,Data processing system,0,G06F
+11093225,2021-08-17,High parallelism computing system and instruction scheduling method thereof,0,G06F|G06N
+11089308,2021-08-10,Removing blocking artifacts in video encoders,0,H04N
+11086815,2021-08-10,Supporting access to accelerators on a programmable integrated circuit by multiple host processes,4,G06F
+11082364,2021-08-03,Network interface device,4,G06F|H03K|H04L
+11082067,2021-08-03,System and method for determining bit types for polar encoding and decoding,3,G06F|H03M
+11075117,2021-07-27,Die singulation and stacked device structures,0,H01L
+11074208,2021-07-27,Routing network using global address map with adaptive main memory expansion for a plurality of home agents,6,G06F
+11063594,2021-07-13,Adaptive integrated programmable device platform,8,G06F|H03K
+11061673,2021-07-13,Data selection network for a data processing engine in an integrated circuit,0,G06F
+11055458,2021-07-06,Functional coverage of designs using transition bins and cross coverage,2,G01R|G06F
+11055106,2021-07-06,Bootstrapping a programmable integrated circuit based network interface card,4,G06F
+11054461,2021-07-06,Test circuits for testing a die stack,4,G01R|H01L
+11044484,2021-06-22,Intra-estimation for high performance video encoders,0,H04N
+11044183,2021-06-22,Network interface device,0,H04L
+11043484,2021-06-22,Method and apparatus of package enabled ESD protection,3,G01R|H01L|H10D
+11043480,2021-06-22,Forming and/or configuring stacked dies,8,H01L
+11043470,2021-06-22,Inductor design in active 3D stacking technology,3,H01L|H10D
+11042610,2021-06-22,Enabling integrity and authenticity of design data,1,G06F|H04L|H04W
+11042564,2021-06-22,Transaction associations in waveform displays,0,G06F|G06T
+11041211,2021-06-22,Power distribution for active-on-active die stack with reduced resistance,4,C07K|C12Q|G01N|H01L
+11038768,2021-06-15,Method and system for correlation of a behavioral model to a circuit realization for a communications system,4,G06F|H04L
+11036827,2021-06-15,Software-defined buffer/transposer for general matrix multiplication in a programmable IC,2,G06F|G06N
+11036546,2021-06-15,Multi-threaded shared memory functional simulation of dataflow graph,4,G06F
+11024583,2021-06-01,Integration of a programmable device and a processing system in an integrated circuit package,0,G06F|H01L
+11023411,2021-06-01,Programmed input/output mode,0,G06F|H04L
+11018772,2021-05-25,Optical communication circuits,0,H01L|H04B
+11018130,2021-05-25,Method to mitigate signal feed through ESD elements,0,H01L|H10D
+11017822,2021-05-25,Yield-centric power gated regulated supply design with programmable leakers,2,G11C|H01L
+11016822,2021-05-25,Cascade streaming between data processing engines in an array,1,G06F
+11012411,2021-05-18,Network interface device,3,H04L
+11010322,2021-05-18,NOC peripheral interconnect interrogation scheme,1,G06F
+11005598,2021-05-11,System and method for a forward error correction decoder with error reporting,2,H03M|H04L
+11004833,2021-05-11,Multi-chip stacked devices,5,H01L|H03K
+11003827,2021-05-11,Multiprocessing flow and massively multi-threaded flow for multi-die devices,3,G06F
+11003826,2021-05-11,Automated analysis and optimization of circuit designs,8,G06F
+11003818,2021-05-11,Range computation of bitwise operators,0,G06F
+11003204,2021-05-11,Relaxation oscillator having a dynamically controllable current source,0,G06F|H03B|H03K|H03L
+11003203,2021-05-11,Circuits for and methods of calibrating a circuit in an integrated circuit device,6,G06F|H03K
+10999303,2021-05-04,Capturing data,2,G06N|H04L
+10999246,2021-05-04,Locked down network interface,0,G06Q|H04L
+10998904,2021-05-04,Programmable termination circuits for programmable devices,2,H01L|H03K
+10991417,2021-04-27,Auto-precharge management in a controller,1,G06F|G11C
+10990826,2021-04-27,Object detection in video,2,G06F|G06N|G06T|G06V
+10990736,2021-04-27,Implementing a circuit design with re-convergence,1,G03F|G06F
+10990555,2021-04-27,Programmable pipeline at interface of hardened blocks,0,G06F
+10990552,2021-04-27,Streaming interconnect architecture for data processing engine array,3,G06F
+10990547,2021-04-27,Dynamically reconfigurable networking using a programmable integrated circuit,1,G06F|H03K
+10990517,2021-04-27,Configurable overlay on wide memory channels for efficient memory access,1,G06F
+10985764,2021-04-20,Phase detector offset to resolve CDR false lock,1,H03L|H04L
+10984500,2021-04-20,Inline image preprocessing for convolution operations using a matrix multiplier on an integrated circuit,2,G06F|G06N|G06T|H03K|H04N
+10983920,2021-04-20,Customizable multi queue DMA interface,5,G06F
+10979210,2021-04-13,Synchronization headers for serial data transmission with multi-level signaling,1,H03M|H04L
+10977404,2021-04-13,Dynamic scan chain and method,0,G01R|G06F
+10977401,2021-04-13,Preparation of circuit designs for system-on-chip devices and implementation of circuitry using instances of a logical network-on-chip,2,G06F
+10977051,2021-04-13,Dynamic base address register (BAR) reconfiguration using a peripheral component interconnect express (PCIe) extended configuration space,2,G06F
+10977018,2021-04-13,Development environment for heterogeneous devices,9,G06F
+10971474,2021-04-06,Package integration for high bandwidth memory,0,H01L
+10970217,2021-04-06,Domain aware data migration in coherent heterogenous systems,3,G06F
+10969821,2021-04-06,Latency synchronization across clock domains,0,G06F
+10969433,2021-04-06,Method to compress responses of automatic test pattern generation (ATPG) vectors into an on-chip multiple-input shift register (MISR),4,G01R|G06F
+10963746,2021-03-30,Average pooling in a neural network,0,G06F|G06N|G06V
+10963615,2021-03-30,Data processing engine (DPE) array routing,2,G06F|H03K
+10963613,2021-03-30,Partial reconfiguration of integrated circuits using shell representation of platform design with extended routing region,1,G06F
+10963460,2021-03-30,Integrated circuits and methods to accelerate data queries,1,G06F
+10963421,2021-03-30,Flexible address mapping for a NoC in an integrated circuit,10,G06F
+10963411,2021-03-30,Integrating rows of input/output blocks with memory controllers in a columnar programmable fabric archeture,4,G06F|H03M
+10963170,2021-03-30,Retaining memory during partial reconfiguration,0,G06F|Y02D
+10962588,2021-03-30,Integrated circuit devices and methods of designing and producing integrated circuits,2,G01R|G06F
+10956638,2021-03-23,Programmable integrated circuits for emulation,0,G06F
+10956241,2021-03-23,Unified container for hardware and software binaries,2,G06F
+10951249,2021-03-16,System and method for time-interpolated power change in a digital pre-distortion circuit,0,H04B|H04W
+10949586,2021-03-16,Post-synthesis insertion of debug cores,0,G06F
+10949258,2021-03-16,Multistage round robin arbitration in a multiuser system,2,G06F|H03K
+10944444,2021-03-09,Method of and circuit for predistortion for a cable TV amplifier,2,H04B|H04L|H04N
+10943043,2021-03-09,Multiple output constrained input lookup table generation,0,G06F
+10943042,2021-03-09,Data flow graph optimization techniques for RTL loops with conditional-exit statements,0,G06F|H03K
+10943039,2021-03-09,Software-driven design optimization for fixed-point multiply-accumulate circuitry,6,G06F|G06N
+10936941,2021-03-02,Efficient data access control device for neural network hardware acceleration system,5,G06F|G06N
+10936486,2021-03-02,Address interleave support in a programmable device,3,G06F
+10936311,2021-03-02,Sparse matrix processing circuitry,5,G06F
+10930611,2021-02-23,Solder joints for board level reliability,0,H01L|H05K
+10929331,2021-02-23,Layered boundary interconnect,1,G06F|Y02D
+10924483,2021-02-16,Packet validation in virtual network interface architecture,1,H04L
+10924430,2021-02-16,Streaming platform flow and architecture for an integrated circuit,4,G06F|H04L
+10924096,2021-02-16,Circuit and method for dynamic clock skew compensation,2,G06F|H03K|H05K
+10922463,2021-02-16,User dialog-based automated system design for programmable integrated circuits,2,G06F
+10922226,2021-02-16,Scratchpad memory management in a computing system,2,G06F
+10922068,2021-02-16,Updating firmware for programmable integrated circuits in computing environments,1,G06F|Y02D
+10917077,2021-02-09,Phase coherent and frequency hopping numerically controlled oscillator,2,G06F|H03C|H03K
+10916516,2021-02-09,High bandwidth memory (HBM) bandwidth aggregation switch,0,G06F|G11C|H01L|H04L
+10909292,2021-02-02,Implementing circuit designs on multi-die programmable devices,1,G06F|H03K
+10908598,2021-02-02,Integrated circuits designed for multiple sets of criteria,0,G05B|G06F|Y02P

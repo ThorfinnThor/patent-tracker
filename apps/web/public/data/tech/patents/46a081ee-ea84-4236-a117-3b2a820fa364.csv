@@ -1,0 +1,462 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12026885,2024-07-02,Method and system for automated segmentation of biological object parts in MRI,0,G06T
+11995832,2024-05-28,Method and system for characterizing an impact of brain lesions on brain connectivity using MRI,0,G06T
+11969222,2024-04-30,Actuating an x-ray device and medical system,0,A61B|G06F|G06V
+11941765,2024-03-26,Representation apparatus for displaying a graphical representation of an augmented reality,0,A61B|G02B|G06F|G06T|G16H
+11899647,2024-02-13,Documenting timestamps within a blockchain,0,G06F|H04L
+11899087,2024-02-13,"Computer-implemented method for evaluating magnetic resonance data, magnetic resonance device, computer program, and electronically readable data medium",0,G01R|G06T
+11887704,2024-01-30,Providing and receiving medical data records,0,G06F|G06Q|G16H|H04L
+11883108,2024-01-30,Method for deformation simulation and apparatus,0,A61B|A61F|G06F|G06T|G16H
+11880914,2024-01-23,Reconstruction of MR images by means of wave-CAIPI,0,G01R|G06T
+11877879,2024-01-23,Synthetic mammogram with imprinted image impression,0,A61B|G06T
+11869154,2024-01-09,"Method and system for visualising a spatial surface curvature of a 3D-object, computer program product, and computer-readable storage medium",0,A61B|G06T
+11869122,2024-01-09,Method for generating an image,0,G06T
+11868767,2024-01-09,"Computer-implemented runtime system, healthcare network, method and computer program",0,G06F|G16H|H04L
+11867781,2024-01-09,"Method for evaluating a pilot tone signal in a magnetic resonance facility, magnetic resonance facility, computer program and electronically readable data medium",0,G01R|G06F
+11861835,2024-01-02,Automatic hemorrhage expansion detection from head CT images,0,G06T
+11861828,2024-01-02,Automated estimation of midline shift in brain ct images,1,G06T
+11861827,2024-01-02,Techniques for automatically characterizing liver tissue of a patient,0,A61B|G01R|G06N|G06T|G16H
+11861764,2024-01-02,3D depth reconstruction of vessels in 2D medical images,0,A61B|G06N|G06T|G16H
+11861500,2024-01-02,Meta-learning system,1,G06F|G06N
+11857354,2024-01-02,Angiographic examination method for a vascular system,0,A61B|G06T
+11854189,2023-12-26,Dental overview map compilation,1,A61B|G01R|G06T
+11854158,2023-12-26,Medical image enhancement,0,G06N|G06T|G16H
+11854125,2023-12-26,Method and apparatus for providing an artifact-reduced x-ray image dataset,0,G06T
+11850086,2023-12-26,Method and control facility for controlling a medical imaging system,0,A61B|G06F|G16H
+11850023,2023-12-26,Determining an outer contour during MR imaging,0,A61B|A61N|G01R|G06T
+11847783,2023-12-19,Providing a mask image,0,G06T
+11847779,2023-12-19,Clinical decision support for cardiovascular disease based on a plurality of medical assessments,0,A61B|G06T|G16H
+11837362,2023-12-05,"Method for providing at least one image dataset, storage medium, computer program product, data server, imaging de-vice and telemedicine system",0,G16H|H04L|H04N
+11837352,2023-12-05,Body representations,0,G06N|G06T|G16H
+11830612,2023-11-28,Control unit and control method for controlling an output unit from information in the context of medical diagnostics and therapy,1,A61B|G06Q|G10L|G16H
+11830606,2023-11-28,Risk prediction for COVID-19 patient management,0,A61B|G06T|G16H
+11829195,2023-11-28,Method for checking a characteristic variable of an application procedure of an X-ray based medical imaging application,0,A61B|G06F|G16H
+11826175,2023-11-28,Machine-based risk prediction for peri-procedural myocardial infarction or complication from medical data,7,A61B|G06N|G06T|G16H
+11826135,2023-11-28,Method and system for automatically positioning a region of interest of a patient for a medical imaging examination,0,A61B|G06T
+11823795,2023-11-21,Calling device of magnetic resonance imaging system and magnetic resonance imaging system,0,G06K|G08B|G16H|H04W
+11823401,2023-11-21,Patient follow-up analysis,0,G06F|G06T|G16H
+11823387,2023-11-21,Providing a vascular image data record,0,A61B|G06N|G06T|G16H
+11816821,2023-11-14,Method and system for generating an enriched image of a target object and corresponding computer program and computer-readable storage medium,0,G06F|G06N|G06T|G06V
+11816815,2023-11-14,"Computer-implemented methods and systems for provision of a correction algorithm for an x-ray image and for correction of an x-ray image, x-ray facility, computer program, and electronically readable data medium",0,A61B|G06N|G06T
+11815576,2023-11-14,Method for correcting object specific inhomogeneities in an MR imaging system,0,G01R|G06N
+11810291,2023-11-07,Medical image synthesis of abnormality patterns associated with COVID-19,3,G06T
+11810290,2023-11-07,Method and computer system for generating a combined tissue-vessel representation,7,G06T
+11810243,2023-11-07,Method of rendering a volume and a surface embedded in the volume,1,G06T
+11810227,2023-11-07,MR image reconstruction based on a-priori information,0,G01R|G06T
+11809826,2023-11-07,Assertion detection in multi-labelled clinical text using scope localization,0,A61B|G06F|G06N|G16H
+11809230,2023-11-07,Docking station for accommodating a tablet computer device,1,G06F
+11806185,2023-11-07,Computer-implemented method for determining at least one main acquisition parameter and method for acquiring a main x-ray image,0,A61B|G06T|G06V
+11803966,2023-10-31,"Computer-implemented method for evaluating a CT data set regarding perivascular tissue, evaluation device, computer program and electronically readable storage medium",7,A61B|G06T|G16H
+11800978,2023-10-31,Deep learning based isocenter positioning and fully automated cardiac MR exam planning,0,A61B|G06N
+11798160,2023-10-24,Integrated method for cancer screening,0,A61B|G06T|G16H
+11790525,2023-10-17,Method for metal artifact avoidance in x-ray imaging,1,A61B|G06T
+11790496,2023-10-17,Image normalization increasing robustness of machine learning applications for medical images,0,G06N|G06T|G06V
+11786203,2023-10-17,Determining an image dataset,0,A61B|G06T
+11783950,2023-10-10,System and method for providing a medical data structure for a patient,2,G06N|G16H|H04L
+11783485,2023-10-10,Protocol-aware tissue segmentation in medical imaging,1,G06N|G06T|G16H
+11783484,2023-10-10,Protocol-aware tissue segmentation in medical imaging,1,G06N|G06T|G16H
+11777940,2023-10-03,Storing and accessing medical datasets on the blockchain,0,G06F|G16H|H04L
+11776128,2023-10-03,Automatic detection of lesions in medical images using 2D and 3D deep learning networks,2,G06N|G06T|G16H
+11776117,2023-10-03,Machine learning from noisy labels for abnormality assessment in medical imaging,0,G06N|G06T|G16H
+11775821,2023-10-03,Method for learning from data with label noise,0,G06F|G06N
+11771384,2023-10-03,Positioning of an examination object in relation to an x-ray device,0,A61B|G06T
+11769583,2023-09-26,Systems and methods for generating a result image,0,G01R|G06T|G16H
+11766232,2023-09-26,"Method, imaging apparatus and computer program product for positioning imaging-relevant components",1,A61B|H04N
+11763454,2023-09-19,Processing a medical image,3,G06N|G06T
+11756667,2023-09-12,Decision support system for medical therapy planning,0,A61B|A61N|G06N|G06T|G16H
+11756243,2023-09-12,"Computer-implemented method for determining nuclear medical image data sets in dynamic nuclear medical imaging, determining device and electronically readable storage medium",0,A61B|G06T
+11751818,2023-09-12,Method and system for creating a roadmap for a medical workflow,0,A61B|G01R|G06T|G16H
+11749406,2023-09-05,Spine segmentation system,0,G06F|G06N|G06T|G06V|G16H
+11748921,2023-09-05,Learnable extrapolation for deep learning-based medical image reconstruction,0,G06N|G06T
+11748899,2023-09-05,Dense body marker estimation from camera data for patient positioning in medical imaging,1,A61B|A61N|G06T
+11748886,2023-09-05,Classifying a lesion based on longitudinal studies,0,G06T|G06V
+11748878,2023-09-05,Methods and systems for generating surrogate marker based on medical image data,0,A61B|G06T|G16H
+11747415,2023-09-05,Method and system for monitoring depletion of a coolant in a cooling system,0,F25B|G01R|G06F|G06T
+11741605,2023-08-29,Method and system for image registration using an intelligent artificial agent,2,A61B|G06T
+11734849,2023-08-22,Estimating patient biographic data parameters,0,G06N|G06T|G06V|G16H
+11734599,2023-08-22,Flexible use of a clinical decision support system,1,A61B|G06N|G06T|G16H
+11733333,2023-08-22,"Method for generating at least one image data set and one reference image data set, data carrier, computer program product and magnetic resonance system",0,G01R|G06T
+11727567,2023-08-15,"Method for generating synthetic X-ray images, control unit, and computer program",0,A61B|G06T|G06V|G16H
+11726159,2023-08-15,B0 and B1 correction anti-respectively,0,G01R|G06T|Y02A
+11721049,2023-08-08,"Method for generating at least one image dataset and one reference image dataset, data carrier, computer program product, and magnetic resonance system",0,G01R|G06N|G06T
+11720794,2023-08-08,Training a multi-stage network to reconstruct MR images,0,G06N|G06T
+11719779,2023-08-08,Adaptive reconstruction of MR data,0,G01R|G06N
+11717246,2023-08-08,Method to generate localizer radiograph by rotating projections with fan beam,0,A61B|G06T
+11717233,2023-08-08,Assessment of abnormality patterns associated with COVID-19 from x-ray images,0,A61B|G06F|G06T|G06V|G16H
+11710566,2023-07-25,Artificial intelligence dispatch in healthcare,0,A61B|G06N|G06T|G16H
+11707245,2023-07-25,Quantification of an influence of scattered radiation in a tomographic analysis,0,A61B|G06T
+11707240,2023-07-25,Visualization method and apparatus,0,A61B|G06N|G06T|G16H
+11706021,2023-07-18,"Method, server and communication system for secure delivery of patient's image and consent data",0,G06Q|G16H|H04L
+11705229,2023-07-18,Method and device for exchanging information regarding the clinical implications of genomic variations,0,G06F|G16B|G16H
+11704845,2023-07-18,Tomosynthesis method,0,A61B|G06T
+11703559,2023-07-18,Magnetic resonance imaging method and magnetic resonance imaging system,0,G01R|G06T
+11700592,2023-07-11,Adjusting a transmission frequency of a physiological monitoring unit,0,A61B|G08B|G08C|H04W
+11699233,2023-07-11,Digital pathology using an artificial neural network,0,G06T|G06V
+11694328,2023-07-04,Method and system for outputting augmented reality information,0,A61B|G06F|G06T|G16H
+11693072,2023-07-04,"Magnetic resonance water-fat image separation method and apparatus, imaging system and storage medium",0,G01R|G06T
+11686799,2023-06-27,Method and apparatus for generation of combined magnetic resonance images,0,A61B|G01R|G06T
+11684262,2023-06-27,Providing a medical image,0,A61B|G01R|G06T|G16H
+11682145,2023-06-20,Systems and methods for generating medical image data for longitudinal studies,2,G06T|G16H
+11678853,2023-06-20,Multi-task learning framework for fully automated assessment of coronary artery disease,5,A61B|G06F|G06N|G06T|G06V|G16H
+11671266,2023-06-06,Providing a first digital certificate and a DNS response,0,H04L
+11669984,2023-06-06,Method and system for registering multiple structures in medical images,17,A61B|G06T
+11668776,2023-06-06,Method for providing a process plan of a magnetic resonance examination,0,G01R|G06F|G16H
+11666301,2023-06-06,Data correction in X-ray imaging,0,A61B|G01T|G06T
+11664125,2023-05-30,System and method for deep learning based cardiac electrophysiology model personalization,0,A61B|G06F|G06N|G16H|G16Z
+11664116,2023-05-30,Medical image data,0,G06T|G16H
+11663221,2023-05-30,Method for dynamic data minimization of a data set by means of whitelisting,0,G06F
+11662414,2023-05-30,Trained image processing for diffusion weighted imaging and/or turbo spin echo sequences with focus on body applications,0,G01R|G06N|G06V
+11662409,2023-05-30,Performance-optimized method for determining valid parameter datasets,0,G01R|G06F
+11657519,2023-05-23,Method for deformation correction,0,G06T
+11656306,2023-05-23,Magnetic resonance apparatus having a patient communication unit and a method for transmitting at least one communication signal,0,G01R|G06T
+11653887,2023-05-23,Method for creating a synthetic mammogram on the basis of a dual energy tomosynthesis recording,0,A61B|G06T
+11645767,2023-05-09,Capturing a misalignment,0,G06T
+11645447,2023-05-09,Encoding textual information for text analysis,0,G06F
+11640304,2023-05-02,System and method for the administration of imaging devices,0,A61B|G06F|G16H
+11636953,2023-04-25,"Method for comparing reference values in medical imaging processes, system comprising a local medical imaging device, computer program product and computer-readable program",0,A61B|G06F|G16H
+11636929,2023-04-25,Uploading a data record to a cloud repository,0,G06F|G16H|H04L
+11636590,2023-04-25,Providing a result image data set,0,G06F|G06N|G06T|G06V
+11631500,2023-04-18,Patient specific risk prediction of cardiac events from image-derived cardiac function features,0,A61B|G06F|G06V|G16H
+11630995,2023-04-18,Characterization of amount of training for an input to a machine-learned network,0,G06F|G06N|G06V|G16H
+11627929,2023-04-18,System and method for recording a positron emission tomography image data set,0,A61B|G01R|G01T|G06T
+11627927,2023-04-18,"Medical imaging device having a movable patient couch and a touch-sensitive and force-sensitive interface for controlling the movable patient couch, and method for operating a medical imaging device",0,A61B|G01R|G01T|G05B|G06F|G16H
+11626203,2023-04-11,Method and data processing system for providing a prediction of a medical target variable,0,G06T|G16H
+11615529,2023-03-28,"Automatic, dynamic, and adaptive slice planning for cardiac MRI acquisition",5,G01R|G06T
+11615528,2023-03-28,Method and device for computed tomography imaging,0,A61B|G06N|G06T|G16H
+11615267,2023-03-28,X-ray image synthesis from CT images for training nodule detection systems,0,G06F|G06N|G06T|G06V
+11610316,2023-03-21,Method of computing a boundary,0,A61B|G06N|G06T|G06V
+11610308,2023-03-21,Localization and classification of abnormalities in medical images,0,G06F|G06N|G06T|G06V
+11605447,2023-03-14,Intelligent agents for patient management,1,A61M|G06Q|G16H
+11602320,2023-03-14,Method for creating a three-dimensional digital subtraction angiography image and a C-arm X-ray device,0,A61B|A61K|G06T
+11600012,2023-03-07,Display of a virtual object linked to a real object in an augmented reality display device,1,G06T
+11599977,2023-03-07,Image-processing of image datasets of patients,0,A61B|G06T
+11599564,2023-03-07,Transmission of a data set and provision of data transmission information,0,G06F|G16H|H04L
+11599343,2023-03-07,Methods and devices for modifying a runtime environment of imaging applications on a medical device,1,G06F|G16H
+11599191,2023-03-07,Automatic localization of a structure,0,G06F|G16H
+11598833,2023-03-07,Saturation-prepared recording of MR image data,0,A61B|G01R|G06T
+11596376,2023-03-07,Providing corrected x-ray images,0,A61B|G06T
+11589924,2023-02-28,Non-invasive assessment and therapy guidance for coronary artery disease in diffuse and tandem lesions,20,A61B|G06N|G06T|G16H|Y02A
+11587675,2023-02-21,Quantitative mapping by data-driven signal-model learning,0,G01R|G06F|G06N|G16H
+11582580,2023-02-14,Combined indoor and outdoor tracking using machine learning,0,G01S|G06N|G06Q|H04W
+11581088,2023-02-14,Method and data processing system for providing respiratory information,0,A61B|G06T|G16H
+11580640,2023-02-14,Identifying the quality of the cell images acquired with digital holographic microscopy using convolutional neural networks,0,G02B|G03H|G06F|G06T|G06V
+11580381,2023-02-14,Complex-valued neural network with learnable non-linearities in medical imaging,2,G06N|G16H
+11579226,2023-02-14,System and method for time of flight imaging with a tight sequence diagram pattern,0,A61B|G01R|G06T
+11576557,2023-02-14,"Method for supporting a user, computer program product, data medium and imaging system",0,A61B|G06T
+11568585,2023-01-31,Method for the artifact correction of three-dimensional volume image data,0,A61B|G06N|G06T
+11564643,2023-01-31,Monitoring handling of an object,1,A61B|G06F|G06T
+11559271,2023-01-24,Method and data processing system for providing decision-supporting data,0,A61B|G06T|G16H
+11559263,2023-01-24,Method for improving the image quality of x-ray tomograms,0,A61B|G06T|H04N
+11559221,2023-01-24,Multi-task progressive networks for patient modeling for medical scans,0,A61B|G06N|G16H
+11557036,2023-01-17,Method and system for image registration using an intelligent artificial agent,13,A61B|G06T
+11555876,2023-01-17,Quantitative magnetic resonance imaging techniques,0,G01R|G06T
+11551810,2023-01-10,Method for acquiring and for altering a configuration of a number of objects in a procedure room and corresponding device,0,A61B|G06T|G16H
+11547323,2023-01-10,Patient model estimation from camera stream in medicine,1,A61B|A61N|G06T|G06V|G16H
+11543478,2023-01-03,Method and apparatus for generating a T1/T2 map,0,G01R|G06T
+11540884,2023-01-03,Method and tracking system for tracking a medical object,0,A61B|G06T
+11538154,2022-12-27,Method and device for automatic determination of the change of a hollow organ,0,A61B|G06T
+11538152,2022-12-27,Method for providing an aggregate algorithm for processing medical data and method for processing medical data,0,G06F|G06N|G06T|G06V|G16H
+11537826,2022-12-27,Determining a processing sequence for processing an image,0,G06F|G06N
+11534102,2022-12-27,"Method for measuring corpus callosum volume of fetus by means of magnetic resonance imaging, and magnetic resonance imaging apparatus",0,A61B|G01R|G06N|G06V
+11532395,2022-12-20,Optimizing catheterization laboratory throughput using machine learning,2,G06N|G16H
+11532144,2022-12-20,Method and apparatus for actuating a medical imaging device,0,A61B|A61G|G06T|G06V
+11532074,2022-12-20,Providing a resultant image dataset and providing a trained generator function,1,G06N|G06T
+11529110,2022-12-20,"Method for operating a medical imaging apparatus, medical imaging apparatus, computer program and electronically readable storage medium",1,A61B|G06N|G16H
+11517281,2022-12-06,"Method for generating image data, computed tomography system, and computer program product",0,A61B|G06T
+11515030,2022-11-29,System and method for artificial agent based cognitive operating rooms,2,A61B|G06T|G08B|G09B|G16H
+11514623,2022-11-29,Providing a medical image,0,A61B|G06T
+11514571,2022-11-29,Hierarchical analysis of medical images for identifying and assessing lymph nodes,0,A61B|G06T
+11508100,2022-11-22,Providing a difference image data record and providing a trained function,1,A61B|G06T
+11508061,2022-11-22,Medical image segmentation with uncertainty estimation,1,G06N|G06T
+11501460,2022-11-15,Magnetic resonance imaging system and method,1,A61B|G01R|G06T
+11494956,2022-11-08,Computer-implemented method for the reconstruction of medical image data,0,G06T
+11491350,2022-11-08,Decision support system for individualizing radiotherapy dose,1,A61B|A61N|G06N|G16H
+11490964,2022-11-08,Planning support for an interventional procedure,0,A61B|G06T|G16H
+11488334,2022-11-01,"Method for operating a magnetic resonance apparatus, magnetic resonance apparatus, computer program and electronically readable data storage medium",0,G01R|G06T
+11488313,2022-11-01,Generating a motion-compensated image or video,1,A61B|G06T
+11482309,2022-10-25,Healthcare network,0,G06Q|G16H
+11481936,2022-10-25,Establishing a three-dimensional tomosynthesis data record,0,A61B|G06T
+11478212,2022-10-25,Method for controlling scanner by estimating patient internal anatomical structures from surface data using body-surface and organ-surface latent variables,2,A61B|G01R|G06T|G16H
+11478159,2022-10-25,Inflow-based pulse wave velocity profiling along the aorta using magnetic resonance imaging,0,A61B|G01R|G06T|G16H
+11474181,2022-10-18,"MRI method and device based on a blade sequence, and storage medium",0,G01R|G06T
+11468982,2022-10-11,Medical imaging apparatus and method for actuating at least one display of a medical imaging apparatus,0,A61B|G01R|G06Q|G16H|H04L
+11468569,2022-10-11,Providing a prognosis data record,0,A61B|G06T|G06V
+11464491,2022-10-11,Shape-based generative adversarial network for segmentation in medical imaging,2,A61B|G06F|G06N|G06T|G16H
+11461897,2022-10-04,Method and analysis devices for classifying tissue samples,0,G06F|G06T|G06V
+11460529,2022-10-04,Method and system for improving magnetic resonance images,0,A61B|G01R|G06T
+11457521,2022-09-27,Influencing a focal spot,0,G06N|H01J|H05G
+11455734,2022-09-27,Method and device for automatic motion detection in medical image-series,0,A61B|G01R|G06N|G06T|G06V
+11455711,2022-09-27,Providing an optimum subtraction data set,0,A61B|G06T
+11454688,2022-09-27,System and method for providing at least one parameter for a magnetic resonance scan,0,A61B|G01R|G06N|G06T
+11454687,2022-09-27,Multi-echo radial look-locker imaging for simultaneous T1 and fat fraction quantification,0,A61B|G01R|G06T
+11452487,2022-09-27,"X-ray detector module, medical imaging device and method for operating an x-ray detector module",0,A61B|G01N|G01T|G21K|H04N|H05G
+11450431,2022-09-20,Method to identify optimum coronary artery disease treatment,0,G06N|G16H|G16Z
+11448718,2022-09-20,Subtle intensity graduating homomorphic transform to improve conspicuity of low-intensity pathologies,0,G01R|G06T
+11448717,2022-09-20,Method and deep quantitative susceptibility mapping (QSM),0,G01R|G06N|G06T|G16H
+11446091,2022-09-20,Method and system for determining a navigation pathway for invasive medical instrument in blood vessels,0,A61B|G06T|G16H
+11445994,2022-09-20,Non-invasive electrophysiology mapping based on affordable electrocardiogram hardware and imaging,2,A61B|G06N|G06T|G16H
+11443201,2022-09-13,Artificial intelligence-based self-learning in medical imaging,0,A61B|G06N|G06T|G16H
+11442126,2022-09-13,System and method for estimating a relative substance composition of a portion of a body of a patient,0,G01R|G06N|G16H
+11436767,2022-09-06,Providing a constraint image data record and/or a difference image data record,0,G06T
+11436722,2022-09-06,Method and system for fast assessment of brain change normality,0,A61B|G06T
+11436721,2022-09-06,"Medical imaging device, system, and method for generating a motion-compensated image, and corresponding storage medium",0,A61B|G06T
+11435421,2022-09-06,Attaching peripheral components of a medical imaging system,1,G01R|G06F|G16H|H04L
+11435419,2022-09-06,Streak artifact reduction in magnetic resonance imaging,0,G01R|G06T
+11432787,2022-09-06,Method and apparatus for image noise reduction,0,A61B|G06T|G06V
+11430126,2022-08-30,Method and image processing apparatus for the segmentation of image data and computer program product,0,G06F|G06T|G06V
+11430121,2022-08-30,Assessment of abnormality regions associated with a disease from chest CT images,1,A61B|G06T
+11430119,2022-08-30,Spatial distribution of pathological image patterns in 3D image data,0,G06F|G06T|G06V
+11423554,2022-08-23,Registering a two-dimensional image with a three-dimensional image,17,A61B|G06T
+11423539,2022-08-23,Provision of a differential image dataset and a trained generator function,0,A61B|G06F|G06T|G06V
+11422217,2022-08-23,Progressive generative adversarial network in medical image reconstruction,0,G01R|G06N|G06T|G16H
+11419568,2022-08-23,Multi-energy metal artifact reduction,0,A61B|G06T|G16H
+11410374,2022-08-09,Synthetic parameterized computed tomography from surface data in medical imaging,1,A61B|G06N|G06T|G06V
+11410308,2022-08-09,3D vessel centerline reconstruction from 2D medical images,7,G06T|G06V
+11406336,2022-08-09,Tomosynthesis method with combined slice image datasets,0,A61B|G06T
+11404160,2022-08-02,Method and system for managing and editing data of a medical device,0,G06F|G16H
+11403761,2022-08-02,Probabilistic motion model for generating medical images or medical image sequences,1,G06T
+11403750,2022-08-02,Localization and classification of abnormalities in medical images,2,G06F|G06N|G06T|G06V
+11402453,2022-08-02,Method and system for determining sufficiency of measurement data for post-processing process,0,A61B|G01N|G01R|G06T
+11398072,2022-07-26,Method of obtaining a set of values for a respective set of parameters for use in a physically based path tracing process and a method of rendering using a physically based path tracing process,2,G06T
+11398031,2022-07-26,"Method for automatically determining a weighting for a roadmap method,computer program, data memory and corresponding imaging apparatus",0,A61B|G06T|G16H
+11398027,2022-07-26,Age-specific image atlas,0,A61B|G01R|G06N|G06T|G16H
+11397232,2022-07-26,Combined determination of T1 and a tissue proportion,0,A61B|G01R|G06N|G06T|G16H
+11393576,2022-07-19,"Method for setting a medical imaging protocol, system for setting a medical instrument, computer program and computer-readable medium",0,G06N|G16H
+11393229,2022-07-19,Method and system for artificial intelligence based medical image segmentation,11,G06F|G06N|G06T|G06V|G16H
+11389130,2022-07-19,System and methods for fast computation of computed tomography based fractional flow reserve,11,A61B|G06N|G16H
+11389127,2022-07-19,Spectral CT-based 511 KeV for positron emission tomography,0,A61B|A61N|G01N|G06T
+11389122,2022-07-19,"Method for registering an X-ray image data set with a navigation system, computer program product, and system",0,A61B|G06T
+11386553,2022-07-12,Medical image data,1,G06N|G06T
+11382603,2022-07-12,System and methods for performing biomechanically driven image registration using ultrasound elastography,0,A61B|G01S|G06T
+11382577,2022-07-12,Determining stiffness information of a medical instrument,0,A61B|G06T
+11379994,2022-07-05,"Method and imaging device for generating a motion-compensated image, computer program, and storage medium",0,G06T
+11373392,2022-06-28,System and method for magnetic resonance fingerprinting using a plurality of pulse sequence types,0,G01R|G06T
+11373330,2022-06-28,Image-based guidance for device path planning based on penalty function values and distances between ROI centerline and backprojected instrument centerline,1,A61B|G06T
+11373310,2022-06-28,Method for producing a digital subtraction angiography and apparatus,0,A61B|G06T
+11369331,2022-06-28,"Method for artifact reduction in a medical image data set, X-ray device, computer program and electronically readable data carrier",4,A61B|G06T
+11367523,2022-06-21,Method for image data processing,0,G06T|G16H
+11361861,2022-06-14,Controlling cloud-based image processing by assuring data confidentiality,0,G06F|G16H|H04L
+11360178,2022-06-14,Method and apparatus for reconstructing magnetic resonance image data,1,G01R|G06T
+11360176,2022-06-14,Reconstruction of magnetic-resonance datasets using machine learning,1,G01R|G06N|G16H
+11357465,2022-06-14,Evaluating the reliability of a CT volume image,0,A61B|G06T
+11354833,2022-06-07,K-space trajectory infidelity correction in magnetic resonance imaging,0,G01R|G06T
+11354829,2022-06-07,Model-based image reconstruction using analytic models learned by artificial neural networks,1,G06F|G06T|G06V
+11354813,2022-06-07,Dilated fully convolutional network for 2D/3D medical image registration,17,G06T|G06V
+11354776,2022-06-07,Temperature-dependent correction of magnetic resonance image data,1,G01R|G06T
+11353529,2022-06-07,"Method for generating a magnetic resonance image, computer program, data memory, and magnetic resonance system",0,G01R|G06T
+11350888,2022-06-07,Risk prediction for sudden cardiac death from image derived cardiac motion and structure features,1,A61B|G06T|G16H
+11348008,2022-05-31,Method and computer for determination of a training function for generating annotated training images,1,G06F|G06N|G06T|G06V
+11346911,2022-05-31,Magnetic resonance fingerprinting image reconstruction and tissue parameter estimation,5,G01R|G06N
+11344269,2022-05-31,Method for monitoring a tissue removal by means of an x-ray imaging system,1,A61B|G06T
+11341672,2022-05-24,Method and device for detecting an anatomical feature of a section of a blood vessel,0,G06N|G06T
+11341642,2022-05-24,Method and system for mapping a fraction of tissue concentrations in MRI,1,G01R|G06T
+11341632,2022-05-24,Method for obtaining at least one feature of interest,0,G06T|G06V|G16H
+11341333,2022-05-24,Natural language sentence generation for radiology,0,G06F|G06N|G16H
+11335017,2022-05-17,"Registration facility, method for registering, corresponding computer program and computer-readable storage medium",0,A61B|G06T
+11335001,2022-05-17,Method and system for monitoring a biological process,0,A61B|G06T
+11334791,2022-05-17,Learning to search deep network architectures,2,G06N
+11333734,2022-05-17,Quality and signal-to-noise ratio of free-breathing quantitative measurement of magnetic resonance imaging parameters and related biomarkers,0,G01R|G06T
+11328423,2022-05-10,Characterization of plaque,0,A61B|G06T|G16H|Y02A
+11328412,2022-05-10,Hierarchical learning of weights of a neural network for performing multiple analyses,0,G06N|G06T|G16H
+11327773,2022-05-10,Anatomy-aware adaptation of graphical user interface,2,G06F|G06N|G06T|G06V|G16H
+11327135,2022-05-10,Artificial intelligence based suppression of chemical species in magnetic resonance imaging,0,G01R|G06N|G06T
+11323251,2022-05-03,Method and system for the secure transfer of a dataset,0,G16H|H04L
+11321833,2022-05-03,Segmenting metal objects in projection images,1,G06T
+11317875,2022-05-03,Reconstruction of flow data,1,A61B|G06T
+11315243,2022-04-26,X-ray image processing method and system and computer storage medium,0,G01N|G06T
+11311270,2022-04-26,Intervolume lesion detection and image preparation,0,A61B|G06T
+11311267,2022-04-26,Method of position planning for a recording system of a medical imaging device and medical imaging device,2,A61B|G06T
+11310347,2022-04-19,Transferring a user interface,1,G16H|H04L
+11308664,2022-04-19,Method for reconstructing a three-dimensional image data set,1,G06T
+11308613,2022-04-19,Synthesis of contrast enhanced medical images,6,G01R|G06T
+11308611,2022-04-19,Reducing false positive detections of malignant lesions using multi-parametric magnetic resonance imaging,0,G06F|G06T|G06V
+11307924,2022-04-19,Sequence mining in medical IoT data,2,G05B|G06F|G06N|G06Q|G16H
+11304666,2022-04-19,Creation of a digital twin for medical examinations,0,A61B|G06T|G16H
+11304619,2022-04-19,Generating setting parameters for an MRI sequence,0,A61B|G01R|G06N|G16H
+11302436,2022-04-12,"Method, computer and medical imaging apparatus for the provision of confidence information",0,A61B|G06F|G06T|G06V|G16H
+11302069,2022-04-12,Implicit surface shading in medical volumetric rendering,0,G06F|G06T|G06V
+11301998,2022-04-12,Method and system for calculating an output from a tomographic scrollable image stack,0,G06T|G16H
+11301997,2022-04-12,Image registration and principal component analysis based multi-baseline phase correction method for proton resonance frequency thermometry,0,A61B|G06T
+11301038,2022-04-12,Method and device for reducing movement artefacts in magnetic resonance imaging,0,A61B|G06F|G16H|H04N
+11298099,2022-04-12,"Method for controlling the operation of a medical apparatus, operating device, operating system, medical apparatus, computer program and electronically readable data carrier",1,A61B|G06F|G06N|G16H
+11295852,2022-04-05,Personalized patient model,0,G06F|G06N|G06T|G16H
+11295837,2022-04-05,Dynamic creation of overview messages in the healthcare sector,2,G06F|G16H
+11291421,2022-04-05,Method for determining orthogonal slice image data sets of a tomosynthesis recording,0,A61B|G06F|G06T
+11288806,2022-03-29,Protocol-aware tissue segmentation in medical imaging,1,G06N|G06T|G16H
+11288804,2022-03-29,"Brain tumor image segmentation method, device and storage medium",0,A61B|G01R|G06T
+11284850,2022-03-29,Reduced interaction CT scanning,1,A61B|G06T
+11282211,2022-03-22,"Medical imaging device, method for supporting medical personnel, computer program product, and computer-readable storage medium",1,G06T
+11282203,2022-03-22,Method and system for image analysis,0,G06T
+11275976,2022-03-15,Medical image assessment with classification uncertainty,0,G06F|G06T|G06V
+11275141,2022-03-15,"Magnetic resonance diffusion tensor imaging method and device, and fiber tracking method and device",0,A61B|G01R|G06N|G06T
+11272843,2022-03-15,Automatic identification of subjects at risk of multiple sclerosis,0,A61B|G01R|G06T|G16H
+11265143,2022-03-01,Anonymized generating and proving of processed data,0,G06F|H04L
+11263744,2022-03-01,Saliency mapping by feature reduction and perturbation modeling in medical imaging,2,G06F|G06N|G06T|G06V
+11263721,2022-03-01,Method and data processing system for providing a two-dimensional unfolded image of at least one tubular structure,0,G06T
+11263501,2022-03-01,Generating reports of three dimensional images,0,G06F|G06V|G16H
+11257259,2022-02-22,Topogram prediction from surface data in medical imaging,3,A61B|G06F|G06N|G06T|G06V|G16H
+11255943,2022-02-22,Motion determination for volumetric magnetic resonance imaging using a deep machine-learning model,0,A61B|G01R|G06N|G06T|G16H
+11251998,2022-02-15,"Pilot tone device, magnetic resonance tomography system with pilot tone device, and operating method",0,A61B|G01R|H04L
+11250565,2022-02-15,"Medical assistance device, system, and method for determining a deformation of a subject, computer program, corresponding computer-readable storage medium",1,A61B|G06T
+11249596,2022-02-15,Providing an output signal by a touch-sensitive input unit and providing a trained function,0,G06F|G06N|G16H
+11244453,2022-02-08,Determining malignancy of pulmonary nodules using deep learning,1,A61B|G06F|G06T|G06V
+11244448,2022-02-08,Method and data processing system for providing lymph node information,0,G06T
+11244433,2022-02-08,Medical X-ray devices and methods for operating medical X-ray devices,0,A61B|G06T
+11238627,2022-02-01,"Method for the reconstruction of an image data set of computed tomography, computed tomography apparatus, computer program and electronically readable data carrier",1,A61B|G06T|H04N
+11232859,2022-01-25,Artificial intelligence for basal and apical slice identification in cardiac MRI short axis acquisitions,0,G06N|G06T|G16H
+11232610,2022-01-25,Generating a quantitative parameter map from magnetic resonance (MR) data,0,G01R|G06T
+11232566,2022-01-25,Method and system for evaluation of tumor tissue by unfolding morphological and texture properties,0,A61B|G06T
+11229773,2022-01-25,Determining a vessel puncture position,0,A61B|A61M|G06T
+11229377,2022-01-25,System and method for next-generation MRI spine evaluation,0,A61B|G06T|G16H
+11227416,2022-01-18,"Image reconstruction method, apparatus, and system in magnetic resonance imaging, and storage medium",0,A61B|G06T|G16H
+11227386,2022-01-18,Identifying the quality of the cell images acquired with digital holographic microscopy using convolutional neural networks,2,G02B|G03H|G06F|G06T|G06V
+11226422,2022-01-18,X-ray detector and x-ray device with x-ray detector,0,A61B|G01T|H04N|H10F
+11223523,2022-01-11,Comparing protocols of medical imaging devices,0,H04L
+11222411,2022-01-11,Method for automatically adapting an image data set obtained by an x-ray device,0,A61B|G06T|G16H
+11216991,2022-01-04,Method for generating an image,0,G06T
+11215683,2022-01-04,Method and magnetic resonance apparatus correction of multiple distortion effects during magnetic resonance imaging,0,G01R|G06T
+11210819,2021-12-28,Motion correction of a reconstructed three-dimensional image dataset,1,A61B|G06T
+11210779,2021-12-28,Detection and quantification for traumatic bleeding using dual energy computed tomography,0,A61B|G06T
+11210192,2021-12-28,Technical improvement evaluation for a set of applications,0,G06F
+11209511,2021-12-28,Magnetic resonance fingerprinting with dictionary recompression,0,G01R|G06T
+11207035,2021-12-28,Sensor-based patient treatment support,2,A61B|A61G|G06T|G06V|G08B|G16H
+11207029,2021-12-28,Method for denoising time series images of a moved structure for medical devices,0,A61B|G06T|G16H
+11205255,2021-12-21,Generating a mixed image data record,0,A61B|G06T|G16H
+11200463,2021-12-14,Method for adapting an image impression,0,G06F|G06N|G06T|G16H
+11199953,2021-12-14,Processing a user input in relation to an image,0,A61B|G06F|G06T|G16H
+11191490,2021-12-07,Personalized assessment of patients with acute coronary syndrome,0,A61B|G06T|G16H
+11185231,2021-11-30,Intelligent multi-scale medical image landmark detection,0,A61B|G06F|G06N|G06T|G06V|G16H
+11182925,2021-11-23,Method of determining a correspondence between frames of medical image data with and without contrast medium through probability distribution maps relating to position of a feature,0,A61B|A61F|A61M|G06T
+11177031,2021-11-16,Healthcare network,1,G06F|G16H
+11176717,2021-11-16,Guiding protocol development for magnetic resonance thermometry,0,G01R|G06F|G06T
+11176188,2021-11-16,Visualization framework based on document representation learning,1,G06F|G06N|G06V|G16H
+11172902,2021-11-16,Recording a panorama dataset of an examination object by a movable medical x-ray device,0,A61B|G06N|G06T
+11172842,2021-11-16,Method and device for analyzing acquired magnetic resonance images,0,A61B|G01R|G06T
+11170891,2021-11-09,Image generation from a medical text report,0,G06F|G16H
+11170499,2021-11-09,"Method and device for the automated evaluation of at least one image data record recorded with a medical image recording device, computer program and electronically readable data carrier",1,G06N|G06T|G06V|G16H
+11166689,2021-11-09,Providing a dynamic mask image,0,A61B|G06T
+11158069,2021-10-26,Unsupervised deformable registration for multi-modal images,2,G06T
+11158030,2021-10-26,Noise reduction in computed tomography data,0,G06T
+11154213,2021-10-26,Detection of position and frequency of a periodically moving organ in an MRI examination,0,A61B|G01R|G06T
+11154196,2021-10-26,Deep-learnt tissue deformation for medical imaging,2,A61B|G06T
+11151772,2021-10-19,Computer-implemented method of deriving 3D image data of a reconstruction volume and computer readable medium,0,A61B|G06T
+11151732,2021-10-19,Motion correction of angiography images for 3D reconstruction of coronary arteries,0,A61B|G06T
+11147455,2021-10-19,Interactive data acquisition and reconstruction by a magnetic resonance system,0,A61B|G01R|G06T
+11145057,2021-10-12,Assessment of collateral coronary arteries,0,G06N|G06T
+11138731,2021-10-05,"Methods for generating synthetic training data and for training deep learning algorithms for tumor lesion characterization, method and system for tumor lesion characterization, computer program and electronically readable storage medium",2,G06N|G06T
+11137465,2021-10-05,"Method and system for cleaning a magnetic resonance measurement dataset, computer program and computer-readable storage medium",0,G01R|G06T
+11137461,2021-10-05,Magnetic resonance method and apparatus for determination of quantitative tissue parameters,0,G01R|G06T
+11134911,2021-10-05,Supporting an evaluator in evaluation of a computed tomography data set,0,A61B|G06T
+11132792,2021-09-28,Cross domain medical image segmentation,6,G06N|G06T|G06V
+11127197,2021-09-21,Internal lighting for endoscopic organ visualization,0,A61B|G06T
+11127138,2021-09-21,Automatic detection and quantification of the aorta from medical images,0,G06T|G06V|G16H
+11113813,2021-09-07,Evaluating a condition of a person,3,A61B|G06T|G06V|G16H
+11109823,2021-09-07,"Method for controlling a x-ray imaging device, x-ray imaging device, computer program and electronically readable storage medium",1,A61B|G06T
+11107270,2021-08-31,Medical scene model,1,A61B|G01B|G01S|G06T|G06V|G16H
+11105876,2021-08-31,Method and system for generating synthetic images with switchable image contrasts,0,A61B|G01R|G06T
+11101032,2021-08-24,Searching a medical reference image,1,G06F|G06V|G16H
+11101025,2021-08-24,Providing a patient model of a patient,1,A61B|A61N|G06T|G16H
+11099251,2021-08-24,Method for automatic selection of imaging parameters for imaging methods,0,G01R|G06F|G06T|G16H
+11096759,2021-08-24,Operating a medical image recording device,1,A61B|A61N|G06N|G06T|G16H
+11089037,2021-08-10,Method for automatically retrieving workflow and method for detecting intrusion in distributed system,0,G06F|H04L
+11087556,2021-08-10,Transferring a state between VR environments,1,A63F|G06F|G06T
+11080899,2021-08-03,Method for three-dimensional digital subtraction angiography and apparatus,0,A61B|G06T
+11080853,2021-08-03,Calculating an image matrix size,0,G06T
+11079456,2021-08-03,Method of reconstructing magnetic resonance image data,0,A61B|G01R|G06F|G06T
+11074688,2021-07-27,Determination of a degree of deformity of at least one vertebral bone,3,A61B|G06F|G06T|G06V
+11071469,2021-07-27,Magnetic resonance method and apparatus for determining a characteristic of an organ,0,A61B|G01R|G06T
+11069439,2021-07-20,"Method for controlling an evaluation device for medical images of patient, evaluation device, computer program and electronically readable storage medium",0,G06T|G16H
+11069096,2021-07-20,Method for processing parameters of a machine learning method and reconstruction method,0,A61B|G06N|G06T
+11069065,2021-07-20,Validity of a reference system,0,G06T
+11062488,2021-07-13,Magnetic resonance fingerprinting based on bloch manifold and spatial regularizations in parallel,0,G01R|G06F|G06T|G06V
+11062441,2021-07-13,Method and computer system for analyzing image data of a patient,0,G06F|G06T|G16H
+11058370,2021-07-13,Individually adjusted generation of virtual image data on the basis of multi-energy x-ray imaging,0,A61B|G06T
+11056228,2021-07-06,"Method and system for evaluating medical examination results of a patient, computer program and electronically readable storage medium",0,G06F|G06T|G06V|G16H
+11055847,2021-07-06,Adversarial and dual inverse deep learning networks for medical image analysis,0,G06F|G06N|G06T|G06V
+11054494,2021-07-06,Recordation of a magnetic resonance data set,0,A61B|G01R|G06T
+11051780,2021-07-06,Automatically generating synchronized view and level of concordance of diagnostic exams,0,A61B|G06T|G16H
+11051779,2021-07-06,Processing image frames of a sequence of cardiac images,5,A61B|G06N|G06T|G16H
+11049313,2021-06-29,Rendering an object,0,G06T
+11049243,2021-06-29,Target detection in latent space,13,G06F|G06N|G06T|G06V
+11049223,2021-06-29,Class-aware adversarial pulmonary nodule synthesis,2,A61B|G06T
+11048796,2021-06-29,Securely performing parameter data updates,0,G06F|G06N|H04L
+11043295,2021-06-22,Method and providing unit for providing a virtual tomographic stroke follow-up examination image,0,G06N|G06T|G16H
+11043037,2021-06-22,Method and device to determine the dimensions and distance of a number of objects in an environment,0,G06F|G06T|G06V|H04W
+11039786,2021-06-22,Method and apparatus for determining a patient weight and/or a body mass index,0,A61B|G06T|G16H
+11037070,2021-06-15,Diagnostic test planning using machine learning techniques,3,G06N|G16H
+11035919,2021-06-15,Image reconstruction using a colored noise model with magnetic resonance compressed sensing,1,G01R|G06T
+11030490,2021-06-08,Performance of machine learning models for automatic quantification of coronary artery disease,1,A61B|G06F|G06T|G06V
+11025721,2021-06-01,Data transfer between an x-ray detector and an arithmetic unit via a network protocol,0,A61B|G01T|H04J|H04L
+11024417,2021-06-01,Integrated medical image visualization and exploration,0,G06F|G06T|G16H
+11024404,2021-06-01,System and method for medical image based cardio-embolic stroke risk prediction,1,G06F|G06N|G06T|G16H
+11024027,2021-06-01,Manipulable object synthesis in 3D medical images with structured image decomposition,0,G06F|G06N|G06T|G06V
+11024000,2021-06-01,Controlling a medical imaging system,0,A61B|G06T
+11017584,2021-05-25,"Method for visualizing an image data set, system for visualizing an image data set, computer program product and a computer readable medium",0,G06T
+11017529,2021-05-25,"Method for determining a characteristic blood value, computed tomography device, computer program and electronically readable storage medium",0,A61B|G06T|G06V|G16H
+11017514,2021-05-25,Determining a difference image dataset of an examination volume,0,G06N|G06T
+11016158,2021-05-25,Automatic determination of correction factors for a magnetic resonance system,0,A61B|G01R|G06T
+11016157,2021-05-25,Magnetic resonance method and apparatus for suppressing metal artifacts,0,A61B|G01R|G06T
+11016156,2021-05-25,Method of reconstructing magnetic resonance image data,0,G01R|G06T
+11013485,2021-05-25,Method for dose reduction in an X-ray device taking account of a later display; imaging system; computer program; and data carrier,0,A61B|G06T|G06V
+11013481,2021-05-25,Method for acquiring and processing image data of an examination object,1,A61B|G06T|G16H
+11013473,2021-05-25,"Method and image reconstruction device for visualizing a region of interest, tomosynthesis system and computer program product",0,A61B|G06T
+11010897,2021-05-18,Identifying image artifacts by means of machine learning,0,G06F|G06T|G06V
+11004184,2021-05-11,Method and imaging device for generating a roadmap image,0,A61B|G06T
+11000247,2021-05-11,Method for operating an X-ray device with enhanced depiction of a medical component,0,A61B|G06T|H04N
+10997717,2021-05-04,Method and system for generating a confidence score using deep learning model,1,G06N|G06T|G06V|G16H
+10997475,2021-05-04,COPD classification with machine-trained abnormality detection,0,A61B|G06T|G06V
+10993695,2021-05-04,"Portable expansion unit for operating a medical device, and method for operating a medical device",0,A61B|G05B|G06F|G06Q|G16H
+10993687,2021-05-04,Synthetic data-driven hemodynamic determination in medical imaging,2,A61B|G06F|G06T|G06V|G16H
+10991133,2021-04-27,Volume rendering from three-dimensional medical data using quantum computing,0,G06N|G06T|G16H
+10991092,2021-04-27,Magnetic resonance imaging quality classification based on deep machine-learning to account for less training data,3,G01R|G06F|G06T|G06V
+10989781,2021-04-27,Magnetic field map determination in a magnetic resonance system,0,A61B|G01R|G06T
+10984905,2021-04-20,Artificial intelligence for physiological quantification in medical imaging,0,G06N|G16H
+10980441,2021-04-20,"Protocol parameter selection method, apparatus and magnetic resonance imaging system",0,A61B|G01R|G06T
+10979697,2021-04-13,Post processing and displaying a three-dimensional angiography image data set,0,A61B|G06T|H04N
+10977866,2021-04-13,Output of position information of a medical instrument,0,A61B|G06F|G06T|H04N
+10977839,2021-04-13,Method and device for determining a geometry calibration for an imaging device and also method for determining assignment data for the geometry calibration,0,A61B|G06T
+10977838,2021-04-13,"Method for generating a magnetic resonance image dataset, computer program product, data storage medium, and magnetic resonance system",0,G01R|G06T
+10977795,2021-04-13,Method and device for determining a flow situation in a vessel,0,A61B|G06T|G16H
+10977792,2021-04-13,Quantitative evaluation of time-varying data,0,A61B|G06T
+10977790,2021-04-13,Method and device for determining result values on the basis of a skeletal medical imaging recording,1,A61B|G06F|G06T|G16H
+10977558,2021-04-13,Data encoding and classification,17,G06N|G06T
+10973591,2021-04-13,Operating apparatus and operating method for operating a medical device,1,A61B|G02B|G06F|G06K|G06T
+10973487,2021-04-13,Tilted slices in DBT,0,A61B|G06T|G16H
+10973472,2021-04-13,Artificial intelligence-based material decomposition in medical imaging,0,A61B|G06T|G16H
+10971271,2021-04-06,Method and system for personalized blood flow modeling based on wearable sensor networks,1,G06N|G16H
+10970919,2021-04-06,Method of determining an illumination effect of a volumetric dataset,1,G06F|G06T
+10970837,2021-04-06,Automated uncertainty estimation of lesion segmentation,0,A61B|G06F|G06T
+10970829,2021-04-06,Synthesizing and segmenting cross-domain medical images,1,A61B|G06F|G06N|G06T|G06V|G16H
+10966680,2021-04-06,"Method for controlling the operation of a medical technology device, operator device, operating system and medical technology device",20,A61B|G06F|G16H
+10964092,2021-03-30,Visualization of medical image data,0,A61B|G06T
+10962618,2021-03-30,Multi-component apparatus and method for isochronous communication therein,0,G01R|G05B|H04B|H04L|H04Q
+10959685,2021-03-30,Ascertaining a function parameter relating to a local tissue function for plurality of tissue regions,0,A61B|G06T|G16H
+10957443,2021-03-23,Medical imaging apparatus and method for providing a range of parameters for operation thereof,0,A61B|G06T|G16H
+10957098,2021-03-23,Consistent 3D rendering in medical imaging,1,A61B|G06F|G06N|G06T|G16H
+10957042,2021-03-23,Auto-referencing in digital holographic microscopy reconstruction,0,G01N|G03H|G06F|G06T|G06V
+10957037,2021-03-23,Smart imaging using artificial intelligence,1,A61B|G06N|G06T
+10955511,2021-03-23,Magnetic resonance imaging coil normalization by using a reference image,0,G01R|G06T
+10951837,2021-03-16,Generating a stereoscopic representation,0,A61B|G06T|H04N
+10950343,2021-03-16,Highlighting best-matching choices of acquisition and reconstruction parameters,0,G06F|G16H
+10949975,2021-03-16,Patient management based on anatomic measurements,4,A61B|G06N|G06T|G16H
+10949966,2021-03-16,Detecting and classifying medical images based on continuously-learning whole body landmarks detections,0,A61B|G06F|G06N|G06T|G06V|G16H
+10948559,2021-03-16,Method of processing MR images to estimate a longitudinal relaxation time constant,0,G01R|G06T
+10937227,2021-03-02,Planar visualization of anatomical structures,0,G06T
+10937205,2021-03-02,Detection of infarcts using trained network,0,G06T
+10932743,2021-03-02,Determining image values in marked pixels of at least one projection image,0,A61B|G06N|G06T
+10930029,2021-02-23,Method for processing medical image data and image processing system for medical image data,0,G06T
+10929989,2021-02-23,Determining a transformation between coordinate frames of sets of image data,1,G06T
+10929975,2021-02-23,Checking an interventional superposition image,0,G06N|G06T|G16H
+10929420,2021-02-23,Structured report data from a medical text report,1,G06F|G16H
+10925565,2021-02-23,Machine-learning based contrast agent administration,0,A61B|A61M|G01R|G06F|G06N|G06T|G16H
+10922853,2021-02-16,Reformatting while taking the anatomy of an object to be examined into consideration,0,A61B|G06T
+10922816,2021-02-16,Medical image segmentation from raw data using a deep attention neural network,5,G06F|G06N|G06T|G06V|G16H
+10922813,2021-02-16,Method for determining at least one object feature of an object,0,G06N|G06T
+10921406,2021-02-16,Magnetic resonance fingerprinting method and apparatus,1,G01R|G06T
+10918343,2021-02-16,Method for motion correction of spectral computed tomography data and an energy-sensitive computed tomography device,1,A61B|G06T|H04N
+10918309,2021-02-16,Artificial intelligence-based COPD assessment,0,A61B|G06N|G06T|G16H
+10912529,2021-02-09,Determining a remaining time during medical imaging,0,A61B|G01R|G06F|G16H
+10910099,2021-02-02,"Segmentation, landmark detection and view classification using multi-task learning",2,G06F|G06T|G06V|G16H
+10910094,2021-02-02,Computer-based diagnostic system,4,A61B|G06F|G06N|G06T|G06V|G16H
+10909676,2021-02-02,Method and system for clinical decision support with local and remote analytics,1,A61B|G06T|G06V
+10909416,2021-02-02,Deep variational method for deformable image registration,1,G06F|G06N|G06T|G06V

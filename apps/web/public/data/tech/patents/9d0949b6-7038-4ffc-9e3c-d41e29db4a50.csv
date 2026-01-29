@@ -1,0 +1,564 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432815,2025-09-30,"Switching method and apparatus based on MBMS, and computer-readable storage medium",0,H04W
+12432768,2025-09-30,Method and device for stopping sending schedule request,0,H04W
+12432684,2025-09-30,"Measurement reporting method, positioning measurement device, and location management function",0,G01S|H04L|H04W
+12432106,2025-09-30,Carrier phase tracking method and device for orthogonal frequency division multiplexing multi-carrier system,0,G01S|H04B|H04L
+12432015,2025-09-30,"HARQ-ACK feedback method, terminal and base station",0,H04L|H04W
+12431950,2025-09-30,Channel reciprocity-based precoding matrix configuration method and apparatus,0,H04B|H04L
+12426127,2025-09-23,Channel and/or signal transceiving method and apparatus,0,H04W|Y02D
+12426053,2025-09-23,Method and device for scheduling transmission,0,H04B|H04L|H04W
+12426032,2025-09-23,Scheduling request transmitting method and terminal,0,H04W
+12426003,2025-09-23,"Measurement reporting method, measurement reporting device, and positioning server",0,G01S|H04W|Y02D
+12425840,2025-09-23,"Method for checking UE capability match, AMF, base station and storage medium",0,H04L|H04W
+12425811,2025-09-23,Method and apparatus for joining multicast broadcast service (MBS) session,0,H04W
+12418924,2025-09-16,"Physical downlink shared channel reception method and device, physical downlink shared channel transmission method and device, apparatus and medium",0,H04L|H04W
+12418884,2025-09-16,"Paging method, base station and user equipment",0,H04W
+12418789,2025-09-16,"Capability reporting and processing method, device and apparatus, and medium",0,H04W|Y02D
+12413989,2025-09-09,"Information indication method and apparatus, and communication device",0,G01S|H04L|H04W
+12413985,2025-09-09,"Near-field beam search method and apparatus, and storage medium",0,H04B|H04W
+12413533,2025-09-09,"Method, communication device, apparatus, and storage medium for measuring and feeding back delay information",0,H04L
+12411249,2025-09-09,"Capability obtaining and sending method, positioning server and device",0,G01S|H04W
+12408069,2025-09-02,"Information processing method, device and apparatus, and computer-readable storage medium",0,H04L|H04W
+12402180,2025-08-26,Information processing method and terminal,0,H04L|H04W
+12401414,2025-08-26,"Method for handover of satellite base station, terminal, satellite base station, and storage medium",0,H04B|H04W
+12396008,2025-08-19,"Transmission method, device and apparatus, and computer-readable storage medium",0,H04L|H04W
+12395391,2025-08-19,Channel selection and configuration methods and apparatuses,0,H04B|H04L|H04W
+12389404,2025-08-12,Method for uplink beam indication and device,0,H04B|H04L|H04W
+12382509,2025-08-05,Time domain resource configuration method and terminal,0,H04L|H04W
+12382429,2025-08-05,Method for PUCCH resource determination and communication device,0,H04L|H04W
+12381678,2025-08-05,Uplink transmission method and apparatus,0,H04B|H04L|H04W
+12381612,2025-08-05,"Uplink transmission characteristic confirmation method, information report method and device",0,H04B|H04L
+12375164,2025-07-29,"Method, device, terminal and service device for determining sateellite communications system parameters",0,H04B|H04W
+12369135,2025-07-22,Information transmission method and device,0,G01S|H04L|H04W
+12369117,2025-07-22,"Method and apparatus for sending downlink control information, and method and apparatus for processing downlink control information",0,H04W|Y02D
+12363695,2025-07-15,"Uplink resource allocation method and device, base station, and terminal",0,H04W
+12363047,2025-07-15,"Timer processing method, apparatus and storage medium",0,H04L|H04W
+12362812,2025-07-15,"Beam failure recovery response transmission method and monitoring method, base station and terminal",0,H04B|H04W
+12356394,2025-07-08,Communication method and apparatus for determining information of sub-band in frequency-domain resource,0,H04B|H04L|H04W
+12355696,2025-07-08,"Method for transmitting and receiving demodulation reference signal of sidelink, and terminal",0,H04J|H04L|H04W
+12349085,2025-07-01,"Signal transmission method, signal reception method, and user equipment",0,H04J|H04L|H04W|Y02D
+12348453,2025-07-01,"Uplink channel transmission method, terminal, and base station",0,H04L|H04W
+12335959,2025-06-17,"Configured grant usage method and apparatus, network device and terminal",0,H04L|H04W
+12335182,2025-06-17,"Signal transmission method and apparatus, and storage medium",0,H04B|H04L|H04W
+12335175,2025-06-17,Reference signal transmission method and device,0,H04L|H04W
+12335001,2025-06-17,"Method for determining antenna-panel switching, user equipment and base station",0,H04B|H04W
+12328635,2025-06-10,Mobility information reporting method and UE,0,H04W
+12328623,2025-06-10,Method and device for data forwarding,0,H04W
+12328350,2025-06-10,"Method and apparatus for floor control of intra-group point-to-multipoint communication service, and medium",0,H04L|H04W
+12317358,2025-05-27,"Transmission method and apparatus for ai-native service, and storage medium",0,G06N|H04L|H04W
+12317280,2025-05-27,"Indication method, terminal, and network device",0,H04L|H04W
+12317256,2025-05-27,Data communication method and apparatus,0,H04W
+12317107,2025-05-27,Method and device for determining dynamic HARQ-ACK codebook,0,H04L|H04W
+12316566,2025-05-27,"Vehicle positioning method and device, positioned vehicle, vehicle to be positioned, and storage medium",0,G01S|H04L|H04W
+12316560,2025-05-27,"SRS transmission method and apparatus, network device, terminal and storage medium",0,H04L
+12316431,2025-05-27,"Satellite beam offset processing method, device and medium",0,H04B|H04W
+12309872,2025-05-20,"Discontinuous reception state configuration method, user equipment and network side device",0,H04W|Y02D
+12309711,2025-05-20,"Power control parameter configuration method, terminal and network side device",0,H04L|H04W
+12309626,2025-05-20,"Information reporting method, information acquisition method, terminal, and network device",0,H04B|H04W
+12309094,2025-05-20,"Methods for configuring and receiving transmission resource for positioning reference signal, and user equipment",1,G01S|H04L|H04W
+12309090,2025-05-20,Information communication method and device,0,G01S|H04J|H04L|H04W
+12308925,2025-05-20,Signal communication method and apparatus,0,H04B|H04L|H04W
+12302449,2025-05-13,IMS emergency service state indication method and device,0,H04L|H04W
+12302377,2025-05-13,Data transmission method and device,0,H04W
+12302337,2025-05-13,"Data transmission method, network side device, and user equipment",0,H04L|H04W
+12302331,2025-05-13,"UCI multiplexing transmission method and apparatus, and storage medium",0,H04L|H04W
+12301500,2025-05-13,"Information transmission method, device and apparatus",0,H04L|H04W
+12301370,2025-05-13,"Method of determining hybrid automatic repeat request acknowledgement codebook, terminal and network device",0,H04L|H04W
+12294877,2025-05-06,"Method and apparatus for determining time-domain position of search space, and communication device",0,H04L|H04W
+12294618,2025-05-06,Method and apparatus for registering user information,0,H04L|H04W
+12289688,2025-04-29,"Signal transmission method, network device and terminal device",0,H04L|H04W
+12289678,2025-04-29,"SCG state control method and apparatus, UE, MN, SN and medium",0,H04W|Y02D
+12289658,2025-04-29,"Method for buffer status reporting, and terminal",0,H04W
+12289626,2025-04-29,Dual/multi-connectivity-based secondary node addition/replacement method and device,0,H04B|H04W
+12284609,2025-04-22,"Signal receiving method, signal sending method, terminal and network side device",0,G06F|H04W|Y02D
+12279333,2025-04-15,Multimedia broadcast multicast service (MBMS) receiving method and apparatus,0,H04W
+12279299,2025-04-15,"Resource configuration method, base station and terminal",0,H04L|H04W
+12279266,2025-04-15,"Information transmission method, base station and terminal",0,H04L|H04W|Y02D
+12279207,2025-04-15,"Signal transmission method, apparatus, and device",0,H04B|H04L|H04W|Y02D
+12279202,2025-04-15,"Device-to-device relay processing method, device and apparatus, and storage medium",0,H04L|H04W|Y02D
+12279165,2025-04-15,Method and device for measuring and reporting channel state information (CSI),0,H04W
+12278772,2025-04-15,"Multiple transmit-receive points (TRPs) or antenna panels based CQI measurement reporting method, apparatus, network side device and terminal",0,H04B|H04L|H04W
+12276742,2025-04-15,"Method for positioning, terminal, and network-side device",0,G01S|H04L|H04W
+12273928,2025-04-08,Method and device for random access,0,H04B|H04L|H04W
+12273900,2025-04-08,Resource allocation method and communication device,0,H04W
+12273899,2025-04-08,"Base stations, method and device for communication between base stations, and storage medium",0,H04W
+12273768,2025-04-08,"Media access control protocol data unit processing method, terminal and medium",0,H04W
+12267722,2025-04-01,Method of transmitting buffer status reporting and terminal,0,H04W
+12262448,2025-03-25,"Information processing method, information processing device and computer readable storage medium",0,H04L|H04W
+12262408,2025-03-25,"Information transmission method, configuration method, terminal and network device",0,H04W
+12262387,2025-03-25,"Processing method, device, terminal and apparatus for partial bandwidth deactivation timer",0,H04L|H04W|Y02D
+12262279,2025-03-25,"Measurement reporting and receiving method, device and equipment",0,H04B|H04W
+12262233,2025-03-25,"Information reporting method, terminal and base station",0,H04B|H04L|H04W|Y02D
+12261696,2025-03-25,"Transmission mode indication method and device, base station, terminal",2,H04B|H04L
+12261681,2025-03-25,"Network access method and apparatus for terminal, electronic device and storage medium",0,H04B|H04J|H04W
+12256397,2025-03-18,"Resource allocation method, terminal and node device",0,H04W
+12256349,2025-03-18,"Signal transmission method and device, signal reception method and device, and terminal",0,H04L|H04W
+12256310,2025-03-18,"Relay device selection method and device, and computer storage medium",0,H04W|Y02D
+12255845,2025-03-18,"Method for processing multi-transmission reception point (TRP) data, base station, terminal, and storage medium",1,H04B|H04L|H04W
+12255742,2025-03-18,Information transmission method and device,0,H04L|H04W
+12250653,2025-03-11,"Timing advance configuration method, terminal and network side device",0,H04L|H04W
+12245317,2025-03-04,"Terminal state processing method, device and medium",0,H04W
+12245236,2025-03-04,Method and apparatus of determining cap of transmission resources available for control information and communication apparatus,0,H04L|H04W
+12238794,2025-02-25,"Information processing method, apparatus, device and computer readable storage medium",0,H04W
+12238733,2025-02-25,"Configured grant confirmation method, terminal, and network side device",0,H04W
+12238661,2025-02-25,"Synchronization signal transmitting method, terminal and apparatus, and storage medium",0,H04J|H04W
+12238647,2025-02-25,"Energy conservation signal transmission method, base station, and terminal device",0,H04W|Y02D
+12238561,2025-02-25,"Method and device for reporting UE information, method and device for processing UE information, and medium",0,H04W
+12238554,2025-02-25,"Physical downlink control channel detection method and transmission method, user equipment and base station",0,H04L|H04W|Y02D
+12238035,2025-02-25,"Method and apparatus for monitoring physical downlink control channel, and device",0,H04L|H04W|Y02D
+12238031,2025-02-25,Method for transmitting and receiving sidelink positioning reference signal and terminal,0,H04L|H04W
+12238022,2025-02-25,Resource mapping method and device,0,H03M|H04L
+12232157,2025-02-18,Sidelink transmission method and terminal,0,H04L|H04W
+12232131,2025-02-18,"Method, apparatus, and device of processing terminal capability",0,H04L|H04W
+12232127,2025-02-18,"Method and apparatus for indicating TCI, base station and storage medium",0,H04L|H04W
+12232105,2025-02-18,Method and apparatus for determining uplink scheduling information,0,H04B|H04L|H04W
+12231931,2025-02-18,"Signal measurement method, terminal, and network side device",0,G01S|H04B|H04W
+12231368,2025-02-18,"HARQ feedback method for SPS PDSCH with shorter periodicity, terminal, base station and storage medium",0,H04L
+12231360,2025-02-18,Signal communication method and device,0,H04L|H04W
+12225608,2025-02-11,Method for modification in dual-connection mode and device,0,H04W
+12225570,2025-02-11,"Uplink control information transmission method and apparatus, and communication device",0,H04L|H04W
+12225455,2025-02-11,"Information transmission method, user equipment and network device",0,H04L|H04W
+12219603,2025-02-04,Method and device for transmitting data and indicating data transmission,0,H04L|H04W
+12219482,2025-02-04,"Terminal state transition method, network device and terminal",0,H04W|Y02D
+12218722,2025-02-04,"Antenna port indication method, terminal and network-side device",0,H04B|H04L
+12213142,2025-01-28,"Downlink control channel detection method, terminal, and network side device",0,H04J|H04L|H04W|Y02D
+12213140,2025-01-28,"Transmission method, reception method, terminal and network device",0,H04L|H04W
+12213138,2025-01-28,Physical sidelink channel-based transmission configuration information transmitting method and receiving method and device,0,H04L|H04W
+12212985,2025-01-28,"Signal processing method, device and communication device",0,H04B|H04L|H04W
+12212396,2025-01-28,"Beam indication method, device, terminal and network side device",0,H04B|H04L|H04W
+12207327,2025-01-21,"Sidelink interface radio bearer configuration method, terminal and network device",0,H04W
+12207276,2025-01-21,Method and apparatus for transmitting downlink control information,0,H04L|H04W
+12207139,2025-01-21,"Processing method of direct communication, processing device of direct communication, relay terminal and remote terminal",1,H04W
+12200724,2025-01-14,"Resource allocation method and device, and resource determination method and device",1,H04L|H04W
+12200710,2025-01-14,Resource determination method and apparatus,0,H04L|H04W
+12200698,2025-01-14,"Transmission method for hybrid automatic repeat request feedback information, network device and terminal",0,H04L|H04W
+12199898,2025-01-14,Data transmission method and device,0,H04J|H04L
+12193063,2025-01-07,Beam switching method and apparatus,0,H04B|H04L|H04W
+12192900,2025-01-07,"PDCCH blind detection method, terminal and network side device",0,H04L|H04W|Y02D
+12192897,2025-01-07,"Power saving indication method, network side device and user equipment",0,H04W|Y02D
+12192896,2025-01-07,"Power-saving information transmission method, base station and terminal",0,H04L|H04W|Y02D
+12191954,2025-01-07,"Channel state information feedback method, device, terminal, and network side, and storage medium",0,H04B|H04L
+12191892,2025-01-07,"Data compression method and apparatus, and storage medium",0,G06F|H03M|H04L
+12185089,2024-12-31,"Information processing method, device and apparatus, and computer-readable storage medium",0,H04W
+12184573,2024-12-31,Signal communication method and device,0,H04L|H04W
+12184393,2024-12-31,"Control method and control device in heterogeneous three-dimensional hierarchical network, and communication system",0,H04B|H04L|H04W
+12177815,2024-12-24,Resource determination method and device,0,H04L|H04W
+12177785,2024-12-24,"Energy saving signal transmission method, network-side device and terminal",0,H04L|H04W|Y02D
+12176984,2024-12-24,"Beam scheduling method and apparatus, device and storage medium",0,H04B|H04W
+12170958,2024-12-17,Power-saving signal configuration and transmission methods and apparatuses,0,H04W|Y02D
+12170564,2024-12-17,"Beam training method and device, communication system",0,H04B|H04L|H04W
+12167406,2024-12-10,Uplink control information UCI transmission method and apparatus,0,H04L|H04W
+12167363,2024-12-10,"Method and device for eliminating non-line of sight errors of time of arrival measurement values, and terminal",0,G01S|G06F|H04W
+12167351,2024-12-10,"Method for sending and receiving signal, terminal and apparatus",0,H04L|H04W
+12167291,2024-12-10,"Method for transmitting beam failure recovery request, method for receiving beam failure recovery request, terminal and base station",0,H04B|H04W
+12156171,2024-11-26,Signal transmission method and apparatus,0,H04B|H04L|H04W
+12156141,2024-11-26,Uplink power control method and device,0,H04B|H04W
+12156138,2024-11-26,"Method for transmitting power saving signal, terminal, and network device",0,H04W|Y02D
+12155484,2024-11-26,"HARQ process ID determination method and apparatus, terminal, and medium",0,H04L|H04W
+12155461,2024-11-26,"Clock offset determination method, clock offset processing method, device, and system",0,H04J|H04L|H04W
+12153151,2024-11-26,Method and device for determining positioning measurement,0,G01S|H04B|H04L|H04W
+12150000,2024-11-19,"Method, network device, and apparatus communication system handover, and medium",0,H04W
+12149993,2024-11-19,Method to provide hanover processing,1,H04W
+12144017,2024-11-12,"Method and device for configuring radio bearer , apparatus, and computer-readable storage medium",0,H04W
+12143873,2024-11-12,"Mobility robustness implementation method, device, and apparatus",0,H04W
+12136980,2024-11-05,Signal transmission method and device,0,H04B|H04W|Y02D
+12133250,2024-10-29,"Resource configuration method, resource obtaining method, network device and terminal",0,H04W
+12133240,2024-10-29,"Data channel transmission bandwidth determination method and apparatus, network side device and terminal",0,H04L|H04W
+12133234,2024-10-29,"Uplink channel transmission method, terminal, and base station",0,H04L|H04W
+12133231,2024-10-29,"Data transmission method, terminal and network side device",0,H04L|H04W
+12133215,2024-10-29,Transmission method and terminal,0,H04L|H04W
+12133169,2024-10-29,Method and device for communication of signal,0,H04B|H04L|H04W|Y02D
+12133168,2024-10-29,"Energy-saving downlink control channel information transmission method, user equipment and network device",0,H04W|Y02D
+12133108,2024-10-29,Method and device for determining terminal behavior analysis,0,H04L|H04W
+12127247,2024-10-22,Contention free random access method and device,0,H04B|H04L|H04W
+12127225,2024-10-22,"Resource allocation mode configuration method, terminal and network device",0,H04W
+12126452,2024-10-22,"Transmission method, terminal and network device",0,H04L|H04W
+12126369,2024-10-22,"Handover method, device, and apparatus for feeder link and user equipment belonging to satellite",0,H04B|H04W
+12120687,2024-10-15,Transmission method for UCI performed by terminal,0,H04L|H04W
+12120548,2024-10-15,Information transmission method and network device,0,H04M|H04W
+12114235,2024-10-08,"Short Message service ability updating method, device and apparatus",0,H04W
+12114217,2024-10-08,"Data forwarding method and device, master base station and slave base station",0,H04W
+12113748,2024-10-08,"Method for detecting downlink control channel, method for transmitting downlink control channel, and relevant devices",0,H04L|H04W
+12108343,2024-10-01,"Transmitting power determination method, apparatus and communication device",0,H04W
+12108339,2024-10-01,"Methods for transmitting and detecting physical downlink control channel, network device, and user equipment",0,H04L|H04W|Y02D
+12107691,2024-10-01,"Duplication transmission maintaining method, terminal and network device",0,H04L
+12101762,2024-09-24,"Information transmission method, apparatus and device",0,H04L|H04W
+12101170,2024-09-24,Doppler shift compensation method and device,1,H04B|H04L|H04W
+12101158,2024-09-24,"Beam failure recovery method, terminal and base station",0,H04B|H04L|H04W
+12096444,2024-09-17,"Scheduling method, apparatus, base station, terminal and computer readable storage medium",0,H04L|H04W
+12096424,2024-09-17,"Method and device for transmitting hybrid automatic repeat request, network device and terminal",0,H04L|H04W
+12096412,2024-09-17,"Communication method, apparatus and device, and computer-readable storage medium",0,H04L|H04W
+12096297,2024-09-17,"Cell selection method, network device and terminal",0,H04W
+12095698,2024-09-17,Signal transmission method and device,0,G01S|H04L|H04W
+12095562,2024-09-17,Information transmission method and user equipment,0,H04L|H04W
+12095537,2024-09-17,"Signal transmission method and apparatus, and terminal and network side device",0,H04B|H04L
+12089279,2024-09-10,Radio resource control connection management method and terminal,0,H04L|H04W
+12089206,2024-09-10,"Transmission method for physical uplink shared channel, terminal, and network device",0,H04L|H04W
+12089185,2024-09-10,Resource allocation method and device,0,H04L|H04W
+12089159,2024-09-10,"Terminal energy-saving control method, apparatus and device",0,H04L|H04W|Y02D
+12088480,2024-09-10,"Network analytics transfer method and apparatus, and network function entity",0,H04L
+12082108,2024-09-03,"Power-saving state switching method, terminal and base station",0,H04W|Y02D
+12082064,2024-09-03,Methods and apparatus for link handover,1,H04W
+12082040,2024-09-03,"Service data adaptation protocol entity maintenance method, transmitting terminal and receiving terminal",0,H04W
+12075509,2024-08-27,Resource allocation method and device,0,H04W|Y02D
+12075292,2024-08-27,"Handover method, handover device and computer readable storage medium",0,H04W
+12069592,2024-08-20,Data transmission method and device,0,H04B|H04L|H04W
+12069501,2024-08-20,"Information reporting method and apparatus, terminal and network-side device",0,H04W
+12063544,2024-08-13,"Message transmitting method and apparatus, and control method and apparatus therefor",0,H04W
+12055648,2024-08-06,Method and device for determining information,0,G01S|H04L|H04W
+12052666,2024-07-30,"Signal processing method and apparatus, and device with time-domain position for monitoring power-saving signal",0,H04W|Y02D
+12048026,2024-07-23,"Information transmission method, apparatus, and device applied to 2-step random access procedure",0,H04L|H04W
+12047984,2024-07-23,Method and device for resource configuration and data transmission,0,H04L|H04W
+12047968,2024-07-23,"Configuration activation/deactivation method, network device and terminal",0,H04L|H04W
+12047931,2024-07-23,"Information processing method, information processing device, terminal and computer readable storage medium",1,H04W
+12047824,2024-07-23,"Method and device for determining MRO critical scenario, and apparatus",0,H04W
+12047183,2024-07-23,"Methods for processing and indicating HARQ mechanism, terminal and network side device",0,H04B|H04L
+12047154,2024-07-23,Beam tracking method and apparatus,0,G08G|H04B|H04W
+12044782,2024-07-23,"Methods and apparatuses for acquiring and providing positioning assistant data, and devices",0,G01S|H04W
+12041647,2024-07-16,"Method and device for determining and configuring scheduling request resource, and storage medium",0,H04W
+12022520,2024-06-25,"Uplink resource allocation method and device, base station, and terminal",1,H04W
+12022403,2024-06-25,Method and device for determining power control offset for pucch,0,H04B|H04L|H04W
+12021603,2024-06-25,Time delay compensation method and apparatus and time delay control method and apparatus,0,H04B|H04W
+12015505,2024-06-18,"Uplink transmission instruction method, terminal, base station and computer storage medium",0,H04L|H04W
+12010655,2024-06-11,"Channel state information reporting method and device, terminal and network side device",0,H04B|H04L|H04W
+12004148,2024-06-04,"Transmission configuration indication method of DMRS port and related apparatus, and storage medium",0,H04L|H04W
+12004124,2024-06-04,"Resource allocation mode determining method, terminal and network device",0,H04W
+12004117,2024-06-04,LMF selection method and terminal location service method and device,0,H04W
+12004109,2024-06-04,"Communication method and apparatus, and device and medium in deactivated state of secondary cell group",0,H04B|H04L|H04W
+11997729,2024-05-28,"PDU session activation method and apparatus, and paging method and apparatus",0,H04W
+11997680,2024-05-28,"Transmission method, terminal, and base station",0,H04L|H04W
+11991762,2024-05-21,"Direct connection communication method, AMF, access network functional entity and terminal",0,H04W
+11991635,2024-05-21,"Information sending and receiving method and device, terminal, and base station",0,H04L|H04W|Y02D
+11991633,2024-05-21,"Resource configuration method, resource obtaining method, network device and terminal",0,H04W|Y02D
+11991632,2024-05-21,"Method for transmitting and receiving a signal, network apparatus, and terminal",0,H04L|H04W|Y02D
+11991035,2024-05-21,Method and device for sending and detecting synchronous signal,0,H04L
+11990981,2024-05-21,Cell selection method and device,1,H04B|H04W|Y02D
+11990980,2024-05-21,Handover control method and device,0,H04B|H04W|Y02D
+11990962,2024-05-21,Channel transmission method and communication device,0,H04B|H04L|H04W
+11990961,2024-05-21,Method for determining antenna port and communication device,0,H04B|H04L|H04W
+11988754,2024-05-21,Clock offset determination method and apparatus,0,G01S|H04B|H04L|H04W
+11985654,2024-05-14,"Data transmission method, terminal, and network device",0,H04B|H04L|H04W
+11985610,2024-05-14,"Information indicating method, information determining method, terminal and base station",0,H04J|H04L|H04W
+11984994,2024-05-14,"HARQ-ACK sending method, receiving method, terminal and base station",0,H04L|H04W
+11979916,2024-05-07,Method and apparatus for determining RA-RNTI,0,H04L|H04W
+11979355,2024-05-07,"Method for receiving information, method for sending information, terminal and network device",0,H04L
+11979212,2024-05-07,Method and apparatus for determining channel state information,0,H04B|H04L
+11974326,2024-04-30,"Methods for selecting and configuring random access channel, access device and network device",0,H04B|H04W
+11968672,2024-04-23,Method and apparatus for transmitting uplink control information,0,H04L|H04W
+11968587,2024-04-23,"Mobility management method, radio access network, terminal and computer storage medium",0,H04B|H04W
+11968140,2024-04-23,Transmission method and apparatus,0,H04B|H04L
+11968127,2024-04-23,Protocol data unit (PDU) session management method and apparatus,0,H04B|H04L|H04W
+11963132,2024-04-16,"Paging method, base station and user equipment",0,H04W
+11962468,2024-04-16,"Wireless backhaul network, communication method and apparatus",0,H04B|H04L|H04W|Y02D
+11956807,2024-04-09,"Miss-detection determination method, terminal and network device",0,H04L|H04W
+11949630,2024-04-02,"Information processing method, device, equipment, and computer readable storage medium",0,H04L|H04W|Y02D
+11949620,2024-04-02,Signal processing method and device,0,H04B|H04L|H04W
+11949521,2024-04-02,Data transmission method and device,0,H04L|H04W
+11940549,2024-03-26,Positioning method and device,0,G01S|H04L|H04W
+11937233,2024-03-19,"Uplink transmission method, device, terminal and network device",0,H04L|H04W
+11937212,2024-03-19,"UCI combined transmission method, terminal, and network device",0,H04L|H04W
+11930496,2024-03-12,"Method of processing transmission, terminal and network device",0,H04L|H04W
+11930395,2024-03-12,"Method of Transmitting data, user equipment, network side device and computer readable storage medium",0,H04L|H04W
+11924833,2024-03-05,Transmission feedback method and user equipment,0,H04L|H04W
+11924762,2024-03-05,"Information sending method, information receiving method, network device and terminal",0,H04L|H04W|Y02D
+11923985,2024-03-05,"Method for performing hybrid automatic repeat request feedback, and terminal",1,H04L|H04W
+11921226,2024-03-05,Positioning method and device,0,G01S|H04L|H04W
+11917577,2024-02-27,"Paging method, positioning information sending method, core network node and base station",0,H04B|H04W
+11917572,2024-02-27,Transmission delay indication method and device,1,H04B|H04L|H04W
+11917571,2024-02-27,"Locating method for uplink time difference of arrival, and apparatus thereof",0,G01S|H04W
+11917544,2024-02-27,"Energy-saving signal transmission method and detection method, and device",0,H04L|H04W|Y02D
+11910376,2024-02-20,"Data transmission method, and terminal and network device",0,H04B|H04W|Y02D
+11910206,2024-02-20,"Information processing method, device and processor-readable storage medium",0,H04W
+11903013,2024-02-13,Direct communication resource allocation method and apparatus,0,H04L|H04W
+11902984,2024-02-13,"Method for determining bundling size, user equipment and network-side device",0,H04J|H04L|H04W
+11902030,2024-02-13,Configuration for duplication transmission and duplication transmission method and device,0,H04L|H04W
+11901979,2024-02-13,Channel reciprocity-based precoding matrix configuration method and apparatus,2,H04B|H04L
+11895709,2024-02-06,Random access method and terminal,0,H04W
+11895644,2024-02-06,"Information transmission method, base station and terminal",0,H04L|H04W
+11876741,2024-01-16,Uplink transmission method and apparatus,0,H04B|H04L|H04W
+11871247,2024-01-09,"Downlink control channel transmission and reception methods, terminal, and network side device",0,H04L|H04W
+11843449,2023-12-12,"Measurement synchronization method, network device and terminal device",0,H04B|H04L|H04W
+11832293,2023-11-28,Data transmission method and device,0,H04L|H04W
+11831425,2023-11-28,"Channel blind detection method, signal transmission method and related devices",0,H04L|H04W
+11825480,2023-11-21,Method and terminal for performing scheduling request,0,H04W
+11824618,2023-11-21,"Beam failure recovery method and device, and terminal device",0,H04B|H04W
+11811481,2023-11-07,"Beam training method and device, communication system",1,H04B|H04L|H04W
+11805521,2023-10-31,"Bearer mapping method for wireless backhaul node, wireless backhaul node and donor base station",0,H04W
+11792766,2023-10-17,"Positioning method, device, system, terminal, LMF entity, and medium",3,G01S|H04B|H04L|H04W
+11792758,2023-10-17,Method and device for determining timing advance,0,H04B|H04L|H04W
+11778686,2023-10-03,Always-on PDU session management method and device,0,H04W
+11777676,2023-10-03,Method and device for transmitting positioning reference signal,1,H04L|H04W
+11770856,2023-09-26,"Random access response method and device, base station and user equipment",0,H04L|H04W|Y02D
+11770757,2023-09-26,Method and device for accessing system information area or network area,0,H04L|H04W
+11765648,2023-09-19,Access type selection method and device and storage medium,0,H04W
+11758504,2023-09-12,"Selection method, selection device, management function entity, access network node, GMLC and NRF",0,G01S|H04W
+11758442,2023-09-12,Information processing method and device,0,H04W
+11757577,2023-09-12,"Data transmission method, terminal device, and network device",0,H04B|H04L|H04W
+11751084,2023-09-05,"Network node, user equipment and base station used in a communication system and method for location resource coordination",1,G01S|H04L|H04W
+11743903,2023-08-29,"Transmission method, user equipment and base station",0,H04L|H04W
+11743827,2023-08-29,"Indicator and downlink control channel detection method, equipment and apparatus",0,H04L|H04W|Y02D
+11743805,2023-08-29,Method and apparatus for transmitting initial access signal,0,H04L|H04W
+11737025,2023-08-22,"Power-saving signal transmission method, power-saving signal reception method, base station and terminal",0,H04W|Y02D
+11736237,2023-08-22,"Data transmission method, terminal device and network device",0,H04L|H04W
+11729846,2023-08-15,Method for activating packet data convergence protocol duplication and node device,1,H04L|H04W
+11729731,2023-08-15,"Information transmission method, network device and terminal",0,H04L|H04W|Y02D
+11723091,2023-08-08,"Unicast connection establishment method for direct link, terminal and device",1,H04B|H04W
+11723076,2023-08-08,Method and apparatus for determining RA-RNTI,0,H04L|H04W
+11722192,2023-08-08,"Interference measurement method, user equipment and network side device",0,H04B|H04L|H04W
+11706762,2023-07-18,"Codebook feedback processing method, device, apparatus and medium",0,H04L|H04W
+11706756,2023-07-18,Method of allocating uplink data packet resource and user equipment,0,H04W
+11700608,2023-07-11,"Uplink control information transmission method, uplink control information reception method, terminal, base station and devices",1,H04L|H04W
+11700540,2023-07-11,Method and device for monitoring network data,0,H04L|H04M|H04W
+11695525,2023-07-04,Method and device for transmitting positioning reference signal,2,H04L|H04W
+11690050,2023-06-27,Hybrid automatic repeat request-acknowledgement (HARQ-ACK) information transmission via physical uplink shared channel (PUSCH),2,H04L|H04W
+11690044,2023-06-27,Method and device for selecting resources in carrier wave,1,H04W|Y02D
+11690032,2023-06-27,"Signal sending and receiving method, network device and terminal",0,H04B|H04J|H04L|H04W
+11665738,2023-05-30,"Method, device, and apparatus for transmitting and receiving a request signal",2,H04L|H04W|Y02D
+11665734,2023-05-30,"Method for processing uplink control information, terminal and base station",0,H04L|H04W
+11665703,2023-05-30,"Physical uplink channel transmission method and receiving method, terminal, and base station",1,H04L|H04W
+11658849,2023-05-23,"Methods for indicating and determination large-scale channel parameter, base station and terminal device",0,H04B|H04L|H04W
+11658779,2023-05-23,Resource mapping method and apparatus and device,0,H03M|H04L
+11653363,2023-05-16,Method and device for transmitting downlink channel,0,H04L|H04W
+11653293,2023-05-16,Access method and device,0,H04B|H04W
+11647538,2023-05-09,"Data transmission method and device, and signal feedback method and device",0,H04B|H04W
+11647434,2023-05-09,Method and device for determining RRM measurement configuration,0,H04L|H04W
+11646819,2023-05-09,"Information transmission method, terminal and base station",1,H04L|H04W
+11641654,2023-05-02,Uplink transmission method and device,0,H04W
+11641632,2023-05-02,Method for determining synchronization source and terminal,1,H04B|H04L|H04W
+11641626,2023-05-02,Monitoring power saving signal at a resource indicated by received configuration information of power saving signal,0,H04W|Y02D
+11627594,2023-04-11,Uplink control information transmission method and apparatus,1,H04L|H04W
+11627593,2023-04-11,"HARQ-ACK feedback method, terminal, and network side device",0,H04L|H04W
+11621807,2023-04-04,Data transmission method and device,1,H04L|H04W
+11621804,2023-04-04,"Method of transmitting HARQ-ACK message, terminal and base station",2,H04B|H04L|H04W
+11612006,2023-03-21,Routing method and device,0,H04L|H04W
+11601835,2023-03-07,Beam detection method and apparatus,0,H04B|H04W
+11595999,2023-02-28,Method and apparatus for maintenance of bandwidth part,0,H04W
+11595964,2023-02-28,Method and device for determining information domain value in DCI,0,H04L|H04W
+11595179,2023-02-28,"Method for processing multi-transmission reception point (TRP) data, base station, terminal, and storage medium",1,H04B|H04L|H04W
+11589375,2023-02-21,"Processing method, device, terminal and apparatus for partial bandwidth deactivation timer",0,H04L|H04W|Y02D
+11589210,2023-02-21,"Information processing method and apparatus, and computer storage medium",0,H04W
+11588583,2023-02-21,Method and device for configuring HARQ feedback between terminal nodes,0,H04L|H04W|Y02D
+11582622,2023-02-14,"Method and device for tight interworking processing, and base station",0,H04W
+11576128,2023-02-07,Wakeup region update method and device,0,H04B|H04W|Y02D
+11575578,2023-02-07,"Method and apparatus for configuring transmission bandwidth, and device",0,H04L|H04W|Y02D
+11564216,2023-01-24,Information transmission method and device,0,H04L|H04W
+11558925,2023-01-17,Notification method and device for execution of PDCP data recovery,0,H04W
+11558892,2023-01-17,Method and apparatus for transmitting configuration information of physical downlink control channel,1,H04L|H04W|Y02D
+11558772,2023-01-17,"Buffer status reporting method and device, and computer storage medium",0,H04W
+11558151,2023-01-17,"Feedback information transmission method and device, user equipment, base station and storage medium",1,H04L|H04W
+11558086,2023-01-17,"PUCCH transmission method, user equipment and device",0,H04B|H04L|H04W
+11553486,2023-01-10,"Information transmission method, network device, and terminal",0,H04L|H04W
+11546914,2023-01-03,System information configuration method and device,0,H04L|H04W
+11546894,2023-01-03,"Uplink control information transmitting method, uplink control information receiving method, terminal, base station and apparatus",1,H04B|H04L|H04W
+11546039,2023-01-03,"Information transmission method, apparatus, first device and second device",0,H04B|H04L|H04W
+11540249,2022-12-27,"Positioning management method and device, NG-RAN node and core network node",0,G01S|H04W
+11540226,2022-12-27,Method and device for determining power control offset for PUCCH,0,H04B|H04L|H04W
+11539493,2022-12-27,"HARQ-ACK transmission method, user equipment, and network side device",1,H04L|H04W
+11539480,2022-12-27,"Data transmission method, device and apparatus",0,H04L|H04W
+11539474,2022-12-27,Configuration for duplication transmission and duplication transmission method and device,0,H04L|H04W
+11528120,2022-12-13,"Data transmission method and apparatus, and computer storage medium",0,H04B|H04L|H04W
+11525849,2022-12-13,Method and device for improving phase measurement accuracy,0,G01R|H04L
+11523440,2022-12-06,Random access method and terminal,1,H04L|H04W
+11523382,2022-12-06,"Resource determining method and apparatus, and resource indication method and apparatus",0,H04L|H04W
+11522653,2022-12-06,"Method, apparatus and device for indicating position of resource set and performing rate matching",0,H04L|H04W
+11516820,2022-11-29,Resource allocation method for sidelink and terminal,1,H04L|H04W
+11516745,2022-11-29,"Uplink power control method, terminal device, and network device",2,H04B|H04L|H04W
+11516729,2022-11-29,"Method and device for transmitting access control information, and network side device",0,H04L|H04W
+11515988,2022-11-29,Method and device for determining initial positions of downlink data channel,0,H04L|H04W
+11515977,2022-11-29,Signal transmission method and apparatus,1,G01S|H04L|H04W
+11515934,2022-11-29,Method and device for determining sending parameters of terminal,0,H04B|H04W
+11510203,2022-11-22,Method and apparatus for determining uplink transmission beam,0,H04B|H04W
+11503643,2022-11-15,Random access method and device,0,H04W
+11503543,2022-11-15,Signal transmission method and device,0,H04L|H04W|Y02D
+11503485,2022-11-15,"Method, system and device for circumventing far-end interference",0,H04L|H04W
+11502809,2022-11-15,"Method and apparatus of indicating synchronization signal block, method and apparatus of determining synchronization signal block, base station, user equipment and storage medium",0,H04L|H04W
+11497024,2022-11-08,Transmission method and device,0,H04B|H04L|H04W
+11497003,2022-11-08,"Information transmission method, terminal and network device",0,H04J|H04L|H04W
+11496974,2022-11-08,Synchronization method and terminal apparatus,0,G01S|H04L|H04W
+11496930,2022-11-08,Method for updating PDU session and network side-device,0,H04L|H04W
+11490443,2022-11-01,"Data transmission method and apparatus, and session management device",0,H04L|H04W
+11490403,2022-11-01,Data transmission method and data transmission device,1,H04L|H04W
+11489706,2022-11-01,Method and apparatus for transmitting PUCCH on symbol according to cyclic shift value,0,H04B|H04J|H04L|H04W
+11489629,2022-11-01,"Transmission method, device, terminal, base station and storage medium",0,H04L|H04W
+11483823,2022-10-25,"Data transmission method, terminal and base station",1,H04L|H04W
+11483755,2022-10-25,"Configuration information transmission method, CU and DU, and computer storage medium",0,H04L|H04W
+11483737,2022-10-25,RRC message transmission method and device,0,H04L|H04W
+11480688,2022-10-25,"Satellite differential auxiliary data transmission method, location method and apparatus",0,G01S|H04W
+11476971,2022-10-18,"Encoding method and apparatus, electronic device and storage medium",0,H03M|H04L
+11470670,2022-10-11,Beam failure recovery method and user equipment,0,H04B|H04W
+11470648,2022-10-11,"Random access method, base station and user equipment",0,H04W
+11470647,2022-10-11,Method and device for two-step contention based random access,0,H04W
+11469810,2022-10-11,"Channel quality indicator sending method, and data sending method and device",0,H04B|H04L|H04W
+11464037,2022-10-04,Method and apparatus for transmitting uplink control information (UCI),0,H04L|H04W
+11463219,2022-10-04,"Reference signal transmission method, reference signal transmission device, base station and user equipment",0,H04L
+11457478,2022-09-27,Method and device for random access,0,H04L|H04W
+11452162,2022-09-20,"Session management method, mobility management functional entity and session management functional entity",0,H04W
+11452065,2022-09-20,Positioning method and apparatus,0,G01S|H04W
+11452026,2022-09-20,Method and device for transmitting data by means of wireless backhaul network,1,H04W
+11450335,2022-09-20,Method and device for updating coefficient vector of finite impulse response filter,0,G06F|G10L|H03H|H04M|H04R
+11445441,2022-09-13,"PDCCH blind detection method, terminal and network side device",1,H04L|H04W|Y02D
+11438901,2022-09-06,"Resource allocation method, terminal, and network side device",0,H04L|H04W
+11438842,2022-09-06,Communication configuration method and device,3,H04W|Y02D
+11438127,2022-09-06,"Measurement gap determination method, user equipment, and network side device",0,H04L|H04W
+11432274,2022-08-30,"Data transmission method, user equipment, base station and storage medium",0,H04L|H04W
+11431465,2022-08-30,"Control information sending method and receiving method, base station, and terminal",0,H04L|H04W
+11425667,2022-08-23,"Information indicating method, information determining method, terminal and base station",2,H04J|H04L|H04W
+11419130,2022-08-16,Resource allocation method and apparatus,0,H04W
+11419070,2022-08-16,"Methods for acquiring and transmitting system information, terminal, network reception and transmission node and storage medium",0,H04L|H04W
+11419059,2022-08-16,Uplink power control method and mobile terminal,0,H04W
+11412536,2022-08-09,"Method and apparatus of determining downlink control channel resource, user equipment and base station",0,H04W
+11412532,2022-08-09,Method and device for determining whether data is damaged,0,H04L|H04W
+11412488,2022-08-09,Resource allocation method and device,2,H04W
+11411706,2022-08-09,Resource block group partitioning method and user equipment,0,H04L|H04W
+11411703,2022-08-09,Signal transmission and detection method and device,0,H04L|H04W
+11405947,2022-08-02,Method and terminal for performing scheduling request,0,H04W
+11405936,2022-08-02,"Scheduling timing determination method, terminal and network side device",1,H04L|H04W
+11405906,2022-08-02,Downlink control information transmission and reception methods and devices,0,H04B|H04L|H04W
+11405834,2022-08-02,Data transmission method and device,3,H04W|Y02D
+11405783,2022-08-02,Access control method and device,0,H04L|H04W
+11405157,2022-08-02,Data transmission method and apparatus and computer storage medium,0,H04B|H04L
+11399349,2022-07-26,"Power headroom reporting processing method, terminal and network side device",0,H04L|H04W
+11395363,2022-07-19,"Method of processing UE idle state with separated mm function entity and SM function entity, mobility management function entity, and session management function entity",0,H04W
+11394596,2022-07-19,Method and device for determining baseband parameter,2,H04B|H04L|H04W
+11394488,2022-07-19,"Polarized coding method and apparatus, electronic device, and storage medium",0,H03M|H04L
+11388722,2022-07-12,Common downlink control channel transmission method and device,0,H04L|H04W
+11388689,2022-07-12,"Timing advance indication method, base station, UE and device",0,H04L|H04W
+11388049,2022-07-12,"Resource configuration method and apparatus, and computer storage medium",0,H04L|H04W
+11382123,2022-07-05,Method and apparatus for transmitting downlink control information,1,H04L|H04W
+11382086,2022-07-05,"Method of transmitting downlink control channel, method and device of detecting and receiving downlink control channel",1,H04L|H04W
+11382077,2022-07-05,"PUCCH transmission method, terminal and network-side device",0,H04B|H04J|H04L|H04W
+11381607,2022-07-05,IMS user registration method and device,0,H04L|H04W
+11381370,2022-07-05,"Retransmission activating/deactivating method, base station, user equipment and device",0,H04L|H04W
+11381364,2022-07-05,"Method of sending uplink control channel and device thereof, method of receiving uplink control channel and device thereof, terminal and base station",0,H04L|H04W
+11381355,2022-07-05,"Information determination method, apparatus and device",0,H04L|H04W
+11375532,2022-06-28,"Resource allocation method and apparatus, base station, and user equipment",0,H04L|H04W
+11375488,2022-06-28,"Method for determining and configuring a resource used for transmitting downlink data, terminal and base station",0,H04L|H04W
+11375369,2022-06-28,"Message authentication method and communication method of communication network system, and communication network system",2,H04L|H04W
+11368951,2022-06-21,"Uplink transmission method, network side device and terminal",0,H04W
+11368928,2022-06-21,"Association method, instruction method, and device for synchronization block and paging-scheduling signaling message",0,H04L|H04W
+11368276,2022-06-21,Phase calibration method and device,0,H04B|H04L
+11363645,2022-06-14,Method and device for random access and instruction after random access rollback,0,H04W
+11363636,2022-06-14,Method and device for contention based random access,1,H04W
+11363581,2022-06-14,"Resource allocation determination method, resource allocation indication method, user equipment and network device",0,H04L|H04W
+11363576,2022-06-14,"PUCCH transmission method, user equipment and device",0,H04L|H04W
+11356220,2022-06-07,"Uplink transmission method, terminal, and base station",0,H04L|H04W
+11353542,2022-06-07,Positioning method and positioning device,1,G01S|H04L|H04W
+11350302,2022-05-31,"Method, apparatus and device for managing threshold pair change",0,H04B|H04L|H04W
+11343807,2022-05-24,"PUCCH transmission method, user equipment and apparatus",0,H04B|H04L|H04W
+11343806,2022-05-24,Uplink control channel transmission method and device,0,H04L|H04W
+11342978,2022-05-24,"Beam training method and device, communication system",1,H04B|H04L|H04W
+11342972,2022-05-24,"Uplink transmission method, uplink transmission scheduling method, and device",1,H04B|H04W
+11342966,2022-05-24,"Information indicating and determining method and apparatus, and computer storage medium",0,H04B|H04L
+11337199,2022-05-17,Method and device for transmitting downlink control channel,1,H04L|H04W
+11337122,2022-05-17,"Switch method, terminal and network side device",0,H04B|H04W
+11336418,2022-05-17,Method and device for avoiding uplink collisions with overlapping TTI,0,H04L|H04W
+11336339,2022-05-17,"Precoding matrix indication method, terminal, and network side device",0,H04B|H04L|H04W
+11330611,2022-05-10,Method and device for uplink transmission,0,H04L|H04W
+11330596,2022-05-10,Method and device for indicating transmission resources and storage medium,1,H04L|H04W
+11329708,2022-05-10,Channel state information feedback method and device,0,H04B|H04L
+11324029,2022-05-03,"Data transmission method, terminal and base station",0,H04L|H04W
+11323219,2022-05-03,"Triggering method and transmitting method for uplink reference signal in communication system, apparatuses thereof, and storage medium",0,H04L|H04W
+11323208,2022-05-03,Method of transmitting hybrid automatic retransmission request acknowledgment codebook and device,1,H04L|H04W
+11323135,2022-05-03,"Polar code coding, polar code decoding method, apparatus and device",0,H03M|H04L
+11316634,2022-04-26,Signal processing method and device,0,H04B|H04L|H04W
+11316632,2022-04-26,SRS transmission method and device,0,H04L|H04W
+11310811,2022-04-19,"Media access control layer architecture, method for transmitting data, network-side device and terminal",0,H04L|H04W
+11310717,2022-04-19,Relay node selection method and device,0,H04B|H04W
+11310014,2022-04-19,Method and device for information indication and resource determination and computer storage medium,0,H04B|H04L|H04W
+11309944,2022-04-19,Method and device for assigning transmission power,0,H04B|H04J|H04W
+11304187,2022-04-12,"Data transmission method, device, network device and user equipment",0,H04B|H04L|H04W
+11304120,2022-04-12,"Method for acquiring system information, user equipment and network side device",0,H04W
+11303394,2022-04-12,HARQ retransmission method and apparatus and transmission device,0,H04L
+11297616,2022-04-05,Multi-slot transmission method and device,0,H04L|H04W
+11297561,2022-04-05,Access method and device for radio network,1,H04W
+11291037,2022-03-29,SR/BSR triggering method and device,0,H04L|H04W
+11290246,2022-03-29,"DMRS indication method, terminal, and base station",1,H04B|H04L|H04W
+11290217,2022-03-29,"HARQ-ACK transmission method, terminal device and network device",1,H04L|H04W
+11284430,2022-03-22,"Method of determining ambiguous period, terminal and network-side device",0,H04B|H04L|H04W|Y02D
+11284246,2022-03-22,"Uplink transmission method, uplink transmission configuration method, user equipment and base station",5,H04B|H04L|H04W
+11283661,2022-03-22,Method and apparatus for signal processing,0,H03H|H04B|H04L|H04W
+11277773,2022-03-15,Handover method and apparatus,1,H04W
+11265931,2022-03-01,Method and device for establishing connection,1,H04L|H04W
+11265768,2022-03-01,"EPS bearer identifier allocation method and device, SMF and PCF",0,H04W
+11265761,2022-03-01,Method of configuring uplink data compression and device thereof,0,H04L|H04W
+11265760,2022-03-01,Method and device for decompressing and compressing uplink data,3,H04L|H04W
+11265708,2022-03-01,Method and device for joining access node group,1,H04L|H04W
+11259316,2022-02-22,"Method for data transmission with introduce of aperiodic CSI-RS, base station and terminal",2,H04L|H04W
+11259295,2022-02-22,"Resource selection method, data transmission method and device",1,H04W|Y02D
+11259267,2022-02-22,Downlink data transmission method and device,0,H04W
+11258557,2022-02-22,Transmission method and device,0,H04L|H04W
+11252697,2022-02-15,"Resource selection method and apparatus, user equipment and storage medium",0,H04L|H04W
+11246140,2022-02-08,"Core network accessing method, base station, and user equipment",0,H04W
+11246135,2022-02-08,"Resource selection method and apparatus under multiple carriers, computer device, and storage medium",0,H04L|H04W
+11239887,2022-02-01,Data transmission method and device,3,H04B|H04L
+11233699,2022-01-25,Network slice creation method and management and orchestration system,0,G06F|H04L|H04W
+11229039,2022-01-18,Scheduling request transmission method and related device,0,H04L|H04W
+11228946,2022-01-18,Communication method and device,0,H04L|H04W
+11228930,2022-01-18,"Method, device and apparatus for selecting user signature vector, and storage medium",0,H04B|H04L|H04W
+11228461,2022-01-18,"Methods for indicating and determination large-scale channel parameter, base station and terminal device",1,H04B|H04L|H04W
+11224072,2022-01-11,"Method for information transmission, user equipment and access network entity",0,H04L|H04W
+11224066,2022-01-11,"Method of determining search space of carrier, terminal and network device",0,H04L|H04W
+11218997,2022-01-04,"Uplink control channel transmission method, terminal, base station and device",0,H04L|H04W
+11218982,2022-01-04,Radio link monitoring method and apparatus,0,H04W
+11218913,2022-01-04,"Air-interface protocol stack configuration method, data transmission method, air-interface protocol stack configuration device, and data transmission device",0,H04W
+11218349,2022-01-04,"Shortened physical uplink control channel transmission methhod, user equipment and base station",0,H04L|H04W
+11218277,2022-01-04,CSI information reporting and receiving method and communication device,2,H04B|H04L
+11218248,2022-01-04,Channel encoding method and device,0,H04L|H04W
+11218244,2022-01-04,Information transmission method and apparatus,0,H04L|H04W
+11212864,2021-12-28,Method and device for processing non-matching between UE and network state,3,H04W
+11212795,2021-12-28,Method and apparatus for indicating and determining slot structure,0,H04L|H04W
+11212742,2021-12-28,UPF selection method and device,2,H04W
+11212703,2021-12-28,"Method, apparatus and equipment for determining transport block size",0,H04L|H04W
+11212045,2021-12-28,Synchronization method and apparatus,1,H04J|H04L|H04W
+11206684,2021-12-21,Method and device for sending and receiving preamble sequence of physical random access channel,0,H04J|H04L|H04W
+11206652,2021-12-21,"Downlink channel transmitting method, downlink channel receiving method, devices thereof, base station and terminal",0,H04L|H04W
+11206651,2021-12-21,"Method for detecting and receiving downlink control channel, user equipment and network side device",0,H04W|Y02D
+11206618,2021-12-21,"Uplink power control method, terminal and network device",4,H04B|H04L|H04W
+11206541,2021-12-21,Method and device for managing and controlling terminal UE,3,H04L|H04W
+11202333,2021-12-14,"Layer 2 processing method, central unit and distributed unit",2,H04W
+11202294,2021-12-14,Methods and devices for determining downlink resource set and sending resource position information,0,H04L|H04W
+11202227,2021-12-14,Processing method and device for cache synchronous exception,2,H03M|H04L|H04W
+11201774,2021-12-14,"Uplink waveform acquisition method, uplink waveform feedback method, terminal and base station",0,H04L|H04W
+11201715,2021-12-14,Measurement method and device,0,G01S|H04L|H04W
+11197320,2021-12-07,"Uplink transmission resource scheduling method and device, and uplink transmission method and device",1,H04W
+11191020,2021-11-30,Terminal state conversion method and apparatus,1,H04W|Y02D
+11190984,2021-11-30,Quality of service processing method and device,0,H04W
+11190211,2021-11-30,Method and device of selecting base graph of low-density parity-check code,0,H03M|H04L
+11184915,2021-11-23,"Sidelink communication method, terminal and network equipment",0,H04W
+11184873,2021-11-23,"Paging method, base station and user equipment",2,H04W
+11184861,2021-11-23,"Power control method, apparatus and system for short transmission time interval transmission and storage medium",0,H04W
+11184809,2021-11-23,"Method for determining data forwarding tunnel, access and mobility management function entity, and base station",1,H04W
+11184805,2021-11-23,Quality of service control method and related device,0,H04L|H04M|H04W
+11178701,2021-11-16,Method and apparatus for determining RA-RNTI,1,H04L|H04W
+11178697,2021-11-16,Random access method and terminal,0,H04W
+11178686,2021-11-16,Method and apparatus for transmitting and detecting downlink control information,0,H04L|H04W
+11178567,2021-11-16,"Bearer mapping method and device thereof, base station and terminal",0,H04L|H04W
+11172447,2021-11-09,Method and apparatus for sending information and channel monitoring processing,0,H04W|Y02D
+11172401,2021-11-09,Method and device for transmitting data,0,H04L|H04W
+11172399,2021-11-09,Default quality of service (QoS) control method and device,0,H04L|H04M|H04W
+11166299,2021-11-02,"Data retransmission method, device and terminal",1,H04L|H04W
+11166284,2021-11-02,"Data transmission method, terminal, and base station",0,H04L|H04W
+11166190,2021-11-02,"Buffer state reporting method, user equipment, method of processing buffer state report and network side device",0,H04W
+11166176,2021-11-02,"Method for determining establishment reason, and terminal",1,H04W
+11160092,2021-10-26,"Service data transmission method, user equipment and network side device",0,H04L|H04W
+11159299,2021-10-26,Method and device for dividing short transmission time interval of special subframe,0,H04B|H04L|H04W
+11152983,2021-10-19,"Data transmission control method, network side device and terminal side device",0,H04B|H04L
+11147039,2021-10-12,"Paging strategy determination method, device, RAN network element and core network element",0,H04W
+11128422,2021-09-21,Narrowband physical broadcast channel transmission method and device,0,H04L|H04W
+11128351,2021-09-21,"Uplink data transmission method, terminal, and network side device",0,H04B|H04L
+11115940,2021-09-07,Method for obtaining noise power and terminal,0,H03G|H04W
+11109266,2021-08-31,"Method of transmitting data, user equipment, network side device and computer readable storage medium",1,H04L|H04W
+11109222,2021-08-31,"Information processing method and device, computer-readable storage medium and electronic device",1,H04W
+11102825,2021-08-24,Method and device for responding to random access,2,H04L|H04W
+11096145,2021-08-17,Paging method and base station,0,H04W
+11095410,2021-08-17,Transmission method and device based on uplink transmission indication information,2,H04B|H04L|H04W
+11089473,2021-08-10,"Service access, and control method and apparatus therefor",0,H04L|H04W
+11063721,2021-07-13,"Method and apparatus for sending pilot, and method and apparatus for receiving pilot",0,H04B|H04L|H04W
+11051265,2021-06-29,Method and device for synchronization between base stations,0,H04L|H04W
+10999105,2021-05-04,Channel estimation method and device,0,H04L|H04W
+10992769,2021-04-27,"Data transmission method, apparatus and system",0,H04L|H04W
+10958524,2021-03-23,"Method for generating network slice template and for applying network slice template, and apparatus",2,H04L
+10939459,2021-03-02,Scheduling-free transmission method and apparatus,0,H04W
+10939358,2021-03-02,Method and apparatus for business migration,0,H04W
+10931359,2021-02-23,Method and apparatus for detecting beam,0,H04B|H04W
+10917864,2021-02-09,Method and device for realizing synchronization,1,H04B|H04L|H04W

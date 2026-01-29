@@ -1,0 +1,820 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430349,2025-09-30,Contextual modification of data sharing constraints in a distributed database system that uses a multi-master replication scheme,0,G06F
+12430346,2025-09-30,Systems and methods for automatic clustering and canonical designation of related data in various data structures,0,G06F
+12430114,2025-09-30,System and methods for using container layers to facilitate cloud resource sharing and decrease startup times,0,G06F
+12430017,2025-09-30,Interactive graphical user interfaces for simulated systems,0,G06F
+12425254,2025-09-23,Systems and methods for providing category- sensitive chat channels,0,H04L
+12417337,2025-09-16,Data normalization and irregularity detection system,0,G06F|G06Q|G16H|H04L|H04W
+12417240,2025-09-16,Resolving conflicts between data source updates and user edits to ontology data,0,G06F
+12417227,2025-09-16,Row-level permissioning based on evaluated policies,0,G06F
+12417215,2025-09-16,Output validation of data processing systems,0,G06F
+12417011,2025-09-16,Graphical user interface system,0,G06F
+12411664,2025-09-09,Auto-generating interactive workflow user interfaces for simulated systems,0,G06F
+12405983,2025-09-02,Interacting with ontology-based databases using machine learning,0,G06F
+12405945,2025-09-02,Searches of highly structured data,0,G06F
+12405846,2025-09-02,Providing application programming interface endpoints for machine learning models,0,G06F|G06N|H04L
+12401701,2025-08-26,Shared state collaboration,0,G06F|G06Q|H04L
+12399938,2025-08-26,System event detection system and method,0,G06F|H04L
+12399870,2025-08-26,Data revision control in large-scale data analytic systems,0,G06F
+12394006,2025-08-19,Contextual scenario assessment,0,G06N|G06Q
+12393914,2025-08-19,Interactive data analysis and scheduling,0,G06F|G06Q
+12393406,2025-08-19,Entity search engine powered by copy-detection,0,G06F
+12386803,2025-08-12,Creating data in a data store using a dynamic ontology,0,G06F
+12386802,2025-08-12,Column lineage for resource dependency system and graphical user interface,0,G06F|G06N|G06Q
+12386496,2025-08-12,Data collaboration between different entities,0,G06F|G06T|H04L
+12380152,2025-08-05,Fine-grained permission models for ontology data,0,G06F
+12380073,2025-08-05,Rules-based dataset cleaning,0,G06F
+12374011,2025-07-29,Interactive data object map,0,G06F|G06T|G09B
+12373499,2025-07-29,System to manage document workflows,0,G06F|G06Q|H04L
+12367310,2025-07-22,Data security,0,G06F
+12367305,2025-07-22,Row-level and column-level policy service,0,G06F
+12367050,2025-07-22,Systems and methods for running applications associated with browser-based user interfaces within multi-developer computing platforms,0,G06F
+12361045,2025-07-15,Determining geolocations of composite entities based on heterogeneous data sources,0,G01S|G06F|G06N|H04W
+12360762,2025-07-15,Automatic modification of repository files,0,G06F
+12353852,2025-07-08,Systems and methods for action validations,0,G06F
+12353678,2025-07-08,Object-centric data analysis system and associated graphical user interfaces,0,G06F|G06T
+12353582,2025-07-08,Exploration and access to electronic data assets,0,G06F
+12353579,2025-07-08,Controlling user actions and access to electronic data assets,0,G06F|H04L
+12353477,2025-07-08,Providing an object-based response to a natural language query,0,G06F|G06N
+12348647,2025-07-01,Method and apparatus for providing secure debug information,0,G06F|H04L
+12346339,2025-07-01,Code list builder,0,G06F
+12346320,2025-07-01,Low-latency database system,0,G06F
+12340325,2025-06-24,Managing production pipelines,0,G06Q|Y02P
+12339761,2025-06-24,Ingesting data to a processing platform,0,G06F|H04L
+12333237,2025-06-17,Systems and methods for providing a view of geospatial information,0,G06F|H04W
+12332909,2025-06-17,User interface data sample transformer,0,G06F
+12326872,2025-06-10,Systems and methods for importing data from electronic data files,0,G06F
+12326833,2025-06-10,Approaches for managing data retention lifecycle,0,G06F
+12321760,2025-06-03,Transforming instructions for collaborative updates,0,G06F|G06Q
+12321723,2025-06-03,Code execution and data processing pipeline,0,G06F
+12321578,2025-06-03,Enhanced techniques for building user interfaces,0,G06F
+12321394,2025-06-03,System and method for querying a data repository,0,G06F
+12320663,2025-06-03,Dynamic scaling of geospatial data on maps,0,G01C|G06F|G06T
+12316812,2025-05-27,System to collect and visualize software usage metrics,0,H04L|H04N
+12314704,2025-05-27,Systems and methods for coordinating the deployment of components to defined user groups,0,G06F
+12308032,2025-05-20,System and methods for audio data analysis and tagging,0,G06F|G06N|G10L
+12307529,2025-05-20,Sensor data integration and analysis,0,G06F|G06Q
+12306974,2025-05-20,Controlling access to electronic data assets,0,G06F
+12306815,2025-05-20,Resource grouping for resource dependency system and graphical user interface,0,G06F|G06N|G06Q
+12299106,2025-05-13,Project-based permission system,0,G06F|H04L
+12299022,2025-05-13,Language model-based data object extraction and visualization,0,G06F|G06N
+12298134,2025-05-13,Approaches of obtaining geospatial coordinates of sensor data,0,G01C|G01S|G06T
+12289397,2025-04-29,Systems and methods for selective access to logs,0,G06F|H04L|H04W
+12288365,2025-04-29,Approaches for lossy compression using machine learning,0,G06N|G06T|G10L|H04N
+12288143,2025-04-29,Systems and methods for selecting machine learning training data,0,G06N
+12287832,2025-04-29,Chart-based time series regression model user interface,0,G06F|G06N|G06T
+12282896,2025-04-22,Collaborative planning system,0,G06F|G06Q
+12282531,2025-04-22,Establishing access sessions,0,G06F|H04L
+12279024,2025-04-15,"Systems and methods for generating, analyzing, and storing data snippets",0,G06F|H04N
+12277201,2025-04-15,Secure deployment of a software package,0,G06F|H04L
+12277176,2025-04-15,Concurrent automatic adaptive storage of datasets in graph databases,0,G06F
+12271686,2025-04-08,Collaborative spreadsheet data validation and integration,0,G06F|H04L
+12271432,2025-04-08,Management and organization of database search results,0,G06F
+12271388,2025-04-08,"Database system for time series data storage, processing, and analysis",0,G06F|H04L|H04W
+12261872,2025-03-25,Enhanced machine learning refinement and alert generation system,0,G06F|G06N|H04L
+12261861,2025-03-25,Supervisory control and data acquisition,0,H04L
+12260192,2025-03-25,"Workflow application and user interface builder integrating objects, relationships, and actions",0,G06F|G06Q
+12250243,2025-03-11,Systems for network risk assessment including processing of user access rights associated with a network of devices,1,G06F|H04L|H04W
+12248671,2025-03-11,"Systems and user interfaces for dynamic and interactive access of, investigation of, and analysis of data objects stored in one or more databases",0,G06F
+12248599,2025-03-11,Centralized data retention and deletion system,0,G06F
+12248519,2025-03-11,Enhanced processing of time series data via parallelization of instructions,0,G06F
+12248515,2025-03-11,Resource dependency system and graphical user interface,1,G06F
+12248471,2025-03-11,"Systems and methods for generating and displaying a data pipeline using a natural language query, and describing a data pipeline using natural language",0,G06F
+12242537,2025-03-04,Ontology-based time series visualization and analysis,0,G06F|G06T
+12238136,2025-02-25,Malware data clustering,0,G06F|G06Q|H04L
+12235829,2025-02-25,Systems and methods for generating interrelated notional data,0,G06F
+12229692,2025-02-18,Systems and methods for coherent monitoring,0,G06F|G06Q|G06T|G06V
+12229200,2025-02-18,Systems and methods for using linked documents,0,G06F|G06Q|H04L
+12229194,2025-02-18,System and method for querying a data repository,0,G06F
+12229189,2025-02-18,Continuous builds of derived datasets in response to other dataset updates,0,G06F
+12229154,2025-02-18,Focused probabilistic entity resolution from multiple data sources,0,G06F
+12229150,2025-02-18,Intelligent compute request scoring and routing,0,G06F|Y02D
+12229121,2025-02-18,Propagated deletion of database records and derived data,0,G06F
+12229111,2025-02-18,Data insights,0,G06F|G07C
+12229104,2025-02-18,Querying multi-dimensional time series data sets,0,G06F
+12223157,2025-02-11,Interactive display with workflow management system,0,G06F|G06Q
+12222953,2025-02-11,Server implemented geographic information system with graphical interface,0,G06F|G06T
+12222824,2025-02-11,Infrastructure backup and recovery,0,G06F
+12217091,2025-02-04,Systems and methods for autoscaling instance groups of computing platforms,0,G06F
+12210543,2025-01-28,System architecture for relating and linking data objects,0,G06F
+12210541,2025-01-28,Time-series data storage and processing database system,0,G06F
+12210509,2025-01-28,"Structured data collection, presentation, validation and workflow management",0,G06F|G06Q
+12210491,2025-01-28,Inferring a dataset schema from input files,0,G06F
+12206669,2025-01-21,Controlling user creation of data resources on a data processing platform,0,G06F|H04L
+12205364,2025-01-21,Tracked entity detection validation and track generation with geo-rectification,0,G06F|G06V
+12205204,2025-01-21,Object time series system,0,G06F|G06T
+12204877,2025-01-21,Function access system,0,G06F
+12204845,2025-01-21,Cached database and synchronization system for providing dynamic linked panels in user interface,0,G06F|G09G
+12204577,2025-01-21,Rectifying missing or incorrect labels in unstructured data,0,G06F|G06V
+12204552,2025-01-21,Visual analysis of data using sequenced dataset reduction,0,G06F
+12204542,2025-01-21,Performing database joins in distributed data processing systems,0,G06F
+12204527,2025-01-21,System for providing dynamic linked panels in user interface,0,G06F|G09G
+12197514,2025-01-14,Systems and methods for creating and managing a data integration workspace,0,G06F|G06T
+12197457,2025-01-14,Central user interface for accessing and upgrading of dataset integrations,0,G06F
+12197385,2025-01-14,Transaction-level data retention policy inheritance,0,G06F
+12192300,2025-01-07,System architecture for enabling efficient inter-application communications,0,G06F|H04L
+12192218,2025-01-07,Unwanted tunneling alert system,0,G06F|H04L
+12189933,2025-01-07,Graphical user interfaces for optimizations,0,G06F|G06N
+12189646,2025-01-07,Multi-language object cache,0,G06F
+12189572,2025-01-07,Streamlining processing and transport of artifacts in air-gapped networks,0,G06F
+12182106,2024-12-31,Targeted sweep method for key-value data storage,0,G06F
+12174800,2024-12-24,Model object management and storage system,0,G06F|G06N
+12169524,2024-12-17,System and method for querying a data repository,0,G06F
+12164404,2024-12-10,Approaches of incident monitoring and resolution,0,G06F|G06N|G06Q|H03M
+12147950,2024-11-19,Predictive data objects,0,G06F|G06Q
+12147657,2024-11-19,Interactive user interfaces for location-based data analysis,0,G06F|G06T
+12147647,2024-11-19,Artificial intelligence assisted evaluations and user interface for same,0,G06F|G06N|G06Q
+12147295,2024-11-19,Linking related events for various devices and services in computer log files on a centralized server,0,G06F
+12141253,2024-11-12,Controlling access to computer resources,0,G06F|H04L
+12141163,2024-11-12,Synchronising datasets updates,0,G06F
+12141144,2024-11-12,Column lineage and metadata propagation,0,G06F
+12135988,2024-11-05,System and method for batch evaluation programs,0,G06F
+12135729,2024-11-05,Electronic note management via a connected entity graph,0,G06F
+12130810,2024-10-29,Low-latency database system,0,G06F
+12124874,2024-10-22,Pipeline task verification for a data processing platform,0,G05B|G06F
+12124513,2024-10-22,Data propagation and mapping system,0,G06F
+12124472,2024-10-22,Federated search of multiple sources with conflict resolution,0,G06F
+12124467,2024-10-22,Query-based time-series data display and processing system,0,G06F
+12124465,2024-10-22,Systems and methods for database investigation tool,0,G06F
+12124464,2024-10-22,Object-centric data analysis system and graphical user interface,0,G06F
+12124428,2024-10-22,Monitoring and alerting mechanisms,0,G06F
+12120429,2024-10-15,Method and system for real-time geo referencing stabilization,0,B64C|B64U|G06F|G06T|G06V|H04N
+12118013,2024-10-15,Data structure based on event compaction and read-offsets,0,G06F
+12111862,2024-10-08,Determining object geolocations based on heterogeneous data sources,0,G01S|G06F|G06N|H04W
+12111843,2024-10-08,Synchronization of data across different ontologies,0,G06F
+12111839,2024-10-08,Entity matching with machine learning fuzzy logic,0,G06F
+12105719,2024-10-01,Malicious activity detection system capable of efficiently processing data accessed from databases and generating alerts for display in interactive user interfaces,0,G06F|G06Q|H04L
+12105682,2024-10-01,Data analytic systems,0,G06F
+12099570,2024-09-24,System and methods for faster processor comparisons of visual graph features,0,G06F
+12099512,2024-09-24,Contextual modification of data sharing constraints in a distributed database system that uses a multi-master replication scheme,0,G06F
+12099509,2024-09-24,Systems and methods for constraint driven database searching,0,G06F
+12093279,2024-09-17,Generation and graphical display of data transform provenance metadata,0,G06F
+12093235,2024-09-17,Sensor data analysis system and method,0,G06F
+12093159,2024-09-17,Audit logging database system and user interface,0,G06F
+12086815,2024-09-10,Approaches for analyzing entity relationships,0,G06F|G06Q|H04L
+12081549,2024-09-03,Systems and methods for managing custom code in a data computing platform,0,G06F|H04L
+12081523,2024-09-03,Systems and methods for managing firewall rules and connections between different services,0,H04L
+12079887,2024-09-03,Graphical representation of a complex task,0,G06F|G06Q|G06T|Y02P
+12079456,2024-09-03,Systems and methods for providing a tagging interface for external content,0,G06F
+12079357,2024-09-03,Multi-user access controls in electronic simultaneously editable document editor,0,G06F
+12079352,2024-09-03,Enforcing data security constraints in a data pipeline,0,G06F
+12074942,2024-08-27,Fault-tolerant and highly available configuration of distributed services,0,G06F|H04L
+12067020,2024-08-20,Nested discovery and deletion of resources,0,G06F
+12066991,2024-08-20,System and methods for live data migration,0,G06F
+12066982,2024-08-20,Data asset sharing,3,G06F
+12063218,2024-08-13,Enforcing granular access control policy,5,G06F|H04L
+12061884,2024-08-13,Extensible data transformation authoring and validation system,0,G06F
+12061780,2024-08-13,Interactive graphical user interfaces for simulated systems,2,G06F
+12061709,2024-08-13,Systems and methods for conducting data extraction using dedicated data extraction devices,0,G06F|H04L
+12056817,2024-08-06,Generating three-dimensional geo-registered maps from image data,0,G06T
+12056718,2024-08-06,Fraud lead detection system for efficiently processing database-stored data and automatically generating natural language explanatory information of system results for display in interactive user interfaces,0,G06N|G06Q|G16H
+12056468,2024-08-06,Code execution and data processing pipeline,1,G06F
+12056128,2024-08-06,Workflow driven database partitioning,0,G06F
+12050907,2024-07-30,Providing external access to a processing platform,0,G06F
+12050567,2024-07-30,Framework for live data migration,1,G06F
+12045678,2024-07-23,Providing application programming interface endpoints for machine learning models,0,G06F|G06N|H04L
+12039314,2024-07-16,System and methods for using container layers to facilitate cloud resource sharing and decrease startup times,1,G06F
+12039087,2024-07-16,Charter-based access controls for managing computer resources,1,G06F|H04L
+12038991,2024-07-16,Interactive geographical map,0,G06F|G09B
+12038933,2024-07-16,Systems and methods for automatic clustering and canonical designation of related data in various data structures,1,G06F
+12032583,2024-07-09,Data analysis system and method,0,G06F
+12032476,2024-07-09,Data unit test-based data management system,1,G06F
+12026810,2024-07-02,Ontology-backed automatic chart creation,0,G06F|G06T
+12026267,2024-07-02,"Approaches of enforcing data security, compliance, and governance in shared infrastructures",0,G06F|H04L
+12025457,2024-07-02,Three-dimensional representations of routes,0,G01C|G06F|G08G
+12022001,2024-06-25,Method and apparatus for providing secure debug information,2,G06F|H04L
+12013848,2024-06-18,Systems and methods for managing queries from different types of client applications,0,G06F|H04L
+12010232,2024-06-11,"User-friendly, secure and auditable cryptography administration system",0,G06F|H04L
+12008049,2024-06-11,Techniques for visualizing dependencies in a data analytics system,0,G06F
+12008047,2024-06-11,Providing an object-based response to a natural language query,0,G06F|G06N
+12008010,2024-06-11,Systems and methods for visualizing one or more datasets,0,G06F
+12008006,2024-06-11,Assessments based on data that changes retroactively,0,G06F
+12007864,2024-06-11,Interactive graph generation for computation analysis,0,G06F|G06T
+12003591,2024-06-04,Automatic discovery and registration of service applications for files introduced to a user interface,0,G06F|H04L
+12001307,2024-06-04,Systems and methods for monitoring software services,0,G06F
+11995064,2024-05-28,Module expiration management,0,G06F
+11995033,2024-05-28,Data deletion system and method,0,G06F
+11989396,2024-05-21,Integrated data authentication system with an interactive user interface,0,G06F|G06Q
+11989189,2024-05-21,Data processing system and method,0,G06F
+11989171,2024-05-21,Data storage method and system,0,G06F
+11983651,2024-05-14,Managing production pipelines,1,G06Q|Y02P
+11983579,2024-05-14,Application programming interface (API) management and development,0,G06F
+11983194,2024-05-14,Interactive dynamic geo-spatial application with enriched map tiles,0,G06F
+11977919,2024-05-07,Apparatus and method of securely and efficiently interfacing with a cloud computing service,0,G06F|H04L
+11977863,2024-05-07,Framework for developing and deploying applications,0,G06F
+11977723,2024-05-07,Image tiling and distributive modification,0,G06F|G06T|G16H
+11971275,2024-04-30,Dynamic map system and method,0,G01C|G06F|G06Q
+11966430,2024-04-23,Determining geolocations of composite entities based on heterogeneous data sources,0,G01S|G06F|G06N|H04W
+11966418,2024-04-23,Systems and methods for adaptive data replication,0,G06F
+11962874,2024-04-16,"Systems and methods for generating, analyzing, and storing data snippets",0,G06F|H04N
+11960362,2024-04-16,"Systems and methods for consistent backup of distributed, transactional databases",0,G06F
+11956267,2024-04-09,Systems for computer network security risk assessment including user compromise analysis associated with a network of devices,1,G06F|H04L
+11954607,2024-04-09,Systems and methods for reducing manufacturing failure rates,0,G06N|G06Q
+11954427,2024-04-09,Transformation in tabular data cleaning tool,1,G06F
+11954319,2024-04-09,Systems and methods for high-scale top-down data analysis,0,G06F|G16H
+11954300,2024-04-09,User interface based variable machine modeling,0,G06F|G06N
+11949759,2024-04-02,Adaptive computation and faster computer operation,0,G06F|H04L
+11949653,2024-04-02,Automated syncing of data between security domains,0,G06F|H04L
+11947934,2024-04-02,Auto-generating interactive workflow user interfaces for simulated systems,4,G06F
+11947569,2024-04-02,Framework for exposing network activities,0,G06F
+11943319,2024-03-26,Systems and methods for isolating applications associated with multiple tenants within a computing platform,0,G06F|H04L
+11940988,2024-03-26,"Structured data collection, presentation, validation and workflow management",0,G06F|G06Q
+11940985,2024-03-26,Data integrity checks,0,G06F
+11940897,2024-03-26,Contextualized notifications for verbose application errors,0,G06F|H04W
+11934847,2024-03-19,System for data aggregation and analysis of data from a plurality of data sources,0,G06F
+11934363,2024-03-19,Output validation of data processing systems,1,G06F
+11930015,2024-03-12,Systems and method for authenticating users of a data processing platform from multiple identity providers,0,G06F|H04L|H04W
+11928733,2024-03-12,"Systems and user interfaces for holistic, data-driven investigation of bad actor behavior based on clustering and scoring of related data",1,G06F|G06Q
+11928211,2024-03-12,Systems and methods for implementing a machine learning approach to modeling entity behavior,0,G06F|G06N
+11928166,2024-03-12,Data retrieval system and method,0,G06F
+11928164,2024-03-12,System to manage document workflows,0,G06F|G06Q|H04L
+11928095,2024-03-12,Image analysis interface,0,G06F
+11924295,2024-03-05,Serving assets in a networked environment,0,G06F|H04L
+11924035,2024-03-05,Systems and methods for continuous configuration deployment,0,G06F|H04L
+11921796,2024-03-05,Systems and methods for using linked documents,0,G06F|G06Q|H04L
+11921795,2024-03-05,Data normalization and extraction system,0,G06F|G06V
+11921767,2024-03-05,Efficient access marking approach for efficient retrieval of document access data,1,G06F
+11920946,2024-03-05,Dynamic scaling of geospatial data on maps,0,G01C|G06F|G06T
+11916944,2024-02-27,Network anomaly detection and profiling,0,G06F|H04L
+11914741,2024-02-27,Data security,1,G06F
+11914687,2024-02-27,Controlling access to computer resources,2,G06F|H04L
+11914623,2024-02-27,Approaches for managing access control permissions,0,G06F|H04L
+11914605,2024-02-27,"Database system for time series data storage, processing, and analysis",1,G06F|H04L|H04W
+11914569,2024-02-27,Light weight redundancy tool for performing transactions,0,G06F
+11914566,2024-02-27,Indexing and relaying data to hot storage,0,G06F
+11914558,2024-02-27,System and methods for object version tracking and read-time/write-time data federation,0,G06F
+11907513,2024-02-20,System and method for analyzing electronic communications and a collaborative electronic communications user interface,0,G06F|H04L
+11907192,2024-02-20,Systems and methods for artifact peering within a multi-master collaborative environment,0,G06F
+11907181,2024-02-20,Inferring a dataset schema from input files,0,G06F
+11907175,2024-02-20,Model object management and storage system,0,G06F|G06N
+11900792,2024-02-13,Enhanced alert generation system based on real-time manipulation of datasets,1,G06F|G06N|G08B|H04L
+11899619,2024-02-13,Approaches for managing data retention lifecycle,0,G06F
+11898890,2024-02-13,User interfaces for displaying discretized elements of logical flow systems,0,E03B|G01F|G01M|G06F|Y02A
+11895137,2024-02-06,Phishing data item clustering and analysis,0,G06F|G06Q|H04L
+11893058,2024-02-06,Management of tasks,0,G06F|G06Q
+11892901,2024-02-06,Data analysis system to facilitate investigative process,1,G06F|H04L
+11886472,2024-01-30,Graphical user interface for a database system,0,G06F
+11886410,2024-01-30,Database live reindex,0,G06F
+11886382,2024-01-30,Customizable pipeline for integrating data,0,G06F
+11886231,2024-01-30,Functions for path traversals from seed input to output,0,G06F
+11882145,2024-01-23,Detection of vulnerabilities in a computer network,2,G06F|H04L
+11881006,2024-01-23,Machine learning assistant for image analysis,0,G06F|G06V
+11880467,2024-01-23,Security-aware caching of resources,0,G06F|H04L
+11880409,2024-01-23,Concurrent automatic adaptive storage of datasets in graph databases,0,G06F
+11880285,2024-01-23,Infrastructure backup and recovery,2,G06F
+11875436,2024-01-16,Object time series system,1,G06F|G06T
+11874905,2024-01-16,Establishing access sessions,0,G06F|H04L
+11874872,2024-01-16,System event detection system and method,1,G06F|H04L
+11874850,2024-01-16,Relationship analysis and mapping for interrelated multi-layered datasets,0,G06F
+11874849,2024-01-16,Systems and methods for creating a data layer based on content from data sources,0,G06F
+11874846,2024-01-16,Code list builder,1,G06F
+11870666,2024-01-09,System to collect and visualize software usage metrics,1,H04L|H04N
+11868366,2024-01-09,System architecture for relating and linking data objects,1,G06F
+11863384,2024-01-02,Automatic derivation of repository access data based on symbolic configuration,0,G06F|H04L
+11861515,2024-01-02,System and method for determining a propensity of entity to take a specified action,0,G06F|G06N|G06Q
+11860831,2024-01-02,Systems and methods for data entry,0,G06F
+11860614,2024-01-02,Systems and methods for resolving workflow,0,G01D|G05B|G06F|G06Q
+11853794,2023-12-26,Pipeline task verification for a data processing platform,1,G05B|G06F
+11853684,2023-12-26,Synchronization and tagging of image and text data,0,G06F|G06V
+11849023,2023-12-19,Verifiable redactable audit log,0,G06F|H04L
+11848760,2023-12-19,Malware data clustering,1,G06F|G06Q|H04L
+11847140,2023-12-19,Sharing information between nexuses that use different classification schemes for information access control,0,G06F|H04L
+11842171,2023-12-12,Function access system,2,G06F
+11841874,2023-12-12,User interface data sample transformer,0,G06F
+11841835,2023-12-12,Data revision control in large-scale data analytic systems,0,G06F
+11841238,2023-12-12,Geotagging structured data,1,G01C|G06F
+11836149,2023-12-05,Electronic note management via a connected entity graph,0,G06F
+11830116,2023-11-28,Interactive data object map,1,G06F|G06T|G09B
+11829928,2023-11-28,Misalignment detection system for efficiently processing database-stored data and automatically generating misalignment information for display in interactive user interfaces,0,G06F|G06Q
+11829392,2023-11-28,Systems and methods for processing and displaying time-related geospatial data,0,G06F
+11829383,2023-11-28,Systems and methods for data replication synchronization,0,G06F
+11829380,2023-11-28,Ontological mapping of data,0,G06F
+11829372,2023-11-28,Stack trace search,0,G06F
+11823336,2023-11-21,Systems and methods for generating augmented reality content,0,G06T|G11B|H04N
+11823130,2023-11-21,Systems and methods for accessing and storing snapshots of a remote application in a document,0,G06Q
+11822687,2023-11-21,Systems and methods for providing network-based permissioning using security node hash identifiers,0,G06F|H04L
+11822542,2023-11-21,Propagated deletion of database records and derived data,0,G06F
+11818171,2023-11-14,Approaches for securing middleware data access,0,H04L
+11816555,2023-11-14,System and method for chaining discrete models,4,G06N
+11816426,2023-11-14,Systems and methods for collaborative data entry and integration,0,G06F
+11816164,2023-11-14,Enhanced processing of time series data via parallelization of instructions,1,G06F
+11816124,2023-11-14,Systems and methods for importing data from electronic data files,1,G06F
+11809682,2023-11-07,Systems and methods for visually presenting geospatial information,0,G06F|G06T
+11809457,2023-11-07,Systems and methods for indexing and aggregating data records,0,G06F|H04L
+11809427,2023-11-07,Storing nested complex data structures in a data store,0,G06F
+11809418,2023-11-07,Approaches for generating queries,0,G06F
+11809407,2023-11-07,Systems and methods for establishing and enforcing relationships between items,0,G06F|G06Q
+11809216,2023-11-07,Providing external access to a processing platform,1,G06F
+11803636,2023-10-31,Security system and method,0,G06F
+11803566,2023-10-31,Data structure based on event compaction and read-offsets,1,G06F
+11803532,2023-10-31,Integrated data analysis,0,G06F
+11803372,2023-10-31,Creation and execution of customised code for a data processing platform,0,G06F|H04L
+11803357,2023-10-31,Entity search engine powered by copy-detection,2,G06F
+11799877,2023-10-24,Supervisory control and data acquisition,0,H04L
+11797627,2023-10-24,Systems and methods for context-based keyword searching,0,G06F
+11789931,2023-10-17,User-interactive defect analysis for root cause,0,G06F
+11789912,2023-10-17,Data analytic systems,0,G06F
+11789904,2023-10-17,Approaches for managing object data,0,G06F
+11789745,2023-10-17,Systems and methods for automated and distributed configuration of computing devices,0,G06F|H04L
+11785017,2023-10-10,Enforcing granular access control policy,0,G06F|H04L
+11783269,2023-10-10,Systems and methods for rule management,0,G06F|G06Q
+11782941,2023-10-10,Visual analysis of data using sequenced dataset reduction,0,G06F
+11782939,2023-10-10,Fuzzy searching and applications therefor,0,G06F
+11782936,2023-10-10,Entity data attribution using disparate data sets,0,G06F|G06N
+11778062,2023-10-03,System architecture for enabling efficient inter-application communications,1,G06F|H04L
+11775898,2023-10-03,Resource grouping for resource dependency system and graphical user interface,3,G06F|G06N|G06Q
+11775683,2023-10-03,Systems and methods for generating and processing secure search queries,0,G06F|H04L
+11775568,2023-10-03,Adaptive and transparent entity screening,0,G06F
+11775542,2023-10-03,Systems and methods for retrieving and processing data for display,0,G06F|G06T
+11775161,2023-10-03,Systems and methods for geo-fenced dynamic dissemination,0,G06F|G06Q|G06T
+11775154,2023-10-03,Systems and methods for determining and displaying optimal associations of data items,0,G06F|G06Q
+11774254,2023-10-03,Systems and methods for alternative projections of geographical information,0,G01C|G06F|G06T|G06V|G09B
+11770390,2023-09-26,Context-aware network-based malicious activity warning systems,0,G06F|H04L
+11769096,2023-09-26,Automated risk visualization using customer-centric data analysis,0,G06Q
+11768854,2023-09-26,Data permissioning through data replication,0,G06F
+11768851,2023-09-26,Systems and methods for facilitating data transformation,1,G06F
+11768595,2023-09-26,System architecture for cohorting sensor data,0,G06F
+11762830,2023-09-19,Selecting backing stores based on data request,0,G06F
+11762652,2023-09-19,Systems and methods for coordinating the deployment of components to defined user groups,0,G06F
+11761771,2023-09-19,Event-based route planning,0,G01C|G06Q
+11757922,2023-09-12,Systems for network risk assessment including processing of user access rights associated with a network of devices,2,G06F|H04L|H04W
+11757905,2023-09-12,Unwanted tunneling alert system,1,G06F|H04L
+11755649,2023-09-12,Data indexing for search tool,1,G06F
+11755614,2023-09-12,Generation and graphical display of data transform provenance metadata,0,G06F
+11755454,2023-09-12,Defect resolution,0,G06F|G06Q
+11755293,2023-09-12,Code execution and data processing pipeline,2,G06F
+11755292,2023-09-12,Pipeline management tool,0,G06F
+11755006,2023-09-12,Predictive modelling,0,G05B|G06F|G06Q
+11748372,2023-09-05,Server implemented geographic information system with graphical interface,0,G06F|G06T
+11741195,2023-08-29,Secure deployment of a software package,0,G06F|H04L
+11741166,2023-08-29,Systems and methods for creating and managing a data integration workspace,0,G06F|G06T
+11733856,2023-08-22,Graphical user interface system,1,G06F
+11728975,2023-08-15,Systems and methods for selective access to logs,0,G06F|H04L|H04W
+11727481,2023-08-15,Systems and user interfaces for dynamic and interactive investigation of bad actor behavior based on automatic clustering of related data in various data structures,3,G06F|G06Q|H04L
+11727317,2023-08-15,Systems and methods for coherent monitoring,1,G06F|G06Q|G06T|G06V
+11727138,2023-08-15,Data generation system and method,0,G06F|H04L
+11722411,2023-08-08,Systems and methods for isolating network traffic of multiple users across networks of computing platforms,0,H04L
+11720713,2023-08-08,"Systems and methods for producing, displaying, and interacting with collaborative environments using classification-based access control",0,G06F|G06Q
+11720609,2023-08-08,Graph analysis of geo-temporal information,0,G06F|H04W
+11720580,2023-08-08,Entity matching with machine learning fuzzy logic,2,G06F
+11720466,2023-08-08,Interactive graph generation for computation analysis,0,G06F|G06T
+11715167,2023-08-01,Graphical representation of a complex task,0,G06F|G06Q|G06T|Y02P
+11714869,2023-08-01,Automated assistance for generating relevant and valuable search results for an entity of interest,0,G06F
+11714792,2023-08-01,Creating data in a data store using a dynamic ontology,1,G06F
+11710305,2023-07-25,Tracked entity detection validation and track generation with geo-rectification,1,G06F|G06V
+11710104,2023-07-25,Predictive data objects,1,G06F|G06Q
+11709896,2023-07-25,Systems and methods for retrieving and processing data,0,G06F
+11709892,2023-07-25,System and method for querying a data repository,0,G06F
+11709852,2023-07-25,Query-based time-series data display and processing system,2,G06F
+11709848,2023-07-25,Focused probabilistic entity resolution from multiple data sources,1,G06F
+11706296,2023-07-18,Fault-tolerant and highly available configuration of distributed services,1,G06F|H04L
+11706090,2023-07-18,Computer network troubleshooting,0,G06F|H04L
+11704441,2023-07-18,Charter-based access controls for managing computer resources,3,G06F|H04L
+11704353,2023-07-18,Systems and methods for organizing and identifying documents via hierarchies and dimensions of tags,0,G06F
+11704325,2023-07-18,Systems and methods for automatic clustering and canonical designation of related data in various data structures,2,G06F
+11704322,2023-07-18,Rapid importation of data including temporally tracked object recognition,0,G06F
+11704098,2023-07-18,"Workflow application and user interface builder integrating objects, relationships, and actions",1,G06F|G06Q
+11703339,2023-07-18,Terrain analysis for automatic route determination,0,G01C|H04W
+11698961,2023-07-11,System event detection system and method,0,G06F
+11698810,2023-07-11,Mobile tasks,0,G06F|G06Q
+11695580,2023-07-04,Systems and methods for providing category—sensitive chat channels,0,H04L
+11694022,2023-07-04,Systems and methods for creating a dynamic electronic form,0,G06F
+11693905,2023-07-04,Chart-based time series regression model user interface,1,G06F|G06N|G06T
+11693877,2023-07-04,Cross-ontology multi-master replication,0,G06F|G06N
+11689530,2023-06-27,Systems and methods for managing custom code in a data computing platform,0,G06F|H04L
+11688114,2023-06-27,Systems and methods for generating dynamic pipeline visualizations,0,G06T
+11687551,2023-06-27,Automatically executing tasks and configuring access control lists in a data transformation system,0,G06F
+11687543,2023-06-27,Time-series data storage and processing database system,1,G06F
+11687532,2023-06-27,Performing database joins in distributed data processing systems,1,G06F
+11687525,2023-06-27,Targeted sweep method for key-value data storage,0,G06F
+11683394,2023-06-20,Systems and methods for isolating applications associated with multiple tenants within a computing platform,0,G06F|H04L
+11681829,2023-06-20,Approaches for managing restrictions for middleware applications,0,G06F|H04L
+11681729,2023-06-20,Secure resolution of canonical entities,2,G06F
+11681694,2023-06-20,Systems and methods for grouping and enriching data items accessed from one or more databases for presentation in a user interface,0,G06F
+11681690,2023-06-20,Systems and methods for accessing federated data,0,G06F
+11681606,2023-06-20,Automatic configuration of logging infrastructure for software deployments using source code,0,G06F
+11681282,2023-06-20,Systems and methods for determining relationships between defects,0,G05B|G06F|G06N|G06Q|H01L
+11676686,2023-06-13,Computer graphical user interface with genomic workflow,0,G06F|G06Q|G16B
+11675485,2023-06-13,Systems and methods for providing a tagging interface for external content,1,G06F
+11675484,2023-06-13,Integrated data authentication system with an interactive user interface,0,G06F|G06Q
+11669517,2023-06-06,Interactive interpreter and graphical user interface,0,G06F
+11669513,2023-06-06,"Structured data collection, presentation, validation and workflow management",0,G06F|G06Q
+11669507,2023-06-06,Indexing and relaying data to hot storage,0,G06F
+11669377,2023-06-06,Providing application programming interface endpoints for machine learning models,0,G06F|G06N|H04L
+11669229,2023-06-06,Overview user interface of emergency call data of a law enforcement agency,0,G06F|G06Q|G09B|H04M|H04W
+11663694,2023-05-30,Zoom-adaptive data granularity to achieve a flexible high-performance interface for a geospatial mapping system,0,G06F|G06T
+11663613,2023-05-30,Approaches for analyzing entity relationships,0,G06F|G06Q|H04L
+11663239,2023-05-30,"Database systems and user interfaces for interactive data association, analysis, and presentation",1,G06F
+11663229,2023-05-30,System and user interfaces for searching resources and related documents using data structures,0,G06F
+11657210,2023-05-23,Cached database and synchronization system for providing dynamic linked panels in user interface,1,G06F|G09G
+11652880,2023-05-16,Mapping content delivery,0,G06F|H04L
+11651029,2023-05-16,Contextual augmentation of map information using overlays,0,G01C|G06F|G06T|G06V
+11650728,2023-05-16,Interactive graphical user interfaces for simulated systems,5,G06F
+11645453,2023-05-09,Transformation in tabular data cleaning tool,1,G06F
+11645250,2023-05-09,Detection and enrichment of missing data or metadata for large data sets,3,G06F
+11640309,2023-05-02,Transforming instructions for collaborative updates,0,G06F|G06Q
+11637867,2023-04-25,Cyber security sharing and identification system,0,G06F|H04L
+11637854,2023-04-25,Resource-centric network cyber attack warning system,1,G06F|H04L
+11636162,2023-04-25,Multi-database document search system architecture,0,G06F
+11630752,2023-04-18,Ingesting data to a processing platform,1,G06F|H04L
+11626009,2023-04-11,Enhanced alert generation system based on real-time manipulation of datasets,2,G06F|G06N|G08B|H04L
+11625749,2023-04-11,System and method for determining and displaying an optimal assignment of data items,0,G06F|G06Q
+11625529,2023-04-11,Real-time document annotation,0,G06F
+11625376,2023-04-11,Sensor data analysis system and method,1,G06F
+11625369,2023-04-11,System and methods for live data migration,1,G06F
+11620280,2023-04-04,Projections for big database systems,0,G06F
+11620193,2023-04-04,Incremental backup of computer data files,0,G06F
+11615565,2023-03-28,Object time series system,2,G06F|G06T
+11615071,2023-03-28,Methods and systems for data synchronization,0,G06F
+11614851,2023-03-28,Approaches for conducting investigations concerning unauthorized entry,0,G06F|G06Q|H04N
+11604812,2023-03-14,Systems and methods for indexing and aggregating data records,1,G06F|H04L
+11604811,2023-03-14,Systems and methods for adaptive data replication,0,G06F
+11599716,2023-03-07,Systems and methods for annotating and linking electronic documents,0,G06F
+11599706,2023-03-07,Systems and methods for providing a view of geospatial information,6,G06F|H04W
+11599539,2023-03-07,Column lineage and metadata propagation,1,G06F
+11599513,2023-03-07,System and method for data quality monitors,0,A61B|G06F
+11599369,2023-03-07,Graphical user interface configuration system,1,G06F|H04L
+11595492,2023-02-28,Conducting investigations under limited connectivity,0,H04L
+11593374,2023-02-28,Techniques for data extraction,0,G06F
+11593336,2023-02-28,Data pipeline branching,0,G06F
+11593317,2023-02-28,Systems and methods for tamper-resistant activity logging,0,G06F|H04L
+11593102,2023-02-28,Managing sharable cell-based analytical notebooks,0,G06F
+11587177,2023-02-21,"Joined and coordinated detection, handling, and prevention of cyberattacks",6,G06Q|H04L
+11586802,2023-02-21,Parameterized states for customized views of resources,0,G06F
+11586660,2023-02-21,Determining object geolocations based on heterogeneous data sources,1,G01S|G06F|G06N|H04W
+11586611,2023-02-21,Approaches for validating data,1,G06F
+11586428,2023-02-21,Constraint-based upgrade and deployment,2,G06F|H04L
+11585672,2023-02-21,Three-dimensional representations of routes,2,G01C|G06F|G08G
+11580680,2023-02-14,"Systems and interactive user interfaces for dynamic retrieval, analysis, and triage of data items",0,G06F|G06T
+11580472,2023-02-14,Systems and methods for state machine management,0,G06F|G06Q
+11580206,2023-02-14,Project-based permission system,0,G06F|H04L
+11580173,2023-02-14,Systems and methods for using linked documents,0,G06F|G06Q|H04L
+11580164,2023-02-14,Ontology-based time series visualization and analysis,3,G06F|G06T
+11580160,2023-02-14,Management of tasks,0,G06F|G06Q
+11580137,2023-02-14,Systems and methods for attribute analysis of one or more databases,0,G06F
+11580068,2023-02-14,Systems and methods for client-side data analysis,0,G06F
+11579762,2023-02-14,Object time series system and investigation graphical user interface,2,G06F|G06T
+11574213,2023-02-07,Systems and methods for inferring relationships between entities,1,G06N|G06Q
+11573970,2023-02-07,"Database system for time series data storage, processing, and analysis",2,G06F|H04L|H04W
+11573788,2023-02-07,Creation and execution of customized code for a data processing platform,0,G06F|H04L
+11573776,2023-02-07,Extensible data transformation authoring and validation system,0,G06F
+11567801,2023-01-31,Systems and methods for autoscaling instance groups of computing platforms,0,G06F
+11567651,2023-01-31,System and user interfaces for rapid analysis of viewership information,0,G06F|G06Q
+11567639,2023-01-31,Interactive graphical user interfaces for simulated systems,5,G06F
+11562120,2023-01-24,Synchronization and tagging of image and text data,1,G06F|G06V
+11562025,2023-01-24,Resource dependency system and graphical user interface,3,G06F
+11561992,2023-01-24,Systems and methods for visualizing one or more datasets,0,G06F
+11558393,2023-01-17,Enforcing granular access control policy,0,G06F|H04L
+11556535,2023-01-17,Low-latency database system,2,G06F
+11556512,2023-01-17,Systems and methods for artifact peering within a multi-master collaborative environment,0,G06F
+11552847,2023-01-10,Automatic derivation of repository access data based on symbolic configuration,0,G06F|H04L
+11550764,2023-01-10,Output validation of data processing systems,2,G06F
+11546438,2023-01-03,Serving assets in a networked environment,1,G06F|H04L
+11546364,2023-01-03,Phishing data item clustering and analysis,1,G06F|G06Q|H04L
+11544325,2023-01-03,System and method for querying a data repository,1,G06F
+11543952,2023-01-03,Systems and methods for high-scale top-down data analysis,0,G06F|G16H
+11543261,2023-01-03,Dynamic map system and method,1,G01C|G06F
+11538202,2022-12-27,Time-series analysis system,0,G06F|G06T
+11537996,2022-12-27,Interactive data analysis and scheduling,1,G06F|G06Q
+11537903,2022-12-27,Systems and methods for reducing manufacturing failure rates,0,G06N|G06Q
+11537496,2022-12-27,Audit logging database system and user interface,1,G06F
+11537393,2022-12-27,Systems and methods for managing states of deployment,0,G06F
+11533292,2022-12-20,Automated syncing of data between security domains,0,G06F|H04L
+11531682,2022-12-20,Federated search of multiple sources with conflict resolution,2,G06F
+11531680,2022-12-20,Data aggregation and analysis system,1,G06F|G06T
+11526471,2022-12-13,Model object management and storage system,0,G06F|G06N
+11526268,2022-12-13,Presentation of multivariate data on a graphical user interface of a computing system,0,G06F|G06Q
+11526255,2022-12-13,Systems and methods for organizing and identifying documents via hierarchies and dimensions of tags,0,G06F
+11521100,2022-12-06,Systems and methods for customizing a process of inference running,0,G06F|G06N
+11521096,2022-12-06,System and method for determining a propensity of entity to take a specified action,1,G06F|G06N|G06Q
+11514033,2022-11-29,System for providing dynamic linked panels in user interface,1,G06F|G09G
+11507739,2022-11-22,Systems and methods for collaborative data entry and integration,0,G06F
+11507657,2022-11-22,Systems and methods for implementing a machine learning approach to modeling entity behavior,1,G06F|G06N
+11507549,2022-11-22,Data normalization system,0,G06F
+11501369,2022-11-15,"Systems and user interfaces for holistic, data-driven investigation of bad actor behavior based on clustering and scoring of related data",4,G06F|G06Q
+11500827,2022-11-15,Systems and methods for data entry,1,G06F
+11500731,2022-11-15,"Systems and methods for consistent backup of distributed, transactional databases",2,G06F
+11500620,2022-11-15,"Workflow application and user interface builder integrating objects, relationships, and actions",12,G06F|G06Q
+11500528,2022-11-15,System architecture for cohorting sensor data,1,G06F
+11496509,2022-11-08,Malicious software detection in a computing system,0,G06F|G06N|H04L
+11494549,2022-11-08,Mobile reports,0,G06F|H04W
+11494454,2022-11-08,Systems and methods for searching a schema to identify and visualize corresponding data,1,G06F|G06N
+11494444,2022-11-08,Systems and methods for visualizing and analyzing multi-dimensional data,0,G06F|G06T
+11494336,2022-11-08,Approaches for managing object data,0,G06F
+11494068,2022-11-08,Graphical user interfaces for optimizations,1,G06F|G06N
+11488058,2022-11-01,Vector generation for distributed data sets,0,G06F|G06N
+11487782,2022-11-01,Data visualization and parsing system,0,G06F|G06T
+11487774,2022-11-01,Contextual modification of data sharing constraints in a distributed database system that uses a multi-master replication scheme,0,G06F
+11487720,2022-11-01,Unified data model and interface for databases storing disparate types of data,1,G06F
+11487414,2022-11-01,Systems and methods for production and display of dynamically linked slide presentations,0,G06F|G09B|H04L
+11481410,2022-10-25,Framework for exposing network activities,0,G06F
+11481407,2022-10-25,Electronic note management via a connected entity graph,0,G06F
+11481399,2022-10-25,Nested discovery and deletion of resources,1,G06F
+11475082,2022-10-18,Systems and methods for context-based keyword searching,2,G06F
+11475070,2022-10-18,System and method for querying a data repository,0,G06F
+11475033,2022-10-18,User interface data sample transformer,0,G06F
+11475031,2022-10-18,Identification and compiling of information relating to an entity,0,G06F|G06Q
+11474987,2022-10-18,Image analysis interface,4,G06F
+11470102,2022-10-11,"Anomalous network monitoring, user behavior detection and database system",1,G06F|H04L
+11468450,2022-10-11,System to identify vulnerable card readers,0,G06F|G06K|G06Q|G07F
+11468130,2022-10-11,Data retrieval system and method,4,G06F
+11468083,2022-10-11,Automatically executing tasks and configuring access control lists in a data transformation system,0,G06F
+11467887,2022-10-11,Application programming interface (API) management and development,6,G06F
+11467871,2022-10-11,Pipeline task verification for a data processing platform,2,G05B|G06F
+11461355,2022-10-04,Ontological mapping of data,0,G06F
+11461110,2022-10-04,Systems and methods for automated and distributed configuration of computing devices,0,G06F|H04L
+11455581,2022-09-27,Methods and systems for providing a user interface for managing parts production and delivery statuses,0,G06F|G06Q
+11455560,2022-09-27,Machine fault modelling,1,G01D|G05B|G06F|G06N
+11455315,2022-09-27,Central user interface for accessing and upgrading of dataset integrations,2,G06F
+11449509,2022-09-20,Workflow driven database partitioning,1,G06F
+11449333,2022-09-20,Providing external access to a processing platform,2,G06F
+11444854,2022-09-13,System to collect and visualize software usage metrics,1,H04L|H04N
+11442802,2022-09-13,Linking related events for various devices and services in computer log files on a centralized server,2,G06F
+11442719,2022-09-13,Systems and methods for coordinating the deployment of components to defined user groups,0,G06F
+11442705,2022-09-13,Code execution and data processing pipeline,3,G06F
+11438672,2022-09-06,"Systems and methods for generating, analyzing, and storing data snippets",1,G06F|H04N
+11438366,2022-09-06,Systems for network risk assessment including processing of user access rights associated with a network of devices,2,G06F|H04L|H04W
+11436523,2022-09-06,Systems and methods for selecting machine learning training data,1,G06N
+11436264,2022-09-06,Graphical user interface for a database system,1,G06F
+11435880,2022-09-06,User interfaces for displaying discretized elements of logical flow systems,1,E03B|G01F|G01M|G06F|Y02A
+11431753,2022-08-30,Network-based permissioning system,0,G06F|H04L
+11429598,2022-08-30,Tag management system,0,G06F
+11429572,2022-08-30,Rules-based dataset cleaning,2,G06F
+11429262,2022-08-30,Systems and methods for determining and displaying optimal associations of data items,1,G06F|G06Q
+11423038,2022-08-23,Data analysis system and method,1,G06F
+11423033,2022-08-23,Stack trace search,0,G06F
+11418529,2022-08-16,Detection of vulnerabilities in a computer network,1,G06F|H04L
+11416514,2022-08-16,Interactive dynamic geo-spatial application with enriched map tiles,1,G06F
+11416512,2022-08-16,Systems and methods for facilitating data transformation,0,G06F
+11411971,2022-08-09,Context-aware network-based malicious activity warning systems,2,G06F|H04L
+11409722,2022-08-09,Database live reindex,0,G06F
+11403460,2022-08-02,Transformation in tabular data cleaning tool,2,G06F
+11403358,2022-08-02,Interactive geographical map,1,G06F|G09B
+11403329,2022-08-02,Adaptive and transparent entity screening,3,G06F
+11402985,2022-08-02,"Systems and user interfaces for dynamic and interactive access of, investigation of, and analysis of data objects stored in one or more databases",1,G06F
+11398949,2022-07-26,Systems and methods for continuous configuration deployment,2,G06F|H04L
+11397730,2022-07-26,Time series database processing system,1,G06F
+11397723,2022-07-26,Data integrity checks,0,G06F
+11397717,2022-07-26,Data storage system and method,0,G06F
+11397566,2022-07-26,Framework for developing and deploying applications,0,G06F
+11392759,2022-07-19,Systems and methods for creating a dynamic electronic form,0,G06F
+11392591,2022-07-19,Systems and methods for automatic clustering and canonical designation of related data in various data structures,3,G06F
+11392585,2022-07-19,Functions for path traversals from seed input to output,0,G06F
+11392583,2022-07-19,Systems and methods for managing queries from different types of client applications,0,G06F|H04L
+11392550,2022-07-19,System and method for investigating large amounts of data,0,G06F
+11392447,2022-07-19,Fault clustering for remedial action analysis,0,G06F
+11388487,2022-07-12,"Systems and methods for generating, analyzing, and storing data snippets",1,G06F|H04N
+11388249,2022-07-12,System architecture for enabling efficient inter-application communications,2,G06F|H04L
+11379567,2022-07-05,Establishing access sessions,0,G06F|H04L
+11379525,2022-07-05,Continuous builds of derived datasets in response to other dataset updates,8,G06F
+11379453,2022-07-05,Systems and methods for retrieving and processing data,1,G06F
+11379407,2022-07-05,Customizable pipeline for integrating data,0,G06F
+11373752,2022-06-28,Detection of misuse of a benefit system,1,G06Q|G16H
+11366959,2022-06-21,Collaborative spreadsheet data validation and integration,2,G06F|H04L
+11366957,2022-06-21,Real-time rendering based on efficient device and server processing of content updates,0,G06F
+11354327,2022-06-07,Systems and methods for retrieving and processing data for display,1,G06F|G06T
+11354281,2022-06-07,Data analytic systems,0,G06F
+11348448,2022-05-31,Enhanced alert generation system based on real-time manipulation of datasets,6,G06F|G06N|G08B|H04L
+11347971,2022-05-31,Machine learning assistant for image analysis,0,G06F|G06V
+11347716,2022-05-31,Systems and methods for establishing and enforcing relationships between items,2,G06F|G06Q
+11347703,2022-05-31,System and methods for object version tracking and read-time/write-time data federation,0,G06F
+11341325,2022-05-24,Data normalization and extraction system,1,G06F|G06V
+11341257,2022-05-24,Query indexing with permissions integration and federated search,7,G06F|H04L
+11341178,2022-05-24,Systems and methods for key phrase characterization of documents,0,G06F
+11341157,2022-05-24,Filter chains for exploring large data sets,0,G06F
+11341027,2022-05-24,Defect resolution,0,G06F|G06Q
+11341024,2022-05-24,Automatic configuration of logging infrastructure for software deployments using source code,3,G06F
+11340947,2022-05-24,Systems and methods for autoscaling instance groups of computing platforms,0,G06F
+11336681,2022-05-17,Malware data clustering,4,G06F|G06Q|H04L
+11334591,2022-05-17,Multi-language object cache,1,G06F
+11334552,2022-05-17,Lightweight redundancy tool for performing transactions,1,G06F
+11334216,2022-05-17,Systems and methods for visually presenting geospatial information,1,G06F|G06T
+11330076,2022-05-10,Systems and methods for isolating applications associated with multiple tenants within a computing platform,4,G06F|H04L
+11327641,2022-05-10,Data collaboration between different entities,0,G06F|G06T|H04L
+11322027,2022-05-03,Interactive vehicle information mapping system,0,G06F|G07C|G08G
+11321767,2022-05-03,Configuring a computer system based on a purchase order,12,G06Q
+11321395,2022-05-03,Data indexing for search tool,0,G06F
+11321346,2022-05-03,Minimized and collapsed resource dependency path,0,G06F
+11321316,2022-05-03,Storing nested complex data structures in a data store,1,G06F
+11316956,2022-04-26,Conducting investigations under limited connectivity,1,H04L
+11314773,2022-04-26,Data permissioning through data replication,1,G06F
+11314769,2022-04-26,Generation and graphical display of data transform provenance metadata,0,G06F
+11314745,2022-04-26,Periodic database search manager for multiple data sources,0,G06F
+11314738,2022-04-26,Searching charts,1,G06F
+11314721,2022-04-26,User-interactive defect analysis for root cause,2,G06F
+11314698,2022-04-26,Dynamically performing data processing in a data pipeline system,1,G06F
+11314619,2022-04-26,Contextualized notifications for verbose application errors,1,G06F|H04W
+11310254,2022-04-19,Network anomaly detection,0,G06N|H04L
+11308263,2022-04-19,Multi-stage data page rendering,0,G06F
+11308117,2022-04-19,Relationship analysis and mapping for interrelated multi-layered datasets,0,G06F
+11303644,2022-04-12,Systems and method for authenticating users of a data processing platform from multiple identity providers,0,G06F|H04L|H04W
+11301816,2022-04-12,Interactive data analysis and scheduling,2,G06F|G06Q
+11301561,2022-04-12,Security system and method,2,G06F
+11301499,2022-04-12,Systems and methods for providing an object platform for datasets,0,G06F
+11295498,2022-04-05,Interactive data object map,2,G06F|G06T|G09B
+11294928,2022-04-05,System architecture for relating and linking data objects,3,G06F
+11294915,2022-04-05,Focused probabilistic entity resolution from multiple data sources,2,G06F
+11294801,2022-04-05,Data unit test-based data management system,1,G06F
+11294694,2022-04-05,Systems and methods for running applications associated with browser-based user interfaces within multi-developer computing platforms,1,G06F
+11294550,2022-04-05,System and method for analyzing electronic communications and a collaborative electronic communications user interface,1,G06F|H04L
+11288264,2022-03-29,Approaches for generating queries,1,G06F
+11288110,2022-03-29,Providing application programming interface endpoints for machine learning models,2,G06F|G06N|H04L
+11283897,2022-03-22,Adaptive computation and faster computer operation,1,G06F|H04L
+11283829,2022-03-22,Resource-centric network cyber attack warning system,2,G06F|H04L
+11282247,2022-03-22,Object time series system,4,G06F|G06T
+11282246,2022-03-22,Multidimensional arc chart for visual comparison,0,G06F|G06T
+11281726,2022-03-22,System and methods for faster processor comparisons of visual graph features,1,G06F
+11281659,2022-03-22,Systems and methods for accessing federated data,1,G06F
+11280626,2022-03-22,Systems and methods for alternative projections of geographical information,1,G01C|G06F|G06T|G06V|G09B
+11275783,2022-03-15,Concurrent automatic adaptive storage of datasets in graph databases,0,G06F
+11275753,2022-03-15,Schematic and database linking system,7,G06F
+11274933,2022-03-15,Terrain analysis for automatic route determination,1,G01C|H04W
+11269931,2022-03-08,Interactive geospatial map and geospatial visualization systems,1,G01S|G06F|G06Q|G08G|H04N|H04W
+11269914,2022-03-08,Systems and methods for data analysis and visualization and managing data conflicts,0,G06F
+11269907,2022-03-08,Object-centric data analysis system and graphical user interface,3,G06F
+11269906,2022-03-08,Visual analysis of data using sequenced dataset reduction,1,G06F
+11269904,2022-03-08,Code list builder,2,G06F
+11269857,2022-03-08,"Structured data collection, presentation, validation and workflow management",0,G06F|G06Q
+11263382,2022-03-01,Data normalization and irregularity detection system,4,G06F|G06Q|G16H|H04L|H04W
+11263336,2022-03-01,Systems and methods for providing network-based permissioning using security node hash identifiers,1,G06F|H04L
+11263263,2022-03-01,Data propagation and mapping system,1,G06F
+11263246,2022-03-01,Systems and methods for processing and displaying time-related geospatial data,0,G06F
+11263227,2022-03-01,Interactive vehicle information map,0,G06F|G06V|G08G
+11262904,2022-03-01,Object time series system and investigation graphical user interface,4,G06F|G06T
+11258799,2022-02-22,Verifying network-based permissioning rights,0,G06F|H04L
+11257263,2022-02-22,Systems and methods for generating dynamic pipeline visualizations,1,G06T
+11256762,2022-02-22,System and method for efficiently determining and displaying optimal packages of data items,0,G06F|G06Q
+11256483,2022-02-22,Approaches for amalgamating disparate software tools,0,G06F
+11252248,2022-02-15,Communication data processing architecture,0,G06Q|H04L
+11250425,2022-02-15,Generating a statistic using electronic transaction data,1,G06F|G06Q
+11250027,2022-02-15,"Database systems and user interfaces for interactive data association, analysis, and presentation",1,G06F
+11244102,2022-02-08,Systems and methods for facilitating data object extraction from unstructured documents,0,G06F
+11244063,2022-02-08,Row-level and column-level policy service,0,G06F
+11238632,2022-02-01,Interface to index and display geospatial data,0,G06F|G06T
+11238102,2022-02-01,Providing an object-based response to a natural language query,4,G06F|G06N
+11232082,2022-01-25,System and methods for live data migration,2,G06F
+11227344,2022-01-18,Graphical representation of a complex task,2,G06F|G06Q|G06T|Y02P
+11226967,2022-01-18,Managing sharable cell-based analytical notebooks,0,G06F
+11222470,2022-01-11,Systems and methods for generating augmented reality content,2,G06T|G11B|H04N
+11222077,2022-01-11,Chart-based time series model user interface,4,G06F|G06N|G06T
+11221898,2022-01-11,Systems and methods for validating data,0,G06F|G06Q
+11221831,2022-01-11,Pipeline management tool,3,G06F
+11218499,2022-01-04,Network anomaly detection and profiling,3,G06F|H04L
+11216762,2022-01-04,Automated risk visualization using customer-centric data analysis,1,G06Q
+11216472,2022-01-04,Systems and user interfaces for data analysis including artificial intelligence algorithms for generating optimized packages of data items,0,G06F|G06N
+11216272,2022-01-04,Automatic modification of repository files,1,G06F
+11212224,2021-12-28,Systems and methods for isolating network traffic of multiple users across networks of computing platforms,5,H04L
+11210616,2021-12-28,Asset allocation evaluation system,0,G06Q|H04L
+11210350,2021-12-28,Automated assistance for generating relevant and valuable search results for an entity of interest,1,G06F
+11210349,2021-12-28,Multi-database document search system architecture,2,G06F
+11209971,2021-12-28,System and user interfaces for rapid analysis of viewership information,2,G06F|G06Q
+11206310,2021-12-21,Serving assets in a networked environment,2,G06F|H04L
+11206196,2021-12-21,Computer network troubleshooting,1,G06F|H04L
+11204689,2021-12-21,Overview user interface of emergency call data of a law enforcement agency,1,G06F|G06Q|G09B|H04M|H04W
+11201879,2021-12-14,Unwanted tunneling alert system,2,G06F|H04L
+11200373,2021-12-14,Automatic translation of spreadsheets into scripts,0,G06F
+11200245,2021-12-14,Fuzzy searching and applications therefor,0,G06F
+11200051,2021-12-14,Creation and execution of customised code for a data processing platform,0,G06F|H04L
+11199955,2021-12-14,Enhanced techniques for building user interfaces,1,G06F
+11199418,2021-12-14,Event-based route planning,1,G01C|G06Q
+11182710,2021-11-23,Predictive data objects,2,G06F|G06Q
+11182204,2021-11-23,System and method for batch evaluation programs,0,G06F
+11178203,2021-11-16,Systems and methods for providing real-time streaming data processing at edge servers,0,G06F|H04L|H04W
+11176116,2021-11-16,Systems and methods for annotating datasets,0,G06F
+11176113,2021-11-16,Indexing and relaying data to hot storage,0,G06F
+11175157,2021-11-16,Dynamic scaling of geospatial data on maps,2,G01C|G06F|G06T
+11170268,2021-11-09,Tracked entity detection validation and track generation with geo-rectification,2,G06F|G06V
+11169987,2021-11-09,Data storage method and system,0,G06F
+11164350,2021-11-02,Ontology-backed automatic chart creation,1,G06F|G06T
+11163795,2021-11-02,Systems and methods for data replication synchronization,1,G06F
+11157951,2021-10-26,System and method for determining and displaying an optimal assignment of data items,1,G06F|G06Q
+11151271,2021-10-19,Multi-user access controls in electronic simultaneously editable document editor,1,G06F
+11151197,2021-10-19,Enhanced processing of time series data via parallelization of instructions,2,G06F
+11150917,2021-10-19,System for data aggregation and analysis of data from a plurality of data sources,1,G06F
+11150629,2021-10-19,"Quantifying, tracking, and anticipating risk at a manufacturing facility based on staffing conditions and textual descriptions of deviations",1,G05B|G06Q|Y02P
+11144857,2021-10-12,Task allocation,0,G05B|G06F|G06N|G06Q
+11138342,2021-10-05,Approaches for managing restrictions for middleware applications,0,G06F|H04L
+11138332,2021-10-05,Data generation system and method,0,G06F|H04L
+11138279,2021-10-05,System and method for aggregating data from a plurality of data sources,2,G06F|G06Q
+11138236,2021-10-05,Systems and methods for packaging information into data objects,0,G06F|H04L
+11138209,2021-10-05,Data processing system and method,1,G06F
+11138180,2021-10-05,Transaction protocol for reading database values,2,G06F
+11133925,2021-09-28,Selective access to encrypted logs,0,G06F|H04L|H04W
+11132377,2021-09-28,Server implemented geographic information system with graphical interface,5,G06F|G06T
+11132359,2021-09-28,Systems and methods for grouping and enriching data items accessed from one or more databases for presentation in a user interface,1,G06F
+11132347,2021-09-28,Selecting backing stores based on data request,0,G06F
+11126638,2021-09-21,Data visualization and parsing system,1,G06F|G06T
+11126609,2021-09-21,"Feature clustering of users, user correlation database access, and user interface generation system",0,G06F|G06Q
+11126489,2021-09-21,Data analysis system to facilitate investigative process,1,G06F|H04L
+11120038,2021-09-14,Systems and methods for creating a data layer based on content from data sources,1,G06F
+11120007,2021-09-14,Module expiration management,0,G06F
+11119630,2021-09-14,Artificial intelligence assisted evaluations and user interface for same,18,G06F|G06N|G06Q
+11113298,2021-09-07,Collaborating using different object models,0,G06F
+11113032,2021-09-07,Function access system,2,G06F
+11106826,2021-08-31,"Systems and methods for producing, displaying, and interacting with collaborative environments using classification-based access control",1,G06F|G06Q
+11106701,2021-08-31,Systems and methods for attribute analysis of one or more databases,1,G06F
+11106692,2021-08-31,Data record resolution and correlation system,9,G06F
+11106638,2021-08-31,Data revision control in large-scale data analytic systems,0,G06F
+11106347,2021-08-31,Systems and methods for high-scale top-down data analysis,1,G06F|G16H
+11106331,2021-08-31,Interactive display with workflow management system,4,G06F|G06Q
+11102224,2021-08-24,Systems and user interfaces for dynamic and interactive investigation of bad actor behavior based on automatic clustering of related data in various data structures,1,G06F|G06Q|H04L
+11100174,2021-08-24,Simple web search,0,G06F
+11100154,2021-08-24,Data integration tool,0,G06F
+11100079,2021-08-24,Integrated data analysis,2,G06F
+11099727,2021-08-24,Systems and methods for geo-fenced dynamic dissemination,1,G06F|G06Q|G06T
+11093694,2021-08-17,Multi-stage data page rendering,1,G06F
+11093690,2021-08-17,Synchronization and tagging of image and text data,3,G06F|G06V
+11093687,2021-08-17,Systems and methods for identifying key phrase clusters within documents,1,G06F
+11093634,2021-08-17,Data security,7,G06F
+11089043,2021-08-10,Systems for computer network security risk assessment including user compromise analysis associated with a network of devices,2,G06F|H04L
+11089029,2021-08-10,Enforcing granular access control policy,2,G06F|H04L
+11087080,2021-08-10,Systems and methods for collaborative data entry and integration,5,G06F
+11086640,2021-08-10,Composite graphical interface with shareable data-objects,4,G06F
+11086602,2021-08-10,"Workflow application and user interface builder integrating objects, relationships, and actions",5,G06F|G06Q
+11080422,2021-08-03,Systems and methods for generating and processing secure search queries,1,G06F|H04L
+11080296,2021-08-03,Domain-specific language for dataset transformations,0,G06F
+11074993,2021-07-27,Computer graphical user interface with genomic workflow,2,G06F|G06Q|G16B
+11074300,2021-07-27,Techniques for visualizing dependencies in a data analytics system,5,G06F
+11074277,2021-07-27,Secure resolution of canonical entities,3,G06F
+11068498,2021-07-20,Systems and methods for importing data from electronic data files,5,G06F
+11068373,2021-07-20,Audit logging database system and user interface,5,G06F
+11063896,2021-07-13,System and method for detecting confidential information emails,0,G06Q|H04L
+11063828,2021-07-13,Detecting software misconfiguration at a remote machine,0,H04L
+11062260,2021-07-13,System to catalogue tracking data,0,G06Q|H04W
+11061874,2021-07-13,Systems and methods for resolving entity data across various data structures,53,G06F
+11061542,2021-07-13,Systems and methods for determining and displaying optimal associations of data items,2,G06F|G06Q
+11054975,2021-07-06,Systems and methods for production and display of dynamically linked slide presentations,1,G06F|G09B|H04L
+11048706,2021-06-29,Malicious activity detection system capable of efficiently processing data accessed from databases and generating alerts for display in interactive user interfaces,2,G06F|G06Q|H04L
+11042959,2021-06-22,Zoom-adaptive data granularity to achieve a flexible high-performance interface for a geospatial mapping system,0,G06F|G06T
+11042367,2021-06-22,Systems and methods for coordinating the deployment of components to defined user groups,0,G06F
+11035690,2021-06-15,Geotagging structured data,1,G01C|G06F
+11032065,2021-06-08,Verifiable redactable audit log,1,G06F|H04L
+11030781,2021-06-08,"Systems for collecting, aggregating, and storing data, generating interactive user interfaces for analyzing data, and generating alerts based upon collected data",0,G06F|G06Q|G06T
+11030581,2021-06-08,Medical claims lead summary report generation,0,G06Q|G16H
+11030494,2021-06-08,Systems and methods for managing data spills,0,G06F
+11030248,2021-06-08,Resource dependency system and graphical user interface,6,G06F
+11030006,2021-06-08,Apparatus and method of securely and efficiently interfacing with a cloud computing service,0,G06F|H04L
+11029821,2021-06-08,Systems and interactive user interfaces for automatic generation of temporal representation of data objects,0,G06F|G06Q|G06T
+11025672,2021-06-01,Approaches for securing middleware data access,2,H04L
+11023457,2021-06-01,Targeted sweep method for key-value data storage,4,G06F
+11019156,2021-05-25,Automatic discovery and registration of service applications for files introduced to a user interface,5,G06F|H04L
+11016986,2021-05-25,Query-based time-series data display and processing system,9,G06F
+11016936,2021-05-25,Validating data for integration,0,G06F
+11016784,2021-05-25,Systems and methods for automated deployment and adaptation of configuration files at computing devices,0,G06F|H04L
+11016649,2021-05-25,Presentation of multivariate data on a graphical user interface of a computing system,3,G06F|G06Q
+11010476,2021-05-18,Security-aware caching of resources,1,G06F|H04L
+11010371,2021-05-18,Tag management system,47,G06F
+11004244,2021-05-11,Time-series analysis system,5,G06F|G06T
+11004039,2021-05-11,Cable reader labeling,0,G06F|G06Q|H04L
+11003645,2021-05-11,Column lineage for resource dependency system and graphical user interface,25,G06F|G06N|G06Q
+11003440,2021-05-11,Systems and methods for managing states of deployment,0,G06F
+11003320,2021-05-11,Systems and methods for organizing and identifying documents via hierarchies and dimensions of tags,1,G06F
+10997363,2021-05-04,Method of generating objects and links from mobile reports,0,G06F|H04W
+10996823,2021-05-04,Interactive geospatial map,0,G01C|G06F|G06T|G09B
+10996665,2021-05-04,Determining maintenance for a machine,0,G05B|G06Q
+10992628,2021-04-27,Short message communication within a mobile graphical map,0,G01C|G06F|G06T|H04L|H04M|H04W
+10990446,2021-04-27,Fault-tolerant and highly available configuration of distributed services,1,G06F|H04L
+10984427,2021-04-20,Approaches for analyzing entity relationships,0,G06F|G06Q|H04L
+10984051,2021-04-20,System and method for querying a data repository,6,G06F
+10983988,2021-04-20,Data pipeline creation system and method,0,G06F
+10983950,2021-04-20,Approaches for managing data retention lifecycle,0,G06F
+10977279,2021-04-13,Time-sensitive cube,4,G06F|G06Q
+10977267,2021-04-13,User interface data sample transformer,5,G06F
+10977240,2021-04-13,Approaches for validating data,0,G06F
+10977223,2021-04-13,Data storage method and system,0,G06F
+10976892,2021-04-13,Long click display of a context menu,0,G06F
+10970292,2021-04-06,Graph based resolution of matching items in data sources,0,G06F
+10970261,2021-04-06,System and method for data quality monitors,2,A61B|G06F
+10970189,2021-04-06,Configuring data processing pipelines,1,G06F
+10970065,2021-04-06,Creation and execution of customised code for a data processing platform,0,G06F|H04L
+10970049,2021-04-06,Code execution and data processing pipeline,4,G06F
+10965705,2021-03-30,"Systems, methods, user interfaces, and computer-readable media for investigating potential malicious communications",0,G06F|H04L
+10963633,2021-03-30,Transformation in tabular data cleaning tool,3,G06F
+10963465,2021-03-30,Rapid importation of data including temporally tracked object recognition,1,G06F
+10956654,2021-03-23,Parameterized states for customized views of resources,0,G06F
+10956508,2021-03-23,Systems and methods for creating and managing a data integration workspace containing automatically updated data models,7,G06F|G06T
+10956431,2021-03-23,System and method for associating related records to common entities across multiple lists,0,G06F
+10956406,2021-03-23,Propagated deletion of database records and derived data,1,G06F
+10949400,2021-03-16,Systems and methods for tamper-resistant activity logging,0,G06F|H04L
+10949071,2021-03-16,Interactive user interfaces for location-based data analysis,1,G06F|G06T
+10942957,2021-03-09,Concept indexing among database of documents using machine learning techniques,0,G06F|G06N
+10942952,2021-03-09,Graph analysis of geo-temporal information,2,G06F|H04W
+10942947,2021-03-09,Systems and methods for determining relationships between datasets,1,G06F
+10942935,2021-03-09,Entity data attribution using disparate data sets,1,G06F|G06N
+10942627,2021-03-09,User interface based variable machine modeling,1,G06F|G06N
+10937034,2021-03-02,Systems and user interfaces for dynamic and interactive investigation based on automatic malfeasance clustering of related data in various data structures,7,G06Q
+10936573,2021-03-02,Cross-ACL multi-master replication,2,G06F
+10936479,2021-03-02,Pluggable fault detection tests for data pipelines,11,G06F
+10929479,2021-02-23,Systems and methods for using linked documents,0,G06F|G06Q|H04L
+10929476,2021-02-23,Systems and methods for visualizing and analyzing multi-dimensional data,1,G06F|G06T
+10929436,2021-02-23,System and method for news events detection and visualization,0,G06F
+10928817,2021-02-23,Predictive modelling,1,G05B|G06F|G06Q
+10924362,2021-02-16,Management of software bugs in a data processing system,0,G06F|H04L
+10922404,2021-02-16,"Checkout system executable code monitoring, and user account compromise determination system",0,G06F|G06Q|H04L
+10922336,2021-02-16,Systems and methods for indexing and aggregating data records,2,G06F|H04L
+10922291,2021-02-16,Data pipeline branching,0,G06F
+10915555,2021-02-09,Systems and methods for adaptive data replication,0,G06F
+10915542,2021-02-09,Contextual modification of data sharing constraints in a distributed database system that uses a multi-master replication scheme,0,G06F
+10915536,2021-02-09,Systems and methods for constraint driven database searching,0,G06F
+10909159,2021-02-02,Multi-language support for dynamic ontology,0,G06F
+10909130,2021-02-02,Graphical user interface for a database system,24,G06F

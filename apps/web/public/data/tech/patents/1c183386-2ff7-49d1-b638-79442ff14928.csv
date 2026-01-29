@@ -1,0 +1,498 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+11969554,2024-04-30,Methods and devices for haptic communication,0,A61F|A61M|B06B|G06F|G08B|H10N
+11748783,2023-09-05,Identifying content to present to a group of online system users based on user actions and specified by a third-party system,0,G06Q|H04L
+11282509,2022-03-22,Classifiers for media content,10,G06F|G06N|G10L
+11264883,2022-03-01,Systems and methods for controlling a Lorentz-force-based apparatus,0,G06F|H01F|H02K
+11264011,2022-03-01,Systems and methods for employing predication in computational models,0,G06N|G10L
+11257183,2022-02-22,Systems and methods for hardware acceleration of resampling operations,1,G06F|G06N|G06T
+11256977,2022-02-22,Lowering hardware for neural networks,1,G06F|G06N
+11256768,2022-02-22,Systems and methods to manage media content items,0,G06F|G06Q|H04L
+11256402,2022-02-22,Systems and methods for generating and broadcasting digital trails of visual media,6,G06F|G06T
+11252122,2022-02-15,Systems and methods for sharing content,0,G06Q|H04L
+11252118,2022-02-15,Systems and methods for digital privacy controls,7,H04L
+11252029,2022-02-15,Systems and methods for configuring networks,1,H04L
+11250030,2022-02-15,Systems and methods for classifying content items based on dynamic signals,0,G06F|G06N
+11249985,2022-02-15,"Scalable, secure, efficient, and adaptable distributed digital ledger transaction network",6,G06F|H04L
+11249947,2022-02-15,"Distributed digital ledger transaction network for flexible, lazy deletion of data stored within an authenticated data structure",0,G06F|G06Q|H04L
+11249774,2022-02-15,Realtime bandwidth-based communication for assistant systems,1,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11245966,2022-02-08,Matching and ranking content items,0,G06Q|G06V|H04N
+11245646,2022-02-08,Predictive injection of conversation fillers for assistant systems,40,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11244347,2022-02-08,Dynamically modifying digital content distribution campaigns based on triggering conditions and actions,1,G06F|G06N|G06Q
+11244025,2022-02-08,Systems and methods for updating data pipelines,1,G06F|H04L
+11243743,2022-02-08,Optimization of neural networks using hardware calculation efficiency and adjustment factors,0,G06F|G06N
+11240284,2022-02-01,Systems and methods for application- and content-aware real-time video encoding,3,H04L|H04N
+11238461,2022-02-01,Methods and systems for facilitating e-commerce payments,0,G06Q|G07G
+11234202,2022-01-25,Doppler shift estimation and correction for broadband communication in unmanned aerial vehicles,0,G01S|H04B|H04L|H04W
+11233862,2022-01-25,Systems and methods for facilitating discovery of users who share common characteristics within a social networking system,9,G06Q|H04L
+11233762,2022-01-25,Providing augmented message elements in electronic communication threads,0,H04L
+11233760,2022-01-25,Module ranking for a modular inbox,0,H04L
+11232369,2022-01-25,Training data quality for spam classification,17,G06N|G06Q
+11228626,2022-01-18,Request stream,0,H04L
+11227343,2022-01-18,Method for selectively advertising items in an image,0,G06Q
+11227122,2022-01-18,"Methods, mediums, and systems for representing a model in a memory of device",2,G06F|G06N|G10L|H04L
+11227110,2022-01-18,Transliteration of text entry across scripts,0,G06F
+11226831,2022-01-18,Customizing content based on predicted user preferences,1,G06F|G06N|G06Q
+11226745,2022-01-18,Optimizing data writes in a distributed computing system,1,G06F
+11226716,2022-01-18,Generating content to be shared between users,12,G06F|G06Q|H04L
+11223958,2022-01-11,Distributing spectral resources between interfering cells,0,H04W
+11223699,2022-01-11,Multiple user recognition with voiceprints on online social networks,25,G06F|G06Q|G10L|H04L
+11223586,2022-01-11,Techniques for a messaging agent platform,4,G06F|G06Q|H04L|H04N|H04W
+11223402,2022-01-11,Assisted channel approximation for wireless communication of a supercell base station,0,H04B|H04L|H04W
+11222061,2022-01-11,Generating digital media clusters corresponding to predicted distribution classes from a repository of digital media based on network distribution history,0,G06F|G06N|G06Q|G06V|H04L|H04N
+11221736,2022-01-11,Techniques for context sensitive illustrated graphical user interface elements,0,G06F|H04M
+11216746,2022-01-04,Utilizing machine learning and composite utility scores from multiple event categories to improve digital content distribution,0,G06N|G06Q
+11216169,2022-01-04,Social network interactions,0,G06F|G06Q|H04L
+11213760,2022-01-04,Managing game sessions in a social network system,0,A63F|H04L
+11212188,2021-12-28,Communication network out-of-capacity predictions,1,H04L|H04W
+11212186,2021-12-28,Measuring the impact of network deployments,0,H04L
+11210854,2021-12-28,Systems and methods for providing augmented reality personalized content,3,G06F|G06N|G06Q|G06T|G06V
+11210510,2021-12-28,Storing anonymized identifiers instead of personally identifiable information,1,G06V|H04L
+11210503,2021-12-28,Systems and methods for facial representation,0,G06N|G06T|G06V
+11210339,2021-12-28,Transient contextual music streaming,1,G06F
+11206443,2021-12-21,Synchronizing streams of co-watching digital video content while providing live digital video chat streams across multiple client devices,4,H04N
+11206235,2021-12-21,Systems and methods for surfacing content,6,H04L
+11206232,2021-12-21,Generating and maintaining group messaging threads for ephemeral content,2,G06F|G06Q|H04L|H04W
+11204956,2021-12-21,Dynamically ranking media effects based on user and device characteristics,1,G06F|G11B|H04N
+11202148,2021-12-14,Smart audio with user input,1,G06F|G06T|G10L|H04L|H04R
+11202091,2021-12-14,"Method for encoding/decoding a quantization coefficient, and apparatus using same",0,H04N
+11202035,2021-12-14,Dynamically modifying live video streams for participant devices in digital video rooms,0,H04L|H04N
+11201946,2021-12-14,Systems and methods for digital media delivery prioritization,0,G06Q|H04L
+11200602,2021-12-14,System for providing context-sensitive display overlays to a mobile device via a network,2,G06F|G06Q
+11200284,2021-12-14,Optimization of feature embeddings for deep learning models,2,G06F|G06N
+11200271,2021-12-14,Dynamically ranking media effects based on user and device characteristics,0,G06F|G11B|H04N
+11199885,2021-12-14,Thermal mass aware thermal management,1,G06F|H05K|Y02D
+11196985,2021-12-07,Surface adaptation for projection-based augmented reality system,0,G06F|G06Q|G06T|H04N
+11196698,2021-12-07,Social network synchronization,0,G06F|G06Q|H04L|H04W
+11196697,2021-12-07,Access controls for units of content in a messaging service,1,H04L
+11196683,2021-12-07,Switch with side ports,1,H04L|H05K
+11195206,2021-12-07,Methods and systems for providing contextual information,0,G06F|G06Q|H04L|H04M|H04Q
+11195106,2021-12-07,Systems and methods for scraping URLs based on viewport views,0,G06N
+11195099,2021-12-07,Detecting content items in violation of an online system policy using semantic vectors,8,G06F|G06N|G06Q
+11191053,2021-11-30,Network-based clock for time distribution across a wireless network,2,H04W
+11190570,2021-11-30,Video encoding using starve mode,0,H04L|H04N
+11190338,2021-11-30,Selective viewability of data in a blockchain,1,H04L
+11188846,2021-11-30,Determining a sequential order of types of events based on user actions associated with a third party system,5,G06F|G06N|G06Q
+11188303,2021-11-30,Floating point multiply hardware using decomposed component numbers,0,G06F|G06N
+11188215,2021-11-30,Systems and methods for prioritizing digital user content within a graphical user interface,10,G06F|H04L
+11185787,2021-11-30,Managing game sessions in a social network messaging system,0,A63F|G06F|G06Q|H04L
+11184638,2021-11-23,Systems and methods for selecting resolutions for content optimized encoding of video data,2,H04N
+11184574,2021-11-23,Representing real-world objects with a virtual reality environment,2,G02B|G06F|G06T|G06V|H04N
+11184315,2021-11-23,Systems and methods for providing data analytics for videos based on a tiered architecture,0,H04L
+11184248,2021-11-23,Network resource allocation using forecasted network traffic patterns selected utilizing network topology,1,H04L
+11182863,2021-11-23,Joint modeling of user and content feature vector data based on third party source data,0,G06F|G06Q
+11182831,2021-11-23,Methods and systems for untargeting users of an online service for advertising,2,G06Q|H04L
+11182806,2021-11-23,Consumer insights analysis by identifying a similarity in public sentiments for a pair of entities,22,G06F|G06N|G06Q
+11182639,2021-11-23,Systems and methods for provisioning content,0,G06F|G06T|G06V|H04N
+11182613,2021-11-23,Systems and methods for occluding images and videos subject to augmented-reality effects,0,G06Q|G06T|G06V|H04N
+11178413,2021-11-16,Dynamically transitioning a digital video file between encoding states,3,H04N
+11178212,2021-11-16,Compressing and transmitting structured information,0,G06F|H03M|H04L
+11177587,2021-11-16,Ground lug holder,0,G06F|H01R
+11176485,2021-11-16,Dynamic integration of machine-learning modules,0,G06N|H04L|H04W
+11172338,2021-11-09,Techniques for enhancing group communication on a mobile device,2,G06F|H04L|H04W
+11172189,2021-11-09,User detection for projection-based augmented reality system,1,G06F|G06Q|G06T|G06V|H04N
+11171910,2021-11-09,Social network status,0,G06F|G06Q|H04L|H04W
+11171903,2021-11-09,Techniques for intelligent messaging for message syncing,0,H04L
+11171802,2021-11-09,Social network onboarding,0,G06Q|H04L
+11170470,2021-11-09,Content-adaptive non-uniform image downsampling using predictive auxiliary convolutional neural network,7,G06F|G06T|G06V
+11170288,2021-11-09,Systems and methods for predicting qualitative ratings for advertisements based on machine learning,0,G06N|G06Q
+11170006,2021-11-09,Machine-learning model for ranking diverse content,5,G06F|G06N|G06Q
+11166080,2021-11-02,Systems and methods for presenting content,0,G02B|G06F|G06T|H04N
+11166065,2021-11-02,Synchronizing presentation of content presented by multiple client devices,20,H04N
+11164298,2021-11-02,Long exposure filter,0,G06T
+11163843,2021-11-02,Systems and methods for recommending content,4,G06F|G06N|G06Q
+11159677,2021-10-26,Call status effects,0,G06N|H04M
+11159534,2021-10-26,Systems and methods for reducing virality of content from domains with questionable reputation in a social networking system,1,G06F|G06Q|H04L|H04W
+11159473,2021-10-26,Systems and methods for sharing content,0,G06F|G06Q|G06V|H04L
+11159406,2021-10-26,Load balancing web service by rejecting connections,0,G06F|H04L
+11157955,2021-10-26,Selecting content for presentation to online system users based on correlations between content accessed by users via third party systems and interactions with online system content,1,G06Q
+11157877,2021-10-26,Systems and methods for automatically generating job information,3,G06Q
+11157685,2021-10-26,Sharing digital items,1,G06F|G06Q|H04L
+11157594,2021-10-26,Matrix multiplication in hardware using modular math,0,G06F
+11157584,2021-10-26,URL normalization,0,G06F|G06Q|H04L
+11157493,2021-10-26,Optimistic data fetching and rendering,2,G06F
+11157134,2021-10-26,Interfaces for a messaging inbox,1,G06F|G06Q|H04L
+11153728,2021-10-19,Generating user notifications using beacons on online social networks,0,G06Q|H04L|H04W
+11153726,2021-10-19,Techniques for enhancing group communication on a mobile device,20,G06F|H04L|H04W
+11153246,2021-10-19,Techniques for ephemeral messaging with remote ephemeral mode configuration,2,H04L
+11151209,2021-10-19,Recommending objects to a user of a social networking system based on the location of the user,0,G06F|G06Q|H04L
+11150977,2021-10-19,Systems and methods for remediating computing resources,0,G06F
+11150865,2021-10-19,Systems and methods to optimize music play in a scrolling news feed,0,G06F|H04N
+11150795,2021-10-19,Systems and methods for providing content,0,G06F|H04L
+11150782,2021-10-19,Channel navigation overviews,30,G06F|G06Q|H04L
+11146646,2021-10-12,Non-disruptive display of video streams on a client system,2,G06Q|H04L
+11146511,2021-10-12,Modular inbox surface for content delivery,2,A61B|A61K|A61M|G06Q|H04L|H04W
+11146442,2021-10-12,Presenting a user profile page including an animation associated with a type of life event described by content posted to the user profile page,2,G06F|G06Q|G06T|H04L
+11145006,2021-10-12,Generating catalog-item recommendations based on social graph data,0,G06Q
+11144954,2021-10-12,Physical store visit attribution,2,G06Q|G07C|H04L
+11144953,2021-10-12,Determining performance metrics for delivery of electronic media content items by online publishers scaled using a baseline conversion rate,0,G06N|G06Q|H04L
+11144826,2021-10-12,Post topic classification,0,G06F|G06N|G06Q
+11144812,2021-10-12,Mixed machine learning architecture,0,G06N|G06Q|H04L
+11144182,2021-10-12,Determining user preference of an object from a group of objects maintained by a social networking system,0,G06F|G06Q
+11144099,2021-10-12,Systems and methods for providing content,2,G06F|G06T|G09G
+11140240,2021-10-05,Generating a dynamic dependent client device activity dashboard and managing contact-control privileges via managing client device interfaces,11,G06F|H04L
+11140232,2021-10-05,Analyzing geo-spatial data in layers,0,G06F|G06Q|H04L|H04W
+11140188,2021-10-05,Browsing identity,0,G06Q|H04L
+11140118,2021-10-05,Systems and methods for time-based sharing of a tracked location within a social networking system,0,H04L|H04W
+11140111,2021-10-05,Techniques to configure the network distribution of media compositions for transmission,0,H04L
+11140100,2021-10-05,Systems and methods for facilitating topic-based messaging sessions,0,G06F|H04L
+11138440,2021-10-05,Systems and methods for automated video classification,3,G06F|G06V
+11138292,2021-10-05,Circuit and method for computing depthwise convolution,29,G06F|G06N|H03H
+11138255,2021-10-05,Providing combinations of pre-generated and dynamic media effects to create customized media communications,0,G06F|G06T|G06V|H04L
+11137869,2021-10-05,Re-ranking story content,0,G06F|G06Q
+11132719,2021-09-28,Real-time feedback of advertisement review,0,G06Q
+11132711,2021-09-28,Inline expansion of maps in content items,2,G06F|G06Q
+11132604,2021-09-28,Nested machine learning architecture,0,G06N
+11132476,2021-09-28,"Automatic aircraft design optimization based on joint aerodynamic, structural, and energy performance",0,G06F|Y02T
+11132369,2021-09-28,Optimizing user engagement with content based on an optimal set of attributes for media included in the content,0,G06F|G06N|G06Q|H04N
+11132348,2021-09-28,Techniques to configure media packages,0,G06F|H04L
+11132118,2021-09-28,User interface editor,0,G06F|G06T|H04L
+11127184,2021-09-21,Systems and methods for content creation,0,G06T|G06V
+11127046,2021-09-21,Tool for third-party creation of advertisements for a social networking system,0,G06Q
+11126758,2021-09-21,Automatic airfoil and wing design based on dynamic modeling of structural and aerodynamic performance,0,B64C|B64F|G06F|Y02T
+11126593,2021-09-21,"Scalable, secure, efficient, and adaptable distributed digital ledger transaction network",4,G06F|G06Q|H04L
+11126344,2021-09-21,Systems and methods for sharing content,2,G06F|G11B|H04L
+11120328,2021-09-14,Systems and methods for reducing power consumption of convolution operations for artificial neural networks,4,G06F|G06N
+11120021,2021-09-14,Systems and methods for optimizing queries,0,G06F
+11119792,2021-09-14,Systems and methods for generating user interface prototypes based on production system components,0,G06F
+11115720,2021-09-07,Providing a live poll within a video presentation,2,H04N
+11115491,2021-09-07,Residential cache appliance utilizing a social network,0,H04L
+11115410,2021-09-07,Secure authentication for assistant systems,14,H04L
+11113617,2021-09-07,Ranking of user contacts to facilitate efficient user interfaces,1,G06F|G06N
+11113058,2021-09-07,Reconfigurable processing unit,0,G06F
+11108776,2021-08-31,Techniques for group message thread link administration,1,H04L|H04W
+11108773,2021-08-31,Mobile user authentication over WIFI using IPX networks,7,H04L|H04W
+11108745,2021-08-31,Uploading and transcoding media files,0,H04L|H04N
+11108716,2021-08-31,Systems and methods for content management,2,H04L
+11107124,2021-08-31,Presenting and ordering content items within a scrollable content unit to a social networking system user,0,G06Q
+11107120,2021-08-31,Estimating the reach performance of an advertising campaign,0,G06Q|H04L
+11106997,2021-08-31,Content delivery based on corrective modeling techniques,0,G06N|H04L
+11106859,2021-08-31,Systems and methods for page embedding generation,1,G06F|G06N|G06Q
+11106759,2021-08-31,Predictive resource identification and phased delivery of structured documents,0,G06F
+11106720,2021-08-31,Systems and methods for clustering items associated with interactions,0,G06F|G06Q|H04L
+11106715,2021-08-31,Systems and methods for using heterogeneous graphs to derive object embeddings,7,G06F|G06N|G06Q
+11106430,2021-08-31,Circuit and method for calculating non-linear functions of floating-point numbers,6,G06F|G06N
+11102264,2021-08-24,Methods and systems for initiating a coordinated effect,0,G06F|H04L|H04N
+11102178,2021-08-24,Establishing concealed communications between parties,40,G06F|G06Q|H04L
+11102151,2021-08-24,Automated chat agent for abbreviation definitions,1,G06N|H04L
+11100930,2021-08-24,Avoiding false trigger of wake word from remote device during call,4,G06F|G10L|H04M
+11100533,2021-08-24,Cryptographically generating custom audiences,3,G06F|G06Q|H04L
+11100520,2021-08-24,Providing insights to a merchant,0,G06Q
+11100330,2021-08-24,Presenting messages to a user when a client device determines the user is within a field of view of an image capture device of the client device,0,G06F|G06V|H04L|H04N
+11100182,2021-08-24,Channels of content for display in a online system,7,G06F|G06Q
+11100179,2021-08-24,Content suggestions for content digests for assistant systems,16,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11100062,2021-08-24,Suppression and deduplication of place-entities on online social networks,0,G06F|G06Q|H04L|H04W
+11096073,2021-08-17,Determining a performance criterion for a wireless device,0,G06F|H04L|H04W
+11095584,2021-08-17,Generating content to be shared between users,0,G06F|G06Q|H04L
+11094209,2021-08-17,Location determination when satellite navigation system is inaccessible,2,G08G|H04W
+11094100,2021-08-17,Compound animation in content items,0,G06F|G06T
+11094021,2021-08-17,Predicting latent metrics about user interactions with content based on combination of predicted user interactions with the content,0,G06Q
+11093967,2021-08-17,Determining whether to maintain information describing a group of online system users specified by a third-party system based on revenue from content selection based on the group and objectives for presentation of selected content,0,G06Q|H04L
+11093561,2021-08-17,Fast indexing with graphs and compact regression codes on online social networks,4,G06F|G06N|G06Q
+11093555,2021-08-17,Determining correlations between locations associated with a label and physical locations based on information received from users providing physical locations to an online system,0,G06F
+11093551,2021-08-17,Execution engine for compositional entity resolution for assistant systems,8,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11093432,2021-08-17,Multi-channel DIMMs,0,G06F
+11093322,2021-08-17,Memory error recovery using shared structural element error correlations,1,G06F|G11C|H03M
+11093120,2021-08-17,Systems and methods for generating and broadcasting digital trails of recorded media,3,G06F
+11093033,2021-08-17,Identifying object of user focus with eye tracking and visually evoked potentials,6,A61B|G06F|G06T|G06V
+11089492,2021-08-10,Igniting network nodes in a multi-hop wireless network,1,A61K|C07K|G01N|H04B|H04L|H04W
+11089359,2021-08-10,Systems and methods for persisting in-band metadata within compressed video files,4,H04L|H04N
+11089112,2021-08-10,Low latency interactive media distribution using shared user hardware,0,A63F|G06F|H04L|H04W
+11088985,2021-08-10,Civic issues platforms on online social networks,0,G06F|G06Q|H04L
+11088953,2021-08-10,Systems and methods for load balancing,0,G06N|H04L
+11087435,2021-08-10,Adaptive dewarping of wide angle video frames,5,G06T|H04N
+11087369,2021-08-10,Context-based provision of media content,1,G06F|G06N|G06Q
+11087366,2021-08-10,Automatically modifying a disrupted pacing plan for a digital content distribution campaign,0,G06Q
+11087178,2021-08-10,"Automated visual suggestion, generation, and assessment using computer vision detection",2,G06F|G06N|G06Q|G06T
+11086858,2021-08-10,Context-based utterance prediction for assistant systems,90,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11086845,2021-08-10,Techniques for database versioning,1,G06F|G06N
+11086488,2021-08-10,Modifying presentation of content items on a page of content maintained by an online system in response to user interactions with content via a third party system,0,G06F
+11086484,2021-08-10,Techniques for context sensitive illustrated graphical user interface elements,0,G06F|H04M
+11086472,2021-08-10,Applying a visual effect to a region of a content item responsive to detecting a user action in conjunction with presenting the content item at a client device,1,G06F|G06N|G06Q|G06T
+11082467,2021-08-03,Live group video streaming,44,H04L|H04N
+11082464,2021-08-03,Displaying additional external video content along with users participating in a video exchange session,2,H04L|H04N
+11082389,2021-08-03,Optimizing content item selection for user messaging engagement,1,G06Q|H04L
+11081142,2021-08-03,Messenger MSQRD—mask indexing,0,G11B|H04N
+11081140,2021-08-03,Systems and methods for generating templates for short-form media content,8,G11B|H04N
+11080349,2021-08-03,Geo-encoded embeddings,2,G06F|G06N
+11075929,2021-07-27,Machine learning assisted anomaly detection on a millimeter-wave communications network,12,G06F|G06N|H04L|H04W
+11075869,2021-07-27,Techniques to configure the network distribution of media compositions for transmission,0,H04L
+11074570,2021-07-27,Facilitating sending and receiving of peer-to-business payments,2,G06Q
+11074309,2021-07-27,Text-to-media indexes on online social networks,0,G06F
+11074301,2021-07-27,Systems and methods for automated data visualization recommendations,8,G06F|G06N
+11074257,2021-07-27,Filtering search results for structured search queries,0,G06F
+11074086,2021-07-27,Systems and methods for automatically changing application start state based on device orientation,0,G06F|G06Q|G09G
+11073886,2021-07-27,Balance input current of power supplies,0,G01R|G06F|H02J|H02M
+11070792,2021-07-20,Surface selection for projection-based augmented reality system,1,G06Q|G06T|H04N
+11070677,2021-07-20,Techniques for media call multiway relay escalation,0,H04L|H04M|H04N
+11070509,2021-07-20,Interaction bar for real-time interactions with content on a social networking system,0,G06Q|H04L
+11070502,2021-07-20,Techniques for notifications of entity references in a messaging thread,1,H04L
+11070348,2021-07-20,Time synchronization of a wireless network,1,H04B|H04J|H04L|H04W
+11069094,2021-07-20,Generating realistic makeup in a digital video stream,18,A45D|G06T|H04N
+11069019,2021-07-20,Multi-threaded asynchronous frame processing,0,G06F|G06T
+11068802,2021-07-20,High-capacity machine learning system,0,G06F|G06N
+11068137,2021-07-20,Systems and methods for augmenting content,1,G06F|G06T|G11B
+11068123,2021-07-20,Systems and methods for presenting user interaction information,0,G06F|G06Q
+11064251,2021-07-13,Systems and methods for evaluating page content,0,H04N
+11063932,2021-07-13,Authenticating devices to a network,0,H04L|H04W
+11063893,2021-07-13,Methods and systems for transmitting a video as an asynchronous artifact,0,G06Q|H04L
+11063892,2021-07-13,Mitigation of bullying and objectionable content,0,G06F|G06Q|H04L|H04W
+11062372,2021-07-13,Method for relevancy ranking of products in online shopping,1,G06F|G06Q
+11062361,2021-07-13,Predicting demographic information of an online system user based on online system login status,0,G06Q|H04L
+11062360,2021-07-13,Optimizing conversion rates for impressions provided in a networking system,11,G06F|G06N|G06Q|G06V
+11061977,2021-07-13,Broadcasting system with integrated social networking,11,G06F|G06Q|H04L|H04N
+11058034,2021-07-06,Modular network switch,16,G06F|H04L|H05K
+11057486,2021-07-06,Content-based notification delivery,0,G06F|G06Q|H04L
+11057444,2021-07-06,Systems and methods for shared broadcasting,2,H04L
+11057316,2021-07-06,Lite network switch architecture,0,G06F|H04L|Y02D
+11055629,2021-07-06,Determining stability for embedding models,0,G06N|G06Q
+11055471,2021-07-06,Automatic placement of electronic media content items within an online document,0,G06F|G06N
+11055348,2021-07-06,Systems and methods for automatically generating stitched media content,0,G06F|G06Q
+11055314,2021-07-06,Techniques for a database-driven messaging user interface,0,G06F|H04L
+11054998,2021-07-06,High bandwidth memory system with distributed request broadcasting masters,0,G06F|G06N
+11054896,2021-07-06,Displaying virtual interaction objects to a user on a reference plane,5,G02B|G06F|G06T
+11054270,2021-07-06,Generating catalogs of navigation information,9,G01C|G06F|G06N|G08G
+11050843,2021-06-29,Systems and methods for prefetching content,0,G06Q|H04L
+11049193,2021-06-29,Selection of advertisements based on social networking system login status,0,G06Q
+11049146,2021-06-29,Discount offer with time period defined by user impression,1,G06Q
+11049136,2021-06-29,Inferring attributes associated with a non-merchant user of a classified advertising service based on user interactions with an item for sale posted by the non-merchant user,1,G06N|G06Q
+11049032,2021-06-29,Determining correlations between types of user identifying information maintained by an online system,0,G06N|H04L
+11048766,2021-06-29,Audience-centric event analysis,8,G06F|G06Q|H04L
+11048708,2021-06-29,Social discovery and ranking of pages,0,G06F|H04L
+11048406,2021-06-29,Methods and systems for defining and transmitting a drawing stroke,0,G06F|H04L|H04M
+11048384,2021-06-29,Generating content to be shared between users,0,G06F|G06Q|H04L
+11048381,2021-06-29,Enabling delayed interactions with content items presented by a social networking system,0,G06F|G06Q|H04L
+11044288,2021-06-22,Systems and methods for interactive broadcasting,0,H04L|H04N
+11044274,2021-06-22,Policy evaluation trees,0,H04L
+11044220,2021-06-22,Methods and systems for presenting modules in an inbox interface,1,H04L
+11042554,2021-06-22,Generating compositional natural language by assistant systems,57,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11042414,2021-06-22,Hardware accelerated compute kernels,4,G06F
+11042413,2021-06-22,Dynamic allocation of FPGA resources,2,G06F
+11042261,2021-06-22,Generating content to be shared between users,22,G06F|G06Q|H04L
+11039278,2021-06-15,Dynamic location collection,8,H04W|Y02D
+11038974,2021-06-15,Recommending content with assistant systems,66,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11038822,2021-06-15,Presence and geographic location notification based on a delegation model,0,G06Q|H04L|H04W
+11037206,2021-06-15,Sponsored-content-item stories for live media items,4,G06Q|H04N
+11036466,2021-06-15,Social media custom audio program,0,G06F
+11036289,2021-06-15,Systems and methods to present information in a virtual environment,0,G06F
+11032596,2021-06-08,Systems and methods for generating content streams,0,G06Q|H04N
+11032513,2021-06-08,Optimizing video conferencing using contextual information,3,H04L|H04N
+11032398,2021-06-08,Kernel multiplexing system of communications,0,H04L
+11032316,2021-06-08,Using machine learning techniques to detect imposter pages in an online system,4,G06F|G06N|G06V|H04L
+11032231,2021-06-08,Techniques to convert multi-party conversations to an editable document,0,H04L
+11032222,2021-06-08,Notifying users of offensive content,0,G06F|G06N|G06Q|H04L
+11031043,2021-06-08,Video collaboration tool,0,G11B|H04N
+11030814,2021-06-08,Data sterilization for post-capture editing of artificial reality effects,5,G06T|H04N
+11030660,2021-06-08,Commercial breaks for live videos,0,G06F|G06Q|H04L|H04N
+11030650,2021-06-08,Selecting a third party website on which an action associated with a content item may be performed,0,G06N|G06Q
+11030539,2021-06-08,Consumer insights analysis using word embeddings,6,G06F|G06N|G06Q
+11030462,2021-06-08,Systems and methods for storing content,0,G06F|G06V|H04N
+11030461,2021-06-08,Storylines: group generation based on facial recognition,0,G06V|H04L
+11030440,2021-06-08,Systems and methods for providing augmented reality overlays,2,G06N|G06Q|G06T|G06V
+11030238,2021-06-08,Determining and utilizing contextual meaning of digital standardized image characters,3,G06F
+11030235,2021-06-08,Method for navigating through a set of images,0,G01C|G06F
+11030078,2021-06-08,Systems and methods for digital content testing,0,G06F|H04N
+11026064,2021-06-01,Collaborative digital story system,27,G06F|G06Q|G06V|H04W
+11025988,2021-06-01,Integration of live streaming content with television programming,0,G06Q|H04N|H04W
+11025860,2021-06-01,Configuring output on a communication device,0,G06F|H04L|H04N|H04W
+11025724,2021-06-01,Transport of control data in proxy-based network communications,0,H04L
+11025582,2021-06-01,Systems and methods for creating multiple renditions of a social media composition from inputs to a single digital composer,12,G06F|H04L
+11025576,2021-06-01,Techniques for backend-specific cursor tracking,0,H04L|H04W
+11025566,2021-06-01,Techniques for intent-based search for bots,3,G06F|G06N|H04L
+11023954,2021-06-01,Systems and methods for using a social networking system to purchase products,0,G06Q
+11023941,2021-06-01,Managing ecommerce messages via a social networking system,0,G06Q|H04L
+11023932,2021-06-01,Managing impression opportunities for a set of content items associated with goals to guarantee achievement of the goals within a specified period of time,0,G06Q
+11023923,2021-06-01,Detecting fraud in connection with adverstisements,0,G06F|G06Q
+11023823,2021-06-01,Evaluating content for compliance with a content policy enforced by an online system using a machine learning model determining compliance with another content policy,0,G06N|G06Q
+11023772,2021-06-01,Generating refined object proposals using deep learning models,0,G06F|G06N|G06V
+11023611,2021-06-01,Systems and methods for trigger-based modification of privacy settings associated with posts,1,G06F|G06Q|H04L|H04W
+11023429,2021-06-01,Methods and systems for associating content with conversation tuples,0,G06F|G06Q
+11023240,2021-06-01,Systems and methods for efficient scaling of quantized integers,0,G06F
+11023096,2021-06-01,Visual editor for designing augmented-reality effects and configuring rendering parameters,5,G06F|G06T
+11019551,2021-05-25,Interference management in a multi-hop wireless network,0,H04B|H04W
+11019503,2021-05-25,Multi-hop wireless network plannning,1,H04L|H04W
+11019395,2021-05-25,Automatic digital representations of events,0,G06F|H04N
+11019391,2021-05-25,Determining local network connections of devices using tokens,0,H04L|H04N|H04W
+11019305,2021-05-25,Coordinated effects in videos,0,H04L|H04N
+11019284,2021-05-25,Media effect application,1,G06V|H04N
+11019177,2021-05-25,Selecting assets,0,G06N|H04L
+11019021,2021-05-25,Social network status,0,G06F|G06Q|H04L|H04W
+11019015,2021-05-25,Notifying users of offensive content,6,G06N|G06Q|H04L
+11018999,2021-05-25,Techniques for messaging bot controls based on machine-learning user intent detection,0,G06N|H04L|H04W
+11017585,2021-05-25,Systems and methods for capturing image data for recreation in a virtual environment,1,G06T|H04N
+11017287,2021-05-25,Flexible multi-task neutral network for content ranking,0,G06F|G06N|G06Q
+11017272,2021-05-25,Random and active learning for classifier training,0,G06F|G06N
+11017237,2021-05-25,Systems and methods for automated video classification,4,G06N|G06V|H04N
+11017164,2021-05-25,Systems and methods for collecting multiple forms of digital content using a single landing screen,14,G06F|H04L
+11017039,2021-05-25,Multi-stage ranking optimization for selecting content,0,G06F|G06N|G06Q
+11017026,2021-05-25,Highlighting portions of a live video broadcast,0,G06F|G06Q|H04L|H04W
+11017012,2021-05-25,Dynamically ranking media effects based on user and device characteristics,2,G06F|G11B|H04N
+11016542,2021-05-25,Touch pad sensors operative as antennas,4,G02B|G06F|H01Q|H04B|H04W
+11012511,2021-05-18,Smart network interface controller for caching distributed data,3,G06F|H04L|H04W
+11012403,2021-05-18,Storylines: collaborative feedback system,2,H04L
+11012354,2021-05-18,Pre-routing device for data centers,2,H04L
+11011075,2021-05-18,Calibration of haptic device using sensor harness,3,G01L|G06F|G06N|G08B|G09B|G10L
+11010944,2021-05-18,Systems and methods for swapping faces and face components based on facial recognition,2,G06T|G06V
+11010803,2021-05-18,Identity verification and authentication,0,G06F|G06Q|H04L
+11010436,2021-05-18,Engaging users by personalized composing-content recommendation,19,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11010410,2021-05-18,Processing data groupings belonging to data grouping containers,2,G06F
+11010202,2021-05-18,Distributed physical processing of matrix sum operation,0,G06F|Y02D
+11010179,2021-05-18,Aggregating semantic information for improved understanding of users,0,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+11010158,2021-05-18,Determining the availability of memory optimizations by analyzing a running binary,0,G06F
+11006171,2021-05-11,Selecting an optimal format for presenting a group of objects associated with a third-party system in a graphical user interface,2,G06F|H04N
+11006097,2021-05-11,Modeling for projection-based augmented reality system,1,G01B|G06F|G06Q|G06T|G06V|H04N
+11006076,2021-05-11,Methods and systems for configuring multiple layouts of video capture,1,G06F|H04N
+11004471,2021-05-11,Editing portions of videos in a series of video portions,2,G11B|H04N
+11004164,2021-05-11,Searching for trademark violations in content items distributed by an online system,2,G06F|G06N|G06Q
+11003996,2021-05-11,Determining navigation patterns associated with a social networking system to provide content associated with a destination page on a starting page,0,G06N|G06Q
+11003992,2021-05-11,Distributed training and prediction using elastic resources,16,G06N
+11003692,2021-05-11,Systems and methods for online clustering of content items,0,G06F|G06N|H04L
+11003669,2021-05-11,Ephemeral content digests for assistant systems,22,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+10999237,2021-05-04,Systems and methods for sharing content,0,G06Q|H04L
+10999236,2021-05-04,Selection of service providers for message transmission on online social networks,0,H04L|H04M|H04W
+10999229,2021-05-04,Providing message status notifications during electronic messaging,2,G06F|H04L
+10999193,2021-05-04,Modular architecture for computer network operations,1,H04L
+10997257,2021-05-04,Aggregating news events on online social networks,4,G06F
+10992761,2021-04-27,Executing requests for services using shared location data,1,G01C|G06F|G06Q|G08G|H04L|H04W
+10992737,2021-04-27,Systems and methods for interacting with media devices,0,G06Q|H04L
+10992720,2021-04-27,Measuring page viewership in a social network,0,G06Q|H04L
+10991037,2021-04-27,Analyzing tracking requests generated by client devices based on metadata describing web page of a third party website,1,G06F|G06Q
+10990896,2021-04-27,Systems and methods for incorporating long-term patterns in online fraud detection,0,G06N|G06Q
+10990635,2021-04-27,Systems and methods for ranking ephemeral content associated with a social networking system,0,G06F|G06N|H04L
+10990189,2021-04-27,Processing of gesture-based user interaction using volumetric zones,0,A63F|G01B|G06F|G06V
+10986384,2021-04-20,Modifying video data captured by a client device based on a request received by a different client device receiving the captured video data,0,G11B|H04N
+10986381,2021-04-20,Wearable cameras,0,G06Q|G11B|H04M|H04N
+10986077,2021-04-20,Secure registration and ignition of network nodes on a multi-hop wireless network,0,H04L|H04W
+10986058,2021-04-20,Dynamic duty-cycling of processor of mobile device based on operating condition of mobile device,0,G01S|G06F|H04L|H04W|Y02D
+10986043,2021-04-20,Distributed network switches of data centers,1,H04L
+10984448,2021-04-20,Notification for pre-announced discount offer,0,G06Q
+10984245,2021-04-20,Convolutional neural network based on groupwise convolution for efficient video analysis,7,G06F|G06N|G06V
+10984183,2021-04-20,Systems and methods for sharing content,9,G06F|G06Q|H04L
+10984174,2021-04-20,Dynamically providing a feed of stories about a user of a social networking system,0,G06F|H04L
+10984061,2021-04-20,Systems and methods for providing communications to and from verified entities,0,G06F|G06Q
+10983973,2021-04-20,Database sharding with incorporated updates,3,G06F
+10979914,2021-04-13,Communication network optimization based on predicted enhancement gain,1,H04L|H04W
+10979870,2021-04-13,Geographic partitioning of event maps based on social information,1,G06F|G06Q|H04L|H04W
+10979733,2021-04-13,Systems and methods for measuring image quality based on an image quality metric,1,H04N
+10979669,2021-04-13,Automated cinematic decisions based on descriptive models,0,G06F|G06T|G06V|H04N|H04R
+10979500,2021-04-13,Techniques for directive-based messaging synchronization,0,G06F|H04L|H04W
+10979371,2021-04-13,Techniques for messaging agent messaging interactions,3,G06F|G06Q|H04L|H04N|H04W
+10978056,2021-04-13,Grammaticality classification for natural language generation in assistant systems,185,G06F|G06N|G10L
+10978052,2021-04-13,Email-like user interface for training natural language systems,0,G06F|G10L
+10977847,2021-04-13,Architecture for augmenting video data obtained by a client device with one or more effects during rendering,0,G06T|G06V|H04L|H04N
+10977367,2021-04-13,Detecting malicious firmware modification,7,G06F|G06N
+10977297,2021-04-13,Ephemeral item ranking in a graphical user interface,3,G06F|G06N|G06Q
+10977258,2021-04-13,Content summarization for assistant systems,71,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+10977229,2021-04-13,Database sharding with update layer,1,G06F
+10976915,2021-04-13,Capturing and sending multimedia as electronic messages,0,G06F|G06T|H04L|H04N
+10976829,2021-04-13,Systems and methods for displaying augmented-reality objects,1,G06F|G06N|G06T|G06V
+10973085,2021-04-06,Polarity assignment in a multi-hop wireless network,0,H04L|H04W
+10972682,2021-04-06,System and method for adding virtual audio stickers to videos,21,G11B|H04N
+10972528,2021-04-06,Methods and systems for accessing third-party services within applications,1,G06F|G06Q|H04L
+10972423,2021-04-06,Location-based conversation engine for entities in a social networking system,0,H04L|H04W
+10971158,2021-04-06,Designating assistants in multi-assistant environment based on identified wake word received from a user,107,G10L|H04L
+10970884,2021-04-06,Systems and methods for providing content,10,G06T|G06V
+10970750,2021-04-06,Grouping users into tiers based on similarity to a group of seed users,0,G06F|G06Q
+10970647,2021-04-06,Deep feature generation for classification,3,G06F|G06N|H04L
+10966066,2021-03-30,Internet-enabled data for transparent application consumption over unstructured supplementary service data,0,H04L|H04W
+10965873,2021-03-30,Systems and methods for updating camera displays,0,G06T|H04N
+10965723,2021-03-30,Instantaneous call sessions over a communications application,0,H04L
+10965610,2021-03-30,Systems and methods for allocating shared resources in multi-tenant environments,1,G06F|H04L
+10963921,2021-03-30,Presenting content to an online system user assigned to a stage of a classification scheme and determining a value associated with an advancement of the user to a succeeding stage,0,G06N|G06Q|H04L
+10963844,2021-03-30,Systems and methods for automated setup of video conferencing resources,0,G06Q|H04L|H04W
+10963514,2021-03-30,Using related mentions to enhance link probability on online social networks,1,G06F|G06Q
+10963273,2021-03-30,Generating personalized content summaries for users,32,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+10963128,2021-03-30,Systems and methods for capturing content,13,G06F|G06Q|H04N
+10959112,2021-03-23,Systems and methods for networking and wirelessly routing communications,0,H04L|H04W
+10958606,2021-03-23,Modular inbox and generation of content modules,0,H04L|H04W
+10958599,2021-03-23,Assisting multiple users in a multi-user conversation thread,69,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+10958510,2021-03-23,System and method of data communication,0,H04L
+10958456,2021-03-23,Applying user-specified permissions to distribution of content items to social networking system users,1,G06F|G06Q|H04L|H04W
+10957329,2021-03-23,Multiple wake words for systems with multiple smart assistants,51,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+10957119,2021-03-23,Visual editor for designing augmented-reality effects,0,G06F|G06T
+10956991,2021-03-23,Systems and methods for enhancing interactions in a computer networking environment,2,G06N|G06Q
+10956957,2021-03-23,Techniques for automated messaging,1,G06Q|H04L
+10956525,2021-03-23,Personalizing content associated with a third party system for presentation to an online system user based on interactions performed by the user with content from the third party system,0,G06F|H04L
+10956522,2021-03-23,Regular expression generation and screening of textual items,5,G06F|G06N|G06Q|H04L
+10956029,2021-03-23,Gesture-based context switching between applications,4,G06F
+10955990,2021-03-23,Real-time delivery of interactions in online social networking system,2,G06F|G06Q|H04L
+10955987,2021-03-23,Three-dimensional user interface,2,G06F
+10955918,2021-03-23,Head-coupled optode assembly,2,A61B|G01N|G06F
+10950275,2021-03-16,Methods and systems for tracking media effects in a media effect index,4,G11B|H04N
+10949896,2021-03-16,Distribution of embedded content items by an online system,0,G06F|G06Q|H04N
+10949771,2021-03-16,Systems and methods for churn prediction,0,G06N|G06Q
+10949616,2021-03-16,Automatically detecting and storing entity information for assistant systems,61,G06F|G06Q|G10L|H04L
+10949471,2021-03-16,Generating catalog-item recommendations based on social graph data,0,G06F|G06Q|H04W
+10949434,2021-03-16,User identification system,11,G06F|G06N|G06Q
+10949053,2021-03-16,E-mail interface having an informational tooltip,0,G06F|G06Q|H04L
+10948993,2021-03-16,Picture-taking within virtual reality,0,G06F|G06T|G06V
+10948966,2021-03-16,Systems and methods for optimizing power usage for systems within quality-of-service constraints,5,G06F|G06N|Y02D
+10944703,2021-03-09,Sending notifications as a service,0,G06F|G06Q|H04L|H04W
+10943503,2021-03-09,Envelope encoding of speech signals for transmission to cutaneous actuators,1,G01L|G06F|G06N|G08B|G09B|G10L
+10943178,2021-03-09,Accounting for organically occurring interactions with content when selecting content items for presenstation to users of an online system,3,G06N|G06Q|H04L
+10943171,2021-03-09,Sparse neural network training optimization,3,G06F|G06N|G06T
+10943125,2021-03-09,Predicting highlights for media content,12,G06F|G06V|H04N
+10943065,2021-03-09,Systems and methods for rendering data based on fixed-length templating,0,G06F
+10942978,2021-03-09,Systems and methods for creating interactive metadata elements in social media compositions,11,G06F|G06Q
+10939381,2021-03-02,Accounting for battery level of a client device when selecting content for presentation by the client device,0,G06Q|H04W|Y02D
+10938759,2021-03-02,Sharing on-line media experiences,0,G06F|G06Q|H04L
+10937053,2021-03-02,Framework for evaluating targeting models,0,G06Q
+10937037,2021-03-02,Selecting organic content and advertisements for presentation to social networking system users based on user engagement,1,G06F|G06Q
+10937010,2021-03-02,Payment platform for online service providers,0,G06Q
+10936981,2021-03-02,Detecting a landing page that violates an online system policy based on a structural similarity between the landing page and a web page violating the policy,0,G06F|G06Q|H04L
+10936954,2021-03-02,Data transmission between two systems to improve outcome predictions,0,G06N|G06Q
+10936952,2021-03-02,Detecting content items in violation of an online system policy using templates based on semantic vectors representing content items,0,G06F|G06N|G06Q
+10936691,2021-03-02,Stable identifier architecture,1,G06F|H04L
+10936346,2021-03-02,Processing multimodal user input for assistant systems,0,G06F|G06N|G06Q|G06V|G10L|H04L|H04W
+10932006,2021-02-23,Systems and methods for previewing content,0,H04N
+10931941,2021-02-23,Controls and interfaces for user interactions in virtual spaces,8,G06F|G06Q|G06T|H04L|H04M|H04N
+10931854,2021-02-23,Aggregating video streams from cameras based on social connections in an online system,1,G06Q|H04N
+10931764,2021-02-23,Geographic-area cluster,0,H04L|H04W
+10931743,2021-02-23,Systems and methods for dynamically generating routing tables for edge nodes in large-scale networking infrastructures,3,G06F|G06Q|H04L
+10931622,2021-02-23,Associating an indication of user emotional reaction with content items presented by a social networking system,1,G06F|G06Q|G09G|H04L|Y10S
+10930017,2021-02-23,Image compression optimization,1,G06T|H04N
+10929979,2021-02-23,Systems and methods for processing content,3,G06T|G06V|H04N
+10929772,2021-02-23,Systems and methods for machine learning based age bracket determinations,2,G06N|G06Q
+10929770,2021-02-23,Systems and methods for recommending pages,0,G06F|G06N|G06Q
+10929511,2021-02-23,Systems and methods for protecting sensitive information,0,G06F|G06Q|H04L
+10929404,2021-02-23,Streaming joins with synchronization via stream time estimations,1,G06F
+10929147,2021-02-23,Management of a stateless device environment,5,G06F|H04L
+10924808,2021-02-16,Automatic speech recognition for live video comments,1,G10L|H04N
+10924565,2021-02-16,Tracking event attendance,0,G06F|G06N|G06Q|H04L
+10924560,2021-02-16,Determining geographic locations of network devices,0,G06F|G06N|H04L|H04W
+10924532,2021-02-16,Presenting suggestion content in reaction to content generation,0,G06Q|H04L
+10924449,2021-02-16,Internet protocol (IP) address assignment,1,G06Q|H04L|H04W
+10924446,2021-02-16,Digital story reply container,62,H04L
+10924445,2021-02-16,Notification targeting,2,H04L
+10924444,2021-02-16,"Device, method, and graphical user interface for managing customer relationships using a lightweight messaging platform",6,G06F|G06Q|H04L
+10922713,2021-02-16,Dynamic creative optimization rule engine for effective content delivery,0,G06Q
+10922624,2021-02-16,Identifying users of shared devices based on user interactions and identity graph,0,G06N|H04L
+10922609,2021-02-16,Semi-supervised learning via deep label propagation,1,G06F|G06N
+10922390,2021-02-16,Training a classifier to identify unknown users of an online system,1,G06F|G06N
+10922335,2021-02-16,User targeting using an unresolved graph,0,G06F
+10921878,2021-02-16,"Virtual spaces, mixed reality spaces, and combined mixed reality spaces for improved interaction and collaboration",9,G06F|G06Q
+10917668,2021-02-09,Live to video on demand normalization,0,H04N
+10917666,2021-02-09,Providing a start trigger for a live video broadcast,0,G06Q|H04H|H04N
+10917485,2021-02-09,Implicit contacts in an online social network,0,G06Q|H04L
+10917481,2021-02-09,Generating business insights using beacons on online social networks,0,G06Q|H04L
+10917377,2021-02-09,Managing an ephemeral post in a social networking system,0,G06F|G06Q|H04L|H04W
+10917179,2021-02-09,Coherent aperture combining using machine learning,1,G06T|H04B
+10915776,2021-02-09,Modifying capture of video data by an image capture device based on identifying an object of interest within capturted video data to the image capture device,0,G06F|G06V|H04N
+10915663,2021-02-09,Systems and methods for protecting data,5,G06F|G06N|G06V
+10915589,2021-02-09,Delivering content promoting a web page to users of an online system,0,G06F|G06Q|H04L
+10915567,2021-02-09,Content selection metric determination for a content distribution system,2,G06F
+10915509,2021-02-09,Identification of low-quality place-entities on online social networks,0,G06F|G06Q|H04L|H04W
+10915229,2021-02-09,Merging entities maintained by an online system subject to selection of interactions with an entity being merged by users who performed the interactions with the entity being merged,0,G06F
+10911826,2021-02-02,Determining appropriate video encodings for video streams,1,H04N
+10911792,2021-02-02,Systems and methods for determining processing completeness within a distributed media item processing environment,0,G06Q|H04L|H04N
+10911551,2021-02-02,Methods and systems for providing content to users of a social networking service,0,G06Q|H04L
+10911504,2021-02-02,Social media music streaming,13,G06F|G06Q|H04L
+10911370,2021-02-02,Systems and methods for providing predicted web page resources,0,G06F|G06N|G06Q|H04L
+10909601,2021-02-02,Providing product advice recommendation,4,G06F|G06Q
+10909569,2021-02-02,Obtaining a composite prediction indicating a likelihood that a user of an online system will perform a conversion associated with a content item via one or more paths of events,6,G06F|G06N|G06Q
+10909454,2021-02-02,Multi-task neutral network for feed ranking,0,G06F|G06N
+10909163,2021-02-02,Systems and methods for ranking ephemeral content item collections associated with a social networking system,0,G06F|G06N|G06Q
+10909123,2021-02-02,Systems and methods for providing entity account administrator feeds,0,G06F|H04L
+10909022,2021-02-02,Systems and methods for identifying and tracking application performance incidents,0,G06F
+10908804,2021-02-02,Incremental mount framework,0,G06F
+10908765,2021-02-02,Displaying dynamic user interface elements in a social networking system,1,G06F|G06Q
+10907983,2021-02-02,Navigation information on an online system,5,G01C|G06N|G08G

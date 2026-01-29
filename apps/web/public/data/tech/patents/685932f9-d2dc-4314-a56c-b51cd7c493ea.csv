@@ -1,0 +1,947 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432415,2025-09-30,Methods and apparatus to determine engagement levels of audience members,0,H04N
+12432405,2025-09-30,Methods and apparatus for network-based monitoring and serving of media to in-vehicle occupants,0,G06N|H04N|H04W
+12425689,2025-09-23,Mobile device attention detection,0,H04N|H04W
+12425688,2025-09-23,Methods and apparatus to determine engagement levels of audience members,0,H04N
+12423723,2025-09-23,Methods and apparatus to monitor media presentations,0,G06Q|H04L
+12423717,2025-09-23,Methods and apparatus to apply household-level weights to household-member level audience measurement data,0,G06Q|H04N
+12418699,2025-09-16,Tracking media-delivery-device in relation to media presentation and exposure,0,H04N
+12413817,2025-09-09,Methods and apparatus to determine demographic classifications for census level impression counts and unique audience sizes,0,G06Q|H04N
+12413646,2025-09-09,Methods and apparatus to facilitate meter to meter matching for media identification,0,H04L
+12407898,2025-09-02,Methods and apparatus to determine when a smart device is out-of-tab,0,H04H|H04N
+12407884,2025-09-02,Accelerated television advertisement identification,0,G06Q|H04H|H04N
+12399876,2025-08-26,Methods and apparatus to estimate audience sizes of media using deduplication based on multiple vectors of counts,0,G06F|G06Q|H04N
+12393957,2025-08-19,Methods and apparatus to estimate de-duplicated unknown total audience sizes based on partial information of known audiences,0,G06F|G06Q
+12393579,2025-08-19,Methods and apparatus to identify electronic devices,0,G06F|H04L
+12389069,2025-08-12,Detecting an operational state of a media device,0,H04N
+12387521,2025-08-12,Methods and apparatus to monitor environments,0,G01B|G06F|G06T|G06V|H04H|H04N
+12387227,2025-08-12,Methods and apparatus to estimate cardinality of users represented in arbitrarily distributed bloom filters,0,G06N|G06Q
+12386888,2025-08-12,Compensating for time scale differences between audio and other signals in fingerprinting and matching applications,0,G06F
+12375761,2025-07-29,Methods and apparatus to deduplicate audience estimates from multiple computer sources,0,G06F|G06Q|H04H|H04N
+12375760,2025-07-29,Methods and apparatus to monitor digital media,0,H04N
+12373862,2025-07-29,Methods and apparatus to generate corrected online audience measurement data,0,G06Q|H04N
+12373855,2025-07-29,Methods and apparatus to project ratings for future broadcasts of media,0,G06Q|H04N
+12369809,2025-07-29,Determining intensity of a biological response to a presentation,0,A61B|G06Q|G16H
+12368922,2025-07-22,Methods and apparatus to validate reference media assets in media identification system,0,H04N
+12368787,2025-07-22,Methods and apparatus to share online media impressions data,0,G06Q|H04L
+12367318,2025-07-22,Methods and apparatus to collect distributed user information for media impressions and search terms,0,G06F|G06Q|H04L|H04N|H04W
+12363381,2025-07-15,Methods and apparatus to determine audience size based on big data,0,G06Q|H04N
+12363377,2025-07-15,"Methods, articles of manufacture, and apparatus to edit tuning data collected via automated content recognition",0,H04N
+12363365,2025-07-15,Methods and apparatus to estimate population reach from marginal ratings with missing information,0,G06F|G06Q|H04N
+12363363,2025-07-15,Systems and methods for adaptive adjustment of advertisement boundaries in media,0,H04N
+12363356,2025-07-15,Methods and apparatus of identification of streaming activity and source for cached media on streaming devices,0,H04L|H04N
+12361439,2025-07-15,"Methods, systems, articles of manufacture, and apparatus to estimate audience population",0,G06Q|H04H|H04N
+12361090,2025-07-15,Methods and apparatus to identify sponsored media in a document object model,0,G06F|G06Q|H04L
+12356286,2025-07-08,"Methods, apparatus, and articles of manufacture to locate persons based on adjustable signal strength thresholds",0,G01S|H04B|H04H|H04W
+12356040,2025-07-08,Methods and apparatus to generate media exposure maps of media environments,0,H04N
+12356032,2025-07-08,Methods and apparatus to determine probabilistic media viewing metrics,0,H04N
+12355851,2025-07-08,"Systems, methods, and apparatus to monitor mobile internet activity",0,G06Q|H04L|H04M|H04W
+12355845,2025-07-08,Methods and apparatus for census and panel matching using HTTP headers,0,G06Q|H04L
+12348817,2025-07-01,Methods and apparatus to determine additive reach adjustment factors for audience measurement,0,H04N
+12346920,2025-07-01,Methods and apparatus to correct for deterioration of a demographic model to associate demographic information with media impression information,0,G06F|G06Q|H04N
+12342054,2025-06-24,Methods and apparatus to extend a timestamp range supported by a watermark,0,H04N
+12341859,2025-06-24,"Systems, methods, and apparatus to identify media devices",0,H04H|H04L
+12340385,2025-06-24,Methods and apparatus for associating media devices with a demographic composition of a geographic area,0,G06F|G06Q|H04L|H04M|H04W
+12335570,2025-06-17,Methods and apparatus to correct errors in audience measurements for media accessed using over-the-top devices,0,G06Q|H04N
+12335565,2025-06-17,"Methods, apparatus, and systems to collect audience measurement data",0,H04H|H04N
+12328474,2025-06-10,Methods and apparatus to correct misattributions of media impressions,0,G06F|G06Q|H04H|H04N
+12328351,2025-06-10,Methods and apparatus to identify streaming sessions,0,H04L|H04N
+12327295,2025-06-10,"Methods, systems, apparatus, and articles of manufacture to perform time alignment for watermarks",0,G06T|G10L
+12327172,2025-06-10,Probabilistic modeling for anonymized data integration and bayesian survey measurement of sparse and weakly-labeled datasets,0,G06N|G06Q|H04N
+12326797,2025-06-10,Methods and apparatus to collect media metrics on computing devices,0,G06F|H04L
+12323676,2025-06-03,Reconciliation of commercial measurement ratings,0,H04N
+12323657,2025-06-03,Methods and apparatus to count people in an audience,0,H04N
+12322154,2025-06-03,Automated facial recognition library construction with privacy protection,0,G06F|G06V
+12316811,2025-05-27,Methods and apparatus to identify media using hybrid hash keys,0,H04N
+12309625,2025-05-20,Methods and apparatus to monitor WI-FI media streaming using an alternate access point,0,H04N|H04W
+12309466,2025-05-20,Client identifier watermarks in media signals,0,G06F|G10L|H04N
+12301932,2025-05-13,Methods and apparatus to determine an audience composition based on voice recognition,0,G06Q|G10L|H04H|H04N
+12301902,2025-05-13,Signature matching with meter data aggregation for media identification,0,H04H|H04N
+12301784,2025-05-13,Display device on/off detection methods and apparatus,0,H04H|H04N
+12301534,2025-05-13,Methods and apparatus to facilitate device identification,0,H04L
+12294764,2025-05-06,Methods and apparatus to identify inconsistencies in audience measurement data,0,H04N
+12289494,2025-04-29,Methods and apparatus to determine when a smart device is out-of-tab,0,H04H|H04N
+12288223,2025-04-29,Systems and methods for monitoring malicious software engaging in online advertising fraud or other form of deceit,0,G06F|G06Q|H04L
+12287853,2025-04-29,End-point media watermarking,0,G06F
+12284104,2025-04-22,Methods and apparatus to monitor media in a direct media network,0,H04L|H04N|H04W
+12282938,2025-04-22,Methods and apparatus for generating information about portable device advertising,0,G06F|G06Q
+12282508,2025-04-22,Source classification using HDMI audio metadata,0,G06F|G10L|G11B|H03M|H04H|H04N
+12277569,2025-04-15,Methods and apparatus for estimating total unique audiences,0,G06F|G06Q|H04L
+12277159,2025-04-15,Methods and apparatus to determine tags for media using multiple media features,0,G06F
+12273593,2025-04-08,Methods and apparatus to model on/off states of media presentation devices based on return path data,0,G06Q|H04H|H04N
+12273575,2025-04-08,"Methods, apparatus, and articles of manufacture to determine penetration and churn of streaming services",0,G06Q|H04N
+12273426,2025-04-08,Methods and apparatus to determine media impressions using distributed demographic information,0,G06F|G06Q|H04L
+12273247,2025-04-08,Methods and apparatus to credit streaming activity using domain level bandwidth information,0,H04L
+12272131,2025-04-08,Recurrent deep neural network system for detecting overlays in images,0,G06N|G06V
+12271925,2025-04-08,Methods and apparatus to estimate population reach from marginals,0,G06Q|H04N
+12271452,2025-04-08,End-point media watermarking,0,G06F
+12271449,2025-04-08,Methods and apparatus to credit unidentified media,0,G06F|H04N
+12267554,2025-04-01,"Methods, apparatus and articles of manufacture to estimate local market audiences of media content",0,H04H|H04N
+12267539,2025-04-01,Methods and apparatus to generate reference signatures from streaming media,0,H04N
+12256122,2025-03-18,"Apparatus, computer-readable medium, and method for channel change detection-based short content identification",0,H04N
+12256121,2025-03-18,"Systems, apparatus, and methods to improve watermark detection in acoustic environments",1,G06F|G10L|H04N
+12250434,2025-03-11,Methods and apparatus to present supplemental media on a second screen,0,G06Q|H04N
+12250367,2025-03-11,Methods and apparatus for automatic TV on/off detection,0,G01R|G09G|H04H|H04N
+12250196,2025-03-11,Methods and apparatus to perform network-based monitoring of media accesses,0,H04L
+12250065,2025-03-11,Methods and apparatus to improve media monitoring by adjusting for co-viewing,0,G06Q|H04H|H04N|H04W
+12244894,2025-03-04,Methods and apparatus to detect a presence status,0,H04L|H04N
+12244889,2025-03-04,"Methods, articles of manufacture, and apparatus to adjust tuning events",0,H04N
+12244882,2025-03-04,Assigning synthetic respondents to geographic locations for audience measurement,0,H04N
+12244674,2025-03-04,Methods and apparatus to use client-server communications across internet domains to determine distributed demographic information for media impressions,0,G06F|G06Q|H04L
+12238393,2025-02-25,Methods and apparatus to use station identification to enable confirmation of exposure to live media,0,H04N
+12238374,2025-02-25,Methods and apparatus for a window-metric rule,0,G06F|G06Q|H04N
+12238354,2025-02-25,Methods and apparatus to perform media device asset qualification,0,G06F|H04N
+12231742,2025-02-18,Methods and apparatus to monitor media,0,H04H|H04N
+12231720,2025-02-18,Methods and apparatus to detect commercial advertisements associated with media presentations,0,G06V|H04H|H04N
+12231512,2025-02-18,Measurement of internet media consumption,0,H04L
+12231319,2025-02-18,Fusing online media monitoring data with secondary online data feeds to generate ratings data for online media exposure,0,G06F|G06Q|H04L
+12230282,2025-02-18,"Methods, apparatus and articles of manufacture to identify sources of network streaming services",0,G10L|H04H|H04N|H04R|H04S
+12229790,2025-02-18,Estimation and use of nested merge ratios for audience measurement,0,G06Q|H04N
+12229098,2025-02-18,Methods and apparatus to virtually estimate cardinality with global registers,0,G06F
+12223520,2025-02-11,Methods and apparatus to analyze and adjust demographic information,0,G06Q
+12219209,2025-02-04,Methods and apparatus for metering portable media players,0,G06F|G11B|H04H|H04L|H04N|H04R
+12217527,2025-02-04,"Methods and apparatus to determine an audience composition based on voice recognition, thermal imaging, and facial recognition",0,G06Q|G06V|G10L|H04H|H04N
+12217285,2025-02-04,Methods and apparatus to expand panelist enrollment,0,G06Q|H04L|H04N|H04W
+12212812,2025-01-28,Methods and apparatus to identify an episode number based on fingerprint and matched viewing information,0,G06Q|G07F|H04N
+12212811,2025-01-28,Methods and apparatus for dynamic media insertion based on streaming meter data,0,H04N
+12212616,2025-01-28,Using messaging associated with adaptive bitrate streaming to perform media monitoring for mobile platforms,0,G06Q|H04L|H04N
+12212471,2025-01-28,Systems and methods for behavioural and contextual data analytics,0,G06F|G06Q|H04L
+12206958,2025-01-21,Methods and apparatus to extend a timestamp range supported by a watermark,0,H04N
+12206943,2025-01-21,Methods and apparatus to estimate deduplicated total audiences in cross-platform media campaigns,0,G06F|G06Q|H04H|H04N
+12206942,2025-01-21,Methods and apparatus to estimate population reach from different marginal rating unions,0,G06Q|H04N
+12206936,2025-01-21,Use of steganographically-encoded time information as basis to control implementation of dynamic content modification,0,G06T|H04N
+12206935,2025-01-21,Addressable measurement framework,0,G06Q|H04H|H04N
+12206884,2025-01-21,Methods and apparatus for delivering extended payloads with composite watermarks,0,H04N
+12206804,2025-01-21,Methods and apparatus to identify media,0,G06F|G07F|H04L
+12205137,2025-01-21,Methods and apparatus to group advertisements by advertisement campaign,0,G06F|G06Q|G06V
+12203763,2025-01-21,Geographic route based communication method and system,0,G01C|G06N|G06Q
+12200602,2025-01-14,Methods and apparatus to redirect internet clients for media monitoring,0,H04L|H04W
+12200319,2025-01-14,Flexible commercial monitoring,0,G06Q|H04H|H04N
+12200303,2025-01-14,Methods and apparatus to assign viewers to media meter data,0,H04N
+12200299,2025-01-14,Methods and apparatus to collect distributed user information for media impressions,0,G06Q|H04L|H04N
+12200282,2025-01-14,Methods and systems to meter media content presented on a wireless communication device,0,H04H|H04L|H04N|H04W
+12198717,2025-01-14,Methods and apparatus to perform signature matching using noise cancellation models to achieve consensus,0,G06F|G10L|H04L|H04N
+12198077,2025-01-14,Methods and apparatus to determine a conditional probability based on audience member probability distributions for media audience measurement,0,G06N|H04H|H04N
+12197491,2025-01-14,Methods and apparatus to determine sources of media presentations,0,G06F|H04L|H04N
+12190341,2025-01-07,"Systems, methods, and articles of manufacture to measure online audiences",0,G06N|G06Q|H04L
+12190335,2025-01-07,Methods and apparatus to generate reference signature assets from meter signatures,0,G06F|G06Q
+12189684,2025-01-07,Methods and apparatus to perform audio watermarking and watermark detection and extraction,0,G06F|G11B|H04H
+12189660,2025-01-07,Methods and apparatus to determine a frequency distribution for data in a database,0,G06F
+12189586,2025-01-07,Deduplication across multiple different data sources to identify common devices,1,G06F|H04N
+12189583,2025-01-07,Methods and apparatus to estimate cardinality through ordered statistics,0,G06F
+12184932,2024-12-31,Methods and apparatus to detect user attentiveness to handheld computing devices,0,G06Q|H04H|H04N
+12184917,2024-12-31,Methods and apparatus to correlate census measurement data with panel data,0,H04N
+12184913,2024-12-31,Methods and apparatus to measure exposure to streaming media,0,G06Q|H04L|H04N
+12184397,2024-12-31,Methods and apparatus for optimizing station reference fingerprint loading using reference watermarks,0,H04H|H04N
+12177687,2024-12-24,Methods and apparatus to recognize metered devices connected to proprietary WiFi extenders,0,H04L|H04W
+12177535,2024-12-24,Methods and apparatus to generate a signature based on signature candidates,0,H04N
+12177517,2024-12-24,Methods and apparatus to measure exposure to streaming media,0,H04N
+12177516,2024-12-24,Methods and apparatus to determine media viewing information for hybrid content delivery,0,H04N
+12177105,2024-12-24,Methods and apparatus to predict end of streaming media using a prediction model,0,H04L|H04N
+12174719,2024-12-24,Verifying interconnection between media devices and meters using touch sensing integrated circuits,0,G06F|H04H
+12170818,2024-12-17,Methods and apparatus to calibrate audience measurement ratings based on return path data,0,H04H|H04N
+12167079,2024-12-10,Media monitoring using multiple types of signatures,0,G06F|H04H|H04N
+12167077,2024-12-10,Methods and apparatus to identify alternate language versions of media based on signature matching,0,H04N
+12166963,2024-12-10,Display device on/off detection methods and apparatus,0,H04H|H04N
+12165173,2024-12-10,Methods and systems to monitor a media device via a USB port,0,G01R|G06F|G06Q|H04N
+12165084,2024-12-10,Media device on/off detection using return path data,0,G06F|G06N|G06Q|H04N
+12160630,2024-12-03,Frequency band selection and processing techniques for media source detection,0,H04N
+12160626,2024-12-03,Methods and apparatus to automate the recording of media for signature creation,0,H04N
+12160624,2024-12-03,Reducing signature matching uncertainty in media monitoring systems,0,H04N
+12159296,2024-12-03,Methods and systems to monitor a media device via a USB port,0,G01R|G06F|G06Q|H04N
+12155896,2024-11-26,Methods and apparatus to automate receivability updates for media crediting,0,H04N
+12155546,2024-11-26,Monitoring streaming media content,0,H04L|H04N
+12154130,2024-11-26,Methods and apparatus to estimate unique audience sizes across multiple intersecting platforms,0,G06F|G06Q
+12153553,2024-11-26,Methods and apparatus to estimate audience sizes of media using deduplication based on binomial sketch data,0,G06F
+12149783,2024-11-19,Methods and apparatus to create candidate reference signatures from signature fragments,0,H04N
+12148007,2024-11-19,Methods and apparatus to determine impressions using distributed demographic information,0,G06F|G06Q|H04L
+12148001,2024-11-19,Methods and apparatus to estimate census level impressions and unique audience sizes across demographics,0,G06Q
+12147885,2024-11-19,Prospective media content generation using neural network modeling,0,G06F|G06N
+12147427,2024-11-19,Method and system for estimating the cardinality of information,0,G06F|G06Q
+12143670,2024-11-12,"Methods, systems, articles of manufacture and apparatus to remap household identification",0,G06F|G06Q|H04H|H04N
+12143669,2024-11-12,Methods and apparatus to generate reference signatures,0,H04H|H04N
+12143658,2024-11-12,Methods and apparatus to detect multiple wearable meter devices,0,G01P|H04N
+12142068,2024-11-12,Methods and apparatus to capture images,0,G06V|H04H|H04N
+12141837,2024-11-12,Methods and apparatus to extract information from uniform resource locators,0,G06F|G06Q
+12141824,2024-11-12,"Methods, apparatus, and articles of manufacture to determine unique audience size via clustered data",1,G06Q|H04N
+12141823,2024-11-12,Methods and apparatus to estimate census level impression counts and unique audience sizes across demographics,0,G06F|G06Q
+12137007,2024-11-05,Methods and apparatus to locate unknown media devices,0,H04L
+12135716,2024-11-05,Method and system for estimating the cardinality of information,0,G06F|G06N|G06Q
+12132958,2024-10-29,Methods and apparatus to count people in an audience,0,H04N
+12132957,2024-10-29,Methods and apparatus to identify streaming media sources,0,H04L|H04N
+12132565,2024-10-29,Estimating volume of switching among television programs for an audience measurement panel,0,H04H|H04N
+12126872,2024-10-22,Media presentation device with voice command feature,0,G06F|G10L|H04N
+12126863,2024-10-22,Methods and apparatus for measuring engagement during media exposure,0,H04N
+12126758,2024-10-22,Methods and apparatus to generate audience measurement data from population sample data having incomplete demographic classifications,0,G06Q|H04H|H04L|H04M|H04N
+12126697,2024-10-22,Methods and apparatus to identify main page views,0,H04L
+12120391,2024-10-15,Methods and apparatus to estimate audience sizes and durations of media accesses,0,H04H|H04N
+12120390,2024-10-15,Methods and apparatus to detect and rectify false set top box tuning data,0,H04N
+12120368,2024-10-15,Methods and apparatus to detect spillover,0,G10L|H04H|H04N
+12120004,2024-10-15,Methods and apparatus to determine main pages from network traffic,0,G06F|H04L
+12118575,2024-10-15,Methods and apparatus to apply household-level weights to household-member level audience measurement data,0,G06Q|H04N
+12118124,2024-10-15,"Methods, systems, articles of manufacture and apparatus to privatize consumer data",0,G06F|H04W
+12114116,2024-10-08,Gathering research data,0,G06F|G06Q|G10L|H04H|H04Q
+12114042,2024-10-08,Use of doppler shift as a basis to determine area of focus,0,G01S|G10L|H04N
+12114040,2024-10-08,Methods and apparatus to monitor streaming media content,0,G06F|G06Q|G10L|H04L|H04N
+12114028,2024-10-08,Methods and apparatus to determine media exposure of a panelist,0,G06Q|H04N
+12112763,2024-10-08,Methods and apparatus to identify signals using a low power watermark,0,G10L|H04N
+12108101,2024-10-01,Methods and apparatus to determine a duration of media presentation based on tuning session duration,0,H04N
+12108094,2024-10-01,"Use of steganographically-encoded time information as basis to establish a time offset, to facilitate taking content-related action",0,G06T|H04N
+12106325,2024-10-01,Methods and apparatus for audience and impression deduplication,0,G06Q
+12105688,2024-10-01,Methods and apparatus to estimate audience sizes of media using deduplication based on vector of counts sketch data,0,G06F|H04L|H04N
+12105178,2024-10-01,Methods and apparatus for multimodal audience detection and identification,0,G01S|H04B|H04N|H04W
+12101530,2024-09-24,Methods and apparatus to identify user presence to a meter,0,H04N
+12101520,2024-09-24,Use of steganographically-encoded data as basis to disambiguate fingerprint-based channel-multi-match,0,H04N
+12101136,2024-09-24,Methods and apparatus to monitor a media presentation,0,G06F|G11B|H04B|H04L|H04R|H04W
+12100016,2024-09-24,Methods and apparatus to generate audience metrics using third-party privacy-protected cloud environments,0,G06F|G06N|G06Q|H04L
+12096322,2024-09-17,Methods and apparatus to credit usage of mobile devices,0,H04W
+12096074,2024-09-17,"Apparatus, systems, and methods for user presence detection for audience monitoring",0,G06V|G10L|H04N
+12096061,2024-09-17,Methods and apparatus to generate audience metrics for connected television,0,G06Q|H04N
+12096060,2024-09-17,Methods and apparatus to generate audience metrics,0,H04N
+12096058,2024-09-17,Methods and apparatus to determine a unique audience for internet-based media,0,G06F|H04N
+12096049,2024-09-17,Methods and apparatus for identification of local commercial insertion opportunities,0,G10L|H04H|H04N
+12095878,2024-09-17,Methods and apparatus to monitor media presentations,0,G06F|G06Q|H04L|H04W
+12095877,2024-09-17,Methods and apparatus to improve usage crediting in mobile devices,0,H04L
+12095838,2024-09-17,Methods and apparatus to accurately credit streaming sessions,0,G06F|G06N|H04L
+12093978,2024-09-17,Methods and apparatus to collect and process browsing history,0,G06F|G06Q|H04L
+12093973,2024-09-17,Methods and apparatus to determine ratings information for online media presentations,0,G06Q
+12093968,2024-09-17,"Methods, systems and apparatus to estimate census-level total impression durations and audience size across demographics",1,G06F|G06Q
+12089059,2024-09-10,Methods and apparatus to recognize metered devices connected to proprietary WiFi extenders,0,H04L|H04W
+12088882,2024-09-10,"Systems, apparatus, and related methods to estimate audience exposure based on engagement level",0,H04N
+12088877,2024-09-10,Methods and apparatus for loading and roll-off of reference media assets,0,H04N
+12088876,2024-09-10,Methods and apparatus to determine synthetic respondent level data using constrained Markov chains,0,H04H|H04N
+12088875,2024-09-10,Signature retrieval and matching for media monitoring,0,G06V|H04H|H04N
+12088873,2024-09-10,Methods and apparatus to identify media based on watermarks across different audio streams and/or different watermarking techniques,0,G10L|H04N
+12088865,2024-09-10,Methods and apparatus for affiliate interrupt detection,0,H04N
+12088679,2024-09-10,Methods and apparatus to correlate a demographic segment with a fixed device,0,H04L
+12081832,2024-09-03,"Methods, apparatus and articles of manufacture to estimate local market audiences of media content",0,H04H|H04N
+12081815,2024-09-03,Methods and apparatus to monitor on-demand media,0,G06F|H04H|H04N
+12081631,2024-09-03,Methods and apparatus to monitor online activity,0,H04L
+12079840,2024-09-03,Methods and apparatus for managing models for classification of online users,0,G06F|G06N|G06Q
+12075117,2024-08-27,Methods and apparatus of media device detection for minimally invasive media meters,0,H04H|H04N
+12073485,2024-08-27,Power efficient detection of watermarks in media signals,0,G06T|H04N
+12073434,2024-08-27,Methods and apparatus for wireless communication with an audience measurement device,0,G06Q
+12073427,2024-08-27,Methods and apparatus to correct misattributions of media impressions,0,G06Q
+12069534,2024-08-20,Methods and apparatus to associate geographic locations with user devices,0,G06Q|H04W
+12069337,2024-08-20,"Methods, systems, articles of manufacture, and apparatus to estimate audience population",0,G06Q|H04N
+12069336,2024-08-20,Methods and apparatus to determine audience engagement,0,H04N
+12063463,2024-08-13,Audience monitoring systems and related methods,0,H04Q|H04R|H04W
+12063402,2024-08-13,Methods and apparatus to correlate census measurement data with panel data,0,H04N
+12058422,2024-08-06,Scalable architectures for reference signature matching and updating,0,G06F|G06V|H04N
+12058416,2024-08-06,Methods and apparatus to impute media consumption behavior,0,G06N|G06Q|H04N
+12058412,2024-08-06,Methods and apparatus to credit media segments shared among multiple media assets,0,H04N
+12052446,2024-07-30,Methods and apparatus for monitoring the insertion of local media into a program stream,0,G11B|H04H|H04N
+12047642,2024-07-23,Methods and apparatus to identify media presentations by analyzing network traffic,0,G06Q|H04H|H04L|H04N
+12045845,2024-07-23,Methods and apparatus to compensate for server-generated errors in database proprietor impression data due to misattribution and/or non-coverage,0,G06Q|H04W
+12041319,2024-07-16,Apparatus and methods to associate different watermarks detected in media,0,G06F|H04H|H04N
+12041304,2024-07-16,Methods and apparatus for co-viewing adjustment,0,G06Q|H04N
+12041301,2024-07-16,Methods and apparatus to optimize reference signature matching using watermark matching,0,H04N
+12041283,2024-07-16,Methods and apparatus to identify media for ahead of time watermark encoding,0,G06F|H04N
+12041258,2024-07-16,Apparatus and methods for watermarking using starting phase modulation,0,G10L|H04L|H04N
+12041111,2024-07-16,Methods and apparatus to monitor streaming media,0,H04L|H04N
+12039983,2024-07-16,Systems and methods to improve timestamp transition resolution,0,G10L|H04N
+12039557,2024-07-16,Methods and apparatus to monitor media presentations,0,G06F|G06Q|H04N
+12038898,2024-07-16,Methods and apparatus to estimate cardinality of users represented across multiple bloom filter arrays,0,G06F
+12035002,2024-07-09,Apparatus and methods for determining the demographics of users,0,H04N
+12034817,2024-07-09,Methods and apparatus for user identification via community detection,0,G06F|G06Q|H04L
+12033642,2024-07-09,Methods and apparatus for supplementing partially readable and/or inaccurate codes in media,0,G10L|H04H|H04N
+12032535,2024-07-09,Methods and apparatus to estimate audience sizes of media using deduplication based on multiple vectors of counts,0,G06F|G06Q|H04N
+12028578,2024-07-02,Methods and apparatus to determine demographic classifications for census level impression counts and unique audience sizes,0,G06Q|H04N
+12028568,2024-07-02,Methods and apparatus to identify media application sessions,0,H04L|H04N
+12026315,2024-07-02,Methods and apparatus to monitor haptic vibrations of touchscreens,0,G06F
+12022167,2024-06-25,Methods and apparatus for determining audience metrics across different media platforms,0,H04N
+12022155,2024-06-25,Methods and apparatus to deduplicate audience estimates from multiple computer sources,0,G06F|G06Q|H04H|H04N
+12020139,2024-06-25,Probabilistic modeling for anonymized data integration and bayesian survey measurement of sparse and weakly-labeled datasets,0,G06N|G06Q|H04N
+12015826,2024-06-18,Methods and apparatus to correct errors in audience measurements for media accessed using over-the-top devices,0,G06Q|H04N
+12015681,2024-06-18,Methods and apparatus to determine media impressions using distributed demographic information,0,G06F|G06Q|H04L
+12013888,2024-06-18,Media content discovery and character organization techniques,0,G06F
+12010384,2024-06-11,Methods and apparatus to monitor media presentations,0,G06Q|H04N
+12010380,2024-06-11,Methods and apparatus to measure exposure to streaming media,0,G06V|H04H|H04N
+12010191,2024-06-11,Methods and apparatus to share online media impressions data,3,G06Q|H04L
+12008798,2024-06-11,Automated facial recognition library construction with privacy protection,0,G06F|G06V
+12008587,2024-06-11,Methods and apparatus to generate audience metrics using matrix analysis,0,G06F|G06Q|G06V
+12008142,2024-06-11,Methods and apparatus to collect distributed user information for media impressions and search terms,0,G06F|G06Q|H04L|H04N|H04W
+12004008,2024-06-04,Methods and apparatus to determine virtual WiFi data rate,0,H04L|H04W
+12003799,2024-06-04,Methods and apparatus to correlate census measurement data with panel data,0,H04N
+11997367,2024-05-28,Under-addressable advertisement measurement,0,H04N
+11997354,2024-05-28,Methods and apparatus to identify and triage digital ad ratings data quality issues,0,G06Q|H04N
+11997351,2024-05-28,Mobile device attention detection,1,H04N|H04W
+11997332,2024-05-28,Methods and apparatus to associate audience members with over-the-top device media impressions,0,G06F|G06Q|H04N
+11991404,2024-05-21,Synthetic total audience ratings,0,G06Q|H04N
+11991403,2024-05-21,"Dynamic watermarking of media based on transport-stream metadata, to facilitate action by downstream entity",0,H04N
+11989746,2024-05-21,Methods and apparatus to project ratings for future broadcasts of media,1,G06Q|H04N
+11989213,2024-05-21,Character based media analytics,0,G06F
+11985384,2024-05-14,Methods and apparatus to detect people,0,G06V|H04H|H04N
+11985382,2024-05-14,Methods and apparatus to validate reference media assets in media identification system,0,H04N
+11985368,2024-05-14,Synthetic total audience ratings,0,G06Q|H04N
+11985203,2024-05-14,"Systems, methods, and apparatus to identify media devices",0,H04H|H04L
+11983730,2024-05-14,Methods and apparatus to correct for deterioration of a demographic model to associate demographic information with media impression information,1,G06F|G06Q|H04N
+11978275,2024-05-07,Methods and apparatus to monitor environments,0,G01B|G06F|G06T|G06V|H04H|H04N
+11978071,2024-05-07,Methods and apparatus to determine reach with time dependent weights,0,G06Q
+11977575,2024-05-07,Media content discovery and character organization techniques,0,G06F
+11973816,2024-04-30,Using messaging associated with adaptive bitrate streaming to perform media monitoring for mobile platforms,0,G06Q|H04L|H04N
+11973576,2024-04-30,"Methods, systems and apparatus to determine panel attrition",0,H04H|H04N
+11971922,2024-04-30,Methods and apparatus for estimating total unique audiences,0,G06F|G06Q|H04L
+11968553,2024-04-23,Methods and apparatus to monitor WI-FI media streaming using an alternate access point,0,H04N|H04W
+11968423,2024-04-23,Methods and apparatus to determine a number of people in an area,0,H04L|H04N|H04W
+11968415,2024-04-23,"Methods, apparatus, and articles of manufacture to determine penetration and churn of streaming services",0,G06Q|H04N
+11968413,2024-04-23,Methods and apparatus to measure exposure to streaming media,0,G06Q|H04L|H04N
+11966404,2024-04-23,Media names matching and normalization,0,G06F|H04N
+11962851,2024-04-16,Methods and apparatus to determine an audience composition based on thermal imaging and facial recognition,0,G06V|H04H|H04N
+11962850,2024-04-16,Methods and apparatus to generate media exposure maps of media environments,0,H04N
+11962848,2024-04-16,Methods and apparatus to identify an episode number based on fingerprint and matched viewing information,0,G06Q|G07F|H04N
+11962824,2024-04-16,Methods and apparatus to structure processor systems to determine total audience ratings,0,G06F|H04N
+11961527,2024-04-16,Methods and apparatus to perform audio watermarking and watermark detection and extraction,0,G10L|H04H|H04N
+11961117,2024-04-16,Methods and systems to evaluate and determine degree of pretense in online advertisement,0,G06Q
+11956502,2024-04-09,Methods and apparatus to determine engagement levels of audience members,0,H04N
+11956486,2024-04-09,Methods and apparatus for crediting a media presentation device,0,H04H|H04N
+11949951,2024-04-02,Methods and apparatus to classify all other tuning data,0,G06F|G06Q|H04H|H04N
+11949944,2024-04-02,"Methods, systems, articles of manufacture, and apparatus to identify media using screen capture",0,G06F|G06Q|H04N
+11949935,2024-04-02,Methods and apparatus for network-based monitoring and serving of media to in-vehicle occupants,1,G06N|H04N|H04W
+11949932,2024-04-02,Synthetic total audience ratings,0,G06Q|H04N
+11948588,2024-04-02,"Methods, apparatus and articles of manufacture to provide secondary content in association with primary broadcast media content",0,G06Q|G10L|H04H|H04N
+11947636,2024-04-02,Systems and methods for payload encoding and decoding,0,G06F|G10L|H04N
+11942099,2024-03-26,Audio watermarking for people monitoring,0,G06F|G10L|H04H
+11941646,2024-03-26,Methods and apparatus to estimate population reach from marginals,0,G06Q|H04N
+11936945,2024-03-19,"Apparatus, computer-readable medium, and method for channel change detection-based short content identification",0,H04N
+11936931,2024-03-19,Methods and apparatus to perform media device asset qualification,0,G06F|H04N
+11935081,2024-03-19,Methods and apparatus to determine the probability of presence,0,G06Q
+11934399,2024-03-19,Method and system for estimating the cardinality of information,0,G06F|G06Q
+11930251,2024-03-12,Accelerated television advertisement identification,0,G06Q|H04H|H04N
+11928707,2024-03-12,Systems and methods to pre-scale media content to facilitate audience measurement,0,G06F|G06Q|H04N
+11924509,2024-03-05,Methods and apparatus to determine engagement levels of audience members,0,H04N
+11924508,2024-03-05,Methods and apparatus to measure audience composition and recruit audience measurement panelists,0,G06K|G06Q|H04N
+11924488,2024-03-05,Methods and apparatus to estimate population reach from marginal ratings with missing information,0,G06F|G06Q|H04N
+11924487,2024-03-05,Synthetic total audience ratings,0,G06Q|H04N
+11924486,2024-03-05,"Portable multi-purpose audience measurement systems, apparatus and methods",0,G06Q|H04H|H04N|Y10S
+11917270,2024-02-27,Methods and apparatus to monitor media,0,H04H|H04N
+11917267,2024-02-27,Methods and apparatus to use station identification to enable confirmation of exposure to live media,0,H04N
+11916769,2024-02-27,Onboarding of return path data providers for audience measurement,0,G06N|H04H|H04L|H04N
+11910069,2024-02-20,Flexible commercial monitoring,0,G06Q|H04H|H04N
+11910046,2024-02-20,Methods and apparatus to verify and/or correct media lineup information,0,G06F|H04H|H04N
+11907287,2024-02-20,Source classification using HDMI audio metadata,0,G06F|G10L|G11B|H03M|H04H|H04N
+11902632,2024-02-13,Timely addition of human-perceptible audio to mask an audio watermark,0,H04N
+11902618,2024-02-13,Methods and apparatus to identify and credit media using ratios of media characteristics,0,H04H|H04N
+11902399,2024-02-13,Methods and apparatus to measure exposure to streaming media,0,H04L
+11895363,2024-02-06,Methods and apparatus to identify user presence to a meter,0,H04N
+11895203,2024-02-06,Methods and apparatus to collect media metrics on computing devices,1,G06F|H04L
+11894915,2024-02-06,Methods and apparatus to credit media based on presentation rate,0,H04H|H04N
+11893782,2024-02-06,Recurrent deep neural network system for detecting overlays in images,1,G06N|G06V
+11889151,2024-01-30,Methods and apparatus to model on/off states of media presentation devices based on return path data,0,G06Q|H04H|H04N
+11889136,2024-01-30,Assigning synthetic respondents to geographic locations for audience measurement,0,H04N
+11887133,2024-01-30,Methods and apparatus to generate electronic mobile measurement census data,0,G06Q
+11887132,2024-01-30,Processor systems to estimate audience sizes and impression counts for different frequency intervals,0,G06F|G06Q|H04L|H04N
+11886483,2024-01-30,Media content discovery and character organization techniques,0,G06F
+11882333,2024-01-23,Methods and apparatus for metering portable media players,0,G06F|G11B|H04H|H04L|H04N|H04R
+11880780,2024-01-23,Methods and apparatus to determine a conditional probability based on audience member probability distributions for media audience measurement,0,G06N|H04H|H04N
+11877039,2024-01-16,Methods and apparatus to extend a timestamp range supported by a watermark,0,H04N
+11877028,2024-01-16,Methods and apparatus to identify media presentations by analyzing network traffic,0,G06Q|H04H|H04L|H04N
+11877027,2024-01-16,Methods and apparatus to determine a number of people in an area,0,H04L|H04N|H04W
+11871090,2024-01-09,Client identifier watermarks in media signals,0,G06F|G10L|H04N
+11871058,2024-01-09,Methods and apparatus to determine a duration of media presentation based on tuning session,1,H04N
+11870912,2024-01-09,Methods and apparatus to collect distributed user information for media impressions and search terms,0,G06F|G06Q|H04L|H04W
+11869024,2024-01-09,Methods and apparatus to analyze and adjust demographic information,1,G06Q
+11863831,2024-01-02,Remote control devices to interface with audience measurement meters,0,H04N
+11863821,2024-01-02,Media monitoring using multiple types of signatures,0,G06F|H04H|H04N
+11863820,2024-01-02,Media monitoring using multiple types of signatures,0,G06F|H04H|H04N
+11863817,2024-01-02,Use of steganographically-encoded time information as basis to control implementation of dynamic content modification,0,G06T|H04N
+11863816,2024-01-02,"Methods, articles of manufacture, and apparatus to edit tuning data collected via automated content recognition",0,H04N
+11863606,2024-01-02,Using messaging associated with adaptive bitrate streaming to perform media monitoring for mobile platforms,0,G06Q|H04L|H04N
+11863294,2024-01-02,Methods and apparatus for increasing the robustness of media signatures,0,H04H|H04N
+11861656,2024-01-02,Methods and systems to monitor a media device via a USB port,0,G01R|G06F|G06Q|H04N
+11860704,2024-01-02,Methods and apparatus to determine user presence,0,G06F|H04N
+11856250,2023-12-26,Methods and apparatus to determine a duration of media presentation based on tuning session duration,1,H04N
+11854556,2023-12-26,Methods and apparatus for supplementing partially readable and/or inaccurate codes in media,0,G10L|H04H|H04N
+11854049,2023-12-26,Methods and apparatus to measure media using media object characteristics,0,G06Q
+11854030,2023-12-26,Methods and apparatus to estimate cardinality across multiple datasets represented using bloom filter arrays,0,G06F|G06Q
+11849185,2023-12-19,Method and system for triggering use of a video-on-demand service by a media presentation device,0,H04N
+11849001,2023-12-19,"Systems, methods, and apparatus to monitor mobile internet activity",0,G06Q|H04L|H04M|H04W
+11847119,2023-12-19,Method and system for estimating the cardinality of information,0,G06F|G06N|G06Q
+11844043,2023-12-12,Near real time out of home audience measurement,0,G06Q|H04W|Y04S
+11843825,2023-12-12,"Systems, apparatus, and methods to improve watermark detection in acoustic environments",1,G06F|G10L|H04N
+11843576,2023-12-12,Methods and apparatus to perform network-based monitoring of media accesses,0,H04L
+11842422,2023-12-12,Methods and apparatus to extend a timestamp range supported by a watermark without breaking backwards compatibility,0,G06F|G06T|H04N
+11842362,2023-12-12,Multi-market calibration of convenience panel data to reduce behavioral biases,0,G06N|G06Q
+11842356,2023-12-12,"Methods, systems and apparatus to improve the efficiency of calculating a customer retention rate",0,G06Q
+11841955,2023-12-12,Methods and apparatus to encrypt media for identification,0,G06F
+11838585,2023-12-05,Detecting an operational state of a media device,0,H04N
+11838584,2023-12-05,Methods and apparatus to monitor digital media,0,H04N
+11838571,2023-12-05,Apparatus and methods to estimate media audience consistency,0,G06F|H04N
+11837208,2023-12-05,Audio processing techniques for semantic audio recognition and report generation,0,G06F|G10H|G10L
+11836750,2023-12-05,"Methods, systems, articles of manufacture, and apparatus to estimate audience population",1,G06Q|H04H|H04N
+11832036,2023-11-28,Gathering research data,0,G06F|G06Q|G10L|H04H|H04Q
+11831950,2023-11-28,Methods and apparatus to measure exposure to streaming media,0,H04N
+11831949,2023-11-28,Methods and apparatus to monitor streaming media content,0,G06F|G06Q|G10L|H04L|H04N
+11831863,2023-11-28,Display device on/off detection methods and apparatus,0,H04H|H04N
+11830040,2023-11-28,Methods and apparatus to expand panelist enrollment,0,G06Q|H04L|H04N|H04W
+11830028,2023-11-28,Methods and apparatus to collect distributed user information for media impressions,0,G06Q
+11829901,2023-11-28,Methods and apparatus to identify publisher advertising behavior,0,G06Q
+11829272,2023-11-28,Verifying interconnection between media devices and meters using touch sensing integrated circuits,0,G06F|H04H
+11828769,2023-11-28,Multiple meter detection and processing using motion data,1,G01P|G06F|G06Q
+11825401,2023-11-21,Systems and methods for wirelessly modifying detection characteristics of portable devices,0,G06Q|H04M|H04N|H04W
+11825167,2023-11-21,Viewer authentication,0,H04H|H04L|H04N
+11825141,2023-11-21,Methods and apparatus to estimate population reach from different marginal rating unions,0,H04N
+11825015,2023-11-21,Methods and apparatus to generate audience measurement data from population sample data having incomplete demographic classifications,0,G06Q|H04H|H04L|H04M|H04N
+11823225,2023-11-21,Methods and apparatus to incorporate saturation effects into marketing mix models,0,G06Q
+11818444,2023-11-14,Methods and apparatus to synthesize reference media signatures,0,H04N
+11818442,2023-11-14,Methods and apparatus to extend a timestamp range supported by a watermark,0,H04N
+11818429,2023-11-14,Methods and apparatus to estimate deduplicated total audiences in cross-platform media campaigns,0,G06F|G06Q|H04H|H04N
+11818416,2023-11-14,Methods and apparatus for monitoring an audience of media based on thermal imaging,0,G06V|H04H|H04N
+11816698,2023-11-14,Methods and apparatus for audience and impression deduplication,0,G06Q
+11816685,2023-11-14,Methods and apparatus to generate consumer data,0,G06Q
+11812363,2023-11-07,Methods and apparatus to redirect internet clients for media monitoring,1,H04L|H04W
+11812117,2023-11-07,Reconciliation of commercial measurement ratings,0,H04N
+11812104,2023-11-07,Methods and apparatus to detect a presence status,0,H04L|H04N
+11812101,2023-11-07,Addressable measurement framework,0,G06Q|H04H|H04N
+11809489,2023-11-07,Methods and apparatus to perform audio watermarking and watermark detection and extraction,0,G06F|G11B|H04H
+11805040,2023-10-31,Methods and apparatus to remove information from records,0,H04L|H04N|H04W
+11800132,2023-10-24,Methods and apparatus for delivering extended payloads with composite watermarks,0,H04N
+11798030,2023-10-24,Methods and apparatus for wireless communication with an audience measurement device,0,G06Q
+11798028,2023-10-24,Systems and methods for monitoring malicious software engaging in online advertising fraud or other form of deceit,0,G06F|G06Q|H04L
+11798011,2023-10-24,Methods and apparatus to identify users associated with device application usage,0,G06Q|H04L
+11792477,2023-10-17,Methods and apparatus to detect user attentiveness to handheld computing devices,0,G06Q|H04H|H04N
+11792447,2023-10-17,Watermarking with phase shifting,0,G10L|H04N
+11792016,2023-10-17,Methods and apparatus to collect distributed user information for media impressions and search terms,0,G06F|G06Q|H04L|H04W
+11790397,2023-10-17,Methods and apparatus to perform computer-based monitoring of audiences of network-based media by using information theory to estimate intermediate level unions,0,G06Q
+11785316,2023-10-10,Methods and apparatus to generate a signature based on signature candidates,0,H04N
+11785301,2023-10-10,Methods and apparatus to assign viewers to media meter data,0,H04N
+11785293,2023-10-10,Methods and apparatus to collect distributed user information for media impressions,0,G06Q|H04L|H04N
+11785107,2023-10-10,Measurement of internet media consumption,0,H04L
+11785105,2023-10-10,Methods and apparatus to facilitate meter to meter matching for media identification,0,H04L
+11784899,2023-10-10,Methods and apparatus to credit streaming activity using domain level bandwidth information,0,H04L
+11784898,2023-10-10,Monitoring streaming media content,1,H04L|H04N
+11784737,2023-10-10,Methods and apparatus for optimizing station reference fingerprint loading using reference watermarks,0,H04H|H04N
+11783356,2023-10-10,Methods and apparatus for associating media devices with a demographic composition of a geographic area,0,G06F|G06Q|H04L|H04M|H04W
+11783354,2023-10-10,"Methods and apparatus to estimate census level audience sizes, impression counts, and duration data",0,G06F|G06Q
+11783353,2023-10-10,Methods and apparatus to generate audience metrics using third-party privacy-protected cloud environments,0,G06F|G06N|G06Q|H04L
+11783085,2023-10-10,"Methods, systems, articles of manufacture and apparatus to privatize consumer data",0,G06F|H04W
+11778284,2023-10-03,Methods and apparatus to use station identification to enable confirmation of exposure to live media,0,H04N
+11778268,2023-10-03,Methods and apparatus to verify presentation of media content,0,G06F|H04H|H04N
+11778255,2023-10-03,Methods and apparatus to determine probabilistic media viewing metrics,0,H04N
+11778243,2023-10-03,Methods and apparatus of identification of streaming activity and source for cached media on streaming devices,0,H04L|H04N
+11769174,2023-09-26,"Methods, systems and apparatus to generate market segmentation data with anonymous location data",0,G06Q|H04W
+11765500,2023-09-19,Methods and apparatus for wear noise audio signature suppression,0,A61B|G01P|G06F|G10K|G10L|H04R
+11765430,2023-09-19,Methods and apparatus to calibrate return path data for audience measurement,0,H04N
+11765412,2023-09-19,Signature matching with meter data aggregation for media identification,3,H04H|H04N
+11765411,2023-09-19,Methods and systems to meter media content presented on a wireless communication device,0,H04H|H04L|H04N|H04W
+11765061,2023-09-19,Methods and apparatus to predict end of streaming media using a prediction model,0,H04L|H04N
+11763591,2023-09-19,"Methods and apparatus to determine an audience composition based on voice recognition, thermal imaging, and facial recognition",0,G06Q|G06V|G10L|H04H|H04N
+11758229,2023-09-12,Methods and apparatus to determine synthetic respondent level data,0,G06Q|H04N
+11758227,2023-09-12,Methods and apparatus to categorize media impressions by age,0,H04N
+11758226,2023-09-12,Methods and apparatus to automate receivability updates for media crediting,1,H04N
+11758223,2023-09-12,"Apparatus, systems, and methods for user presence detection for audience monitoring",0,G06V|G10L|H04N
+11758208,2023-09-12,Methods and apparatus to determine media exposure of a panelist,0,G06Q|H04N
+11757749,2023-09-12,Fusing online media monitoring data with secondary online data feeds to generate ratings data for online media exposure,1,G06F|G06Q|H04L
+11756074,2023-09-12,Methods and systems to monitor a media device via a USB port,0,G01R|G06F|G06Q|H04N
+11756069,2023-09-12,Methods and apparatus to group advertisements by advertisement campaign,0,G06F|G06Q|G06V
+11755642,2023-09-12,Detecting media watermarks in magnetic field data,0,G06F|G10L|G11B
+11755545,2023-09-12,Methods and apparatus to estimate audience measurement metrics based on users represented in bloom filter arrays,1,G06F|G06N|G06Q|H04L|H04N
+11750878,2023-09-05,Methods and apparatus to identify alternate language versions of media based on signature matching,0,H04N
+11750853,2023-09-05,Watermarking with phase shifting,1,G10L|H04N
+11750769,2023-09-05,Methods and apparatus to perform an automated gain control protocol with an amplifier based on historical data corresponding to contextual data,0,H03G|H04B|H04H|H04L|H04N|H04W
+11741485,2023-08-29,Methods and apparatus to estimate de-duplicated unknown total audience sizes based on partial information of known audiences,0,G06F|G06Q
+11741431,2023-08-29,Methods and systems for compliance confirmation and incentives,0,A61B|G06Q|G16H
+11741068,2023-08-29,Methods and apparatus to estimate cardinality of users represented across multiple bloom filter arrays,1,G06F
+11736765,2023-08-22,Methods and apparatus to credit media segments shared among multiple media assets,0,H04N
+11736750,2023-08-22,Methods and apparatus to generate reference signatures from streaming media,0,H04N
+11736746,2023-08-22,"Use of steganographically-encoded time information as basis to establish a time offset, to facilitate taking content-related action",0,G06T|H04N
+11736681,2023-08-22,Methods and apparatus for automatic TV on/off detection,0,G01R|G09G|H04H|H04N
+11736583,2023-08-22,Methods and apparatus to monitor media presentations,0,G06F|G06Q|H04L|H04W
+11734710,2023-08-22,Methods and apparatus to identify a type of media presented by a media player,0,G06Q
+11729447,2023-08-15,Methods and apparatus to determine a unique audience for internet-based media,0,G06F|H04N
+11729287,2023-08-15,Methods and apparatus to determine media impressions using distributed demographic information,0,G06F|G06Q|H04L
+11727435,2023-08-15,Methods and apparatus to detect advertisements embedded in online media,0,G06Q
+11727432,2023-08-15,Methods and apparatus to correct audience measurement data,0,G06Q
+11727423,2023-08-15,Methods and apparatus to collect impressions associated with over-the-top media devices,0,G06Q|H04L
+11727416,2023-08-15,Methods and apparatus to estimate large scale audience deduplication,0,G06F|G06Q|H04H|H04N
+11727292,2023-08-15,Media device on/off detection using return path data,0,G06F|G06N|G06Q|H04N
+11727148,2023-08-15,Methods and apparatus to assign demographic information to panelists,0,G06F|G06Q
+11727044,2023-08-15,Methods and apparatus to determine tags for media using multiple media features,0,G06F
+11722709,2023-08-08,Methods and apparatus for identification of local commercial insertion opportunities,1,G10L|H04H|H04N
+11720990,2023-08-08,Power efficient detection of watermarks in media signals,0,G06T|H04N
+11716511,2023-08-01,Methods and apparatus to calibrate audience measurement ratings based on return path data,0,H04H|H04N
+11716510,2023-08-01,Methods and apparatus to generate reference signatures,0,H04H|H04N
+11716509,2023-08-01,Methods and apparatus to determine synthetic respondent level data using constrained Markov chains,0,H04H|H04N
+11716507,2023-08-01,Methods and apparatus of media device detection for minimally invasive media meters,2,H04H|H04N
+11716502,2023-08-01,Methods and apparatus to identify media based on watermarks across different audio streams and/or different watermarking techniques,0,G10L|H04N
+11716495,2023-08-01,Methods and apparatus to detect spillover,0,G10L|H04H|H04N
+11716362,2023-08-01,Methods and apparatus to de-authenticate and reroute client sessions for media monitoring,0,H04L|Y02D
+11715488,2023-08-01,Methods and apparatus to dynamically generate audio signatures adaptive to circumstances associated with media being monitored,0,G10L|H04H|H04N
+11715171,2023-08-01,Detecting watermark modifications,0,G06T|G10L
+11714847,2023-08-01,Methods and apparatus to detect unconfined view media,0,G06F|G06T
+11711638,2023-07-25,Audience monitoring systems and related methods,0,H04Q|H04R|H04W
+11711576,2023-07-25,Methods and apparatus to count people in an audience,2,H04N
+11711575,2023-07-25,Methods and apparatus to correct misattributions of media impressions,0,G06F|G06Q|H04H|H04N
+11709879,2023-07-25,Methods and apparatus to determine sources of media presentations,1,G06F|H04L|H04N
+11706648,2023-07-18,Methods and apparatus to monitor WI-FI media streaming using an alternate access point,0,H04N|H04W
+11706490,2023-07-18,Methods and apparatus to correct errors in audience measurements for media accessed using over-the-top devices,0,G06Q|H04N
+11706305,2023-07-18,Methods and apparatus for user identification via community detection,1,G06F|G06Q|H04L
+11704695,2023-07-18,Methods and apparatus for wireless communication with an audience measurement device,0,G06Q
+11700421,2023-07-11,Methods and apparatus to determine engagement levels of audience members,0,H04N
+11700405,2023-07-11,Methods and apparatus to estimate demographics of a household,0,H04N
+11695987,2023-07-04,Frequency band selection and processing techniques for media source detection,0,H04N
+11693886,2023-07-04,"Methods, systems, articles of manufacture, and apparatus to map client specifications with standardized characteristics",0,G06F|G06Q
+11689769,2023-06-27,Methods and apparatus to measure exposure to streaming media,0,H04N
+11689767,2023-06-27,Methods and apparatus to estimate population reach from different marginal rating unions,2,G06Q|H04N
+11689765,2023-06-27,Methods and apparatus for obfuscated audience identification,0,G06V|H04N
+11689764,2023-06-27,Methods and apparatus for loading and roll-off of reference media assets,0,H04N
+11689753,2023-06-27,Use of steganographically-encoded data as basis to disambiguate fingerprint-based channel-multi-match,0,H04N
+11687967,2023-06-27,Methods and apparatus to estimate the second frequency moment for computer-monitored media accesses,0,G06F|G06Q|H04L
+11687958,2023-06-27,Methods and apparatus to monitor media presentations,0,G06F|G06Q|H04N
+11687953,2023-06-27,Methods and apparatus to apply household-level weights to household-member level audience measurement data,0,G06Q|H04N
+11683562,2023-06-20,Invertible metering apparatus and related methods,0,H04N
+11683561,2023-06-20,Methods and apparatus to create candidate reference signatures from signature fragments,1,H04N
+11683558,2023-06-20,Methods and apparatus to determine the speed-up of media programs using speech recognition,0,G06F|G10L|H04N
+11683193,2023-06-20,Methods and apparatus to locate unknown media devices,1,H04L
+11683070,2023-06-20,Methods and apparatus to monitor a media presentation,1,G06F|G11B|H04B|H04L|H04R|H04W
+11682048,2023-06-20,Methods and apparatus to determine impressions using distributed demographic information,0,G06F|G06Q|H04L
+11682032,2023-06-20,Methods and apparatus to estimate population reach from different marginal ratings and/or unions of marginal ratings based on impression data,0,G06F|G06Q|H04L
+11678013,2023-06-13,Methods and apparatus to determine a state of a media presentation device,0,G10L|H04H|H04N
+11677997,2023-06-13,Methods and systems to meter media content presented on a wireless communication device,0,H04H|H04L|H04N|H04W
+11677996,2023-06-13,Methods and apparatus for affiliate interrupt detection,0,H04N
+11677482,2023-06-13,Methods and apparatus to facilitate local time-based digital audio measurement,0,H04H|H04L
+11676160,2023-06-13,Methods and apparatus to estimate cardinality of users represented in arbitrarily distributed bloom filters,2,G06N|G06Q
+11676073,2023-06-13,Methods and apparatus to analyze performance of watermark encoding devices,0,G06F|G06N
+11676034,2023-06-13,Initialization of classification layers in neural networks,1,G06F|G06N|G06V
+11671679,2023-06-06,Under-addressable advertisement measurement,0,H04N
+11671663,2023-06-06,"Methods, systems, articles of manufacture and apparatus to remap household identification",1,G06F|G06Q|H04H|H04N
+11671660,2023-06-06,Clustering television programs based on viewing behavior,0,G06Q|H04N
+11671511,2023-06-06,Methods and apparatus to improve usage crediting in mobile devices,2,H04L
+11671193,2023-06-06,Distributed audience measurement systems and methods,0,G06Q|G10L|H04H|Y02D
+11669849,2023-06-06,Methods and apparatus to determine ratings information for online media presentations,0,G06Q
+11669761,2023-06-06,Determining metrics characterizing numbers of unique members of media audiences,0,G06F|G06N|H04H|H04L|H04N
+11668808,2023-06-06,Methods and apparatus for multimodal audience detection and identification,1,G01S|H04B|H04N|H04W
+11665288,2023-05-30,Methods and apparatus to identify media using hybrid hash keys,3,H04N
+11659242,2023-05-23,"Methods, systems, articles of manufacture, and apparatus to estimate audience population",2,G06Q|H04N
+11659241,2023-05-23,"Methods, systems, articles of manufacture, and apparatus for adaptive metering",0,G06N|H04M|H04N|H04W
+11657413,2023-05-23,Methods and apparatus to project ratings for future broadcasts of media,2,G06Q|H04N
+11653062,2023-05-16,Methods and apparatus to determine audio source impact on an audience of media,0,G06F|G10L|H04H|H04N
+11653061,2023-05-16,Handling exceptions reported by media device meters,0,G01R|G09G|H04H|H04L|H04N
+11653044,2023-05-16,"Dynamic watermarking of media based on transport-stream metadata, to facilitate action by downstream entity",1,H04N
+11652901,2023-05-16,"Systems, methods, and apparatus to identify media devices",3,H04H|H04L
+11652899,2023-05-16,"Systems, methods, and apparatus to identify media devices",3,H04H|H04L
+11652859,2023-05-16,Methods and apparatus to identify streaming sessions,0,H04L|H04N
+11651776,2023-05-16,"Methods, apparatus and articles of manufacture to identify sources of network streaming services",1,G10L|H04H|H04N|H04R|H04S
+11651391,2023-05-16,Methods and apparatus to de-duplicate impression information,0,G06F|G06Q|H04L
+11647254,2023-05-09,Methods and apparatus to detect and rectify false set top box tuning data,0,H04N
+11645673,2023-05-09,Methods and apparatus to generate corrected online audience measurement data,0,G06Q|H04N
+11645665,2023-05-09,Reducing processing requirements to correct for bias in ratings data having interdependencies among demographic statistics,0,G06Q
+11640564,2023-05-02,Methods and apparatus for machine learning engine optimization,0,G06F|G06N|G06V
+11638053,2023-04-25,Methods and apparatus to identify co-relationships between media using social media,0,G06F|H04L|H04N
+11638052,2023-04-25,"Methods, apparatus, and articles of manufacture to identify candidates for media asset qualification",0,H04N
+11636864,2023-04-25,Multiple scrambled layers for audio watermarking,0,G06T|G10L
+11632596,2023-04-18,Timely addition of human-perceptible audio to mask an audio watermark,0,H04N
+11632587,2023-04-18,Mobile device attention detection,0,H04N|H04W
+11627378,2023-04-11,Media presentation device with voice command feature,0,G06F|G10L|H04N
+11627346,2023-04-11,Methods and apparatus for identifying media content using temporal signal characteristics,0,G06F|H04H|H04N
+11627059,2023-04-11,Methods and apparatus to coordinate receipt of monitoring information,1,G06Q|H04L
+11626895,2023-04-11,Methods and apparatus to measure exposure to broadcast signals having embedded data,0,G06Q|H04B|H04W
+11620489,2023-04-04,Prospective media content generation using neural network modeling,0,G06F|G06N
+11616999,2023-03-28,Methods and apparatus to automate the recording of media for signature creation,1,H04N
+11604815,2023-03-14,Character based media analytics,0,G06F
+11601714,2023-03-07,"Methods, apparatus, and machine-readable storage media to monitor a media presentation",1,G06Q|H04H|H04N|Y02D
+11601701,2023-03-07,Methods and apparatus to determine headphone adjustment for portable people meter listening to encoded audio streams,1,G06Q|H04H|H04N
+11595723,2023-02-28,Methods and apparatus to determine an audience composition based on voice recognition,3,G06Q|G10L|H04H|H04N
+11595487,2023-02-28,"Systems, methods, and apparatus to identify media presentation devices",0,H04L
+11595275,2023-02-28,Methods and apparatus to determine main pages from network traffic,0,G06F|H04L
+11589109,2023-02-21,Use of steganographically-encoded time information as basis to control implementation of dynamic content modification,0,G06T|H04N
+11588918,2023-02-21,Methods and apparatus to supplement web crawling with cached data from distributed devices,0,G06F|H04L
+11582183,2023-02-14,Methods and apparatus to perform network-based monitoring of media accesses,1,H04L
+11580576,2023-02-14,Methods and apparatus to determine impressions using distributed demographic information,3,G06F|G06Q|H04L
+11575855,2023-02-07,Methods and apparatus to perform an automated gain control protocol with an amplifier based on historical data corresponding to contextual data,0,H03G|H04B|H04H|H04L|H04N|H04W
+11575455,2023-02-07,Methods and apparatus to reduce false positive signature matches due to similar media segments in different reference media assets,0,H04H|H04N
+11574643,2023-02-07,Methods and apparatus for audio signature generation and matching,0,G06F|G10L|H04H|H04L
+11574226,2023-02-07,Methods and apparatus to determine a conditional probability based on audience member probability distributions for media audience measurement,1,G06N|H04H|H04N
+11573637,2023-02-07,Methods and apparatus to monitor haptic vibrations of touchscreens,0,G06F
+11570495,2023-01-31,Methods and apparatus for crediting a media presentation device,1,H04H|H04N
+11570308,2023-01-31,"Methods, systems, articles of manufacture and apparatus to calibrate payload information",0,G06Q|H04L|H04M
+11570270,2023-01-31,Methods and apparatus to prevent illicit proxy communications from affecting a monitoring result,1,H04L
+11568439,2023-01-31,Systems and methods to pre-scale media content to facilitate audience measurement,0,G06F|G06Q|H04N
+11568431,2023-01-31,Methods and apparatus to compensate for server-generated errors in database proprietor impression data due to misattribution and/or non-coverage,2,G06Q|H04W
+11568215,2023-01-31,Probabilistic modeling for anonymized data integration and bayesian survey measurement of sparse and weakly-labeled datasets,0,G06N|G06Q|H04N
+11564012,2023-01-24,Methods and apparatus to identify and triage digital ad ratings data quality issues,2,G06Q|H04N
+11564011,2023-01-24,Methods and apparatus to model on/off states of media presentation devices based on return path data,0,G06Q|H04H|H04N
+11564008,2023-01-24,Methods and apparatus for audience measurement and determining infrared signal based on signature of symbol alphabet,0,G08C|H04N
+11564006,2023-01-24,Levitating metering apparatus,0,G06Q|H02N|H04H|H04N
+11564005,2023-01-24,Methods and apparatus to identify and credit media using ratios of media characteristics,1,H04H|H04N
+11564003,2023-01-24,"Systems, apparatus, and methods to improve watermark detection in acoustic environments",2,G06F|G10L|H04N
+11563994,2023-01-24,Methods and apparatus to measure exposure to streaming media,3,G06Q|H04L|H04N
+11563991,2023-01-24,Methods and apparatus to monitor a media presentation,0,H04H|H04N
+11563666,2023-01-24,Methods and apparatus to monitor media in a direct media network,1,H04L|H04N|H04W
+11563664,2023-01-24,Methods and apparatus to predict end of streaming media using a prediction model,1,H04L|H04N
+11563663,2023-01-24,Methods and apparatus to credit background applications,0,G06F|H04L|Y02D
+11562753,2023-01-24,Systems and methods to improve timestamp transition resolution,0,G10L|H04N
+11562752,2023-01-24,Methods and apparatus to perform audio watermarking and watermark detection and extraction,1,G10L|H04H|H04N
+11562555,2023-01-24,"Methods, systems, articles of manufacture, and apparatus to extract shape features based on a structural angle template",0,G06F|G06V
+11562399,2023-01-24,Methods and apparatus to expand panelist enrollment,1,G06Q|H04L|H04N|H04W
+11562394,2023-01-24,Methods and apparatus to associate transactions with media impressions,0,G06F|G06Q
+11562385,2023-01-24,"Systems, methods, and articles of manufacture to measure online audiences",1,G06N|G06Q|H04L
+11562314,2023-01-24,Interactive product auditing with a mobile device,4,G06F|G06Q|G06T|G06V
+11562098,2023-01-24,Methods and apparatus to collect distributed user information for media impressions and search terms,1,G06F|G06Q|H04L|H04N|H04W
+11562015,2023-01-24,Methods and apparatus for estimating total unique audiences,1,G06F|G06Q|H04L
+11561942,2023-01-24,Methods and apparatus to estimate audience sizes of media using deduplication based on vector of counts sketch data,3,G06F|H04L|H04N
+11558676,2023-01-17,Methods and apparatus to synthesize reference media signatures,2,H04N
+11558667,2023-01-17,Methods and apparatus to estimate deduplicated total audiences in cross-platform media campaigns,2,G06F|G06Q|H04H|H04N
+11558665,2023-01-17,Methods and apparatus to count people,0,G01B|G01C|G02B|G04F|G06F|G06K|G06T|G06V|G09B|H04H|H04N
+11558662,2023-01-17,Methods and apparatus for a window-metric rule,1,G06F|G06Q|H04N
+11558661,2023-01-17,Methods and apparatus to identify streaming media sources,1,H04L|H04N
+11558660,2023-01-17,Methods and apparatus to reduce false crediting of exposure to video-on-demand media assets,0,H04N
+11558659,2023-01-17,Methods and apparatus to detect commercial advertisements associated with media presentations,1,G06V|H04H|H04N
+11558481,2023-01-17,"Systems, methods, and apparatus to process background requests while monitoring network media",0,H04L
+11556960,2023-01-17,Methods and apparatus to deliver targeted advertising,0,G06N|G06Q
+11556946,2023-01-17,Methods and apparatus for associating media devices with a demographic composition of a geographic area,2,G06F|G06Q|H04L|H04M|H04W
+11553450,2023-01-10,Methods and apparatus for locating mobile devices using wireless signals in mixed mode,0,G01S|H04W
+11553355,2023-01-10,Methods and apparatus to recognize metered devices connected to proprietary WiFi extenders,2,H04L|H04W
+11553247,2023-01-10,Methods and apparatus to determine an audience composition based on thermal imaging and facial recognition,3,G06V|H04H|H04N
+11553226,2023-01-10,Methods and apparatus to estimate population reach from marginal ratings with missing information,13,G06F|G06Q|H04N
+11553054,2023-01-10,Measurement of internet media consumption,0,H04L
+11551246,2023-01-10,Methods and apparatus to analyze and adjust demographic information,1,G06Q
+11546832,2023-01-03,Methods and apparatus to redirect internet clients for media monitoring,1,H04L|H04W
+11546674,2023-01-03,Methods and apparatus to extend a timestamp range supported by a watermark,2,H04N
+11546662,2023-01-03,Methods and apparatus to monitor media presentations,0,G06Q|H04N
+11546579,2023-01-03,Display device on/off detection methods and apparatus,1,H04H|H04N
+11546270,2023-01-03,Methods and apparatus to throttle media access by web crawlers,0,G06F|H04L
+11544726,2023-01-03,"Methods, systems, articles of manufacture, and apparatus to estimate audience population",2,G06Q|H04H|H04N
+11544321,2023-01-03,Scalable architectures for reference signature matching and updating,1,G06F|G06V|H04N
+11540154,2022-12-27,Methods and apparatus to measure wireless networks indoors,2,H04W
+11538235,2022-12-27,Methods and apparatus to determine the dimensions of a region of interest of a target object from an image using target object landmarks,0,G06F|G06T|G06V
+11537690,2022-12-27,End-point media watermarking,0,G06F
+11537486,2022-12-27,Verifying interconnection between media devices and meters using touch sensing integrated circuits,1,G06F|H04H
+11533535,2022-12-20,Signature retrieval and matching for media monitoring,3,G06V|H04H|H04N
+11533379,2022-12-20,Methods and apparatus to determine media impressions using distributed demographic information,5,G06F|G06Q|H04L
+11532159,2022-12-20,Methods and apparatus to monitor a split screen media presentation,0,G06T|G06V|H04H
+11528531,2022-12-13,Methods and apparatus to generate media exposure maps of media environments,4,H04N
+11528530,2022-12-13,"Methods, apparatus, and systems to collect audience measurement data",0,H04H|H04N
+11527143,2022-12-13,People metering enhanced with light projection prompting for audience measurement,0,G06G|G08B|H04H|H04N
+11527070,2022-12-13,Methods and apparatus to count people in images,1,G06T|G06V
+11526914,2022-12-13,Methods and apparatus to adjust media impressions based on media impression notification loss rates in network communications,0,G06Q|H04L
+11523178,2022-12-06,Detecting an operational state of a media device,3,H04N
+11523177,2022-12-06,Methods and apparatus to replicate panelists using a local minimum solution of an integer least squares problem,14,H04N
+11523175,2022-12-06,Methods and apparatus to validate reference media assets in media identification system,1,H04N
+11522932,2022-12-06,Using messaging associated with adaptive bitrate streaming to perform media monitoring for mobile platforms,1,G06Q|H04L|H04N
+11520864,2022-12-06,Digital rights management systems and methods for audience measurement,0,G06F|G06Q|H04H|H04N
+11516543,2022-11-29,Methods and apparatus to assign viewers to media meter data,2,H04N
+11516540,2022-11-29,Addressable measurement framework,4,G06Q|H04H|H04N
+11515956,2022-11-29,Estimating volume of switching among television programs for an audience measurement panel,1,H04H|H04N
+11514465,2022-11-29,Methods and apparatus to perform multi-level hierarchical demographic classification,0,G06N|G06Q
+11510037,2022-11-22,Methods and apparatus to credit usage of mobile devices,3,H04W
+11509554,2022-11-22,Methods and apparatus to coordinate receipt of monitoring information,1,G06Q|H04L
+11508027,2022-11-22,Methods and apparatus to perform symbol-based watermark detection,0,G06Q|G06T|G10L
+11507588,2022-11-22,Media names matching and normalization,1,G06F|H04N
+11507580,2022-11-22,Methods and apparatus to partition data,0,G06F|G06Q
+11503370,2022-11-15,Methods and apparatus to impute media consumption behavior,0,G06N|G06Q|H04N
+11502914,2022-11-15,Systems and methods for behavioural and contextual data analytics,0,G06F|G06Q|H04L
+11501793,2022-11-15,Methods and apparatus to perform signature matching using noise cancellation models to achieve consensus,1,G06F|G10L|H04L|H04N
+11501786,2022-11-15,Methods and apparatus for supplementing partially readable and/or inaccurate codes in media,1,G10L|H04H|H04N
+11500698,2022-11-15,Methods and apparatus to detect uninstallation of an on-device meter,0,G06F
+11496925,2022-11-08,Methods and apparatus to determine virtual WiFi data rate,1,H04L|H04W
+11496813,2022-11-08,Accelerated television advertisement identification,1,G06Q|H04H|H04N
+11496799,2022-11-08,"Methods, apparatus and articles of manufacture to estimate local market audiences of media content",3,H04H|H04N
+11496435,2022-11-08,"Systems, methods, and apparatus to facilitate mapping a device name to a hardware address",0,H04L
+11496433,2022-11-08,Methods and apparatus to estimate demographics of users employing social media,0,G06Q|H04L
+11496231,2022-11-08,Methods and apparatus to detect a blank frame in a digital video broadcast signal,0,G01R|G11B|H04H|H04N
+11483606,2022-10-25,Methods and apparatus to estimate population reach from different marginal rating unions,14,H04N
+11483602,2022-10-25,Methods and apparatus to perform media device asset qualification,1,G06F|H04N
+11483160,2022-10-25,Methods and apparatus to collect distributed user information for media impressions and search terms,2,G06F|G06Q|H04L|H04W
+11481802,2022-10-25,Methods and apparatus for audience and impression deduplication,7,G06Q
+11481801,2022-10-25,Methods and systems to monitor a media device via a USB port,2,G01R|G06F|G06Q|H04N
+11477543,2022-10-18,Methods and apparatus to monitor media,1,H04H|H04N
+11477501,2022-10-18,Reducing signature matching uncertainty in media monitoring systems,1,H04N
+11477496,2022-10-18,Methods and apparatus for monitoring the insertion of local media into a program stream,0,G11B|H04H|H04N
+11470403,2022-10-11,Methods and apparatus for determining audience metrics across different media platforms,0,H04N
+11470367,2022-10-11,Methods and apparatus to monitor on-demand media,1,G06F|H04H|H04N
+11470364,2022-10-11,"Use of steganographically-encoded time information as basis to establish a time offset, to facilitate taking content-related action",0,G06T|H04N
+11470243,2022-10-11,Methods and apparatus to capture images,12,G06V|H04H|H04N
+11469841,2022-10-11,Methods and apparatus for optimizing station reference fingerprint loading using reference watermarks,0,H04H|H04N
+11468479,2022-10-11,Methods and apparatus for generating information about portable device advertising,0,G06F|G06Q
+11468459,2022-10-11,Multi-market calibration of convenience panel data to reduce behavioral biases,1,G06N|G06Q
+11468458,2022-10-11,Methods and apparatus to monitor media presentations,0,G06Q|H04L
+11463787,2022-10-04,Methods and apparatus to generate a signature based on signature candidates,4,H04N
+11463777,2022-10-04,Viewer authentication,1,H04H|H04L|H04N
+11463770,2022-10-04,Methods and apparatus to identify media presentations by analyzing network traffic,1,G06Q|H04H|H04L|H04N
+11463769,2022-10-04,Invertible metering apparatus and related methods,0,H04L|H04N|H05K
+11463751,2022-10-04,"Dynamic watermarking of media based on transport-stream metadata, to facilitate action by downstream entity",2,H04N
+11461804,2022-10-04,"Methods, systems, apparatus and articles of manufacture to determine causal effects",0,G06F|G06Q
+11457282,2022-09-27,Methods and apparatus to create a panel of media device users,0,H04H|H04L|H04N|H04W
+11457083,2022-09-27,Methods and apparatus to correlate a demographic segment with a fixed device,0,H04L
+11455652,2022-09-27,Methods and apparatus to estimate the second frequency moment for computer-monitored media accesses,1,G06F|G06Q|H04L
+11451884,2022-09-20,Methods and apparatus to extend a timestamp range supported by a watermark,2,H04N
+11451867,2022-09-20,Methods and apparatus to monitor digital media,1,H04N
+11451844,2022-09-20,Assigning synthetic respondents to geographic locations for audience measurement,0,H04N
+11445034,2022-09-13,Methods and apparatus for user identification via community detection,2,G06F|G06Q|H04L
+11438662,2022-09-06,Methods and apparatus to determine synthetic respondent level data,14,G06Q|H04N
+11438649,2022-09-06,Methods and apparatus to optimize reference signature matching using watermark matching,0,H04N
+11438429,2022-09-06,"Systems, methods, and apparatus to monitor mobile internet activity",4,G06Q|H04L|H04M|H04W
+11432042,2022-08-30,Methods and apparatus to classify all other tuning data,1,G06F|G06Q|H04H|H04N
+11432041,2022-08-30,Methods and apparatus to measure exposure to streaming media,1,G06V|H04H|H04N
+11432026,2022-08-30,Methods and apparatus to determine a duration of media presentation based on tuning session duration,2,H04N
+11431814,2022-08-30,Methods and apparatus to monitor media presentations,0,G06F|G06Q|H04L|H04W
+11429691,2022-08-30,"Methods, apparatus, and articles of manufacture to measure search results",0,G06F
+11429575,2022-08-30,Deduplication across multiple different data sources to identify common devices,1,G06F|H04N
+11425458,2022-08-23,Methods and apparatus to estimate population reach from marginal ratings,16,G06Q|H04N
+11425452,2022-08-23,Methods and apparatus to detect audio engineering problems using identification of isolated watermarks,0,G10L|H04H|H04N
+11423437,2022-08-23,Methods and apparatus to detect advertisements embedded in online media,0,G06Q
+11423420,2022-08-23,Methods and apparatus to credit media presentations for online media distributions,3,G06F|G06Q|H04L
+11423079,2022-08-23,Detecting media watermarks in magnetic field data,1,G06F|G10L|G11B
+11418610,2022-08-16,Methods and apparatus to improve usage crediting in mobile devices,4,H04L
+11418233,2022-08-16,Methods and apparatus to monitor a media presentation,1,G06F|G11B|H04B|H04L|H04R|H04W
+11417074,2022-08-16,Methods and apparatus for identifying objects depicted in a video using extracted video frames in combination with a reverse image search engine,0,G06F|G06V
+11416461,2022-08-16,Methods and apparatus to estimate audience sizes of media using deduplication based on binomial sketch data,4,G06F
+11412286,2022-08-09,Methods and apparatus to verify and/or correct media lineup information,1,G06F|H04H|H04N
+11412277,2022-08-09,Methods and apparatus for watermark outage detection,1,H04N
+11410680,2022-08-09,Source classification using HDMI audio metadata,1,G06F|G10L|G11B|H03M|H04H|H04N
+11410189,2022-08-09,Methods and apparatus to determine ratings information for online media presentations,2,G06Q
+11409784,2022-08-09,Methods and apparatus to detect unconfined view media,0,G06F|G06T
+11405674,2022-08-02,Methods and apparatus to identify media for ahead of time watermark encoding,1,G06F|H04N
+11399174,2022-07-26,Methods and apparatus for automatic TV on/off detection,1,G01R|G09G|H04H|H04N
+11397965,2022-07-26,Processor systems to estimate audience sizes and impression counts for different frequency intervals,1,G06F|G06Q|H04L|H04N
+11395048,2022-07-19,Timely addition of human-perceptible audio to mask an audio watermark,1,H04N
+11388486,2022-07-12,Client identifier watermarks in media signals,3,G06F|G10L|H04N
+11388460,2022-07-12,"Portable multi-purpose audience measurement systems, apparatus and methods",1,G06Q|H04H|H04N|Y10S
+11381860,2022-07-05,Methods and apparatus to correct for deterioration of a demographic model to associate demographic information with media impression information,5,G06F|G06Q|H04N
+11381859,2022-07-05,Methods and apparatus to determine a unique audience for internet-based media,2,G06F|H04N
+11375274,2022-06-28,Methods and apparatus to increase a match rate for media identification,0,H04N
+11375247,2022-06-28,Methods and apparatus of identification of streaming activity and source for cached media on streaming devices,0,H04L|H04N
+11375224,2022-06-28,Apparatus and methods for watermarking using starting phase modulation,1,G10L|H04L|H04N
+11373425,2022-06-28,Methods and apparatus for monitoring an audience of media based on thermal imaging,7,G06V|H04H|H04N
+11368765,2022-06-21,"Systems, methods, and apparatus to identify linear and non-linear media presentations",0,H04N
+11368759,2022-06-21,Remote control devices to interface with audience measurement meters,0,H04N
+11368750,2022-06-21,Methods and apparatus for detecting space-shifted media associated with a digital recording/playback device,0,H04H|H04N
+11363448,2022-06-14,Methods and apparatus to perform audio sensor selection in an audience measurement device,0,H04H|H04R|H04W
+11363335,2022-06-14,Methods and apparatus to determine a state of a media presentation device,0,G10L|H04H|H04N
+11363334,2022-06-14,Methods and apparatus to identify user presence to a meter,0,H04N
+11363332,2022-06-14,Methods and apparatus to identify an episode number based on fingerprint and matched viewing information,6,G06Q|G07F|H04N
+11362924,2022-06-14,Methods and apparatus to monitor media in a direct media network,1,H04L|H04N|H04W
+11361342,2022-06-14,Methods and apparatus to incorporate saturation effects into marketing mix models,1,G06Q
+11361340,2022-06-14,Methods and apparatus to identify a type of media presented by a media player,1,G06Q
+11361264,2022-06-14,"Methods, systems and apparatus for calibrating data using relaxed benchmark constraints",0,G06F|G06N|G06Q
+11361053,2022-06-14,Systems and methods for payload encoding and decoding,1,G06F|G10L|H04N
+11357431,2022-06-14,Methods and apparatus to identify a mood of media,1,A61B|G06Q|G10L
+11356747,2022-06-07,Apparatus and methods to associate different watermarks detected in media,0,G06F|H04H|H04N
+11356733,2022-06-07,Methods and apparatus to generate reference signatures,0,H04H|H04N
+11356521,2022-06-07,Methods and apparatus to share online media impressions data,5,G06Q|H04L
+11354347,2022-06-07,Media content discovery and character organization techniques,3,G06F
+11350164,2022-05-31,Methods and apparatus to determine audio source impact on an audience of media,0,G06F|G10L|H04H|H04N
+11349999,2022-05-31,Methods and apparatus to generate audience measurement data from population sample data having incomplete demographic classifications,2,G06Q|H04H|H04L|H04M|H04N
+11349943,2022-05-31,Methods and apparatus for adjusting model threshold levels,0,H04L|H04N
+11349942,2022-05-31,Methods and apparatus to identify sponsored media in a document object model,1,G06F|G06Q|H04L
+11348126,2022-05-31,Methods and apparatus for campaign mapping for total audience measurement,4,G06F|G06N|G06Q|H04N
+11343592,2022-05-24,Methods and apparatus to use station identification to enable confirmation of exposure to live media,2,H04N
+11343006,2022-05-24,Methods and apparatus to facilitate local time-based digital audio measurement,1,H04H|H04L
+11341519,2022-05-24,Metering apparatus and related methods,0,G06F|G06Q|G08B|H04N
+11341272,2022-05-24,Methods and apparatus to assign demographic information to panelists,0,G06F|G06Q
+11336970,2022-05-17,Flexible commercial monitoring,2,G06Q|H04H|H04N
+11336819,2022-05-17,Methods and apparatus to capture photographs using mobile devices,0,G06T|G06V|H04N
+11330328,2022-05-10,Methods and apparatus to identify media based on watermarks across different audio streams and/or different watermarking techniques,3,G10L|H04N
+11329902,2022-05-10,Methods and apparatus to credit streaming activity using domain level bandwidth information,2,H04L
+11323772,2022-05-03,Methods and apparatus to estimate population reach from different marginal rating unions,17,G06Q|H04N
+11321623,2022-05-03,Methods and apparatus to determine a conditional probability based on audience member probability distributions for media audience measurement,1,G06N|H04H|H04N
+11317175,2022-04-26,Gathering research data,2,G06F|G06Q|G10L|H04H|H04Q
+11317148,2022-04-26,Methods and apparatus to detect and rectify false set top box tuning data,2,H04N
+11316769,2022-04-26,Methods and apparatus to predict end of streaming media using a prediction model,2,H04L|H04N
+11316603,2022-04-26,Methods and apparatus for increasing the robustness of media signatures,1,H04H|H04N
+11310541,2022-04-19,Methods and apparatus for monitoring the insertion of local media into a program stream,0,G11B|H04H|H04N
+11310326,2022-04-19,Methods and apparatus to facilitate meter to meter matching for media identification,2,H04L
+11308514,2022-04-19,Methods and apparatus to estimate census level impressions and unique audience sizes across demographics,6,G06Q
+11303960,2022-04-12,Methods and apparatus to count people,1,G01B|G01C|G02B|G04F|G06F|G06K|G06T|G06V|G09B|H04H|H04N
+11297422,2022-04-05,Methods and apparatus for wear noise audio signature suppression,1,A61B|G01P|G06F|G10K|G10L|H04R
+11296962,2022-04-05,Monitoring streaming media content,2,H04L|H04N
+11295476,2022-04-05,Methods and systems to increase accuracy of eye tracking,0,G06F|G06T|G06V
+11295341,2022-04-05,Systems and methods for monitoring malicious software engaging in online advertising fraud or other form of deceit,1,G06F|G06Q|H04L
+11295327,2022-04-05,Metering apparatus and related methods,0,G06F|G06Q|G08B|H04N
+11288684,2022-03-29,Performing interactive updates to a precalculated cross-channel predictive model,0,G06N|G06Q
+11288552,2022-03-29,Image quality assessment using adaptive non-overlapping mean estimation,0,G06F|G06T|G06V
+11282097,2022-03-22,Methods and apparatus to monitor media presentations,1,G06F|G06Q|H04N
+11277662,2022-03-15,Methods and apparatus to measure exposure to streaming media,1,H04N
+11277461,2022-03-15,Methods and apparatus to monitor streaming media,1,H04L|H04N
+11276073,2022-03-15,Methods and apparatus to reduce computer-generated errors in computer-generated audience measurement data,2,G06F|G06N|G06Q
+11272249,2022-03-08,Methods and apparatus to collect distributed user information for media impressions,1,G06Q|H04L|H04N
+11272225,2022-03-08,Watermarking with phase shifting,0,G10L|H04N
+11270356,2022-03-08,Methods and apparatus for efficient execution of modules,0,G06Q
+11259086,2022-02-22,Methods and apparatus to correct errors in audience measurements for media accessed using over the top devices,2,G06Q|H04N
+11256740,2022-02-22,Methods and apparatus to perform audio watermarking and watermark detection and extraction,0,G06F|G11B|H04H
+11252472,2022-02-15,Invertible metering apparatus and related methods,0,H04N
+11252470,2022-02-15,Methods and apparatus to measure audience composition and recruit audience measurement panelists,1,G06K|G06Q|H04N
+11252469,2022-02-15,Methods and apparatus to monitor streaming media content,1,G06F|G06Q|G10L|H04L|H04N
+11252460,2022-02-15,Signature matching with meter data aggregation for media identification,3,H04H|H04N
+11252062,2022-02-15,Monitoring streaming media content,2,H04L|H04N
+11250865,2022-02-15,Audio watermarking for people monitoring,1,G06F|G10L|H04H
+11250339,2022-02-15,Ensemble classification algorithms having subclass resolution,0,G06N|G06Q
+11245963,2022-02-08,Methods and apparatus to determine when a smart device is out-of-tab,2,H04H|H04N
+11245960,2022-02-08,Methods and apparatus of media device detection for minimally invasive media meters,3,H04H|H04N
+11245839,2022-02-08,Methods and apparatus to capture images,13,G06V|H04H|H04N
+11243997,2022-02-08,Methods and apparatus to determine sources of media presentations,2,G06F|H04L|H04N
+11240557,2022-02-01,Methods and apparatus to detect boring media,0,H04N
+11240341,2022-02-01,Methods and apparatus to measure exposure to streaming media using media watermarks,3,H04L
+11234049,2022-01-25,Use of steganographically-encoded time information as basis to control implementation of dynamic content modification,0,G06T|H04N
+11234029,2022-01-25,Methods and apparatus to generate reference signatures from streaming media,2,H04N
+11233866,2022-01-25,Methods and apparatus to monitor online activity,1,H04L
+11233664,2022-01-25,Methods and apparatus to identify media,0,G06F|G07F|H04L
+11232479,2022-01-25,Methods and systems to evaluate and determine degree of pretense in online advertisement,1,G06Q
+11232148,2022-01-25,Methods and apparatus for estimating total unique audiences,2,G06F|G06Q|H04L
+11227291,2022-01-18,Methods and apparatus to perform consumer surveys,1,G06Q
+11223861,2022-01-11,Methods and apparatus for crediting a media presentation device,2,H04H|H04N
+11223858,2022-01-11,Digital data insertion apparatus and methods for use with compressed audio/video data,0,B63G|H04H|H04N
+11222356,2022-01-11,Methods and apparatus to de-duplicate impression information,1,G06F|G06Q|H04L
+11222344,2022-01-11,Determining relative effectiveness of media content items,0,G06Q
+11218555,2022-01-04,Methods and apparatus to use client-server communications across internet domains to determine distributed demographic information for media impressions,7,G06F|G06Q|H04L
+11218528,2022-01-04,Using messaging associated with adaptive bitrate streaming to perform media monitoring for mobile platforms,2,G06Q|H04L|H04N
+11216834,2022-01-04,Methods and apparatus to estimate population reach from different marginal ratings and/or unions of marginal ratings based on impression data,17,G06F|G06Q|H04L
+11213219,2022-01-04,Determining intensity of a biological response to a presentation,1,A61B|G06Q|G16H
+11212596,2021-12-28,Methods and apparatus to synthesize reference media signatures,3,H04N
+11212580,2021-12-28,Levitating metering apparatus,1,G06Q|H02N|H04H|H04N
+11212560,2021-12-28,"Use of steganographically-encoded time information as basis to establish a time offset, to facilitate taking content-related action",0,G06T|H04N
+11205191,2021-12-21,Methods and apparatus to collect distributed user information for media impressions,1,G06Q
+11197125,2021-12-07,Methods and apparatus to associate geographic locations with user devices,4,G06Q|H04W
+11197060,2021-12-07,Methods and apparatus to count people in an audience,3,H04N
+11197046,2021-12-07,Methods and apparatus to measure exposure to streaming media,4,G06Q|H04L|H04N
+11195200,2021-12-07,Methods and apparatus to group advertisements by advertisement campaign,1,G06F|G06Q|G06V
+11190816,2021-11-30,Methods and systems to meter media content presented on a wireless communication device,2,H04H|H04L|H04N|H04W
+11188941,2021-11-30,Methods and apparatus to collect and process browsing history,3,G06F|G06Q|H04L
+11188573,2021-11-30,Character based media analytics,0,G06F
+11184658,2021-11-23,Systems and methods to select targeted advertising,0,G06Q|H04N
+11184656,2021-11-23,Methods and apparatus to detect spillover,0,G10L|H04H|H04N
+11176272,2021-11-16,"Methods, systems, articles of manufacture and apparatus to privatize consumer data",3,G06F|H04W
+11170410,2021-11-09,"Methods, systems and apparatus to generate market segmentation data with anonymous location data",1,G06Q|H04W
+11166054,2021-11-02,Methods and apparatus for identification of local commercial insertion opportunities,4,G10L|H04H|H04N
+11165877,2021-11-02,"Systems, methods, and apparatus to process background requests while monitoring network media",3,H04L
+11163805,2021-11-02,"Methods, systems, articles of manufacture, and apparatus to map client specifications with standardized characteristics",11,G06F|G06Q
+11159399,2021-10-26,Media data usage measurement and reporting systems and methods,0,G06F|G06Q|H04L|H04M|H04W
+11153392,2021-10-19,Methods and apparatus for session building from ping-level data,0,H04L|H04N
+11151599,2021-10-19,Methods for determining advertisement usage by proxy log data,0,G06F|G06Q
+11151589,2021-10-19,Methods and apparatus to determine reach with time dependent weights,1,G06Q
+11151586,2021-10-19,Methods and apparatus to identify non-traditional asset-bundles for purchasing groups using social media,0,G06F|G06Q|H04L
+11146414,2021-10-12,Methods and apparatus to locate unknown media devices,2,H04L
+11144967,2021-10-12,Methods and apparatus to determine impressions using distributed demographic information,1,G06F|G06Q|H04L
+11140449,2021-10-05,Methods and apparatus to determine synthetic respondent level data,22,G06Q|H04N
+11138253,2021-10-05,Methods and apparatus to determine tags for media using multiple media features,0,G06F
+11129040,2021-09-21,Methods and apparatus to determine mobile device application usage in vehicles including media applications,0,H04L|H04W
+11128905,2021-09-21,Methods and apparatus to perform identity matching across audience measurement systems,0,H04H|H04N
+11127044,2021-09-21,Methods and apparatus to expand panelist enrollment,2,G06Q|H04L|H04N|H04W
+11122134,2021-09-14,Methods and apparatus to collect media metrics on computing devices,1,G06F|H04L
+11120377,2021-09-14,"Methods, systems, articles of manufacture and apparatus to calibrate payload information",1,G06Q|H04L|H04M
+11120066,2021-09-14,Media content discovery and character organization techniques,4,G06F
+11115721,2021-09-07,Methods and apparatus for monitoring video games,0,A63F|H04N
+11115710,2021-09-07,Methods and apparatus to determine synthetic respondent level data using constrained Markov chains,18,H04H|H04N
+11115483,2021-09-07,Methods and apparatus for census and panel matching using session identifiers positioned in an HTTP header,1,G06Q|H04L
+11113318,2021-09-07,Character based media analytics,0,G06F
+11108915,2021-08-31,Methods and apparatus to identify media using hybrid hash keys,4,H04N
+11106765,2021-08-31,"Methods, apparatus, and articles of manufacture to encode auxiliary data into relational database keys and methods, apparatus, and articles of manufacture to obtain encoded data from relational database keys",0,G06F
+11102666,2021-08-24,Methods and apparatus to monitor WI-FI media streaming using an alternate access point,1,H04N|H04W
+11102558,2021-08-24,Methods and apparatus for determining audience metrics across different media platforms,0,H04N
+11102557,2021-08-24,"Systems, methods, and apparatus to identify linear and non-linear media presentations",0,H04N
+11102531,2021-08-24,Correcting systematic tuning defects,0,H04H|H04N
+11102357,2021-08-24,Methods and apparatus to generate audience measurement data from population sample data having incomplete demographic classifications,3,G06Q|H04H|H04L|H04M|H04N
+11100516,2021-08-24,Consent management system with consent request process,0,G06F|G06Q|H04L|H04N|H04W
+11095940,2021-08-17,"Methods, systems, articles of manufacture, and apparatus to estimate audience population",3,G06Q|H04N
+11095927,2021-08-17,"Dynamic watermarking of media based on transport-stream metadata, to facilitate action by downstream entity",3,H04N
+11094309,2021-08-17,Audio processing techniques for semantic audio recognition and report generation,1,G06F|G10H|G10L
+11093956,2021-08-17,Methods and apparatus to determine the probability of presence,1,G06Q
+11093955,2021-08-17,Methods and apparatus to measure mobile broadband market share,0,G06Q|H04L
+11089385,2021-08-10,Accelerated television advertisement identification,2,G06Q|H04H|H04N
+11089369,2021-08-10,Methods and apparatus to categorize media impressions by age,1,H04N
+11089366,2021-08-10,"Methods, systems, articles of manufacture and apparatus to remap household identification",2,G06F|G06Q|H04H|H04N
+11089365,2021-08-10,Methods and apparatus to calibrate audience measurement ratings based on return path data,0,H04H|H04N
+11089361,2021-08-10,"Methods, apparatus and articles of manufacture to estimate local market audiences of media content",4,H04H|H04N
+11088772,2021-08-10,Methods and apparatus to reduce false positive signature matches due to similar media segments in different reference media assets,0,H04H|H04N
+11087772,2021-08-10,Systems and methods to improve timestamp transition resolution,0,G10L|H04N
+11087358,2021-08-10,Methods and apparatus for wireless communication with an audience measurement device,2,G06Q
+11082730,2021-08-03,Methods and apparatus for affiliate interrupt detection,4,H04N
+11080971,2021-08-03,"Methods, systems, apparatus, and articles of manufacture to generate corrected projection data for stores",0,G06Q|G07G
+11080756,2021-08-03,Methods and apparatus to deliver targeted advertising,1,G06N|G06Q
+11070892,2021-07-20,Methods and apparatus to present supplemental media on a second screen,1,G06Q|H04N
+11070875,2021-07-20,Methods and apparatus to determine a number of people in an area,2,H04L|H04N|H04W
+11070874,2021-07-20,Methods and apparatus to verify presentation of media content,3,G06F|H04H|H04N
+11070871,2021-07-20,Methods and apparatus to detect commercial advertisements associated with media presentations,2,G06V|H04H|H04N
+11068944,2021-07-20,Methods and apparatus to determine impressions using distributed demographic information,4,G06F|G06Q|H04L
+11068928,2021-07-20,Methods and apparatus to determine impressions corresponding to market segments,0,G06Q
+11068927,2021-07-20,Methods and apparatus to correct audience measurement data,2,G06Q
+11064423,2021-07-13,Systems and methods for wirelessly modifying detection characteristics of portable devices,1,G06Q|H04M|H04N|H04W
+11063621,2021-07-13,Methods and apparatus to measure exposure to broadcast signals having embedded data,2,G06Q|H04B|H04W
+11062233,2021-07-13,Methods and apparatus to analyze performance of watermark encoding devices,1,G06F|G06N
+11057680,2021-07-06,Methods and apparatus to measure exposure to streaming media,1,H04N
+11057674,2021-07-06,Methods and apparatus for metering portable media players,1,G06F|G11B|H04H|H04L|H04N|H04R
+11057383,2021-07-06,"Methods, systems and apparatus to prevent unauthorized modem use",0,H04B|H04L|H04W
+11057286,2021-07-06,Methods and apparatus to credit background applications,1,G06F|H04L|Y02D
+11055752,2021-07-06,Methods and apparatus to adjust media impressions based on media impression notification loss rates in network communications,3,G06Q|H04L
+11055621,2021-07-06,Methods and apparatus for determining whether a media presentation device is in an on state or an off state,0,G06F|G06N|H04H
+11051070,2021-06-29,Clustering television programs based on viewing behavior,0,G06Q|H04N
+11051057,2021-06-29,"Use of steganographically-encoded time information as basis to establish a time offset, to facilitate taking content-related action",0,G06T|H04N
+11051052,2021-06-29,Methods and apparatus of identification of streaming activity and source for cached media on streaming devices,0,H04L|H04N
+11050498,2021-06-29,Estimating volume of switching among television programs for an audience measurement panel,1,H04H|H04N
+11047876,2021-06-29,Multiple meter detection and processing using motion data,3,G01P|G06F|G06Q
+11044523,2021-06-22,Media monitoring using multiple types of signatures,3,G06F|H04H|H04N
+11042460,2021-06-22,Verifying interconnection between media devices and meters using touch sensing integrated circuits,2,G06F|H04H
+11039208,2021-06-15,"Methods, apparatus, and machine-readable storage media to monitor a media presentation",1,G06Q|H04H|H04N|Y02D
+11039207,2021-06-15,Methods and apparatus for a window-metric rule,2,G06F|G06Q|H04N
+11039204,2021-06-15,Frequency band selection and processing techniques for media source detection,2,H04N
+11039190,2021-06-15,Methods and apparatus to determine a unique audience for internet-based media,12,G06F|H04N
+11039160,2021-06-15,Methods and apparatus for delivering extended payloads with composite watermarks,1,H04N
+11037178,2021-06-15,Methods and apparatus to generate electronic mobile measurement census data,1,G06Q
+11032610,2021-06-08,Methods and apparatus to determine engagement levels of audience members,7,H04N
+11025996,2021-06-01,Methods and apparatus to extend a timestamp range supported by a watermark,4,H04N
+11025995,2021-06-01,Methods and apparatus to extend a timestamp range supported by a watermark,4,H04N
+11025966,2021-06-01,Methods and apparatus for identifying media content using temporal signal characteristics,1,G06F|H04H|H04N
+11019386,2021-05-25,Methods and apparatus to verify and/or correct media lineup information,1,G06F|H04H|H04N
+11019380,2021-05-25,Methods and apparatus to determine media exposure of a panelist,1,G06Q|H04N
+11019301,2021-05-25,Methods and apparatus to perform an automated gain control protocol with an amplifier based on historical data corresponding to contextual data,3,H03G|H04B|H04H|H04L|H04N|H04W
+11019164,2021-05-25,"Systems, methods, and apparatus to identify media devices",5,H04H|H04L
+11019163,2021-05-25,Methods and apparatus to monitor media presentations,0,G06F|G06Q|H04L|H04W
+11017011,2021-05-25,Media content discovery and character organization techniques,4,G06F
+11016568,2021-05-25,Methods and apparatus to monitor haptic vibrations of touchscreens,2,G06F
+11012757,2021-05-18,Timely addition of human-perceptible audio to mask an audio watermark,5,H04N
+11012746,2021-05-18,Methods and apparatus to estimate deduplicated total audiences in cross-platform media campaigns,3,G06F|G06Q|H04H|H04N
+11012745,2021-05-18,Methods and apparatus to identify and credit media using ratios of media characteristics,1,H04H|H04N
+11010417,2021-05-18,Media content discovery and character organization techniques,4,G06F
+11006191,2021-05-11,Use of watermarking to control abandonment of dynamic content modification,2,H04N
+11004456,2021-05-11,"Methods, apparatus and articles of manufacture to provide secondary content in association with primary broadcast media content",5,G06Q|G10L|H04H|H04N
+10992985,2021-04-27,Methods and apparatus to determine engagement levels of audience members,7,H04N
+10986405,2021-04-20,Methods and apparatus to detect user attentiveness to handheld computing devices,0,G06Q|H04H|H04N
+10986382,2021-04-20,Content-modification system with system resource request feature,1,G06F|H04N
+10984296,2021-04-20,Methods and apparatus for identifying objects depicted in a video using extracted video frames in combination with a reverse image search engine,1,G06F|G06V
+10979764,2021-04-13,Methods and apparatus to correct misattributions of media impressions,2,G06F|G06Q|H04H|H04N
+10979756,2021-04-13,Sequentially overlaying media content,0,G06F|H04N
+10979324,2021-04-13,Methods and apparatus for estimating total unique audiences,1,G06F|G06Q|H04L
+10972799,2021-04-06,Media presentation device with voice command feature,0,G06F|G10L|H04N
+10972794,2021-04-06,Content-modification system with transmission delay-based feature,1,G06F|H04N
+10972561,2021-04-06,Methods and apparatus for adjusting model threshold levels,0,H04L|H04N
+10970739,2021-04-06,Methods and apparatus to detect advertisements embedded in online media,0,G06Q
+10965989,2021-03-30,Methods and apparatus to model on/off states of media presentation devices based on return path data,2,G06Q|H04H|H04N
+10965765,2021-03-30,"Systems, methods, and apparatus to monitor mobile internet activity",8,G06Q|H04L|H04M|H04W
+10964333,2021-03-30,Methods and apparatus to perform audio watermarking and watermark detection and extraction,2,G10L|H04H|H04N
+10963907,2021-03-30,Methods and apparatus to correct misattributions of media impressions,3,G06Q
+10963699,2021-03-30,Scene frame matching for automatic content recognition,0,G06V|H04N
+10956947,2021-03-23,Methods and apparatus to measure media using media object characteristics,3,G06Q
+10956923,2021-03-23,Methods and apparatus for associating media devices with a demographic composition of a geographic area,1,G06F|G06Q|H04L|H04M|H04W
+10951721,2021-03-16,Methods and apparatus to determine media impressions using distributed demographic information,7,G06F|G06Q|H04L
+10949665,2021-03-16,Reducing scale estimate errors in shelf images,2,G06F|G06Q|G06T|G06V
+10945043,2021-03-09,Methods and apparatus to create a panel of media device users,0,H04H|H04L|H04N|H04W
+10945013,2021-03-09,Assigning synthetic respondents to geographic locations for audience measurement,1,H04N
+10945009,2021-03-09,Methods and apparatus to perform media device asset qualification,2,G06F|H04N
+10943252,2021-03-09,Methods and apparatus to identify a type of media presented by a media player,1,G06Q
+10943175,2021-03-09,"Methods, systems and apparatus to improve multi-demographic modeling efficiency",0,G06N|G06Q
+10938704,2021-03-02,Methods and apparatus to predict end of streaming media using a prediction model,3,H04L|H04N
+10937116,2021-03-02,Power efficient detection of watermarks in media signals,0,G06T|H04N
+10937054,2021-03-02,"Methods, systems, apparatus and articles of manufacture to determine causal effects",0,G06F|G06Q
+10937051,2021-03-02,Stimulus placement system using subject neuro-response measurements,11,A61B|G06Q
+10937044,2021-03-02,Methods and apparatus to determine ratings information for online media presentations,2,G06Q
+10937043,2021-03-02,Methods and apparatus to collect impressions associated with over-the-top media devices,2,G06Q|H04L
+10937040,2021-03-02,Systems and methods to identify intentionally placed products,0,G06Q
+10932001,2021-02-23,Methods and apparatus to identify streaming media sources,2,H04L|H04N
+10931987,2021-02-23,Reducing signature matching uncertainty in media monitoring systems,2,H04N
+10924802,2021-02-16,"Methods, apparatus, and systems to collect audience measurement data",0,H04H|H04N
+10924791,2021-02-16,Methods and apparatus to estimate demographics of a household,4,H04N
+10924788,2021-02-16,Methods and apparatus for crediting a media presentation device,2,H04H|H04N
+10923133,2021-02-16,Methods and apparatus to identify signals using a low power watermark,1,G10L|H04N
+10922551,2021-02-16,Scene frame matching for automatic content recognition,0,G06V|H04N
+10917691,2021-02-09,Methods and apparatus to determine audio source impact on an audience of media,2,G06F|G10L|H04H|H04N
+10911966,2021-02-02,Methods and apparatus to measure wireless networks indoors,0,H04W
+10911828,2021-02-02,Methods and apparatus to impute media consumption behavior,2,G06N|G06Q|H04N
+10911824,2021-02-02,Methods and apparatus to generate reference signatures,2,H04H|H04N
+10911749,2021-02-02,Display device on/off detection methods and apparatus,4,H04H|H04N
+10909578,2021-02-02,Methods and apparatus for generating information about portable device advertising,0,G06F|G06Q
+10909560,2021-02-02,Methods and apparatus to identify affinity between segment attributes and product characteristics,1,G06Q
+10909559,2021-02-02,Methods and apparatus to analyze and adjust demographic information,2,G06Q
+10909551,2021-02-02,Methods and apparatus to identify users associated with device application usage,2,G06Q|H04L
+10909466,2021-02-02,Determining metrics characterizing numbers of unique members of media audiences,1,G06F|G06N|H04H|H04L|H04N
+10909173,2021-02-02,Scalable architectures for reference signature matching and updating,2,G06F|G06V|H04N

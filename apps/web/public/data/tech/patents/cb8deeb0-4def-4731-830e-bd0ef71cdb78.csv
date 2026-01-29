@@ -1,0 +1,484 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430603,2025-09-30,"Method, apparatus, and system for multimodal position selection for a tracking device",0,G01S|G06Q|H04W
+12412121,2025-09-09,Determining traffic violation hotspots,0,G01C|G06F|G06N|G08G
+12406332,2025-09-02,"Method, apparatus, user interface, and computer program product for identifying map objects or road attributes based on imagery",0,G01C|G06F|G06T|G06V
+12406180,2025-09-02,"Method, apparatus, and system for providing a location representation for machine learning tasks",0,G01C|G06F|G06N
+12401994,2025-08-26,"Method, apparatus, and computer program product for anonymizing trajectories",0,G01C|G06F|G08G|H04W
+12387533,2025-08-12,System and method for vehicle diagnostics,0,B60R|G06N|G06Q|G07C
+12382243,2025-08-05,Method and apparatus for a region discovery service,0,H04W
+12375878,2025-07-29,Private location verification and enhancement,0,H04L|H04W
+12372371,2025-07-29,System and method for updating map data,0,G01C|G06N
+12363495,2025-07-15,"Method, apparatus and computer program product for syntax based dynamic audio shifting",0,G01C|G06F|H04R|H04S
+12337621,2025-06-24,Apparatus and methods for providing tire pressure analysis,0,B60C|G06N
+12332062,2025-06-17,Apparatus and methods providing a map layer noise levels,0,G01C|G06T|G06V
+12326342,2025-06-10,"Method, apparatus and computer program product for lane level toll plaza congestion modeling",0,B60W|G01C|G06F|G06N|G06V|G08G
+12323397,2025-06-03,Method and apparatus for managing user requests related to pseudonymous or anonymous data,0,G06F|H04L
+12322289,2025-06-03,Method and system of special vehicle notification in HD map to improve AV driving safety,0,B60K|B60W|G06N|G06V|G08G|H04L|H04W
+12300000,2025-05-13,Method and apparatus for computer-vision-based object motion detection,0,G06T|G06V
+12299973,2025-05-13,"Method, apparatus, and system for determining a confidence level for map feature identification in a map application",0,G01C|G06N|G06T|G06V
+12299761,2025-05-13,"Method, apparatus, and computer program product for quantifying public transport coverage",0,G01C|G05B|G06Q|G08G
+12299080,2025-05-13,"Method, apparatus, and system for traffic estimation based on anomaly detection",0,G01S|G06F|G06N|G08G
+12292525,2025-05-06,Compressing and decompressing data about radio signals,0,G01S|H04L|H04W
+12292308,2025-05-06,"Method, apparatus, and computer program product for map geometry generation based on object detection",0,G01C|G06F|G06V
+12282846,2025-04-22,"Method, apparatus, and computer program product for surveillance of road environments via deep learning",0,G01C|G06F|G06N|G06Q|G08G
+12282505,2025-04-22,"Method, apparatus, and system for computing a spatial footprint index",0,G01C|G06F|H04W
+12281916,2025-04-22,"Method, apparatus, and computer program product for map geometry generation based on data aggregation and conflation with statistical analysis",0,G01C|G06F|G06T|G06V
+12276518,2025-04-15,Apparatus and methods for providing routes for vehicles using spare tires,0,G01C|G06N
+12265515,2025-04-01,Traffic-aware route encoding using a probabilistic encoding data,0,G01C|G06F|H04L
+12262281,2025-03-25,Controlled access of radio map quality information,0,G01S|H04W
+12259985,2025-03-25,"Method, apparatus, and system for automated purpose limitation and compatibility verification on a data platform",0,G06F
+12259255,2025-03-25,Detecting and obtaining lane level insight in unplanned incidents,0,G01C|G06F|G08G|H04W
+12253376,2025-03-18,Network support for vehicle routing,0,B60W|G01C|H04W
+12242519,2025-03-04,"Method, apparatus, and system for providing linear feature detection of cartographic features",0,G06F|G06V
+12236691,2025-02-25,"Method, apparatus, and system for estimating a lane width",0,G06T|G06V
+12235126,2025-02-25,Method and apparatus for determining window damage indicators,0,G01C|G06F|G06Q|G06T|G06V
+12230139,2025-02-18,Predicting traffic violation hotspots using map features and sensors data,0,G06N|G08G
+12222209,2025-02-11,"Method, apparatus, and system for shipment tracking",0,G01C|G06Q|G16Y|H04W|Y02D
+12210106,2025-01-28,"Method, apparatus, and system for detecting and characterizing parking events based on sensor data",0,B60W|G01C|G01P|G01S|G07C|H04W
+12206762,2025-01-21,Computing device and method for generating fingerprint data having an obfuscated location reference,0,H04L|H04W
+12205326,2025-01-21,Neural network-based method and apparatus for improving localization of a device,0,G06T|G06V
+12205047,2025-01-21,"Method, apparatus, and computer program product for anonymized parking likelihood estimation",0,G06F|G06N
+12202472,2025-01-21,Apparatus and methods for predicting a state of visibility for a road object based on a light source associated with the road object,0,B60W|G01C|G06T|G06V
+12175397,2024-12-24,Method and apparatus for using pedestrian probe data for ridesharing services,1,G06F|G06Q
+12174859,2024-12-24,"Method, apparatus, and system for machine learning-based persistence filtering",0,G06F|G06N|G07C|G08G
+12174023,2024-12-24,Method and system to validate road signs,0,G01C|G06F|G08G
+12165415,2024-12-10,Providing access to an autonomous vehicle based on user's detected interest,0,B60Q|B60R|B60W|G06F|G06Q|G06V
+12165406,2024-12-10,"Method, apparatus, and computer program product for identifying and correcting intersection lane geometry in map data",0,G01C|G06F|G06N|G06T|G06V
+12162517,2024-12-10,Autonomous driving pattern profile,0,B60W|G01C|G06N
+12162510,2024-12-10,Location intelligence for building empathetic driving behavior to enable L5 cars,0,B60W|G06F|G06N|G06V
+12158355,2024-12-03,Generating and using positioning indices,0,G01C|G01S|H04W
+12156099,2024-11-26,Methods and systems for improved data collection in a positioning solution that leverages closed-loop learning (CLL),0,G01S|G06F|H04W
+12154327,2024-11-26,"Method, apparatus, and computer program product for identifying fluid leaks based on aerial imagery",0,G06T|G06V
+12154291,2024-11-26,Method and apparatus for improving localization of a device,0,G06T|G06V
+12154059,2024-11-26,Territory set determination based on historical service event data,0,G01C|G05D|G06Q
+12152901,2024-11-26,System and method for processing event data,0,G01C|G06F|H04L|H04W
+12149943,2024-11-19,Distributed private location verification and enhancement,0,H04L|H04W
+12114238,2024-10-08,Indoor localization based on detection of building-perimeter features,0,G01S|H04W
+12114179,2024-10-08,"Method, apparatus, and system for providing a wireless data connection to a vehicle",0,H04B|H04W
+12094163,2024-09-17,"Method, apparatus, and computer program product for displaying virtual graphical data based on digital signatures",0,G06F|G06T|H04L
+12085411,2024-09-10,Multiple mode learning of absolute altitude of floors of a building,0,G01C|G06N
+12073615,2024-08-27,"Method, apparatus, and computer program product for identifying objects of interest within an image captured by a relocatable image capture device",0,G06V|H04N
+12071135,2024-08-27,"Method, apparatus and computer program product for autonomous vehicle management at unsignalized intersections",0,B60W|G08G|H04W
+12051235,2024-07-30,Machine learning a feature detector using synthetic training data,0,G01C|G06F|G06N|G06T|G06V
+12039561,2024-07-16,"Method, apparatus, and computer program product for identifying and compensating content contributors",0,G06N|G06Q
+12038990,2024-07-16,Data augmentation with on demand entity matching,0,G06F
+12026288,2024-07-02,"Method, apparatus, and computer program product for confidential computing",0,G06F|H04L
+12025715,2024-07-02,GNSS error resolution,0,G01S|G06N
+12013255,2024-06-18,"Method, apparatus, and computer program product for correcting lane geometry in map data",0,G01C|G06N
+12010585,2024-06-11,"Method, apparatus, and system for identifying mobile work zones",0,G06N|G06V|G08G|H04L|H04W
+12008786,2024-06-11,"Method, apparatus, and computer program product for point-to-point translation between images",0,G01C|G06F|G06T
+12007784,2024-06-11,Method and apparatus for self localization,0,G01C|G05D|H04W
+12002228,2024-06-04,Systems and methods for identifying inclined regions,0,G06T|G06V
+12000965,2024-06-04,Creating multi-return map data from single return lidar data,0,G01S|G06F|G06N
+11995764,2024-05-28,"Method, apparatus and computer program product for tunnel detection from a point cloud",0,G01C|G01S|G06F|G06T|G06V
+11994396,2024-05-28,Method and apparatus for providing drop-off locations for passengers of a vehicle to reach different destinations via a multimodal route,0,G01C|G06Q
+11994394,2024-05-28,System and method for validating road object data,0,G01C|G06F|G06Q|G06T
+11991295,2024-05-21,"Method, apparatus, and computer program product for identifying an object of interest within an image from a digital signature generated by a signature encoding module including a hypernetwork",0,G06F|G06N|G06V|H04L
+11990032,2024-05-21,"Method, apparatus, and system for verifying reported ramp closures",0,G01C|G06N|G08G
+11989905,2024-05-21,Systems and methods for synchronizing an image sensor,0,G01S|G06T|G06V
+11989805,2024-05-21,Dynamic geometry using virtual spline for making maps,0,G01C|G06F|G06T
+11965974,2024-04-23,Methods and systems for using a vehicle location to geo-reference radio data collected during a time of commute,0,G01S|H04L|H04W
+11959757,2024-04-16,"Method, apparatus, and system for predicting damage area zones for a vehicle to avoid in case of an accident",0,G01C|G01S|G06N|G06Q|G06V
+11946769,2024-04-02,"Method, apparatus, and system for identifying special areas and cleaning-up map data",0,G01C|G06F|G06N|G06V
+11938959,2024-03-26,"Driving assistance device, system thereof, and method thereof",0,B60W|G06N|G06V
+11928862,2024-03-12,"Method, apparatus, and system for visually identifying and pairing ride providers and passengers",1,G06N|G06Q|G06V|H04N
+11922801,2024-03-05,"Method, apparatus, and computer program product for requesting traffic data using subtree data structure",0,G06F|G08G
+11921890,2024-03-05,Method and apparatus for trajectory anonymization based on a trajectory exchange twist,0,G01C|G06F|G08G
+11916630,2024-02-27,Method and apparatus for accelerating estimation of a radio model of a beamforming access point,0,H04B|H04W
+11915583,2024-02-27,Traffic predictions at lane level,0,G06N|G08G
+11914747,2024-02-27,"Method, apparatus, and computer program product for quantifying the linkability of trajectory data",0,G06F|H04L|H04W
+11913792,2024-02-27,"Method, apparatus, and computer program product for generating correspondence between map versions",0,G01C|G06F|G06V|G08G
+11908320,2024-02-20,"Method, apparatus and computer program product for defining a strand upstream of a direction-based traffic link",0,G08G|H04L|H04W
+11907888,2024-02-20,Aerial vehicle and computing device interaction for validating aerial vehicle activity,0,B64U|G01S|G06Q|G08G|H04B|H04L
+11906648,2024-02-20,Compressing and decompressing data about radio signals,0,G01S|H04L|H04W
+11906309,2024-02-20,Method and apparatus for providing a map matcher tolerant to wrong map features,0,G01C|G06F
+11900662,2024-02-13,"Method, apparatus, and computer program product for training a signature encoding module and a query processing module to identify objects of interest within an image utilizing digital signatures",0,G06F|G06N|G06V
+11898868,2024-02-13,System and method for identifying redundant road lane detections,0,G01C|G06F|G06V|G08G
+11892317,2024-02-06,Automatic detection of segment width narrowing using probe data,0,G01C|G06F
+11892303,2024-02-06,Apparatus and methods for predicting state of visibility for a road object,0,G01C|G06N|G08G|H04W
+11885637,2024-01-30,Method and apparatus for prediciting a map object based upon audio data,0,G01C|G06N|H04R
+11885636,2024-01-30,"Method, apparatus, and system for automatically coding and verifying human settlement cartographic features",0,G01C|G06F|G06T
+11879739,2024-01-23,"Method, apparatus and computer program product for estimating hazard duration",0,G01C|G06N
+11869246,2024-01-09,Method and apparatus for crowd control maps,0,G06F|G06T|G06V|H04W
+11868788,2024-01-09,Method and apparatus for application plug-in management,0,G06F|G06T
+11867819,2024-01-09,Automatic positioning of 2D image sign sightings in 3D space,1,G01S|G06F|G06T|G06V
+11854402,2023-12-26,"Method, apparatus, and system for detecting lane departure events based on probe data and sensor data",0,G01C|G06F|G08G|H04W
+11854257,2023-12-26,Identifying canopies,0,G06F|G06T|G06V
+11853812,2023-12-26,Single component data processing system and method utilizing a trained neural network,0,G06F|G06N|G06T
+11853280,2023-12-26,Encoding a route using a probabilistic encoding data structure,0,G01C|G06F|H04L
+11846522,2023-12-19,Warning polygons for weather from vehicle sensor data,0,G01C|G01W|G05D|G06F|G06T|G06V
+11837083,2023-12-05,Dynamic privacy-sensitive operating modes,0,G06F|G08G
+11830103,2023-11-28,"Method, apparatus, and computer program product for training a signature encoding module and a query processing module using augmented data",0,G06F|G06N|G06T|G06V
+11829192,2023-11-28,"Method, apparatus, and computer program product for change detection based on digital signatures",1,G06F|G06N|G06V
+11825383,2023-11-21,"Method, apparatus, and computer program product for quantifying human mobility",0,G06V|H04W
+11822682,2023-11-21,"Method, apparatus, and computer program product for quantifying the privacy risk of trajectory data",0,G01C|G06F|H04L|H04W
+11810146,2023-11-07,Method and apparatus for soft limits for advertisement serving,0,G06Q|Y02D
+11810057,2023-11-07,"Method, apparatus, and computer program product for vantage view assistance",0,G06Q|G08G
+11805391,2023-10-31,"Method, apparatus, and computer program product for anonymizing trajectories",0,G01C|G06N|G08G|H04W
+11805390,2023-10-31,"Method, apparatus, and computer program product for determining sensor orientation",1,G01C|G05D|G06N|H04L|H04W
+11798225,2023-10-24,3D building generation using topology,1,G06T
+11796323,2023-10-24,System and method for generating feature line data for a map,0,G01C|G06F|G06V
+11796322,2023-10-24,"Apparatus, method, and computer program product for updating link information on a client device",0,G01C|G06F
+11792618,2023-10-17,"Method, apparatus, and system for building single-path communication signal map data for road links",0,G01C|H04B|H04W
+11790667,2023-10-17,Method and apparatus for localization using search space pruning,0,G06F|G06V
+11788859,2023-10-17,"Method, apparatus, and computer program product for road noise mapping",1,B60W|G01C|G06F|G10L
+11783697,2023-10-10,"Method, apparatus, and system for ensuring privacy while maintaining floating car data accuracy",0,G08G|H04L|H04W
+11783187,2023-10-10,"Method, apparatus, and system for progressive training of evolving machine learning architectures",0,G06F|G06N
+11781869,2023-10-10,Method and apparatus for providing an indoor pedestrian origin-destination matrix and flow analytics,0,G01C|G01S|G06Q|H04B|H04W
+11776282,2023-10-03,"Method, apparatus, and system for removing outliers from road lane marking data",0,G06F|G06V|G08G
+11776279,2023-10-03,Method and apparatus for providing unknown moving object detection,0,G01C|G05D|G06F|G06N|G06V|H04L
+11765580,2023-09-19,Enabling flexible provision of signature data of position data representing an estimated position,1,G05B|H04L|H04W
+11755553,2023-09-12,Traffic-aware route decoding using a probabilistic encoding data structure,0,G01C|G06F|H04L
+11754405,2023-09-12,Method and apparatus for trajectory anonymization based on negative gapping,0,G01C|G06F
+11751007,2023-09-05,"Method, apparatus, and computer program product for anonymizing trajectories and stay points",0,G01C|G06F|G08G|H04W
+11749115,2023-09-05,"Method, apparatus, and computer program product for dynamic detection of pedestrian activity",0,G06V|G08G|H04W
+11743686,2023-08-29,Aligning in-vehicle mobile device and vehicle bodies for improved global positioning,0,G01C|G01S|G06F|H04W
+11733059,2023-08-22,"Method, apparatus, and computer program product for generating and communicating low bandwidth map version agnostic routes",0,G01C|G06F|G09B
+11725953,2023-08-15,Private and personalized estimation of travel time,0,G01C|G06Q|G08G
+11721205,2023-08-08,"Method, apparatus, and computer program product for processing sensor data",2,G01C|G06V|G07C|G08G|H04W
+11720992,2023-08-08,"Method, apparatus, and computer program product for generating an overhead view of an environment from a perspective image",0,G01C|G06T
+11720538,2023-08-08,Providing incremental updates of categorical information using a probabilistic encoding data structure,0,G01C|G06F|H04L
+11714832,2023-08-01,"Method, apparatus, and system for combining location data sources",0,G06F|G06N
+11714160,2023-08-01,Tracking of items/assets,0,G01S|G06F|G06Q|H04L
+11710239,2023-07-25,"Method, apparatus, and system using a machine learning model to segment planar regions",1,G06N|G06T|G06V
+11704573,2023-07-18,"Method, apparatus, and computer program product for identifying and compensating content contributors",0,G06N|G06Q
+11704344,2023-07-18,Method and apparatus for determining weather-related information on a tile basis,0,G06F|Y02A
+11703337,2023-07-18,"Method, apparatus, and computer program product for anonymizing trajectories",0,G01C|G06F
+11699246,2023-07-11,Systems and methods for validating drive pose refinement,1,B60W|G01C|G06T|G06V
+11699234,2023-07-11,Semantic segmentation ground truth correction with spatial transformer networks,0,G06N|G06T
+11694563,2023-07-04,Method and apparatus to control one or more drones based on real-time or predictive position information,1,B64U|G05D|G06N|G06V|G08G
+11692837,2023-07-04,Automatic discovery of optimal routes for flying cars and drones,0,B64U|G01C|G06F|G06Q|G08G
+11691646,2023-07-04,Method and apparatus for generating a flood event warning for a flood prone location,0,B60W|G01C|G05D|G06V|G07C|H04W
+11691643,2023-07-04,Method and apparatus to improve interaction models and user experience for autonomous driving in transition regions,0,B60W|G01C|G06N
+11691630,2023-07-04,Road surface detection,0,B60W|G01S|G06T|G06V
+11689887,2023-06-27,Detecting mobile nodes to improve radio-based positioning performance,0,G01S|H04W
+11687094,2023-06-27,"Method, apparatus, and computer program product for organizing autonomous vehicles in an autonomous transition region",0,B60W|G05D|G08G|H04W
+11682295,2023-06-20,Adjusting historical probe data for new road geometry,1,G06F|G08G
+11678151,2023-06-13,Method and system for displaying a map to guide a user in a venue,0,G01C|G09B|H04W
+11677930,2023-06-13,"Method, apparatus, and system for aligning a vehicle-mounted device",1,B60R|G06T|G06V|H04N
+11676290,2023-06-13,"Method, apparatus, and computer program product for ensuring continuity of features between spatially partitioned maps",0,G06T
+11675819,2023-06-13,"Method, system, and computer program product for providing traffic data using subtree data structure",0,G01C|G06F|G08G
+11670090,2023-06-06,Automatic detection and positioning of structure faces,0,G01S|G05D|G06T|G06V
+11669552,2023-06-06,Use of geographic database comprising lane level information for traffic parameter prediction,0,G01C|G06F|G08G|H04L
+11668583,2023-06-06,"Method, apparatus, and computer program product for establishing reliability of crowd sourced data",0,G01C|G05D|H04W
+11668574,2023-06-06,Method and apparatus for syncing an embedded system with plurality of devices,0,G01C|G08G|H04L|H04W
+11663912,2023-05-30,"Method, apparatus, and system for automatic road closure detection",0,G01C|G06F|G08G
+11663378,2023-05-30,"Method, apparatus, and system for providing traffic simulations in a smart-city infrastructure",0,G06F|G06N|G08G
+11663281,2023-05-30,Context information from crowd-sourced data,0,G01S|G06F|G06N|H04W|Y02D
+11662420,2023-05-30,Indoor optimized offline radio map,0,G01C|G01S|H04B|H04W
+11662215,2023-05-30,"Method, apparatus, and computer program product for anonymizing trajectories",3,G01C|G06F|H04L|H04W
+11659351,2023-05-23,Determining a position estimate of a mobile device based on layout information,0,G01S|H04W
+11657072,2023-05-23,Automatic feature extraction from imagery,0,G01S|G05D|G06F|G06N|G06T|G06V
+11656090,2023-05-23,Method and system for generating navigation data for a geographical location,0,G01C|G06T|G06V|G08G
+11656088,2023-05-23,Method and apparatus for estimating a location of a vehicle,0,G01C|G01S|G06N|G06T|G06V|G08G
+11653172,2023-05-16,Determining whether a tracking device is within an area of interest based on at least one set of radio signal observation results captured by a tracking device,0,G01S|H04W
+11651274,2023-05-16,"Method, apparatus, and system for providing semantic filtering",0,G06F|G06N|H04L
+11651244,2023-05-16,Method and apparatus for predicting sensor error,1,G01C|G01S|G05D|G06N|G06T|H04N
+11651191,2023-05-16,"Methods, apparatuses, and computer program products using a repeated convolution-based attention module for improved neural network implementations",0,G06N|G06V
+11647531,2023-05-09,Crowdsourcing performance indicators,0,G01S|H04L|H04W
+11645839,2023-05-09,Lane feature detection in aerial images based on road geometry,0,G01C|G06F|G06T|G06V
+11645730,2023-05-09,"Method, apparatus, and computer program product for identifying privacy risks in datasets",0,G06F|G06Q|H04L|H04W
+11644333,2023-05-09,"Apparatus, method, and computer program product for generating map data of categorized links",1,G01C|G06F
+11640282,2023-05-02,"Method, apparatus, and system for providing a broker for data modeling and code generation",2,G06F
+11639185,2023-05-02,"Method to predict, react to, and avoid loss of traction events",1,B60W|G06N|G08G
+11636760,2023-04-25,Detection and estimation of variable speed signs,2,G06F|G06V|G08G
+11636405,2023-04-25,"Method, apparatus and computer program product for vehicle platooning",3,G01C|G05D|G06Q|G08G|H04L|H04W
+11627432,2023-04-11,Method and apparatus for improving positioning performance by analyzing signals transmitted via different sub-channels,0,H04B|H04L|H04W
+11624626,2023-04-11,"Method, apparatus and computer program product for using a location graph to enable natural guidance",0,G01C|G06F|G06T|G06V|H04W
+11610332,2023-03-21,Method and apparatus for detecting a start location and end location of a bridge,0,G06T|G06V
+11602974,2023-03-14,System and method for generating map data associated with road objects,0,B60H|G01C|G06T|H04W
+11600006,2023-03-07,Deep neural network architecture for image segmentation,0,G05D|G06N|G06T|G06V
+11594137,2023-02-28,Method and apparatus for providing mobility insight data for points of interest,0,G01C|G06Q|G08G|H04W
+11592516,2023-02-28,Positioning based on calendar information,0,G01S|G06Q|H04W
+11592297,2023-02-28,Method and apparatus for updating maps using gradient thresholding,0,G01C|G06N|G06T|G06V
+11587433,2023-02-21,"Method, apparatus, and system for probe anomaly detection",0,G08G|H04W
+11587253,2023-02-21,"Method, apparatus, and computer program product for displaying virtual graphical data based on digital signatures",0,G06F|G06T|H04L
+11580850,2023-02-14,"Method, apparatus and computer program product for determining lane status confidence indicators using probe data",0,G06F|G06V|G08G
+11580755,2023-02-14,"Method, apparatus, and system for determining polyline homogeneity",0,G01C|G05D|G06F|G06T|G06V
+11580080,2023-02-14,Methods and apparatus for cross-checking the reliability of data,0,G06F|G06Q
+11579625,2023-02-14,Method and apparatus for de-biasing the detection and labeling of objects of interest in an environment,0,G01C|G05D|G06T|G06V
+11578982,2023-02-14,Method and apparatus for map matching trace points to a digital map,2,G01C|G06F|G06V
+11570581,2023-01-31,Updating a radio map based on a sequence of radio fingerprint,1,G01S|H04W
+11570576,2023-01-31,Image-based approach for device localization based on a vehicle location,0,G01C|G01S|G08G|H04W
+11568354,2023-01-31,Method and apparatus for generating delivery data models for aerial package delivery,0,B25J|G05D|G06Q|Y10S
+11567928,2023-01-31,Apparatus and methods for updating a map database,0,G06F
+11562168,2023-01-24,Clustering for K-anonymity in location trajectory data,3,G06F|G06V|H04W
+11557132,2023-01-17,Lane marking,0,G05D|G06F|G06V|G08G|H04W
+11557130,2023-01-17,Method and apparatus for determining the classification of an object,0,G06F|G06V
+11557059,2023-01-17,System and method for determining position of multi-dimensional object from satellite images,1,G06T|G06V
+11553448,2023-01-10,Method and apparatus for restricting use of a beamforming node for positioning purposes,0,H04W
+11551373,2023-01-10,System and method for determining distance to object on road,0,G06T|G08G
+11550864,2023-01-10,Service graph for location-based searching,1,G06F
+11550340,2023-01-10,Method and apparatus for providing dynamic obstacle data for a collision probability map,0,B64U|G05D|G06T|G06V|G08G
+11549816,2023-01-10,Systems and methods for controlling mapping information inaccuracies,0,G01C|G06N|G06V
+11546779,2023-01-03,Method and apparatus for accelerating estimation of a radio model of an access point,0,G06F|H04B|H04L|H04W
+11546724,2023-01-03,"Method, apparatus, and system for determining a non-specific location according to an observed mobility pattern derived from non-positioning related sensor data",0,H04W
+11544950,2023-01-03,Method and apparatus for updating road map geometry based on received probe data,0,G01C|G06F|G06T|G06V|G09B
+11544329,2023-01-03,Data augmentation for location-based searching,0,G06F
+11537953,2022-12-27,Method and apparatus for proactive booking of a shared vehicle,16,G01C|G06N|G06Q
+11537944,2022-12-27,Method and system to generate machine learning model for evaluating quality of data,0,G05D|G06N
+11537924,2022-12-27,Systems and methods for reconstructing a trajectory from anonymized data,0,G01C|G01S|G06F|G06N
+11536576,2022-12-27,Map data compatibility processing architecture,0,G01C|G06F
+11536573,2022-12-27,"Method, apparatus, and computer program product for generating correspondence between map versions",0,G01C|G06F|G06V|G08G
+11531081,2022-12-20,Assisted positioning for indoor positioning services,0,G01S|H04W
+11526628,2022-12-13,Method and apparatus for device-side trajectory anonymization based on negative gapping,0,G01C|G06F|H04L|H04W
+11526480,2022-12-13,Decoding a route encoded by a probabilistic encoding data structure,4,G01C|G06F|H04L
+11521487,2022-12-06,System and method to generate traffic congestion estimation data for calculation of traffic condition in a region,0,G06F|G06N|G06V|G08G
+11521023,2022-12-06,Automatic building detection and classification using elevator/escalator stairs modeling—building classification,0,G01C|G06F|G06N|G06V
+11519744,2022-12-06,Apparatus and associated methods for indicating road data gatherer upload zones,0,G01C|G08G|H04W
+11514780,2022-11-29,"Method, apparatus and computer program product for defining a strand upstream of a direction-based traffic link",0,G08G|H04L|H04W
+11510026,2022-11-22,Radio-visual approach for device localization based on a vehicle location,1,G01S|G06T|H04W
+11507775,2022-11-22,Method and apparatus for matching heterogeneous feature spaces,1,G06F|G06V
+11506744,2022-11-22,Aligning indoor maps with QR-codes,0,G01S|G06K|H04W
+11506499,2022-11-22,Determining of absolute altitudes of floors of a structure,0,G01C|G01S|H04W
+11501463,2022-11-15,Method and apparatus for localization of position data,0,G01C|G01S|G06F|G06N|G06T|G06V
+11501104,2022-11-15,"Method, apparatus, and system for providing image labeling for cross view alignment",2,G06F|G06T|G06V
+11494673,2022-11-08,Automatic building detection and classification using elevator/escalator/stairs modeling-user profiling,0,G06N|G06Q
+11493645,2022-11-08,Method and apparatus for selectively utilizing an online positioning system to determine a reference position associated with fingerprint data,1,G01S|H04W
+11480652,2022-10-25,Service for real-time spoofing/jamming/meaconing warning,0,G01S|G06F|H04K
+11480647,2022-10-25,Collecting a database of spoofed devices,0,G01S|G06F|H04W
+11480439,2022-10-25,"Method, apparatus, and computer program product for traffic optimized routing",0,G01C|G06F
+11475677,2022-10-18,"Method, apparatus, and system for generating synthetic image data for machine learning",1,G06F|G06N|G06V|G08G
+11474511,2022-10-18,"Method, apparatus and computer program product for determining a measure of probe quality",0,G05B|G06Q
+11474193,2022-10-18,Camera calibration for localization,1,G01C|G01S|G06T|H04N
+11473798,2022-10-18,Analyzing sets of altitude data from mobile device groups to detect that a state of an air-conditioning system has changed,0,F24F|G01C|H04W
+11468768,2022-10-11,"Method, apparatus, and system for automatic road closure detection during probe anomaly",1,G01C|G06F|G08G
+11460315,2022-10-04,Method and apparatus for computing shared vehicle parking search routes,4,G01C|H04W
+11454501,2022-09-27,Providing constraint to a position,0,G01C|G06F
+11449768,2022-09-20,"Method, apparatus, and system for providing a redundant feature detection engine",1,G06F|G06N|G06T|G06V
+11449543,2022-09-20,"Method, apparatus, and computer program product for vehicle localization via amplitude audio features",0,B60W|G06F|H04W
+11448513,2022-09-20,Methods and systems for generating parallel road data of a region utilized when performing navigational routing functions,0,G01C|G06F
+11443465,2022-09-13,"Method, apparatus, and computer program product for generating turn paths through an intersection",1,G01C|G05D|G06T
+11443442,2022-09-13,Method and apparatus for localizing a data set based upon synthetic image registration,0,G01C|G06T
+11443341,2022-09-13,"Method, apparatus, and computer program product for organizing pedestrian movement",0,G06Q|H04W
+11438861,2022-09-06,Using motion state of mobile device for position estimate,1,G01C|G01S|H04M|H04W
+11430335,2022-08-30,Method and apparatus for providing large scale vehicle routing,0,G01C|G06F|G06V|G08G
+11428535,2022-08-30,System and method for determining a sign type of a road sign,1,G01C|G06F|G06N|G08G
+11428534,2022-08-30,"Method, apparatus, and computer program product for map matching location data to a map",1,G01C|G06F|G06T
+11423925,2022-08-23,Method and apparatus for determining vehicle class based upon audio data,0,G06N|G10L
+11423677,2022-08-23,Automatic detection and positioning of pole-like objects in 3D,2,G01C|G01S|G05D|G06F|G06T|G06V
+11423660,2022-08-23,Methods and systems for determining emergency data for a vehicle,2,B60K|G06N|G06T|G06V
+11423062,2022-08-23,Apparatus and methods for generating update data for a map database,0,G06F
+11421996,2022-08-23,"Method, apparatus, and system for comparing and assimilating road lane representations using geospatial data and attribute data",0,G01C|G06T
+11420649,2022-08-23,"Method, apparatus, and computer program product for generating turn paths through an intersection",1,B60W|G06F|G08G
+11416456,2022-08-16,"Method, apparatus, and computer program product for data quality analysis",0,G06F
+11415659,2022-08-16,Privacy sensitive positioning,0,G01S|H04W
+11415431,2022-08-16,Method and apparatus for disambiguating probe points within an ambiguous probe region,0,B60W|G01C|G06F|G08G|G09B
+11410074,2022-08-09,"Method, apparatus, and system for providing a location-aware evaluation of a machine learning model",1,G06F|G06N
+11408972,2022-08-09,Device-centric learning of manipulated positioning,0,G01S|G06F|H04L|H04W
+11405751,2022-08-02,"Method, apparatus, and computer program product for anonymizing trajectories including endogenous events",0,G06F|H04W
+11399256,2022-07-26,Storage size based offloading of geofence processing,0,H04L|H04W
+11398142,2022-07-26,System and method for indoor route navigation,0,A62B|G01C|G05D|G06Q|G08B|H04W
+11397818,2022-07-26,"Method, apparatus and computer program product for determining a semantic privacy index",1,G01C|G06F|G06N
+11395092,2022-07-19,Device location verification for updated map data,0,H04L|H04W
+11393489,2022-07-19,"Method, apparatus, and computer program product for road noise mapping",0,B60W|G01C|G01S|G06F|G10L|H04R
+11392797,2022-07-19,"Method, apparatus, and system for filtering imagery to train a feature detection model",0,G06F|G06V
+11391595,2022-07-19,"Method, apparatus, and computer program product for updating a map database",0,G01C|G06F|G06T
+11388572,2022-07-12,Configuration of a communication connection,0,H04W|Y02D
+11388555,2022-07-12,"Method, apparatus, and computer program product for quantifying human mobility",1,G06V|H04W
+11388548,2022-07-12,Determining or adjusting a geofence,0,H04W
+11386650,2022-07-12,"Method, apparatus, and system for detecting and map coding a tunnel based on probes and image data",0,G06F|G06V
+11386068,2022-07-12,"Method, apparatus, and computer program product for verifying and/or updating road map geometry based on received probe data",1,G01C|G06F
+11382148,2022-07-05,Lane aware clusters for vehicle to vehicle communication,0,G08G|H04B|H04W
+11381935,2022-07-05,Radio maps for location and/or positioning services,0,A61G|G01S|H04W
+11378405,2022-07-05,Method and apparatus for iterative refinement of parameters of a localization framework,0,G01C|G05D|G06F
+11375336,2022-06-28,Radio-based occupancies in venues,1,G06Q|G07C|H04W
+11373115,2022-06-28,Asynchronous parameter aggregation for machine learning,4,G01C|G06N|G06V
+11367252,2022-06-21,System and method for generating line-of-sight information using imagery,0,G06T
+11363462,2022-06-14,Crowd-sourcing of potentially manipulated radio signals and/or radio signal parameters,0,G01S|H04W
+11362833,2022-06-14,"Method, apparatus, and system for embedding information into probe data",1,G06F|H04L
+11361490,2022-06-14,Attention guidance for ground control labeling in street view imagery,0,G06F|G06T|G06V|G09G
+11358605,2022-06-14,Method and apparatus for generating a passenger-based driving profile,0,B60W|G05D|G06F|G06N|G06V|H04Q
+11356501,2022-06-07,"Method, apparatus, and system for dynamic beacons address allocation",3,B64U|G01S|G05D|G08G|H04B|H04L
+11354293,2022-06-07,Method and apparatus for indexing multi-dimensional records based upon similarity of the records,0,G06F|G06N
+11350281,2022-05-31,Identifying potentially manipulated radio signals and/or radio signal parameters based on radio map information,1,H04L|H04W
+11350241,2022-05-31,Condition based accurate indoor positioning,0,G01C|H04M|H04W
+11346683,2022-05-31,Method and apparatus for providing argumentative navigation routing,0,G01C|G06N
+11346567,2022-05-31,Analyzing pressure data from a stationary mobile device to detect that a state of an air-conditioning system has changed,0,F24F|G01C|G01S|H04W
+11343790,2022-05-24,Positioning of low power devices,0,G01S|H04L|H04W|Y02D
+11343636,2022-05-24,Automatic building detection and classification using elevator/escalator stairs modeling—smart cities,0,G06N|G06Q|H04W
+11343316,2022-05-24,Highly assisted driving platform,0,B60Q|B60W|G05D|G07C|G08G|H04L
+11341512,2022-05-24,Distinguishing between pedestrian and vehicle travel modes by mining mix-mode trajectory probe data,0,G01C|G06Q|G08G
+11341334,2022-05-24,Method and apparatus for evaluating natural language input to identify actions and landmarks,0,G06F
+11340077,2022-05-24,Driving condition specific sensor quality index,0,B60W|G01C|G05D|G06F|G06V
+11337035,2022-05-17,Selective enabling of offline positioning,0,G01S|H04W
+11337029,2022-05-17,Map based feedback loop for vehicle observations,0,G01C|G01S|G06T|G06V|H04W
+11335187,2022-05-17,Dynamic privacy-sensitive operating modes,2,G06F|G08G
+11334605,2022-05-17,Incremental update of compressed navigational databases,0,G01C|G06F|H03M
+11333505,2022-05-17,Method and system to generate updated map data for parallel roads,0,G01C|G06F|G06V|G08G
+11322025,2022-05-03,Method and system for validating existence of roadwork,1,G01C|G06F|G06V|G08G
+11321567,2022-05-03,Routing based on touch points,0,G06F|G06V
+11317247,2022-04-26,"Method, apparatus, and system for data-driven evaluation of heuristics for trajectory cropping",1,G01C|G06F|G08G|H04W
+11314517,2022-04-26,Method and apparatus for updating pipeline operations for data processing,2,G06F|G06N
+11313940,2022-04-26,Advertising ambient pressure information,0,G01C|G01S|G01W|H04W
+11313939,2022-04-26,Self-correction of a radio map,0,G01S|H04W
+11303621,2022-04-12,Method and apparatus for pairing autonomous vehicles to share navigation-based content,1,G01C|G05D|H04L|H04W
+11301722,2022-04-12,"Method, apparatus, and system for providing map embedding analytics",1,G06F|G06N|G06V
+11295519,2022-04-05,Method for determining polygons that overlap with a candidate polygon or point,0,G06T
+11293762,2022-04-05,System and methods for generating updated map data,0,G01C|G06F|G06V|G08G|H04L|H04W
+11290326,2022-03-29,Method and apparatus for regulating resource consumption by one or more sensors of a sensor array,0,H04L|H04N
+11287510,2022-03-29,Client-based storing of tuning parameters for positioning services,0,G01S|H04W
+11287267,2022-03-29,Maplets for maintaining and updating a self-healing high definition map,2,G01C|G06F|G06V
+11287266,2022-03-29,Maplets for maintaining and updating a self-healing high definition map,0,G01C|G06F|G06V
+11283620,2022-03-22,"Method, apparatus, and system for providing a homomorphic cryptosystem",0,G01C|H04L|H04W
+11282394,2022-03-22,Methods and systems for spatial clustering based on mobility data,2,G06F|G08G|H04W
+11280622,2022-03-22,Maplets for maintaining and updating a self-healing high definition map,0,G01C|G06F|G06V
+11272334,2022-03-08,Determining a path of a mobile device in a public transportation building,0,G01C|G01S|H04W
+11270578,2022-03-08,"Method, apparatus, and system for detecting road closures based on probe activity",2,G01C|G06F|G08G
+11270162,2022-03-08,Method and apparatus for detecting objects of interest in an environment,0,G05D|G06F|G06T|G06V
+11265252,2022-03-01,Wireless network optimization,1,G06Q|G08G|H04L|H04W
+11263726,2022-03-01,"Method, apparatus, and system for task driven approaches to super resolution",2,G06N|G06T
+11263549,2022-03-01,"Method, apparatus, and system for in-vehicle data selection for feature detection model creation and maintenance",2,G05D|G06F|G06N|G06V
+11263245,2022-03-01,Method and apparatus for context based map data retrieval,1,G01C|G06F|G06N
+11262209,2022-03-01,Methods and systems for road work extension identification,0,G01C|G08G|H04L|H04W
+11256782,2022-02-22,"Method and apparatus for transmitting, activating, purchasing and accessing protected content and services from connected devices",0,G06F|H04L
+11255680,2022-02-22,Maplets for maintaining and updating a self-healing high definition map,0,G01C|G06F|G06V
+11250051,2022-02-15,"Method, apparatus, and system for predicting a pose error for a sensor system",2,G01C|G06F|G06N|G06T|G06V
+11249984,2022-02-15,System and method for updating map data in a map database,1,G06F
+11249168,2022-02-15,Multiple timing advance measurements for positioning,0,G01S|H04W
+11248929,2022-02-15,Methods and systems for chronicled history information in a map,0,G01C|G06F
+11248908,2022-02-15,Precise altitude estimation for indoor positioning,0,G01C|G01S|H04W
+11248815,2022-02-15,Analyzing a mobile device's movement pattern during a pressure change to detect that a state of an air-conditioning system has changed,0,F24F|G01C|G01S|G05B|H04W
+11244193,2022-02-08,"Method, apparatus and computer program product for three dimensional feature extraction from a point cloud",0,G01S|G05B|G06F|G06T|G06V
+11244178,2022-02-08,Method and system to classify signs,0,G01C|G06F|G06V|G08G
+11244177,2022-02-08,Methods and systems for roadwork zone identification,1,B60W|G06F|G06V
+11238291,2022-02-01,"Method, apparatus, and computer program product for determining if probe data points have been map-matched",0,G01C|G06F|G06V
+11237012,2022-02-01,"Method, apparatus, and system for determining a navigation route based on vulnerable road user data",0,G01C|G06F|G06V|G08G
+11237007,2022-02-01,Dangerous lane strands,2,G01C|G06F|G08G
+11232582,2022-01-25,Visual localization using a three-dimensional model and image segmentation,0,G01C|G06F|G06T|G06V|H04W
+11227486,2022-01-18,"Method, apparatus, and system for estimating vulnerable road users",0,G06F|G06V|G08G
+11227420,2022-01-18,Hazard warning polygons constrained based on end-use device,0,G01C|G06T|G08G
+11226391,2022-01-18,Floor levels of a venue,2,G01C|G01S|H04W
+11222527,2022-01-11,"Method, apparatus, and system for vehicle map data update",1,G01C|G05D|G06K|G08G|H04L|H04W
+11221626,2022-01-11,Drone-based collection of location-related data,1,B64U|G05D|G06T|G06V|H04W
+11221390,2022-01-11,Compressing and decompressing data about radio signals,0,G01S|H04L|H04W
+11221389,2022-01-11,Statistical analysis of mismatches for spoofing detection,1,G01S|H04B|H04W
+11217104,2022-01-04,Airflow modeling for route optimization,0,G01C|G05D|G06Q|G08G|G09B
+11215462,2022-01-04,"Method, apparatus, and system for location correction based on feature point correspondence",2,G01C|G06F|G06T
+11212649,2021-12-28,Determining a non-GNSS based position of a mobile device,6,G01C|G01S|G08G|H04W
+11200431,2021-12-14,Method and apparatus for providing lane connectivity data for an intersection,1,G01C|G06F|G06V|G08G
+11194847,2021-12-07,"Method, apparatus, and computer program product for building a high definition map from crowd sourced data",1,G01C|G05D|G06F|G06V
+11194846,2021-12-07,Method and apparatus for providing automated generation of parking restriction data using machine learning,5,G01C|G06F|G06N|G06Q
+11193789,2021-12-07,"Method, apparatus, and computer program product for identifying at-risk road infrastructure",0,G01C|G06F|G06N|G06T
+11193779,2021-12-07,Decoding routes to pois in proximity searches using bloom filters,2,G01C|G06F
+11192558,2021-12-07,"Method, apparatus, and system for providing road curvature data",4,B60W|G01C|G06N|G06V
+11189032,2021-11-30,Method and apparatus for extracting a satellite image-based building footprint,1,G06F|G06T|G06V
+11188765,2021-11-30,Method and apparatus for providing real time feature triangulation,0,G06F|G06T|G06V
+11188575,2021-11-30,Map updates from a connected vehicle fleet,2,G06F|H04L
+11188350,2021-11-30,Method and apparatus for streaming map data based on data types,0,G01C|G06F|G08G|H04L|H04N
+11187546,2021-11-30,Bloom filter route encoding,5,G01C|G06F
+11182942,2021-11-23,Map generation system and method for generating an accurate building shadow,0,G06T
+11182607,2021-11-23,"Method, apparatus, and system for determining a ground control point from image data using machine learning",0,G06F|G06V
+11178546,2021-11-16,Authentication of satellite navigation system receiver,0,G01S|H04L|H04W
+11175141,2021-11-16,Checking map alignment,0,G01C|G06F|G09B
+11170485,2021-11-09,"Method, apparatus, and system for automatic quality assessment of cross view feature correspondences using bundle adjustment techniques",0,G01C|G06T
+11170251,2021-11-09,Method and apparatus for predicting feature space decay using variational auto-encoder networks,0,G01C|G05D|G06F|G06V
+11170228,2021-11-09,One-dimensional vehicle ranging,0,G01S|G06T|G06V
+11170138,2021-11-09,Geographic position calculation for sign placement based on destination profiling of probe data,1,G01C|G06F|G08G
+11168997,2021-11-09,Reverse natural guidance,0,G01C|G06F|G08G|G10L
+11168989,2021-11-09,Supervised point map matcher,3,G01C|G05D|G06F
+11165574,2021-11-02,Secure map data storage using encoding by algorithm pool,0,G06F|H04L
+11164031,2021-11-02,System and method for analyzing an image of a vehicle,1,G01C|G06T|G06V
+11163554,2021-11-02,Method and apparatus for identifying abandoned applications and services,1,G06F|G06N
+11163319,2021-11-02,Link level wind factor computation for efficient drone routing using 3D city map data,4,B64U|G01C|G05D|G06F|G06Q
+11162797,2021-11-02,Map matching method and apparatus,0,G01C|G06F|H04W
+11160047,2021-10-26,Determining motion information associated with a mobile device,0,G01S|H04W
+11157531,2021-10-26,Navigation data source indicating spatial occupancy,0,G05D|G06F|G06T|G06V
+11156694,2021-10-26,Supporting a selection of a floor,2,G01C|G01S|H04W
+11153842,2021-10-19,Determining radio node identifiers,0,G01S|H04W
+11151471,2021-10-19,Method and apparatus for predictive classification of actionable network alerts,8,G06N|H04L
+11151391,2021-10-19,Method and apparatus for creating a visual map without dynamic content,3,G01C|G05D|G06F|G06T|G06V
+11150650,2021-10-19,"Method, apparatus, and system for operating a vehicle based on vulnerable road user data",0,B60W|G01C|G05D|G06F|G08G
+11150646,2021-10-19,Delivery with swarming aerial vehicles,1,B64U|G01W|G05D|G06Q|G08G
+11144788,2021-10-12,Method and apparatus for providing a low-power perception architecture,0,G06F|G06V
+11137261,2021-10-05,Method and apparatus for determining and presenting a spatial-temporal mobility pattern of a vehicle with respect to a user based on user appointments,0,G01C|G06Q
+11137259,2021-10-05,Bloom filter route decoding,2,G01C|G06Q|H04L
+11134462,2021-09-28,Supporting a secure terrestrial transmitter based positioning,0,H04B|H04L|H04W
+11134461,2021-09-28,Methods and systems for making a determination of whether a mobile device is positioned indoors or outdoors,2,G01S|H04W
+11128982,2021-09-21,Automatic building detection and classification using elevator/escalator stairs modeling,0,G01C|G06N|G08G|H04W
+11126200,2021-09-21,"Method, apparatus, and system for providing an interface for publishing sensor data requests in campaign management platform",0,G01C|G05D|G06F|G06Q
+11125851,2021-09-21,Generate a radio map for indoor navigation,0,G01S|H04B|H04W
+11125575,2021-09-21,Method and apparatus for estimating a location of a vehicle,2,G01C|G01S|G06N|G06T|G06V|G08G
+11125574,2021-09-21,Navigation optimized for unexpected traffic events,0,G01C|G06F
+11119493,2021-09-14,Data mining in a digital map database to identify unusually narrow lanes or roads and enabling precautionary actions in a vehicle,0,B60W|G01C|G05D|G06F|G09B
+11118916,2021-09-14,"Method, apparatus, and system for providing a campaign management platform to discover map data",1,G01C|G06F|G08G|H04W
+11115814,2021-09-07,Use of encryption to provide positioning support services,1,G01S|H04L|H04W
+11115399,2021-09-07,Method and apparatus for generating an intelligent primary key facilitating faster object retrieval,0,G06F|H04L
+11113839,2021-09-07,"Method, apparatus, and system for feature point detection",0,G06T|G06V
+11113320,2021-09-07,Versioned change propagation,0,G01C|G06F
+11112251,2021-09-07,"Method, apparatus, and computer program product for generating correspondence between map versions",0,G01C|G06F|G08G|H03K
+11107302,2021-08-31,Methods and systems for emergency event management,1,B60W|G07C|G08B|G08G|H04W
+11107235,2021-08-31,Systems and methods for identifying data suitable for mapping,1,G06F|G06T
+11107175,2021-08-31,"Method, apparatus, and system for providing ride-sharing functions based on joint motion",1,G06N|G06Q|G07F
+11100457,2021-08-24,Venue map based security infrastructure management,22,G06F|G06Q|H04L|H04W
+11096026,2021-08-17,Road network change detection and local propagation of detected change,1,G01C|G05D|G06V|G08G|H04W
+11093760,2021-08-17,Predicting features on a road network with repeating geometry patterns,3,G06F|G06V
+11093759,2021-08-17,Automatic identification of roadside objects for localization,3,G01S|G06F|G06V
+11092443,2021-08-17,"Method, apparatus, and system for categorizing a stay point based on probe data",0,G01C|G06F|H04W
+11087469,2021-08-10,"Method, apparatus, and system for constructing a polyline from line segments",1,G06T|G06V
+11085791,2021-08-10,"Method, apparatus, and computer program product for on-street parking localization",2,G01C|G06F|G06T|G06V
+11085778,2021-08-10,Method and apparatus for providing opportunistic intermodal routes with shared vehicles,0,G01C|G06Q|H04W
+11082535,2021-08-03,Location enabled augmented reality (AR) system and method for interoperability of AR applications,1,G06F|G06T|H04L
+11080311,2021-08-03,Method and apparatus for identifying critical parameters of a localization framework based on an input data source,0,G06F
+11076300,2021-07-27,Determining a plurality of potential installation positions,0,G01S|H04L|H04W
+11074812,2021-07-27,"Method, apparatus, and computer program product for reducing redundant data uploads",0,G01C|G08G|H04W
+11067989,2021-07-20,"Apparatus, method and computer program product for facilitating navigation of a vehicle based upon a quality index of the map data",0,G01C|G05D|G06F|G06V
+11067404,2021-07-20,Vehicle usage-based pricing alerts,0,G01C|G06Q|H04L
+11064322,2021-07-13,"Method, apparatus, and system for detecting joint motion",0,G01C|H04B|H04L|H04W
+11060879,2021-07-13,"Method, system, and computer program product for generating synthetic demand data of vehicle rides",0,G01C|G05D|G06Q|G08G
+11055862,2021-07-06,"Method, apparatus, and system for generating feature correspondence between image views",0,B60R|G06N|G06T
+11055546,2021-07-06,Automatic positioning of 2D image sign sightings in 3D space,1,G01S|G06F|G06T|G06V
+11054497,2021-07-06,Hybrid radio maps,2,G01S|H04W
+11054277,2021-07-06,Bloom filter multiple traffic-aware route encoding,2,G01C|G06F
+11049390,2021-06-29,"Method, apparatus, and system for combining discontinuous road closures detected in a road network",0,G01C|G06F|G08G
+11049135,2021-06-29,Offers system,1,G06Q
+11047699,2021-06-29,Bloom filter multiple traffic-aware route decoding,14,G01C|G06F|G06Q|G08G
+11043117,2021-06-22,Method and apparatus for next token prediction based on previously observed tokens,0,G06F|G06Q|G08G
+11042648,2021-06-22,Quantification of privacy risk in location trajectories,0,G06F|H04L|H04W
+11035686,2021-06-15,Use of geographic database comprising lane level information for traffic parameter prediction,0,G01C|G06F|G08G
+11035678,2021-06-15,Automatic localization geometry detection,0,G01C|G01S|G06T
+11030457,2021-06-08,Lane feature detection in aerial images based on road geometry,1,G01C|G06F|G06T|G06V
+11024166,2021-06-01,"Method, apparatus, and computer program product for estimating traffic speed through an intersection",1,G08G|H04W
+11024054,2021-06-01,"Method, apparatus, and system for estimating the quality of camera pose data using ground control points of known quality",1,G06T
+11023752,2021-06-01,Method and system for learning about road signs using hierarchical clustering,0,G06F|G06V
+11023747,2021-06-01,"Method, apparatus, and system for detecting degraded ground paint in an image",2,G01C|G06F|G06T|G06V
+11022457,2021-06-01,"Method, apparatus, and computer program product for lane-level route guidance",1,B60W|G01C|G06F|G06V|G08G
+11022445,2021-06-01,Segmented path coordinate system,0,G01C|G01S|G06F|G06T
+11019459,2021-05-25,"Method, apparatus, and system for base station selection for differential positioning",4,G01S|H04L|H04W
+11017675,2021-05-25,Method and apparatus for providing mobility insight data for points of interest,0,G01C|G06Q|G08G|H04W
+11017669,2021-05-25,Methods and systems for providing parking assistance for vehicles,0,G01C|G06N|G08G
+11017499,2021-05-25,"Method, apparatus, and computer program product for generating an overhead view of an environment from a perspective image",0,G01C|G06T
+11016999,2021-05-25,Use of geographic database comprising lane level information for traffic parameter prediction,0,G01C|G06F|G08G|H04L
+11012832,2021-05-18,Metric for evaluating indoor positioning systems,0,G01S|H04B|H04W
+11010621,2021-05-18,Automatic detection and positioning of structure faces,0,G01S|G05D|G06T|G06V
+11003190,2021-05-11,Methods and systems for determining positional offset associated with a road sign,0,G05D|G06F|G06V
+10997740,2021-05-04,"Method, apparatus, and system for providing real-world distance information from a monocular image",1,G06T|G06V
+10989545,2021-04-27,"Method, apparatus, and computer program product for map data agnostic route fingerprints",1,G01C|G06F
+10984552,2021-04-20,"Method, apparatus, and system for recommending ground control points for image correction",1,G01C|G06T
+10982969,2021-04-20,"Method, apparatus, and computer program product for lane-level route guidance",0,G01C|G06F|G08G
+10979850,2021-04-13,Method and apparatus for federated location fingerprinting,0,G01C|G06F|G06N|H04W
+10976747,2021-04-13,Method and apparatus for generating a representation of an environment,1,G01C|G05D|G06F|G06V
+10976164,2021-04-13,Methods and systems for route generation through an area,2,G01C|G06F
+10972900,2021-04-06,Method and apparatus for providing selected access to user mobility data based on a quality of service,0,H04W
+10972873,2021-04-06,Enhancing the accuracy for device localization,1,G01C|G01S|G10L|H04W
+10970597,2021-04-06,"Method, apparatus, and system for priority ranking of satellite images",0,G06F|G06V
+10970542,2021-04-06,Scalable three dimensional object segmentation,2,G05D|G06F|G06T|G06V
+10962381,2021-03-30,"Method, apparatus, and computer program product for creating traffic information for specialized vehicle types",0,G01C|G05D|G06N|G08G
+10955256,2021-03-23,Mapping system and method for applying texture to visual representations of buildings,0,G01C|G06F|G06T
+10949707,2021-03-16,"Method, apparatus, and system for generating feature correspondence from camera geometry",1,G01C|G06T|G06V
+10943152,2021-03-09,"Method, apparatus, and system for detecting a physical divider on a road segment",0,G01S|G06F|G06N|G06V|H04L
+10942245,2021-03-09,Identifying potentially manipulated radio signals and/or radio signal parameters based on a first radio map information and a second radio map information,2,G01S|H04W
+10936762,2021-03-02,Structural representation and facilitation of manipulation thereof via implicit vertex relationships,0,B23P|E04B|G06F
+10935627,2021-03-02,Identifying potentially manipulated radio signals and/or radio signal parameters,2,G01S|H04W
+10930143,2021-02-23,Node-centric navigation optimization,1,G01C|G08G|H04W
+10929696,2021-02-23,"Method, apparatus, and system for determining a negative observation of a road feature",2,G06F|G06N|G06V
+10928831,2021-02-23,Method and apparatus for de-biasing the detection and labeling of objects of interest in an environment,0,G01C|G05D|G06T|G06V
+10922845,2021-02-16,Apparatus and method for efficiently training feature detectors,0,G06T
+10922840,2021-02-16,Method and apparatus for localization of position data,1,G01C|G01S|G06F|G06N|G06T|G06V
+10922558,2021-02-16,Method and apparatus for localization using search space pruning,0,G05D|G06F|G06V
+10921130,2021-02-16,Method and apparatus for providing an indoor pedestrian origin-destination matrix and flow analytics,0,G01C|G01S|G06Q|H04B|H04W
+10921128,2021-02-16,Method and apparatus for mapping underground or interior drone routes,1,B64U|G01C|G05D|G06F|G06T|G08G
+10915914,2021-02-09,"Method, apparatus, and computer program product for incentivizing travel along road segments",1,G01C|G06F|G06Q|G07C
+10909714,2021-02-02,"Method, apparatus, and system for providing a distance marker in an image",0,B60R|G01C|G06T|G06V
+10909470,2021-02-02,Method and apparatus for providing semantic-free traffic prediction,1,G06N|G08G
+10908614,2021-02-02,Method and apparatus for providing unknown moving object detection,6,G01C|G05D|G06F|G06N|G06V|H04L

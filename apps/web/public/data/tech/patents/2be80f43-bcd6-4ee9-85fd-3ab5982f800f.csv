@@ -1,0 +1,560 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430042,2025-09-30,Memory buffer devices with modal encryption,0,G06F
+12423022,2025-09-23,Page table entries for uncompressed page caching,0,G06F
+12412603,2025-09-09,Flexible metadata allocation and caching,0,G06F|G11C
+12411781,2025-09-09,Memory system with cached memory module operations,0,G06F|G11C
+12411729,2025-09-09,Energy-efficient error-correction-detection storage,0,G06F
+12401393,2025-08-26,"Configurable, power supply voltage referenced single-ended signaling with ESD protection",0,G06F|H01L|H03F|H04B|H04L
+12399636,2025-08-26,"Multi-modal refresh of dynamic, random-access memory",0,G06F|G11C
+12395173,2025-08-19,Integrated circuit that applies different data interface terminations during and after write data reception,0,G06F|G11C|H03K
+12394500,2025-08-19,Memory system with error detection,0,G06F|G11C
+12394471,2025-08-19,Memory system topologies including a memory die stack,0,G06F|G11C|H01L
+12393547,2025-08-19,Interface with variable data rate,0,G06F|H04L|Y02D
+12393531,2025-08-19,Quad-channel DRAM,0,G06F|G11C
+12386763,2025-08-12,Protocol including selective output by memory of a timing reference signal,0,G06F|G11C
+12386551,2025-08-12,Low overhead page recompression,0,G06F
+12379955,2025-08-05,Stall-driven multi-processing,0,G06F|G11C
+12379858,2025-08-05,Memory module with persistent calibration,0,G06F|G11C
+12375109,2025-07-29,Integration of compression algorithms with error correction codes,0,G06F|G11C|H03M
+12373333,2025-07-29,Memory system with activate-leveling method,0,G06F
+12367921,2025-07-22,System application of DRAM component with cache mode,0,G06F|G11C
+12367159,2025-07-22,Low latency memory access,0,G06F|G11C|Y02D
+12353337,2025-07-08,Methods and circuits for aggregating processing units and dynamically allocating memory,0,G06F|G06N|H01L
+12353283,2025-07-08,Serial presence detect reliability,0,G06F|G11C
+12347480,2025-07-01,Memory system with multiple open rows per bank,0,G06F|G11C|Y02D
+12347479,2025-07-01,Command-triggered data clock distribution mode,0,G06F|G11C|Y02D
+12346608,2025-07-01,Asynchronous arbitration across clock domains for register writes in an integrated circuit chip,0,G06F|G11C|Y02D
+12346604,2025-07-01,Stacked device communication,0,G06F|G11C
+12346567,2025-07-01,Partial array refresh timing,0,G06F|G11C|Y02D
+12346283,2025-07-01,Interface clock management,0,G06F|Y02B|Y02D
+12346198,2025-07-01,Selectable multi-stage error detection and correction,0,G06F
+12346188,2025-07-01,Optimizing power in a memory device,0,G06F|G11C|H03L
+12340123,2025-06-24,"Memory systems, modules, and methods for improved capacity",0,G06F|G11C|Y02D
+12340085,2025-06-24,Data buffer for memory devices with unidirectional ports,0,G06F|G11C
+12332709,2025-06-17,Multi-element memory device with power for individual elements,0,G06F|G11C
+12327590,2025-06-10,Hybrid volatile and non-volatile memory device,0,G06F|G11C
+12327049,2025-06-10,Stacked memory device with paired channels,0,G06F|G11C|H01L
+12327042,2025-06-10,Securing dynamic random access memory (DRAM) contents to non-volatile in a persistent memory module,0,G06F
+12326751,2025-06-10,Drift detection in timing signal forwarded from memory controller to memory device,0,G06F|H03L|H04L|Y02D
+12321502,2025-06-03,Integrity and data encryption (IDE) buffer device with low-latency containment mode,0,G06F
+12321268,2025-06-03,Far memory allocator for data center stranded memory,0,G06F
+12321234,2025-06-03,Energy efficient storage of error-correction-detection information,0,G06F
+12316482,2025-05-27,"High-speed signaling systems and methods with adaptable, continuous-time equalization",0,H04B|H04L
+12316481,2025-05-27,Edge based partial response equalization,0,G06F|H04L
+12316327,2025-05-27,Phase interpolator with sub-period phase correction,0,G06F|H03K
+12314607,2025-05-27,Variable memory access granularity,0,G06F|G11C
+12314212,2025-05-27,High level instructions with lower-level assembly code style primitives within a memory appliance for accessing memory,0,G06F|H04L
+12314162,2025-05-27,Circuits and methods for self-adaptive decision-feedback equalization in a memory system,0,G06F|G11C
+12314113,2025-05-27,Memory controller operable in data loop-back mode,0,G06F|G11C|Y02D
+12307126,2025-05-20,Cascaded memory system,0,G06F|G11C
+12306716,2025-05-20,Error coalescing,0,G06F|H03M
+12306711,2025-05-20,Dynamically configurable memory error control schemes,0,G06F
+12300303,2025-05-13,Signal skew in source-synchronous system,0,G06F|G11C
+12299285,2025-05-13,Compressed memory buffer device,0,G06F|G11C
+12298926,2025-05-13,"High-performance, high-capacity memory systems and modules",0,G06F
+12298920,2025-05-13,Memory access during memory calibration,0,G06F
+12298848,2025-05-13,Memory error detection,0,G06F|H03M
+12298842,2025-05-13,Memory module register access,0,G06F|G11C
+12287712,2025-04-29,Failover methods and systems in three-dimensional memory device,0,G06F|G11C|H01L
+12287705,2025-04-29,Memory device and repair method with column-based error code tracking,0,G06F|G11C
+12267187,2025-04-01,"Split-path equalizer and related methods, devices and systems",0,H03L|H04L
+12253903,2025-03-18,Remedial action indication,0,G06F|H03M|H04L
+12249392,2025-03-11,Memory controller with staggered request signal output,0,G06F|G11C
+12237258,2025-02-25,Crosstalk cancelation structures having metal layers between signal lines semiconductor packages,0,H01L|H03K|H04B
+12237255,2025-02-25,Vertical interconnects with variable pitch for scalable escape routing,0,H01L
+12236111,2025-02-25,Maintenance operations in a DRAM,0,G06F|G06Q|G11C
+12235712,2025-02-25,Dynamically changing data access bandwidth by selectively enabling and disabling data links,0,G06F|Y02D
+12232246,2025-02-18,Structure for delivering power,0,H01B|H01L|H05K
+12230355,2025-02-18,Hierarchical bank group timing,0,G06F|G11C
+12229435,2025-02-18,Memory component with input/output data rate alignment,0,G06F|G11C|H01L
+12228961,2025-02-18,Memory system using asymmetric source-synchronous clocking,0,G06F|G11C
+12224748,2025-02-11,Integrated circuit with configurable on-die termination,0,H03K|H04B|H04L
+12224032,2025-02-11,Forwarding signal supply voltage in data transmission system,0,G06F|G11C|H04L
+12223209,2025-02-11,"High capacity, high performance memory system",0,G06F
+12223207,2025-02-11,Memory component having internal read-modify-write operation,0,G06F|G11C
+12222880,2025-02-11,Stacked semiconductor device assembly in computer system,0,G06F|G11C|H01L|H10D
+12222871,2025-02-11,Methods and apparatuses for addressing memory caches,0,G06F|G11C
+12222829,2025-02-11,Memory module with dedicated repair devices,0,G06F|G11C
+12216543,2025-02-04,Fault tolerant memory systems and components with interconnected and redundant data interfaces,0,G06F|H01L
+12213548,2025-02-04,Hybrid memory module,0,A41D|A45F|G06F|G11C
+12212646,2025-01-28,Power efficient circuits and methods for phase alignment,0,G11C|H03L|H04L
+12211540,2025-01-28,Protocol for refresh between a memory controller and a memory device,0,G06F|G11C|Y02D
+12210467,2025-01-28,Memory modules and systems with variable-width data ranks and configurable data-rank timing,0,G06F
+12206423,2025-01-21,Variable resolution digital equalization,0,H03M|H04L
+12205669,2025-01-21,Memory buffer with data scrambling and error correction,0,G06F|G11C
+12204758,2025-01-21,Near-memory compute module,0,G06F|Y02D
+12204469,2025-01-21,Unsuccessful write retry buffer,0,G06F
+12204446,2025-01-21,Compression via deallocation,0,G06F
+12200860,2025-01-14,Load reduced memory module,0,G06F|G11C|H05K
+12200096,2025-01-14,Low power edge and data sampling,0,H04L
+12198780,2025-01-14,"Memory controllers, systems, and methods supporting multiple request modes",0,G06F|G11C
+12197731,2025-01-14,Memory system with threaded transaction support,0,G06F|G11C
+12197602,2025-01-14,Redundant data log retrieval in multi-processor device,0,G06F|H04L
+12197354,2025-01-14,Memory module threading with staggered data transfers,0,G06F|G11C
+12190974,2025-01-07,DRAM retention test method for dynamic error correction,0,G06F|G11C
+12189548,2025-01-07,Buffer IC with asymmetric memory module interfaces,0,G06F|Y02D
+12189523,2025-01-07,Command-differentiated storage of internally and externally sourced data,0,G06F|G11C
+12174749,2024-12-24,Page table manager,0,G06F
+12170126,2024-12-17,Stacked DRAM device and method of manufacture,0,G11C|H01L|H10B
+12165047,2024-12-10,Memory-integrated neural network,0,G06F|G06J|G06N|Y02D
+12164808,2024-12-10,Quad-data-rate (QDR) host interface in a memory system,0,G06F|G11C
+12164447,2024-12-10,Off-module data buffer,0,G06F|G11C
+12148462,2024-11-19,High capacity memory system using standard controller component,0,G06F|G11C
+12147367,2024-11-19,Folded memory modules,0,G06F|Y02D
+12147362,2024-11-19,Deterministic operation of storage class memory,0,G06F
+12147351,2024-11-19,Heterogenous-latency memory optimization,0,G06F
+12147345,2024-11-19,Managing memory maintenance operations in a memory system having backing storage media,0,G06F|G11C|Y02D
+12147285,2024-11-19,Power management integrated circuit device having multiple initialization/power up modes,0,G05F|G06F
+12142348,2024-11-12,Memory device comprising programmable command-and-address and/or data interfaces,0,G11C|H01L
+12141081,2024-11-12,Training and operations with a double buffered memory topology,0,G06F|G11C|H03K
+12136452,2024-11-05,Method and apparatus for calibrating write timing in a memory system,0,G06F|G11C
+12135901,2024-11-05,Joint command dynamic random access memory (DRAM) apparatus and methods,0,G06F|G11C
+12135645,2024-11-05,Nonvolatile physical memory with DRAM cache,0,G06F|G11C
+12131796,2024-10-29,Memory bandwidth aggregation using simultaneous access of stacked semiconductor memory die,0,G11C|H01L
+12131067,2024-10-29,Multiple host memory controller,0,G06F
+12130772,2024-10-29,Multi-processor device with external interface failover,0,G06F
+12130759,2024-10-29,Protocol including timing calibration between memory request and data transfer,0,G06F
+12130757,2024-10-29,Memory module with reduced read/write turnaround overhead,0,G06F|G11C
+12130703,2024-10-29,Memory component with error-detect-correct code interface,0,G06F
+12125556,2024-10-22,Data buffer for memory devices with memory address remapping,0,G06F|G11C
+12124392,2024-10-22,Stacked device system,0,G06F|G06N|H01L|Y02D
+12124382,2024-10-22,Cache memory that supports tagless addressing,0,G06F
+12119042,2024-10-15,Low-power source-synchronous signaling,0,G06F|G11C|H04L|Y02D
+12112063,2024-10-08,Reordering memory controller,0,G06F
+12111723,2024-10-08,Memory repair method and apparatus based on error code tracking,0,G06F|G11C|H03M
+12105975,2024-10-01,Adjustable access energy and access latency memory system and devices,0,G06F|G11C|Y02D
+12099454,2024-09-24,Memory appliance couplings and operations,0,G06F|Y02D
+12094553,2024-09-17,Timing-drift calibration,0,G01R|G06F|G11C|H03L
+12093180,2024-09-17,Tags and data for caches,0,G06F|Y02D
+12087681,2024-09-10,Packaged integrated device with memory buffer integrated circuit die and memory devices on module substrate,0,G11C|H01L
+12086441,2024-09-10,Block copy,0,G06F|G11C
+12086060,2024-09-10,Interconnect based address mapping for improved reliability,0,G06F|G11C
+12086039,2024-09-10,High performance persistent memory,0,G06F|G11C
+12086010,2024-09-10,Using dynamic bursts to support frequency-agile memory interfaces,0,G06F|Y02D
+12079486,2024-09-03,High-throughput low-latency hybrid memory module,0,G06F|G11C|Y02D
+12079135,2024-09-03,Techniques for storing data and tags in different memory arrays,0,G06F|G11C
+12074623,2024-08-27,PAM-4 DFE architectures with symbol-transition dependent DFE tap values,0,H04B|H04L
+12073111,2024-08-27,Domain-selective control component,0,G06F
+12072817,2024-08-27,Flash memory device having a calibration mode,0,G06F|Y02D
+12072807,2024-08-27,Storage and access of data and tags in a multi-way set associative cache,0,G06F|G11C
+12072802,2024-08-27,Hybrid memory module,0,G06F
+12067294,2024-08-20,Interface circuit for converting a serial data stream to a parallel data scheme with data strobe preamble information in the serial data stream,0,G06F|G11C
+12067285,2024-08-20,Buffer circuit with data bit inversion,0,G06F|G11C
+12067261,2024-08-20,Serial presence detect logging,0,G06F
+12066958,2024-08-20,Clock generation for timing communications with ranks of memory devices,0,G06F|G11C|H04L
+12066957,2024-08-20,Interface for memory readout from a memory component in the event of fault,0,G06F|Y02D
+12050787,2024-07-30,Memory controller systems with nonvolatile memory for storing operating parameters,0,G06F|G11C
+12050513,2024-07-30,Energy-efficient error-correction-detection storage,0,G06F
+12032845,2024-07-09,Memory controller partitioning for hybrid memory system,0,G06F|G11C
+12032508,2024-07-09,Interface clock management,0,G06F|Y02B|Y02D
+12027197,2024-07-02,Signal skew in source-synchronous system,1,G06F|G11C
+12026104,2024-07-02,Multiple precision memory system,0,G06F|G06N
+12026038,2024-07-02,Memory controller with error detection and retry modes of operation,0,G06F|G11C|H03M|H04L
+12014089,2024-06-18,"High capacity, high performance memory system",0,G06F
+12007916,2024-06-11,Local internal discovery and configuration of individually selected and jointly selected devices,0,G06F|G11C
+12002532,2024-06-04,Command/address channel error detection,0,G06F|G11C
+12002513,2024-06-04,Self-annealing data storage system,0,G11C|H01L
+12001697,2024-06-04,"Multi-modal refresh of dynamic, random-access memory",0,G06F|G11C
+12001283,2024-06-04,Energy efficient storage of error-correction-detection information,0,G06F
+11996167,2024-05-28,Generating random addresses for nonvolatile storage of sensitive data,0,G06F|G11C
+11996160,2024-05-28,Low power signaling interface,0,G06F|G11C|H03K|H10N
+11994930,2024-05-28,Optimizing power in a memory device,1,G06F|G11C|H03L
+11990912,2024-05-21,Data transmission using delayed timing signals,0,G06F|G11C|H03K
+11990177,2024-05-21,Multi-die memory device,0,G11C|H01L
+11989609,2024-05-21,Method of securing a comparison of data during the execution of a program,0,G06F|G06K|G09C|H04L
+11989430,2024-05-21,Memory module with persistent calibration,1,G06F|G11C
+11983137,2024-05-14,Memory system with independently adjustable core and interface data rates,0,G06F|Y02D
+11983031,2024-05-14,Drift detection in timing signal forwarded from memory controller to memory device,0,G06F|H03L|H04L|Y02D
+11977442,2024-05-07,Serial presence detect reliability,0,G06F|G11C
+11973153,2024-04-30,Synchronous wired-or ACK status for memory with variable write latency,0,G06F|H10F|Y02D
+11972121,2024-04-30,Load-reduced DRAM stack,0,G06F|G11C|H01L|Y02D
+11967364,2024-04-23,Variable width memory module supporting enhanced error detection and correction,0,G06F|G11C
+11963299,2024-04-16,Load reduced memory module,1,G06F|G11C|H05K
+11960438,2024-04-16,Methods and circuits for streaming data to processing elements in stacked processor-plus-memory architecture,0,G06F
+11960418,2024-04-16,Semiconductor memory systems with on-die data buffering,1,G06F|G11C
+11960344,2024-04-16,Memory controller with looped-back calibration data receiver,1,G06F|G11C|Y02D
+11955165,2024-04-09,Memories and memory components with interconnected and redundant data interfaces,0,G11C|H01L
+11955161,2024-04-09,Command-triggered data clock distribution mode,0,G06F|G11C|Y02D
+11953981,2024-04-09,Memory module register access,0,G06F|G11C
+11953934,2024-04-09,Memory system using asymmetric source-synchronous clocking,0,G06F|G11C
+11949539,2024-04-02,Burst-tolerant decision feedback equalization,0,G06F|G11C|H04L
+11948619,2024-04-02,Protocol for memory power-mode control,0,G06F|G11C|Y02D
+11947474,2024-04-02,Multi-mode memory module and memory component,0,G06F
+11947471,2024-04-02,Unsuccessful write retry buffer,0,G06F
+11947468,2024-04-02,Memory access during memory calibration,0,G06F
+11941369,2024-03-26,Dual-domain combinational logic circuitry,0,G06F|H03K
+11941256,2024-03-26,Maintenance operations in a DRAM,0,G06F|G06Q|G11C
+11940857,2024-03-26,Multi-element memory device with power control for individual elements,1,G06F|G11C
+11934654,2024-03-19,Memory device having hidden refresh,0,G06F|G11C
+11928020,2024-03-12,Memory error detection,0,G06F|H03M
+11922066,2024-03-05,Stacked device communication,0,G06F|G11C
+11921650,2024-03-05,Dedicated cache-related block transfer in a memory system,0,G06F|G11C|Y02D
+11921642,2024-03-05,Methods and apparatuses for addressing memory caches,0,G06F|G11C
+11921576,2024-03-05,Memory device and repair method with column-based error code tracking,0,G06F|G11C
+11915136,2024-02-27,High-bandwidth neural network,0,G06N
+11914888,2024-02-27,Memory component with input/output data rate alignment,0,G06F|G11C|H01L
+11914863,2024-02-27,Data buffer for memory devices with unidirectional ports,0,G06F|G11C
+11914508,2024-02-27,Memory controller supporting nonvolatile physical memory,0,G06F
+11907555,2024-02-20,"High performance, high capacity memory modules and systems",0,G06F|Y02D
+11907139,2024-02-20,Memory system design using buffer(s) on a mother board,0,G06F|Y02D
+11900985,2024-02-13,Clocking architecture supporting multiple data rates and reference edge selection,0,G06F|G11C|H03K
+11900981,2024-02-13,Protocol for refresh between a memory controller and a memory device,0,G06F|G11C|Y02D
+11899597,2024-02-13,High capacity memory system with improved command-address and chip-select signaling mode,1,G06F
+11899571,2024-02-13,Memory system with activate-leveling method,0,G06F
+11894093,2024-02-06,Stacked DRAM device and method of manufacture,0,G11C|H01L|H10B
+11886375,2024-01-30,Interface with variable data rate,0,G06F|H04L|Y02D
+11886360,2024-01-30,Memory module with programmable command buffer,0,G06F|G11C
+11886272,2024-01-30,Dynamically changing data access bandwidth by selectively enabling and disabling data links,0,G06F|Y02D
+11882647,2024-01-23,Structure for delivering power,0,H01B|H01L|H05K
+11876652,2024-01-16,Direct digital sequence detection and equalization,0,H04L
+11875870,2024-01-16,Forwarding signal supply voltage in data transmission system,1,G06F|G11C|H04L
+11868619,2024-01-09,Partial array refresh timing,0,G06F|G11C|Y02D
+11862236,2024-01-02,Memory component for deployment in a dynamic stripe width memory system,0,G06F|G11C|Y02D
+11862235,2024-01-02,Stacked semiconductor device,0,G11C|H01L
+11861051,2024-01-02,Buffer access for side-channel attack resistance,0,G06F|G09C|H04L
+11860813,2024-01-02,High level instructions with lower-level assembly code style primitives within a memory appliance for accessing memory,0,G06F|H04L
+11854658,2023-12-26,Memory buffer with data scrambling and error correction,0,G06F|G11C
+11853600,2023-12-26,"Memory systems, modules, and methods for improved capacity",0,G06F|G11C|Y02D
+11843372,2023-12-12,Integrated circuit with configurable on-die termination,0,H03K|H04B|H04L
+11842762,2023-12-12,System application of DRAM component with cache mode,0,G06F|G11C
+11842761,2023-12-12,Memory system with multiple open rows per bank,1,G06F|G11C|Y02D
+11842760,2023-12-12,Memory controller for strobe-based memory systems,0,G06F|G11C
+11841793,2023-12-12,Switch-based free memory tracking in data center environments,0,G06F
+11836099,2023-12-05,Memory system with cached memory module operations,0,G06F|G11C
+11836044,2023-12-05,Error coalescing,0,G06F|H03M
+11830573,2023-11-28,Memory controller with staggered request signal output,1,G06F|G11C
+11829640,2023-11-28,Asynchronous arbitration across clock domains for register writes in an integrated circuit chip,0,G06F|G11C|Y02D
+11829308,2023-11-28,Flash memory device having a calibration mode,0,G06F|Y02D
+11829307,2023-11-28,DRAM interface mode with interruptible internal transfer operation,0,G06F|Y02D
+11823757,2023-11-21,System including hierarchical memory modules having different types of integrated circuit memory devices,0,G06F|G11C|Y02D
+11823732,2023-11-21,High capacity memory system using standard controller component,0,G06F|G11C
+11822822,2023-11-21,Memory component having internal read-modify-write operation,1,G06F|G11C
+11816047,2023-11-14,Protocol including a command-specified timing reference signal,0,G06F|G11C
+11815940,2023-11-14,"Dynamic random access memory (DRAM) component for high-performance, high-capacity registered memory modules",0,G06F|G11C
+11811397,2023-11-07,Overdriven switch,0,F25D|G06F|H03K|Y02D
+11811379,2023-11-07,Noise reducing receiver,0,H03H|H04B|H04L
+11809712,2023-11-07,Memory system with threaded transaction support,0,G06F|G11C
+11809345,2023-11-07,Data-buffer component with variable-width data ranks and configurable data-rank timing,3,G06F
+11804259,2023-10-31,Floating body dram with reduced access energy,0,G06F|G11C
+11803489,2023-10-31,Calibration protocol for command and address bus voltage reference in low-swing single-ended signaling,2,G06F|Y02D
+11803328,2023-10-31,Memory with variable access granularity,0,G06F|G11C
+11803323,2023-10-31,Cascaded memory system,1,G06F|G11C
+11797227,2023-10-24,Memory controller for micro-threaded memory operations,0,G06F|G11C
+11792057,2023-10-17,Phase modulated data link for low-swing wireline applications,0,H04L
+11790973,2023-10-17,Memory component with efficient write operations,0,G06F|G11C|Y02D
+11790962,2023-10-17,Strobe acquisition and tracking,0,G06F|G11C
+11789662,2023-10-17,System and method of interfacing co-processors and input/output devices via a main memory system,0,G06F|H03M|H04L
+11783879,2023-10-10,Memory device comprising programmable command-and-address and/or data interfaces,1,G11C|H01L
+11782863,2023-10-10,Memory module with configurable command buffer,0,G06F|G11C|Y02D
+11782807,2023-10-10,Memory module with dedicated repair devices,0,G06F|G11C
+11782788,2023-10-10,Error-correction-detection coding for hybrid memory module,0,G06F
+11782476,2023-10-10,Circuits and methods for sample timing in correlated and uncorrelated signaling environments,0,G06F
+11776627,2023-10-03,Memory module for platform with non-volatile storage,0,G06F|G11C
+11775369,2023-10-03,Memory controller with error detection and retry modes of operation,1,G06F|G11C|H03M|H04L
+11775213,2023-10-03,Stacked memory device with paired channels,0,G06F|G11C|H01L
+11770275,2023-09-26,Methods and circuits for decision-feedback equalization with early high-order-symbol detection,0,H04L
+11768780,2023-09-26,Training and operations with a double buffered memory topology,0,G06F|G11C|H03K
+11762787,2023-09-19,Quad-channel DRAM,0,G06F|G11C
+11762737,2023-09-19,Memory component with error-detect-correct code interface,0,G06F
+11755523,2023-09-12,Stacked device system,0,G06F|G06N|H01L|Y02D
+11755521,2023-09-12,Folded memory modules,0,G06F|Y02D
+11755509,2023-09-12,Deterministic operation of storage class memory,0,G06F
+11755508,2023-09-12,"High-performance, high-capacity memory systems and modules",2,G06F
+11755507,2023-09-12,Memory module threading with staggered data transfers,0,G06F|G11C
+11755220,2023-09-12,Adjustable access energy and access latency memory system and devices,0,G06F|G11C|Y02D
+11750426,2023-09-05,Edge enhancement for signal transmitter,0,H04L
+11750359,2023-09-05,Low power edge and data sampling,1,H04L
+11749336,2023-09-05,Low-power source-synchronous signaling,0,G06F|G11C|H04L|Y02D
+11748493,2023-09-05,Secure asset management system,0,G06F|H04L
+11748252,2023-09-05,Data write from pre-programmed register,0,G06F|G11C
+11742277,2023-08-29,Packaged integrated device having memory buffer integrated circuit asymmetrically positioned on substrate,0,G11C|H01L
+11734106,2023-08-22,Memory repair method and apparatus based on error code tracking,0,G06F|G11C|H03M
+11733870,2023-08-22,Near-memory compute module,0,G06F|Y02D
+11727982,2023-08-15,Memory system topologies including a memory die stack,2,G06F|G11C|H01L
+11727966,2023-08-15,"Memory controllers, systems, and methods supporting multiple request modes",1,G06F|G11C
+11726920,2023-08-15,Tag processing for external caches,0,G06F
+11720485,2023-08-08,DRAM with command-differentiated storage of internally and externally sourced data,0,G06F|G11C
+11714752,2023-08-01,Nonvolatile physical memory with DRAM cache,0,G06F|G11C
+11711246,2023-07-25,Receiver/transmitter co-calibration of voltage levels in pulse amplitude modulation links,0,H03K|H04B|H04L
+11709736,2023-07-25,Fault tolerant memory systems and components with interconnected and redundant data interfaces,0,G06F|H01L
+11709525,2023-07-25,Drift detection in timing signal forwarded from memory controller to memory device,0,G06F|H03L|H04L|Y02D
+11706061,2023-07-18,High speed signaling system with adaptive transmit pre-emphasis,0,H04B|H04L
+11706060,2023-07-18,Serial-link receiver using time-interleaved discrete time gain,0,H03F|H03K|H04L
+11705187,2023-07-18,Variable width memory module supporting enhanced error detection and correction,2,G06F|G11C
+11693801,2023-07-04,Stacked semiconductor device assembly in computer system,1,G06F|G11C|H01L|H10D
+11693447,2023-07-04,Circuit and method to set delay between two periodic signals with unknown phase relationship,0,G06F|H03K
+11689246,2023-06-27,"Configurable, power supply voltage referenced single-ended signaling with ESD protection",0,G06F|H01L|H03F|H04B|H04L
+11687247,2023-06-27,High-throughput low-latency hybrid memory module,0,G06F|G11C|Y02D
+11683206,2023-06-20,Symbol-rate phase detector for multi-PAM receiver,0,H04L
+11683057,2023-06-20,PAM-4 DFE architectures with symbol-transition dependent DFE tap values,0,H04B|H04L
+11683050,2023-06-20,Memory controller and method of data bus inversion using an error detection correction code,0,G06F|H03M|Y02D
+11682448,2023-06-20,Method and apparatus for calibrating write timing in a memory system,0,G06F|G11C
+11681648,2023-06-20,Interface clock management,0,G06F|Y02B|Y02D
+11681632,2023-06-20,Techniques for storing data and tags in different memory arrays,0,G06F|G11C
+11681342,2023-06-20,Memory controller with processor for generating interface adjustment signals,0,G06F|G11C|H03K|H04L
+11677571,2023-06-13,Backside security shield,0,G06F|G06K|G09C|H01L|H04L
+11677487,2023-06-13,Network interface with timestamping and data protection,0,H04J|H04L
+11677391,2023-06-13,Low-power multi-domain synchronizer,0,G06F|H03K
+11675657,2023-06-13,Energy-efficient error-correction-detection storage,0,G06F
+11671522,2023-06-06,System and method for memory access in server communications,0,G06F|H04L
+11671286,2023-06-06,Live offset cancellation of the decision feedback equalization data slicers,0,G11C|H04L
+11669379,2023-06-06,Controller that receives a cyclic redundancy check (CRC) code for both read and write data transmitted via bidirectional data link,0,G06F|H03M|H04L
+11669124,2023-06-06,Drift tracking feedback for communication channels,0,G06F|G11C|H04L
+11665028,2023-05-30,Methods and circuits for adaptive equalization,0,G06F|H04B|H04L
+11664907,2023-05-30,Periodic calibration for communication channels by drift tracking,0,H04B|H04L
+11664332,2023-05-30,Always-on FinFET with camouflaged punch stop implants for protecting integrated circuits from reverse engineering,0,H01L|H10D
+11664067,2023-05-30,Memory system component that enables clock-to-strobe skew compensation,0,G06F|G11C
+11663138,2023-05-30,Heterogenous-latency memory optimization,0,G06F
+11657868,2023-05-23,Multi-die memory device,1,G11C|H01L
+11657007,2023-05-23,Remote memory selection,0,G06F|Y02D
+11657006,2023-05-23,Low latency memory access,0,G06F|G11C|Y02D
+11653476,2023-05-16,Memory subsystem for a cryogenic digital system,0,G06F|H01L|H05K|H10B
+11651823,2023-05-16,Fractional program commands for memory devices,0,G06F|G11C
+11651801,2023-05-16,Memory bandwidth aggregation using simultaneous access of stacked semiconductor memory die,0,G11C|H01L
+11650944,2023-05-16,Local internal discovery and configuration of individually selected and jointly selected devices,0,G06F|G11C
+11646284,2023-05-09,Method and apparatus to improve connection pitch in die-to-wafer bonding,0,G11C|H01L
+11646094,2023-05-09,Memory system with error detection,0,G06F|G11C
+11646090,2023-05-09,DRAM retention test method for dynamic error correction,1,G06F|G11C
+11645214,2023-05-09,Protocol including timing calibration between memory request and data transfer,0,G06F
+11645212,2023-05-09,Dynamic processing speed,0,G06F|H01L|Y02D
+11645152,2023-05-09,Energy efficient storage of error-correction-detection information,0,G06F
+11637076,2023-04-25,Electrically isolated gate contact in FINFET technology for camouflaging integrated circuits from reverse engineering,0,H01L|H10D
+11636915,2023-04-25,Command/address channel error detection,1,G06F|G11C
+11630788,2023-04-18,Clock generation for timing communications with ranks of memory devices,0,G06F|G11C|H04L
+11630607,2023-04-18,"High capacity, high performance memory system",0,G06F
+11625346,2023-04-11,Interface for memory readout from a memory component in the event of fault,1,G06F|Y02D
+11621030,2023-04-04,Protocol for memory power-mode control,1,G06F|G11C|Y02D
+11615037,2023-03-28,Memory module with programmable command buffer,1,G06F|G11C
+11609816,2023-03-21,Efficient storage of error correcting code information,0,G06F
+11600349,2023-03-07,Testing through-silicon-vias,0,G01R|G11C|H01L
+11599483,2023-03-07,Dedicated cache-related block transfer in a memory system,0,G06F|G11C|Y02D
+11595235,2023-02-28,Adaptive equalization using correlation of data patterns with errors,0,H04L
+11587605,2023-02-21,Command-triggered data clock distribution,0,G06F|G11C|Y02D
+11582074,2023-02-14,CTLE adaptation based on statistical analysis,0,H04L
+11582033,2023-02-14,Cryptographic management of lifecycle states,0,G09C|H04L
+11579965,2023-02-14,Memory error detection,1,G06F|H03M
+11575386,2023-02-07,Variable resolution digital equalization,0,H03M|H04L
+11573897,2023-02-07,Hybrid memory module,0,G06F
+11573849,2023-02-07,Memory module register access,1,G06F|G11C
+11569975,2023-01-31,Baud-rate clock recovery lock point control,0,H04L
+11568919,2023-01-31,High capacity memory system using standard controller component,0,G06F|G11C
+11567803,2023-01-31,Inter-server memory pooling,1,G06F
+11567695,2023-01-31,Buffer circuit with data bit inversion,0,G06F|G11C
+11567679,2023-01-31,Concurrent remote-local allocation operations,0,G06F|Y02D
+11561920,2023-01-24,Interface for bridging out-of-band information from a downstream communication link to an upstream communication link,0,G06F|H01L|H04L
+11561834,2023-01-24,Methods and systems for adaptive memory-resource management,2,G06F|G06N|Y02D
+11556433,2023-01-17,High performance persistent memory,1,G06F|G11C
+11556164,2023-01-17,Memory IC with data loopback,4,G06F|G11C|Y02D
+11552748,2023-01-10,Communication channel calibration for drift conditions,0,G11C|H04L
+11551743,2023-01-10,Strobe-offset control circuit,0,G06F|G11C
+11551741,2023-01-10,Protocol for refresh between a memory controller and a memory device,1,G06F|G11C|Y02D
+11551735,2023-01-10,"High performance, non-volatile memory module",0,G06F|G11C
+11544145,2023-01-03,Error coalescing,0,G06F|H03M
+11539556,2022-12-27,Methods and circuits for asymmetric distribution of channel equalization between devices,0,H01J|H01L|H04L|H10D
+11537540,2022-12-27,Memory system design using buffer(s) on a mother board,0,G06F|Y02D
+11537531,2022-12-27,Cache memory that supports tagless addressing,0,G06F
+11531386,2022-12-20,Multi-element memory device with power control for individual elements,2,G06F|G11C
+11526632,2022-12-13,Securing address information in a memory controller,0,G06F|H04L
+11526445,2022-12-13,Managing memory maintenance operations in a memory system having backing storage media,0,G06F|G11C|Y02D
+11522544,2022-12-06,Calibration methods and circuits to calibrate drive current and termination impedance,0,H03K|H04L
+11520633,2022-12-06,Thread associated memory allocation and memory architecture aware allocation,0,G06F|Y02D
+11520508,2022-12-06,"High performance, high capacity memory modules and systems",1,G06F|Y02D
+11507280,2022-11-22,Maintenance operations in a DRAM,0,G06F|G06Q|G11C
+11502879,2022-11-15,Multi-stage equalizer for inter-symbol interference cancellation,3,H04L
+11502878,2022-11-15,Partial response receiver,0,H04L
+11502681,2022-11-15,Method and system for balancing power-supply loading,0,G06F|H03F|H03K
+11500781,2022-11-15,Methods and apparatuses for addressing memory caches,0,G06F|G11C
+11489703,2022-11-01,Edge based partial response equalization,1,G06F|H04L
+11488018,2022-11-01,High-bandwidth neural network,2,G06N
+11487679,2022-11-01,Semiconductor memory systems with on-die data buffering,1,G06F|G11C
+11487676,2022-11-01,Address mapping in memory systems,0,G06F|Y02D
+11487617,2022-11-01,Memory component with error-detect-correct code interface,2,G06F
+11481192,2022-10-25,Dual-domain combinational logic circuitry,0,G06F|H03K
+11477059,2022-10-18,Circuits and methods for detecting and unlocking edge-phase lock,2,H03L|H04B|H04L
+11474959,2022-10-18,Memory module with reduced read/write turnaround overhead,1,G06F|G11C
+11474957,2022-10-18,Memory access during memory calibration,2,G06F
+11474590,2022-10-18,Dynamically changing data access bandwidth by selectively enabling and disabling data links,1,G06F|Y02D
+11469927,2022-10-11,"High-speed signaling systems and methods with adaptable, continuous-time equalization",0,H04B|H04L
+11467986,2022-10-11,Memory controller for selective rank or subrank access,2,G06F|G11C|H05K|Y02D|Y02P
+11463283,2022-10-04,"Split-path equalizer and related methods, devices and systems",0,H03L|H04L
+11456025,2022-09-27,Hybrid memory module,0,A41D|A45F|G06F|G11C
+11455022,2022-09-27,Using dynamic bursts to support frequency-agile memory interfaces,0,G06F|Y02D
+11451218,2022-09-20,Data transmission using delayed timing signals,0,G06F|G11C|H03K
+11450374,2022-09-20,Memory controller for strobe-based memory systems,1,G06F|G11C
+11450356,2022-09-20,Synchronous signaling interface with over-clocked timing reference,0,G06F|G11C|H03K|H10N
+11449439,2022-09-20,Fragmented periodic timing calibration,1,G06F
+11443784,2022-09-13,Command buffer chip with dual configurations,0,G06F|G11C
+11422749,2022-08-23,System and method of interfacing co-processors and input/output devices via a main memory system,0,G06F|H03M|H04L
+11411787,2022-08-09,Phase modulated data link for low-swing wireline applications,0,H04L
+11409682,2022-08-09,Folded memory modules,0,G06F|Y02D
+11409672,2022-08-09,Unsuccessful write retry buffer,0,G06F
+11409659,2022-08-09,Tags and data for caches,1,G06F|Y02D
+11405242,2022-08-02,Methods and circuits for decision-feedback equalization with early high-order-symbol detection,1,H04L
+11405174,2022-08-02,Signaling system with adaptive timing calibration,0,G11C|H03L|H04L
+11404103,2022-08-02,Method and apparatus for calibrating write timing in a memory system,0,G06F|G11C
+11403030,2022-08-02,Memory component with input/output data rate alignment,3,G06F|G11C|H01L
+11398932,2022-07-26,Methods and circuits for decision-feedback equalization using compensated decision regions,0,H04L
+11394591,2022-07-19,Edge enhancement for signal transmitter,1,H04L
+11393550,2022-07-19,Memory system with error detection,0,G06F|G11C
+11392452,2022-07-19,Serializing and deserializing stage testing,1,G06F|H03M
+11385959,2022-07-12,Memory repair method and apparatus based on error code tracking,0,G06F|G11C|H03M
+11379392,2022-07-05,Multi-mode memory module and memory component,0,G06F
+11379136,2022-07-05,Adjustable access energy and access latency memory system and devices,0,G06F|G11C|Y02D
+11378998,2022-07-05,Drift detection in timing signal forwarded from memory controller to memory device,0,G06F|H03L|H04L|Y02D
+11372795,2022-06-28,Memory with alternative command interfaces,0,G06F|G11C|Y02D
+11372784,2022-06-28,Calibration protocol for command and address bus voltage reference in low-swing single-ended signaling,0,G06F|Y02D
+11372147,2022-06-28,Phase gratings with odd symmetry for high-resolution lensless optical sensing,0,G02B|H04N|H10F
+11361839,2022-06-14,Command/address channel error detection,1,G06F|G11C
+11349496,2022-05-31,Memory controller and method of data bus inversion using an error detection correction code,0,G06F|H03M|Y02D
+11349478,2022-05-31,Integrated circuit that applies different data interface terminations during and after write data reception,0,G06F|G11C|H03K
+11347665,2022-05-31,Memory module threading with staggered data transfers,0,G06F|G11C
+11347608,2022-05-31,Memory module with dedicated repair devices,0,G06F|G11C
+11347587,2022-05-31,Energy efficient storage of error-correction-detection information,3,G06F
+11347441,2022-05-31,Memory component having internal read-modify-write operation,0,G06F|G11C
+11341086,2022-05-24,Compute accelerator with 3D data flows,0,G06F
+11341079,2022-05-24,Interface with variable data rate,0,G06F|H04L|Y02D
+11341070,2022-05-24,"Dynamic random access memory (DRAM) component for high-performance, high-capacity registered memory modules",0,G06F|G11C
+11341067,2022-05-24,Coordinating memory operations using memory-device-generated reference signals,1,G06F|G11C|Y02D
+11340973,2022-05-24,Controller that receives a cyclic redundancy check (CRC) code for both read and write data transmitted via bidirectional data link,2,G06F|H03M|H04L
+11340686,2022-05-24,Optimizing power in a memory device,2,G06F|G11C|H03L
+11328764,2022-05-10,Memory system topologies including a memory die stack,2,G06F|G11C|H01L
+11327831,2022-05-10,Energy-efficient error-correction-detection storage,3,G06F
+11327524,2022-05-10,Drift tracking feedback for communication channels,0,G06F|G11C|H04L
+11323297,2022-05-03,Receiver/transmitter co-calibration of voltage levels in pulse amplitude modulation links,2,H03K|H04B|H04L
+11322203,2022-05-03,Memory module for platform with non-volatile storage,0,G06F|G11C
+11317510,2022-04-26,Load reduced memory module,1,G06F|G11C|H05K
+11314681,2022-04-26,Memory system with independently adjustable core and interface data rates,1,G06F|Y02D
+11314669,2022-04-26,Deterministic operation of storage class memory,0,G06F
+11309015,2022-04-19,Floating body DRAM with reduced access energy,1,G06F|G11C
+11308009,2022-04-19,Interface for memory readout from a memory component in the event of fault,2,G06F|Y02D
+11302371,2022-04-12,Memory systems and methods for dividing physical memory locations into temporal memory locations,0,G06F|G11C
+11302368,2022-04-12,Memory device with circuitry to transmit feedback indicative of a phase relationship,2,G06F|G11C
+11301405,2022-04-12,Stacked semiconductor device assembly in computer system,1,G06F|G11C|H01L|H10D
+11301378,2022-04-12,Nonvolatile physical memory with DRAM cache and mapping thereof,0,G06F|G11C
+11294830,2022-04-05,Training and operations with a double buffered memory topology,4,G06F|G11C|H03K
+11284034,2022-03-22,Fractional-readout oversampled image sensor,0,H04N
+11282552,2022-03-22,Memory buffer with data scrambling and error correction,0,G06F|G11C
+11282549,2022-03-22,Forwarding signal supply voltage in data transmission system,2,G06F|G11C|H04L
+11277254,2022-03-15,Receiver with enhanced clock and data recovery,2,G06Q|H04L
+11276440,2022-03-15,"Memory controllers, systems, and methods supporting multiple request modes",3,G06F|G11C
+11275702,2022-03-15,Memory module and registered clock driver with configurable data-rank timing,0,G06F
+11270931,2022-03-08,Isolating electric paths in semiconductor device packages,0,H01L
+11269372,2022-03-08,Circuit and method to set delay between two periodic signals with unknown phase relationship,0,G06F|H03K
+11264990,2022-03-01,Physically unclonable camouflage structure and methods for fabricating same,0,G06F|H03K|H10D
+11264085,2022-03-01,Memory component for deployment in a dynamic stripe width memory system,0,G06F|G11C|Y02D
+11263313,2022-03-01,Securing execution of a program,0,G06F|H04L
+11258641,2022-02-22,CTLE adaptation based on statistical analysis,0,H04L
+11258577,2022-02-22,Low power edge and data sampling,3,H04L
+11258522,2022-02-22,Periodic calibration for communication channels by drift tracking,0,H04B|H04L
+11256613,2022-02-22,Memory system with activate-leveling method,0,G06F
+11250901,2022-02-15,Protocol for memory power-mode control,2,G06F|G11C|Y02D
+11249845,2022-02-15,Error-correction-detection coding for hybrid memory module,0,G06F
+11249658,2022-02-15,Memory controller systems with nonvolatile memory for storing operating parameters,0,G06F|G11C
+11249649,2022-02-15,Memory system with threaded transaction support,0,G06F|G11C
+11244727,2022-02-08,Dynamic memory rank configuration,0,G11C|H01L
+11243897,2022-02-08,High capacity memory system with improved command-address and chip-select signaling mode,0,G06F
+11239827,2022-02-01,Noise reducing receiver,0,H03H|H04B|H04L
+11238003,2022-02-01,Interface clock management,1,G06F|Y02B|Y02D
+11233678,2022-01-25,High speed signaling system with adaptive transmit pre-emphasis,1,H04B|H04L
+11233589,2022-01-25,Margin test methods and circuits,1,G01R|G06F|H04B|H04L
+11232047,2022-01-25,Dedicated cache-related block transfer in a memory system,0,G06F|G11C|Y02D
+11227639,2022-01-18,Stacked DRAM device and method of manufacture,0,G11C|H01L|H10B
+11226909,2022-01-18,DRAM interface mode with interruptible internal transfer operation,0,G06F|Y02D
+11226897,2022-01-18,Hybrid memory module with improved inter-memory data transmission path,0,G06F|Y02D
+11226766,2022-01-18,Buffer circuit with data bit inversion,0,G06F|G11C
+11211960,2021-12-28,PAM-4 DFE architectures with symbol-transition dependent DFE tap values,0,H04B|H04L
+11211139,2021-12-28,Timing-drift calibration,0,G01R|G06F|G11C|H03L
+11211114,2021-12-28,Memories and memory components with interconnected and redundant data interfaces,0,G11C|H01L
+11211105,2021-12-28,Memory device comprising programmable command-and-address and/or data interfaces,2,G11C|H01L
+11210244,2021-12-28,Local internal discovery and configuration of individually selected and jointly selected devices,0,G06F|G11C
+11210242,2021-12-28,Memory system with cached memory module operations,0,G06F|G11C
+11210240,2021-12-28,Memory appliance couplings and operations,1,G06F|Y02D
+11204863,2021-12-21,Memory component that performs data write from pre-programmed register,15,G06F|G11C
+11204825,2021-12-21,Memory device and repair method with column-based error code tracking,1,G06F|G11C
+11200181,2021-12-14,Asymmetric-channel memory system,0,G06F|Y02D
+11196595,2021-12-07,PAM-4 calibration,2,H03H|H03K|H04B|H04L
+11195572,2021-12-07,Multi-die memory device,0,G11C|H01L
+11195570,2021-12-07,Low-power source-synchronous signaling,0,G06F|G11C|H04L|Y02D
+11194749,2021-12-07,Cross-threaded memory system,0,G06F|G11C
+11194509,2021-12-07,"High capacity, high performance memory system",0,G06F
+11184198,2021-11-23,Serial link receiver with improved bandwidth and accurate eye monitor,0,H03M|H04L
+11184197,2021-11-23,Burst-tolerant decision feedback equalization,0,G06F|G11C|H04L
+11181941,2021-11-23,Using a stuttered clock signal to reduce self-induced voltage noise,0,G06F|Y02D
+11176037,2021-11-16,Wear leveling in a memory system,0,G06F
+11170842,2021-11-09,Stacked semiconductor device,0,G11C|H01L
+11165613,2021-11-02,High-speed signaling systems with adaptable pre-emphasis and equalization,1,H04L|H04W|Y02D
+11164622,2021-11-02,Variable width memory module supporting enhanced error detection and correction,0,G06F|G11C
+11163930,2021-11-02,Secure logic locking and configuration with camouflaged programmable micro netlists,0,G06F|H03K|H10D
+11153133,2021-10-19,Methods and circuits for adaptive equalization,0,G06F|H04B|H04L
+11150982,2021-10-19,Memory error detection,1,G06F|H03M
+11146269,2021-10-12,Low power cryogenic switch,0,F25D|G06F|H03K|Y02D
+11139842,2021-10-05,Transmit driver architecture,0,H03M|H04B|H04L
+11133843,2021-09-28,Transmitter/receiver with small-swing level-shifted output,0,H04B|H04L
+11132328,2021-09-28,High level instructions with lower-level assembly code style primitives within a memory appliance for accessing memory,0,G06F|H04L
+11132307,2021-09-28,Low latency memory access,1,G06F|G11C|Y02D
+11128831,2021-09-21,Image sensor having sub-diffraction-limit pixels,0,H04N|H10F
+11128499,2021-09-21,Serial-link receiver using time-interleaved discrete time gain,0,H03F|H03K|H04L
+11128388,2021-09-21,Communication channel calibration using feedback,0,H04B|H04L
+11121904,2021-09-14,System and method for memory access in server communications,0,G06F|H04L
+11121894,2021-09-14,Direct sequence detection and equalization,0,H04L
+11121893,2021-09-14,Equalizing transmitter and method of operation,0,H04L
+11115247,2021-09-07,Methods and circuits for asymmetric distribution of channel equalization between devices,0,H01J|H01L|H04L|H10D
+11115179,2021-09-07,Signaling system with adaptive timing calibration,0,G11C|H03L|H04L
+11114150,2021-09-07,Memory system with multiple open rows per bank,0,G06F|G11C|Y02D
+11109512,2021-08-31,Memory subsystem for a cryogenic digital system,0,G06F|H01L|H05K|H10B
+11108510,2021-08-31,Communication channel calibration for drift conditions,0,G11C|H04L
+11106542,2021-08-31,Memory mirroring,0,G06F|Y02D
+11101393,2021-08-24,Synchronous wired-OR ACK status for memory with variable write latency,0,G06F|H10F|Y02D
+11100976,2021-08-24,Memory controller with clock-to-strobe skew compensation,0,G06F|G11C
+11088880,2021-08-10,Phase modulated data link for low-swing wireline applications,0,H04L
+11083077,2021-08-03,Structure for delivering power,1,H01B|H01L|H05K
+11082268,2021-08-03,Adaptive equalization using correlation of data patterns with errors,0,H04L
+11080185,2021-08-03,Hybrid memory module,1,G06F
+11080137,2021-08-03,Error coalescing,0,G06F|H03M
+11075671,2021-07-27,"Configurable, power supply voltage referenced single-ended signaling with ESD protection",0,G06F|H01L|H03F|H04B|H04L
+11069392,2021-07-20,Memory component with efficient write operations,0,G06F|G11C|Y02D
+11068388,2021-07-20,Verify before program resume for memory devices,0,G06F|G11C
+11068237,2021-07-20,Dual-domain combinational logic circuitry,1,G06F|H03K
+11068161,2021-07-20,Memory module with emulated memory device population,7,G06F|G11C
+11068017,2021-07-20,Memory system using asymmetric source-synchronous clocking,0,G06F|G11C
+11063791,2021-07-13,Receiver with clock recovery circuit and adaptive sample and equalizer timing,2,H04L
+11063741,2021-07-13,Phase control block for managing multiple clock domains in systems with frequency offsets,0,H03L|H04L
+11062748,2021-07-13,Strobe acquisition and tracking,1,G06F|G11C
+11061841,2021-07-13,System and method for implementing a multi-threaded device driver in a computer system,1,G06F
+11061773,2021-07-13,Fault tolerant memory systems and components with interconnected and redundant data interfaces,2,G06F|H01L
+11057247,2021-07-06,Transmitter with self-triggered transition equalizer,2,G11C|H04L
+11050500,2021-06-29,Network interface with timestamping and data protection,1,H04J|H04L
+11049546,2021-06-29,Memory component with command-triggered data clock distribution,3,G06F|G11C|Y02D
+11048410,2021-06-29,Distributed procedure execution and file systems on a memory interface,0,G06F|G11C
+11044073,2021-06-22,Countermeasures against an attack by analysis of electrical consumption for a cryptographic device,0,G06F|H04L
+11043258,2021-06-22,Memory system topologies including a memory die stack,4,G06F|G11C|H01L
+11042492,2021-06-22,Memory module with programmable command buffer,1,G06F|G11C
+11038725,2021-06-15,Symbol-rate phase detector for multi-PAM receiver,0,H04L
+11038514,2021-06-15,Variable resolution digital equalization,0,H03M|H04L
+11036398,2021-06-15,High-throughput low-latency hybrid memory module,0,G06F|G11C|Y02D
+11035989,2021-06-15,Systems and methods for improving resolution in lensless imaging,0,G02B|G03H|H04N
+11032495,2021-06-08,Shared-counter image sensor,0,H04N
+11030118,2021-06-08,Data-locking memory module,0,G06F
+11029459,2021-06-08,Phase gratings with odd symmetry for high-resolution lensless optical sensing,0,G02B|H04N|H10F
+11025274,2021-06-01,Memory controller and method of data bus inversion using an error detection correction code,0,G06F|H03M|Y02D
+11024362,2021-06-01,High capacity memory system using standard controller component,1,G06F|G11C
+11018907,2021-05-25,"Sampler reference level, DC offset, and AFE gain adaptation for PAM-N receiver",1,H04L
+11016922,2021-05-25,Interface for bridging out-of-band information from a downstream communication link to an upstream communication link,2,G06F|H01L|H04L
+11016837,2021-05-25,Memory module register access,0,G06F|G11C
+11012649,2021-05-18,Feedthrough-compensated image sensor,1,H04N|H10F
+11012071,2021-05-18,Integrated circuit with configurable on-die termination,0,H03K|H04B|H04L
+11011248,2021-05-18,DRAM retention test method for dynamic error correction,1,G06F|G11C
+11010263,2021-05-18,High performance persistent memory,0,G06F|G11C
+11010098,2021-05-18,"Memory systems, modules, and methods for improved capacity",0,G06F|G11C|Y02D
+11009548,2021-05-18,Testing fuse configurations in semiconductor devices,0,G01R|H01L
+11004530,2021-05-11,Testing through-silicon-vias,1,G01R|G11C|H01L
+11003601,2021-05-11,Memory system design using buffer(s) on a mother board,0,G06F|Y02D
+10983933,2021-04-20,Memory module with reduced read/write turnaround overhead,3,G06F|G11C
+10983700,2021-04-20,Buffering device with status communication method for memory controller,1,G06F
+10970401,2021-04-06,Secure asset management system,1,G06F|H04L
+10970240,2021-04-06,Protocol including a command-specified timing reference signal,1,G06F|G11C
+10970220,2021-04-06,Tags and data for caches,1,G06F|Y02D
+10944400,2021-03-09,On-die termination control,0,G06F|G11C|H03K
+10942682,2021-03-09,System and method of interfacing co-processors and input/output devices via a main memory system,0,G06F|H03M|H04L
+10938605,2021-03-02,"High-speed signaling systems and methods with adaptable, continuous-time equalization",0,H04B|H04L
+10923596,2021-02-16,Camouflaged FinFET and method for producing same,0,H01L|H10D

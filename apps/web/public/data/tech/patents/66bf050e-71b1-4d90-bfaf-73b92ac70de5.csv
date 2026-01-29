@@ -1,0 +1,888 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432386,2025-09-30,Random access point access unit in scalable video coding,0,H04N
+12432385,2025-09-30,Signaling in transform skip mode,0,H04N
+12432369,2025-09-30,Handling different NAL types in video sub-bitstream extraction,0,H04N
+12432355,2025-09-30,Using combined inter intra prediction in video processing,0,H04N
+12432350,2025-09-30,High level syntax for inter prediction with geometric partitioning,0,H04N
+12432077,2025-09-30,Indication of digital medial integrity,0,H04L|H04N
+12425589,2025-09-23,Simplified inter prediction with geometric partitioning,0,H04N
+12425586,2025-09-23,Using quantization groups in video coding,0,H04N
+12425585,2025-09-23,Classification in adaptive loop filtering,0,H04N
+12425578,2025-09-23,Harmonization between different video process mode,0,H04N
+12423745,2025-09-23,Method and apparatus for facilitating meta search proxy bidding,0,G06Q
+12423716,2025-09-23,"Method, apparatus, and computer program product for consumer tracking",0,G06F|G06Q|H04L
+12418662,2025-09-16,"Method, device, and medium for video processing",0,H04N
+12418647,2025-09-16,Using quantization groups in video coding,0,H04N
+12418644,2025-09-16,"Method, device, and medium for video processing",0,H04N
+12417574,2025-09-16,"Animation processing method and apparatus, electronic device and storage medium",0,G06T
+12413785,2025-09-09,Signalling of general constraints flag,0,H04N
+12413784,2025-09-09,Deblocking signaling in video coding,0,H04N
+12413762,2025-09-09,Sub-bitstream extraction of multi-layer video bitstreams,0,H04N
+12413714,2025-09-09,Syntax signaling in sub-block merge mode,0,H04N
+12407867,2025-09-02,Profile tier level parameter set in video coding,0,H04N
+12407849,2025-09-02,Cross random access point sample group,0,H04N
+12407835,2025-09-02,Interaction between IBC and affine,0,H04N
+12407831,2025-09-02,"Method, apparatus, and medium for video processing",0,H04N
+12407830,2025-09-02,Video coding using sample string vector,0,H04N
+12407829,2025-09-02,Transform coding based on matrix-based intra prediction,0,H04N
+12407812,2025-09-02,Deriving reference sample positions in video coding,0,H04N
+12401827,2025-08-26,Signaling for general constraint information in video coding,0,H04N
+12401820,2025-08-26,Interaction between merge list construction and other tools,0,H04N
+12401808,2025-08-26,Techniques for implementing a decoding order within a coded picture,0,H04N
+12401797,2025-08-26,Restrictions on motion vector difference,0,H04N
+12395682,2025-08-19,Palette mode with local dual tree modetype definition,0,H04N
+12395681,2025-08-19,Intra random access points for picture coding,0,H04N
+12395671,2025-08-19,Interaction between Intra Block Copy mode and inter prediction tools,0,H04N
+12395661,2025-08-19,Signaling of slice types in video pictures headers,0,H04N
+12395654,2025-08-19,Constraints on decoding picture buffer,0,H04N
+12395650,2025-08-19,General constraints information for video coding,0,H04N
+12395647,2025-08-19,Condition dependent video block partition,0,H04N
+12395623,2025-08-19,Intra coded video using quantized residual differential pulse code modulation coding,0,H03M|H04N
+12389046,2025-08-12,Unsymmetric binary tree partitioning and non-dyadic blocks,0,H04N
+12389037,2025-08-12,Use of secondary transform in coded video,0,H04N
+12389025,2025-08-12,Scalable nesting of supplemental enhancement information messages in video coding,0,H04N
+12388989,2025-08-12,Prediction refinement for affine merge and affine motion vector prediction mode,0,H04N
+12387228,2025-08-12,"Method, apparatus, and computer program product for forecasting demand using real time demand",0,G06F|G06Q
+12382105,2025-08-05,Padding process at unavailable sample locations in adaptive loop filtering,0,H04N
+12382103,2025-08-05,Conditional signaling of video coding syntax elements,0,H04N
+12382087,2025-08-05,HMVP table improvements,0,H04N
+12382085,2025-08-05,Decoder side motion derivation based on processing parameters,0,H04N
+12382060,2025-08-05,Chroma quantization parameter in video coding,0,H04N
+12382041,2025-08-05,Coded video processing using enhanced secondary transform,0,H04N
+12382016,2025-08-05,Size restriction for intra-block copy virtual buffer,0,H04N
+12382014,2025-08-05,Inter-prediction on non-dyadic blocks,0,H04N
+12380469,2025-08-05,"Method, apparatus, and computer program product for predicting web browsing behaviors of consumers",0,G06F|G06Q
+12375719,2025-07-29,Selective use of adaptive in-loop color-space transform and other video coding tools,0,H04N
+12375714,2025-07-29,Context coding for matrix-based intra prediction,0,H04N
+12375696,2025-07-29,Decoder configuration information in VVC video coding,0,H04N
+12375693,2025-07-29,Video decoder initialization information constraints,0,H04N
+12375690,2025-07-29,Extensions of inter prediction with geometric partitioning,0,G06T|H04N
+12375679,2025-07-29,Restricted upsampling process in matrix-based intra prediction,0,G06F|H04N
+12375650,2025-07-29,Position based mode derivation in reduced secondary transforms for video,0,H04N
+12375643,2025-07-29,Matrix derivation in intra coding mode,0,H04N
+12373094,2025-07-29,Mobile device merchant availability interface,0,G06F|G06Q|G07F|G07G
+12368880,2025-07-22,Invoke of LUT updating,0,H04N
+12368875,2025-07-22,Two-step cross-component prediction mode,0,H04N
+12368844,2025-07-22,Intra coded video using quantized residual differential pulse code modulation coding,0,H03M|H04N
+12368841,2025-07-22,Methods for cross component dependency reduction,0,H04N
+12363348,2025-07-15,Constraints on collocated pictures in video coding,0,H04N
+12363337,2025-07-15,Coding and decoding of video coding modes,0,H04N
+12363307,2025-07-15,Entropy coding for motion precision syntax,0,H04N
+12363303,2025-07-15,Minimum allowed quantization for transform skip blocks in video coding,0,H04N
+12361393,2025-07-15,Optical receipt processing,0,G06F|G06Q|G06V
+12356020,2025-07-08,Cross-component adaptive loop filtering in video coding,0,H04N
+12356017,2025-07-08,Presence of adaptation parameter set units,0,H04N
+12355983,2025-07-08,Restriction of applicability for intra block copy mode,0,H04N
+12355979,2025-07-08,Multi-models for intra prediction,0,H04N
+12354136,2025-07-08,Motion data based consumer interfaces,0,G06F|G06Q
+12348782,2025-07-01,Transform skip residual coding,0,H04N
+12348779,2025-07-01,Using subpictures and tiles in video coding,0,H04N
+12348761,2025-07-01,Merge with motion vector differencing in affine mode,0,H04N
+12348760,2025-07-01,Coding and decoding of video coding modes,0,H04N
+12348759,2025-07-01,Concept of interweaved prediction,0,H04N
+12348757,2025-07-01,Cross random access point signaling in video coding,0,H04N
+12348753,2025-07-01,Coding of picture order count in video bitstreams,0,H04N
+12348738,2025-07-01,Multiple hypothesis for sub-block prediction blocks,0,H04N
+12348723,2025-07-01,Combined intra and intra-block copy prediction for video coding,0,H04N
+12348708,2025-07-01,Mode determination for palette mode coding,0,H04N
+12348706,2025-07-01,Selective use of coding tools in video processing,0,H04N
+12346941,2025-07-01,"Method, apparatus, and computer program product for determining closing metrics",0,G06N|G06Q
+12346555,2025-07-01,Method and system for facilitating consumer interactions for performing purchase commands,0,G06F|G06Q|H04L
+12346552,2025-07-01,Method and system for use of biometric information associated with consumer interactions,0,G06F|G06Q|H04L
+12341967,2025-06-24,Interactions among multiple intra coding methods,0,H04N
+12341966,2025-06-24,Condition dependent coding of palette mode usage indication,0,H04N
+12340474,2025-06-24,"Image effect implementing method and apparatus, electronic device and storage medium",0,G06F|G06T
+12340386,2025-06-24,Method and apparatus for generating an electronic communication,0,G06Q
+12335532,2025-06-17,Using subpictures and tiles in video coding,0,H04N
+12335531,2025-06-17,Intra block copy coding and decoding,0,H04N
+12335480,2025-06-17,Independent coding of palette mode usage indication,0,H04N
+12328449,2025-06-10,Signalling of auxiliary information,0,H04N
+12328436,2025-06-10,Subpicture sub-bitstream extraction improvements,0,H04N
+12328432,2025-06-10,Implicit multiple transform set signaling in video coding,0,H04N
+12323625,2025-06-03,Selection of secondary transform matrices for video processing,0,H04N
+12323617,2025-06-03,Rounding in pairwise average candidate calculations,0,H04N
+12323583,2025-06-03,Setting intra-block copy virtual buffer based on virtual pipeline data unit,0,H04N
+12321918,2025-06-03,Consumer device presence-based transaction session,0,G06Q
+12316880,2025-05-27,Reference picture resampling,0,H04N
+12316879,2025-05-27,Signaling of subpicture level and buffering information,0,H04N
+12316878,2025-05-27,Reference picture information signaling in a video bitstream,0,H04N
+12316871,2025-05-27,Context determination for matrix-based intra prediction,0,H04N
+12316834,2025-05-27,Coefficients coding in transform skip mode,0,H04N
+12316829,2025-05-27,Dictionary based coding of video data,0,H03M|H04N
+12309413,2025-05-20,Efficient affine merge motion vector derivation,0,H04N
+12307510,2025-05-20,Managing merchant communications,0,G06Q
+12301855,2025-05-13,Inferencing weight values for video components in a bitstream,0,H04N
+12301845,2025-05-13,Parameter derivation in cross component mode,0,H04N
+12301841,2025-05-13,Subpicture sub-bitstream extraction process enhancements,0,H04N
+12301799,2025-05-13,Controlling deblocking filtering at different levels in coded video,0,H04N
+12301793,2025-05-13,Sample identification for intra block copy in video coding,0,H04N
+12299725,2025-05-13,System and method for generating geographic zone information for consumers,0,G06Q
+12294739,2025-05-06,Updating for counter-based intra prediction mode,0,H04N
+12294709,2025-05-06,Minimum allowed quantization for transform skip blocks in video coding,0,H04N
+12294701,2025-05-06,Size restriction based for chroma intra mode,0,H04N
+12293386,2025-05-06,Implicitly associating metadata using user behavior,0,G06F|G06Q
+12289466,2025-04-29,Generalized bi directional prediction mode in video processing,0,H04N
+12289451,2025-04-29,Syntax for signaling cross-component video coding,0,H04N
+12288009,2025-04-29,Apparatus and method for option data object performance prediction and modeling,0,G06F
+12287838,2025-04-29,"System, method, and computer program product for automated discovery, curation and editing of online local content",0,G06F
+12284374,2025-04-22,Data storage in buffers for intra block copy in video coding,0,H04N
+12284371,2025-04-22,Use of offsets with adaptive colour transform coding tool,0,H04N
+12284354,2025-04-22,Transform coding based on matrix-based intra prediction,0,H04N
+12284347,2025-04-22,Adaptive colour transform in image/video coding,0,H04N
+12282510,2025-04-22,Method and apparatus for identifying related records,0,G06F|G06Q
+12278998,2025-04-15,Scaling process for coding block,0,H04N
+12278985,2025-04-15,Syntax reuse for affine mode with adaptive motion vector resolution,1,G06T|H04N
+12278949,2025-04-15,Quantization properties of adaptive in-loop color-space transform for video coding,0,H04N
+12273527,2025-04-08,Padding process in adaptive loop filtering,0,H04N
+12273525,2025-04-08,Context adaptive coding of block vectors,0,H04N
+12273515,2025-04-08,Constraints on adaptation parameter set syntax elements,0,H04N
+12271927,2025-04-08,Consumer presence based deal offers,0,G06Q
+12271881,2025-04-08,Consumer device based point-of-sale,0,G06Q
+12271353,2025-04-08,Hybrid data integration platform,0,G06F
+12267520,2025-04-01,"Method, electronic device, storage medium, and recording medium for image encoding",0,H04N
+12265476,2025-04-01,"System, method, apparatus, and computer program product for providing a cache mechanism",0,G06F
+12262059,2025-03-25,Interaction between subpicture and tile row signaling,0,H04N
+12262006,2025-03-25,Cross-component adaptive filtering and subblock coding,0,H04N
+12260881,2025-03-25,"Transition type determination method and apparatus, and electronic device and storage medium",0,G06F|G06V|G11B|H04N
+12260431,2025-03-25,Seamless promotion redemption,0,G06Q|H04B|H04W
+12260421,2025-03-25,"Method, apparatus, and computer program product for providing a search feedback system",0,G06Q
+12256107,2025-03-18,Use of header syntax elements and adaptation parameter set,0,H04N
+12254500,2025-03-18,Facilitating online transactions,0,G06Q
+12248966,2025-03-11,Method and system for providing electronic marketing communications for a promotion and marketing service,0,G06Q
+12244868,2025-03-04,Signaling of general constrain information,0,H04N
+12244826,2025-03-04,Video block partition based on quinary-tree,0,H04N
+12244817,2025-03-04,Symmetric motion vector difference coding,0,H04N
+12244811,2025-03-04,Combined screen content coding mode,0,H04N
+12244794,2025-03-04,Adaptive loop filtering for chroma components,0,H04N
+12242717,2025-03-04,"Method, apparatus, and computer program product for facilitating the playback of interface events",0,G06F
+12238346,2025-02-25,Condition-dependent unsymmetrical quad-tree partitioning,0,H04N
+12238314,2025-02-25,Prediction using extra-buffer samples for intra block copy in video coding,0,H04N
+12238306,2025-02-25,Component-dependent sub-block dividing,0,H04N
+12238305,2025-02-25,Signaling and syntax for in-loop reshaping information,0,H04N
+12238303,2025-02-25,Coding of instantaneous decoding refresh subpictures,0,G06T|H04N
+12238276,2025-02-25,Coefficients coding in transform skip mode,0,H04N
+12231698,2025-02-18,Filter parameter signaling in video picture headers,0,H04N
+12231693,2025-02-18,Entropy coding for palette escape symbol,0,H04N
+12231680,2025-02-18,Using palette predictor in video coding,0,G06T|G06V|H04N
+12231659,2025-02-18,Number restriction for sublayers,0,H04N
+12231653,2025-02-18,Signaling of gradual decoding refresh and reference picture lists,0,H04N
+12231625,2025-02-18,Range constrains for block vector in intra-block copy mode,0,H04N
+12229908,2025-02-18,Interactive virtual reality system,0,G06F|G06Q|G06T|G09G
+12219424,2025-02-04,Mobile proximity based messages,0,G06Q|H04L|H04W
+12219167,2025-02-04,Coding of block vectors for intra block copy-coded blocks,0,H04N
+12219165,2025-02-04,Alignment of prediction weights in video coding,0,H04N
+12219138,2025-02-04,Simplified transform coding tools,0,H04N
+12219136,2025-02-04,Residual coding for transform skipped blocks,0,H04N
+12216896,2025-02-04,Method and system for a predefined suite of consumer interactions for initiating execution of commands,0,G06F|G06Q|H04L
+12216523,2025-02-04,System and method for error detection and monitoring of object-asset pairs,0,G06F|H04L
+12212797,2025-01-28,"Method, system, and apparatus for programmatically generating a channel incrementality ratio",0,H04N
+12212769,2025-01-28,Method for local illumination compensation,0,H04N
+12211066,2025-01-28,Customization of message delivery time based on consumer behavior,0,G06Q
+12210440,2025-01-28,Method for testing mobile application and associated apparatus and system,0,G06F|H04W
+12206902,2025-01-21,High level control of filtering in video coding,0,H04N
+12206859,2025-01-21,Cross-component adapive loop filter,0,H04N
+12206850,2025-01-21,Techniques for modifying quantization parameter in transform skip mode,0,H04N
+12206846,2025-01-21,Boundary location for adaptive loop filtering,0,H04N
+12200244,2025-01-14,Multi-HMVP for affine,1,H04N
+12200242,2025-01-14,Construction method for a spatial motion candidate list,0,H04N
+12200218,2025-01-14,Single-line cross component linear model prediction mode,0,H04N
+12200193,2025-01-14,TMVP derivation,0,H04N
+12198171,2025-01-14,"Apparatuses, computer-implemented methods, and computer program products for improved user account identification for shared account linking",0,G06Q
+12198162,2025-01-14,"Method, apparatus, and computer readable medium for providing a self-service interface",0,G06Q
+12198159,2025-01-14,Systems and methods for providing optimized leading messages,0,G06Q
+12198156,2025-01-14,"Method, apparatus, and computer program product for calculating a supply based on travel propensity",0,G06Q
+12192850,2025-01-07,Method and system for enabling the creation and maintenance of proximity-related user groups,0,H04L|H04W
+12192529,2025-01-07,Picture timing information signaling in coded video,0,H04N
+12192507,2025-01-07,Delta motion vector in prediction refinement with optical flow process,0,H04N
+12192493,2025-01-07,Techniques for generation of a conformant output sub-bitstream,2,H04N
+12192459,2025-01-07,Interplay between subpictures and in-loop filtering,3,H04N
+12184899,2024-12-31,Nested and non-nested SEI messages in video bitstreams,0,C09K|C23F|H01L|H04N
+12184872,2024-12-31,Cross-component adaptive loop filter,0,H04N
+12184865,2024-12-31,Multi-parameters based intra prediction,0,H04N
+12175483,2024-12-24,Discovery of new business openings using web content analysis,0,G06F|G06Q
+12175254,2024-12-24,Mobile service applications,0,G06F
+12174872,2024-12-24,"Method, apparatus, and computer program product for classification and tagging of textual data",0,G06F
+12170789,2024-12-17,Motion compensation along different directions,0,H04N
+12170768,2024-12-17,Table maintenance for HMVP candidate storage,1,H04N
+12170766,2024-12-17,Constraints on adaptation parameter set syntax elements,3,H04N
+12169862,2024-12-17,Online ordering for in-shop service,0,G06Q
+12167018,2024-12-10,Interaction between LUT and AMVP,2,H04N
+12166988,2024-12-10,Residual coefficients coding,0,H04N
+12166984,2024-12-10,Applicability of implicit transform selection,0,H04N
+12165171,2024-12-10,Graph-based compression of data records,0,G06F|G06Q|H03M
+12164591,2024-12-10,Network data object processing system with interdependence identification engine and multi-carousel interface,0,G06F
+12160573,2024-12-03,Intra block copy with triangular partitions,0,H04N
+12160357,2024-12-03,"Method, apparatus and computer program product for improving dynamic retry of resource service",0,H04L
+12159318,2024-12-03,"Method, apparatus, and computer readable medium for transferring of promotions",0,G06Q
+12159298,2024-12-03,Predictive recommendation system,0,G06Q
+12155825,2024-11-26,Adaptive loop filtering between different video units,2,H04N
+12154152,2024-11-26,"Method, manufacture, and apparatus for facilitating on-demand home and auto services",0,G06Q
+12153632,2024-11-26,"Method, apparatus, and computer program product for inferring device rendered object interaction behavior",0,G06F|G06N|H04L
+12153592,2024-11-26,Machine learning systems architectures for ranking,0,G06F|G06N
+12149706,2024-11-19,Signaling of gradual decoding refresh and reference picture lists,0,H04N
+12143642,2024-11-12,End of sequence indication in coded video,0,H04N
+12143641,2024-11-12,Interplay between picture header and slice header of a video bitstream,1,H04N
+12143627,2024-11-12,Interaction of asymmetric weighted merges and other coding tools,0,H04N
+12143616,2024-11-12,In-loop filtering in video processing,0,H04N
+12137257,2024-11-05,Signaling for video block partition mode,0,H04N
+12137252,2024-11-05,Signaling for inter prediction in high level syntax,3,H04N
+12136188,2024-11-05,Image/video super resolution,0,G06T
+12132899,2024-10-29,BV list construction process of IBC blocks under merge estimation region,0,H04N
+12132889,2024-10-29,Simplified history based motion vector prediction,2,H04N
+12132888,2024-10-29,Virtual prediction buffer for intra block copy in video coding,1,H04N
+12132884,2024-10-29,Palette mode coding in prediction process,2,H04N
+12131359,2024-10-29,Systems and methods for determining redemption time,0,G06Q
+12127071,2024-10-22,Methods and systems for detecting aggregation events,0,G01C|H04W
+12126825,2024-10-22,Block size restrictions for DMVR,0,H04N
+12126820,2024-10-22,Signaling non-scalable-nested hypothetical reference video decoder information,0,H04N
+12126808,2024-10-22,Restrictions on motion vector difference,1,H04N
+12126805,2024-10-22,Coding of pictures containing slices and tiles,0,H04N
+12126802,2024-10-22,Partitions on sub-block transform mode,0,H04N
+12120340,2024-10-15,Constraints for usage of updated motion information,0,H04N
+12120314,2024-10-15,Motion candidate list construction using neighboring block information,2,H04N
+12120313,2024-10-15,Restriction of applicability for intra block copy mode,1,H04N
+12120304,2024-10-15,Use restrictions for cross-component prediction,0,H04N
+12120302,2024-10-15,Coded representation of history-based motion vector prediction tables,0,H04N
+12120300,2024-10-15,Restriction on number of context coded bins,0,H04N
+12120297,2024-10-15,Sample padding in adaptive loop filtering,1,H04N
+12114020,2024-10-08,Intra video coding using multiple reference filters,0,H04N
+12114016,2024-10-08,Interplay between in-loop filtering and video slices,0,H04N
+12114013,2024-10-08,Implicit selection of transform candidates,0,H04N
+12113986,2024-10-08,Interaction between screen content coding tools and motion information,0,H04N
+12113984,2024-10-08,Motion vector derivation between color components,0,H04N
+12113972,2024-10-08,Adaptive resolution change and scalable coding for screen contents,0,H04N
+12108090,2024-10-01,Unsymmetrical quad-tree partitioning,0,H04N
+12108072,2024-10-01,Fast algorithms for symmetric motion vector difference coding mode,2,H04N
+12108068,2024-10-01,Handling different NAL types in video sub-bitstream extraction,2,H04N
+12106356,2024-10-01,"Apparatuses, computer-implemented methods, and computer program products for obfuscation of a sender of an electronically transmissible message",0,G06Q|H04L|H04W
+12106326,2024-10-01,Determining locations of interest based on user visits,0,G06Q|H04L|H04W
+12101494,2024-09-24,Prediction using intra-buffer samples for intra block copy in video coding,2,H04N
+12100020,2024-09-24,"Method, apparatus, and computer program product for ascertaining a demand of promotions",0,G06Q
+12096026,2024-09-17,Position-dependent intra prediction sample filtering,0,H04N
+12096021,2024-09-17,Signaling of in-loop reshaping information using parameter sets,0,H04N
+12096013,2024-09-17,Signaling for transform skip mode,0,H04N
+12096009,2024-09-17,Signaling constraints in non-scalable nested video syntax elements,0,H04N
+12088837,2024-09-10,Weighted prediction in video coding,0,H04N
+12088834,2024-09-10,Selective use of virtual pipeline data units for intra block copy video coding,3,H04N
+12088790,2024-09-10,Subpicture signaling in video bitstreams,0,H04N
+12088786,2024-09-10,Motion candidate list construction for intra block copy mode,0,H04N
+12086828,2024-09-10,Cadence management system for consumer promotions,0,G06Q
+12082071,2024-09-03,Method and system for determining location of mobile device,0,H04W
+12081801,2024-09-03,High level bitstream syntax for quantization parameters,0,H04N
+12081767,2024-09-03,Interaction between MV precisions and MV difference coding,3,H04N
+12081766,2024-09-03,Motion candidate list construction for video coding,0,H04N
+12081758,2024-09-03,Block dimension settings of transform skip mode,0,H04N
+12081755,2024-09-03,Context coding for transform skip mode,0,H04N
+12079841,2024-09-03,Configurable relevance service platform incorporating a relevance test driver,0,G06F|G06N|G06Q|G16H
+12079837,2024-09-03,"Method, apparatus, and computer program product for searching for promotions",0,G06Q
+12075096,2024-08-27,Identification of inter-layer reference pictures in coded video,0,H04N
+12075094,2024-08-27,Signaling in transform skip mode,3,H04N
+12075084,2024-08-27,Partial cost calculation,0,H04N
+12075038,2024-08-27,Selective use of alternative interpolation filters in video processing,0,H04N
+12075031,2024-08-27,Interactions between sub-block based intra block copy and different coding tools,0,H04N
+12075030,2024-08-27,Subpicture dependent signaling in video bitstreams,4,H04N
+12073444,2024-08-27,Method and system for programmatic analysis of consumer reviews,0,G06F|G06N|G06Q
+12069309,2024-08-20,Intra block copy coding and decoding,1,H04N
+12069292,2024-08-20,Motion vector derivation for sub-block in affine mode,0,H04N
+12069282,2024-08-20,Order-based updating for intra block copy in video coding,2,H04N
+12069278,2024-08-20,Video region partition based on color format,1,H04N
+12069262,2024-08-20,Geometric partitioning mode in video coding,1,H04N
+12069248,2024-08-20,Video processing using local illumination compensation,0,H04N
+12069239,2024-08-20,Sub-block based motion candidate selection and signaling,0,H04N
+12067594,2024-08-20,Visitor detection unit and identification system,0,G06Q
+12067585,2024-08-20,Methods and systems for determining a travel propensity configured for use in the generation of a supply index indicative of a quality of available supply,0,G06Q|H04W
+12063371,2024-08-13,Subpicture sub-bitstream extraction improvements,0,H04N
+12063362,2024-08-13,Restrictions on adaptive-loop filtering parameter sets,1,H04N
+12063356,2024-08-13,Palette mode coding in prediction process,0,H04N
+12063348,2024-08-13,Weighted sample bi-prediction in video coding,0,H04N
+12063187,2024-08-13,"Mail processing method and apparatus, device and medium",0,G06Q|H04L|H04W
+12062064,2024-08-13,Reimpression promotion system,0,G06Q
+12058380,2024-08-06,Level information in video coding,0,H04N
+12058367,2024-08-06,Context for coding affine mode adaptive motion vector resolution,0,H04N
+12058364,2024-08-06,Concept of using one or multiple look up tables to store motion information of previously coded in order and use them to code following blocks,2,H04N
+12056740,2024-08-06,"Method, apparatus, and computer program product for adaptive tail digital content object bid value generation",0,G06F|G06N|G06Q
+12056721,2024-08-06,Method and system for programmatic analysis of consumer sentiment with regard to attribute descriptors,0,G06F|G06Q
+12052420,2024-07-30,Intra prediction and residual coding,0,H04N
+12051394,2024-07-30,Automated midi music composition server,0,G06F|G06N|G10H|G11B
+12051102,2024-07-30,"Method, apparatus, and computer program product for device rendered object sets based on multiple objectives",0,G06F|G06N|G06Q|H04L
+12050630,2024-07-30,"Method, system, and apparatus for rapid geographic search in an actor-based geographic search network",0,G06F
+12047610,2024-07-23,Nonlinear adaptive loop filtering in video processing,0,H04N
+12047558,2024-07-23,Subpicture dependent signaling in video bitstreams,2,H04N
+12045859,2024-07-23,Method and system for distribution of application program for promotion and marketing service,0,G06F|G06Q|G06T
+12045857,2024-07-23,System for providing impressions based on consumer preferences for future promotions,0,G06F|G06Q
+12045732,2024-07-23,Automated dynamic data quality assessment,0,G06F|G06N
+12045292,2024-07-23,"Method, apparatus, and computer program product for predictive dynamic bidding rule generation for digital content objects",0,G06F|G06N|G06Q
+12041268,2024-07-16,History-based motion vector prediction with default parameters,0,H04N
+12041267,2024-07-16,Multi-iteration motion vector refinement,3,H04N
+12041257,2024-07-16,Signalling of weights of a reference picture list,1,H04N
+12041225,2024-07-16,Restrictions of usage of tools according to reference picture types,0,H04N
+12041223,2024-07-16,Chroma intra mode derivation in screen content coding,1,H04N
+12039567,2024-07-16,"Method, apparatus, and computer program product for predicting consumer behavior",0,G06N|G06Q
+12034975,2024-07-09,Conditional signaling of syntax elements in a picture header,1,H04N
+12034966,2024-07-09,Motion vector difference for block with geometric partition,0,H04N
+12034964,2024-07-09,Selective application of decoder side refining tools,2,H04N
+12034942,2024-07-09,Conditions for applicability of cross-component coding,1,H04N
+12034914,2024-07-09,Checking order of motion candidates in lut,3,H04N
+12034911,2024-07-09,Definition of zero unit,0,H04N
+12033209,2024-07-09,Method and apparatus for facilitating meta search proxy bidding,0,G06Q
+12033189,2024-07-09,"Method, system, and apparatus for programmatically determining and adjusting electronic bid values for a digital content object",0,G06N|G06Q|H04L
+12026746,2024-07-02,Instrument system interaction tracking,0,G06F|G06Q
+12026733,2024-07-02,System and method for real-time promotional demand management utilizing mobile e-commerce sales leads,0,G06Q
+12022130,2024-06-25,Signaling of syntax elements for joint coding of chrominance residuals,1,H04N
+12022087,2024-06-25,Mode dependent motion vector difference precision set,0,H04N
+12020278,2024-06-25,Embedded storefront,0,G06Q
+12015795,2024-06-18,Signaling of slice types in video pictures headers,2,H04N
+12014343,2024-06-18,Prescient and adaptive point-of-sale systems,0,G06F|G06Q|H04L
+12010346,2024-06-11,Transform skip residual coding,0,H04N
+12010321,2024-06-11,Affine based merge with MVD,2,H04N
+12010295,2024-06-11,Collocated picture indication in video bitstreams,0,H04N
+12008660,2024-06-11,"Systems and methods to implement point of sale (POS) terminals, process orders and manage order fulfillment",0,G06Q
+12008594,2024-06-11,Providing discounts to non-partner merchants,0,G06Q|G07F
+12003745,2024-06-04,Buffer updating for intra block copy in video coding,4,H04N
+12003715,2024-06-04,Deblocking filter for video coding,0,H04N
+12003714,2024-06-04,Deblocking filtering at coding block or subblock boundary,0,H04N
+12003712,2024-06-04,Handling video unit boundaries and virtual boundaries,4,H04N
+12003711,2024-06-04,Deblocking filter for video coding,0,H04N
+12002061,2024-06-04,"Systems, apparatus, and methods of programmatically determining unique contacts based on crowdsourced error correction",0,G06F|G06Q
+11997303,2024-05-28,Bidirectional optical flow based video coding and decoding,3,H04N
+11997301,2024-05-28,Constraints on supplemental enhancement information in video coding,1,H04N
+11997294,2024-05-28,Subpicture sub-bitstream extraction process enhancements,1,H04N
+11997277,2024-05-28,Refined quantization steps in video coding,0,H04N
+11997270,2024-05-28,Entropy coding for partition syntax,0,H04N
+11997264,2024-05-28,Chroma deblocking harmonization for video coding,0,H04N
+11997253,2024-05-28,Conditions for starting checking HMVP candidates depend on total number minus K,3,H04N
+11991397,2024-05-21,Palette mode with local dual tree modetype definition,1,H04N
+11991382,2024-05-21,Motion vector management for decoder side motion vector refinement,0,H04N
+11991358,2024-05-21,Indication of multiple transform matrices in coded video,0,H04N
+11991352,2024-05-21,Subpicture information signaling in video bitstreams,0,H04N
+11985357,2024-05-14,Signalling of the presence of inter-layer reference pictures,0,H04L|H04N
+11985340,2024-05-14,History-based affine parameters inheritance,2,H04N
+11985329,2024-05-14,Quantization parameter offset for chroma deblocking filtering,3,H04N
+11985323,2024-05-14,Quantized residual differential pulse code modulation representation of coded video,0,H04N
+11985317,2024-05-14,Coefficient scaling for high precision image and video coding,0,H04N
+11985308,2024-05-14,Implementation aspects in intra block copy in video coding,3,H04N
+11979568,2024-05-07,Boundary location for adaptive loop filtering,1,H04N
+11979567,2024-05-07,Sample padding for cross-component adaptive loop filtering,1,H04N
+11979561,2024-05-07,Intra random access points for picture coding,1,H04N
+11973973,2024-04-30,Prediction refinement based on optical flow,0,G06T|H04N
+11973971,2024-04-30,Conditions for updating LUTs,1,H04N
+11973968,2024-04-30,Signaling of coded picture buffer information in video bitstreams,2,H04N
+11973967,2024-04-30,Ordering of NAL units in coded video,0,H04N
+11973962,2024-04-30,Interaction between IBC and affine,4,H04N
+11973959,2024-04-30,Quantization parameter for chroma deblocking filtering,8,H04N
+11968405,2024-04-23,Signalling of high level syntax indication,0,H04L|H04N
+11968403,2024-04-23,Transform skip based residual coding,0,H04N
+11968402,2024-04-23,Constrains for high level syntax elements,0,H04N
+11968377,2024-04-23,Unified constrains for the merge affine mode and the non-merge affine mode,2,H04N
+11968375,2024-04-23,Scaling window in subpicture sub-bitstream extraction process,1,H04N
+11968368,2024-04-23,Cross-component prediction with multiple-parameter model,0,H04N
+11968367,2024-04-23,Context modeling of side information for reduced secondary transforms in video,0,H04N
+11962814,2024-04-16,Indication of tiles in a video picture,0,H04N
+11962799,2024-04-16,Motion candidates derivation,1,H04N
+11962790,2024-04-16,Scalable nested SEI message handling in video sub-bitstream extraction process,3,H04N
+11962771,2024-04-16,Syntax constraints in parameter set signaling of subpictures,4,H04N
+11956476,2024-04-09,Constraints on value ranges in video bitstreams,0,H04L|H04N
+11956474,2024-04-09,Signalling of general constrains flag,4,H04N
+11956465,2024-04-09,Difference calculation based on partial position,4,H04N
+11956464,2024-04-09,Inserting order of motion candidates in LUT,2,H04N
+11956454,2024-04-09,Decoded picture buffer management and subpictures in video coding,0,H04N
+11956449,2024-04-09,Simplification of combined inter-intra prediction,4,H04N
+11956448,2024-04-09,Affine prediction improvements for video coding,1,H04N
+11956439,2024-04-09,Signaling of chroma residual scaling,2,H04N
+11956438,2024-04-09,Direction-based prediction for intra block copy in video coding,4,H04N
+11956432,2024-04-09,Interplay between subpictures and in-loop filtering,4,H04N
+11956431,2024-04-09,Conditional application of inter prediction with geometric partitioning in video processing,1,H04N
+11949918,2024-04-02,Unified neural network in-loop filter signaling,1,H04N
+11949900,2024-04-02,Sub-bitstream extraction,1,C09K|C23F|H01L|H04N
+11949899,2024-04-02,Indication of end of sequence in coded video,0,H04N
+11949880,2024-04-02,Video region partition based on color format,2,H04N
+11943483,2024-03-26,Constraints on picture output ordering in a video bitstream,0,H04N
+11943481,2024-03-26,Entropy coding for palette escape symbol,2,H04N
+11943444,2024-03-26,Restricted upsampling process in matrix-based intra prediction,7,G06F|H04N
+11943439,2024-03-26,Adaptive colour transform in image/video coding,0,H04N
+11936917,2024-03-19,Processing of filler data units in video streams,0,H04L|H04N
+11936905,2024-03-19,Overlapped block motion compensation with derived motion information from neighbors,0,H04N
+11936873,2024-03-19,Cross-component coding of 4:2:0 or 4:2:2 video,0,H04N
+11936865,2024-03-19,Low frequency non-separable transform signaling in video coding,2,H04N
+11936855,2024-03-19,Alternative interpolation filters in video coding,0,H04N
+11936852,2024-03-19,Sample identification for intra block copy in video coding,3,H04N
+11930221,2024-03-12,Picture header constraints for multi-layer video coding,0,H04N
+11930220,2024-03-12,Combination of subpictures and scalability,0,H04N
+11930219,2024-03-12,Adaptation parameter set signaling based on color format,1,H04N
+11930216,2024-03-12,Recursive splitting of video coding blocks,0,H04N
+11930185,2024-03-12,Multi-parameters based intra prediction,0,H04N
+11930182,2024-03-12,Motion vector derivation between dividing patterns,1,H04N
+11930176,2024-03-12,Context modeling and selection of multiple transform matrix,1,H04N
+11930175,2024-03-12,Block size dependent use of video coding mode,0,G06T|H04N
+11930173,2024-03-12,Transform parameter derivation based on block partition,0,H04N
+11930172,2024-03-12,Restrictions of usage of non-power-two-partition tree in video compression,0,H04N
+11930165,2024-03-12,Size dependent inter coding,3,H04N
+11924475,2024-03-05,Signaling of quantization information in coded video,3,H04N
+11924474,2024-03-05,Conditional signaling of video coding Syntax Elements,7,H04N
+11924472,2024-03-05,Syntax element for chroma residual scaling,4,H04N
+11924469,2024-03-05,Conditional signaling of reduced secondary transform in video bitstreams,1,H04N
+11924463,2024-03-05,Gradient calculation in different motion vector refinements,0,H04N
+11924446,2024-03-05,Handling of supplemental enhancement information in subpicture sub-bitstream extraction process,1,H04N
+11924432,2024-03-05,Condition dependent coding of palette mode usage indication,2,H04N
+11924422,2024-03-05,Sub-partitioning in intra coding,0,H04N
+11924421,2024-03-05,Blending method for inter prediction with geometry partition,0,H04N
+11922345,2024-03-05,Task management via a messaging service,0,G06F|G06Q|H04L
+11917211,2024-02-27,Signaling of slice and tile picture partitions,0,H04N
+11917208,2024-02-27,Reference picture resampling,0,H04N
+11917197,2024-02-27,Extensions of intra coding modes in video coding,1,H04N
+11917196,2024-02-27,Initialization for counter-based intra prediction mode,0,H04N
+11917184,2024-02-27,Subpicture level information signaling in video coding,1,H04N
+11917172,2024-02-27,Constraints of slice count in a coded video picture,0,H04N
+11917169,2024-02-27,Palette mode for local dual tree,1,H04N
+11917132,2024-02-27,Constraints on reference picture order,1,H04N
+11910022,2024-02-20,Decoded picture buffer memory allocation and picture output in scalable video coding,0,H04N
+11910020,2024-02-20,Signaling of reshaping information in video processing,1,H04N
+11909989,2024-02-20,Number of motion candidates in a look up table to be checked according to mode,3,H04N
+11909982,2024-02-20,Restrictions on motion vector difference,0,H04N
+11909953,2024-02-20,Representation of affine model,0,H04N
+11909951,2024-02-20,Interaction between lut and shared merge list,4,H04N
+11902586,2024-02-13,Profile tier level parameter set in video coding,0,H04N
+11902558,2024-02-13,Conformance window parameters in video coding,0,H04N
+11902557,2024-02-13,Slice type in video coding,0,H04N
+11902550,2024-02-13,Pruning method for history-based affine parameters,1,H04N
+11902535,2024-02-13,Prediction precision improvements in video coding,0,H04N
+11902529,2024-02-13,Syntax for signaling cross-component video coding,1,H04N
+11902507,2024-02-13,Parameter derivation for intra prediction,0,H04N
+11895328,2024-02-06,Overlapped block motion compensation,1,H04N
+11895320,2024-02-06,History-based motion vector prediction,0,H04N
+11895318,2024-02-06,Concept of using one or multiple look up tables to store motion information of previously coded in order and use them to code following blocks,3,H04N
+11895306,2024-02-06,Component-dependent sub-block dividing,2,H04N
+11889119,2024-01-30,Constrains for syntax elements of adaptation parameter set,3,H04N
+11889108,2024-01-30,Gradient computation in bi-directional optical flow,3,H04N
+11889060,2024-01-30,Constraints on reference picture lists,1,H04N
+11887566,2024-01-30,Method of generating music data,0,G06N|G10H
+11882287,2024-01-23,Direction-based prediction for intra block copy in video coding,4,H04N
+11882274,2024-01-23,Position based mode derivation in reduced secondary transforms for video,1,H04N
+11882271,2024-01-23,Inter layer prediction with different coding block size,0,H04N
+11877002,2024-01-16,"Update of look up table: FIFO, constrained FIFO",3,H04N
+11876996,2024-01-16,Constraints on picture types in video bitstream processing,0,H04N
+11876995,2024-01-16,Signaling of slice type and video layers,0,H04N
+11876993,2024-01-16,Signaling of combined intra-inter prediction,1,H04N
+11876971,2024-01-16,Interactions among multiple intra coding methods,0,H04N
+11876932,2024-01-16,Size selective application of decoder side refining tools,3,H04N
+11871039,2024-01-09,Transform skip residual coding,2,H04N
+11871025,2024-01-09,Motion precision in sub-block based inter prediction,0,G06F|H04N
+11871023,2024-01-09,Multi-motion model based video coding and decoding,0,H04N
+11871022,2024-01-09,Concept of interweaved prediction,3,H04N
+11871012,2024-01-09,Signaling of subpicture level and buffering information,0,H04N
+11870996,2024-01-09,Transform bypass coded residual blocks in digital video,0,H04N
+11870980,2024-01-09,Selection of adjacent neighboring block for intra coding,0,H04N
+11870979,2024-01-09,Reference picture resampling activation in video coding,1,H04N
+11870974,2024-01-09,Multiple-hypothesis affine mode,2,H04N
+11863796,2024-01-02,Constraints on reference picture lists for subpictures,0,H04N
+11863795,2024-01-02,Gradual decoding refresh access unit in scalable video coding,0,H04N
+11863794,2024-01-02,Derivation of the height of a subpicture,0,H04N
+11863793,2024-01-02,Using picture level slice index in video coding,0,H04N
+11863784,2024-01-02,Sub-table for history-based affine mode,1,H04N
+11863781,2024-01-02,Signaling of prediction weights in general constraint information of a bitstream,0,H04N
+11863771,2024-01-02,Updating of history based motion vector prediction tables,0,H04N
+11863766,2024-01-02,Significant coefficient signaling in video coding,0,H04N
+11863715,2024-01-02,Joint use of adaptive colour transform and differential coding of video,7,H04N
+11856237,2023-12-26,Use of header syntax elements and adaptation parameter set,0,H04N
+11856235,2023-12-26,Adaptive loop filtering,2,H04N
+11856234,2023-12-26,Interaction between sub picture and tile row signaling,1,H04N
+11856218,2023-12-26,Motion candidate derivation based on spatial neighboring block in sub-block motion vector prediction,0,H04N
+11856215,2023-12-26,Sub-bitstream extraction of multi-layer video bitstreams,2,H04N
+11856212,2023-12-26,Constraints on decoding picture buffer,0,H04N
+11856211,2023-12-26,Usage for history-based affine parameters,1,H04N
+11856202,2023-12-26,Entropy coding for motion precision syntax,0,H04N
+11856185,2023-12-26,Pruning method in different prediction mode,0,H04N
+11849150,2023-12-19,High level control of filtering in video coding,0,H04N
+11849149,2023-12-19,Order relationship between subpictures according to value for layer and value of subpicture index,0,H04N
+11849136,2023-12-19,Constraints on number of subpicture in a video picture,0,H04N
+11843798,2023-12-12,Motion vector range based on motion vector precision,0,H04N
+11843726,2023-12-12,Signaling of decoded picture buffer parameters in layered video,0,G06V|H04N
+11843725,2023-12-12,Using combined inter intra prediction in video processing,3,H04N
+11838555,2023-12-05,Picture output flag indication in video coding,0,H04N
+11838554,2023-12-05,Constrains for diferent coding tools,2,H04N
+11838539,2023-12-05,Utilization of refined motion vector,6,H04N
+11838537,2023-12-05,Motion candidate derivation based on multiple information in sub-block motion vector prediction,0,H04N
+11838529,2023-12-05,Scalable nesting of supplemental enhancement information messages in video coding,0,H04N
+11838523,2023-12-05,General constraints information for video coding,1,H04N
+11831923,2023-11-28,Presence of adaptation parameter set units,0,H04N
+11831901,2023-11-28,Generalized bi directional prediction mode in video processing,1,H04N
+11831895,2023-11-28,Sublayer signaling in a video bitstream,0,H04N
+11831894,2023-11-28,Constraints on signaling of video layers in coded bitstreams,0,H04N
+11831884,2023-11-28,Interaction between IBC and BIO,3,H04N
+11831877,2023-11-28,Calculation in matrix-based intra prediction,5,H04N
+11831869,2023-11-28,Sample determination for adaptive loop filtering,0,H04N
+11825125,2023-11-21,Signaling of general constrain information,0,H04N
+11825124,2023-11-21,Scaling window in video coding,3,H04N
+11825123,2023-11-21,Interplay between in-loop filtering and video tiles,0,H04N
+11825113,2023-11-21,Interaction between intra block copy mode and inter prediction tools,0,H04N
+11825102,2023-11-21,Techniques for generation of a conformant output sub-bitstream,2,H04N
+11825079,2023-11-21,Sub-bitstream extraction process in video coding,1,H04N
+11825074,2023-11-21,Generation and usage of combined affine merge candidate,0,H04N
+11825030,2023-11-21,Intra block copy mode with dual tree partition,0,H04N
+11818381,2023-11-14,Signaling of picture information in access units,0,H04N
+11818338,2023-11-14,Sublayers information in video coding,1,H04N
+11818337,2023-11-14,Constraints on reference picture lists entries,1,H04N
+11812067,2023-11-07,Slice and tile partitioning in video coding,0,H04N
+11812063,2023-11-07,Video coding using parameter sets,0,H04N
+11812062,2023-11-07,Syntax for signaling video subpictures,5,H03M|H04N
+11812028,2023-11-07,Restrictions on motion vector difference,0,H04N
+11812026,2023-11-07,Single-line cross component linear model prediction mode,1,H04N
+11805280,2023-10-31,Reference picture information signaling in a video bitstream,0,H04N
+11805275,2023-10-31,Context determination for matrix-based intra prediction,10,H04N
+11805274,2023-10-31,Early determination of hash-based motion searching,0,H04N
+11805269,2023-10-31,Pruning in multi-motion model based skip and direct mode coded video blocks,0,H04N
+11805268,2023-10-31,Two step cross-component prediction mode,0,H04N
+11805259,2023-10-31,Non-affine blocks predicted from affine motion,1,H04N
+11805252,2023-10-31,Non-power-two-partition tree in video compression,0,H04N
+11800155,2023-10-24,Deblocking parameters for chroma component,0,H04N
+11800153,2023-10-24,Random access point access unit in scalable video coding,0,H04N
+11800090,2023-10-24,Clipping in reference picture resampling,0,H04N
+11799807,2023-10-24,"Mail processing method and apparatus, device and medium",0,G06Q|H04L|H04W
+11792435,2023-10-17,Signaling for inter prediction in high level syntax,0,H04N
+11792421,2023-10-17,Rounding in pairwise average candidate calculations,5,H04N
+11792406,2023-10-17,Symmetric motion vector difference coding,0,H04N
+11785260,2023-10-10,Cross-component adaptive loop filtering in video coding,9,H04N
+11785210,2023-10-10,Use of general constraint flags in video bitstreams,0,H04N
+11783861,2023-10-10,"Transition type determination method and apparatus, and electronic device and storage medium",1,G06F|G06V|G11B|H04N
+11778233,2023-10-03,Selective use of adaptive in-loop color-space transform and other video coding tools,2,H04N
+11778226,2023-10-03,Storage of motion information for affine mode,1,H04N
+11778204,2023-10-03,Handling of coded video in sub-bitstream extraction process,1,H04N
+11778200,2023-10-03,Constraints on reference picture information,0,H04N
+11778194,2023-10-03,MV planar mode with block level,0,H04N
+11778183,2023-10-03,Partition calculation based on subpicture level,0,H04N
+11778176,2023-10-03,Intra block copy buffer and palette predictor update,0,H04N
+11778175,2023-10-03,Calculation for multiple coding tools,0,H04N
+11778170,2023-10-03,Temporal gradient calculations in bio,1,H04N
+11770540,2023-09-26,Multiple hypothesis for sub-block prediction blocks,1,H04N
+11765398,2023-09-19,Border partition,0,H04N
+11765394,2023-09-19,Decoding order of different SEI messages,6,H04L|H04N
+11765368,2023-09-19,Cross-component adaptive loop filter,1,H04N
+11765367,2023-09-19,Palette mode with intra block copy prediction,1,H04N
+11765345,2023-09-19,Multiple prediction blocks for one intra-coded block,0,H04N
+11763204,2023-09-19,Method and apparatus for training item coding model,0,G06F|G06N
+11758196,2023-09-12,Downsampling filter type for chroma blending mask generation,1,H04N
+11758145,2023-09-12,Overlapped block motion compensation using temporal neighbors,0,H04N
+11758143,2023-09-12,Motion vector handling in geometry partition mode,1,H04N
+11758124,2023-09-12,Harmonized local illumination compensation and modified inter coding tools,0,H04N
+11756276,2023-09-12,"Image processing method and apparatus for augmented reality, electronic device, and storage medium",0,G06T|G06V|G10L
+11755691,2023-09-12,"Data protection method and apparatus, and server and medium",0,G06F|G06N
+11750806,2023-09-05,Adaptive color transform in video coding,10,H04N
+11750799,2023-09-05,Methods for cross component dependency reduction,1,H04N
+11743506,2023-08-29,Deblocking signaling in video coding,3,H04N
+11743505,2023-08-29,Constraints on signaling of hypothetical reference decoder parameters in video bitstreams,6,G06V|H04N
+11743504,2023-08-29,Prediction type signaling in video coding,0,H04N
+11743485,2023-08-29,Sub-block motion candidate list in video coding,0,H04N
+11743454,2023-08-29,Deriving reference sample positions in video coding,3,H04N
+11743453,2023-08-29,Pulse code modulation technique in video processing,0,H04N
+11736734,2023-08-22,Constraints on collocated pictures in video coding,1,H04N
+11736722,2023-08-22,Palette predictor size adaptation in video coding,1,G06T|G06V|H04N
+11736698,2023-08-22,Sub-region based determination of motion information refinement,1,H04N
+11736697,2023-08-22,Cross-component adaptive loop filter,0,H04N
+11729405,2023-08-15,Parameter derivation for intra prediction,3,H04N
+11729382,2023-08-15,Temporal prediction of parameters in non-linear adaptive loop filter,0,H04N
+11729377,2023-08-15,Affine mode in video coding and decoding,0,H04N
+11722703,2023-08-08,Automatic partition for cross blocks,0,H04N
+11722688,2023-08-08,Block size restrictions for DMVR,2,H04N
+11722674,2023-08-08,Cross-component adaptive loop filter using luma differences,0,H04N
+11722667,2023-08-08,Geometric partitioning mode in video coding,4,H04N
+11722660,2023-08-08,Interplay between reference picture resampling and video coding tools,5,H04N
+11716491,2023-08-01,Scaling process for coding block,0,H04N
+11711547,2023-07-25,Use and signaling of refining video coding tools,5,H04N
+11711516,2023-07-25,Intra prediction using polynomial model,0,H04N
+11706462,2023-07-18,Padding process at unavailable sample locations in adaptive loop filtering,5,H04N
+11706443,2023-07-18,Construction of affine candidates in video processing,8,H04N
+11706441,2023-07-18,Interaction of asymmetric weighted merges and other coding tools,0,H04N
+11706421,2023-07-18,Inter prediction with refinement in video processing,0,H04N
+11706414,2023-07-18,Residual coding for transform skipped blocks,0,H04N
+11706409,2023-07-18,Signaling for reference picture resampling,2,H04N
+11706406,2023-07-18,Selection of coded motion information for LUT updating,13,H04L|H04N
+11700390,2023-07-11,"Profile, tier and layer indication in video coding",6,H04N
+11700381,2023-07-11,Overlapped block motion compensation using spatial neighbors,0,H04N
+11700378,2023-07-11,High level syntax for inter prediction with geometric partitioning,0,H04N
+11700371,2023-07-11,Table maintenance for HMVP candidate storage,1,H04N
+11700368,2023-07-11,Classification in adaptive loop filtering,5,H04N
+11695946,2023-07-04,Reference picture resampling in video processing,2,H04N
+11695945,2023-07-04,Two-level signaling of filtering information in video processing,1,H04N
+11695921,2023-07-04,Selection of coded motion information for LUT updating,13,H04L|H04N
+11689747,2023-06-27,High level syntax for video coding tools,4,H04N
+11689735,2023-06-27,Alignment of prediction weights in video coding,2,H04N
+11683531,2023-06-20,Two-part signaling of adaptive loop filters in video coding,0,H04N
+11683503,2023-06-20,Mode determining for palette mode in prediction process,2,H04N
+11683500,2023-06-20,Precision transform coefficient scaling and quantization for image and video coding,0,H04N
+11683488,2023-06-20,Adaptive loop filtering between different video units,7,H04N
+11683476,2023-06-20,Size restriction for intra-block copy virtual buffer,3,H04N
+11677973,2023-06-13,Merge with MVD for affine,1,H04N
+11677956,2023-06-13,Simplified cross component prediction,1,H04N
+11677953,2023-06-13,Independent coding of palette mode usage indication,7,H04N
+11677941,2023-06-13,Construction method for inter prediction with geometry partition,0,H04N
+11677935,2023-06-13,Mode determination for palette mode coding,2,H04N
+11671618,2023-06-06,Searching based motion candidate derivation for sub-block motion vector prediction,0,H04N
+11671602,2023-06-06,Signaling for reference picture resampling,1,H04N
+11671594,2023-06-06,Selective application of sample padding in adaptive loop filtering,3,H04N
+11671591,2023-06-06,Quantization properties of adaptive in-loop color-space transform for video coding,1,H04N
+11671587,2023-06-06,Coordination method for sub-block based inter prediction,3,H04N
+11671586,2023-06-06,Modified history based motion prediction,0,H04N
+11665344,2023-05-30,Multiple merge lists and orders for inter prediction with geometric partitioning,0,H04N
+11659202,2023-05-23,Position-dependent intra prediction sample filtering,1,H04N
+11659192,2023-05-23,Sub-block MV inheritance between color components,6,H04N
+11659185,2023-05-23,Matrix-based intra prediction using upsampling,15,G06F|H04N
+11659180,2023-05-23,Simplified inter prediction with geometric partitioning,2,H04N
+11659179,2023-05-23,Determination of picture partition mode based on block size,0,G06T|H04N
+11659164,2023-05-23,Methods for cross component dependency reduction,7,H04N
+11659162,2023-05-23,Video processing using local illumination compensation,2,H04N
+11653020,2023-05-16,Fast algorithms for adaptive motion vector resolution in affine mode,5,G06T|H04N
+11653002,2023-05-16,Motion candidate list construction for video coding,5,H04N
+11652998,2023-05-16,Padding process in adaptive loop filtering,5,H04N
+11647229,2023-05-09,Use of secondary transform in coded video,3,H04N
+11647189,2023-05-09,Cross-component coding order derivation,0,H04N
+11647186,2023-05-09,Transform block size restriction in video coding,0,H04N
+11645466,2023-05-09,Categorizing conversations for a messaging service,0,G06F|H04L
+11641483,2023-05-02,Interaction between merge list construction and other tools,14,H04N
+11641478,2023-05-02,Usage of default and user-defined scaling matrices,0,H04N
+11641477,2023-05-02,Techniques for implementing a decoding order within a coded picture,0,H04N
+11641467,2023-05-02,Sub-block based prediction,10,H04N
+11641464,2023-05-02,Scaling window in video coding,6,H04N
+11638008,2023-04-25,Selection of matrices for reduced secondary transform in video coding,4,H04N
+11638004,2023-04-25,Setting intra-block copy virtual buffer based on virtual pipeline data unit,4,H04N
+11632575,2023-04-18,Binarization of partitioning related to extended quadtree,0,H04N
+11632566,2023-04-18,Inter prediction with refinement in video processing,9,H04N
+11632541,2023-04-18,Using collocated blocks in sub-block temporal motion vector prediction mode,2,H04N
+11627333,2023-04-11,Interactions between in-loop reshaping and palette mode,1,H04N
+11627313,2023-04-11,Syntax signaling in sub-block merge mode,16,H04N
+11627308,2023-04-11,TMVP derivation,0,H04N
+11622131,2023-04-04,Luma based secondary transform matrix selection for video processing,3,H04N
+11622120,2023-04-04,Using chroma quantization parameter in video coding,13,H04N
+11622115,2023-04-04,Signaling of cross-component adaptive loop filter,1,H04N
+11616978,2023-03-28,Simplification of hash-based motion searching,1,H04N
+11616973,2023-03-28,Coding of block vectors for intra block copy-coded blocks,0,H04N
+11616965,2023-03-28,Restriction on applicability of cross component mode,8,H04N
+11616945,2023-03-28,Simplified history based motion vector prediction,8,H04N
+11611780,2023-03-21,Level-based signaling of video coding tools,7,H04N
+11611779,2023-03-21,Multiple secondary transform matrices for video processing,3,H04N
+11611763,2023-03-21,Extensions of inter prediction with geometric partitioning,1,G06T|H04N
+11611753,2023-03-21,Quantization process for palette mode,6,H04N
+11611747,2023-03-21,Adaptive loop filtering for video coding,0,H04N
+11611743,2023-03-21,Conditional implementation of motion candidate list construction process,1,H04N
+11610568,2023-03-21,Modular automated music production server,0,G06F|G06N|G10H|G11B
+11606570,2023-03-14,Syntax signaling and parsing based on colour component,9,H04N
+11601686,2023-03-07,Signaling usage of adaptive loop filter in video coding,0,H04N
+11601652,2023-03-07,Coding mode determination based on color format,6,H04N
+11595687,2023-02-28,Context-based intra prediction,3,H04N
+11595683,2023-02-28,Priority-based non-adjacent merge design,0,H04N
+11595671,2023-02-28,Signaling for transform skip mode,0,H04N
+11595658,2023-02-28,Derivation of collocated motion vectors,4,H04N
+11595657,2023-02-28,Inter prediction using polynomial model,0,H04N
+11595641,2023-02-28,Alternative interpolation filters in video coding,0,H04N
+11589071,2023-02-21,Invoke of LUT updating,14,H04N
+11589042,2023-02-21,Sample padding in adaptive loop filtering,6,H04N
+11589039,2023-02-21,Restrictions of usage of tools according to reference picture types,0,H04N
+11582451,2023-02-14,Coefficient scaling for high precision image and video coding,1,H04N
+11575940,2023-02-07,Context modeling of reduced secondary transforms in video,4,H04N
+11575939,2023-02-07,Signaling of syntax elements for joint coding of chrominance residuals,0,H04N
+11575911,2023-02-07,Motion candidate list construction using neighboring block information,4,H04N
+11575903,2023-02-07,8-parameter affine mode,0,H04N
+11575901,2023-02-07,Context modeling of side information for reduced secondary transforms in video,6,H04N
+11575893,2023-02-07,Size restriction based for chroma intra mode,5,H04N
+11575889,2023-02-07,Range constrains for block vector in intra-block copy mode,2,H04N
+11575888,2023-02-07,Virtual prediction buffer for intra block copy in video coding,11,H04N
+11575887,2023-02-07,Selective use of coding tools in video processing,7,H04N
+11570482,2023-01-31,Restriction of extended quadtree,0,H04N
+11570462,2023-01-31,Delta motion vector in prediction refinement with optical flow process,6,H04N
+11570458,2023-01-31,Indication of two-step cross-component prediction mode,5,H04N
+11570450,2023-01-31,Using inter prediction with geometric partitioning for video processing,1,G06T|H04N
+11563972,2023-01-24,Construction method for a spatial motion candidate list,0,H04N
+11563946,2023-01-24,Quantization parameter derivation for palette mode,0,H04N
+11558644,2023-01-17,Restrictions on in-loop filtering,0,H04N
+11558638,2023-01-17,Hash-based motion searching,1,H04N
+11558636,2023-01-17,Configuring luma-dependent chroma residue scaling for video coding,1,H04N
+11558634,2023-01-17,Prediction refinement for combined inter intra prediction mode,10,H04N
+11558612,2023-01-17,Coefficient dependent coding of transform matrix selection,0,H04N
+11558610,2023-01-17,Quantized difference used for weighting parameters derivation in bilateral filters,0,G06T|H04N
+11553203,2023-01-10,Signaling of in-loop reshaping information using parameter sets,2,H04N
+11553201,2023-01-10,Decoder side motion vector derivation,11,H04N
+11553194,2023-01-10,Parameter derivation in cross component mode,9,H04N
+11553179,2023-01-10,Sample determination for adaptive loop filtering,2,H04N
+11553177,2023-01-10,Buffer management in subpicture decoding,19,H04N
+11546636,2023-01-03,Clipping operation in secondary transform based video processing,0,H04N
+11546633,2023-01-03,Context coding for matrix-based intra prediction,6,H04N
+11546601,2023-01-03,Utilization of non-sub block spatial-temporal motion vector prediction in inter mode,0,H04N
+11546595,2023-01-03,Sub-block based use of transform skip mode,0,H04N
+11546593,2023-01-03,Syntax for subpicture signaling in a video bitstream,19,H04N
+11546581,2023-01-03,Implementation aspects in intra block copy in video coding,9,H04N
+11539981,2022-12-27,Adaptive in-loop color-space transform for video coding,4,H04N
+11539970,2022-12-27,Position-based coefficients scaling,0,H04N
+11539950,2022-12-27,Slice level signaling in video bitstreams that include subpictures,25,H04N
+11539949,2022-12-27,Determination of picture partition mode based on block size,1,G06T|H04N
+11539946,2022-12-27,Sample padding for cross-component adaptive loop filtering,0,H04N
+11539648,2022-12-27,Data model of a messaging service,1,G06F|H04L
+11533513,2022-12-20,Subpicture size definition in video processing,19,H04N
+11533507,2022-12-20,Mapping restriction for intra-block copy virtual buffer,5,H04N
+11533487,2022-12-20,Signaling of chroma residual scaling,6,H04N
+11533483,2022-12-20,Video region partition based on color format,7,H04N
+11533477,2022-12-20,Weighting factors for prediction sample filtering in intra mode,7,H04N
+11528501,2022-12-13,Interaction between LUT and AMVP,20,H04N
+11528500,2022-12-13,Partial/full pruning when adding a HMVP candidate to merge/AMVP,16,H04N
+11528497,2022-12-13,Palette mode with different partition structures,0,H04N
+11528476,2022-12-13,Sample identification for intra block copy in video coding,12,H04N
+11523140,2022-12-06,Nonlinear adaptive loop filtering in video processing,1,H04N
+11523126,2022-12-06,Luma mapping with chroma scaling,1,H04N
+11523123,2022-12-06,Interaction between IBC and ATMVP,8,H04N
+11523108,2022-12-06,Position restriction for inter coding mode,28,H04N
+11523107,2022-12-06,Bitstream conformance constraints for intra block copy in video coding,13,H04N
+11516497,2022-11-29,Bidirectional optical flow based video coding and decoding,4,H04N
+11516480,2022-11-29,Simplification of combined inter-intra prediction,14,H04N
+11509941,2022-11-22,Multi-parameter adaptive loop filtering in video processing,0,H04N
+11509929,2022-11-22,Multi-iteration motion vector refinement method for video processing,14,H04N
+11509927,2022-11-22,Weighted prediction in video coding,13,H04N
+11509923,2022-11-22,Usage of converted uni-prediction candidate,11,H04N
+11509915,2022-11-22,Interaction between IBC and ATMVP,10,H04N
+11509904,2022-11-22,Interactions among multiple intra coding methods,1,H04N
+11509893,2022-11-22,Indication of adaptive loop filtering in adaptation parameter set,4,H04N
+11503344,2022-11-15,Entropy coding for palette escape symbol,0,H04N
+11503293,2022-11-15,Residual coding for transform skipped blocks,0,H04N
+11503288,2022-11-15,Selective use of alternative interpolation filters in video processing,1,H04N
+11503284,2022-11-15,Intra mode coding based on history information,3,H04N
+11496751,2022-11-08,Derivation of linear parameter in cross-component video coding,2,H04N
+11496736,2022-11-08,Using screen content coding tool for video encoding and decoding,8,H04N
+11496733,2022-11-08,Syntax signaling for optical-flow based inter coding,22,H04N
+11490124,2022-11-01,Signaling of chroma and luma syntax elements in video coding,0,H04N
+11490098,2022-11-01,Significant coefficient signaling in video coding,0,H04N
+11490089,2022-11-01,Transform bypass coded residual blocks in digital video,0,H04N
+11490086,2022-11-01,Block dimension settings of transform skip mode,1,H04N
+11490082,2022-11-01,Handling video unit boundaries and virtual boundaries based on color format,3,H04N
+11490081,2022-11-01,Unequal weighted sample averages for bilateral filter,0,G06T|H04N
+11483552,2022-10-25,Half-pel interpolation filter in inter coding mode,1,H04N
+11483550,2022-10-25,Use of virtual candidate prediction and weighted prediction in video processing,1,H04N
+11477463,2022-10-18,Component-dependent sub-block dividing,10,H04N
+11477458,2022-10-18,Mode dependent motion vector difference precision set,6,H04N
+11477449,2022-10-18,Adaptive loop filtering for chroma components,0,H04N
+11470341,2022-10-11,Interaction between different DMVD models,2,H04N
+11470309,2022-10-11,Adaptive motion vector difference resolution for affine mode,22,H04N
+11470307,2022-10-11,Harmonized local illumination compensation and intra block copy coding,3,H04N
+11470304,2022-10-11,Virtual merge candidates,1,H04N
+11463729,2022-10-04,Matrix-based intra prediction using filtering,11,H04N
+11463714,2022-10-04,Selective use of cross component mode in video coding,9,H04N
+11463713,2022-10-04,Conditions for applicability of cross-component coding,11,H04N
+11463703,2022-10-04,Symmetric motion vector difference coding,3,H04N
+11463702,2022-10-04,Chroma coding mode determination based on matrix-based intra prediction,11,H04N
+11463687,2022-10-04,Motion candidate list with geometric partition mode coding,4,H04N
+11463685,2022-10-04,LUTS with intra prediction modes and intra mode prediction from non-adjacent blocks,18,G06F|H04N
+11457226,2022-09-27,Side information signaling for inter prediction with geometric partitioning,2,G06T|H04N
+11457220,2022-09-27,Interaction between matrix-based intra prediction and other coding tools,11,H04N
+11457207,2022-09-27,Matrix derivation in intra coding mode,11,H04N
+11451819,2022-09-20,Clipping of updated MV or derived MV,1,H04N
+11451784,2022-09-20,Restricted upsampling process in matrix-based intra prediction,14,G06F|H04N
+11451782,2022-09-20,Calculation in matrix-based intra prediction,11,H04N
+11451780,2022-09-20,Techniques for modifying quantization parameter in transform skip mode,4,H04N
+11445224,2022-09-13,Shape of EQT subblock,0,H04N
+11445183,2022-09-13,Chroma intra mode derivation in screen content coding,2,H04N
+11438635,2022-09-06,Flexible tree partitioning processes for visual media coding,0,H04N
+11438613,2022-09-06,Buffer initialization for intra block copy in video coding,22,H04N
+11438602,2022-09-06,Coding mode based on a coding tree structure type,7,H04N
+11438598,2022-09-06,Simplified parameter derivation for intra prediction,4,H04N
+11438597,2022-09-06,Quantized residual differential pulse code modulation representation of coded video,8,H04N
+11438585,2022-09-06,Deblocking filtering at coding block or subblock boundary,1,H04N
+11438581,2022-09-06,Conditions in parameter derivation for intra prediction,4,H04N
+11431984,2022-08-30,Constraints on quantized residual differential pulse code modulation representation of coded video,7,H04N
+11431973,2022-08-30,Motion candidates for inter prediction,3,H04N
+11431966,2022-08-30,Intra coded video using quantized residual differential pulse code modulation coding,7,H03M|H04N
+11431965,2022-08-30,Affine mode in video coding and decoding,6,H04N
+11431964,2022-08-30,Coordination method for sub-block based inter prediction,8,H04N
+11425417,2022-08-23,Techniques for using a decoder side motion vector refinement tool,14,H04N
+11425406,2022-08-23,Weighting processing of combined intra-inter prediction,3,H04N
+11425389,2022-08-23,Most probable mode list construction for matrix-based intra prediction,15,H04N
+11425380,2022-08-23,Context modeling for residual coding,0,H04N
+11418794,2022-08-16,Restrictions on motion vector difference,1,H04N
+11412238,2022-08-09,Signaling and syntax for in-loop reshaping information,5,H04N
+11412212,2022-08-09,Partial pruning method for inter prediction,2,H04N
+11405651,2022-08-02,Intra video coding using multiple reference filters,1,H04N
+11405607,2022-08-02,Harmonization between local illumination compensation and inter prediction coding,3,H04N
+11394995,2022-07-19,Interactions between in-loop reshaping and inter coding tools,7,H04N
+11388476,2022-07-12,Block partitioning method and apparatus,0,G06T|H04N
+11381848,2022-07-05,"Main concept of EQT, unequally four partitions and signaling",1,H04N
+11375217,2022-06-28,Buffer management for intra block copy in video coding,15,H04N
+11375188,2022-06-28,Restrictions on adaptive-loop filtering parameter sets,5,H04N
+11368711,2022-06-21,Applicability of prediction refinement with optical flow process,7,H04N
+11363290,2022-06-14,Block size restrictions for DMVR,1,H04N
+11356697,2022-06-07,Gradient calculation in different motion vector refinements,7,H04N
+11349800,2022-05-31,"Integration of an email, service and a messaging service",0,H04L
+11343529,2022-05-24,Calculation of predication refinement based on optical flow,23,G06T|H04N
+11343505,2022-05-24,Configuring luma-dependent chroma residue scaling for video coding,7,H04N
+11343114,2022-05-24,Group management in a messaging service,1,G06F|H04L
+11330289,2022-05-10,Context for coding affine mode adaptive motion vector resolution,7,H04N
+11330288,2022-05-10,Constraints for usage of updated motion information,2,H04N
+11330257,2022-05-10,Extended application of combined intra-inter prediction,3,H04N
+11323698,2022-05-03,Restrictions of usage of tools according to reference picture types,2,H04N
+11323697,2022-05-03,Using interpolation filters for history based motion vector prediction,5,H04N
+11310508,2022-04-19,Motion vector precision in merge with motion vector difference mode,6,H04N
+11303894,2022-04-12,Clipping parameter derivation in adaptive loop filter,1,H04N
+11290409,2022-03-29,User device messaging application for interacting with a messaging service,1,G06F|H04L
+11284088,2022-03-22,Using combined inter intra prediction in video processing,18,H04N
+11284084,2022-03-22,Constraints on model-based reshaping in video processing,22,H04N
+11284069,2022-03-22,Harmonized local illumination compensation and modified inter prediction coding,5,H04N
+11284068,2022-03-22,Indication method of maximum number of candidates,2,H04N
+11277624,2022-03-15,Bandwidth control methods for inter prediction,19,H04N
+11265584,2022-03-01,EQT depth calculation,3,H04N
+11265573,2022-03-01,Syntax reuse for affine mode with adaptive motion vector resolution,9,G06T|H04N
+11265541,2022-03-01,Position dependent storage of motion information,9,H04N
+11245892,2022-02-08,Checking order of motion candidates in LUT,45,H04N
+11240531,2022-02-01,Size selective application of decoder side refining tools,16,H04N
+11233995,2022-01-25,Temporal prediction of parameters in non-linear adaptive loop filter,2,H04N
+11228775,2022-01-18,Data storage in buffers for intra block copy in video coding,31,H04N
+11228762,2022-01-18,Cross-component IPM derivation,1,H04N
+11228761,2022-01-18,Border handling for extended quadtree partitions,2,H04N
+11218702,2022-01-04,Simplified cross component prediction,3,H04N
+11206406,2021-12-21,Two-level signaling of filtering information in video processing,15,H04N
+11202081,2021-12-14,Interaction between IBC and BIO,18,H04N
+11202065,2021-12-14,Extended merge prediction,20,H04N
+11197016,2021-12-07,Motion vector range based on motion vector precision,1,H04N
+11197007,2021-12-07,Sub-block MV inheritance between color components,20,H04N
+11197003,2021-12-07,Unified constrains for the merge affine mode and the non-merge affine mode,31,H04N
+11178445,2021-11-16,Method of combining data,0,G10H|G10L|G11B|H04N
+11178422,2021-11-16,Sub-block based decoder side motion vector derivation,4,H04N
+11172216,2021-11-09,Signaling of filtering information in video processing,25,H04N
+11172202,2021-11-09,Single-line cross component linear model prediction mode,7,H04N
+11172196,2021-11-09,Bi-prediction with weights in video coding and decoding,18,H04N
+11166031,2021-11-02,Signaling of side information for inter prediction with geometric partitioning,5,G06T|H04N
+11159817,2021-10-26,Conditions for updating LUTS,42,H04N
+11159816,2021-10-26,Partial cost calculation,21,H04N
+11159808,2021-10-26,Using inter prediction with geometric partitioning for video processing,5,G06T|H04N
+11159807,2021-10-26,Number of motion candidates in a look up table to be checked according to mode,27,H04N
+11159787,2021-10-26,Conditions for starting checking HMVP candidates depend on total number minus K,26,H04N
+11153559,2021-10-19,Usage of LUTs,26,G06F|H04N
+11153558,2021-10-19,Update of look-up tables,26,G06F|H04N
+11153557,2021-10-19,Which LUT to be updated or no updating,26,H04L|H04N
+11146786,2021-10-12,Checking order of motion candidates in LUT,26,H04N
+11146785,2021-10-12,Selection of coded motion information for LUT updating,41,H04L|H04N
+11140412,2021-10-05,Motion candidate list construction for intra block copy (IBC) mode and non-IBC inter mode,8,H04N
+11140386,2021-10-05,Coordination method for sub-block based inter prediction,12,H04N
+11140385,2021-10-05,Checking order of motion candidates in LUT,26,H04N
+11140383,2021-10-05,Interaction between look up table and shared merge list,26,H04N
+11134268,2021-09-28,Simplified coding of generalized bi-directional index,0,H04N
+11134267,2021-09-28,"Update of look up table: FIFO, constrained FIFO",27,H04N
+11134244,2021-09-28,Order of rounding and pruning in LAMVR,28,G06F|H04N
+11134243,2021-09-28,Rules on updating luts,26,G06F|H04N
+11128884,2021-09-21,Construction of merge with motion vector difference candidates,42,H04N
+11128882,2021-09-21,History based motion candidate list construction for intra block copy,5,H04N
+11128860,2021-09-21,Affine mode calculations for different video block sizes,1,H04N
+11122266,2021-09-14,Table maintenance for HMVP candidate storage,15,H04N
+11115676,2021-09-07,Interaction between intra block copy mode and inter prediction tools,6,H04N
+11115655,2021-09-07,Neighboring sample selection for intra prediction,15,H04N
+11109055,2021-08-31,MVD precision for affine,16,H04N
+11095917,2021-08-17,Affine inheritance method in intra block copy mode,32,H04N
+11095882,2021-08-17,Pulse code modulation technique in video processing,1,H04N
+11089310,2021-08-10,Interpolation for inter prediction with refinement,4,H04N
+11082712,2021-08-03,Restrictions on decoder side motion vector derivation,1,H04N
+11082693,2021-08-03,Coefficient dependent coding of transform matrix selection,3,H04N
+11070821,2021-07-20,Side information signaling for inter prediction with geometric partitioning,5,G06T|H04N
+11070820,2021-07-20,Condition dependent inter prediction with geometric partitioning,6,G06T|H04N
+11070805,2021-07-20,Cross-component coding order derivation,2,H04N
+11064206,2021-07-13,Inter prediction with refinement in video processing,24,H04N
+11057642,2021-07-06,Context-based intra prediction,40,H04N
+11039165,2021-06-15,Interaction of asymmetric weighted merges and other coding tools,12,H04N
+11025915,2021-06-01,Complexity reduction in parameter derivation intra prediction,15,H04N
+11019344,2021-05-25,Position dependent intra prediction,15,H04N
+11006106,2021-05-11,Simplified entropy coding for sub-block based motion information list,5,H04N
+10999581,2021-05-04,Position based intra prediction,18,H04N
+10979717,2021-04-13,Simplified parameter derivation for intra prediction,57,H04N
+10939128,2021-03-02,Parameter derivation for intra prediction,65,H04N

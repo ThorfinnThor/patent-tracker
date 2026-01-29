@@ -1,0 +1,565 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432365,2025-09-30,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+12425793,2025-09-23,"Apparatus, method, or computer program for processing an encoded audio scene using a bandwidth extension",0,G06F|G10L|H04S
+12423886,2025-09-23,"Processing device for obtaining gap filler sinogram information, computer tomograph, method and computer program",0,A61B|G06T
+12418768,2025-09-16,"Apparatus, method and computer program for encoding, decoding, scene processing and other procedures related to DirAC based spatial audio coding using diffuse compensation",0,G10L|H04N|H04S
+12418654,2025-09-16,Use-case driven context model selection for hybrid video coding tools,0,H04N
+12414192,2025-09-09,NR sidelink discontinuous reception,0,H04W
+12414141,2025-09-09,NR V2X resource pool design,0,H04L|H04W
+12413931,2025-09-09,Method and system for optimizing the position of a user equipment,0,G01S|H04W|Y02D
+12413725,2025-09-09,Coding using matrix based intra-prediction and secondary transforms,0,H04N
+12413345,2025-09-09,V2X HARQ process management,0,H04L|H04W
+12413244,2025-09-09,"Arithmetic encoder for arithmetically encoding and arithmetic decoder for arithmetically decoding a sequence of information values, methods for arithmetically encoding and decoding a sequence of information values and computer program for implementing these methods",0,H03M|H04N
+12411648,2025-09-09,Optimizing audio delivery for virtual reality applications,0,G02B|G06F|H04L|H04N
+12407863,2025-09-02,Merging friendly file format,0,H04N
+12407852,2025-09-02,"Encoders, decoders, methods, and video bit streams, and computer programs for hybrid video coding",0,H04N
+12401862,2025-08-26,Data processor and transport of user control data to audio decoders and renderers,0,G10L|H04N
+12401412,2025-08-26,Iterative transmit refinement,0,H04B|H04L|H04W
+12395651,2025-08-19,Subpicture-related video coding concepts,0,H04N
+12395616,2025-08-19,Immersive media content presentation and interactive 360° video communication,0,H04L|H04N
+12394621,2025-08-19,Method and apparatus for manufacturing a semiconductor layer and substrate provided therewith,0,C23C|C30B|H01L|H10D
+12394217,2025-08-19,Apparatus and method for detecting a state of a road surface,0,G06T|G06V
+12388600,2025-08-12,Flexible SRS sounding for NR systems,0,H04L
+12387433,2025-08-12,"Data stream, devices and methods for volumetric video data",0,G06T|H04N
+12382549,2025-08-05,"SUDAS, URU and base station",0,H04B|H04L|H04W
+12382430,2025-08-05,NR sidelink control message design,0,H04L|H04W
+12382107,2025-08-05,Video coding using a coded picture buffer,0,H04N
+12381659,2025-08-05,ARQ/HARQ-related procedure for grant-free random access,0,H04L|H04W
+12381641,2025-08-05,"Apparatus, system and method for improving position estimation and/or communication performance in a wireless communication network",0,G01S|H04B|H04W
+12381610,2025-08-05,Three-component codebook based CSI reporting,0,H04B|H04L|H04W
+12380903,2025-08-05,Apparatus and method for screen related audio object remapping,0,G10L|H04N|H04R|H04S
+12380665,2025-08-05,Device and method of capturing a projected dot pattern in a display device,0,G01B|G06V|H04N
+12375702,2025-07-29,"File format schemes allowing efficient ROI, stream access and parameter set handling",0,H04N
+12375674,2025-07-29,Entropy coding of transform coefficients suitable for dependent scalar quantization,0,H04N
+12375581,2025-07-29,"Transmitter and receiver, serializer and deserializer and methods for transmitting and receiving, serializing and deserializing",0,H04L
+12375228,2025-07-29,Sounding feedback utilizing shortened frame structures,0,H04B|H04L|H04W
+12369008,2025-07-22,"Apparatus, method and computer program for encoding, decoding, scene processing and other procedures related to DirAC based spatial audio coding using low-order, mid-order and high-order components generators",0,G10L|H04N|H04S
+12368561,2025-07-22,Data signal transmission in a wireless communication system with reduced end-to-end latency,0,H04L|H04W
+12367883,2025-07-22,Multisignal audio coding using signal whitening as processing,0,G06F|G10L
+12362753,2025-07-15,Electrical circuit,0,G06F|H03L
+12355990,2025-07-08,"Decoder, encoder and methods for mixing NAL units of different NAL unit types in video streams",0,H04N
+12355704,2025-07-08,Data signal transmission in a wireless communication system with reduced end-to-end latency,0,H04L|H04W
+12350755,2025-07-08,Methods for providing panel planning geometry data and laser flatbed machines for cutting out workpieces,0,B23K|G06T
+12348736,2025-07-01,Efficient sub-picture extraction,0,H04L|H04N
+12348712,2025-07-01,Extended reference intra-picture prediction,0,H04N
+12335505,2025-06-17,Determining a parametrization for context-adaptive binary arithmetic coding,0,H04N
+12335195,2025-06-17,"Physically separated channels for narrowband, low complexity receivers",0,H04L|H04W|Y02D
+12327751,2025-06-10,Massive parallel assembly method,0,H01L|H10H
+12323739,2025-06-03,"Video conference apparatus, video conference method and computer program using a spatial virtual reality environment",0,G06T|H04N
+12323643,2025-06-03,"File parser, file generator, encoder, decoder, client, server, and methods using parameter sets for coded video sequences",0,H04N
+12323561,2025-06-03,Method and apparatus for efficient delivery and usage of audio messages for high quality of experience,0,G06F|H04N
+12316847,2025-05-27,Efficient coding of transform coefficients using or suitable for a combination with dependent scalar quantization,0,H04N
+12316839,2025-05-27,Factional sample interpolation for reference picture resampling,0,H04N
+12316417,2025-05-27,Explicit channel information feedback based on high-order PCA decomposition or PCA composition,0,H04B|H04L
+12309431,2025-05-20,Video codec allowing sub-picture or region wise random access and concept for video composition using the same,0,H04N
+12308918,2025-05-20,CSI reporting based on linear combination codebook,0,H04B|H04W
+12302321,2025-05-13,Methods and apparatuses for enhancing the reliability and performance of the physical downlink control channel in a wireless communications network,0,H04L|H04W
+12302086,2025-05-13,Concept for generating an enhanced sound field description or a modified sound field description using a multi-point sound field description,0,G06F|G10L|H04S
+12301299,2025-05-13,"Techniques for signaling, e.g., for new radio unlicensed (NR-U)",0,H04B|H04L|H04W
+12301277,2025-05-13,Parameter based adaption of a transmission scheme on a radio resource,0,H04B|H04L
+12294422,2025-05-06,Efficient communication to configure sensor nodes,0,G06K|H04B|H04L
+12289743,2025-04-29,Coordinated inter-UE resource allocation,0,H04W
+12287642,2025-04-29,Sorting system and method for controlling a sorting system,1,B07C|G05B|G05D|G06Q
+12279183,2025-04-15,Groupcast procedures for V2X,0,H04L|H04W
+12279151,2025-04-15,Quality of service profile change for a multi-QoS profile session,0,H04W
+12278960,2025-04-15,Partitioned intra coding concept,0,H04N
+12278959,2025-04-15,"Encoder and decoder, encoding method and decoding method with complexity handling for flexibly sized picture partitions",0,H04N
+12273993,2025-04-08,Method for producing a carrier arrangement,0,H01L|H05K
+12273805,2025-04-08,Inline interference management,0,H04B|H04W
+12273766,2025-04-08,Method and apparatus for congestion control in a telecommunications network,0,H04W
+12273737,2025-04-08,Terrestrial or non-terrestrial wireless communication systems,0,H04B|H04W
+12273519,2025-04-08,"Encoder, decoder, system and methods for encoding and decoding",0,G10L|H04N
+12272365,2025-04-08,Apparatus and method for decoding an encoded audio or image signal using an auxiliary window function,0,G10L|H04N
+12267197,2025-04-01,Ambiguity/aliasing cancellation or reduction for staggered reference signals,0,G01S|H04L|H04W
+12262035,2025-03-25,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+12262027,2025-03-25,Processing of output layer sets of coded video,0,H04N
+12250388,2025-03-11,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+12244864,2025-03-04,Efficient implementation of matrix-based intra-prediction,0,H04N
+12244816,2025-03-04,"Encoder and decoder, encoding method and decoding method with profile and level dependent coding options",0,H04N
+12238682,2025-02-25,Transceivers and methods for operating the same,0,H04W
+12231664,2025-02-18,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+12231248,2025-02-18,URLLC DAI and LTI,0,H04L|H04W
+12230001,2025-02-18,"Encoder, decoder and related methods",0,G06T|H04N
+12225520,2025-02-11,System combination of an asynchronous and a synchronous radio system,0,H04B|H04W|Y02D
+12225238,2025-02-11,"Encoder, decoder, methods and computer programs for an improved lossless compression",0,H04N
+12225236,2025-02-11,Miscellaneous signaling concepts for multi-layer video bitstreams and for output timing derivation,0,H04N
+12225198,2025-02-11,MIP for all channels in the case of 4:4:4-chroma format and of single tree,0,H04N
+12219532,2025-02-04,V2X dynamic groupcast resource allocation,0,H04W
+12212754,2025-01-28,Dependent quantization,0,H04N
+12211237,2025-01-28,Correlation of thermal satellite image data for generating thermal maps at high spatial resolution,0,G01J|G06T
+12206893,2025-01-21,Picture/video coding supporting varying resolution and/or efficiently handling region-wise packing,0,H04N
+12200916,2025-01-14,Liquid-cooled power electronics unit,0,H01L|H05K
+12200539,2025-01-14,Reliable data packet transmission among entities of a radio access network of a mobile communication network,0,H04B|H04L|H04W
+12200216,2025-01-14,Transform coefficient block coding,0,H04N
+12199717,2025-01-14,Methods and apparatuses for providing antenna port related information in a communications network,0,H04B|H04L
+12195328,2025-01-14,Spatial light modulator (SLM) comprising integrated digital-to-analog converters,0,B81B|G02B|G09G|H03M|H04N
+12192974,2025-01-07,Resource-staggered coded multiple access,0,H04L|H04W
+12192461,2025-01-07,Apparatus and method for encoding and decoding a picture using picture boundary handling,0,H04N
+12190899,2025-01-07,Apparatus and method for acquiring a plurality of audio signals associated with different sound sources,0,G06N|G10L
+12185188,2024-12-31,Location management with dynamic TAL for high mobility,0,H04B|H04W
+12181369,2024-12-31,"Method and device for determining the shape of an optical waveguide, and device for producing training data for a neural network",0,A61B|G01B|G01L|G01M|G06N
+12177834,2024-12-24,Methods and apparatuses for signaling framework for flexible beam management,0,H04B|H04L|H04W
+12177497,2024-12-24,Method and video controller for controlling delivered video,0,H04N
+12166731,2024-12-10,"User equipment, base stations and wireless communications system for ultra-reliable communications",0,H04B|H04L|H04W
+12166583,2024-12-10,Concealment of environmental influences on the transmitting parameters,0,H04B|H04L|H04W
+12166073,2024-12-10,Vertical semiconductor diode or transistor device having at least one compound semiconductor and a three-dimensional electronic semiconductor device comprising at least one vertical compound structure,0,B82Y|H01L|H10D
+12160606,2024-12-03,Intra-prediction mode using downsampling for block-wise picture coding,0,H04N
+12160571,2024-12-03,Affine linear weighted intra predictions,0,H04N
+12160568,2024-12-03,Apparatus for selecting an intra-prediction mode for padding,0,H04N
+12156222,2024-11-26,Resource pool design for group communications,0,H04W
+12156194,2024-11-26,Transceivers and method for operating the same,0,H04L|H04W
+12155472,2024-11-26,Sidelink feedback,0,H04L|H04W
+12149762,2024-11-19,Fragment-aligned audio coding,0,G10L|H04N
+12149744,2024-11-19,Apparatus and method for encoding and decoding a sequence of pictures using a buffered transform signal approximation,0,H04N
+12149719,2024-11-19,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+12149718,2024-11-19,"Video coding aspects of temporal motion vector prediction, interlayer referencing and temporal sublayer indication",0,H04N
+12149350,2024-11-19,Punctured information for flexible/full duplex communication,0,H04B|H04L|H04W
+12143891,2024-11-12,Sidelink ranging and multilateration,0,G01S|H04W
+12143866,2024-11-12,Preemptive handover preparation and tracking/paging area handling and intelligent route selection in a cellular network,0,H04W|Y02D
+12143591,2024-11-12,Multi-hypothesis prediction,0,H04N
+12143322,2024-11-12,Joint transmissions of data in a wireless communication system using a non-orthogonal multiple access transmission scheme,0,H04J|H04L|H04W
+12143321,2024-11-12,Concepts for transmitting data to one or more users,0,H04B|H04L|H04W
+12137256,2024-11-05,Video coding using a coded picture buffer,0,H04N
+12132934,2024-10-29,Operation method of electronic device for encoding and decoding a sequence of pictures using a buffered transform signal approximation,0,H04N
+12126812,2024-10-22,Apparatus and method for improved video quality assessment,0,H04N
+12126804,2024-10-22,Multiple stage residual coding in modern hybrid image and video coding solutions,0,H04N
+12126562,2024-10-22,Control resource set grouping,0,H04L
+12120813,2024-10-15,Radio-frequency arrangement having two interconnected radio-frequency components,0,H01B|H01L|H01Q|H05K
+12120351,2024-10-15,Image data compression using switching between a set of transforms,0,H04N
+12120321,2024-10-15,Refined block-based predictive coding and decoding of a picture,0,G06T|H04N
+12120298,2024-10-15,"Encoder and decoder, encoding method and decoding method for versatile spatial partitioning of coded pictures",0,H04N
+12114274,2024-10-08,Method for coordinating participants in sensor networks,0,H04B|H04W
+12113096,2024-10-08,Method for producing semiconductor capacitors having different capacitance values in a semiconductor substrate,0,H01L|H10D
+12112765,2024-10-08,"Audio encoder, audio decoder, method for encoding an audio signal and method for decoding an encoded audio signal",0,G10L|H04N
+12112426,2024-10-08,Augmenting a view of a real-world environment with a view of a volumetric video object,0,G06T
+12108088,2024-10-01,Usage of access unit delimiters and adaptation parameter sets,0,H04N
+12108084,2024-10-01,"Decoder, encoder and methods comprising a coding for intra subpartitions",0,H04N
+12108041,2024-10-01,"Decoder, encoder and method for supporting adaptive dependent quantization of transform coefficient levels",0,H04N
+12106500,2024-10-01,Multi-channel imaging device and device having a multi-aperture imaging device,0,G03B|G06T|H04N
+12101510,2024-09-24,Block-based predictive coding and decoding of a picture,0,H04L|H04N
+12101157,2024-09-24,Beam correspondence indication and bitmap for beam reporting for wireless communications,0,H04B|H04L|H04W
+12096167,2024-09-17,Bidirectional configuration of sensor nodes with mobile phone with no extension,0,G08C|H04B|H04M|H04R|H04W
+12096016,2024-09-17,"Encoder and decoder, encoding method and decoding method for drift-free padding and hashing of independent coding regions",0,H04N
+12095989,2024-09-17,Region based intra block copy,0,H04N
+12095486,2024-09-17,"Arithmetic encoders, arithmetic decoders, video encoder, video decoder, methods for encoding, methods for decoding and computer program",0,H03M|H04N
+12088863,2024-09-10,Broadcast streaming of panoramic video for interactive clients,0,H04N
+12082222,2024-09-03,Signaling of a multicast message in non-coordinated networks,0,H04W
+12082212,2024-09-03,Radio resource management to enhance reliability in mobility scenarios,1,H04W
+12081829,2024-09-03,File format concepts for video coding,0,H04N
+12080304,2024-09-03,"Audio transmitter processor, audio receiver processor and related methods and computer programs for processing an error protected frame",0,G10L|H03M|H04B|H04L
+12078980,2024-09-03,"System, verification module, service module, and method for supporting a remote certification service based on blockchain",0,G05B|H04L|Y02P
+12075091,2024-08-27,Intra predictions using linear or affine transforms with neighbouring sample reduction,0,H04N
+12074649,2024-08-27,"Apparatus, measurement system for testing an apparatus and methods for operating the same",0,H01Q|H04B|H04W
+12069470,2024-08-20,System and method for assisting selective hearing,1,G06T|H04R|H04S
+12069268,2024-08-20,"Video decoder, video encoder, methods for encoding and decoding video signals and computer program adjusting one or more denoising operations",0,H04N
+12069236,2024-08-20,"Encoder, decoder and data stream for gradual decoder refresh coding and scalable coding",0,H04N
+12063391,2024-08-13,Decorrelation transform for a color filter array pattern image,0,H04N
+12063381,2024-08-13,"Video data stream, video encoder, apparatus and methods for a hypothetical reference decoder and for output layer sets",0,G11B|H04N
+12061966,2024-08-13,Relevance score assignment for artificial neural networks,1,G06F|G06N|G06V|G10L
+12058704,2024-08-06,NR V2X reliability enhancements,1,H04L|H04W
+12058352,2024-08-06,"Video decoder, video encoder, method for decoding a video content, method for encoding a video content, computer program and video bitstream",0,H04N
+12057133,2024-08-06,Multi-mode channel coding,0,G10L|H03M|H04B|H04L
+12051432,2024-07-30,Concept for combined dynamic range compression and guided clipping prevention for audio devices,0,G06F|G10L|H03G
+12051431,2024-07-30,"Audio similarity evaluator, audio encoder, methods and computer program",0,G06N|G10L
+12048053,2024-07-23,Resource selection for power-saving users in NR sidelink,0,H04W|Y02D
+12047148,2024-07-23,Doppler-delay codebook-based precoding and CSI reporting for wireless communications systems,2,H04B|H04W
+12041581,2024-07-16,Radio sidelink frame structure,1,H04L|H04W
+12041228,2024-07-16,Coding of intra-prediction modes,0,H04N
+12041222,2024-07-16,Matrix based intra prediction with mode-global settings,0,H04N
+12041219,2024-07-16,Immersive media content presentation and interactive 360° video communication,1,H04L|H04N
+12039986,2024-07-16,Decoder and decoding method for LC3 concealment including full frame loss concealment and partial frame loss concealment,0,G10L|H03M|H04B|H04L
+12038736,2024-07-16,Additive manufacturing control based on displaced signed distance fields,0,B29C|B33Y|G05B|G06T
+12035224,2024-07-09,Channel access via hierarchically organized channel access patterns,0,H04B|H04W
+12035018,2024-07-09,Data processor and transport of user control data to audio decoders and renderers,0,G10L|H04N
+12034928,2024-07-09,Coding concepts for a transformed representation of a sample block,0,H04N
+12033646,2024-07-09,Analysis/synthesis windowing function for modulated lapped transformation,0,G06F|G10L
+12033339,2024-07-09,Localization of elements in the space,0,G06F|G06T|G06V|H04N
+12028781,2024-07-02,Groupcast procedures for V2X,3,H04L|H04W
+12028690,2024-07-02,Concept for modifying a loudspeaker signal for preventing diaphragm over-deflection,0,G06N|H04R
+12028552,2024-07-02,Configurable NAL and slice code point mechanism for stream merging,0,H04N
+12022131,2024-06-25,Video coding using a coded picture buffer,0,H04N
+12022120,2024-06-25,Efficient implementation of matrix-based intra-prediction,0,H04N
+12010714,2024-06-11,Resource management concept,0,H04W
+12010337,2024-06-11,"Encoders, decoders, methods, and video bit streams, and computer programs for hybrid video coding",0,H04N
+12009002,2024-06-11,"Audio transmitter processor, audio receiver processor and related methods and computer programs",0,G10L|H03M|H04B|H04L
+12007680,2024-06-11,Device comprising a multi-aperture imaging device for generating a depth map,0,G02B|G03B|H04N
+12003723,2024-06-04,Unified transform type signaling and transform type dependent transform coefficient level coding,0,H04N
+12003313,2024-06-04,"Control unit, wireless communication network and method for operating a control unit",0,H04B|H04L|H04W|Y02D
+11997320,2024-05-28,Video coding using a coded picture buffer,0,H04N
+11997280,2024-05-28,Use-case driven context model selection for hybrid video coding tools,0,H04N
+11996929,2024-05-28,"Precoding unit, user terminal, methods for operating the same and wireless communication network",0,H04B|H04L|Y02D
+11996287,2024-05-28,Method and apparatus for manufacturing a semiconductor layer and substrate provided therewith,0,C23C|C30B|H01L|H10D
+11991355,2024-05-21,Factional sample interpolation for reference picture resampling,0,H04N
+11989346,2024-05-21,"Fiber-optic sensor, data glove and method for detecting curvature",0,G01B|G01J|G06F
+11985101,2024-05-14,"Method, apparatus, electronic message server and computer program for processing a plurality of electronic messages",0,H04L
+11979856,2024-05-07,Enhanced quality of service for V2X,0,H04L|H04W
+11979584,2024-05-07,"Arithmetic encoders and decoders, video encoders and decoders, methods for encoding or decoding symbols, and methods for encoding or decoding video content",0,H04N
+11979238,2024-05-07,V2X HARQ process management,0,H04L|H04W
+11974307,2024-04-30,NR V2X resource pool design,1,H04L|H04W
+11973988,2024-04-30,"Encoder, decoder, methods and computer programs for an improved lossless compression",0,H04N
+11973978,2024-04-30,Implementation efficient partition-based intra coding concept,0,H04N
+11973961,2024-04-30,"Encoder, decoder and methods for enhancing a robustness for calculation of cross-component linear model parameters",0,H04N
+11973955,2024-04-30,Video coding in relation to subpictures,0,H04N
+11972988,2024-04-30,Solar cell and photovoltaic module,0,G01K|G01L|G01N|H01L|H02S|H10F|Y02E
+11968399,2024-04-23,Video codec allowing sub-picture or region wise random access and concept for video composition using the same,0,H04N
+11962833,2024-04-16,"Source devices, sink devices, methods and computer programs",0,H04N
+11962813,2024-04-16,Video coding using a coded picture buffer,0,H04N
+11962812,2024-04-16,Video coding using a coded picture buffer,0,H04N
+11962765,2024-04-16,Video coding with guided separate post-processing steps,0,H04N
+11961530,2024-04-16,"Encoder, decoder and methods for encoding and decoding data segments representing a time-domain data stream",0,G10L|H04N
+11956429,2024-04-09,Partition-based intra-coding concept,0,H04N
+11954874,2024-04-09,Localization of elements in the space,0,G06F|G06T|G06V|H04N
+11950100,2024-04-02,"Method for determining a jitter attack, jitter attack detecting device, and computer program",0,B60R|H04W
+11950085,2024-04-02,Concept for generating an enhanced sound field description or a modified sound field description using a multi-point sound field description,0,G06F|G10L|H04S
+11950014,2024-04-02,Method for differentiating between background and foreground of scenery and also method for replacing a background in images of a scenery,0,H04N
+11949957,2024-04-02,Method and apparatus for efficient delivery and usage of audio messages for high quality of experience,1,G06F|H04N
+11949915,2024-04-02,Encoding and decoding a sequence of pictures,0,H04N
+11949519,2024-04-02,Physical uplink control channel (PUCCH) resource configuration for multiple service types,0,H04L|H04W
+11943274,2024-03-26,Portioned video streaming concepts,0,H04L|H04N
+11943158,2024-03-26,"Data communication apparatuses, data communication system and methods using reference symbols",0,H04L|H04W
+11937075,2024-03-19,"Apparatus, method and computer program for encoding, decoding, scene processing and other procedures related to DirAC based spatial audio coding using low-order, mid-order and high-order components generators",1,G10L|H04N|H04S
+11936889,2024-03-19,Hypothetical reference decoder,2,H04N
+11936456,2024-03-19,Three-component codebook based CSI reporting,2,H04B|H04L|H04W
+11935549,2024-03-19,Apparatus and method for encoding an audio signal using an output interface for outputting a parameter calculated from a compensation value,0,G10L|H04L
+11924395,2024-03-05,Device comprising a multi-aperture imaging device for generating a depth map,0,G03B|G06T|H04N
+11923881,2024-03-05,Interference detection and suppression in non-coordinated systems,0,H04B|H04L
+11922330,2024-03-05,Apparatus and method for estimating a physical state of a movable object,0,A61B|G01C|G01S|G06F|G06N|G16H|H04W
+11920561,2024-03-05,Device for monitoring mechanical connection points in an installation,0,E02D|F03D|F05B|F05D|F16B|G01L|G01N|G06T
+11917592,2024-02-27,Resource-staggered coded multiple access,0,H04L|H04W
+11917220,2024-02-27,Scene section and region of interest handling in video streaming,0,H04N
+11910233,2024-02-20,Reliable data packet transmission among entities of a radio access network of a mobile communication network,0,H04B|H04L|H04W
+11909957,2024-02-20,"Encoder and decoder, encoding method and decoding method for reference picture resampling extensions",0,H04N
+11909519,2024-02-20,Data transmitter and data receiver with low latency for the telegram splitting transfer method,0,H04B|H04L|H04W
+11907683,2024-02-20,"Method for generating a random number, random number generation circuit and computer program",0,G06F|H04L
+11906292,2024-02-20,Method and computer program for time-resolved calculation of a deformation of a body,0,G01B|G01M|G06T
+11902593,2024-02-13,Video coding using a coded picture buffer,0,H04N
+11901996,2024-02-13,Methods and apparatuses for enhancement on basis subset indication for two-codebook based CSI reporting,3,H04B|H04L
+11901285,2024-02-13,Microelectronic arrangement and method for manufacturing the same,0,H01L|H05K|Y02P
+11901063,2024-02-13,Navigable presentation of a variety of solutions for therapy plans,0,G06F|G06T|G16H
+11900955,2024-02-13,Apparatus and method for screen related audio object remapping,0,G10L|H04N|H04R|H04S
+11895290,2024-02-06,Composed prediction and restricted merge,0,H04N
+11889066,2024-01-30,Intra-prediction mode concept for block-wise picture coding,0,G06N|G06T|H04N
+11889004,2024-01-30,PUF-film and method for producing the same,0,G06F|H01L|H04L|H10D
+11887587,2024-01-30,Apparatus and method for processing an audio input recording to obtain a processed audio recording to address privacy issues,0,G06F|G10L
+11885612,2024-01-30,"Apparatus for three-dimensional measurement of an object, method and computer program with image-based triggering",2,G01B|G01S|G06T|H04N
+11882323,2024-01-23,Audio splicing concept,0,H04H|H04L|H04N
+11882284,2024-01-23,Determination of set of candidate transforms for video encoding,1,H04N
+11881975,2024-01-23,Power-saving sampling receiver with non-coherent sampling with one sample per bit,0,H04L|H04W
+11881967,2024-01-23,"Method for the acquisition of impulse responses, e.g. for ultra-wideband systems",0,G01S|H04L
+11881919,2024-01-23,Three-component codebook based CSI reporting,1,H04B|H04L|H04W
+11881889,2024-01-23,Unipolar binary sequences with improved non-periodic correlation behavior for unsynchronized TSMA systems,0,H04B|H04L
+11880407,2024-01-23,Method and device for generating a database of noise,0,G06F|G10L
+11876964,2024-01-16,Partitioned intra coding concept,0,H04N
+11876589,2024-01-16,Explicit channel information feedback based on high-order PCA decomposition or PCA composition,0,H04B|H04L
+11875806,2024-01-16,Multi-mode channel coding,0,G10L|H03M|H04B|H04L
+11871041,2024-01-09,Video coding using a coded picture buffer,0,H04N
+11870631,2024-01-09,Duration of shortened semi-persistent scheduled intervals,1,H04L|H04W
+11867916,2024-01-09,Device apparatus for projecting a laser beam for generating an image on the retina of an eye,0,G02B|G06F
+11864163,2024-01-02,V2X dynamic groupcast resource allocation,1,H04W
+11863962,2024-01-02,Concept for generating an enhanced sound-field description or a modified sound field description using a multi-layer description,0,G06F|G10L|H04S
+11863234,2024-01-02,Wireless optical communication network and apparatus for wireless optical communication,0,H04B|H04L|H04W
+11860934,2024-01-02,Device and method for detecting partial matches between a first time varying signal and a second time varying signal,0,G06F|G06V|G10L
+11856389,2023-12-26,"Apparatus, method and computer program for encoding, decoding, scene processing and other procedures related to DirAC based spatial audio coding using direct component compensation",0,G10L|H04N|H04S
+11855684,2023-12-26,Parameter based adaption of a transmission scheme on a radio resource,0,H04B|H04L
+11854890,2023-12-26,Capacitor and method for producing the same,0,H01L|H10D
+11849458,2023-12-19,Punctured/on-demand control information for flexible/full duplex communication,0,H04L|H04W
+11849077,2023-12-19,Video coding using a coded picture buffer,0,H04N
+11849076,2023-12-19,Video coding using a coded picture buffer,0,H04N
+11848877,2023-12-19,Sounding feedback utilizing shortened frame structures,0,H04B|H04L|H04W
+11843805,2023-12-12,"Deblocking or deringing filter and encoder, decoder and method for applying and varying a strength of a deblocking or deringing filter",0,H04N
+11843774,2023-12-12,Apparatus and method for encoding and decoding a picture using picture boundary handling,0,H04N
+11838743,2023-12-05,"Apparatus, method and computer program for encoding, decoding, scene processing and other procedures related to DirAC based spatial audio coding using diffuse compensation",0,G10L|H04N|H04S
+11838504,2023-12-05,Efficient sub-picture extraction,0,H04L|H04N
+11825091,2023-11-21,Transform coefficient block coding,0,H04N
+11818712,2023-11-14,Methods and apparatuses for enhancing the reliability and performance of the physical downlink control channel in a wireless communications network,0,H04L|H04W
+11817920,2023-11-14,"Communication devices, communication coordinating devices, and communication methods",0,H04B|H04W
+11817897,2023-11-14,Synchronization beacon,0,H04B|H04L
+11815617,2023-11-14,Generation and use of HD maps,2,G01C|G01S|G05D|G06F|G06V|G08C|H04Q
+11805241,2023-10-31,Concept for enhancing parallel coding capabilities,0,H04N
+11800128,2023-10-24,Bitstream merging,0,H04N
+11792853,2023-10-17,Bidirectional scheduling in low-power wide-area networks,0,H04L|H04W|Y02D
+11792450,2023-10-17,Broadcast streaming of panoramic video for interactive clients,0,H04N
+11785628,2023-10-10,Device and method for associating resource information with channel metric information in wireless networks,40,H04L|H04W
+11784730,2023-10-10,"Apparatus, system and method for improving position estimation and/or communication performance in a wireless communication network",0,G01S|H04B|H04W
+11776554,2023-10-03,Audio processor and method for generating a frequency enhanced audio signal using pulse processing,0,G06F|G10L
+11770546,2023-09-26,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11770528,2023-09-26,"Encoder and decoder, encoding method and decoding method for versatile spatial partitioning of coded pictures",0,H04N
+11770527,2023-09-26,Encoding and decoding a picture,0,H04N
+11770216,2023-09-26,ARQ/HARQ-related procedure for grant-free random access,1,H04L|H04W
+11770208,2023-09-26,Sidelink feedback,1,H04L|H04W
+11770195,2023-09-26,"Apparatus, measurement system for testing an apparatus and methods for operating the same",0,H01Q|H04B|H04W
+11765415,2023-09-19,Fragment-aligned audio coding,0,G10L|H04N
+11764938,2023-09-19,"User equipment, base stations and wireless communications system for ultra-reliable communications",1,H04B|H04L|H04W
+11764122,2023-09-19,3D flex-foil package,0,H01L
+11758132,2023-09-12,"Encoder and decoder, encoding method and decoding method with complexity handling for flexibly sized picture partitions",0,H04N
+11751106,2023-09-05,Preemptive handover preparation and tracking/paging area handling and intelligent route selection in a cellular network,1,H04W|Y02D
+11749533,2023-09-05,Method of manufacturing a power semiconductor component arrangement or a power semiconductor component housing,0,H01L
+11743553,2023-08-29,Data processor and transport of user control data to audio decoders and renderers,2,G10L|H04N
+11742893,2023-08-29,Specific hopping patterns for telegram splitting,0,H04B|H04L
+11736731,2023-08-22,Encoding and decoding a sequence of pictures,0,H04N
+11729426,2023-08-15,Block-based predictive coding and decoding of a picture,0,H04L|H04N
+11722297,2023-08-08,Device and method for generating a key,1,G02F|G06F|H04L
+11722201,2023-08-08,Methods and apparatuses for fingerprinting employing function-based matching patterns,0,H04B|H04W
+11722190,2023-08-08,1 bit signaling feedback to configure or change the settings of a communication system,0,H04B|H04L
+11716179,2023-08-01,Joint transmissions of data in a wireless communication system using a non-orthogonal multiple access transmission scheme,0,H04J|H04L|H04W
+11711413,2023-07-25,Portioned video streaming concepts,1,H04L|H04N
+11711177,2023-07-25,Control message reception at a receiver,0,H04L
+11706413,2023-07-18,Unified transform type signaling and transform type dependent transform coefficient level coding,0,H04N
+11704360,2023-07-18,Apparatus and method for providing a fingerprint of an input signal,0,G06F|G06V|G10L
+11700619,2023-07-11,Scheduling enhancements for latency-constrained and reliable wireless communication systems,0,H04L|H04W
+11700263,2023-07-11,"Method for validating ownership of a resource within a network, coordinating agent and validation agent",0,G06F|H04L
+11700032,2023-07-11,Generation of channel access patterns for mutually uncoordinated networks,0,H04B|H04L|H04W
+11699263,2023-07-11,"Apparatus, method and computer program for rendering a visual scene",0,G06T
+11695965,2023-07-04,Video coding using a coded picture buffer,12,H04N
+11693079,2023-07-04,Device for determining a position of a transmitter and corresponding method,0,G01S|H04W
+11689883,2023-06-27,Sidelink ranging and multilateration,0,G01S|H04W
+11688408,2023-06-27,Perceptual audio coding with adaptive non-uniform time/frequency tiling using subband merging and the time domain aliasing reduction,0,G06F|G10L
+11683677,2023-06-20,Efficient and dynamic addressing methods to a plurality of receivers,0,H04B|H04L|H04W|Y02D
+11683485,2023-06-20,Apparatus for selecting an intra-prediction mode for padding,0,H04N
+11682408,2023-06-20,Apparatus and method for generating an encoded signal or for decoding an encoded audio signal using a multi overlap portion,0,G10L|H04N
+11682407,2023-06-20,Parametric joint-coding of audio sources,0,G10L|H03M|H04N|H04S
+11680895,2023-06-20,Device for detecting water on a surface and a method for detecting water on a surface,0,G01N|G06T|G06V
+11677950,2023-06-13,Efficient coding of transform coefficients using or suitable for a combination with dependent scalar quantization,1,H04N
+11677529,2023-06-13,Data signal transmission in a wireless communication system with reduced end-to-end latency,0,H04L|H04W
+11677490,2023-06-13,Radio frequency communication and jamming device and method for physically secured friendly radio frequency communication and for jamming hostile radio frequency communication,0,H04K|H04W
+11671946,2023-06-06,Resource allocation for sidelink communications in a wireless communication network,0,H04W
+11671140,2023-06-06,Optimized combination of preamble and data fields for sensor networks having low electricity consumption on the basis of the telegram splitting method,1,H04B|H04L|Y02D
+11662456,2023-05-30,"Method to determine a present position of an object, positioning system, tracker and computer program",0,G01S|G06F
+11659525,2023-05-23,Communicating data of a first user equipment and data of a second user equipment on shared resources of a wireless communication system,1,H04J|H04L|H04W
+11659169,2023-05-23,Affine Linear Weighted Intra Predictions,0,H04N
+11658778,2023-05-23,Data transmission in a wireless communication system with reduced latency,2,H04L|H04W
+11652549,2023-05-16,Optical antenna,1,G02B|H04B|H04L|H04Q
+11641473,2023-05-02,Multi-hypothesis prediction,0,H04N
+11622307,2023-04-04,Wireless communication system and method for handling wireless communication enhancing handover,2,H04B|H04W
+11621008,2023-04-04,Apparatus and method for encoding or decoding an audio signal using a transient-location dependent overlap,0,G10L|H04N
+11621007,2023-04-04,Parametric joint-coding of audio sources,0,G10L|H03M|H04N|H04S
+11621006,2023-04-04,Parametric joint-coding of audio sources,0,G10L|H03M|H04N|H04S
+11621005,2023-04-04,Parametric joint-coding of audio sources,0,G10L|H03M|H04N|H04S
+11617016,2023-03-28,Method and apparatus for efficient delivery and usage of audio messages for high quality of experience,2,G06F|H04N
+11616979,2023-03-28,Picture/video coding supporting varying resolution and/or efficiently handling region-wise packing,1,H04N
+11616572,2023-03-28,Optical free-space communication,1,H04B|H04L
+11616551,2023-03-28,Doppler-delay codebook-based precoding and CSI reporting wireless communications systems,4,H04B|H04W
+11615996,2023-03-28,Thin dual foil package including multiple foil substrates,0,H01L
+11611750,2023-03-21,Entropy coding of transform coefficients suitable for dependent scalar quantization,1,H04N
+11611748,2023-03-21,Transform coefficient block coding,0,H04N
+11611736,2023-03-21,Multi-aperture imaging device with a wavelength-specific beam deflector and device having such a multi-aperture imaging device,0,G02B|G03B|H04N
+11610967,2023-03-21,Vertical compound semiconductor structure and method for producing the same,0,B82Y|H01L|H10D
+11606554,2023-03-14,Extended reference intra-picture prediction,0,H04N
+11601971,2023-03-07,Communication techniques,0,H04B|H04L|H04W
+11601845,2023-03-07,Reliable data packet transmission among entities of a radio access network of a mobile communication network,1,H04B|H04L|H04W
+11589321,2023-02-21,Emergency notification requesting spontaneous grant free transmission for V2X,2,H04L|H04W
+11588979,2023-02-21,System and method for capturing measurement images of an object to be measured,1,G01B|G01N|H04M|H04N
+11588580,2023-02-21,Interleaver for interleaving LDPC encoded bit sequence,0,H03M|H04L
+11586780,2023-02-21,PUF-film and method for producing the same,0,G06F|G06V|H01L|H04L
+11581001,2023-02-14,"Encoder, decoder and methods for encoding and decoding data segments representing a time-domain data stream",0,G10L|H04N
+11574858,2023-02-07,Foil-based package with distance compensation,0,H01L
+11570898,2023-01-31,Multi-layer 3D foil package,0,H01L|H05K
+11570346,2023-01-31,"Multi-aperture imaging device having a low installation height and a switchable viewing direction, imaging system and method for providing a multi-aperture imaging device",0,G02B|H04N
+11569935,2023-01-31,Concept for the analysis of a radio communication system,1,H04L|H04W
+11568528,2023-01-31,Method and apparatus for producing information from a camera image,0,G03H|G06T|H04N
+11563266,2023-01-24,Module arrangement comprising an integrated antenna and embedded components and method for manufacturing a module arrangement,0,H01L|H01Q
+11562764,2023-01-24,"Apparatus, method or computer program for generating a bandwidth-enhanced audio signal using a neural network processor",7,G06N|G10L|H04L
+11562754,2023-01-24,Analysis/synthesis windowing function for modulated lapped transformation,1,G06F|G10L
+11557279,2023-01-17,"Device, method and computer program for acoustic monitoring of a monitoring area",0,G06Q|G08B|G10L
+11553207,2023-01-10,Contour mode prediction,0,H04N
+11552199,2023-01-10,High-voltage capacitor for integration into electrical power modules and a method for the manufacture of the same,0,H01L|H10D
+11551703,2023-01-10,Concept for combined dynamic range compression and guided clipping prevention for audio devices,0,G06F|G10L|H03G
+11547290,2023-01-10,"Medical imaging device, method, and use",0,A61B|H04N
+11546630,2023-01-03,Video codec using template matching prediction,0,H04N
+11546614,2023-01-03,Encoder and decoder for encoding and decoding images,0,G06N|H04N
+11546404,2023-01-03,Spatially unequal streaming,0,H04L|H04N
+11544034,2023-01-03,Method for setting parameters for individual adaptation of an audio signal,0,A61B|G01L|G06F|H03G|H04R
+11539778,2022-12-27,Spatially unequal streaming,0,H04L|H04N
+11533486,2022-12-20,Dependent quantization,0,H04N
+11533157,2022-12-20,Full duplexing downlink and uplink directions,1,H04L|H04W
+11527254,2022-12-13,Apparatus and method for screen related audio object remapping,0,G10L|H04N|H04R|H04S
+11521919,2022-12-06,Flex-foil package with coplanar topology for high-frequency signals,0,H01L
+11521899,2022-12-06,"Method for increasing the electrical functionality, and/or service life, of power electronic modules",0,H01L
+11521628,2022-12-06,Apparatus and method for encoding an audio signal using compensation values between three spectral bands,1,G10L|H04L
+11516703,2022-11-29,Variable sub-packet lengths for telegram splitting in networks with low power consumption,1,H04L|H04W|Y02D
+11516273,2022-11-29,Spatially unequal streaming,0,H04L|H04N
+11514589,2022-11-29,Method for determining at least one mechanical property of at least one object,0,B07C|G06T
+11508863,2022-11-22,Semiconductor component and method for singulating a semiconductor component having a pn junction,0,H01L|H10F|Y02E|Y02P
+11503339,2022-11-15,Intra predictions using linear or affine transforms with neighbouring sample reduction,0,H04N
+11496541,2022-11-08,Spatially unequal streaming,0,H04L|H04N
+11496540,2022-11-08,Spatially unequal streaming,0,H04L|H04N
+11496539,2022-11-08,Spatially unequal streaming,0,H04L|H04N
+11496538,2022-11-08,Spatially unequal streaming,0,H04L|H04N
+11495239,2022-11-08,Parametric joint-coding of audio sources,0,G10L|H03M|H04N|H04S
+11489900,2022-11-01,Spatially unequal streaming,0,H04L|H04N
+11489639,2022-11-01,Concepts for transmitting data to one or more users,0,H04B|H04L|H04W
+11483028,2022-10-25,Interleaving for the transfer of telegrams with a variable number of sub-packets and successive decoding,1,H03M|H04B|H04L
+11483015,2022-10-25,Packet detector/decoder for a radio transmission system,1,H04B|H04L|H04W
+11477772,2022-10-18,"Receiver, transmitter, radio signal,wireless communication network and method to provide parameters for a communication of the receiver with the wireless",0,G01S|H04L|H04W
+11477665,2022-10-18,Beam management methods and apparatuses for positioning measurements in a communications network,15,H04B|H04J|H04L|H04W
+11477594,2022-10-18,Concept for generating an enhanced sound-field description or a modified sound field description using a depth-extended DirAC technique or other techniques,0,G06F|G10L|H04S
+11477497,2022-10-18,Audio splicing concept,0,H04H|H04L|H04N
+11474331,2022-10-18,"Device comprising a multi-aperture imaging device, method for producing same and method for capturing a total field of view",0,G02B|G03B|H04N
+11463834,2022-10-04,Concept for generating an enhanced sound field description or a modified sound field description using a multi-point sound field description,0,G06F|G10L|H04S
+11463694,2022-10-04,Partitioned intra coding concept,0,H04N
+11463224,2022-10-04,Sounding feedback utilizing shortened frame structures,0,H04B|H04L|H04W
+11463113,2022-10-04,Apparatus and method for multi-code distributed storage,0,G06F|H03M|H04L
+11460613,2022-10-04,"Multi-aperture imaging device of low stray light sensitivity, imaging system and method for providing a multi-aperture imaging device",0,G02B|H04N
+11457440,2022-09-27,"Physically separated channels for narrowband, low complexity receivers",0,H04L|H04W|Y02D
+11457232,2022-09-27,Bit-plane encoder and decoder,0,H04N
+11457152,2022-09-27,"Device for imaging partial fields of view, multi-aperture imaging device and method of providing same",0,G06T|H04N
+11451764,2022-09-20,Method and device for the simultaneous projection of individual images for a plurality of viewers,0,H04N
+11438736,2022-09-06,"UE groups, UE group manager UEs and UE group member UEs",6,H04B|H04W
+11438617,2022-09-06,Transform coefficients encoder and decoder,0,H04N
+11438042,2022-09-06,Transmission of data by multiple users over shared resources,0,H03M|H04B|H04J|H04L|H04W
+11431352,2022-08-30,"Arithmetic encoders, arithmetic decoders, video encoder, video decoder, methods for encoding, methods for decoding and computer program",0,H03M|H04N
+11425451,2022-08-23,Media streaming concept allowing efficient support of fast tune-in and any-time switching,0,H04L|H04N
+11422148,2022-08-23,Apparatus for generating two-dimensional illumination patterns,0,G01N|G01P|G02B|H04N
+11411748,2022-08-09,PUF-film and method for producing the same,0,G06F|H01L|H04L|H10D
+11411637,2022-08-09,System for non-terrestrial communications,0,H04B|H04L
+11405948,2022-08-02,Joint resource pools for uplink communications,0,H04L|H04W
+11405158,2022-08-02,Signature-domain multiplexing for non-orthogonal multiple access,0,H04J|H04L|H04W
+11405137,2022-08-02,"Receiver, transmitter, communication network, data signal and method improving a retransmission process in a communication network",0,H03M|H04L|H04W
+11394109,2022-07-19,"Module arrangement comprising embedded components and an integrated antenna, device comprising module arrangements, and method for manufacturing",2,H01L|H01Q
+11387946,2022-07-12,Reliable ultra-low latency communications,0,H04L
+11386660,2022-07-12,Advanced video data stream extraction and multi-resolution video transmission,0,G06T|G06V|H04N
+11381886,2022-07-05,Data processor and transport of user control data to audio decoders and renderers,2,G10L|H04N
+11381643,2022-07-05,System and method for monitoring a work situation,0,A61B|G01D|G06F|G06Q|H04J|H04L|H04W
+11380015,2022-07-05,Method for the optical determination of an intensity distribution,0,G06T|H04N
+11379178,2022-07-05,Loudness control for user interactivity in audio coding systems,1,G06F|G10L|H04S
+11375622,2022-06-28,Method and device for positioning a component arranged on a substrate,0,G01D|G01R|H01L|H05K
+11368186,2022-06-21,Transmitter and receiver and corresponding methods,3,H04B|H04L
+11363545,2022-06-14,"Wireless communication system, base-station and user-side-device",3,H04B|H04W
+11363268,2022-06-14,"Concept for varying a coding quantization parameter across a picture, coding quantization parameter adjustment, and coding quantization parameter adaptation of a multi-channel picture",0,H04N
+11363259,2022-06-14,Intra-prediction mode concept for block-wise picture coding,0,G06N|G06T|H04N
+11362767,2022-06-14,"Receiver, transmitter, system and method implementing a retransmission process responsive to an indication that encoded data on allocated resources is not decodable",1,H04L|H04W
+11356150,2022-06-07,Cellular communication network using a user equipment identifier,0,H04B|H04W
+11354084,2022-06-07,Optimizing audio delivery for virtual reality applications,0,G02B|G06F|H04L|H04N
+11349623,2022-05-31,Reliable and low-latency transmission of data via a voice channel in a communication network,0,H04L|H04W
+11348388,2022-05-31,"Method for determining a relay attack, relay attack detecting device, and computer program",0,B60R|G07C|H04W
+11343720,2022-05-24,Preemptive handover preparation and tracking/paging area handling and intelligent route selection in a cellular network,5,H04W|Y02D
+11343634,2022-05-24,Apparatus and method for rendering an audio signal for a playback to a user,0,G06F|G06T|H04S
+11343002,2022-05-24,"Apparatus, measurement system for testing an apparatus and methods for operating the same",1,H01Q|H04B|H04W
+11336426,2022-05-17,Authenticated confirmation and activation message,0,H04B|H04L|H04W
+11330161,2022-05-10,Device comprising a multi-aperture imaging device for accumulating image information,0,H04N
+11329777,2022-05-10,"Data communication apparatuses, data communication system and methods using reference symbols",1,H04L|H04W
+11328987,2022-05-10,Waver-level packaging based module and method for producing the same,1,H01L|H01Q
+11324038,2022-05-03,Communication techniques,0,H04B|H04L|H04W
+11323806,2022-05-03,Apparatus and method for modifying a loudspeaker signal for preventing diaphragm over-deflection,0,G06N|H04R
+11317383,2022-04-26,Resource allocation for sidelink communications in a wireless communication network,1,H04W
+11317145,2022-04-26,"Method, apparatus, computer program and system for determining information related to the audience of an audio-visual content program",0,H04H|H04N
+11315580,2022-04-26,Audio decoder supporting a set of different loss concealment tools,0,G10L|H03M|H04L
+11310420,2022-04-19,Generating panoramic images,0,H04N
+11301593,2022-04-12,PUF-film and method for producing the same,0,G06F|G09C|H04L|H05K
+11297341,2022-04-05,Adaptive in-loop filter with multiple feature-based classifications,1,G06F|H04N
+11297338,2022-04-05,Selective quantization parameter transmission,0,H04N
+11295441,2022-04-05,Ultrasound image generating system,0,A61B|G06N|G06T|G16H
+11294687,2022-04-05,Data bus with multi-input pipeline,0,G06F
+11290649,2022-03-29,Multi-aperture imaging device comprising an optical substrate,0,G02B|H04N
+11290509,2022-03-29,Network device for managing a call between user terminals,0,H04L
+11287247,2022-03-29,"Apparatus for three-dimensional measurement of an object, method and computer program",2,G01B|G01S|G06T|H04N
+11284065,2022-03-22,Composed prediction and restricted merge,0,H04N
+11283850,2022-03-22,Spatially unequal streaming,0,H04L|H04N
+11283166,2022-03-22,Module unit having integrated antennas,0,H01L|H01Q
+11277647,2022-03-15,Forward error correction using source blocks with symbols from at least two datastreams with synchronized start symbol identifiers among the datastreams,0,H03M|H04L|H04N
+11277230,2022-03-15,Method and device for estimating a decodability of a code block to improve a retransmission process in a communication network,0,H04L|H04W
+11271297,2022-03-08,Three-dimensional antenna device,0,H01L|H01Q|H05K
+11258952,2022-02-22,Device and method for the optical monitoring of moving components,1,F03D|F05B|G01M|G01N|G06T|H04N|Y02E
+11258477,2022-02-22,Specific hopping patterns for repeated transmission and reception of data and methods for generating the same,1,H04B|H04L
+11249718,2022-02-15,System for outputting audio signals and respective method and setting device,0,G06F|H03G|H04R|H04S
+11245898,2022-02-08,Efficient sub-picture extraction,0,H04L|H04N
+11244434,2022-02-08,Multi-aperture imaging device,0,G06T|H04N
+11240821,2022-02-01,Resource management concept,0,H04W
+11239986,2022-02-01,"User equipment, base stations, and wireless communications systems for ultra-reliable communications",1,H04B|H04L|H04W
+11238873,2022-02-01,Apparatus and method for codebook level estimation of coded audio frames in a bit stream domain to determine a codebook from a plurality of codebooks,0,G10L|H04N
+11233989,2022-01-25,Apparatus for selecting an intra-prediction mode for padding,0,H04N
+11223467,2022-01-11,Latency reduction in TDD systems with carrier aggragation,0,H04L|H04W
+11223430,2022-01-11,"Apparatus, system and method for improving position estimation and/or communication performance in a wireless communication network",0,G01S|H04B|H04W
+11218754,2022-01-04,Fragment-aligned audio coding,0,G10L|H04N
+11218740,2022-01-04,Decoder for decoding a media signal and encoder for encoding secondary media data comprising metadata or control data for primary media data,0,G10L|H04N
+11218530,2022-01-04,Spatially unequal streaming,3,H04L|H04N
+11218184,2022-01-04,Efficient usage of a one-channel receiver for receiving multi channel transmission,0,H04B|H04L|H04W
+11212542,2021-12-28,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11212003,2021-12-28,Wireless network and devices,1,H04B|H04L
+11211993,2021-12-28,"Communication apparatus, method and cellular network usable in a localization of a user equipment using a phase estimate",0,G01S|H04B|H04L|H04W
+11206168,2021-12-21,Receiver and method for providing a phase coherency for frequency hopping multitone signals,0,G01S|H04L|H04W
+11201765,2021-12-14,"Receiver, transmitter, wireless communication network and method to communicate a non-pulse shaped signal in a multi carrier pulse shaped transmission system",1,H04B|H04L
+11191003,2021-11-30,Access control for network slices of a wireless communication system,2,H04W
+11190785,2021-11-30,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11190627,2021-11-30,Telegram splitting for slotted ALOHA,0,H04L|H04W|Y02D
+11190265,2021-11-30,Specular component estimation in a wireless communication network,0,H04B|H04L
+11187775,2021-11-30,Time of arrival (TOA) measurements,1,G01S|H04L
+11184626,2021-11-23,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11184136,2021-11-23,Transmission of data by multiple users over shared resources based on structured superposition coding,0,H04J|H04L|H04W
+11172213,2021-11-09,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11172011,2021-11-09,Portioned video streaming concepts,1,H04L|H04N
+11170795,2021-11-09,Concept for combined dynamic range compression and guided clipping prevention for audio devices,0,G06F|G10L|H03G
+11170202,2021-11-09,Apparatus and method for performing 3D estimation based on locally determined 3D information hypotheses,0,G06T|G06V
+11167981,2021-11-09,Semiconductor device and method of producing a semiconductor device,0,B81B|B81C|G01N|H01L
+11165973,2021-11-02,Method for differentiating between background and foreground of scenery and also method for replacing a background in images of a scenery,0,H04N
+11160138,2021-10-26,Multi-connectivity user device for wireless communication networks,0,H04B|H04W
+11153704,2021-10-19,Concept for generating an enhanced sound-field description or a modified sound field description using a multi-layer description,0,G06F|G10L|H04S
+11149347,2021-10-19,"Process for etching, and chamber cleaning and a gas therefor",0,B08B|C23C|H01J|H01L
+11146804,2021-10-12,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11146789,2021-10-12,Apparatus and method for encoding and decoding a picture using picture boundary handling,0,H04N
+11146316,2021-10-12,Channel covariance matrix conversion,0,H04B|H04L
+11137364,2021-10-05,Thermally insulated microsystem,0,G01F|G01N|H01L
+11134282,2021-09-28,Scene section and region of interest handling in video streaming,0,H04N
+11128877,2021-09-21,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11127163,2021-09-21,Skinned multi-infant linear body model,1,G06T|G06V
+11122611,2021-09-14,Scheduling enhancements for latency-constrained and reliable wireless communication systems,1,H04L|H04W
+11122300,2021-09-14,Spectrally adaptive noise filling tool (SANFT) for perceptual transform coding of still and moving images,1,H04N
+11122282,2021-09-14,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11121266,2021-09-14,Voltage-controllable capacitor comprising a ferroelectric layer and method for producing the voltage-controllable capacitor comprising a ferroelectric layer,0,H01L|H10D
+11119055,2021-09-14,Method for operating an x-ray system,0,G01N|G06T
+11115682,2021-09-07,Block-based predictive coding and decoding of a picture,0,H04L|H04N
+11115613,2021-09-07,"Readout arrangement for an image sensor, image sensor system and method for reading out an image sensor",2,H04N
+11108596,2021-08-31,Channel estimation of frequency sub bands,1,H04L|H04W
+11108444,2021-08-31,"Transmitter, receiver, wireless communication network and methods for operating the same",3,H04B|H04W
+11106047,2021-08-31,"Multi-aperture imaging device, imaging system and method for providing a multi-aperture imaging device",0,G02B|G02F|H04N
+11089630,2021-08-10,Method for a contention-based random access procedure in a wireless communication network,0,H04L|H04W
+11089472,2021-08-10,Transmitter for emitting signals and receiver for receiving signals,0,H04L|H04W
+11089315,2021-08-10,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11089314,2021-08-10,Concept for picture/video data streams allowing efficient reducibility or efficient random access,0,H04N
+11086029,2021-08-10,Apparatus for optically capturing a screen,0,A61B|G01N|G01T|G03B|G21F|H04N
+11070839,2021-07-20,Hybrid video coding,0,H04N
+11070731,2021-07-20,"Multi-aperture imaging device, imaging system and method for making available a multi-aperture imaging device",1,G02B|H04N
+11070247,2021-07-20,Optimized hopping patterns for different sensor nodes and variable data lengths on the basis of the telegram splitting transmission method,4,H04B|H04L|Y02D
+11067684,2021-07-20,Localization based on telegram splitting,2,G01S|H04B|H04L|H04Q|H04W
+11061477,2021-07-13,Display devices and pixel for a display device,0,G03H|G06F|G10K|H04R
+11057536,2021-07-06,System for analyzing a document and corresponding method,0,G01N|G01T|H04N
+11055883,2021-07-06,Magnetic resonance system and method for producing images,0,G06F|G06T
+11050590,2021-06-29,Decoder-supported iterative channel estimation,0,H04L
+11049602,2021-06-29,Navigable presentation of a variety of solutions for therapy plans,0,G06F|G06T|G16H
+11044127,2021-06-22,Data transmitter modifying a standard-based radio signal,0,H04B|H04L|H04W|Y02D
+11039243,2021-06-15,"Apparatus for providing an audio signal for reproduction by a sound transducer, system, method and computer program",1,G06F|H03G|H04R|H04S
+11030452,2021-06-08,Pattern detection,1,G06F|G06T
+11025968,2021-06-01,Audio splicing concept,0,H04H|H04L|H04N
+11025257,2021-06-01,Devices and methods for generating a broadband frequency signal,0,H03B|H03C|H03L|H04B|H04L
+11024417,2021-06-01,Integrated medical image visualization and exploration,0,G06F|G06T|G16H
+11016273,2021-05-25,"Device comprising a multi-aperture imaging device, method for producing same and method for capturing a total field of view",2,G02B|G03B|H04N
+11006246,2021-05-11,"Base station, wireless communications network and methods for operating the same",0,G01S|H04L|H04W
+11006181,2021-05-11,Method and apparatus for efficient delivery and usage of audio messages for high quality of experience,9,G06F|H04N
+11006133,2021-05-11,Image compression technique,1,H04N
+11003709,2021-05-11,Method and device for associating noises and for analyzing,1,G06F|G10L
+10999742,2021-05-04,Wireless communications entities using sweeping tone to efficiently coexisting,0,H04B|H04L|H04W
+10996460,2021-05-04,"Multi-aperture imaging device, imaging system and method of providing a multi-aperture imaging device",4,G02B|H04N
+10986383,2021-04-20,Efficient adaptive streaming,0,H04N
+10979204,2021-04-13,Transmission concept using multi-user superposition coding,0,H04L
+10979195,2021-04-13,Data signal transmission in a wireless communication system with reduced end-to-end latency,0,H04L|H04W
+10979108,2021-04-13,Interference free geographical zonal mapping utilizing slow varying channel covariance matrix,0,H04B|H04L
+10978778,2021-04-13,Wafer level package with integrated antennas and means for shielding,0,H01L|H01Q
+10978082,2021-04-13,Time domain aliasing reduction for non-uniform filterbanks which use spectral analysis followed by partial synthesis,1,G06F|G10L
+10967457,2021-04-06,Laser beam irradiation apparatus and method of manufacturing organic light-emitting display device by using the same,0,B23K|H01L|H10K
+10965437,2021-03-30,Adaptive timing synchronization for reception for bursty and continuous signals,0,H03L|H04B|H04L|H04W|Y02D
+10965401,2021-03-30,"Receiver, transmitter, communication network, data signal and method improving a retransmission process in a communication network",1,H03M|H04L|H04W
+10958921,2021-03-23,Concept for picture/video data streams allowing efficient reducibility or efficient random access,15,H04N
+10958410,2021-03-23,Adaptive timing synchronization for reception for bursty and continuous signals,1,H03L|H04B|H04L|H04W|Y02D
+10951831,2021-03-16,System and method for capturing measurement images of an object to be measured,8,G01B|G01N|H04M|H04N
+10949989,2021-03-16,Concept for determining a confidence/uncertainty measure for disparity measurement,0,G06F|G06T
+10945278,2021-03-09,"User equipment, base station, wireless communication network, data signal and method to provide enhanced SPS control and continuous SPS after handover",0,H04W
+10945269,2021-03-09,Resource management concept,0,H04W
+10944972,2021-03-09,Apparatus and method for encoding or decoding using a subband dependent prediction adaptation for GCLI entropy coding,0,H04N
+10942526,2021-03-09,"System for navigation of an autonomously navigating submersible body during entry into a docking station, method",0,B63B|B63C|B63G|G01S|G05D|G06T
+10938541,2021-03-02,Communication system and transmitter,0,H04B|H04L|H04W
+10937696,2021-03-02,Capacitor and method for producing the same,0,H01L|H10D
+10932221,2021-02-23,User equipment localization in a mobile communication network,5,G01S|H04L|H04W
+10925679,2021-02-23,Position determination device for determining a position of an instrument within a tubular structure,0,A61B|G06T
+10917266,2021-02-09,"Transceiver, a SUDAC, a method for signal processing in a transceiver, and methods for signal processing in a SUDAC",0,H04L|H04W
+10916043,2021-02-09,"Apparatus, method and computer program for generating a template for arranging at least one object at at least one place",0,G06T|G16H
+10911914,2021-02-02,Aggregating received data,0,H04B|H04L|H04W

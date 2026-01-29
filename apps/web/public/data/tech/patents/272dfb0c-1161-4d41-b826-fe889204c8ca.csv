@@ -1,0 +1,521 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432002,2025-09-30,Communication apparatus and reference signal receiving method,0,H04B|H04J|H04L
+12425981,2025-09-23,Wireless device and power control method,0,H04B|H04W
+12425634,2025-09-23,Image decoding method and image decoding apparatus using candidate motion vectors,0,H04N
+12401487,2025-08-26,Component carrier activation and deactivation using resource assignments,0,H04L|H04W
+12395953,2025-08-19,Device to device synchronization source selection,0,H04B|H04W
+12375707,2025-07-29,Moving picture coding method and moving picture decoding method,0,H04N
+12375684,2025-07-29,"Image coding method, image coding apparatus, image decoding method, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+12368870,2025-07-22,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",0,H04N
+12363694,2025-07-15,Integrated circuit,0,H04L|H04W
+12363345,2025-07-15,Image processing method and image processing apparatus,0,H04N
+12362851,2025-07-15,Communication apparatus,0,H04L|H04W
+12362808,2025-07-15,Method of signal generation and signal generating device,0,H04B|H04L
+12361974,2025-07-15,"Data transmission method, data playback method, data transmission device, and data playback device",0,G11B|H04L|H04N
+12356429,2025-07-08,Modulation order adaptation for partial subframes,0,H04L|H04W
+12356419,2025-07-08,Communication apparatus and communication method for configuring resource region candidates and mapping downlink control information to same,0,H04L|H04W
+12355705,2025-07-08,Aperiodic triggering of channel quality information using physical downlink control channel,0,H04L|H04W
+12349145,2025-07-01,"Radio terminal, radio base station, channel signal forming method and channel signal receiving method",0,H04H|H04J|H04L|H04W
+12348768,2025-07-01,Derivation method and apparatuses with candidate motion vectors,0,H04N
+12348766,2025-07-01,"Moving picture coding method, moving picture decoding method, moving picture coding apparatus, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+12348725,2025-07-01,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+12348318,2025-07-01,Communication apparatus and retransmission control method,0,H04B|H04L|H04W
+12342033,2025-06-24,"Transmission method, reception method, transmission device, and reception device",0,H04N
+12335510,2025-06-17,Moving picture coding method and moving picture decoding method using a determination whether or not a reference block has two reference motion vectors that refer forward in display order with respect to a current picture,0,H04N
+12323616,2025-06-03,Coding method and apparatus with candidate motion vectors,0,H04N
+12309807,2025-05-20,Communication apparatus and communication method for receiving control information over a search space,0,H04J|H04L|H04W
+12309371,2025-05-20,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, program, and integrated circuit",0,H04N
+12294733,2025-05-06,"Video coding method, video decoding method, video coding apparatus and video decoding apparatus",0,H04N
+12294717,2025-05-06,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+12294698,2025-05-06,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+12289464,2025-04-29,"Method of performing motion vector prediction, and apparatus thereof",0,H04N
+12284358,2025-04-22,"Video encoding method, video decoding method, video encoding apparatus, and video decoding apparatus",0,H04N
+12284353,2025-04-22,Arithmetic coding for information related to sample adaptive offset processing,0,A61F|A61M|G06T|H04N
+12279236,2025-04-15,"Radio reception apparatus, radio transmission apparatus, and radio communication method",0,H04B|H04L|H04W
+12278987,2025-04-15,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+12278780,2025-04-15,"Terminal device, base station device, retransmission method, and resource allocation method",0,H04B|H04J|H04L|H04W
+12278776,2025-04-15,Method and communication apparatus for mapping reference signal in wireless communication system,0,H04B|H04L|H04W|Y02D
+12273761,2025-04-08,"Wireless communication terminal, wireless communication base station, wireless communication system, and reporting method",0,H04L|H04W|Y02B|Y02D
+12273591,2025-04-08,"Transmission method, reception method, transmission device, and reception device",0,H04H|H04N
+12267852,2025-04-01,Resource assignment for single and multiple cluster transmission,0,H04L|H04W
+12267277,2025-04-01,Communication apparatus and communication method thereof,0,H04B|H04L|H04W
+12267199,2025-04-01,"OFDM transmitter device having a symbol generator for generating non-zero control symbols, and OFDM transmission method including generating non-zero control symbols",0,H04L
+12267193,2025-04-01,Integrated circuit,0,H04L|H04W
+12256335,2025-03-18,Wireless communication device and method for controlling transmission power,0,H04L|H04W|Y02D
+12255710,2025-03-18,"Signal generation method, transmission device, reception method, and reception device",0,H04B|H04L|H04W
+12250398,2025-03-11,Efficient rounding for deblocking,0,H04N
+12250397,2025-03-11,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+12244847,2025-03-04,Image decoding method,0,H04N
+12244827,2025-03-04,"Moving picture encoding method, moving picture decoding method, moving picture encoding apparatus, and moving picture decoding apparatus",0,H04N
+12244371,2025-03-04,"Broadcast signal transmission method, broadcast signal transmission apparatus, broadcast signal reception method, and broadcast signal reception apparatus",0,H04B|H04J|H04L|H04W
+12238654,2025-02-25,Power-limit reporting in a communication system using carrier aggregation,0,H04L|H04W|Y02D
+12238326,2025-02-25,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus and moving picture coding and decoding apparatus",0,H04N
+12238038,2025-02-25,Reference signal reception and CQI computation method and wireless communication apparatus,0,H04B|H04L|H04W
+12232116,2025-02-18,Base station and related communication method,0,H04L|H04W|Y02D
+12232051,2025-02-18,Radio communication apparatuses and radio communication method,0,H04L|H04W
+12231656,2025-02-18,Coding method and coding apparatus,0,H04N
+12225551,2025-02-11,"Base station, terminal, transmission method, and reception method",0,H04L|H04W
+12225228,2025-02-11,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+12224957,2025-02-11,Communication apparatus and reference signal reception method,0,H04L
+12219462,2025-02-04,Terminal and communication method thereof,0,H04B|H04L|H04W
+12218872,2025-02-04,Mobile station and reception method,0,H04B|H04L|H04W
+12218753,2025-02-04,Communication apparatus and communication method,0,H04L|H04W
+12212753,2025-01-28,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",0,H04N
+12200802,2025-01-14,Device-to-device wireless communication method and user equipment,0,H04W
+12200713,2025-01-14,Scheduling request procedure for D2D communication,0,H04W
+12200269,2025-01-14,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+12192535,2025-01-07,Low complex deblocking filter decisions,0,H04N
+12192506,2025-01-07,Image coding method and image coding apparatus,0,H04N
+12191988,2025-01-07,"Data processing method, precoding method, and communication device",0,H03M|H04B|H04L
+12185294,2024-12-31,"Integrated circuit, apparatus and method for communication using resource block groups",0,H04L|H04W
+12185259,2024-12-31,Transmit power control for physical random access channels,0,H04L|H04W
+12185150,2024-12-31,Communication apparatus and communication method for measuring a channel quality indicator (CQI),0,H04B|H04L|H04W
+12184565,2024-12-31,"Transmission method, reception method, transmitter, and receiver",0,H04B|H04J|H04L|H04W
+12177867,2024-12-24,Dynamic TDD uplink/downlink configuration using DCI,0,H04L|H04W
+12177853,2024-12-24,Communication device and SRS transmission control method,0,H04B|H04L|H04W
+12171010,2024-12-17,Resource allocation for device to device (D2D) communication,0,H04W
+12171009,2024-12-17,Wireless communication apparatus and channel allocation method,0,H04L|H04W
+12167420,2024-12-10,"Communication method, base station and user equipment using a set of legacy or aggressive CQI table and legacy or aggressive MCS table",0,H04L|H04W
+12166725,2024-12-10,Controlling UE behavior for CSI/SRS reporting during DRX,0,H04L|H04W|Y02D
+12166545,2024-12-10,Signal generation method and signal generation device for receiving data from a first base station and a second base station in multiple communications modes,0,G06F|H04B|H04L|H04W
+12158090,2024-12-03,Methods and apparatuses for encoding and decoding video using periodic buffer description,0,B01D|B29C|F01M|H04N
+12155844,2024-11-26,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",0,H04N
+12150160,2024-11-19,"Wireless communication terminal device, wireless communication base station device, and resource region setting method",0,H04L|H04W
+12150051,2024-11-19,Integrated circuit,0,H04L|H04W|Y02D
+12149695,2024-11-19,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H03M|H04N
+12149472,2024-11-19,"Method of scrambling reference signals, device and user equipment using the method",0,H04B|H04J|H04L
+12149307,2024-11-19,Signal generating method and signal generating apparatus,0,H04B|H04L
+12143968,2024-11-12,Wireless communication apparatus and wireless communication method,0,H04B|H04L|H04W
+12143213,2024-11-12,"Transmission device, transmission method, reception device, reception method, integrated circuit, and program",0,H03M|H04B|H04L
+12143200,2024-11-12,"Terminal station apparatus, base station apparatus, transmission method and control method",0,H04B|H04J|H04L|H04W
+12137456,2024-11-05,Multiple sidelink control transmissions during a sidelink control period,0,H04W
+12137116,2024-11-05,Security key derivation in dual connectivity,0,H04L|H04W
+12133110,2024-10-29,Efficient uplink scheduling mechanisms for dual connectivity,0,H04W
+12132930,2024-10-29,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+12132539,2024-10-29,Pre-coding method and transmitter,0,H04B|H04J|H04L
+12127201,2024-10-22,Resource block candidate selection technique employing packet scheduling in wireless communication systems,0,H04L|H04W
+12126454,2024-10-22,Communication apparatus and buffer partitioning method,1,H04L|H04W
+12126422,2024-10-22,"Transmission device, transmission method, receiving device and receiving method",0,H01Q|H04B|H04L|H04W|Y02D
+12120337,2024-10-15,"Moving picture coding method, moving picture decoding method, moving picture coding apparatus, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+12120324,2024-10-15,"Picture coding method, picture coding apparatus, picture decoding method, and picture decoding apparatus",0,H04N
+12114333,2024-10-08,Integrated circuit,0,H04L|H04W
+12108070,2024-10-01,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+12108059,2024-10-01,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",0,H04N
+12101491,2024-09-24,"Encoding method, decoding method, encoding apparatus, and decoding apparatus",0,H04N
+12096469,2024-09-17,"Terminal, base station, integrated circuit and signal transmission control method",0,H04L|H04W
+12089264,2024-09-10,Efficient transmission of a response signal for a random access preamble transmitted from legacy or extension carrier capable devices,0,H04B|H04J|H04W
+12088842,2024-09-10,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+12088827,2024-09-10,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,G06T|H04N
+12081379,2024-09-03,"Transmission method, transmission device, reception method, and reception device",0,H04B|H04L
+12075394,2024-08-27,Communication apparatus and communication method,0,H04L|H04W
+12074700,2024-08-27,Integrated circuit,1,H04L|H04W
+12069005,2024-08-20,Component carrier activation and deactivation using resource assignments,2,H04L|H04W
+12063379,2024-08-13,"Image coding method, image decoding method, image coding apparatus, receiving apparatus, and transmitting apparatus",0,H04N
+12063363,2024-08-13,Image coding apparatus for coding tile boundaries,0,G06T|H04N
+12057982,2024-08-06,"Transmitter, receiver, transmission method, and reception method",0,H04B|H04J|H04L|H04W
+12052672,2024-07-30,Power control method and user equipment in device to device communication in serving cell,0,H04W
+12040931,2024-07-16,MCS table adaptation for 256-QAM,0,H04L|H04W
+12040858,2024-07-16,Receiving method and receiving apparatus,0,H04B|H04L
+12035254,2024-07-09,Base station and power allocation method,0,H04L|H04W
+12034958,2024-07-09,"Video coding method, video decoding method, video coding apparatus and video decoding apparatus",0,H04N
+12034548,2024-07-09,Communication apparatus and retransmission control method,0,H04B|H04L|H04W
+12028814,2024-07-02,Wireless communication device and method for controlling transmission power,0,H04L|H04W|Y02D
+12028294,2024-07-02,TDD uplink/downlink re-configuration mechanism,0,H04L|H04W
+12028279,2024-07-02,"Base station apparatus, terminal apparatus, transmission method, and reception method",0,H04L|H04W
+12022454,2024-06-25,Integrated circuit,0,H04L|H04W
+12022105,2024-06-25,Moving picture coding method and moving picture decoding method,0,H04N
+12022065,2024-06-25,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+12021764,2024-06-25,System and method for controlling transmission of downlink control information,0,H04L|H04W
+12015471,2024-06-18,Integrated circuit for controlling a communication scheme,0,H04B|H04L|H04W
+12010696,2024-06-11,Communication apparatus and communication method,0,H04L|H04W
+11997679,2024-05-28,Buffer partitioning system and method,0,H04L|H04W|Y02D
+11991388,2024-05-21,Image coding method for decoding a difference motion vector from a bitstream,0,H04N
+11991118,2024-05-21,Reference signal reception and CQI computation method and wireless communication apparatus,0,H04B|H04L|H04W
+11991006,2024-05-21,Communication apparatus and communication method,0,H04B|H04J|H04L|H04W
+11985680,2024-05-14,Modulation order adaptation for partial subframes,1,H04L|H04W
+11985086,2024-05-14,Communication apparatus and reference signal reception method,0,H04L
+11979598,2024-05-07,"Video encoding method, video encoding apparatus, video decoding method, video decoding apparatus, and video encoding/decoding apparatus",0,H04N
+11979582,2024-05-07,"Image coding method, image coding apparatus, image decoding method, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+11978487,2024-05-07,"Data transmission method, data playback method, data transmission device, and data playback device",0,G11B|H04L|H04N
+11968071,2024-04-23,"OFDM transmitter device having a symbol generator for generating non-zero control symbols, and OFDM transmission method including generating non-zero control symbols",1,H04L
+11963196,2024-04-16,Resource assignment for single and multiple cluster transmission,0,H04L|H04W
+11963177,2024-04-16,Communication device and SRS transmission control method,0,H04B|H04L|H04W
+11963141,2024-04-16,Reception apparatus and reception method,0,H04J|H04L|H04W
+11956734,2024-04-09,Wireless device and power control method,0,H04B|H04W
+11956440,2024-04-09,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+11956068,2024-04-09,"Transmission method, transmission device, reception method, and reception device",0,H04B|H04H|H04L|H04N
+11949907,2024-04-02,"Moving picture coding method, moving picture decoding method, moving picture coding apparatus, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11949903,2024-04-02,Image decoding method and image decoding apparatus using candidate motion vectors,0,H04N
+11949626,2024-04-02,"Terminal device, base station device, retransmission method, and resource allocation method",0,H04B|H04J|H04L|H04W
+11949624,2024-04-02,Communication apparatus and communication method thereof,0,H04B|H04L|H04W
+11943484,2024-03-26,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",1,H04N
+11943032,2024-03-26,Method of signal generation and signal generating device,0,H04B|H04L
+11936470,2024-03-19,"Data processing method, precoding method, and communication device",0,H03M|H04B|H04L
+11930203,2024-03-12,Image decoding method,0,H04N
+11929858,2024-03-12,Integrated circuit for Discrete Fourier Transforming a time signal to a frequency signal,0,G06F|H04J|H04L|H04W|Y10S
+11924851,2024-03-05,Wireless communication apparatus and channel allocation method,1,H04L|H04W
+11924667,2024-03-05,"Wireless communication terminal, wireless communication base station, wireless communication system, and reporting method",0,H04L|H04W|Y02B|Y02D
+11924133,2024-03-05,Mobile station and reception method,0,H04B|H04L|H04W
+11917640,2024-02-27,Communication apparatus and communication method for receiving control information over a search space,0,H04J|H04L|H04W
+11917439,2024-02-27,Integrated circuit for controlling wireless communication terminal,0,H04L|H04W
+11917192,2024-02-27,Derivation method and apparatuses with candidate motion vectors,0,H04N
+11917186,2024-02-27,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus and moving picture coding and decoding apparatus",0,H04N
+11916829,2024-02-27,Method and communication apparatus for mapping reference signal in wireless communication system,0,H04B|H04L|H04W|Y02D
+11910394,2024-02-20,"Radio terminal, radio base station, channel signal forming method and channel signal receiving method",0,H04H|H04J|H04L|H04W
+11909511,2024-02-20,Communication apparatus and reference signal receiving method,0,H04B|H04J|H04L
+11909492,2024-02-20,Signal generating method and signal generating device,0,H04B|H04J|H04L|H04W|Y02D
+11902568,2024-02-13,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+11902562,2024-02-13,"Method of performing motion vector prediction, and apparatus thereof",0,H04N
+11902186,2024-02-13,Communication terminal,0,H04L|H04W
+11895599,2024-02-06,Power-limit reporting in a communication system using carrier aggregation,0,H04L|H04W|Y02D
+11895335,2024-02-06,Image processing method and image processing apparatus,0,H04N
+11895324,2024-02-06,Coding method and apparatus with candidate motion vectors,0,H04N
+11895293,2024-02-06,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+11891932,2024-02-06,Methods and apparatuses for encoding and decoding video using periodic buffer description,0,B01D|B29C|F01M|H04N
+11889340,2024-01-30,Communication apparatus and communication method for measuring a channel quality indicator (CQI),0,H04B|H04L|H04W
+11882573,2024-01-23,Wireless communication method for device to device communication and user equipment,0,H04B|H04L|H04W
+11881951,2024-01-23,Integrated circuit,0,H04J|H04L|H04W
+11871432,2024-01-09,Communication apparatus and communication reception method,0,H04L|H04W
+11871019,2024-01-09,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",0,H04N
+11870803,2024-01-09,Security key derivation in dual connectivity,0,H04L|H04W
+11864203,2024-01-02,Resource allocation for device to device (D2D) communication,1,H04W
+11864201,2024-01-02,"Communication method, base station and user equipment using a set of legacy or aggressive CQI table and legacy or aggressive MCS table",0,H04L|H04W
+11863772,2024-01-02,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",1,H04N
+11863263,2024-01-02,"Precoding method, precoding device",0,H04B|H04L
+11856515,2023-12-26,Integrated circuit,1,H04L|H04W|Y02D
+11849116,2023-12-19,Arithmetic coding for information related to sample adaptive offset processing,0,A61F|A61M|G06T|H04N
+11848775,2023-12-19,Communication apparatus and communication method,0,H04L|H04W
+11844027,2023-12-12,Transmit power control for physical random access channels,0,H04L|H04W
+11843796,2023-12-12,Image coding method for coding a video signal including classifying a plurality of images included in the video signal into layers,0,H04N
+11843430,2023-12-12,"Signal generation method, transmission device, reception method, and reception device",1,H04B|H04L|H04W
+11838927,2023-12-05,"Terminal, base station, transmission method, and reception method",0,H04L|H04W
+11838536,2023-12-05,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11838534,2023-12-05,Moving picture coding method and moving picture decoding method using a determination whether or not a reference block has two reference motion vectors that refer forward in display order with respect to a current picture,0,H04N
+11838242,2023-12-05,Aperiodic triggering of channel quality information using physical downlink control channel,1,H04L|H04W
+11831907,2023-11-28,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",1,H04N
+11831558,2023-11-28,Efficient discard mechanism in small cell deployment,0,H04L|H04W
+11831483,2023-11-28,"Transmitter, receiver, transmission method, and reception method",0,H04B|H04J|H04L|H04W
+11825426,2023-11-21,Radio communication apparatuses and radio communication method,0,H04L|H04W
+11825424,2023-11-21,"Terminal, base station, and communication method",0,H04W
+11818786,2023-11-14,Device-to-device wireless communication method and user equipment,1,H04W
+11818735,2023-11-14,Radio communication terminal and radio communication method,0,H04B|H04L|H04W
+11818391,2023-11-14,Video encoding method and video decoding method,0,H04N
+11812048,2023-11-07,Image coding method and image coding apparatus,0,H04N
+11805530,2023-10-31,Dynamic TDD uplink/downlink configuration using DCI,0,H04L|H04W
+11804880,2023-10-31,Signal generation method and signal generation device,0,G06F|H04B|H04L|H04W
+11800471,2023-10-24,Device to device synchronization source selection,1,H04B|H04W
+11792800,2023-10-17,Multiple sidelink control transmissions during a sidelink control period,0,H04W
+11792400,2023-10-17,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",1,H04N
+11785231,2023-10-10,"Image coding method, image decoding method, image coding apparatus, receiving apparatus, and transmitting apparatus",0,H04N
+11778635,2023-10-03,Integrated circuit for receiving downlink control information and transmitting uplink data,0,H04L|H04W
+11778208,2023-10-03,"Image coding method, image decoding method, image coding apparatus, receiving apparatus, and transmitting apparatus",0,H04N
+11777563,2023-10-03,"Broadcast signal transmission method, broadcast signal transmission apparatus, broadcast signal reception method, and broadcast signal reception apparatus",0,H04B|H04J|H04L|H04W
+11770577,2023-09-26,"Transmitting method, receiving method, transmitting apparatus, and receiving apparatus",0,H04N
+11770544,2023-09-26,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",0,H04N
+11770536,2023-09-26,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H03M|H04N
+11765760,2023-09-19,"Wireless communication terminal device, wireless communication base station device, and resource region setting method",0,H04L|H04W
+11765740,2023-09-19,"Base station, terminal, transmission method, and reception method",1,H04L|H04W
+11765364,2023-09-19,"Encoding method, decoding method, encoding apparatus, and decoding apparatus",0,H04N
+11764921,2023-09-19,Integrated circuit,0,H04J|H04L|H04W
+11764840,2023-09-19,Pre-coding method and transmitter,0,H04B|H04J|H04L
+11758174,2023-09-12,"Moving picture coding method, moving picture decoding method, moving picture coding apparatus, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11758173,2023-09-12,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",1,H04N
+11758158,2023-09-12,Coding method and coding apparatus,0,H04N
+11758155,2023-09-12,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",1,H04N
+11757551,2023-09-12,"Terminal station apparatus, base station apparatus, transmission method and control method",0,H04B|H04J|H04L|H04W
+11751202,2023-09-05,"Terminal device, base station device, and uplink response signal transmission method",0,H04L|H04W
+11751181,2023-09-05,"Integrated circuit, apparatus and method for communication using resource block groups",0,H04L|H04W
+11751143,2023-09-05,Wireless communication device and method for controlling transmission power,0,H04L|H04W|Y02D
+11750353,2023-09-05,Controlling UE behavior for CSI/SRS reporting during DRX,0,H04L|H04W|Y02D
+11743794,2023-08-29,Short message transmission and handover procedures,0,H04W
+11743490,2023-08-29,Image coding method for decoding a difference motion vector from a bitstream,0,H04N
+11742997,2023-08-29,Communication apparatus and buffer partitioning method,0,H04L|H04W
+11729817,2023-08-15,"Terminal, base station, integrated circuit and signal transmission control method",1,H04L|H04W
+11729389,2023-08-15,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, program, and integrated circuit",1,H04N
+11729033,2023-08-15,"Transmission method, transmission device, reception method, and reception device",0,H04B|H04L
+11728953,2023-08-15,Reference signal reception and CQI computation method and wireless communication apparatus,0,H04B|H04L|H04W
+11723031,2023-08-08,Scheduling request procedure for D2D communication,0,H04W
+11722876,2023-08-08,Resource allocation for D2D discovery transmission,0,H04L|H04W
+11716735,2023-08-01,"Terminal device, base station device, transmitting method and receiving method",0,H04L|H04W
+11716727,2023-08-01,Integrated circuit,0,H04B|H04L|H04W
+11716127,2023-08-01,"Transmission method, transmission apparatus, reception method and reception apparatus",0,H04B|H04L|H04W
+11711821,2023-07-25,Search space for ePDCCH control information in an OFDM-based mobile communication system,0,H04J|H04L|H04W
+11711580,2023-07-25,"Transmission method, reception method, transmission device, and reception device",0,H04H|H04N
+11711521,2023-07-25,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11711197,2023-07-25,Component carrier activation and deactivation using resource assignments,2,H04L|H04W
+11711174,2023-07-25,Communication apparatus and communication method,1,H04B|H04J|H04L|H04W
+11706767,2023-07-18,HARQ protocol,0,H04B|H04L|H04W
+11706416,2023-07-18,Image coding apparatus for coding tile boundaries,1,G06T|H04N
+11706069,2023-07-18,"Transmission method, transmission apparatus, reception method and receiver apparatus",1,H04B|H04L
+11700655,2023-07-11,D2D communication method and D2D-enabled wireless device,0,H04W
+11700611,2023-07-11,Communication device and SRS transmission control method,0,H04B|H04L|H04W
+11700098,2023-07-11,Communication apparatus and reference signal reception method,0,H04L
+11696308,2023-07-04,Resource assignment for single and multiple cluster transmission,0,H04L|H04W
+11696268,2023-07-04,Integrated circuit,0,H04L|H04W
+11695457,2023-07-04,Pre-coding method and pre-coding device,0,H04B|H04L
+11690053,2023-06-27,"Terminal apparatus, base station apparatus, reception method and transmission method",0,H04L|H04W
+11689986,2023-06-27,Terminal and communication method thereof,0,H04B|H04L|H04W
+11689259,2023-06-27,Signal generating method and signal generating apparatus,0,H04B|H04L
+11683801,2023-06-20,Buffer partitioning system and method,0,H04L|H04W|Y02D
+11683765,2023-06-20,Mobile station and power allocation method,0,H04L|H04W
+11683133,2023-06-20,"Transmission method, reception method, transmitter, and receiver",0,H04B|H04J|H04L|H04W
+11683131,2023-06-20,"Wireless communications terminal, base station device, and resource allocation method",0,H04L|H04W
+11678217,2023-06-13,Efficient uplink scheduling mechanisms for dual connectivity,0,H04W
+11671966,2023-06-06,Resource block candidate selection technique employing packet scheduling in wireless communication systems,0,H04L|H04W
+11671950,2023-06-06,Communication apparatus and communication method,1,H04L|H04W
+11671947,2023-06-06,Reception apparatus and reception method,0,H04J|H04L|H04W
+11671153,2023-06-06,Receiving method and receiving apparatus,0,H04B|H04L
+11659204,2023-05-23,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",1,H04N
+11658733,2023-05-23,Base station and communication scheme executed by a base station,0,H04B|H04L|H04W
+11653313,2023-05-16,Power control method and user equipment in device to device communication in serving cell,0,H04W
+11652681,2023-05-16,MCS table adaptation for 256-QAM,0,H04L|H04W
+11652601,2023-05-16,TDD uplink/downlink re-configuration mechanism,0,H04L|H04W
+11647220,2023-05-09,Image decoding method,0,H04N
+11647218,2023-05-09,"Video coding method, video decoding method, video coding apparatus and video decoding apparatus",0,H04N
+11647211,2023-05-09,"Image coding method, image decoding method, image coding apparatus, receiving apparatus, and transmitting apparatus",0,H04N
+11647208,2023-05-09,"Picture coding method, picture coding apparatus, picture decoding method, and picture decoding apparatus",0,H04N
+11646842,2023-05-09,Mobile station and reception method,0,H04B|H04L|H04W
+11646780,2023-05-09,Signal generating method and signal generating device,0,H04B|H04J|H04L|H04W|Y02D
+11637660,2023-04-25,Communication apparatus and retransmission control method,0,H04B|H04L|H04W
+11632572,2023-04-18,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",2,H04N
+11632213,2023-04-18,"Base station apparatus, terminal apparatus, transmitting method, and receiving method",0,H04J|H04L|H04W
+11632192,2023-04-18,"Transmission device, transmission method, reception device, reception method, integrated circuit, and program",0,H03M|H04B|H04L
+11622128,2023-04-04,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+11621879,2023-04-04,"OFDM transmitter device having a symbol generator for generating non-zero control symbols, and OFDM transmission method including generating non-zero control symbols",2,H04L
+11621763,2023-04-04,"Transmission device, transmission method, receiving device and receiving method",2,H01Q|H04B|H04L|H04W|Y02D
+11616535,2023-03-28,Terminal apparatus and method for transmitting a reference signal,0,H04B|H04J|H04L
+11611956,2023-03-21,Mapping of control information to control channel elements,0,H04L|H04W
+11606785,2023-03-14,"Terminal, base station, transmission method, and reception method",0,H04L|H04W
+11601373,2023-03-07,Efficient discard mechanism in small cell deployment,1,H04L|H04W
+11595682,2023-02-28,"Moving picture coding method, moving picture decoding method, moving picture coding apparatus, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11582630,2023-02-14,Communication apparatus and communication method for measuring a channel quality indicator (CQI),0,H04B|H04L|H04W
+11582082,2023-02-14,"Transmitter, receiver, transmission method, and reception method",0,H04B|H04J|H04L|H04W
+11581977,2023-02-14,Communication apparatus and communication method,0,H04L|H04W
+11575930,2023-02-07,Coding method and apparatus with candidate motion vectors,0,H04N
+11575552,2023-02-07,Communication apparatus and method for discrete fourier transforming a time signal to a frequency signal,1,G06F|H04J|H04L|H04W|Y10S
+11575415,2023-02-07,"Signal generation method, transmission device, reception method, and reception device",2,H04B|H04L|H04W
+11575412,2023-02-07,Signal generation method and signal generation device,2,G06F|H04B|H04L|H04W
+11570444,2023-01-31,"Image coding method, image coding apparatus, image decoding method, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+11569965,2023-01-31,"Terminal device, base station device, retransmission method, and resource allocation method",0,H04B|H04J|H04L|H04W
+11569946,2023-01-31,Integrated circuit,0,H04J|H04L|H04W
+11563540,2023-01-24,Method and communication apparatus for mapping reference signal in wireless communication system,0,H04B|H04L|H04W|Y02D
+11563474,2023-01-24,Signal generating method and signal generating device,0,H04B|H04J|H04L|H04W
+11563471,2023-01-24,"Precoding method, precoding device",0,H04B|H04L
+11558888,2023-01-17,"Radio terminal, radio base station, channel signal forming method and channel signal receiving method",0,H04H|H04J|H04L|H04W
+11553533,2023-01-10,Efficient transmission of a response signal for a random access preamble transmitted from legacy or extension carrier capable devices,1,H04B|H04J|H04W
+11553202,2023-01-10,"Video encoding method, video encoding apparatus, video decoding method, video decoding apparatus, and video encoding/decoding apparatus",0,H04N
+11552759,2023-01-10,"Method of scrambling reference signals, device and user equipment using the method",1,H04B|H04J|H04L
+11546606,2023-01-03,"Video encoding method, video decoding method, video encoding apparatus, and video decoding apparatus",0,H04N
+11540161,2022-12-27,"Wireless communication terminal, wireless communication base station, wireless communication system, and reporting method",0,H04L|H04W|Y02B|Y02D
+11533488,2022-12-20,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+11533147,2022-12-20,Communication apparatus and communication method thereof,0,H04B|H04L|H04W
+11528738,2022-12-13,Dynamic TDD uplink/downlink configuration using DCI,0,H04L|H04W
+11528698,2022-12-13,Resource allocation for device to device (D2D) communication,1,H04W
+11523337,2022-12-06,Wireless communication device and wireless communication method,0,H04B|H04J|H04L|H04W|Y02D
+11523122,2022-12-06,"Method of encoding an image into a coded image, method of decoding a coded image, and apparatuses thereof",0,H04N
+11516774,2022-11-29,Wireless communication method for device to device communication and user equipment,0,H04B|H04L|H04W
+11509928,2022-11-22,Derivation method and apparatuses with candidate motion vectors,0,H04N
+11503584,2022-11-15,"Communication method, base station and user equipment using a set of legacy or aggressive CQI table and legacy or aggressive MCS table",0,H04L|H04W
+11503576,2022-11-15,"Terminal device, base station device, and uplink response signal transmission method",1,H04L|H04W
+11496973,2022-11-08,Radio communication apparatuses and radio communication method,0,H04L|H04W
+11496762,2022-11-08,"Image coding method, image decoding method, memory managing method, image coding apparatus, image decoding apparatus, memory managing apparatus, and image coding and decoding apparatus",0,H04N
+11490377,2022-11-01,Communication apparatus and communication reception method,0,H04L|H04W
+11490368,2022-11-01,Wireless communication apparatus and wireless communication method,0,H04B|H04L|H04W
+11477634,2022-10-18,Home agent discovery upon changing the mobility management scheme,2,H04L|H04W
+11470602,2022-10-11,Wireless communication apparatus and channel allocation method,2,H04L|H04W
+11463967,2022-10-04,Transmit power control for physical random access channels,1,H04W
+11463731,2022-10-04,Image processing method and image processing apparatus,0,H04N
+11463471,2022-10-04,Security key derivation in dual connectivity,0,H04L|H04W
+11457225,2022-09-27,Coding method and coding apparatus,0,H04N
+11456828,2022-09-27,Integrated circuit,0,H04J|H04L|H04W
+11456785,2022-09-27,"Transmission method, transmission device, reception method, and reception device",1,H04B|H04L
+11451817,2022-09-20,"Method of performing motion vector prediction, and apparatus thereof",0,H04N
+11451815,2022-09-20,Image coding method and image coding apparatus,0,H04N
+11438873,2022-09-06,Radio communication terminal and radio communication method,0,H04B|H04L|H04W
+11438619,2022-09-06,"Moving picture coding method, moving picture decoding method, moving picture coding apparatus, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11438043,2022-09-06,"Transmission method, transmission apparatus, reception method and reception apparatus",0,H04B|H04L|H04W
+11432000,2022-08-30,Image decoding method,0,H04N
+11431989,2022-08-30,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",1,H04N
+11431429,2022-08-30,"Terminal station apparatus, base station apparatus, transmission method and control method",0,H04B|H04J|H04L|H04W
+11428129,2022-08-30,Methods and apparatuses for encoding and decoding video using periodic buffer description,0,B01D|B29C|F01M|H04N
+11418805,2022-08-16,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11418309,2022-08-16,"Terminal device, base station device, and transmission/reception method",0,H04L|H04W
+11418295,2022-08-16,Communication apparatus and communication method,2,H04B|H04J|H04L|H04W
+11405119,2022-08-02,"Transmission method, transmission device, reception method, and reception device",0,H04B|H04H|H04L|H04N
+11398891,2022-07-26,Reference signal reception and CQI computation method and wireless communication apparatus,0,H04B|H04L|H04W
+11395295,2022-07-19,Integrated circuit,1,H04L|H04W
+11395268,2022-07-19,Integrated circuit,0,H04L|H04W
+11395240,2022-07-19,Power control and power headroom reporting for dual connectivity,0,H04W
+11394507,2022-07-19,Communication apparatus and reference signal reception method,0,H04L
+11388744,2022-07-12,"Base station apparatus, mobile station apparatus, and transmission method",0,H04L|H04W
+11388635,2022-07-12,Method and apparatus for measurement reporting in carrier aggregation wireless communication systems,0,H04B|H04L|H04W
+11382091,2022-07-05,"Receiver device, transmitter device, reception method, and transmission method",0,H04B|H04L|H04W
+11381353,2022-07-05,Communication apparatus and buffer partitioning method,2,H04L|H04W
+11375485,2022-06-28,"Terminal device, base station device, transmitting method and receiving method",0,H04L|H04W
+11375210,2022-06-28,"Encoding method, decoding method, encoding apparatus, and decoding apparatus",0,H04N
+11375195,2022-06-28,Arithmetic coding for information related to sample adaptive offset processing,0,A61F|A61M|G06T|H04N
+11374724,2022-06-28,Component carrier (de)activation in communication systems using carrier aggregation,1,H04L|H04W
+11374631,2022-06-28,Pre-coding method and pre-coding device,1,H04B|H04L
+11368997,2022-06-21,Device-to-device wireless communication method and user equipment,2,H04W
+11363588,2022-06-14,"Transmitting device, receiving device, transmitting method, and receiving method",0,H04L|H04W
+11363297,2022-06-14,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",2,H04N
+11362875,2022-06-14,"Transmission method, transmitter apparatus, reception method and receiver apparatus",2,H04B|H04L
+11356997,2022-06-07,Communication apparatus and communication method for configuring resource region candidates and mapping downlink control information to same,0,H04L|H04W
+11356960,2022-06-07,Mobile station and power allocation method,0,H04L|H04W
+11356958,2022-06-07,Wireless communication device and method for controlling transmission power,0,H04L|H04W|Y02D
+11356696,2022-06-07,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",1,H04N
+11356694,2022-06-07,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus and moving picture coding and decoding apparatus",0,H04N
+11356691,2022-06-07,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",2,H04N
+11356666,2022-06-07,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",2,H04N
+11356226,2022-06-07,Aperiodic triggering of channel quality information using physical downlink control channel,2,H04L|H04W
+11356156,2022-06-07,"Broadcast signal transmission method, broadcast signal transmission apparatus, broadcast signal reception method, and broadcast signal reception apparatus",3,H04B|H04J|H04L|H04W
+11350374,2022-05-31,Power-limit reporting in a communication system using carrier aggregation,0,H04L|H04W|Y02D
+11350096,2022-05-31,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H03M|H04N
+11349588,2022-05-31,Communication apparatus and reference signal receiving method,0,H04B|H04J|H04L
+11349536,2022-05-31,Signal generating method and signal generating apparatus,0,H04B|H04L
+11343764,2022-05-24,Integrated circuit,1,H04L|H04W|Y02D
+11343518,2022-05-24,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",2,H04N
+11337247,2022-05-17,"Terminal, base station, integrated circuit and signal transmission control method",2,H04L|H04W
+11337196,2022-05-17,Communication apparatus and communication method for receiving control information over a search space,0,H04J|H04L|H04W
+11336417,2022-05-17,Controlling UE behavior for CSI/SRS reporting during DRX,0,H04L|H04W|Y02D
+11330618,2022-05-10,Integrated circuit for receiving downlink control information and transmitting uplink data,0,H04L|H04W
+11317399,2022-04-26,"Wireless communication method, base station, transmission/reception point, user equipment and wireless communication system",0,H04L|H04W
+11317112,2022-04-26,Moving picture coding method and moving picture decoding method using a determination whether or not a reference block has two reference motion vectors that refer forward in display order with respect to a current picture,0,H04N
+11310755,2022-04-19,Transmission timing control for D2D communication,0,H04L|H04W
+11310500,2022-04-19,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, program, and integrated circuit",2,H04N
+11310493,2022-04-19,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+11304183,2022-04-12,Communication device and SRS transmission control method,0,H04B|H04L|H04W
+11303926,2022-04-12,Video encoding method and video decoding method,0,H04N
+11297483,2022-04-05,Resource allocation for D2D discovery transmission,0,H04L|H04W
+11297333,2022-04-05,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,G06T|H04N
+11296756,2022-04-05,Receiving method and receiving apparatus,0,H04B|H04L
+11284102,2022-03-22,"Moving picture coding method, moving picture decoding method, moving picture coding apparatus, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+11283662,2022-03-22,"OFDM transmitter device having a symbol generator for generating non-zero control symbols, and OFDM transmission method including generating non-zero control symbols",0,H04L
+11265562,2022-03-01,Transmitting method and receiving method,1,H04N
+11265120,2022-03-01,"Base station, terminal, search space setting method and decoding method",0,H04L|H04W
+11258505,2022-02-22,"Transmission device, transmission method, receiving device and receiving method",3,H04B|H04L|H04W
+11252711,2022-02-15,"Base station, terminal, transmission method, and reception method",0,H04L|H04W
+11252708,2022-02-15,Channel quality information reporting for subframes,0,H04B|H04J|H04L|H04W
+11246073,2022-02-08,Short message transmission and handover procedures,0,H04W
+11245461,2022-02-08,Signal generating method and signal generating device,0,H04B|H04J|H04L|H04W|Y02D
+11240806,2022-02-01,"Integrated circuit, apparatus and method for communication using resource block groups",0,H04L|H04W
+11240084,2022-02-01,Method of signal generation and signal generating device,0,H04B|H04L
+11234231,2022-01-25,Resource assignment for single and multiple cluster transmission,0,H04L|H04W
+11228765,2022-01-18,Image coding apparatus for coding tile boundaries,2,G06T|H04N
+11223465,2022-01-11,Communication apparatus and communication method,1,H04B|H04J|H04L|H04W
+11223454,2022-01-11,Communication apparatus and method thereof,0,H04B|H04L|H04W
+11219012,2022-01-04,"Terminal, base station, transmission method, and reception method",0,H04L|H04W
+11218736,2022-01-04,Low complex deblocking filter decisions,0,H04N
+11218708,2022-01-04,Picture decoding method for decoding using a merging candidate selected from a first merging candidate derived using a first derivation process and a second merging candidate derived using a second derivation process,0,H04N
+11218265,2022-01-04,"Base station apparatus, terminal apparatus, transmitting method, and receiving method",0,H04J|H04L|H04W
+11218200,2022-01-04,"Precoding method, precoding device",1,H04B|H04L
+11212783,2021-12-28,Buffer partitioning system and method,0,H04L|H04W|Y02D
+11206436,2021-12-21,Transmitting method of transmitting hierarchically encoded data,0,H04N
+11206423,2021-12-21,"Video encoding method, video encoding device, video decoding method and video decoding device",0,H04N
+11206409,2021-12-21,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, program, and integrated circuit",0,H04N
+11197015,2021-12-07,Moving picture coding method and moving picture decoding method,2,H04N
+11178425,2021-11-16,Efficient rounding for deblocking,0,H04N
+11177864,2021-11-16,Pre-coding method and transmitter,1,H04B|H04J|H04L
+11172526,2021-11-09,D2D communication method and D2D-enabled wireless device,0,H04W
+11172479,2021-11-09,Integrated circuit for transmitting control information including ACK/NACK resource indicator,0,H04L|H04W
+11171752,2021-11-09,Integrated circuit,2,H04L|H04W
+11170818,2021-11-09,"Data transmission method, data playback method, data transmission device, and data playback device",0,G11B|H04L|H04N
+11166261,2021-11-02,Integrated circuit,1,H04B|H04L|H04W
+11166018,2021-11-02,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+11165543,2021-11-02,"Base station apparatus, terminal apparatus, transmission method, and reception method",1,H04L|H04W
+11160076,2021-10-26,"Transmitter, receiver, transmission method, and reception method",0,H04B|H04J|H04L|H04W
+11160068,2021-10-26,Wireless communication apparatus and channel allocation method,3,H04L|H04W
+11139933,2021-10-05,"Method of mapping CSI-RS ports to antenna units, base station and user equipment",4,H04B|H04L|H04W
+11129113,2021-09-21,"Terminal apparatus, base station and communication method",0,H04B|H04L|H04W
+11128355,2021-09-21,Signal generation method and signal generation device,1,G06F|H04B|H04L|H04W
+11121849,2021-09-14,TDD uplink/downlink re-configuration mechanism,0,H04L|H04W
+11121827,2021-09-14,"Wireless communications terminal, base station device, and resource allocation method",0,H04L|H04W
+11115677,2021-09-07,"Image coding method, image decoding method, image coding apparatus, and image decoding apparatus",0,H04N
+11115664,2021-09-07,"Image coding method, image coding apparatus, image decoding method, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+11109362,2021-08-31,Multiple sidelink control transmissions during a sidelink control period,0,H04W
+11109063,2021-08-31,"Image encoding method, image decoding method, image encoding apparatus, image decoding apparatus, and image coding apparatus",0,H04N
+11109043,2021-08-31,Coding method and coding apparatus,0,H04N
+11108448,2021-08-31,Signal generating method and signal generating device,0,H04B|H04J|H04L|H04W
+11102769,2021-08-24,Search space for ePDCCH control information in an OFDM-based mobile communication system,0,H04J|H04L|H04W
+11102547,2021-08-24,"Transmission method, reception method, transmission device, and reception device",0,H04H|H04N
+11096084,2021-08-17,Efficient uplink scheduling mechanisms for dual connectivity,1,H04W
+11089336,2021-08-10,Syntax and semantics for adaptive loop filter and sample adaptive offset,0,H04N
+11089301,2021-08-10,"Image encoding method, image decoding method, image encoding device, image decoding device, and image encoding/decoding device",0,H04N
+11082852,2021-08-03,Mobile terminal,0,H04L|H04W
+11082100,2021-08-03,"Signal generation method, transmission device, reception method, and reception device",4,H04B|H04L|H04W
+11076366,2021-07-27,Wireless device and power control method,0,H04B|H04W
+11076363,2021-07-27,Power control method and user equipment in device to device communication in serving cell,0,H04W
+11076170,2021-07-27,Coding method and apparatus with candidate motion vectors,0,H04N
+11075714,2021-07-27,"Transmission device, transmission method, reception device, reception method, integrated circuit, and program",0,H03M|H04B|H04L
+11070828,2021-07-20,"Method for decoding data, data decoding device, and method for transmitting data",0,H04N
+11070281,2021-07-20,Terminal apparatus and communication scheme,0,H04B|H04L|H04W
+11064243,2021-07-13,"Transmitting method, receiving method, transmitting apparatus, and receiving apparatus",0,H04N
+11063805,2021-07-13,Method of signal generation and signal generating device,0,H04B|H04L
+11063688,2021-07-13,Modulation order adaptation for partial subframes,2,H04L|H04W
+11057920,2021-07-06,"Radio terminal, radio base station, channel signal forming method and channel signal receiving method",0,H04H|H04J|H04L|H04W
+11057639,2021-07-06,Derivation method and apparatuses with candidate motion vectors,0,H04N
+11057168,2021-07-06,Integrated circuit for controlling transmission of downlink control information,2,H04L|H04W
+11051313,2021-06-29,Apparatus and method for generating and transmitting reference signal in radio communication,0,H04B|H04J|H04L|H04W
+11051294,2021-06-29,Communication apparatus and communication method,0,H04L|H04W
+11051255,2021-06-29,Power control and power headroom reporting for dual connectivity,0,H04W
+11051196,2021-06-29,Wireless communication terminal and method thereof,0,H04L|H04W
+11050674,2021-06-29,Efficient discard mechanism in small cell deployment,1,H04L|H04W
+11050601,2021-06-29,MCS table adaptation for 256-QAM,0,H04L|H04W
+11050597,2021-06-29,"Transmission method, transmitter apparatus, reception method and receiver apparatus",0,H04B|H04L
+11044489,2021-06-22,"Image coding method, image decoding method, memory managing method, image coding apparatus, image decoding apparatus, memory managing apparatus, and image coding and decoding apparatus",0,H04N
+11038565,2021-06-15,"Broadcast signal transmission method, broadcast signal transmission apparatus, broadcast signal reception method, and broadcast signal reception apparatus",3,H04B|H04J|H04L|H04W
+11025380,2021-06-01,"Transmission method, reception method, transmitter, and receiver",0,H04B|H04J|H04L|H04W
+11025363,2021-06-01,"Data processing method, precoding method, and communication device",0,H03M|H04B|H04L
+11019578,2021-05-25,"Terminal, base station, and communication method",0,H04W
+11019342,2021-05-25,"Image coding method, image decoding method, image coding apparatus, image decoding apparatus, and image coding and decoding apparatus",0,H04N
+11019320,2021-05-25,"Storage method, playback method, storage apparatus, and playback apparatus",0,G11B|H04N
+11018736,2021-05-25,Signal generating method and signal generating apparatus,0,H04B|H04L
+11018733,2021-05-25,Transmission device and transmission method,0,H04B|H04L
+11013004,2021-05-18,Communication apparatus and method for Discrete Fourier Transforming a time signal to a frequency signal,0,G06F|H04J|H04L|H04W|Y10S
+11012705,2021-05-18,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus and moving picture coding and decoding apparatus",0,H04N
+11012219,2021-05-18,Search space for non-interleaved R-PDCCH,0,H04L|H04W
+11012212,2021-05-18,Method and communication apparatus for mapping reference signal in wireless communication system,0,H04B|H04L|H04W|Y02D
+11005640,2021-05-11,Component carrier activation and deactivation using resource assignments,3,H04L|H04W
+10999593,2021-05-04,Image decoding method,0,H04N
+10999040,2021-05-04,"Terminal device, base station device, retransmission method, and resource allocation method",0,H04B|H04J|H04L|H04W
+10999024,2021-05-04,Communication terminal,0,H04L|H04W
+10993253,2021-04-27,Scheduling request procedure for D2D communication,1,H04W
+10993223,2021-04-27,Reception apparatus and reception method,2,H04L|H04W
+10993210,2021-04-27,Resource block candidate selection technique employing packet scheduling in wireless communication systems,0,H04L|H04W
+10992949,2021-04-27,"Method of performing motion vector prediction, and apparatus thereof",0,H04N
+10992944,2021-04-27,"Image decoding method, image coding method, image decoding apparatus, image coding apparatus, and image coding and decoding apparatus",1,H04N
+10992370,2021-04-27,"Transmission device, transmission method, receiving device and receiving method",0,H01Q|H04B|H04L|H04W|Y02D
+10986560,2021-04-20,Terminal and communication method thereof,0,H04B|H04L|H04W
+10986524,2021-04-20,Wireless communication terminal and communication method for measuring a channel quality indicator (CQI),0,H04B|H04L|H04W
+10986521,2021-04-20,"Wireless communication terminal, wireless communication base station, wireless communication system, and reporting method",0,H04L|H04W|Y02B|Y02D
+10986335,2021-04-20,Image coding method and image decoding method,0,H04N
+10985815,2021-04-20,"Transmission method, transmission apparatus, reception method and reception apparatus",0,H04B|H04L|H04W
+10980026,2021-04-13,Transmission device and transmission method,0,H04L|H04W
+10979720,2021-04-13,"Method of encoding an image into a coded image, method of decoding a coded image, and apparatuses thereof",0,H04N
+10973024,2021-04-06,Communication apparatus and communication method,2,H04L|H04W
+10972243,2021-04-06,Mobile station and reception method,0,H04B|H04L|H04W
+10972231,2021-04-06,"Wireless communication terminal, base station device, resource allocation method",0,H04J|H04L|H04W
+10966197,2021-03-30,"Terminal apparatus, base station apparatus, reception method and transmission method",0,H04L|H04W
+10966167,2021-03-30,Radio communication apparatuses and radio communication method,0,H04L|H04W
+10965354,2021-03-30,"Transmission method, transmission device, reception method, and reception device",2,H04B|H04L
+10959234,2021-03-23,Power headroom calculation apparatus and a power headroom calculation method,0,H04L|H04W
+10958935,2021-03-23,Efficient rounding for deblocking,0,H04N
+10958403,2021-03-23,Reference signal reception and CQI computation method and wireless communication apparatus,0,H04B|H04L|H04W
+10958319,2021-03-23,Receiving method and receiving apparatus,3,H04B|H04L
+10939426,2021-03-02,"Communication method, base station and user equipment using a set of legacy or aggressive CQI table and legacy or aggressive MCS table",0,H04L|H04W
+10939121,2021-03-02,"Video encoding method, video decoding method, video encoding apparatus, and video decoding apparatus",0,H04N
+10938521,2021-03-02,Communication apparatus and retransmission control method,0,H04B|H04L|H04W
+10938457,2021-03-02,"Precoding method, precoding device",2,H04B|H04L
+10932252,2021-02-23,"Receiver device, transmitter device, reception method, and transmission method",0,H04B|H04L|H04W
+10932227,2021-02-23,Wireless communication method for device to device communication and user equipment,1,H04B|H04L|H04W
+10932119,2021-02-23,Home agent discovery upon changing the mobility management scheme,0,H04L|H04W
+10931962,2021-02-23,"Video coding method, video decoding method, video coding apparatus and video decoding apparatus",0,H04N
+10931494,2021-02-23,"OFDM transmitter device having a symbol generator for generating non-zero control symbols, and OFDM transmission method including generating non-zero control symbols",4,H04L
+10925037,2021-02-16,"Wireless communication method, enodeb, and user equipment",1,H04B|H04L|H04W
+10924764,2021-02-16,Image processing method and image processing apparatus,0,H04N
+10917909,2021-02-09,Dynamic TDD uplink/downlink configuration using DCI,2,H04L|H04W
+10917884,2021-02-09,Mapping of control information to control channel elements,0,H04L|H04W
+10917659,2021-02-09,Video encoding method and video decoding method,0,H04N
+10912079,2021-02-02,"Radio reception apparatus, radio transmission apparatus, and radio communication method",0,H04B|H04L|H04W
+10911771,2021-02-02,"Moving picture coding method, moving picture coding apparatus, moving picture decoding method, moving picture decoding apparatus, and moving picture coding and decoding apparatus",0,H04N
+10911198,2021-02-02,Communication apparatus and reference signal reception method,0,H04L

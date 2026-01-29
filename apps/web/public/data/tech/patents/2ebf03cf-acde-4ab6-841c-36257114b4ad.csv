@@ -1,0 +1,911 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432686,2025-09-30,"Signal processing method and apparatus, device, and storage medium for determining position of base station",0,G01S|H04W
+12430516,2025-09-30,"Method of training dialog generation model for recommendations, method of generating recommendations, and device",0,G06F
+12430404,2025-09-30,"Method and apparatus for processing synthetic features, model training method, and electronic device",0,G06F|G06N
+12430372,2025-09-30,"Search method, computing device and storage medium",0,G06F
+12424010,2025-09-23,"Character recognition model training method and apparatus, character recognition method and apparatus, device and storage medium",0,G06F|G06N|G06T|G06V|G10L
+12424002,2025-09-23,"Method and apparatus for image annotation, and storage medium",0,G06T|G06V
+12423912,2025-09-23,Construction of three-dimensional road network map,0,G01C|G06T|G06V
+12423853,2025-09-23,Method and apparatus for correcting perspective of road image,0,G06T|G06V
+12423576,2025-09-23,"Method and apparatus for updating parameter of multi-task model, and storage medium",0,G06F|G06N
+12423140,2025-09-23,Deep learning framework scheduling,0,G06F
+12417345,2025-09-16,"Method and apparatus for constructing object relationship network, and electronic device",0,G06F
+12412388,2025-09-09,"Method for determining region attribute information, computing device, and storage medium",0,G06T|G06V
+12412361,2025-09-09,"Entity recognition method and apparatus, and computer program product",0,G06F|G06V
+12412286,2025-09-09,"Point cloud registration method, apparatus, device and storage medium",0,G06T
+12411876,2025-09-09,Answer information generation method,0,G06F
+12407609,2025-09-02,Methods for shunting clustered gateways,0,H04L
+12405973,2025-09-02,"Map data updating method, apparatus and electronic device",0,G01C|G06F|G06T
+12400143,2025-08-26,"Model development tool to train, evaluate and predict with deep learning by selecting functions",0,G06F|G06N
+12399745,2025-08-26,"Resource scheduling method, device, and storage medium",0,G06F|G06N|G06T|Y02D
+12395646,2025-08-19,"Method, apparatus, electronic device, storage media and program product for video coding",0,H04N
+12395639,2025-08-19,Blocking artifact detection,0,H04N
+12394226,2025-08-19,"Method of training video tag recommendation model, and method of determining video tag",0,G06F|G06N|G06V
+12393863,2025-08-19,"Distributed training method and system, device and storage medium",0,G06F|G06N|H04L
+12393823,2025-08-19,"Data processing method for neural network accelerator, device and storage medium",0,G06F|G06N|Y02D
+12388750,2025-08-12,"Method, system and apparatus for forwarding data in virtual network and program product",0,G06N|H04L
+12387396,2025-08-12,"Method for determining drawing data of map element, electronic device, and non- transitory computer-readable storage medium",0,G06T
+12387136,2025-08-12,"Method and apparatus for adapting deep learning model, and electronic device",0,G06F|G06N
+12386891,2025-08-12,"Information search method and device, electronic device, and storage medium",0,G06F
+12386773,2025-08-12,Peripheral component interconnect express device reset for autonomous driving systems,0,G06F
+12380567,2025-08-05,Image processing,0,G06T
+12380333,2025-08-05,"Method of constructing network model for deep learning, device, and storage medium",0,G06F|G06N
+12380328,2025-08-05,"Lightweight model training method, image processing method, electronic device, and storage medium",0,G06N|G06V
+12380284,2025-08-05,"Text translation method and apparatus, electronic device, and storage medium",0,G06F
+12379819,2025-08-05,"Method and apparatus for adjusting perspective of direction indicator, electronic device, and storage medium",0,G06F|H04N
+12375552,2025-07-29,Balance of load,0,H04L
+12373735,2025-07-29,Method for pre-training language model,0,G06F|G06N
+12373655,2025-07-29,"Machine translation method and apparatus, device and storage medium",0,G06F
+12373653,2025-07-29,"Text checking method based on knowledge graph, electronic device, and medium",0,G06F|G06N|G06Q
+12368740,2025-07-22,"Method for determining risk level of instance on cloud server, and electronic device",0,G06F|H04L
+12367084,2025-07-22,"Method for obtaining browser running data, electronic device, and storage medium",0,G06F
+12363399,2025-07-15,Video clipping method and model training method,0,G06V|H04H|H04N
+12361040,2025-07-15,"Question answering method for query information, and related apparatus",0,G06F
+12361037,2025-07-15,"Method for processing question, electronic device and storage medium",0,G06F
+12353835,2025-07-08,Model training method and method for human-machine interaction,0,G06F
+12353524,2025-07-08,"Method and system of protecting model, device, and storage medium",0,G06F
+12347158,2025-07-01,"Pre-training method, image and text retrieval method for a vision and scene text aggregation model, electronic device, and storage medium",0,G06F|G06N|G06V|H04N|Y02D
+12346405,2025-07-01,"Joint perception model training method, joint perception method, device, and storage medium",0,G06F|G06N|G06V
+12341674,2025-06-24,"Content delivery network processing method and device, and electronic device",0,H04L
+12340817,2025-06-24,"Audio signal processing method, training method, apparatus and storage medium",0,G06N|G10L|H04M
+12340525,2025-06-24,"High-definition map creation method and device, and electronic device",0,B60W|G01S|G06T
+12340305,2025-06-24,"Training method for air quality prediction model, prediction method and apparatus, device, program, and medium",0,G01N|G06E|G06F|G06N|G06V
+12340288,2025-06-24,"Method of training classification model, method of classifying sample, and device",0,G06F|G06N
+12339919,2025-06-24,"Method of processing triple data, method of training triple data processing model, device, and medium",0,G06F|G06N
+12335629,2025-06-17,"Imaging exposure control method and apparatus, device and storage medium",0,G02F|G06T|H04N
+12334035,2025-06-17,"Image display method and apparatus, and medium",0,G09G|H04N
+12333837,2025-06-17,"Method for training image-text matching model, computing device, and storage medium",0,G06F|G06V
+12333795,2025-06-17,Multimodal data processing,0,G06N|G06V
+12333426,2025-06-17,"Method and apparatus for creating dialogue, and storage medium",0,G06F|G06N
+12333266,2025-06-17,"Training method, text translation method, electronic device, and storage medium",0,G06F
+12333251,2025-06-17,"Extracting triplets from text with relationship prediction matrix, entity prediction matrix, and alignment matrix",0,G06F|Y02D
+12332877,2025-06-17,"Method for acquiring structured question-answering model, question-answering method and corresponding apparatus",0,G06F|G06N
+12327301,2025-06-10,"Method and apparatus for configuring color, device, medium and product",0,G06T
+12327090,2025-06-10,"Semantic understanding method, electronic device, and storage medium",0,G06F
+12327084,2025-06-10,"Video question answering method, electronic device and storage medium",0,G06F
+12326915,2025-06-10,"Method and apparatus of training model, device, medium, and program product",0,G06F|G06N|G06V
+12322394,2025-06-03,"Method, apparatus, system, electronic device for processing information and storage medium",0,G06F|G06N|G06Q|G10L|H04L|H04M
+12315048,2025-05-27,"Method of generating image sample, method of recognizing text, device and medium",0,G06T|G06V
+12314677,2025-05-27,"Method for pre-training model, device, and storage medium",0,G06F|G06N
+12314317,2025-05-27,Video generation,0,G06F|G06N|G10L
+12313426,2025-05-27,"Method of updating map data, electronic device and storage medium",0,G01C|H04L
+12309379,2025-05-20,"Method for processing video frame, method for training model, electronic device, and storage medium",0,G06T|H04N
+12309301,2025-05-20,"Method and apparatus for operating blockchain system, device and storage medium",0,G06F|H04L
+12309068,2025-05-20,"Method for network transmission for detecting unnecessary reduction of bandwidth, device, and storage medium",0,H04L
+12307797,2025-05-20,"Method for recognizing receipt, electronic device and storage medium",0,G06N|G06T|G06V
+12307702,2025-05-20,Map processing method and apparatus,0,G01C|G06T|G06V
+12307207,2025-05-20,"Method for determining text topic, and electronic device",0,G06F|G06N
+12307199,2025-05-20,"Sentiment parsing method, electronic device, and storage medium",0,G06F
+12306876,2025-05-20,"Method of processing an observation information, electronic device and storage medium",0,G06F
+12300012,2025-05-13,"Method and device for training, based on crossmodal information, document reading comprehension model",0,G06F|G06N|G06V
+12299789,2025-05-13,"Method for fusing map data, and electronic device",0,G06T|G06V
+12299767,2025-05-13,"Information acquisition method and apparatus, electronic device, and storage medium",0,G06F|G06T
+12299407,2025-05-13,"Model training method, electronic device, and storage medium",0,G06F|G06N
+12298956,2025-05-13,"Method and apparatus for generating index, and electronic device",0,G06F
+12298839,2025-05-13,"Method for controlling distributed operation system, device, and medium",0,G06F
+12293300,2025-05-06,"Method and apparatus for training semantic retrieval network, electronic device and storage medium",0,G06F|G06N|Y02D
+12292938,2025-05-06,"Conversation-based recommending method, conversation-based recommending apparatus, and device",0,G06F|G06N
+12287947,2025-04-29,"Method and apparatus for determining multimedia editing information, device and storage medium",0,G06F|G11B|H04N
+12283124,2025-04-22,Method of training text quality assessment model and method of determining text quality,0,G06F|G06N|G06V
+12283085,2025-04-22,"Data labeling method based on artificial intelligence, apparatus and storage medium",0,G06F|G06N|G06V
+12282849,2025-04-22,"Method for training classification model, classification method, apparatus and device",0,G06N
+12282746,2025-04-22,"Display method, electronic device, and storage medium",0,G06F|G06V
+12277401,2025-04-15,Method and apparatus for acquiring pre-trained model,0,G06F|G06N|G06V
+12277398,2025-04-15,Model training,0,G06F|G06N
+12277397,2025-04-15,"Method of training model, method of determining word vector, device, medium, and product",0,G06F|G06N
+12277387,2025-04-15,Text processing method,0,G06F
+12277146,2025-04-15,"Method for updating information of point of interest, electronic device and storage medium",0,G06F
+12276521,2025-04-15,"Method for processing map data, and electronic device",0,G01C|G06F|G06T
+12272115,2025-04-08,"Video processing method, electronic device, and storage medium",0,G06T|G06V|G09G
+12272002,2025-04-08,"Method and apparatus for generating virtual character, electronic device and readable storage medium",0,A63F|G06T
+12270674,2025-04-08,"Method and apparatus for route navigation, electronic device, computer readable medium",0,G01C|G01S|G06F|G06T|G06V
+12270659,2025-04-08,"Positioning method and apparatus, device, system, medium and self-driving vehicle",0,G01C|G06T
+12266364,2025-04-01,Task information management,0,G06Q|G10L|H04L
+12265950,2025-04-01,"Method and apparatus of matching data, device and computer readable storage medium",0,G06N|G06Q
+12265790,2025-04-01,"Method for correcting text, method for generating text correction model, device",0,G06F|G06N|G10L|Y02D
+12263834,2025-04-01,"Spatial parking place detection method and device, storage medium, and program product",0,B60W|B62D|G01C|G01S|G06T|G06V|G08G
+12260492,2025-03-25,Method and apparatus for training a three-dimensional face reconstruction model and method and apparatus for generating a three-dimensional face image,0,G06T|G06V
+12260327,2025-03-25,"Optimizer learning method and apparatus, electronic device and readable storage medium",0,G06F|G06N
+12260186,2025-03-25,"Method of generating text, method of training model, electronic device, and medium",0,G06F
+12244899,2025-03-04,"Method of pushing video, electronic device and storage medium",0,H04N
+12242959,2025-03-04,"Method, apparatus, device and storage medium for embedding user app interest",0,G06F|G06N|G06Q|Y02D
+12236974,2025-02-25,"Method and apparatus for processing signal, computer readable medium",0,G06N|G10L|H04B|H04M
+12236361,2025-02-25,"Question analysis method, device, knowledge base question answering system and electronic equipment",0,G06F|G06N|Y02D
+12236203,2025-02-25,"Translation method, model training method, electronic devices and storage mediums",0,G06F
+12229882,2025-02-18,"Method for adjusting target object, electronic device, and storage medium",0,G06T
+12229667,2025-02-18,Method and apparatus for generating shared encoder,0,G06F|G06N
+12229519,2025-02-18,Method and apparatus for generating dialogue state,0,G06F
+12223653,2025-02-11,"Panorama rendering method, electronic device and storage medium",0,G06F|G06T|G09G
+12223279,2025-02-11,"Method for generating cross-lingual textual semantic model, and electronic device",0,G06F|G06N
+12223275,2025-02-11,"Method of training model, device, and storage medium",0,G06F|G06N|G10L
+12223271,2025-02-11,"Text processing method, device and storage medium",0,G06F|G06N
+12222977,2025-02-11,"Method of processing multimedia data, device and medium",0,G06F|G06N|G06V
+12217607,2025-02-04,"Parking area recommendation method and apparatus, and medium",0,G06F|G06N|G06V|G08G
+12217150,2025-02-04,"Data processing method and apparatus based on recurrent neural network, and device",0,G06N|Y02D
+12211485,2025-01-28,"Speech synthesis method, and electronic device",0,G06N|G10L
+12211381,2025-01-28,"Method and apparatus for prompting navigation information, and medium",0,G01C|G06F|G08G|H04W
+12211304,2025-01-28,"Method and apparatus for performing structured extraction on text, device and storage medium",0,G06F|G06N|G06V|Y02D
+12210982,2025-01-28,"Intelligent question-answering processing method and system, electronic device and storage medium",0,G06F|G06N
+12210956,2025-01-28,"Translation method, apparatus and storage medium",0,G06F|G06N
+12210507,2025-01-28,"Method for monitoring running state of distributed system, device, and storage medium",0,G06F
+12206583,2025-01-21,"Data transmission method and apparatus, device, storage medium, and computer program product",0,H04L
+12205043,2025-01-21,"Method and apparatus for generating knowledge graph, method for relation mining",0,G06F|G06N
+12205025,2025-01-21,Processor memory optimization method and apparatus for deep learning training tasks,0,G06F|G06N|G06T
+12204851,2025-01-21,"Method for generating pre-trained language model, electronic device and storage medium",0,G06F|G06N
+12204551,2025-01-21,System and method for mining data and storage medium,0,G06F|H04L|Y02D
+12198236,2025-01-14,"Map data processing method and apparatus, and storage medium",0,G06F|G06T|G06V
+12198029,2025-01-14,"Joint training method and apparatus for models, device and storage medium",0,G06N|H04L
+12197882,2025-01-14,"Translation method, electronic device and storage medium",0,G06F
+12192598,2025-01-07,"Method of processing audio or video data, device, and storage medium",0,G06F|H04N
+12190445,2025-01-07,"High-precision map construction method, apparatus and electronic device",0,G06T
+12189639,2025-01-07,"Method of processing information, electronic device, and storage medium",0,G06F|Y02D
+12183324,2024-12-31,"Speech recognition and codec method and apparatus, electronic device and storage medium",0,G06F|G10L
+12183128,2024-12-31,"Testing method for automated driving system, electronic device and storage medium",0,G01M|G05D|G06F|G07C
+12182729,2024-12-31,"Method and apparatus for recommending content, device, and medium",0,G06F|G06N|G06Q
+12182724,2024-12-31,"Method and apparatus for generating temporal knowledge graph, device, and medium",0,G06F|G06N
+12182546,2024-12-31,Method and system for model production,0,G06F|G06N
+12182009,2024-12-31,"Method, electronic device, and storage medium for locating fault information",0,G06F
+12182007,2024-12-31,Method for testing application,0,G06F|G06Q|H04L
+12175792,2024-12-24,"Method and apparatus for generating object model, electronic device and storage medium",0,G06T|G06V
+12175705,2024-12-24,"Method of detecting collision of objects, device, and storage medium",0,G06T|G06V
+12175379,2024-12-24,"Method, apparatus, device and storage medium for training model",0,G06F|G06N
+12175198,2024-12-24,Document processing,1,G06F|G06V
+12174917,2024-12-24,Data processing method,0,G06F|G06N
+12174902,2024-12-24,Ranking of recall data,0,G06F|G06N
+12174824,2024-12-24,"Method for denoising click data, electronic device and storage medium",0,G06F
+12170822,2024-12-17,"Method and apparatus for controlling video playing, electronic device and storage medium",0,G06F|G06T|G06V|H04N
+12169942,2024-12-17,Method for training image depth estimation model and method for processing image depth information,0,B60W|G01S|G06N|G06T
+12165072,2024-12-10,"Method, electronic device, and storage medium for expanding data",0,G06F|G06N
+12165059,2024-12-10,"Method and apparatus for generating recommendation model, content recommendation method and apparatus, device and medium",0,G06F|G06N
+12159235,2024-12-03,"Method and apparatus for verifying accuracy of judgment result, electronic device and medium",0,G06F|G06N
+12158899,2024-12-03,"Information processing method, electronic device, and storage medium",0,G06F|G06N
+12158839,2024-12-03,Method and apparatus for allocating memory and electronic device,0,G06F|G06N|G10L
+12158801,2024-12-03,"Method of responding to operation, electronic device, and storage medium",0,G06F|H04L
+12155833,2024-11-26,"Method and apparatus for encoding video, and storage medium",0,H04N
+12155500,2024-11-26,"Remote control method and apparatus, electronic device and medium",0,G06F|G08C|G10L|H04L|H04W
+12154359,2024-11-26,"Method and apparatus for detecting table, device and storage medium",0,G06N|G06V
+12154262,2024-11-26,"Image defect detection method for locating a defect of a to-be detected image, electronic device, and storage medium",0,G06F|G06N|G06T|G06V
+12153601,2024-11-26,"Transaction request construction method and apparatus, transaction request processing method and apparatus, device and storage medium",0,G06F|H04L
+12147448,2024-11-19,"Data reading method, device and storage medium",0,G06F
+12147431,2024-11-19,"Method and apparatus for pushing resource, and storage medium",0,G06F|H04L
+12147247,2024-11-19,"Vehicle attitude estimation method, electronic device and storage medium",0,G05D|G06T
+12141674,2024-11-12,Method for generating user interactive information processing model and method for processing user interactive information,0,G06N|H04L
+12141228,2024-11-12,"Deep learning processing apparatus and method, device and storage medium",0,G06F|G06N
+12140441,2024-11-12,Station recommendation,0,G01C|G06N|G06Q|H04L|H04W
+12136161,2024-11-05,"Method of processing information, method of rendering image, and electronic device",0,G06F|G06T|G09G|Y02D
+12136120,2024-11-05,"Method and apparatus for providing state information of taxi service order, and storage medium",0,G06Q|G08G|H04L|H04W
+12131728,2024-10-29,"Method and apparatus of training natural language processing model, and method and apparatus of processing natural language",0,G06F|G10L
+12131433,2024-10-29,"Method and apparatus for adjusting virtual face model, electronic device and storage medium",0,A63F|G06F|G06T|G06V
+12131165,2024-10-29,Method and apparatus for acquiring information,0,G06F|H04L
+12130140,2024-10-29,"Method and apparatus for determining positioning information of vehicle, electronic device, storage medium and program product",0,G01C|G01S|G06F
+12128298,2024-10-29,"Method and apparatus for pre-starting cloud application, device, storage medium, and program product",0,A63F|G06F
+12125224,2024-10-22,"Depth information processing method, apparatus, and storage medium",0,G06N|G06T|G06V
+12125131,2024-10-22,"Method of generating 3D video, method of training model, electronic device, and storage medium",0,G06T|G10L
+12118992,2024-10-15,"Voice interaction method and apparatus, device and computer storage medium",0,G06F|G10L
+12118989,2024-10-15,Speech processing method and method for generating speech processing model,0,G06N|G10L
+12118578,2024-10-15,"Method and apparatus for processing commodity information, device and storage medium",0,G06F|G06Q
+12118319,2024-10-15,"Dialogue state rewriting and reply generating method and system, electronic device and storage medium",0,G06F|G06N
+12118109,2024-10-15,"Data storage method, device, and storage medium",0,G06F|H04L
+12118063,2024-10-15,"Method, apparatus, electronic device and storage medium for training semantic similarity model",0,G06F|G06N
+12114100,2024-10-08,"Image processing method in remote control, device, apparatus and program product",0,G05D|G06F|G06T|G06V|H04L|H04N
+12112539,2024-10-08,"Video processing method, electronic device and storage medium",0,G06F|G06N|G06V
+12112503,2024-10-08,"Method and apparatus for calibrating external parameters of image acquisition device, device and storage medium",0,B60W|G06F|G06T|H04N|Y02T
+12111741,2024-10-08,"Automatic test method and apparatus, electronic device, and storage medium",0,G06F
+12111656,2024-10-08,"Method for remote control of autonomous driving vehicle, autonomous driving vehicle and cloud device",0,G05D|G06F|G08G
+12108120,2024-10-01,"Method for processing video, device and storage medium",0,G06F|G06V|H04N
+12106062,2024-10-01,"Method and apparatus for generating a text, and storage medium",0,G06F|Y02D
+12106052,2024-10-01,"Method and apparatus for generating semantic representation model, and storage medium",0,G06F|G06N|Y02D
+12105750,2024-10-01,"Method and apparatus for mining entity relationship, electronic device, and storage medium",0,G06F
+12094208,2024-09-17,"Video classification method, electronic device and storage medium",0,G06F|G06N|G06V|G10L
+12093721,2024-09-17,"Method for processing data, electronic device and storage medium",0,G06F|G06N
+12093712,2024-09-17,"Method and apparatus for handling memory failure, electronic device and storage medium",0,G06F|G06N|Y02D
+12093297,2024-09-17,"Summary generation model training method and apparatus, device and storage medium",0,G06F
+12086555,2024-09-10,"Method for generating dialogue, electronic device, and storage medium",0,G06F
+12086536,2024-09-10,"Method, apparatus, device and storage medium for determining page theme",0,G06F|Y02D
+12086171,2024-09-10,"Word mining method and apparatus, electronic device and readable storage medium",0,G06F
+12079580,2024-09-03,"Information extraction method, extraction model training method, apparatus and electronic device",0,G06F|G06N
+12079268,2024-09-03,Object recommendation,0,G06F|G06V
+12079215,2024-09-03,"Query rewriting method and apparatus, device and storage medium",0,G06F|G06N
+12073822,2024-08-27,"Voice generating method and apparatus, electronic device and storage medium",0,G06F|G10L
+12069175,2024-08-20,"Method and apparatus for blockchain community governance, device and storage medium",0,G06F|H04L
+12069172,2024-08-20,"Group service implementation method and device, equipment and storage medium",0,H04L
+12067977,2024-08-20,Speech recognition method and apparatus,0,G01C|G06N|G10L
+12067067,2024-08-20,"Site recommendation method, electronic device, and storage medium",0,G01C|G06F
+12061611,2024-08-13,"Search method, apparatus, electronic device, storage medium and program product",0,G06F|G06N|Y02D
+12056582,2024-08-06,Method and device for training a model based on federated learning,0,G06F|G06N|H04L
+12056492,2024-08-06,"Method and apparatus for generating dependence graph, device, storage medium and program product",0,G06F
+12051142,2024-07-30,"Meme package generation method, electronic device, and medium",0,G06F|G06T|G06V|H04L|H04N
+12050634,2024-07-30,"Method and apparatus for distributing content across platforms, device and storage medium",0,G06F
+12039967,2024-07-16,"Method for evaluating satisfaction with voice interaction, device, and storage medium",0,G06Q|G10L
+12039864,2024-07-16,"Method of recognizing illegal parking of vehicle, device and storage medium",0,G06T|G06V|G08G|H04N|Y02T
+12038989,2024-07-16,"Methods for community search, method for training community search model, and electronic device",0,G06F|G06N|G06Q
+12038982,2024-07-16,"Method of extracting table information, electronic device, and storage medium",1,G06F
+12038955,2024-07-16,"Method for generating query statement, electronic device and storage medium",0,G06F|Y02D
+12034820,2024-07-09,"Fusing and degradation method and apparatus for micro-service, device, and medium",0,G06F|H04L
+12033615,2024-07-09,"Method and apparatus for recognizing speech, electronic device and storage medium",0,G06F|G10L
+12033256,2024-07-09,"Map data processing method, electronic device and storage medium",0,G01C|G06F|G06T
+12032998,2024-07-09,"Resource synchronization method, electronic device and storage medium preliminary class",0,G06F|H04L
+12032906,2024-07-09,"Method, apparatus and device for quality control and storage medium",0,G06F|G06N|G16H|Y02P
+12032477,2024-07-09,Method and apparatus for generating and applying deep learning model based on deep learning framework,0,G06F|G06N
+12030484,2024-07-09,"Driving control method and apparatus, device, medium, and system",0,B60W|G01C|G07C|G08G|H04L
+12026966,2024-07-02,"Method for recognizing dialogue intention, electronic device and storage medium",0,G06F|G06V|G10L
+12026937,2024-07-02,"Method for generating classification model, electronic device, and medium",0,G06F|G06N|G06V
+12026864,2024-07-02,"Method and apparatus for detecting a status of a lens, electronic device and medium",0,G06T|G06V
+12026547,2024-07-02,"Method and system for arranging business process, computing device, and non-transitory computer readable storage medium",0,G06F|G06Q|G16Y|H04L
+12026541,2024-07-02,"Method for applet page rendering, electronic device and storage medium",0,G06F
+12026230,2024-07-02,"One-stage object detecting model training method, electrical device and storage medium",0,G06F|G06V
+12025459,2024-07-02,"Methods and apparatuses for navigation guidance and establishing a three-dimensional real scene model, device and medium",0,G01C|G06T
+12025443,2024-07-02,"Method and apparatus for identifying updated road, device and computer storage medium",0,G01C|G06F|G06N|G06V
+12020467,2024-06-25,"Method and apparatus for optimizing tag of point of interest, electronic device and computer readable medium",0,G01C|G06F|G06N|G06V|Y02D
+12019990,2024-06-25,Representation learning method and device based on natural language and knowledge graph,0,G06F|G06N
+12019592,2024-06-25,"File moving method, electronic device, and medium",0,G06F|H04L
+12014170,2024-06-18,"Mini program batch processing method and apparatus, electronic device, and readable storage medium",0,G06F
+12007965,2024-06-11,"Method, device and storage medium for deduplicating entity nodes in graph database",0,G06F
+12001659,2024-06-04,"Method of generating note, electronic device and storage medium",0,G06F
+11996084,2024-05-28,"Speech synthesis method and apparatus, device and computer storage medium",0,G06F|G10L
+11995560,2024-05-28,Method and apparatus for generating vector representation of knowledge graph,0,G06F|G06N
+11995405,2024-05-28,"Multi-lingual model training method, apparatus, electronic device and readable storage medium",0,G06F|G06N|Y02D
+11995154,2024-05-28,"Method of determining state of target object, electronic device, and storage medium",0,G06F|G06V|G08G
+11995117,2024-05-28,"Theme classification method based on multimodality, device, and storage medium",0,G06F
+11989962,2024-05-21,"Method, apparatus, device, storage medium and program product of performing text matching",0,G06F|G06V
+11989516,2024-05-21,"Method and apparatus for acquiring pre-trained model, electronic device and storage medium",0,G06F|G06N
+11985072,2024-05-14,"Multimedia data stream processing method, electronic device, and storage medium",0,H04L|H04N
+11984120,2024-05-14,"Voice control method for applet and device, and storage medium",0,G06F|G10L
+11983849,2024-05-14,"Image filling method and apparatus, device, and storage medium",1,G06F|G06T|G06V
+11983086,2024-05-14,"Method for processing data, and electronic device, storage medium and program product",0,G06F|G06N
+11978153,2024-05-07,"Method for determining visible angle of target object, electronic device, and storage medium",0,G01C|G06F|G06T
+11977850,2024-05-07,"Method for dialogue processing, electronic device and storage medium",0,G06F|G10L
+11977574,2024-05-07,Method and apparatus for acquiring POI state information,0,G06F
+11977567,2024-05-07,"Method of retrieving query, electronic device and medium",0,G06F
+11976935,2024-05-07,"Route recommendation method, electronic device, and storage medium",0,G01C|G06F|G06N|G06Q
+11972219,2024-04-30,"Intent recognition optimization processing method, apparatus, and storage medium",0,G06F|G06N|G06Q
+11954522,2024-04-09,"Method for processing tasks in parallel, device and storage medium",0,G06F|G06N|Y02D
+11954449,2024-04-09,"Method for generating conversation reply information using a set of historical conversations, electronic device, and storage medium",0,G06F|G06N|G10L|Y02D
+11954084,2024-04-09,"Method and apparatus for processing table, device, and storage medium",0,G06F|Y02D
+11954011,2024-04-09,Apparatus and method for executing customized artificial intelligence production line,0,G06F
+11953605,2024-04-09,"Method, device, equipment, and storage medium for determining sensor solution",0,G01S|G05D|G06F|G08G
+11951976,2024-04-09,"Method for automated parking, device, and storage medium",0,B60W|B62D|G06T
+11948236,2024-04-02,"Method and apparatus for generating animation, electronic device, and computer readable medium",0,G06F|G06T|G06V|G10L
+11947842,2024-04-02,"Method for writing data in append mode, device and storage medium",0,G06F
+11947552,2024-04-02,"Method for discovering causality from data, electronic device and storage medium",0,G06F|G06N
+11941055,2024-03-26,"Method and apparatus for graph computing, electronic device and storage medium",0,G06F|Y02D
+11940803,2024-03-26,"Method, apparatus and computer storage medium for training trajectory planning model",0,B60W|G01C|G05D|G06N|G06V
+11934449,2024-03-19,"Method and apparatus for processing map information, and storage medium",0,G01C|G06F|G06V|H04W
+11933921,2024-03-19,Method and system for processing obstacle detection result of ultrasonic sensor array,0,G01S|G06N
+11930307,2024-03-12,"Image processing method and apparatus, electronic device and computer-readable storage medium",0,G06T|H04N
+11929100,2024-03-12,"Video generation method, apparatus, electronic device, storage medium and program product",0,G06F|G06V|G10L|G11B
+11928563,2024-03-12,"Model training, image processing method, device, storage medium, and program product",0,G06F|G06N|G06V
+11928435,2024-03-12,"Event extraction method, event extraction device, and electronic device",0,G06F|G06N|Y02D
+11928434,2024-03-12,"Method for text generation, device and storage medium",0,G06F|G06N
+11928432,2024-03-12,"Multi-modal pre-training model acquisition method, electronic device and storage medium",0,G06F|G06N|G06V
+11921276,2024-03-05,"Method and apparatus for evaluating image relative definition, device and medium",0,G02B|G06F|G06V
+11915484,2024-02-27,Method and apparatus for generating target re-recognition model and re-recognizing target,0,G06F|G06N|G06V
+11915466,2024-02-27,"Method and apparatus for determining target anchor, device and storage medium",0,G06N|G06T|G06V
+11915439,2024-02-27,"Method and apparatus of training depth estimation network, and method and apparatus of estimating depth of image",0,G06N|G06T
+11914964,2024-02-27,"Method and apparatus for training semantic representation model, device and computer storage medium",0,G06F|G06N
+11909886,2024-02-20,"Method, apparatus for blockchain-based multi-party computation, device and medium",0,G06F|H04L
+11908219,2024-02-20,"Method and device for processing information, electronic device, and storage medium",0,G06F|G06N|G06V
+11907671,2024-02-20,"Role labeling method, electronic device and storage medium",0,G06F
+11907668,2024-02-20,"Method for selecting annotated sample, apparatus, electronic device and storage medium",0,G06F
+11902346,2024-02-13,"Method and apparatus for processing streaming media service, electronic device, and storage medium",0,G06V|H04L|H04N
+11900918,2024-02-13,Method for training a linguistic model and electronic device,0,G06F|G10L
+11900269,2024-02-13,"Method and apparatus for managing knowledge base, device and medium",0,G06F|G06N
+11899710,2024-02-13,"Image recognition method, electronic device and storage medium",0,G06F|G06N|G06V
+11899699,2024-02-13,"Keyword generating method, apparatus, device and storage medium",0,G06F
+11893988,2024-02-06,"Speech control method, electronic device, and storage medium",1,G06F|G10L|Y02D
+11893708,2024-02-06,"Image processing method and apparatus, device, and storage medium",0,G06F|G06N|G06T|G06V
+11893685,2024-02-06,"Landform map building method and apparatus, electronic device and readable storage medium",0,G06T|G06V
+11893081,2024-02-06,Map display method and apparatus,0,G06F|G06T|G06V
+11893073,2024-02-06,"Method and apparatus for displaying map points of interest, and electronic device",0,G01C|G06F|G06N|G06Q
+11887388,2024-01-30,"Object pose obtaining method, and electronic device",0,G06N|G06T|G06V
+11887376,2024-01-30,"Method and apparatus of estimating road condition, and method and apparatus of establishing road condition estimation model",0,B60R|G06F|G06N|G06Q|G06V|G08G
+11881050,2024-01-23,"Method for detecting face synthetic image, electronic device, and storage medium",0,G06F|G06N|G06T|G06V
+11881044,2024-01-23,"Method and apparatus for processing image, device and storage medium",0,G06F|G06N|G06T|G06V
+11880397,2024-01-23,"Event argument extraction method, event argument extraction apparatus and electronic device",1,G06F|G06N|G06V|Y02D
+11880341,2024-01-23,"Container image processing method and apparatus, and non-transitory computer-readable storage medium",0,G06F|Y02D
+11875601,2024-01-16,"Meme generation method, electronic device and storage medium",0,G06F|G06T|G06V
+11875584,2024-01-16,"Method for training a font generation model, method for establishing a font library, and device",0,G06N|G06T|G06V
+11875535,2024-01-16,"Method, apparatus, electronic device and computer readable medium for calibrating external parameter of camera",0,G06T
+11867801,2024-01-09,"Vehicle information detection method, method for training detection model, electronic device and storage medium",0,G01S|G06F|G06N|G06T|G06V
+11866064,2024-01-09,Method and apparatus for processing map data,0,B60W|G01C|G01S|G06T
+11863842,2024-01-02,"Method and apparatus for processing audio and video, electronic device and storage medium",0,H04N
+11863630,2024-01-02,"Connection establishment method, server, accessed node, access node, and storage medium",0,H04L
+11861919,2024-01-02,"Text recognition method and device, and electronic device",0,G06N|G06V
+11861498,2024-01-02,Method and apparatus for compressing neural network model,0,G06N
+11860838,2024-01-02,"Data labeling method, apparatus and system, and computer-readable storage medium",0,G06F
+11860749,2024-01-02,Method and apparatus for sending debugging instruction,0,G06F|H04L|H04W
+11859998,2024-01-02,"Map data updating method, apparatus, device, and readable storage medium",0,G01C|G06F|G06N|G06V|G08G|G09B
+11856277,2023-12-26,"Method and apparatus for processing video, electronic device, medium and product",0,G06F|G06N|G06V|H04N
+11854283,2023-12-26,"Method and apparatus for visual question answering, computer device and medium",0,G06F|G06N|G06T|G06V
+11854246,2023-12-26,"Method, apparatus, device and storage medium for recognizing bill image",0,G06N|G06V
+11854237,2023-12-26,"Human body identification method, electronic device and storage medium",0,G06F|G06V
+11854118,2023-12-26,"Method for training generative network, method for generating near-infrared image and device",0,G06F|G06N|G06T|G06V|Y02T
+11852751,2023-12-26,"Method, apparatus, computing device and computer-readable storage medium for positioning",0,G01C|G01S|G06F
+11849164,2023-12-19,"Method for detecting live streaming jitter, device, and medium",0,H04L|H04N
+11847164,2023-12-19,"Method, electronic device and storage medium for generating information",1,G06F|G06N|G06V
+11847150,2023-12-19,"Method and apparatus for training retrieval model, device and computer storage medium",0,G06F|G06N|Y02D
+11842457,2023-12-12,"Method for processing slider for virtual character, electronic device, and storage medium",0,G06F|G06T
+11842148,2023-12-12,"Method for training reading comprehension model, electronic device, and storage medium",0,G06F|G06N
+11841921,2023-12-12,"Model training method and apparatus, and prediction method and apparatus",0,G06F|G06N|G06T|G06V
+11838294,2023-12-05,"Method for identifying user, storage medium, and electronic device",0,G06F|G06Q|H04L
+11836996,2023-12-05,Method and apparatus for recognizing text,1,G06F|G06V
+11836837,2023-12-05,"Video generation method, device and storage medium",0,G06N|G06T|G10L
+11836836,2023-12-05,"Methods and apparatuses for generating model and generating 3D animation, devices and storage mediums",0,G06N|G06T|G10L
+11836222,2023-12-05,"Method and apparatus for optimizing recommendation system, device and computer storage medium",0,G06F|G06N|G06Q
+11836186,2023-12-05,"Method and apparatus for retrieving image, device, and medium",0,G06F|G06N|G06V|Y02D
+11836065,2023-12-05,Method and apparatus for testing stress based on cloud service,0,G06F|H04L|Y02A
+11831598,2023-11-28,"Method, apparatus and system for switching virtual IP",0,H04L
+11830288,2023-11-28,Method and apparatus for training face fusion model and electronic device,0,G06F|G06N|G06T|G06V
+11830242,2023-11-28,"Method for generating a license plate defacement classification model, license plate defacement classification method, electronic device and storage medium",0,G06F|G06N|G06V
+11830236,2023-11-28,"Method and device for generating avatar, electronic equipment, medium and product",0,G06T|G06V
+11830224,2023-11-28,"Page displaying method and apparatus, electronic device and storage medium",0,G06T|G09G
+11830207,2023-11-28,"Method, apparatus, electronic device and readable storage medium for point cloud data processing",0,G06F|G06N|G06T|G06V
+11829447,2023-11-28,"Resident area prediction method, apparatus, device, and storage medium",0,G06F|G06N
+11828606,2023-11-28,Method and apparatus for updating point cloud,0,G01C|G01S|G06T|G06V
+11827224,2023-11-28,"Vehicle control method and apparatus, vehicle, and storage medium",0,B60Q|B60W|G06F|G06V|G08G
+11827202,2023-11-28,"Method and apparatus for simulating vehicle, and medium",0,B60W|G06F|Y02T
+11824714,2023-11-21,"Method and apparatus for updating an edge node, device, medium and program product",0,H04L
+11823660,2023-11-21,"Method, apparatus and device for training network and storage medium",0,G06F|G06N|G10L
+11823437,2023-11-21,"Target detection and model training method and apparatus, device and storage medium",0,G06T|G06V
+11823335,2023-11-21,"Tour guiding method, electronic device and storage medium",0,G06Q|G06T|G06V|H04N|H04W
+11823306,2023-11-21,"Virtual image generation method and apparatus, electronic device and storage medium",0,G06T|G06V
+11822581,2023-11-21,Region information processing method and apparatus,0,G06F
+11822568,2023-11-21,"Data processing method, electronic equipment and storage medium",0,G06F|G06N|Y02D
+11816915,2023-11-14,"Human body three-dimensional key point detection method, model training method and related devices",0,G06F|G06T|G06V
+11816847,2023-11-14,"Method and apparatus for prompting motion, electronic device and storage medium",0,G06F|G06N|G06T|G06V
+11816443,2023-11-14,"Method, device, and storage medium for generating response",0,G06F
+11814077,2023-11-14,Method and apparatus for storing autonomous driving test data and electronic device,0,B60W|G06F|G07C
+11810384,2023-11-07,Method and apparatus for recognizing text content and electronic device,0,G06F|G06V
+11810319,2023-11-07,"Image detection method, device, storage medium and computer program product",0,G06T|G06V
+11810310,2023-11-07,"Satellite image processing method, network training method, related devices and electronic device",0,G06N|G06T
+11809505,2023-11-07,"Method for pushing information, electronic device",0,G06F|G06N|Y02D
+11804069,2023-10-31,"Image clustering method and apparatus, and storage medium",0,G06F|G06N|G06V
+11802776,2023-10-31,"Cross-regional travel recommendation method and apparatus, electronic device and storage medium",0,G01C|G06Q
+11799961,2023-10-24,"File directory traversal method, apparatus, device, and medium",0,G06F|H04L
+11798193,2023-10-24,Multi-dimensional image detection on at least two acquired images,0,G06F|G06N|G06T|G06V
+11797607,2023-10-24,"Method and apparatus for constructing quality evaluation model, device and storage medium",0,G06F|G06T|G06V|Y02P
+11792407,2023-10-17,"Method and device for coding video using optimal video frame structure, and storage medium",0,H04N
+11790553,2023-10-17,"Method and apparatus for detecting target object, electronic device and storage medium",1,G06N|G06T|G06V
+11789997,2023-10-17,"Image recognition method and apparatus, electronic device, and medium",0,G06F|G06V
+11789985,2023-10-17,"Method for determining competitive relation of points of interest, device",0,G06F|Y02D
+11789455,2023-10-17,Control of autonomous vehicle based on fusion of pose information and visual data,0,B60W|G01C|G05D|G06F|G06V|Y02T
+11788857,2023-10-17,Route processing method and apparatus,0,G01C|G06F
+11784946,2023-10-10,Method for improving data flow and access for a neural network processor,0,G06F|G06N|H04L
+11784830,2023-10-10,"Method for sending certificate, method for receiving certificate, cloud and terminal device",0,G06F|H04L
+11783570,2023-10-10,Method and apparatus for determining road information data and computer storage medium,0,B60W|G06N|G06V
+11783565,2023-10-10,"Image processing method, electronic device and readable storage medium for maintaining a face image buffer queue",0,G06F|G06V
+11783501,2023-10-10,"Method and apparatus for determining image depth information, electronic device, and media",0,G06T
+11783227,2023-10-10,"Method, apparatus, device and readable medium for transfer learning in machine learning",1,G05B|G06F|G06N
+11782999,2023-10-10,"Method for training fusion ordering model, search ordering method, electronic device and storage medium",0,G06F|G06N|G06Q
+11782981,2023-10-10,"Method, apparatus, server, and storage medium for incorporating structured entity",1,G06F|G06N
+11782722,2023-10-10,Input and output interfaces for transmitting complex computing information between AI processors and computing components of a special function unit,0,G06F|Y02D
+11776231,2023-10-03,"Method and apparatus for displaying covering, and storage medium",0,G06T
+11776155,2023-10-03,Method and apparatus for detecting target object in image,0,G06F|G06N|G06T|G06V
+11775845,2023-10-03,"Character recognition method and apparatus, electronic device and computer readable storage medium",0,G06F|G06N|G06V|Y02D
+11775776,2023-10-03,Method and apparatus for processing information,0,G06F|G06N|Y02D
+11775766,2023-10-03,Method and apparatus for improving model based on pre-trained semantic model,0,G06F|G06N
+11775761,2023-10-03,Method and apparatus for mining entity focus in text,0,G06F|G06N
+11775574,2023-10-03,"Method and apparatus for visual question answering, computer device and medium",0,G06F|G06N|G06V
+11775309,2023-10-03,"Exception stack handling method, system, electronic device and storage medium",0,G06F
+11769480,2023-09-26,"Method and apparatus for training model, method and apparatus for synthesizing speech, device and storage medium",0,G06N|G10L
+11769069,2023-09-26,"Superconducting circuit structure, superconducting quantum chip and superconducting quantum computer",1,G06F|G06N|H03K
+11768876,2023-09-26,"Method and device for visual question answering, computer apparatus and medium",1,G06F|G06N|G06V
+11768873,2023-09-26,"Method, apparatus, electronic device and readable storage medium for classifying video",0,G06F|G06N|G06V
+11763552,2023-09-19,"Method for detecting surface defect, method for training model, apparatus, device, and media",1,G06F|G06N|G06T|G06V|Y02P
+11762697,2023-09-19,Method and apparatus for scheduling resource for deep learning framework,0,G06F|G06N|G06V
+11761788,2023-09-19,"Method and apparatus for generating offline map, electronic device and storage medium",0,B60W|G01C|G05D|G06F|G06T
+11756529,2023-09-12,"Method and apparatus for speech recognition, and storage medium",0,G06F|G10L
+11756332,2023-09-12,"Image recognition method, apparatus, device, and computer storage medium",0,G06F|G06N|G06V
+11756170,2023-09-12,Method and apparatus for correcting distorted document image,0,G06N|G06T
+11755677,2023-09-12,"Data mining method, data mining apparatus, electronic device and storage medium",0,G06F|Y02D
+11755654,2023-09-12,"Category tag mining method, electronic device and non-transitory computer-readable storage medium",0,G06F|G06N|Y02D
+11755567,2023-09-12,"Blockchain-based data verification method and apparatus, device, and storage medium",1,G06F|H04L
+11751161,2023-09-05,"Terminal device locating method, terminal device, system and server",0,H04L|H04W
+11750541,2023-09-05,"Method for transmitting live message, apparatus, electronic device and medium",0,H04L|H04N|Y02D
+11748986,2023-09-05,"Method and apparatus for recognizing key identifier in video, device and storage medium",0,G06F|G06V
+11748895,2023-09-05,Method and apparatus for processing video frame,0,G06F|G06N|G06T|G06V
+11748661,2023-09-05,Training method and apparatus for a distributed machine learning model and medium,0,G06N|H04L
+11748449,2023-09-05,"Data processing method, data processing apparatus, electronic device and storage medium",0,G06F|G06N|G06T|G06V
+11748340,2023-09-05,"Data pair generating method, apparatus, electronic device and storage medium",0,G06F|G06N
+11748108,2023-09-05,"Instruction executing method and apparatus, electronic device, and computer-readable storage medium",1,G06F
+11748099,2023-09-05,"Method for executing instructions, device, and computer readable storage medium",0,G06F
+11743154,2023-08-29,"Method and apparatus for processing network usage of a cloud product, device, storage medium and product",1,H04L
+11741726,2023-08-29,"Lane line detection method, electronic device, and computer storage medium",1,G06F|G06T|G06V|G08G|H04W
+11741713,2023-08-29,"Method of detecting action, electronic device, and storage medium",0,G06F|G06N|G06V|G10L|H04N
+11741684,2023-08-29,"Image processing method, electronic device and storage medium for performing skin color recognition on a face image",0,G06T|G06V
+11741046,2023-08-29,Method and apparatus for creating system disk snapshot of virtual machine,0,G06F
+11740997,2023-08-29,Method and apparatus for debugging a device,0,G06F
+11735315,2023-08-22,"Method, apparatus, and device for fusing features applied to small target detection, and storage medium",1,G06F|G06N|G06V|G16H
+11735168,2023-08-22,Method and apparatus for recognizing voice,0,G01S|G06N|G10L
+11734809,2023-08-22,Method and apparatus for processing image,0,G06N|G06T
+11734455,2023-08-22,"Blockchain-based data processing method and apparatus, device, and storage medium",1,G06F
+11734454,2023-08-22,"Method for providing applet service capability, electronic device, and storage medium",0,G06F|H04L
+11734392,2023-08-22,"Active interaction method, electronic device and readable storage medium",0,G06F|G06T|G06V|Y02D
+11734076,2023-08-22,Method and apparatus for traversing graph database based on allocation of threads to operators,0,G06F
+11734057,2023-08-22,Method and apparatus for processing a service of an abnormal server,0,G06F
+11727676,2023-08-15,"Feature fusion method and apparatus for image processing, electronic device and storage medium",0,G06F|G06N|G06T|G06V|Y02D
+11727302,2023-08-15,"Method and apparatus for building a conversation understanding system based on artificial intelligence, device and computer-readable storage medium",0,G06F|G06N
+11727216,2023-08-15,"Method, apparatus, device, and storage medium for linking entity",1,G06F|G06N
+11721037,2023-08-08,"Indoor positioning method and apparatus, electronic device and storage medium",1,G06T
+11718306,2023-08-08,"Method and apparatus for acquiring sample deviation data, and electronic device",0,B60W|G06F|G06N
+11715259,2023-08-01,"Method and apparatus for generating virtual avatar, device and storage medium",0,G06T|G06V
+11714840,2023-08-01,Method and apparatus for information query and storage medium,0,G06F|G10L|Y02D
+11714816,2023-08-01,"Information search method and apparatus, device and storage medium",0,G06F|Y02D
+11714534,2023-08-01,"Map displaying method, electronic device, storage medium and terminal device",0,G01C|G06F
+11713970,2023-08-01,"Positioning method, electronic device and computer readable storage medium",0,G01C|G01S|G06N|G06T|G06V
+11711285,2023-07-25,"Method, apparatus, electronic device and readable storage medium for adjusting instance number",0,G06F|H04L
+11710215,2023-07-25,"Face super-resolution realization method and apparatus, electronic device and storage medium",0,G06N|G06T|G06V
+11709894,2023-07-25,Task processing method and distributed computing framework,0,G06F
+11709893,2023-07-25,"Search method, electronic device and storage medium",0,G06F|G06N
+11709853,2023-07-25,"Database-based management method, platform, electronic device and storage medium",0,G06F
+11709767,2023-07-25,Method and apparatus for verifying operation state of application,0,G06F|Y02D
+11704896,2023-07-18,"Method, apparatus, device and storage medium for image processing",0,G06F|G06V
+11704811,2023-07-18,"Method and apparatus for generating background-free image, device, and medium",0,G06T
+11704498,2023-07-18,"Method and apparatus for training models in machine translation, electronic device and storage medium",0,G06F
+11704492,2023-07-18,"Method, electronic device, and storage medium for entity linking by determining a linking probability based on splicing of embedding vectors of a target and a reference text",0,G06F|G06N
+11704326,2023-07-18,"Generalization processing method, apparatus, device and computer storage medium",0,G06F|G06N
+11704157,2023-07-18,Method and apparatus for comparing acquired cloud resource use information to thresholds to recommend a target cloud resource instance,0,G06F|H04L
+11700417,2023-07-11,Method and apparatus for processing video,0,G06T|H04N
+11700373,2023-07-11,Method for coding video and related device,0,H04N
+11698823,2023-07-11,"Application interface implementation method in a host platform layer, device, and medium",0,G06F|H04L
+11698262,2023-07-11,"Method and apparatus for generating route planning model, and storage medium",1,B60W|B62D|G01C|G06N
+11698261,2023-07-11,"Method, apparatus, computer device and storage medium for determining POI alias",1,G01C|G06F|G06N
+11694461,2023-07-04,"Optical character recognition method and apparatus, electronic device and storage medium",0,G06F|G06N|G06V
+11694436,2023-07-04,"Vehicle re-identification method, apparatus, device and storage medium",0,G06N|G06T|G06V|G08G|Y02T
+11694405,2023-07-04,"Method for displaying annotation information, electronic device and storage medium",0,G06T|G06V
+11693764,2023-07-04,"Method, apparatus, device and storage medium for map retrieval test",0,G06F|Y02D
+11693624,2023-07-04,AI capability research and development platform and data processing method,0,G06F|G06N
+11689630,2023-06-27,"Request processing method and apparatus, electronic device, and computer storage medium",0,G06F|H04L
+11689564,2023-06-27,Method and apparatus for processing data in cleaning device,0,H04L
+11687819,2023-06-27,"High-fidelity superconducting circuit structure, superconducting quantum chip, and superconducting quantum computer",1,G06N|H10N
+11687779,2023-06-27,"Image recognition method and apparatus, device, and computer storage medium",0,G06F|G06N|G06V
+11687735,2023-06-27,"Method, apparatus, device and storage medium for outputting information",0,G06F
+11687718,2023-06-27,"Method, apparatus, device, and storage medium for learning knowledge representation",0,G06F|G06N
+11687715,2023-06-27,Summary generation method and apparatus,0,G06F
+11687704,2023-06-27,"Method, apparatus and electronic device for annotating information of structured document",0,G06F|G06V
+11683656,2023-06-20,Recommendation of region of interest,0,G06Q|H04W
+11683557,2023-06-20,"Method for playing MP4 online, device, and storage medium",0,H04L|H04N
+11682014,2023-06-20,"Method and apparatus for operating blockchain system, device and storage medium",0,G06Q|H04L
+11681875,2023-06-20,"Method for image text recognition, apparatus, device and storage medium",0,G06F|G06V
+11681728,2023-06-20,Event display method and device,0,G06F|G06Q
+11681444,2023-06-20,"Shingled magnetic disk management method for data isolation by space files, apparatus, and electronic device",0,G06F|Y02D
+11676257,2023-06-13,"Method and device for detecting defect of meal box, server, and storage medium",0,B65B|G06N|G06T
+11675983,2023-06-13,Implementing text generation,2,G06F|G06N
+11675649,2023-06-13,"Fault prediction method, apparatus and storage medium",0,G06F|Y04S
+11671678,2023-06-06,"Method and device, equipment, and storage medium for data processing",0,H04N
+11670029,2023-06-06,Method and apparatus for processing character image data,0,G06F|G06N|G06T|G06V
+11669990,2023-06-06,"Object area measurement method, electronic device and storage medium",0,G06F|G06T|G06V
+11669690,2023-06-06,"Method and apparatus for processing sematic description of text entity, and storage medium",1,G06F|G06N|Y02D
+11669672,2023-06-06,"Regression test method, electronic device and storage medium",0,G06F
+11668831,2023-06-06,High-precision mapping method and device,1,G01S|G06T|G06V
+11668076,2023-06-06,Method and apparatus for controlling excavator to excavate,0,E02F|G06T
+11663404,2023-05-30,"Text recognition method, electronic device, and storage medium",3,G06F|G06N
+11663269,2023-05-30,"Error correction method and apparatus, and computer readable medium",0,G06F|G06N
+11663258,2023-05-30,Method and apparatus for processing dataset,0,G06F|G06N|G06V
+11663248,2023-05-30,Method and apparatus for processing consultation information,0,G06F|G06Q
+11663037,2023-05-30,"Service information processing method, apparatus, device and computer storage medium",0,G06F|H04L
+11659325,2023-05-23,Method and system for performing voice processing,0,G06F|H04R
+11659181,2023-05-23,Method and apparatus for determining region of interest,0,G06F|G06T|G06V|H04N
+11657612,2023-05-23,Method and apparatus for identifying video,0,G06F|G06V
+11657550,2023-05-23,"Method for generating electronic report, electronic device, and storage medium",0,G06F|G06Q|G06T
+11657091,2023-05-23,"Method and apparatus for querying shortest path of graph, and storage medium",0,G06F
+11651198,2023-05-16,Data processing method and apparatus for neural network,0,G06F|G06N
+11651164,2023-05-16,"Method, device, equipment, and storage medium for mining topic concept",0,G06F|Y02D
+11651002,2023-05-16,"Method for providing intelligent service, intelligent service system and intelligent terminal based on artificial intelligence",0,G06F|G06N
+11646050,2023-05-09,Method and apparatus for extracting video clip,0,G06F|G06N|G06V|G10L
+11645909,2023-05-09,"Method, apparatus and electronic device for early-warning",1,G08G|H04W
+11645801,2023-05-09,"Method for synthesizing figure of virtual object, electronic device, and storage medium",0,A63F|G06T|G06V
+11645554,2023-05-09,"Method and apparatus for recognizing a low-quality article based on artificial intelligence, device and medium",0,G06N|Y02D
+11645547,2023-05-09,Human-machine interactive method and device based on artificial intelligence,4,G06F|G06N
+11645316,2023-05-09,"Question answering method and language model training method, apparatus, device, and storage medium",1,G06F|G06N|Y02D
+11645179,2023-05-09,"Method and apparatus of monitoring interface performance of distributed application, device and storage medium",0,G06F
+11641446,2023-05-02,"Method for video frame interpolation, and electronic device",0,G06N|G06T|H04N
+11640551,2023-05-02,Method and apparatus for recommending sample data,0,G06F|G06N
+11640550,2023-05-02,Method and apparatus for updating deep learning model,1,G06F|G06N
+11640474,2023-05-02,Method and apparatus for operating database,2,G06F
+11640319,2023-05-02,"Task processing method and apparatus, electronic device and storage medium",0,G06F
+11637986,2023-04-25,"Method and apparatus for interpolating frame to video, and electronic device",0,G06T|H04N
+11636936,2023-04-25,Method and apparatus for verifying medical fact,0,G06F|G06N|G16H
+11636699,2023-04-25,"Method and apparatus for recognizing table, device, medium",1,G06N|G06V
+11636646,2023-04-25,Method and apparatus for rendering image,0,G06T|Y02B
+11635892,2023-04-25,"Method for displaying virtual keyboard, virtual keyboard and display device",0,G06F|G06T
+11632552,2023-04-18,"Method and apparatus for coding video, device and medium",0,H04N
+11631154,2023-04-18,"Method, apparatus, device and storage medium for transforming hairstyle",0,G06F|G06T|G06V
+11630827,2023-04-18,"Method for recommending chart, electronic device, and storage medium",0,G06F|G06Q|G06V
+11630762,2023-04-18,Method and apparatus for testing map service,0,G01C|G06F|G08G
+11630560,2023-04-18,"Map information display method and apparatus, electronic device, and computer storage medium",0,G01C|G06F|G06N
+11627281,2023-04-11,"Method and apparatus for video frame interpolation, and device and storage medium",0,G06N|G06T|H04N
+11625539,2023-04-11,Extracting trigger words and arguments from text to obtain an event extraction result,0,G06F|G06N|Y02D
+11625433,2023-04-11,"Method and apparatus for searching video segment, device, and medium",0,G06F|G06V
+11625248,2023-04-11,"Operator registration method and apparatus for deep learning framework, device and storage medium",0,G06F|G06N
+11620532,2023-04-04,Method and apparatus for generating neural network,0,G06N
+11620321,2023-04-04,Artificial intelligence based method and apparatus for processing information,0,G06F|G06N
+11615613,2023-03-28,Method and device for extracting spatial relationship of geographic location points,0,G06F|G06T|G06V
+11615605,2023-03-28,"Vehicle information detection method, electronic device and storage medium",0,G06F|G06N|G06T|G06V
+11615524,2023-03-28,"Product defect detection method and apparatus, electronic device and storage medium",0,G01N|G06F|G06N|G06T|G06V|Y02P
+11615242,2023-03-28,"Method and apparatus for structuring data, related computer device and medium",0,G06F|G06N
+11615159,2023-03-28,"Data processing method for mini app, apparatus, device and medium",0,G06F|H04L
+11615140,2023-03-28,"Method and apparatus for detecting temporal action of video, electronic device and storage medium",0,G06F|G06N|G06V
+11612082,2023-03-21,Cooling system,0,F25B|F28D|H01L|H05K|Y02B
+11610401,2023-03-21,Acquiring public opinion and training word viscosity model,0,G06F|G06V|G10L
+11610396,2023-03-21,"Logo picture processing method, apparatus, device and medium",0,G06F|G06N|G06V
+11610389,2023-03-21,"Method and apparatus for positioning key point, device, and storage medium",0,G06N|G06T|G06V
+11610388,2023-03-21,"Method and apparatus for detecting wearing of safety helmet, device and storage medium",0,G06F|G06N|G06T|G06V
+11610367,2023-03-21,"Three-dimensional model processing method, electronic device, and storage medium",0,B33Y|G06N|G06T|Y02D
+11610328,2023-03-21,Method and apparatus for identifying item,0,G06N|G06T|G06V
+11604774,2023-03-14,"Method and apparatus of converting schema in deep learning framework, and computer storage medium",0,G06F|G06N
+11604766,2023-03-14,"Method, apparatus, device, storage medium and computer program product for labeling data",0,G06F|G06N
+11601378,2023-03-07,"Method and apparatus for allocating server resource, electronic device and storage medium",0,G06F|H04L
+11600069,2023-03-07,"Method and apparatus for detecting temporal action of video, electronic device and storage medium",0,G06F|G06V
+11600057,2023-03-07,"Method for processing multimodal images, apparatus, device and storage medium",0,G06F|G06T|G06V
+11599825,2023-03-07,"Method and apparatus for training trajectory classification model, and electronic device",0,G05D|G06F|G06N|G06T
+11599743,2023-03-07,"Method and apparatus for obtaining product training images, and non-transitory computer-readable storage medium",0,G06F|G06V
+11599594,2023-03-07,"Method, apparatus, electronic device and storage medium for data processing",0,G06F
+11594465,2023-02-28,Chip package and electronic device,0,H01L
+11593964,2023-02-28,Methods and apparatuses for outputting information and calibrating camera,0,G06T|H04N
+11593384,2023-02-28,"Parking lot free parking space predicting method, apparatus, electronic device and storage medium",0,G06F|G06N|G08G|Y02T
+11588654,2023-02-21,"Method and apparatus for operating blockchain system, device and storage medium",0,G06F|H04L
+11587560,2023-02-21,"Voice interaction method, device, apparatus and server",0,G06F|G10L
+11587533,2023-02-21,"Method for displaying point of information of map, device, and readable storage medium",0,G01C|G06F|G09G
+11587338,2023-02-21,"Three-dimensional object detection method, electronic device and readable storage medium",1,G06T|G06V
+11587332,2023-02-21,"Method, apparatus, system, and storage medium for calibrating exterior parameter of on-board camera",1,G06T|G06V|Y02T
+11587300,2023-02-21,"Method and apparatus for generating three-dimensional virtual image, and storage medium",0,G06F|G06N|G06T|G06V
+11582449,2023-02-14,"Method for image encoding, electronic device and storage medium",0,H04N
+11581021,2023-02-14,"Method and apparatus for locating video playing node, device and storage medium",0,G06V|G10L|G11B|H04N
+11580980,2023-02-14,"Method and apparatus for evaluating user intention understanding satisfaction, electronic device and storage medium",0,G06F|G06N|G06Q|G10L
+11580781,2023-02-14,"Method and apparatus for waking up device, electronic device, and storage medium",0,G06F|G06T|G06V
+11580136,2023-02-14,"Method and apparatus of user clustering, computer device and medium",0,G06F|G06Q
+11580124,2023-02-14,Method and apparatus for mining competition relationship POIs,0,G06F|G06N|Y02D
+11580104,2023-02-14,"Method, apparatus, device, and storage medium for intention recommendation",0,G06F|G06N|G06Q
+11574414,2023-02-07,"Edge-based three-dimensional tracking and registration method and apparatus for augmented reality, and storage medium",0,G06T
+11574259,2023-02-07,"Parking lot free parking space predicting method, apparatus, electronic device and storage medium",0,G06F|G06N|G06Q
+11574146,2023-02-07,"Method for updating parameter of model, distributed training system and electric device",0,G06F|G06N
+11574135,2023-02-07,"Method, apparatus, electronic device and readable storage medium for translation",0,G06F
+11574133,2023-02-07,"Method, electronic device, and storage medium for training text generation model",0,G06F|G06N
+11573992,2023-02-07,"Method, electronic device, and storage medium for generating relationship of events",0,G06F|G06N
+11570527,2023-01-31,Method and apparatus for retrieving teleplay content,0,G06F|H04N|Y02D
+11568667,2023-01-31,Display verification method and apparatus for browser,0,G06F|G06V|H04L
+11568593,2023-01-31,"Three-dimensional reconstruction method and apparatus for material pile, electronic device, and computer-readable medium",1,E02F|G06T
+11568590,2023-01-31,"Cartoonlization processing method for image, electronic device, and storage medium",0,G06T|G06V
+11568347,2023-01-31,"Method and apparatus for processing risk-management feature factors, electronic device and storage medium",0,G06F|G06N|G06Q
+11563674,2023-01-24,Content based routing method and apparatus,0,H04L
+11562241,2023-01-24,"Data output method, data acquisition method, device, and electronic apparatus",0,G06F|G06N|H03M
+11562150,2023-01-24,"Language generation method and apparatus, electronic device and storage medium",0,G06F
+11561295,2023-01-24,"Position detecting method, device and storage medium for vehicle ladar",0,G01S|G06T
+11558207,2023-01-17,"Method and apparatus for starting up blockchain system, and non-transitory computer-readable storage medium",0,G06F|H04L
+11557120,2023-01-17,"Video event recognition method, electronic device and storage medium",0,G06F|G06V
+11557062,2023-01-17,Method and apparatus for processing video frame,0,G06T
+11557047,2023-01-17,Method and apparatus for image processing and computer storage medium,0,G06F|G06T|G06V
+11556812,2023-01-17,"Method and device for acquiring data model in knowledge graph, and medium",0,G06F|G06N
+11556715,2023-01-17,"Method for training language model based on various word vectors, device and medium",0,G06F|G06N
+11556333,2023-01-17,"Method and apparatus for processing audio processing chip, and electronic device",0,G06F|Y02D
+11555921,2023-01-17,Method and apparatus for predicting severe convection weather,1,G01S|G01W|G06N|Y02A
+11553048,2023-01-10,"Method and apparatus, computer device and medium",0,G06F|H04L
+11551045,2023-01-10,Artificial intelligence based method and apparatus for processing information,0,G06F|G06N
+11550998,2023-01-10,"Method and apparatus for generating a competition commentary based on artificial intelligence, and storage medium",0,G06F|G06N
+11546577,2023-01-03,Video jitter detection method and apparatus,0,H04L|H04N
+11544927,2023-01-03,"Video type detection method and apparatus based on key frame, and storage medium",0,G06F|G06V
+11544140,2023-01-03,Method and apparatus for generating error reporting content of deep learning framework,0,G06F|G06N|H03M
+11538286,2022-12-27,"Method and apparatus for vehicle damage assessment, electronic device, and computer storage medium",1,G06F|G06N|G06Q|G06V|G07C
+11537798,2022-12-27,Method and apparatus for generating dialogue model,0,G06F
+11537792,2022-12-27,"Pre-training method for sentiment analysis model, and electronic device",0,G06F|G06N
+11537659,2022-12-27,Method for reading and writing data and distributed storage system,0,G06F
+11537441,2022-12-27,"Method and apparatus for balancing loads, and computer-readable storage medium",0,G06F|Y02D
+11532127,2022-12-20,"Virtual object driving method, apparatus, electronic device, and readable storage medium",1,G06F|G06T|G06V
+11531847,2022-12-20,"Data labeling method, apparatus and system",1,G06F
+11531813,2022-12-20,"Method, electronic device and readable storage medium for creating a label marking model",0,G06F|G06N|G10L
+11531529,2022-12-20,Method and electronic device for deploying operator in deep learning framework,2,G06F|G06N
+11526971,2022-12-13,Method for translating image and method for training image translation model,0,G06F|G06T
+11526748,2022-12-13,Method and apparatus for predicting passenger flow,0,G06F|G06N|G06V
+11526668,2022-12-13,"Method and apparatus for obtaining word vectors based on language model, device and storage medium",0,G06F|G06N
+11526657,2022-12-13,"Method and apparatus for error correction of numerical contents in text, and storage medium",0,G06F
+11526545,2022-12-13,"Method of processing cover page image of multimedia information, client and electronic device",0,G06F|G06T|H04N
+11523141,2022-12-06,"Image processing method, apparatus, device and storage medium",0,B60R|G06T|H04N
+11522854,2022-12-06,"IoT device and authentication method thereof, cloud server, processing device and readable medium",0,H04L
+11521603,2022-12-06,Automatically generating conference minutes,0,G06F|G10L|H04L
+11521370,2022-12-06,"Point cloud data processing method, apparatus, electronic device and computer readable storage medium",0,G06T
+11521340,2022-12-06,"Emoticon package generation method and apparatus, device and medium",0,G06F|G06T|G06V
+11521331,2022-12-06,"Method and apparatus for generating position information, device, and medium",0,G01C|G06F|G06T|G06V|Y02T
+11521176,2022-12-06,Service flow system and service data processing method and apparatus,0,G06F|G06Q|H04L
+11521118,2022-12-06,"Method and apparatus for generating training data for VQA system, and medium",0,G06F|G06N|G06V
+11520991,2022-12-06,"Method, apparatus, electronic device and storage medium for processing a semantic representation model",0,G06F
+11520812,2022-12-06,"Method, apparatus, device and medium for determining text relevance",0,G06F|G06N|G06V
+11520567,2022-12-06,"Code reuse processing method, apparatus and electronic device",2,G06F|Y02D
+11520563,2022-12-06,"Apparatus and method for transforming matrix, and data processing system",0,G06F|H03M
+11514676,2022-11-29,"Method and apparatus for detecting region of interest in video, device and medium",0,G06T|G06V
+11514263,2022-11-29,Method and apparatus for processing image,0,G06F|G06N|G06V
+11514063,2022-11-29,"Method and apparatus of recommending information based on fused relationship network, and device and medium",0,G06F|G06N|G06Q
+11509505,2022-11-22,Method and apparatus for operating smart network interface card,1,G06F|H04L
+11509474,2022-11-22,"Method and apparatus for obtaining privacy set intersection, device and storage medium",0,G06F|H04L
+11508162,2022-11-22,Method and apparatus for detecting mobile traffic light,0,G06F|G06V|Y02T
+11508153,2022-11-22,"Method for generating tag of video, electronic device, and storage medium",0,G06F|G06V
+11508044,2022-11-22,"Method for translating image, method for training image translation model",0,G06T
+11507856,2022-11-22,Method and apparatus for updating application,0,G06F|G06N|G06V
+11507751,2022-11-22,"Comment information processing method and apparatus, and medium",0,G06F|G06N
+11507748,2022-11-22,Method and apparatus for outputting information,1,G06F
+11507348,2022-11-22,"Method and apparatus for generating chip-based computing function, device, and storage medium",0,G06F|G06N
+11496376,2022-11-08,"Method and apparatus for processing local hot spot, electronic device and storage medium",0,H04L|H04W
+11494420,2022-11-08,Method and apparatus for generating information,0,G06F
+11490170,2022-11-01,"Method for processing video, electronic device, and storage medium",0,G06F|G06V|H04N
+11490168,2022-11-01,"Method and apparatus for selecting video clip, server and medium",0,H04N
+11490084,2022-11-01,Method and apparatus for adjusting quantization parameter for adaptive quantization,0,H04N
+11488603,2022-11-01,Method and apparatus for processing speech,0,G06F|G10L
+11488578,2022-11-01,"Method and apparatus for training speech spectrum generation model, and electronic device",0,G06N|G10L
+11488294,2022-11-01,"Method for detecting display screen quality, apparatus, electronic device and storage medium",2,G02F|G06N|G06T
+11487773,2022-11-01,"Query method, apparatus, electronic device and storage medium",0,G06F
+11487491,2022-11-01,"Screen projection method and apparatus, and storage medium",0,G06F|G06Q|G09G
+11485376,2022-11-01,"Automatic driving processing system, system on chip and method for monitoring processing module",0,B60W|G06F
+11483382,2022-10-25,"Method, apparatus and system for transmitting data",0,H04L
+11482023,2022-10-25,"Method and apparatus for detecting text regions in image, device, and medium",0,G06N|G06V
+11481994,2022-10-25,"Method and apparatus for extracting image data in parallel from multiple convolution windows, device, and computer-readable storage medium",0,G06F|G06N|G06V
+11481927,2022-10-25,Method and apparatus for determining text color,0,G06T|G06V
+11481872,2022-10-25,Method and device for loading image,1,G06T
+11481656,2022-10-25,"Method and apparatus for evaluating a matching degree of multi-domain information based on artificial intelligence, device and medium",0,G06F|G06N
+11481572,2022-10-25,"Method and apparatus for evaluating article value based on artificial intelligence, and storage medium",1,G06F|G06V
+11481419,2022-10-25,"Method and apparatus for evaluating matching degree based on artificial intelligence, device and storage medium",0,G06F|G06N|G06V
+11475588,2022-10-18,"Image processing method and device for processing image, server and storage medium",1,G06T|G06V
+11475383,2022-10-18,"Operation defense method and device, apparatus, and computer-readable storage medium",0,G06F|G06Q
+11475055,2022-10-18,Artificial intelligence based method and apparatus for determining regional information,0,G06F|G06N
+11474856,2022-10-18,Method and apparatus for generating information,0,G06F
+11474712,2022-10-18,"Method, apparatus, device and storage medium for managing access request",0,G06F
+11470336,2022-10-11,Method for transcoding video and related electronic device,0,H04N
+11470167,2022-10-11,Method and apparatus for generating information,0,G06F|G06Q|H04L
+11470043,2022-10-11,"Anti-cracking method and system for a cloud host, as well as terminal device",0,H04L
+11470027,2022-10-11,"Method, apparatus, electronic device and storage medium for broadcasting voice",0,G06F|G06Q|G10L|H04L|H04M|H04W
+11469975,2022-10-11,"Filter debugging method, device, electronic apparatus and readable storage medium",0,G06F|H01P|H04L|H04W
+11468655,2022-10-11,"Method and apparatus for extracting information, device and storage medium",0,G06F|G06T|G06V
+11468349,2022-10-11,"POI valuation method, apparatus, device and computer storage medium",0,G06N|G06Q
+11463697,2022-10-04,"Method and apparatus for coding video, electronic device and computer-readable storage medium",0,H04N
+11463631,2022-10-04,Method and apparatus for generating face image,1,G06T|G06V|H04N
+11463606,2022-10-04,Fixing apparatus and method of sensing system,0,E02F|H04N
+11462039,2022-10-04,"Method, device, and storage medium for obtaining document layout",0,G06F|G06V|Y02D
+11462013,2022-10-04,"Method and apparatus for recognizing target object, electronic device and storage medium",0,G06F|G06V
+11461995,2022-10-04,Method and apparatus for inspecting burrs of electrode slice,0,G06F|G06T|G06V
+11461556,2022-10-04,"Method and apparatus for processing questions and answers, electronic device and storage medium",0,G06F|G06N|G09B
+11461549,2022-10-04,"Method and apparatus for generating text based on semantic representation, and medium",0,G06F
+11457071,2022-09-27,"Method and apparatus for communication between private networks, electronic device and storage medium",0,H04L
+11455765,2022-09-27,Method and apparatus for generating virtual avatar,1,G06N|G06T
+11455542,2022-09-27,Text processing method and device based on ambiguous entity words,0,G06F|G06N
+11455173,2022-09-27,Management of artificial intelligence development platform,0,G06F|H04L
+11453403,2022-09-27,"Abnormal driving behavior determination method, device, vehicle and medium",0,B60W|G06N|G06V|G08G
+11451628,2022-09-20,"File resource processing method and apparatus, device and medium",1,G06F|H04L
+11451592,2022-09-20,"Method and apparatus for user communication in live stream room, device and storage medium",0,G06Q|H04L|H04N
+11449774,2022-09-20,Resource configuration method and apparatus for heterogeneous cloud services,0,G06F|G06N|H04L
+11449558,2022-09-20,"Relationship network generation method and device, electronic apparatus, and storage medium",0,G06F|G06Q
+11449500,2022-09-20,Method and apparatus for outputting structured query sentence,0,G06F
+11444861,2022-09-13,Method and apparatus for detecting traffic,0,H04L
+11443100,2022-09-13,"Method and apparatus for correcting character errors, electronic device and storage medium",0,G06F|G06N|Y02D
+11442930,2022-09-13,"Method, apparatus, device and storage medium for data aggregation",0,G06F|G06Q
+11436604,2022-09-06,"Method, apparatus and storage medium for processing ethereum-based falsified transaction",0,G06Q|H04L
+11436540,2022-09-06,Method and apparatus for generating information,0,G06F|G06N
+11436447,2022-09-06,Target detection,0,G06F|G06N|G06V
+11436409,2022-09-06,Method and apparatus for updating subject name information of a target information source,0,G06F
+11430265,2022-08-30,"Video-based human behavior recognition method, apparatus, device and storage medium",0,G06F|G06N|G06V|G08B
+11429680,2022-08-30,"Topic subscription method and apparatus, and storage medium",0,G06F
+11423700,2022-08-23,"Method, apparatus, device and computer readable storage medium for recognizing aerial handwriting",0,G06F|G06N|G06T|G06V
+11423650,2022-08-23,"Visual positioning method and apparatus, and computer-readable storage medium",0,G06F|G06T|G06V
+11423222,2022-08-23,"Method and apparatus for text error correction, electronic device and storage medium",0,G06F|G06N
+11418918,2022-08-16,"Method, apparatus, computer device and storage medium for stay point recognition",0,G06Q|H04W
+11418424,2022-08-16,Test system,0,H04K|H04L
+11417056,2022-08-16,"Method, apparatus, device and storage medium for three-dimensional reconstruction",0,G06T
+11417014,2022-08-16,Method and apparatus for constructing map,0,G06F|G06T|G06V
+11416967,2022-08-16,"Video processing method, apparatus, device and storage medium",0,G06N|G06T
+11416709,2022-08-16,"Method, apparatus, device and computer readable medium for generating VQA training data",0,G06F|G09B
+11416283,2022-08-16,Method and apparatus for processing data in process of expanding or reducing capacity of stream computing system,0,G06F
+11412070,2022-08-09,Method and apparatus for generating information,1,G06N|G06Q|H04L
+11412024,2022-08-09,Method and apparatus for determining access path of content delivery network,0,H04L
+11410422,2022-08-09,Method and apparatus for grounding a target video clip in a video,0,G06F|G06N|G06V
+11410333,2022-08-09,"Method, device, and storage medium for providing visual representation of set of objects",0,G06F|G06T
+11410084,2022-08-09,"Method and apparatus for training machine reading comprehension model, and storage medium",0,G06F|G06N
+11409968,2022-08-09,"Language conversion method and apparatus based on syntactic linearity, and non-transitory computer-readable storage medium",0,G06F
+11409813,2022-08-09,"Method and apparatus for mining general tag, server, and medium",0,G06F
+11403766,2022-08-02,Method and device for labeling point of interest,0,G06T|G06V
+11403468,2022-08-02,"Method and apparatus for generating vector representation of text, and related computer device",1,G06F|G06N
+11403152,2022-08-02,Task orchestration method and system,0,G06F
+11400952,2022-08-02,Method and apparatus for automated driving,0,B60W|G06N
+11397852,2022-07-26,"News interaction method, apparatus, device and computer storage medium",0,G06F|G10L
+11397827,2022-07-26,"EVM-based transaction processing method, device, program and medium",0,G06F|H04L
+11397788,2022-07-26,"Query processing method and device, and computer readable medium",0,G06F
+11392461,2022-07-19,Method and apparatus for processing information,0,G06F
+11380104,2022-07-05,"Method and device for detecting illegal parking, and electronic device",0,G06F|G06V
+11379980,2022-07-05,"Image processing method, apparatus, electronic device and storage medium",0,A61B|G06T
+11379741,2022-07-05,"Method, apparatus and storage medium for stay point recognition and prediction model training",0,G06N|H04W
+11379696,2022-07-05,"Pedestrian re-identification method, computer device and readable medium",0,G06F|G06V
+11379499,2022-07-05,Method and apparatus for executing distributed computing task,0,G06F
+11375209,2022-06-28,Method and apparatus for processing video frame,0,G06T|H04N
+11372942,2022-06-28,"Method, apparatus, computer device and storage medium for verifying community question answer data",0,G06F
+11372673,2022-06-28,Artificial intelligence chip and instruction execution method for artificial intelligence chip,0,G06F|G06N|Y02D
+11372594,2022-06-28,"Method and apparatus for scheduling memory access request, device and storage medium",0,G06F
+11368855,2022-06-21,"Network convergence method and device, electronic apparatus, and storage medium",0,G06N|H04W
+11368506,2022-06-21,Fault handling for computer nodes in stream computing system,0,G06F|H04L
+11368297,2022-06-21,Method and apparatus for updating digital certificate,0,H04L
+11367284,2022-06-21,Method and apparatus for commenting video,1,G06F|G06T|G06V|G10L|G11B|H04N
+11366973,2022-06-21,Method and apparatus for determining a topic,0,G06F
+11366819,2022-06-21,"Method, apparatus, electronic device and computer readable medium for obtaining answer to question",0,G06F|G06N|G09B
+11366613,2022-06-21,Method and apparatus for writing data,2,G06F
+11363271,2022-06-14,"Method for video frame interpolation, related electronic device and storage medium",0,G06F|G06N|G06T|G06V|H04N
+11362885,2022-06-14,"Method, apparatus, device and readable medium for disaster recovery processing for infrastructure areas",0,H04L
+11362663,2022-06-14,"Quantum pulse determining method, apparatus, device and readable storage medium",0,G06N|H03K
+11361188,2022-06-14,Method and apparatus for optimizing tag of point of interest,0,G06F|G06N
+11361005,2022-06-14,"Method for processing map data, device, and storage medium",0,G01C|G06F|G06T|H04W|Y02D
+11361002,2022-06-14,"Method and apparatus for recognizing entity word, and storage medium",0,G06F|G06N|Y02D
+11356748,2022-06-07,"Method, apparatus and system for slicing live streaming",0,H04L|H04N
+11356510,2022-06-07,Control system and control method of unmanned engineering machinery,0,G05B|H04L
+11355109,2022-06-07,"Method and apparatus for man-machine conversation, and electronic device",1,G06N|G10L
+11354887,2022-06-07,"Coin identification method, device, and cash register",0,G06N|G06Q|G06V|G07D|G07G
+11354875,2022-06-07,"Video blending method, apparatus, electronic device and readable storage medium",0,G06T
+11354474,2022-06-07,"Method, apparatus and computer storage medium for authenticating chip",0,G01R|G06F
+11349680,2022-05-31,Method and apparatus for pushing information based on artificial intelligence,0,G06N|G06V|H04L|H04N
+11349638,2022-05-31,"Privacy transaction processing method, electronic device and storage medium",0,G06F|H04L
+11348015,2022-05-31,Method and apparatus for analyzing intention based on artificial intelligence,0,G06F|G06N
+11347386,2022-05-31,Method and device for sharing position,1,G01C|G06F|H04L
+11341718,2022-05-24,Method and apparatus for generating 3D joint point regression model,0,G06N|G06T|Y02T
+11341626,2022-05-24,Method and apparatus for outputting information,3,G06F|G06T|G06V
+11341366,2022-05-24,"Cross-modality processing method and apparatus, and computer storage medium",2,G06F|G06N|G06T|G06V
+11340903,2022-05-24,"Processing method, device, equipment and storage medium of loop instruction",0,G06F
+11335101,2022-05-17,"Locating element detection method, device and medium",0,G06T|G06V|Y02T
+11334572,2022-05-17,Method and device for displaying query results based on deep question and answer,0,G06F|G06N
+11334551,2022-05-17,"Method, device, and storage medium for storing determinant text",0,G06F|Y02D
+11334544,2022-05-17,"Method, apparatus, device and medium for storing and querying data",1,G06F
+11328600,2022-05-10,"Method and apparatus for identifying traffic accident, device and computer storage medium",0,G06N|G06V|G08G|Y02T
+11328520,2022-05-10,"Lane line determination method and apparatus, lane line positioning accuracy evaluation method and apparatus, and device",1,B60W|G06T|G06V
+11328133,2022-05-10,"Translation processing method, translation processing device, and device",1,G06F|G06N|G10L
+11327990,2022-05-10,Method and device for processing user portrait and server,0,G06F|G06Q
+11323750,2022-05-03,"Video system and video processing method, device and computer readable medium",0,H04N
+11321421,2022-05-03,"Method, apparatus and device for generating entity relationship data, and storage medium",0,G06F
+11321370,2022-05-03,Method for generating question answering robot and computer device,0,G06F|G06N
+11315285,2022-04-26,"Method, electronic device and storage medium for detecting a position change of lane line",0,G06T|G06V
+11315034,2022-04-26,"Intelligent big data system, and method and apparatus for providing intelligent big data service",0,G06F|G06N
+11314946,2022-04-26,"Text translation method, device, and storage medium",0,G06F|G06N
+11314800,2022-04-26,"Method, apparatus, electronic device, and storage medium for image-based data processing",2,G06F
+11314451,2022-04-26,Method and apparatus for storing data,0,G06F
+11313685,2022-04-26,Method and apparatus for generating driving path,1,B64U|E02F|G01C|G05D|G06T|G06V|H04N
+11310559,2022-04-19,Method and apparatus for recommending video,1,H04N
+11310558,2022-04-19,"Buffer processing method, apparatus, device and computer storage medium",0,H04L|H04N
+11310071,2022-04-19,"Dormancy controlling method for on board computing platform, device and readable storage medium",0,G06F|G07C|H04L|Y02D
+11308937,2022-04-19,"Method and apparatus for identifying key phrase in audio, device and medium",0,G06F|G10L
+11308818,2022-04-19,Method and apparatus for outputting information,0,G06Q|G08G
+11308671,2022-04-19,Method and apparatus for controlling mouth shape changes of three-dimensional virtual portrait,3,G06F|G06N|G06T|G10L
+11308286,2022-04-19,"Method and device for retelling text, server, and storage medium",0,G06F|G06N|Y02D
+11308060,2022-04-19,"Method, apparatus, device and storage medium for managing index",0,G06F
+11307948,2022-04-19,"Fault injection method and apparatus, electronic device and storage medium",1,G06F
+11307849,2022-04-19,"Method for creating hyperledger fabric network, controller and storage medium",0,G06F
+11307801,2022-04-19,"Method, apparatus, device and storage medium for processing access request",0,G06F
+11307769,2022-04-19,"Data storage method, apparatus and storage medium",0,G06F|H03M
+11305771,2022-04-19,"Method and apparatus for controlling cruise of vehicle, electronic device, and storage medium",0,B60W|B60Y|B62D|G01C|G05D|G06T
+11299177,2022-04-12,"Information processing method, electronic device, and storage medium",0,B60W|G07C|H04L
+11294995,2022-04-05,"Method and apparatus for identity authentication, and computer readable storage medium",0,G06F|G10L
+11294920,2022-04-05,Method and apparatus for accessing time series data in memory,0,G06F
+11288492,2022-03-29,Method and device for acquiring 3D information of object,0,G06T|G06V
+11282166,2022-03-22,"Method for displaying electronic map, electronic device and readable storage medium",0,G01C|G06T|G09B
+11282026,2022-03-22,Method and apparatus for planning route,1,G06Q
+11281446,2022-03-22,"Updating method, terminal and electronic device",0,G06F|H04L
+11281445,2022-03-22,"Method, apparatus, device and storage medium for upgrading application",0,G06F
+11277498,2022-03-15,"Method, apparatus and system for processing data",0,G06F|H04L
+11277300,2022-03-15,Method and apparatus for outputting information,0,H04L
+11276158,2022-03-15,Method and apparatus for inspecting corrosion defect of ladle,0,G06F|G06N|G06T|G06V
+11276004,2022-03-15,Method and apparatus for monitoring system,0,G06N
+11275904,2022-03-15,"Method and apparatus for translating polysemy, and medium",0,G06F
+11275898,2022-03-15,Search method and device based on artificial intelligence,0,G06F
+11275683,2022-03-15,"Method, apparatus, device and computer-readable storage medium for storage management",1,G06F
+11269705,2022-03-08,Method and apparatus for outputting information,0,G06F
+11265414,2022-03-01,"Method and device for waking up voice recognition function in mobile terminal, and computer readable storage medium",1,G06F|G10L|H04M
+11263723,2022-03-01,Image warping method and device,0,G06T
+11259029,2022-02-22,"Method, device, apparatus for predicting video coding complexity and storage medium",0,G06N|H04N
+11256920,2022-02-22,Method and apparatus for classifying video,0,G06F|G06N|G06V
+11250066,2022-02-15,"Method for processing information, electronic device and storage medium",0,G06F|H04L
+11243767,2022-02-08,"Caching device, cache, system, method and apparatus for processing data, and medium",1,G06F|Y02D
+11238633,2022-02-01,"Method and apparatus for beautifying face, electronic device, and storage medium",0,G06T|G06V
+11238600,2022-02-01,"Cross-camera obstacle tracking method, system and medium",0,B60R|G06T|G06V|H04N
+11238099,2022-02-01,"Method and device for obtaining answer, and computer device",0,G06F|G06Q
+11238097,2022-02-01,"Method and apparatus for recalling news based on artificial intelligence, device and storage medium",0,G06F|G06N
+11233819,2022-01-25,Method and apparatus for analyzing cyberattack,0,H04L
+11232560,2022-01-25,Method and apparatus for processing fundus image,0,A61B|G06F|G06N|G06T|G06V
+11232140,2022-01-25,Method and apparatus for processing information,6,G06F|G10L
+11228664,2022-01-18,"Method and apparatus for acquiring RPC member information, electronic device and storage medium",0,G06F|H04L
+11227186,2022-01-18,Method and device for training image recognition model and related device,1,G06F|G06T|G06V
+11222067,2022-01-11,"Multi-index method and apparatus, cloud system and computer-readable storage medium",0,G06F
+11221851,2022-01-11,"Method executed by computing device, apparatus, device and computer-readable storage medium",0,G06F
+11218571,2022-01-04,Methods and storage media for transmitting message,1,H04L|H04W
+11216977,2022-01-04,Methods and apparatuses for outputting information and calibrating camera,0,G06T|H04N
+11216618,2022-01-04,"Query processing method, apparatus, server and storage medium",4,G06F
+11216504,2022-01-04,Document recommendation method and device based on semantic tag,0,G06F|G06N
+11210608,2021-12-28,"Method and apparatus for generating model, method and apparatus for recognizing information",0,G06N|H04L
+11210563,2021-12-28,Method and apparatus for processing image,0,G06F|G06V
+11210546,2021-12-28,"End-to-end text recognition method and apparatus, computer device and readable medium",0,G06F|G06V
+11210524,2021-12-28,Method and apparatus for outputting information,0,G06F|G06V
+11210469,2021-12-28,"Method, apparatus for event detection, device and storage medium",1,G06F
+11210322,2021-12-28,"Method and apparatus for reducing storage space of parameter table, device, and computer-readable storage medium",0,G06F
+11210131,2021-12-28,Method and apparatus for assigning computing task,0,G06F
+11210127,2021-12-28,Method and apparatus for processing request,0,G06F
+11210014,2021-12-28,"Method and apparatus for processing I/O information of data, method and apparatus for analyzing I/O information of data, and related devices",0,G06F|Y02D
+11196828,2021-12-07,"Method, apparatus, device and computer storage medium for determining source channel",0,G06F|G06Q|H04L
+11195248,2021-12-07,Method and apparatus for processing pixel data of a video frame,0,G06T|G09G|H04N
+11194999,2021-12-07,Integrated facial recognition method and system,0,G06F|G06V
+11194863,2021-12-07,"Searching method and apparatus, device and non-volatile computer storage medium",0,G06F
+11194807,2021-12-07,"Query processing method, query processing system, server and computer readable medium",0,G06F
+11188771,2021-11-30,"Living-body detection method and apparatus for face, and computer readable medium",0,G06T|G06V
+11188443,2021-11-30,"Method, apparatus and system for processing log data",0,G06F
+11184227,2021-11-23,Method and apparatus for updating configuration object,0,H04L
+11182928,2021-11-23,Method and apparatus for determining rotation angle of engineering mechanical device,0,G06T|G06V
+11182648,2021-11-23,"End-to-end model training method and apparatus, and non-transitory computer-readable medium",0,G06F|G06N
+11182445,2021-11-23,"Method, apparatus, server, and storage medium for recalling for search",0,G06F|G06N
+11176142,2021-11-16,Method of data query based on evaluation and device,0,G06F|G06Q
+11172018,2021-11-09,Method and apparatus for controlling traffic,0,H04L
+11169792,2021-11-09,Method and apparatus for generating patch,0,G06F
+11169718,2021-11-09,Data access method and apparatus,0,G06F|H04L
+11163714,2021-11-02,"Method, apparatus, electronic device and computer readable storage medium for supporting communication among chips",0,G06F|G06N|H04L|Y02D
+11163499,2021-11-02,"Method, apparatus and system for controlling mounting of file system",0,G06F
+11158102,2021-10-26,Method and apparatus for processing information,2,G06F|G06T|G06V|G10L
+11158044,2021-10-26,Battery detection method and device,0,G01N|G06T|H01M|Y02E
+11157766,2021-10-26,"Method, apparatus, device and medium for calibrating pose relationship between vehicle sensor and vehicle",1,G06T|G06V
+11157699,2021-10-26,Interactive method and apparatus based on test-type application,0,G06F|G09B
+11157698,2021-10-26,"Method of training a descriptive text generating model, and method and apparatus for generating descriptive text",0,G06F|G06N|G06V
+11151765,2021-10-19,Method and apparatus for generating information,0,G06T|G06V|G10L|H04N
+11151406,2021-10-19,"Method, apparatus, device and readable storage medium for image-based data processing",0,G06F|G06V
+11151392,2021-10-19,"Method and apparatus for camera calibration processing, device for vehicle control and storage medium",0,B60R|G06T|G06V
+11151179,2021-10-19,"Method, apparatus and electronic device for determining knowledge sample data set",5,G06F|G06N
+11151177,2021-10-19,Search method and apparatus based on artificial intelligence,0,G06F|G06N
+11150655,2021-10-19,Method and system for training unmanned aerial vehicle control model based on artificial intelligence,4,B64U|G05D|G06N
+11146502,2021-10-12,Method and apparatus for allocating resource,7,H04L
+11138903,2021-10-05,"Method, apparatus, device and system for sign language translation",0,G06F|G06V|G09B
+11132518,2021-09-28,Method and apparatus for translating speech,0,G06F|G06N|G10L
+11132387,2021-09-28,Event display method and device,0,G06F|G06Q
+11132363,2021-09-28,Distributed computing framework and distributed computing method,0,G06F
+11132114,2021-09-28,Method and apparatus for generating customized visualization component,0,G06F
+11131084,2021-09-28,Method and apparatus for selecting target excavating point,0,E02F|G06T
+11128797,2021-09-21,"Photographing apparatus, and control method and device applied to photographing apparatus",0,F16M|G03B|H04N
+11127303,2021-09-21,"Vehicle scheduling method and apparatus, device and storage medium",0,G01C|G05D|G06Q|G08G
+11126639,2021-09-21,Method and apparatus for synchronizing data in a robot operating system,0,B60R|G06F
+11119688,2021-09-14,"Replica processing method and node, storage system, server, and readable medium",0,G06F
+11108817,2021-08-31,"SQL injection interception detection method and device, apparatus and computer readable medium",0,G06F|H04L
+11108761,2021-08-31,"Method, apparatus and system for remote control of intelligent device",0,H04L
+11093388,2021-08-17,"Method, apparatus, device and storage medium for accessing static random access memory",0,G06F
+11087203,2021-08-10,Method and apparatus for processing data sequence,0,G06N
+11086001,2021-08-10,"Position detecting method, device and storage medium for vehicle ladar",0,G01S|G06T
+11080492,2021-08-03,Method and device for correcting error in text,1,G06F|G06N|G10L
+11080481,2021-08-03,Method and device for classifying questions based on artificial intelligence,0,G06F|G06N|G06Q|G10L
+11064053,2021-07-13,"Method, apparatus and system for processing data",0,G06F|H04L
+11062090,2021-07-13,"Method and apparatus for mining general text content, server, and storage medium",1,G06F|G06N
+11057469,2021-07-06,Method and apparatus for service hosting of distributed storage system,1,G06F|H04L
+11055602,2021-07-06,"Deep learning assignment processing method and apparatus, device and storage medium",0,G06F|G06N
+11055373,2021-07-06,Method and apparatus for generating information,0,G06F
+11055100,2021-07-06,"Processor, and method for processing information applied to processor",0,G06F
+11042542,2021-06-22,Method and apparatus for providing aggregate result of question-and-answer information,0,G06F
+11038783,2021-06-15,"Method and apparatus for managing network connection, and storage medium",2,H04L|H04W
+11023801,2021-06-01,Data processing method and apparatus,1,G06F|G06N
+11023505,2021-06-01,Method and apparatus for pushing information,0,G06F|G06N
+11023391,2021-06-01,"Apparatus for data processing, artificial intelligence chip and electronic device",0,G06F|G06N|Y02D
+11004235,2021-05-11,Method and apparatus for determining position and orientation of bucket of excavator,0,G06T|G06V
+11004234,2021-05-11,Method and apparatus for annotating point cloud data,2,G01S|G06T|G06V
+11003731,2021-05-11,Method and apparatus for generating information,0,G06F
+10997764,2021-05-04,Method and apparatus for generating animation,0,G06F|G06N|G06T|G10L
+10997328,2021-05-04,"Method and apparatus for simulation test of autonomous driving of vehicles, an apparatus and computer-readable storage medium",1,G05B|G05D|G06F
+10997099,2021-05-04,"I/O request processing method in virtual machine, device and computer readable medium",1,G06F
+10991372,2021-04-27,"Method and apparatus for activating device in response to detecting change in user head feature, and computer readable storage medium",0,G06F|G10L|Y02D
+10990312,2021-04-27,"Method, apparatus, device and storage medium for processing data location of storage device",0,G06F
+10984226,2021-04-20,Method and apparatus for inputting emoticon,1,G06F|G06V|H04L
+10983978,2021-04-20,"Method for updating relational index, storage medium and electronic device",0,G06F
+10983596,2021-04-20,"Gesture recognition method, device, electronic device, and storage medium",0,G06F|G06N|G06T|G06V
+10977578,2021-04-13,"Conversation processing method and apparatus based on artificial intelligence, device and computer-readable storage medium",1,G06F|G06N
+10977317,2021-04-13,Search result displaying method and apparatus,0,G06F
+10977076,2021-04-13,Method and apparatus for processing a heterogeneous cluster-oriented task,0,G06F
+10977062,2021-04-13,System for starting virtual machine using mirror image file stored in units of a distributed block storage system mapped to units of a logical volume,0,G06F|H04L
+10972864,2021-04-06,"Information recommendation method, apparatus, device and computer readable storage medium",0,H04M|H04W
+10972535,2021-04-06,"Method and device for load balancing, and storage medium",0,H04L
+10969971,2021-04-06,Data storage method and apparatus,0,G06F
+10969498,2021-04-06,"Vehicle positioning method, apparatus and device",4,G01S|G08G|H04W
+10965680,2021-03-30,"Authority management method and device in distributed environment, and server",0,G06F|G06N|H04L
+10964338,2021-03-30,"Mood recognition method, electronic device and computer-readable storage medium",0,G06F|G10L
+10963760,2021-03-30,Method and apparatus for processing information,1,G06F|G06V|G10L
+10963286,2021-03-30,Live migration method and apparatus for virtual machine passthrough device,1,G06F
+10958598,2021-03-23,Method and apparatus for generating candidate reply message,0,G06F|H04L
+10951595,2021-03-16,"Method, system and apparatus for storing website private key plaintext",0,H04L
+10944718,2021-03-09,"Anti-cracking method and system for a cloud host, as well as terminal device",0,H04L
+10931791,2021-02-23,Method and apparatus for processing request,0,H04L
+10930281,2021-02-23,"Method, apparatus and system for testing intelligent voice device",0,G06F|G10L|H03G
+10929683,2021-02-23,"Video processing method, apparatus and device",0,G06V|G10L|H04N
+10929390,2021-02-23,Method and apparatus for correcting query based on artificial intelligence,0,G06F|G06N
+10923120,2021-02-16,Human-machine interaction method and apparatus based on artificial intelligence,0,G06F|G10L
+10922785,2021-02-16,Processor and method for scaling image,0,G06T
+10922569,2021-02-16,Method and apparatus for detecting model reliability,0,G06T|G06V

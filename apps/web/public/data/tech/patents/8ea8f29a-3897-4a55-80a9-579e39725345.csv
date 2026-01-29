@@ -1,0 +1,810 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432234,2025-09-30,Decision support for anomaly detection via impact analysis for security and safety,0,H04L
+12430481,2025-09-30,"Method, computer program product and modeling tool for creating a system model, which represents a technical system to be developed, as a digital system twin",0,G06F|G06Q
+12430480,2025-09-30,Method for automatically interpreting a piping diagram,0,G05B|G06F|Y02P
+12429861,2025-09-30,"Commissioning/configuration method, tool and computer-readable storage media for an industrial device",0,G05B|G06Q|H02P|H04W|Y02P
+12429858,2025-09-30,Method and apparatus for monitoring a condition of a component of a processing engineering plant,0,G05B|G06N
+12429843,2025-09-30,Method and system for providing engineering of an industrial device in a cloud computing environment,0,G05B|G06F
+12429835,2025-09-30,Endpoint registry across ecosystems,0,G05B|G06F|G06Q
+12429164,2025-09-30,Monitoring facility and method for monitoring an opening,0,B65G|F16P|G01S|G01V|G06T|G06V
+12427674,2025-09-30,Task-oriented 3D reconstruction for autonomous robotic operations,0,B25J|G05B|G06T
+12425421,2025-09-23,Systems and methods for analyzing and controlling network traffic,0,H04L
+12425420,2025-09-23,Method and system for anomaly detection in a network,0,G06F|G06N|H04L
+12423391,2025-09-23,"Method for authenticating a user feature, and authentication device",0,G06F
+12417606,2025-09-16,Method and system for anomaly detection using multimodal knowledge graph,0,G06T|G06V
+12416960,2025-09-16,Power converter and trace system for a power converter,0,G06F|H04L
+12413537,2025-09-09,Scheduling transmissions through a telecommunication network,0,H04L|H04W
+12413426,2025-09-09,Providing a proof of origin for a digital key pair,0,H04L
+12412090,2025-09-09,Method and apparatus for providing recommendations for completion of an engineering project,0,G06F|G06N
+12411722,2025-09-09,Method for data communication between a management level and a field level of an industrial system,0,G05B|G06F|H04L|Y02P
+12411685,2025-09-09,Computer-implemented method for verifying a plurality of commits,0,G06F
+12411483,2025-09-09,Method and system for diagnosing messages,0,G05B|G06N
+12407595,2025-09-02,Method of capturing packets from applications hosted on containers,0,H04L
+12407527,2025-09-02,"Host, method and system for the securely executing control applications",0,G06F|H04L
+12406065,2025-09-02,"Method for securely starting device software, in particular an operating system, of an electronic device",0,G06F
+12400316,2025-08-26,Determining the level of wear of a tool,0,G06T
+12399748,2025-08-26,Method for overload control in a container-virtualized computing apparatus,0,G06F|H04L
+12395402,2025-08-19,Method and apparatus for configuring an application,0,H04L
+12394037,2025-08-19,Physics-informed anomaly detection in formed metal parts,0,G06T|G06V
+12393420,2025-08-19,System and computer-implemented method for controlling a software development and operations system on the basis of measured quality data representing at least one quality and/or performance indicator,0,G06F|G06N|G06Q
+12393419,2025-08-19,Industrial application package management,0,G06F
+12393169,2025-08-19,Method and apparatus for monitoring industrial devices,0,G05B|G06N
+12391522,2025-08-19,Operating method for a loading system and automation system for controlling the loading system,0,B66C|G06T
+12388807,2025-08-12,Method and system for securing asset data in a computing environment,0,G06Q|H04L
+12386862,2025-08-12,Method and analysis system for technical devices,0,G05B|G06F|G06N
+12386846,2025-08-12,Method and system for integrating data from different data sources into a knowledge graph storage unit,0,G06F|G06N
+12382492,2025-08-05,WLAN communication methods and devices,0,H04W
+12381865,2025-08-05,"Communication system, adapter for a terminal and method for securely transmitting time-critical data within the communication system",0,H04L
+12380594,2025-08-05,Pose estimation method and apparatus,0,G06T
+12380339,2025-08-05,Automatically generating training data of a time series of sensor data,0,G05B|G06N
+12380013,2025-08-05,Method and apparatus for determining collection frequency of a monitoring device,0,G06F
+12379719,2025-08-05,Method and device for monitoring a milling process,0,G05B|G06N|Y02P
+12379708,2025-08-05,Systems and methods for computer-aided machining,0,G05B|G06T
+12373708,2025-07-29,Processes and products for generation of completion rules of knowledge graphs,0,G06F|G06N
+12373407,2025-07-29,"Method, apparatus and electronic device for detecting data anomalies, and readable storage medium",0,G06F|G06N
+12373179,2025-07-29,System and method for decomposing monolith applications into software services,0,G06F
+12372949,2025-07-29,Method and arrangement for commissioning an updated application for an industrial automation arrangement,0,G05B|G06F
+12368779,2025-07-22,Method of communicating with a microservice in an industrial facility,0,H04L
+12368605,2025-07-22,Requesting a certificate in a documented manner using a registration point,0,H04L
+12362932,2025-07-15,"Method for registering a device with a computing facility, communication system and energy supply network",0,G06F|H02J|H04L|H04W
+12361351,2025-07-15,Distributing order execution in a MOM system,0,G06Q
+12361260,2025-07-15,Determining at least one node,0,G06F|G06N
+12360500,2025-07-15,"Artificial intelligence computing device, control method and apparatus, engineer station, and industrial automation system",0,G05B|G06N|H04L|Y02P
+12358393,2025-07-15,Modular measuring unit and authentication apparatus for detecting energy output,0,B60L|G06F|G06Q|Y02T
+12355612,2025-07-08,Computer-implemented method for operating a terminal with high availability in a network,0,H04L|H04W
+12354116,2025-07-08,Ecosystem and method for exchanging information about ESG data of a product related entity,0,G06F|G06Q|H04L
+12353188,2025-07-08,System and method of monitoring a cyclically operating manufacturing device,0,G05B|G06N
+12348543,2025-07-01,Method and system for detecting a cyber-attack on a machine controller,0,G05B|G06F|H04L|Y04S
+12346669,2025-07-01,Method and system for generating engineering programs for an industrial domain,0,G05B|G06F
+12346479,2025-07-01,Privacy preservation of data over a shared network,0,G06F|G06N|H04L
+12346465,2025-07-01,Computer-implemented method for assisting a user in debugging roles in a software system,0,G06F
+12346342,2025-07-01,Exchanging data with a decentralized distributed database,0,G06F|G06Q
+12346108,2025-07-01,Method for remote assistance and device,0,G05D|G06F|G09B
+12346099,2025-07-01,Method for transforming a data model for automation purposes into a target ontology,0,G05B|G06F
+12345693,2025-07-01,Computer-assisted method for generating training data for a neural network for predicting a concentration of pollutants at a measuring station,0,G01N|G06N
+12341915,2025-06-24,System and method for writing and retrieval of data in a distributed ledger,0,G06F|H04L
+12341127,2025-06-24,"Semifinished product for populating with components and, method for populating same with components",0,H01L
+12340493,2025-06-24,Centralized analytics of multiple visual inspection appliances,0,G01N|G05B|G06T|G06V|G07C|G08B|H04N
+12339830,2025-06-24,System and method for managing sensor data associated with an IoT environment,0,G06F
+12335804,2025-06-17,Method of performing a handover of a mobile network device,0,G05B|H04W
+12335266,2025-06-17,"Method for granting access to objects in a computerized system, computer program product, and field device",0,G06F|H04L
+12335063,2025-06-17,Providing a service in a node of a cyber-physical system having at least two application modules,0,H04L
+12333703,2025-06-17,Self-supervised anomaly detection framework for visual quality inspection in manufactruing,0,G06T|G06V
+12328226,2025-06-10,Automated application service detection for configuring industrial communication networks,0,G06F|H04L
+12328183,2025-06-10,Method for avoiding function disablements for intelligent electronic units,0,H02J|H04J|H04W
+12326481,2025-06-10,Method and system for modelling ultracapacitor,0,G01R|G06F|H01G
+12322675,2025-06-03,Electronic module comprising a pulsating heat pipe,0,H01L|H05K
+12321727,2025-06-03,"Data interaction method, apparatus and system for AI inference device and automation controller",0,G05B|G06F|G06N|Y02P
+12316777,2025-05-27,Method for issuing a cryptographically protected certificate of authenticity for a user,0,H04L
+12314730,2025-05-27,Computer implemented method and distributed computing infrastructure for automated plug and play configuration,0,G06F|H04L
+12314158,2025-05-27,Testing IoT-applications based on a fleet of IoT-devices,0,G06F|H04L
+12311976,2025-05-27,Method of detecting an interference source in an industrial facility,0,B60W|H04W
+12307001,2025-05-20,Method and configurable hardware module for monitoring a hardware-application,0,G06F|H04L
+12301586,2025-05-13,Method and apparatuses for authenticating a data stream,0,G06F|H04L|H04W
+12298744,2025-05-13,High-availability cloud-based automation solution with optimized transmission times,0,G05B|G06F
+12298740,2025-05-13,System and method for assisted modeling of manufacturing workflows,0,G05B|G06Q
+12298258,2025-05-13,Systems and methods for automated x-ray inspection,0,G01N|G06N|G06T|G06V|H05K
+12287613,2025-04-29,Method and assembly for managing automation programs for industrial automation platforms,0,G05B|G06F
+12282420,2025-04-22,Programmatical errors from engineering programs in a technical installation,0,G05B|G06F|G06N
+12277213,2025-04-15,Method and device for securely starting up a container instance,0,G06F|H04L
+12276948,2025-04-15,Method and system for providing time-critical control applications,0,G05B|G06F
+12276614,2025-04-15,System and method for imaging reflecting objects,0,G01N|G06F|G06T|G06V|H04N
+12271512,2025-04-08,Method and device for authenticating an FPGA configuration,0,G06F|H04L
+12267248,2025-04-01,"Network infrastructure device, communication terminal and method for synchronizing control applications via a communication network for transferring time-critical data",0,G05B|H04J|H04L
+12265548,2025-04-01,Method and system for restoring consistency of a digital twin database,0,G06F
+12265367,2025-04-01,Artificial intelligence (AI) companions for function blocks in a programmable logic controller (PLC) program for integrating AI in automation,0,G05B|G06N
+12265363,2025-04-01,Controlling an operation of a technical system automatically,0,G05B|G06F|H04L
+12261922,2025-03-25,Method and gateway device for transmitting datagrams via a plurality of networks,0,H04L
+12259722,2025-03-25,System and method for predicting failure in a power system in real-time,0,G05B|G06N|G06Q|H02J
+12259716,2025-03-25,Method and industrial automation system with a system for embedding a web application to be embedded in a surrounding web application,0,G05B|G06F|H04L
+12259702,2025-03-25,System and method for administration of drive components,0,G05B|G06F
+12256025,2025-03-18,Method and control system for technical installations with certificate management,0,G05B|H04L|Y02P
+12254389,2025-03-18,"Controller for controlling a technical system, and method for configuring the controller",0,G05B|G06N
+12254292,2025-03-18,Engineering station and method for diagnosing a user program,0,B25J|G05B|G06F
+12253996,2025-03-18,Method and system for automated column type annotation,0,G06F
+12252145,2025-03-18,Sensor data generation for controlling an autonomous vehicle,0,B60W|G05D|H04W
+12248362,2025-03-11,Method for recording a number of events in an encoded tracer variable in a security-oriented computer program,0,G06F
+12245259,2025-03-04,Interference reduction in telecommunication networks,0,H04L|H04W
+12243211,2025-03-04,"Method to train a neural network to detect a tool status from images, method of machining and/or manufacturing, and installation",0,G05B|G06N|G06T
+12238228,2025-02-25,Operational safety using a distributed ledger,0,H04L
+12238011,2025-02-25,Computer-implemented method for adapting at least one pre-defined frame delay,0,H04L
+12235629,2025-02-25,Engineering system and method for configuring and parameterizing field bus subscribers,0,G05B|G06F
+12231501,2025-02-18,Method and system for providing time-critical services via a flow control environment,0,H04L
+12230959,2025-02-18,"Method for operating an energy management system, electronic computing device for carrying out the method, computer program, and data carrier",0,G05B|G06Q|H02J|Y02B|Y04S
+12229486,2025-02-18,Method for determining set-up families for a pick-and-place line for populating circuit boards with electronic components,0,G06F|G06Q|H05K|Y02P
+12223233,2025-02-11,Method and system for computer-aided design of a technical system,0,G06F|G06N
+12222705,2025-02-11,System and method for facilitating engineering of an industrial system,0,G05B|G06F|G06N
+12218790,2025-02-04,System and method for exchanging data between a server and a client in an industrial data network,0,G05B|G06F|H04L
+12217407,2025-02-04,Method for automatically assisting with an inspection and/or condition monitoring of objects,0,G05B|G06T|Y02P
+12217139,2025-02-04,Transforming a trained artificial intelligence model into a trustworthy artificial intelligence model,0,A61B|G06F|G06N|G06V
+12216448,2025-02-04,Dependability number,0,G05B|G06Q|Y02P
+12214387,2025-02-04,System and method for creating and performing an installation cleaning process for process installations,0,B08B|G05B|G06Q
+12211629,2025-01-28,Contact system having reliable insulation,0,H01B|H01L|H02G
+12210331,2025-01-28,Automation engineering learning framework for cognitive engineering,0,G05B|G06N
+12204305,2025-01-21,Systems and methods for digital authentication of usage data of an automation plant,0,G05B|H04L|Y02P
+12197874,2025-01-14,"Information processing method, and method and apparatus for locating sub-control chart in control chart",0,G06F
+12197632,2025-01-14,Method and arrangement for outputting a head-up display on a head-mounted display,0,G02B|G06F
+12197535,2025-01-14,Determining a denoised named entity recognition model and a denoised relation extraction model,0,G06F|G06N
+12196810,2025-01-14,Production of a quality test system,0,G01R|G06F|Y02E
+12192348,2025-01-07,Key management in an integrated circuit,0,G06F|H04L
+12190262,2025-01-07,Method and device for the computer-aided optimization of tool transporting operations for at least one tool magazine having a number of magazine locations,0,G06Q
+12190162,2025-01-07,Optimized allocation of resources to nodes of an automation system based on monte carlo simulation,0,G06F
+12189651,2025-01-07,"Computer-implemented method for storing data using a distributed transaction database, computer program product, and network",0,G06F|H04L
+12189359,2025-01-07,Method for simultaneous data visualization of data stemming from controlling and/or monitoring an industrial production process,0,G05B|G06Q|G06T
+12187298,2025-01-07,Method and apparatus for monitoring operation of a technical object,0,B60W|G01H|G01M|G06F|G06N
+12184748,2024-12-31,Data transmission with communication broker,0,H04L
+12183710,2024-12-31,"Method for producing conductive tracks, and electronic module",0,C23C|H01L
+12182682,2024-12-31,Method for retrieving a recommendation from a knowledge database of a ticketing system,0,G06F|G06N|G06Q
+12172320,2024-12-24,"System, method and storage medium for production system automatic control",0,B25J|G05B|H04L|Y02P
+12170711,2024-12-17,Method and system for transmitting software artifacts from a source network to a target network,0,G06F|H04L
+12170681,2024-12-17,Method and system for detecting data traffic in a communication network,0,H04L
+12169924,2024-12-17,System and method for set up of production line inspection,0,G01N|G06T
+12167240,2024-12-10,Method for configuring a radio connection,0,H04W
+12166906,2024-12-10,Method for validating a digital certificate,0,G06F|H04L|H04W
+12164474,2024-12-10,"Method for configuring priority level, cloud platform, system, computing device, and medium",0,G06F|H04L
+12164291,2024-12-10,Separation of states of mechanical presses by analyzing trained patterns in a neural network,0,B30B|G05B|G06N
+12164285,2024-12-10,Method for managing a production process,0,G05B|G06F|H04L|Y02P
+12160917,2024-12-03,Network device for connecting a plurality of industrial devices,0,H04L|H04W
+12160316,2024-12-03,"Method, computer readable medium and gateway device for coordinating between a plurality of wireless networks",0,H04L|H04W
+12159254,2024-12-03,Apparatus for the semantic-based optimization of production facilities with explainability,0,G06F|G06N|G06Q
+12158936,2024-12-03,Control system for a technical installation and method for removing one or more certificates,0,G06F|H04L
+12158879,2024-12-03,Cloud platform and method for efficient processing of pooled data,0,G06F|G06N|H04L
+12155644,2024-11-26,Authenticating a device in a communication network of an automation installation,0,H04L
+12153906,2024-11-26,Method and system for generating engineering designs in an engineering system,0,G06F
+12153407,2024-11-26,Back annotation of load reduction in clients,0,G05B|G06Q
+12147921,2024-11-19,System and method for providing short-term dispatching decisions for operating a number of resources involved in a number of production processes under consideration of long-term objectives,0,G05B|G06Q
+12147590,2024-11-19,Aligning and augmenting a partial subspace of a physical infrastructure with at least one information element,0,G06F|G06T|G06V
+12141959,2024-11-12,Streamlining an automatic visual inspection process,0,G06F|G06T|G06V
+12141325,2024-11-12,Computer-implemented method and system for checking data anonymization,0,G06F|H04L
+12140935,2024-11-12,Device and method for setting up and/or providing a working environment,0,G05B|G06F|G06Q|H04L|H04W
+12138806,2024-11-12,Machine learning-based environment fail-safes through multiple camera views,0,B25J|G06F|G06T|G06V
+12137427,2024-11-05,Method and apparatus for simple time synchronization of a communication in industrial settings,0,H04W
+12136603,2024-11-05,"Semiconductor arrangement comprising a semiconductor element, a substrate and bond connecting means",0,H01L
+12135770,2024-11-05,Method and system for user authentication,0,G06F
+12130843,2024-10-29,Device and method for preparing data,0,G06F
+12130833,2024-10-29,"Block formation device and block formation method, node device and block confirmation method",0,G06F|H04L
+12126690,2024-10-22,Communication of a remote terminal unit based on a module type package,0,G05B|H04L
+12126611,2024-10-22,"Engineering control system, technical installation and method and system for awarding publicly trusted certificates",0,H04L
+12126468,2024-10-22,Switch for connecting field apparatuses and device for galvanically isolating at least one apparatus which is connectable to a 2-wire Ethernet bus system,0,H02H|H04L
+12124235,2024-10-22,Self-learning routine for checking compatibility,0,G05B|G06Q
+12123783,2024-10-22,"Thermal management system, method, and device for monitoring health of electronic devices",0,G01J|G01K|G05B|G06Q|G07C
+12117879,2024-10-15,"Control system and associated method for startup, control and monitoring of power supply components",0,G05B|G06F|H02J|H04L
+12117822,2024-10-15,Method and system for managing alarms in modular production installations,0,G05B|G06F
+12117787,2024-10-15,Method and control system for controlling an execution of transactions,0,G05B|G06N
+12111733,2024-10-08,Orchestrating a container-based application on a terminal device,0,G06F|H04L
+12111649,2024-10-08,Security-relevant diagnostic messages,0,G05B|H04L
+12108262,2024-10-01,Methods of communicating between a radio unit and a distributed unit,0,H04W
+12106224,2024-10-01,Method and assistance system for assisting the planning of automation systems,0,G05B|G06N|Y02P
+12106150,2024-10-01,System for data analytics using a local device and a cloud computing platform,0,G06F|G06N|H04L
+12105749,2024-10-01,Method for generating triples from log entries,0,G06F|G06N
+12101308,2024-09-24,Managing a SSO session by an identity provider,0,G06F|H04L
+12101255,2024-09-24,"Communication system, coupling communication device and method for transmitting time-critical data",0,H04L
+12093026,2024-09-17,Comprehensive fault analysis of control devices and industrial technical installations,0,G01M|G05B|G06F|G06N
+12093016,2024-09-17,Numerical controller which can be parametrised by the machine manufacturer,0,G05B|G06F
+12093011,2024-09-17,Method and system for generating an artificial intelligence model,0,G05B|G06N
+12088578,2024-09-10,Cryptographically protected provision of a digital certificate,0,G06F|H04L
+12086238,2024-09-10,Methods and systems for controlling access to at least one computer program,0,G06F|H04L
+12085903,2024-09-10,"Method, device, and system for configuring a coating machine",0,B05B|B05D|B25J|G05B|G06N
+12085663,2024-09-10,Method for determining a location of a user device in an industrial facility,0,G01S|H04L|H04W
+12082333,2024-09-03,"Electronic module, method for producing an electronic module, and industrial plant",0,H01L|H05K
+12081567,2024-09-03,"Analysis device, method and system for operational technology system and storage medium",0,G06F|G06N|H04L
+12079886,2024-09-03,System and method for manufacturing a product in a distributed environment,0,G06Q
+12075240,2024-08-27,Authentication method and apparatus,0,H04L|H04W
+12074726,2024-08-27,Method for data communication,0,G05B|H04L
+12073316,2024-08-27,Method for determining at least one indication of at least one change,0,G06F|G06N
+12073005,2024-08-27,Expanded integrity monitoring of a container image,2,G06F
+12072838,2024-08-27,Method for generating a coherent representation for at least two log files,0,G06F
+12069094,2024-08-20,Method and device for configuring an access protection system,0,H04L
+12068209,2024-08-20,Power module,0,G01K|G06F|H01L|H02M
+12066817,2024-08-20,Method and system for manufacturing industrial goods using influence diagram mapped to maximum expected utilities,0,G05B|G06N|G06Q|Y02P
+12063313,2024-08-13,Signing system for validating stateful hash-based digital signatures,0,H04L
+12058254,2024-08-06,Method for storing key data in an electronic component,0,G06F|H04L
+12058057,2024-08-06,Scheduling of data traffic,0,H04L
+12056152,2024-08-06,Operational policies of industrial field devices and distributed databases,0,G03F|G05B|G06F|H04L|Y02P
+12051908,2024-07-30,Device and method for controlling energy flows between components of an energy system,0,G06Q|H02J|Y02E|Y04S
+12051061,2024-07-30,"Method for operating a distributed database system, distributed database system, and industrial automation system",0,G06Q|H04L
+12050459,2024-07-30,"Anomaly detection method and apparatus for dynamic control system, and computer-readable medium",0,G05B|G06F|G06N
+12050440,2024-07-30,Machine control based on automated learning of subordinate control skills,0,F02C|F05D|G05B|G06N
+12047299,2024-07-23,Computer program and method for data communication,0,G05B|H04L|Y02P
+12045027,2024-07-23,Method and control system for controlling and/or monitoring devices,0,G05B|G06F|H04L
+12039081,2024-07-16,Method and arrangement for providing data from an industrial automation arrangement to an external arrangement,0,G05B|G06F|H04L
+12034875,2024-07-09,Establishing secure communication without local time information,1,H04L
+12033225,2024-07-09,Dynamic deploying a mom module across a plurality of layers,0,G06Q|Y02P
+12033089,2024-07-09,Deep convolutional factor analyzer,0,G06F|G06N
+12032876,2024-07-09,Device and method for simulating a controlled machine or installation,0,G05B|G06F
+12032463,2024-07-09,Data monitor,0,G06F|H04L
+12020815,2024-06-25,Training method for giving treatment recommendations to a physician based on a propensity score and an outcome score,0,G06N|G16H
+12013769,2024-06-18,"Hot-standby redundancy control system, method, control apparatus, and computer readable storage medium",0,G05B|G06F|Y02P
+12013676,2024-06-18,Programmable logic controller-based modular acceleration module for artificial intelligence,0,G05B|G06N
+12008144,2024-06-11,Method and apparatus for tamper-proof storage of information in respect of object-related measures,0,G06F|H04L
+12007871,2024-06-11,Computer-implemented method for determining at least one quality attribute for at least one defect of interest,0,G05B|G06F|G06N
+12003621,2024-06-04,Method for managing keys of a security group,0,G05B|H04L
+12003525,2024-06-04,Development security operations on the edge of the network,0,G06F|H04L
+12001819,2024-06-04,"Method, computer program product and modeling tool for the reference model-based, requirement-based development of a technical system",0,G06F|H04L
+12001516,2024-06-04,Method and assistance system for parameterizing an anomaly detection method,0,G05B|G06F|G06T
+11996348,2024-05-28,Semiconductor module assembly having a cooling body and at least one semiconductor module,0,H01L
+11995076,2024-05-28,"System, computing platform and method of integrating data from a plurality of data sources",0,G06F
+11994978,2024-05-28,Automated verification of a test model for a plurality of defined BDD test scenarios,0,G06F|G06N|G06T
+11994852,2024-05-28,"Method, controller, and computer product for reducing oscillations in a technical system",0,G05B|G06N
+11991252,2024-05-21,"Methods, devices, systems, and non-transitory machine-readable storage mediums for configuring parameter sampling of devices",0,G06F|H04L
+11991189,2024-05-21,Intrusion detection for computer systems,0,G06F|H04L
+11991044,2024-05-21,"System for data transmission between a client device, a server device, and a plurality of automation devices",0,G05B|G06N|H04L
+11990302,2024-05-21,"Circuit breaker, removable display, and electronic trip unit for a circuit breaker",0,G06F|H01H
+11988998,2024-05-21,Method and apparatus for computer aided simulation of a modular technical system,0,G05B|G06F|Y02P
+11982986,2024-05-14,Data synchronization system for device based engineering,0,G05B|G06F|Y02P
+11979419,2024-05-07,Industrial process system threat detection,0,G05B|G06N|H04L
+11977878,2024-05-07,System and method for managing software services in building customized software,0,G06F
+11977833,2024-05-07,Computer-implemented method and apparatus for automatically annotating columns of a table with semantic types,0,G06F|G06N
+11977558,2024-05-07,Device and method for coupling a machine to a plurality of applications,0,G05B|G06F
+11973830,2024-04-30,System and method for streaming measurement data,0,H04L|Y02D|Y04S
+11973777,2024-04-30,Knowledge graph for real time industrial control system security event monitoring and management,1,G06F|G06N|H04L
+11971808,2024-04-30,Generation of test models from behavior driven development scenarios based on behavior driven development step definitions and similarity analysis using neuro linguistic programming and machine learning mechanisms,0,G06F
+11971708,2024-04-30,Method for providing context based artefact access,0,G05B|G06F|G06Q
+11968074,2024-04-23,"Method for operating a control arrangement for an energy network, and control arrangement",0,G06F|H04L
+11967820,2024-04-23,Method and apparatus for deploying power quality monitoring device,0,G01R|G06F|G06Q|H02J
+11962569,2024-04-16,Hardening a communication device,0,H04L
+11961012,2024-04-16,Method for computer-implemented determination of a data-driven prediction model,0,G06F|G06N
+11961010,2024-04-16,Method and apparatus for performing entity linking,0,G06F|G06N
+11960932,2024-04-16,Target distribution of resources determined on a basis of an optimization parameterization,0,G06F|G06Q
+11960858,2024-04-16,Performance based system configuration as preprocessing for system peformance simulation,0,G05B|G06F|Y02P
+11958479,2024-04-16,"Method, computer program product, central control unit and control system for controlling at least partly automated vehicles in a roadway danger zone, in particular intersections of roadways in road traffic",0,B60W|G05D|G08G|H04W
+11954643,2024-04-09,System and method for generating a plant bill of process,0,G05B|G06Q
+11954631,2024-04-09,Method of and system for enacting a business process in an event-driven environment,0,G06F|G06Q
+11954535,2024-04-09,"Systems, devices, and methods for execution of tasks in an internet-of-things (IOT) environment",0,G06F|G16Y|H04L|Y02D
+11951631,2024-04-09,Object marking to support tasks by autonomous machines,0,B25J|G05B|G06F|Y02P
+11949742,2024-04-02,Condition monitoring system and method,0,H04L|H04W|Y02D
+11948856,2024-04-02,Heat sink for an electronic component,0,B22F|B33Y|C22C|H01L|Y02P
+11941451,2024-03-26,Orchestration of containerized applications,0,G06F|G06N
+11940782,2024-03-26,Product performance prediction modeling to predict final product performance in case of device exception,0,G05B|G06N|Y02P
+11934507,2024-03-19,Project-oriented certificate management,0,G06F|G06Q|H04L
+11934182,2024-03-19,Method for computer-supported simulation of operation of a machine working in an automated manner,0,G05B|G06F
+11930071,2024-03-12,Network adapter for unidirectional transfer of data,0,H04L
+11928689,2024-03-12,Deleting transactions from a distributed ledger,0,G06F|G06Q|H04L
+11928481,2024-03-12,Method and system for determining optimal computing configuration for executing computing operation,0,G06F|G06N|Y02D
+11928203,2024-03-12,Method and test environment for providing an application for a computer controlled component,0,G06F
+11927942,2024-03-12,Automatic setup of digital twins for industrial controllers,0,G05B|G06K|H04L|Y02P
+11927643,2024-03-12,"Method, device and system for recognizing an electrical oscillation in an electrical power supply system",0,G01R|G06F|H02J
+11924227,2024-03-05,Hybrid unsupervised machine learning framework for industrial control system intrusion detection,1,H04L
+11923976,2024-03-05,"Method for transmitting analysis-relevant data, transmitter and system",0,G05B|H04L|Y02P
+11922134,2024-03-05,Physics informed neural network for learning non-Euclidean dynamics in electro-mechanical systems for synthesizing energy-based controllers,0,G06F|G06N
+11921499,2024-03-05,Multi-parameter dynamic sampling method and multi-parameter dynamic sampling device,1,G05B|H04L
+11917081,2024-02-27,Issuing device and method for issuing and requesting device and method for requesting a digital certificate,1,G06F|H04L
+11917027,2024-02-27,Method and system for providing time-critical services,0,H04L
+11916857,2024-02-27,Hyperlink messages for machine-to-machine communication on a machine social media platform,0,H04L
+11915990,2024-02-27,Method for manufacturing a power module unit,0,B21D|B23D|B23P|F28F|H01L|H05K
+11915451,2024-02-27,Dense 6-DoF pose object detector,0,G06N|G06T|G06V
+11914715,2024-02-27,Device unit suitable for operation in a protected and/or open operating state and associated method,0,G06F
+11914456,2024-02-27,Method and device for securing access to encoded variables in a computer program,0,G06F
+11914350,2024-02-27,Manufacturing process control using constrained reinforcement machine learning,0,G05B|G06N
+11907576,2024-02-20,Method for communicating with one or more field devices,0,G05B|G06F
+11907057,2024-02-20,Fault processing method and system,0,G05B|G06F
+11906987,2024-02-20,Pressure control in a supply grid,0,E03B|F17D|G05B|G05D|G06N|G06Q
+11900646,2024-02-13,"Methods for generating a deep neural net and for localising an object in an input image, deep neural net, computer program product, and computer-readable storage medium",0,G06N|G06T|G06V
+11900247,2024-02-13,Solar irradiation prediction using deep learning with end-to-end training,0,G01W|G06N
+11900081,2024-02-13,"Computer-implemented method and technical system for task-oriented system definition, implementation and operation",0,G06F
+11900034,2024-02-13,Method of modeling a component fault tree for an electric circuit,0,G05B|G06F
+11899556,2024-02-13,Computer-implemented method for generating a component fault and deficiency tree of a multi-component system comprising a plurality of components,0,G05B|G06F
+11899441,2024-02-13,Remaining service life prediction for switches,0,G01R|G05B|G06Q
+11895190,2024-02-06,Energy-efficient communication between sensor and satellite,1,H04L|H04W|Y02D
+11888407,2024-01-30,Power module having at least two power semiconductor arrangements that are contacted on a substrate,0,H01L|H02M|H05K
+11886939,2024-01-30,"System, device, method and datastack for managing applications that manage operation of assets",0,G05B|G06F
+11886161,2024-01-30,Configuring and building an automation system to perform rule-based transformations on complex technical systems,0,G05B|G06F|G06N
+11883947,2024-01-30,Machine learning enabled visual servoing with dedicated hardware acceleration,0,B25J|G05B|G06F
+11882447,2024-01-23,Computer-implemented method and network access server for connecting a network component to a network with an extended network access identifier,0,H04L|H04W
+11882043,2024-01-23,Method and system for providing time-critical services via a flow control environment,0,H04L
+11880459,2024-01-23,"Method and apparatus for controlling mobile storage device, and computer-readable medium",0,G06F
+11880353,2024-01-23,Method and system for handling engineering data in a multiengineering system environment,2,G06F
+11880190,2024-01-23,Method and platform for deployment of an industrial application on an edge computing device of a machine tool,0,G05B|G06F|G06N|Y02P
+11880189,2024-01-23,Method and apparatus for optimizing gasifier model,0,C10J|C10K|G05B|G06F
+11876876,2024-01-16,"Communication conversion method, gateway device, network system and computer medium",0,H04L
+11875158,2024-01-16,Automation system and a method for injecting transactional services in automation,0,G06F
+11868501,2024-01-09,System device and method for managing access to data in an automation environment,0,G06F
+11868291,2024-01-09,Data transfer system and method for transferring data in a data transfer system,0,G06F|H04L
+11863544,2024-01-02,Authenticating a node in a communication network of an automation installation,0,H04L
+11863533,2024-01-02,Arrangement and method for functionally safe connection identification,0,H04L|H04W
+11860764,2024-01-02,"Method, apparatus, and system for evaluating code design quality",1,G06F|G06N
+11856106,2023-12-26,Secure configuration of a device,0,G06F|H04L
+11855984,2023-12-26,Method and system of providing secure access to a cloud service in a cloud computing environment,0,G06F|H04L
+11853903,2023-12-26,SGCNN: structural graph convolutional neural network,0,G06F|G06N|G06Q
+11853052,2023-12-26,Cluster based classification for time series data,0,G05B|G06N
+11853049,2023-12-26,Integrity monitoring in automation systems,0,G05B|G06F|G06N|Y02P
+11853048,2023-12-26,Control method and device that resolves closed loops in automatic fault tree analysis of a multi-component system,0,G05B|G06F
+11846926,2023-12-19,Negotiation-based method and system for coordinating distributed MES order management,0,G05B|G06Q
+11841698,2023-12-12,Arrangement and method for secure execution of an automation program in a cloud computing environment,0,G05B|G06F
+11838409,2023-12-05,Method and apparatus for transferring data in a publish-subscribe system,0,H04L
+11838367,2023-12-05,"Information acquiring method, apparatus, and system",0,G06F|G06N|G06Q|H04L
+11838280,2023-12-05,"Method and devices for providing at least one service, in particular in the automotive environment",0,H04L|H04W
+11837571,2023-12-05,"Semiconductor module comprising a first and second connecting element for connecting a semiconductor chip, and also production method",0,H01L
+11831160,2023-11-28,"Power load data prediction method and device, and storage medium",0,G06F|G06V|H02J|Y04S
+11829122,2023-11-28,"Industrial network behavior analysis method, apparatus and system, and computer-readable medium",0,G05B|H04L|H04W
+11823988,2023-11-21,Semiconductor module comprising a housing,0,H01L|H02M|H05K
+11822646,2023-11-21,Generating an automated security analysis for an installation,0,G06F
+11822546,2023-11-21,"Method, apparatus and computer program for automatically processing data identifiers",0,G06F|H04L
+11817367,2023-11-14,Power module,0,H01L|H05K
+11809900,2023-11-07,Method and system for migration of containers in a container orchestration platform between compute nodes,0,G06F
+11805110,2023-10-31,Method for transmitting data packets,0,H04L
+11799724,2023-10-24,Internet-of-things model-based virtual internet-of-things device generation method and apparatus,0,H04L
+11797719,2023-10-24,Dynamic preview generation in a product lifecycle management environment,0,G06F|G06T
+11797283,2023-10-24,"Application program development and deployment method and apparatus, and computer-readable medium",0,G06F
+11796988,2023-10-24,"Method and control unit for providing transport data for controlling a goods transport in a production environment, and production environment",0,G05B|G06Q|Y02P
+11790135,2023-10-17,Method and systems for provision of a simulation model of an electric rotating machine,0,G05B|G06F
+11789850,2023-10-17,System and method for testing a physical system including software and hardware,1,G06F
+11789799,2023-10-17,Protection against internal faults in burners,0,F23K|F23N|G05B|G06F|Y02E|Y04S
+11789713,2023-10-17,Method and system for determining in which technological layer a module of a MOM application is to be deployed,0,G06F|G06Q
+11789705,2023-10-17,"Method, computer program product and modeling tool for the reference model-based, component-related development of a technical system",0,G06F|H04L
+11789702,2023-10-17,Automatic derivation of software engineering artifact attributes,0,G06F
+11789434,2023-10-17,Method and control system for technical plants,0,G05B|G06F|Y02P
+11784790,2023-10-10,"Method for operating keystream generators for secure data transmission, the keystream generators being operated in counter mode, keystream generator having counter mode operation for secure data transmission, and computer program product for keystream generation",0,H04L
+11783039,2023-10-10,Method for verifying an execution environment used for execution of at least one hardware-application provided by a configurable hardware module,0,G06F
+11782861,2023-10-10,"Extension module for independently storing calibration data, component, and component calibration method",0,G05B|G06F
+11782415,2023-10-10,Numerical controller having scalable performance,0,G05B|G06F
+11777967,2023-10-03,Recognizing deviations in security behavior of automation units,0,G06N|H04L
+11775911,2023-10-03,Method and apparatus for providing predictions of key performance indicators of a complex manufacturing system,0,G06Q|Y02P
+11764975,2023-09-19,Method for validating a digital user certificate,0,H04L
+11757884,2023-09-12,Method and system for controlling the release of a resource,0,H04L|Y04S
+11756857,2023-09-12,"Electronic circuit, power converter, and method for producing an electronic circuit",1,H01L|H05K
+11756189,2023-09-12,Method and systems for providing synthetic labeled training datasets and applications thereof,0,G06F|G06T|G06V
+11755719,2023-09-12,Interface for a hardware security module,0,G06F
+11755401,2023-09-12,System and method for controlling power grid connection of power consumption entity using an analytical artifact,0,G05B|G06F|G06Q
+11755353,2023-09-12,"Method for reciprocally integrating applications, in particular web applications",0,G05B|G06F|Y02P
+11751270,2023-09-05,Apparatus and method for achieving higher security on re-pairing,0,G08C|H01H|H04L|H04Q|H04W
+11750471,2023-09-05,Method and apparatus for determining resource configuration of cloud service system,0,H04L
+11747799,2023-09-05,Industrial control system and network security monitoring method therefor,0,G05B|G06F|H04L
+11747793,2023-09-05,Skill matching for control of an industrial production machine,0,G05B|G06F|Y02P
+11747191,2023-09-05,Automated health state classifier for rotating machines based on expert knowledge,0,G01H|G01M|G05B|G06N
+11741267,2023-08-29,Consensus method for a distributed database,0,G06F|H04L
+11741161,2023-08-29,System and method for generating a refined query,0,G06F
+11736524,2023-08-22,"Network traffic sending method and apparatus, and hybrid honeypot system",0,G06N|H04L|Y02D
+11736370,2023-08-22,"Field data transmission method, device and system, and computer-readable medium",0,H04L
+11736301,2023-08-22,"Method, system, transmitter, and receiver for authenticating a transmitter",0,G06F|H04L
+11726538,2023-08-15,Method and a device for power supply switchover in a power system,0,G06F|H02J|Y02B|Y04S
+11726461,2023-08-15,"Method, apparatus, electronic device, medium, and program product for monitoring status of production order",0,G05B|G06Q
+11723177,2023-08-08,Cooling device with fiber attachment between heating tube and cooling element,0,F28F|H01L|H05K
+11723155,2023-08-08,"Circuit carrier, package, and method for manufacturing a package",0,H01L|H05K
+11722487,2023-08-08,Connecting an end device to a linkable computer infrastructure,0,G06F|H04L
+11716251,2023-08-01,"Communication system, provider node, communication node, and method for providing a virtual network function to a customer node",0,H04L
+11711427,2023-07-25,Data acquisition system and method,0,G05B|H04L
+11709769,2023-07-25,Method for testing a microservice application,1,G06F
+11706880,2023-07-18,Explosion-proof pressure-tight housing for electrical operating devices,0,G06F|H02G|H05K
+11706297,2023-07-18,Integration of a machine into an existing distributed ledger network,0,H04L
+11706257,2023-07-18,Device and method for checking properties of resources,0,G06F|H04L
+11704605,2023-07-18,Framework for guided change management and change impact analysis with automated change validation through formal executable semantics,0,G06F|G06Q
+11704561,2023-07-18,Method for realizing a neural network,0,G06F|G06N
+11703842,2023-07-18,Method and device for acquiring data of data sources associated with production line,0,G05B|G06F|G06Q|Y02P
+11703822,2023-07-18,Method for operating a machine tool by adapting a precompiled machine model,0,G05B|G06F
+11692866,2023-07-04,Smart motor data analytics with real-time algorithm,0,G01H|G01M|G01N|G01R|G06F
+11687068,2023-06-27,Method and system for automatic conduction of a process failure mode and effect analysis for a factory,1,G05B|G06F|G06Q
+11687063,2023-06-27,Semantics-based internet of things device data processing-related application installation method and apparatus,0,G05B|G06F|G16Y|H04L
+11682987,2023-06-20,"Drive control method, drive system, processing system and storage medium",0,H02P|H04L
+11681597,2023-06-20,"Anomaly detection method and system for process instrument, and storage medium",0,G05B|G06F
+11677741,2023-06-13,Method and system for secure time synchronization,0,G05B|G06F|H04L|Y02P
+11677679,2023-06-13,Method and system for managing sub-tenants in a cloud computing environment,2,G06F|H04L
+11675331,2023-06-13,Tuning of axis control of multi-axis machines,0,G05B|G06N
+11669641,2023-06-06,Method for the computer-aided parameterization of a technical system,0,G06F|H04L|Y04S
+11669373,2023-06-06,System and method for finding and identifying computer nodes in a network,2,G06F
+11669075,2023-06-06,"Automation device, computer program, computer-readable medium and method for automatically configuring an automation device",0,G05B|H04L|Y02D|Y02P
+11665015,2023-05-30,Method and control system for controlling and/or monitoring devices,0,G06F|H04L|H04W
+11662702,2023-05-30,Method for protecting the production data for producing a product,0,G05B|H04L
+11662320,2023-05-30,Ascertaining the pose of an x-ray unit relative to an object on the basis of a digital model of the object,0,G01B|G01N|G06N
+11658943,2023-05-23,"Method and devices for providing at least one service, in particular in the automotive environment",0,H04L|H04W
+11658825,2023-05-23,Securing an item of device use information of a device,1,H04L
+11657274,2023-05-23,Weakly-supervised semantic segmentation with self-guidance,0,G06N
+11657183,2023-05-23,Method for providing restricted access to hardware component interfaces of a network device,0,G06F|H04L
+11654560,2023-05-23,Method for computer-aided user assistance during the activation of a movement planner for a machine,0,B25J|G05B|G06F
+11652796,2023-05-16,Method and arrangement for control data exchange of an industrial edge device,0,G05B|G06F|G06Q|H04L
+11652661,2023-05-16,Interface expansion device for a network device,0,G01R|G06F|H04L
+11652641,2023-05-16,Artifact lifecycle management on a cloud computing system,0,G06F|H04L
+11651587,2023-05-16,Method and apparatus for product quality inspection,0,G06F|G06T|G06V
+11651559,2023-05-16,"Augmented reality method for simulating wireless signal, and apparatus",0,G06N|G06T|H04N|H04W
+11651006,2023-05-16,"Method of visualizing screen content on a data visualization system, and data visualization system for visualizing screen content",0,G05B|G06F
+11650896,2023-05-16,Method and a device for processing frequency converter monitoring data and a storage medium,0,G06F
+11650796,2023-05-16,Method for assisting a utilizer in creating a software application and computer program having an implementation of the method and also programming interface usable for such method,0,G06F|G06Q|G16Y
+11647022,2023-05-09,Method and system for providing access to data stored in a security data zone of a cloud platform,0,H04L|H04W
+11646909,2023-05-09,Method for data transmission in a redundantly operable communications network and coupling communication device,1,H04L
+11645631,2023-05-09,Method and system for automatic maintenance of a machine,0,G06N|G06Q
+11645322,2023-05-09,Method and analytical engine for a semantic analysis of textual data,0,G06F
+11641322,2023-05-02,"System, computer program, computer-readable medium and method for providing a redundant relay, particularly a routing function",0,H04L
+11640394,2023-05-02,"Method, apparatuses and system for exchanging data between a distributed database system and devices",0,G06F|H04L
+11636419,2023-04-25,System and method for plant efficiency evaluation,0,G06F|G06Q
+11630884,2023-04-18,"Method for managing access to a device, and access system",0,G06F|H04L
+11630758,2023-04-18,Artificial intelligence enabled output space exploration for guided test case generation,0,G06F|G06N
+11625950,2023-04-11,System and method for enhancing image retrieval by smart data synthesis,0,G06F|G06N|G06V
+11625350,2023-04-11,Control system and method for fine-grained reconciliation of local archives in master/master scenarios of servers of a technical installation,0,G05B|G06F|Y02P
+11622015,2023-04-04,"Method for configuring an OPC UA PubSub subscriber, automation system, computer program and computer-readable medium",0,H04L|Y02P
+11621856,2023-04-04,Generating a domain name system container image to create an instance of a domain name system container,0,G06F|H04L
+11616838,2023-03-28,Securing an automation component,0,G05B|G06F|H04L|Y02P
+11615209,2023-03-28,Big data k-anonymizing by parallel semantic micro-aggregation,1,G06F
+11615007,2023-03-28,Method and control system for controlling and/or monitoring devices,0,G06F|G06Q|H04L
+11610112,2023-03-21,Method for the computer-aided configuration of a data-driven model on the basis of training data,0,G01J|G06F|G06N
+11609996,2023-03-21,"Data processing apparatus, system, and method for proving or checking the security of a data processing apparatus",0,G06F|H04L
+11609555,2023-03-21,Device and method for automatic calculation of measurement confidence in flexible modular plants and machines,0,G05B|G06Q|Y02P
+11606509,2023-03-14,"Camera system and method for monitoring an installation, in particular switchgear",0,H02J|H04N|Y02B|Y02E|Y04S
+11604449,2023-03-14,"Apparatus for monitoring an actuator system, method for providing an apparatus for monitoring an actuator system and method for monitoring an actuator system",0,G01R|G05B|G06N
+11601494,2023-03-07,"Method for transferring data from a device to a data management means, switching unit, device and system",0,G05B|G06N|H04L
+11595348,2023-02-28,"Method for configuring, method for providing topology information, name service server, device, computer program and computer-readable medium",1,H04L|Y02D
+11593736,2023-02-28,Method for production planning,0,G05B|G06N|G06Q|Y02P
+11592797,2023-02-28,Control program and method for operating an engineering system for an industrial process automation system,0,G05B|G06F
+11587019,2023-02-21,Method for a registration of usage of tracking data,0,G06F|G06Q|H04L
+11586423,2023-02-21,Automatic derivation of software engineering artifact attributes with integrated distribution calculation,6,G06F
+11586190,2023-02-21,"Method for operating a technical or non-technical system, and facility for such systems",0,G05B|G06F|H02J|H04L|Y04S
+11586184,2023-02-21,Method and system for automatic management of a buffer system,0,G05B|G06Q
+11584622,2023-02-21,Loading of a load with a crane system,0,B65G|B66C|G06F|G06T|G06V
+11580222,2023-02-14,Automated malware analysis that automatically clusters sandbox reports of similar malware samples,1,G06F|G06N
+11579594,2023-02-14,Method and engineering system for modifying a program of an industrial automation component,0,G05B|G06F
+11579208,2023-02-14,"Method, apparatus and device for evaluating the state of a distribution transformer, and a medium and a program",0,G01R|G06F|G06Q|Y04S
+11575808,2023-02-07,Camera to observe the switched position of a switch contact,0,G01M|G02B|G03B|H02B|H04N
+11568088,2023-01-31,"Method, processor and device for checking the integrity of user data",0,G06F
+11567823,2023-01-31,Method for identifying and evaluating common cause failures of system components,0,G06F|G06Q
+11567464,2023-01-31,Back annotation of operator selections,0,G05B|G06F|H04L
+11567461,2023-01-31,Method and device for controlling a technical system using a control model,0,G05B|G06F|G06N
+11564241,2023-01-24,"Method for operating a radio communication system for an industrial automation system, radio communication system, base station and subscriber station",1,H04L|H04W
+11562278,2023-01-24,Quantum machine learning algorithm for knowledge graphs,0,G06F|G06N
+11562186,2023-01-24,Capturing network dynamics using dynamic graph representation learning,3,G06F|G06N
+11561781,2023-01-24,Method and system for determining an appropriate installation location for an application to be installed in a distributed network environment,0,G06F
+11561534,2023-01-24,Adaptive repeater for industrial communication,0,G05B|H04L|Y02P
+11558203,2023-01-17,Automated public key infrastructure initialization,0,G05B|G06F|H04L
+11556749,2023-01-17,Domain adaptation and fusion using weakly supervised target-irrelevant data,0,G06F|G06N|G06V
+11556660,2023-01-17,Method and apparatus for erasing security-relevant information in a device,0,G06F|H04W
+11556118,2023-01-17,Method for testing an autonomous system,1,B25J|G05B|G06T
+11552800,2023-01-10,"Apparatus, system and method for operating a software-defined network",0,G06F|H04L
+11551436,2023-01-10,Method and processing unit for computer-implemented analysis of a classification model,0,G06F|G06N
+11551169,2023-01-10,Industrial device matching method and apparatus,0,G05B|G06Q|Y02P
+11551037,2023-01-10,"Method and apparatus for determining a physical shape, method for manufacturing a calculation device, calculation device, and use of the calculation device",1,G06F|G06N
+11550881,2023-01-10,Method for managing soft IP licenses on a partially reconfigurable hardware system,0,G06F|H04L
+11550823,2023-01-10,Preprocessing for a classification algorithm,0,G06F|G06N
+11550288,2023-01-10,Method for replacing legacy programmable logic controllers,0,G05B|G06N
+11550270,2023-01-10,"Redundant automation system, method for creating the automation system, computer program and computer readable medium",0,G05B|G06F|Y02P
+11545997,2023-01-03,Device and method for processing a binary-coded structure document,0,G06F|H03M
+11544206,2023-01-03,Process control unit and method for interprocess exchange of process variables,0,G05B|G06F|H04L|Y02P
+11543804,2023-01-03,System and method for remotely managing configuration of industrial machines,0,G05B|H04L
+11533344,2022-12-20,"Method for establishing a stream, method for providing stream identification information, domain name system (DNS) server, device computer program and computer-readable medium",0,H04L
+11533165,2022-12-20,"Signal and/or data transmission and/or encryption unit, PRN code generator, integrated integrity check, and computer-aided method for secure signal transmission",0,G01S|H04L
+11532056,2022-12-20,Deep convolutional neural network based anomaly detection for transactive energy systems,0,G01R|G01W|G06F|G06N|G06Q|H02J|Y02E|Y04S
+11531324,2022-12-20,Method and system for cross discipline data validation checking in a multidisciplinary engineering system,0,G05B|G06F|Y02P
+11525858,2022-12-13,Method and system for predictive maintenance of integrated circuits,0,G01K|G01R|G06F
+11523553,2022-12-06,Method and control device for the processing-time-optimized production of printed circuit boards on a pick-and-place line,0,G05B|G06Q|H05K|Y02P
+11522762,2022-12-06,Coordination device and method for providing control applications via a communication network for transmitting time-critical data,0,G05B|H04L|Y02D|Y02P
+11520817,2022-12-06,Method and system for automatic discovery of topics and trends over time,1,G06F
+11516444,2022-11-29,Switchgear with a modular optical monitoring system,0,G02B|H01H|H02B|H04N
+11513508,2022-11-29,"Method, component, and electronic device for creating human machine interface",0,G05B|G06F|Y02P
+11513029,2022-11-29,"Moving flying object for scanning an object, and system for analyzing damage to the object",0,B64U|G01B|G01M|G05D|H04N
+11509430,2022-11-22,Method for operating an automation network having packet-based communication between a host and client,0,H04L|Y02P
+11507483,2022-11-22,Method for analyzing a physical system architecture of a safety-critical system,1,G05B|G06F
+11507478,2022-11-22,Method for operating a redundant automation system,0,G05B|G06F
+11501030,2022-11-15,Computer-implemented method and apparatus for automatically generating identified image data and analysis apparatus for checking a component,0,G01M|G05B|G06F|G06N|G06T|G07C|Y02P
+11500991,2022-11-15,Method and system for providing security information about an application container for an industrial edge device,0,G06F
+11500512,2022-11-15,Method and system for viewing virtual elements,20,G06F|G06T|G06V
+11496574,2022-11-08,Method for setting up an uninterrupted communication connection and communication device,0,G05B|H04L|Y02P
+11494195,2022-11-08,Interface device and method for configuring the interface device,0,G05B|G06F|G06N|Y02P
+11488035,2022-11-01,Method and device for machine learning in a computing unit,0,G05B|G06N
+11487266,2022-11-01,Method for recognizing contingencies in a power supply network,0,G05B|G06N|G06Q|H02J|Y02B|Y02E|Y02P|Y04S
+11483285,2022-10-25,"Access control device, an access control method, a computer program product and a computer readable medium",1,H04L
+11482865,2022-10-25,Method and device for recording and evaluating an output of electrical energy of a hybrid power plant,0,G06Q|H02J|Y02E|Y04S
+11481699,2022-10-25,Method and device for estimating the lifecycle of a component,0,G06F|G06Q|Y02P
+11481500,2022-10-25,System and method to check automation system project security vulnerabilities,0,G06F|G06N|H04L
+11480952,2022-10-25,"System, method and control unit for diagnosis and life prediction of one or more electro-mechanical systems",2,F16C|G05B|G06Q
+11477107,2022-10-18,"Method for data communication in an industrial network, control method, device, computer program and computer-readable medium",0,G05B|H04L
+11475378,2022-10-18,"Project planning system, control program and method for checking consistent recording of pipelines in a project planning system",0,G05B|G06F|G06Q|Y02P
+11474492,2022-10-18,Apparatus and method for autonomously adding and removing of functionality in programmable logic controllers (PLCs),0,G05B|G06F|G06Q
+11469925,2022-10-11,Cloud gateway device and method for operating a cloud gateway device,0,H04L
+11468274,2022-10-11,Data driven method for automated detection of anomalous work pieces during a production process,1,G05B|G06F
+11468057,2022-10-11,Method and system for providing a generic query interface,0,G06F
+11468021,2022-10-11,Method for the deployment of schema changes in systems involving a database and computer system,0,G06F
+11467568,2022-10-11,Method for computer-aided processing of quality information of an object and a respective assistance apparatus,0,B22F|B29C|B33Y|G05B|G06F|Y02P
+11467566,2022-10-11,"Communication device, communication terminal, communication device and method for operating a communication system for transmitting time-critical data",0,G05B|H04L|H04Q|Y02D
+11467558,2022-10-11,Interruption recovery method for machine tool machining file and machine tool applying same,0,G05B|G06F|H04L
+11467552,2022-10-11,"Decentralized planning, scheduling and control of multi-agent flow control system",0,G05B|G06F|G06Q
+11465525,2022-10-11,Measuring apparatus and method for capturing electrical energy transferred from a charging station,0,B60L|G01R|G06Q|G07F|Y02T|Y04S
+11463849,2022-10-04,"Data processing device, data analyzing device, data processing system and method for processing data",0,G06F|H04L|H04W
+11461721,2022-10-04,Method and system for managing a technical installation,0,G05B|G06Q
+11461616,2022-10-04,Method and system for analyzing documents,0,G06F|G06N|G06V
+11461089,2022-10-04,"Data analysis method, device and system",0,G05B|G06F|G06Q|Y02P
+11456992,2022-09-27,"Method for automatically configuring a router, method for automatic address configuration, router, computer program and computer-readable medium",0,H04L
+11456879,2022-09-27,Secure processing of an authorization verification request,0,G06F|G06Q|H04L
+11456777,2022-09-27,Data recording device with a HART multiplexer,0,H04B|H04L|H04Q
+11455550,2022-09-27,System and method for detecting and forecasting the behavior of a system,1,G06F|G06N|G06Q
+11455531,2022-09-27,Trustworthy predictions using deep neural networks based on adversarial calibration,0,A61B|G06F|G06N|G06V
+11454960,2022-09-27,Method and control system for a technical installation with trend curve diagram,0,G05B|G06F
+11454947,2022-09-27,Method and apparatus for optimizing dynamically industrial production processes,1,G05B|G06Q|Y02P
+11454945,2022-09-27,Method and device for calling program module in PLC ladder programming environment,0,G05B|G06F
+11454944,2022-09-27,Automated certificate management,0,G05B|H04L
+11451053,2022-09-20,Method and arrangement for estimating a grid state of a power distribution grid,0,G06F|G06Q|H02J|Y02B|Y04S
+11444934,2022-09-13,System and method for dynamic allocation of automation units to automation servers,0,G05B|H04L
+11443262,2022-09-13,Energy efficient scheduling of industrial process by reducing idle time and tardiness of jobs,0,G05B|G06Q
+11442432,2022-09-13,Communication device and method for data transmission within an industrial communication network,0,G05B|H04L
+11442431,2022-09-13,Industrial control system,0,G05B|H04L
+11436321,2022-09-06,Safe guard detection for unexpected operations in a MES system,0,G05B|G06F|G06N
+11432439,2022-08-30,Electrical device and method for assembling the electrical device,0,H01L|H05K
+11432156,2022-08-30,Security unit for an IoT device and method for running one or more applications for the secured exchange of data with one or more servers which provide web services,0,H04L|H04W
+11428720,2022-08-30,Measuring arrangement and method of measuring electrical signals,0,G01R|G05B|G06F|H03H
+11424933,2022-08-23,Method and apparatus for exchanging messages,0,H04L
+11424170,2022-08-23,"Method for mounting an electrical component in which a hood is used, and a hood that is suitable for use in this method",0,H01L
+11423189,2022-08-23,System for automated generative design synthesis using data from design tools and knowledge from a digital twin,0,G06F
+11422928,2022-08-23,"Method, device and test program for recognizing a weak point in an original program",0,G06F
+11418521,2022-08-16,"Industrial control system monitoring method, device and system, and computer-readable medium",0,G05B|H04L
+11418462,2022-08-16,Bot for a communication platform,0,G06F|G06Q|H04L
+11418412,2022-08-16,Operational constraints for operational functions of field devices,0,G06F|H04L
+11418029,2022-08-16,Method for recognizing contingencies in a power supply network,0,G06N|G06Q|H02J|Y04S
+11416689,2022-08-16,System and method for natural language processing with a multinominal topic model,0,G06F|G06N
+11416642,2022-08-16,Preparation of a three-dimensional model for data transmission,0,G06F|G06T
+11416600,2022-08-16,Unlocking passwords in augmented reality based on look,0,G02B|G06F|G06T|H04L|H04W
+11416363,2022-08-16,Method for risk-based testing,0,G06F|G06Q
+11412047,2022-08-09,Method and control system for controlling and/or monitoring devices,0,G06F|H04L
+11409928,2022-08-09,Configurable digital twin,0,G06F
+11409272,2022-08-09,"Method for checking an industrial facility, computer program, computer-readable medium and system",0,G05B|G06F
+11405358,2022-08-02,Network security monitoring of network traffic,0,H04L
+11404870,2022-08-02,"Method for planning an electrical power transmission network, planning arrangement and computer program product",0,G06Q|H02J
+11403737,2022-08-02,Segmenting and denoising depth images for recognition applications using generative adversarial neural networks,0,G06F|G06N|G06T|G06V
+11403491,2022-08-02,Object recognition from images using cad models as prior,2,G06F|G06N|G06T|G06V
+11403478,2022-08-02,Entropy-based validation of sensor measurements,0,G06F|G06N|H04L|H04W
+11403439,2022-08-02,Method and apparatus for robust reduction of shape error in laser powder deposition based additive manufacturing process due to uncertainty,0,B29C|B33Y|G05B|G06F|Y02P
+11403428,2022-08-02,Protecting integrity of log data,0,G06F
+11403406,2022-08-02,Method and confirmation device for confirming the integrity of a system,0,G06F|H04L
+11403384,2022-08-02,Access control,2,G06F|Y02D
+11398945,2022-07-26,System and method for fault detection and root cause analysis in a network of network components,0,H04L
+11398423,2022-07-26,Semiconductor assembly and method of producing the semiconductor assembly,0,H01L
+11397872,2022-07-26,Technique for machine visual learning,0,G06F|G06N|G06T|G06V
+11397633,2022-07-26,Unifying semi-supervised approach for machine condition monitoring and fault diagnosis,0,G05B|G06F|G06N
+11394747,2022-07-19,Method for setting up a communication channel between a server device and a client device,0,G06F|H04L
+11394729,2022-07-19,Method and system for managing IoT-based devices in an internet-of-things environment,3,G16Y|H04L
+11394653,2022-07-19,Data transmission in time-sensitive data networks,0,H04L
+11392108,2022-07-19,Production module,0,B65G|G05B|G06Q
+11385629,2022-07-12,Product closing the loop,0,G05B|G06Q
+11381648,2022-07-05,Method and apparatus for data interchange,0,H04L
+11379745,2022-07-05,"Method, apparatus, device and machine-readable medium for detecting abnormal data using an autoencoder",0,G05B|G06F|G06N
+11379391,2022-07-05,Real-time automation device having a real-time data bus,0,G05B|G06F|H04L|Y02P
+11373984,2022-06-28,"Power module having a power electronics device on a substrate board, and power electronics circuit having such a power module",0,H01L
+11368485,2022-06-21,"Method, apparatuses and computer program product for monitoring an encrypted connection in a network",0,H04L|H04W
+11366942,2022-06-21,Quador: quadric-of-revolution beams for lattices,0,G06F
+11366446,2022-06-21,Modular control of a linear drive with communication,1,G05B|H04L
+11362914,2022-06-14,Method and control system for controlling and/or monitoring devices,1,G06F|H04L
+11360650,2022-06-14,Control system for a technical installation with trend curve diagram,0,G05B|G06F
+11359744,2022-06-14,Method for monitoring a mechanical system,0,F15B|F16K|G05B|G06Q|Y10T
+11356358,2022-06-07,"Network node, computer program, computer-readable medium and method for fail-safe data transmission",0,G05B|G06N|H04L|Y02P
+11353862,2022-06-07,"Method, apparatus and system for determining signal rules of data for data annotation",0,G05B|G06F|Y02P
+11349882,2022-05-31,Connecting devices to the cloud,0,H04L
+11347996,2022-05-31,System state prediction,0,G05B|G06N
+11347864,2022-05-31,"Ace: assurance, composed and explained",0,G06F
+11347212,2022-05-31,Smart embedded control system for a field device of an automation system,1,G05B|G06F
+11343317,2022-05-24,Data transmission method and device,0,H04L
+11343058,2022-05-24,Cell search procedure using primary synchronization signals (PSS) and secondary synchronization signals (SSS) in a wireless communication system,0,H04L
+11341395,2022-05-24,Device and method for determining the status of a spindle of a machine tool,0,B23Q|G05B|G06N
+11341216,2022-05-24,Method for the computer-aided obfuscation of program code,0,G06F|H04L|Y04S
+11341068,2022-05-24,Interface module and method for configuring and parameterizing a field bus user,0,G05B|G06F
+11340930,2022-05-24,Creating a data backup of a virtualized automation solution,1,G06F
+11337299,2022-05-17,"Dissipating heat from an electronic assembly using forced convection, and method for dissipating heat from an electronic assembly",0,H01L|H05K
+11336657,2022-05-17,Securing communication within a communication network using multiple security functions,0,H04L
+11334689,2022-05-17,Apparatus and method for operating a software-configured processing unit for a device,0,G06F|H04L
+11334366,2022-05-17,Method and device for recognizing apparatus and computer readable storage medium and program,0,G06F|H04W
+11334033,2022-05-17,Predictive operational planning in a microgrid with power exchange between the microgrid and a primary grid,0,G05B|G06F|G06Q|H02J|Y04S
+11329915,2022-05-10,Router and method for operating a communication system having redundant routers,0,H04L
+11328406,2022-05-10,System and method for automated microstructure analysis,0,G06N|G06T
+11328067,2022-05-10,System and method for threat impact characterization,1,G05B|G06F|Y04S
+11328062,2022-05-10,Critical infrastructure forensics,1,G06F
+11323380,2022-05-03,Method of synchronization of data packet transmission,0,H04L
+11321938,2022-05-03,Color adaptation using adversarial training networks,0,G06N|G06T|G06V
+11316748,2022-04-26,Method and system for generating and managing virtual industrial devices in an industrial network,0,G06F|H04L
+11316654,2022-04-26,Communication device and method for operating a communication system for transmitting time critical data,1,G05B|H04L|Y02D|Y02P
+11315693,2022-04-26,Method and system for managing operation associated with an object on IoT enabled devices,0,G06F|G16Y|H04L
+11314939,2022-04-26,Method and apparatus for performing hierarchiacal entity classification,0,G06F|G06N
+11309906,2022-04-19,"Method, field device and cloud infrastructure for data acquisition",0,H03M|H04L
+11307552,2022-04-19,Method for modifying a configuration and industrial plant system,0,G05B|G06F|H04L|Y02P
+11307548,2022-04-19,Signal and event processing engine,1,G05B|G06F|Y02P
+11304058,2022-04-12,Setting up access authorization to access a subnetwork of a mobile radio network,0,H04W
+11303518,2022-04-12,System and method for checking system requirements of cyber-physical systems,0,G05B|H04L|Y02P
+11303440,2022-04-12,Method and programmable hardware security module,0,H04L
+11300946,2022-04-12,Control component and method for determining an adapted master value of a master axis,0,G05B|G06F|H04J
+11297107,2022-04-05,"Message queuing telemetry transport (MQTT) data transmission method, apparatus, and system",0,H04L|H04W
+11297049,2022-04-05,Linking a terminal into an interconnectable computer infrastructure,0,G06F|H04L
+11296968,2022-04-05,"Control method, device, computer program, computer readable medium and method for data communication in an industrial network",0,G05B|H04L
+11295264,2022-04-05,Method and system for query answering over probabilistic supply chain information,0,G06N|G06Q
+11295254,2022-04-05,Flexible product manufacturing planning,0,G06Q
+11294883,2022-04-05,Method for merging data into a database table by locking data identities in the database table that are also present in a temporary copy of the database table and executing update and import functions,0,G06F
+11294669,2022-04-05,"Method and computer-program-product determining measures for the development, design and/or deployment of complex embedded or cyber-physical systems, in particular complex software architectures used therein, of different technical domains",1,G06F
+11294637,2022-04-05,Method and apparatus for generating true random numbers for an integrated circuit,0,G06F
+11290881,2022-03-29,Method for functionally secure connection identification,1,G05B|H04L|H04W
+11289425,2022-03-29,Semiconductor component and method for producing same,0,H01L|H01R|H05K
+11288400,2022-03-29,"Method, transmitter, and receiver for authenticating and protecting the integrity of message contents",0,G06F|H04L|H04W
+11288152,2022-03-29,Method for risk-based testing,0,G06F|G06Q
+11287796,2022-03-29,Diagnostic device and method for monitoring a technical plan,0,G05B|G06N
+11285568,2022-03-29,Solder preform for establishing a diffusion solder connection and method for producing a solder preform,0,B23K|H01L
+11284846,2022-03-29,Method for localization and identification of structures in projection images,26,A61B|G06T
+11282822,2022-03-22,Power electronic circuit having a plurality of power modules,0,H01L|H05K
+11281479,2022-03-22,"Method, apparatus and computer readable storage medium for providing cloud platform virtual assets",0,G06F|H04L|H04W
+11281190,2022-03-22,"Method for setting up a redundant communication connection, and failsafe control unit",0,G05B|H04L
+11281182,2022-03-22,"Redundant hot standby control system and control device, redundant hot standby method and computer-readable storage medium",0,G05B|G06F|Y02P
+11279597,2022-03-22,Reliable detection of container crane and harness,0,B66C|G06T
+11271990,2022-03-08,"Allocation of digital resources within a local, modular computer network (edge cloud)",1,G06F|H04L
+11271790,2022-03-08,"Interconnection device, communication method, and system including robot",0,G05B|H04L
+11269297,2022-03-08,Method and device for controlling a technical system by means of control models,0,G05B|G06F
+11265798,2022-03-01,Method and radio communication system for an industrial automation system,0,H04W|Y02D
+11265692,2022-03-01,Circuit-breaker and mobile device,0,H01H|H02B|H04W|Y02B|Y04S
+11263251,2022-03-01,Method for determining output data for a plurality of text documents,0,G06F
+11262734,2022-03-01,Systems and methods to ensure robustness for engineering autonomy,0,G05B|G06F|G06N
+11262722,2022-03-01,Monitoring and controlling unit for use in an autonomous system with self-x properties,0,G05B|G06F
+11262712,2022-03-01,Method and system for collecting data from a data-source into a MOM data warehouse,0,G05B|G06F|G06N|G06Q
+11256796,2022-02-22,Ensuring authenticity of at least one value of a device property,0,G06F|H04L
+11252102,2022-02-15,Efficient method for accessing image data stored in a cloud,0,G16H|H04L
+11252010,2022-02-15,System for controlling and monitoring adaptive cyberphysical systems,2,G05B|H04L|Y02P
+11251986,2022-02-15,Automatically configuring functional units of an automation system,0,G05B|G06F|H04L
+11251612,2022-02-15,Method and arrangement for determining measurement locations in an energy grid,0,G06F|H02J|Y02E|Y04S
+11250057,2022-02-15,Automatic selection of a data store,0,G06F|G06Q
+11245732,2022-02-08,Method and device for the modular orientation of an AVB stream,1,H04L
+11244556,2022-02-08,"Method, apparatus, and system for managing alarms",1,G05B|G06F|G08B
+11244475,2022-02-08,Determining a pose of an object in the surroundings of the object by means of multi-task learning,1,G06T
+11244250,2022-02-08,Determining states of an apparatus using support vector machines,0,G05B|G06N
+11244231,2022-02-08,Quantum-machine training of knowledge graphs,1,B82Y|G06F|G06N
+11244073,2022-02-08,Method and system for anonymising data stocks,0,G06F
+11244038,2022-02-08,Proving authenticity of a device with the aid of a proof of authorization,0,G06F|H04L|H04W
+11244037,2022-02-08,Method and device for protecting a technical installation,0,G06F|G07C|G08B|H04W|Y04S
+11243526,2022-02-08,Assembly and method for predicting the remaining service life of a machine,0,G05B|G06N
+11243519,2022-02-08,Method for computer-aided processing of state messages in an automation installation,0,G05B|G06F
+11243516,2022-02-08,Edge devices and associated networks utilising microservices,1,G05B|G06F|H04L
+11240951,2022-02-01,Method and device for allocating assemblies to placement lines,0,G06Q|H05K|Y02P
+11237395,2022-02-01,High-reliability spectacle-type device and method,0,B25J|G02B|G06F|G08C|G09G
+11231958,2022-01-25,Method and control system for controlling and/or monitoring devices,0,G06F|G16Y|H04L
+11231846,2022-01-25,Monitor and control for distributed system,0,G06F|G06T|H04L
+11226605,2022-01-18,Provisioning of control layer applications for use in industrial control environments,0,G05B|G06Q|H04W|Y02P
+11223657,2022-01-11,"One-way coupling device, request apparatus and method for feedback-free transmission of data",0,G06F|H04L|H04W
+11221856,2022-01-11,Joint bootstrapping machine for text analysis,0,G06F
+11221852,2022-01-11,Method for dynamic adaptation of a workflow of an automatic system,0,G05B|G06F|G06Q
+11221234,2022-01-11,Engineering automation using quantification and visualization of global sensitivities in spatial temporal domain,0,G01D|G06F
+11218533,2022-01-04,Method for operating a web server,0,G06F|H04L
+11218442,2022-01-04,"Communication device, control unit and method for determining device addresses within a communication network of an industrial automation system",0,H04L
+11218383,2022-01-04,Simulation system and method for simulating processing of reservation enquiries for multicast data streams in communications networks,1,G06F|H04L
+11218323,2022-01-04,Method and system for producing a secure communication channel for terminals,0,H04L|H04W
+11216927,2022-01-04,Visual localization in images using weakly supervised neural network,2,G06F|G06N|G06T|G06V
+11212918,2021-12-28,Electrical assembly,0,H01L|H05K
+11212078,2021-12-28,Method for sending digital data over a number of channels,0,H03M|H04L
+11209803,2021-12-28,Firewall system and method for establishing secured communications connections to an industrial automation system,2,G05B|H04L|Y02P
+11206147,2021-12-21,Method and apparatus for generating a cryptographic time stamp for a digital document on a majority basis,0,H04L
+11204601,2021-12-21,Markov chains and component fault trees for modelling technical systems,0,G05B|G06F|G06N
+11201733,2021-12-14,Method and device for transferring data in a topic-based publish-subscribe system,1,H04L|Y04S
+11201098,2021-12-14,Semiconductor module having a base plate with a concave curvature,1,H01L
+11196564,2021-12-07,Hierarchical distributed ledger,1,G05B|G06F|H04L|Y02P
+11196447,2021-12-07,Computer-implemented method for error-correction-encoding and encrypting of a file,0,G06F|H03M|H04L
+11194968,2021-12-07,Automatized text analysis,1,G06F|G06N
+11194593,2021-12-07,Method for operating a production machine or machine tool and production machine or machine tool and computer program for operating a production machine or machine tool,1,G05B|G06F|H04L|H04M
+11188518,2021-11-30,Method and apparatus for generating fault diagnosis information base of numerical control machine tool,0,G05B|G06F|G06N|Y02P
+11188498,2021-11-30,Method and system for processing engineering objects in an industrial automation environment,0,G06F|G06Q
+11188356,2021-11-30,Method and arrangement to access a first computer on a virtual machine of a second computer,0,G05B|G06F|H04L|Y02P
+11184151,2021-11-23,Devices for providing a set of cryptographically secured and filtered and sorted transaction data sets of a block of a blockchain,0,G06F|H04L
+11182559,2021-11-23,System and method for natural language processing,0,G06F
+11182495,2021-11-23,Secure management of access data for control devices,1,G05B|G06F|H04L
+11182194,2021-11-23,Method for operating an automation system and automation system operating according to the method,0,G05B|G06F
+11178429,2021-11-16,Method for producing video coding and programme-product,0,H03M|H04N
+11178114,2021-11-16,"Data processing method, device, and system",0,G06F|H04L
+11177952,2021-11-16,Method and system for disclosing at least one cryptographic key,0,H04L|H04W
+11176927,2021-11-16,"Computer-implemented method for providing an adaptive dialogue system, and adaptive dialogue system",0,G06F|G06N|G10L|H04L
+11175648,2021-11-16,Method and apparatus for providing an instantiated industrial semantic model for an industrial infrastructure,0,G05B|G06F
+11175643,2021-11-16,Rich contextualization of automation data,0,G05B|G06F|Y02P
+11172228,2021-11-09,Method for producing video coding and programme-product,0,H03M|H04N
+11171588,2021-11-09,Method for monitoring the operation of an electrical rotating machine,0,G01R|H02P|H04W
+11170135,2021-11-09,"Method, apparatus, and device for generating a visual model layout of a space",0,G06F|G06T
+11170028,2021-11-09,Predictive graph query system for automation engineering systems,0,G06F|G06N|G06Q
+11169501,2021-11-09,Method and device for processing data via coded operations,0,G05B|G06F
+11165773,2021-11-02,Network device and method for accessing a data network from a network component,0,H04L
+11164077,2021-11-02,Randomized reinforcement learning for control of complex systems,1,F02C|F05D|G05B|G06N
+11163870,2021-11-02,"Plant-specific, automated certificate management",0,G05B|G06F|H04L
+11159492,2021-10-26,Apparatus and method for adapting authorization information for a terminal,0,H04L
+11157840,2021-10-26,Method and device for determining optimum batch sizes,0,G06Q|H05K|Y02P
+11153977,2021-10-19,"Circuit carrier, package, and method for manufacturing a package",0,H01L|H05K
+11153416,2021-10-19,Method for industrial communication via TSN,0,G05B|H04L
+11153161,2021-10-19,Internet of things structure with a 3D adaption matrix,0,G06F|H04L
+11150937,2021-10-19,Edge device and method for operating an edge device,0,G06F|H04L|H04W
+11150638,2021-10-19,"Model processing method and apparatus, and machine-readable medium",0,G05B|G06F|Y02P
+11146820,2021-10-12,Method for producing video coding and programme-product,0,H03M|H04N
+11146819,2021-10-12,Method for producing video coding and programme-product,0,H03M|H04N
+11146633,2021-10-12,Method for producing a bidirectional connection between a device forming a field device and an application in a central facility,0,G05B|H04L|H04W|Y02P
+11146610,2021-10-12,Method and device for data exchange,0,H04L
+11144728,2021-10-12,Neural relation extraction within and across sentence boundaries,0,G06F|G06N
+11144710,2021-10-12,Device with communication interface and method for controlling database access,0,G06F|H03M
+11144280,2021-10-12,Method and apparatus for processing data,0,G06F|H03M
+11140186,2021-10-05,Identification of deviant engineering modifications to programmable logic controllers,0,G05B|G06F|H04L
+11140041,2021-10-05,Arrangement with operator servers and operator clients,0,H04L|Y02P
+11140001,2021-10-05,"Method for providing data packets from a CAN bus, control device and system having a CAN bus",0,B60L|H04L
+11140000,2021-10-05,Transmission of signals,0,H04L
+11138057,2021-10-05,Method for analyzing a cause of at least one deviation,0,G05B|G06F
+11137751,2021-10-05,"System, apparatus, and method for estimating life of components",1,F01D|G01N|G05B|G06F
+11134072,2021-09-28,"Method for verifying a security classification of a first device using a digital certificate, a first and second device and certificate issuing apparatus",1,G06F|H04L|H04W
+11130151,2021-09-28,System and method for coating a body,0,B05C|B05D|G05B|G06F
+11129301,2021-09-21,Thermally conductive insulator,3,H01L|H05K
+11128166,2021-09-21,Predictive operational planning in a microgrid taking into account high-load time windows of a main electricity grid,0,G05B|G06F|G06Q|H02J|Y02B|Y02E|Y02P|Y04S
+11126894,2021-09-21,Method and apparatus for analysing an image,0,G06F|G06N|G06V
+11122426,2021-09-14,Method for the assignment of industrial field devices in a cloud environment,0,G05B|H04L|H04W
+11120588,2021-09-14,Method and system for computer-assisted monitoring of a technical system,0,G06T
+11120124,2021-09-14,Method for detecting a deviation of a security state of a computing device from a desired security state,14,G06F
+11113437,2021-09-07,Joint hardware and controller design,0,G06F
+11113236,2021-09-07,Method for automatic processing of a number of protocol files of an automation system,0,G05B|G06F
+11108590,2021-08-31,"Network mechanism, network arrangement and method for operating a network arrangement",0,H04L
+11100410,2021-08-24,"Device for probability forecasts, energy transmission and/or energy distribution network",0,G05B|G06N|G06Q|H02J|Y02E|Y04S
+11099978,2021-08-24,Modeling system for software-implemented testing using domain specific profiles to translate tests for a subset of paths included in a UML test model,1,G06F
+11099951,2021-08-24,Cyberattack-resilient control system design,0,G05B|G06F|H04L
+11099633,2021-08-24,Authoring augmented reality experiences using augmented reality and virtual reality,1,G02B|G06F|G06T|G06V
+11099548,2021-08-24,Suggesting and/or creating agents in an industrial automation system,0,G05B|G06F|G06N
+11095444,2021-08-17,"Method and computer for cryptographically protecting control communication in and/or service access to IT systems, in particular in connection with the diagnosis and configuration in an automation, control or supervisory system",1,G06F|H04L
+11094187,2021-08-17,Sum stream for actual states and control signals of a distributed control system,0,G05B|G08B|H04L|Y02P
+11093615,2021-08-17,Method and computer with protection against cybercriminal threats,0,G06F
+11093014,2021-08-17,"Method for monitoring, control and graceful shutdown of control and/or computer units",0,G05B|G06F
+11088962,2021-08-10,"Method for performant data transmission in a data network with, in part, real-time requirements and apparatus for carrying out the method",7,H04L
+11083106,2021-08-03,Heat sink and frequency converter,0,F28D|F28F|H01L|H05K
+11074050,2021-07-27,Composing an application using a plurality of distributed interaction patterns,0,G06F
+11073822,2021-07-27,Provision of process values in a process installation,0,G05B|H04L|Y02P
+11069428,2021-07-20,Evaluation method for medical data,0,G06F|G16H
+11068486,2021-07-20,Method for automatically processing a number of log files of an automation system,0,F02C|G05B|G06F
+11063957,2021-07-13,Method and arrangement for decoupled transmission of data between networks,0,H04L
+11063681,2021-07-13,Method for operating a communication network in a ring topology,0,H04J|H04L
+11063680,2021-07-13,Method for functionally secure connection identification,0,H04J|H04L
+11057472,2021-07-06,"Field data processing method, apparatus, and system",0,G05B|G06F|H04L|Y02P
+11056460,2021-07-06,"Method for producing an electric circuit comprising a circuit carrier, contact areas, and an insulating body",1,H01L|H05K
+11056447,2021-07-06,Power module having at least one power semiconductor,1,H01L|H05K
+11055580,2021-07-06,Method and apparatus for analyzing an image,1,G06F|G06T|G06V
+11055201,2021-07-06,"Method and apparatus for evaluating code in hierarchical architecture software, and storage medium",0,G06F|Y02D
+11055064,2021-07-06,Testing of physical random number generators,0,G06F
+11044231,2021-06-22,"Assembly for checking at least one firewall device, and method for protecting at least one data receiver",0,H04L
+11044151,2021-06-22,Method for creating a configuration for setting up a configuration-specific web-based application and generating the configuration-specific web-based application,0,G05B|H04L
+11037862,2021-06-15,"Method for electrically contacting a component by galvanic connection of an open-pored contact piece, and corresponding component module",1,C25D|H01L|H05K
+11032250,2021-06-08,Protective apparatus and network cabling apparatus for the protected transmission of data,0,G02B|G06F|H01B|H01R|H04B|H04L|Y04S
+11032098,2021-06-08,Controller cluster and method for operating the controller cluster,1,G05B|H04L
+11030536,2021-06-08,Method and apparatus for operating an automation system and accounting for concept drift,1,G05B|G06N
+11029978,2021-06-08,Industrial controller and method for automatically creating user interface,0,G05B|G06F
+11029676,2021-06-08,Safety monitoring method and apparatus for an industrial control system,0,G05B|G06F
+11026119,2021-06-01,Radio communication system for an industrial automation system and method for operating the radio communication system,0,H04L|H04W
+11023225,2021-06-01,Method and apparatus for resource binding,0,G06F|H04L|H04W
+11023211,2021-06-01,Methods for generating a semantic description of a composite interaction,2,G06F|H04L
+11022950,2021-06-01,Resilient failover of industrial programmable logic controllers,1,G05B|G06F
+11022949,2021-06-01,PLC virtual patching and automated distribution of security context,0,G05B|G06F
+11018846,2021-05-25,"Methods and apparatuses for achieving a security function, in particular in the environment of a device and/or installation controller",1,H04L
+11018791,2021-05-25,Method and device for time-controlled data transmission in a time-sensitive network,5,H04J|H04L
+11017968,2021-05-25,Electrical switch,2,H01H|H04W|Y02B|Y04S
+11017228,2021-05-25,Method and arrangement for condition monitoring of an installation with operating means,2,B64U|G01N|G05D|G06T|G06V|H02G
+11016474,2021-05-25,"Checking method, device, and computer program product",0,G05B|G06N|Y02P
+11010607,2021-05-18,Method for controlling unmanned aerial vehicles,0,B64U|G01C|G05D|G06T|G06V
+11010508,2021-05-18,Automation facility and method for operating the automation facility,0,G05B|G06F|Y02P
+11005974,2021-05-11,Method and apparatus for accessing data or functions of a programmable controller via a network protocol,0,G05B|H04L
+11005709,2021-05-11,Method and a system for the deterministic autoconfiguration of a device,0,H04L|H04W
+11003822,2021-05-11,Analyzing the state of a technical system with respect to requirements compliance,0,G06F|G06Q
+11003800,2021-05-11,Data integrity protection method and device,0,G05B|G06F|H04L
+11003763,2021-05-11,"Methods and apparatuses for achieving a security function, in particular in the environment of a device and/or installation controller",0,G06F|H04L
+11003598,2021-05-11,Data container for a control system of a technical installation,0,G05B|G06F
+11003594,2021-05-11,Method for protecting security-relevant data in a cache memory,1,G06F|H04L
+11003517,2021-05-11,Device-based engineering system for programmable logic controllers,0,G05B|G06F
+10999293,2021-05-04,Examining a consistency between reference data of a production object and data of a digital twin of the production object,0,G06F|H04L|H04W
+10999071,2021-05-04,"Method, apparatus, and cloud system for executing an application in a cloud system",0,G06F|H04L
+10998249,2021-05-04,Semiconductor assembly,0,H01L|H05K
+10997450,2021-05-04,Method and apparatus for detecting objects of interest in images,0,G06F|G06N|G06V
+10997061,2021-05-04,Method for executing a program in a computer,0,G06F
+10996659,2021-05-04,Method and redundant automation system with a plurality of processor units per hardware unit,0,G05B|G06F
+10996642,2021-05-04,Method and apparatus for determining data reading cycle,6,G05B|G06F|Y02P
+10990360,2021-04-27,House of quality for federated manufacturing apps,0,G06F|G06N|G06Q
+10990091,2021-04-27,Method and apparatus for analyzing an investigated complex system,0,G05B|G06F
+10986192,2021-04-20,"Information processing method, apparatus, and system",0,H04L
+10985669,2021-04-20,Phase module for a power converter,1,H01L|H02B|H02M|H05K
+10983485,2021-04-20,Method and control device for controlling a technical system,1,G05B|G06N
+10979177,2021-04-13,Method for identifying data corruption in a data transfer over an error-proof communication link,0,G06F|H03M|H04L|H04W
+10964120,2021-03-30,"Method for the identification of supply areas, method for the graphical representation of supply areas, computer program, machine-readable medium and imaging device",5,A61B|G06T|G16H
+10959347,2021-03-23,Communication module for a communication or automation device,0,H01R|H04L|H05K
+10958447,2021-03-23,"Method, security device and security system",0,H04L
+10955837,2021-03-23,Method and system for error detection and monitoring for an electronically closed-loop or open-loop controlled machine part,0,G05B|G06F
+10955824,2021-03-23,Control unit and method for operating an industrial automation system communication network comprising a plurality of communication devices,0,G05B|H04L
+10955456,2021-03-23,Method and apparatus for automatic localization of a fault,1,G01R|G06N|H02H
+10953891,2021-03-23,Method and system for providing an optimized control of a complex dynamical system,0,B60W|G05B|G05D|G06N
+10951622,2021-03-16,Device for use in a network,2,H04L|H04W
+10949574,2021-03-16,Apparatus and method for detecting a physical manipulation on an electronic security module,0,G06F
+10948549,2021-03-16,Apparatus and method for a reusable functional failure test for a specific technical system,0,G01R|G06F|G06Q
+10942927,2021-03-09,Subscription handling and in-memory alignment of unsynchronized real-time data streams,2,G06F
+10942754,2021-03-09,Method for development and execution of a machine learning model on a field device,1,G06F|G06N
+10938775,2021-03-02,Configuration data distribution unit and method for configuring communication devices in an industrial automation system,0,H04L
+10933530,2021-03-02,Method and system for preserving privacy for cloud-based manufacturing analysis services,1,B25J|G05B|G06T
+10931693,2021-02-23,Computation apparatus and method for identifying attacks on a technical system on the basis of events of an event sequence,0,G06F|H04L
+10931549,2021-02-23,Communication device of an industrial automation system and method for configurating the communication device,0,G05B|H04L|Y02P
+10929119,2021-02-23,Method for amending or adding functionality to an automation device,0,G05B|G06F|G06V
+10928808,2021-02-23,Enabling a processing step for an object to be processed,0,G05B|G06F|G06Q
+10928791,2021-02-23,Model-based human machine interface (HMI),0,G05B|G06F|G06T|G09G
+10924345,2021-02-16,Method for changing the configuration of connected networks,0,H04L|Y04S
+10923913,2021-02-16,"Method for operating an electrical energy supply network, and control device for controlling devices of an electrical distribution network",0,G05B|G06N|H02J|Y02B|Y02E|Y04S
+10921758,2021-02-16,Method and arrangement for controlling a technical system having multiple functionally linked system components,0,G05B|G06F
+10911563,2021-02-02,"Network system, cloud connector and method for identification of network devices",1,G06F|H04L
+10911432,2021-02-02,Use of certificates using a positive list,0,H04L
+10911239,2021-02-02,Protection of login processes,1,G06F|G06Q|H04L
+10908589,2021-02-02,"Method for determining the orientation of a part to be additively manufactured, and computer-readable medium",0,B22F|B29C|B33Y|G05B|G06F|Y02P

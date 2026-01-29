@@ -1,0 +1,580 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430629,2025-09-30,Initiating split data transfers at a terminal,0,G06Q
+12430351,2025-09-30,System and method for ingesting data based on processed metadata,0,G06F
+12430315,2025-09-30,"System, method, and device for uploading data from premises to remote computing environments",0,G06F
+12423143,2025-09-23,"System, method, and device for ingesting data into remote computing environments",0,G06F
+12412221,2025-09-09,Management of reconciliation and reporting workflow using robotic process automation,0,G06F|G06Q
+12411989,2025-09-09,System and method for providing third party access to a system,0,G06F
+12411986,2025-09-09,Data treatment apparatus and methods,0,G06F
+12411864,2025-09-09,System and method for processing instructions associated with one or more data transfers,0,G06F|G06Q|H04L
+12407511,2025-09-02,Dynamic implementation and management of hash-based consent and permissioning protocols,0,H04L
+12399687,2025-08-26,Generating software architecture from conversation,0,G06F
+12395491,2025-08-19,Systems and methods for authenticating end users of a web service,0,G06F|H04L
+12387208,2025-08-12,Authorization control network and method of validating an authorization request,0,G06F|G06Q
+12387203,2025-08-12,Distributed electronic ledger with metadata,0,G06Q
+12387145,2025-08-12,Prediction of future occurrences of events using adaptively trained artificial-intelligence processes and contextual data,0,G06F|G06N
+12386813,2025-08-12,System for automatic data transfer acceleration,0,G06F
+12380494,2025-08-05,System and method for real-time cheque processing and return at an automated teller machine,0,G06Q|G07F
+12380491,2025-08-05,Systems and methods for managing online storefronts,0,G06Q
+12380475,2025-08-05,Systems and methods for automated response to online reviews,0,G06F|G06Q
+12380158,2025-08-05,Automated image retrieval with image graph,0,G06F|G06V
+12374234,2025-07-29,Simulator for value instrument negotiation training,0,G06F|G06Q|G06T|G06V|G09B
+12373828,2025-07-29,System and method for effecting a secure event,0,G06K|G06Q|H04L
+12373805,2025-07-29,Secure offline approval of initiated data exchanges,0,G06Q|H04L
+12373795,2025-07-29,System and method of dynamically recommending online actions,0,G06N|G06Q
+12373598,2025-07-29,Identifying and mitigating disparate group impact in differential-privacy machine-learned models,0,G06F
+12367289,2025-07-22,Threat detection and mitigation in a networked environment,0,G06F
+12367069,2025-07-22,System and method for executing a dynamic routing service,0,G06F|G06Q
+12363114,2025-07-15,System and method for authenticating client devices communicating with an enterprise system,0,G06F|H04L
+12363049,2025-07-15,System and method for controlling access to project data and to computing resources therefor,0,H04L
+12361074,2025-07-15,System and method for controlling access to secure data records in a web browsing session,0,G06F|G06Q
+12360963,2025-07-15,System and method for managing data from different sources,0,G06F
+12354168,2025-07-08,System and method for dynamically managing a digital card in an electronic wallet,0,G06Q|H04L
+12354094,2025-07-08,Real-time provisioning of directed digital content based on decomposed structured messaging data,0,G06F|G06Q
+12354067,2025-07-08,Configuration of data transfer recipient,0,G06Q
+12353969,2025-07-08,System and method for examining data from a source,0,G06F|G06N
+12353892,2025-07-08,System and method for automated configuration of a computing device,0,G06F|G06Q
+12340186,2025-06-24,System and method for executing a process workflow,0,G06F|G06Q
+12335169,2025-06-17,Systems and methods for locking in offsets associated with resource requests,0,G06Q|H04L
+12333518,2025-06-17,Real-time reconciliation processing based on structured messaging data,0,G06Q
+12333354,2025-06-17,Using generative artificial intelligence to improve user interactions,0,G06F|G06N
+12327102,2025-06-10,System and method for providing a technology resource management interface,0,G06F
+12326856,2025-06-10,Using generative artificial intelligence to improve user interactions,0,G06F|G06N
+12323535,2025-06-03,Dynamic management and implementation of consent and permissioning protocols using container-based applications,0,G06F|H04L
+12323484,2025-06-03,System and method for data movement,0,H04L
+12321979,2025-06-03,System and method for optimized transfer of digital assets,0,G06Q
+12321861,2025-06-03,Initialization of parameters for machine-learned transformer neural network architectures,0,G06F|G06N
+12321780,2025-06-03,System and method for executing data processing tasks,0,G06F
+12316715,2025-05-27,Dynamic push notifications,0,G06Q|H04L|H04W
+12316645,2025-05-27,System and methods for secure processing of real-time resource transfers,0,H04L
+12315017,2025-05-27,System and method for enabling capture of an image of a vehicle,0,G06F|G06Q|G06T|H04N
+12315007,2025-05-27,System and method for integrated application and provisioning,0,G06F|G06Q
+12314920,2025-05-27,Token-based open-loop stored-value card network,0,G06Q
+12299149,2025-05-13,Secure deployment of de-risked confidential data within a distributed computing environment,0,G06F
+12298949,2025-05-13,Systems and methods for detecting false data entities using multi-stage computation,0,G06F
+12293343,2025-05-06,Immediate release of resource for data transfer,0,G06Q|G07F
+12288236,2025-04-29,Recommendation with neighbor-aware hyperbolic embedding,0,G06N|G06Q
+12284190,2025-04-22,Systems and methods for authenticating data access requests,0,H04L
+12282785,2025-04-22,System and method for providing advisory notifications to mobile applications,1,G06F|G06N|H04L
+12277546,2025-04-15,Touchless payments at point-of-sale terminals,0,G06Q|H04L
+12271944,2025-04-08,Expected transfer monitoring and notification,0,G06Q
+12265959,2025-04-01,System and method for generating notifications based on digital wallet pass data,0,G06Q
+12265505,2025-04-01,Systems and methods for automated reporting,0,G06F
+12260128,2025-03-25,"System, method, and device for uploading data from premises to remote computing environments",0,G06F
+12254512,2025-03-18,Auto-adjudication process via machine learning,0,G06Q
+12254511,2025-03-18,Multi-part request for transfers,0,G06Q|H04L
+12248933,2025-03-11,System and method for provisioning a data transfer application,0,G06F|G06Q|H04L
+12248830,2025-03-11,System and method for modifying a card issuance file,0,G06F|G06K
+12248557,2025-03-11,Automatic workstation functionality management based on login credentials,0,G06F
+12243016,2025-03-04,System and method for providing a graphical user interface,0,G06F|G06Q
+12236478,2025-02-25,Apparatus and method to securely instruct an order by efficiently invoking a program application on a computing device,1,G06F|G06Q
+12236433,2025-02-25,Value transfer card management system,0,G06Q|G07F|H04L|H04W
+12229795,2025-02-18,System and method for generating location based multiplier notifications,0,G06Q|H04W
+12229690,2025-02-18,System and method for determining expected loss using a machine learning framework,0,G06N|G06Q
+12229411,2025-02-18,Systems and methods for managing access to resources in a computing environment,0,G06F|G06Q
+12229117,2025-02-18,Secure distribution of digital assets within a computing environment using permissioned distributed ledgers,0,G06F|G06Q|H04L
+12223553,2025-02-11,Systems and methods for providing access to representations of computing events,0,G06Q
+12223549,2025-02-11,Systems and methods for automated data processing using machine learning for vehicle loss detection,1,G06Q|G06V
+12222989,2025-02-11,System and method for generating a recommendation,0,G06F|G06Q
+12217011,2025-02-04,Generating adaptive textual explanations of output predicted by trained artificial-intelligence processes,0,G06F|G06N
+12210534,2025-01-28,Machine learning enabled real time query handling system and method,1,G06F
+12210445,2025-01-28,System and method for evaluating test results of application testing,0,G06F
+12206656,2025-01-21,Method and apparatus with provider information access authorization,0,G06F|G06Q|H04L
+12205165,2025-01-21,Cryptocurrency payment based on a canceled fiat transaction,0,G06Q
+12205088,2025-01-21,Value transfer card management system,0,G06Q
+12198510,2025-01-14,System and method for automated deposit item handling,0,G06Q|G07F
+12198177,2025-01-14,Systems and methods for providing product recommendations,0,G06Q
+12198109,2025-01-14,System and method for providing real-time updates of cheque collection in a cheque clearing process,0,G06Q
+12192294,2025-01-07,System and method for integrating external services into process workflow environments,0,G06F|G06Q|H04L
+12192267,2025-01-07,System and method for enabling one or more transfer features associated with a real-time transfer protocol,0,H04L
+12192162,2025-01-07,Multi-channel messaging system,0,H04L|H04W
+12190377,2025-01-07,System and method for providing data access,0,G06F|G06Q|H04L
+12190299,2025-01-07,Real-time transfer management interface,0,G06Q
+12189918,2025-01-07,System and method for providing a graphical user interface,0,G06F|G06Q
+12182800,2024-12-31,API for incremental and periodic crypto asset transfer,0,G06F|G06Q|H04L
+12182287,2024-12-31,System and method for multi-party electronic signing of electronic documents,0,G06F|H04L
+12177673,2024-12-24,System and method for determining a physical location associated with an activity detected on a mobile device,0,H04L|H04W
+12177365,2024-12-24,System and method for secure distribution of resource transfer request data,0,G06F|H04L
+12177329,2024-12-24,Validating confidential data using homomorphic computations,0,G06F|H04L
+12169868,2024-12-17,Fiat payment based on a cryptocurrency blockchain transaction,0,G06Q
+12169845,2024-12-17,Real-time assessment of initiated data exchanges based on structured messaging data,0,G06Q
+12169693,2024-12-17,System and method for generating responses associated with natural language input,0,G06F|H04L
+12165183,2024-12-10,"Server device, non-transitory computer readable medium, and method for managing multiple transactional workflows",0,G06Q
+12164953,2024-12-10,System and method for handling real-time transactional events,0,G06F
+12164794,2024-12-10,Partial pass-through data transfer system,0,G06F
+12164651,2024-12-10,System and method for automatically determining privacy settings for sharing data,0,G06F|G06Q
+12164542,2024-12-10,Systems and methods for synchronization of data,0,G06F
+12160544,2024-12-03,Methods for configuring server communications,0,H04L|H04M
+12159282,2024-12-03,Smart chip card with fraud alert and biometric reset,0,G06K|G06Q
+12158909,2024-12-03,System and method for managing document metadata,0,G06F
+12137089,2024-11-05,Managing third-party access to confidential data using dynamically generated application-specific credentials,0,H04L|H04W
+12137056,2024-11-05,Method and system for determining transferability of resources,0,G06F|G06Q|H04L
+12136079,2024-11-05,Real-time provisioning of targeted recommendations based on decomposed structured messaging data,2,G06Q
+12135798,2024-11-05,Secure resolution of email-based queries involving confidential third-party data,0,G06F
+12131432,2024-10-29,System and method for providing a three-dimensional object representing a stored-value card for display in augmented reality,0,G06Q|G06T
+12131361,2024-10-29,Distributed authentication at a physical premises,0,G06Q
+12131302,2024-10-29,Systems and methods for configuring resource transfers,0,G06Q|H04L
+12131301,2024-10-29,Automated performance of parameter-based operations in trusted network environments,0,G06Q|G07F|H04L
+12131292,2024-10-29,Automatic generation and tracking of acquisition IDs and product sources,0,G06F|G06Q|H04L
+12130936,2024-10-29,Systems and methods for controlling access to data records,0,G06F|G06V
+12130897,2024-10-29,Systems and methods for initiating an authenticated session,0,G06F|H04L
+12130896,2024-10-29,System and method for authorizing data transfers,0,G06F
+12130816,2024-10-29,Scan optimization of column oriented storage,0,G06F
+12124925,2024-10-22,Dynamic analysis and monitoring of machine learning processes,2,G06F|G06N|G06Q
+12124463,2024-10-22,Data storage using a bi-temporal index,0,G06F
+12118554,2024-10-15,Restricted item eligibility control at ambient commerce premises,0,G06Q
+12118020,2024-10-15,"System and method for generating a graphical user interface to track, analyze and interpret a big data dataset",0,G06F|G06Q
+12113870,2024-10-08,Automatic generation and provisioning of notification data to dynamically selected network-connected devices,0,G06Q|H04L
+12111793,2024-10-08,System and method for automatically managing storage resources of a big data platform,2,G06F|G06N
+12107856,2024-10-01,Secure management and provisioning of interaction data using permissioned distributed ledgers,0,G06Q|H04L
+12106220,2024-10-01,"Regularization of recurrent machine-learned architectures with encoder, decoder, and prior distribution",2,G06N
+12106148,2024-10-01,Method and system for scheduling access to a node class of a shared resource,0,G06F|H04L
+12101349,2024-09-24,Systems and methods for detecting changes in data access pattern of third-party applications,0,G06F|G06Q|H04L
+12099981,2024-09-24,Computing device and method to perform a data transfer using a document,0,G06F|G06Q
+12099710,2024-09-24,User interface for smartwatches and wearable devices,0,G06F
+12096092,2024-09-17,Systems and methods for controlling display of supplementary data for video content,0,G06F|H04N
+12095845,2024-09-17,Method and system for performing an operation in response to a session handoff,0,G06Q|H04L
+12093226,2024-09-17,System and method for initiating data record creation at a third party server,0,G06F|G06Q
+12079468,2024-09-03,Systems and methods for optimizing rendering for a space-constrained display,0,G06F|G06Q
+12079351,2024-09-03,Application of trained artificial intelligence processes to encrypted data within a distributed computing environment,2,G06F|G06N|H04L
+12067606,2024-08-20,"Real-time provisioning of targeted, alternative product information based on structured messaging data",0,G06Q
+12067580,2024-08-20,Management of programmatic and compliance workflows using robotic process automation,2,G06F|G06N|G06Q
+12067137,2024-08-20,System and method of processing a data access request,0,G06F|G06Q
+12067130,2024-08-20,Homomorphic encryption of communications involving voice-enabled devices in a distributed computing environment,2,G06F|G06N|G10L|H04L
+12063168,2024-08-13,Systems and methods for optimization of computing resources,0,H04L
+12062089,2024-08-13,Assisted channel credit applications with automatic integration into digital wallets,0,G06Q
+12062044,2024-08-13,System and method for authorizing a financial transaction,0,G06Q
+12061652,2024-08-13,Automated population of digital interfaces based on dynamically generated contextual data,2,G06F|G06N|H04W
+12058124,2024-08-06,Systems and methods for creating multi-applicant account,0,H04L|H04W
+12052363,2024-07-30,Maintaining data confidentiality in communications involving voice-enabled devices in a distributed computing environment,2,G06F|G06N|G10L|H04L
+12052238,2024-07-30,System and method for establishing secure communication between applications,0,H04L|H04W
+12050707,2024-07-30,Systems and methods for processing requests for real-time transfers of resources,0,G06F|G06Q|H04L
+12050564,2024-07-30,Data reporting architecture for applications,0,G06F
+12045189,2024-07-23,Interface for receiving and responding to a request to transfer,0,G06F|H04L
+12039535,2024-07-16,Generation and provisioning of digital tokens based on dynamically obtained contextual data,2,G06N|G06Q
+12039530,2024-07-16,System and method for authorizing temporary use of accounts,0,G06Q
+12039379,2024-07-16,System and method for executing a notification service,0,G06F
+12038833,2024-07-16,Test and validation of privacy protection quality of anonymization solutions,0,G06F
+12033119,2024-07-09,Integrated home scoring system,0,G06Q|G16Y|H04L
+12028407,2024-07-02,System and method for updating interface elements based on real-time transfer protocol availability,0,H04L
+12028275,2024-07-02,Systems and methods for locking in offsets associated with resource requests,0,G06Q|H04L
+12021876,2024-06-25,Systems and methods for controlling third-party access of protected data,0,G06F|H04L
+12021874,2024-06-25,Dynamic management of consent and permissioning between executed applications and programmatic interfaces,2,G06F|H04L
+12019594,2024-06-25,Systems and method of managing documents,0,G06F
+12015607,2024-06-18,System and method for authenticating client devices communicating with an enterprise system,0,G06F|H04L
+12015565,2024-06-18,Systems and methods for resource allocation,0,H04L
+12014303,2024-06-18,Curbside branch optimization,0,G06Q|G07F|H04W
+12010462,2024-06-11,System and method for obtaining video for use with photo-based estimation,0,G06Q|G06T|H04L|H04N
+12008560,2024-06-11,On-boarding server for authorizing an entity to effect electronic payments,0,G06Q
+12008553,2024-06-11,Session data network and method of processing session data,0,G06Q
+12008541,2024-06-11,Method and system for performing an operation,0,G06Q
+12008419,2024-06-11,System and method for monitoring events in process management systems,0,G06F|G06Q
+12008315,2024-06-11,Automatic generation and population of digital interfaces based on adaptively processed image data,2,G06F|G06Q|G06V
+11995207,2024-05-28,Dynamic security controls for data sharing between systems,0,G06F|H04L
+11995121,2024-05-28,Automated image retrieval with image graph,3,G06F|G06V
+11994972,2024-05-28,System and method for testing applications,0,G06F
+11989278,2024-05-21,Method and system for obtaining consent to perform an operation,0,G06F|H04L|H04W
+11985153,2024-05-14,System and method for detecting anomalous activity based on a data distribution,0,G06F|H04L
+11985121,2024-05-14,Initiating provisioning of an existing account based on an unauthenticated request,0,G06F|H04L
+11983787,2024-05-14,Integration of workflow with digital ID,0,G06Q|H04L
+11983690,2024-05-14,System and method for real-time transfer protocol determination,0,G06Q
+11979494,2024-05-07,Secure management and regeneration of cryptographic keys within a computing environment using permissioned distributed ledgers,0,G06Q|H04L
+11978090,2024-05-07,Method and system for sending biometric data based incentives,2,G06N|G06Q
+11978085,2024-05-07,System and method for providing personalized notifications in mobile applications,2,G06Q|H04L
+11972421,2024-04-30,System and method for effecting a secure event,0,G06K|G06Q|H04L
+11972029,2024-04-30,System and method for providing trusted links between applications,0,G06F
+11966495,2024-04-23,Method and system for managing access to entity identity data,0,G06F|H04L|H04W
+11966491,2024-04-23,System and method for processing instructions associated with one or more data transfers,2,G06F|H04L
+11960774,2024-04-16,"System, method, and device for uploading data from premises to remote computing environments",0,G06F
+11956244,2024-04-09,Method and system for initiating a transfer of resources,0,H04L
+11955117,2024-04-09,System and method for analyzing and reacting to interactions between entities using electronic communication channels,0,G06F|G10L|H04M
+11954690,2024-04-09,Systems and methods for providing tokenized transactions accounts,1,G06Q
+11948211,2024-04-02,Systems and methods for prompting a foreign currency transaction,0,G06Q|H04W
+11948167,2024-04-02,System and method for loyalty point redemption for a non-contributing member,0,G06Q
+11947678,2024-04-02,Systems and methods for evaluating data access signature of third-party applications,0,G06F
+11941703,2024-03-26,System and method for providing photo-based estimation,0,G06Q|H04L
+11941652,2024-03-26,Automatic linking of loyalty accounts of authorized users to loyalty accounts of primary users,0,G06Q|G07F
+11941525,2024-03-26,System and method for validating data,3,G06F|G06N|G06Q
+11941351,2024-03-26,Dynamic user interface control system,0,G06F
+11941144,2024-03-26,Modification of data sharing between systems,0,G06F
+11935528,2024-03-19,"Systems, devices and methods for delivering audible alerts",0,G06F|G10L|H04L|H04W
+11935088,2024-03-19,Automated solution for loyalty rewards points,0,G06Q
+11935025,2024-03-19,Real-time delegated approval of initiated data exchanges by network-connected devices,0,G06Q
+11934375,2024-03-19,System for automatic data transfer acceleration,0,G06F
+11934297,2024-03-19,System and method for testing applications,0,G06F
+11932134,2024-03-19,Electric vehicle charger and related methods,0,B60L|B60Y|G06Q|G07F|H04L|Y02T|Y04S
+11928670,2024-03-12,System and method for processing bulk transfer of digital assets,1,G06Q
+11928626,2024-03-12,System and method for persisting data generated in executing a process workflow,0,G06F|G06Q
+11928351,2024-03-12,System and method for conditional data transfers,0,G06F|G06Q|H04L|H04W
+11928112,2024-03-12,Systems and methods for intelligent responses to queries based on trained processes,2,G06F|G06N|G10L
+11922214,2024-03-05,Browser-based processing of data,0,G06F
+11922186,2024-03-05,Data rendering for applications,0,G06F|H04L
+11921836,2024-03-05,Systems for enabling tokenized wearable devices,0,G06F|G06K|G06Q
+11915227,2024-02-27,Value transfer card management system,0,G06Q
+11907945,2024-02-20,Real-time determination of counterparty geolocation based on structured messaging data,1,G06Q
+11907925,2024-02-20,User interface handoff to enable feature at a terminal,0,G06Q
+11907308,2024-02-20,System and method for controlling access to secure data records in a web browsing session,0,G06F|G06Q
+11902289,2024-02-13,Methods and systems for controlling access to a protected resource,2,H04L
+11900352,2024-02-13,Real-time execution of data exchanges between computing systems based on selectively allocated parameters,0,G06Q
+11900132,2024-02-13,Dynamic modification of displayed interface elements based on contextual data,0,G06F|G06Q|G07G
+11895095,2024-02-06,Real-time authentication and authorization based on dynamically generated cryptographic data,0,G06Q|H04L
+11888854,2024-01-30,Systems and methods for authenticating end users of a web service,0,G06F|H04L
+11887186,2024-01-30,Intraday resource management system,0,G06Q|H04L
+11887145,2024-01-30,System and method for generating a notification to offset a purchase price,0,G06Q
+11887106,2024-01-30,Provisioning of secure application,1,G06F|G06Q|H04L|H04W
+11886764,2024-01-30,Dynamically determining an interface for presenting information to a user,3,G06F|G06N|G09G|H04L
+11886603,2024-01-30,System and method for multi-party electronic signing of electronic documents,0,G06F|H04L
+11886501,2024-01-30,Systems and methods for controlling display of video content in an online media platform,0,G06F|G06Q|H04N
+11882222,2024-01-23,Multidirectional synchronization of confidential data using distributed ledgers,1,G06F|H04L
+11882126,2024-01-23,Systems and methods for controlling third-party access of a protected data resource,0,H04L
+11880875,2024-01-23,Systems and methods for providing product recommendations,0,G06Q
+11880822,2024-01-23,System and method for activating a physical token in augmented reality,0,G06Q|G06T
+11880811,2024-01-23,System and method for generating data transfer recommendations,0,G06Q
+11880709,2024-01-23,System and method for handling real-time transactional events,0,G06F
+11876772,2024-01-16,Multi-channel messaging system,1,H04L|H04W
+11875398,2024-01-16,System and method for real-time cheque processing and return at an automated teller machine,0,G06Q|G07F
+11875375,2024-01-16,Modifying existing instruments without modification of unique identifier and immediate benefit availability,0,G06Q
+11869070,2024-01-09,Expected transfer monitoring and notification,1,G06Q
+11869031,2024-01-09,System and method for providing an indicator to offset a purchase price,0,G06F|G06Q
+11868924,2024-01-09,System and method for providing location-based appointment operations,0,G06K|G06Q|H04M|H04W
+11861017,2024-01-02,Systems and methods for evaluating security of third-party applications,0,G06F
+11856118,2023-12-26,Methods for configuring server communications,0,H04L|H04M
+11853985,2023-12-26,Systems and methods for configuring resource transfers,0,G06Q|H04L
+11843702,2023-12-12,System and method for secure distribution of resource transfer request data,0,G06F|H04L
+11843544,2023-12-12,System and method for controlling access to project data and to computing resources therefor,0,H04L
+11842417,2023-12-12,System and method for searching and monitoring assets available for acquisition,0,G06F|G06Q|H04L
+11842296,2023-12-12,Systems and methods for transferring values in remote databases,0,G06F|G06Q
+11842252,2023-12-12,System and method for examining data from a source used in downstream processes,2,G06F|G06N
+11841913,2023-12-12,System and method for controlling visibility of elements of displayed electronic content,0,G06F|G06Q
+11816658,2023-11-14,Systems and methods for real-time virtual gift card purchasing,0,G06Q
+11811826,2023-11-07,Dynamic and cryptographically secure augmentation of programmatically established chatbot sessions,0,G06F|H04L
+11811748,2023-11-07,Methods and systems for controlling access to a protected resource,0,H04L|H04W
+11810080,2023-11-07,Systems and method for tracking enterprise events using hybrid public-private blockchain ledgers,0,G06F|G06Q|H04L|H04N|Y02P|Y04S
+11809577,2023-11-07,Application of trained artificial intelligence processes to encrypted data within a distributed computing environment,2,G06F|G06N|H04L
+11809486,2023-11-07,Automated image retrieval with graph neural network,2,G06F|G06N
+11809403,2023-11-07,Secure distribution of digital assets within a computing environment using permissioned distributed ledgers,1,G06F|G06Q|H04L
+11805134,2023-10-31,Systems and methods for authenticating data access requests,0,H04L
+11799805,2023-10-24,Systems and methods for managing chat-based registration with an online service,0,G06F|H04L
+11797962,2023-10-24,Configuring data transfers based on electronic messages,0,G06F|G06Q
+11797179,2023-10-24,Accumulated data transfer amount access,0,G06F|G06Q
+11792262,2023-10-17,System and method for data movement,3,H04L
+11792200,2023-10-17,Method and system for remotely verifying identity prior to provisioning a data record for a service,0,H04L
+11790354,2023-10-17,Adaptive remittance learning,2,G06N|G06Q
+11790012,2023-10-17,System and method for tagging data,2,G06F|G06N|G06Q
+11789909,2023-10-17,System and method for automatically managing storage resources of a big data platform,2,G06F|G06N
+11789810,2023-10-17,Method and system for detecting data corruption,0,G06F
+11789585,2023-10-17,System and method for providing a graphical user interface,0,G06F|G06Q
+11784799,2023-10-10,Secure distribution and management of cryptographic keys within a computing environment using distributed ledgers,0,G06Q|H04L
+11783255,2023-10-10,System and method for executing parallel workflows,0,G06Q
+11782935,2023-10-10,Methods and devices for identifying relevant information for a first entity,2,G06F|G06Q
+11777918,2023-10-03,Dynamic and cryptographically secure augmentation of participants in programmatically established chatbot sessions,0,G06F|G06Q|H04L|H04W
+11777731,2023-10-03,Secure management of transfers of digital assets between computing devices using permissioned distributed ledgers,0,G06Q|H04L
+11775964,2023-10-03,System and method for managing loyalty program accounts,0,G06Q
+11775945,2023-10-03,Secure real-time product ownership tracking using distributed electronic ledgers,1,G06F|G06Q|H04L|H04N|Y02P|Y04S
+11769148,2023-09-26,System and method of session key generation and exchange,0,G06Q|H04L
+11763532,2023-09-19,System and method for providing a three-dimensional object representing a stored-value card for display in augmented reality,0,G06Q|G06T
+11763279,2023-09-19,Immediate release of resource for data transfer,0,G06Q|G07F
+11762527,2023-09-19,Compact graphical user interface control,0,G06F|G06Q
+11756388,2023-09-12,System and method for automated deposit item handling,1,G06Q|G07F
+11755783,2023-09-12,Enforcing restrictions on cryptographically secure exchanges of data using permissioned distributed ledgers,0,G06F|H04L
+11750687,2023-09-05,System and method for updating interface elements based on real-time transfer protocol availability,0,H04L
+11750686,2023-09-05,System and method for enabling one or more transfer features associated with a real-time transfer protocol,0,H04L
+11748400,2023-09-05,Automated image retrieval with image graph,2,G06F|G06V
+11743350,2023-08-29,System and method for integrating external services into process workflow environments,0,G06F|G06Q|H04L
+11743210,2023-08-29,Automated population of deep-linked interfaces during programmatically established chatbot sessions,2,G06N|H04L
+11741305,2023-08-29,Systems and methods for automatically assessing fault in relation to motor vehicle collisions,3,B60W|B62D|G06F|G06N|G07C
+11741201,2023-08-29,Systems and methods for initiating an authenticated session,0,G06F|H04L
+11734684,2023-08-22,Authorization control network and method of validating an authorization request,1,G06F|G06Q
+11734410,2023-08-22,Automatic workstation functionality management based on login credentials,1,G06F
+11729163,2023-08-15,System and method for establishing secure communication between applications,0,H04L|H04W
+11727393,2023-08-15,Stored-value card system,0,G06Q|G07F
+11727356,2023-08-15,Automatic generation and tracking of acquisition IDs and product sources,1,G06F|G06Q|H04L
+11726897,2023-08-15,System and method for testing applications,1,G06F
+11720886,2023-08-08,System and method for generating notifications based on digital wallet pass data,0,G06Q
+11716518,2023-08-01,Systems and methods for controlling display of supplementary data for video content,0,G06F|H04N
+11715074,2023-08-01,Integrated home scoring system,13,G06Q|G16Y|H04L
+11714856,2023-08-01,System and method for generating a recommendation,0,G06F|G06Q
+11714844,2023-08-01,System and method for managing document metadata,0,G06F
+11711362,2023-07-25,Dynamic biometric authentication based on distributed ledger data,0,H04L
+11704782,2023-07-18,Computerized image analysis for automatically determining wait times for a queue area,3,G06Q|G06T|G06V
+11704761,2023-07-18,Integration of workflow with digital ID,2,G06Q|H04L
+11704754,2023-07-18,Systems and methods for prompting a foreign currency transaction,1,G06Q|H04W
+11694181,2023-07-04,Automatic digital personal assistant interjection for delaying data exchange outcomes,0,G06Q
+11694179,2023-07-04,System and method for integrated application and provisioning,2,G06Q
+11693702,2023-07-04,Systems and methods for managing usage of computing resources,2,G06F
+11689484,2023-06-27,Dynamic configuration and population of digital interfaces during programmatically established chatbot sessions,2,G06N|H04L
+11689370,2023-06-27,Dynamic management and implementation of consent and permissioning protocols using container-based applications,1,G06F|H04L
+11688003,2023-06-27,System and method for integrated application and provisioning,2,G06F|G06Q
+11687995,2023-06-27,Contextually-aware recommendation and translation engine,2,G06F|G06Q
+11687933,2023-06-27,Electronic account settlement via distinct computer servers,0,G06Q
+11687601,2023-06-27,Dynamic user interface for navigating user account data,0,G06F|H04L
+11683303,2023-06-20,Establishing a trusted session with a smart speaker,0,H04L|H04W
+11681607,2023-06-20,System and method for facilitating performance testing,0,G06F
+11677742,2023-06-13,Systems and methods for creating multi-applicant account,0,H04L|H04W
+11676115,2023-06-13,Authorization system using partial card numbers,0,G06Q
+11671536,2023-06-06,Method and system for providing access to a node of a shared resource,0,G06Q|H04M
+11669820,2023-06-06,Initiating split data transfers at a terminal,0,G06Q
+11669423,2023-06-06,Systems and methods for monitoring application health in a distributed architecture,1,G06F
+11665254,2023-05-30,Real-time generation and provisioning of contextual notification data to network connected devices,0,G06Q|H04L
+11665155,2023-05-30,Systems and methods for controlling third-party access of a protected data resource,0,G06F|H04L
+11663603,2023-05-30,Systems and methods for providing merchant fraud alerts,0,G06Q
+11663488,2023-05-30,Initialization of parameters for machine-learned transformer neural network architectures,4,G06F|G06N
+11657392,2023-05-23,On-boarding server for remotely authorizing use of a terminal,0,G06Q
+11651394,2023-05-16,Systems and methods for dynamic context-based electronic offer communication,0,G06F|G06Q|H04W
+11651359,2023-05-16,Distributed electronic ledger with metadata,0,G06Q
+11651100,2023-05-16,"System, device and method for enforcing privacy during a communication session with a voice assistant",1,G06F|G10L|H04L|H04R
+11645641,2023-05-09,Method and system for performing an operation,0,G06Q
+11645039,2023-05-09,Methods and systems for transferring a session between audible and visual interfaces,0,G06F
+11640482,2023-05-02,System and method for providing trusted links between applications,0,G06F
+11640351,2023-05-02,System and method for automated application testing,0,G06F
+11636472,2023-04-25,Terminal configuration server for the remote configuration of terminals,0,G06Q
+11636453,2023-04-25,Integrated credit application and merchant transaction including concurrent visualization of transaction details,2,G06Q
+11636225,2023-04-25,Method and system for managing access to entity identity data,1,G06F|H04L|H04W
+11636194,2023-04-25,Method and system for obtaining consent to perform an operation,0,G06F|H04L|H04W
+11632674,2023-04-18,System and method for establishing a trusted session,0,H04L|H04W
+11632311,2023-04-18,Provisioning server for automated data provider provisioning and associated methods,4,G06F|G06Q|H04L
+11620741,2023-04-04,System and method for verifying image data of a vehicle,2,G06Q|G06T|G06V|H04L
+11620636,2023-04-04,Touchless payments at point-of-sale terminals,0,G06Q|H04L
+11615212,2023-03-28,Systems and methods for managing a data request interface,0,G06F|G06Q|H04L
+11614968,2023-03-28,Processing future-dated resource reservation requests,0,G06F|H04L
+11611516,2023-03-21,Systems and methods for resource allocation,0,H04L
+11606350,2023-03-14,Initiating provisioning of an existing account based on an unauthenticated request,0,G06F|H04L
+11605106,2023-03-14,Automated solution for loyalty rewards points,0,G06Q
+11605076,2023-03-14,Reconciliation of indirectly executed exchanges of data using permissioned distributed ledgers,2,G06F|G06Q|H04L
+11605070,2023-03-14,Cloud-based electronic payment processing,1,G06Q|H04L|H04W
+11604899,2023-03-14,Dynamic user interface for data exchange split,2,G06F|G06Q|H04L|H04W
+11601390,2023-03-07,System and method for tagging data,0,G06Q|H04L
+11600064,2023-03-07,Systems and methods of augmenting objects associated with personal data,0,G06F|G06V|H04L
+11599934,2023-03-07,System and method for optimized transfer of digital assets,1,G06Q
+11599258,2023-03-07,User interface for smartwatches and wearable devices,0,G06F
+11595384,2023-02-28,Digital identity network interface system,0,G06F|H04L
+11594219,2023-02-28,Method and system for completing an operation,0,G06F|G06Q|G10L|H04L|H04W
+11593875,2023-02-28,Systems and methods for real-time processing of resource requests,0,G06Q
+11593784,2023-02-28,System and method for real-time transfer protocol determination,0,G06Q
+11593124,2023-02-28,System and method for automated configuration of a computing device,0,G06F|G06Q
+11593012,2023-02-28,Partial pass-through data transfer system,1,G06F
+11588617,2023-02-21,Validating confidential data using homomorphic computations,0,G06F|H04L
+11582219,2023-02-14,Methods and systems for controlling access to a protected resource,0,G06K|G06Q|G07F|G07G|H04L|H04W
+11580762,2023-02-14,Training a card type classifier with simulated card images,2,G06F|G06N|G06V
+11562354,2023-01-24,Terminal configuration server for the remote configuration of terminals,0,G06Q
+11562038,2023-01-24,System and method of integrating data,0,G06F
+11561827,2023-01-24,System and method for executing a dynamic routing service,0,G06F|G06Q
+11554685,2023-01-17,Electric vehicle charger and related methods,1,B60L|B60Y|G06Q|G07F|H04L|Y02T|Y04S
+11551307,2023-01-10,System and method for enabling capture of an image of a vehicle,0,G06F|G06Q|G06T|H04N
+11546345,2023-01-03,Real-time authorization of initiated data exchanges based on dynamically generated tokenized data,3,G06Q|H04L|H04W
+11544702,2023-01-03,Provisioning of secure application,0,G06F|G06Q|H04L|H04W
+11544694,2023-01-03,Real-time authorization of initiated data exchanges based on tokenized data having limited temporal or geographic validity,0,G06Q|H04W
+11543951,2023-01-03,Automated teller device having accessibility configurations,0,G06F|G07F
+11539705,2022-12-27,Systems and methods for controlling third-party access of protected data,0,G06F|H04L
+11537449,2022-12-27,Devices and methods for providing notifications,0,G06F|G06Q
+11532029,2022-12-20,System and method to direct processing of orders to improve processing resource usage,0,G06Q|H04W
+11526630,2022-12-13,Managing cryptographically secure exchanges of data using permissioned distributed ledgers,0,G06F|H04L
+11526431,2022-12-13,Systems and methods for automated provisioning of a virtual mainframe test environment,0,G06F|H04L
+11521228,2022-12-06,Automatic generation and tracking of acquisition IDs and product sources,1,G06Q
+11521198,2022-12-06,Systems and methods for real-time virtual gift card purchasing,0,G06Q
+11521186,2022-12-06,Recipient management in computer network initiated data transfers,0,G06F|G06Q|H04L
+11520686,2022-12-06,System and method for facilitating performance testing,1,G06F
+11514449,2022-11-29,Pre-authorization of non-activated payment instruments at specific merchants,0,G06Q
+11514424,2022-11-29,System and method for integrated application and provisioning,3,G06Q
+11508382,2022-11-22,"System, device and method for enforcing privacy during a communication session with a voice assistant",2,G06F|G10L
+11507868,2022-11-22,Predicting success probability of change requests,2,G06N|G06Q
+11507622,2022-11-22,System and method for automatically managing storage resources of a big data platform,2,G06F|G06N
+11488153,2022-11-01,Token-based system for securing and recovering data,0,G06Q|H04L
+11487693,2022-11-01,Interface for receiving and responding to a request to transfer,0,G06F|H04L
+11483523,2022-10-25,System and method for obtaining video for use with photo-based estimation,0,G06Q|G06T|H04L|H04N
+11483298,2022-10-25,Information masking using certificate authority,0,H04L
+11483157,2022-10-25,Management of cryptographically secure exchanges of data using permissioned distributed ledgers,3,G06Q|H04L
+11481843,2022-10-25,Systems and methods for presenting multimedia content,1,G06F|G06Q
+11481779,2022-10-25,System and method for authorizing a debit transaction without user authentication,0,G06Q
+11481778,2022-10-25,Validating encrypted data from a multi-layer token,0,G06Q|H04L|H04W
+11481405,2022-10-25,"Methods and devices for determining, and identifying information to manage, a level of risk of a first entity",0,G06F|G06Q
+11481189,2022-10-25,Methods and systems for transferring a session between audible and visual interfaces,0,G06F
+11477265,2022-10-18,Dynamic generation and provisioning of digital content to network-connected devices,3,G06N|G06Q|H04L
+11477203,2022-10-18,Method and system for initiating a transfer of resources,0,H04L
+11475512,2022-10-18,Systems and methods for providing balance notifications to connected devices,0,G06Q
+11475450,2022-10-18,Systems and methods for authenticating user identities in networked computer systems,0,G06Q|H04L
+11475407,2022-10-18,System and method for providing a graphical user interface,0,G06F|G06Q
+11475251,2022-10-18,System and method for validating data,3,G06F|G06N|G06Q
+11475059,2022-10-18,Automated image retrieval with graph neural network,2,G06F|G06N
+11470143,2022-10-11,Systems and methods for real-time transfer failure detection and notification,1,G06F|H04L
+11470091,2022-10-11,Dynamic authorization of pre-staged data exchanges based on contextual data,4,G06N|G06Q|H04L|H04W
+11470073,2022-10-11,Method and apparatus with provider information access authorization,0,G06F|G06Q|H04L
+11469878,2022-10-11,Homomorphic computations on encrypted data within a distributed computing environment,4,G06F|G06N|H04L
+11468443,2022-10-11,Real-time determination of counterparty geolocation based on structured messaging data,5,G06Q
+11468430,2022-10-11,Value transfer card management system,0,G06Q
+11467749,2022-10-11,System and method for conditional data transfers,0,G06F|G06Q|H04L|H04W
+11461153,2022-10-04,System and method for monitoring events in process management systems,0,G06F|G06Q
+11456869,2022-09-27,Secure management of transfers of digital assets between computing devices using permissioned distributed ledgers,0,G06Q|H04L
+11455585,2022-09-27,System and method for executing parallel workflows,0,G06Q
+11455200,2022-09-27,System and method for executing a notification service,0,G06F
+11451669,2022-09-20,Method and system for providing access to a node of a shared resource,0,G06Q|H04M
+11449891,2022-09-20,System and method for providing an indicator to offset a purchase price,0,G06F|G06Q
+11449884,2022-09-20,Automatic linking of loyalty accounts of authorized users to loyalty accounts of primary users,0,G06Q|G07F
+11449312,2022-09-20,System and method for executing a process workflow,3,G06F|G06Q
+11444782,2022-09-13,Dynamically managing exchanges of data using a distributed ledger and homomorphic commitments,0,H04L
+11443066,2022-09-13,"Devices, systems and methods for determining suggested action initiation times for interactions",0,G06F|G06Q|H04L|H04W
+11436809,2022-09-06,Systems and methods for providing an augmented-reality virtual treasure hunt,2,A63F|G02B|G06F|G06Q|G06T|H04L
+11436336,2022-09-06,Systems and methods for evaluating data access signature of third-party applications,0,G06F
+11430242,2022-08-30,Systems and methods for obtaining product information in real-time,0,G06Q|G06V
+11430077,2022-08-30,System and method for searching and monitoring assets available for acquisition,2,G06F|G06Q|H04L
+11429942,2022-08-30,Systems and methods for transferring values in remote databases,1,G06F|G06Q
+11429476,2022-08-30,Method and system for detecting data corruption,1,G06F
+11416857,2022-08-16,Terminal configuration apparatus for the remote configuration of terminals,0,G06Q
+11411893,2022-08-09,Systems and methods for managing chat-based registration with an online service,2,G06F|H04L
+11411734,2022-08-09,Maintaining data confidentiality in communications involving voice-enabled devices in a distributed computing environment,2,G06F|G06N|G10L|H04L
+11410138,2022-08-09,Value transfer card management system,0,G06Q
+11409811,2022-08-09,System and method for tagging data,2,G06F|G06N|G06Q
+11405396,2022-08-02,Secure management and provisioning of interaction data using permissioned distributed ledgers,0,G06Q|H04L
+11405207,2022-08-02,Dynamic implementation and management of hash-based consent and permissioning protocols,0,H04L
+11399173,2022-07-26,System and method for receiving user input in virtual/augmented reality,0,G06F|H04N
+11397765,2022-07-26,Automated image retrieval with image graph,2,G06F|G06V
+11395134,2022-07-19,System and method for selectively enabling a data transfer method,2,G06F|G06Q|H04W
+11394668,2022-07-19,System and method for executing operations in a performance engineering environment,2,G06F|G06N|H04L
+11393020,2022-07-19,Event prediction using classifier as coarse filter,4,G06N|G06Q
+11392776,2022-07-19,Systems and methods of generating responses associated with natural language input,2,G06F
+11388063,2022-07-12,Intraday resource management system,2,G06Q|H04L
+11386089,2022-07-12,Scan optimization of column oriented storage,0,G06F
+11385768,2022-07-12,Data-aggregating graphical user interfaces,0,G06F|G06Q
+11381574,2022-07-05,Systems and methods for data security notification generation,0,H04L
+11381519,2022-07-05,Systems and methods for allocating shared resources,0,G06Q|H04L
+11379804,2022-07-05,Real-time transfer management interface,2,G06Q
+11379657,2022-07-05,Systems and methods for automatic report generation and retaining of annotations in reporting documents after regeneration,0,G06F
+11379546,2022-07-05,System and method for controlling visibility of elements of displayed electronic content,0,G06F|G06Q
+11379532,2022-07-05,System and method for generating a recommendation,0,G06F|G06Q
+11373229,2022-06-28,Contextually-aware recommendation and translation engine,3,G06F|G06Q
+11368444,2022-06-21,Managing third-party access to confidential data using dynamically generated application-specific credentials,1,H04L|H04W
+11367076,2022-06-21,Entity-based controls for value transfer cards,0,G06Q|H04N
+11367070,2022-06-21,System and method for provisioning a data transfer application,0,G06F|G06Q|H04L
+11367059,2022-06-21,Integrated credit application and merchant transaction including concurrent visualization of transaction details,3,G06Q
+11363028,2022-06-14,Systems and methods for delegating access to a protected resource,1,G06F|G06Q|H04L
+11361566,2022-06-14,Systems and methods for augmenting a displayed document,3,G06F|G06N|G06V
+11361338,2022-06-14,System and method for generating a notification to offset a purchase price,0,G06Q
+11354698,2022-06-07,System and method for offsetting cost of a booking for a non-contributing member using loyalty points of a group of contributing members,0,G06Q
+11354442,2022-06-07,Automatic historical analysis of data exchange,4,G06F|G06Q|H04L|H04W
+11349871,2022-05-31,Dynamic and cryptographically secure augmentation of programmatically established chatbot sessions,0,G06F|H04L
+11348194,2022-05-31,System and method for interfacing entities engaged in property exchange activities,0,G06Q
+11348103,2022-05-31,EMV-session data network and method of processing EMV-session data,1,G06Q
+11347744,2022-05-31,"Data management device, communication system and methods for tagging data in a data table and triggering automated actions",1,G06F|G06Q
+11343256,2022-05-24,Systems and methods for controlling third-party access of a protected data resource,1,H04L
+11343239,2022-05-24,Systems and methods for controlling third-party access of a protected data resource,2,G06F|H04L
+11336440,2022-05-17,Secure management and regeneration of cryptographic keys within a computing environment using permissioned distributed ledgers,1,G06Q|H04L
+11334574,2022-05-17,Methods and devices for identifying relevant information for a first entity,2,G06F|G06Q
+11334385,2022-05-17,Browser-based processing of data,2,G06F
+11328351,2022-05-10,Apparatus and method to securely instruct an order by efficiently invoking a program application on a computing device,2,G06F|G06Q
+11328298,2022-05-10,System and method for remotely activating a pin-pad terminal,0,G06Q|G07F|H04L
+11328052,2022-05-10,Automatic workstation functionality management based on login credentials,2,G06F
+11321083,2022-05-03,Automated branching workflow for a version control system,0,G06F|G06Q
+11315136,2022-04-26,Modifying existing instruments without modification of unique identifier and immediate benefit availability,1,G06Q
+11308467,2022-04-19,System and method for deriving a primary numeric value and a secondary numeric value from an authorized request,0,G06Q
+11308461,2022-04-19,Systems and methods for tracking and transferring ownership of connected devices using blockchain ledgers,3,G06F|G06Q|H04L|H04N|Y02P|Y04S
+11303642,2022-04-12,Dynamic management of consent and permissioning between executed applications and programmatic interfaces,0,G06F|H04L
+11301864,2022-04-12,Systems and methods for providing tokenized transaction accounts,0,G06Q
+11295288,2022-04-05,Modifying existing instruments without issuance of new physical card,1,G06Q
+11282137,2022-03-22,Secure element method for distributed electronic ledger,2,G06Q
+11276257,2022-03-15,System and method for analyzing vehicle data,3,G06N|G06Q|G07C
+11275842,2022-03-15,Systems and methods for evaluating security of third-party applications,2,G06F
+11271947,2022-03-08,Systems and methods for authenticating data access requests,1,H04L
+11270293,2022-03-08,Systems and methods for administering mobile applications using pre-loaded tokens,8,G06Q
+11270021,2022-03-08,Modification of data sharing between systems,1,G06F
+11269694,2022-03-08,Automated API code generation,3,G06F
+11245656,2022-02-08,System and method for tagging data,0,G06Q|H04L
+11244319,2022-02-08,Simulator for value instrument negotiation training,5,G06F|G06Q|G06T|G06V|G09B
+11232873,2022-01-25,Integrated home scoring system,76,G06Q|G16Y|H04L
+11232304,2022-01-25,Systems and methods of augmenting objects associated with personal data,0,G06F|G06V|H04L
+11227354,2022-01-18,Integration of workflow with digital ID,4,G06Q|H04L
+11227275,2022-01-18,Person-to-person electronic payment processing,29,G06Q
+11223583,2022-01-11,Chat bot conversation manager,1,G06F|H04L
+11222416,2022-01-11,System and method for photo-based estimation with fraud prevention,0,G06Q|G06T|G06V|H04L|H04N
+11222316,2022-01-11,Real time virtual draft system and method,0,G06Q
+11222311,2022-01-11,System and method for secure data transfer,0,G06Q|H04L
+11222286,2022-01-11,Target document template generation,3,G06F|G06N|G06Q
+11221825,2022-01-11,Methods and systems for conducting a session over audible and visual interfaces,0,G06F
+11221824,2022-01-11,Methods and systems for transferring a session between audible interface and visual interface,0,G06F|H04L
+11216808,2022-01-04,Token-based system for excising data from databases,1,G06Q|H04L
+11210857,2021-12-28,Systems and methods for providing an augmented-reality virtual treasure hunt,1,A63F|G02B|G06F|G06Q|G06T|H04L
+11200411,2021-12-14,Training a card type classifier with simulated card images,3,G06F|G06N|G06V
+11200328,2021-12-14,Homomorphic encryption of communications involving voice-enabled devices in a distributed computing environment,3,G06F|G06N|G10L|H04L
+11200155,2021-12-14,System and method for automated application testing,1,G06F
+11194444,2021-12-07,System and method for indicating data transfer method selection,0,G06F
+11188885,2021-11-30,Processing network architecture with companion database,0,B64D|B65D|G06Q|Y10T
+11188884,2021-11-30,Processing network architecture with companion database,0,B64D|B65D|G06Q|Y10T
+11182860,2021-11-23,System and method for providing photo-based estimation,4,G06Q|H04L
+11157908,2021-10-26,Smart chip card with fraud alert and biometric reset,0,G06K|G06Q
+11157643,2021-10-26,Systems and methods for delegating access to a protected resource,3,G06F|G06Q|H04L|H04W
+11157558,2021-10-26,Systems and methods for controlling display of video content in an online media platform,5,G06F|G06Q|H04N
+11153665,2021-10-19,Systems and methods for controlling display of supplementary data for video content,6,G06F|H04N
+11151526,2021-10-19,Systems and methods for establishing and enforcing transaction-based restrictions using hybrid public-private blockchain ledgers,2,G06F|G06Q|H04L|H04N|Y02P|Y04S
+11151513,2021-10-19,Automatic generation and tracking of acquisition IDs and product sources,1,G06F|G06Q|H04L
+11146954,2021-10-12,System and method for establishing a trusted session,1,H04L|H04W
+11145169,2021-10-12,System and method for automated deposit item handling,7,G06Q|G07F
+11144998,2021-10-12,Dynamic provisioning of data exchanges based on detected relationships within processed image data,2,G06N|G06Q|G06V
+11144960,2021-10-12,Systems and methods for dynamic context-based electronic offer communication,1,G06F|G06Q|H04W
+11144921,2021-10-12,Generation and provisioning of digital tokens based on dynamically obtained contextual data,2,G06N|G06Q
+11144898,2021-10-12,System and method for generating cohorts,0,G06F|G06Q
+11140143,2021-10-05,Dynamic and cryptographically secure augmentation of participants in programmatically established chatbot sessions,0,G06F|G06Q|H04L|H04W
+11138591,2021-10-05,Systems and methods for generating and administering mobile applications using pre-loaded tokens,0,G06Q
+11138582,2021-10-05,Real-time execution of data exchanges between computing systems based on selectively allocated parameters,1,G06Q
+11128614,2021-09-21,Establishing a trusted session with a smart speaker,1,H04L|H04W
+11127005,2021-09-21,Network and method for clearing point-of-sale terminal pre-authorizations,0,G06F|G06Q
+11126988,2021-09-21,Real-time delegated approval of initiated data exchanges by network-connected devices,1,G06Q
+11126975,2021-09-21,Systems and method for tracking behavior of networked devices using hybrid public-private blockchain ledgers,17,G06F|G06Q|H04L|H04N|Y02P|Y04S
+11126746,2021-09-21,Dynamic security controls for data sharing between systems,0,G06F|H04L
+11122113,2021-09-14,System and method for transferring value between database records,0,G06F|G06Q|H04L
+11120447,2021-09-14,Authorization control network and method of validating an authorization request,2,G06F|G06Q
+11120439,2021-09-14,Securing data via multi-layer tokens,0,G06Q|H04L
+11120165,2021-09-14,Systems and methods for managing a data request interface,0,G06F|G06Q|H04L
+11108762,2021-08-31,Methods and systems for controlling access to a protected resource,2,H04L|H04W
+11108667,2021-08-31,Resource allocation control based on connected devices,0,H04L|H04M|H04W
+11107050,2021-08-31,Automatic performance of parameter-based operations in trusted network environments,0,G06Q|G07F|H04L
+11106499,2021-08-31,Resource allocation based on resource distribution data from child node,0,G06F
+11102303,2021-08-24,Automated implementation of provisioned services based on captured sensor data,0,G06Q|H04L
+11102180,2021-08-24,Real-time authentication and authorization based on dynamically generated cryptographic data,1,G06Q|H04L
+11100480,2021-08-24,Immediate release of resource for data transfer,0,G06Q|G07F
+11100168,2021-08-24,Automated population of digital interfaces based on dynamically generated contextual data,2,G06F|G06N|H04W
+11095656,2021-08-17,Systems and methods for data security notification generation,0,H04L
+11093649,2021-08-17,Enforcing restrictions on cryptographically secure exchanges of data using permissioned distributed ledges,2,G06F|H04L
+11087314,2021-08-10,Adaptive remittance learning,3,G06N|G06Q
+11086742,2021-08-10,Task based service management platform,0,G06F
+11086675,2021-08-10,Processing future-dated resource reservation requests,4,G06F|H04L
+11070448,2021-07-20,Provisioning server for automated data provider provisioning and associated methods,4,G06F|G06Q|H04L
+11069201,2021-07-20,Automated device for exchange of data,0,G06F|G06Q|G07F|H04L
+11068645,2021-07-20,Dynamic user interface control system,0,G06F
+11068491,2021-07-20,Data storage using a bi-temporal index,1,G06F
+11068471,2021-07-20,Systems and methods for managing data transfers over a network,0,G06F
+11062548,2021-07-13,Card reader tampering detector,0,G06F|G07F|G08B|H04K
+11062389,2021-07-13,Configuration of data transfer recipient,2,G06Q
+11062312,2021-07-13,Smart chip card with fraud alert and biometric reset,1,G06K|G06Q
+11061638,2021-07-13,Dynamically determining an interface for presenting information to a user,3,G06F|G06N|G09G|H04L
+11055924,2021-07-06,System and method for accessing and providing vehicle information in augmented reality,0,G06Q|G06T|G06V
+11055113,2021-07-06,Data rendering for applications,2,G06F|H04L
+11044167,2021-06-22,Intraday resource management system,2,G06Q|H04L
+11043084,2021-06-22,Automated teller machine providing withdrawals with a single authentication factor,0,G06Q|G07F|H04W
+11042931,2021-06-22,Intraday resource management system,2,G06Q|H04L
+11032086,2021-06-08,Certificate authority master key tracking on distributed ledger,0,G01B|G01C|G01M|G01N|G01P|G06V|H04L|H04W
+11030415,2021-06-08,Learning document embeddings with convolutional neural network architectures,4,G06F|G06N
+11023365,2021-06-01,Systems and methods for automated provisioning of a virtual mainframe test environment,0,G06F|H04L
+11023200,2021-06-01,"Systems, devices and methods for delivering audible alerts",0,G06F|G08B|H04W
+11017028,2021-05-25,Systems and methods for intelligent responses to queries based on trained processes,2,G06F|G06N|G10L
+11010049,2021-05-18,System and method to perform a numerical input using a continuous swipe gesture,1,G06F|G06Q
+11004187,2021-05-11,System and method for verifying image data of a vehicle,4,G06Q|G06T|G06V|H04L
+11004141,2021-05-11,System and method to direct processing of orders to improve processing resource usage,0,G06Q|H04W
+11004050,2021-05-11,Server and method for remotely disabling a compromised point-of-sale terminal,1,G06Q
+10996838,2021-05-04,Automated teller device having accessibility configurations,7,G06F|G07F
+10990947,2021-04-27,Point-of-sale device and method for generating a discounted authorization request,3,G06Q
+10984418,2021-04-20,Automated device for data transfer,0,G06Q|G07F
+10978063,2021-04-13,"Systems, devices and methods for delivering audible alerts",0,G06F|G10L|H04L|H04W
+10977784,2021-04-13,System and method for photo-based estimation with fraud prevention,0,G06Q|G06T|G06V|H04L|H04N
+10977617,2021-04-13,System and method for generating an interaction request,1,G06F|G06Q|H04L
+10970689,2021-04-06,Systems and methods for dynamic user interface modification,0,G06Q
+10958642,2021-03-23,Dynamic biometric authentication based on distributed ledger data,1,H04L
+10956905,2021-03-23,System and method of session key generation and exchange,1,G06Q|H04L
+10943605,2021-03-09,Conversational interface determining lexical personality score for response generation with synonym replacement,2,G06F|G06Q|G10L
+10938700,2021-03-02,Resource allocation control based on connected devices,1,H04L|H04M|H04W
+10936755,2021-03-02,Device lock bypass on selectable alert,0,G06F|G06Q|H04L|H04W
+10932003,2021-02-23,Method and system for making recommendations from binary data using neighbor-score matrix and latent factors,2,G06F|G06Q|H04N
+10929484,2021-02-23,System and method of integrating data,0,G06F
+10929098,2021-02-23,Methods and systems for conducting a session over audible and visual interfaces,1,G06F
+10922673,2021-02-16,Real-time authorization of initiated data exchanges based on tokenized data having limited temporal or geographic validity,1,G06Q|H04W
+10922665,2021-02-16,Automatic generation and population of digital interfaces based on adaptively processed image data,3,G06F|G06Q|G06V
+10909526,2021-02-02,System and method for activating a physical token in augmented reality,1,G06Q|G06T
+10909126,2021-02-02,"Methods and devices for determining, and identifying information to manage, a level of risk of a first entity",1,G06F|G06Q

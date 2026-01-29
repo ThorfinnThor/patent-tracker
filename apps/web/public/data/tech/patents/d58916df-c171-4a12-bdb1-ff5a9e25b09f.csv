@@ -1,0 +1,554 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432927,2025-09-30,"Semiconductor devices, systems, and methods for forming the same",0,H01L|H10B
+12432923,2025-09-30,Memory device and fabrication method thereof,0,H01L|H10B
+12432921,2025-09-30,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12431468,2025-09-30,Bonded semiconductor devices having processor and dynamic random-access memory and methods for forming the same,0,G11C|H01L|H10B
+12430034,2025-09-30,Memory controller and memory system performing data search based on logical-to-physical mapping table,0,G06F
+12424544,2025-09-23,Three-dimensional NAND memory and fabrication method thereof,0,H01L|H10B
+12423251,2025-09-23,"Memory device, method for controlling memory device and memory system",0,G06F|G11C
+12423005,2025-09-23,"Host, memory system, and operation methods thereof",0,G06F
+12419050,2025-09-16,"Semiconductor device and its manufacturing method, memory and memory system",0,H01L|H10B
+12417055,2025-09-16,High-performance input buffer and memory device having the same,0,G06F|G11C
+12417036,2025-09-16,System and method of performing a read operation,0,G06F|G11C
+12417020,2025-09-16,"Memory device, memory system, and method for data calculation with the memory device",0,G06F|G11C
+12412855,2025-09-09,Vertical memory devices,0,H01L|H10B
+12412628,2025-09-09,Methods for forming three-dimensional memory devices,0,G11C|H01L|H10B|H10D
+12411626,2025-09-09,File system and host performance booster for flash memory,0,G06F
+12411609,2025-09-09,"Memory device and its operating method, memory system and operating method thereof",0,G06F
+12408338,2025-09-02,Memory devices having vertical transistors and methods for forming the same,0,G11C|H01L|H10B
+12406954,2025-09-02,Memory devices having vertical transistors and methods for forming the same,0,H01L|H10B|H10D
+12406928,2025-09-02,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+12406879,2025-09-02,Staircase formation in three-dimensional memory device,0,H01L|H10B
+12405793,2025-09-02,Bus-interleave protocol to improve multiple logic unit (LUN) operation efficiency,0,G06F
+12405736,2025-09-02,"Operating methods, memory controllers, and memory systems",0,G06F
+12402309,2025-08-26,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+12399643,2025-08-26,Data protection for three-dimensional NAND memory,0,G06F|G11C
+12396171,2025-08-19,Method of fabricating three-dimensional NAND memory,0,H01L|H10B
+12394751,2025-08-19,Method of forming semiconductor structure,0,H01L
+12393365,2025-08-19,"Method of controlling memory, memory and memory system",0,G06F|G11C
+12389611,2025-08-12,Structure and method for forming capacitors for a three-dimensional NAND,0,H01L|H10B|H10D
+12388037,2025-08-12,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12388036,2025-08-12,Three-dimensional memory devices and methods for forming the same,0,H01L
+12386741,2025-08-12,"Memory controller, memory system, and method for managing logical-to-physical mapping table based on address boundary",0,G06F
+12386739,2025-08-12,Memory system and operation method thereof and memory controller,0,G06F
+12386737,2025-08-12,"Electronic devices and memory systems having a power control function, and power control methods",0,G06F
+12386550,2025-08-12,"Memory device, memory system, and method for data calculation with the memory device",0,G06F|G11C
+12382628,2025-08-05,Semiconductor device and method for forming the same,0,H01L|H10B|H10D
+12381111,2025-08-05,Wafer bonding method and bonded wafer,0,H01L
+12379857,2025-08-05,Dynamic peak power management for multi-die operations,0,G06F|G11C|H10D
+12376278,2025-07-29,Bonded semiconductor devices having processor and static random-access memory and methods for forming the same,0,H01L|H10B|H10D
+12373290,2025-07-29,Memory systems and operation methods thereof,0,G06F
+12373134,2025-07-29,Memory device fragmentation analysis based on logical-to-physical tables,0,G06F
+12369317,2025-07-22,"Three-dimensional memory devices having a support stack comprising a sacrificial dielectric layer, and fabricating methods thereof",0,G11C|H01L|H10B
+12363896,2025-07-15,Trench structures for three-dimensional memory devices,0,H01L|H10B
+12362223,2025-07-15,"Semiconductor structure, fabrication method and three-dimensional memory",0,H01L|H10B|H10D
+12360916,2025-07-15,"Memory systems and methods of operating thereof, memory controllers and readable storage media",0,G06F
+12360915,2025-07-15,"Operation method of controller, controller, and memory system",0,G06F
+12360846,2025-07-15,"Apparatus, system, and method for operating memory system",0,G06F|G11C
+12354994,2025-07-08,Three-dimensional memory device and fabrication method,0,H01L|H10B
+12353726,2025-07-08,Memory device and program operation thereof,0,G06F|G11C
+12349345,2025-07-01,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12347787,2025-07-01,Three dimensional (3D) memory device and fabrication method,0,H01L|H10B
+12347684,2025-07-01,Method and structure for cutting dense line patterns using self-aligned double patterning,0,H01L|H10B
+12346681,2025-07-01,Firmware updating in PCIe type apparatuses,0,G06F
+12346576,2025-07-01,Memory systems and operation methods thereof,0,G06F
+12340115,2025-06-24,Data preprocessing (DPP) pattern supporting both normal program and early cache release program (ECRP),0,G06F|G11C
+12339769,2025-06-24,"Memory device, operation method thereof, and memory system",0,G06F|G11C
+12339737,2025-06-24,"Memory system and operation method thereof, and computer-readable storage medium",0,G06F
+12336181,2025-06-17,Three-dimensional memory device having source-select-gate cut structures and methods for forming the same,0,H01L|H10B
+12334399,2025-06-17,Structures and methods for fabricating staircase regions of a three-dimensional NAND memory device,0,H01L|H10B
+12334361,2025-06-17,"Substrate structure, and fabrication and packaging methods thereof",0,H01L
+12334181,2025-06-17,Method for controlling temperature of chips and related chips,0,G06F|G11C
+12328867,2025-06-10,Memory devices having vertical transistors and methods for forming the same,0,H01L|H10B|H10D
+12327601,2025-06-10,Method and apparatus for power saving in semiconductor devices,0,G06F|G11C|Y02D
+12327026,2025-06-10,"Memory controller, memory device, memory system and operation method thereof",0,G06F|G11C
+12324198,2025-06-03,Semiconductor device and manufacture method thereof,0,H01L|H10D
+12322596,2025-06-03,Methods for thermal treatment of a semiconductor layer in semiconductor device,0,B23K|H01L|H10B
+12322456,2025-06-03,Digital verify failbit count (VFC) circuit,0,G06F|G11C|H03M
+12321676,2025-06-03,System and methods for modeling and simulating on-die capacitors,0,G01R|G06F
+12317491,2025-05-27,Three-dimensional memory device and fabrication method for enhanced reliability,0,H01L|H10B|H10D
+12315802,2025-05-27,Memory device and fabrication method thereof,0,H01L|H10B
+12315568,2025-05-27,Memory device and program operation thereof,0,G06F|G11C|H10B
+12310011,2025-05-20,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12308856,2025-05-20,"Decoder, decoding method, memory controller, and memory system",0,G06F|H03M
+12302573,2025-05-13,Three-dimensional memory device with backside interconnect structures,0,H01L|H10B
+12300648,2025-05-13,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12300336,2025-05-13,Media scan in memory systems,0,G06F|G11C
+12300331,2025-05-13,"Operation method of memory system, memory system and electronic device",0,G06F|G11C
+12300327,2025-05-13,"Memory device, memory system, and operation method thereof",0,G06F|G11C
+12300317,2025-05-13,Three-dimensional memory device and methods for forming the same,0,G11C|H01L|H10B
+12299332,2025-05-13,"Memory devices, operation method thereof and memory system",0,G06F|G11C
+12299323,2025-05-13,Memory controller and memory system performing wear-leveling,0,G06F
+12299288,2025-05-13,Method for recovery in read operation of memory device and memory device thereof,0,G06F|G11C
+12299281,2025-05-13,"Memory systems and operation methods thereof, host devices and operation methods thereof, and computer-readable storage media",0,G06F
+12293084,2025-05-06,"Operating method for a memory, a memory, and a memory system to improve programming efficiency",0,G06F|G11C|H10B
+12283547,2025-04-22,Contact structures for three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12283322,2025-04-22,Three-dimensional NAND memory and fabrication method thereof,0,G11C|H01L|H10B
+12282435,2025-04-22,"Memory system and method of operating thereof, storage medium and memory controller",0,G06F
+12278209,2025-04-15,Peripheral circuit having recess gate transistors and method for forming the same,0,G11C|H01L|H10B
+12277343,2025-04-15,"Memory controller and control method thereof, memory apparatus, and memory system that improve the balance of the read performance",0,G06F
+12277324,2025-04-15,"Memory system, operation method thereof, and computer-readable storage medium for sorting super blocks",0,G06F
+12277072,2025-04-15,Memory system and operation method thereof using tag-group-based recording operation,0,G06F
+12277064,2025-04-15,"Method for operating memory system, memory controller, memory system and electronic device",0,G06F|G11C
+12277018,2025-04-15,Memory system and operation method thereof and power management module,0,G06F
+12274066,2025-04-08,Memory peripheral circuit having three-dimensional transistors and method for forming the same,0,H01L|H10B
+12274049,2025-04-08,Memory devices having vertical transistors and stacked storage units and methods for forming the same,0,H01L|H10B|H10D
+12272645,2025-04-08,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+12266403,2025-04-01,Three-dimensional NAND memory and fabrication method thereof,0,G11C|H01L|H10B|Y02D
+12262539,2025-03-25,3D NAND memory device and method of forming the same,0,G11C|H01L|H10B|H10D
+12262533,2025-03-25,Dynamic flash memory (DFM) with multi-cells,0,G11C|H01L|H10B
+12260124,2025-03-25,Three-dimensional memory device and method for enhanced page register reset,0,G06F|G11C
+12260096,2025-03-25,Method of reducing Vpass disturb in 3D nand systems,0,G06F|G11C
+12260094,2025-03-25,"Memory system and method of operating thereof, and computer-readable storage medium",0,G06F
+12256540,2025-03-18,Three-dimensional memory devices with improved back-side channel structures,0,H01L|H10B|H10D
+12255181,2025-03-18,Methods for forming three-dimensional memory devices,0,H01L|H10B
+12255164,2025-03-18,Structure and method for isolation of bit-line drivers for a three-dimensional NAND,0,H01L|H10B|H10D
+12254950,2025-03-18,"Dies, semiconductor package structures, enable pin configuration methods and memories",0,G11C|H01L
+12254185,2025-03-18,Managing operations in memory systems,0,G06F
+12254181,2025-03-18,"Memory system controller, memory and operation methods thereof, and electronic device",0,G06F
+12253942,2025-03-18,System and method for defragmentation of memory device,0,G06F|Y02D
+12248396,2025-03-11,Memory system and a method for garbage collection of the memory system,0,G06F
+12242735,2025-03-04,Memory systems and operation methods thereof,0,G06F
+12242341,2025-03-04,"Error correction method, memory system and memory controller",0,G06F
+12236100,2025-02-25,"Operating method, memory controller, and memory system",0,G06F
+12232320,2025-02-18,Word line structure of three-dimensional memory device,0,H01L|H10B|H10D
+12232316,2025-02-18,Bonded memory device and fabrication methods thereof,0,H01L|H10B
+12229419,2025-02-18,Page buffer supporting different bit line forcing operations using a dynamic latch,0,G06F|G11C
+12229028,2025-02-18,Memory device with failed main bank repair using redundant bank,0,G06F|G11C
+12216908,2025-02-04,"Memory systems, operation methods thereof, and electronic devices",0,G06F|G11C
+12216907,2025-02-04,Method of improving programming operations in 3D NAND systems,0,G06F|G11C
+12205940,2025-01-21,Semiconductor package structure and packaging method thereof,0,H01L
+12205895,2025-01-21,Three-dimensional memory device having staircase structure and method for forming the same,0,H01L|H10B
+12198946,2025-01-14,Intelligent customizable wet processing system,0,H01L
+12193229,2025-01-07,Semiconductor device fabrication,0,H01L|H10B
+12191269,2025-01-07,Three-dimensional memory device and method for forming the same,0,H01L|H10B|H10D
+12189985,2025-01-07,"Memory controllers and operating methods thereof, memory systems, and electronic devices",0,G06F
+12189951,2025-01-07,Best read reference voltage search of 3D NAND memory,0,G06F|G11C
+12185550,2024-12-31,Through array contact structure of three-dimensional memory device,0,H01L|H10B
+12183698,2024-12-31,Structure and method for isolation of bit-line drivers for a three-dimensional NAND,0,H01L|H10B|H10D
+12183623,2024-12-31,Semiconductor devices and methods for fabricating the same,0,H01L|H10B|H10D
+12182418,2024-12-31,"Memory controller, memory system and operation method thereof",0,G06F
+12182039,2024-12-31,"Memory and an operating method thereof, a memory system",0,G06F
+12176310,2024-12-24,Memory devices having vertical transistors and methods for forming the same,1,H01L|H10B
+12176309,2024-12-24,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B|H10D
+12176047,2024-12-24,Interface protocols between memory controller and NAND flash memory for cache programming,0,G06F|G11C
+12175100,2024-12-24,Data processing in memory system,0,G06F
+12170258,2024-12-17,Memory devices having vertical transistors and methods for forming the same,0,H01L|H10B
+12170257,2024-12-17,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B|H10D
+12169640,2024-12-17,Read retry method for enhancing read performance and stability of 3D NAND memory,0,G06F|G11C
+12167605,2024-12-10,Vertical memory devices,0,H01L|H10B|H10D
+12166012,2024-12-10,Flip-chip stacking structures and methods for forming the same,0,H01L|H10B
+12159849,2024-12-03,DRAM memory device with Xtacking architecture,0,H01L|H10B
+12159058,2024-12-03,High-performance input buffer and memory device having the same,0,G06F|G11C
+12153800,2024-11-26,Redundant data protection for NAND memory using self-verification by internal firmware,0,G06F|G11C
+12148714,2024-11-19,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12148705,2024-11-19,Methods for forming semiconductor devices bonded by interposer structure,0,H01L|H10B
+12148655,2024-11-19,Methods for forming stairs in three-dimensional memory devices,0,H01L|H10B
+12142575,2024-11-12,Staircase etch control in forming three-dimensional memory device,0,H01L|H10B
+12137568,2024-11-05,Hybrid bonding contact structure of three-dimensional memory device,0,H01L|H10B
+12137567,2024-11-05,Interconnect structure of three-dimensional memory device,0,H01L|H10B
+12137558,2024-11-05,Staircase structure for memory device,0,H01L|H10B
+12136618,2024-11-05,Three-dimensional memory device with backside source contact,0,H01L|H10B|H10D
+12136599,2024-11-05,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+12136586,2024-11-05,Semiconductor devices having a conductive layer stacking with an insulating layer and a spacer structure through the conductive layer,0,H01L|H10B
+12133386,2024-10-29,Contact pads of three-dimensional memory device and fabrication method thereof,0,H01L|H10B
+12131924,2024-10-29,Method for processing semiconductor wafers,0,B23K|H01L
+12127393,2024-10-22,Memory devices having vertical transistors and methods for forming the same,0,H01L|H10B|H10D
+12125827,2024-10-22,Chip package structure and manufacturing method thereof,0,H01L
+12118228,2024-10-15,Data protection method for memories and memory device thereof,0,G06F
+12114498,2024-10-08,Three-dimensional memory devices,0,H01L|H10B
+12113037,2024-10-08,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12108603,2024-10-01,Methods for forming on-chip capacitor structures in semiconductor devices,0,G11C|H01L|H10B|H10D
+12106985,2024-10-01,Laser dicing system and method for dicing semiconductor structure including cutting street,0,B23K|H01L
+12099729,2024-09-24,"Verify failbit count circuit, memory device, memory system and method",0,G06F|G11C|Y02D
+12094767,2024-09-17,Barrier layers for word line contacts in a three-dimensional NAND memory and fabrication methods thereof,0,H01L|H10B
+12093535,2024-09-17,"Memory device, memory system, and program operation method thereof",0,G06F|G11C
+12089413,2024-09-10,Peripheral circuit having recess gate transistors and method for forming the same,0,G11C|H01L|H10B
+12089406,2024-09-10,Three-dimensional memory device comprising contact pads exposed by an opening passing through layer stack and fabrication method thereof,0,H01L|H10B
+12082411,2024-09-03,Three-dimensional memory device with backside interconnect structures,0,H01L|H10B
+12082408,2024-09-03,Three-dimensional memory devices having first semiconductor structure bonded with second semiconductor structure each including peripheral circuit and methods for forming the same,0,G11C|H01L|H10B|H10D
+12082407,2024-09-03,Three-dimensional memory device and method for forming the same,0,H01L|H10B|H10D
+12080697,2024-09-03,Method for forming a three-dimensional (3D) memory device having bonded semiconductor structures,0,H01L|H10B
+12080665,2024-09-03,Memory devices having vertical transistors and methods for forming the same,0,H01L|H10B
+12080560,2024-09-03,Methods for forming dielectric layer in forming semiconductor device,0,H01L|H10B
+12079085,2024-09-03,Memory systems and operating methods thereof,0,G06F
+12074105,2024-08-27,Self-aligned contacts in three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12073092,2024-08-27,Memory device with failed main bank repair using redundant bank,0,G06F|G11C
+12069854,2024-08-20,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12068250,2024-08-20,3D NAND memory device and method of forming the same,0,H01L|H10B
+12066932,2024-08-20,On-die static random-access memory (SRAM) for caching logical to physical (L2P) tables,1,G06F
+12063784,2024-08-13,Memory peripheral circuit having three-dimensional transistors and method for forming the same,0,H01L|H10B
+12063780,2024-08-13,Memory cell structure of a three-dimensional memory device,0,H01L|H10B
+12062573,2024-08-13,Method for forming barrier layer in semiconductor structure,0,C23C|H01L|H10B|H10D
+12061799,2024-08-13,System and method of performing a read operation,0,G06F|G11C
+12058865,2024-08-06,Three-dimensional memory devices with support structures and methods for forming the same,0,H01L|H10B
+12058864,2024-08-06,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+12058858,2024-08-06,Three-dimensional memory devices and methods for forming the same,1,H01L|H10B|H10D
+12057372,2024-08-06,Methods for forming contact structures and semiconductor devices including forming a spacer structure into a base structure,0,H01L|H10B
+12056355,2024-08-06,"Memory device, a memory system and an operation method",0,G06F|G11C|H10B
+12052870,2024-07-30,Staircase structure with multiple divisions for three-dimensional memory,0,H01L|H10B|H10D
+12052868,2024-07-30,Ladder annealing process for increasing polysilicon grain size in semiconductor device,0,H01L|H10B|H10D
+12050785,2024-07-30,Power management for a memory system,0,G06F|Y02D
+12048151,2024-07-23,Methods for forming three-dimensional memory devices with backside source contacts,0,H01L|H10B|H10D
+12046555,2024-07-23,3D NAND memory device and method of forming the same,0,H01L|H10B
+12039187,2024-07-16,Power-down test of firmware of a memory system,0,G06F
+12035530,2024-07-09,Three-dimensional memory devices having through stair contacts and methods for forming the same,0,H01L|H10B|H10D
+12035524,2024-07-09,Channel structures having protruding portions in three-dimensional memory device and method for forming the same,0,H01L|H10B|H10D
+12035523,2024-07-09,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+12033967,2024-07-09,Memory devices having vertical transistors and methods for forming the same,0,H01L|H10B|H10D
+12033966,2024-07-09,Contact pads of three-dimensional memory device and fabrication method thereof,0,H01L|H10B
+12033957,2024-07-09,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12033944,2024-07-09,3D NAND memory device and method of forming the same,0,H01L|H10B
+12032860,2024-07-09,Data protection method for memory and storage device thereof,0,G06F
+12029038,2024-07-02,Three-dimensional memory device having pocket structure in memory string and method for forming the same,0,H01L|H10B|H10D
+12027463,2024-07-02,Memory device and fabrication method thereof,0,H01L|H10B
+12026514,2024-07-02,Bus-interleave protocol to improve multiple logic unit (LUN) operation efficiency,1,G06F
+12022656,2024-06-25,Local contacts of three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+12021030,2024-06-25,Contact structure and method of forming the same,0,H01L|H10B
+12020750,2024-06-25,Three-dimensional memory devices,1,G11C|H01L|H10B|H10D
+12019919,2024-06-25,Cache program operation of three-dimensional memory device with static random-access memory,0,G06F|G11C|H01L|H10B
+12016180,2024-06-18,Manufacturing method of three-dimensional memory device with improved RC delay,0,H01L|H10B|H10D
+12014075,2024-06-18,Data preprocessing (DPP) pattern supporting both normal program and early cache release program (ECRP),0,G06F|G11C
+12010838,2024-06-11,Staircase structure for memory device,0,H01L|H10B
+12010834,2024-06-11,Three-dimensional memory devices with stabilization structures between memory blocks and methods for forming the same,0,H01L|H10B
+12002788,2024-06-04,Bonded semiconductor devices having processor and dynamic random-access memory and methods for forming the same,0,G11C|H01L|H10B
+12002757,2024-06-04,Staircase structure in three-dimensional memory device and method for forming the same,0,H01L|H10B
+11997851,2024-05-28,Staircase formation in three-dimensional memory device,0,H01L|H10B
+11996389,2024-05-28,Bonded semiconductor devices having programmable logic device and dynamic random-access memory and methods for forming the same,0,H01L|H03K
+11996322,2024-05-28,Method for forming lead wires in hybrid-bonded semiconductor devices,0,H01L
+11996152,2024-05-28,Three-dimensional memory devices and methods for forming the same,0,G11C|H01L|H10B|H10D
+11995319,2024-05-28,Memory device and program operation thereof,0,G06F|G11C
+11991880,2024-05-21,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B|H10D
+11985824,2024-05-14,Three-dimensional memory devices having dummy channel structures and methods for forming the same,0,H01L|H10B
+11983439,2024-05-14,Three-dimensional memory device and method for enhanced page register reset,0,G06F|G11C
+11982709,2024-05-14,Methods and structures for semiconductor device testing,0,G01R|H01J|H01L
+11978737,2024-05-07,Three-dimensional memory device and fabrication method thereof,0,H01L|H10B
+11978719,2024-05-07,Metal-dielectric bonding method and structure,0,H01L|H10F
+11974431,2024-04-30,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+11972155,2024-04-30,System and apparatus for redundant array of independent disks striping against programming failures,1,G06F
+11968832,2024-04-23,Multiple-stack three-dimensional memory device and fabrication method thereof,0,H01L|H10B
+11967393,2024-04-23,Method and apparatus for power saving in semiconductor devices,0,G06F|G11C|Y02D
+11966594,2024-04-23,Power management for a memory system,0,G06F|Y02D
+11963349,2024-04-16,Methods for forming three-dimensional memory devices with backside source contacts,0,H01L|H10B
+11961760,2024-04-16,Staircase formation in three-dimensional memory device,0,H01L|H10B
+11956962,2024-04-09,Three-dimensional flash memory device with increased storage density,0,H01L|H10B|H10D
+11956958,2024-04-09,Method for fabricating three-dimensional semiconductor device using buried stop layer in substrate,0,H01L|H10B
+11955454,2024-04-09,Wafer bonding apparatus and method,0,H01L
+11955422,2024-04-09,On-chip capacitors in semiconductor devices and methods for forming the same,0,H01L|H10B|H10D
+11955344,2024-04-09,Methods and structures for changing wafer bow,0,H01L|H10B
+11950399,2024-04-02,Bonded semiconductor devices having processor and static random-access memory and methods for forming the same,0,H01L|H10B|H10D
+11948901,2024-04-02,Vertical memory devices,0,H01L|H10B
+11948894,2024-04-02,Vertical memory devices,0,H01L|H10B
+11943923,2024-03-26,Three-dimensional memory devices and fabrication methods thereof,0,H01L|H10B|H10D
+11938562,2024-03-26,Systems and methods for laser dicing of bonded structures,0,B23K|H01L
+11935862,2024-03-19,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+11935596,2024-03-19,Three-dimensional memory devices having polysilicon layer and bonded semiconductor structures and methods for forming the same,2,G11C|H01L|H10B|H10D
+11934336,2024-03-19,Pseudo asynchronous multi-plane independent read,0,G06F
+11934281,2024-03-19,Memory device with failed main bank repair using redundant bank,0,G06F|G11C
+11934254,2024-03-19,Memory device with embedded firmware repairing mechanism,0,G06F|G11C
+11923339,2024-03-05,Integration of three-dimensional NAND memory devices with multiple functional chips,0,G11C|H01L|H10B
+11922058,2024-03-05,Data buffering operation of three-dimensional memory device with static random-access memory,1,G06F|G11C
+11915761,2024-02-27,Memory device and program operation thereof,1,G06F|G11C|H10B|Y02D
+11910602,2024-02-20,Stacked connections in 3D memory and methods of making the same,0,H01L|H10B|H10D
+11908522,2024-02-20,Memory device and program operation thereof,1,G06F|G11C|H10B
+11903204,2024-02-13,Interconnect structures of three-dimensional memory devices,0,H01L|H10B
+11901313,2024-02-13,Methods for forming three-dimensional memory devices with supporting structure for staircase region,0,H01L|H10B
+11892947,2024-02-06,Loading logical to physical mapping table to cache of memory controller,0,G06F
+11892902,2024-02-06,Firmware repair for three-dimensional NAND memory,3,G06F|G11C|H10B
+11887954,2024-01-30,Semiconductor devices having adjoined via structures formed by bonding and methods for forming the same,0,H01L|H10B
+11887679,2024-01-30,Data protection in NAND memory using internal firmware to perform self-verification,0,G06F|G11C
+11880257,2024-01-23,Memory system and peak power management for memory dies of the memory system,0,G06F|G11C
+11876049,2024-01-16,Bonding alignment marks at bonding interface,0,G03F|H01L|H10B
+11876016,2024-01-16,Methods for forming hole structure in semiconductor device,0,H01L
+11871573,2024-01-09,Three-dimensional memory device having source-select-gate cut structures and methods for forming the same,1,H01L|H10B
+11864388,2024-01-02,Vertical memory devices,0,H01L|H10B|H10D
+11864367,2024-01-02,Bonded semiconductor devices having processor and NAND flash memory and methods for forming the same,0,G11C|H01L|H10B|H10D|H10N
+11862565,2024-01-02,Contact structures for three-dimensional memory,1,H01L|H10B
+11862558,2024-01-02,3D NAND memory device and method of forming the same,0,H01L|H10B
+11862472,2024-01-02,Methods for polishing dielectric layer in forming semiconductor device,0,B24B|C09G|C09K|H01L
+11856776,2023-12-26,Structure of 3D NAND memory device and method of forming the same,0,H01L|H10B|H10D
+11854613,2023-12-26,Program and read operations using different gray codes and memory device for performing the same,0,G06F|G11C
+11849585,2023-12-19,Three-dimensional memory devices having backside insulating structures and methods for forming the same,0,H01L|H10B
+11849576,2023-12-19,Non-volatile memory device and manufacturing method thereof,0,G11C|H01L|H10B
+11842911,2023-12-12,Wafer stress control using backside film deposition and laser anneal,0,H01L|H10B
+11839083,2023-12-05,3D NAND memory device and method of forming the same,0,G11C|H01L|H10B|H10D
+11837541,2023-12-05,Memory device and fabrication method thereof,1,H01L|H10B
+11829621,2023-11-28,File system and host performance booster for flash memory,1,G06F
+11825656,2023-11-21,3D NAND memory device and method of forming the same,0,G11C|H01L|H10B|H10D
+11817348,2023-11-14,Methods for forming hole structure in semiconductor device,0,H01L
+11812614,2023-11-07,Vertical memory devices,0,H01L|H10B|H10D
+11812611,2023-11-07,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B|H10D
+11805646,2023-10-31,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B|H10D
+11803327,2023-10-31,Power management mechanism and memory device having the same,0,G06F|G11C
+11800710,2023-10-24,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+11798914,2023-10-24,Methods and structures for die-to-die bonding,3,H01L
+11798913,2023-10-24,Metal-dielectric bonding method and structure,0,H01L|H10F
+11797195,2023-10-24,Dynamic peak power management for multi-die operations,0,G06F|G11C|H10D
+11792989,2023-10-17,Word line structure of three-dimensional memory device,0,H01L|H10B|H10D
+11792980,2023-10-17,Contact structures having conductive portions in substrate in three-dimensional memory devices and methods for forming the same,0,G11C|H01L|H10B
+11792979,2023-10-17,Three-dimensional memory device having multi-deck structure and methods for forming the same,1,H01L|H10B
+11791265,2023-10-17,Method for forming three-dimensional integrated wiring structure and semiconductor structure thereof,0,H01L|H10B
+11791229,2023-10-17,Protection structures in semiconductor chips and methods for forming the same,0,H01L
+11789864,2023-10-17,Flush method for mapping table of SSD,0,G06F|Y02D
+11785776,2023-10-10,Through array contact structure of three-dimensional memory device,3,H01L|H10B
+11785772,2023-10-10,Three-dimensional memory device with source structure and methods for forming the same,0,H01L|H10B
+11769794,2023-09-26,Manufacturing method of high-voltage semiconductor device with increased breakdown voltage,0,H01L|H10D
+11765898,2023-09-19,Stacked connections in 3D memory and methods of making the same,0,H01L|H10B|H10D
+11763892,2023-09-19,Memory device and asynchronous multi-plane independent read operation thereof,0,G06F|G11C|H10B
+11758732,2023-09-12,Hybrid bonding contact structure of three-dimensional memory device,2,H01L|H10B
+11758731,2023-09-12,Three-dimensional memory device having a shielding layer and method for forming the same,0,G11C|H01L|H10B|H10D
+11758729,2023-09-12,Three-dimensional memory device having a shielding layer and method for forming the same,0,G11C|H01L|H10B|H10D
+11758723,2023-09-12,Three-dimensional memory device with source contacts connected by an adhesion layer and methods for forming the same,0,H01L|H10B
+11755471,2023-09-12,On-die static random-access memory (SRAM) for caching logical to physical (L2P) tables,0,G06F
+11751389,2023-09-05,Three-dimensional memory device with reduced memory unit interference and manufacturing method thereof,0,H01L|H10B|H10D
+11749641,2023-09-05,Unified semiconductor devices having processor and heterogeneous memories and methods for forming the same,1,H01L|H10B
+11735543,2023-08-22,DRAM memory device with xtacking architecture,1,H01L|H10B
+11735243,2023-08-22,Three-dimensional memory device with static random-access memory,0,G11C|H01L|H10B
+11729978,2023-08-15,Channel hole and bitline architecture and method to improve page or block size and performance of 3D NAND,0,H01L|H10B|H10D
+11729971,2023-08-15,Trench structures for three-dimensional memory devices,0,H01L|H10B
+11728326,2023-08-15,Three-dimensional memory device and fabrication method thereof,0,H01L|H10B
+11728303,2023-08-15,Three-dimensional NAND memory device and method of forming the same,0,H01L|H10B
+11728236,2023-08-15,Three-dimensional memory devices having hydrogen blocking layer and fabrication methods thereof,0,H01L|H10B
+11726667,2023-08-15,Memory device with failed main bank repair using redundant bank,0,G06F|G11C
+11721686,2023-08-08,Semiconductor package structure and packaging method thereof,0,H01L
+11721668,2023-08-08,Bonded semiconductor devices having programmable logic device and dynamic random-access memory and methods for forming the same,1,H01L|H03K
+11721609,2023-08-08,Through silicon contact structure and method of forming the same,0,H01L
+11716847,2023-08-01,Three-dimensional NAND memory device with split gates,0,H01L|H10B|H10D
+11716846,2023-08-01,Three-dimensional memory devices having through stair contacts and methods for forming the same,1,H01L|H10B|H10D
+11715718,2023-08-01,Bonding contacts having capping layer and method for forming the same,0,H01L|H10B
+11711921,2023-07-25,Three-dimensional memory devices having isolation structure for source select gate line and methods for forming the same,0,H01L|H10B
+11711913,2023-07-25,Bonded semiconductor devices having programmable logic device and NAND flash memory and methods for forming the same,0,G11C|H01L|H10B|H10D
+11710730,2023-07-25,Fabricating method of semiconductor device with exposed input/output pad in recess,0,H01L|H10B|H10D
+11710717,2023-07-25,Methods for multi-wafer stacking and dicing,0,H01L
+11710679,2023-07-25,Through silicon contact structure and method of forming the same,0,H01L
+11709535,2023-07-25,Memory system and peak power management for memory dies of the memory system,0,G06F
+11699659,2023-07-11,Staircase structure in three-dimensional memory device and method for forming the same,1,H01L|H10B
+11699657,2023-07-11,Three-dimensional memory devices having a plurality of NAND strings located between a substrate and a single crystalline silicon layer,0,H01L|H10B|H10D
+11695000,2023-07-04,Three-dimensional memory devices,0,G11C|H01L|H10B
+11694993,2023-07-04,Unified semiconductor devices having processor and heterogeneous memories and methods for forming the same,0,H01L|H10B
+11694918,2023-07-04,Method and device for wafer taping,0,H01L
+11694904,2023-07-04,"Substrate structure, and fabrication and packaging methods thereof",0,H01L
+11690219,2023-06-27,Three-dimensional memory devices having through array contacts and methods for forming the same,0,H01L|H10B
+11688721,2023-06-27,Chip package structure and manufacturing method thereof,0,H01L
+11688695,2023-06-27,Semiconductor devices with shielding structures,2,H01L|H10B
+11674909,2023-06-13,Systems and methods for semiconductor chip hole geometry metrology,1,G01B|G01N|G03F|G06N|H01L|H10B
+11670592,2023-06-06,Staircase structure in three-dimensional memory device and method for forming the same,0,H01L|H10B
+11670543,2023-06-06,Method for forming lead wires in hybrid-bonded semiconductor devices,0,H01L
+11670341,2023-06-06,Multi-die peak power management for three-dimensional memory,0,G11C|H01L|H10D
+11665905,2023-05-30,Three-dimensional memory device and manufacturing method thereof,0,C23C|H01L|H10B|H10D
+11665903,2023-05-30,Three-dimensional memory devices and fabrication methods thereof,0,H01L|H10B|H10D
+11664309,2023-05-30,Self-aligned contacts in three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+11659702,2023-05-23,Bonded semiconductor devices having processor and static random-access memory and methods for forming the same,0,H01L|H10B|H10D
+11657861,2023-05-23,Method and system for asynchronous multi-plane independent (AMPI) memory read operation,0,G06F|G11C
+11653495,2023-05-16,Three-dimensional memory device with source structure and methods for forming the same,0,H01L|H10B
+11652042,2023-05-16,On-chip capacitors in semiconductor devices and methods for forming the same,0,H01L|H10B|H10D
+11647632,2023-05-09,Three-dimensional memory devices with supporting structure for staircase region,0,H01L|H10B
+11631688,2023-04-18,Bonded unified semiconductor chips and fabrication and operation methods thereof,0,G11C|H01L|H10B|H10D|H10N
+11631592,2023-04-18,Etching process with in-situ formation of protective layer,0,H01L|H10B
+11626416,2023-04-11,Method for forming three-dimensional memory device with backside source contact,1,H01L|H10B
+11626412,2023-04-11,Memory device and hybrid spacer thereof,0,H01L|H10B
+11616077,2023-03-28,3D NAND memory device and method of forming the same,0,H01L|H10B
+11605593,2023-03-14,Semiconductor devices having interposer structure with adhesive polymer and methods for forming the same,0,H01L|H10B
+11600637,2023-03-07,Stacked connections in 3D memory and methods of making the same,0,H01L|H10B|H10D
+11600636,2023-03-07,Stacked connections in 3D memory and methods of making the same,0,H01L|H10B|H10D
+11600633,2023-03-07,Local contacts of three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+11594552,2023-02-28,Three-dimensional memory device with corrosion-resistant composite spacer,0,H01L|H10B|H10D
+11594531,2023-02-28,Computation-in-memory in three-dimensional memory device,0,G11C|H01L|H10B|H10D|H10F
+11594496,2023-02-28,Marking pattern in forming staircase structure of three-dimensional memory device,0,H01L|H10B|H10D
+11594461,2023-02-28,Three-dimensional memory devices having hydrogen blocking layer and fabrication methods thereof,0,H01L|H10B
+11581323,2023-02-14,Non-volatile memory device and manufacturing method thereof,0,G11C|H01L|H10B
+11581322,2023-02-14,Three-dimensional memory devices having through array contacts and methods for forming the same,0,H01L|H10B
+11574925,2023-02-07,Interconnect structures of three-dimensional memory devices,0,H01L|H10B
+11567701,2023-01-31,Electronic apparatus and method of managing read levels of flash memory,0,G06F|G11C
+11563029,2023-01-24,3D NAND memory device and method of forming the same,0,H01L|H10B
+11562985,2023-01-24,Bonded semiconductor devices having processor and dynamic random-access memory and methods for forming the same,9,G11C|H01L|H10B
+11562945,2023-01-24,Semiconductor device having a spacer structure in a conductive layer and a contact structure in the spacer structure,2,H01L|H10B
+11557601,2023-01-17,Three-dimensional memory devices,2,H01L|H10B
+11557570,2023-01-17,Methods for forming three-dimensional memory devices,0,H01L|H10B
+11552089,2023-01-10,Three-dimensional memory devices and methods for forming the same,0,G11C|H01L|H10B
+11552056,2023-01-10,Three-dimensional memory device with three-dimensional phase-change memory,0,G11C|H01L|H10B|H10D
+11552025,2023-01-10,Marking pattern in forming staircase structure of three-dimensional memory device,0,H01L|H10B|H10D
+11552012,2023-01-10,Self-aligned contacts in three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+11551753,2023-01-10,Three-dimensional memory device with embedded dynamic random-access memory,4,G11C|H01L|H10B|H10D|H10N
+11545505,2023-01-03,Through array contact structure of three-dimensional memory device,1,H01L|H10B
+11545501,2023-01-03,Three-dimensional memory device having multi-deck structure and methods for forming the same,0,H01L|H10B
+11545442,2023-01-03,Marking pattern in forming staircase structure of three-dimensional memory device,0,H01L|H10B|H10D
+11545388,2023-01-03,Staircase formation in three-dimensional memory device,1,H01L|H10B
+11538780,2022-12-27,Structure and method for isolation of bit-line drivers for a three-dimensional NAND,0,H01L|H10B|H10D
+11532636,2022-12-20,Three-dimensional memory devices having through array contacts and methods for forming the same,0,H01L|H10B
+11529700,2022-12-20,Systems and methods for laser dicing of bonded structures,0,B23K|H01L
+11527547,2022-12-13,Hybrid bonding contact structure of three-dimensional memory device,3,H01L|H10B
+11515329,2022-11-29,Three-dimensional memory device and manufacturing method thereof,0,H01L|H10B|H10D
+11508750,2022-11-22,Three-dimensional memory device including a peripheral circuit and a memory stack,0,H01L|H10B
+11508743,2022-11-22,Three-dimensional memory device having multi-deck structure and methods for forming the same,1,H01L|H10B
+11502102,2022-11-15,Three-dimensional memory devices and fabrication methods thereof,0,H01L|H10B|H10D
+11502058,2022-11-15,Hybrid wafer bonding method and structure thereof,0,H01L
+11495569,2022-11-08,Metal-dielectric bonding method and structure,1,H01L|H10F
+11488977,2022-11-01,Three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+11480531,2022-10-25,Automatic assessment method and assessment system thereof for yield improvement,0,G01N|G06Q|G06T
+11476173,2022-10-18,Manufacturing method of integrated circuit packaging structure,0,B22F|C08K|C22C|H01L
+11474739,2022-10-18,Cache program operation of three-dimensional memory device with static random-access memory,0,G06F|G11C|H01L|H10B
+11469243,2022-10-11,Three-dimensional memory device having pocket structure in memory string and method for forming the same,0,H01L|H10B|H10D
+11469240,2022-10-11,Memory device and hybrid spacer thereof,0,H01L|H10B
+11469153,2022-10-11,Electronic component comprising substrate with thermal indicator,0,G01K|H01L
+11467741,2022-10-11,Dynamic peak power management for multi-die operations,1,G06F|G11C|H10D
+11467084,2022-10-11,Methods for polysilicon characterization,0,G01N|H01L
+11462560,2022-10-04,Methods for forming three-dimensional memory devices,1,H01L|H10B|H10D
+11462558,2022-10-04,Staircase structure with multiple divisions for three-dimensional memory,0,H01L|H10B|H10D
+11462503,2022-10-04,Hybrid bonding using dummy bonding contacts,1,H01L|H10B
+11462474,2022-10-04,Three-dimensional memory devices having a plurality of NAND strings,0,H01L|H10B|H10D
+11462415,2022-10-04,Methods for polishing dielectric layer in forming semiconductor device,1,B24B|C09G|C09K|H01L
+11461266,2022-10-04,Computation-in-memory in three-dimensional memory device,0,G06F|G11C|H10B
+11456290,2022-09-27,Three-dimensional memory device with backside source contact,1,H01L|H10B|H10D
+11455118,2022-09-27,Method for redundant array of independent disks striping against programming failures and apparatus thereof,0,G06F|G11C
+11454491,2022-09-27,Systems having light source with extended spectrum for semiconductor chip surface topography metrology,0,G01B|G01N|H01L
+11450770,2022-09-20,Structures and methods for reducing stress in three-dimensional memory device,0,G11C|H01L|H10B|H10D
+11450653,2022-09-20,Bonded three-dimensional memory devices having bonding layers,2,H01L|H10B
+11450637,2022-09-20,Methods for bonding semiconductor structures and semiconductor devices thereof,1,H01L|H10B
+11450604,2022-09-20,Staircase structure in three-dimensional memory device and method for forming the same,0,G11C|H01L|H10B
+11449122,2022-09-20,Peak power management for multi-die operations,0,G06F|G11C
+11448499,2022-09-20,Systems and methods for semiconductor chip surface topography metrology,0,G01B|G01J|G01Q|G06N
+11444163,2022-09-13,Channel structure having tunneling layer with adjusted nitrogen weight percent and methods for forming the same,0,H01L|H10B|H10D
+11437464,2022-09-06,Structure and method for forming capacitors for a three-dimensional NAND,1,H01L|H10B|H10D
+11437400,2022-09-06,Three-dimensional memory device and fabricating method thereof,0,H01L|H10B|H10D
+11430811,2022-08-30,3D NAND memory device with select gate cut,1,G11C|H01L|H10B|H10D
+11430785,2022-08-30,Computation-in-memory in three-dimensional memory device,0,G11C|H01L|H10B|H10D|H10F
+11430775,2022-08-30,Semiconductor device with exposed input/output pad in recess,0,H01L|H10B|H10D
+11430766,2022-08-30,Bonded semiconductor devices having processor and dynamic random-access memory and methods for forming the same,5,G11C|H01L|H10B
+11430756,2022-08-30,Bonded semiconductor structures having bonding contacts made of indiffusible conductive materials and methods for forming the same,0,H01L|H10B
+11424221,2022-08-23,Pad structures for semiconductor devices,0,H01L|H10B
+11424208,2022-08-23,Semiconductor devices having adjoined via structures formed by bonding and methods for forming the same,0,H01L|H10B
+11411014,2022-08-09,Contact structures having conductive portions in substrate in three-dimensional memory devices and methods for forming the same,0,G11C|H01L|H10B
+11410983,2022-08-09,Three-dimensional memory device and fabrication method thereof,0,H01L|H10B
+11404441,2022-08-02,3D NAND memory device and method of forming the same,1,G11C|H01L|H10B|H10D
+11396080,2022-07-26,Chemical mechanical polishing apparatus having scraping fixture,0,B24B|H01L
+11393899,2022-07-19,High-voltage semiconductor device with increased breakdown voltage,0,H01L|H10D
+11393844,2022-07-19,Methods for forming three-dimensional memory devices,0,H01L|H10B
+11387218,2022-07-12,Pad-out structure for semiconductor device and method of forming the same,1,H01L|H10B
+11385627,2022-07-12,Method and system for scheduling semiconductor fabrication,0,G05B|G06N|H01L|Y02P
+11380629,2022-07-05,Methods for forming three-dimensional memory devices with supporting structure for staircase region,1,H01L|H10B
+11379361,2022-07-05,Flush method for mapping table of SSD,1,G06F|Y02D
+11378525,2022-07-05,Systems and methods for evaluating critical dimensions based on diffraction-based overlay metrology,0,G01N|G03F|H01L
+11367737,2022-06-21,Multi-stack three-dimensional memory devices and methods for forming the same,0,H01L|H10B|H10D
+11367729,2022-06-21,Bonded semiconductor devices having processor and NAND flash memory and methods for forming the same,0,G11C|H01L|H10B|H10D|H10N
+11361988,2022-06-14,Staircase formation in three-dimensional memory device,3,H01L|H10B
+11360530,2022-06-14,Peak power management for multi-die operations,0,G06F
+11348936,2022-05-31,Three-dimensional memory devices and fabricating methods thereof,2,H01L|H10B
+11342355,2022-05-24,Interconnect structures of three-dimensional memory devices,0,H01L|H10B
+11342352,2022-05-24,Three-dimensional memory devices and fabricating methods thereof,0,H01L|H10B
+11342264,2022-05-24,3D NAND memory device and method of forming the same,0,H01L|H10B
+11342185,2022-05-24,Wafer bonding method and structure thereof,0,H01L
+11329061,2022-05-10,Method for improving channel hole uniformity of a three-dimensional memory device,0,H01L|H10B|H10D
+11322392,2022-05-03,Method for forming lead wires in hybrid-bonded semiconductor devices,1,H01L
+11309323,2022-04-19,Three-dimensional memory devices with drain select gate cut and methods for forming the same,0,H01L|H10B
+11302715,2022-04-12,Three-dimensional memory devices and fabrication methods thereof,0,H01L|H10B|H10D
+11302711,2022-04-12,Three-dimensional memory devices having a backside trench isolation and methods for forming the same,0,H01L|H10B
+11302706,2022-04-12,Bonded unified semiconductor chips and fabrication and operation methods thereof,1,G11C|H01L|H10B|H10D|H10N
+11302700,2022-04-12,Bonded semiconductor devices having programmable logic device and NAND flash memory and methods for forming the same,2,G11C|H01L|H10B|H10D|H10N
+11302627,2022-04-12,On-chip capacitors in three-dimensional semiconductor devices and methods for forming the same,2,H01L|H10B|H10D
+11302524,2022-04-12,Metal contamination test apparatus and method,0,G01N|H01J|H01L
+11296107,2022-04-05,Channel hole and bitline architecture and method to improve page or block size and performance of 3D NAND,1,H01L|H10B|H10D
+11289508,2022-03-29,Three-dimensional memory device and method for forming the same,0,H01L|H10B|H10D
+11289422,2022-03-29,Bonding alignment marks at bonding in interface,3,G03F|H01L|H10B
+11282854,2022-03-22,3D NAND memory device and method of forming the same,0,G11C|H01L|H10B|H10D
+11276642,2022-03-15,Method for forming three-dimensional integrated wiring structure and semiconductor structure thereof,1,H01L|H10B
+11270428,2022-03-08,Methods and systems for semiconductor structure thickness measurement,1,G01B|G06T|H01L
+11264455,2022-03-01,Backside deep isolation structures for semiconductor device arrays,0,H01L|H10B|H10D
+11257831,2022-02-22,Three-dimensional memory devices and fabricating methods thereof,1,H01L|H10B
+11257706,2022-02-22,Semiconductor device flipping apparatus,1,H01L
+11251043,2022-02-15,Method and structure for cutting dense line patterns using self-aligned double patterning,0,H01L|H10B
+11233066,2022-01-25,Three-dimensional memory device and method for forming the same,0,H01L|H10B
+11233041,2022-01-25,Bonded three-dimensional memory devices and methods for forming the same,1,H01L|H10B|H10D
+11233007,2022-01-25,Staircase structure in three-dimensional memory device and method for forming the same,2,H01L|H10B
+11232969,2022-01-25,Method and device for wafer taping,0,H01L
+11222903,2022-01-11,Word line structure of three-dimensional memory device,4,H01L|H10B|H10D
+11222789,2022-01-11,Staircase structure for three-dimensional memory,0,H01L|H10B|H10D
+11221793,2022-01-11,Data buffering operation of three-dimensional memory device with static random-access memory,3,G06F|G11C
+11211400,2021-12-28,Three-dimensional flash memory device with increased storage density,0,H01L|H10B|H10D
+11211397,2021-12-28,Three-dimensional memory devices and methods for forming the same,4,H01L|H10B|H10D
+11211394,2021-12-28,Three-dimensional memory device with source structure and methods for forming the same,2,H01L|H10B
+11205662,2021-12-21,Methods for reducing defects in semiconductor plug in three-dimensional memory device,0,H01L|H10B
+11205661,2021-12-21,Three-dimensional memory devices with enlarged joint critical dimension and methods for forming the same,0,H01L|H10B|H10D
+11205658,2021-12-21,Three-dimensional memory device with corrosion-resistant composite spacer,0,H01L|H10B|H10D
+11205656,2021-12-21,Trench structures for three-dimensional memory devices,0,H01L|H10B
+11205619,2021-12-21,Hybrid bonding using dummy bonding contacts and dummy interconnects,1,H01L|H10B
+11201157,2021-12-14,Bonded semiconductor devices having processor and static random-access memory and methods for forming the same,2,H01L|H10B|H10D
+11200935,2021-12-14,Three-dimensional memory device with static random-access memory,1,G11C|H01L|H10B
+11195853,2021-12-07,Contact structures having conductive portions in substrate in three-dimensional memory devices and methods for forming the same,0,H01L|H10B
+11195846,2021-12-07,Staircase structures for three-dimensional memory device double-sided routing,5,H01L|H10B
+11187740,2021-11-30,Time dependent dielectric breakdown test structure and test method thereof,2,G01R|H01L
+11183512,2021-11-23,Methods for forming three-dimensional memory device with support structure and resulting three-dimensional memory device,2,H01L|H10B
+11183488,2021-11-23,Three-dimensional memory devices with stacked device chips using interposers,1,H01L|H10B
+11177343,2021-11-16,Three-dimensional memory devices with backside isolation structures,0,H01L|H10B|H10D
+11177272,2021-11-16,Three-dimensional memory device and method for manufacturing the same,0,H01L|H10B|H10D
+11177231,2021-11-16,Bonding contacts having capping layer and method for forming the same,2,H01L|H10B
+11171154,2021-11-09,Vertical memory devices,0,H01L|H10B|H10D
+11170147,2021-11-09,Simulation method for use in functional equivalence check,0,G06F
+11164633,2021-11-02,Memory device using comb-like routing structure for reduced metal line loading,0,G11C|H01L|H10B|H10D
+11162907,2021-11-02,Systems and methods for evaluating critical dimensions based on diffraction-based overlay metrology,0,G01N|G03F|H01L
+11158622,2021-10-26,Three-dimensional memory devices,10,G11C|H01L|H10B
+11158604,2021-10-26,Unified semiconductor devices having processor and heterogeneous memories and methods for forming the same,4,H01L|H10B
+11152389,2021-10-19,Methods for solving epitaxial growth loading effect at different pattern density regions,0,H01L|H10B|H10D
+11152277,2021-10-19,Three-dimensional memory devices having hydrogen blocking layer and fabrication methods thereof,1,H01L|H10B
+11145666,2021-10-12,Staircase structure for memory device,1,H01L|H10B
+11145645,2021-10-12,Multi-stack three-dimensional memory devices,0,G11C|H01L|H10B|H10D
+11133325,2021-09-28,Memory cell structure of a three-dimensional memory device,11,H01L|H10B
+11133293,2021-09-28,Three-dimensional memory device with three-dimensional phase-change memory,2,G11C|H01L|H10B|H10D
+11133290,2021-09-28,Chip package structure with stacked chips and manufacturing method thereof,4,H01L
+11133038,2021-09-28,Multi-die peak power management for three-dimensional memory,3,G11C|H01L|H10D
+11127757,2021-09-21,Three-dimensional memory device with source structure and methods for forming the same,0,H01L|H10B
+11121152,2021-09-14,Three-dimensional memory device and manufacturing method thereof,0,C23C|H01L|H10B|H10D
+11121092,2021-09-14,Marking pattern in forming staircase structure of three-dimensional memory device,0,H01L|H10B|H10D
+11114453,2021-09-07,Bonded memory device and fabrication methods thereof,1,H01L|H10B
+11114439,2021-09-07,Multi-division 3D NAND memory device,0,G06F|G11C|H10B
+11114434,2021-09-07,Computation-in-memory in three-dimensional memory device,0,G11C|H01L|H10B|H10D|H10F
+11112482,2021-09-07,Method for calibrating verticality of particle beam and system applied to semiconductor fabrication process,0,G01R|H01J|H01L
+11107834,2021-08-31,Staircase and contact structures for three-dimensional memory,1,H01L|H10B|H10D
+11101286,2021-08-24,Three-dimensional memory device with source structure and methods for forming the same,0,H01L|H10B
+11101276,2021-08-24,Word line contact structure for three-dimensional memory devices and fabrication methods thereof,0,H01L|H10B
+11094714,2021-08-17,Three-dimensional memory devices and fabricating methods thereof,3,H01L|H10B
+11094713,2021-08-17,Three-dimensional memory device with source contacts connected by an adhesion layer and methods for forming the same,0,H01L|H10B
+11094712,2021-08-17,Three-dimensional memory device with support structures in slit structures and method for forming the same,1,H01L|H10B
+11088166,2021-08-10,3D NAND memory device and method of forming the same,3,H01L|H10B
+11081408,2021-08-03,Methods for wafer warpage control,0,H01L|H10B|H10D
+11069712,2021-07-20,Three-dimensional memory device,0,H01L|H10B|H10D
+11069705,2021-07-20,Three-dimensional memory devices and fabricating methods thereof,2,H01L|H10B
+11069596,2021-07-20,Through silicon contact structure and method of forming the same,1,H01L
+11063056,2021-07-13,Non-volatile memory device and manufacturing method thereof,0,G11C|H01L|H10B
+11062913,2021-07-13,Etching process with in-situ formation of protective layer,1,H01L|H10B
+11056454,2021-07-06,Stacked three-dimensional heterogeneous memory devices and methods for forming the same,5,G11C|H01L|H10B|H10D
+11056387,2021-07-06,Method for forming three-dimensional integrated wiring structure and semiconductor structure thereof,0,H01L|H10B|H10D
+11049866,2021-06-29,Three-dimensional memory devices having through array contacts and methods for forming the same,0,H01L|H10B
+11049834,2021-06-29,Hybrid bonding using dummy bonding contacts,2,H01L|H10B
+11043565,2021-06-22,Three-dimensional memory device with source contacts connected by an adhesion layer and methods for forming the same,3,H01L|H10B|H10D
+11043506,2021-06-22,Three-dimensional memory device having a shielding layer and method for forming the same,1,G11C|H01L|H10B|H10D
+11043505,2021-06-22,Three-dimensional memory device having multi-deck structure and methods for forming the same,2,H01L|H10B
+11041814,2021-06-22,Systems and methods for semiconductor chip hole geometry metrology,3,G01B|G01N|G03F|G06N|H01L|H10B
+11037945,2021-06-15,Bonded three-dimensional memory devices and methods for forming the same,0,G11C|H01L|H10B|H10D
+11031413,2021-06-08,Three-dimensional memory devices and fabricating methods thereof,2,H01L|H10B
+11031377,2021-06-08,Integration of three-dimensional NAND memory devices with multiple functional chips,7,G11C|H01L|H10B
+11031333,2021-06-08,Three-dimensional memory devices having a plurality of NAND strings,5,H01L|H10B|H10D
+11031282,2021-06-08,Three-dimensional memory devices with deep isolation structures,1,H01L|H10B|H10D
+11024600,2021-06-01,Unified semiconductor devices having programmable logic device and heterogeneous memories and methods for forming the same,5,H01L|H10B
+11018052,2021-05-25,Interconnect structure and method of forming the same,2,H01L
+11016705,2021-05-25,Electronic apparatus and method of managing read levels of flash memory,3,G06F|G11C
+11011540,2021-05-18,Three-dimensional memory devices and fabrication methods thereof,5,H01L|H10B|H10D
+11011539,2021-05-18,Multi-stack three-dimensional memory devices and methods for forming the same,3,H01L|H10B|H10D
+11004948,2021-05-11,Three-dimensional memory devices and methods for forming the same,1,H01L|H10B|H10D
+10998079,2021-05-04,Structure and method for testing three-dimensional memory device,0,G11C|H01L|H10B
+10985182,2021-04-20,Methods for forming three-dimensional memory device without conductor residual caused by dishing,0,H01L|H10B|H10D
+10985142,2021-04-20,Multi-deck three-dimensional memory devices and methods for forming the same,4,H01L|H10B|H10D
+10984862,2021-04-20,Three-dimensional memory device with embedded dynamic random-access memory,6,G11C|H01L|H10B|H10D|H10N
+10971517,2021-04-06,Source contact structure of three-dimensional memory devices and fabrication methods thereof,1,H01L|H10B|H10D
+10963191,2021-03-30,3D NAND flash memory device and integration method thereof,1,G06F|G11C|H10B|H10D
+10956648,2021-03-23,Systems and methods for designing dummy patterns,0,G06F|H01L|Y02P
+10950623,2021-03-16,3D NAND memory device and method of forming the same,8,G11C|H01L|H10B|H10D
+10943916,2021-03-09,Method for manufacturing three-dimensional memory structure,2,H01L|H10B
+10937806,2021-03-02,Through array contact (TAC) for three-dimensional memory devices,1,H01L|H10B
+10937796,2021-03-02,Methods for forming multi-division staircase structure of three-dimensional memory device,0,H01L|H10B
+10937766,2021-03-02,Three-dimensional memory device with three-dimensional phase-change memory,6,G11C|H01L|H10B|H10D
+10930663,2021-02-23,Interconnect structure of three-dimensional memory device,10,H01L|H10B
+10930662,2021-02-23,Method for forming staircase structure of three-dimensional memory device,0,H01L|H10B
+10923491,2021-02-16,Hybrid bonding contact structure of three-dimensional memory device,5,H01L|H10B
+10913893,2021-02-09,Additive to phosphoric acid etchant,0,C09K|H01L|H10B
+10910397,2021-02-02,Through array contact structure of three- dimensional memory device,5,H01L|H10B

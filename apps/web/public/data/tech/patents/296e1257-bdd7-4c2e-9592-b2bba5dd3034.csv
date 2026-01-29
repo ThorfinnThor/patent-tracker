@@ -1,0 +1,403 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12425408,2025-09-23,Offline risk management pipeline,0,G06N|H04L
+12423703,2025-09-23,Real time fraud detection and intervention,0,G06Q
+12417467,2025-09-16,Electronic reward offer management,0,G06Q
+12400275,2025-08-26,Automatic triggering of receipt delivery,0,G06Q
+12400220,2025-08-26,Encapsulation of payment accounts with tokenization,0,G06Q
+12400202,2025-08-26,Area-based identification of devices for pairing,0,G06Q
+12393930,2025-08-19,Cryptocurrency access management,0,G06Q|H04L
+12393921,2025-08-19,Enrolling mobile-payment customers after online transactions,0,G06F|G06Q
+12393917,2025-08-19,Interactive digital receipt,0,G06Q
+12387261,2025-08-12,Intelligent loan management via a mobile application,0,G06Q
+12387212,2025-08-12,Configuring verification information at point-of-sale devices,0,G06Q
+12387202,2025-08-12,Systems and methods for managing cryptocurrency,0,G06F|G06Q|H04L|H04W
+12380496,2025-08-05,Distributed system for custom financing,0,G06Q
+12380366,2025-08-05,Auto-generated fulfillment attributes,0,G06N|G06Q|G06V
+12375743,2025-07-29,Multi-participant media control and playback,0,H04L|H04N
+12373876,2025-07-29,Transaction modification based on modeled profiles,0,G06Q
+12373781,2025-07-29,Intelligent image recommendations,0,G06Q
+12367515,2025-07-22,Facilitating payments for users,0,G06Q
+12367501,2025-07-22,Logical validation of devices against fraud and tampering,0,G06Q|G07F|G07G
+12367478,2025-07-22,Integration of transaction status indications,0,G06Q|G07G|G08B|H04L|H04N
+12367467,2025-07-22,Integrated interactive elements for multi-user transactions,0,G06Q
+12363328,2025-07-15,Machine-learning based data compression for streaming media,0,G06N|H04N
+12361404,2025-07-15,Preliminary enablement of transaction processing circuitry,0,G06Q|G07F
+12361402,2025-07-15,Proximity-based device identification for payments,0,G06Q
+12361396,2025-07-15,Selection of a financial account associated with a proxy object,0,G06Q
+12355783,2025-07-08,Logical validation of devices against fraud and tampering,0,D01B|G06F|G06Q|G07F|H04L
+12354157,2025-07-08,"Method, system, and media for extended reality storefronts",0,G06F|G06Q|G06T
+12354092,2025-07-08,Establishment of a secure session between a card reader and a mobile device,0,G06Q|G07F|G07G|H04L
+12354078,2025-07-08,Systems and methods for communicating with NFC readers,0,G06Q|H01Q
+12346962,2025-07-01,Mobile device integrating virtual payment card,0,G06N|G06Q
+12346907,2025-07-01,Predicting capital needs,0,G06Q
+12323375,2025-06-03,Contextual communication routing methods and systems,0,G06F|G06Q|H04L
+12321919,2025-06-03,Context-based actions from matrix codes,0,G06Q
+12321506,2025-06-03,Secure electronic circuitry with tamper detection,0,G06F
+12321497,2025-06-03,Authorized views for privacy preservation,0,G06F
+12307435,2025-05-20,Application integration for web payments,0,G06F|G06K|G06Q|G07G
+12307159,2025-05-20,Predictive media caching,0,G06F|G06N
+12299667,2025-05-13,Transaction identification by comparison of merchant transaction data and context data,0,G06F|G06K|G06Q
+12299665,2025-05-13,Appointment and payment handling,0,G06Q
+12299664,2025-05-13,Reader device with a plurality of reader interfaces,0,G06F|G06K|G06Q|G07F|G07G|H05K
+12299661,2025-05-13,Controlling processor's access to interface device,0,G06F|G06Q|G07F|G07G
+12299659,2025-05-13,Reduced friction for merchant interactions,0,G01K|G06F|G06Q|G07G|H04L
+12299648,2025-05-13,Reprogrammable point-of-sale transaction flows,0,G06Q|G07G
+12299054,2025-05-13,Event-based customized recommendations in a distributed network,0,G06F
+12293409,2025-05-06,Tax return document generation,0,G06N|G06Q
+12293351,2025-05-06,Peer-to-peer data object transfer and state management,0,G06Q
+12277562,2025-04-15,Decentralized cryptographic asset exchange with secure interactive element,0,G06N|G06Q
+12277556,2025-04-15,Secure account creation,0,G06Q
+12271905,2025-04-08,Payment application based fund transfer,0,G06Q
+12271879,2025-04-08,Dynamically determining a customized transaction flow,0,G06Q
+12271844,2025-04-08,Identification via geo-fence overlap,0,G06Q
+12271746,2025-04-08,Model-based personalization architecture,0,G06F|G06N|G06Q
+12260408,2025-03-25,Decreasing cryptographic-operation latency on payment readers,0,G06F|G06Q|G07F|H04L
+12254459,2025-03-18,"Apparatuses, methods, and systems for transmitting payment proxy information",0,G06Q|H04W
+12254453,2025-03-18,Access controls for a decentralized network,0,G06N|G06Q
+12254449,2025-03-18,"Apparatuses, methods, and systems for generating interactive digital receipts",0,G06Q|G07G
+12254055,2025-03-18,Adaptive collaboration recommendation platform,0,G06F
+12248922,2025-03-11,Associating an account with a card,0,G06Q
+12248921,2025-03-11,Processing multiple point-of-sale transactions,0,G06Q|G07G
+12248911,2025-03-11,User interface component generation using service and/or duration information,0,G06F|G06N|G06Q
+12243398,2025-03-04,Payment application initiated generation of payment instruments,0,B41J|G06F|G06Q|G07F|H04L
+12243028,2025-03-04,Payout payment platform,0,G06Q
+12236429,2025-02-25,Authorization of cardless payment transactions,0,G06Q
+12229748,2025-02-18,Transaction object reader with shielding,0,G06K|G06Q|G07F|H04M|H04W
+12229622,2025-02-18,Extended reality tags in an extended reality platform,0,G06K|G06T
+12223527,2025-02-11,Multi-merchant concomitant-use point-of-sale device,0,G06F|G06Q
+12223507,2025-02-11,Line-based chip card tamper detection,0,G06Q|G07F
+12219193,2025-02-04,Personalized artist data with curated action items,0,G06Q|H04N
+12217283,2025-02-04,Cross-merchant promotions,0,G06Q
+12217237,2025-02-04,Systems and methods for providing gratuities to merchants,0,G06Q
+12217235,2025-02-04,Sensor-based transaction authorization via user device,0,G06F|G06Q|G06T
+12211072,2025-01-28,Pre-authorization techniques for transactions,0,G06Q
+12211042,2025-01-28,Blockchain agnostic token network,0,G06Q|H04L
+12211024,2025-01-28,Payment by use of identifier,0,G06Q
+12210559,2025-01-28,Model framework for media content recommendations,0,G06F
+12207322,2025-01-21,Server-assisted pairing for wireless communications,0,G06Q|H04L|H04W
+12206812,2025-01-21,Integrating customer and/or merchant discrete functionality with discoverable applications in a user device,0,G06K|G06Q|H04M
+12205091,2025-01-21,Intelligent subscription identification using transaction data,0,G06Q
+12190322,2025-01-07,Aggregation via resource locator and data characteristics,0,G06Q
+12190304,2025-01-07,Embedded card reader security,0,G06Q|G07F
+12182790,2024-12-31,Systems and methods for performing transactions,0,A44C|G06K|G06Q|G07F|H01Q|H04B
+12175547,2024-12-24,Updating menus based on predicted efficiencies,0,G06F|G06Q
+12175464,2024-12-24,Blockchain agnostic token network,0,G06Q|H04L
+12175448,2024-12-24,Proximity-based payments,1,G06Q
+12170803,2024-12-17,Non-fungible tokens for media item samples,0,G06F|G06Q|H04L|H04N
+12167065,2024-12-10,Live playback streams,0,G06F|G06Q|H04L|H04N
+12165140,2024-12-10,Recommending conditions for blockchain-enforced contracts,0,G06F|G06Q|H04L
+12165115,2024-12-10,Blockchain supported resource transfer communication protocol,0,G06N|G06Q
+12164830,2024-12-10,Media content navigation user interface,0,G06F
+12159273,2024-12-03,Movement feedback based on reader interface,0,G06Q|G07F|G07G|H04B
+12158793,2024-12-03,Managing delivery of power to processing elements,0,G06F|H02J|Y02D
+12154181,2024-11-26,Social network for merchants,0,G06Q
+12147989,2024-11-19,Delegating authentication across applications,0,G06F|G06Q|H04L|H04W
+12147958,2024-11-19,Generating an online storefront,0,G06Q
+12141786,2024-11-12,Device security with physically unclonable functions,0,G06Q|G07F|H04L
+12136130,2024-11-05,Automatic tax account management,0,G06Q
+12136075,2024-11-05,Allocation of transaction proceeds,0,G06N|G06Q
+12131376,2024-10-29,Payment processor financing of customer purchases,0,G06Q
+12131317,2024-10-29,Asset pack recommendation and management,2,G06Q
+12131306,2024-10-29,Point-of-sale system having a secure touch mode,0,G06Q|G07G
+12118603,2024-10-15,Customized e-commerce tags in realtime multimedia content,0,G06F|G06Q
+12112302,2024-10-08,Item-level information collection for interactive payment experience,0,G06Q
+12106307,2024-10-01,Detecting for fraud and tampering at a payment terminal,0,G06Q|H04W
+12106271,2024-10-01,Cryptocurrency payment network,0,G06Q
+12099985,2024-09-24,Group data objects and associated functionality enablement,1,G06Q
+12093926,2024-09-17,Profile association and transaction authorization based on transaction type,1,G06K|G06Q
+12086860,2024-09-10,Using data analysis to connect merchants,0,G06Q
+12086826,2024-09-10,Centralized identity for personalization of data presentation,0,G06Q
+12079863,2024-09-03,"Physical, logical separation of balances of funds",0,G06Q
+12079747,2024-09-03,Determining employee shift changes,0,G06Q
+12073458,2024-08-27,Computer-implemented methods and system for customized interactive image collection based on customer data,0,G06F|G06Q|G07G
+12069328,2024-08-20,Audience and artist engagement interfaces,0,G06F|G06Q|H04L|H04N
+12067637,2024-08-20,Gradated service access based on identity verification (IDV),0,G06N|G06Q
+12067582,2024-08-20,Logical validation of devices against fraud and tampering,0,G06Q|G07F|G07G
+12067574,2024-08-20,Using transaction data to present search results,0,G06F|G06N|G06Q
+12067538,2024-08-20,Security asset packs,0,G06Q
+12067517,2024-08-20,Facilitating shareholder voting and associated proxy rights,0,G06Q|G07C
+12063405,2024-08-13,Media mixing user interface,0,G06F|G06Q|H04L|H04N
+12062076,2024-08-13,Integration of image capturing mechanism into ecommerce application,0,G06F|G06Q|G06T|G06V|H04N
+12062038,2024-08-13,Anonymous payment transactions,0,G06Q
+12062035,2024-08-13,Controlling reader transmissions based on device resonant frequency,0,G06Q|G07G|H04B
+12056775,2024-08-06,Transacting via social media interactions,0,G06Q
+12051049,2024-07-30,Centralized restaurant management,0,G06Q|G07F|G07G|H04L
+12045800,2024-07-23,Detecting device presence indication,0,G06Q
+12026759,2024-07-02,Artificial intelligence based service recommendation,0,G06N|G06Q
+12026691,2024-07-02,Computing distances of devices,0,G06Q|H04M|H04W
+12020247,2024-06-25,Intelligent payment capture in failed authorization requests,0,G06Q
+12020235,2024-06-25,Multi-source transaction processing,0,G06Q|H04W
+12020045,2024-06-25,Architecture for building native graphical user interfaces,1,G06F
+12014238,2024-06-18,Displaceable reader circuitry,0,G06K|G06Q|G07F
+12008871,2024-06-11,Point of sale device for mobile computing device,0,F16M|G06F|G07G|H04B|H04M
+12008665,2024-06-11,Methods and system for sensor-based layout generation,0,G06Q|G06T|G07F|G07G|H04W
+12008643,2024-06-11,Classifier performing eligibility determination,0,G06F|G06Q
+12008642,2024-06-11,Electronic payroll funds transfer delay and failed transfer coverage,0,G06Q
+12007469,2024-06-11,Trajectory determination system using positional sensing to determine the movement of people or objects,0,G01S|G06Q
+12002093,2024-06-04,Distributed system for custom financing,0,G06Q
+12002040,2024-06-04,Device driver for contactless payments,0,G06Q|G07F
+12002027,2024-06-04,Multi-device authorization,0,G06Q
+11995715,2024-05-28,Capital loan optimization,0,G06Q
+11995666,2024-05-28,Application program interfaces for order and delivery service recommendations,0,G06Q
+11995640,2024-05-28,Integration of transaction status indications,0,G06Q|G07G|G08B|H04L|H04N
+11995626,2024-05-28,Expedited point-of-sale merchant payments,0,G06Q
+11995624,2024-05-28,System-based detection of card sharing and fraud,1,G06Q
+11989718,2024-05-21,Context-aware peer-to-peer transfers of items,0,G06Q
+11983763,2024-05-14,Modeling to generate dynamic electronic representations,0,G06Q|H04L
+11983701,2024-05-14,Temporarily provisioning card on file payment functionality to proximate merchants,0,G06Q|G07F
+11983697,2024-05-14,Embedded application within a buyer application,1,G06Q|H04L
+11983688,2024-05-14,Controlling access to output device between two processors,0,G06F|G06Q|G07F|G07G
+11983686,2024-05-14,Dynamic adjustment of item fulfillment times,0,G06F|G06Q|H04B|H04W
+11983675,2024-05-14,User interface component generation using service and/or duration information,0,G06F|G06N|G06Q
+11972407,2024-04-30,Embedded applications,0,G06F|G06Q
+11966961,2024-04-23,Determining pricing information from merchant data,1,G06Q
+11966805,2024-04-23,Point of sale system,0,G06F|G06K|G06Q|G07G
+11961055,2024-04-16,Bill payment using direct funds transfer,1,G06Q
+11954549,2024-04-09,Point of sale system,0,G06F|G06K|G06Q|G07G
+11948140,2024-04-02,Interactive electronic notification,1,G06Q
+11941638,2024-03-26,Transferring money using electronic messages,1,G06Q
+11935024,2024-03-19,Account-based data and marketplace generation,0,G06N|G06Q
+11935016,2024-03-19,Interactive gratuity platform,0,G06Q
+11928724,2024-03-12,Customer-device application sites accessible via merchant-managed identifiers,1,G06F|G06Q
+11922495,2024-03-05,Automatically determining adverse action reason codes,4,G06F|G06N|G06Q
+11922447,2024-03-05,Biometric-based payment rewards,0,G06N|G06Q
+11922397,2024-03-05,Transaction object reader with interposer,0,G06K|G06Q|G07F|H04M|H04W
+11922396,2024-03-05,Sending pairing and payment instructions to devices,3,G06Q|G07G|H04W
+11922394,2024-03-05,Customer segment communications,0,G06Q
+11915216,2024-02-27,Dynamically determining a customized transaction flow,0,G06Q
+11915212,2024-02-27,Payment network for security assets,1,G06Q
+11914154,2024-02-27,Intelligent application of reserves to transactions,0,G02B|G06F|G06Q
+11902607,2024-02-13,Multi-participant media control and playback,1,H04L|H04N
+11900388,2024-02-13,Transaction processing using optically encoded information,0,G06Q
+11900373,2024-02-13,Blockchain agnostic token network,2,G06Q|H04L
+11900350,2024-02-13,Automatic inventory tracking in brick and mortar store based on sensor data,0,G06Q|H04W
+11900341,2024-02-13,Third party access controls for a decentralized network,1,G06N|G06Q
+11900340,2024-02-13,Access controls for a decentralized network,0,G06N|G06Q
+11899515,2024-02-13,Point of sale device power management and undervoltage protection,0,G06F|G06K|G06Q|G07F|G07G|H02J|H04N
+11893624,2024-02-06,E-commerce tags in multimedia content,0,G06F|G06Q
+11893581,2024-02-06,Tokenization for payment devices,1,G06K|G06Q|G07F
+11893580,2024-02-06,Establishment of a secure session between a card reader and a mobile device,1,G06Q|G07F|G07G|H04L
+11893067,2024-02-06,Cause identification using dynamic information source(s),2,G06F
+11888730,2024-01-30,Dynamically optimizing routing within a decentralized network,2,G06Q|H04L
+11887147,2024-01-30,Graphical user interface enabling dynamic reward interaction,0,G06Q
+11887102,2024-01-30,Temporary virtual payment card,1,G06Q
+11887074,2024-01-30,Money transfer by use of a payment proxy,0,G06Q|H04L
+11887022,2024-01-30,Systems and methods for provisioning point of sale terminals,0,G06Q|G07F
+11880818,2024-01-23,Transaction interface control,0,G06F|G06Q|G07G
+11880813,2024-01-23,Money transfer by use of a payment proxy,0,G06Q|H04L
+11880788,2024-01-23,Methods and systems for managing retail experience,0,G06Q
+11871237,2024-01-09,Pairing a payment object reader with a point-of-sale terminal,4,G06K|G06Q|G07G|H04B|H04M|H04W
+11869096,2024-01-09,Early payment of earned pay,0,G06Q
+11861699,2024-01-02,Credit offers based on non-transactional data,0,G06Q
+11861649,2024-01-02,Frictionless entry into combined merchant loyalty program,0,G06Q|H04L|H04W
+11861623,2024-01-02,Technical fallback infrastructure,0,G06Q|G07F
+11861590,2024-01-02,Identity verification using payment instrument(s),1,G06Q
+11861589,2024-01-02,Multi-source transaction processing,0,G06Q|H04W
+11861581,2024-01-02,Payment by use of identifier,0,G06Q
+11861579,2024-01-02,Intelligent inventory system,5,G06Q
+11861438,2024-01-02,Thermo-sensitive payment card,0,B42D|G06K|G06Q|G07F
+11854010,2023-12-26,Authorization of cardless payment transactions,1,G06Q
+11853921,2023-12-26,Predicting capital needs,0,G06Q
+11847657,2023-12-19,Batch-processing transactions in response to an event,0,G06F|G06Q|H04W
+11847631,2023-12-19,Point of sale device with cradle for computing device,0,G06F|G06K|G06Q|G07F|G07G|H05K
+11847627,2023-12-19,Product catalog services,0,G06Q
+11847518,2023-12-19,Systems and methods for constructing programmable credential and security cards,0,G06F|G06K|H04L
+11842345,2023-12-12,Rewards for a virtual cash card,6,G06N|G06Q|H04L
+11842298,2023-12-12,Integrated database for expediting transaction processing,0,G06Q
+11836695,2023-12-05,Open ticket payment handling with offline mode,0,G06F|G06Q
+11836566,2023-12-05,Point of sale system,2,G06F|G06K|G06Q|G07G
+11829971,2023-11-28,Methods and systems for intent-based attribution schedule,1,G06Q
+11829964,2023-11-28,Apportioning a payment amount among multiple payers,2,G06Q
+11823247,2023-11-21,Numerical representation usage across datasets for menu recommendation generation,0,G06N|G06Q
+11823191,2023-11-21,Integration for performing actions without additional authorization requests,0,G06Q
+11823186,2023-11-21,Secure wireless card reader,0,G06F|G06Q|G07F|H04L|H04W
+11823154,2023-11-21,Context-based communication requests,1,G06Q|G07G
+11823153,2023-11-21,Cash advance payment deferrals,0,G06Q
+11818373,2023-11-14,Machine-learning based data compression for streaming media,3,G06N|H04N
+11810078,2023-11-07,Interactive digital receipt,1,G06Q
+11803902,2023-10-31,Intelligent modification of capital loan offerings at point-of-sale,0,G06Q
+11803874,2023-10-31,Transaction-based promotion campaign,0,G06Q
+11803841,2023-10-31,Discovery and communication using direct radio signal communication,0,G06Q
+11803829,2023-10-31,Device-aware communication requests,1,G06Q|G07F|G07G|H04W
+11798062,2023-10-24,Customized e-commerce tags in realtime multimedia content,0,G06F|G06Q
+11797972,2023-10-24,Verifying information through multiple device interactions,2,G06Q
+11797970,2023-10-24,Point of sale device with cradle for mobile computing device,1,G06F|G06K|G06Q|G07F|G07G|H05K
+11797966,2023-10-24,Tamper resistant device,2,G06F|G06Q|G07F|G07G
+11797965,2023-10-24,Reader detection signal based proximity feedback,0,G06Q|G07F|G07G|H04B
+11790470,2023-10-17,Storage service for sensitive customer data,0,G06F|G06Q|H04L
+11790334,2023-10-17,Blockchain supported resource transfer communication protocol,2,G06N|G06Q
+11790316,2023-10-17,Provisioning temporary functionality to user devices,0,G06F|G06Q|H04L
+11783331,2023-10-10,Cardless transaction using account automatically generated based on previous transaction,1,G06Q|H04W
+11783317,2023-10-10,Transaction processing based on device location,0,G06Q|G07G|H04B
+11783314,2023-10-10,Contacts for misdirected payments and user authentication,0,G06Q
+11783312,2023-10-10,Systems and methods for performing payment transactions,1,A44C|G06K|G06Q|G07F|H01Q|H04B
+11783310,2023-10-10,Point-of-sale authorization,0,G06Q
+11776038,2023-10-03,Transaction modification based on modeled profiles,0,G06Q
+11775958,2023-10-03,Device security with physically unclonable functions,0,G06Q|G07F|H04L
+11775957,2023-10-03,Point of sale (POS) systems and methods with kernel selection,0,G06Q|G07F
+11769137,2023-09-26,"Apparatuses, methods, and systems for transmitting payment proxy information",0,G06Q|H04W
+11769129,2023-09-26,Product catalog services,0,G06Q
+11763360,2023-09-19,Intelligently identifying items for resale,3,G06Q
+11763285,2023-09-19,Wearable payment device with tunable antenna,1,A44C|G06K|G06Q|G07F|H01Q|H04B
+11763067,2023-09-19,User interface for editing web content,0,G06F
+11762646,2023-09-19,Securely updating software on connected electronic devices,0,G06F|G06Q|H04L
+11756020,2023-09-12,Gesture and context interpretation for secure interactions,6,G06F|G06N|G06Q
+11748759,2023-09-05,Using transaction data to present search results,4,G06F|G06N|G06Q
+11748739,2023-09-05,Wireless communication system with auxiliary antenna,0,G06Q|H04B
+11741528,2023-08-29,Application program interfaces for vendor recommendations,1,G06Q
+11727452,2023-08-15,Invoice financing and repayment,0,G06Q
+11727378,2023-08-15,Processing multiple point-of-sale transactions,1,G06Q|G07G
+11720959,2023-08-08,Payment processor financing of customer purchases,0,G06Q
+11720905,2023-08-08,Intelligent merchant onboarding,0,G06Q
+11715146,2023-08-01,"System, media, and method for a persistent virtual shopping cart",0,G06F|G06Q
+11715085,2023-08-01,Systems and methods for performing payment transactions,1,A44C|G06K|G06Q|G07F|H01Q|H04B
+11710108,2023-07-25,Cryptocurrency payment network,1,G06Q
+11704640,2023-07-18,Automatic invoice notification,0,G06Q
+11699182,2023-07-11,Distributed system for custom financing,1,G06Q
+11694200,2023-07-04,Secure account creation,0,G06Q
+11694178,2023-07-04,Embedded card reader security,0,G06Q|G07F
+11687911,2023-06-27,Application integration for contactless payments,0,G06F|G06K|G06Q|G07G
+11687887,2023-06-27,Item-level information collection for interactive payment experience,0,G06Q
+11682062,2023-06-20,Customized e-commerce tags in realtime multimedia content,0,G06F|G06Q
+11681994,2023-06-20,Point of sale system having a customer terminal and a merchant terminal,0,G06F|G06Q|G07F|G07G
+11681833,2023-06-20,Secure electronic circuitry with tamper detection,1,G06F
+11676108,2023-06-13,"Apparatuses, methods, and systems for generating interactive digital receipts",0,G06Q|G07G
+11669842,2023-06-06,Transaction chip incorporating a contact interface,0,G06Q|G07F
+11669826,2023-06-06,Transaction processing by multiple devices,0,G06Q
+11669822,2023-06-06,Point-of-sale system having a secure touch mode,1,G06Q|G07G
+11669819,2023-06-06,Automatic storage of electronic receipts across merchants and transaction cards,0,G06K|G06Q|G07F
+11665817,2023-05-30,Tamper detection based on flexible member connecting circuitry elements,1,G06K|G06Q|G07G|H04W|H05K
+11663629,2023-05-30,Multi-merchant concomitant-use point-of-sale device,0,G06F|G06Q
+11663612,2023-05-30,Logical validation of devices against fraud and tampering,0,G06Q|G07F|G07G
+11663570,2023-05-30,Analyzing layouts using sensor data,0,G06Q
+11663565,2023-05-30,Payment proxy including a user-defined identifier,1,G06Q|H04L
+11663368,2023-05-30,Tamper detection based on removal of fastener from recess,1,C09J|G06F|G06Q|G07F|G07G|G08B|H05K
+11657448,2023-05-23,"Physical, logical separation of balances of funds",0,G06Q
+11651388,2023-05-16,Frictionless entry into combined merchant loyalty program,0,G06Q|H04L|H04W
+11645651,2023-05-09,Open tab transactions,1,G06Q|H04W
+11645613,2023-05-09,Intelligent image recommendations,3,G06Q
+11640627,2023-05-02,Artificial intelligence based service recommendation,5,G06N|G06Q
+11640624,2023-05-02,"Geographically targeted, time-based promotions",2,G06Q
+11640595,2023-05-02,Embedded card reader security,0,G06Q|G07F
+11636468,2023-04-25,Encapsulation of payment accounts with nested tokens,2,G06Q
+11636462,2023-04-25,Context-aware peer-to-peer transfers of items,2,G06Q
+11636456,2023-04-25,Data structure analytics for real-time recommendations,0,G06Q
+11631128,2023-04-18,Lending products with different repayment mechanisms,0,G06Q
+11615391,2023-03-28,Server-based order persistence and/or fulfillment,3,G06Q
+11610208,2023-03-21,Intelligent management of authorization requests,0,G06Q
+11610194,2023-03-21,Transaction object reader with analog and digital signal interface,2,G06K|G06Q|G07F|H04M|H04W
+11610191,2023-03-21,Cash transaction machine,2,G06Q|G07F
+11609624,2023-03-21,Power management for a computing system,2,G06F|H02J|Y02D
+11605066,2023-03-14,"Physical, logical separation of balances of funds",0,G06Q
+11599863,2023-03-07,Selection of a financial account associated with a proxy object,1,G06Q
+11593876,2023-02-28,Machine learning for determining an API communication,2,G06Q
+11593780,2023-02-28,Creation and validation of a secure list of security certificates,3,G06Q|H04L|H04W
+11593773,2023-02-28,Payment transaction authentication system and method,16,G06Q
+11587412,2023-02-21,Self-centering user interface for inputting information,1,A47G|G06F|G06Q|G07F|G07G|G09B
+11587146,2023-02-21,Wireless beacon shopping experience,0,G06Q
+11587142,2023-02-21,Using data analysis to connect merchants,1,G06Q
+11587138,2023-02-21,Gift card management,0,G06Q
+11580599,2023-02-14,Intelligent loan offering at a point of sale,3,G06Q
+11580514,2023-02-14,Reduced friction for merchant interactions,5,G01K|G06F|G06Q|G07G|H04L
+11580478,2023-02-14,Facilitating shareholder voting and associated proxy rights,1,G06Q|G07C
+11574314,2023-02-07,Transferring money using interactive interface elements,2,G06Q
+11574296,2023-02-07,Systems and methods for providing gratuities to merchants,1,G06Q
+11568481,2023-01-31,Intelligently bundling payments,0,G06Q
+11568418,2023-01-31,Payment application based fund transfer,1,G06Q
+11562360,2023-01-24,Mobile device payments,0,G06Q
+11562339,2023-01-24,Processing a mobile payload,0,G06Q|H04L
+11561593,2023-01-24,Point of sale device power management and undervoltage protection,0,G06F|G06K|G06Q|G07F|G07G|H02J|H04N
+11551175,2023-01-10,Facilitating shareholder voting and associated proxy rights,1,G06Q|G07C
+11551168,2023-01-10,Determining employee shift changes,2,G06Q
+11544695,2023-01-03,Transaction identification by comparison of merchant transaction data and context data,1,G06F|G06K|G06Q
+11544684,2023-01-03,Embedded applications,2,G06F|G06Q
+11544681,2023-01-03,Merchant performed banking-type transactions,0,G06Q|G07F
+11538118,2022-12-27,Selectable payroll amounts for instant payroll deposits,0,G06Q
+11538105,2022-12-27,Cryptographic-asset collateral management,4,G06Q|H04L
+11538010,2022-12-27,Sensor-based transaction authorization via user device,1,G06F|G06Q|G06T
+11537803,2022-12-27,Point of sale system,2,G06F|G06K|G06Q|G07G
+11526882,2022-12-13,Cryptocurrency rewards for a virtual cash card,0,G06N|G06Q|H04L
+11514452,2022-11-29,Multi-device point-of-sale system having multiple merchant-facing devices,16,G06Q|G07G
+11514437,2022-11-29,Encapsulation of payment accounts with tokenization,7,G06Q
+11514421,2022-11-29,Payment via messaging application,3,G06Q
+11507958,2022-11-22,Trust-based security for transaction payments,4,G06Q|G07G
+11507931,2022-11-22,Payout payment platform,2,G06Q
+11501366,2022-11-15,Inventory management with capital advance,0,G06Q
+11501355,2022-11-15,Integration of image capturing mechanism into ecommerce application,1,G06F|G06Q|G06T|G06V|H04N
+11501297,2022-11-15,Blockchain agnostic token network,17,G06Q|H04L
+11501281,2022-11-15,Waking payment readers using point-of-sale (POS) devices,2,G06F|G06K|G06Q|H04W
+11501279,2022-11-15,Appointment and payment handling,1,G06Q
+11494782,2022-11-08,Equity offers based on user actions,7,G06F|G06Q
+11494762,2022-11-08,Device driver for contactless payments,3,G06Q|G07F
+11488263,2022-11-01,Social network for merchants,2,G06Q
+11488195,2022-11-01,Reward offer redemption for payment cards,7,G06Q
+11481839,2022-10-25,Merchant financing system,4,G06F|G06Q
+11481750,2022-10-25,Pairing a payment object reader with a point-of-sale terminal,0,G06Q|G07G
+11481749,2022-10-25,Intelligent inventory recommendations,2,G06F|G06Q|G07F
+11481741,2022-10-25,Money transfer by use of a payment proxy,1,G06Q|H04L
+11475431,2022-10-18,Transaction processing by multiple devices,0,G06Q
+11468465,2022-10-11,Frictionless entry into combined merchant loyalty program,1,G06Q|H04L|H04W
+11455858,2022-09-27,Payment application initiated generation of payment instruments,1,B41J|G06F|G06Q|G07F|H04L
+11455633,2022-09-27,Mobile device payments,0,G06Q
+11455604,2022-09-27,Money transfer by use of a payment proxy,4,G06Q|H04L
+11449854,2022-09-20,Establishing consent for cardless transactions using short-range transmission,0,G06Q
+11443318,2022-09-13,Physical and logical detections for fraud and tampering,0,G06Q|H04W
+11436578,2022-09-06,Interactive gratuity platform,3,G06Q
+11430070,2022-08-30,Intelligent application of reserves to transactions,2,G06Q
+11423491,2022-08-23,Transacting via social media interactions,7,G06Q
+11423476,2022-08-23,Customized financing based on transaction information,2,G06N|G06Q
+11423474,2022-08-23,Securing capital offers using blockchain transaction reconstruction,5,G06Q|H04L
+11423398,2022-08-23,Recommending conditions for blockchain-enforced contracts,33,G06F|G06Q|H04L
+11423394,2022-08-23,Anonymous payment transactions,5,G06Q
+11423391,2022-08-23,Devices with on-board physically unclonable functions,2,G06Q|G07F|H04L
+11423373,2022-08-23,Intelligent subscription identification using transaction data,7,G06Q
+11416727,2022-08-16,Thermo-sensitive payment card,1,B42D|G06K|G06Q|G07F
+11410154,2022-08-09,"Apparatuses, methods, and systems for transmitting payment proxy information",3,G06Q|H04W
+11410153,2022-08-09,Enrolling mobile-payment customers after online transactions,3,G06F|G06Q
+11410140,2022-08-09,Merchant performed banking-type transactions,1,G06Q|G07F
+11410139,2022-08-09,Apportioning a payment card transaction among multiple payers,4,G06Q
+11410137,2022-08-09,Money transfer by use of a payment proxy,5,G06Q|H04L
+11409948,2022-08-09,Centralized brand asset management,1,G06F|G06Q|G07G
+11403692,2022-08-02,Customized e-commerce tags in realtime multimedia content,0,G06F|G06Q
+11397977,2022-07-26,Integration of image capturing mechanism into ecommerce application,4,G06F|G06Q|G06T|G06V|H04N
+11397939,2022-07-26,Integration of transaction status indications,2,G06Q|G07G|G08B|H04L|H04N
+11397933,2022-07-26,Product catalog services,3,G06Q
+11393026,2022-07-19,Tax refund loan management platform,5,G06N|G06Q
+11393023,2022-07-19,Adaptive multi-stage user interface for credit offers,1,G06N|G06Q
+11386419,2022-07-12,Device security with physically unclonable functions,1,G06Q|G07F|H04L
+11386418,2022-07-12,Dynamic actions from matrix codes,2,G06Q
+11379913,2022-07-05,Electronic payroll funds transfer delay and failed transfer coverage,9,G06Q
+11379868,2022-07-05,Dynamically financed customer engagement campaign,0,G06Q
+11379831,2022-07-05,Establishment of a secure session between a card reader and a mobile device,0,G06Q|G07F|G07G|H04L
+11374949,2022-06-28,Logical validation of devices against fraud and tampering,2,G06F|G06Q|G07F|H04L
+11373194,2022-06-28,Logical validation of devices against fraud and tampering,2,G06Q|G07F|G07G
+11367096,2022-06-21,Individualized incentives to improve financing outcomes,6,G06Q
+11354673,2022-06-07,Data security enhancement for online transactions involving payment card accounts,16,G06Q
+11354645,2022-06-07,Proximity-based payments,12,G06Q
+11348190,2022-05-31,System and method for generating dynamic repayment terms,4,G06N|G06Q
+11348119,2022-05-31,Intelligent merchant onboarding,2,G06Q
+11348117,2022-05-31,Gift card management,0,G06Q
+11348083,2022-05-31,Payment by use of identifier,5,G06Q
+11341523,2022-05-24,Person-to-person gift offers based on user actions,10,G06N|G06Q
+11341473,2022-05-24,Context-based communication requests,0,G06Q|G07G
+11334861,2022-05-17,Temporarily provisioning functionality in a multi-device point-of-sale system,4,G06Q|G07G
+11328283,2022-05-10,Systems and methods for performing payment transactions,2,A44C|G06K|G06Q|G07F|H01Q|H04B
+11328279,2022-05-10,Multi-state merchant-facing device,0,G06Q|G07G
+11328277,2022-05-10,Merchant point of sale collaborating with payment reader terminal via server application programming interface,1,G06Q
+11328134,2022-05-10,Displaceable reader circuitry,1,G06K|G06Q|G07F
+11321726,2022-05-03,Intelligent incentives for invoice payment,4,G06Q
+11321694,2022-05-03,Tamper detection using ITO touch screen traces,0,G06F|G06Q|G07F|G07G
+11315108,2022-04-26,Profile generation and association with multiple transaction cards contemporaneously,1,G06K|G06Q
+11310052,2022-04-19,Identity authentication blockchain,4,G06N|H04L
+11308472,2022-04-19,Temporarily provisioning functionality in a multi-device point-of-sale system,2,G06Q|G07G
+11301840,2022-04-12,Systems and methods for provisioning point of sale terminals,4,G06Q|G07F
+11301825,2022-04-12,Customized transaction flow,1,G06Q
+11295371,2022-04-05,Integrating predefined templates with open ticket functionality,0,G06Q
+11295359,2022-04-05,Nested conditions for blockchain-enforced contracts,12,G06Q|H04L
+11295337,2022-04-05,Transaction-based promotion campaign,2,G06Q
+11295322,2022-04-05,Application program interfaces for order and delivery service recommendations,2,G06Q
+11288729,2022-03-29,Predicting orders from buyer behavior,2,G06Q
+11288657,2022-03-29,Detecting device presence indication,3,G06Q
+11282087,2022-03-22,Using transaction data from first transaction for second transaction,1,G06Q
+11276054,2022-03-15,Integration of payment processing platform with payment making platform for differentiated payment allocations using cryptocurrency,5,G06Q
+11270278,2022-03-08,Cardless payment transactions with multiple users,2,G06Q

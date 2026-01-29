@@ -1,0 +1,434 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430486,2025-09-30,Combined global and local process variation modeling,0,G06F
+12430043,2025-09-30,Memory protection unit with secure delegation,0,G06F
+12423491,2025-09-23,Identifying association of safety related ports to their safety mechanisms through structural analysis,0,G06F
+12417336,2025-09-16,Modifying a current circuit design using data from one or more previous circuit designs identified as being similar to the current circuit design,0,G06F
+12417164,2025-09-16,Adaptive hardware tracing,0,G06F
+12413454,2025-09-09,Decision feedback equalizer with feedforward finite impulse response filter,0,H04B|H04L
+12413383,2025-09-09,Low-power multi-variable feedback control loop,0,H04L
+12408563,2025-09-02,Superconducting anti-fuse based field programmable gate array,0,H01L|H10N
+12406456,2025-09-02,Statistical shape and appearance modeling for volumetric geometry and intensity data,0,G06T|G06V
+12406128,2025-09-02,Automation for functional safety diagnostic coverage,0,G06F
+12406127,2025-09-02,Static timing analysis of multi-die three-dimensional integrated circuits,0,G06F
+12406122,2025-09-02,Modifying scan patterns to enable broadcasting a scan enable signal to multiple circuit blocks,0,G06F|H03K
+12406120,2025-09-02,Multicycle path prediction of reset signals,0,G06F
+12406117,2025-09-02,Generating and utilizing manufacturable netlists of three-dimensional integrated circuits,0,G06F
+12400064,2025-08-26,"Routing of high-speed, high-throughput interconnects in integrated circuits",0,G06F
+12400062,2025-08-26,Selection and placement of safety mechanisms,0,G06F
+12399219,2025-08-26,Constrained random simulation using machine learning and Bayesian estimation,0,G01R|G06N
+12393754,2025-08-19,Generating a reduced block model view on-the-fly,0,G06F
+12387025,2025-08-12,Aggregating multiple component metrics into a single reward function,0,G06F
+12387011,2025-08-12,Secured computer memory,0,G06F
+12380015,2025-08-05,Predicting tests based on change-list descriptions,0,G06F|G06N
+12373628,2025-07-29,"Virtual isolated pattern layer: isolated pattern recognition, extraction and compression",0,G06F
+12368100,2025-07-22,"Interconnects, inductors, transformers, and power architectures for circuits",0,H01L|H10D
+12367334,2025-07-22,Runtime and memory efficient attribute query handling for distributed engine,0,G06F
+12361509,2025-07-15,Semiconductor process simulation on graphics processing unit (GPU) with multi-level data structure,0,G06T
+12361194,2025-07-15,Dynamic clock tree planning using feedtiming cost,0,G06F
+12353813,2025-07-08,Accounting for steady state noise in bit response superposition based eye diagram simulation,0,G06F
+12353810,2025-07-08,Unified power format annotated RTL image recognition to accelerate low power verification convergence,0,G06F
+12353809,2025-07-08,Transformations for multicycle path prediction of clock signals,0,G06F
+12353570,2025-07-08,Side-channel resilient public key cryptography,0,G06F
+12353426,2025-07-08,Assigning device,0,G06F|G09C|H04L
+12353307,2025-07-08,Random instruction-side stressing in post-silicon validation,0,G01R|G06F|H01L
+12348344,2025-07-01,Configurable transmitter architecture for supporting multiple data rates,0,H04L
+12347522,2025-07-01,On-chip automation of clock-to-Q access time measurement of a memory device,0,G06F|G11C
+12340157,2025-06-24,Non-functional loopback-paths removal from IO-pads using logic replication,0,G06F
+12340155,2025-06-24,Detecting instability in combinational loops in electronic circuit designs,0,G06F
+12333227,2025-06-17,Machine-learning-based design-for-test (DFT) recommendation system for improving automatic test pattern generation (ATPG) quality of results (QoR),0,G01R|G06F
+12332301,2025-06-17,Measuring device defect sensitization in transistor-level circuits,0,G01R|G06F
+12321675,2025-06-03,Incremental compilation for FPGA-based systems,0,G06F
+12314572,2025-05-27,Conflict detection and address arbitration for routing scatter and gather transactions for a memory bank,0,G06F|G11C
+12314350,2025-05-27,Pay-per-use metering service for electronic design automation workloads in the cloud,0,G06F
+12307187,2025-05-20,Circuit design having an improved clock tree,0,G06F
+12307179,2025-05-20,"Detecting simulation, emulation and prototyping issues using static analysis tools",0,G06F
+12307178,2025-05-20,Structural analysis for determining fault types in safety related logic,0,G06F
+12306732,2025-05-20,Trace buffer data management for emulation systems,0,G06F
+12300493,2025-05-13,Isolating ion implantation of silicon channels for integrated circuit layout,0,H01L|H10D
+12299448,2025-05-13,Store instruction merging with pattern detection,0,G06F
+12299357,2025-05-13,Method for automated topology recognition and functional annotation of analog/mixed-signal circuits,0,G06F
+12298841,2025-05-13,Failure prediction of field-deployed mission critical integrated circuit chips using artificial intelligence,0,G06F|G06N
+12293279,2025-05-06,Neural network based mask synthesis for integrated circuits,0,G03F|G06F|G06N
+12293139,2025-05-06,Partitioning a circuit for distributed balanced independent simulation jobs with upper-bounded memory,0,G06F
+12292832,2025-05-06,Memory coherence protocol for communicating data associated with a shared state between processor cores,0,G06F
+12288020,2025-04-29,Integrated circuit design and layout with multiple interpreters,0,G06F
+12277374,2025-04-15,Synthesis placement bounds based on physical timing analysis,0,G06F|G06N
+12277372,2025-04-15,Multi-cycle test generation and source-based simulation,0,G01R|G06F
+12277200,2025-04-15,Fail-safe software access licensing control on a per project basis without a priori knowledge of project details,0,G06F
+12277055,2025-04-15,Address mapping for a memory system,0,G06F
+12271668,2025-04-08,Finding equivalent classes of hard defects in stacked MOSFET arrays,0,G06F
+12265779,2025-04-01,Clock aware simulation vector processor,0,G06F
+12265325,2025-04-01,Inverse lithography and machine learning for mask synthesis,0,G03F|G06F|G06N
+12265122,2025-04-01,Memory profiler for emulation,0,G01R|G06F
+12259806,2025-03-25,Managing high performance simulation representation of an emulation system,0,G06F
+12259746,2025-03-25,Dynamic clock scaling using compression and serialization,0,G06F|H03M
+12254256,2025-03-18,Diagnosis of inconsistent constraints in a power intent for an integrated circuit design,0,G06F
+12254255,2025-03-18,Glitch identification and power analysis using simulation vectors,0,G06F
+12249394,2025-03-11,Multi-protocol analog front end circuit,0,G11C|H04L
+12249115,2025-03-11,Large scale computational lithography using machine learning models,0,G03F|G06N|G06V
+12248744,2025-03-11,Poly-bit cells,0,G06F|H10D
+12248335,2025-03-11,Phase detection circuitry for high-frequency phase error detection,0,G01R|G06F|H03D
+12245163,2025-03-04,Method and system for transmission power control in bluetooth low energy controllers,0,H04W
+12242783,2025-03-04,Data-driven clock port and clock signal recognition,0,G06F
+12242183,2025-03-04,Enforcing mask synthesis consistency across random areas of integrated circuit chips,0,G03F|G06F
+12229484,2025-02-18,Timing path analysis using flow graphs,0,G06F
+12212308,2025-01-28,"Low-area, wide range clocking scheme using inductance/capacitance oscillators",0,G06F|H03J|H03L
+12204456,2025-01-21,Artificial intelligence (AI)/machine learning (ML) tensor processor,0,G06F|G06N
+12190039,2025-01-07,Incremental clock tree planning,0,G06F
+12182056,2024-12-31,Multi level loopback to enable automated testing of standalone connectivity controller,0,G06F
+12181793,2024-12-31,Mask synthesis using tensor-based computing platforms,0,G03F|G06N
+12175191,2024-12-24,Automated translation of design specifications of electronic circuits,0,G01R|G06F|G06N
+12175181,2024-12-24,Timing-aware surgical optimization for engineering change order in chip design,0,G06F
+12175176,2024-12-24,Fast synthesis of logical circuit design with predictive timing,0,G06F
+12167590,2024-12-10,One-transistor (1T) one-time programmable (OTP) anti-fuse bitcell with reduced threshold voltage,0,G11C|H01L|H10B
+12164608,2024-12-10,Obfuscating encrypted register transfer logic model of a circuit,0,G06F
+12158770,2024-12-03,Power-efficient enable signal for fanin-based sequential clock gating on enabled flip flops,0,G06F
+12155509,2024-11-26,Continuous time linear equalizer with programmable inductive high frequency boost,0,H03G|H04L
+12153864,2024-11-26,Message passing multi processor network for simulation vector processing,0,G06F
+12153863,2024-11-26,Multi-processor simulation on a multi-core machine,0,G06F
+12147749,2024-11-19,Co-optimizing power supply voltage in an integrated circuit design,0,G06F|H01L
+12147748,2024-11-19,System for making circuit design changes,0,G06F
+12147707,2024-11-19,Buffer circuitry for store to load forwarding,0,G06F
+12143195,2024-11-12,Angle of arrival (AoA) determination for Bluetooth® Low Energy (BLE),1,G01S|H03H|H04B|H04W
+12140628,2024-11-12,Integrating machine learning delay estimation in FPGA-based emulation systems,0,G01R|G06F
+12130658,2024-10-29,Synchronization of a transfer of data signals between circuits when a clock in a destination circuit is off,0,G06F
+12126714,2024-10-22,Key protection using a noising and de-noising scheme,1,H04L
+12124782,2024-10-22,Machine learning-enabled estimation of path-based timing analysis based on graph-based timing analysis,0,G06F|G06N
+12124780,2024-10-22,Power estimation using input vectors and deep recurrent neural networks,0,G06F|G06N
+12124379,2024-10-22,Management circuitry for a least recently used memory management process,0,G06F
+12124375,2024-10-22,Predicting aliasing bits in a virtually indexed physically tagged cache,0,G06F
+12118283,2024-10-15,Automatic channel identification of high-bandwidth memory channels for auto-routing,0,G06F
+12112202,2024-10-08,Framework for application driven exploration and optimization of hardware engines,0,G06F
+12112108,2024-10-08,Method to compute timing yield and yield bottleneck using correlated sample generation and efficient statistical simulation,0,G06F
+12106157,2024-10-01,Memory efficient and scalable approach to stimulus (waveform) reading,0,G06F
+12093620,2024-09-17,Multi-cycle power analysis of integrated circuit designs,0,G06F
+12086523,2024-09-10,Adaptive row patterns for custom-tiled placement fabrics for mixed height cell libraries,0,G06F|H10D
+12082403,2024-09-03,One time programmable bitcell with select device in isolated well,0,G11C|H01L|H10B
+12080608,2024-09-03,Self-limiting manufacturing techniques to prevent electrical shorts in a complementary field effect transistor (CFET),0,B82Y|H01L|H10D
+12079558,2024-09-03,On-the-fly multi-bit flip flop generation,0,G06F
+12074593,2024-08-27,High-voltage tolerant multiplexer,0,G06F|H03K
+12073156,2024-08-27,Propagating physical design information through logical design hierarchy of an electronic circuit,0,G06F
+12067091,2024-08-20,Hardware-based obfuscation of digital data,0,G06F
+12051481,2024-07-30,Automatic tracking for clock synchronization based on delay line adjustment,1,G06F|G11C
+12045167,2024-07-23,Conversion of a clean unique request to a read unique request by a memory coherency manager circuit,0,G06F
+12045158,2024-07-23,Test case selection and ordering with covert minimum set cover for functional qualification,0,G06F
+12045124,2024-07-23,Machine learning technique to diagnose software crashes,0,G06F|G06N
+12041858,2024-07-16,Josephson junction structures,1,G01R|G06N|H10N
+12038812,2024-07-16,Memory safety interface configuration,0,G06F|G11C
+12038780,2024-07-16,Phase mismatch detection for a multiphase system,1,G04F|G06F|H03K
+12032894,2024-07-09,System and method for synchronizing net text across hierarchical levels,0,G06F
+12032889,2024-07-09,Fast effective resistance estimation using machine learning regression algorithms,0,G05B|G06F|G06N
+12032887,2024-07-09,In-graph causality ranking for faults in the design of integrated circuits,0,G06F
+12032510,2024-07-09,Self-recovery mechanism for multi-hosts and multi-devices emulation and prototyping system bus,0,G06F
+12026202,2024-07-02,Memory optimization for storing objects in nested hash maps used in electronic design automation systems,0,G06F
+12026094,2024-07-02,Varied validity bit placement in tag bits of a memory,0,G06F
+12019966,2024-06-25,"Virtual isolated pattern layer: isolated pattern recognition, extraction and compression",0,G06F
+12015526,2024-06-18,Mixed-precision neural networks,0,G06F|G06N|H04L
+12014262,2024-06-18,Deconvolution by convolutions,0,G06F|G06N
+12014205,2024-06-18,Advanced register merging,0,G06F
+12014127,2024-06-18,Transforming a logical netlist into a hierarchical parasitic netlist,0,G06F
+12008373,2024-06-11,Instance instrumentation for different data sources,0,G06F
+12008303,2024-06-11,Cell overlap violation diagnostics with machine learning,0,G06F
+12003233,2024-06-04,High bandwidth integrated multiplexer and driver stage for transmitter,2,G06F|H03K|H04B
+12001770,2024-06-04,Analog centric current modeling within a digital testbench in mixed-signal verification,0,G06F
+12001768,2024-06-04,Enhanced glitch estimation in vectorless power analysis,0,G06F
+12001317,2024-06-04,Waveform based reconstruction for emulation,0,G06F
+11994979,2024-05-28,Smart regression test selection for software development,0,G06F|H04L
+11984384,2024-05-14,Power routing for 2.5D or 3D integrated circuits including a buried power rail and interposer with power delivery network,0,H01L
+11983474,2024-05-14,"Connecting random variables to coverage targets using an ensemble of static analysis, dynamic analysis and machine learning and guided constraint solving of the random variables during simulation of an integrated circuit",1,G01R|G06F
+11983032,2024-05-14,Path margin monitor integration with integrated circuit,0,G01R|G06F
+11979232,2024-05-07,Verification of Ethernet hardware based on checksum correction with cyclic redundancy check,0,H04L
+11977327,2024-05-07,Enforcing mask synthesis consistency across random areas of integrated circuit chips,0,G03F|G06F
+11973508,2024-04-30,Phase mixer non-linearity measurement within clock and data recovery circuitry,0,H03L|H04L
+11972193,2024-04-30,Automatic elastic CPU for physical verification,0,G06F
+11972192,2024-04-30,Superseding design rule check (DRC) rules in a DRC-correct interactive router,0,G06F
+11972191,2024-04-30,System and method for providing enhanced net pruning,0,G06F
+11966678,2024-04-23,Modelling timing behavior using augmented sensitivity data for physical parameters,0,G06F|G06N
+11966677,2024-04-23,Emulation performance analysis using abstract timing graph representation,1,G06F
+11962676,2024-04-16,Phase mixer non-linearity compensation within clock and data recovery circuitry,0,H03L|H04L
+11960811,2024-04-16,Partitioning in post-layout circuit simulation,0,G06F
+11954485,2024-04-09,Classification of programming language code into basic constructs of source code and non-source code,0,G06F|G06N|G06V
+11947946,2024-04-02,"Intelligent software development, security, and operations workflow",17,G06F|G06N
+11947885,2024-04-02,Low-power static signoff verification from within an implementation tool,0,G06F
+11947480,2024-04-02,Universal serial bus scheduling using real time data,0,G06F
+11943369,2024-03-26,Technology validation and ownership,0,G06F|G06Q|H04L
+11942936,2024-03-26,Energy-efficient SFQ logic biasing technique,0,G06F|G06N|H03K|H10N
+11941379,2024-03-26,Accelerating static program analysis with artifact reuse,0,G06F
+11941339,2024-03-26,Automated equal-resistance routing in compact pattern,0,G06F
+11928024,2024-03-12,Atomic correction of single bit errors within a memory,0,G06F
+11922106,2024-03-05,Memory efficient scalable distributed static timing analysis using structure based self-aligned parallel partitioning,0,G06F
+11914939,2024-02-27,Clock re-convergence pessimism removal through pin sharing during clock tree planning,0,G06F
+11914306,2024-02-27,Predicting defect rate based on lithographic model parameters,0,G03F|G06F
+11907631,2024-02-20,Reset domain crossing detection and simulation,0,G06F
+11907630,2024-02-20,Power validation based on power assertion specification,0,G06F
+11907088,2024-02-20,Testing of hardware queue systems using on device test generation,0,G06F
+11900042,2024-02-13,Stochastic-aware lithographic models for mask synthesis,0,G03F|G06F
+11899586,2024-02-13,Energy efficient tag partitioning in cache memory,0,G06F
+11893332,2024-02-06,Global mistracking analysis in integrated circuit design,0,G06F
+11874597,2024-01-16,Stochastic optical proximity corrections,0,G03F|H01L
+11868696,2024-01-09,Lightweight unified power format implementation for emulation and prototyping,0,G06F
+11868694,2024-01-09,System and method for optimizing emulation throughput by selective application of a clock pattern,0,G06F
+11863170,2024-01-02,Unwanted peak reduction in equalizer,0,H03K|H04B|H04L
+11861286,2024-01-02,Segregating defects based on computer-aided design (CAD) identifiers associated with the defects,0,G06F
+11860751,2024-01-02,Deterministic data latency in serializer/deserializer-based design for test systems,0,G01R|G06F
+11860531,2024-01-02,Skeleton representation of layouts for the development of lithographic masks,0,G03F|G06T
+11860227,2024-01-02,Machine learning delay estimation for emulation systems,0,G01R|G06F
+11853680,2023-12-26,Incremental routing based pin assignment,0,G06F
+11853668,2023-12-26,FPGA implementation interleaved with FPGA overlay architectures for emulation,0,G06F
+11853665,2023-12-26,Performing hardware description language transformations,0,G06F
+11853662,2023-12-26,Machine-learning enhanced compiler,1,G06F
+11853236,2023-12-26,Enriched auto command feature for I3C host controller,0,G06F
+11848676,2023-12-19,Interference reducing passive transmission line receiver,1,G01R|G06N|H03K|H10N
+11847396,2023-12-19,Integrated circuit design using multi-bit combinational cells,1,G06F
+11842134,2023-12-12,Automated determinaton of failure mode distribution,0,G01R|G06F|G06N
+11842132,2023-12-12,Multi-cycle power analysis of integrated circuit designs,0,G06F
+11837280,2023-12-05,CFET architecture for balancing logic library and SRAM bitcell,0,G06F|G11C|H10B
+11836641,2023-12-05,Machine learning-based prediction of metrics at early-stage circuit design,1,G06F|G06N
+11836435,2023-12-05,Machine learning based parasitic estimation for an integrated circuit chip design,2,G06F|G06N
+11836433,2023-12-05,Memory instance reconfiguration using super leaf cells,0,G06F
+11836425,2023-12-05,Engineering change orders with consideration of adversely affected constraints,0,G06F
+11836000,2023-12-05,Automatic global clock tree synthesis,0,G06F|H03K
+11829751,2023-11-28,System and method for automatically capturing source code and associated artifacts for static analysis,0,G06F
+11829698,2023-11-28,Guided power grid augmentation system and method,0,G06F
+11829692,2023-11-28,Machine-learning-based design-for-test (DFT) recommendation system for improving automatic test pattern generation (ATPG) quality of results (QOR),1,G01R|G06F
+11824539,2023-11-21,Clock multiplexer circuitry with glitch reduction,0,G06F|H03K
+11816409,2023-11-14,Strongly connected component (SCC) graph representation for interactive analysis of overlapping loops in emulation and prototyping,0,G06F
+11816407,2023-11-14,Automatic channel identification of high-bandwidth memory channels for auto-routing,0,G06F
+11809363,2023-11-07,Debug methodology for a USB sub-system using unique identifier (UID) approach,0,G06F
+11803051,2023-10-31,Freeform optical surface and method of forming a freeform optical surface,1,G02B|G06T
+11797742,2023-10-24,Power aware real number modeling in dynamic verification of mixed-signal integrated circuit design,1,G06F
+11797739,2023-10-24,Endpoint path margin based integrated circuit design using sub-critical timing paths,1,G06F
+11797737,2023-10-24,Finding equivalent classes of hard defects in stacked MOSFET arrays,0,G06F
+11797735,2023-10-24,Regression testing based on overall confidence estimating,2,G06F|G06N
+11790150,2023-10-17,Placement and simulation of cell in proximity to cell with diffusion break,0,G06F
+11790127,2023-10-17,Full correlation aging analysis over combined process voltage temperature variation,0,G06F
+11784783,2023-10-10,Waveform construction using interpolation of data points,0,H03M|H04L
+11776816,2023-10-03,Fin patterning to reduce fin collapse and transistor leakage,0,G06F|H01L|H10D
+11775716,2023-10-03,"High speed, low hardware footprint waveform",0,G06F
+11775363,2023-10-03,System and method for auditing a graph-based API,1,G06F|H04L
+11763059,2023-09-19,Net-based wafer inspection,0,G06F
+11763056,2023-09-19,Method and system for custom model definition of analog defects in an integrated circuit,0,G06F
+11763053,2023-09-19,Coherent observability and controllability of overlaid clock and data propagation in emulation and prototyping,0,G06F|H03K
+11762283,2023-09-19,Inverse lithography and machine learning for mask synthesis,0,G03F|G06F|G06N
+11755802,2023-09-12,Detecting shared rescources and coupling factors,0,G06F
+11755799,2023-09-12,Diversifying stimulus generation in constrained random simulation by learning distribution history,0,G06F
+11748553,2023-09-05,Mask rule checking for curvilinear masks for electronic circuits,0,G03F|G06F|G06T
+11741287,2023-08-29,Prioritized mask correction,0,G06F|Y02P
+11741282,2023-08-29,Reinforcement learning-based adjustment of digital circuits,0,G06F
+11740288,2023-08-29,Localization of multiple scan chain defects per scan chain,0,G01R|G06F
+11734489,2023-08-22,Circuit layout verification,0,G06F
+11734488,2023-08-22,System and method to process a virtual partition cell injected into a hierarchical integrated circuit design,0,G06F|Y02P
+11734482,2023-08-22,Visual representation to assess quality of input stimulus in transistor-level circuits,1,G06F
+11734080,2023-08-22,Memory efficient and scalable approach to stimulus (waveform) reading,0,G06F
+11727178,2023-08-15,Under test pin location driven simultaneous signal grouping and pin assignment,0,G06F
+11726899,2023-08-15,Waveform based reconstruction for emulation,0,G06F
+11720015,2023-08-08,Mask synthesis using design guided offsets,0,G03F|G06T
+11710634,2023-07-25,Fabrication technique for forming ultra-high density integrated circuit components,0,G03F|H01L|H10B|H10D
+11709984,2023-07-25,Automatic sequential retry on compilation failure,0,G06F
+11705986,2023-07-18,Hardware based cyclic redundancy check (CRC) re-calculator for timestamped frames over a data bus,0,H04L
+11704471,2023-07-18,Three-dimensional mask simulations based on feature images,1,G03F|G06F
+11704467,2023-07-18,Automated balanced global clock tree synthesis in multi level physical hierarchy,0,G06F
+11694016,2023-07-04,Fast topology bus router for interconnect planning,0,G06F|Y02P
+11694010,2023-07-04,Reformatting scan patterns in presence of hold type pipelines,0,G01R|G06F
+11681848,2023-06-20,On-the-fly multi-bit flip flop generation,0,G06F
+11681842,2023-06-20,Latency offset in pre-clock tree synthesis modeling,0,G06F
+11675726,2023-06-13,Interconnect repeater planning and implementation flow for abutting designs,0,G06F
+11669667,2023-06-06,Automatic test pattern generation (ATPG) for parametric faults,0,G06F|G06N
+11669665,2023-06-06,Application-specific integrated circuit (ASIC) synthesis based on lookup table (LUT) mapping and optimization,0,G06F|H03K
+11665031,2023-05-30,Tuning analog front end response for jitter tolerance margins,1,H04B|H04L
+11663485,2023-05-30,Classification of patterns in an electronic circuit layout using machine learning based encoding,0,G06N
+11663384,2023-05-30,Timing modeling of multi-stage cells using both behavioral and structural models,0,G06F
+11662383,2023-05-30,High-speed functional protocol based test and debug,0,G01R|G06F
+11657207,2023-05-23,Wafer sensitivity determination and communication,0,G03F|G06F
+11657205,2023-05-23,"Construction, modeling, and mapping of multi-output cells",0,G06F
+11651830,2023-05-16,Low latency decoder for error correcting codes,0,G06F|G11C|H03M
+11651135,2023-05-16,Dose optimization techniques for mask synthesis tools,0,G03F|G06F
+11651131,2023-05-16,Glitch source identification and ranking,0,G06F
+11651129,2023-05-16,Selecting a subset of training data from a data pool for a power prediction model,1,G06F|G06N
+11644747,2023-05-09,Obtaining a mask using a cost function gradient from a jacobian matrix generated from a perturbation look-up table,0,G03F|G06F
+11644746,2023-05-09,Inverse etch model for mask synthesis,0,G03F|G06F
+11641268,2023-05-02,Asynchronous chip-to-chip communication,0,G06F|H03M|H04L
+11640490,2023-05-02,Source mask optimization by process defects prediction,1,G03F|G06F
+11636388,2023-04-25,Machine learning-based algorithm to accurately predict detail-route DRVS for efficient design closure at advanced technology nodes,5,G06F|G06N
+11636244,2023-04-25,Performance tuning of a hardware description language simulator,0,G06F
+11630934,2023-04-18,Integrated circuit analysis using a multi-level data hierarchy implemented on a distributed compute and data infrastructure,0,G06F
+11620427,2023-04-04,Pattern based die connector assignment using machine learning image recognition,0,G06F|G06N|G06V
+11620424,2023-04-04,Transistor—level defect coverage and defect simulation,1,G06F
+11615225,2023-03-28,Logic simulation of circuit designs using on-the-fly bit reduction for constraint solving,0,G06F
+11601462,2023-03-07,Systems and methods of intelligent and directed dynamic application security testing,1,G06F|G06N|H04L
+11599185,2023-03-07,Internet of things (IoT) power and performance management technique and circuit methodology,0,G06F|Y02D
+11593543,2023-02-28,Glitch power analysis with register transfer level vectors,1,G06F
+11586796,2023-02-21,Keep-through regions for handling end-of-line rules in routing,0,G06F
+11579994,2023-02-14,Fast and scalable methodology for analog defect detectability analysis,1,G01R|G06F
+11579890,2023-02-14,Frame parser executing subsets of instructions in parallel for processing a frame header,0,G06F|H04L
+11573873,2023-02-07,Adaptive cell-aware test model for circuit diagnosis,0,G01R|G06F
+11569806,2023-01-31,Duty cycle adjustment circuit with independent range and step size control,0,G06F|H03K
+11568130,2023-01-31,Discovering contextualized placeholder variables in template code,1,G06F|H04L
+11568127,2023-01-31,Mask rule checking for curvilinear masks for electronic circuits,0,G03F|G06F|G06T
+11568117,2023-01-31,Generating simulation-friendly compact physical models for passive structures,0,G06F
+11561256,2023-01-24,Correlation between emission spots utilizing CAD data in combination with emission microscope images,0,G01N|G01R|G06F|H01J|H01L
+11556689,2023-01-17,Layout of photonic integrated circuits using fixed coordinate grids,0,G02B|G06F
+11556676,2023-01-17,Scalable formal security verification of circuit designs,0,G06F
+11556406,2023-01-17,Automatic root cause analysis of complex static violations by static information repository exploration,0,G05B|G06F|H04L
+11556052,2023-01-17,Using mask fabrication models in correction of lithographic masks,0,G03F|H01L
+11550979,2023-01-10,Implementing and verifying safety measures in a system design based on safety specification generated from safety requirements,1,G06F
+11544435,2023-01-03,On-the-fly computation of analog mixed-signal (AMS) measurements,0,G06F
+11537775,2022-12-27,Timing and placement co-optimization for engineering change order (ECO) cells,0,G06F
+11531797,2022-12-20,Vector generation for maximum instantaneous peak power,1,G06F
+11527298,2022-12-13,On-chip memory diagnostics,1,G06F|G11C
+11526642,2022-12-13,Clock network power estimation for logical designs,1,G06F
+11526641,2022-12-13,Formal gated clock conversion for field programmable gate array (FPGA) synthesis,0,G06F
+11521985,2022-12-06,Electro-thermal method to manufacture monocrystalline vertically oriented silicon channels for three-dimensional (3D) NAND memories,0,H01L|H10B|H10D
+11520962,2022-12-06,Accurately calculating multi-input switching delay of complemantary-metal-oxide semiconductor gates,0,G06F|H03K
+11514209,2022-11-29,Semiconductor digital logic circuitry for non-quantum enablement of quantum algorithms,2,G06F|G06N
+11507719,2022-11-22,Accelerating formal property verification across design versions using sequential equivalence checking,1,G06F
+11501050,2022-11-15,Analog mixed-signal assertion-based checker system,2,G06F
+11501048,2022-11-15,Estimating hardness of formal properties using on-the-fly machine learning,0,G06F|G06N
+11494539,2022-11-08,Dynamic random-access memory pass transistors with statistical variations in leakage currents,0,G06F|G11C|H10B
+11494199,2022-11-08,Knob refinement techniques,0,G06F
+11493971,2022-11-08,Power estimation system,0,G01R|G06F
+11491648,2022-11-08,Robotic systems and corresponding methods for engaging server back-plane connectors,0,B25J|G06F|H05K
+11487930,2022-11-01,Pattern matching using anchors during integrated circuit verification,0,G06F
+11475293,2022-10-18,Learning-based toggle estimation,1,G06F|G06N
+11475201,2022-10-18,Inclusion of stochastic behavior in source mask optimization,2,G03F|G06F
+11475197,2022-10-18,Hardware simulation systems and methods for identifying state-holding loops and oscillating loops,1,G06F
+11469741,2022-10-11,Circuit for improving edge-rates in voltage-mode transmitters,0,H03K|H04B|H04L
+11468222,2022-10-11,Stochastic signal prediction in compact modeling,2,G03F|G06F
+11468218,2022-10-11,Information theoretic subgraph caching,0,G06F
+11467851,2022-10-11,Machine learning (ML)-based static verification for derived hardware-design elements,2,G06F|G06N
+11461523,2022-10-04,Glitch analysis and glitch power estimation system,3,G06F
+11449660,2022-09-20,Method to perform secondary-PG aware buffering in IC design flow,1,G06F
+11449659,2022-09-20,Lithography-based pattern optimization,0,G06F
+11443092,2022-09-13,Defect weight formulas for analog defect simulation,0,G06F
+11443087,2022-09-13,System and method for power analysis for design logic circuit with irregular clock,0,G06F
+11429768,2022-08-30,Register transfer level (RTL) image recognition,0,G06F
+11429181,2022-08-30,Techniques for self-tuning of computing systems,0,G06F|Y02D
+11424903,2022-08-23,Drift tracking using an analog delay line during clock-data recovery,0,H03K|H04L
+11422799,2022-08-23,Organizing software packages based on identification of unique attributes,1,G06F|G06N
+11416661,2022-08-16,Automatic derivation of integrated circuit cell mapping rules in an engineering change order flow,0,G03F|G06F
+11403564,2022-08-02,Lithographic hotspot detection using multiple machine learning kernels,4,G03F|G06F|G06N|G06T
+11403454,2022-08-02,Placement and simulation of cell in proximity to cell with diffusion break,1,G06F
+11403452,2022-08-02,Logic yield learning vehicle with phased design windows,0,G06F|Y02P
+11403450,2022-08-02,Convergence centric coverage for clock domain crossing (CDC) jitter in simulation,0,G01R|G06F
+11402742,2022-08-02,Undercut EUV absorber reflective contrast enhancement,0,G03F|G21K|H01L
+11397840,2022-07-26,Edge placement errors for optical lithography,0,G03F|G06F
+11386250,2022-07-12,Detecting timing violations in emulation using field programmable gate array (FPGA) reprogramming,0,G06F
+11379649,2022-07-05,Advanced cell-aware fault model for yield analysis and physical failure analysis,0,G06F
+11378742,2022-07-05,Visual representation of different structure ports in schematics of photonic integrated circuits,0,G02B|G06F
+11366948,2022-06-21,Machine-learning enhanced compiler,0,G06F
+11366672,2022-06-21,Optimization of application level parallelism,0,G06F
+11361140,2022-06-14,Routing for length-matched nets in interposer designs,0,G06F
+11361139,2022-06-14,Continuous global representation of local data using effective areas in integrated circuit layouts,1,G06F
+11361135,2022-06-14,Guiding sample size choice in analog defect or fault simulation,0,G06F
+11360382,2022-06-14,Enforcing mask synthesis consistency across random areas of integrated circuit chips,1,G03F|G06F
+11348017,2022-05-31,"Machine learning method and framework for optimizing setups for accurate, speedy and robust TCAD simulations",3,G06F|G06N
+11347917,2022-05-31,Determining and verifying metastability in clock domain crossings,0,G06F
+11343110,2022-05-24,Phantom object reporting in a power-and-ground router,0,G06F|H04L
+11342921,2022-05-24,Single flux quantum buffer circuit,1,G06N|H03K
+11342919,2022-05-24,Complementary asynchronous single flux quantum circuits,2,G06N|H03K
+11341416,2022-05-24,Bit-level learning for word-level constraint solving,0,G06F|G06N
+11341310,2022-05-24,Layout-versus-schematic (LVS) debugging and error diagnosis via type of graph matching,0,G06F
+11334705,2022-05-17,Electrical circuit design using cells with metal lines,0,G06F|H10D
+11334700,2022-05-17,Comprehensive thermal mapping of an electronic circuit design through design simulation,2,G06F
+11334698,2022-05-17,Cell-aware defect characterization by considering inter-cell timing,0,G06F
+11328873,2022-05-10,Parallel plate capacitor resistance modeling and extraction,0,G06F|H01G|H10D
+11328109,2022-05-10,Refining multi-bit flip flops mapping without explicit de-banking and re-banking,0,G06F
+11327790,2022-05-10,Event-level parallel simulation using dynamic synchronization,1,G06F
+11308253,2022-04-19,Partitioning in post-layout circuit simulation,1,G06F
+11301614,2022-04-12,Feasibility analysis of engineering change orders,0,G06F
+11300614,2022-04-12,Save and restore register,0,G01R|G06F
+11295052,2022-04-05,Time correlation in hybrid emulation system,0,G06F|Y02P
+11288428,2022-03-29,Integrated circuit design modification for localization of scan chain defects,3,G01R|G06F
+11288427,2022-03-29,"Automated root-cause analysis, visualization, and debugging of static verification results",0,G06F|G06N|G06T
+11288426,2022-03-29,Analyzing delay variations and transition time variations for electronic circuits,0,G06F
+11275877,2022-03-15,Hardware simulation systems and methods for reducing signal dumping time and size by fast dynamical partial aliasing of signals having similar waveform,0,G06F|H04L
+11264458,2022-03-01,Crystal orientation engineering to achieve consistent nanowire shapes,0,B82Y|H01L|H10D
+11256845,2022-02-22,Machine-learning driven prediction in integrated circuit design,2,G06F|G06N
+11251973,2022-02-15,Efficient calculation of ED25519/448 signature verification in an encryption device,0,G06F|H04L
+11249813,2022-02-15,Adaptive parallelization for multi-scale simulation,0,G06F
+11238202,2022-02-01,Verifying glitches in reset path using formal verification and simulation,0,G06F
+11233516,2022-01-25,Single flux quantum circuit that includes a sequencing circuit,3,G06N|H03K
+11232174,2022-01-25,SAT solver based on interpretation and truth table analysis,1,G06F|G06N
+11231462,2022-01-25,Augmenting an integrated circuit (IC) design simulation model to improve performance during verification,1,G01R|G06F
+11223469,2022-01-11,System for serializing high speed data signals,0,H03M|H04J|H04L
+11222160,2022-01-11,Mask rule checking for curvilinear masks for electronic circuits,0,G03F|G06F|G06T
+11222155,2022-01-11,Method and apparatus for reducing pessimism of graph based static timing analysis,1,G06F
+11222154,2022-01-11,State table complexity reduction in a hierarchical verification flow,0,G06F
+11221864,2022-01-11,Combinatorial and sequential logic compaction in electronic circuit design emulation,0,G06F
+11210448,2021-12-28,Mitigating timing yield loss due to high-sigma rare-event process variation,1,G06F
+11200362,2021-12-14,3D resist profile aware resolution enhancement techniques,0,G03F|G06F
+11200149,2021-12-14,Waveform based reconstruction for emulation,0,G06F
+11200127,2021-12-14,Automated self-check of a closed loop emulation replay,0,G06F
+11194949,2021-12-07,Predictor-guided cell spreader to improve routability for designs at advanced process nodes,4,G06F|G06N
+11194943,2021-12-07,FPGA-based hardware emulator system with an inter-FPGA connection switch,0,G06F
+11188705,2021-11-30,Pin accessibility prediction engine,0,G06F|G06N
+11188699,2021-11-30,Placement and routing of cells using cell-level layout-dependent stress effects,0,G06F
+11188695,2021-11-30,Unified functional coverage and synthesis flow for formal verification and emulation,0,G06F
+11188508,2021-11-30,High-performance learning-ready platform for real-time analytics,2,G06F|G06N
+11176306,2021-11-16,Methods and systems to perform automated Integrated Fan-Out wafer level package routing,0,G06F|H01L
+11176293,2021-11-16,Method and system for emulation clock tree reduction,0,G06F
+11152313,2021-10-19,Using threading dislocations in GaN/Si systems to generate physically unclonable functions,0,G06F|H01L|H04L|H10B|H10D
+11151294,2021-10-19,Emulated register access in hybrid emulation,0,G06F
+11145344,2021-10-12,One time programmable anti-fuse physical unclonable function,1,G11C|H04L
+11144703,2021-10-12,Smart repeater design for on-route repeater planning for bus,1,G06F
+11144700,2021-10-12,Grouping nets to facilitate repeater insertion,0,G06F
+11144690,2021-10-12,Extensible layer mapping for in-design verification,0,G06F
+11139402,2021-10-05,Crystal orientation engineering to achieve consistent nanowire shapes,2,B82Y|H01L|H10D
+11138356,2021-10-05,Dedicated reconfigurable IP for emulation-based power estimation,0,G06F
+11132491,2021-09-28,DRC processing tool for early stage IC layout designs,0,G06F
+11132484,2021-09-28,Controlling clocks and resets in a logic built in self-test,0,G01R|G06F
+11126782,2021-09-21,Applying reticle enhancement technique recipes based on failure modes predicted by an artificial neural network,0,G03F|G06F|G06N|Y02P
+11126780,2021-09-21,Automatic net grouping and routing,2,G06F
+11120184,2021-09-14,Satisfiability sweeping for synthesis,0,G06F
+11113440,2021-09-07,Memory migration in hybrid emulation,1,G06F
+11108803,2021-08-31,Determining security vulnerabilities in application programming interfaces,0,H04L
+11106663,2021-08-31,Speeding matching search of hierarchical name structures,0,G06F
+11100271,2021-08-24,Seamless transition between routing modes,0,G06F
+11100270,2021-08-24,Pattern based die connector assignment using machine learning image recognition,0,G06F|G06N|G06V
+11093680,2021-08-17,Design-prioritized mask correction,2,G06F|Y02P
+11093673,2021-08-17,Three-dimensional NoC reliability evaluation,1,G06F
+11088705,2021-08-10,Phase-shifting encoding for signal transition minimization,0,H03M|H04L
+11087059,2021-08-10,Clock domain crossing verification of integrated circuit design using parameter inference,0,G06F
+11080450,2021-08-03,Calculating inductance based on a netlist,0,G06F
+11080446,2021-08-03,Method to regulate clock frequencies of hybrid electronic systems,0,G06F
+11079790,2021-08-03,Semiconductor digital logic circuitry for non-quantum enablement of quantum algorithms,3,B82Y|G06F|G06N|H03L
+11068631,2021-07-20,First principles design automation tool,1,G06F
+11061767,2021-07-13,Post-ECC CRC for DDR CRC retry performance improvement,2,G06F|G11C
+11061321,2021-07-13,Obtaining a mask using a cost function gradient from a Jacobian matrix generated from a perturbation look-up table,1,G03F|G06F
+11048798,2021-06-29,Method for detecting libraries in program binaries,0,G06F|G06N
+11042806,2021-06-22,Deep learning for fixability prediction of power/ground via DRC violations,8,G06F|G06N
+11036907,2021-06-15,Automatic testbench generator for test-pattern validation,2,G01R|G06F
+11030375,2021-06-08,Capturing routing intent by using a multi-level route pattern description language,1,G06F
+11030318,2021-06-08,Interactive verification of security vulnerability detections using runtime application traffic,9,G06F|H04L
+11023639,2021-06-01,Systems and methods for providing approximate electronic-structure models from calculated band structure data,2,G06F
+11023635,2021-06-01,Sequence of frames generated by emulation and waveform reconstruction using the sequence of frames,1,G01R|G06F
+11023310,2021-06-01,Detection of address errors in memory devices using multi-segment error detection codes,1,G06F|G11C
+11022634,2021-06-01,Rail block context generation for block-level rail voltage drop analysis,2,G01R|G06F
+11018016,2021-05-25,Hybrid evolutionary algorithm for triple-patterning,0,G03F|H01L
+11010528,2021-05-18,Knowledge-based analog layout generator,1,G06F
+11010522,2021-05-18,Efficient mechanism for interactive fault analysis in formal verification environment,4,G06F
+11010511,2021-05-18,Scalable boolean methods in a modern synthesis flow,1,G06F
+11003819,2021-05-11,Method to enable multiple users of embedded-software debug to share a single hardware resource,1,G06F
+10996966,2021-05-04,Recording and recreating interface navigation processes based on a whitelist generated by a machine-learned model,0,G06F|G06N
+10990743,2021-04-27,Creating gateway model routing sub-templates,0,G06F
+10990735,2021-04-27,System and method for generating a cluster-based power architecture user interface,0,G06F
+10990722,2021-04-27,FinFET cell architecture with insulator structure,1,G06F|H01L|H10D
+10990077,2021-04-27,Electronic virtual layer,0,G05B|G06F|H10D|Y02P
+10985761,2021-04-20,Fractional divider,1,H03K|H04B|H04L
+10983725,2021-04-20,Memory array architectures for memory queues,0,G06F|G11C
+10972105,2021-04-06,Clock generation and correction circuit,0,G06F|H03L
+10970456,2021-04-06,Identifying root cause of layout versus schematic errors,0,G06F|Y02P
+10970443,2021-04-06,"Generation of module and system-level waveform signatures to verify, regression test and debug SoC functionality",0,G06F|H03M
+10970004,2021-04-06,Method and apparatus for USB periodic scheduling optimization,0,G06F
+10962595,2021-03-30,Efficient realization of coverage collection in emulation,0,G01R|G06F
+10949591,2021-03-16,Hardware based state signature generation and check for test and debug of semiconductor circuit functionality,2,G06F|H03M
+10949589,2021-03-16,Method for compression of emulation time line in presence of dynamic re-programming of clocks,0,G06F
+10949588,2021-03-16,"High speed, low hardware footprint waveform",2,G06F
+10944406,2021-03-09,Clock and data recovery using closed-loop clock alignment and duplicate sampling clock,3,H03L|H04L
+10929177,2021-02-23,Managing resources for multiple trial distributed processing tasks,0,G06F
+10922467,2021-02-16,Methodology using Fin-FET transistors,0,G06F
+10922458,2021-02-16,Dynamic bridging of interface protocols,0,G06F
+10915683,2021-02-09,Methodology to create constraints and leverage formal coverage analyzer to achieve faster code coverage closure for an electronic structure,5,G06F
+10915031,2021-02-09,Optical source compensation,0,G03F|G06F
+10914762,2021-02-09,Ground offset monitor and compensator,0,G01R|G06F|H04L
+10909300,2021-02-02,Creating and reusing customizable structured interconnects,0,G06F

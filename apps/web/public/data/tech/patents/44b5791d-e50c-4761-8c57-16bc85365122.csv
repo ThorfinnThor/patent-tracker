@@ -1,0 +1,1011 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432086,2025-09-30,"Vehicle control system, control method, electronic device, and recording medium",0,H04J|H04L
+12430814,2025-09-30,"Image generation method and apparatus, and storage medium",0,G06T
+12426220,2025-09-23,Water jacket,0,B33Y|H01L|H05K
+12425101,2025-09-23,Robot,0,B25J|G05B|G06N|H04B
+12424851,2025-09-23,"Management system, non-transitory computer readable medium, management method, and management server",0,G06F|G06Q|H02J
+12423842,2025-09-23,Information processing method and storage medium for estimating camera pose using machine learning model,0,G06T
+12419214,2025-09-23,Utility vehicle,0,A01D|G05D|G06Q
+12418712,2025-09-16,Camera assembly for vehicle and vehicle including same,0,B32B|B60J|B60R|H04N
+12418548,2025-09-16,"Illegal signal detection apparatus, vehicle, and illegal signal detection method",0,H04L
+12415514,2025-09-16,"Vehicle control device, vehicle control method, and storage medium for determining the lane to which an object in the vicinity of a vehicle belongs",0,B60W|G06T|G06V
+12413851,2025-09-09,Inspection device and inspection method,0,H04N
+12413605,2025-09-09,"Signal detection apparatus, vehicle, and method",0,H04L
+12413552,2025-09-09,In-vehicle control apparatus,0,G06F|H04L
+12409809,2025-09-09,Remote control of vehicle features based on tactile gestures on electronic device,0,B60H|B60K|B60R|E05F|E05Y|G06F
+12406581,2025-09-02,"Position information output method, position information output system, and program",0,G08G|H04W
+12406292,2025-09-02,Apparatuses and methods for sunlight assessment at a location,0,A01G|G01W|G06Q|G06T|G06V
+12405366,2025-09-02,Sensor network,0,G01S|G08C|H04L|H04M|H04Q
+12403818,2025-09-02,Illumination device for vehicle,0,B60Q|G06F
+12403593,2025-09-02,Model parameter learning method,0,B25J|G05B|G05D|G06N
+12400492,2025-08-26,Information processing apparatus and storage medium,0,B60W|G06Q|G07C
+12400459,2025-08-26,Dirt detection system for vehicle-mounted camera and vehicle provided with the dirt detection system,0,G06T|G06V
+12400301,2025-08-26,"Image generation method and apparatus, device, and storage medium",0,G06T
+12397713,2025-08-26,Drive assistance system,0,B60R|G06T|G06V|G08G
+12397674,2025-08-26,"Information generation device, information generation method, program, and recording medium",0,B60L|G06Q|Y02T|Y04S
+12397438,2025-08-26,"Behavior control device, behavior control method, and program",0,B25J|G05B|G06F|G06N|G06V|G10L
+12395500,2025-08-19,"In-vehicle equipment, vehicle, and method",0,B60R|H04L
+12395281,2025-08-19,HARQ ID for consecutive uplink subframes in a wireless device,0,H04L|H04W
+12394255,2025-08-19,"Driving assistance apparatus, recording medium having driving assistance program recorded thereon, and driving assistance method",0,B60K|G06T|G07C
+12394212,2025-08-19,"Warning control apparatus, moving object, warning control method, and computer-readable storage medium",0,G06T|G06V|G08G
+12394114,2025-08-19,Control system of working machine and control method of working machine,0,G05D|G06T
+12393888,2025-08-19,Multi-objective electric vehicle charging scheduler with configurable objective hierarchy,0,G06Q
+12393769,2025-08-19,Data generation device,0,G06F|G10L
+12386890,2025-08-12,Plausible action anticipation using large video-language models,0,G06F
+12384388,2025-08-12,"Driving assistance device, vehicle, and driving assistance method",0,B60K|B60W|G06F
+12384382,2025-08-12,Information providing device,0,B60W|G01C|G06Q
+12381661,2025-08-05,Uplink grant for consecutive uplink subframes in a wireless device,0,H04L|H04W
+12381275,2025-08-05,Stretchable and flexible lithium ion battery,0,A44C|A45F|G06F|H01M|H04B|Y02E|Y02P
+12379757,2025-08-05,"Information processing apparatus, method for controlling information processing apparatus, and storage medium",0,G06F|H01M
+12377863,2025-08-05,System and method for future forecasting using action priors,0,B60W|G06T|G06V
+12371072,2025-07-29,Operator take-over prediction,0,B60W|G06F|G06N
+12371014,2025-07-29,"Mobile object control device, mobile object control method, and storage medium",0,B60W|G06F|G06T|G06V
+12369226,2025-07-22,"Wireless base station, communication system, computer readable storage medium, control method, and wireless communication device",0,H04W
+12368771,2025-07-22,"Adapter device, file exchange system, file exchange method, and computer-readable non-transitory storage medium with program stored therein",0,G06F|H04L
+12367773,2025-07-22,"Control system, control method, and storage medium for storing program to control the operation of a mobile device",0,B60W|G06Q|G06V|G08G|G10L|H04W
+12367533,2025-07-22,Battery management system and battery management method,0,G06Q|H02J
+12361759,2025-07-15,Control apparatus allowing a user to input operations,0,B60K|G06F|G06V
+12361721,2025-07-15,Image processing apparatus for estimating vehicle spatial motion,0,G06T|G06V
+12361458,2025-07-15,"Rental fee calculation device, rental fee calculation method, and rental fee calculation program",0,G06Q
+12358369,2025-07-15,Vehicle human machine interface generating system and method for generating the same,0,B60K|B60W|G06N
+12353212,2025-07-08,"Control device, control method, and storage medium",0,G05D|G06T|G06V
+12352815,2025-07-08,Battery information management system and battery information management method,0,G01R|G06F|H01M
+12347091,2025-07-01,Teacher data generating method and generating device,0,G06T
+12346682,2025-07-01,Function management system and function management method,0,G06F|G06Q
+12344190,2025-07-01,"Vehicle control device, vehicle control method, and storage medium",0,B60R|G06T|G06V|H04N
+12342104,2025-06-24,Integrated display for electrified vehicle charge port,0,B60L|G06Q|G06V|H02J|H04N|Y02T
+12340592,2025-06-24,"Vehicle control device, vehicle control method, and storage medium",0,B60W|G06T|G06V
+12339356,2025-06-24,Traffic control device including a distance detector,0,B60R|G01B|G01S|H04W
+12332655,2025-06-17,Work management device and work management method,0,G05D|G06Q
+12328514,2025-06-10,"Image processing device, and image processing method",0,G03B|G06F|G06T|G06V|G11B|H04N
+12327173,2025-06-10,Sensor fusion,0,G06N
+12327105,2025-06-10,"Software update control apparatus, vehicle, computer-readable storage medium, and software update control method",0,B60W|G06F
+12315308,2025-05-27,"Server apparatus, vehicle, and method for managing a plurality of vehicles executing work in a predetermined area",0,G01M|G07C|G08B|G08G|H04L
+12314630,2025-05-27,"Place information management device, content delivery system, and place information management method",0,G06F|G06V
+12311962,2025-05-27,Abnormality detection device and abnormality detection program,0,B60W|G01M|G05B|G06N
+12309314,2025-05-20,"Display control device, display control method, and recording medium having display control program recorded thereon",0,G06F|H04M
+12308984,2025-05-20,Communication system which determines a communication fee or a monetary amount of reward,0,H04L|H04M|H04W
+12308685,2025-05-20,"Charging control apparatus, moving body, charging control system, and charging control method",0,B60L|G06Q|H02J
+12308023,2025-05-20,"Conversation support device, conversation support system, conversation support method, and storage medium",0,G06F|G10L|H04L
+12307893,2025-05-20,Driving assistance apparatus,0,D21D|G06F|G08G|G09G
+12307831,2025-05-20,"Communication device, communication method, and computer program",0,G07C|H04L
+12307830,2025-05-20,Vehicle communication system,0,G07C|H04L
+12307705,2025-05-20,"Image capturing system, control device, control method, and storage medium",0,B64U|G03B|G05D|G06T|G06V|H04N
+12307430,2025-05-20,"Traveling body, payment management system, and vehicle",0,B60L|G05D|G06Q|G07B|G07F
+12304527,2025-05-20,"Vehicle control device, vehicle control method, and storage medium",0,B60W|G06N|G06V|G08G
+12304394,2025-05-20,Virtual image display device,0,B60R|G06F|G06V|G09G
+12304306,2025-05-20,"Display control device, display control method, and recording medium having display control program recorded thereon",0,B60K|G06F
+12299720,2025-05-13,"System, method, and computer-readable storage medium",0,G06Q
+12298896,2025-05-13,"Information processing device, information processing method, and non-transitory storage medium",0,G06F
+12293658,2025-05-06,"Reproduction system, reproduction method, and storage medium",0,B60R|G06T|G08G|H04N
+12293397,2025-05-06,Energy management system,0,G06Q
+12288251,2025-04-29,"Management server, and control method of management server",0,B60L|G06Q
+12287410,2025-04-29,Vehicle and vehicle system,0,G01S|H04B|H04W
+12283141,2025-04-22,Information processing apparatus and method for estimating a degradation degree based on obtained history information,0,B60W|B62D|G06Q|G07C
+12283067,2025-04-22,Distance measuring apparatus and distance measuring method,0,G06T|G06V
+12282329,2025-04-22,"Route determination system, mobile object, and recording medium",0,G05D|G06Q
+12277521,2025-04-15,"Information processing apparatus, work management system, and work management method",0,A01D|G06Q|G06T|H04L
+12275421,2025-04-15,"Vehicle control system, vehicle, and control method",0,B60W|H04L
+12273762,2025-04-08,Primary PUCCH TPC index and a secondary PUCCH TPC index in a wireless network,0,H04L|H04W|Y02D
+12272242,2025-04-08,Systems and methods for use in determining parking spot allocation,0,G08G|H04W
+12272075,2025-04-08,"Information processing apparatus, information processing method, and storage medium for estimating movement amount of moving object",0,B60W|G06T|G06V
+12271961,2025-04-08,Power trading system and power trading method,0,G06Q
+12271203,2025-04-08,"Search system, search method, and storage medium",0,G05D|G06Q|G06V|H04N
+12269248,2025-04-08,Film peeling apparatus and film peeling method,0,B32B|H01L|H01M|Y02E|Y10T
+12267323,2025-04-01,"Vehicle authentication control apparatus, vehicle control system, vehicle, and vehicle authentication processing method to improve security while avoiding increase of in-vehicle communication traffic",0,B60R|H04L|H04W
+12266266,2025-04-01,"Mobile object management device, mobile object management method, and storage medium",0,B60Q|B62K|G05D|G06Q|G08G|H04W
+12266087,2025-04-01,"Control device and control method for mobile object, storage medium, and vehicle",0,B60R|G06T
+12265810,2025-04-01,Vehicle control system and program writing method,0,B60R|G06F
+12263844,2025-04-01,Road surface evaluation apparatus,0,B60W|E01C|G01B|G01C|G01N|G08G|H04W
+12262283,2025-03-25,Personal mobility device usage-recommendation based on user activity tracking,0,G01C|G06N|H04W
+12260581,2025-03-25,Distance calculation apparatus and vehicle position estimation apparatus,0,G06T|G06V
+12260503,2025-03-25,Facilitating transactions between users in a virtual world environment,0,G06F|G06Q|G06T
+12259999,2025-03-25,"Information management device, information management system and information management method",0,G06F|G06Q|H04L
+12258047,2025-03-25,System and method for providing long term and key intentions for trajectory prediction,0,B60W|G01S|G06T
+12254776,2025-03-18,Control system of vehicle,0,B60L|G06Q|G08G|Y02T
+12254596,2025-03-18,Information processing apparatus and information processing method,0,G06T
+12252171,2025-03-18,"Information terminal, control method, and computer-readable recording medium",0,B60W|B62D|G05D|G06F|H04M
+12251631,2025-03-18,Game theoretic decision making,0,A63F|B60W|G06N
+12249240,2025-03-11,"Communication device, vehicle, computer-readable storage medium, and communication method",0,G01S|G06V|G08G|H04W
+12249164,2025-03-11,"Training device, training method, storage medium, and object detection device",0,B60W|G06F|G06V
+12244165,2025-03-04,"Selecting device, selecting method and computer readable storage medium",0,G06Q|H02J
+12242263,2025-03-04,"Information processing apparatus, mobile object, computer readable storage medium and information processing method",0,G05D|H04L
+12242084,2025-03-04,"Control device, control method, and recording medium",0,G02B|G06T
+12240570,2025-03-04,"Ship assistance device, ship assistance method, and storage medium",0,B63B|B63H|G05D|G06T
+12240479,2025-03-04,Mobile object control device and mobile object control method,0,B60W|G06V|G08G|H04W
+12238814,2025-02-25,Wireless communication system,0,H04W
+12238553,2025-02-25,"Communication control apparatus, movable object, communication control method, and computer readable storage medium",0,H04W
+12238360,2025-02-25,"Information processing device, information processing method, and storage medium",0,H04N
+12236561,2025-02-25,"Mirror distortion correction apparatus, method, storage medium, and vehicle control apparatus",0,G06T|G06V
+12236455,2025-02-25,"Communication device, computer-readable storage medium, and system",0,G06Q|H04W
+12236225,2025-02-25,Identifying a limited function of a mobile object during update of a mobile object control unit,0,B60L|G06F
+12236009,2025-02-25,"Calibration device, calibration method, drive recorder, vehicle, and storage medium",0,G06F|G06V
+12235325,2025-02-25,"Learning method and open circuit voltage estimation method of open circuit voltage estimation model of secondary battery, and state estimation method of secondary battery",0,G01R|G06F|G06N
+12231484,2025-02-18,Communication system and gripping system,0,B25J|G05B|H04L
+12231348,2025-02-18,"Communication control apparatus, communication system, communication control method, and storage medium for determining whether to permit data transmission",0,H04L|H04W
+12231213,2025-02-18,"Control device, wireless relay device, computer readable storage medium, and control method",0,H04B|H04W
+12229693,2025-02-18,Systems and methods for dynamic charger reservations,0,B60L|G06Q|H04W|Y02T
+12228933,2025-02-18,"Autonomous work machine, control device, autonomous work machine control method, control device operation method, and storage medium",0,A01D|G05D|G06T|G06V
+12227202,2025-02-18,Adaptive trust calibration,1,B60W|G06F
+12227178,2025-02-18,"Vehicle control device, vehicle control method, and storage medium",0,B60K|B60W|G01S|G06T|G06V
+12225428,2025-02-11,Vehicle control device and vehicle control method,0,G07C|H04B|H04W
+12225282,2025-02-11,"Imaging system, guidance control method, and storage medium",0,G01C|G06Q|H04N
+12224609,2025-02-11,"Power output device, power input device, and power output/input device",2,G06F|H02B|H02J|H05K|Y02E
+12220993,2025-02-11,"Vehicle, server device, display control method, and program",0,B60K|B60L|G06F|G09G|H01M|H02J|H04L|Y02E|Y02T|Y04S
+12217044,2025-02-04,System and method for providing enriched connected vehicle mobility communication,0,G06F|G16Y
+12216475,2025-02-04,Autonomous vehicle object classifier method and system,0,B60W|G01S|G05D|G06F|G06N|G06V
+12212644,2025-01-28,"Vehicle control system, control method, electronic device, and recording medium",1,H04J|H04L
+12211327,2025-01-28,Inspection apparatus and inspection method,0,G07C|H04L
+12211321,2025-01-28,"Vehicle diagnosis method, vehicle diagnosis system, and external diagnosis device",0,G01M|G06Q|G07C|Y02P
+12211318,2025-01-28,"Processing apparatus, mobile object, processing method, and storage medium",0,G06T|G06V
+12210965,2025-01-28,Interpretable autonomous driving system and method thereof,0,B60W|G01C|G06N
+12208793,2025-01-28,"Driving assistance device, vehicle, and driving assistance method",0,B60W|H04W
+12208701,2025-01-28,System and method for identifying an electric vehicle through alternating current electric charging,0,B60L|H02J|H04L|Y02T
+12205122,2025-01-21,"Customer service system, server, control method, and storage medium",0,G06Q|G10L
+12204583,2025-01-21,Recommending new musical tracks for playlists,0,G06F
+12202560,2025-01-21,Vehicle body transport system,0,B62D|G05D|G06T
+12202372,2025-01-21,Systems and methods for selecting a charging entity based on occupancy status,3,B60L|G06Q|Y02T
+12200341,2025-01-14,"Control device, operation method for control device, and storage medium",0,B60R|H04N
+12199792,2025-01-14,Inspection apparatus and inspection method,0,H04L
+12197214,2025-01-14,System and method for completing continual multi-agent trajectory forecasting,0,B60W|G01S|G05D|G06N|G08G
+12194998,2025-01-14,Vehicle control apparatus,0,B60T|B60W|G06T|G06V
+12194879,2025-01-14,Systems and methods for flexible charger reservations,0,B60L|G06Q|H04W|Y02T
+12190732,2025-01-07,"Control apparatus, movable object, control method, and terminal",0,B60W|G06V|G08G|H04W
+12190096,2025-01-07,Vehicular software update management system and execution by electronic control unit,0,B60W|G06F
+12190092,2025-01-07,Control device and terminal device,0,B60W|G06F|G07C
+12187170,2025-01-07,"Movable body control device, movable body, movable body management system, movable body control method, and program",0,B60N|G05D|G06Q
+12179801,2024-12-31,"Information processing apparatus, mobile object, control method thereof, and storage medium",0,B60W|G06F|G06V|G10L|H04W
+12177750,2024-12-24,"Communication control device, mobile object, communication control method, and computer-readable storage medium to control, communication path using direct communication between mobile objects",0,H04L|H04W
+12175768,2024-12-24,"Control apparatus, moving object, control method, and computer-readable storage medium",0,G06T|G06V|G08G
+12175766,2024-12-24,"Information processing apparatus, vehicle, and storage medium",0,B60W|G06N|G06V
+12175236,2024-12-24,Operation management device and operation management method,0,B60W|G06F
+12174678,2024-12-24,"Information processing device, computer-readable storage medium, and information processing method",0,B60L|G06F|G06Q
+12170021,2024-12-17,Information processing method and information processing apparatus,0,G06Q|G08G
+12169946,2024-12-17,Angular direction identifying device and angular direction identifying method,0,G06T
+12169717,2024-12-17,"Minimization method, computer-readable storage medium, and minimization apparatus",0,G06F|H03M
+12169705,2024-12-17,"Information processing apparatus, control system, system, information processing method, control method and computer-readable storage medium",0,G06F|G07C
+12167501,2024-12-10,Setting apparatus,0,H04W
+12165421,2024-12-10,Deceleration detection apparatus,0,B60W|G01S|G06T|G06V
+12164305,2024-12-10,Self-position estimation method,0,G05D|G06F|G06N|G06T|G06V
+12154350,2024-11-26,Position determination device,0,G06T|G06V
+12154279,2024-11-26,System and method for learning temporally consistent video synthesis using fake optical flow,0,G06F|G06N|G06T|G06V
+12152373,2024-11-26,"Control apparatus, work machine, control method, and computer readable storage medium",0,A01B|A01D|E02F|G05D|G06N|G06V
+12151695,2024-11-26,Control device and control method,0,B60W|H04W
+12151686,2024-11-26,"Information provision system, information terminal, and information provision method",0,B60S|B60W|G06Q|G06V
+12151618,2024-11-26,"Control device, control method, and storage medium",0,B60R|G06T|H04N
+12150202,2024-11-19,Wireless communication service provided for mobile terminal that cooperates with vehicle,0,H04L|H04W
+12150036,2024-11-19,Data and connectivity management systems and methods thereof,0,H04L|H04W
+12150012,2024-11-19,Enabling location-based services based on geofence data and privacy settings,0,G01C|H04W
+12147595,2024-11-19,Information processing system,0,G06F|G06T|G06V
+12147436,2024-11-19,Battery information processing system and battery information processing method to identify batteries in accordance with a specification,0,B60L|G06F|G06Q|G07C|H01M|H02J|Y02E|Y02T|Y04S
+12145501,2024-11-19,Vehicle,0,B60Q|H04W
+12142273,2024-11-12,Creation of notes for items of interest mentioned in audio content,0,B60W|G06F|G10L|H04N
+12142095,2024-11-12,Method of fuel economy calculation on brand-new vehicles,0,B60R|G06Q|G07C
+12142057,2024-11-12,"Information recording device, information recording method, and storage medium",0,B60W|G06V|H04N
+12141982,2024-11-12,"Image processing apparatus, image processing method, and computer-readable storage medium storing program",0,B60K|G06F|G06T|G06V|G09G
+12141568,2024-11-12,"Update management server, update management method, and computer-readable storage medium",0,B60W|G06F|G07C
+12139016,2024-11-12,"Information processing device, vehicle, computer-readable storage medium, and information processing method",0,B60K|B60R|B60W|G06F|G06T
+12138990,2024-11-12,Input reception system and control method of input reception system,0,B60H|B60K|G06F|G09G
+12137358,2024-11-05,"Information processing apparatus, vehicle, computer readable storage medium and information processing method",0,H04L|H04W
+12136170,2024-11-05,"Information management device, information management method, and storage medium",0,G01C|G06T|H04W
+12135546,2024-11-05,"Mobile object control system, mobile object, mobile object control method, and storage medium",0,G05D|G06F|G06V
+12131558,2024-10-29,"Image processing device, image processing method, and storage medium",0,G06T|G06V
+12128882,2024-10-29,"Vehicle, and method for controlling vehicle",0,B60W|B62J|G08G|H04W
+12128787,2024-10-29,"Battery use system, charging device, information processing device, battery use method, program, and storage medium",0,B60L|G06Q|H01M|H02J|Y02E|Y02T|Y04S
+12128562,2024-10-29,"Touch sensation sensor, sensitivity switching circuit, and sensitivity switching method",0,B25J|G01G|G01L|G05B|G06N
+12127284,2024-10-22,On-vehicle device and control method of on-vehicle device,0,G06F|H04W
+12124995,2024-10-22,Method for structural optimization of a design and cost of a physical object,0,G06Q
+12117498,2024-10-15,System and method for presenting electric vehicle charging options based on a predicted charging speed,0,B60L|G01R|G06Q|Y02T
+12117421,2024-10-15,System and method for material fingerprinting,0,B21D|G01N|G05B|G06Q
+12115686,2024-10-15,Operation system and operation method,0,B25J|G05B|G06F|G06T|H04N
+12112622,2024-10-08,Systems and methods for heterogeneous multi-agent multi-modal trajectory prediction with evolving interaction graphs,0,G06F|G06N|G08G
+12112336,2024-10-08,"Information processing device, information processing method, and program",0,B60L|G06Q|G07C
+12112103,2024-10-08,Work area zone boundary demarcation apparatus of autonomously navigating work machine,0,G05D|G06F|G06N
+12108254,2024-10-01,"Determination device, moving object, determination method, and computer-readable storage medium",0,H04L|H04W
+12106669,2024-10-01,"Control apparatus, movable object, control method, and computer readable storage medium",0,B60W|G06V|G08G|H04W
+12106584,2024-10-01,"Object recognition device, object recognition method, and storage medium",0,G06V|H04N
+12101261,2024-09-24,Resource management,0,H04L
+12097892,2024-09-24,System and method for providing an RNN-based human trust model,0,B60W|G05B|G06N|G06V
+12097864,2024-09-24,Mobile object control device and mobile object control method,0,B60W|G01C|H04W
+12097804,2024-09-24,"Image processing device, vehicle, image processing method, and storage medium",0,B60R|B62H|B62J|G06T|H04N
+12096301,2024-09-17,"Terminal apparatus, communication system, communication method, and computer-readable storage medium",0,H04W
+12096063,2024-09-17,"Content providing system, content providing method, and storage medium",0,G06Q|H04N
+12094216,2024-09-17,"Traffic monitoring system, traffic monitoring method, and storage medium",0,B60W|G06T|G06V
+12094214,2024-09-17,System and method for providing an agent action anticipative transformer,0,B60W|G06N|G06V
+12093593,2024-09-17,"Control device, information terminal, control method, and storage medium",0,B60L|G05D|G06F
+12093061,2024-09-17,"Movable body control device, movable body, movable body management system, movable body control method, and program",0,A61G|B60R|G05D|G06Q|H04W
+12093051,2024-09-17,Path determination method,0,G05D|G06N
+12091252,2024-09-17,"Parts storage position determination apparatus, parts storage position determination method and parts management system",0,B65G|G06Q
+12088951,2024-09-10,Image display system,0,B60K|B60R|B60W|G01S|H04N
+12087165,2024-09-10,"Moving body prediction device, traffic safety support system, and storage medium",0,G06T|G06V|G08G
+12087065,2024-09-10,"Mobile object control method, mobile object control device, and storage medium",0,B60W|G06F|G06V
+12087012,2024-09-10,Systems and methods for visuo-tactile object pose estimation,1,B25J|G01S|G05B|G06T
+12083920,2024-09-10,System and method for scheduling electric charging for vehicles,0,B60L|G06Q|H02J|Y02T
+12081029,2024-09-03,Power generation control system and power generation control method,0,G06Q|H02J
+12080082,2024-09-03,Act-of-looking-aside determination device,0,G06T|G06V|G07C
+12079615,2024-09-03,"Communication apparatus, movable object, control system, server, communication control method",0,G06F|G07C
+12077171,2024-09-03,"Vehicle control device, automated driving vehicle development system, vehicle control method, and storage medium for verifying control logic",0,B60W|G08G|H04W
+12073563,2024-08-27,Systems and methods for birds eye view segmentation,0,G06T|G06V
+12073203,2024-08-27,"Control system, movable object, control method, and computer readable storage medium",0,G06F|G07C
+12071131,2024-08-27,Electronic towing system and method for controlling route planning apparatus,0,B60W|G01C|G06Q
+12067383,2024-08-20,"Program update control apparatus, program update control method, and computer-readable storage medium",0,B60W|G06F
+12067382,2024-08-20,"Update control apparatus, moving body, update control method, and computer-readable storage medium",0,G06F
+12066822,2024-08-20,"Device for controlling guidance robot, guidance system in which same is used, and method for controlling guidance robot",0,A61B|B25J|G01C|G05B|G05D|G06Q|G08G|G16H
+12066540,2024-08-20,Axial deviation estimation apparatus,0,B60W|G01S|G06T|G06V
+12065167,2024-08-20,System and method for completing joint risk localization and reasoning in driving scenarios,0,B60W|G06F|G06N|G06T|G06V
+12065139,2024-08-20,System and method for completing risk object identification,0,B60W|G06N|G06T|G06V
+12062284,2024-08-13,"Vehicle display control device, control method of vehicle display control device, and storage medium",0,B60K|B60Q|G06F|G06T|G08G|G09G
+12057012,2024-08-06,Mobile object monitoring system and mobile object monitoring method,0,G06V|G08G|H04N|H04W
+12056574,2024-08-06,Quantum devices and processes of use,0,B82Y|C01B|G06N|H10D|H10K|Y10T
+12054174,2024-08-06,Moving body,0,B60Q|B60W|G01S|H04N
+12054072,2024-08-06,Information processing system,0,B60L|G01C|G06Q|G07C|G07F|H01M|Y02E|Y02T|Y04S
+12047818,2024-07-23,"Terminal apparatus, communication system, communication method, and computer-readable storage medium",0,H04B|H04L|H04W
+12045976,2024-07-23,Product management method,0,G01N|G06T|H01M
+12045945,2024-07-23,"Control device, control method, and recording medium",0,B60R|G06T
+12045775,2024-07-23,"Part management apparatus, part management system, part management method, and computer readable recording medium",0,G06Q|G07C
+12045759,2024-07-23,"Information processing apparatus, method, communication terminal, and non-transitory computer-readable storage medium",0,G06Q|H04W
+12045748,2024-07-23,Management method and server apparatus,0,G06Q
+12043185,2024-07-23,Camera holding structure,0,B60R|H04N
+12039787,2024-07-16,"Recognition device, moving object, recognition method, and storage medium",0,B60K|B60W|G06F|G06T|G06V|G09G
+12039591,2024-07-16,"Information processing apparatus, information processing method, storage medium, portable electric power supply apparatus, and rental system",0,G06F|G06Q|H02J
+12038770,2024-07-16,Remote operation system,0,B60W|G01S|G05D|H04N
+12035265,2024-07-09,"Base station, communication system, communication method, and program",0,H04W
+12035177,2024-07-09,"Communication device, user terminal, communication system, notification method, and program for handover communications",0,B60W|G08G|H04W
+12033510,2024-07-09,Division line recognition apparatus,0,G01S|G05D|G06T|G06V|G08G
+12033340,2024-07-09,"System, information processing apparatus, vehicle, and method",0,B60W|G06T|G06V
+12033194,2024-07-09,"Ridesharing management device, ridesharing management method, and program",2,B60W|G01C|G06Q|G08G
+12032698,2024-07-09,"Program update control apparatus, program update control method and computer-readable storage medium",0,G06F|H04L
+12032381,2024-07-09,Accompanying mobile body,0,G05D|G06Q
+12032374,2024-07-09,Unmanned delivery machine,0,B60K|B60L|B60P|E05F|E05Y|G05D|G06Q|Y02T
+12028829,2024-07-02,"Information processing device, mobile object, information processing method, and computer readable storage medium",0,G07C|H04B|H04W
+12028648,2024-07-02,"Information processing apparatus, information processing method therefor, and computer-readable storage medium",0,G05D|G06Q|G06T|G06V|G08G|H04N|H04W
+12027135,2024-07-02,Display device and control method therefor,0,B60R|G06T|G09G|H04N
+12026737,2024-07-02,"Management system, management method, management server, and storage medium",0,G06Q
+12026498,2024-07-02,"Control system, mobile object, control method, and computer-readable storage medium",0,G06F|H04W
+12026497,2024-07-02,"Control system, moving body, control method, and computer-readable storage medium for controlling an update of the update program",0,G06F|H04L|H04W
+12024194,2024-07-02,"Vehicle control method, vehicle control device, and storage medium",0,B60W|G06N|G06V
+12024057,2024-07-02,"State estimation system, relay device, state estimation method, learned model generation method, and recording medium",0,B60L|B60W|G06N|H01M|Y02T
+12024048,2024-07-02,Power transmission and reception management device and computer-readable storage medium,1,B60L|G06Q|H02J|Y02E|Y02T|Y04S
+12022892,2024-07-02,System and method for social-physical haptic interaction,1,A41D|G06F|G06N|G08B
+12020509,2024-06-25,Model parameter learning method and movement mode parameter determination method,0,G05D|G06F|G06N|G06V
+12018955,2024-06-25,System and method for presenting electric vehicle charging options,2,B60L|G01C|G06F|Y02T|Y04S
+12018935,2024-06-25,Systems and methods for estimating tactile output based on depth data,0,B25J|G01B|G01L|G06T
+12016259,2024-06-25,"Information providing device, mowing vehicle and mowing management system",0,A01B|A01C|A01D|A01G|G01N|G05B|G05D|G06F
+12014636,2024-06-18,Delivery approval apparatus and delivery approval method,0,G06Q|G08G
+12014539,2024-06-18,Control processing device,1,B25J|G05B|G06F|G06V
+12013980,2024-06-18,"Information processing apparatus, information processing method, learning method, and storage medium",0,G06F|G06N|G06V
+12008356,2024-06-11,Multiple communication protocol coexistence,0,G06F|H04L
+12008354,2024-06-11,Update method of map data and map information system,0,G01C|G06F
+12005922,2024-06-11,Toward simulation of driver behavior in driving automation,6,B60W|G06F
+12001983,2024-06-04,"Power storage device management system, storage device, server device, power storage device management method, program, and storage medium",1,B60L|G06Q|H01M|H02J|Y02T|Y04S
+11999293,2024-06-04,Vehicle control system and vehicle control method,0,B60Q|G06V|H04W
+11995933,2024-05-28,System and method for locking a charging port to charge an electric vehicle,0,B60K|B60L|B60Y|E05B|G01S|G06F|G06Q|G07C|H04L|H04W|Y02T
+11994875,2024-05-28,"Control device, control method, and control system",0,B25J|G05D|G06Q
+11993268,2024-05-28,"Information processing apparatus, moving body, computer-readable recording medium and method",1,B60L|B60W|G06Q|G08G|H04W|Y02T
+11993172,2024-05-28,"Power information processing apparatus, power information processing system, and power information processing method",0,B60L|G06Q|G07F|H02J|Y02E|Y02T|Y04S
+11991733,2024-05-21,Communication device and communication method for handovers,0,H04W
+11990066,2024-05-21,System and method to adjust inclined heads-up display perspective,0,G06F|G06T|G06V|G09G
+11989950,2024-05-21,"Information processing apparatus, vehicle system, information processing method, and storage medium",0,B60W|G01S|G06F|G06V
+11984626,2024-05-14,"Control apparatus, electric power supply apparatus, working machine, management apparatus, control method, management method, and computer-readable recording medium",0,B60L|B60R|G06Q|G07F|H01M|Y02E|Y02T|Y04S
+11981996,2024-05-14,Moisture governed growth method of atomic layer ribbons and nanoribbons of transition metal dichalcogenides,0,B82Y|C01G|C01P|C23C|H01L
+11981225,2024-05-14,Display device,1,B60L|G01C|G06Q|Y02T
+11981206,2024-05-14,"Vehicle display control device, control method of vehicle display control device, and storage medium",0,B60K|G06T|G06V
+11981186,2024-05-14,Method and system for responsive climate control interface,0,B60H|B60Y|G06F|Y02B
+11979805,2024-05-07,"Control method, communication terminal, and communication system",0,H04W
+11979590,2024-05-07,Systems and methods for predicting future data using diverse sampling,0,G06N|H04N
+11978287,2024-05-07,"Information provision system, information terminal, and information provision method",0,B60S|G06F|G06Q|G06T|G06V|G07C|G10L|H04M
+11974157,2024-04-30,"Information processing device, moving object, computer-readable storage medium, and information processing method",0,H04L|H04W
+11970134,2024-04-30,Vehicle control system and application execution device,0,B60R|G06F
+11968544,2024-04-23,"Control device, control method, and computer- readable storage medium",0,H04W
+11968352,2024-04-23,Display method and system,0,H04N
+11967236,2024-04-23,"Communication control apparatus, vehicle, computer-readable storage medium, and communication control method",0,G06V|G08G|H04W
+11967187,2024-04-23,Vehicle inspection system,0,B60W|G01M|G01S|G06F|G06V|G07C
+11960874,2024-04-16,"Control system, mobile object, server, control method and computer-readable storage medium",0,G06F
+11960522,2024-04-16,Information management system for database construction,0,G06F
+11958497,2024-04-16,"Guidance device, guidance control device, guidance method, and program",0,B60K|B60W|H04L
+11958359,2024-04-16,"Display device, display control method, and non-transitory computer-readable recording medium",0,B60K|B60W|G06F|G09G
+11958201,2024-04-16,Systems and methods for visuo-tactile object pose estimation,0,B25J|G05B|G06T
+11956498,2024-04-09,"Movie creation method, non-transitory computer readable medium, and movie creation apparatus",0,H04N
+11955799,2024-04-09,"Supply-and-demand management apparatus, computer readable storage medium, and supply-and-demand management method",0,G06Q|H02J|Y02B|Y04S
+11954921,2024-04-09,System and method for improving driver situation awareness prediction using human visual sensory and memory mechanism,1,B60Q|B60R|B60W|G05D|G06F|G06V|G08G
+11953895,2024-04-09,Fraudulent diagnostic machine detection apparatus,0,G05B|G07C|H04L
+11953892,2024-04-09,"Selection support device, selection support method, and storage medium",0,G05B|G06Q|G07C
+11952032,2024-04-09,Steering wheel with display and light source,0,B60K|B60R|B62D|G06F|G09G
+11945333,2024-04-02,"In-vehicle system, vehicle, and communication method",0,B60L|H04W|Y02D|Y02T|Y04S
+11945323,2024-04-02,Cooperative automotive mobile charging infrastructure,0,B60K|B60L|B60Y|G06Q|Y02T|Y04S
+11943566,2024-03-26,Communication system,0,G06T|H04N
+11943242,2024-03-26,Deep automation anomaly detection,0,G06F|G06N|H04L
+11942817,2024-03-26,Power supply circuit,0,G06F|H02J
+11938898,2024-03-26,Vehicle control system,0,B60R|G07C|H04L
+11938879,2024-03-26,"Vehicle control device, information processing apparatus, operation methods thereof, and storage medium",0,B60R|G06T|G06V
+11936439,2024-03-19,"Control device, control method, and computer-readable storage medium",0,G01C|H04B|H04W
+11935354,2024-03-19,"Communication device, and communication method",0,G06Q|G07C|G07F|H04L
+11935308,2024-03-19,"Object recognition apparatus, vehicle, and object recognition method",0,G01S|G05D|G06T|G06V
+11934994,2024-03-19,Load receiving vehicle,0,B60Q|B60R|G05D|G06Q|G07C
+11934951,2024-03-19,"Control apparatus, control method for control apparatus, non-transitory computer readable storage medium, information processing server, information processing method, and control system for controlling system using reinforcement learning",0,B60G|G05B|G06N|G07C|Y02P
+11934747,2024-03-19,Simulation apparatus,0,G06F|G07C|H01M
+11932306,2024-03-19,Trajectory planner,1,B60W|B62D|G06F|G06N|G06V
+11930415,2024-03-12,"Relay apparatus, program, communication system, and communication method for handover connections",0,H04B|H04W|Y02D
+11930401,2024-03-12,"Control device, control method, and computer-readable storage medium",1,G05D|H04W
+11928064,2024-03-12,Sensor and sensor system,0,G01M|G06F|H01M
+11924727,2024-03-05,Wireless communication system using an in-vehicle device as base station,0,H04L|H04W
+11924652,2024-03-05,Control device and control method,0,G05D|H04M|H04Q|H04W
+11924265,2024-03-05,"Communication device, user terminal, communication system, controlling method of same, and program",0,G05D|G08G|H04L|H04W
+11922813,2024-03-05,"Alert control apparatus, moving body, alert control method, and computer-readable storage medium",0,B60W|G06Q|G06V|G08G
+11920940,2024-03-05,System and method for adjusting an electric vehicle charging speed,1,B60L|G01C|G06F|Y02T|Y04S
+11919542,2024-03-05,"Management device, transportation system, and management method",0,B60P|B60R|B60W|G05B|G06F
+11916810,2024-02-27,Resource management,0,H04L
+11916697,2024-02-27,Ring network communication system,0,H04L
+11915307,2024-02-27,Shared vehicle managing system and shared vehicle managing method,0,G01C|G01D|G06Q|G07C
+11915234,2024-02-27,System and method for securing a private key transaction within blockchain,0,G06Q
+11914444,2024-02-27,Managing activation time of slave ECUs in sleep state with a management table when ignition is turned off,0,G06F|H04L|H04W
+11906372,2024-02-20,Capacitance sensor and measurement device,0,G01D|G01L|G06F
+11904806,2024-02-20,"Vehicle control system, vehicle, and vehicle control method",0,B60R|H04L
+11900648,2024-02-13,"Image generation method, electronic device, and storage medium",0,G06F|G06T|G06V
+11897361,2024-02-13,Power calculation apparatus and power calculation method,0,B60L|G06Q|H02J|Y02E|Y02P|Y02T|Y04S
+11897358,2024-02-13,Renewable energy credit management system and method for use with electric vehicles,0,B60L|G06Q|G07F|H02J
+11897335,2024-02-13,"Control device, moving body and computer-readable storage medium",0,B60K|B60L|B60T|G06F|G09G|Y02T
+11893889,2024-02-06,"Travel assistance system, travel assistance method, and non-transitory computer-readable storage medium that stores program",0,B60W|G06V|G08G|H04W
+11893715,2024-02-06,"Control device and control method for mobile object, storage medium, and vehicle",0,B60W|G02B|G06T|G06V|H04N
+11893517,2024-02-06,"Information processing apparatus, computer-readable storage medium, and information processing method",0,B60L|G05B|G06Q|H02J|Y02B|Y02T|Y04S
+11886859,2024-01-30,"Control system, moving object, control method, and computer-readable storage medium",1,G05B|G06F
+11886506,2024-01-30,System and method for providing object-level driver attention reasoning with a graph convolution network,0,G06F|G06N|G06V
+11882490,2024-01-23,"Controller, terminal device, control method, and program for communication handover",1,H04W
+11881029,2024-01-23,"Vehicle control system, vehicle control method, and storage medium",0,B60R|E05B|E05F|E05Y|G06F|G06V
+11880671,2024-01-23,"Control system, moving object, server, and control method for performing a program update of the moving object",0,B60W|G05B|G06F
+11878795,2024-01-23,Autonomous mobile workforce system and method,0,B64U|G05D|G06Q|G08G
+11878596,2024-01-23,Non-contact charging system and vehicle,0,B60L|G06F|H02J|Y02T
+11876841,2024-01-16,Disparate player media sharing,0,G06F|H04L|H04N|H04W
+11874666,2024-01-16,Self-location estimation method,0,G01C|G05D|G06N|G06T
+11873012,2024-01-16,System and method for providing social-stage spatio-temporal multi-modal future forecasting,0,B60W|G01S|G06N|G08G
+11869369,2024-01-09,"Moving body and method for controlling same, and method for determining priority",0,B64U|G01C|G05B|G05D|G06F|G08G|H04W
+11869102,2024-01-09,Systems and methods for providing distance based notifications for electric vehicles,0,G06Q|Y02T
+11868610,2024-01-09,"Changeable vehicle driver evaluation interface apparatus, system, and method",0,B60K|G01C|G06F|G09B
+11868137,2024-01-09,Systems and methods for path planning with latent state inference and graphical relationships,0,B60W|G01C|G05D|G06N|G08G
+11868132,2024-01-09,System and method for implementing pedestrian avoidance strategies for a mobile robot,0,G05D|G06F|G06N|G06V
+11867527,2024-01-09,Vehicle control system and own lane identifying method,0,G01C|G06T|G06V
+11866029,2024-01-09,Wagon and management device,0,B60W|B60Y|G01S|H04L
+11866005,2024-01-09,"Vehicle control apparatus, vehicle control method, recording medium with program for control recorded, and vehicle control system",0,B60R|G01S|G07C|H04L|H04W
+11864490,2024-01-09,"Control device, work system, work machine, and control method",0,A01D|G06T|G07C
+11861638,2024-01-02,Server apparatus,1,G06Q|G07C
+11860627,2024-01-02,"Image processing apparatus, vehicle, control method for information processing apparatus, storage medium, information processing server, and information processing method for recognizing a target within a captured image",0,G05D|G06F|G06T|G06V
+11856441,2023-12-26,Wireless communication system,0,H04M|H04W
+11856335,2023-12-26,Communication system and communication method,0,G01P|H04N|H04W
+11854271,2023-12-26,"System, computer-readable storage medium, and information processing method",0,G06T|G06V|G08B|H04W
+11847440,2023-12-19,"Vehicle program update management system, reprogramming terminal, and vehicle program update management method",0,G06F
+11847142,2023-12-19,Document analysis system,0,G06F|G06Q
+11845464,2023-12-19,Driver behavior risk assessment and pedestrian awareness,1,B60W|G06N|G06V
+11845322,2023-12-19,Conveying vehicle-related information using thermal touch and haptics,0,B60H|B60K|G06F
+11843963,2023-12-12,"Control device, computer-readable storage medium, and control method",0,H04W|Y02D
+11842548,2023-12-12,Parking space recognition system and parking assist system including the same,0,B60K|B60W|B62D|G06V|G08G|H04N
+11842409,2023-12-12,Guiding vehicle users to build value with vehicle use,0,G06Q
+11841501,2023-12-12,"Arithmetic apparatus, arithmetic method, and storage medium",0,F21S|G02B|G06F
+11841382,2023-12-12,"Information providing apparatus, information providing method, and system",0,G01R|G06Q|H01M|H02J|Y02E
+11838859,2023-12-05,"Information processing apparatus, information processing method, and program",0,H04Q|H04W
+11838837,2023-12-05,Wireless communication system,0,H04W
+11837903,2023-12-05,"Control apparatus, management server, control method, and storage medium",0,B60L|G06Q|H01M|H02J|Y02E|Y02T|Y04S
+11836993,2023-12-05,"Method for controlling vehicle, vehicle control device, and storage medium",0,B60W|G06F|G06V
+11832327,2023-11-28,"Control system, mobile object, control method, and computer-readable storage medium",0,H04W
+11828611,2023-11-28,"Delivery system, delivery method, and computer-readable non-transitory recording medium storing a program",0,G01C|G06Q
+11825559,2023-11-21,"Communication system, information processing method, and control method for moving object",0,H04L|H04W
+11825504,2023-11-21,Indicating a subframe of scheduled consecutive subframes for transmission of a sounding reference signal,0,H04L|H04W
+11825366,2023-11-21,"Information processing apparatus, transport equipment, information processing method, and computer-readable storage medium",0,H04W
+11823230,2023-11-21,"Control apparatus, system, computer-readable storage medium, and control method",0,B60W|G01C|G06Q
+11820323,2023-11-21,"Vehicle control system, vehicle control method, and non-transitory computer-readable storage medium storing vehicle control program",0,B60Q|B60R|G06Q
+11820250,2023-11-21,System and method for dynamically offering different discounts on parking fee and notifying users,0,B60L|B60Y|G06Q|Y02E|Y02T|Y04S
+11816307,2023-11-14,Method for providing service of configuring UI on a display of an in-vehicle infotainment device and UI configuration server using the same,0,G06F
+11809466,2023-11-07,Apparatuses and methods for lawncare assessment at a location,0,G06F|G06Q
+11805450,2023-10-31,"Communication system, computer-readable storage medium, and information processing method",0,H04W
+11804128,2023-10-31,Target classification,0,G08G|H04W
+11803822,2023-10-31,Information management apparatus,0,G06Q|H01M|Y02E
+11799294,2023-10-24,Supplying at least portion of excess power from one portable power supply device to another portable power supply device,0,G05B|G06Q|G07F|H02J|H04B|Y02E|Y04S
+11798552,2023-10-24,"Agent device, agent control method, and program",0,B60K|B60R|G06F|G10L|H04R|H04S
+11798322,2023-10-24,Power supply device management system,0,B60K|B60L|B60Y|G07C|H01M|H04L|Y02T
+11797261,2023-10-24,"On-vehicle device, method of controlling on-vehicle device, and storage medium",0,G06F|G10L|H04W
+11797069,2023-10-24,Server and matching system for matching a used BEV able to supply power with a location for storing the used BEV,1,G06F|G06Q|Y02T
+11797025,2023-10-24,"Autonomous work system, autonomous work setting method, and storage medium",0,G05B|G05D|G06Q|G06V|H04W
+11796341,2023-10-24,"Information processing device, information processing system, and information processing method",0,G01C|G05D|G06T
+11796327,2023-10-24,Route subdivision apparatus,0,G01C|G06Q|G08G
+11794752,2023-10-24,"Recommendation presenting system, recommendation presenting method, and recommendation presentation program",0,B60K|B60W|G06N
+11794606,2023-10-24,"Management device, management method, and program",0,B60L|G01R|G06Q|Y02T|Y04S
+11794605,2023-10-24,Power calculation apparatus and power calculation method,0,B60L|G06Q|H02J|Y02E|Y02T|Y04S
+11792602,2023-10-17,Vehicle control system and vehicle control method,0,B60R|H04W|Y02D
+11792484,2023-10-17,"Information providing system, information providing method and management apparatus for information providing system for providing information obtained through a robot",0,A63H|B25J|G05D|G06F|G06V|H04N
+11790670,2023-10-17,"Apparatus, method, and program for determining abnormality in internal devices",1,G06V|H04N
+11788905,2023-10-17,Capacitance sensor,0,G01L|G06F
+11787444,2023-10-17,"Management device, transportation system, management method, and recording medium",0,B60P|B60W|G06Q|G06V
+11787053,2023-10-17,Systems and methods for utilizing interacting Gaussian mixture models for crowd navigation,0,B25J|G05D|G06F|G06V
+11785656,2023-10-10,Packet data convergence protocol packet duplication activation by a base station central unit,0,H04L|H04W
+11785519,2023-10-10,"Controller, terminal device, control method, and program for handover connections",0,H04B|H04L|H04W
+11783232,2023-10-10,System and method for multi-agent reinforcement learning in a multi-agent environment,0,G06F|G06N
+11782447,2023-10-10,"Autonomous work machine, method of controlling the same, and storage medium",0,A01B|A01D|G05D|H04N
+11778316,2023-10-03,Imaging apparatus,0,B60R|G06V|H04N
+11776106,2023-10-03,Appearance inspection system,0,G06T
+11772600,2023-10-03,"Vehicle control apparatus, vehicle control method, recording medium with program for control recorded, and vehicle control system",0,B60R|H04B|H04W
+11770754,2023-09-26,"Network management apparatus, network management method, and storage medium for network comprising a plurality of vehicles and plurality of mobile terminals",0,H04W
+11769334,2023-09-26,Image collection system and image collection method,0,G06T|G06V|H04N
+11766997,2023-09-26,Vehicle management system and vehicle management method,0,B60S|G06Q|G06V|G07C|H04W
+11765242,2023-09-19,"File exchange system, communication support device, file exchange support device, file exchange method, and computer-readable non-transitory storage medium with program stored therein",0,H04L
+11764576,2023-09-19,"Information processing apparatus, information processing method, storage medium, portable electric generator, and rental system",0,G06F|G06Q|H02J|Y02E|Y04S
+11762101,2023-09-19,"Position measurement system, position measurement method, position measurement instruction method, recording medium with position measurement instruction program recorded, and vehicle control apparatus",0,G01S|G07C|H04B|H04L
+11760225,2023-09-19,Battery depletion prevention apparatus,0,B60L|B60R|G06N|G06Q|H04L|Y02T
+11760202,2023-09-19,"Vehicle display device, display control method, and storage medium",0,B60K|B60Y|G06F|G09G
+11755832,2023-09-12,"Conversation support device, conversation support system, conversation support method, and storage medium",0,G06F|G10L
+11754988,2023-09-12,"Information processing device, information processing method and recording medium",0,B60Q|G05B|G06F|H04W
+11754416,2023-09-12,System and method for optimized pairing of personal transport device to rider,0,A61B|G01C|G06Q
+11750936,2023-09-05,"Control device, operation method for control device, and storage medium",0,B60R|G06T|H04N
+11749001,2023-09-05,Behavior control system,0,B60W|G06V|H04L
+11748790,2023-09-05,Accommodation area management device,0,B60W|G06Q|G06V|G08G
+11745744,2023-09-05,System and method for determining object-wise situational awareness,0,B60W|G01S|G06F|G06V
+11741723,2023-08-29,System for performing intersection scenario retrieval and method thereof,1,G06F|G06N|G06T|G06V
+11741394,2023-08-29,"Information processing method, information processing apparatus, and abnormality determination system",0,G05B|G06N|G07C
+11740098,2023-08-29,System and method for providing charging options based on electric vehicle operator activities,1,B60L|G01C|G06F|Y02T|Y04S
+11738656,2023-08-29,"Information providing device, information providing method, and storage medium",1,B60L|G06Q|Y02T
+11734928,2023-08-22,Vehicle controls and cabin interior devices augmented reality usage guide,0,B60K|G06F|G06V
+11734778,2023-08-22,System and method for providing OEM control to maximize profits,0,B60L|G06Q|H02J|Y02B|Y02E|Y02T|Y04S
+11733951,2023-08-22,"Image display apparatus, image display system and image display method",0,B60K|B60W|G05D|G06F|G09G|H04M
+11733694,2023-08-22,"Control apparatus, control method, and storage medium",1,G05D|G06F|G09G
+11731528,2023-08-22,Electric vehicle and display method,0,B60L|G06F|G09G|Y02T
+11731522,2023-08-22,Failure determination apparatus and failure determination method for relative position acquisition system,0,B60K|B60L|B60Y|G06F|H02J|H04L|H04W|Y02T
+11715045,2023-08-01,"Legal information processing system, method, and non-transitory computer-readable storage medium storing program",0,G06F|G06Q
+11713021,2023-08-01,Vehicle control device and vehicle control method,0,B60Q|B60R|G06V|H04N
+11711615,2023-07-25,Workpiece inspection device and workpiece inspection method,1,G01N|G06T|H04N
+11710499,2023-07-25,"Information-processing device, vehicle, computer-readable storage medium, and information-processing method",0,G06N|G06V|G10L
+11710408,2023-07-25,"Communication apparatus, vehicle, computer-readable storage medium, and communication method",0,G08G|H04W
+11710243,2023-07-25,"Method for predicting direction of movement of target object, vehicle control method, and device",0,B60W|G06T|G06V|G08G
+11710095,2023-07-25,Vehicle service providing apparatus and vehicle service providing method,0,G06Q
+11709504,2023-07-25,Platooning system,0,B60W|G05D|G08G|H04W
+11709065,2023-07-25,"Information providing device, information providing method, and storage medium",0,B60W|G01C|H04W
+11708039,2023-07-25,Driver profile reset system and methods thereof,0,B60N|B60R|B60W|G06F
+11703988,2023-07-18,Social interaction based display control,0,G06F|G06N|G06Q|H04L
+11702081,2023-07-18,System and method for road condition monitoring,0,B60W|G06Q|G06V|G08G
+11700667,2023-07-11,Control plane cellular internet-of-things (IOT) optimization indication,0,H04W
+11700620,2023-07-11,Uplink transmission based on a hybrid retransmission request (HARQ) process and a new data indicator (NDI),0,H04L|H04W
+11700355,2023-07-11,Region monitoring system and control method for region monitoring system,0,B60R|H04N
+11699315,2023-07-11,System and method for locking a charging port to charge an electric vehicle,0,B60K|B60L|B60Y|E05B|G01S|G06F|G06Q|G07C|H04L|H04W|Y02T
+11699062,2023-07-11,System and method for implementing reward based strategies for promoting exploration,1,B60W|G06F|G06N|G06V
+11698637,2023-07-11,Method and system for a companion autonomous vehicle,0,G05D|G08G|H04W
+11698397,2023-07-11,Power calculation apparatus and power calculation method,0,B60L|G01R|G06Q|H02J|Y02E|Y02T|Y04S
+11694377,2023-07-04,Editing device and editing method,0,G06F|G06T|G06V|G10L
+11694130,2023-07-04,System and method for assigning an agent to execute and fulfill a task request,0,G06Q
+11693416,2023-07-04,Route determination method,0,G05D|G06F|G06N|G06V
+11692843,2023-07-04,Guided navigation for personal transport devices,0,B60Q|B62J|B62K|G01C|H04W
+11691645,2023-07-04,Method and system for controlling autonomous vehicles to affect occupant view,0,B60W|G05D|G06Q
+11688026,2023-06-27,"Information processing system, information processing method, and storage medium",0,G06Q
+11687850,2023-06-27,System and method for processing a task request to be executed and fulfilled,0,G06Q
+11687087,2023-06-27,Systems and methods for shared cross-modal trajectory prediction,2,G01C|G01S|G05D|G06N
+11686743,2023-06-27,"Information processing device, information processing method, and storage medium",0,A61B|G01P|G06F
+11685386,2023-06-27,System and method for determining a change of a customary vehicle driver,0,B60K|B60W|G06Q
+11685005,2023-06-27,Systems and methods of repairing a stamping die,0,B21D|B23P|B33Y|G06T
+11683670,2023-06-20,Wireless communication system,0,G06F|G09G|H04M|H04W
+11678233,2023-06-13,"Information processing apparatus, mobile object, computer-readable storage medium, and information processing method",0,B60W|H04B|H04W
+11677241,2023-06-13,Power trading system and management apparatus,1,G06Q|H02J|Y02B|Y02P|Y04S
+11676083,2023-06-13,Arrangement planning device,0,B60L|G06Q|H01M|Y02E|Y02T
+11675405,2023-06-13,"Information processing device, information processing method, service system, program, and storage medium",0,B60L|G06F|G06Q|H01M|H02J|Y02T|Y04S
+11672030,2023-06-06,"Control method, on-vehicle device, and storage medium",0,G06F|H04W
+11670806,2023-06-06,Battery management apparatus,0,G06Q|H01M|Y02E
+11669854,2023-06-06,Information management device and information management method,0,G01C|G06Q
+11669096,2023-06-06,Route determination method,0,G05D|G06F|G06N|G06V
+11665619,2023-05-30,Data and connectivity management systems and methods thereof,0,H04L|H04W
+11663539,2023-05-30,Vehicle ride-sharing assist system,0,G06F|G06Q|G08G
+11657723,2023-05-23,Management device,0,B64U|G05D|G08G|H04N|H04W
+11657658,2023-05-23,"Information providing server, information providing system, and recording medium",0,G06F|G07C|H04L
+11657266,2023-05-23,"Cooperative multi-goal, multi-agent, multi-stage reinforcement learning",1,G05D|G06N|H04W
+11657251,2023-05-23,System and method for multi-agent reinforcement learning with periodic parameter sharing,0,B60W|G01S|G06N|G06V
+11654837,2023-05-23,Sensor for autonomously movable moving body,0,B60K|B60R|B60W|G01S|G06T
+11650071,2023-05-16,User preference based vehicle data communication and control,2,G01C|G06F|G06Q|G07C|G09G|H04W
+11645847,2023-05-09,"Vehicle control system, vehicle control method, and recording medium in which vehicle control program is recorded",0,B60R|G06V|H04N
+11642784,2023-05-09,Database construction for control of robotic manipulator,0,B25J|G05B|G06F
+11641571,2023-05-02,"Communication device, communication method, non-transitory computer-readable storage medium storing communication program, and vehicle",0,H04W
+11640535,2023-05-02,Probability acquisition apparatus and probability acquisition method,0,G06F|G06N|G06V
+11640203,2023-05-02,Operation system and operation method,1,B25J|G05B|G06F|G06T|H04B
+11637952,2023-04-25,"Remote display system, robot, and display terminal",0,B25J|H04N
+11632749,2023-04-18,Signaling for SRS and PUSCH transmission in a last symbol,0,H04L|H04W
+11631329,2023-04-18,Venue location identification for vehicular access control,2,G06K|G07B|G07C|G08G|H04W
+11631257,2023-04-18,"Surroundings recognition device, and surroundings recognition method",0,G01C|G06F|G06V
+11631087,2023-04-18,Method and system for automated reconfiguration of user interface based on product lifecycle,0,G06F|G06Q|G06T
+11630914,2023-04-18,Information management system and information management method,0,G06F|H04L
+11630461,2023-04-18,Systems and methods for utilizing interacting gaussian mixture models for crowd navigation,0,G05D|G06F|G06V
+11623576,2023-04-11,Method and system for securing an object,1,B60R|G06F
+11623521,2023-04-11,Parking assist system,1,B60K|B60R|B60W|B62D|G05D|G06V|H04N
+11622228,2023-04-04,"Information processing apparatus, vehicle, computer-readable storage medium, and information processing method",0,G06V|G08G|H04W
+11620098,2023-04-04,"Vehicle control device, vehicle, operation method for vehicle control device, and storage medium",0,B60K|B60Q|G02B|G06F|G09G
+11618432,2023-04-04,Program update method,0,B60K|B60L|B60W|G06F|Y02D|Y02T
+11617221,2023-03-28,"Communication device, base station, and communication system",0,H04W
+11616743,2023-03-28,Information sharing system and information sharing method,0,B60K|G06Q|H04L
+11616620,2023-03-28,Sounding reference signal subframe position in a plurality of scheduled consecutive subframes,0,H04L
+11611858,2023-03-21,"Communication control device, communication control method, and storage medium",0,H04W
+11611587,2023-03-21,Systems and methods for data privacy and security,1,G06F|H04L
+11610257,2023-03-21,Vehicle rental system,0,B60P|B60R|B60W|F25D|G06Q
+11610125,2023-03-21,Sensor fusion,1,G06N
+11609765,2023-03-21,"Control system, mobile object, computer-readable storage medium, and control method",0,B60L|B60R|G06F|H02J
+11608113,2023-03-21,Vehicle driving assist system,0,B62D|G06T|H04N
+11608083,2023-03-21,System and method for providing cooperation-aware lane change control in dense traffic,1,B60W|G06N|G06V
+11606727,2023-03-14,Handover of a wireless device in a network,1,H04W
+11605141,2023-03-14,Facility rating device and facility rating method,0,G01C|G06Q|G08G|G09B|H04W
+11604638,2023-03-14,"Software update device, vehicle, and software update method",0,G06F
+11604469,2023-03-14,"Route determining device, robot, and route determining method",0,G01C|G05D|G06N
+11604072,2023-03-14,Method and system for synchronizing start of group ride rentals,0,G01C|G06Q|G07F|H04W
+11600078,2023-03-07,"Information processing apparatus, information processing method, vehicle, information processing server, and storage medium",0,G06F|G06N|G06V
+11598731,2023-03-07,Inspection method for electrode structural body,0,G01N|G06T|Y02E
+11595880,2023-02-28,Node selection for network sharing,1,H04L|H04W
+11594238,2023-02-28,"Acoustic signal processing device, acoustic signal processing method, and program for determining a steering coefficient which depends on angle between sound source and microphone",0,G06F|G10L|H04R|H04S
+11594139,2023-02-28,"Management system, control method therefor, and management server",0,B64U|G01C|G05B|G05D|G06F|G08G|H04W
+11593719,2023-02-28,Ride-share support system and ride-share support method,0,G06Q|H04W
+11592314,2023-02-28,"Information processing device, path guidance device, information processing method, and computer-readable storage medium",0,G01C|H04W
+11589419,2023-02-21,"Communication system, communication device, communication server, computer-readable storage medium and method of controlling a connection between the communication device and an access point",0,H04W|Y02D
+11588328,2023-02-21,Energy supply system and method for plurality of grids for energy demand from supply resource,0,B60L|G05B|G06Q|H02J|Y02E|Y02T|Y04S
+11587345,2023-02-21,"Image identification device, method for performing semantic segmentation, and storage medium",0,G06F|G06N|G06V
+11587004,2023-02-21,System and method for placement optimization of public electric vehicle charging stations using telematics data,0,B60L|G05B|G06F|G06Q
+11586974,2023-02-21,System and method for multi-agent reinforcement learning in a multi-agent environment,1,G06F|G06N
+11586224,2023-02-21,"Vehicle control apparatus, vehicle, operation method for vehicle control apparatus, and storage medium",0,G05D|G06T|G06V
+11586223,2023-02-21,Vehicle and service management device,4,B60R|G05D|G06Q|G08G|H04N
+11584379,2023-02-21,System and method for learning naturalistic driving behavior based on vehicle dynamic data,3,B60W|G05D|G06N
+11584229,2023-02-21,"Display control apparatus, display control method, and program",0,B60K|G06F|G09G|Y02T
+11581752,2023-02-14,"Battery charging system, charging device, information processing device, battery charging method, program, and storage medium",0,B60L|G06Q|H01M|H02J|Y02E|Y02T
+11580743,2023-02-14,System and method for providing unsupervised domain adaptation for spatio-temporal action localization,1,G06F|G06N|G06V
+11580365,2023-02-14,Sensor fusion,1,G06N
+11578984,2023-02-14,Vehicle control device and program,0,G01C|G06F|H04L|H04W
+11577757,2023-02-14,System and method for future forecasting using action priors,1,B60W|G06T|G06V
+11577622,2023-02-14,"Information processing apparatus, information processing method, and storage medium",0,B60L|G01C|G05D|G06Q|Y02T
+11574247,2023-02-07,Machine learning based recommendation of vehicle,1,G06N|G06Q|G07C
+11573826,2023-02-07,"Control system, control method, and program",0,B60Q|B60R|G05B|G06F|H02J
+11573676,2023-02-07,Method and system for managing contextual views within a user interface,0,G01C|G06F|G06T|H04W
+11573548,2023-02-07,"Information processing apparatus, control method, and storage medium",0,G05B|H04L
+11572099,2023-02-07,Merge behavior systems and methods for merging vehicles,2,B60W|B62D|G06N|G06V
+11571155,2023-02-07,System and method for completing a measurement of anxiety,1,A61B|G06N
+11568476,2023-01-31,"Information providing apparatus, information providing system, and information providing method",0,G06F|G06Q|Y02T
+11568359,2023-01-31,"Management device, management method, and program",0,B60W|G06Q
+11568332,2023-01-31,"Information providing device, information providing method, and transportable power supply device",0,G01R|G01S|G06Q
+11564273,2023-01-24,Limiting an aggregate bit rate by ignoring duplicated PDCP packets,0,H04L|H04W
+11564192,2023-01-24,"Base station, communication system, communication method, and program",2,H04B|H04W
+11564073,2023-01-24,System and method for emotion detection and inter-vehicle communication,2,B60W|G06V|H04W
+11561789,2023-01-24,"Software update device, vehicle, and software update method",0,B60R|G06F
+11554751,2023-01-17,"Vehicle control apparatus, vehicle control method, recording medium with program for control recorded, and vehicle control system",0,B60L|B60R|G07C|H04W|Y02T
+11553303,2023-01-10,Vehicle control system and vehicle control method,1,B60R|H04W
+11551097,2023-01-10,System and method for utilizing weak supervision and a generative adversarial network to identify a location,0,G06N
+11550532,2023-01-10,Modular display assembly for vehicles,0,B60K|B60R|G06F|G09G
+11548443,2023-01-10,"Display system, display method, and program for indicating a peripheral situation of a vehicle",1,B60R|G06V|G08G|H04N
+11546736,2023-01-03,"Vehicle control system, vehicle control method, and vehicle control server",0,B60R|G01S|G07C|H04W
+11545829,2023-01-03,"Power prediction system, power prediction device, power prediction method, program, and storage medium",1,G01R|G06Q|H02J|Y02B|Y02E|Y02T|Y04S
+11545262,2023-01-03,Mobile body and management system,0,A61B|B60R|B60W|G01C|G05D|G06Q|G06V|G08G|G16H
+11544935,2023-01-03,System for risk object identification via causal inference and method thereof,6,G06T|G06V
+11544556,2023-01-03,"Learning device, simulation system, learning method, and storage medium",0,G05B|G05D|G06N
+11541908,2023-01-03,"Information processing system, information processing method, and storage medium",0,B60H|B60R|B60W|G01C|G05D|G06Q|G08G
+11541772,2023-01-03,Systems and methods for charging station management,0,B60K|B60L|B60Y|G06Q|Y02T|Y04S
+11538259,2022-12-27,Toward real-time estimation of driver situation awareness: an eye tracking approach based on moving objects of interest,5,B60W|G06F|G06V
+11538226,2022-12-27,"Information processing device, information providing system, and information processing method",0,A01D|A01G|G01C|G06T|G06V
+11537692,2022-12-27,Personal identification apparatus and personal identification method,0,G06F|G10L
+11537677,2022-12-27,Recommendation system and recommendation method,0,G06F
+11537385,2022-12-27,Notification device,0,G06F|G06Q
+11536217,2022-12-27,Information providing system,0,F02D|G05B|G06Q
+11532303,2022-12-20,"Agent apparatus, agent system, and server device",0,G01C|G06F|G06Q|G08G|G10L|H04W
+11528586,2022-12-13,"Communication system, communication method, and storage medium",2,G01S|G07C|H01Q|H04B|H04W
+11527115,2022-12-13,"Control device, control unit, control method, and storage medium",0,G05D|G06F|G07C
+11527073,2022-12-13,System and method for providing an interpretable and unified representation for trajectory prediction,2,B60W|G05D|G06F|G06T|G06V|G08G
+11526909,2022-12-13,Real-time targeting of advertisements across multiple platforms,2,G06Q|G06V
+11526837,2022-12-13,"Delivery system, delivery method, and computer-readable non-transitory recording medium storing a program",0,G01C|G01W|G05D|G06Q
+11526592,2022-12-13,Working machine management system and working machine,0,B60R|F02D|G06F
+11524599,2022-12-13,"Control apparatus, power control system, control method, and storage medium having program stored thereon",0,B60L|G05F|G06Q|H02J|Y02B|Y02E|Y02T|Y04S
+11523760,2022-12-13,Arousal state estimation apparatus and arousal state estimation method,0,A61B|G06F
+11523322,2022-12-06,Control apparatus and program,0,H04W
+11521191,2022-12-06,Use management system for moving body,0,G06Q|G07B
+11520549,2022-12-06,Facially responsive communication apparatus,0,G05D|G06F|G09G
+11519068,2022-12-06,Moisture governed growth method of atomic layer ribbons and nanoribbons of transition metal dichalcogenides,3,B82Y|C01G|C01P|C23C|H01L
+11518398,2022-12-06,"Agent system, agent server, method of controlling agent server, and storage medium",0,B60W|G06F|G10L
+11518383,2022-12-06,Travel reference line determination system and automatic driving system,0,B60W|G05B|G05D|G06F
+11518269,2022-12-06,"Management apparatus, management method, and program",0,B60L|G06N|H02J|Y02T
+11518036,2022-12-06,"Service providing system, service providing method and management apparatus for service providing system",0,B25J|G05B|G06F|G06Q|G06T|G06V
+11514545,2022-11-29,"Rideshare management system, rideshare management method, and program",0,B60W|G01C|G05D|G06Q
+11514482,2022-11-29,Systems and methods for estimating a remaining value,1,G06Q|G07C
+11514319,2022-11-29,Action prediction,0,G06F|G06N|G06V
+11511702,2022-11-29,"Vehicle remote control system, vehicle remote control method, server, terminal device, and communication device",0,B60R|B60S|G05D|H04W
+11511646,2022-11-29,"Management apparatus, management method, and program",0,B60L|G06N|G06Q|H02J|Y02T|Y04S
+11511644,2022-11-29,"Learning apparatus, learning method, and program",0,B60L|G06N|G07C|Y02T
+11511626,2022-11-29,Information display device for vehicle,0,B60K|B60L|B60Y|G06F|G07C|G09G|Y02T
+11508370,2022-11-22,"On-board agent system, on-board agent system control method, and storage medium",0,B60W|G06F|G10L|H04W
+11508368,2022-11-22,"Agent system, and, information processing method",0,G06F|G06V|G10L
+11507830,2022-11-22,System and method for providing object-level driver attention reasoning with a graph convolution network,1,G06F|G06N|G06V
+11507338,2022-11-22,System and method for providing a dynamic audio environment within a vehicle,0,G06F|G10K|G10L|H03G|H04R
+11503538,2022-11-15,"Communication device, base station, and communication method",0,H04L|H04W
+11503528,2022-11-15,"Base station, terminal device, control method, and program for handover connections",1,H04W
+11503517,2022-11-15,"Relay apparatus, program, communication system, and method",1,H04W
+11503443,2022-11-15,System and method for providing marine connectivity,1,G06F|G08G|H04L|H04W
+11498591,2022-11-15,System and method for providing adaptive trust calibration in driving automation,0,B60K|B60R|B60W|G06N|G06V
+11498574,2022-11-15,"Learning device, learning method, and storage medium",0,B60W|G06Q
+11498522,2022-11-15,Vehicle control system,0,B60R|B60S|G06F|G06Q|G07C
+11495225,2022-11-08,"Response device, response method, and storage medium",0,G06F|G06Q|G06T|G10L
+11495128,2022-11-08,In-vehicle information system,0,B60R|G06V|G08G|H04W
+11494962,2022-11-08,"Information providing apparatus, information providing method, and storage medium for providing information associated with an onboard battery",0,B60L|G06Q|G06T|Y02T|Y04S
+11494950,2022-11-08,"Experience providing system, experience providing method, and experience providing program",0,B60K|B60W|G06F|G06T|G06V|G10K|G10L
+11494785,2022-11-08,Method and system for automated reconfiguration of user interface based on product lifecycle,0,G06F|G06Q|G06T
+11494389,2022-11-08,Recommendation system and recommendation method,0,G06F
+11491931,2022-11-08,Vehicle operation system and vehicle operation method,1,B60K|B60R|G06F|G10L
+11491892,2022-11-08,"Selection apparatus, selection method, and storage medium",0,B60L|G06N|Y02E|Y02T|Y02W
+11491891,2022-11-08,"Presentation device, presentation method, and storage medium",0,B60K|B60L|B60Y|H04W|Y02T
+11486993,2022-11-01,Resonance based distance estimation and identification,2,A61B|A61N|G01R|G01S|G05D|H04W
+11486725,2022-11-01,Guided navigation for personal transport devices,1,B60Q|B62J|B62K|G01C|H04W
+11484765,2022-11-01,"Walking support system, walking support method, and program",0,A61B|A61H|A63B|G06F|G09B
+11482054,2022-10-25,Systems and methods for estimating trip use for a prospective vehicle,0,G06N|G06Q|G07C
+11481835,2022-10-25,Rental system,0,B60W|G06Q
+11480971,2022-10-25,Systems and methods for generating instructions for navigating intersections with autonomous vehicles,4,B60W|G05D|G06N
+11479243,2022-10-25,Uncertainty prediction based deep learning,1,B60W|G05D|G06N
+11479209,2022-10-25,Input information management system,1,B60R|G06F|H04L
+11477806,2022-10-18,"Communication device, communication system, radio base station, communication control method, and storage medium",0,H04W
+11475690,2022-10-18,Vehicle control system and vehicle control method,0,B60W|G06Q|G06V
+11475620,2022-10-18,"Information processing apparatus for providing information associated with a vehicle, information providing method, and storage medium",0,A63F|B60L|G06T|G07C|Y02T|Y04S
+11474624,2022-10-18,Vehicle user interface (UI) management,0,B60K|G06F|G09G
+11470463,2022-10-11,"Vehicle control apparatus, vehicle recording medium, and vehicle control method",0,H04L|H04W
+11468888,2022-10-11,"Control apparatus, control method agent apparatus, and computer readable storage medium",0,G06F|G10L
+11468534,2022-10-11,System and method for recommending shared transportation,0,G06Q
+11467718,2022-10-11,Information sharing system and information sharing method,1,G06F|H04L|H04M
+11467592,2022-10-11,Route determination method,0,G01C|G05D|G06F|G06V
+11467556,2022-10-11,System and method for projection of light pattern on work-piece,0,G01B|G05B|G06T
+11465650,2022-10-11,Model-free reinforcement learning,3,B60W|G05D|G06F|G06N
+11462066,2022-10-04,System and method for locking a charging port to charge an electric vehicle,0,B60K|B60L|B60Y|E05B|G01S|G06F|G06Q|G07C|H04L|H04W|Y02T
+11461857,2022-10-04,Management device and method,0,G01R|G06Q|H02J|Y02B|Y02E|Y02T|Y04S
+11461817,2022-10-04,Accommodation area management device,0,G06Q|G08G|H04W
+11460856,2022-10-04,System and method for tactical behavior recognition,1,G05D|G06F|G06V|G07C
+11460309,2022-10-04,"Control apparatus, control method, and storage medium storing program",0,G01C|G06F|G06V
+11458987,2022-10-04,Driver-centric risk assessment: risk object identification via causal inference with intent-aware driving models,4,B60W|G06F|G06N|G06T|G06V
+11458841,2022-10-04,"Display control apparatus, display control method, and computer-readable storage medium storing program",0,B60K|G02B|G06F|G09G
+11457445,2022-09-27,"Communication system, management apparatus, and computer-readable storage medium for preventing interference between communication apparatuses",0,H04W
+11456028,2022-09-27,Semiconductor device and control method thereof,0,G11C|H01L
+11455645,2022-09-27,Prospective battery electric vehicle (BEV) buyer analysis,0,G06N|G06Q
+11455428,2022-09-27,Data registration system,0,G06F|H04L
+11455162,2022-09-27,Software rewriting device,0,G06F
+11454972,2022-09-27,Method and system for providing an equipped autonomous vehicle to a destination,0,G05D|G08G|H04W
+11453304,2022-09-27,"Management apparatus, management method, and program",0,B60L|G05B|G06Q|H02J|Y02T
+11451942,2022-09-20,"Communication control device, communication device, communication system, radio base station, communication control method, and storage medium",0,H04W
+11449334,2022-09-20,Software rewriting device,0,G06F
+11449065,2022-09-20,System and method for controlling an autonomous carriage based on user intentions,2,G05D|G06N|G06V|H04L
+11447155,2022-09-20,"Vehicle control device, map information management system, vehicle control method, and storage medium",0,B60W|G01C|G06F
+11447131,2022-09-20,"Vehicle control device, vehicle control method, and recording medium",0,B60W|G05D|G06Q
+11447127,2022-09-20,Methods and apparatuses for operating a self-driving vehicle,1,B60W|G05D|G06F|G06V|G10L
+11447032,2022-09-20,Power reception/billing between multiple portable power supply devices,0,B60L|G06Q|G07F|Y02T|Y04S
+11443759,2022-09-13,"Information processing apparatus, information processing method, and storage medium",0,G06N|G10L
+11443532,2022-09-13,Capturing neutral face expression apparatus and method,0,B60W|B62D|G06T|G06V
+11443313,2022-09-13,Methods and systems for authorizing a real-time transaction with a third party platform,0,G06Q|H04L|H04W
+11442981,2022-09-13,"Information providing device, information providing method, and recording medium with combined images corresponding to selected genre",0,G06F|G06N
+11441917,2022-09-13,System and method for adjusting an electric vehicle charging speed,2,B60L|G01C|G06F|Y02T|Y04S
+11440506,2022-09-13,"Entry support system, entry support method, and storage medium",0,B60R|G06F|G06V
+11438741,2022-09-06,Coordinated transportation system and methods thereof,0,B60N|B60Q|G05D|H04W
+11438450,2022-09-06,Information transmission apparatus and information transmission method,0,G06F|G10L|H04M
+11437349,2022-09-06,Semiconductor device,0,G11C|H01L
+11437035,2022-09-06,"Agent device, method for controlling agent device, and storage medium",0,B60K|B60R|G01C|G06F|G10L
+11436278,2022-09-06,Database creation apparatus and search system,0,G06F
+11435737,2022-09-06,System and method for various vehicle-related applications,0,G05D|G06F
+11435201,2022-09-06,Information processing system and information processing device,0,G01C|G06N
+11432182,2022-08-30,Primary PUCCH TPC index and a secondary PUCCH TPC index in a wireless network,1,H04L|H04W|Y02D
+11432120,2022-08-30,"In-vehicle communication device, communication method, and storage medium",0,H04W
+11430213,2022-08-30,"Information processing device, information processing method, and storage medium",0,G01C|G06F|G06T|G06V|H04W
+11429678,2022-08-30,Document comparison system,0,G06F|G06V
+11429370,2022-08-30,"Software updating apparatus, vehicle, and software updating method",1,B60W|G06F
+11425615,2022-08-23,"Communication system, computer-readable storage medium, and information processing method",0,H04W
+11423777,2022-08-23,Traffic sign displaying device,3,G06F|G06V|G08G
+11420619,2022-08-23,Accommodation area management device,0,B60W|G06Q
+11416808,2022-08-16,Load receiving vehicle,0,B60Q|B60R|G05D|G06Q|G07C
+11410471,2022-08-09,Systems and methods for providing a data flow for sensor sharing,0,G07C|H04B|H04W
+11410048,2022-08-09,Systems and methods for anomalous event detection,1,B60W|G05D|G06N
+11408941,2022-08-09,"Information processing apparatus, computer-readable storage medium, and information processing method",1,B60L|G01R|G06Q|G07C|Y02T
+11407407,2022-08-09,"Vehicle control device, vehicle control method, and storage medium",0,B60L|B60S|B60W|G06V|G07C|G08G|H04W|Y02T
+11405559,2022-08-02,Systems and methods for live signal adjustment of a movable camera,0,B60R|G06T|H04N
+11405210,2022-08-02,Authentication system,0,H04L
+11404396,2022-08-02,Semiconductor device comprising memory semiconductor chip in which memory cell is laminated on semiconductor substrate,0,G11C|H01L
+11403952,2022-08-02,Method and system for providing an equipped autonomous vehicle to a destination,0,G05D|G06Q|G08G
+11403850,2022-08-02,System and method for providing unsupervised domain adaptation for spatio-temporal action localization,1,G06F|G06N|G06V
+11403624,2022-08-02,System and method for layered authorization to manage a payment wallet for in-vehicle payments,0,G06Q|H04L|H04W
+11400814,2022-08-02,"Display control device, vehicle, and display control method",0,B60K|G06F|G09G
+11399158,2022-07-26,"Vehicle control system, vehicle control method, and recording medium in which vehicle control program is recorded",0,B60R|G06V|H04N
+11397557,2022-07-26,Vehicle,0,B62J|B62K|G06F|H04R|H04S
+11397322,2022-07-26,"Image providing system for vehicle, server system, and image providing method for vehicle",0,B60N|B60R|G02B|G06T|H04N
+11396291,2022-07-26,Inferring a lane boundary position by the detected position of other vehicles in different lanes,0,B60W|G06F|G06T|G06V
+11396245,2022-07-26,Hybrid vehicle-to-grid and mobility service request system,0,B60L|G06Q|Y02E|Y04S
+11393262,2022-07-19,"Vehicle management system, vehicle management program, and vehicle management method",0,G06F|G07C|G10L|Y02T
+11392941,2022-07-19,System and method for securing a private key transaction within blockchain,0,G06Q
+11392280,2022-07-19,Image selection apparatus,0,G06F|G06Q
+11391807,2022-07-19,Systems and methods for use in transmitting data,0,G01S|G07C|H04B|H04W
+11390282,2022-07-19,System and method for intersection communication,0,B60W|G05D|G08G|H04L|H04W
+11390185,2022-07-19,Systems and methods for providing a personalized state of charge,0,B60K|B60L|B60Y|G06Q|Y04S
+11388776,2022-07-12,Control plane cellular internet-of-things (IoT) optimization indication,0,H04W
+11388651,2022-07-12,Base station configuration sharing in a wireless network,1,H04L|H04W
+11388542,2022-07-12,Vehicle,0,B62J|B62K|G06F|H04R|H04S
+11386500,2022-07-12,Insurance premium setting system,0,G06Q|G07C
+11386370,2022-07-12,Fleet management system,0,G06Q
+11383721,2022-07-12,System and method for responding to driver state,0,B60K|B60R|B60W|G06F|G06V|G07C|G16H
+11381352,2022-07-05,HARQ ID for consecutive uplink subframes in a wireless device,2,H04L|H04W
+11381086,2022-07-05,"Power management system, control device, and method",0,B60L|G06Q|H02J
+11380325,2022-07-05,"Agent device, system, control method of agent device, and storage medium",1,B60R|G06F|G10L
+11380120,2022-07-05,Driving assistance device,0,B60W|G01S|G06T|G06V|G08G
+11379917,2022-07-05,Server for credit management,0,G06Q|G07F
+11377124,2022-07-05,"Vehicle control device, vehicle control method, and storage medium",0,B60K|B60W|G05D|G06V|H04W
+11377094,2022-07-05,System and method for responding to driver behavior,1,A61B|B60K|B60T|B60W|B62D|G01C|G06F|G08B|G08G
+11376989,2022-07-05,Information processing apparatus and method for bidirectional transmission of electric power between electric vehicle and power system,0,B60L|H04W|Y02E|Y02T|Y04S
+11376920,2022-07-05,Moving body control apparatus,0,B60H|B60R|B60S|H04N
+11375359,2022-06-28,Method and system for managing service provisioning based on registration,1,G06Q|H04W
+11375163,2022-06-28,Vehicle inspection device and vehicle inspection system,0,B60R|G06Q|G06T|G06V|H04N
+11374700,2022-06-28,Uplink grant for consecutive uplink subframes in a wireless device,1,H04L|H04W
+11373355,2022-06-28,"Acoustic scene reconstruction device, acoustic scene reconstruction method, and program",0,A01K|G06T|G10L|H04R|H04S
+11373198,2022-06-28,"Evaluation device, evaluation method, and evaluation program",0,G06Q
+11372610,2022-06-28,"Display device, and display method",1,B60K|G06F|G09G
+11372401,2022-06-28,Vehicle control apparatus,2,B62D|G05D|G06F
+11372397,2022-06-28,Systems and methods for use in facilitating a manufacturing operation,0,G05B|H04B|H04W
+11372110,2022-06-28,Image display apparatus,1,B60R|G01S|H04N
+11370446,2022-06-28,System and method for learning and predicting naturalistic driving behavior,0,B60W|G05D|G06F|G06N|G06V
+11368893,2022-06-21,"Communication device, communication method, and program for handovers",0,H04W
+11368210,2022-06-21,"Relay device, program, communication system, and communication method",0,H04B|H04W
+11366513,2022-06-21,Systems and methods for user indication recognition,0,G01C|G06F|G10L
+11365975,2022-06-21,Visual confirmation system for driver assist system,0,G01C|G01S|G06F|G06V
+11364921,2022-06-21,"Object recognition apparatus, object recognition method, and vehicle",0,B60W|G05D|G06F|G06V
+11363508,2022-06-14,"Unmanned aerial vehicle, controller, and management device",0,H04B|H04W
+11362861,2022-06-14,Operating device,0,H04L
+11356980,2022-06-07,Event management server,0,H04L|H04W
+11356892,2022-06-07,Channel congestion control in V2X communication,0,H04L|H04W
+11355114,2022-06-07,"Agent apparatus, agent apparatus control method, and storage medium",0,G06F|G10L
+11354731,2022-06-07,Vehicle rental system and vehicle rental method,0,G01P|G01S|G06Q|G07B|G08G|H04N
+11354087,2022-06-07,Vehicle,0,B62J|B62K|G06F|G08G|H04R|H04S
+11351914,2022-06-07,"Vehicle control device, vehicle control method, and storage medium",1,B60Q|G06V|G08G|H04N|H04W
+11351864,2022-06-07,"Snowplow, projection method for snowplow, storage medium, and projection system",0,B60K|B60Q|E01H|G08B|H04N
+11348191,2022-05-31,System and method for vehicle reporting electrical infrastructure and vegetation twining,3,G06Q|G06V
+11345368,2022-05-31,"Guidance system, guidance method, and storage medium",3,A61B|B60W|G01C|G05D|G06T
+11345288,2022-05-31,"Display system, vehicle control apparatus, display control method, and storage medium for storing program",0,B60R|H04N
+11343755,2022-05-24,Node selection for network sharing,1,H04L|H04W
+11341788,2022-05-24,System and method for providing tuning assistance for a motorcycle,0,B62J|B62M|G07C|H04W
+11341755,2022-05-24,Information acquisition apparatus,1,G06F|G06V
+11340627,2022-05-24,"Vehicle control system, vehicle control method, and storage medium",0,B60W|G05D|G06V|H04N
+11337207,2022-05-17,Uplink transmission based on a hybrid retransmission request (HARQ) process and a new data indicator (NDI),1,H04L|H04W
+11335186,2022-05-17,Communication system,0,G08G|H04W
+11335134,2022-05-17,Driving evaluation system and storage medium,0,B62D|G06Q|G07C
+11332165,2022-05-17,Human trust calibration for autonomous driving agent of vehicle,2,B60K|B60W|G06F|G06V
+11328632,2022-05-10,"Display control apparatus, control method of display control apparatus, moving object, and storage medium for controlling visible direction in display device",0,B60Q|G06F|G09F
+11328433,2022-05-10,Composite field based single shot prediction,0,G05D|G06F|G06T|G06V
+11327597,2022-05-10,Rotating electric machine unit,0,G06F|H02K
+11327491,2022-05-10,"Vehicle control device, vehicle control method, and storage medium",0,B60L|G05D|G06N|Y02T
+11325605,2022-05-10,"Information providing device, information providing method, and storage medium",0,B60K|B60W|G06F|G06V|H04L|H04W
+11324067,2022-05-03,Communication apparatus,0,H04W
+11322026,2022-05-03,Control device and computer readable storage medium,0,G06V|G08G|H04W
+11321789,2022-05-03,"V2G system, server apparatus, and transport machine",0,G06Q|H04L|Y04S
+11315335,2022-04-26,Mixed-reality interaction with touch device,0,G01C|G06T
+11315199,2022-04-26,System and method for providing OEM control to maximize profits,1,B60L|G06Q|H02J|Y02B|Y02E|Y02T|Y04S
+11315057,2022-04-26,"Power storage device management system, storage device, server device, power storage device management method, program, and storage medium",1,B60L|G06Q|H01M|H02J|Y02T|Y04S
+11313692,2022-04-26,Navigation server and navigation system,0,G01C|H04L
+11312389,2022-04-26,Providing information to vehicle occupants based on emotions,2,B60K|B60W|G06F|G06V
+11312336,2022-04-26,Methods of operating a rear wiper system and a full display mirror system of a vehicle,0,B60Q|B60R|B60S|G06T
+11312297,2022-04-26,Haptic communication for removing interruptions,0,B60Q|G08B|H04L|H04W
+11309290,2022-04-19,Semiconductor apparatus including penetration electrodes connecting laminated semiconductor chips,0,H01L
+11308357,2022-04-19,Training data generation apparatus,0,G06F|G06N|G06V|G08G
+11307756,2022-04-19,System and method for presenting moving graphic animations in inactive and active states,1,B60K|G06F|G09G
+11307582,2022-04-19,"Vehicle control device, vehicle control method and storage medium",0,B60Q|B60W|G05D|G06N
+11307573,2022-04-19,Communication terminal and computer-readable storage medium,0,B60R|G05D|H04L
+11307041,2022-04-19,"Vehicle information providing device, vehicle information providing method, and program",0,G01C|G05D|G06Q|G08G
+11302379,2022-04-12,Semiconductor apparatus,0,G11C|H01L
+11302194,2022-04-12,"Management device, management method, and storage medium",0,G06F|G06V|G08G
+11302110,2022-04-12,Pedestrian action recognition and localization using RGB images,1,G06N|G06V
+11301992,2022-04-12,"Information processing device, water-supply system, information processing system and non-transitory computer readable medium storing program",0,A01D|A01G|G06F|G06T|G06V
+11300938,2022-04-12,"Information processing device, information processing method, and information processing system",0,G05B|G06Q|H02J|Y02E|Y04S
+11300622,2022-04-12,Battery value setting apparatus,1,G01R|G06Q|H01M|Y02E
+11300422,2022-04-12,Information provision apparatus and method of controlling the same,0,G01C|G06F|G06V
+11297491,2022-04-05,Information sharing system and information sharing method,0,H04L|H04W
+11295533,2022-04-05,Product evaluation result display system,0,G06T
+11289931,2022-03-29,"Information processing apparatus, information processing method, storage medium, portable electrical storage device, and rental system",0,G06F|G06Q|H01M|H02J|Y02E
+11289912,2022-03-29,"Management system, non-transitory computer readable medium, management method, and management server",0,G06F|G06Q|H02J
+11288717,2022-03-29,Vehicle utilization support system,0,G01C|G06Q
+11288692,2022-03-29,Vehicle management system and vehicle management method,0,B60S|G06Q|G06V
+11287879,2022-03-29,"Display control device, display control method, and program for display based on travel conditions",1,B60R|G06F|G06T|G06V|H04N
+11285974,2022-03-29,Vehicle control system and vehicle,0,B60K|B60W|G06V|H04L|H04W
+11284232,2022-03-22,Vehicle control system,0,B60H|B60L|B60R|G07C|H04W|Y02T
+11281289,2022-03-22,Content adjustment based on vehicle motion and eye gaze,0,B60K|B60R|G06F|G06N|G06V
+11277362,2022-03-15,Content post delay system and method thereof,0,G06F|G06N|H04L
+11275447,2022-03-15,System and method for gesture-based point of interest search,0,B60K|G01C|G06F|G06V
+11269345,2022-03-08,Vehicle control system,0,B60K|B60W|B62D|G05D|G06V|H04N
+11263365,2022-03-01,Post-aging adhesive testing,0,B62D|C09J|G06F
+11262910,2022-03-01,System and method for presenting and manipulating a map user interface,1,G01C|G06F
+11260872,2022-03-01,System and method for utilizing a temporal recurrent network for online action detection,4,B60W|G05D|G06F|G06N|G06V
+11256247,2022-02-22,Vehicle control system,0,G05D|G06T
+11254218,2022-02-22,Charging system of movable bodies having automatic operation function and program,2,B60L|B60W|B62D|E04H|G05B|G06Q|G08G|Y02T
+11252380,2022-02-15,Road management system,0,B60R|G06V|G08G|H04N
+11250875,2022-02-15,"Behavior support system, behavior support apparatus, behavior support method, and storage medium storing program thereof",0,G06F|G06V|G08G|G10L|H04W
+11250650,2022-02-15,Ride-hailing vehicle identification,0,G01C|G06Q|G07C
+11249675,2022-02-15,Information management system,0,G06F|H04L
+11249473,2022-02-15,"Remote driving managing apparatus, and computer readable storage medium",1,G01C|G05D|G06Q
+11247692,2022-02-15,"Prediction device, prediction method, and storage medium",1,B60W|G05B|G06F|G06V
+11247682,2022-02-15,"Vehicle control system, vehicle control method, and vehicle control program",0,B60W|G06F|G06V
+11245817,2022-02-08,High temperature video camera system,0,G03B|H04N
+11243675,2022-02-08,Method and system for enriching cross-brand user in interface experiences,3,G06F
+11243613,2022-02-08,Smart tutorial for gesture control system,0,G06F|G06V
+11242061,2022-02-08,"Vehicle control device, vehicle control method and vehicle control program",0,B60W|H04W
+11242050,2022-02-08,Reinforcement learning with scene decomposition for navigating complex environments,2,B60W|G05D|G06F|G06N|G06V|G08G
+11240940,2022-02-01,"Heat radiation structure of electric parts assembly, heat conduction sheet, and method of manufacturing electric parts assembly",0,B60L|H01L|H05K|Y02T
+11240862,2022-02-01,"Communication device, computer-readable storage medium, communication system, and communication method",0,H04L|H04M|H04W
+11240342,2022-02-01,"Agent device, method of controlling agent device, and computer-readable non-transient storage medium",0,G10L|H04L|H04W
+11238517,2022-02-01,"Navigation server, navigation client and navigation system",0,G06Q|H04L|H04W
+11238284,2022-02-01,Vehicle state evaluation apparatus,0,G06Q|G06V|H04N
+11237461,2022-02-01,Transport equipment and sensor bracket,4,B60R|F16M|G03B|H04N
+11237009,2022-02-01,Information provision system for route proposition based on emotion information,0,G01C|G06V|H04L
+11235831,2022-02-01,Straddle type vehicle,0,B60R|B62J|G06T|G06V
+11232350,2022-01-25,System and method for providing road user classification training using a vehicle communications network,0,G06N|G08G|H04L
+11231708,2022-01-25,"Display control apparatus, display control method, and storage medium",3,A01D|G05D|G06F|G07C|G09G|H04W
+11231281,2022-01-25,"Information-processing device, information-processing method, and program",0,B60W|G01C|G05D|G06F|G06V|G08G|G09B|H04W
+11227491,2022-01-18,Information analysis device and information analysis method,0,G08G|H04W
+11227348,2022-01-18,Mobile modular dining,0,G01C|G06Q
+11226730,2022-01-18,System and methods for controlling a vehicular infotainment system,1,B60K|G06F
+11225145,2022-01-18,Apparatus and method for emergency control for vehicle,2,B60K|B60W|G01C|G06V|G08B|G08G|H04W
+11222484,2022-01-11,"Maintenance notification system and method for controlling same, and non-transitory computer readable medium",1,G06Q|G07C
+11220181,2022-01-11,"Operation control device, operation control method, and storage medium",0,B60K|G06F|G06V|G09G
+11219262,2022-01-11,System and method for providing safety assistance in vehicle,1,A41D|A42B|A61B|G06F|G08B|H04W|H05B
+11219075,2022-01-04,Systems and methods for providing a mobility service,0,G06Q|H04L|H04W
+11217248,2022-01-04,Conversation device and conversation system,0,A61G|G01C|G05D|G06N|G06Q|G10L
+11216001,2022-01-04,System and method for outputting vehicle dynamic controls using deep neural networks,0,B60W|G05D|G06N
+11215956,2022-01-04,Content output apparatus and content output method,0,G05B|G06F|G09G
+11214197,2022-01-04,"Vehicle surrounding area monitoring device, vehicle surrounding area monitoring method, vehicle, and storage medium storing program for the vehicle surrounding area monitoring device",1,B60R|G08G|H04N
+11212654,2021-12-28,Coordinated driving through driver-to-driver V2X communication,2,B60W|G01C|G01S|G05D|G08G|H04W
+11211033,2021-12-28,"Agent device, method of controlling agent device, and storage medium for providing service based on vehicle occupant speech",1,B60K|G06F|G06T|G09G
+11210686,2021-12-28,"Management device, management method, and storage medium",0,B60L|G06Q|Y02E|Y02T|Y02W|Y04S
+11210540,2021-12-28,System and method for providing rear seat monitoring within a vehicle,1,B60Q|B60R|G06V|G10L|H04N|H04R|H04W
+11209820,2021-12-28,System and method for providing autonomous vehicular navigation within a crowded environment,1,G01C|G05D|G06N|H04W
+11208009,2021-12-28,Electrical apparatus,3,B60H|B60K|B60L|B60Y|H01L|H05K|Y02T
+11208001,2021-12-28,Vehicle management system to control supply of power or charging between onboard power unit and exterior,0,B60L|G06Q|H02J|Y02B|Y02E|Y02T|Y04S
+11204604,2021-12-21,Remote driving managing apparatus and computer-readable storage medium,1,G05D|G06Q|H04W
+11203266,2021-12-21,Battery station management system including server for generating monitoring screen showing state information of battery exchange devices and battery devices in each battery station and battery station management method,3,B60L|G06Q|H01M|H02J|Y02E|Y02T|Y04S
+11202150,2021-12-14,Audio control based on determination of physical space surrounding vehicle,1,B60R|G06F|G06V|H04R
+11198439,2021-12-14,"Vehicle control device, vehicle control method, and storage medium",3,B60R|B60W|H04W
+11197126,2021-12-07,Identification of user's home location,1,G06Q|H04L|H04W
+11195416,2021-12-07,"System, management method, and information processing device for determination of parking position of vehicle",0,B60R|B60W|G01C|G06V|G08G|H04W
+11195349,2021-12-07,External-world recognition system,1,G01C|G05D|G06T|G06V|G07C|G08G
+11195030,2021-12-07,Scene classification,0,G06T|G06V
+11194471,2021-12-07,Apparatus and method for display control based on touch interface,0,B60K|G06F
+11192511,2021-12-07,"Determination device, determination system, and determination method",0,B60R|H04L|H04W
+11192466,2021-12-07,Electric charge management system and method for a vehicle,6,B60L|G06Q|Y02T|Y04S
+11192463,2021-12-07,Cooperative automotive mobile charging infrastructure,1,B60K|B60L|B60Y|G06Q|Y02T|Y04S
+11188925,2021-11-30,Method and system for automated reconfiguration of user interface based on product lifecycle,0,G06F|G06Q|G06T
+11188766,2021-11-30,System and method for providing context aware road-user importance estimation,3,G05D|G06T|G06V
+11188296,2021-11-30,Human-vehicle interaction,0,B60K|B60W|G06F
+11186290,2021-11-30,Emotion inference device and emotion inference system,1,A61B|B60W|G06F|G06N|G06T|G06V|G08G|G09B|G10L
+11186217,2021-11-30,Mobility as a service (MaaS) with modular interiors,1,B60P|G05D|G06Q|G07F
+11182985,2021-11-23,Data registration system,0,G07C|G08G|H04L
+11181929,2021-11-23,System and method for shared autonomy through cooperative sensing,3,G05D|G08G|H04W
+11180049,2021-11-23,Mobile modular battery charging and exchange system,1,B60L|B60R|B60S|G06Q|H02J|Y02T
+11176948,2021-11-16,"Agent device, agent presentation method, and storage medium",0,G06F|G06V|G10L|H04N|H04R|H04S
+11170406,2021-11-09,System and methods for battery electric vehicle driving analysis,0,G06Q|G07C
+11169618,2021-11-09,Systems and methods for distinguishing gestures,0,G06F|G06V
+11169537,2021-11-09,Providing driving support in response to changes in driving environment,0,B60W|G05D|G06V|G08G|H04W
+11167776,2021-11-09,Seat haptic system and method of equalizing haptic output,0,B60N|B60Q|B60W|G06F
+11167773,2021-11-09,"Vehicle control system, vehicle control method, and vehicle control program",0,B60K|B60R|B60W|G06F|G08G
+11167693,2021-11-09,Vehicle attention system and method,0,B60N|B60Q|G06F|G06V|G10L
+11165955,2021-11-02,"Album generation apparatus, album generation system, and album generation method",0,G06T|G06V|H04N
+11155259,2021-10-26,System and method for egocentric-vision based future vehicle localization,3,B60W|G05D|G06T
+11150656,2021-10-19,Autonomous vehicle decision making,0,B60W|G05D|G06F|G06N|G06V
+11150643,2021-10-19,Systems and methods for remote control by multiple operators,0,G05D|H04W
+11145204,2021-10-12,Snow removal apparatus operating system and snow removal apparatus operating method,0,B60W|E01H|G05D|G06Q|G06V|G08G|H04W
+11145143,2021-10-12,"Unmanned work system, management server, and unmanned work machine",0,A01D|G05D|G06Q|G07C
+11144789,2021-10-12,"Model parameter learning device, control device, and model parameter learning method",0,G05D|G06F|G06N|G06V
+11142069,2021-10-12,"Control device for controlling vehicle, method for controlling vehicle, and storage medium",0,B60K|B60W|F02D|G01C|G06F|G06Q|H04L|H04W
+11139667,2021-10-05,Electric power demand/supply management device,0,B60L|B60Y|G06Q|H02J|Y02E|Y02T|Y04S
+11138756,2021-10-05,"Three-dimensional object detection method and device, method and device for controlling smart driving, medium and apparatus",1,G06T|G06V
+11137758,2021-10-05,Vehicle use system,0,G05D|G06Q|G08G
+11137729,2021-10-05,Systems and methods for vehicle communication for remote control,0,G01C|G05B|G05D|H04L|H04W
+11136086,2021-10-05,"Saddle riding vehicle, method of controlling saddle riding vehicle, and storage medium",0,B62J|G06F|G09G
+11136026,2021-10-05,Vehicle control device,1,B60W|G06F|G06V
+11135938,2021-10-05,Energy management,0,B60L|B60S|G01C|G01R|G01S|G06F|G06Q|G07F|H04L|Y02T|Y04S
+11135725,2021-10-05,"Robot control system, robot control method and user apparatus for robot control system",0,B25J|G06F
+11132699,2021-09-28,"Apparatuses, method, and computer program for acquiring and evaluating information and noise removal",1,G06Q
+11131031,2021-09-28,High-yield preparation of two-dimensional copper nanosheets,0,B01J|B22F|C01G|C07C|C22B|C25B|C30B|G11C|H01L|H10B
+11127056,2021-09-21,System and method for determining at least one demand response overhead percentage,0,G06F|G06Q|Y02T
+11126282,2021-09-21,System and method for touchpad display interaction with interactive and non-interactive regions,0,B60K|G06F
+11122489,2021-09-14,On-board vehicular communication system,0,G07C|H04L|H04M|H04Q|H04W
+11119969,2021-09-14,Communication system and communication control method,3,G06F|H04L
+11117584,2021-09-14,Merge behavior systems and methods for mainline vehicles,7,B60W|G05D|G06N
+11115571,2021-09-07,Vehicle imaging unit,1,B60R|H04N
+11115164,2021-09-07,Sounding reference signal subframe position in a plurality of scheduled consecutive subframes,0,H04L
+11110891,2021-09-07,"Onboard authentication device, authentication method, and storage medium",0,B60R|G06F|G07C|H04L|H04W
+11109296,2021-08-31,"Control device, computer-readable storage medium, communication system, and control method",0,H04W
+11107471,2021-08-31,"Dialog processing server, control method for dialog processing server, and terminal",0,G06F|G06N|G10L
+11107464,2021-08-31,"Feeling estimation device, feeling estimation method, and storage medium",1,B60W|G06F|G06V|G10L
+11107097,2021-08-31,System and method for completing trend mapping using similarity scoring,0,B60W|G06Q|G07C
+11102840,2021-08-24,Process for monitoring a control channel in a wireless device,2,H04W|Y02D
+11100733,2021-08-24,Vehicle inspection device and vehicle inspection method,0,G01M|G07C|H04L|H04W
+11100345,2021-08-24,"Vehicle control system, vehicle control method, and readable storage medium",1,G06T|G06V|G08G
+11099830,2021-08-24,"Software updating apparatus, vehicle, and software updating method",2,B60L|G06F|Y02T
+11099012,2021-08-24,Aerial vehicle and control method for aerial vehicle,0,B64D|B64U|G01C|H04L
+11097691,2021-08-24,Window heating system for vehicular camera,3,B60R|B60S|H04N
+11097632,2021-08-24,Method and system for coordinating a battery exchange,2,B60L|G06F|Y02T|Y04S
+11096110,2021-08-17,"Communication system, wireless base station, computer-readable storage medium, method, and management apparatus",0,H04W|Y02D
+11094026,2021-08-17,System and method for determining a safe return to a vehicle,0,G01C|G06F|G06Q|G16H|H04W
+11093829,2021-08-17,Interaction-aware decision making,3,B60W|G05D|G06N
+11087798,2021-08-10,Selective curation of user recordings,1,G06F|G11B|H04L|H04N
+11087477,2021-08-10,Trajectory prediction,10,G06N|G06T
+11087393,2021-08-10,Vehicle sharing,1,G06Q|G07F
+11087291,2021-08-10,Action planning and execution support device,1,G01C|G06Q|G08G
+11080543,2021-08-03,"Walking support device, walking support method and program",0,A61H|G06T|G06V|G08G
+11079762,2021-08-03,"Vehicle control device, vehicle control method, and storage medium",2,B60W|G05D|G06N
+11077766,2021-08-03,Vehicle-to-grid energy for use with hydrogen generation,0,B60L|G06Q|H01M|H02J|Y02E|Y02T|Y04S
+11076250,2021-07-27,"Microphone array position estimation device, microphone array position estimation method, and program",0,G06F|H04R
+11074665,2021-07-27,"Vehicle management server, vehicle management system and vehicle management method",0,G01C|G06Q
+11071070,2021-07-20,Receiving a power headroom value of a reference subframe during an uplink subframe,1,H04L|H04W
+11069239,2021-07-20,"Event vehicle dispatch device, event vehicle dispatch method, program, and management system",0,B60W|B62D|G06Q|G08G
+11069079,2021-07-20,Interaction with physical objects as proxy objects representing virtual objects,0,B25J|G05B|G06F|G06T
+11068529,2021-07-20,"Information output system, information output method, and program",0,G06F|H04L|H04N|H04W
+11062149,2021-07-13,System and method for recording images reflected from a visor,1,B60Q|B62J|G06T|G06V|H04N
+11062141,2021-07-13,Methods and apparatuses for future trajectory forecast,2,G05D|G06N|G06V
+11059493,2021-07-13,Systems and methods for estimating velocity of an autonomous vehicle and state information of a surrounding vehicle,0,B60W|G06T|G06V
+11059421,2021-07-13,Vehicle proximity system using heads-up display augmented reality graphics elements,1,B60K|B60Q|B60W|G06T|G08G
+11057511,2021-07-06,System and method for determining a safe return to a vehicle,1,H04M|H04W
+11052822,2021-07-06,"Vehicle control apparatus, control method, and storage medium for storing program",0,B60K|B60R|G06T|G09G
+11049318,2021-06-29,"Content providing device, content providing method, and storage medium",1,G06F|G06Q|G06T
+11049194,2021-06-29,Identifying and analyzing vehicle refueling events,1,G06Q|G07C
+11049045,2021-06-29,"Classification apparatus, robot, and classification method",0,G06N|G10L
+11043053,2021-06-22,"Vehicle management server, vehicle management system and vehicle management method",0,G06Q|G07C
+11042819,2021-06-22,"Server, client, and information sharing system",0,G06Q|H04W
+11041236,2021-06-22,Method for direct patterned growth of atomic layer metal dichalcogenides with pre-defined width,0,C23C|H01L
+11040596,2021-06-22,Vehicle control device and delivery system,0,B60H|B60J|G06Q|Y02T
+11039087,2021-06-15,Image processing apparatus and computer-readable storage medium,0,B60R|G06F|G06V|H04N
+11034357,2021-06-15,Scene classification prediction,3,B60W|G06N|G06T|G06V
+11031883,2021-06-08,Method of manufacturing actuator,0,H01L|H02N
+11027736,2021-06-08,Systems and methods for anticipatory lane change,2,B60W|G06N|G08G
+11027728,2021-06-08,Vehicle control device,0,B60R|B60W|G05D|G06T|G06V|G08G
+11027651,2021-06-08,"Vehicle control device, vehicle control system, vehicle control method, and storage medium",1,B60Q|B60W|G05D|G06V|H04W
+11027623,2021-06-08,Information processing server and information processing system,0,B60L|G01C|G06F|G09B|Y02T
+11021167,2021-06-01,"Vehicle control device, vehicle control method, and storage medium",1,B60W|G05B|G06F
+11021165,2021-06-01,"Driving assistance device, driving assistance system, program, and control method for driving assistance device",5,B60W|H04W
+11021112,2021-06-01,Display control device and computer-readable storage medium,0,B60R|G06T
+11017666,2021-05-25,"Vehicle control system, vehicle control method, and program",0,B60W|G01C|G05D|G06Q|G08G
+11017615,2021-05-25,"Information processing server that provides information of position of charging station, information processing method, vehicle, control method of vehicle, non-transitory computer-readable storage medium, and information providing system",4,B60L|G06F|G07C|Y02T|Y04S
+11015921,2021-05-25,Measurement system,0,G01B|G06T|H04N
+11014508,2021-05-25,"Communication support system, communication support method, and storage medium",0,B60R|G06F|G10L
+11014468,2021-05-25,"Management device, management system, and computer-readable storage medium",2,B60L|G06F|Y02T
+11011137,2021-05-18,"Display device, display control method, and storage medium for reducing visibility of double-images in head-up displays",1,B60K|G02B|G09G|H04N
+11009885,2021-05-18,Vehicle travel control apparatus,0,B60W|G05D|G06T|G06V
+11009702,2021-05-18,"Display device, display control method, storage medium",0,B60K|G02B|G06T|G09G
+11006243,2021-05-11,"Guidance device, guidance method, and storage medium",0,G01C|H04W
+11004275,2021-05-11,Product evaluation result display system,0,G06T
+10999713,2021-05-04,Information providing apparatus for controlling output of information and control method thereof,0,G06N|H04L|H04W
+10997972,2021-05-04,Object authentication device and object authentication method,0,G06F|G06V|G10L
+10997746,2021-05-04,Feature descriptor matching,4,G06F|G06N|G06T|G06V
+10997442,2021-05-04,"Control apparatus, control method, agent apparatus, and computer readable storage medium",0,G06F|G06V|G10L
+10996844,2021-05-04,"Program, method, and device for controlling application, and recording medium",0,G01C|G06F
+10994612,2021-05-04,"Agent system, agent control method, and storage medium",0,B60K|G06F|G09G|G10L|H04R|H04S
+10993076,2021-04-27,Lighting control apparatus and lighting control method,0,B60Q|B60R|H04W|H05B
+10990239,2021-04-27,"Display control apparatus, vehicle, and display control method",0,G06F|G09G
+10990096,2021-04-27,Reinforcement learning on autonomous vehicles,18,G05D|G06N
+10985566,2021-04-20,"Energy system, energy management server, energy management method, and non-transitory computer readable medium",0,G06Q|H01M|H02J|Y02E|Y02T
+10984144,2021-04-20,Data publishing system,0,G06F
+10981597,2021-04-20,Vehicle control device and method,0,B60R|B60T|B60W|B62D|G06T|G06V|G08G
+10981519,2021-04-20,Driving assistance apparatus and vehicle,1,B60K|B60R|G06F|G08G|G09G|H04N
+10981506,2021-04-20,"Display system, vehicle control apparatus, display control method, and storage medium for storing program",1,B60R|G06F|G09G|H04N
+10979883,2021-04-13,Radio communication system with mobile station functioning as mobile base station under emergency condition,0,H04W
+10974652,2021-04-13,Imaging unit for vehicle,0,B60R|H04N
+10973060,2021-04-06,Methods and systems for management of an association between a user and a vehicle,1,G06F|H04L|H04W
+10971148,2021-04-06,"Information providing device, information providing method, and recording medium for presenting words extracted from different word groups",0,G06F|G10L|H04M
+10971116,2021-04-06,"Display device, control method for placement of a virtual image on a projection surface of a vehicle, and storage medium",0,B60K|G02B|G06F|G09G
+10970563,2021-04-06,System and method for remapping surface areas of a vehicle environment,0,G06T|G06V
+10966028,2021-03-30,Mobile terminal and computer-readable storage medium,0,H04L|H04R
+10965368,2021-03-30,Relay device and computer-readable storage media,0,H04B|H04W
+10964188,2021-03-30,Missing child prevention support system,0,G06V|G08B|G10L|H04W
+10963064,2021-03-30,Control device and control method,0,B60K|B60R|B60W|G06F|G06V
+10962948,2021-03-30,"Power system, energy system, energy exchange method, program, terminal, and mobile object",0,B64D|B64F|B64U|G05B|G06Q|H01M|H02J|Y02E|Y02T
+10957208,2021-03-23,"Mobile body management system, control method for mobile body management system, and management server for mobile body management system",0,B64C|B64U|G05D|G06Q|G08G
+10957099,2021-03-23,System and method for display of visual representations of vehicle associated information based on three dimensional model,0,G01C|G06F|G06N|G06T
+10956761,2021-03-23,"Control apparatus, control method agent apparatus, and computer readable storage medium",0,B60R|G06F|G06V|G10L|H04W
+10953793,2021-03-23,Haptic function leather component and method of making the same,2,B32B|B60K|B60N|B60Q|B60R|B62D|H01L|H10H|H10N
+10951805,2021-03-16,Image generating apparatus and image generating method,0,H04N
+10950000,2021-03-16,Conductive-wire position inspecting method and device,0,G01R|G06T|H02K|H04N
+10946800,2021-03-16,Image display apparatus for displaying surrounding image of vehicle,3,B60R|H04N
+10945672,2021-03-16,System and method for capturing and decontaminating photoplethysmopgraphy (PPG) signals in a vehicle,1,A61B|B60R|G06F|G06V
+10945137,2021-03-09,"Communication system, communication method, and storage",0,H04W
+10943154,2021-03-09,Systems for modeling uncertainty in multi-modal retrieval and methods thereof,2,G06F|G06N|G06V
+10939453,2021-03-02,Vehicle and on-board communication devices,0,H04W
+10937334,2021-03-02,Information providing system,3,G06N|G09B|G10L
+10936050,2021-03-02,Systems and methods for user indication recognition,4,G01C|G06F|G10L
+10935789,2021-03-02,Image display apparatus and image display method,0,B62J|G01C|G02B|G06F|G08G|G09G
+10933912,2021-03-02,"Driving support device, driving support method, and computer readable storage medium",0,B60R|B60W|B62D|G01L|G06T|G06V|G08G
+10931458,2021-02-23,Authentication system,1,G06F|H04L|H04W
+10930154,2021-02-23,"Driving support system, driving support apparatus, and driving support method",1,G06V|G08G|H04W
+10930142,2021-02-23,Remote control device and remote control system,1,G06F|G08C
+10926697,2021-02-23,Switch structure,0,B60K|B60Q|B60R|H01H|H04L
+10921814,2021-02-16,"Vehicle control system and method, and travel assist server",0,B60W|G05D|G06N
+10917720,2021-02-09,"Sound source localization device, sound source localization method, and program",0,G06N|H04R
+10917441,2021-02-09,Communications system that detects an occurrence of an abnormal state of a network,2,H04L|H04W
+10917200,2021-02-09,Communication system and vehicle,0,H04L|H04W
+10911911,2021-02-02,Device control based on timing information,2,H04L|H04W
+10911709,2021-02-02,Onboard apparatus,0,B60R|G07C|H04N
+10909391,2021-02-02,Vehicle surrounding information acquiring apparatus and vehicle,1,B60W|G01S|G06T|G06V|G08G

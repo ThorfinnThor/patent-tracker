@@ -1,0 +1,554 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12425973,2025-09-23,Battery power conservation for asset tracking devices,0,G01S|G06Q|H04W
+12425808,2025-09-23,Asset tracking devices and mobile network plan selection,0,G06Q|G08B|H04L|H04W
+12415476,2025-09-16,System and method for portable user and vehicle settings,0,B60R|G06F|G06Q
+12409805,2025-09-09,Method and system for multi-party unlock in an inventory transaction,0,B60R|G06Q|G07C|H04L|H04W
+12407692,2025-09-02,Method and apparatus for providing an adaptable security level in an electronic communication,0,H04L
+12388853,2025-08-12,System and method for machine learning based malware detection,0,G06N|H04L
+12381905,2025-08-05,Remediation responsive to a pattern of alerts,0,G06F|H04L
+12380202,2025-08-05,Methods and systems for monitoring the behavior of a process,0,G06F
+12379838,2025-08-05,Electronic device and method of providing visual notification of a received communication,0,G06F|H04M
+12375942,2025-07-29,Providing secondary coverage in a mobile communication system,0,H04L|H04W
+12363838,2025-07-15,Tamper detection for intrinsically-safe or explosion-proof enclosures,0,G01S|G06F|G08B|H04W|H05K
+12346805,2025-07-01,Methods for converting hierarchical data,0,G06F|G06N|H04L
+12341905,2025-06-24,Method and system for providing data security for micro-services across domains,0,H04L|H04W
+12333019,2025-06-17,Risk assessment based on software bill of materials,0,G06F
+12323425,2025-06-03,Two-factor authentication for a shared device,0,H04L
+12322147,2025-06-03,Predictive coding of point clouds using multiple frames of references,0,G06T|H04N
+12322145,2025-06-03,Angular mode syntax for tree-based point cloud coding,0,G06T|H04N
+12307728,2025-05-20,Method and system for azimuthal angular prior and tree representation for cloud compression,0,G06T
+12294951,2025-05-06,Control of uplink data transmission,0,H04W|Y02D
+12277230,2025-04-15,Method and device for symbolic analysis of a software program,0,G06F
+12271693,2025-04-08,Method and system for finding associations between natural language and computer language,0,G06F|G06N
+12265946,2025-04-01,Risk assessment based on augmented software bill of materials,0,G06F|G06Q
+12262440,2025-03-25,Simplified UE + eNB messaging,0,H04W
+12260377,2025-03-25,Vehicle service authorization,0,G06Q
+12254240,2025-03-18,Controlling audio output in a vehicle,0,G06F|H04R|H04S
+12250306,2025-03-11,Method and system for sharing sensor insights based on application requests,0,H04L
+12250248,2025-03-11,Shared image sanitization method and system,0,G06F|G06T|G06V|H04L
+12243000,2025-03-04,Method and system for internet of things asset tracking within an intelligent transportation system,0,G01S|G06Q|H04W
+12242646,2025-03-04,Access restriction of vehicle-associated information,0,G06F|H04L|H04W
+12238745,2025-02-25,Detecting the number of transmit antennas in a base station,0,H04B|H04L|H04W
+12238588,2025-02-25,Method for accessing a service unavailable through a network cell,0,H04W
+12236651,2025-02-25,Angular prior and direct coding mode for tree representation coding of a point cloud,1,G06T|H04N
+12232144,2025-02-18,System and method for supporting inter-band carrier aggregation with different UL/DL TDD configurations,0,H04J|H04L|H04W
+12231511,2025-02-18,Event data processing,0,G06F|G06N|H04L
+12229294,2025-02-18,Event data processing,1,G06F
+12229045,2025-02-18,Buffers in shared memory for sensor data in vehicles,0,G06F
+12218949,2025-02-04,Risk-aware access control system and related methods,0,G06F|H04L|H04W
+12211375,2025-01-28,Method and apparatus for providing road user alerts,0,G08G|H04W
+12205051,2025-01-21,Method and system for a dynamic data collection and context-driven actions,0,G06N|H04L
+12200678,2025-01-14,System and method for multi-carrier network operation,0,H04L|H04W
+12200636,2025-01-14,Reporting power headroom for aggregated carriers,0,H04L|H04W
+12198018,2025-01-14,Ambiguating and disambiguating data collected for machine learning,0,G06F|G06N|H04L|H04W|Y02D
+12192538,2025-01-07,Angular mode for tree-based point cloud coding,0,G06T|H04N
+12192383,2025-01-07,Method and system for establishing trust for a cybersecurity posture of a V2X entity,0,G06F|H04L|H04W
+12190550,2025-01-07,Angular priors for improved prediction in point-predictive trees,0,G06T|H04N
+12185225,2024-12-31,Advertising service information for a service,0,H04W
+12185215,2024-12-31,Methods and systems for provisioning emergency numbers,0,H04L|H04W
+12184691,2024-12-31,Identifying a phishing attempt,0,G06F|H04L
+12182271,2024-12-31,Detecting software vulnerabilities in a binary code,0,G06F
+12175772,2024-12-24,Method and system for data object identification in vehicles,0,G06Q|G06V
+12174965,2024-12-24,Identifying application program interface use in a binary code,0,G06F|G06N
+12174948,2024-12-24,Using a variable write profile for detecting intrusion of a computer program,0,G06F
+12166632,2024-12-10,Method and system for load balancing of sensors,0,G07C|G08B|H04B|H04L|H04W
+12165371,2024-12-10,Methods and devices for binary entropy coding of point clouds,1,G06T
+12165370,2024-12-10,Context determination for planar mode in octree-based point cloud coding,0,G06T
+12160840,2024-12-03,Aggregating messages into a single transmission,0,H04L|H04W
+12155401,2024-11-26,Methods and devices for tree switching in point cloud compression,0,G06T|H03M|H04N
+12151688,2024-11-26,Route-based selections of vehicle parameter sets,0,B60W|G07C|H04W
+12143646,2024-11-12,Methods and devices using direct coding in point cloud compression,0,G06T|H03M|H04N
+12143130,2024-11-12,Methods and devices for multi-point direct coding in point cloud compression,0,G06T|H03M
+12137454,2024-11-05,System and method for reducing decoding for carrier power control,0,H04L|H04W
+12137018,2024-11-05,Method and apparatus for transmitting uplink control information in wireless communication system,0,H04L|H04W
+12131184,2024-10-29,Thread scheduling including preemption of a thread in a kernel persona,0,G06F
+12127093,2024-10-22,Emergency services handling,0,H04L|H04W
+12120286,2024-10-15,Methods and devices for identifying one or more boundaries of an object in image data,0,G06F|G06T|G06V|H04N
+12120250,2024-10-15,Method and system for reduced V2X receiver processing load using certificates,0,H04L|H04W
+12118384,2024-10-15,Scheduling of threads for clusters of processors,0,G06F
+12113645,2024-10-08,Method and system for automotive data ingestion,0,G06F|H04L
+12112193,2024-10-08,Thread state transitions,0,G06F
+12108491,2024-10-01,Multiple link layer addresses for a device,0,H04L|H04W
+12106141,2024-10-01,Interrupt handling,0,G06F
+12101523,2024-09-24,Method and system for vehicle data file playback,0,G06F|H04N
+12101430,2024-09-24,Method and system for character display in a user equipment,0,H04M|H04W
+12101174,2024-09-24,Enabling single radio voice call continuity (SRVCC) in a second access when a user equipment (UE) is using a first access,0,H04L|H04W
+12096166,2024-09-17,Method and system for moving status detection for a sensor apparatus,0,G01P|G06Q|H04Q
+12095701,2024-09-17,Proximity signaling and procedure for LTE,0,H04L|H04W
+12075351,2024-08-27,Method and system for battery life improvement for low power devices in wireless sensor networks,0,H04W|Y02D
+12074985,2024-08-27,Method and system for digital signatures utilizing multiplicative semigroups,0,H04L
+12067877,2024-08-20,Method and system for wireless road side units,0,G08G|H04L|H04W
+12058749,2024-08-06,Method and system for initial synchronization and collision avoidance in device to device communications without network coverage,0,H04B|H04W
+12052715,2024-07-30,Efficient control information transmission method and apparatus for supporting multiple antenna transmission technique,0,H04B|H04L|H04W
+12045607,2024-07-23,Method and system for a customized local build environment image,0,G06F
+12041444,2024-07-16,Authentication using wireless sensing,0,H04W
+12041036,2024-07-16,Method and system for performing identity checks in a distributed system,0,G06F|H04L
+12033496,2024-07-09,Event data collections for accidents,0,G06Q|G07C|G08G|H04W
+12028446,2024-07-02,Method and system for key agreement utilizing semigroups,0,G06F|H04L
+12026100,2024-07-02,Method and system for low latency data management,0,G06F
+12022328,2024-06-25,Method and apparatus for handling circuit switched calls at a user equipment,0,H04W
+12021943,2024-06-25,Method for marshalling events in a publish-subscribe system,0,G06F|G06N|H04L
+12016025,2024-06-18,Uplink control channel resource allocation for an enhanced downlink control channel of a mobile communication system,0,H04L|H04W
+12013957,2024-06-18,Method and system for indirect sharing of sensor insights,2,G06F|H04L
+12010708,2024-06-11,System and method for supporting inter-band carrier aggregation with different UL/DL TDD configurations,1,H04J|H04L|H04W
+12008228,2024-06-11,Portable electronic device including touch-sensitive display and method of navigating displayed information,0,G06F
+11997195,2024-05-28,Method and system for key agreement utilizing plactic monoids,0,G06F|H04L
+11991537,2024-05-21,Method and system for cloud extended attribute profile,0,H04L|H04W
+11988771,2024-05-21,Method and system for detecting cargo inside a container,0,G01S|G06Q
+11985724,2024-05-14,Simplified UE + eNB messaging,0,H04W
+11985099,2024-05-14,Handheld electronic device and associated method providing time data in a messaging environment,0,G06F|H04L|H04M|H04W
+11979509,2024-05-07,Method and system for handling dynamic cybersecurity posture of a V2X entity,0,H04L|H04W
+11972025,2024-04-30,Stored image privacy violation detection method and system,0,G06F
+11968310,2024-04-23,Method and system for providing data security for micro-services across domains,2,H04L|H04W
+11966599,2024-04-23,Method and system for low latency data management,0,G06F|H04L
+11962695,2024-04-16,Method and system for sharing sensor insights based on application requests,0,H04L
+11961268,2024-04-16,Predictive coding of point clouds using multiple frames of references,0,G06T|H04N
+11958439,2024-04-16,Methods and systems for driver identification,0,B60R|G06N
+11956370,2024-04-09,Method and system for digital signatures utilizing multiplicative semigroups,0,H04L
+11956284,2024-04-09,System and method for determining trust for SIP messages,0,G06F|H04L|H04W
+11956280,2024-04-09,Method for providing wireless application privilege management,0,H04L|H04W
+11954203,2024-04-09,Methods and systems for identifying a compromised device through its unmanaged profile,0,G06F
+11937221,2024-03-19,System and method for multi-carrier network operation,1,H04L|H04W
+11937190,2024-03-19,Reporting power headroom for aggregated carriers,1,H04L|H04W
+11930012,2024-03-12,Customization of data session retry mechanism in a wireless packet data service network,0,H04L|H04W
+11917085,2024-02-27,Method and system for reduced V2X receiver processing load using certificates,0,H04L|H04W
+11910302,2024-02-20,Multi-band channel discovery for WLAN,0,H04W
+11910193,2024-02-20,Methods and systems for segmenting computing devices in a network,0,H04L|H04W
+11893005,2024-02-06,Anomaly detection based on an event tree,0,G06F|G06N|H04L
+11888906,2024-01-30,Exchange and use of globally unique device identifiers for circuit-switched and packet switched integration,0,H04L|H04M|H04W
+11888857,2024-01-30,Risk-aware access control system and related methods,0,G06F|H04L|H04W
+11888823,2024-01-30,Secured in-tunnel messages and access control,0,H04L
+11888601,2024-01-30,User interface for messaging communications on an electronic device,0,G06F|H04L|H04M|H04W
+11886563,2024-01-30,Continuous authentication system and related methods,0,G06F|H04L|H04W
+11880451,2024-01-23,Secured code package for browser plugin,0,G06F
+11877297,2024-01-16,Method and system for signaling transmission layers for single user and multi user MIMO,0,H04B|H04L|H04W
+11874667,2024-01-16,Methods and systems for autonomous vehicle refueling,0,B67D|G05D|G06Q|G07C
+11870787,2024-01-09,Method and apparatus for providing an adaptable security level in an electronic communication,0,H04L|H04W
+11868949,2024-01-09,Method and system for internet of things asset tracking within an intelligent transportation system,0,G01S|G06Q|H04W
+11868465,2024-01-09,Binary image stack cookie protection,0,G06F
+11861869,2024-01-02,Methods and devices for binary entropy coding of point clouds,1,G06T
+11856440,2023-12-26,Method and apparatus to report link quality measurements for downlink dual carrier operation,0,H04L|H04W
+11847606,2023-12-19,System and method for cargo transportation unit tracking and monitoring device verification,0,G06Q|G06T|H04N
+11841264,2023-12-12,Method and system for cargo loading detection,0,G01G|G01H|G06Q
+11838855,2023-12-05,Advertising service information for a service,0,H04W
+11835379,2023-12-05,Method and system for shipping container loading and unloading estimation,0,G01G|G01H|G06N|G06Q
+11832190,2023-11-28,Control of uplink data transmission,1,H04W|Y02D
+11832178,2023-11-28,Method and system for battery life improvement for low power devices in wireless sensor networks,0,H04W|Y02D
+11832132,2023-11-28,Method for accessing a service unavailable through a network cell,1,H04W
+11812357,2023-11-07,Methods and systems for provisioning emergency numbers,1,H04L|H04W
+11812318,2023-11-07,Preserving emergency call during failure to transfer,0,H04W
+11800482,2023-10-24,Mobile transceiver having route monitoring and method of operation,0,G01C|G01S|G06Q|G08G|H04W|Y02D
+11797656,2023-10-24,Secure device sharing,0,G06F
+11792875,2023-10-17,Method and apparatus for state/mode transitioning,0,H04W
+11792073,2023-10-17,Method and system for load balancing of sensors,1,G07C|G08B|H04B|H04L|H04W
+11790043,2023-10-17,System and method for configuring a classifier to achieve a target error rate,0,G06F|G06N
+11785508,2023-10-10,Enabling single radio voice call continuity (SRVCC) in a second access when a user equipment (UE) is using a first access,1,H04L|H04W
+11783302,2023-10-10,Authorization of vehicle repairs,2,G06Q|G07C|H04L
+11778088,2023-10-03,"Handheld electronic device having improved phone call log, and associated method",0,H04M|H04W
+11776393,2023-10-03,Method and system for reversing the direction of a road segment,0,G01C|G08G|H04L|H04W
+11765190,2023-09-19,Method for creating a zero trust segmented network perimeter for an endpoint or identity,0,G06F|H04L
+11765013,2023-09-19,Method and apparatus for transmitting uplink control information in wireless communication system,1,H04L|H04W
+11758475,2023-09-12,Generic access network (GAN) controller selection in PLMN environment,0,H04L|H04W
+11758376,2023-09-12,Method and system for addition of assurance information to V2X messaging,0,H04L|H04W
+11751221,2023-09-05,Detecting the number of transmit antennas in a base station,1,H04B|H04L|H04W
+11750565,2023-09-05,Method and system for updating of an application layer for a third-party telematics provider,0,H04L
+11743300,2023-08-29,Methods and devices for establishing secure communication channels,0,H04L
+11743203,2023-08-29,Managing resource access,0,G06F|H04L
+11740981,2023-08-29,Method and apparatus for generating log data having increased filterability,0,G06F
+11740763,2023-08-29,Previewing a new event on a small screen device,0,G06F|G06Q|H04L
+11736442,2023-08-22,Handling security events based on remediation actions and recovery actions,0,H04L|H04W
+11734402,2023-08-22,System and method for user authentication based on passive biometrics,0,G06F
+11722321,2023-08-08,Method and system for reduced V2X receiver processing load using certificates,0,H04L|H04W
+11722317,2023-08-08,System and method for obtaining a signed certificate,0,G06F|H04L
+11722282,2023-08-08,Method and system for dynamic ACK/NACK repetition for robust downlink MAC PDU transmission in LTE,0,H04L|H04W
+11716392,2023-08-01,Updating an application at a second device based on received user input at a first device,1,H04L
+11711409,2023-07-25,Method and system for managing a meeting session,1,H04L|H04W
+11711208,2023-07-25,Method and system for key agreement utilizing semigroups,0,G06F|H04L
+11706769,2023-07-18,Uplink control channel resource allocation for an enhanced downlink control channel of a mobile communication system,2,H04L|H04W
+11704282,2023-07-18,Notifications and graphical user interface for applications in folders,1,G06F
+11698723,2023-07-11,Electronic device and method of providing visual notification of a received communication,1,G06F|H04M
+11696260,2023-07-04,Method and apparatus for user equipment directed radio resource control in a UMTS network,0,H04W|Y02D
+11696246,2023-07-04,Aggregating messages into a single transmission,0,H04L|H04W
+11696133,2023-07-04,Method and system for provisioning device specific WLAN credentials,1,H04L|H04W|Y02D
+11695574,2023-07-04,Method and system for establishing trust for a cybersecurity posture of a V2X entity,1,G06F|H04L|H04W
+11689910,2023-06-27,Support of emergency number descriptions,0,H04L|H04M|H04W
+11689700,2023-06-27,Method and system for mapping to facilitate dispatching,0,G06F|G06T|G06V|H04N
+11678262,2023-06-13,Method and system for battery life improvement for low power devices in wireless sensor networks,1,H04W|Y02D
+11670168,2023-06-06,Method and system for wireless road side units,1,G08G|H04L|H04W
+11665198,2023-05-30,Managing third party URL distribution,0,H04L
+11659011,2023-05-23,System and method for determining trust for SIP messages,0,G06F|H04L|H04W
+11657704,2023-05-23,Event data collections for accidents,0,G06Q|G07C|G08G|H04W
+11656861,2023-05-23,Selectively installing applications based on manifest files,0,G06F|H04L
+11656740,2023-05-23,Method and apparatus for dynamic session placeholder for message collection user interface,1,G06F|G06Q|H04L|H04M
+11653126,2023-05-16,Method and system for moving status detection for a sensor apparatus,0,G01P|G06Q|H04Q
+11647449,2023-05-09,Multi-band channel discovery for WLAN,0,H04W
+11647369,2023-05-09,Method and system for dynamic APN selection,1,H04L|H04W|Y02D
+11645402,2023-05-09,Methods and systems for identifying compromised devices from file tree structure,0,G06F
+11643090,2023-05-09,Route-based selections of vehicle parameter sets,0,B60W|G07C|H04W
+11638286,2023-04-25,System and method for supporting inter-band carrier aggregation with different UL/DL TDD configurations,2,H04J|H04L|H04W
+11638206,2023-04-25,Method and mobile transceiver having advanced network selection,0,G01S|H04W|Y02D
+11637875,2023-04-25,Establishing a session initiation protocol session,0,H04L|H04M|H04W
+11636211,2023-04-25,Binary static analysis of application structure to identify vulnerabilities,0,G06F|H04L
+11632816,2023-04-18,Configuring sidelink communications,0,H04W
+11632710,2023-04-18,Provisioning a device in a network,0,H04L|H04W
+11632654,2023-04-18,Method and system for vehicle location tracking using V2X communication,1,G08G|H04L|H04W
+11632377,2023-04-18,Methods and systems to identify a compromised device through active testing,0,G06F|H04L|H04W
+11632253,2023-04-18,Method and system for reduced V2X receiver processing load using network based application layer message processing,1,H04L|H04W
+11631227,2023-04-18,Methods and devices for selecting objects in images,0,G06F|G06T|G06V|H04N
+11627561,2023-04-11,Relay reception synchronization system and method,1,H04B|H04L|H04W
+11627537,2023-04-11,Timing advance enhancements for cellular communications,1,H04W
+11627435,2023-04-11,Sending location information from within a communication application,0,G01C|G01S|G06F|H04L|H04W
+11625495,2023-04-11,Stored image privacy violation detection method and system,0,G06F
+11620767,2023-04-04,Methods and devices for binary entropy coding of point clouds,1,G06T
+11618413,2023-04-04,Methods and systems for driver identification,1,B60R|G06N
+11617127,2023-03-28,Wireless network service type,1,H04W
+11616774,2023-03-28,Methods and systems for detecting unauthorized access by sending a request to one or more peer contacts,0,G06F|H04L
+11616648,2023-03-28,Method and system for Cheon resistant static Diffie-Hellman security,0,G06F|H04L
+11615380,2023-03-28,Electronic device and method for automatically responding to calendar event notifications,0,G06F|G06Q|H04W
+11615378,2023-03-28,Representing new messages on a communication device,0,G06F|G06Q|H04L
+11611934,2023-03-21,Method and system for battery life improvement for low power devices in wireless sensor networks,0,H04W|Y02D
+11611868,2023-03-21,Mobile transceiver having device-based alarm profile and a method of operation,0,G06Q|G08B|H04W|Y02D
+11610014,2023-03-21,Controlling access to application data,1,G06F
+11601635,2023-03-07,Rapid ground-plane discrimination in stereoscopic images,0,G06T|G06V|H04N
+11599676,2023-03-07,Method and system for container background unlock,0,G06F
+11599639,2023-03-07,Methods and systems for identifying a compromised device through its unmanaged profile,0,G06F
+11599611,2023-03-07,Continuous authentication system and related methods,0,G06F|H04L|H04W
+11599330,2023-03-07,Audio management for guests,0,G06F
+11599266,2023-03-07,Method and system for managing unread electronic messages,0,G06F|G06Q|H04M|H04W
+11595885,2023-02-28,Gateway selection controlled by network,0,H04B|H04L|H04W
+11595335,2023-02-28,Method and device for attaching messages stored at a device as attachments to a message being composed at the device,0,H04L
+11593768,2023-02-28,"Method of automatic scheduling, related devices and communication system",0,G06Q
+11589380,2023-02-21,Allocating resources for a device-to-device transmission,2,H04W
+11589209,2023-02-21,System and methods for data communications in a wireless communication system,1,H04L|H04W
+11588636,2023-02-21,Misbehaviour warnings in intelligent transportation systems,2,H04L|H04W
+11586750,2023-02-21,Managing access to protected data file content,0,G06F
+11580201,2023-02-14,Method and apparatus for accessing authentication credentials within a credential vault,0,G06F|H04L|H04W
+11576132,2023-02-07,Reporting power headroom for aggregated carriers,1,H04L|H04W
+11575719,2023-02-07,Exchange and use of globally unique device identifiers for circuit-switched and packet switched integration,1,H04L|H04M|H04W
+11575718,2023-02-07,Providing session initiation protocol request contents method and system,1,H04L
+11570721,2023-01-31,Uplink power sharing control,0,H04W
+11570699,2023-01-31,"Apparatus, and associated method, for facilitating communications by a mobile node in a multiple network radio communication system having interworking capability",0,H04W
+11570481,2023-01-31,Methods and devices using direct coding in point cloud compression,1,G06T|H03M|H04N
+11570251,2023-01-31,Wireless local area networks,0,H04L|H04W|Y02D
+11569987,2023-01-31,Method and system for key agreement utilizing plactic monoids,0,G06F|H04L
+11568458,2023-01-31,System and method for network interaction between computing devices,1,G06F|G06Q
+11567582,2023-01-31,Method for conserving power on a portable electronic device and a portable electronic device configured for the same,0,G06F
+11563747,2023-01-24,Method and aparatus for providing an adaptable security level in an electronic communication,2,H04L|H04W
+11562343,2023-01-24,Communication system with digital wallet having blank user card and related methods,0,G06Q
+11558913,2023-01-17,Method and system for initial synchronization and collision avoidance in device to device communications without network coverage,2,H04B|H04W
+11558866,2023-01-17,Method and system for protocol layer enhancements in data offload over small cells,0,H04B|H04L|H04W
+11556820,2023-01-17,Method and system for a dynamic data collection and context-driven actions,0,G06N|H04L
+11556633,2023-01-17,Security threat detection in hosted guest operating systems,3,G06F|G06N
+11556328,2023-01-17,Method and system for controlling software updates on a network connected device,1,G06F|H04L|H04W
+11552902,2023-01-10,Managing connection retries due to access class barring,0,H04J|H04L|H04W|Y02D
+11551265,2023-01-10,System and method for distributing messages to an electronic device based on correlation of data relating to a user of the device,0,G06Q|H04L|H04W
+11551181,2023-01-10,Method and system for internet of things asset tracking within an intelligent transportation system,1,G01S|G06Q|H04W
+11546957,2023-01-03,Interworking system and operation in V2X applications,0,G08G|H04L|H04W
+11546900,2023-01-03,Method and system for signaling transmission layers for single user and multi user MIMO,1,H04B|H04L|H04W
+11546809,2023-01-03,Method for accessing a service unavailable through a network cell,2,H04W
+11546807,2023-01-03,Method for accessing a service unavailable through a network cell,2,H04W
+11533229,2022-12-20,Method and system for signaling communication configuration for Iot devices using manufacturer usage description files,1,H04L|H04W
+11528617,2022-12-13,Providing secondary coverage in a mobile communication system,1,H04L|H04W
+11526525,2022-12-13,Method for sorting and displaying data on a portable electronic device,0,G06F|H04M|H04W
+11521155,2022-12-06,Method and system for detecting duration and cause of border delays,0,G01C|G06Q|H04W
+11516642,2022-11-29,Different profiles for selecting different network interfaces for communications of an electronic device,0,G06F|H04L|H04W
+11510086,2022-11-22,Methods and apparatus to report link quality measurements for downlink dual carrier operation,1,H04L|H04W
+11509656,2022-11-22,Customization of data session retry mechanism in a wireless packet data service network,1,H04L|H04W
+11496982,2022-11-08,Managing local emergency numbers,2,H04W
+11496980,2022-11-08,"Apparatus, and associated method, for facilitating radio control system operation with an ICS-capable wireless device",0,H04L|H04M|H04W
+11496496,2022-11-08,Method and system for user plane traffic characteristics and network security,0,H04L|H04W
+11485385,2022-11-01,Processing data for driving automation system,0,B60W|G06F|G06V|G08G
+11483412,2022-10-25,Method for marshalling events in a publish-subscribe system,0,G06F|G06N|H04L
+11477735,2022-10-18,Increasing battery performance for a device that uses power saving features,1,H04W|Y02D
+11477019,2022-10-18,Elliptic curve random number generation,2,G06F|H04L
+11468407,2022-10-11,Method and system for updating message threads,0,G06Q|H04M
+11467825,2022-10-11,Method and system for a customized local build environment image,0,G06F
+11467674,2022-10-11,Performing an action associated with a motion based input,0,G06F|H04M
+11463487,2022-10-04,System and method for sharing a SIP communication service identifier,1,H04L
+11455749,2022-09-27,Methods and devices for entropy coding point clouds,0,G06F|G06T|H03M|H04N
+11451960,2022-09-20,Methods and systems for segmenting computing devices in a network,0,H04L|H04W
+11451742,2022-09-20,Speech activity detection using dual sensory based learning,0,G06V|G10L|H04M|H04N
+11445350,2022-09-13,Method and apparatus for providing emergency codes to a mobile device,2,H04W
+11438755,2022-09-06,Steering of roaming in wireless communication networks,0,H04W
+11438737,2022-09-06,Context sensitive message notifications,1,G06F|H04L|H04M|H04W
+11432190,2022-08-30,Aggregation of data frames,0,H04L|H04W
+11431661,2022-08-30,Voice and text group chat display management techniques for wireless mobile terminals,0,G06F|H04L|H04M|H04W
+11429984,2022-08-30,On-line advertisement,0,G06Q
+11424941,2022-08-23,Method and system for handling dynamic cybersecurity posture of a V2X entity,1,H04L|H04W
+11424931,2022-08-23,Trusted execution environment,3,G06F|H04L
+11424924,2022-08-23,Method and system for Cheon resistant static Diffie-Hellman security,0,G06F|H04L
+11418545,2022-08-16,Shared image sanitization method and system,2,G06F|G06T|G06V|H04L
+11411772,2022-08-09,Establishing tunneling connection over restrictive networks,0,H04L
+11405857,2022-08-02,Wireless network service transaction protocol,4,G06F|H04L|H04W
+11405828,2022-08-02,Using rate buckets,1,H04L|H04W
+11403685,2022-08-02,Automatic distribution of licenses for a third-party service operating in association with a licensed first-party service,0,G06Q
+11400947,2022-08-02,Parameter sets for vehicles based on sensor data,0,B60W|H04W
+11395276,2022-07-19,Method and apparatus for transmitting uplink control information in wireless communication system,2,H04L|H04W
+11395248,2022-07-19,Small cell demodulation reference signal and initial synchronization,2,H04W
+11395233,2022-07-19,Control of uplink data transmission,2,H04W|Y02D
+11394615,2022-07-19,Method and system for load balancing of sensors,2,G07C|G08B|H04B|H04L|H04W
+11392686,2022-07-19,Detecting stack cookie utilization in a binary software component using binary static analysis,0,G06F
+11388192,2022-07-12,Managing third party URL distribution,0,H04L
+11386229,2022-07-12,Filtering personally identifiable information from vehicle data,27,G06F|H04L|H04W
+11386014,2022-07-12,Method and system for low latency data management,0,G06F
+11382036,2022-07-05,Method and mobile transceiver for asset tracking,0,G06Q|H04W|Y02D
+11381569,2022-07-05,System and method of modifying policy settings in an electronic device,0,H04L|H04W
+11379610,2022-07-05,Methods and devices for automatically encrypting files,0,G06F|H04W
+11379115,2022-07-05,Electronic device and method of providing visual notification of a received communication,5,G06F|H04M
+11375440,2022-06-28,Network address policy information received in a pre-associated state,0,H04L|H04W
+11375355,2022-06-28,Methods and systems for provisioning emergency numbers,2,H04L|H04W
+11368880,2022-06-21,Negotiation of quality of service (QoS) information for network management traffic in a wireless local area network (WLAN),5,H04W
+11363566,2022-06-14,Detecting the number of transmit antennas in a base station,2,H04B|H04L|H04W
+11363436,2022-06-14,Service mode display on a handheld communication device,0,G06F|H04L|H04M|H04W
+11362898,2022-06-14,Network policy configuration,0,H04L|H04W
+11361472,2022-06-14,Methods and devices for neighbourhood-based occupancy prediction in point cloud compression,5,G06F|G06T|H03M
+11356825,2022-06-07,Managed object to provision a device according to one of plural provisioning techniques,0,H04L|H04W
+11356284,2022-06-07,Method and system for reduced V2X receiver processing load using certificates,0,H04L|H04W
+11350334,2022-05-31,Method and apparatus for releasing connection with local GW when UE moves out of the residential/enterprise network coverage,0,H04L|H04W
+11349864,2022-05-31,Determining security risks for software services in a cloud computing platform,2,G06F|H04L
+11349850,2022-05-31,Systems and methods for managing mobile devices based on device location data,0,G06F|H04L|H04W
+11348595,2022-05-31,Voice interface and vocal entertainment system,1,G06F|G10L|H04M|H04R
+11347865,2022-05-31,Determining security risks in binary software code,0,G06F
+11347850,2022-05-31,Analyzing binary software code,1,G06F
+11343742,2022-05-24,Preserving emergency call during failure to transfer,2,H04W
+11343258,2022-05-24,Methods and systems for identifying a compromised device through its managed profile,0,G06F|H04L|H04W
+11341255,2022-05-24,Document management system having context-based access control and related methods,0,G06F|G06N
+11337197,2022-05-17,Method and apparatus for simultaneous use of both licensed and unlicensed wireless spectrum,0,H04W
+11337185,2022-05-17,Transmission of information in a wireless communication system,1,H04B|H04J|H04L|H04W
+11336661,2022-05-17,Detecting remote application profiling,4,H04L
+11333547,2022-05-17,Method and system for shipping container loading and unloading estimation,1,G01G|G01H|G06N|G06Q
+11330558,2022-05-10,Methods and apparatus for providing network broadcast information to WLAN enabled wireless communication devices,2,H04W|Y02D
+11328728,2022-05-10,Voice assistant proxy for voice assistant servers,0,G06F|G10L|H04M
+11326897,2022-05-10,Methods and apparatus for retrieving and displaying map-related data for visually displayed maps of mobile communication devices,0,G01C|G06F|G09B|H04L
+11323445,2022-05-03,Methods and systems for accessing a network,0,G06F|G16Y|H04L|H04W
+11323421,2022-05-03,Method and apparatus for encoding security status information,0,H04L|H04W
+11323250,2022-05-03,Method and system for key agreement utilizing semigroups,0,G06F|H04L
+11321451,2022-05-03,Method and system for detection of post compilation modification of binary images,0,G06F
+11321432,2022-05-03,Computing device with environment aware features,0,G06F|H04M|H04W
+11317254,2022-04-26,User interface and method of viewing unified communications events on a mobile device,0,H04M|H04W
+11313768,2022-04-26,Method and system for sensor monitoring and analysis,0,G01M|G01N|G06V|H04L
+11310525,2022-04-19,Predictor-copy coding mode for coding of point clouds,0,H03M|H04N
+11310322,2022-04-19,Method and system for pairing a chassis and container in an asset tracking system,0,G06Q|H04L
+11310288,2022-04-19,System and method for determining establishment causes for emergency sessions,0,H04L|H04W
+11310219,2022-04-19,System and method for controlling configuration settings for mobile communication devices and services,0,H04L|H04W
+11310033,2022-04-19,System and method for operating pseudorandom generators,0,G06F|H03M|H04L|H04W
+11304131,2022-04-12,Generic access network (GAN) controller selection in PLMN environment,1,H04L|H04W
+11303710,2022-04-12,Local access information for presenting at a mobile device,0,H04L|H04W
+11303458,2022-04-12,Method and system for reduced V2X receiver processing load using network based application layer message processing,3,H04L|H04W
+11301831,2022-04-12,Payment processing system including point-of-sale device with a unique identifier and associated methods,0,G06Q
+11297111,2022-04-05,Establishing a session initiation protocol session,2,H04L|H04M|H04W
+11297089,2022-04-05,Providing secure sensor data to automated machines,1,G01S|H04L|H04W
+11295617,2022-04-05,Method and system for wireless road side units,2,G08G|H04L|H04W
+11291017,2022-03-29,Multi-user MIMO systems and methods,2,H04B|H04L|H04W
+11288624,2022-03-29,Method and system for yard asset management,0,G06Q|G06V
+11288200,2022-03-29,Method and system for task-based cache isolation,0,G06F
+11284377,2022-03-22,Resource scheduling in direct device to device communications systems,2,H04L|H04W
+11283577,2022-03-22,Method and system for dynamic ACK/NACK repetition for robust downlink MAC PDU transmission in LTE,1,H04L|H04W
+11275494,2022-03-15,Method for application launch and system function invocation,0,G06F
+11272441,2022-03-08,Method and apparatus for multi-SIM selection,0,G01S|H04B|H04W|Y02D
+11272345,2022-03-08,Providing a public warning system message,2,H04L|H04W
+11272342,2022-03-08,Pedestrian safety communication system and method,0,G08G|H04L|H04W|Y02D
+11272145,2022-03-08,Cargo monitoring system and method,1,G01H|G01P|G06Q|G08B|H04N
+11263897,2022-03-01,Method and system for traffic management,1,G01C|G08G|H04L|H04W
+11263630,2022-03-01,Method and system for single purpose public keys for public ledgers,1,G06Q|H04L
+11258762,2022-02-22,Method and system for updating of an application layer for a third-party telematics provider,0,H04L
+11256805,2022-02-22,Method and system for identification of secure binary images,0,G06F
+11250127,2022-02-15,Binary software composition analysis,0,G06F
+11249636,2022-02-15,Portable electronic device having touch-sensitive display with variable repeat rate,0,G06F
+11246174,2022-02-08,Methods and systems for connecting a wireless device to a wireless network,0,H04L|H04W
+11244565,2022-02-08,Method and system for traffic behavior detection and warnings,0,B60Q|G08G|H04L|H04W
+11243665,2022-02-08,Method and apparatus for dynamic session placeholder for message collection user interface,0,G06F|G06Q|H04L|H04M
+11240856,2022-02-01,Access point name determination for mission critical services,1,H04L|H04W
+11240837,2022-02-01,Transmitting a scheduling request for a device-to-device transmission,0,H04W
+11240743,2022-02-01,Storing Wi-Fi and cellular tower database to assist cellular network system selection,0,H04L|H04W
+11240655,2022-02-01,Address assignment for initial authentication,5,H04W
+11240026,2022-02-01,Devices and methods of managing data,0,G06F|H04L
+11238498,2022-02-01,System and method for distributing messages to an electronic device based on correlation of data relating to a user of the device,3,G06Q|H04L|H04W
+11237845,2022-02-01,Methods for remote configuration of software applications,3,G06F
+11234205,2022-01-25,Mobile transceiver having route monitoring and method of operation,4,G01C|G01S|G06Q|G08G|H04W|Y02D
+11233784,2022-01-25,Systems and methods for managing access to shared network resources,0,G06F|H04L|H04W
+11231844,2022-01-25,System and method for enabling customized notifications on an electronic device,4,G06F|H04M
+11216854,2022-01-04,Software distribution accounting,0,G06F|G06Q
+11212493,2021-12-28,Method and system for distributed camera network,0,H04N
+11211954,2021-12-28,Supporting multiple frequency bands,0,H04B|H04L
+11210405,2021-12-28,Binary vulnerability determination,0,G06F
+11210403,2021-12-28,Determining security risks in binary software code based on network protocols,0,G06F|H04L
+11209997,2021-12-28,Method and system for low latency data management,2,G06F|H04L
+11204984,2021-12-21,Systems and methods for managing access to application data on computing devices,2,G06F
+11202273,2021-12-14,Aggregating messages into a single transmission,2,H04L|H04W
+11202253,2021-12-14,PLMN selection for mission critical devices,2,H04L|H04W
+11202055,2021-12-14,Rapid ground-plane discrimination in stereoscopic images,0,G06T|G06V|H04N
+11197342,2021-12-07,Method and system for signaling release cause indication in a UMTS network,0,H04W|Y02D
+11197296,2021-12-07,Resource configurations and scheduling in multi-network environments,1,H04L|H04W
+11196708,2021-12-07,Exchange and use of globally unique device identifiers for circuit-switched and packet switched integration,0,H04L|H04M|H04W
+11194562,2021-12-07,Method and system for hardware identification and software update control,0,G06F|H04L
+11191117,2021-11-30,Configuring sidelink communications,2,H04W
+11184828,2021-11-23,Switching between network based and relay based operation for mission critical voice call,0,H04W|Y02D
+11184178,2021-11-23,Method and system for intelligent transportation system certificate revocation list reduction,1,H04L|H04W
+11182494,2021-11-23,Processing data on an electronic device,0,G06F|H04L|H04W
+11181924,2021-11-23,System and method for performing differential analysis of vehicles,0,B60Q|B60W|G05D|G06F|G06T|G06V|G08G|H04L
+11180115,2021-11-23,Controlling vehicle operations based on vehicle information,0,B60Q|B60R|G01C|G06Q|G07C
+11178190,2021-11-16,Methods and devices for establishing secure communication channels,0,H04L
+11175794,2021-11-16,Handheld electronic device and associated method for indicating delivery status of a message,0,G06F|H04L|H04M|H04W|Y02D
+11170082,2021-11-09,Mobile communications device providing heuristic security authentication features and related methods,0,G06F|G06N|H04L
+11166226,2021-11-02,Discovering network information available via wireless networks,6,H04W
+11159664,2021-10-26,Method of identifying contacts for initiating a communication using speech recognition,0,H04L|H04M
+11157975,2021-10-26,System and method for network interaction between computing devices,1,G06F|G06Q
+11157611,2021-10-26,Binary image stack cookie protection,0,G06F
+11157448,2021-10-26,Notifications and graphical user interface for applications in folders,2,G06F
+11157148,2021-10-26,"System, method and device-readable medium for message composition within a unified event view",8,G06F|H04L|H04M
+11157141,2021-10-26,Electronic device and method of messaging meeting invitees,1,G06F|G06Q|H04L|H04M
+11156463,2021-10-26,Mobile transceiver with adaptive monitoring and reporting,1,G01C|G01S|H04W|Y02D
+11153860,2021-10-19,Uplink control channel resource allocation for an enhanced downlink control channel of a mobile communication system,1,H04L|H04W
+11153841,2021-10-19,System and method for determining a location for a device in a communication network,0,H04L|H04W
+11151807,2021-10-19,Method and system for trailer tracking and inventory management,0,G01C|G06Q|G07C
+11147121,2021-10-12,Method and system for signaling release cause indication in a UMTS network,1,H04W|Y02D
+11146994,2021-10-12,Method and apparatus for handling circuit switched calls at a user equipment,1,H04W
+11146408,2021-10-12,Detecting misbehavior of intelligent transport stations,0,H04L|H04W
+11144613,2021-10-12,Platform-independent publish-subscribe,2,G06F|H04L
+11134408,2021-09-28,Establishing a voice call,0,H04M|H04W
+11134111,2021-09-28,Method and system for managing a meeting session,1,H04L|H04W
+11129223,2021-09-21,System and method for voice service in an evolved packet system,0,H04L|H04W
+11129123,2021-09-21,Wireless local area network hotspot registration using near field communications,2,H04L|H04W
+11129085,2021-09-21,System and method for selecting a message transport for a multi-mode communication device,0,H04W
+11128937,2021-09-21,Apparatus and method for maintaining parameter ranges for remote sensing devices,0,H04L|H04Q|H04W|Y02D
+11128673,2021-09-21,Method and system for access and use of multiple ISIM or ISIM credentials,5,H04L|H04W
+11128503,2021-09-21,PHICH transmission in time division duplex systems,0,H04L|H04W
+11126323,2021-09-21,Dynamic bar oriented user interface,0,G06F
+11122403,2021-09-14,Server for sending new application portions to mobile wireless communications devices and related methods,0,G06F|H04L|H04W
+11120693,2021-09-14,Providing inter-vehicle data communications for vehicular drafting operations,0,G05D|G06Q|G07F|G08G|H04W
+11119905,2021-09-14,System and method for managing electronic assets,1,G06F|G06Q|Y02P
+11119756,2021-09-14,System and method for controlling updates to internet-of-things devices,0,G06F|H04L
+11116018,2021-09-07,Emergency calls,0,H04L|H04M|H04W
+11115791,2021-09-07,Method and system for supplying additional vehicle information from an asset tracking system,0,G01B|G01S|G07C|G08G|H04W
+11113671,2021-09-07,Method and system for updating message threads,0,G06Q|H04M
+11113426,2021-09-07,Method of interacting with an electronic device while the display screen is deactivated,0,G06F|H04M
+11109443,2021-08-31,Supported extended emergency information type,0,H04L|H04W
+11109309,2021-08-31,Systems and methods for establishing short-range communication links between asset tracking devices,0,H04B|H04W
+11108833,2021-08-31,Crossed-invite call handling,0,H04L|H04W
+11108804,2021-08-31,Providing secure inter-vehicle data communications,0,G06F|G08G|H04L
+11108739,2021-08-31,Firewall incorporating network security information,0,H04L
+11107042,2021-08-31,Electronic device and method for selectively applying message actions,0,G06Q|H04L|H04M
+11106805,2021-08-31,Generating unified data on an electronic device,0,G06F
+11106791,2021-08-31,Determining security risks in binary software code based on network addresses,0,G06F
+11104351,2021-08-31,Parameter sets for vehicles,0,B60W|H04W
+11102742,2021-08-24,Using a cell as a pathloss or timing reference,1,H04L|H04W
+11102652,2021-08-24,System and method for handling peripheral connections to mobile devices,0,G06F|G06Q|H04L|H04M|H04W
+11102159,2021-08-24,Method and communication device for processing data for transmission from the communication device to a second communication device,1,G06F|G06Q|H04L|H04M|H04W
+11100194,2021-08-24,Method and system for cargo sensing estimation,0,G01F|G01S|G06F|G06Q
+11096095,2021-08-17,Method for accessing a service unavailable through a network cell,4,H04W
+11089546,2021-08-10,"Inventory tracking tags, system and method for prolonging battery life",0,G06K|G06Q|H04W
+11089464,2021-08-10,Methods and devices for facilitating bluetooth pairing using a camera as a barcode scanner,0,G06F|G06K|G06V|H04N|H04W
+11089331,2021-08-10,Methods and devices for predictive coding of point clouds,2,G06T|H04N
+11089004,2021-08-10,Method and system for application authenticity attestation,0,G06F|H04L|H04W
+11086692,2021-08-10,Multiplatform management system and method for mobile devices,0,G06F|G06Q|H04L
+11082998,2021-08-03,Proximity signaling and procedure for LTE,0,H04L|H04W
+11082913,2021-08-03,Sensor provisioning in wireless sensor networks,0,H04L|H04W|Y02D
+11082459,2021-08-03,System and method for determining trust for SIP messages,2,G06F|H04L|H04W
+11080374,2021-08-03,Secure device sharing,0,G06F
+11076262,2021-07-27,Method and system for vehicle location tracking using V2X communication,6,G08G|H04L|H04W
+11074618,2021-07-27,Method and apparatus pertaining to history-based content-sharing recommendations,0,G06F|G06Q
+11071062,2021-07-20,Selecting power consumption modes of electronic devices,0,G06F|H04W|Y02D
+11070966,2021-07-20,Public warning system notifications in a mobile device using alternative wireless technologies,0,H04B|H04H|H04L|H04M|H04W
+11070633,2021-07-20,Pre-association discovery of services,1,H04L|H04W
+11069154,2021-07-20,Methods and devices for selecting objects in images,2,G06F|G06T|G06V|H04N
+11068377,2021-07-20,Classifying warning messages generated by software developer tools,0,G06F|G06N
+11064462,2021-07-13,Method and apparatus for user equipment directed radio resource control in a UMTS network,2,H04W|Y02D
+11064331,2021-07-13,Establishing machine type communications,0,H04W
+11063958,2021-07-13,Method and apparatus for providing an adaptable security level in an electronic communication,2,H04L|H04W
+11057747,2021-07-06,Providing data file updates using multimedia broadcast multicast services,0,H04L|H04W
+11055431,2021-07-06,Securing data storage of personally identifiable information in a database,0,G06F
+11052920,2021-07-06,System and method for mitigating unintended operation,0,B60W|H04W
+11051024,2021-06-29,Methods and devices for predictive coding of point clouds,3,G06T|H04N
+11044717,2021-06-22,Method and system for signaling transmission layers for single user and multi user MIMO,2,H04B|H04L|H04W
+11043299,2021-06-22,Reducing network security risks in a medical care network,1,G06F|G16H|H04L|H04W
+11043044,2021-06-22,Systems and methods for vehicle condition inspection for shared vehicles,0,B60R|G06Q|G06T|G07C
+11039374,2021-06-15,Indicating support for a broadcast service,4,H04W
+11039344,2021-06-15,Method for accessing a service unavailable through a network cell,5,H04W
+11038930,2021-06-15,Providing session initiation protocol request contents method and system,2,H04L
+11038911,2021-06-15,Method and system for determining risk in automotive ECU components,0,G06F|H04L
+11037137,2021-06-15,Mobile wireless communications device having digital wallet with multi-mode user card and related methods,0,G06Q|H04W
+11036575,2021-06-15,Software handling of errors,0,G06F
+11035873,2021-06-15,Method and system for moving status detection for a sensor apparatus,0,G01P|G06Q|H04Q
+11032716,2021-06-08,Secure communication for machine to machine connections,0,G06F|H04L|H04W
+11032693,2021-06-08,System and methods for data communications in a wireless communication system,2,H04L|H04W
+11032686,2021-06-08,Method and system for wakeup trigger by out-of-band communication,6,H04W|Y02D
+11032324,2021-06-08,Securing method for lawful interception,0,H04L|H04M|H04W
+11032283,2021-06-08,Managing use of network resources,1,H04L|H04W
+11030338,2021-06-08,Selectively wiping a remote device,0,G06F|H04L|H04W
+11030278,2021-06-08,Code signing system and method,0,G06F|H04L|H04W
+11029827,2021-06-08,Text selection using a touch sensitive screen of a handheld mobile communication device,0,G06F|G09G
+11023678,2021-06-01,User interface for a handheld device,0,G06F|H04M|H04W
+11019640,2021-05-25,Mitigating interference between co-located wireless technologies,0,H04W|Y02D
+11019196,2021-05-25,Advanced voice and data operations in a mobile data communication device,0,H04M|H04W
+11017105,2021-05-25,System and method for preventing access to data on a compromised remote device,0,G06F|H04L|H04W
+11012998,2021-05-18,Multi-beam cellular communication system,0,H01Q|H04B|H04J|H04L|H04W
+11012815,2021-05-18,System and method for providing traffic notifications to mobile devices,0,G06F|G08G|H04L|H04W
+11012399,2021-05-18,Partial message delivery and status notification in an end-to-end secure messaging context,1,H04L|H04W
+11011153,2021-05-18,Communications system providing automatic text-to-speech conversion features and related methods,1,G10L|H04M|H04W
+11006462,2021-05-11,System and method for handling of an uplink transmission collision with an ACK/NACK signal,2,H04L|H04W
+11004021,2021-05-11,Trusted collaborative communications between organizations,0,G06F|G06Q|H04L
+11003316,2021-05-11,Dynamic bar oriented user interface,0,G06F
+11001230,2021-05-11,Load status of transport chassis,0,B60R|G01G|G01L|G01M|G01S|G01V|G06Q
+10999282,2021-05-04,System and method for secure control of resources of wireless mobile communication devices,0,G06F|H04L|H04W
+10993161,2021-04-27,Authenticating user equipments through relay user equipments,0,H04B|H04L|H04W
+10992947,2021-04-27,Planar mode in octree-based point cloud coding,2,H04N
+10992613,2021-04-27,Electronic mail system providing message character set formatting features and related methods,0,H04L
+10986689,2021-04-20,Simplified UE + eNB messaging,7,H04W
+10986048,2021-04-20,Method and system for using subjects in instant messaging sessions on a mobile device,0,G06F|H04L|H04W
+10985915,2021-04-20,Encrypting data in a pre-associated state,1,H04L|H04W
+10984382,2021-04-20,User interface for integrating applications on a mobile communication device,0,G06F|G06Q|H04L|H04M
+10984102,2021-04-20,Determining security risks in binary software code,1,G06F
+10980054,2021-04-13,System and method for supporting inter-band carrier aggregation with different UL/DL TDD configurations,3,H04J|H04L|H04W
+10979977,2021-04-13,Mechanisms to support UE power preference signaling,2,H04W|Y02D
+10979880,2021-04-13,Optimized short message transport,2,G01D|H04W|Y04S
+10979400,2021-04-13,Method and system for instant messaging conversation security,0,G06F|H04L
+10977273,2021-04-13,Electronic device and method of managing data transfer,0,G06F|H04L|H04W
+10977029,2021-04-13,Groups of endpoints and targeting of releases and packages to endpoints,0,G06F
+10976986,2021-04-13,System and method for forwarding an application user interface,0,G06F
+10973026,2021-04-06,Transitioning between wideband and narrowband communications,0,H04L|H04W
+10972988,2021-04-06,Timing advance enhancements for cellular communications,2,H04W
+10970364,2021-04-06,Determining a load status of a platform using a likelihood ratio test,1,G01S|G01V|G06F|G06Q
+10966265,2021-03-30,Interworking system and operation in V2X applications,1,G08G|H04L|H04W
+10966195,2021-03-30,Communication stations and methods for transmitting on a random access channel,0,H04W
+10965757,2021-03-30,Vehicle wireless local area networks,5,H04L|H04W|Y02D
+10965718,2021-03-30,Method for providing wireless application privilege management,1,H04L|H04W
+10965450,2021-03-30,In-vehicle networking,0,H04L|H04W
+10964068,2021-03-30,Methods and devices for predictive point cloud attribute coding,1,G06T|H04N
+10959192,2021-03-23,Reporting power headroom for aggregated carriers,3,H04L|H04W
+10959168,2021-03-23,Collaborative scheme for selection of optimal accesses and seamless transition between accesses,0,H04W
+10959166,2021-03-23,"Apparatus, and associated method, for facilitating communications by a mobile node in a multiple network radio communication system having interworking capability",1,H04W
+10959076,2021-03-23,Different profiles for selecting different network interfaces for communications of an electronic device,0,G06F|H04L|H04W
+10956240,2021-03-23,Sharing data by a virtual machine,0,G06F
+10952087,2021-03-16,Detecting resource access,0,G06F|H04L|H04W
+10952062,2021-03-16,Steering of roaming in wireless communication networks,3,H04W
+10952052,2021-03-16,Method and system for dynamic APN selection,1,H04L|H04W|Y02D
+10951728,2021-03-16,Proxy for access of a vehicle component,49,G06F|G07C|H04L|H04W
+10951571,2021-03-16,Color differentiating a text message shown in a listing on a communication device,0,G06F|H04L|H04M
+10948920,2021-03-16,Methods and systems for autonomous vehicle refuelling,1,B67D|G05D|G06Q|G07C
+10945246,2021-03-09,Efficient control information transmission method and apparatus for supporting multiple antenna transmission technique,2,H04B|H04L|H04W
+10944773,2021-03-09,Monitoring network activity,0,G06F|G06N|H04L
+10944751,2021-03-09,Generating cryptographic function parameters from compact source code,1,G06F|G09C|H04L
+10944575,2021-03-09,Implicitly certified digital signatures,0,H04L
+10942727,2021-03-09,"Method, system and apparatus for installing software on a mobile electronic device via a proxy server",0,G06F|H04L
+10939294,2021-03-02,Network access identifier including an identifier for a cellular access network node,0,H04W
+10936990,2021-03-02,Sending reports of asset transport status,0,G06Q|H04W
+10936726,2021-03-02,Determining security risks in software code,0,G06F
+10936718,2021-03-02,Detecting security risks in binary software code,0,G06F
+10936153,2021-03-02,Method and apparatus for providing a user interface on a device enabling selection of operations to be performed in relation to content,3,G06F
+10932309,2021-02-23,Method and system for initial synchronization and collision avoidance in device to device communications without network coverage,2,H04B|H04W
+10932205,2021-02-23,Uplink power sharing control,1,H04W
+10932190,2021-02-23,Method and system for the control of discontinuous reception in a wireless network,0,H04W|Y02D
+10932091,2021-02-23,Method and apparatus for location notification using location context information,2,H04L|H04M|H04W
+10925068,2021-02-16,System and method for supporting GAN service request capability in a wireless user equipment (UE) device,1,G06F|H04L|H04W
+10924973,2021-02-16,Dynamically managing band capability,0,H04W
+10924895,2021-02-16,Enhancing short message service addressing and routing,1,H04L|H04W
+10924488,2021-02-16,Customization of data session retry mechanism in a wireless packet data service network,2,H04L|H04W
+10922949,2021-02-16,Mobile transceiver having asset-based alarm profile and a method of operation,0,G06F|G06Q|G08B
+10922065,2021-02-16,Methods and systems for identifying software product installation instances,2,G06F
+10917372,2021-02-09,Method and system for integration of shared photo albums with messaging applications,0,G06F|G11B|H04L
+10912069,2021-02-02,Method and apparatus for transmitting uplink control information in wireless communication system,4,H04L|H04W
+10912017,2021-02-02,Gateway selection controlled by network,1,H04B|H04L|H04W
+10908812,2021-02-02,Presenting buttons for controlling an application,2,A63F|G06F
+10908727,2021-02-02,Electronic device including touchpad and fingerprint sensor and method of detecting touch,0,G06F|G06V
+10906545,2021-02-02,Adjusting mechanical elements of cargo transportation units,1,B60W|G05D|G06Q|G07C

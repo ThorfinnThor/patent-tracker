@@ -1,0 +1,779 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12427795,2025-09-30,Image forming apparatus,0,B41J|B65H|G03G|H04N
+12417554,2025-09-16,Split runlength encoding compression and decompression of multi-planar image data,0,G06T
+12398008,2025-08-26,Image forming apparatus that announces abnormality of sheet,0,B65H|G03G|G06F|G06K
+12393378,2025-08-19,Image processing method and image processing apparatus,0,B41J|G03G|G06F|G06T|G06V|H04N
+12372913,2025-07-29,Image forming apparatus with cover having folded arm,0,B41J|G03G|H04N
+12371285,2025-07-29,Image forming apparatus forming image on sheet according to sheet type,0,B65H|G03G|G06F|G06K
+12361392,2025-07-15,Associating payment information with a document separate therefrom for use of an online payment service,0,G06F|G06Q|G06V
+12360713,2025-07-15,Pre-rendering and storing for push printing,0,G06F
+12348688,2025-07-01,Image forming apparatus,0,B41J|H04N
+12340503,2025-06-24,Image processing apparatus,0,G06T
+12327053,2025-06-10,Pre-rendering and caching system,0,G06F
+12326908,2025-06-10,AI-driven software services adaptation,0,G06F
+12323412,2025-06-03,Identification authentication methods at a device,0,G06F|H04L|H04W
+12321652,2025-06-03,Methods and printing system for verified production in printing operations,0,G06F
+12287997,2025-04-29,Cloud-based printing managing system and method,0,G06F
+12287993,2025-04-29,Identifying print jobs for pre-processing,0,G06F
+12275609,2025-04-15,"Document reading apparatus that permits or inhibits transport of document through horizontal transport route, depending on status of discharge tray, and image forming apparatus",0,B65H|H04N
+12271645,2025-04-08,Display control device and image forming apparatus,0,B41J|G03G|G06F|G09G|H04N
+12271640,2025-04-08,Pre-rendering during idle time for subsequent printing,0,G06F
+12267473,2025-04-01,"Industrial printing system, print server, and processing management method that print peer-to-peer according to attribute of printing apparatus at distributed destination in production printing",0,H04N
+12267466,2025-04-01,Image forming apparatus,0,G06T|H04N
+12248927,2025-03-11,Identification card registration system and methods,0,B32B|G06F|G06Q
+12248542,2025-03-11,"Image forming apparatus that manages application accessible by user, information processing system including image forming apparatus, authentication application program, and normal application program",0,G06F
+12242763,2025-03-04,Preemptive paper tray management for printing operations,0,G06F
+12229606,2025-02-18,Methods and printing system using raster image processors (RIPs) configured for processing a preview job,0,G06F|G06K
+12205392,2025-01-21,"Image processing apparatus that extracts necessary character string from source image, and image forming apparatus including same",0,G06V|H04N
+12200178,2025-01-14,"Information processing system, image forming apparatus, and management server",0,H04N
+12192677,2025-01-07,Image processing device,0,G06F|G06V|G09G|H04L|H04N
+12190182,2025-01-07,Methods and printing system using raster image processors configured for processing a job,0,G06F|G06K
+12190000,2025-01-07,Methods for print inspection recovery operations at a printing device,0,B65H|G03G|G06F|H04N
+12182991,2024-12-31,"Image processing apparatus, image forming apparatus, and image processing method",0,G06T
+12182645,2024-12-31,Image forming apparatus capable of setting print start position for back side of recording paper sheet based on margin formed by reducing image for back side in size,0,G03G|G06K|H04N
+12175781,2024-12-24,Segmentation of page stream documents for bidirectional encoder representational transformers,0,G06F|G06V
+12175140,2024-12-24,Methods and printing system using intelligent RIP I/O for printing operations,1,G06F
+12169956,2024-12-17,"Image recognition method using a plurality of machine-learned inference devices, image recognition apparatus for the same, and non-transitory computer readable recording medium storing a program of the same",0,G06N|G06V
+12168589,2024-12-17,"Image reading apparatus, image forming apparatus, and image reading method",0,B65H|G03B|H04N
+12164820,2024-12-10,Image forming apparatus capable of backing up contents of settings for job,0,G06F
+12160478,2024-12-03,Device management system,0,G06F|H04L
+12159625,2024-12-03,Information processing apparatus for selecting set value used to execute function,0,G10L|H04N
+12159382,2024-12-03,"Information processing apparatus using chat system to edit image, information processing method of the same, and computer-readable non-transitory recording medium having stored thereon program of information processing method",0,G06F|G06T|H04L
+12159075,2024-12-03,Management of hot folders during printing operations,0,G06F
+12159069,2024-12-03,Methods for smart spot color management in printing operations,0,G06F
+12156074,2024-11-26,Wireless communication apparatus that performs wireless communication with bandwidth output by trained model,0,H04L|H04W
+12153871,2024-11-26,Fine-grained control of visual display and scaling attributes,0,G06F
+12149659,2024-11-19,Image forming apparatus,1,G06T|H04N
+12143547,2024-11-12,Image reading apparatus with posture adjustment portion and stimulus output portion,0,G03G|H04N
+12142067,2024-11-12,"Learning dataset generation system, learning dataset generation server, and computer readable non-temporary recording medium storing learning dataset generation program",0,G06F|G06N|G06V
+12141956,2024-11-12,"Image processing method, image processing apparatus",0,G03G|G06T|G06V
+12141955,2024-11-12,"Image processing method, image processing apparatus",0,G06T|G06V
+12141954,2024-11-12,"Image processing method, image processing apparatus",0,G06T|G06V
+12140894,2024-11-12,Image forming device,0,G03G|G06F|G06K
+12132879,2024-10-29,Complex color space conversion using convolutional neural networks,0,G06N|H04N
+12132720,2024-10-29,Enhanced security for device authorization for browserless or input-constrained devices,0,H04L
+12131119,2024-10-29,"Information generation system, workflow system, computer-readable non-transitory recording medium storing information generation program, and computer-readable non-transitory recording medium storing workflow program",0,G06F|G06Q|G06V
+12126781,2024-10-22,Methods and system for ink limit adjustments to ICC profiles for color printing,0,G06K|H04N
+12125244,2024-10-22,Measurement and application of image colorfulness using deep learning,0,G06N|G06T
+12124798,2024-10-22,Method and system for obtaining similarity rates between electronic documents,0,G06F
+12118258,2024-10-15,Methods and printing system for peer-to-peer printing device management,0,G06F
+12118208,2024-10-15,"Display apparatus that displays menu item indicating name of group including item to be set displayed at uppermost position of scrollable display region, in different display style from other menu items, and image forming apparatus",0,G06F|H04N
+12108001,2024-10-01,"Input device that sets button baseline value or panel baseline value to initial value, depending on whether touch operation on touch button based on electrostatic capacitance is valid, and image forming apparatus",0,G06F|H04N
+12107997,2024-10-01,Machine learning preflight printing system and methods,0,G06N|H04N
+12095954,2024-09-17,"System comprising multi-tenant cloud server and electronic equipment, non-transitory computer-readable storage medium storing server program, and non-transitory computer-readable storage medium storing equipment program",0,G06F|H04L|H04N
+12093582,2024-09-17,Methods and printing system for peer-to-peer resource management,0,G06F
+12091795,2024-09-17,Textile patch attachment,0,D05B|D05D|G06T|G06V
+12086487,2024-09-10,Restricting printing based on physical local presence of a user device,0,G06F
+12081715,2024-09-03,"Industrial printing system, print server, and industrial printing method for generating and reprinting print job to archive",0,G06F|G06K|H04N
+12073136,2024-08-27,"Industrial printing system, print server, and grouping process method for peer-to-peer grouping of production printing jobs",0,G06F
+12067314,2024-08-20,Intelligent paper tray configuration for printing device,0,G06F
+12056945,2024-08-06,Method and system for extracting information from a document image,0,G06F|G06N|G06V
+12056545,2024-08-06,Methods and printing system for intelligent offline ink estimation,0,G06F|G06K
+12050412,2024-07-30,Image forming apparatus,0,G03G|H04N
+12050411,2024-07-30,Image forming apparatus,0,G03G|H04N
+12043028,2024-07-23,Image forming apparatus,0,B41J|H04N
+12038708,2024-07-16,Image forming apparatus,0,G03G|G06K|H04N
+12033814,2024-07-09,Switching device and image forming apparatus,0,G03G|H01H|H04N
+12033303,2024-07-09,Mitigation of quantization-induced image artifacts,0,G06T|G06V
+12033012,2024-07-09,"Image processing apparatus and image processing method capable of generating 2D barcode using words constituting text in document image, input identification information, and predetermined sign and assigning generated 2D barcode to document image",0,G06K|H04N
+12032899,2024-07-09,"Revision content summarizing apparatus, image forming system, and revision content summarizing method",0,G06F
+12025960,2024-07-02,Integration of printing device to a smart space,0,G05B|G06F|G06K|G06N|G06Q|G06V
+12022050,2024-06-25,Intelligent media profile management,0,H04N
+12022043,2024-06-25,Image processing device and image forming apparatus capable of detecting and correcting mis-converted character in text extracted from document image,0,G06F|G06V|H04N
+12019934,2024-06-25,Mirrored hot folder for printing,0,G06F
+12019929,2024-06-25,Methods and printing system using adaptive consumable estimation in printing operations,0,G06F
+12019926,2024-06-25,Information processing apparatus and notification method capable of suppressing increase in number of activations of storage portion,0,G06F|Y02D
+12010279,2024-06-11,Image reading device and image forming apparatus capable of allowing or disallowing conveyance of original document through curved conveyance path depending on length of original document,0,H04N
+12008282,2024-06-11,"Information processing system, image forming system, and information processing method that combine and automate cloud and local tasks",0,G06F|G06K
+12002191,2024-06-04,Data processing system and data processing method,0,G06T|G06V
+11995367,2024-05-28,Image forming apparatus and image forming method capable of presenting and changing internal priority of printing order,0,G06F
+11995189,2024-05-28,"Image forming apparatus, firmware manipulation prevention method, and computer-readable non-transitory recording medium containing manipulation prevention program",0,B41J|G06F|H04L|H04N
+11991335,2024-05-21,High-speed cell-based image compression,0,G06T|H04N
+11991329,2024-05-21,"Image reading apparatus that switches reading mode depending on whether document may be discharged to discharge tray, and image forming apparatus",0,B65H|H04N
+11989916,2024-05-21,Retro-to-modern grayscale image translation for preprocessing and data preparation of colorization,0,G06N|G06T
+11989472,2024-05-21,Display control device and image forming apparatus,0,B41J|G03G|G06F|G09G|H04N
+11983585,2024-05-14,Methods and printing system using raster image processors configured for processing a job,1,G06F|G06K
+11983446,2024-05-14,"Industrial printing system, print server, and process management method for peer-to-peer distributed processing in combination of production printing apparatuses",0,G06F|G06K
+11983289,2024-05-14,Method and system for managing login information during a debugging process,0,G06F|H04L
+11977803,2024-05-07,"Industrial printing system, print server, and variable printing method for distributed processing of variable printing for production printing by peer-to-peer",0,G06F
+11972313,2024-04-30,"Information processing apparatus, image forming apparatus, and work estimating method that allows objective determination of estimation of work related to printing",0,G06F|G06K
+11972197,2024-04-30,OCR system,0,G06F|G06V
+11968342,2024-04-23,Image reading device capable of generating tag about document and image forming apparatus with the same,0,G06F|G06V|H04N
+11967003,2024-04-23,Adaptive color selection,0,G06T|G06V
+11966648,2024-04-23,"Industrial printing system, print server, and process management method for distributed processing by grouping apparatus for peer-to-peer production printing",0,G06F|G06K
+11966639,2024-04-23,"Remote management system and management image forming apparatus comprising superimposing a screen from a remotely accessed target apparatus at a first touch panel on a management image forming apparatus, wherein an edge server receives, from a remotely target apparatus, apparatus log data and server log data from a site server",0,G06F
+11960782,2024-04-16,"Information processing system, image forming system, and information processing method for restoring old version of task file via image forming workflow",0,G06F
+11956404,2024-04-09,Authentication device and image forming apparatus,0,B41J|G06F|H04N
+11954391,2024-04-09,Methods and printing system for peer-to-peer output management,0,G06F
+11954390,2024-04-09,Printing system for peer-to-peer output management,0,G06F
+11949840,2024-04-02,Redacting confidential information in a document and reversal thereof,0,G06F|H04N
+11949831,2024-04-02,User interface for exposure correction of an image transparency,0,H04N
+11949810,2024-04-02,"Image forming apparatus that calls terminal device on other end indicated by predetermined destination number, when prespecified gesture is detected",0,G06F|H04M
+11936834,2024-03-19,Enhanced spot color adjustment system and methods for color printing operations,0,G01J|H04N
+11934821,2024-03-19,Device management system and non-transitory computer-readable storage medium storing device management program,0,G06F|H04N
+11934721,2024-03-19,"Industrial printing system, print server, and variable printing method for distributed processing of variable content in variable printing of production printing by peer-to-peer",0,G06F|H04N
+11934291,2024-03-19,Measurement of parallelism in multicore processors,0,G06F
+11930135,2024-03-12,Signal processing board and image forming apparatus,0,H01L|H04N
+11928484,2024-03-12,Contextually providing a user interface,0,G06F|G06N|H04N
+11928370,2024-03-12,"Image forming apparatus, communication device, and image forming system",0,G06F|Y02D
+11922231,2024-03-05,Printing device connectivity manager for a digital front end,0,G06F
+11922078,2024-03-05,Printing device connectivity manager for a digital front end,0,G06F
+11921892,2024-03-05,Data association system and anonymization control system,0,G06F
+11914912,2024-02-27,Hot folders with enhanced print ticketing functionality,0,G06F
+11914911,2024-02-27,"Industrial printing system, site server, and processing management method for distributed processing of production printing in peer-to-peer",0,G06F|H04N
+11914906,2024-02-27,Pre-processing print jobs,0,G06F
+11909934,2024-02-20,Consolidation of bounding boxes generated from text type pattern localizer,0,G06V|H04N
+11909933,2024-02-20,One-shot neural network for stamp detection,1,G06T|G06V|H04N
+11902490,2024-02-13,Methods and system for ink limit adjustments to ICC profiles for color printing,0,G06K|H04N
+11895277,2024-02-06,Opening/closing cover attachment structure which couples opening/closing cover to cover attaching body in a turnable manner,0,G03G|H04N|H05K
+11893287,2024-02-06,Graphics and image processing for debugging for a printing,0,G06F
+11893286,2024-02-06,Printing system and methods for managing color printing resources,0,G06F
+11893285,2024-02-06,System and method for improved color calibration,0,B41J|G01J|G01K|G01N|G06F|G06K|H04N
+11892974,2024-02-06,"File management program and file management system, for outputting target file, and information file containing information linked with target file, to external device",0,G06F
+11889043,2024-01-30,"Image reading apparatus, image forming apparatus comprising a first imaging portion and a second imaging potion that are caused to read first and second sides of a medium in parallel to generate a synthesized image including first image and second image read from a first imaging portion and a second imaging portion",0,H04N
+11886944,2024-01-30,Enhanced spot color adjustment system and methods for color printing operations,0,G06K|H04N
+11880969,2024-01-23,Belt examination system and computer-readable non-transitory recording medium having stored belt examination program,0,G01M|G06T
+11880621,2024-01-23,Image forming apparatus and image forming method capable of changing the internal priority of printing order,0,G06F
+11870966,2024-01-09,Spot color adjustment system and methods for color printing operations,0,H04N
+11870965,2024-01-09,"Image forming system capable of receiving and transmitting captured image with operation position data and further remotely operating image forming apparatus, and image forming apparatus",0,G06F|H04N
+11870962,2024-01-09,Information processing device and image forming apparatus that communicates with a user terminal operated by a user via a network,0,H04N|Y02D
+11870960,2024-01-09,Image processing system,0,H04N
+11861254,2024-01-02,"Industrial printing system, server, and variable printing method for reprinting archived jobs based on expiry date",0,G06F|G06K
+11861251,2024-01-02,Image forming system that changes order of RIP according to combination of sorting order and face orientation at delivery of recording medium having image formed thereon,0,G06F|G06K
+11861250,2024-01-02,"Industrial printing system, server, and variable printing method that reduce delays due to proofreading delays in variable printing",0,G06F
+11861249,2024-01-02,File transfer system that transfers file among plurality of image forming apparatuses,0,G06F|H04L
+11856166,2023-12-26,Image reading apparatus which prevents damage to documents to be read which are thicker than regular paper,0,G03B|G03G|H04N
+11856151,2023-12-26,"Image reading device capable of relatively positioning document conveyance device and scanner housing using engaged portion and engaging portion, and image forming apparatus equipped with image reading device",0,H04N
+11853630,2023-12-26,Printing device connectivity manager for a digital front end,0,G06F
+11853628,2023-12-26,"Industrial printing system, print server, and variable printing method for peer-to-peer distributed processing of security content in variable printing for production printing",0,G06F|G06K|H04L
+11853619,2023-12-26,Methods and printing system using size-agnostic consumable use estimation,0,G06F|G06K|H04N
+11849094,2023-12-19,"Image forming apparatus capable of forming image on sheet with uneven surface, image forming condition adjustment method",0,G03G|H04N
+11849089,2023-12-19,Image forming apparatus,0,H04N
+11849086,2023-12-19,Image processing apparatus capable of extracting portion of document image specified by preset index and subjecting character string in extracted portion to processing associated with index,0,H04N
+11847865,2023-12-19,App assisted voting,0,G07C|H04L|H04N
+11847368,2023-12-19,"Registered data editing method, registered data editing apparatus that edits all of a plurality of pieces of individual registered data which includes at least department data, and image processing apparatus",0,G06F
+11847365,2023-12-19,"Information processing apparatus, image forming apparatus, and work estimation method for accurately estimating work related to printing",0,G06F
+11841663,2023-12-12,Sheet storage device and image forming system therewith,0,B65H|G03G|H04N
+11838464,2023-12-05,Image forming apparatus,0,B65H|G03G|H04N
+11836403,2023-12-05,Schedule adjustment apparatus and image forming system capable of adjusting maintenance schedule of image forming apparatus,0,G06F
+11831850,2023-11-28,Management of color printing resources in a printing system,0,G06K|H04N
+11831823,2023-11-28,"Schedule coordination system that performs predetermined process necessary for executing task, when current date and time has reached predetermined date and time of startup, and multifunction peripheral",0,G06F|H04N
+11830268,2023-11-28,Hierarchal document classification system and method,0,G06F|G06N|G06V
+11829660,2023-11-28,Print control method and image forming apparatus determines skip permission conditions to execute print processing for confidential job data,0,G06F|H04N
+11829657,2023-11-28,System and method for printing device troubleshooting and maintenance,0,G06F
+11825049,2023-11-21,Image-reading device,0,G03G|H04N
+11825041,2023-11-21,Image processing apparatus and image forming apparatus capable of classifying respective images of plurality of pages of original document based on plurality of topic words,0,H04N
+11822842,2023-11-21,Hot folder for driverless printing,0,G06F
+11818322,2023-11-14,Intelligent media profile management,0,H04N
+11816379,2023-11-14,Work attendance management system,0,G06F|Y02P
+11816377,2023-11-14,"Industrial printing system, print server, and process management method for peer-to-peer distributed processing according to paper settings and imposition settings for production printing",0,G06F
+11816376,2023-11-14,"Information processing apparatus, image forming system, and image forming method for expanding unpresented jobs and adjusting printing order",0,G06F
+11816375,2023-11-14,Image forming apparatus and image forming method capable of changing the internal priority of printing order in consideration of filtering,0,G06F
+11816270,2023-11-14,"Electronic device that operates according to user's hand gesture, and image forming apparatus",0,G06F|H04N|Y02D
+11811999,2023-11-07,Facsimile document management system using policies,0,H04N
+11811995,2023-11-07,"Mediation device for mediating execution of software updating task, non-transitory computer-readable storage medium storing mediation program, device management system for generating software updating task, and non-transitory computer-readable storage medium storing device management program",0,G06F|H04N
+11811987,2023-11-07,Operation input device and image forming apparatus,0,G06F|H04N
+11809761,2023-11-07,"Image processing system that transmits a second print approval code to each of plurality of mail addresses, when private print mode is set, and executes print job when first print approval code received through input device accords with second print approval code",0,G06F
+11803721,2023-10-31,Methods and printing system using adaptive consumable estimation in printing operations,0,G06F|G06K
+11803701,2023-10-31,Machine learning optimization of machine user interfaces,0,G06F|G06N|G06V
+11803342,2023-10-31,"Image information transmission method, information communication terminal, and image forming system for determining when operator in site where image forming apparatus being installed",0,G06F|Y02D
+11803339,2023-10-31,Image forming system for executing failure prediction of multifunction peripheral and specifying abnormal image forming apparatus among image forming apparatuses that sends numeric value that deviates most from median,0,G03G|G06F
+11800031,2023-10-24,Image processing apparatus and reading control method,0,H04N
+11797809,2023-10-24,Methods and printing system using classification-based consumable use in printing operations,0,G06F|G06K
+11797805,2023-10-24,Methods and printing system using classification-based consumable use in printing operations,0,G06F|G06K
+11789668,2023-10-17,Image forming system that starts to execute calibration at insertion start timing of interleaving paper,0,G06F|G06K|Y02D
+11789391,2023-10-17,Image forming apparatus,0,B41J|G03G|G06F|Y02D
+11789377,2023-10-17,Optical scanning device and image forming apparatus,0,B41J|G02B|G03G|H04N
+11789351,2023-10-17,"Image forming system, image forming apparatus and image reading apparatus",0,G03B|G03G|H04N
+11785166,2023-10-10,Image forming system,0,G06F|H04N|Y02D
+11783608,2023-10-10,Image processing apparatus and image processing method,0,G06T|G06V|H04N
+11782597,2023-10-10,"Display apparatus that displays menu item indicating name of group including item to be set displayed at uppermost position of scrollable display region, in different display style from other menu items, and image forming apparatus",0,G06F|H04N
+11778119,2023-10-03,"Information processing apparatus performing setting of application in client device, information processing system including same, and non-transitory computer-readable recording medium storing setting tool program",0,H04N
+11778109,2023-10-03,"Display apparatus that causes display device to enlarge or reduce image according to user gesture detection result from detector, and image forming apparatus",0,G06F|H04N
+11775237,2023-10-03,Display device capable of displaying preview image,0,B41J|G06F|H04N
+11775231,2023-10-03,Image forming apparatus that forms image according to instruction from remote location,0,G03G|G06F
+11775197,2023-10-03,Single command for reading then clearing dynamic random access memory,0,G06F|G11C
+11769226,2023-09-26,Super resolution neural network with multiple outputs with different upscaling factors,0,G06T
+11769025,2023-09-26,Method for using a paper catalog map with a paper catalog for printing operations,0,G06K|G06Q|H04N
+11768644,2023-09-26,Display control device and image forming apparatus,0,B41J|G03G|G06F|G09G|H04N
+11768159,2023-09-26,Belt examination system and computer-readable non-transitory recording medium having stored belt examination program,0,G01N|G03G|G06N
+11765302,2023-09-19,"Image forming apparatus equipped with an anti-malware function of a permission-list type, image forming method using the same, and non-transitory computer-readable recording medium on which image forming program for the same is recorded",0,G06F|H04L|H04N
+11765297,2023-09-19,Image scanning apparatus,0,H04N|H05B
+11765287,2023-09-19,Information processing apparatus capable of allowing display device to display combinations of setting values satisfying predetermined condition,0,G06F|H04N
+11763586,2023-09-19,Method and system for classifying document images,0,G06F|G06V
+11762673,2023-09-19,Extensible format-independent middleware message interpreter,0,G06F
+11758070,2023-09-12,Operating an image forming apparatus with a visible code,1,G06K|G06V|H04N
+11756181,2023-09-12,Method for performing image processing for determining image defect in mixed-color test image through image reading,0,G06K|G06T
+11755378,2023-09-12,Tenant management system capable of operating tenant specific applications appropriately,0,G06F
+11755268,2023-09-12,Printer performs registration process of selected sheet type corresponding to authenticated user and to further display a list of at least sheet types thereon supported by the printer,0,G03G|G06F|H04N
+11755267,2023-09-12,Methods and printing system using hybrid consumable use estimation in printing operations,0,G06F
+11750756,2023-09-05,Contactless document processing system using document management profile,0,H04N
+11748048,2023-09-05,Methods for processing documents for use in variable data printing operations,0,G06F|G06K
+11748045,2023-09-05,Methods and printing system for reporting job cost information,1,G06F
+11743400,2023-08-29,"Electronic apparatus that causes display device to display information corresponding to keyword and interrogative in inputted character string for questioning a location, and image forming apparatus",0,G06F|H04N
+11741324,2023-08-29,Methods and printing system for intelligent offline ink estimation,0,G06F|G06K
+11740939,2023-08-29,Data linkage system and API platform,0,G06F
+11740847,2023-08-29,"Image forming system that transmits print job to transfer destination determined out of plurality of image forming apparatuses, and image forming method",0,G06F
+11736645,2023-08-22,"Print processing system that transmits print data from terminal device to one of plurality of image forming apparatuses, according to information written in memory of mobile device",0,H04N
+11736642,2023-08-22,Image forming apparatus,0,H04N
+11736640,2023-08-22,Method and apparatus for detecting sheet-fed scanner double-feeds using neural network classifier,0,G06T|H04N
+11736639,2023-08-22,"Sheet conveying device, image processing apparatus, and sheet conveying method",0,G03G|H04N
+11736638,2023-08-22,"Image reading apparatus, image processing method",0,H04N
+11736634,2023-08-22,Image forming apparatus scans a document to execute an image processing process and to perform preview process to display the processed document for further performing the image processing process by user on the previewed display document,0,G06K|G06V|H04N
+11736628,2023-08-22,Image forming apparatus executing billing process,0,H04N
+11736627,2023-08-22,"Sheet conveying device, image processing apparatus, and sheet conveying method",0,G03G|H04N
+11734404,2023-08-22,Robot gatekeeper for authentication prior to meeting attendance,0,G06F|G06K|G06N|G06V|G07C
+11733945,2023-08-22,Methods for processing documents using rules in variable data printing operations,0,G06F
+11733940,2023-08-22,Printing system and device for processing transactions in a distributed ledger,0,G06F
+11733938,2023-08-22,Methods and printing system for virtual calibration and verification services,0,G06F|H04N
+11733934,2023-08-22,Near field wireless communication of printer job settings,0,G06F|H04N|H04W
+11729643,2023-08-15,Communication device and image forming apparatus,0,G06F|H04L|H04W
+11729327,2023-08-15,"Sheet conveying device capable of switching conveyance route of sheet, image processing apparatus, and sheet conveying method",0,H04N
+11727233,2023-08-15,Methods and printing system for intelligent offline ink estimation,0,G06F|G06K
+11726731,2023-08-15,Image forming apparatus,0,G06F|Y02D
+11720694,2023-08-08,"Image transmission system that allows transmission of image file satisfying predetermined condition to shared folder, but restricts transmission of image file not satisfying predetermined condition to shared folder, and image reading apparatus",0,G06F|H04N
+11720308,2023-08-08,Image forming system with improved management of printing resources,0,G06F|G06K
+11720303,2023-08-08,Social media influenced personalized printing,0,G06F
+11720294,2023-08-08,Information processing apparatus managing use of document and document management method therefor,0,G06F
+11718091,2023-08-08,Method of adjusting timing of ink ejection on an inkjet recording apparatus,1,B41J|H04N
+11715192,2023-08-01,"Image processing method, image processing apparatus",0,G06K|G06T|G06V
+11710014,2023-07-25,"Image forming system including terminal device that substitutes object data in print data with hash value if the hash value accords with another hash value, and image forming apparatus that substitutes hash value in print data with object data, and image forming method",0,G06F|G06K|H04N
+11709951,2023-07-25,Image forming apparatus storing print data in user terminal or storage part according to storage condition,0,B41J|G03G|G06F|G06K|H04N
+11709899,2023-07-25,"Training data collection system, similarity score calculation system, document retrieval system, and non-transitory computer readable recording medium storing training data collection program",0,G06F|G06N
+11706362,2023-07-18,Image formation system capable of starting execution of calibration with timing to start insertion of interleaving paper,0,G06F|H04N
+11706360,2023-07-18,Image forming apparatus capable of displaying setting screen created based on operation history,0,H04N
+11706180,2023-07-18,"Terminal device and information processing apparatus capable of executing message display program that performs different types of processing between when high-importance message is displayed on display device and when high-importance message is not displayed on display device, and non-transitory computer-readable recording medium with message display program stored thereon",0,G06F|H04L
+11704082,2023-07-18,Print server generating image data after image processing in accordance with print sheet orientation of paper feed source,1,G06F
+11700347,2023-07-11,Intelligent media profile management,0,H04N
+11694315,2023-07-04,Artificial intelligence software for document quality inspection,0,G06N|G06T
+11693614,2023-07-04,Methods and systems for ink use estimation,0,G06F|G06K|G06Q
+11687750,2023-06-27,"Image processing apparatus, image forming apparatus, and image processing method for efficiently performing image processing of image forming apparatus in time divisional manner",0,G06K|H04N
+11681483,2023-06-20,Built-in print formatting responsive to content,1,G06F
+11677885,2023-06-13,Image forming apparatus including a contact member for operating an electrostatic touch panel,0,G06F|H04N
+11677883,2023-06-13,Image forming apparatus capable of executing job by separating job into “job execution preparatory step” and “job execution step”,0,H04N
+11676409,2023-06-13,Form data acquirement system and non-transitory computer readable recording medium storing form data acquiring program,0,G06F|G06V
+11676318,2023-06-13,"Image processing apparatus, image forming systems, and image processing method that draw variable data as an aggregate figure with respect to form data",0,G06T
+11675557,2023-06-13,Image forming apparatus and image forming system,0,G06F|H04N
+11675554,2023-06-13,"Industrial printing system, server, and variable printing method that promotes variable printing proof-reading delays with substitute part",0,G06F
+11675546,2023-06-13,Unified and decentralized machine interface for control of multi- printer systems,0,G06F
+11671544,2023-06-06,"Image reading apparatus, image forming apparatus, and document size detection method",0,H04N
+11671543,2023-06-06,Setting system for setting screen in electronic device capable of customizing an operation screen,0,G06F|H04N
+11669704,2023-06-06,Document classification neural network and OCR-to-barcode conversion,0,G06F|G06K|G06N|G06V
+11669285,2023-06-06,"Image forming system, server, and locating method capable to find authenticated image forming apparatus from terminal",0,G06F
+11665240,2023-05-30,Data linkage system and control system,0,H04L
+11663431,2023-05-30,Methods and printing system for intelligent offline ink estimation,0,G06F|G06K|H04N
+11662966,2023-05-30,"Production printing systems, servers, and variable printing methods for efficient and flexible processing",0,G06F
+11660875,2023-05-30,Methods and system for granular ink estimation for printing operations,0,B41J|G06F|H04N
+11659121,2023-05-23,Image forming system that displays operation information,0,H04N
+11659119,2023-05-23,"Image processing apparatus whose main body is electrically connected to expansion device, image processing method and non-transitory recording medium",0,H04N
+11659117,2023-05-23,"Image forming apparatus comprising a sheet reading unit including a line sensor that includes a plurality of split line sensors arrayed in a row and placed at non-stretching positions, wherein each non-stretching positions is a position that distance in the main scanning direction from a gap to an ideal edge position of every usable regular size exceeds a permissable value",0,B65H|H04N
+11656824,2023-05-23,Image forming system,0,B41J|G03G|G06F|Y02D
+11652947,2023-05-16,"Information processing apparatus that deletes user registration and function information, according to rule related to event that has occurred",0,G06F|H04N
+11652946,2023-05-16,Optical scanning device and image forming apparatus,0,G02B|G03G|H04N
+11652938,2023-05-16,Document conveyance device and image forming system,0,H04N
+11651176,2023-05-16,Image evaluation system,0,G06F|G06K
+11650773,2023-05-16,"Systems, apparatus, and computer program products for management of certificates for third party applications accessing printing kiosks",0,G06F|H04L
+11650532,2023-05-16,"Document conveyance device, document reading device and image forming apparatus",0,B65H|G03G|H04N
+11647135,2023-05-09,Image forming apparatus preventing damage to cable,0,H04N
+11645018,2023-05-09,"Information processing apparatus, image forming apparatus outputting message data after person identification",0,B41J|G06F|G06V|G10L|H04N
+11641436,2023-05-02,"Electronic device, and non-transitory computer-readable recording medium recording firmware",0,H04L|H04N
+11640413,2023-05-02,Content management system for electronic documents using recurrent categorization,0,G06F
+11636293,2023-04-25,Methods and system for updating color management resources based on verification operations,0,G06K|H04N
+11635923,2023-04-25,"Monitoring system, monitoring method, and monitoring program",0,B41J|G06F
+11635730,2023-04-25,Image forming apparatus capable of controlling sheet discharge according to presence or absence of user,0,G03G|H04N
+11630409,2023-04-18,"Image processing method, image processing apparatus",0,G03G|H04N
+11625208,2023-04-11,Portable printer settings system,0,G06F
+11625126,2023-04-11,"Display and input device that corrects position of spatial object, on basis of position shift of contactless touch operation performed on spatial object",0,G06F
+11622057,2023-04-04,Image forming apparatus which reads and outputs image data of an area desired by a user,1,H04N
+11620092,2023-04-04,Image forming apparatus,0,G03G|G06F|G06K|H04L|H04N|Y02D
+11616889,2023-03-28,Image forming apparatus including interlock switch,0,G03G|H04N
+11614907,2023-03-28,Image forming apparatus that forms image according to instruction from remote location,0,G06F
+11614701,2023-03-28,Image forming apparatus,0,G03G|H04N
+11611673,2023-03-21,Sheet feeding apparatus and image forming system,2,H04N
+11611668,2023-03-21,Image processing system that generates job setting information based on interaction with user of information processing apparatus using chatbot,0,G06F|H04L|H04N
+11611667,2023-03-21,Image forming apparatus that manages use status,0,H04N|Y02D
+11599261,2023-03-07,Display apparatus that displays marker on position of target character and displays next marker according to slide operation,0,G06F|G09G
+11595548,2023-02-28,Methods for using test color sheets for printing device calibration,0,H04N
+11595540,2023-02-28,"Image signal processing device, image reading apparatus to extract line image data from an image signal when horizontal synchronization pulses are determined as normal, and a determination portion determines whether horizontal synchronization pulses are normal by comparing time differences between the input of the horizontal synchronization pulses and input of the reference pulses with a shift time",0,H04N
+11593051,2023-02-28,"Image formation system, information processing apparatus, and information processing method for integrated command printing",0,G06F
+11593038,2023-02-28,"Image forming systems, information processing apparatus, and image forming method that is capable of utilizing result of offset printing in digital printing",0,G06F
+11588948,2023-02-21,Discharge tray device and automatic document feeder provided with the discharge tray device,0,H04N
+11588946,2023-02-21,"Display apparatus that displays scroll bar in displayed portion of operation screen reduced by superimposed keyboard, and image forming apparatus",0,G06F|H04N
+11588942,2023-02-21,Image reading control method and apparatus executing different modes of document discharge based on detected target image satisfying preset sorting condition,0,H04N
+11587303,2023-02-21,Information processing apparatus that generates file names of image files,0,G06F|G06V
+11586406,2023-02-21,Printing system and methods to manage printing devices according to information for each printing device,0,G06F
+11586404,2023-02-21,Job processing system,0,B41J|G06F|H04N
+11586402,2023-02-21,Contextual features and settings thereof for a printing device,0,G06F|G06N|H04N
+11586399,2023-02-21,Methods for adjusting ink use in a printing system for cost monitoring and control,0,G06F|G06K
+11586396,2023-02-21,"Production printing system, server, and variable printing method capable of variable printing for specifying printing, post-processing, and output destination",0,G06F|Y02P
+11586395,2023-02-21,Print job transmission device and computer readable non-transitory recording medium storing a print job transmission program,0,G06F
+11579815,2023-02-14,Methods and system for implementing print options for a printing device using visual information,0,G06F|H04N
+11577514,2023-02-14,Image forming apparatus and flushing control method for assigning respective dot patterns for use in flushing with inks of different colors according to number of overlapping dots in image,1,B41J|H04N
+11575804,2023-02-07,Image forming apparatus that changes behavior setting according to instruction from external device,0,G06F|H04N
+11573754,2023-02-07,"Information processing apparatus, image formation system, and job processing method that automatically controls execution order of print jobs",0,G06F
+11573752,2023-02-07,"Image processing apparatus, image forming apparatus, and image forming method that perform compression suitable for the stage of image processing",1,G06F|G06K|H04N
+11570316,2023-01-31,Image forming apparatus and image forming system,0,H04N
+11567719,2023-01-31,Methods for processing documents for use in variable data printing operations,0,G06F
+11560279,2023-01-24,Systems and methods for classifying sheets of a printing device,2,B65H|G03G|G06F|G06K|G06N
+11556294,2023-01-17,Methods and printing system for peer-to-peer output management,1,G06F|H04L
+11556292,2023-01-17,Private server implementation of policy for printing system having an overage status,0,G06F
+11556286,2023-01-17,"Print job transmission device for transmitting a print job, image forming device for executing the print job, and image forming system",0,G06F
+11553094,2023-01-10,Electronic device capable of detecting occurrence of abnormal noise,0,H04N
+11550523,2023-01-10,Hot folders with blended print ticketing,0,G06F
+11546489,2023-01-03,Intelligent media profile management,0,H04N
+11544026,2023-01-03,Printing system and methods for managing output for print jobs having document components,0,G06F
+11544025,2023-01-03,Methods for using a paper catalog map with a paper catalog to manage paper types for color printing operations,0,G06F|H04N
+11544024,2023-01-03,Methods and system for policy-based printing using public print server,0,G06F|H04L
+11544023,2023-01-03,Methods for printing using an off-line policy-based printing system,0,G03G|G06F|H04L
+11544022,2023-01-03,Methods for personal and business policy-based printing system,0,G06F|G06Q
+11544021,2023-01-03,Private server implementation of policy for carryover and borrowing usage,0,G06F|H04L
+11544020,2023-01-03,Management of policy-based printing system using a proxy device,0,G06F|H04L
+11544018,2023-01-03,Methods and printing system for peer-to-peer resource management,0,G06F
+11544014,2023-01-03,Printing system and device for processing transactions in a distributed ledger,1,G06F
+11539859,2022-12-27,Image processing apparatus and image forming apparatus,1,H04N
+11539856,2022-12-27,Image processing capable of monochrome output by enhancing the distinctiveness of color document,0,H04N
+11539855,2022-12-27,Image forming apparatus,0,H04N
+11539849,2022-12-27,Image forming apparatus capable of turning off power upon detection of predetermined gesture,0,H04N
+11537407,2022-12-27,Electronic equipment provided with an AI processor,0,G06F|G06N|H04N
+11537192,2022-12-27,Power control for a controlled device and communication relay unit of an image processing apparatus,0,G06F|H04N|Y02D
+11531503,2022-12-20,Image processing apparatus and image processing system,0,G06F|H04N
+11528375,2022-12-13,Image reading device,0,H04N
+11528272,2022-12-13,"Information processing system, information processing device, and information processing method",0,G06F|H04L|H04W
+11526317,2022-12-13,Methods and system for enabling previews for an embedded digital front end of a printing device,0,G06F
+11526316,2022-12-13,Display control device and image forming apparatus,0,B41J|G03G|G06F|G09G|H04N
+11526314,2022-12-13,Policy-based printing system using split-printing MElHODS,0,G06F|H04L
+11526126,2022-12-13,Image forming apparatus,0,G03G|H04N
+11523018,2022-12-06,Image forming apparatus and operation mode control method that reduce discomfort when returning from energy saving mode,1,H04N|Y02D
+11523011,2022-12-06,Image forming apparatus and numerical value counting method,0,G06F|H04N
+11520893,2022-12-06,Integrated circuit and control method of integrated circuit,0,G06F
+11520267,2022-12-06,"Image processing method, image processing apparatus",0,G03G|H04N
+11518643,2022-12-06,"Image forming system that outputs sheet bundle, method for controlling operation of image forming apparatus",0,B65H|G03G|H04N|Y02D
+11513843,2022-11-29,"Remote operation system, management client, and non-transitory computer-readable recording medium storing management client program",0,G06F|H04L
+11513749,2022-11-29,Policy-based printing system and methods using a mobile device,0,G06F|H04L|H04W
+11513746,2022-11-29,Policy-based printing system and methods using list for documents,0,G06F|H04L|H04W
+11509790,2022-11-22,Electronic apparatus allowing running of extended app and computer readable non-transitory recording medium storing program,0,G06F|H04N
+11509789,2022-11-22,Electronic apparatus and computer readable non-transitory recording medium storing program,0,H04N
+11509787,2022-11-22,Image reading device and image forming system,0,H04N
+11508034,2022-11-22,White background protection in SRGAN based super resolution,1,G06T
+11507682,2022-11-22,Private server implementation of policy for printing system,0,G06F|H04L
+11507418,2022-11-22,Process deferral system and methods using a service requester,0,G06F|Y02D
+11507331,2022-11-22,Policy-based printing system and methods using list for documents,0,G06F|H04L|H04W
+11505417,2022-11-22,Document feeder,0,B65H|H04N
+11503167,2022-11-15,"Image processing apparatus, method, and computer program product excludes specific anomalies among detected anomalies",0,H04N
+11503166,2022-11-15,Print process control system and methods,0,G06F|H04N
+11500594,2022-11-15,Print job transmitting device for transmitting a print job and non-transitory computer-readable recording medium storing a print job transmitting program for the same,0,G06F
+11496649,2022-11-08,Methods and system for policy-based scanning using a public print service,0,G06F|H04L|H04N
+11496644,2022-11-08,Image processing system and non-transitory computer-readable recording medium having stored thereon image processing program,0,G06F|G06N|G06T|G06V|H04N
+11494501,2022-11-08,Policy-based printing system and methods using a code with a mobile device,0,G06F
+11494137,2022-11-08,System and method for implementing policy-based printing operations using identification numbers,0,G06F
+11493453,2022-11-08,"Belt inspection system, belt inspection method, and recording medium for belt inspection program",1,G01N|G06T
+11487623,2022-11-01,Information processing system,0,G06F
+11483452,2022-10-25,Image processing method and apparatus determing cause of image defect based on mixed color test image,0,H04N
+11481252,2022-10-25,Process deferral system and methods using tokens,0,G06F|Y02D
+11481163,2022-10-25,System and method for implementing policy-based printing operations for documents having confidential information,0,G06F|H04L|H04W
+11481099,2022-10-25,"Display apparatus that switches display from first screen to second screen, and image forming apparatus",0,G06F|H04N
+11477347,2022-10-18,Methods and system includes measuring a calibration chart using ink limits to generate tone reproduction curve (TRC) for adjusting original color profile,1,B41J|G03G|H04N
+11477345,2022-10-18,Method and system for activating and executing hidden function on a device,0,G06F|H04L|H04N|H04W
+11477339,2022-10-18,Image forming apparatus forming image of scanned source documents on recording sheets,0,G03G|H04N
+11475213,2022-10-18,"Information processing apparatus and image forming apparatus that add modification history to modified source image, according to modification made",0,G06F|H04N
+11474761,2022-10-18,Printing system and methods to enable imposition using a digital front end,1,G06F
+11474756,2022-10-18,Information processing apparatus capable of allowing display device to display combinations of setting values previously set for each of plurality of functions,0,G06F|H04N
+11470218,2022-10-11,Image reading device comprising an outer peripheral member including two reference surfaces adjacent in the sub-scanning direction and differing in light reflectance,0,H04N
+11470211,2022-10-11,"Image processing apparatus for generating an electronic file of a document image from an optically captured image, and non-transitory computer readable recording medium that records image processing program for generating an electronic file of a document image from an optically captured image",0,G06V|H04N
+11470205,2022-10-11,"Inspection system, design apparatus, and inspection method that generate correct answer data with design apparatus for production printing",0,G06F|G06K|G06T|H04N
+11468498,2022-10-11,"Ordering system, image forming apparatus, and non-volatile computer readable recording medium",0,G06K|G06Q|H04N
+11467786,2022-10-11,Using artificial intelligence to respond to printer error,0,G06F|G06N
+11463592,2022-10-04,"Image processing apparatus, method, and computer program product excludes specific anomalies among detected anomalies",0,H04N
+11462234,2022-10-04,Conversation analyzing device and conversation analyzing system,0,G01P|G06Q|G10L|H04R
+11461972,2022-10-04,"Electronic device, robotic system, and virtual area setting method",0,B25J|G05B|G05D|G06F|G06T|G06V
+11459197,2022-10-04,Document feeder,0,B65H|H04N
+11457122,2022-09-27,"Password authentication device, image processing apparatus, and password authentication method",0,G06F|H04N
+11455135,2022-09-27,"Image forming system, image forming apparatus, mobile terminal device, and computer-readable non-transitory recording medium",1,G06F
+11449703,2022-09-20,"Electronic apparatus, and non-transitory computer readable recording medium that stores image determination program",0,G06F
+11449442,2022-09-20,Single command for reading then clearing a memory buffer,0,G06F|G06K|G06T|G11C
+11449105,2022-09-20,"Display apparatus that prevents erroneous operation of touch panel when opening and closing openable body provided with display device and the touch panel, and image forming apparatus",0,G06F
+11443466,2022-09-13,"Image forming apparatus that randomly processes outline data in association with a character code to render a character in different forms, image forming method including randomly processing outline data in association with a character code to render a character in different forms, and non-transitory computer readable recording medium that records an information processing program that realizes the image forming method including randomly processing outline data in association with a character code to render a character in different forms",0,G06F|G06K|G06T
+11442799,2022-09-13,Method and apparatus for controlling a printer upon receiving a print error recorded in a printer event log,0,G06F|H04N
+11442430,2022-09-13,Rapid packaging prototyping using machine learning,1,G05B|G06N
+11438480,2022-09-06,"Image reading device and image forming device comprising a drive device configured to selectively apply a driving force to the carriage and the plutality of pairs of conveyance rollers, wherein the device driver includes an abutting member, a motor, a carriage that rotates in conjunction with the motor supports a first main body gear to mesh with a cover input gear and a second main body gear to mesh with a main rack gear",0,B65H|G03B|G03G|H04N
+11438479,2022-09-06,"Semiconductor device, replacement part, and image forming apparatus",0,G03G|G05B|G05D|G06F|H04N|Y02D
+11438472,2022-09-06,Display device and image forming apparatus,0,G03G|H04N
+11435962,2022-09-06,Methods and system for policy-based printing using a public print service,0,G06F
+11431863,2022-08-30,"Image reading apparatus that reads image on source document, and image forming apparatus incorporated with image reading apparatus",1,H04N
+11431859,2022-08-30,Touchless mode for operation of a document processing device,0,H04N
+11429322,2022-08-30,Image forming apparatus capable of reducing the number of times of returns from power saving mode,0,G06F|G06K|H04N|Y02D
+11425280,2022-08-23,Methods and printing system for multi-tier color management,0,G06K|H04N
+11423224,2022-08-23,Image-to-text recognition for a sequence of images,0,G06F|G06V
+11422756,2022-08-23,System for monitoring and recovering functions of printing devices and a managing server,0,G06F|G16Y|H04L|H04N
+11422755,2022-08-23,Systems and methods for pseudo spot color printing,0,B41J|G06F|G06K|H04N
+11420665,2022-08-23,"Height adjusting structure for casing, and accessory device for image forming apparatus",1,B62B|H04N
+11418678,2022-08-16,"Electronic apparatus, communication apparatus, and communication abnormality detection method for detecting communication abnormality of serial bus",0,H04N
+11418675,2022-08-16,"Image forming apparatus, image forming method, and recording medium",0,H04N
+11418661,2022-08-16,"Communication system including image forming apparatus and information processing apparatus, and configured to realize linkage between chat function and user note function",0,G06F|H04L|H04N
+11417146,2022-08-16,Image forming apparatus that corrects image in accordance with blood oxygen level,0,A61B|G06V|H04N
+11412101,2022-08-09,Image forming apparatus including duct provided with filter,0,B65H|G03G|H04N
+11409479,2022-08-09,Image forming apparatus,0,G03G|G06F|G06K|H04L|H04N|Y02D
+11405530,2022-08-02,Methods and system for managing color management resources,0,G01J|H04N
+11405523,2022-08-02,Image forming apparatus,0,B41J|G06F|H04N
+11405515,2022-08-02,Image forming apparatus,0,G02B|G03G|H04N
+11405514,2022-08-02,Electronic apparatus and image forming apparatus,0,B41J|G06F|H04N
+11405513,2022-08-02,Printer control automation from document annotation,0,G06F|G06N|G06V|H04N
+11405512,2022-08-02,Electronic device and image forming apparatus capable of editing document images forming document image sequence and converting document image sequence to moving image,0,H04N
+11403485,2022-08-02,Use of a saliency map to train a colorization ANN,1,G06F|G06N|G06T|G06V|H04N
+11403055,2022-08-02,Policy-based printing system and methods using a proxy device,0,G06F|H04N
+11403052,2022-08-02,Firmware upgrade system and associated methods for printing devices,0,G06F
+11399108,2022-07-26,Image reading apparatus capable of determining whether missing part of document image occurs based on edge shape of at least one of leading and trailing edges of document image,0,H04N
+11388300,2022-07-12,Appliance setting apparatus and non-transitory computer-readable recording medium storing appliance setting program,0,G06F|H04N
+11388296,2022-07-12,Image scanning apparatus,0,G06F|H04N
+11386313,2022-07-12,"Image formation control apparatus, image formation control method and non-transitory computer-readable storage medium storing image formation control program",0,G06F|G06K|H04N
+11386312,2022-07-12,Image forming apparatus,1,G06K|H04N
+11381700,2022-07-05,Image forming apparatus and return control method for returning each part from energy saving state by determining usage status of function by user,0,G06F|H04N
+11379162,2022-07-05,Printing system using job template,0,G06F
+11375079,2022-06-28,"Image reading apparatus including a first lamp and second lamp that alternately turn on, wherein the first lamp turns on during reading odd-numbered lines and the second lamp turns on during reading even-numbered lines and synthesizes the first image data read from turning on the first lamp and the second image data read from turning on the second lamp",0,H04N
+11372520,2022-06-28,Display input apparatus and image forming apparatus capable of moving plurality of icons from one page to another on display device and displaying moved icons thereon,0,G06F|H04N
+11368594,2022-06-21,"Image reading apparatus, image forming apparatus, and method of controlling image reading apparatus",0,H04N
+11368591,2022-06-21,Image forming apparatus,0,H04N
+11366706,2022-06-21,Data linkage system and API platform,0,G06F
+11366624,2022-06-21,Super-resolution convolutional neural network with gradient image detection,0,G06F|G06N|G06T|G06V
+11366620,2022-06-21,Color calibration management system for printing devices,0,G03G|G06F
+11360721,2022-06-14,Method for implementing policy-based printing operations in a public domain,0,G06F|G06Q|H04L|H04W
+11360720,2022-06-14,Methods and printing system for multi-tier color management,0,B41J|G06F|G06K|H04N
+11360664,2022-06-14,Display device capable of displaying software keyboard without overlap with plural fields and non-transitory computer-readable recording medium with display control program stored thereon,0,G06F
+11356567,2022-06-07,"Image forming apparatus, image processing method, and image forming method for speeding up continuous monochrome document in auto color mode",0,H04N
+11354543,2022-06-07,Convolutional neural network filter stacker for colorization preprocessing,2,G06F|G06T|G06V
+11354078,2022-06-07,Automated template generation for tiling,0,G06F|G06T
+11350017,2022-05-31,Printing device calibration system and methods,0,G01N|G06F|H04L|H04N
+11350004,2022-05-31,"Sheet conveying apparatus, image processing apparatus, and conveyance control method",0,B65H|H04N
+11347458,2022-05-31,"Electronic device that controls hardware, and non-transitory computer-readable recording medium storing hardware control program for electronic device",0,G06F
+11341383,2022-05-24,Methods and apparatus to detect effective tiling area and fill tiles efficiently,0,G06K|G06T
+11340851,2022-05-24,"Methods, systems, and storage media for characterizing print volume information for a printing asset",2,G06F
+11336798,2022-05-17,"Image forming system, image forming apparatus, and document server apparatus",0,G06F|G06K|H04L|H04N|H04W
+11336792,2022-05-17,Exposure correction of an image transparency,0,H04N
+11330144,2022-05-10,"Image forming method with calibration processing, and non-transitory computer-readable recording medium having stored thereon image forming program of the same",1,H04N
+11330138,2022-05-10,Image scanning device,0,H04N
+11330129,2022-05-10,"Image forming system, image forming apparatus, and storing medium storing application control program",0,H04N
+11328039,2022-05-10,"Electronic apparatus, and method of controlling electronic apparatus",0,G06F
+11327600,2022-05-10,Electronic device and communication device for registering registered data and name of registered data that can be read by number designation of user in association with one-touch key,0,G06F|H04N
+11323593,2022-05-03,Methods and system for managing icc profiles within a color printing system,1,G06F|H04N
+11323587,2022-05-03,"Image forming apparatus with a common output scanner output path and printer output path, wherein the output scanned sheet is in a position different from the printed page in the same common output area",0,H04N
+11321031,2022-05-03,Methods for authenticating printing operations from a cloud-based server,0,G06F|H04N
+11316996,2022-04-26,Image forming apparatus for conveying and reading document,0,H04N
+11315233,2022-04-26,"Learning model generating device, and type identification system for generating learning model and using generated learning model to infer type of image defect",0,G06T|G06V|H04N
+11310397,2022-04-19,Image forming apparatus capable of updating profiles on respective printing sheets of plurality of sheet types,1,H04N
+11310394,2022-04-19,"Image forming apparatus, image forming method, and computer-readable non-transitory recording medium storing image forming program, for performing color cailibration by using reference",0,H04N
+11310369,2022-04-19,Electronic apparatus and computer readable recording medium storing guidance notification program,0,H04N
+11308375,2022-04-19,System and method for detecting color conversion problems in a printed image,0,G06K|G06T
+11307819,2022-04-19,Print process control system and methods,0,G06F
+11307813,2022-04-19,"Recovery control device in image forming system, control method thereof, and non-transitory recording medium",0,G03G|G06F|H04N
+11303774,2022-04-12,Image reading device and method for controlling image reading device,0,H04N
+11301181,2022-04-12,Diagnosing an image forming apparatus based on sound signal analysis,1,G06F|G10L|H04N
+11297200,2022-04-05,Image forming apparatus which performs a process based upon a recognized color of a marked region of original image data,0,H04N
+11297199,2022-04-05,Image processing apparatus that generates cover page from source image,0,G06V|H04N
+11297198,2022-04-05,Image processing apparatus,0,H04N
+11297193,2022-04-05,Document conveyance apparatus,0,H04N
+11295545,2022-04-05,Information processing apparatus for generating schedule data from camera-captured image,0,G06F|G06Q|G06V|H04M
+11294298,2022-04-05,Image forming apparatus with temperature-based emission start timing correction,0,B41J|G02B|G03G|H04N
+11290607,2022-03-29,"Image reading apparatus, image forming apparatus, and document area detection method",0,H04N
+11290606,2022-03-29,Scanning system with automatic paperclip attacher,0,B42F|B43M|H04N
+11288555,2022-03-29,Methods and system for implementing quality control of color printing,1,G06F|G06K|H04N
+11288025,2022-03-29,Job handling with timing out,1,G06F
+11288024,2022-03-29,Image forming apparatus,0,B41J|G03G|G06F|G06K|H04N
+11283966,2022-03-22,Methods and systems for dynamic sharing of ICC profiles,0,H04N
+11283956,2022-03-22,"Methods, systems, and storage media for issuing and verifying a secondary cryptographic photo ID",0,G06T|H04L|H04N
+11283952,2022-03-22,Image reading apparatus,0,H04N
+11283951,2022-03-22,Image forming apparatus,0,H04N
+11281410,2022-03-22,Image forming apparatus,0,G06F
+11277537,2022-03-15,Image forming apparatus capable of reading sheet being conveyed,0,H04N
+11277534,2022-03-15,Image reading apparatus and method for controlling image reading apparatus,0,H04N
+11275857,2022-03-15,Methods for authenticating user access to a scanned document on a cloud-based server,0,G06F|H04L|H04N
+11275856,2022-03-15,Methods for policy-based printing operations in a public domain,0,G06F
+11275822,2022-03-15,Authentication system,0,G06F|G06V|H04N
+11272071,2022-03-08,"Image processing apparatus that reads image data from documents, image processing method, and recording medium",0,G06F|H04N
+11272070,2022-03-08,Electronic apparatus and recording medium,0,H04L|H04N
+11272066,2022-03-08,Method for controlling image forming apparatus by generating learned model and image forming apparatus with learned model,0,G03G|G06N|H04N
+11269740,2022-03-08,Data linkage system and processing monitoring system,0,G06F
+11269573,2022-03-08,Methods and system for policy-based printing using public print server,0,G06F|H04L
+11269568,2022-03-08,Policy-based printing system and methods using list for documents,0,G06F|H04L|H04W
+11267241,2022-03-08,Image forming apparatus and method for controlling image forming apparatus,0,B41J|H04N
+11265445,2022-03-01,Methods and system for checking ICC profile characteristics,0,G06K|H04N
+11265440,2022-03-01,Image forming apparatus that record respective images on front and back sides of recording paper sheet,0,B41J|G03G|H04N
+11265439,2022-03-01,Image forming apparatus,0,H04N
+11265436,2022-03-01,Image forming apparatus and method for controlling an image forming apparatus,0,G06K|H04N
+11262959,2022-03-01,Methods and systems for ink use estimation,2,G06F|G06K|G06Q
+11262958,2022-03-01,Authentication of user at a device using a mobile application,0,G06F|H04L|H04W
+11262957,2022-03-01,System and methods for using an authentication token with a cloud-based server,0,G06F
+11258917,2022-02-22,Electronic device capable of customizing prohibition content and computer-readable non-transitory recording medium storing program for the electronic device,0,G06F|H04N
+11258916,2022-02-22,Electronic device and computer-readable non-transitory recording medium storing program,0,H04N
+11256969,2022-02-22,"Image forming apparatus, image processing method, and image forming method for speeding up auto color mode by monochrome threshold value",0,G06F|G06K|H04N
+11256456,2022-02-22,"Image forming apparatus capable of limiting printing based on number of output sheets, image forming method",0,G06F
+11256450,2022-02-22,"Image reading device that reads document, and image forming apparatus including image reading device",0,G06F|H04N
+11252302,2022-02-15,"Image processing device, image forming apparatus, image processing method, and non-transitory computer-readable storage medium",0,G06N|G06T|G06V|H04N
+11252294,2022-02-15,Document conveyance apparatus,1,B65H|H04N
+11245808,2022-02-08,"Image forming apparatus for generating reconfigured image by arranging paper piece images, image forming method for generating reconfigured image by arranging paper piece images, and non-transitory computer readable recording medium that stores image forming program for generating reconfigured image by arranging paper piece images",0,B41M|H04N
+11245807,2022-02-08,Image processing apparatus,0,G06V|H04N|Y02D
+11245801,2022-02-08,Image forming apparatus and image forming method capable of changing guidance screen from terminal,0,H04N
+11244214,2022-02-08,"Image forming apparatus, image forming method, and computer-readable non-temporary recording medium storing image forming program",0,G06F|G06K|H04N
+11240400,2022-02-01,Image reading and image forming apparatus relating image data pieces of front and back sides of documents based on different symbols assigned,0,H04N
+11240397,2022-02-01,"Information processing system, information processing apparatus, computer-readable non-transitory recording medium storing information processing program, and slave system",0,H04N
+11240393,2022-02-01,"Image reading apparatus for reading an image of a document, and image forming apparatus including the same",2,H04N
+11238321,2022-02-01,Smart document format system,0,G06F|G06K
+11238313,2022-02-01,Automatic document classification using machine learning,1,G06F|G06N|G06V
+11237788,2022-02-01,Authentication system using a code with a mobile application,0,G06F|H04L|H04W
+11237783,2022-02-01,Methods for personal and business policy-based printing system,0,G06F|G06Q
+11237782,2022-02-01,Methods for printing using an off-line policy-based printing system,0,G03G|G06F|H04L
+11237777,2022-02-01,Management of policy-based printing system using a proxy device,0,G06F|H04L
+11233922,2022-01-25,Image processing device having a function of automatically determining whether a document sheet is a color document or black and white document,0,H04N
+11233908,2022-01-25,Image forming apparatus and image forming method that shorten wait time when returning from a power saving state,0,H04N|Y02D
+11233906,2022-01-25,Electronic apparatus and non-transitory computer readable recording medium that records control program,0,G06F|H04N
+11231889,2022-01-25,Policy-based printing system using split-printing methods,0,G06F|H04L
+11230126,2022-01-25,Image forming apparatus,0,B41J|G03G|H04N
+11230121,2022-01-25,Image forming apparatus and image forming method for forming image on image forming medium,1,B41J|H04N
+11228694,2022-01-18,Method and system for activating and executing hidden function on a device,0,G06F|H04L|H04N|H04W
+11227026,2022-01-18,"Information processing apparatus, web application program non-transitory computer readable recording medium that records, and information processing system",0,G06F|H04L
+11226782,2022-01-18,Disambiguation of printing device characteristics,0,G06F
+11223727,2022-01-11,Image reading apparatus and information processing apparatus that reads documents and generates image data,0,H04N
+11218618,2022-01-04,Intelligent media profile management,4,H04N
+11218612,2022-01-04,"Image processing apparatus for generating an electronic file of a document image from an optically captured image, and non-transitory computer readable recording medium that records image processing program for generating an electronic file of a document image from an optically captured image",0,G06V|H04N
+11212420,2021-12-28,Methods and system for policy-based scanning using a public print service,0,G06F|H04L|H04N
+11212419,2021-12-28,"Image reading system, image forming system, and image reading method that perform image processing for each area",0,G06V|H04N
+11212417,2021-12-28,Image processing apparatus that processes image data including coded image,0,G06F|G06T|H04N
+11212397,2021-12-28,"Image reading system, image forming system, and image reading method for dividing each area into blockchains",2,G06F|G06V|H04N
+11210152,2021-12-28,"Error solution information providing system, error solution information provider apparatus, and electronic apparatus",0,G06F|Y02D
+11210039,2021-12-28,System and method for implementing policy-based printing operations for documents having confidential information,0,G06F|H04L|H04W
+11205280,2021-12-21,Textured printing,0,G03G|G06T|G06V
+11201988,2021-12-14,Intelligent media profile management,2,H04N
+11200014,2021-12-14,Display device and display system for increasing transparency of an object in first and second screens,0,G06F|H04N
+11199909,2021-12-14,"Numerical value input apparatus, character input apparatus",0,G06C|G06F
+11196885,2021-12-07,Image forming apparatus,0,H04N
+11196878,2021-12-07,Printing system and methods using a mobile user interface with a primary user interface at a printing device,0,H04N
+11195022,2021-12-07,Monitoring system for detecting events using obstruction area rate,0,G06V|G08B|H04N
+11194531,2021-12-07,Self-organizing fault-tolerant distributed printing using blockchain,0,G06F|H04L
+11194530,2021-12-07,Image forming apparatus that displays status of job instructed by user,0,G06F|G06V
+11194527,2021-12-07,Methods and system for policy-based printing using a public print service,0,G06F
+11190661,2021-11-30,Scan privacy tool using a mobile device for printing operations,0,H04N
+11190656,2021-11-30,Image scanning apparatus,0,H04N
+11188669,2021-11-30,Private server implementation of policy for printing system,0,G06F|H04L
+11188633,2021-11-30,Password authentication device and electronic apparatus,0,G06F|G06Q
+11188276,2021-11-30,Printing device recovery,0,G06F|H04N
+11184505,2021-11-23,Methods and system for policy-based printing and scanning,0,G06F|H04L|H04N|H04W
+11184498,2021-11-23,Image forming apparatus,0,H04N
+11184486,2021-11-23,Image forming apparatus for reading plural documents placed on document support surface and acquiring characters from images of read documents,0,G06V|H04N
+11182112,2021-11-23,Methods and systems for creating ICC printer profiles with unorthodox ink limits,2,G06F|H04N
+11178302,2021-11-16,Image forming apparatus and image reading device that stops conveyance of a sheet based on a change amount of skew angle,0,H04N
+11178211,2021-11-16,File transmission apparatus,0,H04L
+11176433,2021-11-16,"Pipe connection decision device that detects wrong pipe connection, and image forming apparatus",0,B41J|G06K|H04N
+11176261,2021-11-16,Policy-based printing system and methods using a code with a mobile device,0,G06F
+11175870,2021-11-16,Private server implementation of policy for printing system having an overage status,0,G06F
+11175869,2021-11-16,Policy-based printing system and methods using a mobile device,0,G06F|H04L|H04W
+11172084,2021-11-09,Preview image display apparatus and storage medium,0,G06F|H04N
+11169753,2021-11-09,Private server implementation of policy for carryover and borrowing usage,0,G06F|H04L
+11169752,2021-11-09,"Image forming system, image forming apparatus, and image forming method allowing serverless pull printing",0,G06F
+11165926,2021-11-02,"Image forming apparatus, information processing method, and non-transitory computer readable recording medium that stores information processing program",0,H04N
+11165919,2021-11-02,"Image forming apparatus with sound output control, and image forming system including the same",0,H04N
+11163513,2021-11-02,"Image forming apparatus, data communication method",0,G06F|Y02D
+11163507,2021-11-02,"Image forming system including image forming apparatus for outputting recording media on which images are formed, and post-processing apparatus for sorting recording media outputted from image forming apparatus",0,B41J|B65H|G06F
+11163253,2021-11-02,Image forming apparatus,0,G03G|H04N
+11159685,2021-10-26,"Display control device, display control method, and storage medium",0,G06F|G10L|H04N
+11159682,2021-10-26,Image forming apparatus and image formation method,1,H04N|Y02D
+11159513,2021-10-26,"Systems, apparatus, and computer program products for installing security certificates in publicly accessible printer stations through gateway",1,G06F|H04L|H04W
+11157639,2021-10-26,"Systems, processes, and computer program products for authentication of documents based on invisible information in documents",1,G06F|H04L
+11157219,2021-10-26,Method and system for estimating printer consumables,6,G06F|G06Q
+11153507,2021-10-19,"Image processing apparatus, image processing method, image providing system, and non-transitory computer-readable recording medium storing image processing program",0,H04N
+11153459,2021-10-19,Image forming apparatus that prints a plurality of source document images on one recording sheet in a consolidated form,0,G06F|H04N
+11146708,2021-10-12,Image reading device,0,H04N
+11146704,2021-10-12,Image forming apparatus,0,G06F|H04N
+11146700,2021-10-12,Image forming apparatus and communication system that utilize group chat function,0,G06F|H04L|H04N
+11144263,2021-10-12,Printer driver,0,G06F|H04N
+11144262,2021-10-12,Policy-based printing system using graphical codes at printing devices for split-printing methods,0,G06F|H04N
+11141971,2021-10-12,Image forming apparatus,0,B41J|G06T|H04N
+11137963,2021-10-05,Image forming apparatus and computer-readable non-temporary recording medium that stores image forming program,0,G06F
+11137958,2021-10-05,"Electronic apparatus, method of controlling electronic apparatus, and non-transitory computer readable recording medium",0,G03G|G06F|H04L
+11137954,2021-10-05,System and method for implementing policy-based printing operations using identification numbers,0,G06F
+11137821,2021-10-05,"Information processing device, image forming apparatus, and method for controlling power saving",0,G06F|G06K|G11C|Y02D
+11134211,2021-09-28,Image processing apparatus,0,H04N
+11134175,2021-09-28,"Image forming apparatus, method, and computer program product correcting scanning directional positions of image adjustment areas to restrain color registration error",0,H04N
+11134171,2021-09-28,"Image reading apparatus, image forming apparatus, and image reading method that perform image processing for each area",0,G06V|H04N
+11134163,2021-09-28,Image forming apparatus that displaces position of sheet on exit tray according to whether sheet meets predetermined condition,0,H04N
+11134047,2021-09-28,System and method of communication between email plugins,0,H04L
+11132156,2021-09-28,Image forming apparatus,0,G03G|G06F
+11132152,2021-09-28,"Firmware update system, electronic apparatus, and non-transitory computer-readable recording medium having stored thereon firmware update program",0,G06F|H04N
+11128781,2021-09-21,Image processing apparatus,0,H04N
+11128772,2021-09-21,Image forming apparatus,1,H04N
+11128762,2021-09-21,Information processing device and fault presumption method,0,G06F|G06N|H04N
+11126385,2021-09-21,Firmware upgrade system and associated methods for printing devices,3,G06F
+11126294,2021-09-21,"Input apparatus that receives, after fixed period, position on screen of display device specified by touch operation",0,G06F
+11126125,2021-09-21,Image forming apparatus,3,B41J|G03G|G06T|H04N
+11122208,2021-09-14,Monitoring system,0,G06V|H04N
+11122168,2021-09-14,Document checking apparatus,0,H04N
+11119713,2021-09-14,"Systems, processes, and computer program products for delivery of printed paper by robot",0,G05D|G06F
+11113013,2021-09-07,Image forming apparatus for executing secure print job,0,G06F|Y02D
+11108927,2021-08-31,"Image reading device, image forming apparatus and image reading system",0,H04N
+11106771,2021-08-31,"Password authentication device, recording medium, and password authentication method",0,G06F
+11106410,2021-08-31,Automated template generation for tiling,0,G06F|G06T
+11106404,2021-08-31,Template generation for tiling for appearance of overlap,0,G06F
+11102378,2021-08-24,Image processing apparatus and image forming apparatus providing clustering and gradation preservation with reduced memory requirement,0,G06T|H04N
+11102366,2021-08-24,Image forming apparatus that judges if an image of a post-processing mark is present in the scan data of a document,0,H04N
+11102362,2021-08-24,Preparation tool for color print presentation,0,H04N
+11093150,2021-08-17,Image processing apparatus,0,G06F|H04N|Y02D
+11089182,2021-08-10,"Image processing apparatus, image processing method",0,G06V|H04N
+11089174,2021-08-10,Intelligent control of media unit output of a printer,1,G06F|H04N
+11087448,2021-08-10,"Apparatus, method, and non-transitory recording medium for a document fold determination based on the change point block detection",0,G06T|G06V
+11087188,2021-08-10,Smart page decoding system including linearization for viewing and printing,1,G06F|G06K
+11082615,2021-08-03,Mobile terminal device that generates picture where person's eye direction in shot image has been modified,0,G06V|H04N
+11082574,2021-08-03,"Image forming apparatus capable of avoiding mixture of prints, image forming method",0,H04N|Y02D
+11079991,2021-08-03,Policy-based printing system and methods using a proxy device,0,G06F|H04N
+11076065,2021-07-27,Image forming apparatus incorporating a sensor unit having glasses that contacts and detects edge of a sheet in width direction,0,B41J|B65H|G03G|H04N
+11076064,2021-07-27,Image forming apparatus to improve the speed of the copying process,0,H04N
+11076058,2021-07-27,Image scanning apparatus with an improved notification of the presence and content of scanned images,0,H04N
+11076057,2021-07-27,Image scanning apparatus with an improved notification process using shrink images,0,G06F|H04N
+11076056,2021-07-27,Communication system and electronic device,0,G06F|H04N
+11073890,2021-07-27,"Image forming system including image forming apparatuses, managing device and user terminal which selects image forming apparatus and receives instruction to shift to normal mode from power saving mode",0,G03G|G06F|Y02D
+11070696,2021-07-20,Information processing system,0,H04B|H04N|Y02D
+11070691,2021-07-20,Appliance setting apparatus and non-transitory computer-readable recording medium storing appliance setting program,0,G06F|H04N
+11070685,2021-07-20,Information processing apparatus and information processing method for acquiring image forming apparatus status to display composite image indicating device image parts and error image parts,0,G03G|H04N
+11068220,2021-07-20,Image forming apparatus capable of changing sensitivity of human body detection sensor when receiving disaster information,0,G06F|G08B|H04N|Y02D
+11068214,2021-07-20,Printing computing device for printing PPL jobs having video data and methods for use with a printing system for printing PPL jobs having video data,0,G06F|G06K
+11064094,2021-07-13,Image forming apparatus for forming image represented by image data on recording paper sheet,0,G06V|H04N
+11064091,2021-07-13,Image forming apparatus with automatic logout processing unit,0,H04N|Y02D
+11064078,2021-07-13,"Information processing system, user terminal, and electronic apparatus",0,H04N
+11061634,2021-07-13,"Electronic device and image forming apparatus that display preregistered information on display device, depending on open or closed state thereof",0,B41J|G03G|G06F|G09F|G09G|H04N
+11061633,2021-07-13,Information processing device and method for selecting specific setting items related to job and update total numeral values to attain reduced printing cost,0,B41J|G06F|H04N
+11061626,2021-07-13,Machine learning printer control system including pre-press action predictor,0,G06F|G06N|H04N
+11061352,2021-07-13,Image forming apparatus having a common discharge part for discharging a sheet with an image formed by an image forming unit and a document after reading by an image reading unit,0,G03G|H04N
+11057533,2021-07-06,Image forming apparatus and image forming method for inferring and responding to target operator situation,1,G06V|H04N
+11057529,2021-07-06,"Image forming system, image forming apparatus, and image forming method capable of pull printing without key input with no server",0,G06F|H04N
+11054783,2021-07-06,Image reading device and image forming apparatus including the same,0,G03G|H04N
+11054689,2021-07-06,Electric device and display device,0,G02F|H04N
+11050978,2021-06-29,Monitoring system and image processing apparatus,0,G06T|H04N
+11050900,2021-06-29,Electronic apparatus and image forming apparatus causing display to display operation procedure,0,H04N
+11050836,2021-06-29,Cloud-based clipboard,0,G06F|H04L
+11048496,2021-06-29,Firmware upgrade system for printing devices using failure rate,1,G06F
+11044380,2021-06-22,Image forming apparatus for forming image on recording sheet,0,H04N
+11044377,2021-06-22,Electronic apparatus and image forming apparatus causing display to display up-to-date operation procedure,0,H04N
+11044372,2021-06-22,Image forming apparatus,0,G03G|G06F|H04N
+11044371,2021-06-22,"Server apparatus, maintenance management system, and non-transitory computer readable recording medium that records the maintenance management program",0,G06F|H04N
+11044349,2021-06-22,"Information processing apparatus, and non-transitory computer readable recording medium that stores packet pattern creation program",0,H04L|H04W|Y02D
+11044258,2021-06-22,Decentralized network for secure distribution of digital documents,6,G06F|H04L
+11042339,2021-06-22,"Client apparatus, non-transitory computer readable recording medium that records remote adjustment mode management program, and remote adjustment mode management system",0,G06F
+11042335,2021-06-22,Image forming system which continues image formation of confidential document under condition that presence of executor is confirmed,1,G06F|H04L
+11042282,2021-06-22,Information processor for changing scroll amount upon receiving touch operation performed on return key or forward key,0,G06F
+11039037,2021-06-15,"Image processing apparatus, image forming apparatus and image processing method for improving efficiency of clipping process",1,G06K|G06T|G06V|H04N
+11039031,2021-06-15,"Information processing system, information processing method, and information processing apparatus, to easily create a workflow that coordinates a plurality of targets and a plurality of processes",0,G06F|H04N
+11039029,2021-06-15,"Control system, and image forming apparatus that protect image forming apparatus installed in area where abnormality has occurred, from secondary disaster",0,H04N|Y02D
+11039027,2021-06-15,Image reading apparatus which detects a staple attached to a document and method of controlling the image reading apparatus,0,H04N
+11039025,2021-06-15,Display input device and image forming apparatus,0,H04N
+11036993,2021-06-15,Monitoring system,0,G06V|G08B|H04N
+11036570,2021-06-15,Device management system and device management apparatus,0,B65H|G05B|G06F
+11036449,2021-06-15,Image forming apparatus with multiple memories so that information can be transferred to one of the memories when space is available,0,B41J|G03G|G06F|H04N
+11036446,2021-06-15,Printing system estimating and displaying power consumption consumed by print processing in image forming apparatus,0,G06F|Y02D
+11036444,2021-06-15,Image forming apparatus and control method for image forming apparatus,0,G06F|Y02D
+11036336,2021-06-15,Display input device and image forming apparatus,1,G06F|G06T
+11032437,2021-06-08,Method to create a secure distributed data validation system using a distributed storage system and artificial intelligence,0,G06V|H04L|H04N
+11030496,2021-06-08,Smart document format system,2,G06F|G06K
+11029898,2021-06-08,Electronic apparatus,0,B41J|G06F|H04N
+11029820,2021-06-08,"Information processing apparatus, non-transitory computer readable recording medium that records a dashboard application program, and image forming apparatus management system",0,G06F|G06T|H04N
+11025795,2021-06-01,Operation mode control system and image forming apparatus,0,G10L|H04N
+11025789,2021-06-01,"Ordering system, ordering server apparatus, and non-volatile computer readable recording medium",0,G06F|G06Q|H04N|Y02P
+11023791,2021-06-01,Color conversion using neural networks,2,G06F|G06K|G06N
+11023658,2021-06-01,"Image forming apparatus, image forming method, and non-transitory computer readable recording medium",0,B41J|G06F|G06K
+11023653,2021-06-01,Simplified formatting for variable data production with vertical resolution of dependencies,0,G06F|H04N
+11023624,2021-06-01,Method and apparatus for locating tracked items using a multipart sensor,0,G01S|G06F|H04N|H04W
+11022930,2021-06-01,Mounting base and image forming apparatus set,0,B41J|G03G|H04N
+11019232,2021-05-25,Image forming apparatus and non-transitory computer readable storage medium,0,H04N
+11019224,2021-05-25,Image forming apparatus for forming image on recording sheet,0,H04N
+11017495,2021-05-25,"Systems, processes, and computer program products for acceleration of bit-per-pixel fill transfers in a graphics rendering system",1,G06T|G09G
+11016710,2021-05-25,Image forming apparatus that receives job data from host apparatuses via switching hub and calculates communication speed for the host apparatuses based on the job data and reception required time,0,G06F|H04N|Y02D
+11016596,2021-05-25,Input device and image processing apparatus,0,G06F|H04N
+11016552,2021-05-25,Image forming apparatus,0,G01J|G03G|G06F|H04N|Y02D
+11012586,2021-05-18,Image forming device,0,B41J|G03G|H04N
+11011165,2021-05-18,"Voice input device, non-transitory computer readable medium storing voice input program, and voice input system",0,G06F|G10L
+11010978,2021-05-18,Method and system for generating augmented reality interactive content,0,G06F|G06T|G06V
+11010114,2021-05-18,Read/write direction-based memory bank control for imaging,0,G06F
+11003848,2021-05-11,Variable data template management by template shape,1,G06F
+11003397,2021-05-11,Printing computing device for processing a print job to print a document at a multi-function printing device,0,G06F
+10999475,2021-05-04,Image forming apparatus and image forming method,0,H04N
+10999463,2021-05-04,Image forming apparatus executing processing for wake-up from power saving state according to direction of eye gaze detected by eye-gaze sensor,0,G03G|G06F|G06V|H04N|Y02D
+10999459,2021-05-04,Image reading device and image forming apparatus that perform notification processing for notifying user that special original document to be read preferably at high resolution has been detected from among original documents read at low resolution,0,H04N
+10996905,2021-05-04,"Image forming system that uses presence confirmation requests and response requests for installation of a printer driver, image forming apparatus and terminal apparatus",0,B41J|G06F|H04N
+10992829,2021-04-27,Image forming apparatus performing processing for resolving user's complaint against to printed result,0,G06F|G06K|G10L|H04N
+10992828,2021-04-27,Image forming apparatus and method for controlling setup information based on a reference apparatus,0,H04N
+10990823,2021-04-27,Monitoring system,0,G06F|G06V
+10990335,2021-04-27,Image forming apparatus,0,G03G|G06F|G06K
+10990329,2021-04-27,"Waking an electronic device, such as a printer, from a sleep mode based on a user policy and proximity",0,G06F|H04N|Y02D
+10990328,2021-04-27,Image forming apparatus,0,G06F|Y02D
+10990275,2021-04-27,Electronic device with settable low power consumption mode,0,G03G|G06F|Y02D
+10986246,2021-04-20,Remote management system for remotely managing image forming apparatus,0,G06F|H04N
+10986239,2021-04-20,Method to create a secure distributed data validation system using a distributed storage system and artificial intelligence,0,G06V|H04L|H04N
+10986237,2021-04-20,Information processing apparatus and information processing method,0,H04N
+10986236,2021-04-20,Methods for configuring settings for an image forming apparatus with template sheet,1,G06F|H04N
+10986014,2021-04-20,Monitoring system and non-transitory computer-readable recording medium storing monitoring program,1,G06F|H03M|H04L
+10984019,2021-04-20,Data management system and storage medium,0,G06F|G06Q
+10983742,2021-04-20,Image forming apparatus having items related to function control,0,G06F|Y02D
+10979602,2021-04-13,"Image forming control device that selects image forming medium for reproducing image color indicated by inputted image data, image forming apparatus, image forming control method, and non-transitory computer-readable recording medium having image forming control program",0,H04N
+10979596,2021-04-13,Image forming apparatus,0,H04N
+10979589,2021-04-13,"Control system, management apparatus, and image forming apparatus that perform control when abnormality occurs in image forming apparatus",0,G06F|H04N
+10979582,2021-04-13,Extension of remote frame buffer (RFB) protocol,0,G06F|G09G|H04L|H04N
+10979580,2021-04-13,"Image processing apparatus capable of extending function, and image forming apparatus provided with the same",0,G06K|H04N
+10979577,2021-04-13,Electronic device and image forming apparatus providing user with work environment for creating search formula whose search is targeted on log,0,G06F|H04N
+10977343,2021-04-13,"Display input device for receiving password input, information processing apparatus, display input method",0,G06F|H04N
+10976970,2021-04-13,Image forming apparatus with an improved image centering positioning system,0,B41J|B65H|G03G|G06F|G06T
+10976968,2021-04-13,"Information processing apparatus, method, and non-transitory computer readable recording medium that stores program",0,G06F
+10976902,2021-04-13,Using reference point to perform enlargement and reduction of displayed content,0,G06F|G09G
+10972619,2021-04-06,"Display apparatus for displaying pop-up window at appropriate display position on screen of display device, and computer-readable non-transitory recording medium storing display control program",0,G06F|H04N
+10972616,2021-04-06,Image processing system,0,H04N
+10970581,2021-04-06,Electronic device,0,G06F|G06V|H04N
+10970016,2021-04-06,"Image processing system, method for image processing, and image forming apparatus that are provided with security function of image",0,G06F
+10970014,2021-04-06,Authentication of user at a device using a mobile application,0,G06F|H04L|H04W
+10965834,2021-03-30,Information processing apparatus equipped with function of adding new content to original file and outputting file,0,H04N
+10965827,2021-03-30,Document reading device and image forming apparatus,1,H04N|Y02D
+10963689,2021-03-30,Image processing apparatus and method for controlling image processing apparatus,0,G06V|H04N
+10963631,2021-03-30,Information processing device,0,G06F|G06V
+10963202,2021-03-30,Authentication system using a code with a mobile application,1,G06F|H04L|H04W
+10963195,2021-03-30,Firmware upgrade system and methods for printing devices,1,G06F
+10958799,2021-03-23,Image forming apparatus and method for controlling the same,1,H04N
+10958797,2021-03-23,Image forming apparatus for forming image on recording paper,0,G06F|H04N|Y02P
+10956763,2021-03-23,Information terminal device,1,H04N
+10956109,2021-03-23,Image forming system including plural image forming apparatuses connected via network,0,G06F|H04N
+10956108,2021-03-23,"Information processing system, information processing method, and information processing apparatus",0,G06F|H04N
+10956098,2021-03-23,Image forming system and image forming apparatus,0,G06F
+10956090,2021-03-23,Memory system and electronic apparatus,0,G06F
+10951788,2021-03-16,"Image forming apparatus forming image on image forming medium, image forming method, and computer-readable non-transitory recording medium storing image forming program",0,H04N|Y02D
+10951777,2021-03-16,Image forming apparatus and non-transitory computer-readable recording medium storing image forming program,0,G06F|G06N|G06T|H04N|Y02D
+10949697,2021-03-16,Image processing apparatus and image forming apparatus,1,G06F|G06V
+10949691,2021-03-16,Information processing system provided with mobile terminal that can play back data written on page,0,G06F|G06V
+10949664,2021-03-16,Optical character recognition training data generation for neural networks by parsing page description language jobs,2,G06F|G06N|G06T|G06V
+10949138,2021-03-16,Image processing apparatus resolving memory shortage,0,G06F|G06K|H04N
+10944888,2021-03-09,Methods and system of devices for managing confidential documents using authentication codes,0,G06F|G06V|H04N
+10944878,2021-03-09,Image reading apparatus and image forming apparatus for warning of risk of information leakage,1,H04N
+10943384,2021-03-09,Utilizing smooth shading patches in image rendering,0,G06T|H04N
+10943159,2021-03-09,"Information processing apparatus configured to calculate predicted-number-of-days, which is number of days in an allowed-number-of-media-to-be-fed-after-wear-detection is to be consumed, non-transitory computer readable recording medium that records information processing program for calculating predicted-number-of-days, and information processing method for calculating predicted-number-of-days",0,G03G|G06K|G06Q
+10943108,2021-03-09,Image reader performing character correction,0,G06F|G06V|H04N
+10943002,2021-03-09,Password authenticating apparatus for executing user authentication using password,0,G06F
+10942695,2021-03-09,"Alternative print system, print management system included therein, and non-transitory computer-readable recording medium for storing print management program to determine alternative image forming device for alternative print",0,G06F
+10942691,2021-03-09,Image forming apparatus having copy function for executing copy job,0,G06F|G06K|H04N|Y02D
+10942688,2021-03-09,System and method for implementing policy-based printing operations,0,G06F|G06Q|H04L|H04W
+10942468,2021-03-09,Optical scanning device and image forming apparatus including the same,0,B41J|G02B|G03G|H04N
+10939019,2021-03-02,"Image processing apparatus, image forming apparatus and image processing method for increasing speed of pixel processing of index colors",1,H04N
+10939015,2021-03-02,"Image processing apparatus inserting image into insertion area, and image forming apparatus",0,H04N
+10939010,2021-03-02,"Information processing system, information processing apparatus, image forming apparatus",0,H04N
+10939008,2021-03-02,Image forming apparatus,0,H04N
+10939001,2021-03-02,Image forming apparatus and non-transitory computer-readable recording medium storing home screen display program,0,H04N
+10939000,2021-03-02,Operation of a panel for a printer using a dial control,0,G06F|H04N
+10937608,2021-03-02,Operation panel and image forming apparatus,0,G06F|H01H|H04N
+10936923,2021-03-02,Image forming apparatus that degrades visibility of printed side of used paper,0,G06K|H04N
+10936893,2021-03-02,"Information processing device and method for document image extraction, composite image generation, and OCR processing including display of reading resolution instructions based on character density",1,G06T|G06V|H04N
+10936255,2021-03-02,Snapping an image and notifying a user to pick-up a printed document,0,G06F
+10936254,2021-03-02,Printer for snapping an image and notifying a user to pick-up a printed document,0,G06F
+10936253,2021-03-02,Searching for and notifying a user to pick-up a printed document,0,G06F|H04N
+10931842,2021-02-23,Intelligent control of feeding media units in a printer,2,G06F|H04N
+10929548,2021-02-23,Methods for policy-based printing operations in a public domain,0,G06F
+10929020,2021-02-23,"Information processing device having control unit that controls communication unit to transmit data generated or processed by processing unit to predetermined storage device, and information processing system including the same",0,G06F
+10922592,2021-02-16,Image forming apparatus comprising controller circuit borad instructs engine circuit board to set a setting data list for renewing the setting data list in head circuit board to control print engine for printing process,0,B41J|G03G|G06F|G06K
+10922514,2021-02-16,Electronic apparatus,0,G06F|G06V
+10922038,2021-02-16,"Memory control method, memory control apparatus, and image forming method that uses memory control method",0,G06F
+10922031,2021-02-16,Image forming apparatus that adjusts a cycle of a horizontal synchronization signal in accordance with an image width of a page image,0,G03G|G06F|Y02D
+10917535,2021-02-09,Scanning system with automatic file folder refiler,0,B42C|B42F|B65H|H04N
+10911636,2021-02-02,"Image inclination angle detection apparatus that detects inclination angle of image with respect to document, image forming apparatus, and computer-readable non-transitory recording medium storing image inclination angle detection program",0,G06F|G06V|H04N
+10911608,2021-02-02,"Image processing apparatus capable of restricting operation, operation control method",0,H04N
+10908856,2021-02-02,Image forming apparatus for executing automatic installation of driver to external terminal by remote control and image forming system including the image forming apparatus,0,G06F|H04N
+10908854,2021-02-02,Image forming system and image forming apparatus that perform maintenance or cancel of sleep mode,0,G06F|Y02D

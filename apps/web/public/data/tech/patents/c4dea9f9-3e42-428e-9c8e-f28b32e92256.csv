@@ -1,0 +1,597 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12156125,2024-11-26,Method and radio communication equipment for signaling a physical layer profile,0,H04L|H04W
+12120727,2024-10-15,Method and apparatus for operating configured grant timers in wireless communication system,0,H04L|H04W
+12114390,2024-10-08,Method and apparatus for handling random access failures in RRC inactive state,0,H04W
+12108481,2024-10-01,User equipment and method for small data transmission procedure,1,H04W|Y02D
+12108461,2024-10-01,Methods and apparatuses for random access procedure in medium access control layer,0,H04L|H04W
+12108057,2024-10-01,"Prediction image generation device, moving image decoding device, moving image encoding device, and prediction image generation method",0,H04N
+12101648,2024-09-24,Wireless communication system and method for performing communication and computing,0,G06N|H04L|H04W
+12096487,2024-09-17,"Method related to PUSCH repetitions, user equipment, and network device",1,H04L|H04W
+12096266,2024-09-17,Method and apparatus for handling measurement in wireless communication system,0,H04L|H04W
+12095996,2024-09-17,Systems and methods for performing binary arithmetic coding in video coding,0,H03M|H04N
+12095708,2024-09-17,Wireless communication method and user equipment for transmission on different bandwidth parts,0,H04L|H04W
+12089176,2024-09-10,User equipment and method for handling user equipment onboarding,0,H04W
+12082235,2024-09-03,System and method for random access resource selection,0,H04B|H04L|H04W
+12081334,2024-09-03,"Method executed by user equipment, and user equipment",0,H04L|H04W
+12075401,2024-08-27,"Control method for user equipment, control method for base station, and user equipment",0,H04W
+12075385,2024-08-27,"User equipments, base stations and methods for sidelink channel state information (SL CSI) reporting",0,H04W
+12075095,2024-08-27,Device and method for coding video data,0,H04N
+12069744,2024-08-20,"Base station apparatus, terminal apparatus, and method for a random access procedure in wireless communication",0,H04W
+12069667,2024-08-20,Methods to determine the URLLC UCI multiplexing location on eMBB PUSCH,1,H04L|H04W
+12069002,2024-08-20,"Method executed by user equipment, and user equipment",1,H04L|H04W
+12063670,2024-08-13,Method for wireless communication and terminal device thereof,0,H04L|H04W
+12063624,2024-08-13,Selection of radio access technologies for V2X messages,0,H04W
+12063104,2024-08-13,"Terminal apparatus, base station apparatus and communication method",0,H04J|H04L|H04W
+12058742,2024-08-06,Methods and apparatuses for timing advance adjustment in uplink transmission,1,H04L|H04W
+12058693,2024-08-06,User equipment and method for small data transmission,0,H04W
+12058604,2024-08-06,Method and apparatus for receiving system information,0,H04W
+12052783,2024-07-30,User apparatus for performing a registration procedure,1,H04W
+12052722,2024-07-30,Terminal device,1,H04L|H04W
+12047213,2024-07-23,Method of configuring a PUSCH repetition and user equipment using the same,0,H04L|H04W
+12035357,2024-07-09,Method executed by user equipment and user equipment,0,H04L|H04W
+12035317,2024-07-09,Method and apparatus for multiplexing UCI,0,H04W
+12028925,2024-07-02,Methods and related devices for multi-connectivity,0,H04W
+12028888,2024-07-02,Transmitting hybrid automatic repeat request acknowledgement in next generation networks,0,H04L|H04W
+12028869,2024-07-02,Method and user equipment for beam indication for downlink reception,0,H04B|H04L|H04W
+12028857,2024-07-02,User equipments and communication methods for sidelink communication,0,H04L|H04W
+12028541,2024-07-02,Moving image encoding and decoding,0,H04N
+12022551,2024-06-25,Method and apparatus for sidelink communication managements,0,H04W
+12022549,2024-06-25,"Terminal device, base station device, and method",0,H04W
+12022547,2024-06-25,User equipment,0,H04W
+12022461,2024-06-25,User equipment and method for small data transmission,0,H04W
+12021637,2024-06-25,Methods and apparatuses for handling uplink (re)transmission in NR-U,0,H04L|H04W
+12021626,2024-06-25,User equipment and base stations that achieve mini-slot-based repetitions,1,H04L|H04W
+12016041,2024-06-18,Method and apparatus for PDCCH monitoring adaptation,0,H04L|H04W|Y02D
+12016037,2024-06-18,Method and user equipment for beam indication for uplink transmission,0,H04B|H04L|H04W
+12016005,2024-06-18,"Terminal device, and communication method for sounding reference signal transmission using spatial domain filter settings",1,H04B|H04L|H04W
+12015482,2024-06-18,Configuration of ultra reliable low latency communication,0,H04L|H04W|Y02D
+12010318,2024-06-11,Systems and methods for reference offset signaling in video coding,0,H04N
+12004187,2024-06-04,Method and apparatus for performing repetition transmissions in wireless communication systems,0,H04L|H04W
+12004139,2024-06-04,Method and apparatus for uplink implementation,0,H04W
+12003780,2024-06-04,Device and method for decoding video data using maximum bit-depth constraint information,0,H04N
+12003334,2024-06-04,URLLC physical uplink control channel (PUCCH) configuration with sub-slot structure,0,H04L|H04W
+12003330,2024-06-04,System and method of HARQ-ACK timing and PUCCH resource determination for ultra-low latency PDSCH transmission,0,H04L|H04W
+11997643,2024-05-28,Method and apparatus for performing paging monitoring in radio access networks,0,H04W
+11997297,2024-05-28,Systems and methods for signaling tile group information in video coding,0,H04N
+11997048,2024-05-28,Terminal appartus and method,0,H04L|H04W
+11991576,2024-05-21,Methods and related devices for handling Random Access procedure in Bandwidth Part switching operation,0,H04L|H04W
+11985662,2024-05-14,Method and apparatus for transmission timing enhancement for different numerologies in NTN,2,H04B|H04L|H04W
+11985345,2024-05-14,Device and method for coding video data,0,H04N
+11984992,2024-05-14,Wireless communication method and user equipment for transmitting HARQ-ACK codebook,0,H04L|H04W
+11979854,2024-05-07,Method for monitoring paging and apparatus using the same,0,H04W|Y02D
+11979780,2024-05-07,Dedicated system information block request,0,H04W
+11974356,2024-04-30,Method for maintaining multi-SIM configuration and user equipment,0,H04W
+11974175,2024-04-30,Handover control method and communications device,0,H04W
+11973970,2024-04-30,Systems and methods for signaling parameters in video coding,1,H04N
+11963240,2024-04-16,"User device, control device, and communication control method",0,H04W
+11956776,2024-04-09,"Base station apparatus, terminal apparatus and communication method",2,H04L|H04W
+11949901,2024-04-02,Systems and methods for deriving intra prediction data based on planar prediction mode,0,H04N
+11943785,2024-03-26,Method and apparatus for PDCCH monitoring,1,H04L|H04W
+11943437,2024-03-26,Device and method for coding video data,0,H04N
+11937327,2024-03-19,Method and apparatus for RRC state transition,0,H04W|Y02D
+11937263,2024-03-19,Terminal apparatus for transmitting data using uplink grants,0,H04W
+11930199,2024-03-12,Motion storing process for partition prediction mode,0,H04N
+11924698,2024-03-05,Cell prioritization for cell (re)selection in wireless communication systems,0,H04W
+11917445,2024-02-27,Methods and apparatuses for conditional handover in wireless communication systems,0,H04L|H04W
+11917436,2024-02-27,Beam failure detection and recovery,1,H04B|H04W
+11910417,2024-02-20,"Base station device, terminal device, and communication method",1,H04L|H04W
+11910382,2024-02-20,Method of transmitting physical uplink control channel and related device,1,H04L|H04W
+11903070,2024-02-13,Methods and apparatus for using redundant links in wireless backhaul,0,H04W
+11895546,2024-02-06,Performing measurements for a handover procedure in a non-terrestrial network,0,H04B|H04W
+11889092,2024-01-30,Video decoding apparatus and video coding apparatus,0,H04N
+11889074,2024-01-30,Systems and methods for deriving quantization parameters for video blocks in video coding,0,H04N
+11882478,2024-01-23,User equipment and method for congestion management,0,H04L|H04W
+11877283,2024-01-16,"Terminal device, base station device, and method",1,H04L|H04W
+11871407,2024-01-09,Method of performing hybrid automatic repeat request process for deprioritized uplink grant and related device,2,H04L|H04W
+11870984,2024-01-09,Systems and methods for applying deblocking filters to reconstructed video data,0,H04N
+11864142,2024-01-02,User equipment and method for timing alignment,0,G01S|H04B|H04L|H04W
+11863498,2024-01-02,User equipment and method for handling switching time period of downlink-uplink switching for half duplex-frequency division duplex operation,0,H04L|H04W
+11863373,2024-01-02,Method and user equipment for beam failure recovery procedure,2,H04B|H04L|H04W
+11856635,2023-12-26,Radio access network notification area configuration and management,0,H04W
+11849499,2023-12-19,Method and apparatus for acquiring system information,0,H04L|H04W
+11849345,2023-12-19,"Terminal apparatus, base station apparatus, and method",0,H04L|H04W
+11849135,2023-12-19,Systems and methods for signaling picture order count values for pictures included in coded video,0,H04N
+11844069,2023-12-12,Method for transmitting PUSCH and user equipment,0,H04L|H04W
+11844015,2023-12-12,UE and communication control method for establishing a PDU session in a public land mobile network,0,H04L|H04W
+11838897,2023-12-05,"Systems, devices, and methods for packet data convergence protocol packet data unit duplication",0,H04L|H04W
+11838860,2023-12-05,Method of performing closed access group selection in non-public network and related device,0,H04W
+11838820,2023-12-05,"Methods, devices, and systems for service-driven mobility management",0,H04W
+11838100,2023-12-05,Dynamic search space (de)activation in wireless communication systems,1,H04J|H04L|H04W|Y02D
+11825111,2023-11-21,"Prediction image generation device, moving image decoding device, moving image encoding device, and prediction image generation method",0,H04N
+11818732,2023-11-14,Method and base station for construction of downlink control information format,0,H04B|H04L|H04W
+11818660,2023-11-14,Methods and apparatuses for power saving operations,0,H04W|Y02D
+11818620,2023-11-14,Method and device for user mobility,2,H04W
+11818342,2023-11-14,Systems and methods for applying deblocking filters to reconstructed video data,0,H04N
+11805524,2023-10-31,Applying spatial relations to UL transmission occasions,1,H04B|H04L|H04W
+11805254,2023-10-31,Systems and methods for deriving quantization parameters for video blocks in video coding,0,H04N
+11800523,2023-10-24,User equipment and method for configuring PUCCH resources,1,H04B|H04L|H04W
+11791888,2023-10-17,Method and user equipment for wireless communication in wireless communication system,0,H04B|H04L|H04W
+11785642,2023-10-10,Methods and apparatuses for discontinuous reception operations for beam failure recovery procedure,0,H04B|H04W
+11785599,2023-10-10,"Base station apparatus, and communication method for PUCCH resource selection",0,H04L|H04W
+11785454,2023-10-10,"Terminal apparatus, base station apparatus, mobility management entity (MME), and communication control method",0,H04W
+11784759,2023-10-10,Methods and apparatuses for SPS HARQ-ACK transmission,0,H04L|H04W
+11778543,2023-10-03,"User equipment, base station apparatus, communication method of a user equipment and communication method of a base station apparatus",0,H04W
+11778535,2023-10-03,Access control method and user equipment,2,H04L|H04W
+11770548,2023-09-26,Device and method for coding video data based on one or more reference lines,1,H04N
+11764906,2023-09-19,Discontinuous reception operations among multiple bandwidth parts,1,H04L|H04W|Y02D
+11758450,2023-09-12,Method and apparatus for performing cell (re)selection in wireless communication systems,0,H04W|Y02D
+11757760,2023-09-12,Evolved packet data convergence protocol duplication,0,H04L|H04W
+11751254,2023-09-05,"System information requesting method, corresponding user equipment, and computer-readable medium",0,H04L|H04W
+11751212,2023-09-05,Method and apparatus for logical channel selection,0,H04W
+11743969,2023-08-29,Method and user equipment for small data transmission,0,H04W
+11743785,2023-08-29,Method and apparatus for conditional PSCell change,3,H04L|H04W
+11737130,2023-08-22,"Methods, devices, and systems for network assisted transmission with multiple component carriers",0,H04B|H04J|H04L|H04W
+11736987,2023-08-22,User mobility method and device,0,H04W
+11736262,2023-08-22,"User equipment, base station, and related method",0,H04L|H04W
+11729780,2023-08-15,Methods and related devices for channel state information (CSI) reporting for bandwidth part (BWP) switch operation,0,H04L|H04W
+11729047,2023-08-15,Method and apparatus for acknowledging SCell beam failure recovery request,0,H04B|H04L|H04W
+11723100,2023-08-08,"User equipment, communication control method of user equipment, core network device, communication control method of core network, SMF, and communication control method of SMF",1,H04W
+11722935,2023-08-08,Wireless communication method and user equipment for non-public network control mechanisms,1,H04W
+11711851,2023-07-25,Two-step random access procedure in next generation wireless networks,2,H04B|H04L|H04W
+11706801,2023-07-18,Method of listen before talk recovery procedure and related device,0,H04L|H04W
+11706760,2023-07-18,Method and apparatus for handling repetitions of physical uplink shared channel (PUSCH) transmission in a wireless communication system,0,H04L|H04W
+11706701,2023-07-18,Method and apparatus for PLMN selection and cell (re)selection,0,H04W
+11706695,2023-07-18,Method and apparatus for receiving system information,1,H04W
+11706692,2023-07-18,Access control in new radio,1,H04L|H04W
+11706653,2023-07-18,Sidelink measurement reporting in next generation wireless networks,1,H04B|H04L|H04W|Y02D
+11706647,2023-07-18,Beam failure detection and recovery,1,H04B|H04W
+11706631,2023-07-18,User equipment and method for FBE operation in unlicensed band,2,H04W
+11706616,2023-07-18,Mobility management for RRC_INACTIVE user equipment,2,H04W
+11706437,2023-07-18,Systems and methods for performing inter prediction in video coding,1,H04N
+11700663,2023-07-11,Control method of user equipment and user equipment,1,H04W
+11700596,2023-07-11,Methods and apparatuses for sidelink operations,0,H04L|H04W
+11700573,2023-07-11,Method and radio communication equipment for signaling a physical layer profile,0,H04L|H04W
+11696360,2023-07-04,Method and user equipment for controlling discontinuous reception behavior on multiple radio interfaces,1,H04L|H04W|Y02D
+11696341,2023-07-04,Methods and apparatuses for random access procedure in medium access control layer,1,H04L|H04W
+11696289,2023-07-04,User equipment and method for activating PUCCH spatial relation,1,H04B|H04W
+11689724,2023-06-27,Systems and methods for reference offset signaling in video coding,0,H04N
+11689722,2023-06-27,Systems and methods for deriving quantization parameters for video blocks in video coding,2,H04N
+11683830,2023-06-20,User equipment and method for scheduling timeline for cancelling uplink transmission,0,H04W
+11683494,2023-06-20,Moving image coding device and method using chrominance format and intra-frame prediction mode,0,H04N
+11678328,2023-06-13,Method of multiplexing uplink control information and related device,0,H04B|H04L|H04W
+11678212,2023-06-13,Methods executed by user equipment and user equipment,1,H04L|H04W
+11677988,2023-06-13,Systems and methods for varying quantization parameters,0,H04N
+11671901,2023-06-06,Management of system information block segmentation,1,H04W
+11665556,2023-05-30,Logical channel data packet transmission method and wireless communication system,1,H04L|H04W
+11664879,2023-05-30,Method and apparatus for handling BWP switching in random access procedure,0,H04B|H04L|H04W
+11659597,2023-05-23,User equipment and method for two-step random access procedure,0,H04W
+11659576,2023-05-23,Method of physical uplink shared channel repetition and related device,1,H04L|H04W
+11653352,2023-05-16,User equipment and method for system information modification and acquisition procedure,0,H04L|H04W
+11653328,2023-05-16,"User equipment and method executed thereby, base station and method executed thereby, and mobile control entity and method executed 1HEREBY",1,H04W|Y02D
+11653016,2023-05-16,"Prediction image generation device, moving image decoding device, moving image encoding device, and prediction image generation method",0,H04N
+11653010,2023-05-16,Moving image encoding device and moving image decoding device,0,H04N
+11652991,2023-05-16,Video decoding apparatus with picture tile structure,0,H04N
+11652596,2023-05-16,"Method executed by user equipment, and user equipment",0,H04L|H04W
+11641669,2023-05-02,Apparatus and methods for LBT in a BWP,2,H04L|H04W
+11638307,2023-04-25,Wireless communication method and user equipment for random access operations,0,H04W
+11638304,2023-04-25,Random access procedure(s) for radio system,0,H04W
+11638283,2023-04-25,"User equipment, base station device, and communication method for DCI-based resource allocation",1,H04L|H04W
+11637785,2023-04-25,Wireless communication method and device,0,H04L|H04W
+11632794,2023-04-18,Methods and apparatuses for listen before talk failure detection and recovery,1,H04L|H04W
+11632793,2023-04-18,Method and apparatus for random access procedure,0,H04W
+11632699,2023-04-18,Methods and apparatuses for performing cell (re)selection in non-public network,0,H04W
+11632685,2023-04-18,Method and apparatus for handling measurement in wireless communication system,0,H04L|H04W
+11632197,2023-04-18,Methods and apparatuses for handling retransmission on configured uplink grant resources,0,H04L
+11627624,2023-04-11,Method and apparatus for handling LBT failure,1,H04W
+11627614,2023-04-11,"Terminal apparatus, base station apparatus, and method",0,H04W
+11626918,2023-04-11,Method of performing beam failure recovery and related device,1,H04B|H04W|Y02D
+11622386,2023-04-04,"Terminal apparatus, base station apparatus, and communication method",1,H04W
+11622305,2023-04-04,Method and apparatus for performing cell (re)selection in a wireless communication system,0,H04W|Y02D
+11622122,2023-04-04,Video coding device and method for determining an MVP candidate list,0,H04N
+11617223,2023-03-28,Method and user equipment for small data transmission,0,H04W
+11617191,2023-03-28,"Terminal apparatus, base station apparatus, and communication method for PUCCH resource selection",0,H04L|H04W
+11617117,2023-03-28,Methods and apparatuses for performing cell (re)selection in non-public network,1,H04W
+11617114,2023-03-28,Method of cell reselection in non-public network and related device,1,H04W
+11612004,2023-03-21,"User equipment, control apparatus, and communication control method",1,G16Y|H04W
+11601990,2023-03-07,UE and communication method therefor,1,H04W
+11601950,2023-03-07,Mobile station apparatus and base station apparatus in mobile communication system,0,H04L|H04W
+11601802,2023-03-07,Method and apparatus for system information delivery,0,H04L|H04W
+11601246,2023-03-07,"Base station apparatus, terminal apparatus, and communication method",0,H04L|H04W
+11595930,2023-02-28,User equipment (UE) and communication control method,0,H04W
+11595158,2023-02-28,Methods and apparatuses for SPS HARQ-ACK transmission,1,H04L|H04W
+11589342,2023-02-21,Method and user equipment for construction of downlink control information format,0,H04B|H04L|H04W
+11589294,2023-02-21,Method and apparatus for cell reservation and access restriction,0,H04W
+11589277,2023-02-21,User equipment and method for sidelink failure management,0,H04W
+11589276,2023-02-21,Method and user equipment for cell (re)selection,1,H04W
+11589069,2023-02-21,Systems and methods for signaling parameters in video coding,2,H04N
+11582807,2023-02-14,Methods and apparatuses for random access procedure in medium access control layer,1,H04L|H04W
+11582790,2023-02-14,User equipment and method for small data transmission,1,H04L|H04W
+11582784,2023-02-14,Method and apparatus for PDCCH monitoring adaptation,1,H04L|H04W|Y02D
+11582770,2023-02-14,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",2,H04B|H04L|H04W
+11582680,2023-02-14,"Access control related method, base station, and user equipment",0,H04W
+11582651,2023-02-14,Method and apparatus for conditional PSCell change,3,H04L|H04W
+11582094,2023-02-14,"Terminal apparatus, method, and integrated circuit",0,H04L|H04W
+11582014,2023-02-14,Communication method and user equipment of performing bandwidth part switching between a non-dormant bandwidth part and a dormant bandwidth part,1,H04B|H04L|H04W
+11576219,2023-02-07,"User equipment, control apparatus, and communication control method",0,H04W
+11570026,2023-01-31,Communication apparatus and communication method,0,H04B|H04L|H04W
+11564251,2023-01-24,Data packet delivery in RRC inactive state,0,H04W
+11564168,2023-01-24,Apparatus and method for performing beam failure recovery in a wireless communication system,1,H04B|H04W|Y02D
+11563524,2023-01-24,Wireless communication method and device,0,H04L|H04W
+11558870,2023-01-17,Method and device for processing carrier activation,0,H04L|H04W
+11553409,2023-01-10,Method executed by user equipment and user equipment,0,H04W|Y02D
+11546942,2023-01-03,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04B|H04L|H04W
+11546197,2023-01-03,"Terminal apparatus, base station apparatus, and communication method",3,H04B|H04L|H04W
+11540315,2022-12-27,Method for configuring random access channel transmitting resource and device thereof,0,H04L|H04W
+11540282,2022-12-27,Method and apparatus for uplink cancellation indication,1,H04W
+11539968,2022-12-27,Video decoding apparatus and video coding apparatus,1,H04N
+11539492,2022-12-27,Method of determining physical sidelink feedback channel resource for hybrid automatic repeat request feedback and related device,1,H04L|H04W
+11539473,2022-12-27,Methods and apparatuses for handling uplink (re)transmission in NR-U,1,H04L|H04W
+11528773,2022-12-13,"Terminal apparatus, base station apparatus, communication method, and integrated circuits for configuring a service data adaptation protocol function",0,H04L|H04W
+11528768,2022-12-13,Method of sidelink radio link failure control and related device,0,H04L|H04W
+11523330,2022-12-06,Systems and methods for cell (re)selection and cell barring,0,H04W
+11523137,2022-12-06,Device and method for decoding video data using general constraints information,0,H04N
+11516769,2022-11-29,"Method performed by user equipment, and user equipment",0,H04W|Y02D
+11516688,2022-11-29,"Terminal apparatus, base station apparatus, and communication method",1,H04B|H04L|H04W
+11516493,2022-11-29,Systems and methods for coding transform coefficient level values,1,H04N
+11516492,2022-11-29,Systems and methods for signaling picture order count values for pictures included in coded video,0,H04N
+11503602,2022-11-15,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11503299,2022-11-15,Systems and methods for performing binary arithmetic coding in video coding,0,H03M|H04N
+11496937,2022-11-08,Methods and related devices for handling random access procedure in bandwidth part switching operation,0,H04L|H04W
+11496761,2022-11-08,Systems and methods for signaling picture types of pictures included in coded video,0,H04N
+11489709,2022-11-01,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",1,H04B|H04L|H04W
+11483880,2022-10-25,UE and communication method for same,2,H04W
+11483826,2022-10-25,"Terminal apparatus, base station apparatus, and communication method",0,H04J|H04L|H04W
+11483784,2022-10-25,Transmission and reception of synchronization signal blocks in a wireless network,1,H04B|H04L|H04W|Y02D
+11483055,2022-10-25,User equipment and beam failure recovery method,0,H04B|H04W
+11477776,2022-10-18,"User equipments, base stations and methods",0,H04W
+11470487,2022-10-11,User equipment and method thereof,0,H04B|H04L|H04W|Y02D
+11470359,2022-10-11,Systems and methods for partitioning video blocks at a boundary of a picture for video coding,0,H04N
+11470346,2022-10-11,Systems and methods for performing motion vector prediction using a derived set of motion vectors,2,H04N
+11463736,2022-10-04,Systems and methods for signaling reference pictures in video coding,4,H04N
+11463701,2022-10-04,Coding device predicting chrominance based on down-sampled luminance,0,H04N
+11457434,2022-09-27,"User equipments, base stations and methods for time-domain resource allocation",3,H04L|H04W
+11457431,2022-09-27,Sidelink radio resource allocation,0,H04W
+11457380,2022-09-27,"Terminal device, base station device, and communication method",0,H04L|H04W
+11456842,2022-09-27,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11451825,2022-09-20,"Cross-component linear model prediction image generation apparatus, video decoding apparatus, video coding apparatus, and prediction image generation method",0,H04N
+11445567,2022-09-13,Method and apparatus for RRC state transition,1,H04W|Y02D
+11445553,2022-09-13,"Method executed by user equipment, user equipment and base station",0,H04L|H04W|Y02D
+11445540,2022-09-13,Terminal apparatus for transmitting data using uplink grants,3,H04W
+11445533,2022-09-13,"PUCCH timing for terminal apparatus, base station apparatus, and communication method in a wireless communication system",0,H04L|H04W
+11445532,2022-09-13,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11445530,2022-09-13,"Terminal apparatus, base station apparatus, and communication method",1,H04B|H04L|H04W
+11445528,2022-09-13,Method implemented by user equipment and user equipment,0,H04W
+11445391,2022-09-13,Method and apparatus for radio link monitoring,0,H04L|H04W
+11445187,2022-09-13,Systems and methods for partitioning regions of a picture for video coding using different coding unit sizes,3,H04N
+11438957,2022-09-06,Method and apparatus for acquiring system information,0,H04L|H04W
+11438956,2022-09-06,Method of sidelink unicast service management in access stratum layer and related device,0,H04L|H04W
+11438806,2022-09-06,"Terminal apparatus, base station apparatus, and method",0,H04W
+11438626,2022-09-06,Image decoding apparatus and image coding apparatus,0,H04N
+11431996,2022-08-30,Device and method for coding video data based on one or more reference lines,0,H04N
+11431972,2022-08-30,"Image encoding device, encoded stream extraction device, and image decoding device",2,H04N
+11425748,2022-08-23,"User equipments, base stations and methods for SP-CSI reporting",1,H04B|H04L|H04W
+11425374,2022-08-23,Device and method for coding video data,1,H04N
+11424874,2022-08-23,"Base station apparatus, terminal apparatus, and communication method for base station apparatus and terminal apparatus",1,H04L|H04W
+11419048,2022-08-16,UE and communication method for same,0,H04W
+11419022,2022-08-16,Cell prioritization for cell (re)selection in wireless communication systems,0,H04W
+11418941,2022-08-16,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",1,H04W
+11412490,2022-08-09,Method of multiplexing uplink control information and related device,0,H04B|H04L|H04W
+11412243,2022-08-09,Video decoding apparatus,3,H04N
+11411697,2022-08-09,Terminal apparatus and base station apparatus,0,H04J|H04L
+11405868,2022-08-02,Methods and apparatuses for power saving operations,1,H04W|Y02D
+11405850,2022-08-02,Access control method and user equipment,0,H04W
+11405842,2022-08-02,"Access and mobility management function (AMF), user equipment (UE), session management function (SMF), communication control method for AMF, communication control method for UE, and communication control method for SMF",0,H04W
+11405829,2022-08-02,Communication control method for a user equipment that configures a protocol data unit session to correspond to a non-IP packet data network connection,0,H04W
+11405819,2022-08-02,UE and communication control method for UE,0,H04W
+11405655,2022-08-02,Image decoding device and image encoding device,1,H04N
+11405648,2022-08-02,Device and method for coding video data,14,H04N
+11405140,2022-08-02,"Terminal apparatus, base station apparatus, and communication method",1,H04L|H04W
+11399402,2022-07-26,"Base station apparatus, terminal apparatus, and communication method using downlink control information format and higher layer parameter",0,H04L|H04W
+11399400,2022-07-26,Establishing packet data convergence protocol entity for dual connectivity,1,H04W
+11399329,2022-07-26,Uplink carrier configuration and selection with supplementary uplink,1,H04W
+11399177,2022-07-26,Image decoding apparatus and image coding apparatus,0,H04N
+11395247,2022-07-19,Method of monitoring paging occasions and related device,0,H04W
+11395202,2022-07-19,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",3,H04L|H04W|Y02D
+11395182,2022-07-19,"User equipment, base station, and related method",4,H04L|H04W
+11394602,2022-07-19,Method and apparatus for acknowledging SCell beam failure recovery request,0,H04B|H04L|H04W
+11388626,2022-07-12,"Base station, user equipment, and related method",0,H04L|H04W
+11388624,2022-07-12,UE and communication control method for UE,0,H04L|H04W
+11387948,2022-07-12,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",1,H04L|H04W
+11382165,2022-07-05,"Terminal apparatus, method, and integrated circuit",1,H04W
+11382161,2022-07-05,Method and device to provide access control for a user equipment to manage access barring timers,0,H04W
+11382141,2022-07-05,Method for performing actions based on integrity check by user and user equipment performing actions based on integrity check,0,H04W|Y02D
+11382076,2022-07-05,Physical uplink control channel repetition in next generation wireless networks,2,H04B|H04L|H04W
+11382011,2022-07-05,Method and apparatus for performing cell (re)selection in wireless communication system,1,H04W|Y02D
+11381994,2022-07-05,"Method for delivering data packet, user equipment, and base station",2,H04W
+11381351,2022-07-05,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11381300,2022-07-05,Method and apparatus for performing random access procedure for beam failure recovery,0,H04B|H04W
+11381292,2022-07-05,Method and apparatus for sidelink CSI acquisition,0,H04B|H04L|H04W
+11375571,2022-06-28,"Terminal apparatus, base station apparatus, method, and integrated circuit",1,H04W
+11375568,2022-06-28,UE and communication control method,0,H04W
+11375563,2022-06-28,"Terminal apparatus, method, and integrated circuit",2,H04W
+11375546,2022-06-28,"Terminal device, base station device, and communication method for performing random access procedure",5,H04W
+11375487,2022-06-28,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11375483,2022-06-28,Method and apparatus for multiplexing UCI,1,H04W
+11375392,2022-06-28,Methods and apparatuses for conditional handover in wireless communication system,1,H04L|H04W
+11375230,2022-06-28,Systems and methods for deriving a motion vector prediction in video coding,1,H04N
+11375184,2022-06-28,Systems and methods for signaling reference pictures in video coding,0,H04N
+11368973,2022-06-21,"Terminal apparatus, base station apparatus, and communication method with beam parameters including quasi co-located antenna port indexes",2,H04B|H04L|H04W
+11368947,2022-06-21,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11368704,2022-06-21,Device and method for coding video data,0,H04N
+11363638,2022-06-14,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04B|H04L|H04W
+11363592,2022-06-14,Terminal apparatus and communication method for performing a PUSCH transmission,0,H04W
+11363579,2022-06-14,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11362764,2022-06-14,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",3,H03M|H04L|H04W
+11356995,2022-06-07,Method and apparatus for performing repetition transmissions in wireless communication system,1,H04L|H04W
+11350484,2022-05-31,"Terminal apparatus, session management entity (SME), and communication control method",0,H04W
+11350466,2022-05-31,"Terminal apparatus, control apparatus, gateway, and communication control method",0,H04L|H04W
+11350082,2022-05-31,Device and method for coding video data in multiple reference line prediction,0,H04N
+11343809,2022-05-24,Methods and related devices of channel state information (CSI) reporting for bandwidth part (BWP) switch operation,0,H04L|H04W
+11343711,2022-05-24,UE and communication control method for UE,0,H04W
+11343678,2022-05-24,"User equipment, communication control method of user equipment, core network device, communication control method of core network, SMF, communication control method of SMF, UPF, and communication control method of UPF",0,H04W
+11343521,2022-05-24,Systems and methods for coding video data using adaptive component scaling,1,G06F|H04N
+11343024,2022-05-24,Codebook determination of HARQ-ACK multiplexing with fallback downlink control information (DCI) and code block group (CBG) configurations,1,H04B|H04L|H04W
+11342980,2022-05-24,Methods and apparatuses for uplink transmission prioritization,2,H04B|H04L|H04W
+11337255,2022-05-17,Wireless communication method and device,0,H04B|H04W
+11337252,2022-05-17,"System information requesting method, corresponding user equipment, and computer-readable medium",0,H04L|H04W
+11337251,2022-05-17,"Terminal apparatus, base station apparatus, and communication method",1,H04B|H04W
+11337238,2022-05-17,Terminal apparatus and communication method,1,H04L|H04W
+11337126,2022-05-17,Multi-RAT sidelink communications,4,H04W
+11337109,2022-05-17,"Related method for medium access control layer packetization, user equipment, and base station",0,H04W
+11336329,2022-05-17,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",4,H04B|H04L|H04W
+11330260,2022-05-10,Systems and methods for adaptively partitioning video blocks for video coding,0,H04N
+11324071,2022-05-03,Mobile station apparatus,0,H04L|H04W
+11324068,2022-05-03,"Data transmission method and device, and storage medium",0,H04W|Y02D
+11324059,2022-05-03,"Radio configuration method, user equipment, and base station",0,H04L|H04W
+11324034,2022-05-03,Base station apparatus and mobile station apparatus,0,H04W
+11324025,2022-05-03,Terminal apparatus,0,H04B|H04L|H04W
+11323938,2022-05-03,Methods and apparatuses for SL carrier aggregation enhancement,1,H04L|H04W
+11323917,2022-05-03,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",1,H04L|H04W
+11323913,2022-05-03,Methods and devices for packet data convergence protocol (PDCP) data transmission in wireless communication systems,0,H04L|H04W
+11323197,2022-05-03,"User equipment, base station, and related methods",0,H04J|H04L|H04W|Y02D
+11323156,2022-05-03,"Base station apparatus, terminal apparatus, and communication method",0,H04B|H04J|H04L|H04W
+11317461,2022-04-26,Method and apparatus for generating MAC PDU,0,H04W
+11317435,2022-04-26,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11317400,2022-04-26,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",2,H04L|H04W
+11316653,2022-04-26,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11310857,2022-04-19,"Terminal apparatus, control apparatus, gateway, and communication control method",0,H04W
+11310818,2022-04-19,Method and apparatus for transmitting uplink control indicators in a wireless communication system,0,H04L|H04W
+11310760,2022-04-19,"Terminal apparatus, location server, and communication method",1,G01S|H04B|H04L|H04W
+11310495,2022-04-19,Systems and methods for applying deblocking filters to reconstructed video data,0,H04N
+11309989,2022-04-19,Terminal apparatus and method,1,H04J|H04L|H04W
+11304226,2022-04-12,"User equipments, base stations and methods",0,H04B|H04J|H04L|H04W
+11304122,2022-04-12,On-demand system information request procedure and error handling,0,H04W
+11304065,2022-04-12,"Base station apparatus, terminal apparatus, and communication method",0,H04B|H04W
+11303928,2022-04-12,Image decoding apparatus and image coding apparatus,0,H04N
+11303407,2022-04-12,"Terminal apparatus, base station apparatus, and communication method",0,H04B|H04L|H04W
+11303365,2022-04-12,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",0,H04B|H04L|H04W
+11297668,2022-04-05,"Terminal apparatus, core network apparatus, and communication control method",1,H04W
+11297615,2022-04-05,Wireless communication method and device,1,H04L|H04W
+11297349,2022-04-05,Video decoding device and video encoding device,1,H04N
+11296833,2022-04-05,"ACK/NACK resource allocation method, and corresponding user equipment and base station",0,H04L|H04W
+11290997,2022-03-29,"Base station apparatus, terminal apparatus, and communication method",1,H04B|H04L|H04W
+11290990,2022-03-29,"Terminal apparatus, base station apparatus, and communication method",0,H04B|H04W
+11290962,2022-03-29,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11290946,2022-03-29,"Base station, user equipment and related method",0,H04L|H04W
+11290716,2022-03-29,Systems and methods for partitioning video blocks in an inter prediction slice of video data,1,H04N
+11290244,2022-03-29,"User equipments, base stations and methods",0,H04L|H04W
+11284464,2022-03-22,"Terminal apparatus, apparatus in core network, and communication control method",0,H04W
+11284421,2022-03-22,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11284336,2022-03-22,"Base station apparatus, a method in a base station apparatus, a user equipment and a method in a user equipment",0,H04W
+11284320,2022-03-22,User equipment,4,H04W
+11284312,2022-03-22,User equipment and communication control method performed by user equipment,0,H04W
+11284247,2022-03-22,Terminal apparatus and method,1,H04L|H04W
+11284078,2022-03-22,Device and method for coding video data,0,H04N
+11283581,2022-03-22,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11283565,2022-03-22,"Base station apparatus, terminal apparatus, and communication method",1,H04B|H04L|H04W
+11277609,2022-03-15,Systems and methods for partitioning video blocks for video coding,0,H04N
+11272566,2022-03-08,"User equipments, base stations and methods",2,H04L|H04W
+11272561,2022-03-08,Methods and apparatuses for beam failure recovery,3,H04B|H04W
+11272451,2022-03-08,"Base station, user equipment, and related methods",2,H04L|H04W|Y02D
+11272417,2022-03-08,Conditional handover procedures,4,H04W
+11272406,2022-03-08,Method and apparatus for performing cell (re)selection in wireless communication system,0,H04W|Y02D
+11272202,2022-03-08,Systems and methods for scaling transform coefficient level values,0,H04N
+11272199,2022-03-08,Device and method for coding video data,1,H04N
+11272197,2022-03-08,Device and method for coding video data,1,H04N
+11272179,2022-03-08,Device and method for coding video data,1,H04N
+11265964,2022-03-01,Packet data convergence protocol duplication in next generation wireless networks,1,H04L|H04W
+11265915,2022-03-01,Methods and devices for adaptive scheduling request procedure,0,H04L|H04W
+11265912,2022-03-01,Terminal apparatus,10,H04L|H04W
+11265838,2022-03-01,"User equipment, control device, and communication control method",0,H04W
+11265829,2022-03-01,Method and apparatus for determining beam direction,1,H04W
+11265818,2022-03-01,Method of closed-loop power control in multi-panel transmission and related device,0,H04L|H04W
+11265138,2022-03-01,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11265133,2022-03-01,"Terminal apparatus, base station apparatus, and communication method",1,H04L|H04W
+11265107,2022-03-01,"Base station apparatus, terminal apparatus, communication method, and integrated circuit with cyclic redundancy check parity bits attachment",0,H03M|H04L|H04W
+11259345,2022-02-22,"User equipment, control apparatus, and communication control method",0,H04W
+11259319,2022-02-22,"Terminal apparatus, base station apparatus, and communication method using modulation and coding scheme table",1,H04L|H04W
+11259242,2022-02-22,User equipment,0,H04W
+11259236,2022-02-22,Method and apparatus for receiving system information,0,H04W
+11259021,2022-02-22,Systems and methods for partitioning video blocks at a boundary of a picture for video coding,0,H04N
+11259019,2022-02-22,Systems and methods for applying deblocking filters to reconstructed video data,0,H04N
+11252781,2022-02-15,UE and communication method thereof,1,H04L|H04M|H04W
+11246117,2022-02-08,"Procedures, user equipment and base stations for code block group-based transmission",7,H04L|H04W
+11246067,2022-02-08,Methods and apparatuses for performing cell (re)selection in non-public network,0,H04W
+11245575,2022-02-08,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11240868,2022-02-01,"Terminal apparatus, base station apparatus, and method",0,H04W
+11240720,2022-02-01,"Methods, devices, and systems for service-driven mobility management",5,H04W
+11240698,2022-02-01,Wireless protocol layer entity processing method and corresponding user equipment,2,H04W
+11240695,2022-02-01,Terminal apparatus and method,0,H04B|H04L|H04W
+11240528,2022-02-01,Systems and methods for performing motion vector prediction for video coding using motion vector predictor origins,2,H04N
+11240500,2022-02-01,Image decoding apparatus and image coding apparatus,4,H04N
+11239975,2022-02-01,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",1,H04L|H04W
+11239897,2022-02-01,Methods and apparatuses for beam failure recovery (BFR),1,H04B|H04W
+11234152,2022-01-25,"Terminal apparatus, communication method, integrated circuit, and system of base station apparatus",2,H04W
+11233729,2022-01-25,Systems and methods for configuring serving cells for user equipment,0,H04L|H04W
+11229003,2022-01-18,Method for monitoring paging and apparatus using the same,2,H04W|Y02D
+11228964,2022-01-18,Synchronization signal transmission and reception for radio system,0,H04J|H04L|H04W
+11228476,2022-01-18,"Base station apparatus, terminal apparatus, and communication method",0,H04B|H04J|H04L|H04W
+11224092,2022-01-11,Method and apparatus for resetting medium access control layer,1,H04L|H04W
+11224059,2022-01-11,Method and apparatus for handling repetitions of physical uplink shared channel (PUSCH) transmission in wireless communication system,0,H04L|H04W
+11224035,2022-01-11,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11219082,2022-01-04,"Base station, user equipment, and related method",1,H04W
+11219007,2022-01-04,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11218950,2022-01-04,Apparatus and method for acquisition of system information in wireless communications,0,H04W
+11212826,2021-12-28,Wireless communications method and device for transmitting scheduling request,0,H04L|H04W
+11212784,2021-12-28,Apparatus and method for combined area update and request for on-demand system information in wireless communications,2,H04W
+11212735,2021-12-28,"Base station, user equipment, and related method",0,H04W
+11212701,2021-12-28,"Systems, methods, and devices for ultra-reliable low latency communication quality-of-service guarantee",3,H04L|H04W
+11212551,2021-12-28,"Motion vector derivation apparatus, video decoding apparatus, and video coding apparatus",0,H04N
+11206429,2021-12-21,Image decoding device and image encoding device,0,H04N
+11202336,2021-12-14,Small data transmission in radio resource control (RRC) inactive state,1,H04W|Y02D
+11202332,2021-12-14,"Terminal apparatus, AMF, SMF, core network apparatus, and communication control method",0,H04W
+11202328,2021-12-14,"Base station apparatus, terminal apparatus, wireless communication system",0,H04L|H04M|H04W
+11202321,2021-12-14,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11202312,2021-12-14,Communication apparatus,0,H04L|H04W
+11201713,2021-12-14,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11197302,2021-12-07,"Methods, devices, and systems for network assisted transmission with multiple component carriers",3,H04B|H04J|H04L|H04W
+11197288,2021-12-07,Method and apparatus for PDCCH monitoring,1,H04L|H04W
+11197221,2021-12-07,"Terminal apparatus, control apparatus, and communication control method",0,H04W
+11197189,2021-12-07,Method and apparatus for SR and BSR cancellation,0,H04W
+11196509,2021-12-07,"Terminal apparatus, base station apparatus, and communication method",1,H04L|H04W
+11190995,2021-11-30,"User equipment, AMF, core network apparatus, P-CSCF, and communication control method",1,H04W
+11190930,2021-11-30,Terminal apparatus and core network device for implementing an authentication and/or authorization function by a data network,1,H04L|H04W
+11184909,2021-11-23,Method and apparatus for handling overlapping PUSCH durations,0,H04L|H04W
+11184899,2021-11-23,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11184636,2021-11-23,Video encoding device and video decoding device,7,H04N
+11184099,2021-11-23,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04J|H04L|H04W|Y02D
+11178720,2021-11-16,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11178711,2021-11-16,"User equipment, core network device, and communication control method thereof performing communications using network slice selection assistance information",0,H04W
+11178565,2021-11-16,Sidelink measurement reporting in next generation wireless networks,5,H04B|H04L|H04W|Y02D
+11177927,2021-11-16,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",2,H04L|H04W
+11177866,2021-11-16,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",3,H04B|H04W
+11172537,2021-11-09,Wireless communication method and device,1,H04L|H04W
+11172528,2021-11-09,"Terminal apparatus, gateway, and communication control method",1,H04W
+11172429,2021-11-09,"User equipment, base station apparatus, communication method of a user equipment and communication method of a base station apparatus",1,H04W
+11172390,2021-11-09,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",1,H04B|H04L|H04W
+11166262,2021-11-02,Long physical uplink control channel (PUCCH) design for 5th generation (5G) new radio (NR),0,H04L|H04W
+11166227,2021-11-02,Method and apparatus for PLMN selection and cell (re)selection,2,H04W
+11166225,2021-11-02,Method for signaling RAN profile index and radio communication equipment using the same,0,H04L|H04W
+11165608,2021-11-02,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",0,H04L|H04W
+11160136,2021-10-26,"Terminal apparatus, session management entity (SME), and communication control method",0,H04L|H04W
+11159985,2021-10-26,Terminal apparatus and method,2,H04W
+11159422,2021-10-26,Evolved packet data convergence protocol duplication,0,H04L|H04W
+11153928,2021-10-19,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11153913,2021-10-19,Random access procedure in next generation wireless networks,3,H04L|H04W
+11153904,2021-10-19,Prioritizing access and services in next generation networks,0,H04W
+11153743,2021-10-19,"Terminal apparatus, core network apparatus, and communication control method",0,H04W
+11147101,2021-10-12,"User equipments, base stations and methods",1,H04L|H04W
+11147091,2021-10-12,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",7,H04L|H04W
+11147078,2021-10-12,Random access channel resource selection in multi-beam environment,2,H04B|H04L|H04W
+11146436,2021-10-12,Terminal apparatus and base station apparatus,0,H04L|H04W
+11140726,2021-10-05,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04W
+11140700,2021-10-05,"Terminal apparatus, base station apparatus, and communication method",0,H03M|H04L|H04W
+11140599,2021-10-05,"Terminal apparatus, mobility management entity (MME), control plane function (CPF), and communication control method",0,H04W
+11139926,2021-10-05,"User equipments, base stations and methods for physical downlink control channel monitoring in downlink",4,H04L|H04W
+11134536,2021-09-28,Method and apparatus for receiving downlink channel or reference signal in a wireless communication system,0,H04B|H04L|H04W
+11134527,2021-09-28,Radio configuration method and corresponding user equipment,3,H04B|H04W
+11134488,2021-09-28,Base station apparatus for communicating with a terminal apparatus using multiple frequency bands,0,H04L|H04W
+11134451,2021-09-28,Terminal apparatus and method,1,H04B|H04W
+11134400,2021-09-28,"User equipment, base station, and related methods",1,H04W
+11133896,2021-09-28,Configuration of ultra reliable low latency communication,2,H04L|H04W|Y02D
+11129234,2021-09-21,Methods for packet data convergence protocol (PDCP) duplication operations and devices using the same,0,H04L|H04W
+11129066,2021-09-21,"Method for determining candidate cell, user equipment, and base station",0,H04W
+11129041,2021-09-21,Reporting early measurement results in the next generation wireless networks,1,H04W
+11128511,2021-09-21,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",0,H04J|H04L|H04W
+11128495,2021-09-21,Systems and methods for high-reliability ultra-reliable low latency communication transmissions,0,H04B|H04L|H04W
+11128408,2021-09-21,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11128369,2021-09-21,Method and apparatus for handling BWP switching in random access procedure,1,H04B|H04L|H04W
+11115967,2021-09-07,Method and apparatus for handling eMBB and URLLC simultaneous transmissions,1,H04L|H04W
+11115960,2021-09-07,Terminal apparatus and communication method,1,H04L|H04W
+11115887,2021-09-07,"Base station, user equipment and method executed thereby",0,H04W
+11115165,2021-09-07,Method and apparatus for multiple transmit/receive point (TRP) operations,0,H04L|H04W
+11115156,2021-09-07,Discontinuous reception operations among multiple bandwidth parts,1,H04L|H04W|Y02D
+11115150,2021-09-07,Methods and devices for reporting CSI during DRX operations,1,H04B|H04L|H04W
+11109368,2021-08-31,"User equipments, base stations and methods for downlink semi-persistent scheduling",1,H04L|H04W
+11109267,2021-08-31,"Base station apparatus, terminal apparatus, and communication method for these apparatuses",0,H04L|H04W
+11102838,2021-08-24,Radio access network notification area configuration and management,3,H04W
+11102807,2021-08-24,Systems and methods for supporting URLLC service in 5G NR,1,H04W
+11102669,2021-08-24,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",2,H04W
+11101901,2021-08-24,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",1,H04B|H04L|H04W
+11096206,2021-08-17,"Terminal apparatus, base station apparatus, communication method, and integrated circuit for generating medium access control protocol data units",1,H04W
+11096122,2021-08-17,Devices and methods for discontinuous reception in new radio,2,H04W|Y02D
+11095413,2021-08-17,"Base station, user equipment and related methods",3,H04L|H04W|Y02D
+11089542,2021-08-10,"Terminal apparatus, base station apparatus, mobility management entity (MME), and communication control method",3,H04W
+11089536,2021-08-10,Access control in new radio,2,H04L|H04W
+11083043,2021-08-03,Method and system for user equipment (UE) registration,2,H04W
+11083008,2021-08-03,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",1,H04B|H04L|H04W
+11082161,2021-08-03,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11076167,2021-07-27,Device and method for coding video data,0,H04N
+11071025,2021-07-20,Cell handover with minimum mobility interruption,0,H04W
+11070801,2021-07-20,Image coder/decoder restricting binary tree splitting of target node obtained by ternary tree split,7,H04N
+11064538,2021-07-13,Methods and apparatuses for performing random access procedures,0,H04W
+11063730,2021-07-13,"Terminal apparatus, base station apparatus, and communication method",1,H04L|H04W
+11057958,2021-07-06,Method and device for establishing/reconfiguring data bearer,8,H04W
+11057896,2021-07-06,Methods and apparatuses of determining quasi co-location (QCL) assumptions for beam operations,5,H04L|H04W
+11057891,2021-07-06,Methods and related devices for performing cross-carrier scheduling with beam operations,6,H04L|H04W
+11057884,2021-07-06,Terminal apparatus and method,2,H04L|H04W
+11057851,2021-07-06,"Terminal apparatus, communication method, and integrated circuit",0,H04W
+11057847,2021-07-06,"Base station apparatus, terminal apparatus, and communication method for improving communication performance using multiple frame formats",1,H04L|H04W
+11051332,2021-06-29,Method and apparatus for logical channel selection,0,H04W
+11051318,2021-06-29,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11051290,2021-06-29,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",0,H04B|H04L|H04W
+11051205,2021-06-29,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11051029,2021-06-29,Device and method for coding video data,0,H04N
+11051021,2021-06-29,Coding device predicting chrominance based on downsampled luminance,5,H04N
+11050610,2021-06-29,Reporting master node radio link failure,0,H04L|H04W
+11050535,2021-06-29,Method and apparatus for performing sidelink communication in wireless communication systems,1,H04L|H04W
+11044778,2021-06-22,"User equipment, base station, and related method",2,H04L|H04W
+11044760,2021-06-22,Methods and related devices for transmitting identification information of user equipment during random access procedure,0,H04W
+11044490,2021-06-22,"Motion compensation filter apparatus, image decoding apparatus, and video coding apparatus",0,H04N
+11044061,2021-06-22,"Terminal apparatus, communication method, and integrated circuit",2,H04B|H04L|H04W
+11044040,2021-06-22,"Base station apparatus, terminal apparatus, and communication method for the same",0,H04L|H04W
+11039462,2021-06-15,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11039302,2021-06-15,"Base station, user equipment, and associated method",4,H04W|Y02D
+11039175,2021-06-15,Systems and methods for varying quantization parameters,2,H04N
+11038625,2021-06-15,"Base station apparatus, terminal apparatus, and communication method",0,H03M|H04L|H04W
+11032866,2021-06-08,Methods and related devices for multi-connectivity,2,H04W
+11032760,2021-06-08,SCell selection for beam failure recovery,1,H04L|H04W
+11026281,2021-06-01,Method executed in user equipment and base station and corresponding devices,0,H04L|H04W
+11026272,2021-06-01,"Terminal apparatus, core network apparatus, and communication control method",0,H04W
+11026256,2021-06-01,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+11026251,2021-06-01,"Base station apparatus, terminal apparatus, and communication method therefor",2,H04W
+11026184,2021-06-01,"Terminal apparatus, base station apparatus, and communication method for transmitting resource information and transmission power control information to the terminal device with a grant-free access resource allocation or a scheduled access resource allocation",1,H04W
+11026182,2021-06-01,"Base station apparatus, terminal apparatus, communication method, and integrated circuit",0,H04B|H04L|H04W
+11026181,2021-06-01,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+11026121,2021-06-01,Wireless communication method and system for network slicing,3,H04W
+11026109,2021-06-01,Beam failure detection and recovery,2,H04B|H04W
+11019684,2021-05-25,"Base station, terminal apparatus, and communication method with semi-static first control information and dynamic allocation second control information",0,H04L|H04W
+11019675,2021-05-25,Radio resource control connection resume method of wireless communication system,1,H04L|H04W
+11019671,2021-05-25,Methods and related devices for secondary node addition,1,H04B|H04J|H04L|H04W
+11019557,2021-05-25,Apparatus and method for acquisition of periodically broadcasted system information in wireless communication,0,H04W
+11019462,2021-05-25,"User equipment, base station, and related methods",0,H04W
+11018815,2021-05-25,"Transmission apparatus, reception apparatus, communication method, and integrated circuit",2,H04L
+11012111,2021-05-18,Transmitter and communication method,0,H04B|H04J|H04L|H04W
+11006362,2021-05-11,Appratus and method for beam failure recovery in a wireless communication system,1,H04B|H04W|Y02D
+11005601,2021-05-11,"Transmission device, reception device, and communication method",0,H04L|H04W
+10999868,2021-05-04,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+10993128,2021-04-27,Evolved buffer status report supporting multiple numerology factors,3,H04W
+10992425,2021-04-27,"User equipments, base stations, and methods",2,H04L|H04W
+10986668,2021-04-20,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04W
+10986617,2021-04-20,Method and apparatus for activating PUCCH spatial relation,1,H04B|H04W
+10986592,2021-04-20,"Method related to power headroom report of user, user equipment, base station, and computer-readable medium",0,H04W
+10986527,2021-04-20,Method and apparatus for indicating restricted resources of wireless terminal and for indicating access node capability to support connection with a wireless terminal with restricted capabilities,0,H04M|H04W
+10985893,2021-04-20,"Base station apparatus, terminal apparatus, and communication method for base station apparatus and terminal apparatus",6,H04L|H04W
+10985877,2021-04-20,Codebook determination of HARQ-ACK multiplexing with fallback downlink control information (DCI) and code block group (CBG) configurations,1,H04L|H04W
+10985822,2021-04-20,"Base station apparatus, terminal apparatus, and communication method",0,H04B|H04L|H04W
+10979951,2021-04-13,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",3,H04W
+10979949,2021-04-13,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",1,H04B|H04L|H04W
+10973049,2021-04-06,"Method for execution of random access, user equipment, and base station",1,H04W|Y02D
+10973013,2021-04-06,"User equipments, base stations and methods",3,H04L|H04W
+10972972,2021-04-06,Methods and apparatuses for operating multiple antenna panels,2,H04B|H04W|Y02D
+10972732,2021-04-06,"Image decoding apparatus, image coding apparatus, image decoding method, and image coding method",1,H04N
+10972224,2021-04-06,"Base station apparatus, terminal apparatus, and communication method thereof",0,H04L|H04W
+10966237,2021-03-30,"Terminal apparatus, base station apparatus, and communication method",0,H04L|H04W
+10966127,2021-03-30,"Terminal apparatus, base station apparatus, and communication method reducing handover delay",3,H04W
+10965942,2021-03-30,Device and method for coding video data based on adjusted intra mode list,0,H04N
+10965407,2021-03-30,"User equipments, base stations and communication methods",5,H04L|H04W
+10959207,2021-03-23,Wireless telecommunications methods and apparatus using system information value tag,1,H04W
+10945280,2021-03-09,"User equipments, base stations and methods for uplink transmission without grant",0,H04L|H04W
+10945251,2021-03-09,"User equipments, base stations and methods",10,H04L|H04W
+10944976,2021-03-09,Systems and methods for coding video data using adaptive component scaling,9,G06F|H04N
+10939399,2021-03-02,"Base station apparatus, terminal apparatus, communication method, and integrated circuit with synchronization signal block including first synchronization signal, second synchronization signal, and physical broadcast channel",2,H04B|H04J|H04L|H04W
+10939137,2021-03-02,Image decoding device and image encoding device,0,H04N
+10932207,2021-02-23,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",11,H04W
+10931947,2021-02-23,Systems and methods for coding transform data,3,H04N
+10931497,2021-02-23,Synchronization signal transmission and reception for radio system,6,H04L|H04W
+10925006,2021-02-16,Terminal apparatus and method,0,H04L|H04W
+10924978,2021-02-16,Access control methods and apparatus for radio systems,0,H04L|H04W
+10924733,2021-02-16,Device and method for coding video data based on mode list including different mode groups,1,H04N
+10917910,2021-02-09,"Radio terminal apparatus, radio base station apparatus, mobility management apparatus, radio transmission method, radio communication method, and mobility management method",0,H04L|H04W
+10917221,2021-02-09,"Base station apparatus, terminal apparatus, and communication method",1,H04J|H04L|H04W
+10917152,2021-02-09,"Terminal apparatus, base station apparatus, and communication method",2,H04B|H04L|H04W
+10912068,2021-02-02,Slot structure of long physical uplink control channel (PUCCH) design for 5th generation (5G) new radio (NR),5,H04B|H04L|H04W|Y02D
+10912046,2021-02-02,"Terminal apparatus, base station apparatus, communication method, and integrated circuit",0,H04L|H04W
+10911991,2021-02-02,"Terminal apparatus, session management entity (SME), and communication control method",0,H04L|H04W
+10911943,2021-02-02,Method and apparatus for system information delivery,4,H04L|H04W
+10911201,2021-02-02,Methods and apparatuses for multi-TRP transmission,9,H04B|H04L|H04W

@@ -1,0 +1,437 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12426192,2025-09-23,Main board assembly,0,G06F|H05K
+12413858,2025-09-09,Electronic device and gain calibration method for image stabilization function thereof,0,H04N
+12410833,2025-09-09,Foldable electronic device,0,F16C|G06F|H04M
+12407133,2025-09-02,Circuit board device for inserting an expansion card,0,G06F|H01R|H05K
+12405910,2025-09-02,Computer peripheral device,0,G06F
+12405648,2025-09-02,Portable electronic device,0,G06F|H05K
+12405642,2025-09-02,Fixing assembly and electronic device having the same,0,G06F|H05K
+12395919,2025-08-19,Method and apparatus for a relay UE supporting connection with another remote UE in a wireless communication system,0,H04W
+12387457,2025-08-12,Image capturing device and image calculation method,0,G06T|G06V
+12369173,2025-07-22,Method and apparatus of deriving feedback resource for sidelink transmission in a wireless communication system,0,H04L|H04W
+12369098,2025-07-22,Method and apparatus of updating routing table of an IAB (integrated access backhaul) node in a wireless communication system,0,H04L|H04W
+12349110,2025-07-01,Method and apparatus of handling periodic sidelink resources and discontinuous reception for sidelink communication in a wireless communication system,0,H04W
+12346520,2025-07-01,Seamless touchpad device,0,G06F
+12335617,2025-06-17,Image stabilization method and electronic device,0,H04N
+12323999,2025-06-03,Method and apparatus for reducing power consumption for carrier aggregation in a wireless communication system,0,H04L|H04W|Y02D
+12317346,2025-05-27,Method and apparatus of handling device-to-device resource selection with consideration on discontinuous reception operation in a wireless communication system,0,H04L|H04W|Y02D
+12317231,2025-05-27,Method and apparatus of handling inter-device coordination for sidelink communication in a wireless communication system,0,H04L|H04W
+12316798,2025-05-27,"Smart dialing recommendation method, non-transitory computer-readable medium, and mobile device",0,H04M|H04W
+12314483,2025-05-27,Electronic device,0,G06F
+12302531,2025-05-13,Handheld electronic device,0,G06F|H05K
+12302394,2025-05-13,Method and apparatus for listen before talk for sidelink transmission in a wireless communication system,1,H04L|H04W
+12298821,2025-05-13,Mold assembly for assembling touch module in housing and assembling method using the same,0,G06F
+12294484,2025-05-06,Method and apparatus for handling sidelink radio link failure in a wireless communication system,0,H04L|H04W
+12279234,2025-04-15,Method and apparatus of handling partial sensing for sidelink communication in a wireless communication system,0,H04W
+12271237,2025-04-08,Foldable electronic device,2,G06F
+12267970,2025-04-01,Thermal dissipation holder,0,G06F|H05K
+12262247,2025-03-25,Method and apparatus for deriving cell reference location in a wireless communication system,0,G01S|H04B|H04L|H04W
+12242321,2025-03-04,Power management method and electronic device using same,0,G06F|H02J
+12237618,2025-02-25,Interface card assembly and circuit board module using the same,0,G06F|H01R|H05K
+12232135,2025-02-18,Method and apparatus for cross carrier scheduling considering multi-TRP in a wireless communication system,0,H04L|H04W
+12228969,2025-02-18,Foldable electronic device,0,G06F
+12225372,2025-02-11,Audio visualization method and system thereof,0,A63F|G06T|H04R|H04S
+12207372,2025-01-21,Electronic device with housing for generating light effect,0,G09F|H01L|H05B
+12207330,2025-01-21,Method and apparatus for supporting multiple connectivity services in a wireless communication system,0,H04W
+12200163,2025-01-14,Electronic device with dynamic wallpaper,0,G06F|H04M
+12192916,2025-01-07,Method and apparatus for power headroom report regarding multi-TRP in a wireless communication system,0,H04W
+12189442,2025-01-07,Method for detecting heat dissipation and electronic device,0,G06F|H01L|H05K|Y02D
+12185398,2024-12-31,Method and apparatus for UU radio bearer to PC5 radio link control (RLC) bearer mapping in a wireless communication system,0,H04W
+12185375,2024-12-31,Method and apparatus for Random Access Channel (RACH)-based small data transmission procedure in a wireless communication system,0,H04B|H04W
+12181224,2024-12-31,Heat dissipation device,1,F28D|F28F|G06F|H01L
+12177599,2024-12-24,Image capturing method and electronic device,0,H04N
+12156263,2024-11-26,Method and apparatus for obtaining time alignment regarding multiple TRPS in a wireless communication system,0,H04L|H04W
+12143724,2024-11-12,"Clamping device, electronic device and remote control method of electronic device",0,F16M|H04N
+12141006,2024-11-12,Electronic device and power management method therefor,0,G06F|Y02D
+12133181,2024-10-29,Method and apparatus for multi-transmission/reception point power headroom reporting in a wireless communication system,0,H04L|H04W
+12132997,2024-10-29,Electronic device with flash function and driving method of flash,0,H04N
+12124293,2024-10-22,Electronic device,1,G06F
+12120758,2024-10-15,Method and apparatus for acquiring system information and paging via UE-to-network relay in a wireless communication system,0,H04W
+12108479,2024-10-01,Method and apparatus for new data arrival of small data transmission in a wireless communication system,0,H04L|H04W
+12105892,2024-10-01,Electronic device,0,G06F|H03K|Y02D
+12100091,2024-09-24,Animated image publishing method and animated image generating method,0,G06F|G06T
+12096070,2024-09-17,Video editing method and system thereof,0,A63F|G11B|H04N
+12093111,2024-09-17,Electronic device and performance optimization method thereof,1,G06F
+12089272,2024-09-10,Method and apparatus for a user equipment (UE) to transmit a direct communication request message in a wireless communication system,0,H04W
+12073520,2024-08-27,Augmented reality implementing method for generating augumented reality content,0,G06K|G06T
+12073039,2024-08-27,Touchpad device,0,G06F
+12069627,2024-08-20,Method and apparatus of indicating aggregation number in a wireless communication system,0,H04L|H04W
+12069404,2024-08-20,Video recording method and system thereof,0,G06F|H04N
+12067226,2024-08-20,Dial control method and dial control system for electronic device,0,G06F
+12066876,2024-08-20,Electronic system with a cooling device with at least a pressing portion,0,G06F|H05K
+12063602,2024-08-13,Method and apparatus for power headroom report regarding multi-TRP in a wireless communication system,0,H04W
+12063320,2024-08-13,Electronic device,0,F16M|G03B|G06F|H04M|H04N
+12062844,2024-08-13,Antenna system and antenna combination architecture,0,H01L|H01Q|H05K
+12056350,2024-08-06,Portable electronic device and one-hand touch operation method thereof,0,G06F|H04M
+12056291,2024-08-06,Electronic device and sensitivity adjustment method for sensor,0,G06F
+12052662,2024-07-30,Method and apparatus for handling logical channel prioritization regarding sidelink discontinuous reception in a wireless communication system,3,H04W
+12050833,2024-07-30,Method and apparatus for screen display,0,G06F|G09G|H04N
+12050492,2024-07-30,Electronic device,0,G06F
+12047951,2024-07-23,Method and apparatus for transmitting and receiving downlink control channel in a wireless communication system,0,H04L|H04W
+12039093,2024-07-16,Encrypted hard disk device,0,G06F
+12028291,2024-07-02,Method and apparatus of handling discontinuous reception and partial sensing for sidelink communication in a wireless communication system,1,H04L|H04W
+12027089,2024-07-02,Electronic device and refresh rate adjusting method thereof,0,G06F|G09G
+12026075,2024-07-02,Power supply health check system and method thereof,0,G06F
+12019468,2024-06-25,Screen fixing apparatus,1,F16M|G06F|G09F
+12010557,2024-06-11,Method and apparatus for quality of service (QOS) information modification in a wireless communication system,0,H04W
+12009275,2024-06-11,Heat transfer device,0,F28D|F28F|H01L|H05K
+12007816,2024-06-11,Heat dissipation module and electronic device having the same,0,G06F|H05K
+12004243,2024-06-04,Method and apparatus for supporting UE-to-network relay communication in a wireless communication system,0,H04W
+12004026,2024-06-04,Method and apparatus for mobility procedure in a wireless communication system,1,H04L|H04W
+12001628,2024-06-04,Electronic device,0,G06F
+12001248,2024-06-04,Hinge structure,0,G06F
+12001246,2024-06-04,All-in-one computer having displays with touch control and display control method based on touch control,0,G06F|H05K
+11997752,2024-05-28,Method and apparatus for multiple-USIM device in a wireless communication system,0,H04W
+11997642,2024-05-28,Method and apparatus for acquiring system information and paging via UE-to-network relay in a wireless communication system,1,H04W
+11994970,2024-05-28,Diagnostic system,0,G06F
+11991749,2024-05-21,Method and apparatus for random access preamble partition for small data transmission in a wireless communication system,0,H04W
+11991479,2024-05-21,Time-lapse photographic device,0,H04N
+11991472,2024-05-21,Method for performing image processing and capturing photo frame in parallel,0,H04N
+11985671,2024-05-14,Method and apparatus for reducing power consumption for carrier aggregation in a wireless communication system,0,H04L|H04W|Y02D
+11972055,2024-04-30,Electronic device with vibration function and vibration driving method,1,G06F
+11956690,2024-04-09,Method and apparatus for mobility procedure in a wireless communication system,1,H04B|H04L|H04W
+11943763,2024-03-26,Method and apparatus for distributed resource allocation in a wireless communication system,1,H04L|H04W
+11941178,2024-03-26,Electronic device and control method thereof,0,G06F
+11937334,2024-03-19,Method and apparatus for sidelink discontinuous reception in a wireless communication system,0,H04W|Y02D
+11937266,2024-03-19,Method and apparatus of requesting resource for sidelink retransmission in a wireless communication system,0,H04L|H04W
+11924876,2024-03-05,Method and apparatus of handling partial sensing and discontinuous reception for sidelink communication in a wireless communication system,0,H04W
+11914818,2024-02-27,Electronic device and operation control method with switch function of touchable region,0,G06F
+11910482,2024-02-20,Method and apparatus for UE reporting for multi-USIM in a wireless communication system,1,H04W
+11907729,2024-02-20,Computer system and booting method thereof,0,G06F
+11903169,2024-02-13,Portable electronic device,0,G06F|H05K
+11903162,2024-02-13,Fan control method for heat dissipation of an electronic device,0,G05B|G06F|H05K
+11902940,2024-02-13,Method and apparatus for handling device-to-device feedback transmission in a wireless communication system,1,H04L|H04W
+11901754,2024-02-13,Charging base,0,G06F|H01R|H02J
+11895591,2024-02-06,Method and apparatus for configuring sidelink discontinuous reception in a wireless communication system,0,H04W
+11893229,2024-02-06,Portable electronic device and one-hand touch operation method thereof,0,G06F
+11892884,2024-02-06,Hinge structure,0,G06F
+11892873,2024-02-06,Computer device,0,G06F|H05K
+11881736,2024-01-23,Power system,0,G06F|H02J|H04M
+11880515,2024-01-23,Touch pad structure and electronic device thereof,0,G06F
+11880234,2024-01-23,Electronic device,1,G06F
+11877324,2024-01-16,Method and apparatus for handling contention resolution for a random access procedure in a wireless communication system,0,H04L|H04W
+11871531,2024-01-09,Computer device and host module thereof,0,G06F|H05K
+11871465,2024-01-09,Method and apparatus for establishing sidelink radio bearer for UE-to-UE relay communication in a wireless communication system,1,H04L|H04W
+11871253,2024-01-09,Method and apparatus for improving scheduling mode sidelink communication in a wireless communication system,0,H04B|H04W
+11868839,2024-01-09,Device detecting system,0,G06F|G06K|G06Q
+11868187,2024-01-09,Circuit board,3,G06F|H05K
+11864249,2024-01-02,Method and apparatus for sidelink identifier change in a wireless communication system,0,H04L|H04W
+11864157,2024-01-02,Method and apparatus for avoiding paging collision in a wireless communication system,1,H04W
+11864124,2024-01-02,Method and apparatus for power control regarding multi-TRP uplink transmission in a wireless communication system,0,H04W
+11864031,2024-01-02,Method and apparatus for beam failure handling in a wireless communication system,0,H04B|H04W
+11864021,2024-01-02,Method and apparatus for delivering uplink buffer status report of a relay in a wireless communication system,0,H04L|H04W
+11861261,2024-01-02,Electronic device,0,G06F|G08B
+11860331,2024-01-02,Detection system and detection method,0,G01S|G01V|H04N
+11859627,2024-01-02,Fan control system and method thereof,0,F04D|F05D|G06F|H05K|Y02B
+11853131,2023-12-26,Circuit board,2,G06F|H05K
+11849410,2023-12-19,Antenna system and electronic device thereof which dynamically adjust output power of an antenna,0,G01B|G01D|G06F|H04B|H04W|Y02D
+11847313,2023-12-19,Electronic device having touchpad with operating functions selected based on gesture command and touch method thereof,0,G06F
+11841555,2023-12-12,Method for measuring the frame wearing parameter and measuring device thereof,0,G02C|G06T|G06V
+11838977,2023-12-05,Method and apparatus for performing link identifier update procedure in a wireless communication system,0,H04B|H04W
+11838964,2023-12-05,Method and apparatus for RRC connection establishment to support UE-to-network relaying in a wireless communication system,1,H04W
+11838936,2023-12-05,Method and apparatus for sidelink resource allocation mode configuration in a wireless communication system,6,H04W
+11835982,2023-12-05,Portable computing device,0,G06F
+11832245,2023-11-28,Method and apparatus for improving control channel structure in shortened transmission time intervals in a wireless communication system,0,H04L|H04W
+11829463,2023-11-28,Electronic device with non-contact sensing function,0,G06F|H04B
+11825333,2023-11-21,Method and apparatus for servicing QoS (quality of service) flow in a wireless communication system,0,H04L|H04W
+11825297,2023-11-21,Method and apparatus of handling control signaling for inter-user equipment (UE) coordination information in a wireless communication system,2,H04L|H04W
+11825006,2023-11-21,Electronic device and function module thereof,0,H04M|H04N|H05K
+11822405,2023-11-21,"Power allocating system, electronic device and adapter thereof",0,G06F
+11818708,2023-11-14,Method and apparatus for multi-hop integrated access and backhaul systems,0,H04L|H04W
+11818702,2023-11-14,Method and apparatus of handling semi-persistent scheduling (SPS) deactivation state of unicast and multicast in a wireless communication system,1,H04W
+11817951,2023-11-14,Method and apparatus of source indication for sidelink transmission in a wireless communication system,0,H04L|H04W
+11809227,2023-11-07,Electronic device,1,G06F|H04M
+11797060,2023-10-24,Electronic device and pivot structure thereof,2,G06F
+11785546,2023-10-10,Method and apparatus for monitoring power saving signal in a wireless communication system,1,H04W|Y02D
+11785191,2023-10-10,Projection picture correction system and electronic equipment and projector thereof,0,G03B|G06T|H04N
+11778685,2023-10-03,Method and apparatus for network configuring sidelink discontinuous reception in a wireless communication system,2,H04L|H04W
+11778599,2023-10-03,Method and apparatus of handling time gap for sidelink hybrid automatic request (HARQ) in network scheduling mode in a wireless communication system,0,H04L|H04W
+11778518,2023-10-03,Method and apparatus for device-to-device sidelink resource selection in a wireless communication system,0,H04B|H04J|H04L|H04W
+11775087,2023-10-03,Electronic device and touch operation method for the same,0,G06F
+11775028,2023-10-03,Foldable electronic device,0,G06F
+11765748,2023-09-19,Method and apparatus for indicating time delay in a wireless communication system,0,H04L|H04W
+11765690,2023-09-19,Method and apparatus for generating device-to-device sidelink HARQ-ACK in a wireless communication system,6,H04B|H04L|H04W
+11763773,2023-09-19,Computer device and multi-computer system,0,G06F|G09G
+11762495,2023-09-19,Electronic device,0,G06F
+11758596,2023-09-12,Method and apparatus for a relay to transmit a direct communication request message in a wireless communication system,0,H04B|H04W
+11758590,2023-09-12,Method and apparatus for reporting UE (user equipment) capability information for SLRB (sidelink radio bearer) configuration in a wireless communication system,1,H04W
+11756278,2023-09-12,Method and system of establishing denture dentition model,0,A61C|B33Y|G06T
+11751277,2023-09-05,Method and apparatus for selecting Bandwidth part (BWP) for subsequent transmission in pre-configured resources based Small Data Transmission (SDT) in a wireless communication system,1,H04L|H04W
+11743755,2023-08-29,Method and apparatus for UE location report in a wireless communication system,0,G01S|H04W
+11737113,2023-08-22,Method and apparatus for transport block generation with UL spatial multiplexing in a wireless communication system,0,H04B|H04L|H04W
+11737042,2023-08-22,Method and apparatus for UE TA reporting in a wireless communication system,1,H04B|H04W
+11737030,2023-08-22,Method and apparatus for deriving transmit power of UL (uplink) RS (reference signal) in a wireless communication system,2,H04W
+11736986,2023-08-22,Method and apparatus for mobility procedure regarding MAC reset in a wireless communication system,5,H04W
+11736666,2023-08-22,"Detection device, detection system and detection method",0,G08B|H04N
+11733795,2023-08-22,Foldable electronic apparatus and input method thereof,2,G06F
+11729843,2023-08-15,Method and apparatus of handling device-to-device resource selection with consideration on discontinuous reception operation in a wireless communication system,0,H04L|H04W|Y02D
+11723046,2023-08-08,Method and apparatus of deriving feedback resource for sidelink transmission in a wireless communication system,4,H04L|H04W
+11720198,2023-08-08,Electronic device and touch control method therefor,0,G06F
+11716663,2023-08-01,Method and apparatus for user equipment (UE) monitoring behavior for beam recovery in a wireless communication system,2,H04B|H04L|H04W
+11716132,2023-08-01,Method and apparatus for beam failure detection regarding multiple transmission/reception points in a wireless communication system,1,H04B|H04L|H04W
+11711790,2023-07-25,Method and apparatus for slot format determination in a wireless communication system,0,H04L|H04W
+11711721,2023-07-25,Method and apparatus for triggering uplink buffer status report in a wireless communication system,0,H04L|H04W
+11709574,2023-07-25,Electronic device properly displaying widgets in blank region when operated by one hand,0,G06F
+11698686,2023-07-11,Control method for electronic apparatus,0,G06F
+11695516,2023-07-04,Method and apparatus for handling device-to-device feedback in a wireless communication system,4,H04L|H04W
+11693492,2023-07-04,Mouse,0,G06F|H01H
+11690198,2023-06-27,Electronic device,0,G06F|H05K
+11687306,2023-06-27,Displaying control method,0,G06F|G09G
+11687234,2023-06-27,Computer system and input device thereof,0,G06F
+11683814,2023-06-20,Method and apparatus for transmission in inactive state in a wireless communication system,0,H04L|H04W
+11683791,2023-06-20,Method and apparatus for indicating time domain resource allocation of data transmission in a wireless communication system,0,H04L|H04W
+11683787,2023-06-20,Method and apparatus of handling prioritization of signaling for sidelink resource conflict in a wireless communication system,2,H04L|H04W
+11675389,2023-06-13,Electronic device,0,G06F
+11672033,2023-06-06,Method and apparatus for supporting UE-to-network relay communication in a wireless communication system,1,H04W
+11665769,2023-05-30,Method and apparatus for supporting UE-to-network relay communication in a wireless communication system,2,H04W
+11665765,2023-05-30,Method and apparatus for configuring sidelink communication in a wireless communication system,0,H04W
+11665709,2023-05-30,Method and apparatus for supporting sidelink relay adaptation layer for UE-to-network relay in a wireless communication system,0,H04B|H04W
+11664946,2023-05-30,Method and apparatus for implementing reference signal transmissions in a wireless communication system,0,H04B|H04J|H04L|H04W|Y02D
+11662790,2023-05-30,Transmission device with external power,0,G06F
+11659605,2023-05-23,Method and apparatus for relay UE sidelink RLC bearer configuration to support UE-to-network relaying in a wireless communication system,0,H04W
+11659493,2023-05-23,Method and apparatus for multi-transmission/reception point power headroom reporting in a wireless communication system,1,H04W
+11653315,2023-05-16,Method and apparatus for triggering and canceling power headroom report (PHR) in small data transmission procedure in a wireless communication system,0,H04W
+11652592,2023-05-16,Method and apparatus for channel state information report for beam operation in a wireless communication system,0,H04B|H04L
+11652532,2023-05-16,Method and apparatus for transmission and reception in backhaul link in a wireless communication system,1,H04B|H04L|H04W
+11647462,2023-05-09,Methods for communicating bandwidth part designations in a wireless communication system,4,H04W|Y02D
+11646829,2023-05-09,Method and apparatus for handling discontinuous reception (DRX) timer for data reception of unicast and multicast in a wireless communication system,0,H04B|H04L|H04W
+11644905,2023-05-09,Electronic device and keyboard module thereof,1,G06F|H01H
+11638197,2023-04-25,Method and apparatus for supporting UE-to-network relay communication in a wireless communication system,2,H04W
+11632809,2023-04-18,Method and apparatus for handling sidelink identifier change in a wireless communication system,0,H04W
+11632777,2023-04-18,Method and apparatus for performing uplink transmissions for multiple transmission/reception points (TRP) in a wireless communication system,0,H04B|H04L|H04W
+11630872,2023-04-18,Internet data collection method,0,G06F
+11630538,2023-04-18,Electronic device and touch method thereof,0,G06F
+11630003,2023-04-18,Temperature control system for central processing unit and temperature control method thereof,0,G01K|G06F|Y02D
+11627616,2023-04-11,Method and apparatus for sidelink identifier change in a wireless communication system,1,H04L|H04W
+11625111,2023-04-11,Control method for electronic device,0,G06F
+11625075,2023-04-11,Electronic device,0,G06F|H05K
+11620015,2023-04-04,Electronic device,0,G06F
+11620005,2023-04-04,Stylus pen,0,G06F|H01R|H02J
+11617206,2023-03-28,Method and apparatus for channel access switch in a wireless communication system,1,H04L|H04W
+11617199,2023-03-28,Method and apparatus of indicating time delay in a wireless communication system,0,H04L|H04W
+11617195,2023-03-28,Method and apparatus for downlink control information (DCI) content processing considering active downlink (DL) bandwidth part (BWP) change in a wireless communication system,19,H04L|H04W
+11611972,2023-03-21,Method and apparatus of handling multiple device-to-device transmissions in a wireless communication system,0,H04W
+11601997,2023-03-07,Method and apparatus for a remote user equipment (UE) to support direct to indirect communication path switching in a wireless communication system,1,H04B|H04W
+11601980,2023-03-07,Method and apparatus for carrier selection and early data transmission (EDT) in a wireless communication system,0,H04B|H04W
+11601959,2023-03-07,Method and apparatus for prioritization between uplink data and scheduling request in a wireless communication system,0,H04W
+11598058,2023-03-07,Warning sign device,0,B60Q|E01F|H02J|H04N
+11595928,2023-02-28,Method and apparatus for large propagation delay in a wireless communication system,4,H04B|H04L|H04W
+11595918,2023-02-28,Method and apparatus for deriving downlink pathloss for device-to-device transmit power control in a wireless communication system,1,H04W
+11592866,2023-02-28,Functional assembly and electronic device with the functional assembly,0,G06F|H04M
+11589254,2023-02-21,Method and apparatus for requesting sidelink radio bearer (SLRB) configuration of unicast transmission in a wireless communication system,0,H04W
+11582818,2023-02-14,Method and apparatus for forwarding sidelink user equipment (UE) capability information in a wireless communication system,0,H04B|H04W
+11582789,2023-02-14,Method and apparatus for transmitting sidelink measurement report in sidelink in a wireless communication system,1,H04B|H04L|H04W
+11582768,2023-02-14,Method and apparatus for requesting sidelink transmission resources in a wireless communication system,0,H04W
+11581985,2023-02-14,Method and apparatus for handling sidelink reception in a wireless communication system,0,H04L|H04W
+11581939,2023-02-14,Method and apparatus for transmission and reception in backhaul link in a wireless communication system,1,H04B|H04L|H04W
+11575814,2023-02-07,Image capturing device and appearance inspecting device including the same,0,G01N|H04N
+11570797,2023-01-31,Method and apparatus of handling multiple device-to-device resources in a wireless communication system,4,H04W
+11564262,2023-01-24,Method and apparatus for determining to use coverage enhancement in random access procedure in a wireless communication system,0,H04W
+11564224,2023-01-24,Method and apparatus for determining hybrid automatic repeat request (HARQ) codebook in a wireless communication system,0,H04L|H04W
+11564208,2023-01-24,Method and apparatus for radio resource allocation to support UE-to-network relaying in a wireless communication system,1,H04W
+11564126,2023-01-24,Method and apparatus for distinguishing transmission feedback mode in sidelink buffer status report in a wireless communication system,1,H04L|H04W
+11558904,2023-01-17,Method and apparatus for uplink grant overridden in a wireless communication system,1,H04L|H04W
+11558856,2023-01-17,Method and apparatus for transmission or reception using beamforming in a wireless communication system,0,H04B|H04L|H04W
+11553485,2023-01-10,Method and apparatus for indicating slot format of an unlicensed cell in a wireless communication system,0,H04L|H04W
+11553420,2023-01-10,Method and apparatus for handling channel state information reporting regarding sidelink discontinuous reception in a wireless communication system,0,H04W
+11553375,2023-01-10,Method and apparatus for signaling for beam indication in a wireless communication system,1,H04W
+11552751,2023-01-10,Method and apparatus for determining slot format in a wireless communication system,0,H04L|H04W
+11552638,2023-01-10,Optical switch module and control method thereof,0,G06F|H03K
+11547213,2023-01-10,Seat cushion,0,A47C|A61B|G01B|G01S|G06T
+11547007,2023-01-03,Fixing mechanism for electronic device,0,G06F|G11B|H05K
+11546783,2023-01-03,Method and apparatus for improving PDCCH monitoring pattern in a wireless communication system,0,H04W|Y02D
+11546451,2023-01-03,Electronic device,0,H04M|H04N
+11544301,2023-01-03,Identification method with multi-type input and electronic device using the same,0,G06F
+11540344,2022-12-27,Method and apparatus for handling multiple sidelink communication in a wireless communication system,0,H04W
+11540342,2022-12-27,Method and apparatus for sidelink signaling radio bearer (SRB) establishment in a wireless communication system,0,H04W
+11540289,2022-12-27,Method and apparatus for timing advance validation in a wireless communication system,1,H04W
+11533720,2022-12-20,Method and apparatus for applying slot format indication (SFI) to a cell in unlicensed spectrum in a wireless communication system,1,H04L|H04W
+11533673,2022-12-20,Method and apparatus for a relay user equipment (UE) to support direct to indirect communication path switching in a wireless communication system,1,H04B|H04W
+11523417,2022-12-06,Method and apparatus for downlink data buffering considering cross carrier scheduling in a wireless communication system,0,H04L|H04W
+11523349,2022-12-06,Method and apparatus for power control regarding multi-TRP uplink transmission in a wireless communication system,3,H04W
+11522580,2022-12-06,Near field communication device and tag position determination method by using the same,0,G06K|H01Q|H04B|H04W|Y02D
+11520403,2022-12-06,Wireless control device,0,G06F|G06T|H04W
+11516878,2022-11-29,Method and apparatus for releasing sidelink radio bearer in a wireless communication system,1,H04W
+11516796,2022-11-29,Method and apparatus of requesting semi-persistent scheduling resource for transmission of data duplication in a wireless communication system,2,H04L|H04W
+11515231,2022-11-29,Coating method for liquid metal thermal grease and heat dissipation module,0,B05C|B05D|C09D|C09K|H01L
+11510278,2022-11-22,Method and apparatus for network configuring sidelink discontinuous reception in a wireless communication system,1,H04L|H04W
+11510236,2022-11-22,Method and apparatus of requesting resource for sidelink retransmission in a wireless communication system,2,H04L|H04W
+11507138,2022-11-22,Notebook computer,0,G06F|H01Q
+11503626,2022-11-15,Method and apparatus for beam indication considering cross carrier scheduling in a wireless communication system,0,H04L|H04W
+11501077,2022-11-15,"Semantic processing method, electronic device, and non-transitory computer readable recording medium",0,G06F|G06N
+11500798,2022-11-15,"Data transmission device, data transmission method and non-transitory computer readable medium",0,G06F
+11496886,2022-11-08,Method and apparatus for connection control in a wireless communication system,1,H04W
+11490448,2022-11-01,Method and apparatus for radio bearer configuration to support UE-to-network relaying in a wireless communication system,2,H04W
+11483834,2022-10-25,Method and apparatus for beam detection in a wireless communication system,0,H04W
+11477843,2022-10-18,Method and apparatus for handling a DRX timer for bundle of a configured uplink grant in a wireless communication system,0,H04L|H04W|Y02D
+11477734,2022-10-18,Method and apparatus for monitoring power saving signal in a wireless communication system,2,H04W|Y02D
+11477385,2022-10-18,Electronic device with rotatable camera for protecting privacy,0,G06V|H04N
+11470676,2022-10-11,Method and apparatus for controlling UE state transition in a wireless communication system,7,H04L|H04W
+11457505,2022-09-27,Method and apparatus of beam indication in a wireless communication system,2,H04B|H04L|H04W
+11457410,2022-09-27,Method and apparatus for providing power saving of monitoring for device-to-device communication in a wireless communication system,2,H04W
+11457355,2022-09-27,Method and apparatus for supporting vehicle-to-everything (V2X) services on single one-to-one sidelink communication link in a wireless communication system,1,H04L|H04W
+11456822,2022-09-27,Method and apparatus for providing control resource set configuration in a wireless communication system,0,H04L|H04W
+11455046,2022-09-27,Electronic device,0,G06F
+11452232,2022-09-20,Electronic device,1,G06F|H05K
+11452144,2022-09-20,Method and apparatus for random access configuration in a wireless communication system,0,H04W
+11452129,2022-09-20,Method and apparatus for latency reduction of device to device (D2D) message in a wireless communication system,1,H04W
+11451976,2022-09-20,Method and apparatus for performing UE beamforming in a wireless communication system,1,H04B|H04L|H04W
+11445557,2022-09-13,Method and apparatus for serving quality of service (QOS) flow in a wireless communication system,1,H04L|H04W
+11437710,2022-09-06,Electronic device having multiple antennas and antenna configuration method thereof,1,G06F|H01Q
+11435844,2022-09-06,Electronic device and force sensing touch assembly thereof,0,G06F
+11435597,2022-09-06,Displaying device,0,G02B|G06F|G09G
+11432354,2022-08-30,Method and apparatus for supporting UE-to-network relay communication in a wireless communication system,0,H04W
+11431456,2022-08-30,Method and apparatus for implementing reference signal transmissions in a wireless communication system,0,H04B|H04J|H04L|H04W|Y02D
+11425743,2022-08-23,Method and apparatus for beam indication for uplink transmission in a wireless communication system,0,H04B|H04L|H04W
+11422952,2022-08-23,Wireless input apparatus,0,G06F
+11418249,2022-08-16,Method and apparatus for handling beam failure recovery regarding cell deactivation in a wireless communication system,0,H04B|H04W
+11409339,2022-08-09,Fan module and display card device having the same,0,G06F|H05K
+11406019,2022-08-02,Fixing device and electronic device using the same,0,F16M|G06F|H05K
+11402992,2022-08-02,"Control method, electronic device and non-transitory computer readable recording medium device",0,G06F
+11399385,2022-07-26,Method and apparatus for receiving downlink data in a wireless communication system,1,H04B|H04L|H04W
+11399384,2022-07-26,Method and apparatus of indicating aggregation number in a wireless communication system,0,H04L|H04W
+11395266,2022-07-19,Method and apparatus for transmission or reception using beamforming in a wireless communication system,0,H04B|H04L|H04W
+11394886,2022-07-19,Electronic device and control method for image capture device thereof,0,H04N
+11388733,2022-07-12,Method and apparatus for handling sidelink feedback collision in a wireless communication system,4,H04L|H04W
+11381215,2022-07-05,Wireless communication device,0,G06F|H01Q|H03H|H04M
+11375393,2022-06-28,Method and apparatus for beam failure reporting under multicell configuration in a wireless communication system,4,H04W
+11375125,2022-06-28,Electronic device,0,H04M|H04N
+11374639,2022-06-28,Method and apparatus for transmission and reception in backhaul link in a wireless communication system,2,H04B|H04L|H04W
+11368966,2022-06-21,Method and apparatus of multiple SR (scheduling request) configurations in a wireless communication system,0,H04W
+11368950,2022-06-21,Method and apparatus for beam management in unlicensed spectrum in a wireless communication system,3,H04W
+11363571,2022-06-14,Method and apparatus for handling retransmission indication for configured grant in sidelink in a wireless communication system,3,H04L|H04W
+11357064,2022-06-07,Method and apparatus for supporting one-to-one sidelink communication in a wireless communication system,3,H04W
+11337324,2022-05-17,Manufacturing method of housing,0,B21D|B23P|G06F|H05K
+11337205,2022-05-17,Method and apparatus for determining numerology bandwidth in a wireless communication system,2,H04L|H04W
+11336346,2022-05-17,Method and apparatus for handling beam sensing for sidelink resource in a wireless communication system,0,H04B|H04W
+11327578,2022-05-10,Control circuit,0,G06F|H01H|H03K
+11327527,2022-05-10,Motor assembly and electronic device including the same,0,G06F|H04M
+11323894,2022-05-03,"Network system, wireless network extender, and network provider",0,H04W|Y02D
+11317526,2022-04-26,Electronic device and display thereof,1,F16M|G06F|H04N|H05K
+11317454,2022-04-26,Method and apparatus for improving one-to-one sidelink communication in a wireless communication system,0,H04W
+11317446,2022-04-26,Method and apparatus of handling BWP inactivity timer during random access procedure in a wireless communication system,1,H04W
+11317381,2022-04-26,Method and apparatus for handling device-to-device feedback transmission in a wireless communication system,4,H04L|H04W
+11317373,2022-04-26,Method and apparatus for mobile-terminated early data transmission (MT-EDT) and preconfigured uplink resources (PUR) in a wireless communication system,3,H04W
+11316622,2022-04-26,Method and apparatus for handling feedback resource for groupcast in sidelink in a wireless communication system,0,H04B|H04L|H04W
+11314410,2022-04-26,Mobile device,0,G06F|H05K
+11302574,2022-04-12,Method of manufacturing a display device,0,H01L|H10D|H10K
+11295538,2022-04-05,Method and equipment for constructing three-dimensional face model,0,G01B|G06T|H04N
+11291052,2022-03-29,Method and apparatus for improving Msg3 transmission of random access procedure in a wireless communication system,0,H04L|H04W
+11291012,2022-03-29,Method and apparatus for selecting beam for preconfigured uplink resources in a wireless communication system,1,H04B|H04W
+11287923,2022-03-29,Control method of handheld electronic device,0,G06F
+11284221,2022-03-22,Method and apparatus for deciding numerology in a wireless communication system,14,H04L|H04W
+11272489,2022-03-08,Method and apparatus of handling device-to-device resource pool without physical sidelink feedback channel in a wireless communication system,1,H04L|H04W
+11265895,2022-03-01,Method and apparatus for improving control channel structure in shortened transmission time intervals in a wireless communication system,0,H04L|H04W
+11259350,2022-02-22,Method and apparatus for supporting UE-to-network relay communication in a wireless communication system,6,H04W
+11252753,2022-02-15,Method and apparatus for improving retransmission scheduling of sidelink communication in a wireless communication system,21,H04L|H04W
+11252598,2022-02-15,Method and apparatus for sidelink logical channel establishment in a wireless communication system,1,H04W
+11249563,2022-02-15,Input touch device with curved segment that changes shape,0,G06F
+11246149,2022-02-08,Method and apparatus for performing uplink transmissions for multiple transmission/reception points (TRP) in a wireless communication system,1,H04B|H04L|H04W
+11246148,2022-02-08,Method and apparatus of source indication for sidelink transmission in a wireless communication system,1,H04L|H04W
+11240809,2022-02-01,Method and apparatus of beam determination in a wireless communication system,6,H04B|H04L|H04W
+11240753,2022-02-01,Method and apparatus for beam management in a wireless communication system,0,H04B|H04W|Y02D
+11240357,2022-02-01,Electronic device,0,H04M|H04N
+11234276,2022-01-25,Method and apparatus for random access procedure for secondary cell beam failure recovery in a wireless communication system,2,H04W
+11234244,2022-01-25,Method and apparatus for performing random access resource selection in new radio access technology-unlicensed (NR-U) cells in a wireless communication system,1,H04B|H04L|H04W
+11234237,2022-01-25,Method and apparatus of handling time gap for sidelink hybrid automatic request (HARQ) in network scheduling mode in a wireless communication system,1,H04L|H04W
+11231851,2022-01-25,Computer system and input device thereof,0,G06F
+11228899,2022-01-18,Method and apparatus for multiple-USIM device in a wireless communication system,2,H04W
+11206596,2021-12-21,Method and apparatus for reducing interruption of beaming recovery procedure in a wireless communication system,6,H04W
+11201708,2021-12-14,Method and apparatus for channel state information report for beam operation in a wireless communication system,2,H04B|H04L
+11201660,2021-12-14,Method and apparatus for transmissions via multiple beams in a wireless communication system,0,H04B|H04W
+11188224,2021-11-30,Control method of user interface and electronic device,0,G06F|G06T
+11184918,2021-11-23,Method and apparatus for transport block generation with UL spatial multiplexing in a wireless communication system,0,H04B|H04L|H04W
+11184916,2021-11-23,Method and apparatus of allocating resource for multiple device-to-device resource pools in a wireless communication system,1,H04W
+11184914,2021-11-23,Method and apparatus for improving scheduling in a wireless communication system,2,H04L|H04W
+11178578,2021-11-16,Method and apparatus for device-to-device sidelink resource selection in a wireless communication system,8,H04B|H04J|H04L|H04W
+11172594,2021-11-09,Heat dissipation structure,0,G06F|H01L|H05K
+11169569,2021-11-09,USB expanding device,3,G06F|H02J
+11166292,2021-11-02,Method and apparatus for handling collision between sidelink feedback and sidelink data in a wireless communication system,1,H04L|H04W
+11160057,2021-10-26,Method and apparatus for improving precoding resource block group in a wireless communication system,6,H04B|H04L|H04W
+11159979,2021-10-26,Method and apparatus for requesting resource for control element transmission in a wireless communication system,1,H04L|H04W
+11153872,2021-10-19,Method and apparatus for indicating slot format of an unlicensed cell in a wireless communication system,3,H04L|H04W
+11153800,2021-10-19,Method and apparatus for User Equipment (UE) monitoring behavior for beam recovery in a wireless communication system,0,H04B|H04L|H04W
+11147080,2021-10-12,Method and apparatus for requesting sidelink transmission resources in a wireless communication system,1,H04W
+11147073,2021-10-12,Method and apparatus for beam indication for physical uplink shared channel (PUSCH) considering multiple nodes scenario in a wireless communication system,11,H04L|H04W
+11144155,2021-10-12,Electronic device,0,G06F
+11140694,2021-10-05,Method and apparatus for prioritization between uplink data and scheduling request in a wireless communication system,0,H04W
+11140567,2021-10-05,Method and apparatus for triggering a beam state information report in a wireless communication system,8,H04W
+11140316,2021-10-05,Projection method and projector using thereof,0,G03B|H04N
+11139874,2021-10-05,Controlling method and communication device for adjusting the state of a plurality of antennas,0,H04B|H04W|Y02D
+11137836,2021-10-05,Electronic device,0,G06F
+11132023,2021-09-28,Casing of electronic device with continuous pattern structures,0,G06F
+11129036,2021-09-21,Method and apparatus for estimating pathloss of PUSCH in a wireless communication system,0,H04B|H04W
+11128798,2021-09-21,Display device and control method thereof,0,H04N
+11120624,2021-09-14,Three-dimensional head portrait generating method and electronic device,0,G06T|G06V
+11115930,2021-09-07,Electronic device and controlling method thereof,0,H04M|H04W|Y02D
+11115856,2021-09-07,Method and apparatus for delivering uplink buffer status report of a relay in a wireless communication system,3,H04L|H04W
+11109399,2021-08-31,Method and apparatus for multi-hop integrated access and backhaul systems,0,H04L|H04W
+11109363,2021-08-31,Method and apparatus for transmitting device-to-device sidelink report in a wireless communication system,7,H04L|H04W
+11109262,2021-08-31,Method and apparatus for servicing QoS (quality of service) flow in a wireless communication system,5,H04L|H04W
+11106266,2021-08-31,Computer system management for selecting a first algorithm based on a third data type and a second algorithm based on a target value,0,G06F|Y02D
+11102836,2021-08-24,Method and apparatus for configuring sidelink communication in a wireless communication system,1,H04W
+11102673,2021-08-24,Method and apparatus for distinguishing transmission feedback mode in sidelink buffer status report in a wireless communication system,0,H04L|H04W
+11102643,2021-08-24,Method and apparatus for determining size of preemption indication in a wireless communication system,5,H04L|H04W
+11100203,2021-08-24,Touchscreen display device with a fingerprint reader,0,G06F|G06V
+11096219,2021-08-17,Method and apparatus for beam indication for data transmission in a wireless communication system,4,H04B|H04L|H04W
+11096016,2021-08-17,Method and apparatus of handling interest indication in a wireless communication system,5,H04L|H04W
+11095352,2021-08-17,Method and apparatus for handling IDC problems in NR in a wireless communication system,6,H04B|H04W
+11092280,2021-08-17,Portable electronic device,0,F16M|G06F
+11089591,2021-08-10,Method and apparatus for slot format determination in a wireless communication system,1,H04L|H04W
+11088723,2021-08-10,Electronic device and near field communication antenna thereof,0,H01Q|H04B|H04M|H04W
+11082954,2021-08-03,Method and apparatus for generating device-to-device sidelink HARQ-ACK in a wireless communication system,11,H04B|H04L|H04W
+11082876,2021-08-03,Method and apparatus of transmitting device-to-device channel measurement in a wireless communication system,3,H04B|H04L|H04W
+11082636,2021-08-03,Electronic device and operating method thereof,0,H04N
+11082116,2021-08-03,Method and apparatus for handling beam failure recovery regarding medium access control reset in a wireless communication system,0,H04W
+11082095,2021-08-03,Method and apparatus for triggering a beam state information report in a wireless communication system,2,H04B|H04W
+11079813,2021-08-03,Computer case,0,G06F
+11079801,2021-08-03,Electronic device with luminous pattern,0,G06F|G09F|H04M
+11073974,2021-07-27,Electronic device and operation method of parameter selection thereof,0,G04G|G06F|H04B
+11071006,2021-07-20,Method and apparatus for requesting sidelink transmission resources in a wireless communication system,1,H04W
+11064434,2021-07-13,Methods for performing communication for a cell,10,H04W|Y02D
+11057999,2021-07-06,Motherboard and memory module,0,G06F|G11C|H01R|H05K
+11057950,2021-07-06,Method and apparatus for sidelink identifier change in a wireless communication system,2,H04L|H04W
+11057870,2021-07-06,Method and apparatus for indicating time gap for device-to-device communication in a wireless communication system,15,H04L|H04W
+11056078,2021-07-06,Multi-screen color correction method and electronic device using the same,0,G06F|G09G
+11054934,2021-07-06,Electronic device,0,G06F
+11042295,2021-06-22,"Control method, electronic device and non-transitory computer readable storage medium",0,G06F
+11032864,2021-06-08,Method and apparatus for handling multiple sidelink communication in a wireless communication system,3,H04W
+11032845,2021-06-08,Method and apparatus for transmitting sidelink measurement report in sidelink in a wireless communication system,1,H04B|H04L|H04W
+11019670,2021-05-25,Method and apparatus for sidelink signaling radio bearer (SRB) establishment in a wireless communication system,2,H04W
+11013008,2021-05-18,Method and apparatus of handling device-to-device resource release in a wireless communication system,0,H04W
+11013006,2021-05-18,Method and apparatus for beam tracking in a wireless communication system,0,H04L|H04W
+11012999,2021-05-18,Method and apparatus for indicating time domain resource allocation of data transmission in a wireless communication system,4,H04L|H04W
+11006441,2021-05-11,Method and apparatus of preventing bandwidth part misalignment in a wireless communication system,3,H04B|H04L|H04W
+11006421,2021-05-11,Method and apparatus for improving beam finding in a wireless communication system,0,H04W
+11005604,2021-05-11,Method and apparatus for handling sidelink reception in a wireless communication system,0,H04L|H04W
+10999885,2021-05-04,Method and apparatus for releasing preconfigured uplink resources (PUR) in a wireless communication system,10,H04W
+10999870,2021-05-04,Method and apparatus for random access configuration in a wireless communication system,13,H04W
+10993251,2021-04-27,Method and apparatus for latency reduction of device-to-device (D2D) message in a wireless communication system,2,H04W
+10993192,2021-04-27,Method and apparatus for triggering power headroom report for beam operation in a wireless communication system,5,H04W
+10993188,2021-04-27,Electronic device and control method thereof,0,G06F|G09G|H04M|H04W|Y02D
+10993141,2021-04-27,Method and apparatus for handling sidelink and uplink HARQ-ACK feedback in a wireless communication system,12,H04L|H04W
+10992439,2021-04-27,Method and apparatus for implementing reference signal transmissions in a wireless communication system,0,H04B|H04J|H04L|H04W|Y02D
+10987198,2021-04-27,Image simulation method for orthodontics and image simulation device thereof,1,A61C|G06T|G06V
+10986585,2021-04-20,Method and apparatus for triggering power headroom report for multiple pathloss reference in a wireless communication system,2,H04B|H04W
+10985885,2021-04-20,Method and apparatus for implementing reference signal transmissions in a wireless communication system,0,H04B|H04J|H04L|H04W|Y02D
+10985605,2021-04-20,Power management circuit and electronic device thereof and power supply method thereof,0,G06F|H02J
+10979545,2021-04-13,Functional assembly and electronic device,0,G06F|H04M
+10972952,2021-04-06,Method and apparatus for PDCCH monitoring in a wireless communication system,0,H04B|H04L|H04W
+10955962,2021-03-23,Electronic device and control method thereof that switches a touch panel between an independent mode and a dual input mode,0,G06F
+10952348,2021-03-16,Heat dissipation device,0,G06F|H05K
+10952231,2021-03-16,Method and apparatus for beam indication for uplink transmission in a wireless communication system,41,H04B|H04L|H04W
+10952230,2021-03-16,Method and apparatus for supporting QOS (quality of service) flow to DRB (data radio bearer) remapping for sidelink communication in a wireless communication system,6,H04W
+10951745,2021-03-16,Method and apparatus for header compression configuration for sidelink radio bearer in a wireless communication system,0,H04L|H04W
+10951383,2021-03-16,Method and apparatus for determining slot configuration in a wireless communication system,19,H04L|H04W
+10951359,2021-03-16,Method and apparatus for providing control resource set configuration in a wireless communication system,6,H04L|H04W
+10949164,2021-03-16,"Volume of sound adjustment method, electronic device thereof and non-transitory computer readable storage medium device thereof",0,G06F|G10L|H03G|H04R
+10945264,2021-03-09,Method and apparatus for applying slot format indication (SFI) to a cell in unlicensed spectrum in a wireless communication system,2,H04L|H04W
+10942553,2021-03-09,Display device,0,G06F|H05K
+10939392,2021-03-02,Method and apparatus for deriving downlink pathloss for device-to-device transmit power control in a wireless communication system,6,H04W
+10931406,2021-02-23,Method and apparatus for handling feedback resource for groupcast in sidelink in a wireless communication system,0,H04B|H04L|H04W
+10931355,2021-02-23,Method and apparatus for QCL association indication for discontinuous transmission indication in a wireless communication system,5,H04B|H04L|H04W
+10927848,2021-02-23,Fan module and electronic device,1,F04D|F05D|G06F|H05K
+10925061,2021-02-16,Method and apparatus for beam detection in a wireless communication system,0,H04W
+10925039,2021-02-16,Method and apparatus for handling retransmission indication for configured grant in sidelink in a wireless communication system,5,H04L|H04W
+10921861,2021-02-16,Electronic device including luminous strip,1,F21S|F21V|F21Y|G06F
+10912070,2021-02-02,Method and apparatus for control channel transmission in a wireless communication system,1,H04B|H04L|H04W

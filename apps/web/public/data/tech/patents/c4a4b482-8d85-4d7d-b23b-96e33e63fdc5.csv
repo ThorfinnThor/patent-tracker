@@ -1,0 +1,403 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12431770,2025-09-30,Power electronics assembly having vertically stacked transistors,0,B60L|H01L|H02K|Y02T
+12428033,2025-09-30,Lane change assist for inexperienced driver,0,B60W|G06F
+12423483,2025-09-23,Method of designing fluid flow field structure for fuel cell bipolar plate,0,G06F|H01M|Y02E
+12420951,2025-09-23,Calibration of aircraft mounted cameras,0,B64D|G03B|G06T|H04N
+12417086,2025-09-16,Data communication with remote operation of a vehicle,0,B60R|G06F
+12406346,2025-09-02,Vehicle assessment systems and methods,0,G06T|G06V
+12405122,2025-09-02,Method and apparatus for determining fueling station wait times,0,B60K|G01C|G06Q|G07C
+12399953,2025-08-26,Systems and methods for sampling signals to derive information at target frequencies above a detectable range,0,B60W|G01S|G06F
+12395411,2025-08-19,Systems and methods for selecting edge nodes for task performance,0,H04L|H04W
+12392890,2025-08-19,Vision system for a vehicle-trailer system,0,B60R|G01S|H04B|H04L
+12389059,2025-08-12,"Apparatus, system, and method for automatically switching to a digital multimedia content provider",0,H04N
+12387994,2025-08-12,Power device embedded printed circuit board assemblies with thin film dielectric layers,0,H01L|H05K
+12387489,2025-08-12,Systems and methods for resource-optimized mixed reality using user-centric adaptive object detection,0,G06F|G06V
+12387223,2025-08-12,"Modules, systems, and methods for incentivizing green driving",0,G06Q|G07C|H04L
+12385700,2025-08-12,3D printed cold plates and methods for cooling power devices embedded in 3D printed circuit boards,0,B33Y|F28F|H01L|H05K
+12379984,2025-08-05,Remaining useful life determination for power electronic devices,0,G06F|G06N
+12371021,2025-07-29,Trailer hitch assist system for a vehicle and associated methods,0,B60D|B60W|G06T
+12367758,2025-07-22,Smart accessory for communicating an intention to cross a street,0,G06F|G08G
+12361450,2025-07-15,Dynamic vehicle tags,0,G06Q
+12361183,2025-07-15,Methods of designing inflatable shape-morphing structures with textured patterns,0,G06F
+12361086,2025-07-15,Methods and systems for spatio-temporal regular expression matching,0,B60W|G06F
+12359931,2025-07-15,Providing information to navigate to a parking space preferred by an operator of a vehicle,0,G01C|G06Q|G06V|G08G
+12358532,2025-07-15,Systems and methods for online monitoring using a neural model by an automated vehicle,0,B60W|G06N
+12358370,2025-07-15,Closed-loop real time SSVEP-based heads-up display to control in vehicle features using deep learning,0,A61B|B60K|G06N
+12346794,2025-07-01,Systems and methods for predicting trajectories of multiple vehicles,0,G01C|G06N|G08G
+12346679,2025-07-01,Systems and methods for updating vehicle software,0,G06F|H04W
+12344241,2025-07-01,Systems and methods for navigating a trailer with a vehicle when a physical connection disconnects,0,B60T|B60W|B62D|G06T
+12339809,2025-06-24,"Methods, systems, and devices for automatically generating, sorting, and storing fueling station data",0,G06F|G07C
+12337867,2025-06-24,Systems and methods for communication-aware federated learning,0,B60W|G06F
+12325370,2025-06-10,Determining an identification of an occupant within a vehicle,0,B60H|B60N|B60R|B62D|G06F|G06V
+12321179,2025-06-03,System and methods for platoon-leader-as-a-service,0,G05D|G06Q|G08G|H04W
+12314993,2025-05-27,Methods and systems for identifying underused properties and utilizing underused properties by leveraging mobile units,0,G01C|G06F|G06Q|G06V|H04W
+12304492,2025-05-20,Geofenced AI controlled vehicle dynamics,0,B60W|G08G|H04L|H04W
+12300653,2025-05-13,Electronics assemblies with power electronic devices and three-dimensionally printed circuit boards having reduced joule heating,0,H01L|H05K
+12284792,2025-04-22,Power electronics assemblies having power electronics devices embedded within a flip chip,0,H01L|H05K
+12277776,2025-04-15,Vehicle communication systems and methods for detecting and capturing relevant object data,0,B60W|G06F|G06V|G07C
+12258045,2025-03-25,Systems and methods for vehicular-network-assisted federated machine learning,0,B60W|G01C|G06F|G06N|G06V|H04W
+12249554,2025-03-11,Power electronic device assemblies having an electrically insulating S-cell,0,H01L
+12249193,2025-03-11,Partial sensor data sharing for connected vehicles,0,G07C|G08G|H04L|H04W
+12243422,2025-03-04,Hierarchical transfer learning system,0,G06N|G08G
+12238906,2025-02-25,Power electronic device assemblies having heat spreaders and electrically insulating layer,0,H01L|H02M|H05K
+12233858,2025-02-25,Trailer monitoring system,0,B60Q|B60W|G06T|G06V|H04N
+12230129,2025-02-18,Monitoring a traffic condition of stopped or slow moving vehicles,0,G08G|H04W
+12223742,2025-02-11,Systems and methods for determining operating criteria for performing vehicular tasks,0,B60W|G06F|G06V|G08G
+12212954,2025-01-28,Systems and methods for maintaining a service session in an automotive edge computing environment,0,H04W
+12211282,2025-01-28,Dynamic scene reconstruction using neural radiance field technology,0,G06T|G06V
+12208448,2025-01-28,Transient liquid phase bonding compositions and power electronics assemblies incorporating the same,0,B22F|B23K|C08K|C22C|C23C|H01L
+12207450,2025-01-21,Cold plates incorporating reactive multilayer systems and S-cells,0,H01L|H05K
+12204340,2025-01-21,"Systems and methods for obstacle detection using a neural network model, depth maps, and segmentation maps",0,B60W|G05D|G06N|G06T|G06V
+12193044,2025-01-07,Resource selection for 5G NR V2X communications,0,H04B|H04W
+12190610,2025-01-07,Application for the identification of vehicle features,0,B60R|G06Q|G06V|G07C|H04N
+12187279,2025-01-07,Method and system for personalized car following with transformers and RNNs,0,B60W|G06N
+12187269,2025-01-07,Optical sense-compute solution for real-time navigation involving multiple vehicles,0,B60W|G01C|G06N|G08G
+12185511,2024-12-31,Power electronics systems comprising a two-phase cold plate housing a vaporization structure,0,F28D|F28F|H01L|H05K
+12183203,2024-12-31,Knowledge transfer for early unsafe driving behavior recognition,0,B60W|G08G|H04W
+12172668,2024-12-24,Vehicles and methods for sharing sensor data based on criticality,0,B60W|G07C|H04W
+12169775,2024-12-17,Methods and systems for enhanced scene perception using vehicle platoon,0,G05D|G06F|G06N|G06V|G08G|H04L|H04W
+12167906,2024-12-17,Emotion-aware smart refrigerator,0,A61B|F25D|G06F
+12165954,2024-12-10,Cold plates incorporating S-cells,0,H01L|H05K
+12165174,2024-12-10,Systems and methods for dynamic road sign personalization,0,B60W|G06Q
+12164594,2024-12-10,Systems and methods for scheduling environment perception-based data offloading for numerous connected vehicles,0,B60W|G01C|G06F|G06V|H04L|H04W
+12157485,2024-12-03,Truck bed hauling warning system for shifting loads,1,B60W|G06T|G06V
+12156344,2024-11-26,Systems and methods of 3D-printing a circuit board on a heat sink assembly having power devices bonded thereto,0,B33Y|H01L|H05K
+12144158,2024-11-12,Power electronics assemblies having embedded power electronics devices,0,H01L|H05K
+12142141,2024-11-12,Systems and methods for coordinated vehicle lane assignment using reinforcement learning,0,B60W|G05B|G06N|G08G|H04W
+12141353,2024-11-12,Systems and methods for displaying dynamic closed-captioning content,0,G06F|G09G
+12135152,2024-11-05,"Evaporator assemblies, vapor chambers, and methods for fabricating vapor chambers",0,B23P|B33Y|F25B|F28D|F28F|H01L
+12127157,2024-10-22,"Methods, systems, and non-transitory mediums for augmented fine time measurement",0,H04W
+12122352,2024-10-22,Systems and methods for more accurately adjusting traffic predictions for the intended use of optimizing battery pre-charging,0,B60L|B60W|G01C|G06Q|G08G|Y02T
+12120180,2024-10-15,Determining an existence of a change in a region,0,B60K|G01C|G07C|G08G|H04L
+12118884,2024-10-15,Cooperative artificial intelligent assisted driving,0,G06N|G08G|H04W
+12118880,2024-10-15,Systems and methods for coordinated vehicle lane assignment,0,B60W|G05B|G06N|G08G|H04W
+12112624,2024-10-08,Systems and methods for traffic-flow regulation via centralized lateral flow control,0,B60W|G05B|G06N|G08G|H04W
+12111492,2024-10-08,Adaptable optical neural network system,0,G02B|G06F|G06N|G06V
+12108563,2024-10-01,Power electronics assemblies having embedded power electronics devices,0,H01L|H05K
+12101745,2024-09-24,Exploiting a non-transmission-designated interval in a cycle of a protocol,0,H04L|H04W
+12101578,2024-09-24,Context-aware large scale surrounding view with RSU assist,0,G01C|G08G|H04L|H04N|H04W
+12100220,2024-09-24,Cooperative pseudo point cloud for connected vehicles,0,B60W|G06F|G06V|H04W
+12099082,2024-09-24,Systems and methods for conducting vehicle oscillator testing,0,B60R|G01R|G07C|H04W
+12096596,2024-09-17,Power electronics device assemblies including dual graphite layers and cold plates incorporating the same,0,H01L|H05K
+12094273,2024-09-17,Systems and methods to improve the performance of anomaly detection,0,B60W|G06F|G06N|G07C
+12093519,2024-09-17,Systems and methods for producing stimuli in a visual interface using modulation,0,G06F
+12080080,2024-09-03,"Detection, classification, and prediction of bacteria colony growth in vehicle passenger cabin",0,G06F|G06N|G06V|G08B
+12079702,2024-09-03,Driving automation device to mitigate the risk of other road users,0,B60W|G06N|G08G
+12079616,2024-09-03,Real-time modifications for vehicles,1,G06F|H04L
+12073332,2024-08-27,Rest stop recommendation system,0,B60W|G01C|G06N|G06Q|G16H
+12071141,2024-08-27,Systems and methods for predicting driver visual impairment with artificial intelligence,0,B60W|G06N|G06V
+12067034,2024-08-20,System for managing database having records with varying number of fields,0,G06F
+12064708,2024-08-20,Systems and methods for additive manufacturing of wick structure for vapor chamber,0,A61L|B01B|B22F|B33Y|F28F|G06F|H05K|Y02P
+12062820,2024-08-13,Inverse design of fuel cell bipolar plate flow fields through anisotropic porous media optimization,0,G06F|H01M|Y02E
+12062593,2024-08-13,Power device assemblies and cooling devices for cooling heat-generating devices,0,H01L|H02M
+12062282,2024-08-13,Systems and methods for matching objects in collaborative perception messages using multiple adaptive thresholds,0,G08G|H04W
+12047833,2024-07-23,Method and system for connection handover from telepresence robot to mobile office,0,B25J|G05B|G06K|H04L|H04W
+12045761,2024-07-23,Systems and methods for delivering items to moving vehicles,0,B60W|B64C|B64U|G01C|G05D|G06Q|G08G|H04W
+12045546,2024-07-23,Orientation optimization in components fabricated with anisotropic material properties,0,G06F|Y02P
+12041171,2024-07-16,Over-the-air vehicle systems updating and associated security protocols,0,G01C|H04L|H04W
+12039861,2024-07-16,Systems and methods for analyzing the in-lane driving behavior of a road agent external to a vehicle,0,G06N|G06T|G06V|G08G
+12039100,2024-07-16,Hybrid interface for simultaneous biosensing and user input,0,A61B|B25J|G06F
+12038297,2024-07-16,Remote control of vehicle via smartphone and gesture input,1,B60K|G01C|G05D|G06F|G06V|H04W
+12036987,2024-07-16,Student-T process personalized adaptive cruise control,0,B60W|G05B|G06Q|G07C
+12032770,2024-07-09,Haptic array device and control of focus point height and focus point direction,0,B60K|G06F
+12026644,2024-07-02,Machine-learning-based adaptive threads orchestrator design in the MFG-based data offloading mechanism,0,G06F|G06N|G06Q|H04L
+12024154,2024-07-02,Remotely control in-cabin features,0,B60H|B60K|B60R|B60W|G01C|G06F|G07C|H04W
+12024041,2024-07-02,V2V charge mapping,0,B25J|B60L|B60W|G01C|G05B|G05D|G06Q|G07F|Y02T
+12023132,2024-07-02,Systems and methods for remote vital sign monitoring in a vehicle,0,A61B|B60R|G06N|G16H
+12018959,2024-06-25,Systems and methods of cooperative depth completion with sensor data sharing,0,G01C|G01S|G06F|G06T|G06V
+12014520,2024-06-18,Systems and methods for detecting objects within an image in a wide-view format,0,G01C|G06F|G06N|G06T|G06V
+12014510,2024-06-18,Systems and methods for an improved camera system using filters for depth estimation of grayscale images,0,G06T|H04N
+12014507,2024-06-18,Systems and methods for training a prediction system,0,G06N|G06T
+12003367,2024-06-04,Systems and methods for fast vehicular micro cloud formation,0,G08G|H04L
+11997838,2024-05-28,Power device assemblies and methods of fabricating the same,0,H01L|H05K
+11994398,2024-05-28,Smart placement of mobility as a service (MAAS) transit vehicles,0,G01C|G06Q|G08G
+11993283,2024-05-28,System and method for performing graph imputation,0,B60W|G06F|G06N|G06V
+11993146,2024-05-28,Deformable user input systems,0,B60K|B60N|G06F
+11989796,2024-05-21,Parking seeker detection system and method for updating parking spot database using same,0,G06Q|G07B|G08G
+11983425,2024-05-14,Vehicular communications redundant data identification and removal,0,G06F|H04L|H04W|Y02D
+11975609,2024-05-07,Systems and methods for selective steering wheel transparency and control of the same,1,B60K|G06F|G09G
+11964611,2024-04-23,Autonomous cabin lighting systems for vehicles,0,B60Q|H04W
+11962472,2024-04-16,Systems and methods to form remote vehicular micro clouds,0,G08G|H04L
+11952011,2024-04-09,Devices and methods for digitally combining multiple access keys and locations,0,B60W|G07C|H04W
+11948453,2024-04-02,Vehicle communication sender identification via hyper-graph matching,0,G08G|H04W
+11948227,2024-04-02,Eliminating the appearance of vehicles and/or other objects when operating an autonomous vehicle,0,B60K|B60R|G02B|G06F|G06T|G06V|G09G
+11945404,2024-04-02,Tracking and video information for detecting vehicle break-in,0,B60R|G01S|G06F|G08B|H04L|H04W
+11943760,2024-03-26,Deep cooperative feature sharing among connected vehicles,0,H04W
+11941081,2024-03-26,Systems and methods for training a style model,0,G06F|G06N|G06V
+11940417,2024-03-26,Systems and methods for machine learning based flexural wave absorber,0,G01N|G06N
+11935310,2024-03-19,Systems and methods to regulate joining and leaving a vehicular micro cloud,0,G06V|G08G|H04W
+11935254,2024-03-19,Systems and methods for predicting depth using style transfer,0,G06N|G06T|G06V
+11935093,2024-03-19,Dynamic vehicle tags,1,G06Q
+11934576,2024-03-19,"Methods, systems, and non-transitory computer-readable mediums for SSVEP detection optimization",0,B60K|G06F
+11932114,2024-03-19,Power electronics assembly having staggered and diagonally arranged transistors,0,B60L|H01L|H02M|Y02T
+11928967,2024-03-12,System and method of using a vehicle as a backup roadside unit (RSU),1,G01C|G08G|H04W
+11928396,2024-03-12,Method for quantifying visual differences in automotive aerodynamic simulations,0,G06F
+11924860,2024-03-05,Systems and methods for offloading computing tasks from vehicles using characteristics,0,H04L|H04W
+11920877,2024-03-05,3D printed cold plates and methods for cooling power devices embedded in 3D printed circuit boards,1,B33Y|F28F|H01L|H05K
+11915202,2024-02-27,Remote meeting and calendar support for the in-vehicle infotainment unit,0,G06Q|H04M
+11904866,2024-02-20,Systems and methods for brain-machine interfaces and EEG-based driver identification,0,B60K|B60R|B60W|G06F|G07C
+11904855,2024-02-20,Cooperative driving system and method,0,B60W|G01C|G08G|H04W
+11902611,2024-02-13,Method and system for edge server selection for in-vehicle media content distribution with deep reinforcement learning,0,G06N|H04N|H04W
+11889666,2024-01-30,Power device assemblies having embedded PCBs and methods of fabricating the same,0,H01L|H05K
+11886199,2024-01-30,Multi-scale driving environment prediction with hierarchical spatial temporal attention,1,G05D|G06F|G06V|G08G|H04W
+11884206,2024-01-30,Collaborative support for obstructed line of sight scenarios,0,B60Q|B60W|G08G|H04W
+11881107,2024-01-23,Systems and methods for inferring parking departures,0,G06N|G06V|G08G|H04L|H04W
+11880428,2024-01-23,Methods and systems for updating perception models based on geolocation features,0,G06F|G06V
+11879686,2024-01-23,Cooling systems comprising passively and actively expandable vapor chambers for cooling power semiconductor devices,0,F28B|F28D|F28F|H01L
+11875091,2024-01-16,Method for data-driven comparison of aerodynamic simulations,0,G01M|G06F|G06T|G07C|Y02T
+11871228,2024-01-09,System and method of manufacturer-approved access to vehicle sensor data by mobile application,0,B60W|G01C|G06F|H04W
+11870968,2024-01-09,Systems and methods for an improved camera system using filters and machine learning to estimate depth,0,G06V|H04N
+11869760,2024-01-09,Power electronic device assemblies having an electrically insulating layer,1,H01L|H05K
+11868755,2024-01-09,Updating software installed on an electronic unit on a vehicle,1,G06F
+11860052,2024-01-02,Pressure distribution and localization detection methods and apparatuses incorporating the same,0,G01L|G05B|G06F
+11856453,2023-12-26,Systems and methods for context-based representation of sensor sharing messages,0,H04L|H04W
+11852496,2023-12-26,Predictable and delay tolerant traffic management system,0,B60W|G01C|G08G|H04W
+11849539,2023-12-19,Embedded cooling systems utilizing heat pipes,0,F28D|H01H|H01L|H05K
+11840250,2023-12-12,Methods and systems for informing drivers of vehicle operating functions,0,B60K|B60W|G06V|H04L
+11840161,2023-12-12,Seat blocking system and method,6,B60N|G06Q
+11836814,2023-12-05,Hydrogen sharing network,0,B60L|B60S|C25B|G01C|G06Q|H01M|H02J|H04L
+11829133,2023-11-28,Distance based vehicle remote control systems and methods for using same,0,B60Q|B60R|G01S|G05D|G08C|H04L|H04N|H04W
+11827245,2023-11-28,Systems and methods for estimating motion of an automated vehicle for cooperative driving,0,B60W|H04L
+11818234,2023-11-14,Methods and systems for transmitting messages using communication protocols specific to data formats of these messages,0,H04L
+11807188,2023-11-07,Methods and systems for controlling image capture sessions with external devices,0,B60Q|B60R|G06V|G08B|H04N
+11804132,2023-10-31,Systems and methods for displaying bird's eye view of a roadway,0,B60K|G01C|G06F|G06T|G08G|G09G|H04N
+11802739,2023-10-31,Cooling assemblies having channels to supply fluid to wick structures,1,F28D|H01L|H05K
+11798115,2023-10-24,Vehicle cargo transportation system,0,G06Q|G06T|G06V|G07C
+11796345,2023-10-24,Method and system for optimized notification of detected event on vehicles,0,B60W|G01C|H04W
+11783592,2023-10-10,Sequence recognition from video images,1,E05F|E05Y|G06T|G06V
+11778780,2023-10-03,Cooling assemblies and methods,0,F28D|G05B|H01L|H05K
+11776875,2023-10-03,Systems including a vapor chamber as the heat spreading substrate of a power device embedded in a PCB and methods of forming the same,2,H01L|H05K
+11776385,2023-10-03,Mobility unit security system,0,B60Q|G08B|H04W
+11776064,2023-10-03,Driver classification systems and methods for obtaining an insurance rate for a vehicle,0,G06N|G06Q|G07C
+11775846,2023-10-03,System and method for determining variations in estimated vehicle range,0,B60W|G06N|G06V|G07C
+11772587,2023-10-03,Vehicles with one or more programmable connection ports,0,B60N|B60R|B62D|G01K|G06F
+11768536,2023-09-26,Systems and methods for user interaction based vehicle feature control,1,B60K|G05B|G06F
+11765562,2023-09-19,Systems and methods for matching objects in collaborative perception messages,0,H04W
+11765561,2023-09-19,Methods and systems for providing wireless connectivity in exchange for warranty compliance monitoring using roaming anchor vehicles,1,G07C|H04W
+11763673,2023-09-19,Methods and systems for controlling occupation of geographic spaces using software applications,0,G06Q|G08G
+11763497,2023-09-19,Methods and systems for generating simulated datasets for fisheye camera applications,0,G06T
+11762648,2023-09-19,Systems and methods of coordinating application versions among connected vehicles,0,B60W|G06F|G08G|H04W
+11756345,2023-09-12,Partial sensor data sharing for connected vehicles,0,G07C|G08G|H04L|H04W
+11756311,2023-09-12,Parking spot and person detection,0,G05D|G06F|G06T|G06V|G08G|H04N
+11754343,2023-09-12,Phase change heat-storing mechanisms for substrates of electronic assemblies,0,C09K|F28D|F28F|H01L|Y02E
+11749632,2023-09-05,Glass-based bonding structures for power electronics,0,H01L
+11748781,2023-09-05,"Methods, systems, and vehicles for route modification and displaying contents",0,G01C|G06Q
+11742267,2023-08-29,Power electronics assembly having flipped chip transistors,0,H01L
+11741836,2023-08-29,Methods and systems for performing correlation-based parking availability estimation,0,G06F|G06N|G06Q|G08G
+11729951,2023-08-15,Heat flux micro coolers having multi-stepped features and fluid wicking,0,G06F|H01L|H05K
+11729123,2023-08-15,Systems and methods for sending content,0,H04L
+11728241,2023-08-15,Power device embedded driver board assemblies with cooling structures and methods thereof,0,H01L
+11724697,2023-08-15,Geofenced AI controlled vehicle dynamics,0,B60W|G08G|H04L|H04W
+11722705,2023-08-08,Camera support by a vehicular micro cloud for remote driving,0,B60R|G06T|H04N|H04W
+11721608,2023-08-08,Power electronics assemblies having vapor chambers with integrated pedestals,0,H01L|H05K
+11706754,2023-07-18,Methods and systems for scheduling mmWave communications among connected vehicles,0,H04W
+11704590,2023-07-18,Methods and systems for predicting failure of a power control unit of a vehicle,0,B60W|B60Y|G05B|G06N|Y10S
+11700357,2023-07-11,Connected camera system for vehicles,0,B60R|B60W|G06V|H04N|H04W
+11688266,2023-06-27,"Health advisory alert systems, mobile computing units having the same, and health advisory alert methods",1,A61B|B60Q|G08B|H04L|H04W
+11688208,2023-06-27,Systems and methods for improving task offload scheduling in an edge-computing environment,0,B60W|G06F|G07C
+11688184,2023-06-27,Driving automation external communication location change,3,B60Q|B60W|G05D|G06F|G06T|G06V|G08G
+11679768,2023-06-20,Systems and methods for vehicle lane estimation,0,B60W|G05D|G06T|G06V
+11675436,2023-06-13,Hybrid interface for simultaneous biosensing and user input,0,A61B|B25J|G06F
+11670169,2023-06-06,Systems and methods for distributed cooperative localization in a connected vehicular platform,1,G01S|G08G|H04Q|H04W
+11663730,2023-05-30,Systems and methods for an improved camera system using a graded lens and filters to estimate depth,0,G02B|G06T|H04N
+11663548,2023-05-30,System and method for rapid defect entry,0,G06F|G06Q|G07C|H04W|Y02P
+11661077,2023-05-30,Method and system for on-demand roadside AI service,0,B60W|G06F|G06V|H04W
+11659697,2023-05-23,Power electronics assembly having a gate drive device disposed between a plurality of transistors,0,B60L|H01L|H01R|H02M|H05K
+11659360,2023-05-23,System and method for implementing peer-to-peer wireless groups for vehicular micro clouds,0,H04W
+11659331,2023-05-23,Systems and methods for audio balance adjustment,0,H04R|H04S|H04W
+11659028,2023-05-23,Data offloading rate determination using mean field games,0,H04L|H04W
+11656337,2023-05-23,Photonic apparatus integrating optical sensing and optical processing components,1,G01C|G01S|G06N|G06V
+11654921,2023-05-23,Systems and methods for limiting driver distraction,1,B60W|G06V|H04N
+11653173,2023-05-16,Electronic device monitoring system,0,B60K|B60Q|B60R|G06F|H04W
+11647612,2023-05-09,High-density integrated power electronic assembly including double-sided cooling structure,0,H01L|H02M|H05K
+11645855,2023-05-09,Camera system to monitor the passengers in a vehicle and detect passenger activities,0,B60K|B60R|G01C|G06F|G06V|G09G|H04N
+11643082,2023-05-09,Systems and methods for determining real-time lane level snow accumulation,0,B60W|G06N|G06V
+11640675,2023-05-02,Methods and systems for interpreting traffic scenes,0,B60R|B60W|G06F|G06N|G06T|G06V|G08G
+11638359,2023-04-25,Low profile power module package,0,H01L|H02M|H05K
+11638131,2023-04-25,Dynamic adjustment of vehicular micro cloud properties,0,H04W
+11636491,2023-04-25,Hydrogen fueling station communication,0,F15B|F17C|G06Q|G07C|G07F|H04L|Y02E
+11631327,2023-04-18,Systems and methods for learning driver parking preferences and generating parking recommendations,2,G06N|G08G
+11631324,2023-04-18,Systems and methods for collaborative intersection management,0,B60W|G08G|H04W
+11627914,2023-04-18,Pressure management methods for determining non-inclusive forces and apparatuses incorporating the same,0,A61B|G01L|G06F
+11625937,2023-04-11,Methods and systems for monitoring human body weight with vehicle sensors and big data AI analytics,0,B60N|B60R|B60W|G01G|G06F|G06V|G16H|H04L
+11623653,2023-04-11,Augmented reality assisted traffic infrastructure visualization,2,B60W|G01C|G06V|H04W
+11614962,2023-03-28,Scheduling vehicle task offloading and triggering a backoff period,3,G06F|G06N|H04L
+11603101,2023-03-14,Systems and methods for vehicles resolving a standoff,0,B60W|G06N
+11602044,2023-03-07,Driver board assemblies and methods of forming the same,2,H01L|H02M|H05K
+11599767,2023-03-07,Automotive virtual personal assistant,0,G06F|G06N|G06Q|G06V|H04L
+11589803,2023-02-28,Methods and systems for improving human facial skin conditions by leveraging vehicle cameras and skin data AI analytics,0,A61B|B60R|G06T
+11585667,2023-02-21,Systems and methods for simulating edge-computing deployment in diverse terrains,0,G01C|G06F|G06T|G07C|G08G
+11582866,2023-02-14,Systems including a power device-embedded PCB directly joined with a cooling assembly and method of forming the same,0,H01L|H05K
+11573877,2023-02-07,Distributed architecture for fault monitoring,0,G06F|G06N|H04W|Y02D
+11568566,2023-01-31,Aligning vision-assist device cameras based on physical characteristics of a user,0,A61H|G06T|H04N
+11568102,2023-01-31,Systems and methods for optimizing battery designs in multiple dimensions,0,G06F|H01M|Y02E|Y02P
+11567495,2023-01-31,Methods and systems for selecting machine learning models to predict distributed computing resources,0,B60W|G05D|G06F|G06N|H04L
+11556175,2023-01-17,Hands-free vehicle sensing and applications as well as supervised driving system using brainwave activity,1,B60K|G06F
+11552308,2023-01-10,Methods for making tailored permeability fuel cell bipolar plates,0,B22F|B33Y|C25D|G06F|H01M|Y02E|Y02P
+11550385,2023-01-10,Dynamically deformable surfaces to analyze user conditions using biodata,1,A61B|B60K|B60Q|B60R|G06F
+11548515,2023-01-10,Systems and methods for managing driver habits,0,B60W|G06N|G06Q
+11545874,2023-01-03,Thermal management assemblies for electronic assemblies circumferentially mounted around a motor using a flexible substrate,0,H01L|H02K|H05K
+11538739,2022-12-27,Compact low inductance chip-on-chip power card,0,H01L|H05K
+11538218,2022-12-27,System and method for three-dimensional reproduction of an off-road vehicle,0,G01C|G06T
+11536581,2022-12-27,Methods and systems for determining a usage preference of a vehicle operator,0,G01C|G05D|H04W
+11535267,2022-12-27,"User alert systems, apparatus, and related methods for use with vehicles",0,B60W|H04L|H04W
+11527458,2022-12-13,"Power electronics assemblies with CIO bonding layers and double sided cooling, and vehicles incorporating the same",0,B81B|B81C|F28F|H01L
+11513603,2022-11-29,System and method for interpreting gestures,0,B60K|B60W|G01S|G06F|G06V
+11513518,2022-11-29,Avoidance of obscured roadway obstacles,1,B60W|G05D|G06N|G06V|G08G
+11513266,2022-11-29,Systems and methods for an improved camera system using directional optics to estimate depth,0,G01B|G02B|G06T|H04N
+11508641,2022-11-22,Thermally conductive and electrically insulative material,0,B22F|C22C|F28F|H01L|H05K
+11507186,2022-11-22,Liquid crystal elastomer-based touchpad systems and methods with rich haptic feedback for precision operation,0,B60K|G06F
+11505181,2022-11-22,"System, method, and computer-readable storage medium for vehicle collision avoidance on the highway",2,B60W|G01C|G05D|G06F|G06V
+11505077,2022-11-22,Systems and methods for wireless vehicle power transfer and misalignment estimation,0,B60G|B60L|G06N|H02J|Y02T
+11501032,2022-11-15,Surface developability constraint for density-based topology optimization,2,G06F|G06T
+11500392,2022-11-15,Selective digital key,0,G05D|G06Q|G08C|G08G|H04W
+11498483,2022-11-15,Methods and systems for monitoring a bed view for a vehicle,0,B60R|H04N
+11498377,2022-11-15,Systems and methods for determining an identity of a trailer,0,B60D|B60R|G06T|G06V
+11487300,2022-11-01,Home improvement store autonomous workhorse,0,B65G|G05D|G06Q|Y02T
+11483951,2022-10-25,Systems and methods of forming power electronic assemblies with cooling channels and integrated electrodes,0,C25D|H01B|H01L|H05K
+11482132,2022-10-25,Devices and methods for providing tactile feedback,0,G06F|G06V|G09B
+11481695,2022-10-25,Transportation device sharing system,1,B60L|G06Q|G07B|G07C|G08G|Y02T
+11468688,2022-10-11,Vehicle sensor data sharing,1,G06F|G06T|G06V
+11467575,2022-10-11,Systems and methods for safety-aware training of AI-based control systems,0,G05D|G06N
+11462113,2022-10-04,Vehicle automation-connected pedestrian risk assessment device,1,B60Q|G08G|H04W
+11458996,2022-10-04,Systems and methods to enable reciprocation in vehicular micro cloud,0,B60W|G06F|G06Q|G08G|H04W
+11457544,2022-09-27,Power electronics systems comprising a two phase cold plate having an outer enclosure and an inner enclosure,0,F28D|F28F|H01L|H05K
+11455438,2022-09-27,Methods for topology optimization using a membership variable,0,G06F
+11447140,2022-09-20,Cognitive tunneling mitigation device for driving,1,B60W|G06N|G06V
+11443636,2022-09-13,Systems and methods of platoon leadership as a service,0,G01C|G06F|G08G|H04W
+11443413,2022-09-13,Vehicle camera system for outside view and trailer aid,1,B60R|G06T
+11443131,2022-09-13,Systems and methods for creating a parking map,0,G06F|G06V
+11439136,2022-09-13,Automated pest warning and eradication system,0,A01M|G06N|G07C
+11433924,2022-09-06,System and method for controlling one or more vehicles with one or more controlled vehicles,2,B60W|G06N|G08G
+11433923,2022-09-06,Systems and methods for long-term prediction of lane change maneuver,2,B60W|G06N
+11427215,2022-08-30,Systems and methods for generating a task offloading strategy for a vehicular edge-computing environment,3,B60W|G01C|G06F|G06N|H04L|H04W
+11418597,2022-08-16,System and method for value-anticipating task offloading,2,B60W|G06F|G06N|G06V|H04L
+11415370,2022-08-16,Cooling systems comprising passively and actively expandable vapor chambers for cooling power semiconductor devices,0,F28B|F28D|F28F|H01L
+11412357,2022-08-09,System and method for providing services to vehicles,0,G06F|G08G|H04L|H04W
+11410548,2022-08-09,Systems and methods of creating and utilizing dependent vehicular micro clouds,0,G01C|G08G|H04W
+11408745,2022-08-09,Methods and systems for identifying safe parking spaces,0,G01C|G06F|G06V|G08G|H04W
+11407432,2022-08-09,Connectivity-enabled traffic-aware supplemental sensor control for informed driving,1,B60W|G01C|G06F|G06V
+11404351,2022-08-02,Chip-on-chip power card with embedded direct liquid cooling,0,H01L|H05K|H10H
+11403947,2022-08-02,Systems and methods for identifying available parking spaces using connected vehicles,1,G01C|G06F|G06V|G08G
+11403940,2022-08-02,Methods and systems for installing a structure using moveable objects,1,E01F|G05D|G08G|H04L
+11399270,2022-07-26,Emergency identification based on communications and reliability weightings associated with mobility-as-a-service devices and internet-of-things devices,0,H04W
+11398156,2022-07-26,Ramp merging assistance,1,G08G|H04W
+11388627,2022-07-12,Vehicular micro cloud transmission control protocol,0,H04L|H04W
+11387165,2022-07-12,Multi-layer cooling structure including through-silicon vias through a plurality of directly-bonded substrates and methods of making the same,0,H01L
+11386544,2022-07-12,Visualizing and modeling thermomechanical stress using photoluminescence,0,C09K|G01L|G01R|G06T|H01L
+11385058,2022-07-12,"Systems, vehicles, and methods for detecting and mapping off-road obstacles",2,G01C|G08G|H04L
+11380604,2022-07-05,Methods of forming electronic assemblies with textured surfaces using low current density electroplating,0,F28D|F28F|H01L
+11373470,2022-06-28,Systems and methods for unlocking a digital lock,2,G07C|H04L
+11373420,2022-06-28,Methods and systems for improving human hair and scalp using vehicle cameras and big data AI analytics,1,A61Q|B60W|G06F|G06V|H04L
+11371903,2022-06-28,Pressure detection and management methods for determining a resultant force and apparatus incorporating the same,2,G01L|G06F|G06N
+11364857,2022-06-21,Modular interior vehicle electronics system,0,B60K|B60R|G06F
+11353861,2022-06-07,Autoencoder utilizing vehicle contextual information,1,G05B|G06F|G06N
+11351932,2022-06-07,Vehicles and methods for generating and displaying composite images,0,B60R|H04N
+11341781,2022-05-24,Vehicular communications through identifiers and online systems,1,G05D|G07C|G08G|H04L|H04W
+11340956,2022-05-24,Systems and methods for dynamic prediction and optimization of edge server scheduling,2,G06F|G06N|H04L
+11340884,2022-05-24,Systems and methods for distributing updates,0,G01C|G05D|G06F|G06Q|H04L|H04W
+11335132,2022-05-17,Partial sensor data sharing for connected vehicles,1,G07C|G08G|H04L|H04W
+11328980,2022-05-10,Automotive power devices on direct bond copper embedded in PCB driver boards,0,H01L|H05K
+11328602,2022-05-10,System and method for navigation with external display,2,B60R|B60W|G05D|G06F|G06T|G06V|G08G
+11323858,2022-05-03,Position delegation for improved vehicular cloud operation,1,G05D|H04W
+11319639,2022-05-03,Methods for forming a flat surface MIO structure,0,C25D|H01L
+11315421,2022-04-26,Systems and methods for providing driving recommendations,3,B60W|G06N|G08G
+11314893,2022-04-26,Systems and methods for securing personally identifiable information within telematics data,1,G06F|H04L|H04W
+11312416,2022-04-26,Three-dimensional vehicle path guidelines,0,B60R|B62D|G06F
+11309230,2022-04-19,Power electronic modules including one or more layers including a polymer produced via a frontal ring-opening polymerization process,0,H01L
+11297161,2022-04-05,Systems and methods for managing an automotive edge computing environment,2,G06F|H04L
+11293981,2022-04-05,Systems and methods for false-positive reduction in power electronic device evaluation,0,G01R|G06N
+11292489,2022-04-05,Systems and methods for information aggregation and event management in a vehicle,3,B60K|B60W|G06F|G06N
+11287895,2022-03-29,System for remote vehicle door and window opening,0,B60R|E05F|E05Y|G06F
+11285896,2022-03-29,System and method for vehicle sharing,5,B60Q|B60R|B60W|G01C|G06Q
+11283228,2022-03-22,Universal adapter for sensors,0,B60R|G06F|H01R
+11282388,2022-03-22,Edge-assisted alert system,1,G07C|G08G|H04W
+11279361,2022-03-22,Efficiency improvement for machine learning of vehicle control using traffic state estimation,1,B60W|G05D|G06N|G08G|H04W
+11272143,2022-03-08,"Optically verified weather condition detection systems, methods and vehicles including same",0,G01S|G01W|G08G|H04N|Y02A
+11271222,2022-03-08,Fuel cell bipolar plates with flow uniformity,6,G06F|H01M|Y02E|Y02P
+11270118,2022-03-08,Creating a valuable video clip using metadata flagging,1,G06F|G06V
+11263887,2022-03-01,"Health advisory alert systems, mobile computing units having the same, and health advisory alert methods",2,A61B|B60Q|G08B|H04L|H04W
+11263366,2022-03-01,Methods and systems for improving an interior design of a vehicle under development,0,G06F|G06Q
+11256937,2022-02-22,Anomalous event detection and/or validation using inherent human behavior,1,G06F|G06V|H04W
+11248925,2022-02-15,Augmented road line detection and display system,9,B60R|G01C|G06T|G06V
+11248857,2022-02-15,Self-assembled or reconfigurable structures for heat flow control devices,0,F03G|F28F|H01F|H01L|H02S|H10N|Y02E
+11247688,2022-02-15,Driver swapping,4,B60W|G01C|G01S|G06Q|G07C|G08G|H04L
+11241721,2022-02-08,Sensor cleaning system and sensor cleaning method for vehicle,3,B08B|B60S|G06T
+11240364,2022-02-01,Vehicle human-machine interface (HMI) device operation of a handheld mobile device,0,G05B|H04L|H04M|H04W
+11239137,2022-02-01,Power device embedded driver board assemblies with cooling structures and methods thereof,3,H01L
+11238729,2022-02-01,Systems and methods for traffic flow prediction,1,G06N|G08G
+11235776,2022-02-01,Systems and methods for controlling a vehicle based on driver engagement,1,B60W|G05D|G06F|G06V
+11235734,2022-02-01,Proximity based vehicle security system,0,B60R|G08B|H04N|H04W
+11233588,2022-01-25,"Devices, systems and methods for determining a proximity of a peripheral BLE device",0,H04B|H04W
+11227821,2022-01-18,Chip-on-chip power card with embedded thermal conductor,1,F28D|H01L
+11225266,2022-01-18,Systems and methods for improving visual scanning behavior associated with controlling a vehicle,3,B60K|B60W|G05D|G06F|G06T
+11223928,2022-01-11,Unsecured object detection and alert,1,H04W
+11222215,2022-01-11,Identifying a specific object in a two-dimensional image of objects,0,B60K|G01S|G06F|G06T|G06V|G08G|H04N
+11210957,2021-12-28,Systems and methods for generating views of unmanned aerial vehicles,0,B64U|G08G|H04N
+11210949,2021-12-28,Meter time notification of other vehicles to driver,0,G08G|H04W
+11208054,2021-12-28,Quick release rear view camera system,0,B60R|B62D|H04N
+11200476,2021-12-14,Cargo tracking systems and methods,2,G06K|G06Q
+11189163,2021-11-30,Systems and methods for infrastructure improvements,0,B60W|E01C|G06Q|G08G
+11183082,2021-11-23,Systems and methods for sharing driver coaching data,1,B60W|G09B|H04W|Y02D
+11182652,2021-11-23,Methods and system for inferring perception based on augmented feature maps of a perception network,1,G06F|G06N|G06V|G08G|H04L|H04W
+11180090,2021-11-23,Apparatus and method for camera view selection/suggestion,1,B60R|H04N
+11176647,2021-11-16,Image and object detection enhancement based on lighting profiles,2,G06T|G06V
+11173837,2021-11-16,Systems and methods for optically cloaking objects using a photophoretic optical trap display,0,B60R|B62D|G02F|H04N
+11169899,2021-11-09,Mitigating data offsets for machine learning,0,G05B|G06F|G06N
+11166134,2021-11-02,Vehicular communications based on internet communication identifiers associated with codes of vehicles,0,G06K|H04L|H04W
+11153556,2021-10-19,Volumetric accessing of a volumetric display,0,B60K|G02B|H04N
+11151387,2021-10-19,Camera system to detect unusual activities,0,G06V|G08B|H04N
+11151366,2021-10-19,Systems and methods for occluding vehicle occupant communication,0,G06F|G06V
+11149937,2021-10-19,Functionally graded manifold microchannel heat sinks,1,F21V|F28F|H01L
+11132562,2021-09-28,Camera system to detect unusual circumstances and activities while driving,0,B60W|G01C|G06T|G06V
+11132478,2021-09-28,Methods for combinatorial constraint in topology optimization using shape transformation,0,G06F
+11131556,2021-09-28,System and method for selecting a point of interest based on wait time,0,G01C|G05D|G06Q
+11121061,2021-09-14,Cooling chip structures having a jet impingement system and assembly having the same,0,H01L
+11121060,2021-09-14,Electronics assemblies and cooling structures having metalized exterior surface,0,H01L
+11113727,2021-09-07,Systems and methods for dynamic road sign personalization,0,B60W|G06Q
+11113168,2021-09-07,Distributed architecture for fault monitoring,1,G06F|G06N|H04W|Y02D
+11110798,2021-09-07,Multi-function vehicle input apparatuses with operational buttons for vehicle systems control and methods incorporating the same,0,B60K|B62D|G02B|G06F|G09G
+11101193,2021-08-24,Power electronics modules including integrated jet cooling,1,H01L|H05K
+11099021,2021-08-24,System and method for routing a vehicle,0,B60W|G01C|G06F|G06Q
+11098960,2021-08-24,Cooling devices including a variable angle contact surface and methods for cooling heat-generating devices with a cooling device,0,C09K|F28D|F28F|H01L|Y02E
+11095660,2021-08-17,Blockchain enabled encryption,0,H04L|H04W
+11093315,2021-08-17,Systems and methods for detecting a fault or a model mismatch,0,G05B|G06F|G06N
+11091162,2021-08-17,Fusion of front vehicle sensor data for detection and ranging of preceding objects,2,B60W|G01S|G06F|G06T|G06V|H04N
+11090986,2021-08-17,Vehicle tire pressure learning system and method,1,B60C|G01L|G06N
+11089205,2021-08-10,Window position monitoring system,0,B60R|H04N
+11087623,2021-08-10,Systems and methods for compensating for driver speed-tracking error,0,G06N|G08G
+11087568,2021-08-10,Privacy-aware signal monitoring systems and methods,0,G07C|H04L
+11084440,2021-08-10,Smart vehicle accommodation device adjustment,0,B60N|B60R|G06N|G08C
+11081422,2021-08-03,Self-healing PDMS encapsulation and repair of power modules,1,H01L|H10D
+11081001,2021-08-03,Methods and systems for capturing and transmitting environmental and traffic conditions data using a traffic cone,2,G08G|H04W
+11070769,2021-07-20,Collaborative security camera system and method for using,0,G06F|G06V|H04N
+11069594,2021-07-20,Methods of forming electronic assemblies with inverse opal structures using variable current density electroplating,0,B81C|C23C|C25D|H01L
+11067343,2021-07-20,Thermal compensation layers with core-shell phase change particles and power electronics assemblies incorporating the same,0,C09K|F28D|H01L|Y02E
+11066016,2021-07-20,Adjusting vehicle mirrors,1,B60R|G06F
+11062610,2021-07-13,Methods and systems for using parked vehicles to notify rideshare drivers of passenger pickup locations,0,B60Q|G06Q|G08G|H04W
+11062405,2021-07-13,Dynamic ordering system,0,G06Q|H04W
+11055870,2021-07-06,Vehicle auxiliary camera,1,B60R|G06T|H04N
+11052811,2021-07-06,Mass transit for personal vehicles,1,A61G|B60L|B60P|G01C|G06Q|Y02T
+11041772,2021-06-22,Sensor diffusion stack materials for pressure sensing gloves and methods incorporating the same,0,A41D|A61B|B33Y|G01L|G06F
+11040683,2021-06-22,Short range communication for vehicular use,0,B60R|G07C|G08G|H04W
+11031317,2021-06-08,Direct bonded metal substrates with encapsulated phase change materials and electronic assemblies incorporating the same,0,H01L|H05K
+11030818,2021-06-08,Systems and methods for presenting virtual-reality information in a vehicular environment,3,G06T|H04L|H04N
+11023753,2021-06-01,System and method for determining a lane change of a preceding vehicle,1,G06F|G06V|H04W
+11017670,2021-05-25,Intermediate vehicle repeater for out of range vehicles,2,B60W|G08G|H04W
+11015940,2021-05-25,Systems and methods for longitudinal position correction of a vehicle using mapped landmarks,0,B60W|B62D|G01C|G01S|G06F|G06T|G06V
+11004769,2021-05-11,Metal inverse opal substrate with integrated jet cooling in electronic modules,1,H01L
+10999919,2021-05-04,Flexible electronic assembly for placement on a vehicle motor assembly,0,H01L|H02K|H05K
+10991251,2021-04-27,Parking meter monitoring and payment system,0,G05D|G06Q|G07B|G07C|G07F|G08B|G08G|H04W
+10984657,2021-04-20,System and method for vehicle-to-vehicle statistic challenges,1,G07C|G08G|H04W
+10984299,2021-04-20,"Detection systems, apparatus, and related methods for use with vehicle sensor modules",0,G01S|G06K|G06T
+10974732,2021-04-13,"System, method, and computer-readable storage medium for traffic intersection navigation",6,B60W|G01C|G06F|G06V
+10966069,2021-03-30,Systems and methods for HD map generation using an edge server network,2,H04L|H04W
+10959673,2021-03-30,Pressure management methods for determining non-inclusive forces and apparatuses incorporating the same,0,A61B|G01L|G06F
+10952672,2021-03-23,Pressure management methods for determining non-inclusive forces and apparatuses incorporating the same,4,A61B|G01L|G06F
+10950638,2021-03-16,Tunable imaging systems and methods thereof,0,H04N|H10F
+10948241,2021-03-16,Vapor chamber heat spreaders having improved transient thermal response and methods of making the same,5,F28D|H01L|H05K
+10945333,2021-03-09,Thermal management assemblies having cooling channels within electrically insulated posts for cooling electronic assemblies,8,H01L|H05K
+10933880,2021-03-02,System and method for providing lane curvature estimates,3,B60W|G05D|G06N
+10926766,2021-02-23,One-way direction sensing system,0,B60W|G05D|G06F
+10913413,2021-02-09,Wearable article detection and climate adjustment system for a vehicle interior,0,B60H|B60R|H04W
+10906556,2021-02-02,System and method for oncoming vehicle warning,0,B60Q|B60W|G06V|G08G|H04W

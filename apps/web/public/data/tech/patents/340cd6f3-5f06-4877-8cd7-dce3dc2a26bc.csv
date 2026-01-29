@@ -1,0 +1,769 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432360,2025-09-30,Method and apparatus for signaling subpicture partitioning information,0,H04N
+12430301,2025-09-30,Data migration method and device,0,G06F
+12425576,2025-09-23,Methods for constructing a merge candidate list,0,H04N
+12417112,2025-09-16,Virtual machine migration method and system,0,G06F|G06T
+12401817,2025-08-26,Methods for performing wrap-around motion compensation,0,H04N
+12401798,2025-08-26,On block level bi-prediction with weighted averaging,0,H04N
+12400639,2025-08-26,"Speech processing method, speech encoder, speech decoder and speech recognition system",0,G06F|G10L
+12399773,2025-08-26,End to end check code protection in storage engine,0,G06F
+12399612,2025-08-26,Method and apparatus for interacting with content through overlays on a mobile device,0,G06F|G06Q
+12395673,2025-08-19,Motion compensation methods for video coding,0,H04N
+12395631,2025-08-19,Signaling of maximum transform size and residual coding method,0,H04N
+12393692,2025-08-19,"Trusted authentication system, method, mainboard, micro board, and storage medium",0,G06F
+12375706,2025-07-29,High level syntax control of loop filter,0,H04N
+12373337,2025-07-29,Method and system for in-memory metadata reduction in cloud storage system,0,G06F
+12368542,2025-07-22,System and method to assure data quality in distributed data collection pipeline,0,G05B|G06F|H04L
+12363350,2025-07-15,Neural network based in-loop filtering for video coding,0,G06N|G06T|H04N
+12363320,2025-07-15,Block partitioning methods for video coding,0,H04N
+12363276,2025-07-15,Sign data hiding of video recording,0,H03M|H04N
+12354142,2025-07-08,Method and system for distributing smart containers,0,G06Q
+12354064,2025-07-08,Method and apparatus for sharing data across groups,0,G06F|G06Q
+12353734,2025-07-08,Using object properties for facilitating object storage,0,G06F
+12348785,2025-07-01,Filters for motion compensation interpolation with reference down-sampling,0,H04N
+12346723,2025-07-01,"Task processing method, apparatus, and system based on distributed system",0,G06F
+12341651,2025-06-24,"Device networking activation method, apparatus and cloud network device",0,G16Y|H04L
+12340302,2025-06-24,Method and system for microarchitecture-aware program sampling,0,G06N
+12335527,2025-06-17,Transform-skip residual coding of video data,0,H04N
+12335472,2025-06-17,Methods for palette prediction,0,H04N
+12335470,2025-06-17,Directional cross component filter for video coding,0,H04N
+12333543,2025-06-17,Voice-based payment system,0,G06F|G06Q|G06V|G10L
+12332827,2025-06-17,"Data transmission method, device, network system, and storage medium",0,G06F
+12329043,2025-06-10,Superconducting circuit including superconducting qubits,0,G06N|H10N
+12306114,2025-05-20,"Measurement system, method, apparatus, and device",0,G01N|G06F|G06N
+12297768,2025-05-13,Method and apparatus for securing communications using multiple encryption keys,0,F02B|G06F
+12293207,2025-05-06,"Virtual machine hot migration method, apparatus, electronic device, and computer storage medium",0,G06F
+12292821,2025-05-06,"Video memory management method, apparatus, device and system",0,G06F|G06N|G06T
+12289641,2025-04-29,Frequency point changing method and apparatus,0,H04L|H04W|Y02D
+12278946,2025-04-15,Methods and apparatuses for signaling picture header,0,H04N
+12277431,2025-04-15,"Data buffering method, data processing method, computer device, storage medium",0,G06F
+12277168,2025-04-15,Method and apparatus for image processing and image classification,0,G06F|G06N
+12277058,2025-04-15,Hierarchical methods and systems for storing data,0,G06F|G06N|G11C|Y02D
+12273552,2025-04-08,Method and apparatus for encoding or decoding video,0,H04N
+12267988,2025-04-01,Thermal control optimization based on monitoring/control mechanism,0,G06F|H05K
+12267751,2025-04-01,Method and apparatus for identifying objects in a spatial region,0,G06Q|H04W
+12267530,2025-04-01,Methods for coding or decoding video parameter set or sequence parameter set,0,H04N
+12267493,2025-04-01,Method for using adaptive loop filter and system thereof,0,H04N
+12265734,2025-04-01,"Storage nodes, integrated circuits and methods for storage node management",0,G06F
+12265720,2025-04-01,Method and system of large amount of data migration with enhanced efficiency,0,G06F
+12260952,2025-03-25,Medical image processing method and system and data processing method,0,G06F|G06T|G06V|G16H
+12256079,2025-03-18,Methods and systems for cross-component sample adaptive offset,0,H04N
+12250399,2025-03-11,"Method, device, and system for determining prediction weight for merge mode",0,H04N
+12249318,2025-03-11,"Interaction method, device, storage medium and operating system",0,G06F|G10L|H04M
+12244863,2025-03-04,Method and system for processing video content,0,H04N
+12244846,2025-03-04,Methods and systems for performing gradual decoding refresh processing on pictures,0,H04N
+12236088,2025-02-25,Recycle optimization in storage engine,0,G06F
+12225831,2025-02-11,"Superconducting qubit and preparation method thereof, quantum storage device, and quantum computer",0,B82Y|G06N|H10N
+12216537,2025-02-04,"Error detection, prediction and handling techniques for system-in-package memory architectures",0,G06F|G11C
+12210481,2025-01-28,File system data access method and file system,0,G06F
+12205019,2025-01-21,Data layout conscious processing in memory architecture for executing neural network model,0,G06F|G06N|G11C
+12200047,2025-01-14,"Service unit switching method, system, and device for disaster tolerance switching and capacity dispatching",0,H04L
+12199793,2025-01-14,"Controller area network bus network access unit and related network, method, apparatus",0,H04L
+12192504,2025-01-07,Methods for signaling virtual boundaries and wrap-around motion compensation,0,H04N
+12190245,2025-01-07,Multi-task segmented learning models,0,G06F|G06N|G06V
+12184864,2024-12-31,Intelligent computing resources allocation for feature network based on feature propagation,1,G06F|G06V|H04N
+12170727,2024-12-17,"Method, apparatus, and device for key generation and terminal provisioning",0,H04L|H04W
+12170720,2024-12-17,Location-key encryption system,0,H04L
+12169938,2024-12-17,"Product release method and image processing method, apparatus, device, and storage medium",0,G06N|G06T
+12167006,2024-12-10,Resolution-adaptive video coding,0,H04N
+12165506,2024-12-10,Method and device for predicting traffic flow or travel time period,0,G01C|G06N|G08G
+12165108,2024-12-10,Systems and methods for coordinating decisions,0,G06N|G06Q|H04L
+12159197,2024-12-03,Qubit detection system and detection method,0,G06N|G06V
+12158896,2024-12-03,"Method, apparatus, and computer storage medium for cloud storage interval updating",0,G06F
+12155837,2024-11-26,Methods and apparatuses for block partitioning at picture boundary,0,H04N
+12147588,2024-11-19,Controlled access to data stored in a secure partition,1,G06F
+12147341,2024-11-19,Memory controller prioritizing writing compressed data,0,G06F
+12143620,2024-11-12,Filtering methods for angular intra prediction,0,H04N
+12142338,2024-11-12,Memory priming and initialization systems and methods,0,G06F|G11C
+12141699,2024-11-12,Systems and methods for providing vector-wise sparsity in a neural network,0,G06F|G06N
+12141438,2024-11-12,Zero skipping techniques for reducing data movement,0,G06F
+12135957,2024-11-05,Dynamic generation of device identifiers,0,G06F|H04L
+12124724,2024-10-22,"Memory migration method, apparatus, and computing device",0,G06F
+12117916,2024-10-15,"Method, apparatus, device, and storage medium for graphically displaying application performance management information",0,G06F|H04L|Y02D
+12114049,2024-10-08,"Product object information providing method, apparatus, and electronic device",0,G06F|G06Q|H04N
+12113991,2024-10-08,Systems and methods for liner model derivation,0,H04N
+12112723,2024-10-08,Method and apparatus for efficient application screen compression,0,G06T|G09G|H04N
+12108058,2024-10-01,Method and apparatus for chroma sampling,0,H04N
+12107954,2024-10-01,Location key search of encrypted files without decryption,0,G06F|H04L
+12101487,2024-09-24,Block level bi-prediction with weighted averaging,0,H04N
+12096006,2024-09-17,Tile and slice partitioning in video processing,0,H04N
+12093708,2024-09-17,Virtual machine scheduling method and apparatus,0,G06F|G06N|Y02D
+12093234,2024-09-17,"Data processing method, apparatus, electronic device, and computer storage medium",0,G06F
+12081506,2024-09-03,Display method and device,0,H04L
+12079647,2024-09-03,"Encoding scheduling method, server, client, and system for acquiring remote desktop",0,G06F|G09G|H04N
+12079208,2024-09-03,"Data processing method, apparatus, and device",1,G06F|G16H
+12075079,2024-08-27,Method and apparatus for encoding or decoding video,0,G06F|H04N
+12073317,2024-08-27,Method and system for processing a neural network,0,G06F|G06N|G06T|G06V
+12072806,2024-08-27,Compression and decompression module in a cache controller for reducing off-chip data traffic,0,G06F|G06N
+12069271,2024-08-20,Method and system for processing luma and chroma signals,0,H04N
+12067054,2024-08-20,Method and system for characteristic-based video processing,0,G06F|G08B|H04N
+12063372,2024-08-13,Video processing method and apparatus for using palette mode,0,H04N
+12058322,2024-08-06,Methods and apparatuses for filtering intra predicted video blocks,0,H04N
+12057612,2024-08-06,Waveguide including a substrate having a coplanar waveguide and a superconducting material compensating structure formed thereon and usable in a quantum processor,0,G06N|H01P|H05K
+12056847,2024-08-06,"Image processing method, means, electronic device and storage medium",0,G06N|G06T
+12056743,2024-08-06,Image and data processing methods and apparatuses,0,G06Q|G06T|G06V
+12056374,2024-08-06,Dynamic memory coherency biasing techniques,0,G06F
+12052356,2024-07-30,Method and apparatus for data storage and verification,0,G06F|H04L
+12048255,2024-07-23,"Hard mask and preparation method thereof, preparation method of josephson junction, and superconducting circuit",0,H01L|H10N
+12047652,2024-07-23,"Information processing method, apparatus, and computer storage medium for real-time video applications",0,G06N|H04N
+12047578,2024-07-23,Lossless coding of video data,0,H04N
+12047341,2024-07-23,Efficient processing of unread messages,1,G06Q|H04L|H04M
+12046242,2024-07-23,Audio message processing method and apparatus,0,G10L|H04L|H04W
+12041579,2024-07-16,Method and apparatus for communication between a terminal and a server,0,H04W
+12041270,2024-07-16,Transform-skip residual coding of video data,0,H04N
+12039696,2024-07-16,Method and system for video processing based on spatial or temporal importance,0,G06T|G06V|H04N
+12034986,2024-07-09,Network live-broadcasting method and apparatus,0,H04L|H04N
+12032989,2024-07-09,"Timer processing method, apparatus, electronic device and computer storage medium",0,G06F
+12026618,2024-07-02,Method and system for training machine learning system,0,G06F|G06N
+12019959,2024-06-25,Distributed tensor network contraction scheme with splitting based on dynamic ordering,0,G06F|G06N
+12015935,2024-06-18,"Service request and provision method, device, and storage medium",0,H04W
+12015788,2024-06-18,Video processing method and apparatus for using palette mode,0,H04N
+12010297,2024-06-11,Methods for constructing a merge candidate list,0,H04N
+12010008,2024-06-11,Network communication method and apparatus,0,H04L
+12008116,2024-06-11,Device and method for increasing the security of a database,0,G06F
+12003751,2024-06-04,High level syntax control of loop filter,0,H04N
+12003738,2024-06-04,Method and apparatus for signaling subpicture partitioning information,0,H04N
+12003732,2024-06-04,Scene aware video content encoding,0,A63F|G06V|H04N
+12001275,2024-06-04,"Data processing method, apparatus, database system, electronic device, and storage medium",0,G06F
+11997314,2024-05-28,"Video stream processing method and apparatus, and electronic device and computer-readable medium",0,H04N
+11995059,2024-05-28,"Database index and database query processing method, apparatus, and device",0,G06F|Y02D
+11994973,2024-05-28,"Integrated development environment terminal, platform server, and medium",0,G06F
+11985052,2024-05-14,"Method, apparatus and system for monitoring network connectivity status of network device",0,H04L|H04W
+11979819,2024-05-07,Communication method and apparatus,0,H04W
+11979274,2024-05-07,Network management method and apparatus,0,H04L|Y04S
+11978105,2024-05-07,"System, method, and apparatus for processing clothing item information for try-on",0,G06K|G06Q|G06T|G06V|G07C|H04L|H04W
+11977663,2024-05-07,"Processing unit, electronic device, and security control method",0,G06F|H04L|Y02D
+11973867,2024-04-30,Encrypted search,2,G06F|H04L
+11968360,2024-04-23,Methods for palette prediction,0,H04N
+11962495,2024-04-16,Data transmission method and system,0,H04L
+11961299,2024-04-16,Method and apparatus for generating video fingerprint,0,G06F|G06V
+11956463,2024-04-09,Methods for performing wrap-around motion compensation,0,H04N
+11954520,2024-04-09,Micro kernel scheduling method and apparatus,0,G06F
+11954105,2024-04-09,Method and system for storing query plans in a cache and method for querying a database system,0,G06F|H04L
+11954093,2024-04-09,Performing a top-k function using a binary heap tree,0,G06F
+11949888,2024-04-02,Block partitioning methods for video coding,2,H04N
+11949681,2024-04-02,Authentication and authorization for cloud file system,0,H04L
+11947821,2024-04-02,Methods and systems for managing an accelerator's primary storage unit,0,G06F|G06N
+11941802,2024-03-26,"Data processing method, means and system",0,A61B|G06F|G06T|G06V
+11941753,2024-03-26,"Face pose estimation/three-dimensional face reconstruction method, apparatus, and electronic device",0,G06T|G06V
+11941721,2024-03-26,Using watermark information and weight information to train an embedded neural network model,0,G06F|G06N|G06T
+11940965,2024-03-26,Data migration method and apparatus,0,G06F
+11934539,2024-03-19,Method and apparatus for storing and processing application program information,0,G06F
+11928617,2024-03-12,Data-driven method and apparatus for handling user inquiries using collected data,0,G06N|G06Q
+11928598,2024-03-12,Method and system for distributed neural network training,0,G06N|H04L
+11928323,2024-03-12,"Interaction method, picture processing method, and apparatus",0,G06F|G06Q|G06T
+11922219,2024-03-05,Efficient inter-chip interconnect topology for distributed parallel deep learning,0,G06F|G06N
+11921814,2024-03-05,Method and device for matrix multiplication optimization using vector registers,0,G06F|G06N
+11921711,2024-03-05,Trained sequence-to-sequence conversion of database queries,0,G06F|G06N
+11915138,2024-02-27,Method and device for reducing a size of a neural network model,0,G06N
+11910316,2024-02-20,Communication method and apparatus,0,H04L|H04W|Y02D
+11907838,2024-02-20,"Recognition method, apparatus, and device, and storage medium",0,G06F|G06N|G06T|G06V
+11907283,2024-02-20,"Multi-resolution raster data access method, apparatus, electronic device, and computer storage medium",0,G06F|G06T|H04N
+11902581,2024-02-13,Method and system for processing video content,0,H04N
+11902561,2024-02-13,Convolutional-neutral-network based filter for video coding,0,G06N|H04N
+11900958,2024-02-13,Method and system for processing speech signal,0,G06N|G10L
+11900239,2024-02-13,Systems and methods for accelerating sparse neural network execution,1,G06N
+11899781,2024-02-13,"Processing apparatus, embedded system, system-on-chip, and a security control method for inter-enclave data transmission",0,G06F
+11894021,2024-02-06,"Data processing method and system, storage medium, and computing device",0,G06V|G11B|H04N
+11893391,2024-02-06,Processing computing jobs via an acceleration device,0,G06F
+11889121,2024-01-30,Filters for motion compensation interpolation with reference down-sampling,0,H04N
+11889091,2024-01-30,Methods for processing chroma signals,0,H04N
+11880982,2024-01-23,Method and system for performing image segmentation,1,G06T
+11863742,2024-01-02,Method for using adaptive loop filter and system thereof,1,H04N
+11863666,2024-01-02,Relay network for encryption system,0,H04L|H04W
+11863520,2024-01-02,Data access methods and systems,0,H04L
+11861203,2024-01-02,"Method, apparatus and electronic device for cloud service migration",0,G06F|H04L
+11860989,2024-01-02,Verification method and device,0,G06F|H04L
+11853800,2023-12-26,Power management method,0,G06F|Y02D
+11847829,2023-12-19,"Method, apparatus, electronic device, and computer storage medium for video processing",0,G06F|G06V
+11847100,2023-12-19,Distributed file system servicing random-access operations,0,G06F
+11846590,2023-12-19,"Measurement system, method, apparatus, and device",2,G01N|G06F|G06N
+11843790,2023-12-12,Adaptive resolution change in video processing,0,H04N
+11841923,2023-12-12,"Processing method, model training method, means, and storage medium for spinal images",1,G06F|G06N|G06T|G06V|G16H
+11838541,2023-12-05,Matrix weighted intra prediction of video signals,0,H04N
+11837503,2023-12-05,Scalable and flexible architectures for integrated circuit (IC) design and fabrication,0,H01L|H10D
+11836489,2023-12-05,Sparse matrix calculations utilizing tightly coupled memory and gather/scatter engine,0,G06F
+11836079,2023-12-05,"Storage management apparatus, storage management method, processor, and computer system",0,G06F|Y02D
+11825752,2023-11-21,Superconducting circuit including superconducting qubits,0,G06N|H10N
+11825122,2023-11-21,Method and apparatus for processing video content with ALF and CCALF,0,H04N
+11823699,2023-11-21,Single-channel and multi-channel source separation enhanced by lip motion,0,G06F|G06N|G06T|G06V|G10L
+11822958,2023-11-21,Method and a device for data transmission between an internal memory of a system-on-chip and an external memory,0,G06F
+11822530,2023-11-21,Augmentation to the succinct trie for multi-segment keys,0,G06F
+11818682,2023-11-14,Communication method and apparatus,0,H04W|Y02D
+11816842,2023-11-14,"Image processing method, apparatus, electronic device, and storage medium",0,G06T
+11816574,2023-11-14,Structured pruning for machine learning model,0,G06N
+11816440,2023-11-14,Method and apparatus for determining user intent,0,G06F|G06V
+11816043,2023-11-14,System and method for managing resources of a storage device and quantifying the cost of I/O requests,0,G06F
+11812360,2023-11-07,Method and apparatus for communication between a terminal and a base station,0,H04B|H04L|H04W|Y02D
+11800107,2023-10-24,Method and apparatus for motion field storage in triangle partition mode and geometric partition mode,0,H04N
+11798045,2023-10-24,Method and system for distributing smart containers,0,G06Q
+11797172,2023-10-24,Method and apparatus for interacting with content through overlays,1,G06F|G06Q
+11792408,2023-10-17,Transcoder target bitrate prediction techniques,0,H04N
+11789957,2023-10-17,"System, method, and apparatus for querying a database",0,G06F
+11789814,2023-10-17,System and method for data protection in solid-state drives,0,G06F|H03M
+11785261,2023-10-10,Frequency specific compression and compensation technique in image processing,0,G06T|H04N
+11785237,2023-10-10,Methods for signaling video coding data,0,H04N
+11782979,2023-10-10,Method and apparatus for video searches and index construction,0,G06F|G06V|G11B
+11782769,2023-10-10,Virtual machine scheduling method and system,0,G06F|G06N|H05K|Y02D
+11770702,2023-09-26,Session establishment method and means and communication system,0,H04L|H04W
+11768911,2023-09-26,Method and apparatus for execution of neural network,1,G06F|G06N|G06V
+11768709,2023-09-26,System and method for offloading computation to storage nodes in distributed system,0,G06F|H04L
+11765361,2023-09-19,Method and apparatus for coding video data in palette mode,0,H04N
+11758171,2023-09-12,Methods and systems for performing gradual decoding refresh processing on pictures,1,H04N
+11755903,2023-09-12,Systems and methods for providing block-wise sparsity in a neural network,0,G06N
+11755892,2023-09-12,Multi-size convolutional layer,0,G06F|G06N
+11755675,2023-09-12,Method and apparatus for managing region tag,0,G06F|G06Q
+11755441,2023-09-12,Debugging unit and processor,0,G06F|H03K
+11750816,2023-09-05,Methods and systems for cross-component sample adaptive offset,0,H04N
+11743489,2023-08-29,Motion compensation methods for video coding,0,H04N
+11743152,2023-08-29,Method and apparatus for application performance management via a graphical display,0,G06F|G06T|H04L
+11743043,2023-08-29,Encrypted search,0,G06F|H04L
+11741072,2023-08-29,Method and apparatus for real-time interactive recommendation,0,G06F|G06N
+11736737,2023-08-22,Quantization parameter signaling in video processing,0,H04N
+11736733,2023-08-22,Methods for coding or decoding video parameter set or sequence parameter set,0,H04N
+11735184,2023-08-22,"Translation and speech recognition method, apparatus, and device",0,G06F|G10L
+11734573,2023-08-22,Image element matching via graph processing,0,G06F|G06N|G06V
+11734353,2023-08-22,Multi-sampling model training method and device,1,G06F|G06N
+11734271,2023-08-22,"Data query method, apparatus and device",0,G06F
+11734115,2023-08-22,Method and system for facilitating write latency reduction in a queue depth of one scenario,0,G06F
+11729511,2023-08-15,"Method for wall line determination, method, apparatus, and device for spatial modeling",0,G01B|G01C|G06F|G06Q|G06T|H04N
+11729156,2023-08-15,Method and apparatus for communication between internet of things devices,0,G16Y|H04L
+11721015,2023-08-08,"Data processing method, equipment and storage medium",0,G06N|G06T|G06V|G16H
+11720787,2023-08-08,Method and system for training machine learning system,0,G06F|G06N
+11720629,2023-08-08,Knowledge graph construction method and device,0,G06F|G06N
+11720365,2023-08-08,"Path prediction method used for instruction cache, access control unit, and instruction processing apparatus",0,G06F|Y02D
+11711748,2023-07-25,"Method and apparatus of communication between terminal and base station, and network access method and apparatus of a terminal",0,G16Y|H04B|H04L|H04W|Y02D
+11711537,2023-07-25,Methods for performing wrap-around motion compensation,0,H04N
+11711528,2023-07-25,Systems and methods for liner model derivation,0,H04N
+11711517,2023-07-25,Method and system for processing luma and chroma signals,0,H04N
+11709803,2023-07-25,"Data transaction processing method, apparatus, and electronic device",0,G06F|G06Q
+11706439,2023-07-18,Method and apparatus for encoding or decoding video,0,H04N
+11705239,2023-07-18,Method and apparatus for generating image reports,0,G06T|G16H
+11704271,2023-07-18,Scalable system-in-package architectures,0,G06F|G06N|H01L|Y02D
+11704131,2023-07-18,Moving entries between multiple levels of a branch predictor based on a performance loss resulting from fewer than a pre-set number of instructions being stored in an instruction cache register,1,G06F
+11704101,2023-07-18,Function-level redundancy detection and optimization,0,G06F
+11700309,2023-07-11,Network parameter provisioning for instantiation of a network entity,0,H04L|H04W
+11700071,2023-07-11,"Method, device, system, and storage medium for live broadcast detection and data processing",0,H04H|H04N
+11699004,2023-07-11,Method and system for quantum computing,0,G06F|G06N
+11698817,2023-07-11,"Application link resource scaling method, apparatus, and system based on concurrent stress testing of plural application links",0,G06F|H04L
+11694301,2023-07-04,Learning model architecture for image data semantic segmentation,0,G06N|G06T|G06V
+11694097,2023-07-04,Regression modeling of sparse acyclic graphs in time series causal inference,0,G06F|G06N
+11694075,2023-07-04,Partitioning control dependency edge in computation graph,0,G06N
+11687326,2023-06-27,Method and apparatus for data interaction,0,G06F|H04L
+11677686,2023-06-13,"Packet forwarding method, apparatus, device, and system",0,H04L
+11676104,2023-06-13,Systems and methods for coordinating decisions between non-communicating parties,0,G06N|G06Q|H04L
+11675827,2023-06-13,"Multimedia file categorizing, information processing, and model training method, system, and device",0,G06F|G06N
+11675595,2023-06-13,Starting reading of instructions from a correct speculative condition prior to fully flushing an instruction pipeline after an incorrect instruction speculation determination,0,G06F
+11671613,2023-06-06,Methods for signaling virtual boundaries and wrap-around motion compensation,1,H04N
+11671475,2023-06-06,Verification of data recipient,0,H04L
+11669443,2023-06-06,Data layout optimization on processing in memory architecture for executing neural network model,0,G06F|G06N
+11665679,2023-05-30,Wireless communication method and device,0,H04L|H04W|Y02D
+11664030,2023-05-30,"Information processing method, system, electronic device, and computer storage medium",0,G06F|G06Q|G10L
+11663484,2023-05-30,Content generation method and apparatus,0,G06N|G06Q
+11663446,2023-05-30,Data reuse and efficient processing scheme in executing convolutional neural network,0,G06N
+11662981,2023-05-30,Low-power programmable truncated multiplication circuitry,0,G06F|G06N
+11658814,2023-05-23,System and method for encryption and decryption based on quantum key distribution,1,H04L
+11658373,2023-05-23,"Packaging structure including a substrate having a coplanar waveguide, an air bridge and a superconducting material compensating structure formed thereon",3,G06N|H01P|H05K
+11658168,2023-05-23,Flash memory with improved bandwidth,0,G11C|H01L|H10B
+11650990,2023-05-16,"Method, medium, and system for joining data tables",0,G06F
+11647215,2023-05-09,Method and apparatus for signaling video coding information,0,H04L|H04N
+11647009,2023-05-09,Access request conversion method and apparatus,0,H04L
+11644887,2023-05-09,Unified power management,0,G06F|Y02D
+11641475,2023-05-02,Method and apparatus for encoding or decoding video,1,G06F|H04N
+11640384,2023-05-02,"Database processing method, apparatus, and electronic device",0,G06F
+11640300,2023-05-02,Byte comparison method for string processing and instruction processing apparatus,0,G06F
+11640195,2023-05-02,Service-level feedback-driven power management framework,0,G06F|G06N|Y02D
+11638019,2023-04-25,Methods and systems for prediction from multiple cross-components,0,H04N
+11636591,2023-04-25,Surface imaging using high incident angle of light rays,0,A61B|G06T
+11636379,2023-04-25,Distributed cluster training method and apparatus,2,G06F|G06N
+11635985,2023-04-25,Using degree of completeness of real-time data to maximize product revenue,0,G06F
+11632680,2023-04-18,Methods for performing network configuration on apparatus and network configuration systems,0,H04L|H04W
+11630595,2023-04-18,Methods and systems of efficiently storing data,0,G06F
+11627279,2023-04-11,Method and apparatus for displaying interactive information in panoramic video,0,G06F|H04N
+11627082,2023-04-11,Automatically establishing an address mapping table in a heterogeneous device interconnect fabric,0,H04L
+11626556,2023-04-11,"Hard mask and preparation method thereof, preparation method of Josephson junction, and superconducting circuit",0,H01L|H10N
+11625729,2023-04-11,"Data processing method, apparatus, and system",0,G06F|G06Q|H04W
+11625399,2023-04-11,Methods and devices for dynamic filter pushdown for massive parallel processing databases on cloud,2,G06F
+11625341,2023-04-11,Narrow DRAM channel systems and methods,0,G06F|G11C
+11621843,2023-04-04,"Trusted remote proving method, apparatus and system",0,G06F|H04L|H04W
+11621835,2023-04-04,Relay network for encryption system,1,H04L|H04W
+11620502,2023-04-04,Hyper-square implementation of tree AllReduce algorithm for distributed parallel deep learning,0,G06N
+11620277,2023-04-04,Transaction processing at non-relational databases,1,G06F|G06Q|Y02D
+11617282,2023-03-28,System and method for reshaping power budget of cabinet to facilitate improved deployment density of servers,0,G06F|H02J|H05K
+11616775,2023-03-28,"Network access authentication method, apparatus, and system",0,H04L|H04W
+11615346,2023-03-28,Method and system for training model by using training data,0,G06F|G06N
+11609792,2023-03-21,Maximizing resource utilization of neural network computing system,0,G06F|G06N
+11606577,2023-03-14,Method for processing adaptive color transform and low-frequency non-separable transform in video coding,0,H04N
+11604744,2023-03-14,Dual-modal memory interface controller,0,G06F
+11604631,2023-03-14,"Blockchain node service deployment method, apparatus and system and computing device and medium",2,G06F|H04L
+11601655,2023-03-07,Tile and slice partitioning in video processing,6,H04N
+11601651,2023-03-07,Method and apparatus for motion vector refinement,1,H04N
+11599769,2023-03-07,"Question and answer matching method, system and storage medium",2,G06F|G06N
+11599377,2023-03-07,Open-channel storage device management with FTL on virtual machine,0,G06F
+11595735,2023-02-28,Playing control method and apparatus,0,H04N
+11593115,2023-02-28,"Processor, device, and method for executing instructions",0,G06F
+11593022,2023-02-28,"System, method. and electronic device for cloud-based configuration of FPGA configuration data",0,G06F|H03K|Y02D
+11589067,2023-02-21,Method for apparatus for deriving maximum sub-block transform size,0,H04N
+11588791,2023-02-21,Method and apparatus for trusted service management,0,H04L|H04W
+11588753,2023-02-21,Methods and systems for generating deployment architecture and template,1,G06F|H04L
+11586779,2023-02-21,Embedded system and method,0,G06F
+11586601,2023-02-21,Apparatus and method for representation of a sparse matrix in a neural network,2,G06F|G06N
+11582478,2023-02-14,Video encoding technique utilizing user guided information in cloud environment,0,A63F|H04N
+11582474,2023-02-14,Systems and methods for bi-directional gradient correction,0,H04N
+11579921,2023-02-14,Method and system for performing parallel computations to generate multiple output feature maps,0,G06F|G06N
+11579680,2023-02-14,Methods and devices for power management based on synthetic machine learning benchmarks,1,G06F|G06N|Y02D
+11576110,2023-02-07,"Bluetooth network, communication method, apparatus, and storage medium thereof",0,H04W
+11575926,2023-02-07,Enhanced decoder side motion vector refinement,0,H04N
+11574003,2023-02-07,"Image search method, apparatus, and device",0,G06F|G06N|G06V
+11570477,2023-01-31,Data preprocessing and data augmentation in frequency domain,1,G06T|H04N
+11568252,2023-01-31,Variable input size techniques for neural networks,0,G06F|G06N|G06V
+11568021,2023-01-31,Vector-vector multiplication techniques for processing systems,0,G06F|G06N
+11563631,2023-01-24,Bluetooth mesh network provisioning,0,H04L|H04W
+11562217,2023-01-24,Apparatuses and methods for approximating nonlinear function,2,G06F|G06N
+11561840,2023-01-24,Efficient inter-chip interconnect topology for distributed parallel deep learning,0,G06F|G06N
+11556756,2023-01-17,Computation graph mapping in heterogeneous computer system,0,G06F|G06N|Y02D
+11556541,2023-01-17,"Data query method, apparatus and device",1,G06F
+11556419,2023-01-17,Method and system of deduplication of error codec in hyperscale infrastructure,0,G06F
+11556277,2023-01-17,System and method for facilitating improved performance in ordering key-value storage with input/output stack simplification,0,G06F
+11551482,2023-01-10,Facial recognition-based authentication,0,G06F|G06V|G09G|H04N
+11551219,2023-01-10,"Payment method, client, electronic device, storage medium, and server",1,G06F|G06Q|G06V|G10L
+11551090,2023-01-10,System and method for compressing images for remote processing,0,G06F|G06N|G06T|G06V
+11551036,2023-01-10,Methods and apparatuses for building data identification models,0,G06F|G06N|G06Q
+11551007,2023-01-10,Determining intent from a historical vector of a to-be-analyzed statement,0,G06F
+11550731,2023-01-10,Processing method and apparatus for translation lookaside buffer flush instruction,0,G06F
+11550718,2023-01-10,Method and system for condensed cache and acceleration layer integrated in servers,0,G06F
+11548147,2023-01-10,Method and device for robot interactions,0,B25J|G05B|G06N
+11546746,2023-01-03,"Method, device, and system for controlling a Bluetooth device over a Bluetooth mesh network",0,G10L|H04W|Y02D
+11546607,2023-01-03,Method for optimizing structure similarity index in video coding,0,H04N
+11544618,2023-01-03,Automatic multi-threshold feature filtering method and apparatus,0,G06F|G06N
+11544578,2023-01-03,"Method, device and equipment for fusing different instances describing same entity",1,G06F|G06N
+11544197,2023-01-03,Random-access performance for persistent memory,0,G06F
+11544189,2023-01-03,System and method for memory management,0,G06F|G06N
+11538488,2022-12-27,Method and system for processing speech signal,0,G06N|G10L
+11537304,2022-12-27,"Data verification method and apparatus, and storage medium",0,G06F|H04L
+11537266,2022-12-27,"Application interface display method, apparatus and electronic device",0,G06F|G06Q
+11533472,2022-12-20,Method for reference picture processing in video coding,2,H04N
+11533225,2022-12-20,"Method, apparatus, and system for monitoring network access state of network distribution device",1,H04L|H04W
+11528493,2022-12-13,Method and system for video transcoding based on spatial or temporal importance,5,G06N|G06T|H04N
+11527056,2022-12-13,Image and data processing methods and apparatuses,0,G06Q|G06T|G06V
+11526926,2022-12-13,Service data processing method and device,0,G06Q
+11523138,2022-12-06,Method and apparatus for cross component filtering,0,H04N
+11523104,2022-12-06,Methods for constructing a merge candidate list,1,H04N
+11521347,2022-12-06,"Method, apparatus, medium, and device for generating multi-angle free-respective image data",0,G06F|G06T|G06V|H04N
+11520771,2022-12-06,"Measurement update method, apparatus, system, storage media, and computing device",0,G06F
+11520640,2022-12-06,Efficient and more advanced implementation of ring-AllReduce algorithm for distributed parallel deep learning,0,G06F|G06N
+11516512,2022-11-29,Method and system for processing video content,0,H04N
+11514538,2022-11-29,"Restaurant, and order information processing method and apparatus",0,G06K|G06Q|G07F|G07G
+11514245,2022-11-29,Method and apparatus for determining user intent,0,G06F|G06V
+11509921,2022-11-22,High level syntax control of loop filter,0,H04N
+11509485,2022-11-22,"Identity authentication method and system, and computing device",1,H04L|H04W
+11507499,2022-11-22,System and method for facilitating mitigation of read/write amplification in data compression,0,G06F|H03M
+11507413,2022-11-22,"Tracking method, apparatus, device, and machine-readable medium",0,G06F|Y02D
+11503563,2022-11-15,Distance estimation using signals of different frequencies,0,G01S|H03L|H04J|H04L|H04W
+11502692,2022-11-15,Server data sending method and apparatus,0,H03B|H03L|H04B|H04L|H04W|Y02D
+11501614,2022-11-15,"Skip-scanning identification method, apparatus, and self-service checkout terminal and system",2,G06K|G06Q|G06V|G07G|G08B
+11501404,2022-11-15,Method and system for data processing,0,G06T
+11501159,2022-11-15,Methods and systems for text sequence style transfer by two encoder decoders,0,G06N
+11500869,2022-11-15,Method and apparatus for optimizing database transactions,0,G06F
+11500812,2022-11-15,"Intermediate file processing method, client, server, and system",0,G06F|H04L
+11500811,2022-11-15,Apparatuses and methods for map reduce,0,G06F|G06N
+11500680,2022-11-15,Systolic array-friendly data placement and control based on masked write,0,G06F|G06N
+11500644,2022-11-15,Custom instruction implemented finite state machine engines for extensible processors,0,G06F|Y02D
+11500585,2022-11-15,Server and method for storing archival data,0,G06F
+11500572,2022-11-15,Method of optimizing performance of a data storage system,0,G06F
+11498770,2022-11-15,"Data object information processing methods, apparatuses, and systems",0,B65G|G05B|G06K|G06Q
+11494115,2022-11-08,System method for facilitating memory media as file storage device based on real-time hashing by performing integrity check with a cyclical redundancy check (CRC),2,G06F
+11490323,2022-11-01,Method and device for accessing a network hotspot device by an unconfigured device,4,H04W
+11490097,2022-11-01,Method and apparatus for signaling subpicture partitioning information,2,H04N
+11489101,2022-11-01,Superconducting circuit including superconducting qubits,0,G06N|H10N
+11488048,2022-11-01,"Device, system, and method for qubit calibration, measurement and control",0,B82Y|G06N|H03K
+11487680,2022-11-01,Apparatus and method for burst mode data storage,0,G06F
+11487523,2022-11-01,Updating machine emulator,0,G06F
+11487465,2022-11-01,Method and system for a local storage engine collaborating with a solid state drive controller,0,G06F|G11B|H03M
+11481698,2022-10-25,Data-driven method and apparatus for handling user inquiries using collected data,0,G06N|G06Q
+11481657,2022-10-25,"Content recommendation method, apparatus and system",0,G06F|G06N|H04L|H04N
+11481604,2022-10-25,Apparatus and method for neural network processing,0,G06F|G06N
+11481364,2022-10-25,Row-column formatting for relational databases,0,G06F
+11481214,2022-10-25,Sparse matrix calculations untilizing ightly tightly coupled memory and gather/scatter engine,0,G06F
+11481142,2022-10-25,Method and device for downloading resources,0,G06F|G11B|H04L|Y02D
+11475352,2022-10-18,Quantizing machine learning models with balanced resolution via damped encoding,0,G06F|G06N
+11474951,2022-10-18,"Memory management unit, address translation method, and processor",0,G06F
+11470327,2022-10-11,Scene aware video content encoding,1,A63F|G06V|H04N
+11467978,2022-10-11,Method and apparatus for hardware virtualization,0,G06F
+11467956,2022-10-11,Method and system of resource-saving metadata update and verification in garbage collection,0,G06F
+11467844,2022-10-11,Storing multiple instructions in a single reordering buffer entry,0,G06F
+11467836,2022-10-11,Executing cross-core copy instructions in an accelerator to temporarily store an operand that cannot be accommodated by on-chip memory of a primary core into a secondary core,0,G06F|G06N
+11465848,2022-10-11,"Method and apparatus for processing information of goods-picking container, and store system",1,B65G|G06K|G06Q
+11463243,2022-10-04,Key generation method and apparatus using double encryption,0,H04L
+11461262,2022-10-04,Method and system for facilitating a converged computation and storage node in a distributed storage system,2,G06F|H05K|Y02D
+11455222,2022-09-27,Systems and methods for testing many-core processors,3,G06F
+11451801,2022-09-20,Methods for coding video data in palette mode,0,H04N
+11451796,2022-09-20,Video processing method and apparatus for signaling using palette mode,0,H04N
+11449481,2022-09-20,Data storage and query method and device,0,G06F|Y02D
+11449455,2022-09-20,Method and system for facilitating a high-capacity object storage system with configuration agility and mixed deployment flexibility,0,G06F|H04L
+11449386,2022-09-20,"Method and system for optimizing persistent memory on data retention, endurance, and performance for host memory",0,G06F
+11449313,2022-09-20,System and method applied to integrated development environment,1,G06F
+11445200,2022-09-13,Method and system for processing video content,0,H04N
+11443163,2022-09-13,Method and system for executing neural network,0,G06N
+11442732,2022-09-13,Processor and instruction execution method,0,G06F
+11438249,2022-09-06,"Cluster management method, apparatus and system",0,G06F|H04L
+11437337,2022-09-06,Using electrical connections that traverse scribe lines to connect devices on a chip,0,H01L|H10D
+11436831,2022-09-06,Method and apparatus for video processing,0,G06F|G06V|G11B
+11436218,2022-09-06,Transaction processing for a database distributed across availability zones,3,G06F
+11436188,2022-09-06,"Resource optimization and update method, server, and device",0,G06F|H04L
+11436146,2022-09-06,"Storage control apparatus, processing apparatus, computer system, and storage control method",0,G06F
+11436143,2022-09-06,Unified memory organization for neural network processors,1,G06F|G06N|G11C|Y02D
+11431699,2022-08-30,Method and device for processing user operation,0,G06F|H04L
+11431669,2022-08-30,Server configuration method and apparatus,0,H04L
+11431667,2022-08-30,Display method and device,0,H04L
+11431494,2022-08-30,Passwordless security system for data-at-rest,1,G06F|H04L|H04W
+11429594,2022-08-30,Synchronization between primary database and secondary database,0,G06F
+11429519,2022-08-30,System and method for facilitating reduction of latency and mitigation of write amplification in a multi-tenancy storage drive,0,G06F
+11429391,2022-08-30,"Speculative execution of correlated memory access instruction methods, apparatuses and systems",0,G06F
+11425571,2022-08-23,"Device configuration method, apparatus and system",0,H04B|H04W
+11425427,2022-08-23,Method and apparatus for lossless coding of video data,0,H04N
+11425397,2022-08-23,On block level bi-prediction with weighted averaging,0,H04N
+11423179,2022-08-23,"Integrated-chip-based data processing method, computing device, and storage media",0,G06F|H04L
+11422931,2022-08-23,Method and system for facilitating a physically isolated storage unit for multi-tenancy virtualization,0,G06F
+11418525,2022-08-16,"Data processing method, device and storage medium",0,G06N|H04L
+11418340,2022-08-16,Waterfall request for decryption,0,G06F|H04L
+11416451,2022-08-16,Method and system to prefetch data in databases,0,G06F
+11416365,2022-08-16,Method and system for open NAND block detection and correction in an open-channel SSD,0,G06F
+11416307,2022-08-16,System and method for processing task resources,0,G06F
+11412253,2022-08-09,Methods for combining decoder side motion vector refinement with wrap-around motion compensation,0,H04N
+11412250,2022-08-09,Method and apparatus for deriving temporal motion,0,H04N
+11412221,2022-08-09,Method and apparatus for motion field storage in triangle partition mode and geometric partition mode,2,H04N
+11410320,2022-08-09,"Image processing method, apparatus, and storage medium",0,G06F|G06T
+11410016,2022-08-09,Selective performance of deterministic computations for neural networks,0,G06F|G06N|G06V
+11409839,2022-08-09,Programmable and hierarchical control of execution of GEMM operation on accelerator,0,G06F|G06N
+11409747,2022-08-09,Combined filtering and indexing for read-only data sets,0,G06F
+11409684,2022-08-09,Processing accelerator architectures,1,G06F
+11409636,2022-08-09,Processor including debug unit and debug system,0,G06F
+11403783,2022-08-02,Techniques to dynamically gate encoded image components for artificial intelligence tasks,0,G06F|G06N|G06T|G06V
+11403782,2022-08-02,Static channel filtering in frequency domain,0,G06N|G06T|H04N
+11403375,2022-08-02,"Permission management system, permission management method, and electronic device",2,G06F
+11403090,2022-08-02,Method and system for compiler optimization based on artificial intelligence,0,G06F|G06N
+11394999,2022-07-19,"Method, device, and system for determining prediction weight for merge mode",1,H04N
+11394814,2022-07-19,Path control by end hosts in networks,0,H04L
+11392569,2022-07-19,Tree partitioning of the succinct trie,0,G06F
+11392384,2022-07-19,Methods of breaking down coarse-grained tasks for fine-grained task re-scheduling,0,G06F|G06N
+11388423,2022-07-12,Region-of-interest based video encoding,0,G06T|H04N
+11386893,2022-07-12,"Human-computer interaction processing system, method, storage medium, and electronic device",0,G06F|G10L
+11386873,2022-07-12,Method and apparatus for efficient application screen compression,1,G06T|G09G|H04N
+11385833,2022-07-12,Method and system for facilitating a light-weight garbage collection with a reduced utilization of resources,0,G06F|H03M
+11381842,2022-07-05,Methods for coding or decoding video parameter set or sequence parameter set,0,H04N
+11379586,2022-07-05,"Measurement methods, devices and systems based on trusted high-speed encryption card",1,G06F|H04L
+11379447,2022-07-05,Method and system for enhancing IOPS of a hard disk drive system based on storing metadata in host volatile memory and data in non-volatile memory using a shared controller,0,G06F
+11379155,2022-07-05,System and method for flash storage management using multiple open page stripes,0,G06F
+11379127,2022-07-05,Method and system for enhancing a distributed storage system by decoupling computation and network tasks,0,G06F
+11375241,2022-06-28,Frequency specific compression and compensation technique in image processing,0,G06T|H04N
+11375001,2022-06-28,File transmission method and apparatus,0,G06F|H04L
+11372774,2022-06-28,Method and system for a solid state drive with on-chip memory integration,0,G06F|G11C|Y02D
+11372768,2022-06-28,Methods and systems for fetching data for an accelerator,0,G06F
+11372678,2022-06-28,"Distributed system resource allocation method, apparatus, and system",1,G06F|H04L
+11372627,2022-06-28,System and method for providing integrated development environment (IDE) for programmable software system,0,G06F
+11368842,2022-06-21,Session establishment method and means and communication system,0,H04L|H04W
+11366979,2022-06-21,Using selected components of frequency domain image data in artificial intelligence tasks,0,G06F|G06V
+11366875,2022-06-21,Method and device for matrix multiplication optimization using vector registers,1,G06F|G06N
+11366690,2022-06-21,Scheduling commands in a virtual computing environment,1,G06F|Y02D
+11366574,2022-06-21,"Human-machine conversation method, client, electronic device, and storage medium",0,G06F|H04L|H04M
+11361397,2022-06-14,Method and apparatus for watermark embedding and extracting,2,G06T|H04N
+11360906,2022-06-14,Inter-device processing system with cache coherency,9,G06F
+11360766,2022-06-14,System and method for processing large datasets,0,G06F
+11360640,2022-06-14,"Method, device and browser for presenting recommended news, and electronic device",0,G06F|G06Q|H04L
+11356684,2022-06-07,Method and system for signaling chroma quantization parameter table,0,H04N
+11356679,2022-06-07,Method and apparatus for chroma sampling,0,H04N
+11356677,2022-06-07,Block partitioning methods for video coding,0,H04N
+11354797,2022-06-07,"Method, device, and system for testing an image",1,G06T|G06V
+11354313,2022-06-07,Transforming a user-defined table function to a derived table in a database management system,0,G06F
+11354283,2022-06-07,Data migration method and apparatus,0,G06F
+11354256,2022-06-07,"Multi-core interconnection bus, inter-core communication method, and multi-core processor",1,G06F
+11354233,2022-06-07,Method and system for facilitating fast crash recovery in a storage device,0,G06F
+11354200,2022-06-07,Method and system for facilitating data recovery and version rollback in a storage device,0,G06F
+11354050,2022-06-07,"Data processing method, apparatus, and computing device",0,G06F|Y02D
+11349651,2022-05-31,Measurement processing of high-speed cryptographic operation,0,H04L
+11348253,2022-05-31,Single-channel and multi-channel source separation enhanced by lip motion,0,G06F|G06N|G06T|G06V|G10L
+11347857,2022-05-31,"Key and certificate distribution method, identity information processing method, device, and medium",1,G06F|H04L
+11347835,2022-05-31,Verification method and device,1,G06F|H04L
+11347758,2022-05-31,Method and apparatus for processing search data,0,G06F
+11347679,2022-05-31,Hybrid system-on-chip for power and performance prediction and control,0,G05B|G06F|G06N|H04L|H04W|Y02D
+11343773,2022-05-24,Wireless communication method and device,0,H04W|Y02D
+11343685,2022-05-24,Methods for performing network configuration on apparatus and network configuration systems,0,H04L|H04W
+11343353,2022-05-24,Method and system of dispatching requests in a content delivery network,0,H04L
+11341715,2022-05-24,"Video reconstruction method, system, device, and computer readable storage medium",0,G06F|G06T|G06V|H04N
+11341169,2022-05-24,Adaptive data clustering for databases,1,G06F|G06N
+11341023,2022-05-24,"Apparatus, method, and non-transitory computer-readable medium for analyzing trace information",0,G06F
+11336897,2022-05-17,Method and apparatus for coding video data in palette mode,0,H04N
+11334431,2022-05-17,System and method for data protection in solid-state drives,0,G06F|H03M
+11330068,2022-05-10,Methods and systems for recording user operations on a cloud management platform,0,G06F|H04L
+11327929,2022-05-10,Method and system for reduced data movement compression using in-storage computing and a customized file system,0,G06F
+11327765,2022-05-10,"Instruction processing apparatuses, processors, and processing methods",1,G06F
+11327736,2022-05-10,"Update method, system, end node and electronic device",0,G06F|H04W
+11327632,2022-05-10,"Methods, apparatuses, browsers, and electronic devices for providing website navigation icons",0,G06F|H04L
+11323711,2022-05-03,Method and system for signaling chroma quantization parameter offset,0,H04N
+11323453,2022-05-03,"Data processing method, device, access control system, and storage media",0,G06F|H04L
+11323252,2022-05-03,Relay network for encryption system,1,H04L|H04W
+11321431,2022-05-03,"Data processing, watermark embedding and watermark extraction",2,G06F
+11321125,2022-05-03,Task priority processing method and processing device,0,G06F
+11317340,2022-04-26,Method and device for enabling access of an unconfigured device to a network hotspot device,0,H04L|H04W
+11317122,2022-04-26,Filters for motion compensation interpolation with reference down-sampling,0,H04N
+11317008,2022-04-26,Method and apparatus for removing video jitter,0,G06T|H04N
+11308395,2022-04-19,Method and system for performing machine learning,2,G06N
+11308054,2022-04-19,Efficient large column values storage in columnar databases,0,G06F
+11301173,2022-04-12,Method and system for facilitating evaluation of data access frequency and allocation of storage device resources,0,G06F
+11296879,2022-04-05,Encrypted search,1,G06F|H04L
+11294964,2022-04-05,Method and system for searching new media information,0,G06F|Y02D
+11294592,2022-04-05,"Method and device for data processing, and computer device",0,G06F
+11294557,2022-04-05,"Team configuration method, and method and apparatus for sharing team configuration solution",0,G06F|H04L
+11290573,2022-03-29,Method and apparatus for synchronizing viewing angles in virtual reality live streaming,0,G06F|G06T|H04L|H04N
+11288354,2022-03-29,Verification code-based verification processing,0,G06F|G09C|H04L
+11288253,2022-03-29,Allocation method and device for a distributed lock,0,G06F|H04L
+11284168,2022-03-22,Presenting information on similar objects relative to a target object from a plurality of video frames,0,G06Q|G06V|H04N
+11283805,2022-03-22,"Cloud device account configuration method, apparatus and system, and data processing method",0,H04L
+11282129,2022-03-22,"Order processing and order-picking task processing method, server, order-picking terminal, and electronic price tag",0,G06Q|G07F|G07G
+11282045,2022-03-22,"Methods, devices, and systems for verifying digital tickets at a client",0,G06K|G06Q|G07B|G07C
+11281781,2022-03-22,"Key processing methods and apparatuses, storage media, and processors",0,G06F|H04L
+11281762,2022-03-22,Method and apparatus for facilitating the login of an account,0,G06F|H04L|H04W
+11281651,2022-03-22,Method and system for ingesting data in a database,0,G06F
+11281575,2022-03-22,Method and system for facilitating data placement and control of physical addresses with multi-queue I/O blocks,0,G06F
+11277626,2022-03-15,Region of interest quality controllable video coding techniques,0,H04N
+11277418,2022-03-15,"Network attack determination method, secure network data transmission method, and corresponding apparatus",0,H04L
+11276013,2022-03-15,Method and apparatus for training model based on random forest,1,G06F|G06N|H04L
+11275707,2022-03-15,Multi-core processor and inter-core data forwarding method,0,G06F
+11271814,2022-03-08,Online capacity-expanding and online capacity-reducing methods and apparatuses for distributed consensus system,0,H04L
+11271726,2022-03-08,"Key encryption methods, apparatuses, and systems",0,H04L
+11270917,2022-03-08,Scalable and flexible architectures for integrated circuit (IC) design and fabrication,1,H01L|H10D
+11270502,2022-03-08,Method and apparatus for image processing of three-dimensional model maps,0,G06T|H04N
+11263261,2022-03-01,Method and system for characteristic-based video processing,1,G06F|G08B|H04N
+11263231,2022-03-01,Data copy method and device,0,G06F|H04L
+11263132,2022-03-01,Method and system for facilitating log-structure data organization,0,G06F
+11263131,2022-03-01,System and method for allocating memory space,0,G06F
+11259178,2022-02-22,Bluetooth mesh network provisioning authentication,2,H04L|H04W
+11258635,2022-02-22,Overlay network routing using a programmable switch,1,G06F|H04L
+11257283,2022-02-22,"Image reconstruction method, system, device and computer-readable storage medium",1,G06F|G06T|G06V|H04N
+11257005,2022-02-22,Training method and training system for machine learning system,0,G06F|G06N
+11256539,2022-02-22,"Task processing method, apparatus, and system based on distributed system",0,G06F
+11256536,2022-02-22,Method and system for processing transactions using a transaction coordinator,0,G06F
+11252184,2022-02-15,Anti-attack data transmission method and device,0,H04L
+11252121,2022-02-15,Message sending method and terminal device,0,H04L
+11251942,2022-02-15,Secure communication channel between encryption/decryption component and trusted execution environment,4,H04L
+11250089,2022-02-15,"Method for displaying service object and processing map data, client and server",0,G06F|G06Q|G09B|H04W
+11250080,2022-02-15,"Method, apparatus, storage medium and electronic device for establishing question and answer system",0,G06F|Y02D
+11245761,2022-02-08,"Method, apparatus, and computer-readable storage medium for network optimization of cloud storage service",0,H04L
+11245530,2022-02-08,System and method for secure communication,0,H04L
+11244718,2022-02-08,Control of NAND flash memory for al applications,3,G06F|G06N|G11C
+11243909,2022-02-08,Journaling overhead reduction with remapping interface,0,G06F
+11240465,2022-02-01,System and method to use decoder information in video super resolution,0,G06T|G11B|H04N
+11240258,2022-02-01,Method and apparatus for identifying network attacks,0,H04L
+11240160,2022-02-01,"Method, apparatus, and computer-readable storage medium for network control",0,H04L
+11238870,2022-02-01,"Interaction method, electronic device, and server",1,G06F|G10L|H04L
+11237994,2022-02-01,Interrupt controller for controlling interrupts based on priorities of interrupts,1,G06F
+11237833,2022-02-01,Multiply-accumulate instruction processing method and apparatus,0,G06F
+11237704,2022-02-01,"Processing method, apparatus, and client terminal for displaying user specified information of data item",0,G06F|G06Q
+11233766,2022-01-25,Data transmission method and network device,0,H04L
+11231957,2022-01-25,Performing parallel execution of transactions in a distributed ledger system,0,G06F|G06Q
+11231947,2022-01-25,Method and apparatus for determining the capacity of an application cluster,0,G06F
+11231930,2022-01-25,Methods and systems for fetching data for an accelerator,4,G06F
+11227437,2022-01-18,"Three-dimensional model constructing method, apparatus, and system",0,G06T
+11223838,2022-01-11,AI-assisted programmable hardware video codec,1,G06F|G06N|G06V|H04N
+11222093,2022-01-11,Change of variance detection in time series data,0,G06F|G06Q
+11221974,2022-01-11,Device and method for low latency memory access,0,G06F|G11C
+11218741,2022-01-04,"Method, apparatus, electronic device and computer-readable storage medium for video buffering",0,H04N
+11218724,2022-01-04,Motion compensation methods for video coding,0,H04N
+11218165,2022-01-04,Memory-mapped two-dimensional error correction code for multi-bit error tolerance in DRAM,1,G06F|G11C|H03M
+11216690,2022-01-04,System and method for performing image processing based on a damage assessment image judgement model,1,G06F|G06N|G06Q|G06V
+11216412,2022-01-04,Intelligent merging for efficient updates in columnar databases,0,G06F
+11216320,2022-01-04,Method and apparatus for communication between processes,0,G06F|H04L|H04W
+11216023,2022-01-04,Clock tick interrupt configuration method and apparatus,0,G06F|Y02D
+11212766,2021-12-28,"Data transmission methods, apparatuses, base stations and servers",0,H04L|H04W
+11210280,2021-12-28,Systems and methods for fast bloom filter operations,0,G06F
+11210169,2021-12-28,"Data storage method, apparatus, and system",0,G06F|H03M
+11210091,2021-12-28,Method and apparatus for processing data splicing instruction,0,G06F
+11206425,2021-12-21,Inter prediction methods for coding video data,3,H04N
+11205109,2021-12-21,On-chip communication system for neural network processors,0,G06F|G06N
+11204869,2021-12-21,System and method for facilitating data storage with low-latency input/output and persistent data,1,G06F
+11201960,2021-12-14,Message sending method and processing device,0,H04M|H04W
+11201810,2021-12-14,Data transmission method and apparatus,0,H04L|H04W
+11200337,2021-12-14,System and method for user data isolation,0,G06F|H04L
+11200159,2021-12-14,System and method for facilitating efficient utilization of NAND flash memory,0,G06F|H04L
+11200114,2021-12-14,System and method for facilitating elastic error correction code in memory,2,G06F
+11196663,2021-12-07,Method and device for multi-path retransmission in a network,0,H04L
+11190781,2021-11-30,Adaptive resolution change in video processing,1,H04N
+11189010,2021-11-30,Method and apparatus for image processing,0,G06T
+11188731,2021-11-30,Feature data processing method and device,0,G06F|G06N|G06V
+11188471,2021-11-30,Cache coherency for host-device systems,1,G06F
+11184387,2021-11-23,Network attack defense system and method,0,H04L
+11182889,2021-11-23,System and method for authenticating physical objects based on captured images,1,G06F|G06T|G06V|H04L|H04N
+11182318,2021-11-23,Processor and interrupt controller,0,G06F
+11182051,2021-11-23,Instant communication message prompting method and instant communication client,0,G06F|H04L
+11178134,2021-11-16,Method and apparatus for allocating device identifiers,0,G06F|H04L|H04W
+11175338,2021-11-16,System and method for compacting test data in many-core processors,1,G01R|G06F|H03K
+11171936,2021-11-09,"Method, device, and system for offloading algorithms",2,G06F|H04L|H04W
+11170574,2021-11-09,Method and apparatus for generating a navigation guide,0,G06T|G06V
+11170260,2021-11-09,Techniques for determining importance of encoded image components for artificial intelligence tasks,1,G06F|G06N|G06V
+11170188,2021-11-09,Method and apparatus for presenting graphic codes,0,G06F|G06K|G06Q|G09G
+11169881,2021-11-09,System and method for facilitating reduction of complexity and data movement in erasure coding merging on journal and data storage drive,3,G06F|H03M|H04L
+11169873,2021-11-09,Method and system for extending lifespan and enhancing throughput in a high-density solid state drive,0,G06F|G11C|H03M
+11165885,2021-11-02,Routing method and device,0,H04L
+11165757,2021-11-02,Method and apparatus for securing communications using multiple encryption keys,0,G06F|G06Q|G16H|H04L
+11165740,2021-11-02,Message sending method and terminal device,0,H04L
+11165572,2021-11-02,"Trusted measuring method, apparatus, system, storage medium, and computing device",0,G06F|H04L
+11164001,2021-11-02,"Method, apparatus, and system for automatically annotating a target object in images",1,G06F|G06T|G06V
+11159790,2021-10-26,"Methods, apparatuses, and systems for transcoding a video",1,G06N|H04N
+11159561,2021-10-26,"Method, apparatus and system for quantifying defense result",0,H04L
+11159260,2021-10-26,"Method, device, system, and storage medium for live broadcast detection and data processing",0,H04H|H04N
+11153584,2021-10-19,"Methods, apparatuses and devices for panoramic video transcoding",0,G06T|H04N
+11153289,2021-10-19,Secure communication acceleration using a System-on-Chip (SoC) architecture,1,G06F|H04L
+11150986,2021-10-19,Efficient compaction on log-structured distributed file system using erasure coding for resource consumption reduction,7,G06F|H03M
+11150946,2021-10-19,Method and system for processing communication channel,0,G06F|H04L|H04W
+11146829,2021-10-12,Quantization parameter signaling in video processing,0,H04N
+11146554,2021-10-12,"System, method, and apparatus for secure identity authentication",0,G06F|H04L
+11146510,2021-10-12,Communication methods and apparatuses,0,G06F|H04L|H04M
+11146445,2021-10-12,Time series decomposition,2,H04L
+11144250,2021-10-12,Method and system for facilitating a persistent memory-centric system,1,G06F|G11C
+11144191,2021-10-12,Method and apparatus for activating application function based on inputs on an application interface,0,G06F
+11139951,2021-10-05,Blockchain system and data processing method for blockchain system,0,G06F|H04L
+11138685,2021-10-05,Method and apparatus for watermark embedding and extracting,0,G06T|H04N
+11137923,2021-10-05,Method and system for data reduction in a storage infrastructure to support a high-ration thin-provisioned service,0,G06F|H04N
+11134118,2021-09-28,Method and apparatus for browser application to load first screen of web page,0,G06F|H04L|H04M
+11133009,2021-09-28,"Method, apparatus, and terminal device for audio processing based on a matching of a proportion of sound units in an input message with corresponding sound units in a database",0,G06F|G10L
+11132436,2021-09-28,FPGA cloud host development method and system,0,G06F
+11132342,2021-09-28,Periodicity detection and period length estimation in time series,0,G06F
+11132291,2021-09-28,System and method of FPGA-executed flash translation layer in multiple solid state drives,0,G06F
+11128621,2021-09-21,Method and apparatus for accessing website,2,G06F|H04L
+11126827,2021-09-21,Method and system for image identification,0,G06F|G06V
+11126657,2021-09-21,Efficient in-memory representation of computation graph for fast serialization and comparison,1,G06F|G06N
+11126561,2021-09-21,Method and system for organizing NAND blocks and placing data to facilitate high-throughput for random writes in a solid state drive,7,G06F
+11121996,2021-09-14,Method and apparatus for displaying events related to peer communication party to local communication party,6,H04L|H04M
+11120214,2021-09-14,"Corpus generating method and apparatus, and human-machine interaction processing method and apparatus",0,G06F
+11120142,2021-09-14,Device and method for increasing the security of a database,2,G06F
+11119939,2021-09-14,Methods and systems for memory management of kernel and user spaces,0,G06F
+11119911,2021-09-14,Garbage collection method and device,0,G06F
+11119847,2021-09-14,System and method for improving efficiency and reducing system resource consumption in a data integrity check,0,G06F
+11115355,2021-09-07,"Information display method, apparatus, and devices",0,G06F|H04L|H04M
+11115308,2021-09-07,System and method for congestion control using time difference congestion notification,0,H04L
+11115200,2021-09-07,"System, method, and apparatus for quantum key output, storage, and consistency verification",0,H04L
+11114103,2021-09-07,"Systems, methods, and computer-readable storage media for audio signal processing",1,G06N|G10L
+11113387,2021-09-07,Method and apparatus for improving security of Java sandbox,0,G06F
+11113354,2021-09-07,Method and apparatus for managing region tag,0,G06F|G06Q
+11113140,2021-09-07,Detecting error in executing computation graph on heterogeneous computing devices,0,G06F
+11109093,2021-08-31,Method and apparatus for providing information associated with media content,0,G06Q|H04N
+11106901,2021-08-31,Method and system for recognizing user actions with respect to objects,1,G06F|G06T|G06V
+11106420,2021-08-31,"Method, device, system and storage medium for information transmission and data processing",0,G06F|G09G
+11102704,2021-08-24,"Communication between terminal and base station, and network access method and apparatus for terminal",0,G16Y|H04B|H04L|H04W|Y02D
+11102240,2021-08-24,"Early-warning decision method, node and sub-system",0,H04L
+11102114,2021-08-24,"Method, apparatus, and computer-readable storage medium for network optimization for accessing cloud service from on-premises network",0,H04L
+11100187,2021-08-24,Method and device for jumping between pages,0,G06F|H04L|H04W
+11095558,2021-08-17,ASIC for routing a packet,7,H04L
+11093669,2021-08-17,Method and system for quantum computing,2,G06F|G06N
+11093303,2021-08-17,Notification message processing method and apparatus,0,G06F|H04L
+11093276,2021-08-17,System and method for batch accessing,0,G06F
+11086632,2021-08-10,Method and apparatus for providing accelerated access to a memory system,0,G06F
+11080427,2021-08-03,Method and apparatus for detecting label data leakage channel,0,G06F|H04L
+11075865,2021-07-27,Method and apparatus for transmitting business object,1,G06F|G06Q|H04L|H04M
+11074124,2021-07-27,Method and system for enhancing throughput of big data analysis in a NAND-based read source storage,1,G06F|H04L
+11070867,2021-07-20,"Method, device, and computing apparatus for acquiring broadcasting content",0,H04N
+11068586,2021-07-20,Virtual host isolation,0,G06F|H04L
+11068409,2021-07-20,Method and system for user-space storage I/O stack with user-space flash translation layer,8,G06F
+11068200,2021-07-20,Method and system for memory control,1,G06F
+11061834,2021-07-13,Method and system for facilitating an improved storage system by decoupling the controller from the storage medium,0,G06F
+11061735,2021-07-13,System and method for offloading computation to storage nodes in distributed system,4,G06F|H04L
+11056108,2021-07-06,Interactive method and device,1,G06F|G06V|G10L
+11055901,2021-07-06,"Method, apparatus, medium, and server for generating multi-angle free-perspective video data",1,G06F|G06T|G06V|H04N
+11055770,2021-07-06,"Method, apparatus and system for generating collocation renderings",0,G06Q|G06T
+11055360,2021-07-06,Data write-in method and apparatus in a distributed file system,0,G06F
+11055223,2021-07-06,Efficient cache warm up based on user requests,0,G06F
+11055190,2021-07-06,System and method for facilitating storage system operation with global mapping to provide maintenance without a service interrupt,1,G06F
+11055086,2021-07-06,Method and apparatus for upgrading vhost-net module,0,G06F
+11051238,2021-06-29,Communication method and apparatus based on relay device,0,H04B|H04L|H04W
+11051022,2021-06-29,Method and system for processing luma and chroma signals,0,H04N
+11050920,2021-06-29,"Photographed object recognition method, apparatus, mobile terminal and camera",1,G06T|G06V|H04N
+11050750,2021-06-29,"Recording and verification method and apparatus of internet of things device, and identity authentication method and apparatus",1,G06F|H04L|H04W
+11050689,2021-06-29,Method and apparatus for centralized management of personnel and equipment based on instant messaging application,1,G06Q|H04L
+11050655,2021-06-29,Route information distribution through cloud controller,3,H04L
+11049038,2021-06-29,Methods and systems for optimizing quantum circuits,2,G06N
+11048826,2021-06-29,FPGA device and cloud system based on FPGA device,0,G01R|G06F|H04L|Y02D
+11048375,2021-06-29,Multimodal 3D object interaction system,0,G06F
+11042582,2021-06-22,Method and device for categorizing multimedia resources,0,G06F
+11042307,2021-06-22,System and method for facilitating improved utilization of NAND flash based on page-wise operation,5,G06F|G11C
+11038852,2021-06-15,Method and system for preventing data leakage from trusted network to untrusted network,1,H04L
+11038828,2021-06-15,Automatic display of session interface for communication with neighboring device,0,G06F|H04L|H04W
+11037568,2021-06-15,Audio message processing method and apparatus,1,G10L|H04L|H04W
+11037365,2021-06-15,"Method, apparatus, medium, terminal, and device for processing multi-angle free-perspective data",1,G06F|G06T|G06V|H04N
+11036553,2021-06-15,Preempting or traversing allocated resource applications based on job priority and resource demand information,0,G06F
+11032221,2021-06-08,Methods and devices for controlling the timing of network object allocation in a communications network,0,G06F|H04L
+11030411,2021-06-08,"Methods, apparatuses, and devices for generating word vectors",0,G06F|G06N
+11025881,2021-06-01,"Method, computer storage media, and client for switching scenes of panoramic video",0,H04N
+11025771,2021-06-01,"Method, system, and device for network control",0,G06F|H04L|H04M
+11023397,2021-06-01,System and method for monitoring per virtual machine I/O,0,G06F
+11018882,2021-05-25,Session filtering method and device,0,G06F|H04L|H04M
+11018864,2021-05-25,"Method, device, and system for task processing",0,G06F|G09C|H04L|Y02D
+11016932,2021-05-25,"Systems, methods, and apparatuses for simplifying filesystem operations utilizing a key-value storage system",11,G06F
+11016776,2021-05-25,System and method for executing instructions,0,G06F
+11012238,2021-05-18,Identity registration method and device,1,H04L
+11010113,2021-05-18,Method and apparatus for printing relational graph,0,G06F
+11003649,2021-05-11,Index establishment method and device,0,G06F
+11002180,2021-05-11,Method and apparatus for securing communications using multiple encryption keys,0,F02B|G06F
+10999699,2021-05-04,Object locating method and related apparatus,0,G01C|G06Q|H04W
+10999645,2021-05-04,Playing control method and apparatus,0,H04N
+10999592,2021-05-04,Estimated optimal video encoding parameter set systems and methods,0,H04N
+10999327,2021-05-04,"Policy deployment method, apparatus, system and computing system of trusted server",0,G06F|H04L
+10999072,2021-05-04,"Trusted remote proving method, apparatus and system",0,G06F|H04L|H04W
+10999068,2021-05-04,"Authentication method, device and system for quantum key distribution process",1,H04L
+10997445,2021-05-04,Facial recognition-based authentication,2,G06F|G06V|G09G|H04N
+10997185,2021-05-04,Information query method and apparatus,0,G06F
+10997019,2021-05-04,System and method for facilitating high-capacity system memory adaptive to high-error-rate and low-endurance media,2,G06F
+10996976,2021-05-04,Systems and methods for scheduling neural networks by varying batch sizes,1,G06F|G06N
+10996886,2021-05-04,Method and system for facilitating atomicity and latency assurance on variable sized I/O,0,G06F
+10996845,2021-05-04,"Method, application, browser, and electronic device for providing webpage content",0,G06F|H04L
+10990849,2021-04-27,"Sample screening method and apparatus, and service object data searching method and apparatus",2,G06F
+10990382,2021-04-27,"Encryption machine upgrade, data import and request migration method, apparatus and device",0,G06F|H04L
+10990290,2021-04-27,"High-volume, low-latency data processing in flexibly configured local heterogeneous computing environments",0,G06F
+10986573,2021-04-20,Bluetooth mesh network gateway and device data communication,0,H04W|Y02D
+10986207,2021-04-20,Dynamically-organized system for distributed calculations,0,G06Q|H04L
+10986191,2021-04-20,Method and device for scheduling resources,0,G06F|H04L
+10985913,2021-04-20,Method and system for protecting data keys in trusted computing,1,H04L
+10979624,2021-04-13,Methods and devices for establishing photographing template database and providing photographing recommendation information,2,G06F|G06V|H04N
+10978134,2021-04-13,Method and device for refreshing memory,4,G06N|G11C
+10977648,2021-04-13,Transaction confirmation based on user attributes,0,G06Q
+10977350,2021-04-13,"Contact information display method and device, and information display method and device",0,G06F|G06V
+10977230,2021-04-13,Data information processing method and data storage system,0,G06F|G06Q|H04L
+10977122,2021-04-13,System and method for facilitating differentiated error correction in high-density flash devices,0,G06F|G11C
+10970596,2021-04-06,Logistic regression gradient calculation method and apparatus,0,G06F|G06N|G06Q|G06V
+10970212,2021-04-06,Method and system for facilitating a distributed storage system with a total cost of ownership reduction for multiple available zones,0,G06F
+10970043,2021-04-06,Programmable multiply-add array hardware,0,G06F|G06N
+10963935,2021-03-30,User recommendation method and device,0,G06Q|H04L
+10958602,2021-03-23,Method and device for processing information based on instant messaging,0,G06F|H04L
+10957004,2021-03-23,Watermark processing method and device,0,G06F|G06T|H04N
+10956990,2021-03-23,Methods and apparatuses for adjusting the distribution of partitioned data,1,G06F|G06Q
+10956776,2021-03-23,2D convolutional accelerator that generates 3D results,0,G06F|G06N|G06V
+10956395,2021-03-23,Association analysis method and apparatus,0,G06F|G06Q
+10951895,2021-03-16,Context model selection based on coding unit characteristics,2,H04N
+10951614,2021-03-16,Method and system for network security,0,H04L|H04W
+10951587,2021-03-16,System and method for wireless network security,0,H04L|H04W
+10951470,2021-03-16,Bluetooth mesh network provisioning,1,H04L|H04W
+10949995,2021-03-16,"Image capture direction recognition method and server, surveillance method and system and image capture device",1,G06F|G06T|H04N
+10936364,2021-03-02,Task allocation method and system,0,G06F|H04L
+10936359,2021-03-02,Task resource scheduling method and apparatus,2,G06F
+10931811,2021-02-23,Method and system for verifying transmission of multimedia messages,1,G06F|H04L|H04M
+10931766,2021-02-23,"Data collecting method, system, terminal, and server",1,G06F|H04L|H04W
+10931710,2021-02-23,Method and device for defending against network attacks,0,H04L
+10931610,2021-02-23,"Method, device, user terminal and electronic device for sharing online image",0,G06T|H04L
+10931601,2021-02-23,Method and apparatus for conditional broadcasting of network configuration data,0,H04L
+10931502,2021-02-23,"Communication method and apparatus based on relay device, and communication method and apparatus between terminal and base station",0,H04B|H04L|H04W|Y02D
+10929121,2021-02-23,"Method, device and related system for dynamically repairing application",0,G06F
+10925104,2021-02-16,Method and device for network connection download,0,H04L|H04W
+10924750,2021-02-16,Palette size constraint in palette mode for video compression system,0,H04N
+10924457,2021-02-16,Packet cleaning method and apparatus,0,H04L
+10924440,2021-02-16,Method and apparatus for prompting work status,0,H04L
+10922480,2021-02-16,Place-based information processing method and apparatus,1,G06F|G06V|H04L|H04W
+10922429,2021-02-16,"System, method, and apparatus for data access in a cloud computing environment",0,G06F|H04L
+10922258,2021-02-16,Centralized-distributed mixed organization of shared memory for neural network processing,0,G06F|G06N
+10922234,2021-02-16,Method and system for online recovery of logical-to-physical mapping table affected by noise sources in a solid state drive,0,G06F
+10922133,2021-02-16,Method and apparatus for task scheduling,3,G06F|H04L
+10921992,2021-02-16,Method and system for data placement in a hard disk drive based on access frequency for improved IOPS and utilization efficiency,2,G06F|G11B
+10915925,2021-02-09,Method and apparatus for guiding service flow,1,G06Q|H04L
+10915412,2021-02-09,System and method for live migration of a virtual machine,0,G06F
+10915317,2021-02-09,Multiple-pipeline architecture with special number detection,0,G06F|G06N
+10909481,2021-02-02,Method and apparatus for analyzing data table,0,G06F|G06Q
+10908960,2021-02-02,Resource allocation based on comprehensive I/O monitoring in a distributed storage system,7,G06F

@@ -1,0 +1,1900 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432884,2025-09-30,Conforming heat transport device for dual inline memory module cooling applications,0,G06F|G11C|H05K
+12432707,2025-09-30,Selective spatial reuse to enhance network performance,0,H04W
+12432555,2025-09-30,Multi AP microbranch deployment configuration based on optimized packet forwarding,0,H04W
+12432162,2025-09-30,Dynamic bandwidth capacity control for enterprises,0,H04L
+12432118,2025-09-30,Auto-formation of link aggregations based on remotely-issued instructions,0,H04L|Y02D
+12432092,2025-09-30,Dynamic assignments of tunnels to broadcast groups,0,H04L
+12432089,2025-09-30,Identifying source of layer-2 loop in ring network,0,H04L
+12428263,2025-09-30,Intelligent elevator control system utilizing wireless user location awareness,0,B66B|G05B|H04W
+12426027,2025-09-23,Ultra low latency,0,H04W
+12423413,2025-09-23,Program file measurements for context-specific validation,0,G06F
+12423330,2025-09-23,Updating data models to manage data drift and outliers,0,G06F
+12423249,2025-09-23,Dragonfly routing with incomplete group connectivity,0,G06F|H04L
+12423191,2025-09-23,Remote data merge system and method,0,G06F
+12423149,2025-09-23,Lock-free work-stealing thread scheduler,0,G06F
+12423094,2025-09-23,Software life-cycle component management system,0,G06F
+12422809,2025-09-23,Fan enhancements to improve server performance and quality,0,G01R|G05B|G06F
+12418441,2025-09-16,Smart NIC/DPU translation agent for vendor-specific communication,0,H04L
+12418423,2025-09-16,Binding a virtual security processor to a physical security processor,0,H04L
+12416952,2025-09-16,Programming power controllers via logic device,0,G06F
+12414031,2025-09-09,Centralized solution to high-throughput topology optimization for wireless mesh networks,0,H04W
+12414019,2025-09-09,Sensor-based roaming issue identification in a wireless network,0,H04W
+12413424,2025-09-09,Systems and methods for assigning a cryptographic identity to node-based systems,0,H04L
+12408303,2025-09-02,Elastomer embedded multipoint contact cooling,0,H01L|H05K
+12407604,2025-09-02,Loop protection in a network,0,H04L
+12407567,2025-09-02,Dynamic device persona identification in a network,0,H04L|Y02D
+12407495,2025-09-02,Encryption keys from storage systems,0,H04L
+12406176,2025-09-02,Distributed execution of neural networks,0,G06N
+12405903,2025-09-02,System and method for facilitating fine-grain flow control in a network interface controller (NIC),0,G06F|H04L
+12405861,2025-09-02,Adaptive scaling of topics in a stateful event-driven platform,0,G06F
+12405825,2025-09-02,Distribution of quantities of an increased workload portion into buckets representing operations,0,G06F
+12405813,2025-09-02,Device onboarding assurance,0,G06F|H04L
+12405791,2025-09-02,Dynamic communication architecture for decentralized heterogenous accelerators,0,G06F
+12405780,2025-09-02,Firmware updates using a first core system and a backup core system,0,G06F
+12405728,2025-09-02,Workload management using a trained model,0,G06F|G06N
+12405643,2025-09-02,Integrated locking mechanism for drive blanks,0,G06F|G11B|H05K
+12405640,2025-09-02,Adaptable housing for light pipes with different light pipe arrangements,0,G02B|G06F|H05K
+12402116,2025-08-26,Scheduling uplink traffic of station,0,H04W
+12402012,2025-08-26,Channel allocation in wireless local area network,0,H04W
+12401512,2025-08-26,Secure connection initiation to prevent replay attacks in an encrypted network,0,H04L
+12400043,2025-08-26,Security for power supply unit microcontrollers,0,G06F
+12399784,2025-08-26,Efficient event-driven memory snapshots in embedded systems,0,G06F
+12396119,2025-08-19,Riser cage to support a connector of a riser card,0,G06F|H05K
+12395524,2025-08-19,Mitigation of a denial of service attack in a device provisioning protocol (DPP) network,0,H04L
+12395323,2025-08-19,Encryption of parameters in configuration files,0,H04L
+12393883,2025-08-19,Adaptively synchronizing learning of multiple learning models,0,G06F|G06N
+12393691,2025-08-19,Securing node groups,0,G06F|H04L
+12393606,2025-08-19,Data migration using a consistency group,0,G06F
+12393530,2025-08-19,System and method for dynamic allocation of reduction engines,0,G06F|H04L
+12389319,2025-08-12,Power management for virtualized RAN,0,H04L|H04W
+12389285,2025-08-12,Optimizing key allocation during roaming using machine learning,0,G06N|H04L|H04W
+12388747,2025-08-12,Programmable multicast routes on a virtual gateway switch,0,H04L
+12388731,2025-08-12,Hierarchical aggregation of select network traffic statistics,0,G06F|H04L|Y02D
+12388716,2025-08-12,"Comparing network topology, states, and configuration at different time instances",0,H04L
+12387018,2025-08-12,Behavior model of photodetectors with a built-in lookup table,0,G01J|G06F
+12386966,2025-08-12,Forced upgrade for airgapped network management system,0,G06F
+12386950,2025-08-12,Detection of unauthorized data encryption,0,G06F
+12386759,2025-08-12,Algorithms for use of load information from neighboring nodes in adaptive routing,0,G06F|H04L
+12386673,2025-08-12,Hardware-based predictive fault detection and analysis,0,G06F
+12381942,2025-08-05,Correlations between workload characteristics and elapsed times,0,G06F|G06N|H04L
+12381705,2025-08-05,Fast multicast convergence for time synchronization in a network,0,H04J|H04L
+12381583,2025-08-05,Dual 6GHZ radio arrangement for access point,0,H04B|H04W
+12380111,2025-08-05,Fingerprints for database queries,0,G06F
+12380049,2025-08-05,CXL fabric extensions,0,G06F|H04L
+12379909,2025-08-05,Automated program conversion for heterogeneous and FaaS computing with minimal human intervention,0,G06F|G06N
+12375948,2025-07-29,Single physical access point based roaming test system,0,H04L|H04W
+12375406,2025-07-29,Virtual socket for load balancing and failover,0,H04L
+12373910,2025-07-29,Scheduling jobs on graphical processing units,0,G06F|G06T
+12373310,2025-07-29,Backup recovery from remote storage,0,G06F
+12372101,2025-07-29,Fan mounting system,0,F04D|G06F|H05K
+12369011,2025-07-22,Location identification of access points in a network,0,G06F|H04W
+12368695,2025-07-22,Compacting traffic separation policies in campus networks,0,H04L
+12368678,2025-07-22,Expansion of packet mirroring functionality,0,H04L
+12368666,2025-07-22,Efficient traffic redirection for an MCLAG for controlled unavailability events,0,H04L
+12367152,2025-07-22,Accelerating containerized applications with caching,0,G06F
+12367092,2025-07-22,Attributing errors to input/output peripheral drivers,0,G06F
+12363636,2025-07-15,Aligning target beacon transmission time for multi-link connection,0,H04W|Y02D
+12363189,2025-07-15,Computing cluster load balancer,0,H04L
+12363155,2025-07-15,Adaptive machine learning platform for security penetration and risk assessment,0,G06N|H04L
+12363111,2025-07-15,Unauthorized device detection in a computing environment,0,H04L
+12360924,2025-07-15,Method and system for facilitating lossy dropping and ECN marking,0,G06F|H04L
+12360923,2025-07-15,System and method for facilitating data-driven intelligent network with ingress port injection limits,0,G06F|H04L
+12360778,2025-07-15,Self-adaptable accelerators having alternating production/optimizing modes,0,G06F
+12360583,2025-07-15,Pseudo-sleep mode for networking devices,0,G06F|H04L|Y02D
+12360578,2025-07-15,Drive adaptor for a drive carrier,0,G06F
+12355645,2025-07-08,Aggregation of select network traffic statistics,0,G06F|H04L|Y02D
+12353694,2025-07-08,Screen-reader accessible multiselect user interface component with dynamic state announcements,0,G06F
+12353559,2025-07-08,Agentless attestation as a service,0,G06F
+12353557,2025-07-08,Generating alerts for unexpected kernel modules,0,G06F|H04L
+12353473,2025-07-08,Image data bias detection with explainability in machine learning,0,G06F|G06V
+12353331,2025-07-08,Kernel memory monitor for user-space mapping change notifications,0,G06F
+12348433,2025-07-01,Method and system for dynamic quota-based congestion management,0,H04L
+12346735,2025-07-01,Workload execution on backend systems,0,G06F
+12346602,2025-07-01,Operation execution on memory servers,0,G06F
+12346403,2025-07-01,Distributing matrix multiplication processing among processing nodes,0,G06F
+12346274,2025-07-01,System and method for implementing a network-interface-based allreduce operation,0,G06F|G06N
+12346272,2025-07-01,System and method for facilitating on-demand paging in a network interface controller (NIC),0,G06F|H04L
+12346252,2025-07-01,Efficient key-value cache management for large language models,0,G06F|H04L
+12346249,2025-07-01,Memory wear leveling,0,G06F
+12346149,2025-07-01,Clock synchronization in time-interleaved analog-to-digital conversion,0,G06F
+12341878,2025-06-24,Generating cryptographic security parameters responsive to conductive mesh-captured radiances,0,H04L
+12341686,2025-06-24,System and method for facilitating efficient utilization of an output buffer in a network interface controller (NIC),0,G06F|H04L
+12341684,2025-06-24,Efficiently forwarding bidirectional multicast traffic at a virtual gateway device,0,H04L
+12341675,2025-06-24,Strategy to ensure continual user experience and system performance if an Uplink is stuck,0,H04L|H04W
+12341627,2025-06-24,Packet fragmentation in GRE,0,H04L
+12340842,2025-06-24,CAMs for low latency complex distribution sampling,0,G06N|G11C
+12340680,2025-06-24,Displaying IP address of network devices using port LED indicators,0,G08B|H04L
+12339963,2025-06-24,Unauthorized data encryption detection based on pattern matching at a storage system,0,G06F
+12339785,2025-06-24,Graph cache,0,G06F
+12335855,2025-06-17,Centralized service discovery management,0,H04B|H04W
+12335137,2025-06-17,System and method for facilitating efficient message matching in a network interface controller (NIC),0,G06F|H04L
+12335125,2025-06-17,Bandwidth estimate filtering based on packet loss patterns,0,H04L|H04Q|H04W
+12335123,2025-06-17,Distributed network monitoring,0,H04L
+12333415,2025-06-17,Neural network accelerators,0,G06F|G06N|G11C
+12332539,2025-06-17,Reconfigurable all-optical activation functions having normalized output power,0,G02F|G06N|H01S
+12328252,2025-06-10,System and method for facilitating efficient address translation in a network interface controller (NIC),0,G06F|H04L
+12327940,2025-06-10,Mechanical clamp to releasably hold electronic devices of a computing system,0,G06F|H01R
+12326644,2025-06-10,Reconfigurable all-optical nonlinear activation functions on silicon-integrated platform,0,G02F|G06N
+12324127,2025-06-03,Folded-fin vapor chamber cold plate,0,F28D|F28F|H01L|H05K
+12323790,2025-06-03,Secure zero-exchange provision system for wireless mesh access points,0,H04W
+12321786,2025-06-03,Regulation of throttling of polling based on processor utilizations,0,G06F|Y02D
+12321619,2025-06-03,Aggregating small remote memory access requests,0,G06F|H04L
+12321207,2025-06-03,Drive carrier with in-molded screw plate,0,G06F|G11B
+12317360,2025-05-27,Session continuity for a user equipment,0,H04W
+12317220,2025-05-27,Distributed access point location determination in enterprise wireless networks,0,H04W
+12317177,2025-05-27,Seamless regulatory access point updates ensuring continual client connectivity,0,H04W
+12317172,2025-05-27,Reconfiguring beacon frames to minimize network outage,0,H04L|H04W
+12316636,2025-05-27,Management interface access in storage systems,0,H04L
+12316623,2025-05-27,Verifying the authenticity of internet key exchange messages in a virtual private network,0,H04L
+12316513,2025-05-27,High performance compute infrastructure as a service,0,G06F|H04L
+12316488,2025-05-27,Expediting correction of WAN or LAN traffic loss,0,H04L
+12314787,2025-05-27,Serving application programming interface calls directed to hierarchical data format files stored in fabric-attached memories,0,G06F
+12314612,2025-05-27,Restricted transport storage cartridges,0,G06F|G11B|H04L
+12314603,2025-05-27,Selective connection of controllers to a single-ported input/output device,0,G06F
+12314589,2025-05-27,Filesystem operations in storage devices,0,G06F
+12314581,2025-05-27,Storage system selection for storage volume deployment,0,G06F
+12314393,2025-05-27,Detection of ransomware attack using entropy values,0,G06F|H04L
+12314139,2025-05-27,Inline housekeeping for a deduplication storage system,0,G06F
+12314095,2025-05-27,Fluid couplings with magnetic latch assembly,1,F16L|G06F|H05K
+12313747,2025-05-27,Automatic location of access points in a network,0,G01S|H04W
+12309075,2025-05-20,Credit-based network management service messaging,0,H04L
+12307739,2025-05-20,Image data synthesis using adversarial autoencoders for continual training of models,0,G06N|G06V
+12307124,2025-05-20,Enhanced k-SAT solver using analog content addressable memory,0,G06F|G06G|G06N|G11C
+12306941,2025-05-20,Ransomware detection in a deduplication storage system,0,G06F
+12306925,2025-05-20,Watermark for manufacturing authenticity,0,G06F|G06T|G09G|H01H
+12306735,2025-05-20,Enhanced configuration management of data processing clusters,0,G06F
+12301536,2025-05-13,Wi-Fi roaming support for cloud integrated remote WLAN deployment,0,H04L
+12301473,2025-05-13,Excess active queue management (AQM): a simple AQM to handle slow-start,0,H04L
+12301450,2025-05-13,System and method for facilitating self-managing reduction engines,0,G06F|H04L
+12301427,2025-05-13,Method and system for facilitating high availability in a multi-fabric system,0,H04L
+12301340,2025-05-13,Transporting client timing information across a network,0,H04J|H04L
+12299482,2025-05-13,Cascaded priority mapping,0,G06F
+12299084,2025-05-13,Artificial intelligence optimization platform,0,G06F|G06N
+12294515,2025-05-06,Quality sensing network management,0,H04L
+12294514,2025-05-06,System and method for facilitating operation management in a network interface controller (NIC) for accelerators,0,G06F|H04L
+12289287,2025-04-29,Single-domain registration initiated cancellation,0,H04L|H04W
+12287734,2025-04-29,Client allocation of memory across memory servers,0,G06F
+12287685,2025-04-29,Resetting system settings memories,0,G06F
+12284089,2025-04-22,Alert correlating using sequence model with topology reinforcement systems and methods,0,G06F|G06N|H04L
+12284056,2025-04-22,Service discovery across tunnel endpoints in overlays,0,H04L
+12282791,2025-04-22,Virtualized I/O,0,G06F
+12282662,2025-04-22,Chassis servicing and migration in a scale-up NUMA system,0,G06F
+12279323,2025-04-15,Split multi-link system,0,H04W
+12278760,2025-04-15,Communication simulation between an access point and an electronic device,0,H04L|H04W
+12277424,2025-04-15,Cloud-based provisioning of UEFI-enabled systems,0,G06F
+12277318,2025-04-15,Adaptable redriver design on drive backplane with universal backplane management controller,0,G06F
+12277139,2025-04-15,Storage space determinations for snapshots,0,G06F
+12277132,2025-04-15,Similarity analyses in analytics workflows,0,G06F
+12277129,2025-04-15,Data recommender using lineage to propagate value indicators,0,G06F
+12277080,2025-04-15,Smart network interface card control plane for distributed machine learning workloads,0,G06F
+12273394,2025-04-08,System and method of decentralized management of device assets outside a computer network,0,H04L
+12273219,2025-04-08,Efficient multicast packet forwarding in a distributed tunnel fabric,0,H04L
+12271764,2025-04-08,Dynamically modular and customizable computing environments,0,G06F
+12267704,2025-04-01,Mitigation of radio frequency (RF) outages on a wireless network,0,H04W
+12267229,2025-04-01,System and method for facilitating data-driven intelligent network with endpoint congestion detection and control,0,G06F|H04L
+12267214,2025-04-01,Guidance tool for configuring cloud solutions,0,H04L
+12265855,2025-04-01,Infrastructure for deploying a security information and event management application on a container platform,0,G06F|H04L|H04W
+12265718,2025-04-01,Simplified raid implementation for byte-addressable memory,0,G06F
+12265501,2025-04-01,Planar file system for organizing and interrelating large data sets,0,G06F
+12259834,2025-03-25,Dynamic variation of bus parameters,0,G06F
+12254924,2025-03-18,Differentiable content addressable memory,0,G06F|G06N|G11C|H03M
+12254416,2025-03-18,Compiler for implementing neural network accelerator,0,G06N
+12254395,2025-03-18,System and method for processing convolutions on crossbar-based neural network accelerators for increased inference throughput,0,G06F|G06N|G11C
+12254318,2025-03-18,Speculative register reclamation,0,G06F
+12254119,2025-03-18,Securing a container ecosystem,0,G06F|H04L
+12253997,2025-03-18,Data objects in a distributed file system,0,G06F|H04L
+12248822,2025-03-11,Lifecycle management for workloads on heterogeneous infrastructure,0,G06F
+12248494,2025-03-11,High availability computing clusters,0,G06F
+12248488,2025-03-11,Data recommender using lineage to propagate value indicators,0,G06F
+12245401,2025-03-04,Disconnects,0,F16L|G06F|H05K
+12244733,2025-03-04,Authorizing secure connections responsive to certificates bound to logical identifiers,0,G06F|H04L
+12244695,2025-03-04,Associating pre-shared keys with client devices based on message integrity check values,0,H04L
+12244489,2025-03-04,System and method for performing on-the-fly reduction in a network,0,G06F|H04L
+12243063,2025-03-04,AIOps as a cloud-based service,0,G06Q
+12242966,2025-03-04,Acceleration of model/weight programming in memristor crossbar arrays,0,G06N|G11C
+12242354,2025-03-04,Methods and apparatus for providing hypervisor level data services for server virtualization,0,G06F
+12238598,2025-02-25,Dynamic client segregation in 802.11ax networks,0,H04W
+12238082,2025-02-25,Cloud-orchestrated role management for WLAN,0,H04L|H04W
+12236240,2025-02-25,Freshness and gravity of data operators executing in near memory compute in scalable disaggregated memory architectures,0,G06F
+12236095,2025-02-25,Handling frequently accessed pages,0,G06F
+12235795,2025-02-25,File system provisioning for workload,0,G06F|G06N
+12235634,2025-02-25,Managing security of enclosure based on a task status and geographical location of the enclosure,0,G05B|G06F|H04L|H04W
+12232018,2025-02-18,Uninterrupted multiple basic service set identifiers,0,H04L|H04W
+12229517,2025-02-18,"Facilitating an automated, interactive, conversational troubleshooting dialog regarding a product support issue via a chatbot",0,G06F|G06N|G06Q|H04L
+12229132,2025-02-18,Execution of query plans,0,G06F
+12229048,2025-02-18,Mechanism to enable out-of-order packet processing in a datatype engine,0,G06F
+12224981,2025-02-11,Techniques for onboarding web applications in a zero trust environment,0,H04L
+12218829,2025-02-04,System and method for facilitating data-driven intelligent network with per-flow credit-based flow control,0,G06F|H04L
+12218828,2025-02-04,System and method for facilitating efficient packet forwarding in a network interface controller (NIC),0,G06F|H04L
+12207415,2025-01-21,Identifications of deviations relating to assemblies of components,0,G06T|H05K
+12206595,2025-01-21,Enhanced redeploying of computing resources,0,G06F|G06N|H04L
+12206582,2025-01-21,Facilitating fast re-route in high-availability networks,0,H04L
+12206518,2025-01-21,Frame processing at an access point,0,H04L|H04W
+12206513,2025-01-21,Power allotment adjustment in a power sourcing equipment (PSE) of a power over ethernet system based on event detection at another PSE,0,G06F|H04L
+12204961,2025-01-21,Resistive and digital processing cores,0,G06F|G06J|G11C
+12204639,2025-01-21,Monitoring operating system invariant information,0,G06F
+12204628,2025-01-21,Management controller-based verification of platform certificates,0,G06F
+12192924,2025-01-07,Frame burst overlapping basic service set handling,0,H04W
+12192799,2025-01-07,Autonomous access point failure recovery,0,H04L|H04W
+12192292,2025-01-07,Multiple model injection for a deployment cluster,0,G06F|G06N|H04L
+12192086,2025-01-07,Validating reachability for liaison VRFs using OAM ping packets,0,H04L
+12184500,2024-12-31,Fetching topologies using timestamp-callback map,0,H04L
+12181996,2024-12-31,Sensor reliability determination,0,G05B|G06F
+12166745,2024-12-10,Performance improvement for encrypted traffic over IPSEC,0,H04L
+12166629,2024-12-10,Machine learning based firmware version recommender,0,G06F|G06N|H04L
+12155667,2024-11-26,Techniques for providing hypertext transfer protocol through a secure environment,0,H04L
+12154117,2024-11-26,"Facilitating an automated, interactive, conversational troubleshooting dialog regarding a product support issue via a chatbot and associating product support cases with a newly identified issue category",0,G06F|G06N|G06Q|H04L
+12141608,2024-11-12,Systems and methods of resource configuration optimization for machine learning workloads,0,G06F|G06N
+12137545,2024-11-05,Electromagnetic shield of an integrated circuit package,0,H01L|H02M|H05K
+12137047,2024-11-05,Method and system for providing network egress fairness between applications,0,G06F|H04L
+12137029,2024-11-05,Dynamic reconfiguration of resilient logical modules in a software defined server,0,G06F|H04L
+12135979,2024-11-05,Control plane configuration,0,G06F|H04L
+12135885,2024-11-05,Virtual storage policies for virtual persistent volumes,0,G06F
+12135826,2024-11-05,Securing a container ecosystem,0,G06F|H04L
+12133353,2024-10-29,Removable air dams for air cooling in computer systems,0,G06F|H05K
+12133349,2024-10-29,Intelligent cable topology detection,0,G06F|H05K
+12133167,2024-10-29,Persistent TWT sessions,0,H04W|Y02D
+12133095,2024-10-29,Machine learning-based approaches for service function chain selection,0,G06N|H04W
+12133073,2024-10-29,Selective caching of pairwise master keys in streamlined roaming,0,H04W
+12132809,2024-10-29,Method and system for high speed data links,0,H04L
+12132725,2024-10-29,Setting system time for server certificate validation,0,H04J|H04L
+12132714,2024-10-29,Internet protocol security (IPsec) security associations (SA) balance between heterogeneous cores in multiple controller system,0,H04L
+12132707,2024-10-29,Host firewall interfaces for controllers,0,G06F|H04L
+12132703,2024-10-29,Automatic discovery of access point (AP) persona and configuration derivation in multi AP microbranch deployment,0,H04L
+12132668,2024-10-29,Network-aware resource allocation,0,H04L
+12132649,2024-10-29,System and method for facilitating efficient host memory access from a network interface controller (NIC),0,G06F|H04L
+12132648,2024-10-29,System and method for facilitating efficient load balancing in a network interface controller (NIC),0,G06F|H04L
+12132643,2024-10-29,Multicast datapath tracing in layer-2 networks,0,H04L|Y02D
+12132621,2024-10-29,Managing network service level thresholds,0,H04L
+12132613,2024-10-29,Access point validation for network change,0,H04L
+12132588,2024-10-29,Loop detection in virtual extensible local area network overlay,0,H04L
+12131808,2024-10-29,Massively parallel processing database for sequence and graph data structures applied to rapid-response drug repurposing,0,G06F|G16B
+12131290,2024-10-29,Spare part management and reservation system,0,G06Q
+12131256,2024-10-29,System and method for training non-parametric machine learning model instances in a collaborative manner,0,G06N
+12131205,2024-10-29,Automatically optimized credit pool mechanism based on number of virtual channels and round trip path delay,0,G06F|G06Q|H04L
+12131164,2024-10-29,End-to-end topology stitching and representation,0,G06F|H04L
+12131146,2024-10-29,Maintenance time window prediction for installing updates to a compute node,0,G06F
+12131029,2024-10-29,Datatype engine to support high performance computing,0,G06F
+12130804,2024-10-29,Tracking a resume point and metrics in a collection of operations,0,G06F
+12130765,2024-10-29,Sharing communication lines among multiple buses,0,G06F
+12130707,2024-10-29,Back-reference data structure for a deduplication storage system,0,G06F
+12126684,2024-10-22,Publisher-subscriber message mapping,0,H04L
+12126642,2024-10-22,Network embeddings model for personal identifiable information protection,0,H04L|H04W
+12126535,2024-10-22,Policy synthesis to enforce group-based policies to unknown flows,0,H04L
+12126526,2024-10-22,Preventing generation of duplicate network routes in a software defined wide area network,0,H04L
+12126521,2024-10-22,Policy enforcement on multi-destination packets in a distributed tunnel fabric,0,H04L
+12126498,2024-10-22,Intelligent time to fail prediction for optical transceivers,0,H04B|H04L
+12126488,2024-10-22,Network switch stack failover configuration management,0,H04L
+12124888,2024-10-22,Autoscaling nodes of a stateful application based on role-based autoscaling policies,0,G06F
+12124884,2024-10-22,Managing deployment of workloads,1,G06F
+12124617,2024-10-22,Securing a container ecosystem,0,G06F|H04L
+12124423,2024-10-22,Optimizing the operation of a microservice cluster,0,G06F
+12124305,2024-10-22,Power priority adjustment in power over ethernet system based on availability of alternative power source,1,G06F|H02J
+12120611,2024-10-15,Wake-up by a network device,0,H04W|Y02D
+12119061,2024-10-15,Stochastic local search accelerator based on cams for solving constraint satisfaction problems,0,G06F|G11C|H03K
+12118115,2024-10-15,Virtualizing secure storage of a baseboard management controller to a host computing device,0,G06F
+12117924,2024-10-15,Context-based test suite generation as a service,0,G06F|G06N
+12113907,2024-10-08,Methods and systems for enrolling Device Identifiers (DevIDs) on redundant hardware,0,G06F|H04L
+12113796,2024-10-08,Secured data access in virtual data processing,1,H04L
+12113775,2024-10-08,Pre-shared key based virtual private network,0,H04L
+12113768,2024-10-08,Using intent to access in discovery protocols in a network for analytics,0,H04L
+12113703,2024-10-08,Data transfer for access points or switches in a cluster upon data tunnel failure,0,H04L
+12113675,2024-10-08,Forced upgrade for network management system,1,H04L
+12112261,2024-10-08,System and method for model parameter optimization,0,G01W|G05B|G06F|G06N
+12112207,2024-10-08,Selecting nodes in a cluster of nodes for running computational jobs,0,G06F|Y02D
+12112153,2024-10-08,Environment establishment for a program in a server system,0,G06F|H04L
+12111937,2024-10-08,Memory scan-based process monitoring,0,G06F
+12111757,2024-10-08,Fluid memory for high performance computing applications,0,G06F
+12111706,2024-10-08,Variable enhanced processor performance,0,G06F|Y02D
+12108328,2024-10-01,Combining power saving operation with cell dormancy,0,H04W|Y02D
+12107857,2024-10-01,Multicast traffic segmentation in an overlay network,0,H04L
+12107754,2024-10-01,Role information propagation in access switches,0,H04L
+12106119,2024-10-01,Client update of data modification tracking structure,0,G06F
+12106046,2024-10-01,Performant run-time parsing and editing in a client-server model,0,G06F
+12105976,2024-10-01,Journals for data cloning operations,0,G06F
+12105863,2024-10-01,Interface controller for commodity devices,0,G06F
+12105859,2024-10-01,Managing storage of secrets in memories of baseboard management controllers,0,G06F
+12105851,2024-10-01,Secure data center update and monitoring,0,G06F
+12105806,2024-10-01,Securing communications with security processors using platform keys,0,G06F|H04L
+12105691,2024-10-01,Distributable hash filter for nonprobabilistic set inclusion,0,G06F|H03M
+12105643,2024-10-01,Securing a memory device,0,G06F
+12105575,2024-10-01,Reconfiguration of a computing system using a circuit switch,0,G06F
+12101685,2024-09-24,Coordinated ranging between access points in a network,0,H04B|H04W
+12101643,2024-09-24,Assisted network roaming with predictive network tool,0,H04W
+12101638,2024-09-24,Channel assignments for ranging between access points during beacon intervals,0,H04W
+12101635,2024-09-24,Access point capable of mirroring wired and wireless data traffic,0,H04W
+12101378,2024-09-24,Storage array fleet management,0,G06F|H04L
+12101339,2024-09-24,IoT malware classification at a network device,0,G06F|G06N|H04L
+12101321,2024-09-24,Configuring instances with instance metadata stored in virtual security processors,0,H04L
+12101241,2024-09-24,Mechanism for intelligent and comprehensive monitoring system using peer-to-peer agents in a network,1,H04L
+12101218,2024-09-24,Transmit specific traffic along blocked link,0,H04L
+12099466,2024-09-24,Embedded systems environment having improved overlay file system storage management,0,G06F
+12096511,2024-09-17,Service discovery for wired hosts,0,H04L|H04W
+12096358,2024-09-17,TWT based multi-connection mechanism,0,H04W|Y02D
+12096343,2024-09-17,Evaluating cellular channels,0,H04W
+12096279,2024-09-17,Dynamic BSS color feature for co-hosted virtual access points,0,H04W
+12096252,2024-09-17,Mitigation of radio frequency (RF) outages on a wireless network,0,H04W
+12096214,2024-09-17,Establishing a backup connectivity between a sensor and a management system,0,H04W
+12096206,2024-09-17,Customized code bundle to enable secure communication from internet of things devices at wireless networks,0,G06N|G16Y|H04L|H04W
+12095905,2024-09-17,Authenticating an intermediate communication device,0,H04L
+12095770,2024-09-17,Connecting internet of thing (IoT) devices to a wireless network,0,G06F|G16Y|H04L|H04W
+12095769,2024-09-17,Expedited authorization and connectivity of client devices,0,H04L
+12095681,2024-09-17,Resource allocation for clients of multiple co-hosted VAPs,0,H04L|H04W
+12095656,2024-09-17,Failure detection and mitigation in an MC-LAG environment,0,H04L|Y02D
+12095648,2024-09-17,Routing table anomaly detection using unsupervised machine learning,0,G06N|H04L
+12095642,2024-09-17,Remote reachability checks in a distributed tunnel fabric,0,H04L
+12095635,2024-09-17,Network route stability characterization,0,G06N|H04L
+12095595,2024-09-17,Methods and systems for filter frequency response shift compensation for WLAN traffic,0,H04L
+12093749,2024-09-17,Load balancing of on-premise infrastructure resource controllers,0,G06F
+12093730,2024-09-17,Optimal dispatching of Function-as-a-Service in heterogeneous accelerator environments,0,G06F
+12093716,2024-09-17,Method and system for deploying a production system in a virtualized environment,0,G06F
+12093626,2024-09-17,Selective extraction of design layout,0,G06F
+12093544,2024-09-17,Operational feature activation/disabling,0,G06F
+12093530,2024-09-17,Workload management using a trained model,0,G06F|G06N
+12093351,2024-09-17,Monitoring license constraints in a container orchestration system,0,G06F
+12093316,2024-09-17,Partial file system instances,0,G06F
+12093280,2024-09-17,Multi-geography orchestration,0,G06F
+12093194,2024-09-17,Storage system port information management,0,G06F
+12089142,2024-09-10,Maintaining reliable connection between an access point and a client device,0,H04L|H04W
+12088633,2024-09-10,Dynamic intrusion detection and prevention in computer networks,0,H04L
+12088610,2024-09-10,Platform for privacy preserving decentralized learning and network event monitoring,0,H04L
+12088583,2024-09-10,Permissions for backup-related operations,0,G06F|H04L|H04W
+12088476,2024-09-10,Intelligent lifecycle management of analytic functions for an IOT intelligent edge with a hypergraph-based approach,0,G06N|H04L
+12086710,2024-09-10,Predictive data capacity planning,0,G06F|G06N|G06Q
+12086153,2024-09-10,Automatic expected validation definition generation for data correctness in AI/ML pipelines,2,G06F
+12086000,2024-09-10,Forecasting device usage using motifs of univariate time-series dataset and combined modeling,0,G06F
+12085659,2024-09-10,Ranging by a network device during a beacon interval,0,G01S|H04W
+12082074,2024-09-03,Alerting users of mobile device using anonymized location and time dataset,0,H04W
+12081986,2024-09-03,Handling unsolicited probe responses,0,H04W
+12081985,2024-09-03,Broadcast of intrusion detection information,0,H04W
+12081438,2024-09-03,Automatic policy engine selection,0,H04L
+12079657,2024-09-03,Handling ownership of process threads,0,G06F
+12079653,2024-09-03,Distributed state store supporting multiple protocols,0,G06F
+12079631,2024-09-03,Method and system for hardware-assisted pre-execution,0,G06F
+12079161,2024-09-03,Data index for deduplication storage system,0,G06F
+12075300,2024-08-27,Mitigating adjacent channel interference for a dual radio network device,0,H04L|H04W
+12074922,2024-08-27,Communication sessions in cluster computing environment,0,H04L
+12074877,2024-08-27,Management of user authentication between enterprise-level authentication protocol and cloud-native authentication protocol,0,H04L
+12074862,2024-08-27,Unified identity and access management (IAM) control plane for services associated with a hybrid cloud,0,H04L
+12074784,2024-08-27,Dynamic client balancing between branch gateways,0,H04L
+12074782,2024-08-27,System and method for eliminating data loss in a virtually aggregated network,0,H04L
+12073248,2024-08-27,Server groupings based on action contexts,0,G06F|H04L
+12073109,2024-08-27,Method and system for libfabric atomics-based lockless cluster-wide shared memory access API in a distributed system,0,G05B|G06F
+12072990,2024-08-27,Multiple physical request interfaces for security processors,0,G06F
+12072844,2024-08-27,Data reduction in a storage system,0,G06F
+12072823,2024-08-27,Flexible high-availability computing with parallel configurable fabrics,0,G06F
+12069169,2024-08-20,Managing use of management controller secrets based on firmware ownership history,0,G06F|H04L
+12069024,2024-08-20,Short-term lease allocation for network address conflict reduction in DHCP failover deployments,0,H04L|H04W
+12068942,2024-08-20,Automated network analysis using a sensor,0,H04L
+12067420,2024-08-20,Deep learning autotuning task optimization,0,B60W|G05D|G06F|G06N|G08G
+12067397,2024-08-20,NIC line-rate hardware packet processing,0,G06F
+12066980,2024-08-20,File system metadata,0,G06F
+12066875,2024-08-20,Cable bracket for stacked HBAs with bracket-mounted connectors,0,G06F|H05K
+12063217,2024-08-13,Systems and methods for generating and implementing security profiles,0,G06F|G06Q|H04L
+12061695,2024-08-13,Unauthorized data encryption detection,0,G06F
+12061666,2024-08-13,Distributing matrix multiplication processing among processing nodes,1,G06F
+12061581,2024-08-13,Matching operation for a deduplication storage system,1,G06F
+12061552,2024-08-13,Application of a default shared state cache coherency protocol,0,G06F
+12058040,2024-08-06,Auto-grouping and routing platform,0,H04L
+12058035,2024-08-06,System and method for facilitating data-driven intelligent network,0,G06F|H04L
+12058033,2024-08-06,Method and system for providing network ingress fairness between applications,0,G06F|H04L
+12058032,2024-08-06,Weighting routing,0,G06F|H04L
+12057968,2024-08-06,System and method for generating internal traffic in a switch,0,H04L
+12057659,2024-08-06,Electronic port having a locking assembly for securing an electronic plug,0,G06F|H01R
+12056398,2024-08-06,Electronic data file access management in a distributed computer system,0,G06F
+12056262,2024-08-06,Applying trusted backup configuration to a node,1,G06F
+12056244,2024-08-06,Deferred authentication in a secure boot system,0,G06F
+12056044,2024-08-06,Mechanism to represent data structures for a datatype engine and provide inline compaction,0,G06F
+12054969,2024-08-06,Mechanical intrusion indication,0,E05B|G06F|G08B|H05K
+12052794,2024-07-30,Systems and methods for wireless camera detection,0,H04L|H04W
+12052222,2024-07-30,Locally representing a remote application programming interface (API) endpoint within an application platform,0,H04L
+12050998,2024-07-30,Systems and methods for intelligent data shuffling for high-performance distributed machine learning training,0,G06F|G06N
+12050626,2024-07-30,Unsupervised segmentation of a univariate time series dataset using motifs and shapelets,0,G06F|G06N
+12045657,2024-07-23,Policy management in target environments,1,G06F
+12040969,2024-07-16,System and method for facilitating data-driven intelligent network with flow control of individual applications and traffic flows,0,G06F|H04L
+12039180,2024-07-16,Temporary sparse index for a deduplication storage system,0,G06F
+12039088,2024-07-16,Signing files based on file security credentials,0,G06F
+12035505,2024-07-09,System and method for compute system cooling fan control,0,G05D|G06F|H05K|Y02D
+12035225,2024-07-09,Multi-band channel scanning,0,H04B|H04L|H04W
+12035068,2024-07-09,Providing video content for pre-boot and post-boot environments of computer platforms,0,G06F|H04N
+12034650,2024-07-09,Distributed storage of packet transformation information in forwarding hardware,0,H04L
+12034633,2024-07-09,System and method for facilitating tracer packets in a data-driven intelligent network,0,G06F|H04L
+12034600,2024-07-09,Method for federating a cluster from a plurality of computing nodes from different fault domains,0,G06F|H04L|Y02D
+12032716,2024-07-09,Accessing information based on privileges,0,G06F|G06Q|H04L
+12032517,2024-07-09,File system areas in field replaceable unit storage devices,0,G06F
+12028662,2024-07-02,Hot-swappable no cable touch switch enclosure,0,H04L|H04Q
+12027044,2024-07-02,Assigning outlier-related classifications to traffic flows across multiple time windows,0,G06N|G08G|H04L
+12026597,2024-07-02,Device identifier classification,0,G06N|H04L
+12026091,2024-07-02,Orthogonal memory lane-based memory management,0,G06F
+12026066,2024-07-02,Backing up data for a namespace assigned to a tenant,0,G06F
+12022421,2024-06-25,Optimized deregistration interworking,0,H04W
+12021938,2024-06-25,Device provisioning with a network profile,0,H04L
+12021755,2024-06-25,Classification and forwarding of network traffic flows,1,G06N|H04L
+12021738,2024-06-25,Deadlock-free multicast routing on a dragonfly network,0,G06F|H04L
+12021694,2024-06-25,Virtualized network functions,0,H04L
+12020057,2024-06-25,Hitless container upgrade without an orchestrator,0,G06F
+12020052,2024-06-25,Goal-directed software-defined NUMA working set management,0,G06F|G06Q
+12020042,2024-06-25,Deploying service containers in an adapter device,0,G06F|H04L
+12020019,2024-06-25,In-service software upgrade centralized database versioning and migration,1,G06F
+12020010,2024-06-25,Corruption determination of data items used by a build server,0,G06F|H04L
+12019752,2024-06-25,Security dominion of computing device,0,G06F
+12019620,2024-06-25,Journal groups for metadata housekeeping operation,1,G06F
+12019466,2024-06-25,Virtual precision time protocol clock devices for virtual nodes,0,G06F
+12015667,2024-06-18,Synchronizing user data between a sync client and a sync server on a customer computing system,0,G06F|H04L
+12015561,2024-06-18,Methods and systems to dynamically prioritize applications over 802.11 wireless LAN,0,H04B|H04L
+12015535,2024-06-18,Conducting network performance analysis,0,H04L
+12013875,2024-06-18,Reading own writes using context objects in a distributed database,0,G06F
+12010211,2024-06-11,Encrypting data units with a memristor array,0,G09C|H04L
+12009979,2024-06-11,Secure and adaptive mechanism to provision zero- touch network devices,0,H04L|H04W
+12008444,2024-06-11,Unclassified traffic detection in a network,0,G06F|G06N|H04L
+12007966,2024-06-11,Provisioning a deduplication data store,0,G06F
+12007738,2024-06-11,Dynamic monitoring,1,G05B|G06F|H04L
+12004317,2024-06-04,Computing system having a flexible filter assembly,0,G06F|G08B|H05K
+12003411,2024-06-04,Systems and methods for on the fly routing in the presence of errors,0,G06F|H04L
+12001888,2024-06-04,Server instance allocation for execution of application instances,0,G06F
+12001865,2024-06-04,Container-as-a-service (CAAS) controller for private cloud container cluster management,0,G06F|H04L
+12001835,2024-06-04,In-service software upgrade with active service monitoring,2,G06F
+12001511,2024-06-04,Systems and methods of resource configuration optimization for machine learning workloads,0,G06F|G06N|G06V
+12001256,2024-06-04,Job agent-based power-capping of systems,0,G06F|G06N|Y02D
+12001183,2024-06-04,Scalable microservices-driven industrial IoT controller architecture,1,G05B|G06F
+11997024,2024-05-28,Mapping NVMe-over-fabric packets using virtual output queues,1,G06F|H04L
+11995450,2024-05-28,Cloud-based provisioning of UEFI-enabled systems,2,G06F
+11995182,2024-05-28,Baseboard management controller to perform security action based on digital signature comparison in response to trigger,1,G06F|H04L
+11995043,2024-05-28,Map-reduce ready distributed file system,0,G06F|H04L
+11991152,2024-05-21,Bypassing IKE firewall for cloud-managed IPSec keys in SDWAN fabric,0,H04L
+11991072,2024-05-21,System and method for facilitating efficient event notification management for a network interface controller (NIC),0,G06F|H04L
+11991070,2024-05-21,Layer-2 path tracing,0,H04L
+11989874,2024-05-21,Multi-tier PCBA integrity validation process,0,G05B|G06T|H05K
+11989574,2024-05-21,Container-as-a-service (CaaS) controller for monitoring clusters and implementing autoscaling policies,0,G06F
+11989436,2024-05-21,Variable extent size,1,G06F
+11989415,2024-05-21,Enabling or disabling data reduction based on measure of data overwrites,0,G06F
+11989257,2024-05-21,Assigning processing threads for matrix-matrix multiplication,0,G06F
+11989097,2024-05-21,Chunk and snapshot deletions,0,G06F
+11985511,2024-05-14,HARQ feedback of code block groups using configured grant,0,H04B|H04L|H04W
+11985158,2024-05-14,Adaptive machine learning platform for security penetration and risk assessment,0,G06N|H04L
+11985060,2024-05-14,Dragonfly routing with incomplete group connectivity,0,G06F|H04L
+11985038,2024-05-14,Selecting forwarder in a network installation,1,G06F|H04L
+11985027,2024-05-14,Systems and methods for seamless failover in branch deployments by superimposing clustering solution on VRRP,0,H04L
+11985004,2024-05-14,Multicast WAN optimization in large scale branch deployments using a central cloud-based service,0,H04L
+11983604,2024-05-14,Quantum-inspired algorithms to solve intractable problems using classical computers,0,G06F|G06N
+11983572,2024-05-14,Accessing purged workloads,0,G06F
+11983571,2024-05-14,Hardware-based predictive fault detection and analysis,0,G06F
+11983519,2024-05-14,Abort installation of firmware bundles,0,G06F
+11983421,2024-05-14,Configuration of frontend services in storage nodes,0,G06F
+11983277,2024-05-14,Identifying a security vulnerability in a computer system,0,G06F
+11983074,2024-05-14,Leader election in a distributed system based on node weight and leadership priority based on network performance,0,G06F
+11979826,2024-05-07,Selection of a transmitting VAP for a MBSSID set,0,H04W
+11979821,2024-05-07,Multitenant network device management,0,H04L|H04W
+11979807,2024-05-07,Automatic notifications for expired subscriptions,0,H04L|H04W
+11979288,2024-05-07,Systems and methods for zero touch provisioning (ZTP) over trunk/LACP ports,0,H04L
+11979286,2024-05-07,In-service software upgrade in a virtual switching stack,1,G06F|H04L
+11977900,2024-05-07,Dynamic timing for shutdown including asynchronous dynamic random access memory refresh (ADR) due to AC undervoltage,0,G01R|G06F|G11C|H02H
+11974414,2024-04-30,Conforming heat transport device for dual inline memory module cooling applications,1,G06F|G11C|H05K
+11974343,2024-04-30,Method for selectively connecting mobile devices to 4G or 5G networks and network federation which implements such method,0,H04W
+11973879,2024-04-30,Logging modification indications for electronic device components,1,G09C|H04L
+11973685,2024-04-30,Fat tree adaptive routing,1,G06F|H04L
+11973642,2024-04-30,Automatic network device configuration,0,H04L|Y02D
+11972250,2024-04-30,Out-of-band firmware update,0,G06F
+11971765,2024-04-30,Dynamic network-wide coordinated management of power over ethernet,0,G06F|H04L|Y02D
+11968238,2024-04-23,Policy management system to provide authorization information via distributed data store,0,G06F|H04L
+11968116,2024-04-23,Method and system for facilitating lossy dropping and ECN marking,0,G06F|H04L
+11968109,2024-04-23,Systems and methods for identifying correlations of certain scenarios to performance of network communications,0,H04L
+11968083,2024-04-23,Configuration of an access point including an internet-of-things (IoT) radio,0,H04L|H04W
+11966818,2024-04-23,System and method for self-healing in decentralized model building for machine learning using blockchain,1,G06F|G06N
+11966475,2024-04-23,Security level-based and trust-based recommendations for software components,0,G06F|G06N|H04L
+11966309,2024-04-23,Saturation of multiple PCIe slots in a server by multiple ports in a single test card,0,G06F
+11966292,2024-04-23,Fault management in a distributed computer system,0,G06F|H04L
+11963215,2024-04-16,Resource unit assignment for selective fading,0,H04L|H04W
+11963077,2024-04-16,Blockchain-based system for connected vehicles,0,G06F|G06Q|H04L|H04W
+11963021,2024-04-16,Adaptive spatial reuse,0,H04B|H04W
+11962657,2024-04-16,Service reachability detection,0,H04L
+11962490,2024-04-16,Systems and methods for per traffic class routing,0,G06F|H04L
+11960773,2024-04-16,Modifying virtual persistent volumes based on analysis of performance metrics,1,G06F
+11960414,2024-04-16,Write protection for storage cartridges,0,G06F
+11960268,2024-04-16,Power allocation to heat a processing chip of a network device,0,G05B|G06F|H01L|H05K|Y02D
+11956635,2024-04-09,Authenticating a client device,0,H04W
+11956334,2024-04-09,Visualizing cluster node statuses,0,G06T|H04L
+11956164,2024-04-09,Remote management of a switch stack,0,H04L
+11954184,2024-04-09,Dynamic monitoring and authorization of an optimization device,0,G06F|H04L
+11954129,2024-04-09,Updating data models to manage data drift and outliers,0,G06F
+11954029,2024-04-09,Configurable computer memory,0,G06F|Y02D
+11950125,2024-04-02,Consistent Quality of Service policy in a software defined enterprise,0,H04L|H04W
+11949583,2024-04-02,Enforcing reference operating state compliance for cloud computing-based compute appliances,0,G06F|H04L
+11949522,2024-04-02,Adaptive backoff time in power-over-ethernet detection cycles,0,H04L
+11947996,2024-04-02,Execution of services concurrently,0,G06F
+11947971,2024-04-02,Remote resource configuration mechanism,0,G06F|H04L
+11947928,2024-04-02,Multi-die dot-product engine to provision large scale machine learning inference applications,0,G06F|G06N
+11947033,2024-04-02,DFS radar detection,0,G01S|H04W
+11943300,2024-03-26,Software-defined sensing,0,H04L|H04W
+11943230,2024-03-26,System and method for dynamic orchestration of virtual gateways based on user role,0,G06F|H04L
+11943149,2024-03-26,Arbiter with random tie breaking,0,H04L
+11943129,2024-03-26,Available network bandwidth estimation using a one-way-delay noise filter with bump detection,0,H04L
+11943119,2024-03-26,Managing a cloud service,0,G06F|H04L
+11941448,2024-03-26,Allocating computing resources to data transfer jobs based on a completed amount and an estimated priority of system failure,0,G06F|Y02D
+11941444,2024-03-26,Facilitating scheduling of storage system pods on nodes of a cluster based on discovery of local block devices associated with the nodes,0,G06F|H04L
+11941250,2024-03-26,Optimizing application execution based on memory-level parallelism (MLP)-based metrics,0,G06F
+11941133,2024-03-26,FPGA chip with protected JTAG interface,0,G01R|G06F
+11940956,2024-03-26,Container index persistent item tags,0,G06F
+11940882,2024-03-26,Migration of journal groups in a storage system,0,G06F
+11940859,2024-03-26,Adjusting power consumption limits for processors of a server,0,G06F|Y02D
+11937170,2024-03-19,Managing mutually exclusive access to network slices,0,H04L|H04W
+11934840,2024-03-19,Classification of hardware components,0,G06F|G06N
+11934678,2024-03-19,Data reduction for storage volumes,0,G06F
+11930047,2024-03-12,Unified policy broker,0,G06F|H04L
+11930038,2024-03-12,Processing refresh token request at application programming interface (API) gateway,0,H04L
+11929988,2024-03-12,Dynamic selection of a VPNC gateway based on user behavior,1,H04L
+11929919,2024-03-12,System and method for facilitating self-managing reduction engines,0,G06F|H04L
+11928495,2024-03-12,Virtual trusted platform modules,0,G06F
+11927999,2024-03-12,Server network interface card-located baseboard management controllers,0,G06F
+11924195,2024-03-05,Onboarding an unauthenticated client device within a secure tunnel,1,H04L|H04W
+11924182,2024-03-05,ISO layer-two connectivity using ISO layer-three tunneling,0,H04L
+11924106,2024-03-05,Method and system for granular dynamic quota-based congestion management,0,H04L
+11924068,2024-03-05,Provisioning a service,0,G06F|H04L
+11922177,2024-03-05,Securely and reliably transferring startup script,0,G06F|H04L
+11921827,2024-03-05,Dynamic monitoring and authorization of an optimization device,0,G06F|H04L
+11921605,2024-03-05,Managing applications in a cluster,1,G06F
+11917575,2024-02-27,Automatic location of access points in a network,0,G01S|G06F|G06T|H04W
+11917501,2024-02-27,Transmissions of unicast frames to client devices,0,H04L|H04W
+11916782,2024-02-27,System and method for facilitating global fairness in a network,0,G06F|H04L
+11916781,2024-02-27,System and method for facilitating efficient utilization of an output buffer in a network interface controller (NIC),0,G06F|H04L
+11916751,2024-02-27,Process data change notification from a unified data repository,0,H04L
+11916331,2024-02-27,Retaining module for cables,0,G06F|H01R|H05K
+11914982,2024-02-27,Deployment and configuration of an edge site based on declarative intents indicative of a use case,0,G06F|H04L
+11910478,2024-02-20,Adaptive wireless client steering,0,G06N|H04B|H04L|H04W
+11910368,2024-02-20,Dynamically capturing location at networks in motion,0,G06N|H04W
+11910249,2024-02-20,Optimizing key allocation during roaming using machine learning,2,G06N|H04L|H04W
+11909819,2024-02-20,Synchronization of client IP binding database across extended networks leveraging BGP control plane,0,H04L
+11909671,2024-02-20,Efficient port reconfiguration,1,H04L
+11909643,2024-02-20,Efficient progression management in a tracker with multiple sources,0,H04L
+11909590,2024-02-20,Configuring a network interface card,0,G06F|H04L|Y02D
+11907768,2024-02-20,Entanglement of pages and guest threads,0,G06F
+11907375,2024-02-20,System and method for signing and interlocking a boot information file to a host computing system,0,G06F
+11907241,2024-02-20,Data recommender using lineage to propagate value indicators,0,G06F
+11907222,2024-02-20,Detecting chains of functions that violate a constraint,0,G06F
+11907199,2024-02-20,Blockchain based distributed file systems,0,G06F|H04L
+11903088,2024-02-13,ESIM profile management,0,H04W
+11902886,2024-02-13,Optimizing neighbour report for access points,0,H04W
+11902789,2024-02-13,Cloud controlled secure Bluetooth pairing for network device management,0,H04L|H04W
+11902382,2024-02-13,Cloud migration between cloud management platforms,0,H04L
+11902150,2024-02-13,Systems and methods for adaptive routing in the presence of persistent flows,0,G06F|H04L
+11899965,2024-02-13,Enhanced k-SAT solver using analog content addressable memory,0,G06F|G06G|G06N|G11C
+11899831,2024-02-13,Managing security of enclosure based on a task status and geographical location of the enclosure,0,G06F
+11899777,2024-02-13,Memory module authentication extension,0,G06F
+11899596,2024-02-13,System and method for facilitating dynamic command management in a network interface controller (NIC),0,G06F|H04L
+11899444,2024-02-13,Real-time alerts and transmission of selected signal samples under a dynamic capacity limitation,0,G05B|G06N|H04L
+11899066,2024-02-13,Configuration of configurable test logic,0,G01R|G06F|H03K
+11888901,2024-01-30,Enabling restriction on transmission of data packets at ingress network device,0,H04L
+11888751,2024-01-30,Enhanced virtual channel switching,0,H04L
+11888749,2024-01-30,Reverse loss detection for communication network bandwidth estimation with token buckets,0,H04L
+11888681,2024-01-30,Network switch stack failover configuration management,1,H04L
+11887204,2024-01-30,Systems and methods for monetizing data in decentralized model building for machine learning using a blockchain,0,G06F|G06N|G06Q|H04L
+11886919,2024-01-30,Directing queries to nodes of a cluster of a container orchestration platform distributed across a host system and a hardware accelerator of the host system,0,G06F
+11886593,2024-01-30,Verification of a provisioned state of a platform,0,G06F|H04L
+11882601,2024-01-23,Dynamic control of data bursts,0,H04L|H04W
+11882175,2024-01-23,Correlations between workload characteristics and elapsed times,0,G06F|G06N|H04L
+11882120,2024-01-23,Identity intermediary service authorization,0,H04L
+11882110,2024-01-23,Renewal of security certificates of supplicants,0,H04L
+11882025,2024-01-23,System and method for facilitating efficient message matching in a network interface controller (NIC),0,G06F|H04L
+11882013,2024-01-23,Network traffic monitoring for anomalous behavior detection,0,H04L
+11881946,2024-01-23,System to improve the performance and stability of bonding radios,0,H04L|H04W
+11881921,2024-01-23,Multi-band directional scanning,0,H04B|H04W
+11881261,2024-01-23,CAMs for low latency complex distribution sampling,0,G06N|G11C
+11880431,2024-01-23,System and method of classifying data and providing an accuracy of classification,0,G06F|G06N|G06V|H04L
+11876891,2024-01-16,Secure parameter merging using homomorphic encryption for swarm learning,1,G06F|G06N|H04L
+11876702,2024-01-16,System and method for facilitating efficient address translation in a network interface controller (NIC),0,G06F|H04L
+11876701,2024-01-16,System and method for facilitating operation management in a network interface controller (NIC) for accelerators,0,G06F|H04L
+11876620,2024-01-16,Error correction for decoding frames,0,H03M|H04L
+11875170,2024-01-16,Controlling screen video display via a manageability controller,0,G06F
+11874926,2024-01-16,Measuring containers,0,G06F
+11874834,2024-01-16,Determining dimension tables for star schema joins,0,G06F
+11874767,2024-01-16,Memory partitions for processing entities,0,G06F
+11874762,2024-01-16,Context-based test suite generation as a service,1,G06F|G06N
+11874731,2024-01-16,Predicting and mitigating memory leakage in a computer system,0,G06F
+11874688,2024-01-16,Identification of diagnostic messages corresponding to exceptions,0,G06F|G06N
+11868855,2024-01-09,Resiliency for machine learning workloads,0,G06F|G06N
+11868474,2024-01-09,Securing node groups,0,G06F|H04L
+11868449,2024-01-09,Dynamic monitoring and authorization of an optimization device,0,G06F|H04L
+11868353,2024-01-09,Fingerprints for database queries,0,G06F
+11868339,2024-01-09,Blockchain based distributed file systems,0,G06F
+11868235,2024-01-09,Workflow error debugger,0,G06F|G06Q
+11864072,2024-01-02,Rewards for custom data transmissions,0,B60R|G06Q|H04L|H04W
+11863443,2024-01-02,Multi-region virtual overlay wide area network,1,H04L
+11863431,2024-01-02,System and method for facilitating fine-grain flow control in a network interface controller (NIC),0,G06F|H04L
+11863379,2024-01-02,Container cluster management,0,G06F|H04L
+11861602,2024-01-02,Payment token,0,G06Q|H04L
+11861429,2024-01-02,Resistive and digital processing cores,0,G06F|G06J|G11C
+11861372,2024-01-02,Integrity manifest certificate,0,G06F
+11861358,2024-01-02,Firmware update of an interconnect device,0,G06F|H04L|Y02D
+11861357,2024-01-02,Selecting and sending subset of components to computing device prior to operating system install,0,G06F
+11861345,2024-01-02,Updating grammar file to configure deployment of updates of network devices,0,G06F|H04L
+11861174,2024-01-02,Prioritizing read IO queues in non-volatile memory express devices,0,G06F
+11860840,2024-01-02,Update of deduplication fingerprint index in a cache memory,0,G06F
+11860754,2024-01-02,Managing synchronized reboot of a system,0,G06F
+11860724,2024-01-02,Method and system for facilitating a self-healing network,0,G06F|G06N|H04L
+11856602,2023-12-26,Systems and methods for optimizing rate selection for transmissions during spatial reuse in WLAN networks,0,H04L|H04W
+11856503,2023-12-26,Wireless channel access restrictions,0,H04B|H04L|H04W
+11856435,2023-12-26,Handling fine timing measurement requests,0,H04L|H04W
+11856428,2023-12-26,Determining antenna condition,0,H04B|H04W
+11856063,2023-12-26,Systems and methods for cloud survivability for cloud orchestrated internet protocol security (IPsec) security associations (SA),0,H04L|H04W
+11856034,2023-12-26,Dynamic voice over internet protocol proxy for network bandwidth optimization,0,H04L|H04M
+11855913,2023-12-26,Hierarchical switching device with deadlockable storage and storage partitions,0,H04L
+11855881,2023-12-26,System and method for facilitating efficient packet forwarding using a message state table in a network interface controller (NIC),0,G06F|H04L
+11855840,2023-12-26,Smart zero-touch provisioning (ZTP),0,H04L
+11855837,2023-12-26,Adaptive time window-based log message deduplication,0,G06F|H04L
+11855809,2023-12-26,Resilient zero touch provisioning,0,H04L
+11855803,2023-12-26,Loop detection in a complex topology with multiple distributed tunnel fabrics,0,H04L
+11855792,2023-12-26,Multicast rendezvous point deployment in a virtual gateway of a distributed tunnel fabric,0,H04L
+11855777,2023-12-26,Channel puncturing based on channel qualities,0,H04L
+11854061,2023-12-26,Service provisioning,0,G06Q|H04L
+11853846,2023-12-26,Acceleration of model/weight programming in memristor crossbar arrays,1,G06N|G11C
+11853577,2023-12-26,Tree structure node compaction prioritization,0,G06F
+11853576,2023-12-26,Deleting data entities and deduplication stores in deduplication systems,1,G06F
+11853221,2023-12-26,Dynamic prefetching of data from storage,0,G06F
+11853154,2023-12-26,Automated global configuration error removal of clustered network devices,0,G06F|H04L
+11853134,2023-12-26,Fluid cooling assembly for a computing system,0,G06F|H05K
+11852743,2023-12-26,Environment-learning false radar detection,0,G01S|H04W
+11852734,2023-12-26,Positioning and synchronization,0,G01S|G02B|H01R|H04B|H04J|H04W
+11849391,2023-12-19,Determining when to adjust a power state of access points,0,H04W|Y02D
+11849339,2023-12-19,Selecting a role for an access point,0,H04L|H04W
+11849007,2023-12-19,Providing data from data sources,0,G06F|H04L
+11848989,2023-12-19,Separate routing of NVMe-over-fabric packets and non-NVMe packets,0,H04L
+11848983,2023-12-19,Remotely discover and map a network resource model in a cloud environment,0,H04L
+11848859,2023-12-19,System and method for facilitating on-demand paging in a network interface controller (NIC),0,G06F|H04L
+11848838,2023-12-19,Communicating node events in network configuration,0,H04L
+11848816,2023-12-19,Optimizing power consumption of M-IoT devices,0,H04L|H04W|Y02D
+11848766,2023-12-19,Session detection and inference,0,H04L
+11847503,2023-12-19,Execution of functions by clusters of computing nodes,1,G06F|H04L
+11847436,2023-12-19,Machine learning (ML) model-based compiler,0,G06F
+11847016,2023-12-19,Application logging mechanism,0,G06F
+11838173,2023-12-05,System and a method for recognizing and addressing network alarms in a computer network,0,H04L
+11836053,2023-12-05,Resource allocation for synthetic backups,0,G06F
+11829302,2023-11-28,Detecting sequential access patterns and proactive caching in a tree-based file system,0,G06F
+11829271,2023-11-28,Tuning data protection policy after failures,0,G06F
+11825299,2023-11-21,Customized code bundle to enable secure communication from internet of things devices at wireless networks,0,G06N|G16Y|H04L|H04W
+11824947,2023-11-21,Connecting application instances to client devices,0,H04L
+11824792,2023-11-21,Method and system for dynamic quota-based congestion management,1,H04L
+11824776,2023-11-21,Domain name system (DNS) optimization for wide area networks,0,H04L
+11824759,2023-11-21,Transfer of secure multicast data traffic over a computing network,0,H04L
+11824640,2023-11-21,System and method for reconfiguring a network using network traffic comparisions,0,H04L|H04Q
+11822930,2023-11-21,Electrically programmable application-specific integrated circuit initialization engine,0,G06F|H03K
+11822802,2023-11-21,Simplified raid implementation for byte-addressable memory,0,G06F
+11818037,2023-11-14,Switch device for facilitating switching in data-driven intelligent network,0,G06F|H04L
+11816216,2023-11-14,Preventing malware downloads,0,G06F|H04L
+11811662,2023-11-07,Determination of an inflection point in congestion of a network path,0,H04L
+11809406,2023-11-07,Event records in a log file,0,G06F|G06N
+11809218,2023-11-07,Optimal dispatching of function-as-a-service in heterogeneous accelerator environments,0,G06F
+11805571,2023-10-31,Mesh network management,0,H04W
+11805507,2023-10-31,Communication channel management,0,H04W
+11805479,2023-10-31,Establishing a connection between an access point and an unstable client device,0,H04W
+11805422,2023-10-31,AP deployment in a network comprising a centralized system and a distributed system,0,H04L|H04W
+11805415,2023-10-31,Authentication enhancement with neighbor device,0,H04L|H04W
+11805183,2023-10-31,Ordered stack formation with reduced manual intervention,0,H04L
+11805136,2023-10-31,Scanning container images and objects associated with building the container images,2,G06F|G06N|H04L
+11805117,2023-10-31,Onboarding for remote management,0,H04L
+11805103,2023-10-31,Dynamic selection of tunnel endpoints,0,H04L
+11805078,2023-10-31,Asymmetric application identification detection on switches,0,H04L
+11805060,2023-10-31,Token bucket with active queue management,0,H04L
+11805045,2023-10-31,Selective routing,0,H04L
+11805005,2023-10-31,Systems and methods for predictive assurance,0,G06N|H04L
+11805002,2023-10-31,Retrieving and provisioning entities based on inheritance,0,H04L
+11804983,2023-10-31,Method and system to scale routing in Ethernet Virtual Private Network Symmetric Integrated Routing and Bridging deployments,0,H04L
+11804854,2023-10-31,Changing error-correction configurations,0,G06F|H03M
+11803646,2023-10-31,Vulnerability scanning,1,G06F
+11803639,2023-10-31,Measuring integrity of computing system using jump table,0,G06F
+11803571,2023-10-31,Transfer of synchronous and asynchronous replication,2,G06F
+11803525,2023-10-31,Selection and movement of data between nodes of a distributed storage system,0,G06F
+11803518,2023-10-31,Journals to record metadata changes in a storage system,2,G06F
+11803483,2023-10-31,Metadata cache for storing manifest portion,0,G06F
+11803481,2023-10-31,Data anonymization for a document editor,0,G06F
+11803461,2023-10-31,Validation of log files using blockchain system,0,G06F|H04L
+11803433,2023-10-31,Localization of potential issues to objects,0,G06F
+11803363,2023-10-31,IoT device update,3,G06F|G16Y
+11803306,2023-10-31,Handling frequently accessed pages,0,G06F
+11803227,2023-10-31,Providing utilization and cost insight of host servers,0,G06F|G06Q|H02J|Y02D|Y04S
+11803216,2023-10-31,Contiguous plane infrastructure for computing systems,0,G06F|H05K
+11800682,2023-10-24,Cooling module and a method of assembling the cooling module to an electronic circuit module,2,H01L|H05K
+11800676,2023-10-24,System and method for secure management of a rack,0,G06F|G08B|H05K
+11799929,2023-10-24,Efficient multicast control traffic management for service discovery,1,H04L
+11799888,2023-10-24,Automatic identification of roles and connection anomalies,0,H04L
+11799764,2023-10-24,System and method for facilitating efficient packet injection into an output buffer in a network interface controller (NIC),0,G06F|H04L
+11799743,2023-10-24,Node addition in cloud networks,0,H04L
+11799714,2023-10-24,Device management using baseboard management controllers and management processors,0,G06F|H04L
+11798175,2023-10-24,Objects and features neural network,0,G06F|G06N|G06T|G06V
+11797505,2023-10-24,Column browser for navigating hierarchical data structures,0,G06F
+11797447,2023-10-24,Efficient caching and data access to a remote data lake in a large scale data processing environment,0,G06F
+11797368,2023-10-24,Attributing errors to input/output peripheral drivers,0,G06F
+11797340,2023-10-24,Systems and methods of resource configuration optimization for machine learning workloads,1,G06F|G06N
+11797178,2023-10-24,System and method for facilitating efficient management of data structures stored in remote memory,0,G06F
+11797070,2023-10-24,Response mechanisms for power-interruption events in PoE systems,0,G06F|Y02D
+11792718,2023-10-17,Authentication chaining in micro branch deployment,0,H04L|H04W
+11792207,2023-10-17,Secure compliance protocols,1,G06F|H04L|H04W
+11792193,2023-10-17,Vendor agnostic captive portal authentication,0,H04L
+11792114,2023-10-17,System and method for facilitating efficient management of non-idempotent operations in a network interface controller (NIC),0,G06F|H04L
+11785743,2023-10-10,Temperature control of closely packed electronic assemblies,0,G06F|H05K
+11784920,2023-10-10,Algorithms for use of load information from neighboring nodes in adaptive routing,1,G06F|H04L
+11784880,2023-10-10,Method and system for facilitating edge rack emulation,0,G06F|H04L
+11778594,2023-10-03,Optimized transmissions using A-MPDU and multi-VAP frames,1,H04B|H04L|H04W
+11778503,2023-10-03,Association identifier assignment for compact traffic indication map,0,H04L|H04W
+11778478,2023-10-03,Opportunistic spatial reuse,0,H04W
+11778467,2023-10-03,Precaching precursor keys within a roaming domain of client devices,0,H04W
+11777843,2023-10-03,System and method for facilitating data-driven intelligent network,0,G06F|H04L
+11777804,2023-10-03,Automatic system provisioning for NVME-over-fabric storage,0,G06F|H04L
+11777791,2023-10-03,Failure detection and seamless traffic switchover using a VPN system,0,H04L|H04W
+11775667,2023-10-03,Virtualizing secure storage of a baseboard management controller to a host computing device,0,G06F
+11775649,2023-10-03,Perform verification check in response to change in page table base register,1,G06F
+11775443,2023-10-03,Supervisory memory management unit,1,G06F
+11775356,2023-10-03,Method and system for facilitating backwards compatibility of a rest API on an evolving data model,0,G06F|H04L
+11775333,2023-10-03,Virtual resource selection for a virtual resource creation request,0,G06F
+11775322,2023-10-03,Combining computer applications,0,G06F|H04L
+11774956,2023-10-03,Anomalous behavior detection by an artificial intelligence-enabled system with multiple correlated sensors,0,G05B|G06N
+11770406,2023-09-26,Systems and methods for mitigating cyberattacks,1,H04L
+11770372,2023-09-26,Unified identity and access management (IAM) control plane for services associated with a hybrid cloud,1,H04L
+11770299,2023-09-26,Systems and methods for preprocessing automated network device configuration generation templates,0,H04L
+11768921,2023-09-26,Monitoring license constraints in a container orchestration system,0,G06F
+11768772,2023-09-26,Accumulators corresponding to bins in memory,0,G06F
+11768747,2023-09-26,Detecting spikes in memory usage in a computer system,0,G06F
+11768724,2023-09-26,Data availability in a constrained deployment of a high-availability system in the presence of pending faults,0,G06F
+11768716,2023-09-26,Request of an MCS lock by guests,0,G06F
+11765204,2023-09-19,Managing data management policies of resources,0,G06F|H04L
+11765092,2023-09-19,System and method for scaling data path processing with offload engines in control plane,0,H04L
+11765074,2023-09-19,System and method for facilitating hybrid message matching in a network interface controller (NIC),0,G06F|H04L
+11765037,2023-09-19,Method and system for facilitating high availability in a multi-fabric system,0,H04L
+11765024,2023-09-19,Automatic provisioning of a computing device with operating system and network processing functions,0,G06F|H04L
+11764986,2023-09-19,Automatic component discovery mechanism,0,G06F|H04L|H04W|H05K
+11762718,2023-09-19,Automatically optimized credit pool mechanism based on number of virtual channels and round trip path delay,0,G06F|G06Q|H04L
+11762437,2023-09-19,Expansion fan device with adjustable fan,0,G05B|G06F|H05K
+11758470,2023-09-12,Systems and methods for enhancing mesh over Wi-Fi 6E,0,H04W
+11757876,2023-09-12,Security-enhanced auto-configuration of network communication ports for cloud-managed devices,0,H04L
+11757777,2023-09-12,Assigning security group tag for infrastructure traffic and preserving security group tag in snooped packets in dynamic segmentation,0,H04L
+11757764,2023-09-12,Optimized adaptive routing to reduce number of hops,1,G06F|H04L
+11757763,2023-09-12,System and method for facilitating efficient host memory access from a network interface controller (NIC),0,G06F|H04L
+11757740,2023-09-12,Aggregation of select network traffic statistics,0,G06F|H04L|Y02D
+11757739,2023-09-12,Aggregation of select network traffic statistics,0,G06F|H04L|Y02D
+11757729,2023-09-12,Method and system for facilitating auto-annotation and dynamic display for switch configurations,0,H04L
+11757717,2023-09-12,Verifying network elements,0,H04L
+11757712,2023-09-12,Auto discovery and configuration of data center components,0,H04L
+11757612,2023-09-12,Communicating management traffic between baseboard management controllers and network interface controllers,1,G06F|H04L
+11755955,2023-09-12,Anomaly detection and tuning recommendation system,2,G06F|G06N
+11755660,2023-09-12,Database operation classification,0,G06F|G06N
+11755377,2023-09-12,Infrastructure resource mapping mechanism based on determined best match proposal for workload deployment,0,G06F|G06N
+11755226,2023-09-12,Tracking changes of storage volumes during data transfers,0,G06F
+11750710,2023-09-05,Management cluster with integration service for deploying and managing a service in tenant clusters,0,H04L
+11750629,2023-09-05,Classification based anomaly detection,0,H04L
+11750512,2023-09-05,Identifying a dynamic network parameter probe interval in an SD-WAN,0,H04L|H04W
+11750504,2023-09-05,Method and system for providing network egress fairness between applications,1,G06F|H04L
+11750448,2023-09-05,Network device-integrated asset tag-based environmental sensing with mutual authentication,0,H04L|H04W
+11750311,2023-09-05,Stacked network device as precision time protocol boundary clock,1,H04J|H04L|Y02D
+11748835,2023-09-05,Systems and methods for monetizing data in decentralized model building for machine learning using a blockchain,1,G06F|G06N|G06Q|H04L
+11748487,2023-09-05,Detecting a potential security leak by a microservice,0,G06F
+11748337,2023-09-05,System and method of decentralized management of multi-owner nodes using blockchain,4,G06F|G07C|H04L
+11748281,2023-09-05,Remote memory access using memory address templates,0,G06F
+11748113,2023-09-05,Operating system installation mechanism,0,G06F|H04L
+11747886,2023-09-05,Response mechanisms of a power sourcing equipment to a swap event of a power supply unit,1,G06F|H04L
+11743693,2023-08-29,Seamless mobility for clients receiving multicast traffic,0,H04L|H04W
+11743105,2023-08-29,Extracting and tagging text about networking entities from human readable textual data sources and using tagged text to build graph of nodes including networking entities,1,G06F|H04L
+11741253,2023-08-29,Operating system service sanitization of data associated with sensitive information,0,G06F
+11740674,2023-08-29,Systems and methods for reducing stranded power capacity,0,G06F|G06Q|H04L|Y02D
+11737016,2023-08-22,Access point configuration parameter recommendation based on access point classification,0,H04L|H04W
+11737002,2023-08-22,Selective caching of pairwise master keys in streamlined roaming,0,H04W
+11736926,2023-08-22,Handling an event message in a communications system,1,G06F|G06N|H04W
+11734430,2023-08-22,Configuration of a memory controller for copy-on-write with a resource controller,1,G06F
+11734232,2023-08-22,Initial baselines of file systems,0,G06F
+11734225,2023-08-22,Matrix tiling to accelerate computing in redundant matrices,0,G06F|G06N
+11734086,2023-08-22,Operation-based event suppression,0,G06F
+11734041,2023-08-22,Persistent volume plugin for containers,0,G06F
+11733932,2023-08-22,Data management on memory modules,0,G06F
+11729100,2023-08-15,Integrated traffic profile for indicating congestion and packet drop for congestion avoidance,0,H04L
+11729090,2023-08-15,Multi-level learning for classifying network traffic flows from first packet data,0,H04L
+11729022,2023-08-15,Uplink connectivity in ring networks,0,H04L|Y02D
+11726995,2023-08-15,System and method for value pack generation using generic SQL plugin for unified console,0,G06F
+11726955,2023-08-15,Methods and apparatus for efficient container location database snapshot operation,0,G06F
+11726535,2023-08-15,Providing power to a server,0,G06F|H04L
+11722898,2023-08-08,Detection and defense system of a network credential sharing application,0,H04L|H04W
+11722716,2023-08-08,Reducing multicast join latency for IPTV streams,1,H04N
+11722406,2023-08-08,Route selection based on buffer congestion,1,H04L
+11722376,2023-08-08,Execution of a topology,0,G06F|H04L
+11720717,2023-08-08,System memory information protection with a controller,0,G06F|H04L
+11720675,2023-08-08,Integrity verification for a software stack or part of a software stack,0,G06F
+11720460,2023-08-08,Enhanced configuration management of data processing clusters,1,G06F
+11720274,2023-08-08,Data migration using cache state change,1,G06F
+11720140,2023-08-08,Device clock setting while booting a device,0,G06F|H04L
+11714910,2023-08-01,Measuring integrity of computing system,0,G06F
+11714765,2023-08-01,System and method for implementing a network-interface-based allreduce operation,6,G06F|G06N
+11714755,2023-08-01,System and method for scalable hardware-coherent memory nodes,0,G06F
+11714737,2023-08-01,Time clock quality determination,0,G06F
+11714660,2023-08-01,Trigger based configuration of continuous delivery pipeline,1,G06F
+11714632,2023-08-01,Action execution based on management controller action request,0,G06F
+11711907,2023-07-25,Disconnects,1,F16L|G06F|H05K
+11711230,2023-07-25,Multicast packet management for a virtual gateway of a distributed tunnel fabric,2,H04L
+11709798,2023-07-25,Hash suppression,0,G06F
+11709529,2023-07-25,Variable enhanced processor performance,2,G06F|Y02D
+11706710,2023-07-18,Optimizing service period negotiations in WLAN networks,1,H04W|Y02D
+11706699,2023-07-18,System and method for optimized load balancing on 6 GHz radios using out-of-band discovery in a mixed AP deployment,0,H04W
+11706644,2023-07-18,Access points with virtual clients,0,H04L|H04W
+11706017,2023-07-18,Integration of blockchain-enabled readers with blockchain network using machine-to-machine communication protocol,0,H04L
+11706008,2023-07-18,Adaptive channel sounding,0,H04B|H04L|H04W
+11704022,2023-07-18,Operational metric computation for workload type,0,G06F|G06N
+11698820,2023-07-11,Autoscaling nodes of a stateful application based on role-based autoscaling policies,0,G06F
+11698816,2023-07-11,Lock-free work-stealing thread scheduler,0,G06F
+11698780,2023-07-11,Deployment and configuration of an edge site based on declarative intents indicative of a use case,0,G06F|H04L
+11696418,2023-07-04,Recommending IT equipment placement based on inferred hardware capabilities,0,G06N|G06Q|H05K
+11696098,2023-07-04,Automatically influencing UE slice policies based on real time analysis,0,H04L|H04M|H04W
+11695654,2023-07-04,High performance compute infrastructure as a service,0,G06F|H04L
+11693889,2023-07-04,Effective materialization strategy utilizing statistical set-theoretic approach for generation of multi-interval multi-column histogram and histograms in general,0,G06F
+11693742,2023-07-04,Backing up data for a namespace assigned to a tenant,1,G06F
+11693686,2023-07-04,Enhanced management of storage repository availability in a virtual environment,0,G06F|H04L
+11693669,2023-07-04,Deploying service containers in an adapter device,3,G06F|H04L
+11693644,2023-07-04,High performance computing node configuration mechanism,0,G06F
+11693575,2023-07-04,Containerized application manifests and virtual persistent volumes,0,G06F|G06Q
+11693573,2023-07-04,Relaying storage operation requests to storage systems using underlying volume identifiers,0,G06F
+11693565,2023-07-04,Storage volume synchronizations responsive to communication link recoveries,0,G06F
+11689918,2023-06-27,Remote access point clustering for user authentication in wireless networks,2,H04L|H04W
+11689469,2023-06-27,Assessment and dynamic quarantine of devices with anomalous behavioral pattern,0,G06F|H04L
+11689421,2023-06-27,Selection of virtual private network profiles,0,H04L
+11689415,2023-06-27,Creating a highly-available private cloud gateway based on a two-node hyperconverged infrastructure cluster with a self-hosted hypervisor management system,0,G06F|H04L
+11687496,2023-06-27,Synchronization of distributed data files,0,G06F
+11687459,2023-06-27,Application of a default shared state cache coherency protocol,0,G06F
+11687344,2023-06-27,Method and system for hard ware-assisted pre-execution,0,G06F
+11687272,2023-06-27,Method and system for dynamic topology-aware space allocation in a distributed system,0,G06F
+11687267,2023-06-27,Containerized application manifests and virtual persistent volumes,0,G06F|G06Q
+11687258,2023-06-27,Operational feature activation/disabling,0,G06F
+11687253,2023-06-27,Configuration of a computational drive,2,G06F
+11683835,2023-06-20,Spatial reuse for high priority traffic,0,H04W
+11683819,2023-06-20,Dynamic configuration of multiple radios of an access point,0,H04L|H04W
+11683722,2023-06-20,Fine timing measurements in enterprise deployments using high bandwidth channels,0,H04W|Y02D
+11683247,2023-06-20,System and methods for supporting multiple management interfaces using a network analytics engine of a network switch,0,H04L
+11683231,2023-06-20,Automatic network assembly,0,H04L|Y02D
+11681519,2023-06-20,Software update on a network device forming a multi-chassis link aggregation group (MC-LAG),0,G06F|H04L|Y02D
+11681453,2023-06-20,Data deduplication parameter computation,1,G06F
+11678465,2023-06-13,Thermal interface apparatus for PCI express M.2 printed circuit assemblies,0,G06F|H05K
+11677622,2023-06-13,Modifying resource allocation or policy responsive to control information from a virtual network function,0,G06F|H04L
+11671830,2023-06-06,Connecting access point to wireless multi-hop network based on a network role of the access point,0,H04L|H04W
+11671348,2023-06-06,Method and system for facilitating efficient multicast forwarding over tunnels,0,H04L
+11671282,2023-06-06,Method and system for dynamically activating virtual networks in a distributed tunnel fabric,0,H04L
+11669468,2023-06-06,Interconnect module for smart I/O,0,G06F|H04L
+11669358,2023-06-06,Virtual network functions allocation in a datacenter,0,G06F|H04L
+11669257,2023-06-06,Container management in a storage system,0,G06F
+11669137,2023-06-06,Power down of power over Ethernet interfaces,0,G06F|H04L
+11665682,2023-05-30,Selective spatial reuse to enhance network performance,0,H04W
+11665545,2023-05-30,Detection and mitigation of BSS color related attacks on high efficiency networks,0,H04L|H04W
+11665202,2023-05-30,Method device and system for policy based packet processing,0,H04L
+11665113,2023-05-30,System and method for facilitating dynamic triggered operation management in a network interface controller (NIC),0,H04L
+11665106,2023-05-30,Network-aware resource allocation,1,H04L
+11665099,2023-05-30,Supervised quality of service change deduction,0,H04L
+11665023,2023-05-30,Configuration validation of a device,0,H04L
+11664987,2023-05-30,Updating public key certificates in network devices using a blockchain network,1,H04L
+11663234,2023-05-30,Storage of a small object representation in a deduplication system,1,G06F
+11663094,2023-05-30,Reducing recovery time of an application,0,G06F
+11663017,2023-05-30,Kernel space measurement,0,G06F
+11662922,2023-05-30,Shared storage allocation among data services,0,G06F
+11659059,2023-05-23,Parallel sharing of hardware,0,G06F|H04L
+11658986,2023-05-23,Detecting attacks on computing devices,0,H04L
+11658080,2023-05-23,Methods and systems for transposition channel routing,0,G06F|H01L|H05K
+11657024,2023-05-23,Map-reduce ready distributed file system,2,G06F|H04L
+11656878,2023-05-23,Fast boot,0,G06F|H04L
+11653417,2023-05-16,Upgrading access points,0,G06F|H04L|H04W
+11653223,2023-05-16,Variable antenna patterns,0,H04B|H04W
+11652831,2023-05-16,Process health information to determine whether an anomaly occurred,0,G06F|G06N|H04L
+11652753,2023-05-16,Link aggregation group optimization,0,H04L|Y02D
+11652702,2023-05-16,Configuring a software as-a-service platform for remotely managing a cloud application,0,G06F|H04L
+11652690,2023-05-16,Aborting network device upgrades,0,H04L
+11652664,2023-05-16,Managing a second ring link failure in a multiring ethernet network,0,H04L
+11651470,2023-05-16,Scheduling jobs on graphical processing units,3,G06F|G06T
+11650960,2023-05-16,Distributed ledger technology platform,0,G06F
+11650953,2023-05-16,Methods and systems for computing in memory,0,G06F|Y02D
+11650948,2023-05-16,Server identification via a keyboard/video/mouse switch,0,G06F|H04L|Y02D
+11650936,2023-05-16,Field-replaceable unit (FRU) secure component binding,0,G06F
+11650837,2023-05-16,Location-based virtualization workload placement,0,G06F|H04L
+11650751,2023-05-16,Adiabatic annealing scheme and system for edge computing,0,G06F|G06N
+11647037,2023-05-09,Penetration tests of systems under test,0,G06F|H04L
+11646991,2023-05-09,System and method for optimizing ARP broadcast,2,H04L
+11646756,2023-05-09,Determining sampling thresholds of SERDES receivers,1,H04B|H04L
+11645529,2023-05-09,Sparsifying neural network models,1,G06N
+11645358,2023-05-09,Generation of executable files corresponding to neural network models,1,G06F|G06N
+11645161,2023-05-09,Catalog of files associated with snapshots,0,G06F
+11645156,2023-05-09,Updating error policy,0,G06F
+11645113,2023-05-09,Work scheduling on candidate collections of processing units selected according to a criterion,0,G06F
+11645014,2023-05-09,Disaggregated storage with multiple cluster levels,0,G06F
+11644882,2023-05-09,System and method for predicting power usage of network components,1,G06F|G06Q|H02J
+11644879,2023-05-09,Power control system for a modular server enclosure,0,G06F|H05K
+11641281,2023-05-02,Hashing values using salts and peppers,0,G06F|H04L
+11640443,2023-05-02,Distributing matrix multiplication processing among processing nodes,2,G06F
+11640312,2023-05-02,System reset using a controller,0,G06F
+11640306,2023-05-02,Computational configuration and multi-layer cluster analysis,0,G06F|G06N|H04L
+11638154,2023-04-25,Prevention of denial of service attacks using FTM requests,0,H04L|H04W
+11637842,2023-04-25,Detection of security intrusion in a computing system,0,G06F|H04L
+11637822,2023-04-25,Onboarding for cloud-based management,0,H04L
+11637779,2023-04-25,Application classification distribution to network devices,0,H04L
+11637719,2023-04-25,Co-packaged multiplane networks,0,H04L
+11636214,2023-04-25,Memory scan-based process monitoring,3,G06F
+11636209,2023-04-25,Data structure measurement comparison,0,G06F
+11635983,2023-04-25,Pre-trained software containers for datacenter analysis,0,G06F|H04L
+11635798,2023-04-25,Dynamic OCP adjustment,1,G01R|G06F|H02H|Y02D
+11632773,2023-04-18,Intelligent scheduling of Wi-Fi services for applications,0,H04B|H04L|H04W|Y02D
+11632355,2023-04-18,Compliance management across multiple cloud environments,1,G06F|H04L
+11632316,2023-04-18,Method and system for reporting unavailability in a label-switched path,0,H04L
+11632304,2023-04-18,Methods and systems for characterizing computing system performance using peer-derived performance severity and symptom severity models,0,G06F|H04L
+11632261,2023-04-18,Managing multicast group traffic,0,H04L
+11630603,2023-04-18,Hardware device polling using delay order,0,G06F
+11627626,2023-04-11,Network redundancy using alternate network uplinks,0,H04W
+11627057,2023-04-11,Virtual network function response to a service interruption,1,H04L
+11627049,2023-04-11,Failsafe firmware upgrade for cloud-managed devices,1,H04L
+11627041,2023-04-11,Dynamic reconfiguration of resilient logical modules in a software defined server,0,G06F|H04L
+11625338,2023-04-11,Extending supervisory services into trusted cloud operator domains,1,G06F
+11625326,2023-04-11,Management of coherency directory cache entry ejection,0,G06F
+11625282,2023-04-11,Systems and methods of remote machine learning training with remote submission and execution through a coding notebook,0,G06F|G06N
+11625256,2023-04-11,Container-as-a-service (CAAS) controller for selecting a bare-metal machine of a private cloud for a cluster of a managed container service,0,G06F|H04L
+11625235,2023-04-11,Program installation in a virtual environment,0,G06F
+11622379,2023-04-04,Enhancing triggered single user transmissions in WLAN networks,0,H04W
+11622364,2023-04-04,Basic service set color-based effective isotropic radiated power assignment for enterprise networks,0,H04W|Y02D
+11620270,2023-04-04,Representing and managing sampled data in storage systems,2,G06F
+11617204,2023-03-28,Channel scheduling for spatial reuse,0,H04W
+11617187,2023-03-28,Systems and methods for prioritizing bi-directional traffic flows,0,H04W
+11616732,2023-03-28,Enhanced redeploying of computing resources,1,G06F|G06N|H04L
+11616694,2023-03-28,Unidirectional link detection misconfiguration auto-detection,0,H04L
+11615827,2023-03-28,Hardware accelerator with analog-content addressable memory (a-CAM) for decision tree computation,1,G06F|G11C
+11615021,2023-03-28,Configurable computer memory,0,G06F|Y02D
+11611500,2023-03-21,Automated network analysis using a sensor,0,H04L
+11610105,2023-03-21,Systems and methods for harnessing analog noise in efficient optimization problem accelerators,0,G06N|G11C|H03K
+11610075,2023-03-21,Hierarchical rule clustering,0,G06F|G06N
+11609980,2023-03-21,Memory module authentication extension,0,G06F
+11609849,2023-03-21,Deduplication system threshold based on a type of storage device,0,G06F
+11606840,2023-03-14,Connecting access point to mesh network,0,H04L|H04W
+11606710,2023-03-14,Redistribution of 802.11ax capable client devices to radios to improve throughput and spectral efficiency,0,H04W
+11606301,2023-03-14,Verifying intents in stateful networks using atomic address objects,1,H04L
+11606228,2023-03-14,Methods and systems for filter frequency response shift compensation for WLAN traffic,0,H04L
+11605013,2023-03-14,System and method of decentralized machine learning using blockchain,2,G06F|G06N|H04L
+11604890,2023-03-14,Accessing information based on privileges,0,G06F|G06Q|H04L
+11604881,2023-03-14,Verification of a provisioned state of a platform,0,G06F|H04L
+11604603,2023-03-14,Method and system for persistent partitionable distributed map using sparse arrays and sparse ordered two-bit bitmaps in shared memory,0,G06F
+11601873,2023-03-07,System and method for optimized load balancing on 6 GHz radios using out-of-band discovery in a mixed AP deployment,0,H04W
+11601473,2023-03-07,Information technology stack security control configuration,0,G06F|H04L
+11601453,2023-03-07,Methods and systems for establishing semantic equivalence in access sequences using sentence embeddings,0,G06F|H04L
+11601368,2023-03-07,Predictive congestion detection,0,H04L
+11601351,2023-03-07,Aggregation of select network traffic statistics,0,G06F|H04L|Y02D
+11601339,2023-03-07,Methods and systems for creating multi-dimensional baselines from network conversations using sequence prediction models,0,G06F|H04L
+11599771,2023-03-07,Recurrent neural networks with diagonal and programming fluctuation to find energy global minima,0,G06N
+11599708,2023-03-07,Encoding of data formatted in human readable text according to schema into binary,0,G06F
+11599561,2023-03-07,Data stream analytics,2,G06F
+11599365,2023-03-07,Sharing image installation image streams,0,G06F|H04L
+11599271,2023-03-07,Controlling I/O Q-connections in NVMe devices,0,G06F
+11595298,2023-02-28,Determining path information in a computing network,0,H04L
+11595249,2023-02-28,Adaptive time window-based log message deduplication,1,G06F|H04L
+11595231,2023-02-28,Metric based dynamic virtual private network (VPN) tunnel between branch gateway devices,0,H04L
+11593328,2023-02-28,Update of deduplication fingerprint index in a cache memory,0,G06F
+11593281,2023-02-28,Device supporting ordered and unordered transaction classes,0,G06F|H04L
+11593235,2023-02-28,Application-specific policies for failover from an edge site to a cloud,0,G06F
+11593210,2023-02-28,Leader election in a distributed system based on node weight and leadership priority based on network performance,0,G06F
+11593140,2023-02-28,Smart network interface card for smart I/O,0,G06F|H04L
+11593052,2023-02-28,Keyboard/video/monitor switch for servers without integrated video controller,2,G06F
+11593021,2023-02-28,Writing a container index to persistent storage,0,G06F|H04L
+11589477,2023-02-21,Void free injection-molded cold plates,0,B29C|F28F|H01L|H05K
+11588924,2023-02-21,Storage interface command packets over fibre channel with transport and network headers as payloads,0,H04L
+11588781,2023-02-21,Controlling network traffic pertaining to a domain name based on a DNS-IP mapping,0,H04L|H04W
+11588698,2023-02-21,Pod migration across nodes of a cluster,0,G06F|H04L
+11588679,2023-02-21,System and method of establishing seamless remote access virtual private network connections,0,H04L
+11588677,2023-02-21,System and a method for recognizing and addressing network alarms in a computer network,0,H04L
+11588345,2023-02-21,Concurrent alternating-current and direct-current,0,G06F|H02J|H02M
+11586971,2023-02-21,Device identifier classification,0,G06N|H04L
+11586490,2023-02-21,System and method of identifying self-healing actions for computing systems using reinforcement learning,0,G06F|G06N|H04L
+11582706,2023-02-14,Determine abnormal clock,0,H04W
+11582673,2023-02-14,Managing client devices on access points,0,H04W
+11582290,2023-02-14,Switch event ordering,0,G06F|H04L
+11582157,2023-02-14,Multi-level learning for classifying traffic flows on a first packet from DNS response data,3,G06N|H04L
+11582152,2023-02-14,Method and system for data management in an edge server,1,H04L
+11582122,2023-02-14,System and method for performing programmable analytics on network data,0,H04L|Y02D
+11582117,2023-02-14,State transitions for a set of services,0,G06F|H04L
+11582101,2023-02-14,Update of programmable for computing nodes,4,G06F|H04L
+11582040,2023-02-14,Permissions from entities to access information,2,G06F|H04L
+11580411,2023-02-14,Systems for introducing memristor random telegraph noise in Hopfield neural networks,0,G06N|G11C
+11580225,2023-02-14,Determine whether to perform action on computing device based on analysis of endorsement information of a security co-processor,0,G06F
+11579952,2023-02-14,Machine-learning based optimization of data center designs and risks,1,G06F|G06N
+11579808,2023-02-14,Fabric driven non-volatile memory express subsystem zoning,4,G06F|H04L
+11579677,2023-02-14,Memristor crossbar arrays to activate processors,0,G06F|G06N|G11C
+11579668,2023-02-14,Multipoint contact conduction cooling of a removable device,0,G06F|H05K
+11575686,2023-02-07,Client reputation driven role-based access control,0,H04L
+11573898,2023-02-07,System and method for facilitating hybrid hardware-managed and software-managed cache coherency for distributed computing,6,G06F
+11570663,2023-01-31,Dynamic BSS color feature for co-hosted virtual access points,2,H04W
+11570077,2023-01-31,Traffic flow trace in a network,0,H04L
+11564162,2023-01-24,Access point wake up,0,G06F|H04W|Y02D
+11563760,2023-01-24,Network embeddings model for personal identifiable information protection,0,H04L|H04W
+11563722,2023-01-24,Firewall coordination in a network,0,H04L|H04W
+11563721,2023-01-24,Methods and systems for network address translation (NAT) traversal using a meet-in-the-middle proxy,0,H04L
+11562140,2023-01-24,Dynamically configurable templates to support versatile deployment of configurations at network devices,1,G06F
+11562083,2023-01-24,Data access management for a composition,0,G06F|H04L
+11562077,2023-01-24,Workload aware security patch management,1,G06F
+11561917,2023-01-24,USB connection management,0,G06F
+11561916,2023-01-24,Processing task deployment in adapter devices and accelerators,5,G06F|H04L
+11561878,2023-01-24,Determining a future operation failure in a cloud system,1,G06F
+11561848,2023-01-24,Policy-based logging using workload profiles,0,G06F
+11561842,2023-01-24,Determining and implementing a feasible resource optimization plan for public cloud consumption,1,G06F|G06N|G06Q
+11561835,2023-01-24,Unified container orchestration controller,0,G06F
+11561831,2023-01-24,Dynamic adjustment of response time,0,G06F|G06N
+11561782,2023-01-24,Upgrade recommendations,1,G06F
+11561607,2023-01-24,"Accelerating constrained, flexible, and optimizable rule look-ups in hardware",2,G06F|G11C
+11558759,2023-01-17,Systems and methods for minimizing latency and contention using QoS frame scheduling information,0,H04W
+11558682,2023-01-17,Hot-swappable no cable touch switch enclosure,1,H04L|H04Q
+11558454,2023-01-17,Group leader role queries,0,H04L
+11558379,2023-01-17,Network access authentication and authorization using a blockchain network,0,G06Q|H04L
+11558263,2023-01-17,Network device association with network management system,0,G06N|H04L
+11556766,2023-01-17,Loading of neural networks onto physical resources,0,G06F|G06N|Y02D
+11556513,2023-01-17,Generating snapshots of a key-value index,1,G06F
+11556490,2023-01-17,Baseboard management controller-based security operations for hot plug capable devices,0,G06F|H04L
+11556478,2023-01-17,Dirty cache line write-back tracking,0,G06F
+11556471,2023-01-17,Cache coherency management for multi-category memories,0,G06F
+11556438,2023-01-17,Proactive cluster compute node migration at next checkpoint of cluster upon predicted node failure,0,G06F|G06N
+11556156,2023-01-17,Adaptable carrier for enterprise datacenter solid-state drives,3,G06F|H05K
+11553007,2023-01-10,Multiple level validation,1,H04L
+11552927,2023-01-10,Dynamic host configuration protocol lease allotment,1,H04L
+11552824,2023-01-10,Label based policy enforcement,0,H04L
+11551635,2023-01-10,Determining whether video display interfaces are coupled to terminations,0,G06F|G09G|H04N
+11551056,2023-01-10,Staged neural networks for solving NP hard/complete problems,1,G06N
+11550631,2023-01-10,Distribution of quantities of an increased workload portion into buckets representing operations,0,G06F
+11550493,2023-01-10,Container index including a tracking data structure,2,G06F|H04L
+11546931,2023-01-03,Systems and methods for UL scheduler optimization with a self-adjustment BSPR scheme,0,H04W
+11546856,2023-01-03,Managing power consumption of a network,0,H04L|H04W|Y02D
+11546839,2023-01-03,Channel scan assisted by TWT,0,H04W
+11546833,2023-01-03,Controlling equipment access to slices in a 5G network,0,H04L|H04W
+11546755,2023-01-03,Centralized configurator server for DPP provisioning of enrollees in a network,2,H04L|H04W
+11546379,2023-01-03,Providing security for internet of things (IoT) devices,0,G06N|H04L
+11546328,2023-01-03,Continuous multifactor device authentication,0,H04L|H04W
+11546315,2023-01-03,Authentication key-based DLL service,0,G06F|H04L
+11546257,2023-01-03,Scalable SD-WAN topology and route automation,1,H04L
+11546256,2023-01-03,Multi-region virtual overlay wide area network,0,H04L
+11546235,2023-01-03,Action based on advertisement indicator in network packet,0,G06Q|H04L
+11546222,2023-01-03,Mapping between wireless links and virtual local area networks,0,H04L
+11546217,2023-01-03,Detecting configuration anomaly in user configuration,2,H04L
+11546185,2023-01-03,Multicast route summarization,0,H04L
+11546184,2023-01-03,Selecting a rendezvous point in an IP multicast-capable network,0,H04L
+11546024,2023-01-03,System and method for dynamic single-radio and dual-radio mode selection for DL MU-MIMO,0,H04B|H04W
+11544540,2023-01-03,Systems and methods for neural network training and deployment for hardware accelerators,0,G06F|G06N|G11C
+11544382,2023-01-03,Regulating messages warning about impacts of firmware changes,0,G06F|H04L
+11544381,2023-01-03,Configuration of server using stored security elements,0,G06F|H04L
+11544264,2023-01-03,Determining query join orders,0,G06F
+11544228,2023-01-03,Assignment of quora values to nodes based on importance of the nodes,0,G06F
+11544116,2023-01-03,Method and system for facilitating dynamic hardware resource allocation in an active switch,0,G06F|H04L
+11544096,2023-01-03,Virtual trusted platform modules,3,G06F
+11544091,2023-01-03,Determining and implementing recovery actions for containers to recover the containers from failures,0,G06F
+11538084,2022-12-27,Method and medium for customer product recommendations,0,G06Q
+11537732,2022-12-27,Unlocking access of information responsive to validation of program codes of virtual entities,1,G06F|H04L
+11537581,2022-12-27,Co-parent keys for document information trees,0,G06F
+11537468,2022-12-27,Recording memory errors for use after restarts,3,G06F
+11537440,2022-12-27,Infrastructure adaptive consistency level mechanism,0,G06F
+11537423,2022-12-27,Virtual resource selection for a virtual resource creation request,0,G06F
+11537187,2022-12-27,Synchronization of power supply devices,0,G06F|H04B|H04J|H04L|H04W
+11537160,2022-12-27,Latches with receivers to releasably engage anchor points,1,E05B|E05C|G06F
+11533277,2022-12-20,Method and system for virtual channel remapping,0,H04L
+11533217,2022-12-20,Systems and methods for predictive assurance,1,G06N|H04L
+11532356,2022-12-20,Self-healing dot-product engine,0,G06F|G06N|G11C
+11531544,2022-12-20,Method and system for selective early release of physical registers based on a release field value in a scheduler,0,G06F
+11531382,2022-12-20,Multi-row pluggable high-radix modules,0,G06F|H01R|H05K
+11528329,2022-12-13,Dynamic path steering utilizing automatic generation of user threshold profiles,0,H04L|H04W
+11528299,2022-12-13,Method device and system for policy based packet processing,0,H04L
+11528227,2022-12-13,Integrated traffic profile for indicating multi-level congestion and packet drop for congestion avoidance,0,H04L
+11528224,2022-12-13,Dynamic traffic redirection for a virtual gateway of a distributed tunnel fabric,0,H04L
+11528192,2022-12-13,Intelligent zero touch provisioning for IPV6,1,H04L
+11528188,2022-12-13,Graphically managing a networking device configuration,0,H04L
+11528166,2022-12-13,Geo-location based optimized hub mesh,0,H04L
+11526492,2022-12-13,Sorted insertion in databases,0,G06F
+11523544,2022-12-06,Air and liquid cooling of electronic equipment based on a selected hybrid cooling profile,0,G06F|H05K
+11522723,2022-12-06,Secure provisiong of baseboard management controller identity of a platform,1,H04L
+11521908,2022-12-06,Heater elements for processor devices,0,G06F|H01L|H05K
+11520748,2022-12-06,Applying append-only policies for files,0,G06F
+11520673,2022-12-06,Maintenance operations based on analysis of collected data,0,G06F
+11516756,2022-11-29,Scheduler optimization for OFDMA downlink transmissions,0,H04L|H04W
+11516302,2022-11-29,Network service discovery,0,H04L|H04W
+11510218,2022-11-22,Channel plan determination,0,H04W
+11510204,2022-11-22,Uplink multi-user transmission beamforming in wireless networks,0,H04B|H04W
+11507761,2022-11-22,Performing complex multiply-accumulate operations,0,G05F|G06G|G06N|G11C|H10N
+11507559,2022-11-22,Object sharing by entities using a data structure,0,G06F
+11507434,2022-11-22,Recommendation and deployment engine and method for machine learning based processes in hybrid cloud environments,0,G06F|G06N
+11507433,2022-11-22,Infrastructure load balancing using software-defined networking controllers,1,G06F
+11503387,2022-11-15,Zero added latency packet reroute via silicon photonics,0,H04B|H04J|H04L|H04Q
+11503027,2022-11-15,Validating configuration changes on a network device,0,G06F|H04L
+11502998,2022-11-15,Methods and systems for provisioning and managing internet-of-thing devices over a network,0,H04L
+11502965,2022-11-15,Burst packet preload for ABW estimation with rate limiters,0,H04L|H04Q
+11502943,2022-11-15,Distributed neighbor state management for networked aggregate peers,0,H04L|Y02D
+11502936,2022-11-15,Heuristic-based SD-WAN route reconfiguration,4,H04L
+11502902,2022-11-15,Network event correlation,1,H04L
+11500699,2022-11-15,Communication of data between virtual processes,1,G06F
+11500678,2022-11-15,Virtual fibre channel port migration,2,G06F
+11500542,2022-11-15,Generation of a volume-level of an IO request,0,G06F
+11497137,2022-11-08,Method and apparatus for extended serial temperature control in a compute device,0,G06F|H05K
+11496959,2022-11-08,Establishing and controlling connection of user equipment to a heterogeneous network,0,H04B|H04W
+11496558,2022-11-08,Peer-to-peer blockchain fabric management mechanism,0,H04L
+11496499,2022-11-08,Preventing scheduling or executing a resource on an inconsistent host node,0,G06F|H04L
+11496492,2022-11-08,Managing false positives in a network anomaly detection system,1,H04L|H04W
+11496474,2022-11-08,Mesh configuration porting in a cloud-based mesh deployment,0,G06F|H04L
+11496386,2022-11-08,Systems and methods for identifying correlations of certain scenarios to performance of network communications,0,H04L
+11496364,2022-11-08,Logical rack controller,2,G06F|H04L|Y02D
+11496317,2022-11-08,Software validation for untrusted computing systems,0,G06F|H04L
+11494280,2022-11-08,Consumption monitoring device and related method for networked resources,0,G06F|G06Q
+11490439,2022-11-01,System and method for performing multiple radio frequency allocation,0,H04B|H04W
+11490366,2022-11-01,Network function virtualisation,0,H04L|H04W
+11490290,2022-11-01,Protecting 802.11 ax networks from QOS Null attacks,0,H04L|H04W|Y02D
+11490256,2022-11-01,Secure zero-touch provisioning of network devices in an offline deployment,0,H04L|H04W
+11489826,2022-11-01,Multi-factor authorization for IEEE 802.1x-enabled networks,0,H04L|H04W
+11489714,2022-11-01,Method and system for performing network fault analysis,0,H04L
+11489679,2022-11-01,Methods and systems for submission and validating decentralized verifiable claims in a physical world,1,G06K|G16Y|H04L|H04W
+11489676,2022-11-01,Blockchain internet-of-things system and related method,0,G06F|G06K|G16Y|H04L|H04W
+11488161,2022-11-01,Systems and methods for providing transaction provenance of off-chain transactions using distributed ledger transactions with secured representations of distributed ledger addresses of transacting parties,14,G06Q
+11488160,2022-11-01,Systems and methods for using captured time series of secured representations of distributed ledger addresses and smart contract deployed on distributed ledger network to prove compliance,1,G06Q|H04L
+11487933,2022-11-01,Error detection and correction for multiple document editor,0,G06F|G06N|H04L
+11487872,2022-11-01,Detection of hardware security attacks,1,G06F
+11487743,2022-11-01,Updating subscriber nodes with replication logs that increase scalability,0,G06F|H04L
+11487690,2022-11-01,Universal host and non-volatile memory express storage domain discovery for non-volatile memory express over fabrics,2,G06F|H04L
+11487565,2022-11-01,Instances of just-in-time (JIT) compilation of code using different compilation settings,0,G06F
+11483761,2022-10-25,Network scanning,0,H04W
+11483384,2022-10-25,Application migrations,1,G06F|H04L
+11482351,2022-10-25,Pluggable network interface port with powering for remote device,0,G06F|H01B|H01R|H02H|H02M
+11481665,2022-10-25,Systems and methods for determining machine learning training approaches based on identified impacts of one or more types of concept drift,0,G06N|H04L
+11481520,2022-10-25,Secure identification of a printed circuit board,0,G06F|H04L
+11481371,2022-10-25,Storage system capacity usage estimation,0,G06F
+11481328,2022-10-25,Using a directory-based cache coherence system to regulate snooping,0,G06F
+11481132,2022-10-25,Removing stale hints from a deduplication data store of a storage system,0,G06F
+11481117,2022-10-25,Storage volume clustering based on workload fingerprints,0,G06F
+11481009,2022-10-25,Host electronic device having a movable cooling component for removable electronic device,2,G06F|H01L|H05K
+11477817,2022-10-18,Systems and methods for prioritized channel access for 802.11ax clients in BSS with mixed clients,0,H04W
+11477753,2022-10-18,Geographical specification based identification of components of a wireless local area network,0,H04L|H04W
+11477732,2022-10-18,Managing TWT clients in congested environment,0,H04W|Y02D
+11477720,2022-10-18,Techniques and architectures for coordinated scanning in a mesh cluster with beacon synchronization,0,H04W
+11477615,2022-10-18,Alerting mobile devices based on location and duration data,1,H04W
+11477186,2022-10-18,Multi-factor user authentication for network access,0,G06F|H04L|H04W
+11477181,2022-10-18,Network enabled control of security devices,0,H04L|H04W
+11477111,2022-10-18,Framework for universally specified affinity topologies with partial path invalidation and generalized network flows,0,H04L
+11475169,2022-10-18,Security and anomaly detection for Internet-of-Things devices,2,G06F|G06N|H04L
+11474952,2022-10-18,"Methods, systems, and computer readable media for performing page fault handling",0,G06F
+11474915,2022-10-18,Cluster recovery manager to remediate failovers,2,G06F|H04W
+11474706,2022-10-18,Memory access rate,1,G06F|G11C
+11469969,2022-10-11,Intelligent lifecycle management of analytic functions for an IoT intelligent edge with a hypergraph-based approach,2,G06N|H04L
+11468359,2022-10-11,Storage device failure policies,0,G06F|G06N
+11468030,2022-10-11,Indirect block containing references to blocks of a persistent fingerprint index,0,G06F
+11467994,2022-10-11,Identifiers for connections between hosts and storage devices,0,G06F
+11467896,2022-10-11,Sections in crash dump files,0,G06F
+11467775,2022-10-11,Virtual persistent volumes for containerized applications,2,G06F
+11464133,2022-10-04,Cooling container,0,G06F|H05K
+11464073,2022-10-04,Automatic deployment of wireless or wired networks through clustering of gateways and tunneling of data traffic to the gateways,1,H04W
+11463510,2022-10-04,Software defined wide area network uplink selection for a cloud service,3,H04L
+11463477,2022-10-04,Policy management system to provide authorization information via distributed data store,0,G06F|H04L
+11463361,2022-10-04,Rate adaptive transactions,0,H04L
+11463343,2022-10-04,SDWAN overlay routing service,0,H04L
+11463341,2022-10-04,Network health monitoring,0,H04L
+11463318,2022-10-04,Efficiency indexes,0,G06F|H04L
+11463265,2022-10-04,Data center security mechanism,0,H04L
+11463241,2022-10-04,Transmitting or receiving blockchain information,0,G06Q|H04L
+11461299,2022-10-04,Key-value index with node buffers,1,G06F
+11461240,2022-10-04,Metadata cache for storing manifest portion,0,G06F
+11461198,2022-10-04,Method to disable or reboot unresponsive device with active uplink in a ring network,0,G06F|H04L
+11461144,2022-10-04,Assignment of processes to computational resources,0,G06F|Y02D
+11459792,2022-10-04,Rotated hood latch,0,E05B|E05Y|G06F|H05K
+11457407,2022-09-27,Reliable multicast/broadcast transmission scheme,0,H04L|H04W|Y02D
+11457370,2022-09-27,System and method for seamless live upgrade of access points using neighbor data,0,H04W
+11457099,2022-09-27,Integrated local area networks (LANs) and personal area networks (PANs),0,H04L|H04W
+11456969,2022-09-27,Predictive handover of traffic in an aggregation network,0,H04L|Y02D
+11456958,2022-09-27,Method and system for meter conformance in a switch,0,H04L
+11456923,2022-09-27,System and method for facilitating a dynamic policy engine with recursive key selection,0,H04L
+11455504,2022-09-27,Memristor based storage of asset events,0,G06F|G06K|G11C
+11455396,2022-09-27,Using trusted platform module (TPM) emulator engines to measure firmware images,0,G06F|H04L
+11455395,2022-09-27,Perform verification check in response to change in page table base register,2,G06F
+11452208,2022-09-20,Electronic devices packaged on wing boards,0,G06F|H01L|H05K
+11451552,2022-09-20,Basic service set (BSS) color-based containment and mitigation,0,H04L|H04W
+11449597,2022-09-20,Transposed passwords,0,G06F
+11444785,2022-09-13,Establishment of trusted communication with container-based services,1,H04L
+11443074,2022-09-13,Verification of programmable logic devices,0,G06F|H03K|H04L
+11443036,2022-09-13,Facial recognition based security by a management controller,0,G06F|G06N|G06V|Y02D
+11442880,2022-09-13,Storage drive adapter,0,G06F|G11B
+11442832,2022-09-13,Managing synchronized reboot of a system,1,G06F
+11442788,2022-09-13,Locating system resources,0,G06F
+11442767,2022-09-13,Virtual serial ports for virtual machines,1,G06F|Y02D
+11438835,2022-09-06,Determining when to adjust a power state of access points,1,H04W|Y02D
+11438524,2022-09-06,Automated rack imaging,1,H04N
+11438317,2022-09-06,Device identification encryption,1,H04L|H04W
+11438303,2022-09-06,Client device address assignment following authentication,2,H04L
+11437323,2022-09-06,Silicon interposer for capacitive coupling of photodiode arrays,0,H01L|H04B|H10F
+11436692,2022-09-06,Systems and methods for monetizing data in decentralized model building for machine learning using a blockchain,2,G06F|G06N|G06Q|H04L
+11436367,2022-09-06,Pre-operating system environment-based sanitization of storage devices,1,G06F
+11436324,2022-09-06,Monitoring parameters of controllers for unauthorized modification,1,G06F|H04L
+11436107,2022-09-06,Recovery management system and method for restoring a computing resource,0,G06F
+11436092,2022-09-06,Backup objects for fully provisioned volumes with thin lists of chunk signatures,0,G06F
+11436073,2022-09-06,Fault indications for storage system commands,1,G06F
+11436072,2022-09-06,System and method for collecting contextual log files from a computing system,0,G06F
+11436054,2022-09-06,Directing queries to nodes of a cluster of a container orchestration platform distributed across a host system and a hardware accelerator of the host system,10,G06F
+11436052,2022-09-06,Shared resource operational metric,0,G06F|H04L
+11431609,2022-08-30,Dynamic network service data routing based on measured network performance data,0,G06N|H04L
+11431571,2022-08-30,Monitoring time-base policy domain architecture,0,G06F|H04L
+11429755,2022-08-30,Intrusion switch,0,G06F
+11429444,2022-08-30,Managing distribution of I/O queue pairs of a target among hosts,1,G06F
+11429440,2022-08-30,Intelligent orchestration of disaggregated applications based on class of service,0,G06F
+11425842,2022-08-23,Thermal design of an access point,0,F28D|H04W|H05K|Y02D
+11425049,2022-08-23,Selectively monitoring a network of network function chains based on probability of service level agreement violation,4,H04L
+11425031,2022-08-23,Layer 3 multi-chassis link aggregation group,0,H04L
+11425026,2022-08-23,Transfer of secure multicast data traffic over a computing network,0,H04L
+11425016,2022-08-23,Black hole filtering,0,H04L
+11425001,2022-08-23,Node addition in cloud networks,0,H04L
+11424981,2022-08-23,Distributed lifecycle management for cloud platforms,0,G06F|H04L
+11424961,2022-08-23,Exporting the device sharing attribute for host devices from a wireless controller to a switch,0,H04L
+11424859,2022-08-23,Physical layer low-latency forward error correction,1,H03M|H04L
+11424857,2022-08-23,Forward packet recovery with constrained network overhead,0,H04L
+11423014,2022-08-23,Method and system for database enhancement in a switch,0,G06F|H04L
+11419011,2022-08-16,Data transmission via bonded tunnels of a virtual wide area network overlay with error correction,0,H04J|H04L|H04W
+11418515,2022-08-16,Multi-vendor support for network access control policies,0,H04L
+11418247,2022-08-16,High spatial reuse for mmWave Wi-Fi,0,H04B|H04W
+11417097,2022-08-16,Video annotation system for deep learning based video analytics,12,G06F|G06V
+11416347,2022-08-16,Making a backup copy of data before rebuilding data on a node,0,G06F
+11412416,2022-08-09,Data transmission via bonded tunnels of a virtual wide area network overlay,3,H04J|H04L|H04W
+11409859,2022-08-09,Watermark for manufacturing authenticity,0,G06F|G06T|G09G|H01H
+11409858,2022-08-09,Authorized device or component determinations,0,G06F|H04L
+11409715,2022-08-09,Maintaining high-availability of a file system instance in a cluster of computing nodes,0,G06F|H04L
+11406036,2022-08-02,Flexible I/O server interface card orientation,0,G06F|H05K
+11405973,2022-08-02,Detecting network connectivity anomalies with presence analysis,0,G06N|H04W
+11405861,2022-08-02,Network repository function controller,4,H04L|H04W
+11405791,2022-08-02,System and method for optimizing a channel switch mechanism between DFS channels,0,G01S|H04K|H04W
+11405790,2022-08-02,System and method to partition radio spectrum in a mixed client environment for efficient 802.11ax transmissions,0,H04W
+11405776,2022-08-02,Troubleshooting and resolving access point failures on computer networks,0,H04L|H04W
+11405775,2022-08-02,Three-address scheme for forwarding frames in a wireless mesh network,1,H04L|H04W
+11405409,2022-08-02,Threat-aware copy data management,0,G06F|H04L
+11405381,2022-08-02,Tag-based access permissions for cloud computing resources,0,H04L
+11405304,2022-08-02,Route updating using a BFD protocol,0,H04L
+11405275,2022-08-02,Automatically determining mesh network role of network device,0,H04L|H04W
+11405274,2022-08-02,Managing virtual network functions,0,H04L
+11405267,2022-08-02,Policy-based temporal domain configuration architecture,0,G06Q|H04L
+11405265,2022-08-02,Methods and systems for detecting path break conditions while minimizing network overhead,0,H04L
+11405250,2022-08-02,Automatically select guard interval value,0,H04L|H04W
+11405222,2022-08-02,Methods and systems for enrolling device identifiers (DEVIDs) on redundant hardware,0,H04L
+11405084,2022-08-02,Sounding for uplink multi-user transmission beamforming in wireless networks,3,H04B|H04L|H04W
+11403674,2022-08-02,Systems and methods for capturing time series dataset over time that includes secured representations of distributed ledger addresses,2,G06Q|H04L|H04N
+11403628,2022-08-02,Authenticating and paying for services using blockchain,1,G06Q|H04L
+11403366,2022-08-02,On-demand retrieval of information from databases,0,G06F
+11403319,2022-08-02,High-availability network device database synchronization,0,G06F
+11403159,2022-08-02,Device carrier assemblies,0,G06F
+11403134,2022-08-02,Prioritizing migration of data associated with a stateful application based on data access patterns,0,G06F
+11403088,2022-08-02,Upgrade of hosts hosting application units of a container-based application based on analysis of the historical workload pattern of the cluster,0,G06F
+11403082,2022-08-02,Systems and methods for increased bandwidth utilization regarding irregular memory accesses using software pre-execution,1,G06F
+11403020,2022-08-02,Increasing sizes of buckets of a fingerprint index,2,G06F
+11402882,2022-08-02,Pulse width modulation fan,0,G05B|G06F|H02P
+11398973,2022-07-26,Route selection using cumulative cost,0,H04L
+11398971,2022-07-26,System and method for dynamic tuning of neighbor aging,0,H04L
+11398965,2022-07-26,Backup node operation,0,G06Q|H04L
+11397836,2022-07-26,Quantifying power usage for a service,0,G06F|G06Q|Y02D
+11397830,2022-07-26,Security rules compliance for personally identifiable information,0,G06F|H04L
+11397815,2022-07-26,Secure data protection,1,G06F|H04L
+11397677,2022-07-26,System and method for tracking persistent flushes,0,G06F
+11397588,2022-07-26,Operating system installation mechanism,5,G06F|H04L
+11397570,2022-07-26,Abort installation of firmware bundles,0,G06F
+11394789,2022-07-19,Seamless migration of a network management system deployment to cloud-based deployment,2,G06F|H04L
+11394624,2022-07-19,Systems and methods for unifying service assurance with service fulfillment,0,G06F|H04L
+11394621,2022-07-19,Proactively accomodating predicted future serverless workloads using a machine learning prediction model,0,G05B|G06N|H04L
+11394617,2022-07-19,Virtualized network functions,1,H04L
+11392622,2022-07-19,Cloud service categorization,1,G06F|H04L
+11392541,2022-07-19,Data transfer using snapshot differencing from edge system to core system,11,G06F
+11392495,2022-07-19,Flat cache simulation,0,G06F
+11392400,2022-07-19,Enhanced migration of clusters based on data accessibility,0,G06F
+11392167,2022-07-19,Device clock setting while booting a device,0,G06F|H04L
+11388830,2022-07-12,Lift and rotating drive cage,1,G06F|H05K
+11388234,2022-07-12,Infrastructure for deploying a security information and event management application on a container platform,4,G06F|H04L
+11388137,2022-07-12,Derivation of basic service set identifiers for access points,0,H04L|H04W
+11387646,2022-07-12,Power management system for maintaining bus voltage,0,G06F|H02H|Y02D
+11386044,2022-07-12,Tiered storage in a distributed file system,1,G06F|H04L
+11385863,2022-07-12,Adjustable precision for multi-stage compute processes,0,G06F|G06N
+11382030,2022-07-05,Enterprise-based network selection,0,H04W
+11381971,2022-07-05,Bluetooth low energy authorization of cloud-managed devices,1,H04L|H04W
+11381505,2022-07-05,Acknowledgment storm detection,1,H04L
+11381493,2022-07-05,Determining a transit appliance for data traffic to a software service,0,H04L
+11381017,2022-07-05,High connector count mating compliance,0,G06F|H01R|H05K
+11379712,2022-07-05,Avoiding cycles in neural networks,0,G06N
+11379571,2022-07-05,Presence terminal-based side channel communications,0,G06F|H04L
+11379291,2022-07-05,Application logging mechanism,2,G06F
+11379208,2022-07-05,Firmware update of an interconnect device,0,G06F|H04L|Y02D
+11375451,2022-06-28,Target wake time synchronization across virtual access points,0,H04W|Y02D
+11375406,2022-06-28,Radio frequency (RF) information visualization,0,G06F|G06T|H04B|H04W
+11375361,2022-06-28,Dynamic tuning of mobile network device configuration based on location,0,H04W
+11374979,2022-06-28,Graph-based policy representation system for managing network devices,1,H04L
+11374965,2022-06-28,"Method and system for DOS detection, mitigation and notification",0,H04L|H04W
+11374877,2022-06-28,Runtime schema for services in a switch,0,H04L
+11374869,2022-06-28,Managing bandwidth based on user behavior,0,H04L
+11374856,2022-06-28,System and method for performing synchronization of maximum transmission unit with router redundancy,1,H04L
+11374845,2022-06-28,Determining a transit appliance for data traffic to a software service,0,H04L
+11374827,2022-06-28,System for simultaneous viewing and editing of multiple network device configurations,0,H04L|H04W
+11374822,2022-06-28,Virtual stack setup,0,H04L|H04W|Y02D
+11374814,2022-06-28,Network device configuration update using rank and health,4,G06F|H04L
+11374791,2022-06-28,Orchestration of subnetwork extensions across a wide area network,2,H04L
+11374691,2022-06-28,Adaptive block acknowledgement negotiations,0,H04L|H04W
+11373014,2022-06-28,Controlling access to peripheral ports of a host computing system,0,G06F
+11372979,2022-06-28,Computing device login failsafe,0,G06F
+11372970,2022-06-28,Multi-dimensional attestation,0,G06F
+11372586,2022-06-28,System and method for regulating NVMe-oF command requests and data flow across a network with mismatched rates,2,G06F|H04L
+11372463,2022-06-28,Power down of power over ethernet interfaces,1,G06F|H04L|Y02D
+11368555,2022-06-21,Convert a device to a corresponding device according to seed image,0,G06F|H04L|H04W
+11368394,2022-06-21,Using labels in a virtualized device environment,0,H04L
+11368253,2022-06-21,System to improve the performance and stability of bonding radios,0,H04L|H04W
+11366673,2022-06-21,Managing transitioning of computing system to power-on state from standby-power state,0,G06F
+11366653,2022-06-21,Updating application code,0,G06F|H04L
+11365973,2022-06-21,Drone-based scanning for location-based services,0,B64U|G01C|G05D|G06Q|G06V
+11363527,2022-06-14,Adjusting power states of access points,0,H04W
+11363104,2022-06-14,Subscription based directory services for IOT devices,1,H04L|H04W
+11361245,2022-06-14,Intelligent IOT data split management,0,G06F|G06N|H04L
+11361195,2022-06-14,Incremental update of a neighbor graph via an orthogonal transform based indexing,0,G06F
+11361050,2022-06-14,Assigning dependent matrix-vector multiplication operations to consecutive crossbars of a dot product engine,0,G06F|G06N
+11360863,2022-06-14,Key-value store on persistent memory,8,G06F|H04L
+11360827,2022-06-14,Regulating core and un-core processor frequencies of computing node clusters,0,G06F|H04L|Y02D
+11360784,2022-06-14,Integrity manifest certificate,0,G06F
+11360782,2022-06-14,Processors to configure subsystems while other processors are held in reset,0,G06F
+11357014,2022-06-07,Determine available frequencies based on frequencies and energy levels of interferences,0,H04J|H04W
+11356932,2022-06-07,Channel scan based on mobility state,0,H04L|H04W
+11356866,2022-06-07,Selecting a role for an access point,0,H04L|H04W
+11356505,2022-06-07,Hybrid cloud compliance and remediation services,0,H04L
+11356443,2022-06-07,Systems and methods for associating a user claim proven using a distributed ledger identity with a centralized identity of the user,4,H04L
+11356383,2022-06-07,Cloud translation mechanism,0,H04L
+11356340,2022-06-07,Provisioning a service,0,G06F|H04L
+11356133,2022-06-07,Methods and systems for filter frequency response shift compensation for WLAN traffic,6,H03F|H03H|H04B|H04L
+11354636,2022-06-07,Transaction bundles for internet of things devices,0,G06Q|H04L
+11354289,2022-06-07,Merging buffered fingerprint index entries,2,G06F
+11354259,2022-06-07,Computer system configurations based on accessing data elements presented by baseboard management controllers,3,G06F
+11349808,2022-05-31,Internet protocol security messages for subnetworks,1,H04L
+11349771,2022-05-31,Method and system for enhanced queue management in a switch,0,H04L
+11349761,2022-05-31,Cost effective congestion isolation for lossless ethernet,0,H04L
+11349740,2022-05-31,Available bandwidth estimation based on packet skipping in one-way delay (OWD) based analysis,0,H04L
+11349732,2022-05-31,Detection of anomalies in a network,0,G06N|H03M|H04L
+11349723,2022-05-31,Identification mapping for network devices,0,H04L|Y02D
+11349721,2022-05-31,Discovering switch port locations and internet protocol addresses of compute nodes,0,G06F|H04L
+11349703,2022-05-31,Method and system for root cause analysis of network issues,2,G06N|H04L
+11349653,2022-05-31,Multiple-site private network secured by IPsec using blockchain network for key exchange,0,H04L
+11347702,2022-05-31,Migration of data in a system having multi-tiered physical storage,0,G06F
+11347688,2022-05-31,Key-value store for map reduce system,0,G06F
+11347562,2022-05-31,Management of dependencies between clusters in a computing environment,0,G06F
+11347288,2022-05-31,Power management in a blade enclosure,0,G06F|H04L
+11343151,2022-05-24,Automatic network scaling for data centers,0,G06Q|H04L
+11341328,2022-05-24,Dynamic grammar augmentation for editing multiple network switch configuration files as a single file,0,G06F|H04L
+11341256,2022-05-24,File expiration based on user metadata,0,G06F
+11340992,2022-05-24,Representing update results of firmware updates,0,G06F
+11340889,2022-05-24,Updating firmware images on chained input/output (I/O) modules,3,G06F
+11340680,2022-05-24,System controller for monitoring a characteristic system energy of a computing system,1,G06F
+11336563,2022-05-17,Routing subnets of branch gateways in a geographic region to a selected headend gateway,0,H04L
+11336553,2022-05-17,Dynamic monitoring and visualization for network health characteristics of network device pairs,0,H04L
+11336552,2022-05-17,Data center troubleshooting mechanism,0,G06F|H04L
+11336527,2022-05-17,Method and system for enhanced command management in a network,0,H04L
+11336487,2022-05-17,Optimized high-efficiency (HE) sounding for multi-link device networks,4,H04B|H04L|H04W
+11334670,2022-05-17,Integrity verification for a software stack or part of a software stack,23,G06F
+11334501,2022-05-17,Access permissions for memory regions,2,G06F
+11334368,2022-05-17,Process and thread launch features,0,G06F
+11334337,2022-05-17,Selecting and sending subset of components to computing device prior to operating system install,1,G06F
+11330019,2022-05-10,System and method of decentralized management of device assets outside a computer network,2,H04L
+11329890,2022-05-10,Network-aware workload management using artificial intelligence and exploitation of asymmetric link for allocating network resources,1,G06N|H04L
+11329816,2022-05-10,Encryption keys for removable storage media,0,G06F|H04L
+11323512,2022-05-03,Peer to peer infrastructure management architecture,0,G06F|H04L
+11323469,2022-05-03,Entity group behavior profiling,2,H04L|H04W
+11323390,2022-05-03,Request arbitration by age and traffic classes,0,H04L
+11323304,2022-05-03,Self-learning correlation of network patterns for agile network operations,1,H04L
+11323183,2022-05-03,Analog front-end,0,H03F|H04B|H04L
+11322545,2022-05-03,Vertical JFET device for memristor array interface,0,H01L|H10B|H10D
+11321475,2022-05-03,Entropy data based on error correction data,2,G06F
+11321002,2022-05-03,Converting a virtual volume between volume types,0,G06F
+11316828,2022-04-26,Networking sub-ranges,0,H04L
+11316788,2022-04-26,Dynamic allocation of resources within network devices,0,H04L
+11316756,2022-04-26,Self-tuning networks using distributed analytics,0,H04L
+11316537,2022-04-26,Fault-tolerant analog computing,1,G06F|G06G|H03M
+11315009,2022-04-26,Analog multiplier-accumulators,1,G06F|G06N|G11C|H03M
+11314867,2022-04-26,Determinations of compromise of controller code images,0,G06F
+11314711,2022-04-26,Network switch with network analysis data producer-consumer shared memory,0,G06F
+11314637,2022-04-26,System and method for efficient cache coherency protocol processing,0,G06F
+11314573,2022-04-26,Detection of event storms,1,G06F|H04L
+11314449,2022-04-26,Tracking write requests to media controllers,0,G06F
+11310653,2022-04-19,Visitor location register registration handling,0,H04W
+11310641,2022-04-19,Entitlement server connected eSIMS,0,H04W
+11310265,2022-04-19,Detecting MAC/IP spoofing attacks on networks,0,H04L
+11310225,2022-04-19,Access to telecom blockchain-based services with digital passport,1,G06F|H04L|H04W
+11310118,2022-04-19,Tracking randomized addresses in bluetooth devices,0,H04B|H04L|H04W
+11310097,2022-04-19,Virtual stack recovery,0,H04L
+11309707,2022-04-19,Variable overcurrent protection for power supplies,1,G06F|H02H|H02M
+11307840,2022-04-19,Software version determinations based on release notes and support file,2,G06F
+11307839,2022-04-19,Updating of container-based applications,2,G06F
+11307788,2022-04-19,Sampling fingerprints in bins,3,G06F
+11307627,2022-04-19,Systems and methods for reducing stranded power capacity,0,G06F|G06Q|H04L|Y02D
+11304344,2022-04-12,Scalable universal sensor data acquisition with predictable timing,0,H04L|H05K
+11304048,2022-04-12,Partition a radio into a service chain and a scan chain to scan channels,0,H03J|H03L|H04B|H04W
+11303583,2022-04-12,Resource trees by management controller,0,H04L
+11303534,2022-04-12,Proactively accomodating predicted future serverless workloads using a machine learning prediction model and a feedback control system,1,G05B|G06N|H04L
+11303524,2022-04-12,Network bandwidth configuration,0,G06F|H04L
+11301299,2022-04-12,Data based scheduling for horizontally scalable clusters,0,G06F
+11301276,2022-04-12,Container-as-a-service (CaaS) controller for monitoring clusters and implemeting autoscaling policies,3,G06F
+11301242,2022-04-12,Feature-based reporting of software versions,0,G06F
+11297593,2022-04-05,Identifying fixed WLAN devices using mobility patterns,0,H04B|H04W
+11297591,2022-04-05,Handling multiple fine timing measurement ranging requests,2,G01S|H04W
+11297496,2022-04-05,Encryption and decryption of management frames,0,H04L|H04W
+11297077,2022-04-05,Gain customer trust with early engagement through visualization and data driven configuration,0,H04L
+11296987,2022-04-05,Congestion management mechanism,0,G06F|H04L
+11294763,2022-04-05,Determining significance levels of error values in processes that include multiple layers,0,G06F|G11C
+11294701,2022-04-05,Enhanced management of storage repository availability in a virtual environment,4,G06F|H04L
+11294699,2022-04-05,Dynamically scaled hyperconverged system establishing minimum supported interoperable communication protocol between clusters in a cluster group,0,G06F|H04W
+11290471,2022-03-29,Cross-attestation of electronic devices,2,G06F|H04L
+11290329,2022-03-29,Configuring a network based on a centroid configuration of a group of network entities,0,H04L
+11290319,2022-03-29,Dynamic distribution of bidirectional forwarding detection echo sessions across a multi-processor system,0,H04L
+11288252,2022-03-29,Transactional key-value store,2,G06F
+11284535,2022-03-22,Leak mitigation in a cooling system for computing devices,0,G05B|G06F|H05K
+11284285,2022-03-22,Network device kpi monitors based on bitmaps,0,G06F|G06T|H04L|H04W
+11283804,2022-03-22,Group zoning and access control over a network,0,H04L
+11283782,2022-03-22,ISO layer-two connectivity using ISO layer-three tunneling,0,H04L
+11283677,2022-03-22,Maintaining edit position for multiple document editor,0,G06F|H04L
+11283671,2022-03-22,Handling issues reported by network devices,0,H04L
+11283639,2022-03-22,Multicast flow anomaly identification,0,H04L
+11281833,2022-03-22,Methods and systems for exchange bus routing,0,G06F|H05K
+11281551,2022-03-22,Enhanced configuration management of data processing clusters,2,G06F
+11281491,2022-03-22,Execution of services concurrently,5,G06F
+11281476,2022-03-22,Plugin framework to support zero touch management of heterogeneous infrastructure elements across distributed data centers,4,G06F
+11277850,2022-03-15,Systems and methods of client device grouping for uplink transmission in a WLAN,0,H04B|H04L|H04W
+11277794,2022-03-15,Power save aware RU allocation,0,H04W|Y02D
+11277715,2022-03-15,Transmit multicast frame,0,H04L|H04W
+11277407,2022-03-15,Disabling MAC address aging time for an internet of things (IoT) device on a network switch,0,H04L|H04W
+11277399,2022-03-15,Onboarding an unauthenticated client device within a secure tunnel,3,H04L|H04W
+11277283,2022-03-15,Resilient zero touch provisioning,1,H04L
+11272455,2022-03-08,Dynamic frequency selection for wake up radio,0,H04B|H04W|Y02D
+11271908,2022-03-08,Systems and methods for hiding identity of transacting party in distributed ledger transaction by hashing distributed ledger transaction ID using secured representation of distributed ledger address of transacting party as a key,10,H04L
+11271792,2022-03-08,Using a recursive parser tree to implement a smaller code segment for an embedded simple network management protocol agent,0,H04L
+11270403,2022-03-08,Systems and methods of obtaining verifiable image of entity by embedding secured representation of entity's distributed ledger address in image,2,G06F|G06T|H04L
+11269973,2022-03-08,Crossbar allocation for matrix-vector multiplications,0,G06F|G06G|G06N|G11C
+11269637,2022-03-08,Validating machine-readable instructions using an iterative validation process,0,G06F|H04L
+11269517,2022-03-08,Cost-aware storage allocation of deduplicated objects,0,G06F
+11265320,2022-03-01,Extended redirect mirror,0,H04L
+11265217,2022-03-01,Distributed ledger for configuration synchronization across groups of network devices,0,H04L|H04W
+11262829,2022-03-01,Power supply having a threshold indicator to perform a shutdown operation based on voltage of a bulk capacitor,0,G01R|G06F
+11262815,2022-03-01,Heat sink system with broad compatibility capacity,1,G06F|H05K
+11262809,2022-03-01,Base chassis including extension to support additional storage cage,7,G06F|G11B|H05K
+11259310,2022-02-22,Mitigating adjacent channel interference for a dual radio network device,1,H04W
+11258814,2022-02-22,Methods and systems for using embedding from Natural Language Processing (NLP) for enhanced network analytics,1,G06F|G06N|H04L
+11258794,2022-02-22,Device category based authentication,2,H04L|H04W|Y02D
+11256694,2022-02-22,Tolerance level-based tuning of query processing,1,G06F
+11256499,2022-02-22,Hotfix-firmware having updates to a firmware at runtime,1,G06F
+11252836,2022-02-15,Communication network performance monitoring and power backup,0,F16B|F16M|G01D|G06F|H04L|H05K
+11252258,2022-02-15,Device-aware dynamic protocol adaptation in a software-defined network,0,H04L
+11252064,2022-02-15,System and method for monitoring ingress/egress packets at a network device,0,H04L
+11250466,2022-02-15,"Systems and methods for using secured representations of user, asset, and location distributed ledger addresses to prove user custody of assets at a location and time",13,G06Q|H04L
+11250172,2022-02-15,Handling wireless client devices associated with a role indicating a stolen device,0,G06F|H04L|H04W
+11249979,2022-02-15,"Systems and methods for live, on-device configuration validation",0,G06F|H04L
+11249918,2022-02-15,Mapping entry invalidation,0,G06F
+11249659,2022-02-15,Operational metric computation for workload type,0,G06F|G06N
+11249529,2022-02-15,Detection of removable power inlet current rating,0,G01R|G06F|H04L
+11246055,2022-02-08,Consistent quality of service policy in a software defined enterprise network,1,H04L|H04W
+11245446,2022-02-08,Decoding MU-MIMO and OFDMA transmissions for WIDS and packet capture in WLANs,0,H04B|H04L|H04W
+11243793,2022-02-08,Virtual machine management,0,G06F|H04L
+11243712,2022-02-08,Local analytics for high-availability storage systems,0,G06F
+11243703,2022-02-08,Expandable index with pages to store object records,1,G06F
+11240723,2022-02-01,Dynamic client segregation in 802.11AX networks,0,H04W
+11240027,2022-02-01,Synchronizing radius server databases using distributed ledger network,0,G06F|H04L
+11237892,2022-02-01,Obtaining data for fault identification,2,G06F
+11234197,2022-01-25,Predicting power states of access points,0,H04B|H04L|H04W|Y02D
+11234132,2022-01-25,Autonomous device authentication for private network access,3,H04W
+11233856,2022-01-25,Selecting an address of a device,0,H04L|H04W
+11233850,2022-01-25,Replicating data over a public network,0,H04L
+11233744,2022-01-25,Real-time network application visibility classifier of encrypted traffic based on feature engineering,1,H04L
+11233679,2022-01-25,Phase adjustments for computer nodes,0,H04J|H04L
+11233641,2022-01-25,Systems and methods for using distributed attestation to verify claim of attestation holder,2,G06Q|H04L
+11232497,2022-01-25,Fulfillment of cloud service using marketplace system,0,G06Q|H04L
+11232446,2022-01-25,Carrier grade telecom blockchain,1,G06Q|H04L|H04W
+11232352,2022-01-25,Memristor spiking architecture,0,G06F|G06N
+11231872,2022-01-25,Identification of substitute controllers based on temperature data,0,G06F
+11229000,2022-01-18,Automatic location of access points in a network,0,G01S|G06F|G06T|H04W
+11228618,2022-01-18,Seamless multi-vendor support for change of authorization through radius and other protocols,0,H04L
+11228533,2022-01-18,Techniques and architectures for available bandwidth estimation based on multi-dimensional analysis,2,H04L
+11228506,2022-01-18,Systems and methods for detecting anomalies in performance indicators of network devices,0,G06F|H04L
+11228494,2022-01-18,Sharing policy and configuration information related to a configuration item,0,H04L
+11228202,2022-01-18,Synchronized standby startup of power supplies with current injection,0,G06F|H02J|Y02B|Y04S
+11226908,2022-01-18,Securing transactions involving protected memory regions having different permission levels,1,G06F
+11226904,2022-01-18,Cache data location system,2,G06F
+11226901,2022-01-18,Programmable broadcast address,0,G06F
+11226867,2022-01-18,Backups of file system instances of encrypted data objects,1,G06F|H04L
+11226751,2022-01-18,Storage enclosure reconfiguration,0,G06F
+11223631,2022-01-11,Secure compliance protocols,2,G06F|H04L|H04W
+11223577,2022-01-11,Switch network architecture,0,H04L
+11223538,2022-01-11,Intelligent data traffic routing in a wide area network,12,H04L
+11222078,2022-01-11,Database operation classification,0,G06F|G06N
+11221967,2022-01-11,Split mode addressing a persistent memory,0,G06F
+11221942,2022-01-11,"System and methods for amalgamation of artificial intelligence (AI) and machine learning (ML) in test creation, execution, and prediction",3,G06F|G06N
+11221660,2022-01-11,Fault detection based on comparing input current and moving average input current,0,G01R|G06F
+11218567,2022-01-04,Server recommendations for broadcasted services,0,G06N|H04L
+11218463,2022-01-04,Trust establishment to deploy servers in data centers,0,H04L|Y02D
+11218440,2022-01-04,Contiguous subnet IP address allocation,0,H04L
+11218293,2022-01-04,Secure parameter merging using homomorphic encryption for swarm learning,1,G06F|G06N|H04L
+11216463,2022-01-04,Relational database system join query table scan bypass,0,G06F
+11216297,2022-01-04,Associating virtual network interfaces with a virtual machine during provisioning in a cloud system,0,G06F
+11216296,2022-01-04,Identifying a least cost cloud network for deploying a virtual machine instance,0,G06F
+11212292,2021-12-28,Network access control authorization process chaining,0,H04L
+11212223,2021-12-28,Uplink selection in a SD-WAN,3,H04L
+11212212,2021-12-28,Non-isolated topologies in computing network environments,0,H04L
+11212209,2021-12-28,Speed determination for network ports,0,H04L
+11212164,2021-12-28,Preventing multicast outages in ring networks,0,H04L
+11210466,2021-12-28,Multiple document editing using rules for a restricted language,0,G06F|H04L
+11210252,2021-12-28,Directing control data between semiconductor packages,0,G06F
+11210124,2021-12-28,Movement of virtual machine data across clusters of nodes,0,G06F
+11210089,2021-12-28,Vector send operation for message-based communication,0,G06F
+11210078,2021-12-28,Action execution based on management controller action request,0,G06F
+11206550,2021-12-21,Assisted network roaming with predictive network tool,1,H04W
+11206316,2021-12-21,Multiple model injection for a deployment cluster,1,G06F|G06N|H04L
+11206290,2021-12-21,Session initiation protocol (SIP) notifications for internet of things (IoT),1,H04L
+11206264,2021-12-21,Minimizing traffic leaks during replacement of an access control list for a network interface,0,H04L
+11204935,2021-12-21,Similarity analyses in analytics workflows,0,G06F
+11202301,2021-12-14,Self-learning rate access prioritizer for applications in a wireless network,0,H04L|H04W
+11202297,2021-12-14,Centralized spectrum management for interference mitigation,0,H04W
+11201881,2021-12-14,Behavioral profiling of service access using intent to access in discovery protocols,2,G06N|H04L
+11201864,2021-12-14,Vendor agnostic captive portal authentication,0,H04L
+11200948,2021-12-14,System for a flexible conductance crossbar,5,G06N|G11C|H10B|H10N
+11200345,2021-12-14,Firewall to determine access to a portion of memory,0,G06F
+11200189,2021-12-14,Baseboard management controller-based security operations for hot plug capable devices,0,G06F|H04L
+11200129,2021-12-14,Performance evaluation for an electronic design under test,0,G06F
+11199673,2021-12-14,Optoelectronic device with integrated underfill exclusion structure,0,G02B|H01L|H10F
+11199192,2021-12-14,Pump assembly having performance enhancing hose connection ports,2,F04D|F05D|G06F|H05K
+11197319,2021-12-07,Enhanced spatial reuse of radio spectrum in WLAN operation,0,H04B|H04W
+11197152,2021-12-07,Utilization of component group tables in a computing network,0,H04L|H04W
+11196686,2021-12-07,Chatbot context setting using packet capture,0,H04L
+11196643,2021-12-07,State transitions for a set of services,1,G06F|H04L
+11196593,2021-12-07,Feedback circuit for a decision feedback equalizer,0,G06F|H03K|H04L
+11191026,2021-11-30,Methods and systems for increased power save efficiency in wireless communications networks,2,H04W|Y02D
+11188480,2021-11-30,System and method for cache directory TCAM error detection and correction,0,G06F
+11184824,2021-11-23,Wireless device upgrade,0,G06F|H04L|H04W|Y02D
+11184254,2021-11-23,Network route stability characterization,1,G06N|H04L
+11184175,2021-11-23,Systems and methods for using secured representations of location and user distributed ledger addresses to prove user presence at a location and time,1,H04L|H04W
+11184103,2021-11-23,Dynamic bandwidth sharing on a fiber loop using silicon photonics,0,H04J|H04L
+11182256,2021-11-23,Backup item metadata including range information,5,G06F
+11182174,2021-11-23,System configuration analysis for migration,0,G06F
+11182134,2021-11-23,Self-adjustable end-to-end stack programming,0,G06F
+11181628,2021-11-23,Accurate localization of an object by a network device,0,G01S|H04B|H04W
+11178060,2021-11-16,Self forming local fabric,0,H04L
+11177219,2021-11-16,Photonic integrated circuit with integrated optical transceiver front-end circuitry for photonic devices and methods of fabricating the same,3,H01L|H04B
+11175902,2021-11-16,Testing an upgrade to a microservice in a production environment,0,G06F
+11172022,2021-11-09,Migrating cloud resources,1,G06F|H04L
+11171953,2021-11-09,Secret sharing-based onboarding authentication,0,H04L
+11171863,2021-11-09,System and method for lag performance improvements,0,H04L|Y02D
+11171851,2021-11-09,Group alert in server systems,0,G06F|H04L
+11171841,2021-11-09,"System for propagating a modification of a first service, in a service graph, to a second service",2,G06F|H04L
+11171822,2021-11-09,Media user agent and media back-to-back user agent layers,0,H04L
+11171810,2021-11-09,Misconfigured uplink identification,3,H04L|Y02D
+11171796,2021-11-09,Managing multicast scaling,1,H04L
+11171794,2021-11-09,Eight channel surge protection for power over ethernet solutions,0,H02H|H04L
+11171787,2021-11-09,Baseboard management controller with integrated radio frequency identification interface,0,G06K|H04L|H04W
+11171766,2021-11-09,Synchronization of electronic devices,1,H04L|H04W
+11171731,2021-11-09,Classifying interfering devices using classifiers received from a centralized repository,0,G06F|H04B|H04J|H04W
+11169964,2021-11-09,Hash suppression,0,G06F
+11169921,2021-11-09,Ternary content addressable memory-enhanced cache coherency acceleration,0,G06F
+11169916,2021-11-09,Exception handling in wireless access points,0,G06F|H04L|H04W
+11169910,2021-11-09,Probabilistic software testing via dynamic graphs,0,G06F
+11169856,2021-11-09,Container management,3,G06F|H04L
+11169854,2021-11-09,Node eligibility determinations,1,G06F
+11169805,2021-11-09,Dynamic processor cache to avoid speculative vulnerability,1,G06F
+11165663,2021-11-02,Network management using a distributed ledger,0,G06F|H04L
+11165626,2021-11-02,Management of events received from network devices,0,H04L
+11165242,2021-11-02,Variable soft start device for an electronic fuse,0,G01R|G06F|H02H|H03K
+11160097,2021-10-26,Enforcing station fairness with MU-MIMO deployments,0,H04B|H04W
+11159618,2021-10-26,Software-defined sensing,1,H04L|H04W
+11159612,2021-10-26,Determining non-TDP zones in a storage area network,1,H04L
+11159391,2021-10-26,Instantiation of a telco blockchain in a NFV environment,0,G06F|H04L
+11159384,2021-10-26,Runtime monitoring in intent-based networking,0,H04L|Y02D
+11158063,2021-10-26,Objects and features neural network,1,G06F|G06N|G06T|G06V
+11157288,2021-10-26,Securely and reliably transferring startup script,1,G06F|H04L
+11157237,2021-10-26,Memristive dot product circuit based floating point computations,2,G06F|G06G|G11C|H03M
+11157050,2021-10-26,Compute node tray cooling,5,G06F|H05K
+11153992,2021-10-19,Air and fluid cooling of a data center,1,G06F|H05K|Y02D
+11153920,2021-10-19,Establishing a GTP session,0,H04W
+11153824,2021-10-19,Maintenance and monitoring of target wait time (TWT) sessions,4,H04L|H04W|Y02D
+11153764,2021-10-19,Determine channel plans,0,H04W
+11153391,2021-10-19,Connecting application instances to client devices,0,H04L
+11153279,2021-10-19,Locally representing a remote application programming interface (API) endpoint within an application platform,0,H04L
+11153268,2021-10-19,Cloud-based dynamic host configuration protocol configuration,0,H04L
+11153213,2021-10-19,ECMP set based on route time delay,0,H04J|H04L
+11153192,2021-10-19,Techniques and architectures for available bandwidth estimation with packet pairs selected based on one-way delay threshold values,1,H04L
+11153185,2021-10-19,Network device snapshots,0,G06F|H04L
+11153029,2021-10-19,Interference-aware link-rate adaptation for wireless communication,0,H04L|H04W
+11152283,2021-10-19,Rack and row-scale cooling,0,F04B|F04D|G06F|H01L|H05K
+11150931,2021-10-19,Virtual workload migrations,1,G06F
+11150884,2021-10-19,Device driver update images,0,G06F
+11147184,2021-10-12,Power distribution with batteries,0,G06F|H02J|H05K
+11147014,2021-10-12,Wake-up radio group-ID allocation,0,H04W|Y02D
+11144793,2021-10-12,Incremental clustering of a data stream via an orthogonal transform based indexing,0,G06F
+11144572,2021-10-12,Centralized configuration database cache,0,G06F
+11144453,2021-10-12,Unmap to initialize sectors,1,G06F
+11144420,2021-10-12,Dynamic resource allocation in a wireless access point to support event capture,0,G06F|H04W
+11144374,2021-10-12,Data availability in a constrained deployment of a high-availability system in the presence of pending faults,0,G06F
+11144237,2021-10-12,Concurrent reading and writing with crash recovery in persistent memory,0,G06F
+11139898,2021-10-05,Node-division multiplexing with sub-WDM node ports for pseudo-all-to-all connected optical links,1,G06F|H04B|H04J|H04Q|Y02D
+11139530,2021-10-05,"Space saving, modular, hot-pluggable power modules",0,G06F|H01G|H01M|H05K|Y02E
+11138315,2021-10-05,Data structure measurement comparison,1,G06F
+11138140,2021-10-05,Configuring first subsystem with a master processor and a second subsystem with a slave processor,0,G06F
+11138088,2021-10-05,Automated identification of events associated with a performance degradation in a computer system,1,G06F
+11137913,2021-10-05,Generation of a packaged version of an IO request,0,G06F
+11134411,2021-09-28,Dynamic uplink resource unit scheduling for UL-OFDMA in 802.11ax networks,0,H04L|H04W
+11134409,2021-09-28,Determining whether a flow is to be added to a network,0,G06F|H04J|H04L|H04M|H04W
+11134126,2021-09-28,Adaptive routing of branch traffic in software-defined wide area network (SDWAN) deployments,1,G06F|G06N|H04L
+11134060,2021-09-28,Mobile virtual private network configuration,1,H04L
+11133849,2021-09-28,Split radio chanis into subsets,0,H04B|H04W
+11132879,2021-09-28,Enclosures for coupling to asset walls,0,G08B|H04W
+11132432,2021-09-28,Tactile challenge-response testing for electronic devices,1,G06F
+11132423,2021-09-28,Partition matrices into sub-matrices that include nonzero elements,0,G06F|H03K
+11132351,2021-09-28,Executing transactions based on success or failure of the transactions,0,G06F
+11132322,2021-09-28,Determining a quantity of hot swap controllers,1,G05F|G06F|H02H
+11132191,2021-09-28,Software and firmware updates of computing systems,1,G06F|H04L
+11132042,2021-09-28,Drive carrier assemblies,0,G06F|G11B|H05K
+11128741,2021-09-21,Auto-negotiation over extended backplane,0,H04L
+11128641,2021-09-21,Propagating belief information about malicious and benign nodes,0,H04L
+11128531,2021-09-21,Systems and methods for aggregate bandwidth and latency optimization,1,G06F|H04L
+11128530,2021-09-21,Container cluster management,4,G06F|H04L
+11128492,2021-09-21,Automated gateway selection in SD-WAN,85,H04L
+11126755,2021-09-21,Object signatures in object stores,0,G06F|H04L
+11126565,2021-09-21,Encrypted memory access using page table attributes,0,G06F|G11C
+11126564,2021-09-21,Partially coherent memory transfer,4,G06F
+11126549,2021-09-21,Processing in-memory architectures for performing logical operations,0,G06F|G06N|Y02D
+11126451,2021-09-21,Converting virtual volumes in place,0,G06F
+11126372,2021-09-21,External memory controller,0,G06F
+11122007,2021-09-14,Data routing through a gateway cluster of a wide area network,2,H04L
+11121922,2021-09-14,Automatic network assembly,0,H04L|Y02D
+11119981,2021-09-14,Selectively redirect-on-write data chunks in write-in-place file systems,0,G06F
+11119941,2021-09-14,Capability enforcement controller,0,G06F
+11119872,2021-09-14,Log management for a multi-node data processing system,5,G06F
+11119789,2021-09-14,Kernel space measurement,0,G06F
+11119780,2021-09-14,Side cache,0,G06F
+11119682,2021-09-14,Compressed extent versions,0,G06F
+11119681,2021-09-14,Opportunistic compression,0,G06F
+11115347,2021-09-07,Dynamic monitoring and migration of applications,81,H04L
+11115342,2021-09-07,Using BFD packets in a virtualized device,0,H04L|Y02D
+11115319,2021-09-07,Using BFD packets in a network tunnel environment,1,H04L
+11115279,2021-09-07,Client server model for multiple document editor,0,H04L
+11114936,2021-09-07,Adjusting output voltage of powered device ports,0,G06F|H02M|H04L
+11114409,2021-09-07,Chip on wafer on substrate optoelectronic assembly and methods of assembly thereof,0,G02B|H01L
+11113408,2021-09-07,Providing a secure object store using a hierarchical key system,1,G06F|H04L
+11113132,2021-09-07,Localization of potential issues to objects,0,G06F
+11113118,2021-09-07,System and method for managing network access control privileges based on communication context awareness,1,G06F|H04L
+11113096,2021-09-07,Permissions for a cloud environment application programming interface,0,G06F|H04L
+11113001,2021-09-07,Fabric driven non-volatile memory express subsystem zoning,1,G06F|H04L
+11109427,2021-08-31,Mesh configuration network,0,G06F|H04L|H04W
+11108851,2021-08-31,Dynamic application routing in a software defined wide area network,80,H04L
+11108730,2021-08-31,Group heartbeat information in a domain name system server text record,1,H04L
+11108645,2021-08-31,Device interface matching using an artificial neural network,0,G06N|H04L
+11108623,2021-08-31,Rapid owner selection,0,H04L
+11108622,2021-08-31,Protocol-independent multicast designated router (PIM-DR) failover in a multi-chassis environment,1,H04L
+11106798,2021-08-31,Automatically replacing versions of a key database for secure boots,0,G06F|H04L
+11106788,2021-08-31,Security for active data request streams,0,G06F
+11106697,2021-08-31,Reading own writes using context objects in a distributed database,0,G06F
+11106580,2021-08-31,Deduplication system threshold based on an amount of wear of a storage device,1,G06F
+11106527,2021-08-31,Hardware error corrections based on policies,0,G06F
+11102149,2021-08-24,"Modular, flexibly connected switch-port input-output cards",0,H04L
+11102083,2021-08-24,Machine-learning based optimization of data centers using supplemental indicators,1,G06F|G06N|H04L
+11102077,2021-08-24,Transmit specific along blocked link,1,H04L
+11102071,2021-08-24,Approach to defining computer system configuration definitions,0,H04L
+11102060,2021-08-24,Identification of a soft failure at a member,0,G06F|H04L
+11100235,2021-08-24,Backups of file system instances with root object encrypted by metadata encryption key,0,G06F|H04L
+11100083,2021-08-24,Read only bufferpool,0,G06F
+11100055,2021-08-24,Map-reduce ready distributed file system,1,G06F|H04L
+11100036,2021-08-24,Serial connection between management controller and microcontroller,0,G06F
+11100021,2021-08-24,Storage drive adapter,0,G06F|G11B
+11100000,2021-08-24,Embedded image management,0,G06F
+11099958,2021-08-24,Instruction generation for validation of processor functionality,0,G06F
+11099926,2021-08-24,Sensor reading verification and query rate adjustment based on readings from associated sensors,0,G06F|H04Q
+11095566,2021-08-17,Embedded device interaction restrictions,0,H04L
+11095518,2021-08-17,Determining violation of a network invariant,0,H04L
+11095501,2021-08-17,Provisioning and activating hardware resources,1,H04L
+11093352,2021-08-17,Fault management in NVMe systems,0,G06F
+11088945,2021-08-10,Dynamic source-driven path setup across a switch fabric,1,H04L
+11088244,2021-08-10,Devices having substrates with selective airgap regions,0,H01L|H10D
+11086966,2021-08-10,Apparatus for solving Ising problems,1,G06F|G06N
+11086797,2021-08-10,Systems and methods for restricting write access to non-volatile memory,0,G06F
+11086660,2021-08-10,Server virtual address space,0,G06F
+11082880,2021-08-03,Adjusting data rates in wireless networks,0,H04B|H04L|H04W
+11082804,2021-08-03,Determining that a client device presents in a site using frequent client mobility patterns,0,G01S|H04W
+11082339,2021-08-03,Domain name system (DNS) optimization for wide area networks,0,H04L
+11082311,2021-08-03,System and methods for supporting multiple management interfaces using a network analytics engine of a network switch,1,H04L
+11082293,2021-08-03,System and method for validating correctness of changes to network device configurations,0,H04L|H04W
+11080301,2021-08-03,Storage allocation based on secure data comparisons via multiple intermediaries,0,G06F
+11080261,2021-08-03,Hybrid concurrency control,0,G06F
+11080244,2021-08-03,Inter-version mapping of distributed file systems,1,G06F
+11080206,2021-08-03,Ring structure of priority queues for memory cache,2,G06F
+11080151,2021-08-03,Restoration of cloud management platform,0,G06F|H04L
+11080040,2021-08-03,Firmware upgrade for access points,3,G06F|H04L|H04W
+11079939,2021-08-03,Distributing I/O Q-connections of subsytems among hosts,3,G06F
+11079818,2021-08-03,Fan control,0,G05B|G06F
+11079400,2021-08-03,Monitoring a product build process via a smart tray,0,G01N|G06Q|H04L|H04W
+11076307,2021-07-27,LTE interference detection and mitigation for Wi-Fi links,55,H04L|H04W
+11075878,2021-07-27,Client device address assignment following authentication,2,H04L
+11075848,2021-07-27,Fast path for acknowledgement frames in wireless networks,0,H04L|H04W
+11075801,2021-07-27,Systems and methods for reconfiguration control using capabilities,0,G06F|H04L
+11074453,2021-07-27,Video active region batching,0,G06F|G06T|G06V
+11074264,2021-07-27,Database and data stream query,1,G06F
+11074236,2021-07-27,Hierarchical index involving prioritization of data content of interest,0,G06F
+11074199,2021-07-27,Securing a memory device,2,G06F
+11074179,2021-07-27,Managing objects stored in memory,1,G06F
+11074093,2021-07-27,Virtual machine migration using tracked error statistics for target fibre channel ports,0,G06F
+11073986,2021-07-27,Memory data versioning,2,G06F
+11073540,2021-07-27,Load disparity detection,0,G01R|G05F|G06F
+11070658,2021-07-20,Zero touch provisioning,0,H04L|H04M
+11070459,2021-07-20,Framework for universally specified affinity topologies with partial path invalidation and generalized network flows,1,H04L
+11070455,2021-07-20,Storage system latency outlier detection,1,G06F|H04L
+11070356,2021-07-20,Text encryption,0,G06F|H04L
+11068420,2021-07-20,Scalable software stack,0,G06F
+11068253,2021-07-20,Software upgrade and downgrade using ghost entries,0,G06F
+11068037,2021-07-20,Device having main and backup power,0,G06F|H02J
+11064375,2021-07-13,Access points with virtual clients,1,H04L|H04W
+11064353,2021-07-13,Infrastructure coordinated media access control address assignment,0,G06F|H04L|H04W
+11063940,2021-07-13,Switch authentication,3,H04L
+11063809,2021-07-13,Redundant simple network management protocol (SNMP) systems and methods,0,H04L
+11063467,2021-07-13,Power delivery monitor and control with an uninterruptible power supply,0,G01R|G06F|H01R|H02J|Y02B|Y02E|Y04S
+11061766,2021-07-13,Fault-tolerant dot product engine,0,G06F|G11C|H03M
+11061395,2021-07-13,Real-time alerts and transmission of selected signal samples under a dynamic capacity limitation,1,G05B|G06N|H04L
+11058032,2021-07-06,Memory module cooler with vapor chamber device connected to heat pipes,0,B23P|F28D|G06F|H01L|H05K|Y10T
+11057157,2021-07-06,Transmission frame counter,0,H04L|H04W
+11057083,2021-07-06,System and method for dynamic single-radio and dual-radio mode selection for DL MU-MIMO,1,H04B|H04W
+11055322,2021-07-06,Comparison of a part key to machine keys,0,G06F|G06Q
+11055080,2021-07-06,Serial bootloading of power supplies,2,G06F|G11C
+11051422,2021-06-29,Modular server design,11,G02B|G06F|H05K
+11051419,2021-06-29,Chassis for a circuit assembly,0,G06F|H05K
+11051320,2021-06-29,Intelligent scheduling of Wi-Fi services for applications,3,H04B|H04L|H04W|Y02D
+11051206,2021-06-29,Wi-fi optimization for untethered multi-user virtual reality,0,G06F|G06T|H04B|H04L|H04W
+11051058,2021-06-29,Real-time wireless video delivery system using a multi-channel communications link,0,H04N
+11050837,2021-06-29,Providing cloud services associated with unused hardware resources of private cloud providers,0,G06F|H04L
+11050644,2021-06-29,Dynamic device anchoring to SD-WAN cluster,85,G06F|H04L
+11050623,2021-06-29,Managing virtual network functions,0,H04L
+11050612,2021-06-29,Authorization of cloud-managed network devices,1,H04L|H04W
+11050562,2021-06-29,Target device attestation using a trusted platform module,0,G06F|H04L
+11049286,2021-06-29,Deep neural network color space optimization,0,G06T|H04N
+11048822,2021-06-29,"System, apparatus and method for anonymizing data prior to threat detection analysis",0,G06F
+11048559,2021-06-29,Managing ownership transfer of file system instance in virtualized distributed storage system,0,G06F|H04L
+11048539,2021-06-29,Transitioning virtual machines to an inactive state,0,G06F
+11048425,2021-06-29,Data integrity verification,0,G06F|H04L
+11047975,2021-06-29,Split wireless radio chains to service ranging measurement,0,G01S|H04B|H04W
+11043800,2021-06-22,Energy storage components to power loads during transitions between power supplies,0,G06F|H02H
+11043265,2021-06-22,Memory devices with volatile and non-volatile behavior,4,G06N|G11C
+11042683,2021-06-22,Void avoidance verifications for electronic circuit designs,0,G06F
+11042665,2021-06-22,Data connectors in large scale processing clusters,0,G06F
+11042656,2021-06-22,Data porch for throttling data access,0,G06F|H04L
+11039373,2021-06-15,System and method to implement scan on wireless composite device,0,H04W
+11038834,2021-06-15,Selecting an external link of a plurality of external links,2,H04L
+11038752,2021-06-15,Creating a highly-available private cloud gateway based on a two-node hyperconverged infrastructure cluster with a self-hosted hypervisor management system,1,G06F|H04L
+11038741,2021-06-15,Multi-user virtual reality over wireless networks,1,A63F|G02B|G06T|H04B|H04L
+11037214,2021-06-15,Generation of performance offerings for interactive applications,0,G06F|G06Q|H04L
+11036557,2021-06-15,Dynamic transaction-persistent server load balancing,0,G06F|H04L
+11035946,2021-06-15,Accurate localization of client devices for wireless access points,2,G01S|H04W
+11032397,2021-06-08,Method and system for high speed data links,0,H04L
+11030347,2021-06-08,Protect computing device using hash based on power event,0,G06F
+11030107,2021-06-08,Storage class memory queue depth threshold adjustment,12,G06F
+11030061,2021-06-08,Single and double chip spare,0,G06F|G11C
+11029847,2021-06-08,Method and system for shared direct access storage,0,G06F|Y02D
+11026151,2021-06-01,Determining top N devices for labels,0,G06F|H04L|H04W
+11025588,2021-06-01,Identify assets of interest in enterprise using popularity as measure of importance,0,H04L
+11025541,2021-06-01,Transporting a GTP message to a termination device,0,H04L|H04W
+11024379,2021-06-01,Methods and systems for highly optimized memristor write process,2,G06N|G11C
+11023453,2021-06-01,Hash index,8,G06F
+11023434,2021-06-01,No rollback threshold for audit trail,0,G06F
+11019554,2021-05-25,Wireless channel access restrictions,0,H04B|H04L|H04W
+11017311,2021-05-25,Dataset augmentation based on occlusion and inpainting,1,G06N
+11017091,2021-05-25,Firmware map data,0,G06F
+11017090,2021-05-25,Verification of a state of a platform,6,G06F|H04L
+11017080,2021-05-25,Measuring integrity of computing system using jump table,0,G06F
+11016683,2021-05-25,Serializing access to fault tolerant memory,0,G06F
+11012841,2021-05-18,Match bluetooth low energy (BLE) moving patterns,0,H04W
+11012261,2021-05-18,Associating VXLANs with tunnels,1,H04L
+11010929,2021-05-18,Image compression with bounded deep neural network perception loss,2,G06F|G06N|G06T
+11010370,2021-05-18,System and method of decentralized management of multi-owner nodes using blockchain,1,G06F|G07C|H04L
+11010300,2021-05-18,Optimized record lookups,3,G06F
+11010205,2021-05-18,Virtual network function resource allocation,3,G06F|H04L
+11010177,2021-05-18,Combining computer applications,3,G06F|H04L
+11009934,2021-05-18,Application ramp rate control in large installations,0,G06F|Y02D
+11006544,2021-05-11,Automatic component discovery mechanism,1,G06F|H05K
+11006482,2021-05-11,Upgrading access points,0,G06F|H04L|H04W
+11005814,2021-05-11,Network security,2,H04L
+11004681,2021-05-11,Defect-free heterogeneous substrates,0,H01L|H10D
+11002926,2021-05-11,Wavelength division multiplexing optical module,4,G02B|H01L|H01S|H04B
+10999730,2021-05-04,Adaptive wireless client steering,0,G06N|H04B|H04L|H04W
+10999274,2021-05-04,Determining a device property,0,H04L|Y02D
+10999153,2021-05-04,Virtual stack setup,0,H04L|H04W|Y02D
+10999006,2021-05-04,Communications having reduced latency,0,H04L
+10998988,2021-05-04,High frequency radio signal classifications,0,H04B|H04L|H04W
+10997170,2021-05-04,Local database cache,0,G06F
+10997153,2021-05-04,Transaction encoding and transaction persistence according to type of persistent storage,0,G06F
+10997074,2021-05-04,Management of coherency directory cache entry ejection,0,G06F
+10997064,2021-05-04,Ordering updates for nonvolatile memory accesses,0,G06F|Y02D
+10997041,2021-05-04,Method to disable or reboot unresponsive device with active uplink in a ring network,0,G06F|H04L
+10996985,2021-05-04,Dynamic queue depth management with non-volatile memory controllers,2,G06F
+10996964,2021-05-04,Virtual endpoint software system,0,G06F
+10996724,2021-05-04,Providing power to a server,2,G06F|H04L
+10993353,2021-04-27,Fan controlled ambient air cooling of equipment in a controlled airflow environment,3,G05B|G06F|H05K
+10993169,2021-04-27,Deep packet inspection (DPI) aware client steering and load balancing in wireless local area network (WLAN) infrastructure,0,H04W
+10992702,2021-04-27,Detecting malware on SPDY connections,0,G06F|H04L
+10992575,2021-04-27,Assignment of internet protocol addresses to services,3,H04L
+10992528,2021-04-27,Configuring network devices,0,G06F|H04L|Y02D
+10992520,2021-04-27,Network policy graphs,11,H04L
+10990533,2021-04-27,Data caching using local and remote memory,0,G06F|H04L
+10986183,2021-04-20,Data management in a network environment,0,H04L
+10984860,2021-04-20,Self-healing dot-product engine,2,G06F|G06N|G11C
+10984103,2021-04-20,Malware detection,0,G06F|H04L
+10983880,2021-04-20,Role designation in a high availability node,0,G06F|H04L
+10983865,2021-04-20,Adjusting memory parameters,0,G06F|G11C
+10983831,2021-04-20,Firmware-based provisioning of operating system resources,0,G06F|Y02D
+10980151,2021-04-13,Flexible heat transfer mechanism configurations,0,H01L|H05K
+10979320,2021-04-13,Managing a cloud service,1,G06F|H04L
+10977221,2021-04-13,Encoding of data formatted in human-readable text according to schema into binary,0,G06F
+10972396,2021-04-06,Mapping network frame flows to classes of service to minimize network frame flow disruption,1,H04L
+10972394,2021-04-06,Network congestion management,0,H04L
+10972347,2021-04-06,Converting a first cloud network to second cloud network in a multi-cloud environment,0,H04L
+10972335,2021-04-06,Designation of a standby node,3,G06F|H04L
+10972300,2021-04-06,Transmissions of unicast frames to client devices,1,H04L|H04W
+10972155,2021-04-06,Access point selection,0,H04B|H04W
+10970625,2021-04-06,Device with multiple resistance switches with different switching characteristics,0,G06N
+10970213,2021-04-06,Selective disabling of hardware-based cache coherency and enforcement of software-based cache coherency,1,G06F
+10970143,2021-04-06,Event action management mechanism,4,G06F
+10966340,2021-03-30,Tray with memory modules,0,G06F|H05K
+10965788,2021-03-30,Multi-path transmission control protocol (MP-TCP) option tunneling for MP-TCP proxies,2,H04L
+10964180,2021-03-30,Intrustion detection and notification device,0,G06F|G08B
+10963377,2021-03-30,Compressed pages having data and compression metadata,0,G06F
+10958730,2021-03-23,Mapping virtual network functions,0,G06F|H04L
+10958694,2021-03-23,Sharing content between collocated mobile devices in an ad-hoc private social group,2,G06F|G06Q|H04L|H04W
+10958554,2021-03-23,Monitoring flow activity on a network device,1,H04L
+10958547,2021-03-23,Verify a network function by inquiring a model using a query language,0,G06F|H04L
+10958481,2021-03-23,Transforming a service packet from a first domain to a second domain,1,H04L
+10957999,2021-03-23,Stacking cabled input/output slots,1,G05B|G06F|H01R
+10956575,2021-03-23,Determine malware using firmware,8,G06F|H04L
+10956391,2021-03-23,Methods and systems for determining hardware sizing for storage array systems,0,G06F
+10956194,2021-03-23,Learning a MAC address in VXLAN,0,G06F|H04L
+10956143,2021-03-23,Server updates,3,G06F
+10956079,2021-03-23,Data resynchronization,3,G06F
+10955883,2021-03-23,Power supply dry disconnect liquid cooling,2,G06F|H05K
+10951664,2021-03-16,Processing call flows,0,H04L
+10951461,2021-03-16,Anomaly-driven packet capture and spectrum capture in an access point,5,H04L|H04W
+10949738,2021-03-16,Tunable memristor noise control,1,G06N|G11C
+10949342,2021-03-16,Persistent memory garbage collection,0,G06F
+10949322,2021-03-16,Collecting performance metrics of a device,0,G06F
+10949286,2021-03-16,Handling memory errors in memory modules that include volatile and non-volatile components,0,G06F
+10949239,2021-03-16,Application deployment in a container management system,3,G06F|H04L
+10949190,2021-03-16,Upgradeable component detection and validation,0,G06F
+10944819,2021-03-09,Replication of an encrypted volume,0,G06F|H04L
+10944799,2021-03-09,Identification and control of applications and media sessions,0,H04L
+10944719,2021-03-09,Restrict communications to device based on internet access,0,G06F|H04L
+10944695,2021-03-09,Uplink port oversubscription determination,0,H04L
+10944694,2021-03-09,Predictive arbitration circuit,1,H04L
+10944667,2021-03-09,Loop check packets,0,H04L
+10944663,2021-03-09,Categorization of MAC address randomization,1,H04L
+10944534,2021-03-09,Identifying doorway access points,0,H04L|H04W
+10942864,2021-03-09,Shared memory for distributed data,2,G06F
+10942824,2021-03-09,Programming model and framework for providing resilient parallel tasks,0,G06F
+10942762,2021-03-09,Launch web browser applications in microservice-based containers,0,G06F|H04L
+10942758,2021-03-09,Migrating virtual host bus adaptors between sets of host bus adaptors of a target device in order to reallocate bandwidth to enable virtual machine migration,0,G06F|H04L
+10942673,2021-03-09,Data processing using resistive memory arrays,7,G06F|G06N|G11C
+10939302,2021-03-02,Computing system to create radio frequency plans for wireless network deployments,0,G06N|H04W
+10938836,2021-03-02,Transmitting secure information,0,G06F|H04L
+10938751,2021-03-02,Hierarchical switching devices,0,H04L|H04Q
+10938667,2021-03-02,Incremental intent checking for stateful networks,4,H04L
+10938666,2021-03-02,Network testing simulation,0,H04L
+10938625,2021-03-02,Standby controllers for access points,1,H04B|H04L|H04W
+10938623,2021-03-02,Computing element failure identification mechanism,1,G06F|G06N|G06Q|H04L
+10938553,2021-03-02,Distribution and verification of transaction integrity keys,0,H04L
+10936637,2021-03-02,Associating insights with data,1,G06F
+10936493,2021-03-02,Volatile memory cache line directory tags,1,G06F
+10936044,2021-03-02,Quality of service based memory throttling,1,G06F|G11C|Y02D
+10935960,2021-03-02,Pre-runtime fan control,2,G05B|G06F|H05K
+10932157,2021-02-23,Intelligent link aggregation,0,H04W
+10932120,2021-02-23,Determining mobile network class of service,0,H04W
+10931584,2021-02-23,Data frame transmission,0,H04L|H04W
+10931568,2021-02-23,Hitless maintenance of a L3 network,0,H04L
+10931516,2021-02-23,Network link failure detection,0,H04L
+10929431,2021-02-23,Collision handling during an asynchronous replication,0,G06F
+10929429,2021-02-23,Flexible subscriber data abstraction layer,0,G06F|H04W
+10929322,2021-02-23,Prioritized arbitration using fixed priority arbiter,5,G06F
+10929293,2021-02-23,Atomic operations for fabric shared memories,2,G06F
+10929168,2021-02-23,Enhanced data storage and versioning of virtual nodes in a data processing environment,0,G06F
+10929166,2021-02-23,Enhanced data storage of virtual nodes in a data processing environment,0,G06F
+10929148,2021-02-23,Executing services in containers,0,G06F
+10928874,2021-02-23,Bypass switch control,0,G06F|H02J
+10928867,2021-02-23,Cooling distribution unit flow rate,1,G06F|H05K
+10925070,2021-02-16,Access point update,0,G06F|H04L|H04W
+10924995,2021-02-16,Wake-up radio roaming,3,H04W|Y02D
+10924403,2021-02-16,Using a single cache table,1,H04L
+10924396,2021-02-16,Achieving L2 tunnel reduncancy and L3 load balancing,0,H04L
+10924390,2021-02-16,Updating entries of a distribution data structure,0,H04L
+10924298,2021-02-16,Network service chain construction,0,H04L
+10924185,2021-02-16,Systems and methods of dual-side array bi-directional CWDM micro-optics,2,H04B|H04J|H04L|H04Q
+10922599,2021-02-16,Memristor based storage of asset events,0,G06F|G06K|G11C
+10922276,2021-02-16,Online file system check,0,G06F
+10922178,2021-02-16,Masterless raid for byte-addressable non-volatile memory,1,G06F
+10922137,2021-02-16,Dynamic thread mapping,0,G06F
+10922116,2021-02-16,Creating operating system volumes,0,G06F
+10917997,2021-02-09,Drive cage panels to divert flows of air,0,G06F|G11B|H05K
+10917345,2021-02-09,Generating a hash table in accordance with a prefix length,0,H04L
+10915449,2021-02-09,Prioritizing data requests based on quality of service,0,G06F|H04L
+10915349,2021-02-09,Containerized application deployment,3,G06F|H04L
+10914790,2021-02-09,Performance tests of capacitors,1,G01R|G04C|G06F
+10908831,2021-02-02,Selecting cloud storage,1,G06F

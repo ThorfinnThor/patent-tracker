@@ -1,0 +1,480 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430795,2025-09-30,Automated wellhead monitoring using imaging and computer vision,0,G06T
+12430452,2025-09-30,"Systems, devices, and methods for determining and registering authorized roles",0,G06F
+12429842,2025-09-30,Method and system for managing plant safety using machine learning,0,G05B|G06N|G06Q
+12429625,2025-09-30,Systems and methods for identifying fractures within a geological formation,0,G01V|G06N|G06V
+12429580,2025-09-30,Identifying and remediating oil spills,0,G01S|G06Q|G06T|G06V
+12429472,2025-09-30,Methods and systems for predicting formation thermal properties,0,G01N|G06N
+12428957,2025-09-30,Systems and methods for estimating well parameters and drilling wells,0,E21B|G06Q
+12412309,2025-09-09,Chemical purity assessment by image analysis,0,G01N|G06T
+12412001,2025-09-09,Generating well model flow tables for artificial intelligent models,0,G06F|G06N
+12407709,2025-09-02,Method for assurance and monitoring of continuous active security data availability,0,H04L
+12404763,2025-09-02,Wireless hydrogen subsurface sensing framework for reservoir optimization,0,E21B|G06N
+12394183,2025-08-19,Generating training samples via 3D modeling for greenhouse gas emission detection,0,G06F|G06V
+12393711,2025-08-19,Systems and methods for determining quarantine statuses of outbound emails,0,G06F|H04L
+12392925,2025-08-19,Waterflood front imaging using segmentally insulated well liners as on-demand electrodes,0,E21B|G01V|G06F|Y02A
+12388866,2025-08-12,Systems and methods for malicious URL pattern detection,0,G06F|G06N|H04L
+12387509,2025-08-12,Sample labeling method using image-matching,0,G06F|G06V
+12387307,2025-08-12,Determining severity of stepwise cracking in a pressurized vessel,0,G01N|G06T
+12387117,2025-08-12,Injector riskiness score (IRS) matrix,0,B65G|E21B|G06F|G06N
+12385393,2025-08-12,Systems and methods for estimating well parameters and drilling wells,0,E21B|G06Q
+12385384,2025-08-12,Rate of penetration (ROP) optimization advisory system,0,E21B|G06Q
+12380792,2025-08-05,Real-time worker location tracking system,0,G06Q|G08B|H04L|H04W
+12380670,2025-08-05,Identifying and remediating oil spills,0,G01S|G06T|G06V
+12378879,2025-08-05,Methods for predicting formation properties,0,E21B|G06F
+12375309,2025-07-29,Method and system for pipe component management using distributed ledger technology,0,G06Q|H04L
+12373422,2025-07-29,System and method for patching database as a service with minimal downtime,0,G06F
+12372684,2025-07-29,Numerical simulation capability for determining blockages within a wellbore and wellbore completion setups,0,E21B|G01N|G01V|G06F
+12368591,2025-07-22,Blockchain enhanced identity access management system,0,H04L
+12367229,2025-07-22,System and method for integrating machine learning in data leakage detection solution through keyword policy prediction,0,G06F
+12347296,2025-07-01,Emulated facility safety with correlated sound frequency modeling,0,G05B|G06Q|G08B
+12346642,2025-07-01,Method for improving unconventional hydrogen development,0,G06F
+12346365,2025-07-01,Noise reduction and validation of in-line inspection tool data,0,G06F
+12340670,2025-06-24,Emulated facility safety with embedded enhanced interface management,0,G06Q|G08B
+12332230,2025-06-17,Prediction of cement longevity using digital cement modeling,0,E21B|G01N|G06F
+12316665,2025-05-27,Cyber security assurance using 4D threat mapping of critical cyber assets,0,G06F|G06Q|H04L
+12298459,2025-05-13,Flow-after-flow tests in hydrocarbon wells,1,E21B|G01V|G06F
+12297930,2025-05-13,Digitized valve locking device and remote monitoring system,0,F16K|G06T
+12293011,2025-05-06,Method and system for managing virtual reality user assessment recordings,0,G06F|G06Q
+12292543,2025-05-06,Method and system for determining permeability and lost circulation,0,G01V|G06F
+12289337,2025-04-29,"System, method, and apparatus for improved management of security vulnerabilities in a computing system using a machine learning model",0,H04L
+12283003,2025-04-22,Remote assistance using augmented reality,0,G06T|G06V|H04N
+12282131,2025-04-22,Systems and methods for incorporating compositional grading into black oil models,0,E21B|G01V|G06F
+12282128,2025-04-22,System and method for quantitative seismic integration modeling workflow,0,G01V|G06F
+12281029,2025-04-22,Model predictive control system and method using neural network to control dissolved oxygen and PH in seawater,0,C02F|G05B|G06N
+12279117,2025-04-15,Extending network connectivity from core network to remote mobile networks using wireless broadband,0,H04L|H04W
+12277223,2025-04-15,System and method utilizing machine learning and natural language processing to identify malware DNA,0,G06F|G06N
+12273442,2025-04-08,Automating the creation and maintenance of containerized applications' custom routes and associated SSL certificates,0,H04L
+12273363,2025-04-08,System and method for detecting a malicious command and control channel using a simple mail transfer protocol,0,H04L
+12271414,2025-04-08,Method and system for intelligent maintenance services using machine learning,0,G06F|G06Q
+12270735,2025-04-08,Method and system for managing component failures among automation systems,0,G01M|G05B|G06Q|Y02P
+12265802,2025-04-01,Apparatus and method for digital platforms twins generation,0,G06F|H04L
+12264580,2025-04-01,Detecting gas leaks in oil wells using machine learning,0,E21B|G06F|G06N|G06V
+12260312,2025-03-25,Soft-sensor to measure pH of treated seawater,0,B01D|C02F|C09K|E21B|G01N|G06N
+12259769,2025-03-25,Systems and methods for remote power management of a communication infrastructure device,0,G06F
+12259517,2025-03-25,Methods for predicting and monitoring downhole salinity variations,0,G01V|G06N
+12258858,2025-03-25,Control systems and methods for rock cuttings identification,0,B82Y|E21B|G01N|G06T|G06V
+12256359,2025-03-18,Secure hybrid integrated private 5G deployment architecture,0,H04L|H04W
+12254434,2025-03-18,Method and system for managing automated performance-based assessments using virtual reality,0,G06F|G06Q
+12254252,2025-03-18,Method and system for multiphase flow meter using updated flow model based on simulated data,0,E21B|G06F|G06N
+12242782,2025-03-04,Digitally controlled ground inductor simulation circuits,0,G01R|G01V|G06F
+12241883,2025-03-04,Method to prepare virtual assay using gel permeation chromatography,0,B01D|G01N|G06F
+12225122,2025-02-11,Method and service continuity encrypted storage solution for secure off-line distribution,0,H04L
+12225093,2025-02-11,Systems and methods for providing a hydrocarbon refining train IIoT service,0,G06F|G16Y|H04L
+12225041,2025-02-11,System and method for centralized cybersecurity configuration compliance management,0,H04L
+12223692,2025-02-11,Method and system for image-based reservoir property estimation using machine learning,0,E21B|G01V|G06N|G06V
+12223470,2025-02-11,Method and system for managing approval workflow processes in a network system,0,G06F|G06Q
+12223016,2025-02-11,System and method using machine learning for automated casing and/or tubing inspection log interpretation,0,G06F|G06T|G06V
+12222967,2025-02-11,Graph framework (database methods) to analyze trillion cell reservoir and basin simulation results,0,E21B|G01V|G06F
+12221858,2025-02-11,Method and system for managing valves in an oil and gas well,0,E21B|H04L|H04N
+12220252,2025-02-11,Method and system for using internet of workplace things (IOWT) to enhance workforce productivity,0,A61B|G10L|H04L
+12219352,2025-02-04,Method of wireless monitoring system connection to distributed control system,0,G06F|H04L|H04W
+12215585,2025-02-04,System and method for identifying productive health of wells while ensuring safe operating conditions,0,E21B|G06Q
+12212698,2025-01-28,Method for integrating blockchain node compliance data within blockchain transaction data,0,H04L
+12205201,2025-01-21,Systems and methods for reservoir history matching quality assessment and visualization,0,E21B|G01V|G06F|G06T
+12204061,2025-01-21,Method and system for determining coarsened grid models using machine-learning models and fracture models,0,E21B|G01V|G06F|G06N|G06V
+12200124,2025-01-14,Rotation key mechanism for security enhancement,0,H04L
+12196713,2025-01-14,Convex ultrasonic sensor for weld inspection,0,G01N|G06T
+12189072,2025-01-07,System and method to identify high-impact discrete fracture model realizations for accelerated calibration of reservoir simulation models,0,G01V|G06F
+12182715,2024-12-31,Proxy modeling workflow and program for reactive transport modeling,0,G01V|G06N
+12180829,2024-12-31,Lean mono-ethylene glycol (MEG) concentration with presence of inorganic salt virtual meter,0,E21B|G01V|G06F
+12175592,2024-12-24,Length scale dimension in spatial coordinate systems,0,G06T
+12175380,2024-12-24,Gas-oil separation plant virtual water cut predictor based on supervised learning framework on time series data,0,C10G|G06N|G16C
+12169488,2024-12-17,Local content enrichment platform that uses distributed ledger technology,0,G06F
+12164074,2024-12-10,Interactive core description assistant using virtual reality,0,E21B|G01N|G01V|G06T|G06V
+12163411,2024-12-10,Intelligent completion control in reservoir modeling,0,E21B|G06F
+12160447,2024-12-03,Method to safeguard against email phishing attacks,0,H04L
+12159394,2024-12-03,System and method for orienting geological core samples,0,G01B|G06T
+12154252,2024-11-26,Method for denoising wellbore image logs utilizing neural networks,0,G06N|G06T
+12125141,2024-10-22,Generation of a virtual three-dimensional model of a hydrocarbon reservoir,0,E21B|G01V|G06F|G06N|G06T
+12124979,2024-10-22,Artificial intelligence system and method for site safety and tracking,0,G06F|G06K|G06N|G06Q|G06V|G10L
+12124451,2024-10-22,System and method for efficient integration with a primary database to reduce unnecessary network traffic,0,G06F
+12123296,2024-10-22,Contactless sensor monitoring of a drill string controlled by a drilling program,0,E21B|G06F|G06T
+12120135,2024-10-15,System and method to detect malicious activity through detecting anomalies in sinkholed traffic,0,G06N|H04L
+12117580,2024-10-15,Evaluation of rock physical properties from drill sounds through minimizing the effect of the drill bit rotation,0,E21B|G01V|G06F
+12113794,2024-10-08,System and method for controlling login access to computer resource assets,0,H04L
+12113747,2024-10-08,Dynamic frequency assignment based on GPS location,0,H04L|H04W
+12111930,2024-10-08,Utilizing machine learning to detect ransomware in code,0,G06F
+12111916,2024-10-08,SQL proxy analyzer to detect and prevent unauthorized SQL queries,0,G06F|H04L
+12111306,2024-10-08,Methods of geologic sample analysis,0,G01N|G06V|H04N
+12098992,2024-09-24,Evaluating source rock permeability using 3D model,0,G01N|G06T
+12089131,2024-09-10,Auto-notification and escalation engine for journey management,0,G06F|G06Q|G08G|H04L|H04W
+12086512,2024-09-10,Method to automatically pick formation tops using optimization algorithm,0,E21B|G01V|G06F|G06Q
+12086252,2024-09-10,System and method for preserving forensic computer data,0,G06F
+12085687,2024-09-10,Model-constrained multi-phase virtual flow metering and forecasting with machine learning,1,E21B|G01F|G01V|G06F|G06N
+12085685,2024-09-10,Systems and methods for seismic well tie domain conversion and neural network modeling,0,G01V|G06N
+12084956,2024-09-10,Method and system for processing well log data from multiple wells using machine learning,0,E21B|G01V|G05B|G06N
+12079754,2024-09-03,Well completion operations intelligent advisory based on dimension embedding,0,G06Q
+12072677,2024-08-27,"System and method for preemptive shutdown of utilities, facilities or systems in smart cities",0,G05B|G06Q|H04W
+12066590,2024-08-20,Creation of near bit gamma ray image from a gamma ray curve,0,E21B|G01V|G06F
+12066586,2024-08-20,Lithofacies guided core description using unsupervised machine learning,0,E21B|G01V|G06N
+12055037,2024-08-06,Method for identifying environmental effects in downhole data for hydrocarbon saturation estimation,0,E21B|G01V|G06N
+12051486,2024-07-30,Utilizing hydraulic simulation to evaluate quality of water in salt water disposal systems,0,C10G|G06F|G16C
+12047460,2024-07-23,"Cross-communication links for a unidirectional, bilateral data network",0,H04L
+12044818,2024-07-23,System for in situ estimation of sub-erosion production rates in gas wells,0,E21B|G01V|G06F
+12038423,2024-07-16,Predicting internal corrosion in gas flow lines using machine learning,0,G01K|G01N|G06N
+12032539,2024-07-09,Automated quality control of well log data,0,E21B|G01V|G06F
+12032111,2024-07-09,Method and system for faster seismic imaging using machine learning,0,G01V|G06N
+12026273,2024-07-02,System and method to extend data loss prevention (DLP) to leverage sensitive outbound emails investigations—(antileaks),0,G06F|G06Q|H04L
+12020192,2024-06-25,Estimating well downtime factor in field modeling,0,G06Q
+12019202,2024-06-25,Fast variogram modeling driven by artificial intelligence,0,E21B|G01V|G05B|G06F|G06N
+12019059,2024-06-25,Detecting equipment defects using lubricant analysis,0,G01M|G01N|G05B|G06F|G06N
+12018911,2024-06-25,Managing operation of a weapon,0,A61B|F41A|F41C|G06F|G16H
+12015522,2024-06-18,Systems and methods for detecting system configuration changes,0,H04L
+12013508,2024-06-18,Method and system for determining seismic processing parameters using machine learning,0,G01V|G06N
+12007969,2024-06-11,Automatic computer data deduplication process for application whitelisting system,0,G06F
+11994402,2024-05-28,System and method for automated electronic guidance during emergencies,0,G01C|G01P|G06F|G08G
+11988795,2024-05-21,Automated well log data quicklook analysis and interpretation,0,E21B|G01R|G01V|G06N
+11988794,2024-05-21,Accommodating non-Darcian effects of slip flow and Knudsen diffusion on gas flow for use in reservoir simulations,0,E21B|G01N|G01V|G06F
+11988793,2024-05-21,Waterflood front imaging using segmentally insulated well liners as on-demand electrodes,0,E21B|G01V|G06F|Y02A
+11988069,2024-05-21,Predictive pressure protection system,0,E21B|F23D|G05B|G06Q
+11985022,2024-05-14,Systems and methods for managing devices on a wireless communications networks,0,H04L|H04W
+11983272,2024-05-14,Method and system for detecting and preventing application privilege escalation attacks,0,G06F|G06N
+11983188,2024-05-14,"Systems, devices, and methods for network and obsolescence management",0,G06F
+11982174,2024-05-14,Method for determining pore pressures of a reservoir,0,E21B|G01V|G06N
+11979408,2024-05-07,Systems and methods for controlling user access to computer resources of an organization by separated employees,0,G06Q|H04L
+11976549,2024-05-07,Monitoring temperatures of a process heater,0,E21B|F27D|G01J|H04N
+11971513,2024-04-30,System and method for forming a seismic velocity model and imaging a subterranean region,1,E21B|G01V|G06F
+11968204,2024-04-23,Generic middleware system,0,H04L
+11965728,2024-04-23,Intelligent piping inspection machine,0,G01B|G01M|G01N|G06N|G06T|H04N
+11961002,2024-04-16,Random selection of observation cells for proxy modeling of reactive transport modeling,0,G01V|G06N|G16C
+11960046,2024-04-16,Method for determining in-situ maximum horizontal stress,0,E21B|G01V|G06F
+11954800,2024-04-09,Converting borehole images into three dimensional structures for numerical modeling and simulation applications,0,E21B|G01N|G01V|G06T
+11954793,2024-04-09,Systems and methods for three-dimensional facies model generation,0,G01V|G06F|G06T|G06V
+11953647,2024-04-09,System and method for radioactivity prediction to evaluate formation productivity,0,E21B|G01V|G06N
+11952880,2024-04-09,Method and system for rate of penetration optimization using artificial intelligence techniques,0,E21B|G06N
+11952868,2024-04-09,Methods for generating synthetic production logs for perforated intervals of a plurality of wells,0,E21B|G01V|G06F|G06N
+11947365,2024-04-02,Last mile multi-transportation delivery system,1,B60W|G05D|G06Q
+11947067,2024-04-02,Systems and methods for developing horizontal hydrocarbon wells,0,E21B|G01V|G06T
+11943235,2024-03-26,Detecting suspicious user logins in private networks using machine learning,1,G06F|G06N|H04L|H04W
+11943200,2024-03-26,Systems and methods for detecting anomalous virtual private network sessions using machine learning,1,G06N|H04L
+11942190,2024-03-26,Method and system for evaluating reactivity in source rock evaluation,0,E21B|G01N|G01V|G06F|G16C
+11937147,2024-03-19,Monitoring system for site safety and tracking,0,G01S|G06Q|G08B|H04W
+11935827,2024-03-19,Catalysts with modified active phase dispersion and method to prepare catalysts with modified active phase dispersion,0,B01J|H01L|H10D
+11934757,2024-03-19,Hydraulic fracturing in kerogen-rich unconventional formations,0,C09K|E21B|G01V|G06F|G06Q
+11934440,2024-03-19,Aggregation functions for nodes in ontological frameworks in representation learning for massive petroleum network systems,2,G06F|G06N|G06Q
+11933930,2024-03-19,Automatic image registration of multicomponent seismic data,0,G01V|G06T
+11933168,2024-03-19,Geomechanical modeling of stimulated rock volume stress conditions at multiple scales,0,E21B|G01V|G06F|G06T
+11933165,2024-03-19,Hydraulic fracture conductivity modeling,0,E21B|G06F
+11930019,2024-03-12,Methods and systems for fast-paced dynamic malware analysis,0,G06F|H04L
+11927709,2024-03-12,Multi-scale geological modeling and well information integration,0,G01V|G06F
+11924903,2024-03-05,Prevention of collateral process safety risks utilizing highly reliable communication through cloud IoT,0,G05B|G06F|H04L|H04W
+11922104,2024-03-05,"Predicting oil gains derived from horizontal sidetracking of producer wells using past production performance, subsurface information, and sidetrack design parameters",0,E21B|G06F|G06Q
+11914099,2024-02-27,Automatic geological formations tops picking using dynamic time warping (DTW),0,E21B|G01V|G06F
+11907376,2024-02-20,Compliance verification testing using negative validation,0,G06F|G06N|G06Q
+11906697,2024-02-20,Method and system for a multi-level nonlinear solver for reservoir simulations,1,E21B|G01V|G06F
+11906695,2024-02-20,Method and system for generating sponge core data from dielectric logs using machine learning,0,E21B|G01V|G06N
+11905817,2024-02-20,Method and system for managing carbon dioxide supplies using machine learning,0,E21B|G06N|G06Q|Y02P
+11899162,2024-02-13,Method and system for reservoir simulations based on an area of interest,0,E21B|G01F|G01V|G06F
+11898930,2024-02-13,Systems and methods for measuring shaft-relative vibration,0,G01H|G01M|G06F
+11898901,2024-02-13,Method and system for mapping fiber optic distributed acoustic sensing measurements to particle motion,0,G01H|G01V|G06N
+11898441,2024-02-13,Method and system for optimizing rig energy efficiency using machine learning,0,E21B|G06Q
+11892581,2024-02-06,Methods and systems for characterizing clay content of a geological formation,0,E21B|G01V|G06N
+11888869,2024-01-30,System and method for securing network users in an enterprise network through cybersecurity controls,0,G06F|H04L
+11886794,2024-01-30,Text scrambling/descrambling,0,G06F|G06T|H04L
+11886400,2024-01-30,Achieving and maintaining scalable high quality upstream stratigraphic picks data,0,G01V|G06F
+11874810,2024-01-16,Measuring data quality in a structured database through SQL,0,G06F
+11874419,2024-01-16,System and method for automated domain conversion for seismic well ties,0,G01V|G06F|G06N
+11870648,2024-01-09,System and method for systematically managing network devices,0,H04L
+11868478,2024-01-09,System and method utilizing machine learning to predict security misconfigurations,0,G06F|G06N|H04L
+11867869,2024-01-09,Multiple porosity micromodel,0,B33Y|E21B|G01N|G01V|G06F|G06T
+11867861,2024-01-09,Using elastic facies to perform quality control of well logs,0,E21B|G01V|G06F
+11867604,2024-01-09,Real-time estimation of formation hydrocarbon mobility from mud gas data,0,E21B|G01N|G01V|G06N
+11867054,2024-01-09,Systems and methods for estimating well parameters and drilling wells,1,E21B|G06Q
+11867027,2024-01-09,Calcium carbonate scale prediction and inhibition in hydrocarbon wells using machine learning,0,C01F|E21B|G01N|G06F|G06N
+11867008,2024-01-09,System and methods for the measurement of drilling mud flow in real-time,0,E21B|G01V|G06N|G06T|G06V|H04N
+11861822,2024-01-02,Image recognition device and method for retrieving information on a marker,0,G06K|G06T|G06V
+11860325,2024-01-02,Deep learning architecture for seismic post-stack inversion,0,E21B|G01V|G06N|H04W
+11860149,2024-01-02,Systems and methods for dynamic real-time water-cut monitoring,0,E21B|G01N|G06N
+11859991,2024-01-02,"Method, apparatus, and system for identifying one or more sources of air pollutants based on emission data from vehicles and air quality data from ambient air measurement apparatuses",0,B60W|G01C|G01N|G06F|G08G|G16Y|Y02A
+11853450,2023-12-26,Detection of web application anomalies using machine learning,0,G06F|G06N
+11852768,2023-12-26,"Multimodal approach to target stratigraphic plays through seismic sequence stratigraphy, rock physics, seismic inversion and machine learning",0,G01V|G06N
+11852011,2023-12-26,Application of field shut-down pressure transient to define boundaries of reservoir heterogeneities,0,E21B|G01V|G06T
+11848861,2023-12-19,Multiprotocol label switching (MPLS) traffic engineering design for IP multimedia subsystem-based voice over Internet protocol,0,H04L
+11846741,2023-12-19,Systems and methods for evaluating a simulation model of a hydrocarbon field,0,E21B|G01V|G06F
+11842127,2023-12-12,Modeling fractured wells,1,E21B|G06F
+11840927,2023-12-12,Methods and systems for gas condensate well performance prediction,1,E21B|G01V|G06F
+11835671,2023-12-05,Method and system for eliminating seismic acquisition footprint through geological guidance,1,G01V|G06F|G06V
+11829919,2023-11-28,"Methods for people-driven, near-real time auditable well intervention program",0,G05B|G06Q
+11828169,2023-11-28,Method of determining in-situ pore pressure in chemically active formations,0,E21B|G01N|G01V|G06F
+11828160,2023-11-28,Vibration monitoring and data analytics for vertical charge pumps,1,E21B|F04D|F05D|G01H|G06N
+11821289,2023-11-21,Automated production optimization technique for smart well completions using real-time nodal analysis,1,E21B|G05B|G06F|G06N
+11816077,2023-11-14,Measuring data quality in a structured database through SQL,0,G06F
+11815650,2023-11-14,Optimization of well-planning process for identifying hydrocarbon reserves using an integrated multi-dimensional geological model,0,E21B|G01V|G06F|G06Q|G06T
+11802989,2023-10-31,Systems and methods for generating vertical and lateral heterogeneity indices of reservoirs,0,E21B|G01V|G06F|G06T
+11799917,2023-10-24,"System, method, and computing medium to remediate cybersecurity risks based on a risk rating",0,G06F|H04L
+11796714,2023-10-24,Determination of mechanical properties of a geological formation using deep learning applied to data acquired while drilling,0,E21B|G01V|G06N
+11781416,2023-10-10,Determination of elastic properties of a geological formation using machine learning applied to data acquired while drilling,0,E21B|G01V|G06F|G06N
+11775705,2023-10-03,Reservoir simulation model history matching update using a one-step procedure,0,E21B|G01V|G06F
+11768935,2023-09-26,System and method for detecting and preventing extraction of plaintext passwords using memory attacks,0,G06F|H04L
+11768933,2023-09-26,System and method for protecting against ransomware without the use of signatures or updates,0,G06F|H04L
+11768599,2023-09-26,Managing an enterprise data storage system,0,G06F
+11763428,2023-09-19,System and method for de-noising an ultrasonic scan image using a convolutional neural network,0,G01N|G06F|G06T
+11754746,2023-09-12,Systems and methods for creating 4D guided history matched models,0,E21B|G01V|G06F
+11754745,2023-09-12,Methods and systems for flow-based coarsening of reservoir grid models,0,E21B|G01V|G06F|G06T
+11748685,2023-09-05,Utilizing machine learning to measure application developers' cybersecurity competencies,0,G06F|G06Q
+11747315,2023-09-05,Flare system heating value monitoring meter,1,F23G|F23N|G01N|H04L
+11741359,2023-08-29,Systems and procedures to forecast well production performance for horizontal wells utilizing artificial neural networks,0,E21B|G01V|G06F|G06N
+11739631,2023-08-29,Methods and systems for determining reservoir and fracture properties,1,E21B|G01V|G06F
+11734603,2023-08-22,Method and system for enhancing artificial intelligence predictions using well data augmentation,5,E21B|G01V|G06F|G06N
+11734492,2023-08-22,Manipulating diacritic marks,0,G06F
+11734431,2023-08-22,Method and system for assessing effectiveness of cybersecurity controls in an OT environment,0,G06F|G06N|G06Q|H04L
+11733423,2023-08-22,Determination of a surface leak rate in an injection well,1,E21B|G01M|G01V|G06F
+11731281,2023-08-22,Automation in a robotic pipe coating system,0,B05C|B25J|F16L|G06T|G06V
+11729162,2023-08-15,Data center cable security,0,G06F|G07C|H04L
+11727555,2023-08-15,Rig power system efficiency optimization through image processing,0,E21B|G06N|G06T|H04N
+11725502,2023-08-15,Method and system for determining well delivery contributions using artificial intelligence,0,E21B|G06N|G06Q
+11725483,2023-08-15,Method and system of fracability measurement based on core fracture density,0,E21B|G01N|G01V|G06F|G06N|G06T
+11720685,2023-08-08,One-touch mobile penetration testing platform,3,G06F|H04L
+11719856,2023-08-08,Determination of hydrocarbon production rates for an unconventional hydrocarbon reservoir,0,E21B|G01V|G06F|G06N
+11719851,2023-08-08,Method and system for predicting formation top depths,0,E21B|G01V|G06N
+11719683,2023-08-08,Automated real-time water cut testing and multiphase flowmeter calibration advisory,0,E21B|G01F|G01N|G06N
+11719089,2023-08-08,Analysis of drilling slurry solids by image processing,1,E21B|G06F|G06N
+11715034,2023-08-01,Training of machine learning algorithms for generating a reservoir digital twin,0,E21B|G01V|G06F|G06N
+11713676,2023-08-01,"Sensor node device, sensor node system, and method for mapping hydraulic fractures using the same",0,E21B|H04W
+11711393,2023-07-25,Methods and systems for managing website access through machine learning,0,G06F|G06N|H04L
+11710964,2023-07-25,Managing off-grid energy generation and storage,0,G06N|H01M|H02J|H02S|Y02E
+11710085,2023-07-25,Artificial intelligence system and method for site safety and tracking,2,G06F|G06K|G06N|G06Q|G06V|G10L
+11708754,2023-07-25,Systems and methods for generating a drainage radius log,0,E21B|G01V|G06T
+11698473,2023-07-11,Systems and methods for workflow to perform well logging operations tracking and efficiency assessment,1,G01V|G06F|G06Q
+11693994,2023-07-04,System and method for securing cache boards of an enterprise network data storage system,0,G06F|G07C
+11693967,2023-07-04,Machine learning-based method and system for detecting plaintext passwords,0,G06F|G06N
+11693150,2023-07-04,Coordinate-related despiking of hydrocarbon reservoir data,0,G01V|G06F
+11693140,2023-07-04,Identifying hydrocarbon reserves of a subterranean region using a reservoir earth model that models characteristics of the region,0,E21B|G01N|G01V|G06F|G06N
+11681898,2023-06-20,"Systems and methods for rapid prediction of hydrogen-induced cracking (HIC) in pipelines, pressure vessels, and piping systems and for taking action in relation thereto",0,G05B|G06F|G06N
+11681272,2023-06-20,Automated rotating equipment preservation,0,B25H|G05B|G06F|G06K|H02P|Y02P
+11681043,2023-06-20,Diffraction imaging using pseudo dip-angle gather,0,G01S|G01V|G06T
+11680465,2023-06-20,Systems and methods for multiscale sector hydrocarbon reservoir simulation,0,E21B|G01V|G06F
+11671836,2023-06-06,Geolocation based file encryption,0,G06F|H04L|H04W
+11670073,2023-06-06,System and method for detection of carbonate core features from core images,0,E21B|G06F|G06N|G06V
+11669659,2023-06-06,Systems and methods for determining mechanical properties of materials using SENB testing,0,G01M|G01N|G06F
+11668177,2023-06-06,Predicting formation tops at the bit using machine learning,0,E21B|G01V|G06F|G06N
+11668165,2023-06-06,Method and system for simulating well performance using wellhead measurements,0,E21B|G01V|G05B|G06Q
+11663555,2023-05-30,Method and system for managing approval workflow processes in a network system,1,G06F|G06Q
+11662492,2023-05-30,Seismic random noise attenuation,0,G01V|G06T
+11661844,2023-05-30,Method and apparatus for fluid characterization and holdup estimation using acoustic waves,1,E21B|G01F|G01N|G01V|G06F
+11651278,2023-05-16,Pipeline sensor integration for product mapping,0,F17D|G01M|G05D|G06N
+11650349,2023-05-16,Generating dynamic reservoir descriptions using geostatistics in a geological model,0,G01V|G06F
+11647000,2023-05-09,System and method for protecting a communication device against identification outside a computer network by generating random and normalized non-IoT traffic,0,G06F|G06N|H04L|H04W
+11645391,2023-05-09,Protecting computer systems against malicious software stored on removeable data storage devices,0,G06F
+11641371,2023-05-02,"Systems, methods and computer-readable media for monitoring a computer network for threats using OLAP cubes",3,G06F|G08B|H04L|H04W
+11636352,2023-04-25,Integrated advanced visualization tool for geosteering underbalanced coiled tubing drilling operations,1,E21B|G01V|G06N
+11625853,2023-04-11,Spot detection algorithm for external pipeline inspection applications,0,G06F|G06T|G06V
+11604910,2023-03-14,Multiscale modeling workflow of advanced waterflooding,0,E21B|G06F
+11603756,2023-03-14,Downhole wireless communication,0,E21B|H04L|H04W
+11601446,2023-03-07,Method to detect database management system SQL code anomalies,0,G06F|H04L
+11599955,2023-03-07,Systems and methods for evaluating and selecting completion equipment using a neural network,0,E21B|G06F|G06N|G06Q
+11598762,2023-03-07,Method of analyzing the bond strength of cement and formation with discrete image analysis,0,G01N|G06T
+11595375,2023-02-28,Single sign-on for token-based and web-based applications,0,H04L
+11593482,2023-02-28,Systems and methods for automating detection and mitigation of an operating system rootkit,1,G06F|H04L
+11592593,2023-02-28,Modeling hydrocarbon reservoirs using rock fabric classification at reservoir conditions,1,G01N|G01V|G06F
+11591936,2023-02-28,Systems and methods for proactive operation of process facilities based on historical operations data,1,C10G|F01D|F01K|F02C|G05B|G06Q
+11590708,2023-02-28,Three-dimensional fluid micromodels,0,B29C|B33Y|G01N|G01V|G06T
+11586790,2023-02-21,Determining hydrocarbon production sweet spots,2,E21B|G01V|G06F|G06T
+11585955,2023-02-21,Systems and methods for probabilistic well depth prognosis,0,E21B|G01V|G06N
+11584525,2023-02-21,Deep learning-based localization of UAVs with respect to nearby pipes,1,B64U|F17D|G05D|G06T
+11584458,2023-02-21,Inspection method using a perching UAV with a releasable crawler,1,B60B|B60G|B60K|B60R|B60Y|B62D|B64C|B64D|B64U|F17D|G01B|G01N|G01S|G05D|G06T|G06V|G08G|H04N
+11582193,2023-02-14,System and method for securely interconnecting branch networks to enterprise network through TSPS,0,H04L
+11582138,2023-02-14,Configurable system for resolving requests received from multiple client devices in a network system,0,G06F|H04L
+11580610,2023-02-14,Systems and methods for monitoring and controlling electrical power consumption,0,G05B|G06Q|Y02B|Y04S
+11580235,2023-02-14,Method and system for securing and protecting a storage system that includes a removable storage device,0,G06F|H04L
+11579586,2023-02-14,Robot dispatch and remediation of localized metal loss following estimation across piping structures,0,B25J|G01N|G05B|G05D|G06N
+11579325,2023-02-14,Method and system for mapping underground sensors onto a network map,1,E21B|G01S|G01V|H04L|H04W
+11574083,2023-02-07,Methods and systems for selecting inflow control device design simulations based on case selection factor determinations,0,E21B|G06F
+11572785,2023-02-07,Drilling uncertainty real time updates for accurate well placement,0,E21B|G06F
+11570246,2023-01-31,Layer 7 health check automated execution framework,0,G06F|H04L
+11568103,2023-01-31,Method and system for reducing output of reservoir simulation data,0,G06F|G06T|G09B|H04N
+11561674,2023-01-24,User interface for proxy modeling of reactive transport modeling,0,G01V|G06F|G06N
+11555943,2023-01-17,Method for identifying misallocated historical production data using machine learning to improve a predictive ability of a reservoir simulation,1,E21B|G01V|G06F|G06N
+11552941,2023-01-10,Method and system for managing workstation authentication,2,G06F|H04L
+11551106,2023-01-10,Representation learning in massive petroleum network systems,0,G06F|G06N|G06Q
+11550975,2023-01-10,Methods and systems for predicting interfacial tension of reservoir fluids using downhole fluid measurements,0,E21B|G01N|G01V|G06F
+11550953,2023-01-10,Preserving cloud anonymity,0,G06F|H04L
+11550284,2023-01-10,Dynamic remote terminal unit (RTU) configurator assignment server enabled wastewater evaporation pond management system,0,G05B|H04L|H04W
+11550079,2023-01-10,Method of estimating elastic properties of kerogen using multi-scale data integration,0,G01V|G06F
+11549898,2023-01-10,Method for inspecting composite structures using quantitative infra-red thermography,0,G01N|H04N
+11549359,2023-01-10,Systems and methods to identify and quantify field development opportunities through integration of surface and sub-surface data,0,E21B|G06Q|G06T
+11548577,2023-01-10,Crawler vehicle with automatic probe normalization,26,B60B|B60G|B60K|B60R|B60Y|B62D|B64C|B64D|B64U|F17D|G01B|G01N|G01S|G05D|G06T|G06V|G08G|H04N
+11536874,2022-12-27,Numerical simulation of hydrocarbon systems with viscosity gradient,0,E21B|G01V|G06F|Y02A
+11536129,2022-12-27,Image based inspection of well equipment,0,E21B|G01F|G01N|G05B|G06Q|G08B|H04N
+11530609,2022-12-20,Well placing using bayesian network expert system,0,E21B|G01V|G06F|G06N
+11526844,2022-12-13,System and method for optimizing inventory management,0,G06F|G06Q
+11519257,2022-12-06,Automatic slips detection system for the optimization of real-time drilling operations,2,E21B|G06T
+11514511,2022-11-29,Autonomous bidder solicitation and selection system,0,G06F|G06N|G06Q
+11512580,2022-11-29,Real-time estimation of reservoir porosity from mud gas data,1,E21B|G01V|G06F|G06N
+11509574,2022-11-22,Multiprotocol label switching (MPLS) traffic engineering design for IP multimedia subsystem-based voice over internet protocol,0,H04L|H04W
+11506804,2022-11-22,Inverse stratigraphic modeling using a hybrid linear and nonlinear algorithm,0,G01V|G06F
+11506047,2022-11-22,Image based inspection and automated inventory and supply chain management of well equipment,2,E21B|G01F|G01N|G05B|G06Q|G08B|H04N
+11506044,2022-11-22,Automatic analysis of drill string dynamics,0,E21B|G06N|G06T
+11501038,2022-11-15,Dynamic calibration of reservoir simulation models using pattern recognition,0,E21B|G01V|G06F|G06N
+11499423,2022-11-15,Automated production optimization technique for smart well completions using real-time nodal analysis including comingled production calibration,0,E21B|G06F
+11499397,2022-11-15,Dynamic calibration of reservoir simulation models using flux conditioning,0,E21B|G01V|G06F|G06N
+11493654,2022-11-08,Construction of a high-resolution advanced 3D transient model with multiple wells by integrating pressure transient data into static geological model,0,E21B|G01V|G06T
+11489849,2022-11-01,Method and system for detecting and remediating malicious code in a computer network,0,G06F|H04L
+11487032,2022-11-01,Characterizing low-permeability reservoirs by using numerical models of short-time well test data,0,E21B|G01V|G06F
+11486230,2022-11-01,Allocating resources for implementing a well-planning process,2,E21B|G06F|G06N|G06Q
+11486202,2022-11-01,Real-time polycrystalline diamond compact (PDC) bit condition evaluation using acoustic emission technology during downhole drilling,2,E21B|G01H|G01K|G01L|G01N|G06T
+11483342,2022-10-25,Utilizing web application firewall and machine learning to detect command and control,0,G06F|G06N|H04L
+11481413,2022-10-25,Systems and methods for evaluating petroleum data for automated processes,0,E21B|G06F|G06N|G06Q
+11480517,2022-10-25,Heat exchanger fouling determination using thermography combined with machine learning methods,0,F28D|F28F|G01J|G01N|G06N|H04N
+11477244,2022-10-18,Method and system for data loss prevention management,0,G06F|H04L
+11477231,2022-10-18,System and method for vulnerability remediation prioritization,0,G06F|G06N|H04L
+11477228,2022-10-18,Method and system for blockchain accreditation mechanism based on cybersecurity risk,0,G06F|H04L|H04W
+11477226,2022-10-18,Online system identification for data reliability enhancement,1,G06F|H04L
+11477221,2022-10-18,System and method for protecting a communication device against identification outside a computer network by routing traffic through a smart hub,0,G06F|H04L|H04W
+11472498,2022-10-18,Perching UAV with releasable crawler,2,B60B|B60G|B60K|B60R|B60Y|B62D|B64C|B64D|B64U|F17D|G01B|G01N|G01S|G05D|G06T|G06V|G08G|H04N
+11463881,2022-10-04,Vehicular integration of enterprise wireless scanning,0,G01S|H04L|H04W
+11461514,2022-10-04,Reservoir simulation with pressure solver for non-diagonally dominant indefinite coefficient matrices,0,E21B|G01V|G06F
+11460412,2022-10-04,System for nondestructively inspecting fiberglass and nonmetallic pipes,0,G01N|G06T
+11459882,2022-10-04,Systems and methods for the determination of lithology porosity from surface drilling parameters,0,E21B|G01V|G06N
+11459873,2022-10-04,Geomodel-driven dynamic well path optimization,0,E21B|G01V|G06F
+11455695,2022-09-27,System and method for modelling and forecasting electricity demand,0,G06Q|H02J
+11455295,2022-09-27,Electronic document workflow,0,G06F|G06Q|H04L
+11454595,2022-09-27,Systems and methods for evaluating a structural health of composite components by correlating positions of displaced nanoparticles,0,G01M|G01N|G06T
+11454105,2022-09-27,Reservoir simulation modeling with well trajectory at true positions in grid simulation models,0,E21B|G01V|G06F
+11451575,2022-09-20,Method and system for determining cybersecurity maturity,1,H04L
+11449747,2022-09-20,Algorithm for cost effective thermodynamic fluid property predictions using machine-learning based models,0,G06F|G06N|G16C
+11448046,2022-09-20,Smart completion maximum reservoir contact (MRC) well optimization model,0,E21B|G01V|G06F
+11442908,2022-09-13,Optimized database migration for large systems between platforms with different endianness,2,G06F
+11441390,2022-09-13,Multilevel production control for complex network of wells with smart completions,0,E21B|G05D|G06F
+11438375,2022-09-06,Method and system for preventing medium access control (MAC) spoofing attacks in a communication network,0,H04L
+11438362,2022-09-06,Method and system for prioritizing and remediating security vulnerabilities based on adaptive scoring,1,H04L
+11436314,2022-09-06,System and method for provisioning non-enterprise client devices with access credentials,0,G06F|H04L
+11434759,2022-09-06,Optimization of discrete fracture network (DFN) using streamlines and machine learning,2,E21B|G01V|G06N
+11432054,2022-08-30,Fire water network leak detection system,0,G01M|G08B|H04L|H04Q
+11428099,2022-08-30,Automated real-time drilling fluid density,1,E21B|G06F
+11416586,2022-08-16,Secure communication application registration process,0,G06F
+11415260,2022-08-16,Robotic inspection device for tank and pipe inspections,1,F16L|G01B|G01N|G06T|H04N
+11414975,2022-08-16,Quantifying well productivity and near wellbore flow conditions in gas reservoirs,0,E21B|G01V|G06F|G06Q
+11409015,2022-08-09,Methods and systems for generating graph neural networks for reservoir grid models,0,E21B|G01V|G06N
+11408856,2022-08-09,Systems and methods for monitoring health of core samples,0,E21B|G01N|H04N
+11401786,2022-08-02,"Systems and methods for hydrocarbon reservoir well connectivity graph optimization, simulation and development",0,E21B|G01V|G06F
+11388184,2022-07-12,Network security system and method for preemptively identifying or remediating security vulnerabilities,0,G06F|G06N|H04L
+11386541,2022-07-12,System and method for cyber-physical inspection and monitoring of nonmetallic structures,3,G01J|G06N|G06T
+11385214,2022-07-12,Stratigraphic boundaries identification from chemostratigraphic intervals in well logs based on first and second derivatives,1,G01N|G01V|G06F
+11381590,2022-07-05,Predicting false positives from vulnerability scanners using data analytics and machine learning,2,G06N|H04L
+11381588,2022-07-05,Cybersecurity vulnerability classification and remediation based on installation base,0,A61B|G06F|H04L|H04W
+11379640,2022-07-05,Reservoir regions management with unstructured grid reservoir simuation model,0,E21B|G01V|G06F
+11379600,2022-07-05,Management of actions and permissions to applications in an enterprise network,0,G06F|G06Q
+11378705,2022-07-05,Genetic quality of pick attribute for seismic cubes and surfaces,0,G01V|G06N
+11377945,2022-07-05,Method for automated crack detection and analysis using ultrasound images,0,E21B|G01N|G05B|G06N|G06T
+11372974,2022-06-28,Rule-based system and method for detecting and identifying tampering in security analysis of source code,0,G06F
+11360463,2022-06-14,Dynamic online process flow diagraming,0,G05B|G06F
+11354469,2022-06-07,Parallel processor data processing system with reduced latency,2,G01N|G01V|G06F
+11353622,2022-06-07,Systems and methods for hydrocarbon reservoir three dimensional unstructured grid generation and development,0,E21B|G01V|G06T
+11353610,2022-06-07,Estimating geological dip based on seismic data,0,G01V|G06T
+11352879,2022-06-07,Collaborative sensing and prediction of source rock properties,4,E21B|G01N|G01V|G06N|G16C
+11352873,2022-06-07,System and method to identify water management candidates at asset level,0,E21B|G01V|G06F|G06Q
+11352855,2022-06-07,Modeling reservoir flow and transport processes in reservoir simulation,0,E21B|G01V|G06F|G06T
+11347851,2022-05-31,System and method for file artifact metadata collection and analysis,0,G06F|G06N|H04L
+11343251,2022-05-24,Secure authorization provisioning using variant profiles,0,G06F|H04L
+11340381,2022-05-24,Systems and methods to validate petrophysical models using reservoir simulations,0,G01V|G06F
+11339651,2022-05-24,Systems and methods for generating continuous grain size logs from petrographic thin section images,0,E21B|G01N|G01V|G06N|G06T
+11335199,2022-05-17,"Parking control system, parking control method, and mobile robot device",0,B25J|B62D|G05D|G06Q|G07B|G07F|G08G
+11333491,2022-05-17,Dynamic contact angle measurement,0,G01B|G01N|G06T
+11329733,2022-05-10,On air testing method and apparatus for receiver antennae of a TETRA base station,0,H04B|H04W
+11326447,2022-05-10,Wellbore stability prediction,1,E21B|G06F
+11326423,2022-05-10,Automated production optimization technique for smart well completions using real-time nodal analysis including recommending changes to downhole settings,2,E21B|G06F
+11314925,2022-04-26,Controlling the display of diacritic marks,0,G06F
+11308700,2022-04-19,Augmented reality visualization of underground pipelines using geospatial databases and KM markers,0,G06T
+11307317,2022-04-19,Systems and methods for data acquisition design of source and receiver locations,1,G01V|G06F
+11294340,2022-04-05,Online system identification for data reliability enhancement,0,E21B|G05B|G06Q
+11290566,2022-03-29,Replicating data from isolated network,0,G06F|H04L
+11288378,2022-03-29,Embedded data protection and forensics for physically unsecure remote terminal unit (RTU),0,G06F|H04W
+11282240,2022-03-22,Generation and implementation of multi-layer encoded data images,0,E21B|F04B|G05B|G06F|G06T
+11280177,2022-03-22,Monitoring rig activities,1,E21B|G01F|G01N|G05B|G06Q|G08B|H04N
+11277429,2022-03-15,Cybersecurity vulnerability classification and remediation based on network utilization,3,G06F|H04L
+11277375,2022-03-15,Sender policy framework (SPF) configuration validator and security examinator,1,H04L
+11271821,2022-03-08,Centralized engineering design auto-generation and configuration management system for tracking projects,0,G06F|H04L
+11270048,2022-03-08,Calibration and simulation of a wellbore liner,1,E21B|G06F
+11269976,2022-03-08,Apparatus and method for watermarking a call signal,2,G06F|G10L|H04M
+11263374,2022-03-01,Bisection numerical algorithm coupled with pressure deviation method to determine the size and location of a leak in a pipeline,0,F17D|G01M|G06F
+11262282,2022-03-01,Analyzing drilling fluid rheology at a drilling site,0,E21B|G01N|G01V|G06F
+11262281,2022-03-01,Screening demulsifiers for crude oil-water emulsions,2,C10G|G01N|G06F|G06V
+11261761,2022-03-01,Energy real-time optimizer for steam and condensation balance using GAMS,0,F01K|F05B|G05B|G06F|Y02E
+11261720,2022-03-01,Methodology to maximize net reservoir contact for underbalanced coiled tubing drilling wells,1,E21B|G01V|G06F|G06Q
+11261707,2022-03-01,Method and system for well assignment in a reservoir simulation based on well activity,0,E21B|G06F
+11258811,2022-02-22,Email attack detection and forensics,1,G06F|H04L
+11256824,2022-02-22,Securing database backups with unique global identifier,0,G06F|H04L
+11249463,2022-02-15,Multi-vector engineering methods and apparatus for isolated process control systems,0,G05B|G06F|Y02P
+11248448,2022-02-15,Despiking reservoir properties,0,E21B|G01V|G06F
+11247080,2022-02-15,"Systems, methods, and apparatuses for ensuring worker safety",0,A44B|A62B|B60R|H04W
+11237295,2022-02-01,Method for intelligent automatic rock fragments depth determination while drilling,0,E21B|G01V|G05B|G06F|G06N
+11235823,2022-02-01,Automation methods for UAV perching on pipes,3,B60B|B60G|B60K|B60R|B60Y|B62D|B64C|B64D|B64U|F17D|G01B|G01N|G01S|G05D|G06T|G06V|G08G|H04N
+11231520,2022-01-25,Dynamic hydrocarbon well skin modeling and operation,0,E21B|G01V|G06F
+11215725,2022-01-04,Seismic processing workflow for orthogonal wide azimuth 3D surveys,0,G01V|G06F
+11215033,2022-01-04,Drilling trouble prediction using stand-pipe-pressure real-time estimation,1,E21B|G06F|G06N
+11201790,2021-12-14,System and method for virtual private network connectivity,0,H04L
+11194559,2021-12-07,Method and apparatus for platform as a service (PaaS) automation control,1,G06F
+11193370,2021-12-07,Systems and methods for transient testing of hydrocarbon wells,0,E21B|G05B|G06F
+11189088,2021-11-30,"Integrated solution for generating environmental emergency response, preparedness, and investigation",0,G01W|G06F|G06Q|G06T
+11175424,2021-11-16,Seismic data de-blending,0,G01V|G06F|G06N
+11170494,2021-11-09,Smart method and apparatus for smart dull grading and modification identification,1,G06T|G06V
+11170118,2021-11-09,Network system and method for access management authentication and authorization,2,G06F|H04L
+11169720,2021-11-09,System and method for creating on-demand virtual filesystem having virtual burst buffers created on the fly,1,G06F
+11169287,2021-11-09,Method and system for automated velocity model updating using machine learning,2,G01V|G06N
+11164152,2021-11-02,Autonomous procurement system,1,G06F|G06Q
+11163084,2021-11-02,Machine learning-based differencing tool for hydrocarbon well logs,1,G01V|G06F|G06N
+11162888,2021-11-02,Cloud-based machine learning system and data fusion for the prediction and detection of corrosion under insulation,1,G01N|G06F|G06N|G06V
+11153275,2021-10-19,Method to transfer process data utilizing highly secure boundary networks,0,H04L
+11143773,2021-10-12,Three-component seismic data processing and interpretation method for seismic while fracking,0,G01V|H04L
+11138802,2021-10-05,Geo-augmented field excursion for geological sites,1,G01V|G02B|G06F|G06T|G06V|G09B|H04W
+11132270,2021-09-28,Planned zero downtime server switching for web applications,0,G06F
+11128632,2021-09-21,Method of capturing user presence via session unlocking and centralizing using an identity directory platform,0,G06F|H04L
+11126819,2021-09-21,Systems and methods for optimizing camera and microscope configurations for capturing thin section images,0,G01N|G06T|G06V
+11126762,2021-09-21,Locating new hydrocarbon fields and predicting reservoir performance from hydrocarbon migration,0,E21B|G01V|G06F
+11120692,2021-09-14,Systems and methods for preventing damage to unseen utility assets,3,E02F|G06V|G08G|H04W
+11120259,2021-09-14,Method and system for land encroachment detection and surveillance,0,G06F|G06V|G08B
+11115323,2021-09-07,Securing Layer-3 virtual private network,0,H04L
+11112514,2021-09-07,Systems and methods for computed resource hydrocarbon reservoir simulation and development,0,E21B|G01V|G06F
+11112349,2021-09-07,Metal loss determinations based on thermography machine learning approach for insulated structures,1,G01N|G06F|G06N
+11105722,2021-08-31,Screening demulsifiers for crude live oil-water emulsions,2,G01N|G06F|G06V
+11099842,2021-08-24,Source code similarity detection using digital fingerprints,1,G06F
+11097796,2021-08-24,Articulated magnet-bearing legs for UAV landing on curved surfaces,7,B60B|B60G|B60K|B60R|B60Y|B62D|B64C|B64D|B64U|F17D|G01B|G01N|G01S|G05D|G06T|G06V|G08G|H04N
+11095649,2021-08-17,Uni-directional and bi-directional cross-domain (secure exchange gateway) design,1,H04L
+11093576,2021-08-17,Core-plug to giga-cells lithological modeling,1,G01V|G06F
+11087221,2021-08-10,Well performance classification using artificial intelligence and pattern recognition,1,E21B|G06F|G06N|G06Q
+11079581,2021-08-03,Resolution preserving methodology to generate continuous log scale reservoir permeability profile from petrographic thin section images,0,E21B|G01N|G02B|G06T
+11078759,2021-08-03,Sequential fully implicit well model with tridiagonal matrix structure for reservoir simulation,0,E21B|G01V|G06F
+11073637,2021-07-27,Data structure for fast invasion percolation modeling software,0,G01V|G06F
+11073001,2021-07-27,Sequential fully implicit horizontal well model with tridiagonal matrix structure for reservoir simulation,0,E21B|G01V|G06F
+11066907,2021-07-20,Sequential fully implicit well model with tridiagonal matrix structure for reservoir simulation,1,E21B|G01V|G06F
+11057348,2021-07-06,Method for data center network segmentation,0,H04L
+11057324,2021-07-06,System and method of secure analysis for encrypted electronic mail attachments,2,H04L
+11054376,2021-07-06,Method for inspecting composite structures using quantitative infra-red thermography,0,G01N|H04N
+11050777,2021-06-29,Method and system for remediating cybersecurity vulnerabilities based on utilization,0,G06F|H04L
+11047228,2021-06-29,Predicting carbonate porosity based on petrographic data,1,E21B|G01V|G06Q
+11028805,2021-06-08,System and method for on-board catalytic upgrading of hydrocarbon fuels,2,B01J|B60K|B60S|C10L|F02D|F02M|G06Q|Y02T
+11028561,2021-06-08,Managing storage of water,1,B65G|E03B|E03F|E21B|G06Q
+11025651,2021-06-01,System and method for enhanced security analysis for quarantined email messages,1,H04L
+11016212,2021-05-25,Compressing seismic wavefields in three-dimensional reverse time migration,0,G01V|G06T|H04N
+11010883,2021-05-18,Automated analysis of petrographic thin section images using advanced machine learning techniques,5,G01N|G02B|G06F|G06T|G06V
+11009623,2021-05-18,Calculating shut-in bottom-hole pressure in numerical reservoir simulations,0,E21B|G01V|G06F
+11009617,2021-05-18,Method for fast calculation of seismic attributes using artificial intelligence,0,G01V|G06N|G06T
+11002116,2021-05-11,"Parallel-processing of invasion percolation for large-scale, high-resolution simulation of secondary hydrocarbon migration",0,E21B|G01V|G06F
+11002115,2021-05-11,"Parallel-processing of invasion percolation for large-scale, high-resolution simulation of secondary hydrocarbon migration",0,E21B|G01V|G06F
+11002114,2021-05-11,"Parallel-processing of invasion percolation for large-scale, high-resolution simulation of secondary hydrocarbon migration",0,E21B|G01V|G06F
+11002113,2021-05-11,"Parallel-processing of invasion percolation for large-scale, high-resolution simulation of secondary hydrocarbon migration",0,E21B|G01V|G06F
+11002112,2021-05-11,"Parallel-processing of invasion percolation for large-scale, high-resolution simulation of secondary hydrocarbon migration",0,E21B|G01V|G06F
+10996358,2021-05-04,Image-guided velocity interpolation using a mask cube,0,G01V|G06F
+10991078,2021-04-27,Inferring petrophysical properties of hydrocarbon reservoirs using a neural network,5,G06F|G06N|G06T|G06V
+10990873,2021-04-27,"Systems and methods for rapid prediction of hydrogen-induced cracking (HIC) in pipelines, pressure vessels, and piping systems and for taking action in relation thereto",0,G05B|G06F|G06N
+10989046,2021-04-27,Real-time equivalent circulating density of drilling fluid,4,E21B|G06F
+10983439,2021-04-20,Calcite channel nanofluidics,4,G03F|H01L
+10983236,2021-04-20,Super-resolution radon transform based on thresholding,0,G01V|G06T
+10983235,2021-04-20,Characterizing depositional features by geologic-based seismic classification,2,G01V|G06F
+10983233,2021-04-20,Method for dynamic calibration and simultaneous closed-loop inversion of simulation models of fractured reservoirs,4,G01V|G06F
+10959056,2021-03-23,Monitoring system for site safety and tracking,12,G01S|G06Q|G08B|H04W
+10958765,2021-03-23,Augmented reality for end-to-end data center it infrastructure layout,2,G02B|G06F|G06T|G06V|H04L
+10956145,2021-03-23,"System and method for determining dynamic dependencies for enterprise it change management, simulation and rollout",0,G06F
+10951663,2021-03-16,Securing an IMS-based VoIP network with multiple VPNs,0,H04L|H04M
+10944622,2021-03-09,Root cause analysis for unified communications performance issues,2,H04L
+10936561,2021-03-02,Extensible well data integrity smart detector,1,E21B|G06F|G06Q
+10936436,2021-03-02,Using snapshots for data backups,1,G06F
+10931790,2021-02-23,Systems and methods for securely transferring selective datasets between terminals with multi-applications support,0,H04L
+10928533,2021-02-23,Identifying potential hydrocarbon traps in a subterranean region using recursive anisotropic erosion of seismic data,5,E21B|G01V|G06T
+10924328,2021-02-16,Root cause analysis for unified communications performance issues,0,H04L
+10917442,2021-02-09,System and method for secure billing for IMS-based VoIP networks,1,H04L|H04M
+10914158,2021-02-09,Methods and systems for hydrocarbon resources exploration assessment,2,E21B|G01V|G06F|G06Q
+10911411,2021-02-02,Extending public WiFi hotspot to private enterprise network,0,H04L|H04W
+10908068,2021-02-02,Thermography image processing with neural networks to identify corrosion under insulation (CUI),35,G01K|G01N|G06F|G06N

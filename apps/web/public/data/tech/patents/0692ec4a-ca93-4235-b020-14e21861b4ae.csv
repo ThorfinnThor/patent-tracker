@@ -1,0 +1,1611 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432390,2025-09-30,Method and apparatus for video coding,0,H04N
+12432378,2025-09-30,On motion compensated picture boundary padding,0,H04N
+12432372,2025-09-30,Systems and methods for template matching for adaptive MVD resolution,0,H04N
+12432368,2025-09-30,Identification of random access point and picture types,0,H04N
+12432367,2025-09-30,Feature-based multi-view representation and coding,0,G06T|H04N
+12432357,2025-09-30,Method for alignment across layers in coded video stream,0,H04N
+12432348,2025-09-30,Method and apparatus for adaptive multi-hypothesis probability model for arithmetic coding,0,H04N
+12432346,2025-09-30,Intra prediction mode derivation for coding blocks,0,H04N
+12432340,2025-09-30,Angular intra prediction,0,H04N
+12430854,2025-09-30,Methods for providing light 5G AR/MR devices by running AR/MR processing on 5G edge servers/cloud including simplified dynamic scene updates,0,G06T|G06V|H04L|H04N|H04W
+12430806,2025-09-30,Base mesh coding by using surface reflection symmetry,0,G06T|H04N
+12430805,2025-09-30,Coding of boundary UV2XYZ index for mesh compression,0,G06T|H04N
+12425648,2025-09-23,Upsampling of displacement field in mesh compression,0,H04N
+12425642,2025-09-23,Zero motion vector in adaptive reordering of merge candidates (ARMC),0,H04N
+12425641,2025-09-23,MMVD candidate refinement methods,0,H04N
+12425632,2025-09-23,Systems and methods for combining subblock motion compensation and overlapped block motion compensation,0,H04N
+12425631,2025-09-23,Adaptive parameter selection for cross-component prediction in image and video compression,0,H04N
+12425623,2025-09-23,AMVP-merge mode with SBTMVP,0,H04N
+12425621,2025-09-23,Determining applicability of intra block copy in semi-decoupled partitioning,0,H04N
+12425616,2025-09-23,Scaled intra reference picture,0,H04N
+12425602,2025-09-23,Subblock level temporal motion vector prediction with multiple displacement vector predictors and an offset,0,H04N
+12425598,2025-09-23,Cross component sample offset filtering with asymmetric quantizer,0,H04N
+12425596,2025-09-23,Systems and methods for dependent quantization based on current dequantization states,0,H04N
+12425588,2025-09-23,CCSO with downsampling filters and sample position selection,0,H04N
+12425574,2025-09-23,Local illumination compensation for bi-prediction,0,G06T|H04N
+12425573,2025-09-23,Intra block copy prediction for overlapped reference block,0,H04N
+12425572,2025-09-23,Local illumination compensation,0,H04N
+12425570,2025-09-23,Context design for coding and decoding syntax elements in inter prediction modes,0,H04N
+12425544,2025-09-23,Session description protocol (SDP) signaling of occlude-free regions in 360 video conferencing,0,H04L|H04N
+12425466,2025-09-23,Event-driven provisioning of new edge servers in 5G Media Streaming architecture,0,H04L|H04W
+12423878,2025-09-23,Content-adaptive online training method and apparatus for deblocking in block-wise image compression,0,G06N|G06T|H04N
+12423874,2025-09-23,Method and apparatus of adaptive sampling for mesh compression by encoders,0,G06T|H04N
+12423527,2025-09-23,Variational graph autoencoding for abstract meaning representation coreference resolution,0,G06F|G06N
+12423135,2025-09-23,Method and apparatus for switching or updating partial or entire workflow on cloud with continuity in dataflow,0,G06F|H04L
+12420182,2025-09-23,Drift control assistance in virtual environment,0,A63F|G06F|G06N
+12418682,2025-09-16,Method for padding processing with sub-region partitions in video stream,0,H04N
+12418678,2025-09-16,Intra block copy search range,0,H04N
+12418670,2025-09-16,Template-matching based merge index reordering for geometric partition mode (GPM),0,H04N
+12418669,2025-09-16,Sign coding for one-dimensional transform skip,0,H04N
+12418663,2025-09-16,Deblock filtering a chroma block coded in an intra block copy mode,0,H04N
+12418659,2025-09-16,Motion vector prediction fusion for subblock-based temporal motion vector prediction (SbTMVP) and temporal motion vector prediction (TMVP),0,H04N
+12418656,2025-09-16,Context adaptive interpolation filter,0,H04N
+12418651,2025-09-16,CABAC inherited context initialization,0,H04N
+12418648,2025-09-16,Signaling of downsampling filters for chroma from luma intra prediction mode,0,H04N
+12417603,2025-09-16,Parallel approach to dynamic mesh alignment,0,G06T
+12417586,2025-09-16,Method for streaming dynamic 5G AR/MR experience to 5G devices with updatable scenes,0,G06T|G06V|H04L|H04N|H04W
+12417556,2025-09-16,Temporal prediction based vertex position compression,0,G06T|H04N
+12413779,2025-09-09,Method and apparatus for intra block copy (IntraBC) mode coding with search range restrictions,0,H04N
+12413777,2025-09-09,Intra template matching prediction in GDR pictures,0,H04N
+12413759,2025-09-09,Extension to block adaptive weighted prediction,0,H04N
+12413758,2025-09-09,Constraint flags in general constraints information,0,H04N
+12413757,2025-09-09,Template matching based partitioning pattern derivation,0,H04N
+12413756,2025-09-09,Merge with motion vector difference,0,H04N
+12413741,2025-09-09,Method and apparatus for video coding performance assessment,0,H04N
+12413734,2025-09-09,Cross-channel prediction based on multiple prediction modes,0,H04N
+12413733,2025-09-09,Context-based adaptive binary arithmetic coding (CABAC) context modeling with information from temporal neighbors,0,H04N
+12413726,2025-09-09,Dictionary of transforms,0,H04N
+12413721,2025-09-09,Content-adaptive online training method and apparatus for post-filtering,0,H04N
+12413720,2025-09-09,Cross component sample offset filtering with interpolated filter taps,0,H04N
+12413716,2025-09-09,Multi-line intra prediction,0,H04N
+12413708,2025-09-09,Adaptive local reference range,0,H04N
+12413633,2025-09-09,Reference of neural network model by immersive media for adaptation of media for streaming to heterogenous client end-points,0,G06N|G06T|H04L
+12412312,2025-09-09,Method and apparatus for chart based mesh compression,0,G06T|H04N
+12411553,2025-09-09,Methods for signaling random access in haptics interchange file format,0,G06F|H03M
+12407855,2025-09-02,Implicit mode dependent primary transforms,0,H04N
+12407851,2025-09-02,Method and apparatus for implicitly indicating motion vector predictor precision,0,H04N
+12407845,2025-09-02,Refined intra prediction angles,0,H04N
+12407824,2025-09-02,Selecting downsampling filters for chroma from luma prediction,0,H04N
+12407820,2025-09-02,Intra prediction with multiple reference lines,0,H04N
+12407811,2025-09-02,DNN-based cross component prediction,0,G06N|H04N
+12407747,2025-09-02,Tailored scheduling of NBMP media workflows based on the platform capabilities,0,H04L
+12406404,2025-09-02,Coding of multiple-component attributes for point cloud coding,0,G06N|G06T|H04N
+12406403,2025-09-02,Vertex prediction based on mesh triangulation derivation,0,G06T
+12406402,2025-09-02,Atlas sampling based mesh compression with charts of general topology,0,G06T|H04N
+12401847,2025-08-26,Mapping architecture of immersive technologies media format (ITMF) specification with rendering engines,0,H04L|H04N
+12401828,2025-08-26,General constraints information for transform skip,0,H04N
+12401826,2025-08-26,Labeling detected objects in frames of a video,0,G06V|H04N
+12401823,2025-08-26,Vertex prediction based on decoded neighbors,0,G06T|H04N
+12401814,2025-08-26,Signaling of output layer set for scalable video stream,0,H04N
+12401812,2025-08-26,Method and apparatus for affine motion refinement,0,H04N
+12401805,2025-08-26,UV coordinate ranges and texture map size,0,H04N
+12401796,2025-08-26,Decoder-side motion vector refinement and bi-directional optical flow in subblock-based temporal motion vector prediction (SBTMVP),0,H04N
+12401727,2025-08-26,Edge application server discovery and identification of activated edge application servers and associated profiles,0,H04L
+12400372,2025-08-26,Predictive coding of boundary UV2XYZ index for mesh compression,0,G06T
+12399738,2025-08-26,Method and apparatus for a step-enabled workflow,0,G06F|G06Q
+12395666,2025-08-19,Method for wrap around motion compensation with reference picture resampling,0,H04N
+12395653,2025-08-19,Method and apparatus for optimizing end-to-end neural image compression framework,0,G06V|H04N
+12395649,2025-08-19,Multiple linear models employed with chroma-from-luma prediction,0,H04N
+12394102,2025-08-19,Mesh parameterization with temporally correlated UV atlases,0,G06T|H04N
+12394101,2025-08-19,Segment based compression methods for mesh compression,0,G06T
+12389044,2025-08-12,Adaptive non-linear mapping for sample offset,0,H04N
+12389040,2025-08-12,Method and device using high layer syntax architecture for coding and decoding,0,H04N
+12389033,2025-08-12,Method and apparatus for signaling skip mode flag,0,H04N
+12389020,2025-08-12,Triangulation methods with boundary information for dynamic mesh compression,0,G06T|H04N
+12388991,2025-08-12,Feature based cross-component sample offset optimization and signaling improvement,0,H04N
+12388979,2025-08-12,IntraBC using wedgelet partitioning,0,H04N
+12388978,2025-08-12,Template-matching based adaptive motion vector resolution (AMVR) for bi-prediction and an affine mode,0,H04N
+12388977,2025-08-12,Affine models use in affine bilateral matching,0,H04N
+12388886,2025-08-12,Session-based description URL customization using the session-based dash operations,0,H04L|H04N
+12388879,2025-08-12,Methods for discovery of media capabilities of 5G edge,0,G06F|H04L|H04N|H04W
+12386767,2025-08-12,Method and apparatus for using local area network as service for edge cloud,0,G06F|H04L
+12386743,2025-08-12,Method of sharing unreal engine derived data cache files,0,G06F
+12382101,2025-08-05,Adaptive application of generalized sample offset,0,H04N
+12382100,2025-08-05,Techniques for constraint flag signaling for range extension with coding for last significant coefficient,0,H04N
+12382086,2025-08-05,Methods and apparatuses for video coding,0,H04N
+12382082,2025-08-05,Systems and methods for subblock motion vector coding,0,H04N
+12382079,2025-08-05,Techniques for random access point indication and picture output in coded video stream,0,H04N
+12382075,2025-08-05,Derivation on sublayer-wise output layer set,0,H04N
+12382074,2025-08-05,Signaling presence of chroma component in video bitstream,0,H04N
+12382066,2025-08-05,Chroma from luma prediction using mapping and different types,0,H04N
+12382057,2025-08-05,Interdependence between adaptive resolution of motion vector difference and signaling/derivation of motion vector-related parameters,0,H04N
+12382043,2025-08-05,Quantizer design,0,G06N|H04N
+12382037,2025-08-05,Decoupled transform partitioning,0,H04N
+12382028,2025-08-05,Systems and methods for signaling of downsampling filters for chroma from luma intra prediction mode,0,H04N
+12382027,2025-08-05,Coding tool parameter selection by mapping wide angle intra prediction modes to non-wide intra prediction modes,0,H04N
+12382018,2025-08-05,Context design for coding and decoding syntax elements in inter prediction modes,0,H04N
+12381997,2025-08-05,Method and apparatus for dynamic dash picture-in-picture streaming,0,H04L|H04N
+12380615,2025-08-05,Scene graph translation,0,G06T|H04N
+12380312,2025-08-05,Multi-task neural network by micro-structured parameter sharing for multi-quality loop filter,0,G06N|G06V|H04N
+12375780,2025-07-29,Multidimensional metadata for parallel processing of the segmented media data,0,H04N
+12375717,2025-07-29,Mode-dependent joint component transform,0,H04N
+12375710,2025-07-29,Adaptive motion vector for warped motion mode of video coding,0,H04N
+12375692,2025-07-29,Signaling of reference picture resampling with constant window size in video bitstream,0,H04N
+12375656,2025-07-29,Filter shape for sample offset,0,H04N
+12375651,2025-07-29,Adaptive up-sampling filter for luma and chroma with reference picture resampling (RPR),0,H04N
+12375645,2025-07-29,Intra mode selection and signaling,0,H04N
+12375644,2025-07-29,Grouping based adaptive reordering of merge candidate,0,H04N
+12375636,2025-07-29,Generating holographic or lightfield views using crowdsourcing,0,G06T|H04N
+12375535,2025-07-29,Method for edge application server discovery or instantiation by an application provider to run media streaming and services on 5G networks,0,H04L
+12373992,2025-07-29,Adaptive neural image compression with smooth quality control by meta-learning,0,G06N|G06T|H04N
+12373990,2025-07-29,Method and apparatus for UV attributes coding for symmetry mesh,0,G06T|H04N
+12373643,2025-07-29,Efficient zero shot event extraction with context definition,0,G06F
+12368892,2025-07-22,Flexible transform scheme for residual blocks,0,H04N
+12368888,2025-07-22,Dynamic mesh compression using inter and intra prediction,0,H04N
+12368887,2025-07-22,Secondary transform application for various block sizes,0,H04N
+12368879,2025-07-22,Method and apparatus adaptive constraint on bi-prediction for out-of-boundary conditions,0,H04N
+12368860,2025-07-22,Adaptive resolution for motion vector difference,0,H04N
+12368857,2025-07-22,Applying PDPC after fusion of plural intra mode predictors,0,H04N
+12368856,2025-07-22,Signaling output picture size for reference picture resampling,0,H04N
+12368849,2025-07-22,Flexible picture partitioning,0,H03M|H04N
+12368842,2025-07-22,String matching with a single value from reference locations,0,H03M|H04N
+12363329,2025-07-15,Substitutional quality factor learning in the latent space for neural image compression,0,H04N
+12363317,2025-07-15,Method for signaling output subpicture layer set,0,H04N
+12363290,2025-07-15,Methods and apparatus for multiple line intra prediction in video compression,0,H04N
+12363288,2025-07-15,Geometric partition based intra prediction,0,H04N
+12363282,2025-07-15,Warp mode for intra prediction,0,H04N
+12363275,2025-07-15,Grouping of mesh vertices in position compression,0,H04N
+12363186,2025-07-15,Event information in a timed metadata track,0,H04L|H04N
+12362764,2025-07-15,Neural network model compression with quantizability regularization,0,G06F|G06N|G06V|H03M
+12360943,2025-07-15,Method and apparatus for media scene description,0,G06F|G06T|H04N
+12356019,2025-07-08,Simplification for cross-component linear model prediction mode,0,H04N
+12356016,2025-07-08,Derivation of triangular prediction information,0,H04N
+12356015,2025-07-08,Method and apparatus for signaling CMAF switching sets in ISOBMFF,0,H04N
+12356013,2025-07-08,System and method for decoding including network abstraction layer unit structure with picture header,0,H04N
+12356004,2025-07-08,Intra block copy (IBC) candidate list construction with motion information of intra template-matching prediction,0,H04N
+12355998,2025-07-08,Method for layerwise random access in a coded video stream,0,H04N
+12355986,2025-07-08,Intra mode coding,0,H04N
+12355978,2025-07-08,Enhancement process for video coding for machines,0,G06N|H04N
+12355975,2025-07-08,Joint coding of motion vector difference,0,H04N
+12355962,2025-07-08,Method and apparatus for intra block copy prediction with sample padding,0,H04N
+12355951,2025-07-08,Component dependent intra and inter prediction signaling,0,H04N
+12355943,2025-07-08,Angular intra prediction,0,H04N
+12355835,2025-07-08,Asynchronous workflow for cloud based processing,0,H04L
+12355831,2025-07-08,Techniques for signaling multiple audio mixing gains for teleconferencing and telepresence for remote terminals,0,G10L|H04L
+12354594,2025-07-08,Techniques for disentangled variational speech representation learning for zero-shot voice conversion,0,G06N|G10L
+12348780,2025-07-01,Block-level window size update for arithmetic coding,0,H04N
+12348773,2025-07-01,Texture coordinate coding in mesh compression,0,G06T|H04N
+12348750,2025-07-01,Cross component intra prediction with multiple parameters,0,H04N
+12348749,2025-07-01,Extension to block adaptive weighted prediction,0,H04N
+12348748,2025-07-01,Cross component filtering using a temporal source frame,0,H04N
+12348747,2025-07-01,Implicit masked blending mode,0,H04N
+12348745,2025-07-01,Signaling of adaptive picture size in video bitstream,0,H04N
+12347218,2025-07-01,Salience-aware cross-attention for abstractive summarization,0,G06F|G06V
+12347149,2025-07-01,"System, method, and computer program for content adaptive online training for multiple blocks in neural image compression",0,G06N|G06T|H04N
+12341997,2025-06-24,DST-7/DCT-8 using 8-bit cores,0,G06F|H04N
+12341988,2025-06-24,Systems and methods for motion vector predictor list improvements,0,H04N
+12341968,2025-06-24,Method for mixed NAL unit type support in a coded picture,0,H04N
+12339232,2025-06-24,Method and device for three-dimensional object scanning with invisible markers,0,G01B|G01N|G06F|G06T|G06V
+12335536,2025-06-17,Selecting a filter shape of a cross-component filter,0,H04N
+12335525,2025-06-17,Orthogonal transform generation with subspace constraint,0,H04N
+12335524,2025-06-17,Frequency-dependent joint component secondary transform,0,H04N
+12335522,2025-06-17,Vertex position coding in mesh compression,0,H04N
+12335503,2025-06-17,Derivation on sublayer-wise output layer set,0,H04N
+12335502,2025-06-17,Adaptive blending for geometric partition mode (GPM),0,H04N
+12335487,2025-06-17,Multi-rate of computer vision task neural networks in compression domain,0,G06N|H04N
+12335478,2025-06-17,Scan order of secondary transform coefficients,0,H04N
+12335468,2025-06-17,Mode list generation for multi-line intra prediction,0,H04N
+12335462,2025-06-17,Reference motion vector candidates bank improvements,0,H04N
+12333653,2025-06-17,Low-poly mesh generation for three-dimensional models,0,G06T
+12328245,2025-06-10,Interoperable cloud based media processing using dynamic network interface,0,H04L|H04N
+12323621,2025-06-03,Duplicate vertices based position compression,0,H04N
+12323615,2025-06-03,Full-pixel based and group-based motion compensated picture boundary padding,0,H04N
+12323610,2025-06-03,Adaptive color transform performed with prediction coding,0,H04N
+12323602,2025-06-03,Storage of intra mode information in geometric partition mode,0,H04N
+12323581,2025-06-03,Angular intra prediction,0,H04N
+12321188,2025-06-03,"Neuralecho: a self-attentive recurrent neural network for unified acoustic echo suppression, speaker aware speech enhancement and automatic gain control",0,G05B|G05F|G06N|G06Q|G10L|H04M|H04R
+12316883,2025-05-27,Techniques and apparatus for automatic ROI chunking for content-aware point cloud compression using HEVC tiles,0,H04N
+12316866,2025-05-27,Skip transform flag coding,0,H04N
+12309430,2025-05-20,Context modeling of transform coefficient syntax elements,0,H04N
+12309424,2025-05-20,Grid-based patch generation for video-based point cloud coding,0,G06T|H04N
+12309421,2025-05-20,Signaling a maximum number of merge motion vector prediction candidates for inter prediction,0,H04N
+12309407,2025-05-20,Signaling of base merge candidate index in MMVD mode,0,H04N
+12309405,2025-05-20,Interaction between transform partitioning and primary/secondary transform type selection,0,H04N
+12309392,2025-05-20,MMVD signaling improvement,0,H04N
+12309381,2025-05-20,Method and apparatus for video coding,0,H04N
+12309359,2025-05-20,Block-level adaptive mixed-resolution prediction,0,H04N
+12309356,2025-05-20,Method for output layer set for multilayered video stream,0,H04L|H04N
+12309216,2025-05-20,Method and apparatus for split-rendering embedded in a media streaming architecture for 5G networks,0,H04L|H04N|H04S
+12308039,2025-05-20,Multi-band synchronized neural vocoder,0,G06N|G10L
+12308019,2025-05-20,Learning singing from speech,0,G06N|G10H|G10L
+12301889,2025-05-13,Systems and methods for blending block sections in a partition-based prediction mode,0,H04N
+12301882,2025-05-13,Method for signaling subpicture identifier,0,H04N
+12301853,2025-05-13,Indication of max sublayer numbers in multilayered video stream,0,H04L|H04N
+12301852,2025-05-13,Search range for intra block copy,0,H04N
+12301851,2025-05-13,Context model reduction,0,H04N
+12301843,2025-05-13,Color transform for video coding,0,H04N
+12301837,2025-05-13,Region of interest coding for VCM,0,G06V|H04N
+12301832,2025-05-13,"Methods, devices, and storage medium for multi-symbol arithmetic coding",0,H04N
+12301826,2025-05-13,Template-matching based adaptive motion vector resolution (AMVR),0,H04N
+12301810,2025-05-13,Quantizer for lossless and near-lossless compression,0,H04N
+12301787,2025-05-13,Intra prediction for non-square block,0,H04N
+12301649,2025-05-13,Using Coap protocol for video streaming,0,H04L
+12301644,2025-05-13,Method and apparatus for third party remote controlling of uplink streaming in 5G networks through application interface,0,H04L
+12299941,2025-05-13,Vertex reordering for mesh compression,0,G06T|H04N
+12299493,2025-05-13,Method and apparatus for scheduling workflow on cloud platforms,0,G06F
+12294770,2025-05-06,Immersive media data complexity analyzer for transformation of asset formats,0,H04N
+12294730,2025-05-06,Pruning methods for neural network based video coding,0,G06N|H04N
+12294722,2025-05-06,Method and apparatus for video coding,0,H04N
+12294720,2025-05-06,Method and apparatus for dynamic learning rates of substitution in neural image compression,0,G06N|G06T|H04N
+12294710,2025-05-06,Signaling of reference picture resampling with resampling picture size indication in video bitstream,0,H04N
+12294694,2025-05-06,Harmonized design for intra bi-prediction and multiple reference line selection,0,H04N
+12294693,2025-05-06,Template matching on IBC merge candidates,0,H04N
+12294390,2025-05-06,Techniques for parameter set and header design for compressed neural network representation,0,G06N|H03M|H04N
+12293769,2025-05-06,Neural-echo: an unified deep neural network model for acoustic echo cancellation and residual echo suppression,0,G06N|G10L|H04R
+12293274,2025-05-06,Method and apparatus for unification based coding for neural network model compression,0,G06F|G06N|H03M
+12293218,2025-05-06,Method and apparatus for a step-enabled workflow,0,G06F
+12293154,2025-05-06,Extractive method for speaker identification in texts with self-training,0,G06F|G06N
+12292918,2025-05-06,Static and dynamic NBMP function image retrieval and scale ranking,0,G06F
+12289477,2025-04-29,IBC search range,0,H04N
+12284398,2025-04-22,Systems and methods for division-free probability regularization for arithmetic coding,0,H04N
+12284380,2025-04-22,Weight index inheritance,0,H04N
+12284379,2025-04-22,Method and apparatus for video coding,1,H04N
+12284375,2025-04-22,Implicit masked blending mode improvement with high level syntax,0,H04N
+12284349,2025-04-22,Adaptive quantization for instance-based mesh coding,0,G06T|H04N
+12284346,2025-04-22,Systems and methods for partition dependent secondary transform,0,H04N
+12284332,2025-04-22,Interlayer prediction signaling with indicating independent layers,0,H04N
+12284331,2025-04-22,Subblock-based motion vector predictor with MV offset derived by template matching,0,H04N
+12284232,2025-04-22,Splitter and merger functions for multidimensional segmented media data,0,H04L|H04N
+12283075,2025-04-22,Method and apparatus for multi-learning rates of substitution in neural image compression,0,G06F|G06N|G06T|G11B|H04N|H04Q
+12278980,2025-04-15,Palette based coding with local dual tree coding structure,0,H04N
+12278978,2025-04-15,Adaptive quantization step size in CCSO filtering,0,H04N
+12278977,2025-04-15,Cross-component filtering on block-level reconstruction,0,H04N
+12278976,2025-04-15,Intra-inter prediction mode,0,H04N
+12277269,2025-04-15,Control method and device for near eye display system,0,G06F|G09G
+12273547,2025-04-08,Method for support of scalability with adaptive picture resolution,0,H04N
+12273523,2025-04-08,Systems and methods for joint signaling of transform coefficient signs,0,H04N
+12271341,2025-04-08,Method and apparatus for media scene description,0,G06F|G06T|H04N
+12267515,2025-04-01,Method and apparatus for temporal interpolated prediction in video bitstream,0,H04N
+12267512,2025-04-01,MPM list construction,1,H04N
+12265564,2025-04-01,Instance-level adaptive propulsion of external knowledge (IAPEK),0,G06F
+12262070,2025-03-25,Reference of neural network model for adaptation of 2D video for streaming to heterogeneous client end-points,0,G06N|H04N
+12262037,2025-03-25,Method for adaptation parameter set reference and constraints in coded video stream,0,H04N
+12262030,2025-03-25,Chroma from luma prediction using neighbor luma samples,0,H04N
+12262019,2025-03-25,Adaptive bands for filter offset selection in cross-component sample offset,0,H04N
+12262009,2025-03-25,Tile and sub-picture partitioning,0,H04N
+12256109,2025-03-18,Signaling of CTU size,0,H04N
+12256100,2025-03-18,Dynamic mesh vertex displacements coding,0,H04N
+12256077,2025-03-18,Systems and methods for regularization-free multi-hypothesis arithmetic coding,0,H04N
+12256067,2025-03-18,Methods and apparatus for multiple line intra prediction in video compression,0,H04N
+12254242,2025-03-18,Recommending audio mixing parameters by audio stream sender,0,G06F|G10L|H04L|H04M|H04N|H04R
+12250408,2025-03-11,Deriving affine merge candidates when neighboring blocks are outside of current coding unit,0,H04N
+12250402,2025-03-11,Method and system of video coding using a subset of available intra prediction modes for multiple reference lines,0,H04N
+12250401,2025-03-11,Harmonized design for offset based refinement and multiple reference line selection,0,H04N
+12250058,2025-03-11,Method and apparatus for UAV and UAV controller pairing and command and control (C2) quality of service provisioning,0,H04B|H04W
+12248753,2025-03-11,Bridging semantics between words and definitions via aligning word sense inventories,0,G06F|G06N
+12245103,2025-03-04,Methods for implementing various uplink streaming deployment scenarios in 5G networks,0,H04L|H04W
+12244873,2025-03-04,Method for using 5G edge application servers for live streaming of user-generated content,0,H04L|H04N
+12244854,2025-03-04,Signaling of block vector resolution,0,H04N
+12244839,2025-03-04,Constraint of minimum quaternary tree size,0,H04N
+12244834,2025-03-04,Utilizing hierarchical structure for neural network based tools in video coding,0,H04N
+12244821,2025-03-04,Video coding transform size signaling,0,H04N
+12243279,2025-03-04,Method and apparatus for adaptive quantization for symmetry mesh,1,G06T|H04N
+12243277,2025-03-04,Method and apparatus to symmetrize a mesh cross-reference to related application,0,G06T|H04N
+12238362,2025-02-25,Consistence of acoustic and visual scenes,0,A63F|G06T|G10L|H04N|H04R|H04S
+12238323,2025-02-25,Signaling IBC predictor candidate list size,0,H04N
+12238318,2025-02-25,Determination of secondary transform for intra prediction,0,H04N
+12238317,2025-02-25,Block based weighting factor for joint motion vector difference coding mode,0,H04N
+12238307,2025-02-25,Decoded picture buffer management for video coding,0,H04N
+12238294,2025-02-25,Sub-block based temporal motion vector predictor with an motion vector offset,0,H04N
+12236650,2025-02-25,Encoding of patch temporal alignment for mesh compression,0,G06F|G06T|H04N
+12236649,2025-02-25,Method and apparatus for calculating distance based weighted average for point cloud coding,0,G06F|G06T
+12231815,2025-02-18,Parameters for overlay handling for immersive teleconferencing and telepresence for remote terminals,0,H04N
+12231721,2025-02-18,Method and apparatus for media scene description,0,G06T|H04N
+12231682,2025-02-18,Filter offset value mapping,0,H04N
+12231681,2025-02-18,Signaling of downsampling filters for chroma from luma intra prediction mode,0,H04N
+12231651,2025-02-18,Adaptive block vector resolution in video coding,0,H04N
+12231647,2025-02-18,Scene transition detection based encoding methods for BCW,0,H04N
+12231632,2025-02-18,Methods of parameter set selection in cloud gaming system,0,G06N|H04N
+12231629,2025-02-18,Reference sample padding and filtering for intra prediction in video compression,0,H04N
+12231622,2025-02-18,Prediction of intrabc flip type,0,H04N
+12231621,2025-02-18,Subblock merge mode for intra block copy,0,H04N
+12229523,2025-02-18,Search-engine-augmented dialogue response generation with cheaply supervised query production,0,G06F|G06N|G10L
+12229505,2025-02-18,Structural information preserving for graph-to-text generation,0,G06F|G06N
+12225245,2025-02-11,Methods and apparatus of discovering FLUS network media processing capabilities using 5G edge data network architecture,0,G06F|H04L|H04N
+12225207,2025-02-11,Subblock intra and inter coding,0,H04N
+12225206,2025-02-11,Affine inter prediction refinement with optical flow,0,H04N
+12225205,2025-02-11,Block-wise entropy coding method in neural image compression,0,G06N|H04N
+12225192,2025-02-11,Separate constrained directional enhancement filter,0,H04N
+12225070,2025-02-11,Extended W3C media extensions for processing DASH and CMAF inband events,0,H04L|H04N
+12225068,2025-02-11,Immersive media streaming prioritized by frequency of asset reuse,0,H04L|H04N
+12225066,2025-02-11,Adaptive streaming for lightfield or holographic media,0,G06V|H04L
+12223283,2025-02-11,Conversational aspect sentiment analysis for dialogue understanding,0,G06F|G06N
+12222936,2025-02-11,"System, method, and computer program for augmenting multi-turn text-to-SQL datasets with self-play",0,G06F
+12219178,2025-02-04,Method for efficient signaling of virtual boundary for loop filtering control,0,H04N
+12219177,2025-02-04,Method for access unit delimiter signaling,0,H04N
+12219162,2025-02-04,Method for signaling picture header in coded video stream,0,H04N
+12219146,2025-02-04,Flexible scaling factors for joint MVD coding,0,H04N
+12219140,2025-02-04,Method and apparatus for video coding for machine vision,0,G06N|G06V|H04N
+12219128,2025-02-04,Mixed-model cross-component prediction mode,0,H04N
+12219002,2025-02-04,Methods and apparatus for just-in-time content preparation in 5G networks,0,H04L|H04W
+12217465,2025-02-04,Method and apparatus for point cloud coding,0,G06T|H04N
+12212788,2025-01-28,Semi-decoupled partitioning for video coding,0,H04N
+12212782,2025-01-28,Method for signaling rectangular slice partitioning in coded video stream,0,H04N
+12212780,2025-01-28,Reducing context models for entropy coding of transform coefficients,0,H04N
+12206912,2025-01-21,Techniques for constraint flag signaling for range extension with extended precision,0,H04N
+12206898,2025-01-21,Methods for efficient application of LGT,0,H04N
+12206881,2025-01-21,Ranking templates of a current block and prediction blocks,0,H04N
+12206880,2025-01-21,Multiview view position supplementary enhancement information message,0,H04N
+12206861,2025-01-21,Motion vector restriction for out-of-frame boundary conditions,2,H04N
+12206855,2025-01-21,Superresolution-based coding,0,H04N
+12206844,2025-01-21,Method and apparatus for non-linear loop filtering,0,H04N
+12206749,2025-01-21,Deployment of workflow tasks with fixed preconfigured parameters in cloud-based media applications,0,G06F|H04L
+12206721,2025-01-21,Addressable resource index events for CMAF and DASH multimedia streaming,0,H04L|H04N
+12204815,2025-01-21,Adaptive audio delivery and rendering,0,G06F|G10L|H04R|H04S
+12200259,2025-01-14,Method and device using high layer syntax architecture for coding and decoding,0,H04N
+12200250,2025-01-14,Method and apparatus for video coding,0,H04N
+12200204,2025-01-14,On intra mode propagation,0,H04N
+12200196,2025-01-14,Joint signaling method for motion vector difference,0,H04N
+12200195,2025-01-14,Multiple lists for block based weighting factors,0,H04N
+12200192,2025-01-14,Method and apparatus for bi-prediction with sample adaptive weights,0,H04N
+12200191,2025-01-14,On geometric partition mode with intra and inter prediction,0,H04N
+12198351,2025-01-14,System and method for instance segmentation in pathological images using object-guided framework,0,G06T
+12197532,2025-01-14,Method and apparatus for neural network optimized matrix-matrix multiplication (NNMM),0,G06F|G06N
+12192530,2025-01-07,Techniques for constraint flag signaling for range extension with residual rice coding extension,0,H04N
+12192527,2025-01-07,Cross component end of block flag coding,0,H04N
+12192521,2025-01-07,Displacement coding for mesh compression,0,G06T|H04N
+12192519,2025-01-07,Non-binary occupancy map for video based point cloud coding,0,G06T|H04N
+12192514,2025-01-07,Method and apparatus for video coding,0,H04N
+12192509,2025-01-07,"Partition, motion vector (MV) derivation of template-matching, and subblock MV derivation for subblock based MV predictor",0,H04N
+12192481,2025-01-07,Simplified most probable mode list generation scheme,0,H04N
+12192480,2025-01-07,Weight derivation of multiple reference line for intra prediction fusion,0,H04N
+12192473,2025-01-07,Schemes for adjusting adaptive resolution for motion vector difference,0,H04N
+12192472,2025-01-07,Support of multiple chroma format in VVC,0,H04N
+12192457,2025-01-07,Intra coding with L-type partitioning tree,0,H04N
+12192277,2025-01-07,Method and apparatus for using nonstop controller with local area network (LAN) for local cloud,0,G06F|H04L
+12192260,2025-01-07,Immersive media streaming prioritized by asset complexity,0,G06F|H04L
+12190880,2025-01-07,Method and apparatus for multi-party dialogue discourse parsing as a sequence generation,0,G06F|G10L
+12190552,2025-01-07,Node-based geometry and attribute coding for a point cloud,0,G06T|H04N
+12184854,2024-12-31,Maximum transform size control,0,H04N
+12184495,2024-12-31,Method and apparatus for provisioning of new edge servers in 5G networks using triggering events,0,H04L|H04W
+12182519,2024-12-31,Systems and methods for semantic-based pre-training for dialogue understanding,0,G06F
+12177492,2024-12-24,Method and apparatus for video filtering,0,H04N
+12177474,2024-12-24,Temporal based subblock type motion vector predictor,0,H04N
+12177460,2024-12-24,Adaptive colour transform related signalling for both of CU level and TU level,0,H04N
+12177457,2024-12-24,Method for alignment across layers,0,H04N
+12177432,2024-12-24,Region-wise scalability with adaptive resolution change,0,H04N
+12170811,2024-12-17,Methods for media streaming content preparation for an application provider in 5G networks,0,H04L|H04N
+12170764,2024-12-17,Mapping intra prediction angles outside a range to intra prediction modes according to a predetermined relationship,0,H04N
+12169953,2024-12-17,Predictive tree-based geometry coding for a point cloud,0,G06T
+12169770,2024-12-17,Neural network model compression with structured weight unification,0,G06N|H03M
+12167110,2024-12-10,"Auxiliary MPDS for MPEG DASH to support prerolls, midrolls and endrolls with stacking properties",0,H04L|H04N
+12167047,2024-12-10,Neural network-based deblocking filters,0,G06N|H04N
+12167019,2024-12-10,Temporal motion vector predictor with displacement,0,H04N
+12167011,2024-12-10,Extending search range for reference blocks beyond current CTU,0,H04N
+12166998,2024-12-10,Adjustment based local illumination compensation,0,H04N
+12166973,2024-12-10,Entropy coding for intra prediction modes,0,H04N
+12165241,2024-12-10,"Three-dimensional reconstruction method and device, and storage medium",0,G06T
+12160615,2024-12-03,Decoding based on string copy,0,H04N
+12160611,2024-12-03,Implicit geometry partition for point cloud coding,0,H04N
+12160607,2024-12-03,Processing video bitstream conforming to still picture profile,0,H04N
+12160567,2024-12-03,Affine prediction refinement with optical flow,0,H04N
+12160564,2024-12-03,Bilateral matching with affine motion,1,H04N
+12160563,2024-12-03,Motion vector range constraints,0,H04N
+12160562,2024-12-03,On propagating intra prediction mode information of IBC block by using block vector,0,H04N
+12160561,2024-12-03,Method and apparatus for improved intra prediction,0,H04N
+12159438,2024-12-03,Substitutional input optimization for adaptive neural image compression with smooth quality control,0,G06T|H04N
+12155866,2024-11-26,Method and apparatus for most probable mode derivation,0,H04N
+12155852,2024-11-26,Method for output layer set mode in multilayered video stream,0,H04N
+12155841,2024-11-26,Signaling presence of inter and intra syntax elements for a picture,0,H04N
+12155839,2024-11-26,Adaptive resolution for single-reference motion vector difference,0,H04N
+12155823,2024-11-26,Systems and methods for warp extend and warp delta signaling,0,H04N
+12155707,2024-11-26,Method and apparatus for management of split-rendering in 5G networks,0,H04L
+12155705,2024-11-26,Techniques for monitoring encrypted streaming traffic using underlying transport metrics,0,H04L
+12154300,2024-11-26,Predictive coding of boundary geometry information for mesh compression,1,G06T|G06V|H04N
+12149740,2024-11-19,Joint component secondary transform,0,H04N
+12149732,2024-11-19,Systems and methods for improving warp extend and warp delta signaling with backup candidates,0,H04N
+12149722,2024-11-19,PDPC unification,0,H04N
+12149717,2024-11-19,Hybrid coding order for point cloud coding,1,H04N
+12149682,2024-11-19,Video coding method and system based on multiple reference line intra prediction,0,H04N
+12147828,2024-11-19,Additional improvements to NBMP standard,0,G06F|H04L
+12147757,2024-11-19,Unifying text segmentation and long document summarization,0,G06F|G06N
+12143647,2024-11-12,Extended maximum coding unit size,0,H04N
+12143636,2024-11-12,Method and apparatus for performing primary transform based on filtering of blocks,0,H04N
+12143622,2024-11-12,Simplified merge list construction for small coding blocks,0,H04N
+12143614,2024-11-12,Setting motion vector precision for intra prediction with motion vector difference,0,H04N
+12143613,2024-11-12,Using directionality information from a CDEF or intra coding process for restoration filtering,0,H04N
+12143592,2024-11-12,Systems and methods for temporal motion vector prediction candidate derivation,0,H04N
+12143590,2024-11-12,Affine estimation in pre-analysis of encoder,0,H04N
+12143589,2024-11-12,Weighted sample prediction for geometric partitioning mode,0,H04N
+12143579,2024-11-12,Method and apparatus for offset in video filtering,0,H04N
+12143573,2024-11-12,Neural network based coefficient sign prediction field,0,G06N|H04N
+12141350,2024-11-12,Vergence based gaze matching for mixed-mode immersive telepresence application,0,G06F|G06T
+12137336,2024-11-05,Immersive media compatibility,0,G02B|G06F|G06T|H04N|H04R|H04S
+12137255,2024-11-05,Coding of UV coordinates,0,G06T|H04N
+12137251,2024-11-05,Signaling for triangle mode,0,H04N
+12137250,2024-11-05,Signaling of coding tools for encoding a video component as monochrome video,0,H04N
+12137249,2024-11-05,"Method, apparatus and medium for decoding or encoding",0,H04N
+12137239,2024-11-05,Method for signaling output layer set with sub-picture,0,H04N
+12137238,2024-11-05,Reusing reference sample memory based on flexible partition type,0,H04N
+12137237,2024-11-05,Zero residual flag coding,0,H04N
+12137209,2024-11-05,Model storage for warp extend and warp delta modes,0,H04N
+12132967,2024-10-29,Bidirectional presentation datastream using control and data plane channels,0,H04L|H04N
+12132966,2024-10-29,Immersive media analyzer for reuse of scene assets,0,H04N
+12132954,2024-10-29,Smart client for streaming of scene-based immersive media,0,H04L|H04N
+12132906,2024-10-29,CTU level inheritance of CABAC context initialization,0,H04N
+12132901,2024-10-29,Adaptive multiple transform set selection,0,H04N
+12132895,2024-10-29,Interpolation filters for adaptive motion vector difference resolution,0,H04N
+12132893,2024-10-29,Selection of an intra block copy prediction mode for coding a video coding block,0,H04N
+12131561,2024-10-29,Method for annotating VVC subpictures in DASH,0,G06V|H04L|H04N
+12131508,2024-10-29,Dynamic mesh compression based on point cloud compression,0,G06T
+12131506,2024-10-29,Method and apparatus for constructing a 3D geometry,0,G06T|H04N
+12127075,2024-10-22,Method and apparatus for real time UAV connection monitoring and location reporting,0,G08G|H04W
+12126841,2024-10-22,Feature compression for video coding for machines,0,H04N
+12126838,2024-10-22,Filter shape switching,0,H04N
+12126822,2024-10-22,Most probable mode (mpm) list sorting,0,H04N
+12126794,2024-10-22,Adaptive transforms for compound inter-intra prediction modes,1,H04N
+12125250,2024-10-22,Decoding of patch temporal alignment for mesh compression,0,G06T|H04N
+12120346,2024-10-15,Method and apparatus for boundary filtering for intrabc and intraTMP modes,2,H04N
+12120341,2024-10-15,Method for diversified merge candidate reordering,0,H04N
+12120338,2024-10-15,Range of minimum coding block size in video coding,0,H04N
+12120335,2024-10-15,Hardware friendly design for intra mode coding,0,H04N
+12120309,2024-10-15,History-based motion vector prediction,0,H04N
+12120308,2024-10-15,Methods and devices for restriction on motion vector difference,0,H04N
+12120303,2024-10-15,Signaling for reference picture resampling,0,H04N
+12120296,2024-10-15,Method and apparatus for video coding,0,H04N
+12120290,2024-10-15,Method and apparatus for intra block copy mode coding with search range switching,0,H04N
+12114014,2024-10-08,Secondary transforms for compound inter-intra prediction modes,0,H04N
+12114009,2024-10-08,Method and apparatus for adaptive reordering for reference frames,0,H04N
+12113997,2024-10-08,Method for tile group identification,0,H04N
+12113996,2024-10-08,Arrangement of adaptive loop filter coefficients for fast vectorized transpositions,0,H04N
+12113990,2024-10-08,Method and apparatus for video coding,0,H04N
+12113966,2024-10-08,Candidate list construction in intra-inter blending mode,0,H04N
+12113958,2024-10-08,Intra prediction for square and non-square blocks in video compression,0,H04N
+12113878,2024-10-08,Methods and systems for scheduling a workflow,0,G06F|H04L
+12113845,2024-10-08,Techniques for signaling audio mixing gain in teleconferencing and telepresence for remote terminals,0,H04L|H04M
+12112510,2024-10-08,Convolutional approach to fast and compact packing of 3D mesh into 2D maps,0,G06T|H04N
+12112509,2024-10-08,Edge enhancement filter,0,G06T|H04N
+12108076,2024-10-01,Index reordering of bi-prediction with CU-level weight (BCW) by using template-matching,0,H04N
+12108056,2024-10-01,Signalling of EOB for one dimensional transform skip,0,H04N
+12108037,2024-10-01,Loop filter block flexible partitioning,0,H04N
+12108031,2024-10-01,"Harmonized design among multiple reference line intra prediction, transform partitioning and transform kernels",0,H04N
+12107663,2024-10-01,Unmanned aerial system communication,0,G01C|G08G|H04B|H04W
+12101511,2024-09-24,Subpicture layout and partial output with layers,0,H04N
+12101505,2024-09-24,Fast recolor for video based point cloud coding,0,G06T|H04N
+12101504,2024-09-24,Reference line for directional intra prediction,0,H04N
+12101502,2024-09-24,Methods and devices for refining motion vector candidates,0,H04N
+12101499,2024-09-24,Method and apparatus for palette based coding mode under local dual tree structure,0,H04N
+12101488,2024-09-24,Subblock cross component linear model prediction,0,H04N
+12101473,2024-09-24,Multiple line intra prediction,0,H04N
+12101403,2024-09-24,Interleaved scalar multiplication for elliptic curve cryptography,0,G06F|H04L
+12101107,2024-09-24,Signaling of coding tree unit block partitioning in neural network model compression,0,G06N|H03M|H04N
+12100185,2024-09-24,Non-linear quantization with substitution in neural image compression,0,G06N|G06T|H04N
+12100102,2024-09-24,Image based sampling metric for quality assessment,0,G06T
+12096040,2024-09-17,Disabling coding tool for active color transform,0,H04N
+12096039,2024-09-17,Signaling of flexible maximum allowed number of TPM candidates,0,H04N
+12096030,2024-09-17,Method and apparatus for video coding,0,H04N
+12096000,2024-09-17,Method and apparatus for scene detection based encoding,0,H04N
+12095985,2024-09-17,Method for derivation of picture output for non-referenced picture in coded video stream,0,H04N
+12095984,2024-09-17,Sub-block based constraint on bi-prediction for out-of-boundary conditions,2,H04N
+12095983,2024-09-17,Techniques for deep neural network based inter- frame prediction in video coding,0,G06N|H04N
+12095967,2024-09-17,Bitstream structure for immersive teleconferencing and telepresence for remote terminals,0,G06F|H04L|H04N
+12094481,2024-09-17,ADL-UFE: all deep learning unified front-end system,2,G06N|G10L
+12094060,2024-09-17,Low-poly mesh generation for three-dimensional models,0,G06T
+12088853,2024-09-10,Non-linear mapping based filter use in loop filter chain,0,H04N
+12088836,2024-09-10,Affine linear weighted intra prediction mode,0,H04N
+12088833,2024-09-10,Signaling of number of merge candidates,0,H04N
+12088828,2024-09-10,Method and apparatus for improved warp delta signaling,0,H04N
+12088805,2024-09-10,Context adaptive transform set,0,H04N
+12088801,2024-09-10,Method and apparatus for temporal filter in video coding,0,H04N
+12088793,2024-09-10,Temporal motion vector predictor candidates search,0,H04N
+12088792,2024-09-10,Method and apparatus for further improved context design for prediction mode and coded block flag (CBF),0,H04N
+12086931,2024-09-10,Methods of 3D clothed human reconstruction and animation from monocular image,0,G06T|G06V
+12081792,2024-09-03,Adjacent spatial motion vector predictor candidates improvement,0,H04N
+12081788,2024-09-03,Adaptive motion vector resolution signaling,0,H04N
+12081771,2024-09-03,"Methods, apparatus, and systems for affine chroma subblock motion vector derivation and motion compensation",0,H04N
+12081751,2024-09-03,Geometry partition mode and merge mode with motion vector difference signaling,0,H04N
+12081746,2024-09-03,Methods of simplification of temporal filtering,0,H04N
+12081742,2024-09-03,Intra mode coding,0,H04N
+12081736,2024-09-03,Bi-prediction without signaling cu-level weights,0,H04N
+12081610,2024-09-03,Techniques for multiple conformance points in media coding,0,H03M|H04L|H04N
+12081598,2024-09-03,Redundant cache for reusable immersive media assets,0,H04L
+12080035,2024-09-03,Updates on context modeling of occupancy coding for point cloud coding,0,G06T
+12079925,2024-09-03,Occluder generation for structures in digital applications,0,G06T
+12075068,2024-08-27,Conditions for applying DMVR/BDOF,0,H04N
+12075063,2024-08-27,Unified vector and offset signaling for inter prediction and intra block copy,0,H04N
+12075060,2024-08-27,Alternative merge mode with motion vector difference by using template-matching,0,H04N
+12075059,2024-08-27,Method and apparatus for improved signaling of motion vector difference,0,H04N
+12074918,2024-08-27,Network-based Media Processing (NBMP) workflow management through 5G Framework for Live Uplink Streaming (FLUS) control,0,G06F|H04L
+12069321,2024-08-20,Data model for representation and streaming of heterogeneous immersive media,0,G06F|H04L|H04N
+12069313,2024-08-20,Method for picture output with output layer set,0,H04N
+12069310,2024-08-20,Techniques for constraint flag signaling for range extension,0,H04N
+12069305,2024-08-20,Low memory design for multiple reference line selection scheme,0,H04N
+12069274,2024-08-20,Context derivation for motion vector difference coding,0,H04N
+12069269,2024-08-20,Systems and methods for encoding a video stream,0,H04N
+12069125,2024-08-20,Method for switching workflow or updating workflow with continuity and no interruption in dataflow,0,H04L
+12067753,2024-08-20,2D UV atlas sampling based methods for dynamic mesh compression,0,G06T|H04N
+12063355,2024-08-13,Subblock based motion vector predictor displacement vector reordering using template matching,0,H04N
+12062206,2024-08-13,Methods of estimating pose graph and transformation matrix between cameras by recognizing markers on the ground in panorama images,0,G06T
+12062150,2024-08-13,Method and apparatus for block-wise neural image compression with post filtering,0,G06N|G06T|H04N
+12058414,2024-08-06,"Methods, devices, and computer readable medium for processing alternative media presentation description",0,H04L|H04N
+12058357,2024-08-06,Method for signaling subpicture partitioning in coded video stream,0,H04N
+12058346,2024-08-06,Bitstream conformance for intra block copy,0,H04N
+12058332,2024-08-06,Sign prediction,0,H04N
+12058327,2024-08-06,Method and apparatus for intra string copy,0,H04N
+12058321,2024-08-06,Method and apparatus for video coding,0,G06N|H04N
+12058316,2024-08-06,Adjacent spatial motion vector predictor candidates improvement,0,H04N
+12058314,2024-08-06,Block-wise content-adaptive online training in neural image compression with post filtering,0,H04N
+12058193,2024-08-06,Bidirectional presentation datastream,0,H04L
+12058191,2024-08-06,Processing model for dash client processing model to support handling of dash event updates,0,H04L
+12056904,2024-08-06,Mesh compression with constrained geometry dynamic range,0,G06T|H04N
+12052693,2024-07-30,Method and apparatus for defining egest configuration and protocols in 5G uplink streaming,0,H04L|H04W
+12052441,2024-07-30,Signaling of inter layer prediction in video bitstream,0,H04N
+12052438,2024-07-30,Method and apparatus for intra block copy (IntraBC) mode coding with search range restrictions,0,H04N
+12052437,2024-07-30,Systems and methods for explicit signaling of scaling factors for joint coding of motion vector difference,0,H04N
+12052431,2024-07-30,Techniques for signaling combination of reference picture resampling and spatial scalability,0,H04N
+12052422,2024-07-30,Cross-component planar prediction in image and video compression,0,H04N
+12052301,2024-07-30,Methods and systems for describing connectivity between media processing entities,0,G06F|H04L
+12047593,2024-07-23,Method and apparatus for video coding,0,H04N
+12047589,2024-07-23,Deriving offsets in cross-component transform coefficient level reconstruction,0,H04N
+12047586,2024-07-23,Method and apparatus for inter prediction mode dependent scaling factors,0,H04N
+12047581,2024-07-23,Template-matching based adaptive motion vector resolution (AMVR),2,H04N
+12047576,2024-07-23,Adaptive chroma intra mode coding in video compression,0,H04N
+12047306,2024-07-23,First-in first-out function for segmented data stream processing,0,G06F|H04L
+12045940,2024-07-23,Method for streaming dynamic 5G AR/MR experience to 5G devices with updatable scenes,0,G06T|G06V|H04L|H04N|H04W
+12045939,2024-07-23,"Multi-agent path planning method and device, and storage medium",0,G06T
+12045650,2024-07-23,Extensible schemes and scheme signaling for cloud based processing,0,G06F
+12044845,2024-07-23,Towards subsiding motion sickness for viewport sharing for teleconferencing and telepresence for remote terminals,0,G02B|G06F|H04L|H04N
+12041260,2024-07-16,Adaptive parameter selection for cross-component prediction in image and video compression,1,H04N
+12041255,2024-07-16,Constraint of intra mode for geometric partition mode with inter and intra prediction,0,H04N
+12034978,2024-07-09,Lower-complexity sample offset filter,0,H04N
+12034968,2024-07-09,Method for wrap-around padding for omnidirectional media coding,0,H04N
+12034955,2024-07-09,Method for signaling mixed NAL unit type and subpicture partitioning coded video stream,0,H04N
+12034932,2024-07-09,Constrained template matching,0,H04N
+12034789,2024-07-09,Extensible request signaling for adaptive streaming parameterization,0,H04L
+12033435,2024-07-09,Vision-based motion capture system for rehabilitation training,0,A63B|G06N|G06T|G06V
+12032916,2024-07-09,Structure self-aware model for discourse parsing on multi-party dialogues,0,G06F|G06N
+12028551,2024-07-02,Signaling of scalability parameters in video bitstream,0,H04N
+12028550,2024-07-02,Line graph transforms (LGT) using 8-bit and 10-bit cores,0,G06F|H04N
+12028515,2024-07-02,Non-directional intra prediction for L-shaped partitions,0,H04N
+12022112,2024-06-25,MVD scaling for joint MVD coding,0,H04N
+12022106,2024-06-25,Joint motion vector difference coding,0,H04N
+12021949,2024-06-25,Method for application context transfer between edge servers in 5G networks,0,H04L|H04W
+12020461,2024-06-25,Method and apparatus for Haar-based point cloud coding,0,G06T|H04N
+12015765,2024-06-18,Template matching based intra prediction,0,H04N
+12010343,2024-06-11,Mode-dependent joint component transform,1,H04N
+12010340,2024-06-11,Intra block copy search range,1,H04N
+12010316,2024-06-11,Modification on fusion of intra prediction,0,H04N
+12010310,2024-06-11,"Method and apparatus for quantization, adaptive block partitioning and codebook coding for neural network model compression",0,G06N|H04N
+12010306,2024-06-11,L-type partitioning tree,0,A47L|H04N
+12010159,2024-06-11,Triggering of edge server discovery and instantiation by a 5GMS-aware application,1,H04L
+12003792,2024-06-04,Adaptation of 2D video for streaming to heterogenous client end-points,1,G06F|G06N|H04N
+12003749,2024-06-04,Mapping intra prediction modes to wide angle modes,0,H04N
+12003748,2024-06-04,Determination of a maximum number of merge candidates in subblock based merge candidate lists,0,H04N
+12003747,2024-06-04,Method for output layer set signaling in scalable video stream,0,H04N
+12003739,2024-06-04,Cross component intra prediction mode,0,H04N
+12003725,2024-06-04,Signaling method for chroma intra prediction mode,0,G06Q|H04N
+12003601,2024-06-04,Method and apparatus for split rendering for lightfield/immersive media using proxy edge cloud architecture,0,H04L
+12001795,2024-06-04,Extractive method for speaker identification in texts with self-training,0,G06F|G06N
+11997317,2024-05-28,Techniques for constraint flag signaling for range extension with persistent rice adaptation,2,H03M|H04N
+11997299,2024-05-28,Scaling an output offset value in a cross-component sample offset filter,0,H04N
+11995542,2024-05-28,Dialogue model training based on reference-free discriminators,0,G06F|G06N|G10L
+11995111,2024-05-28,Efficient and compact text matching system for sentence pairs,0,G06F|G06N
+11991424,2024-05-21,Immersive media data complexity analyzer for transformation of asset formats,0,H04N
+11991395,2024-05-21,Techniques for constraint flag signaling for range extension with rice coding,1,H04N
+11991377,2024-05-21,Method and apparatus for video coding,0,H04N
+11991364,2024-05-21,Adaptive resolution for motion vector difference,0,H04N
+11991360,2024-05-21,Method and apparatus for secondary transform with adaptive kernel options,0,H04N
+11986307,2024-05-21,Digital signal processing assistant modeling method for biosignal analysis,0,A61B|G06N|G16H
+11985381,2024-05-14,Mapping architecture of immersive technologies media format (ITMF) specification with rendering engines,0,H04L|H04N
+11985351,2024-05-14,Fast method for implementing discrete sine transform type VII (DST 7),0,G06F|H04N
+11985342,2024-05-14,Signaling of flag indicating zero motion vector difference for a control point,0,H04N
+11983907,2024-05-14,Techniques and apparatus for explicit quad-tree and binary-tree partitioning for geometry coding,0,G06T|H04N
+11983214,2024-05-14,Reuse of redundant assets with client query,0,G06F|H04N
+11979606,2024-05-07,Conditional recolor for video based point cloud coding,0,G06T|H04N
+11979603,2024-05-07,Method and apparatus for video coding,0,H04N
+11979596,2024-05-07,Joint coding for adaptive motion vector difference resolution,1,H04N
+11979592,2024-05-07,Determining a motion vector type based on a weight index at a sample position in a coding block partitioned in geometric partitioning mode,0,H04N
+11979586,2024-05-07,Method and apparatus for video coding,0,H04N
+11979565,2024-05-07,Content-adaptive online training method and apparatus for post-filtering,0,G06N|H04N
+11979560,2024-05-07,Intra block copy with an adaptive local reference range,0,H04N
+11978145,2024-05-07,Expression generation for animation object,0,G06T|G06V
+11978142,2024-05-07,Method and device for synthesizing motion sequence of virtual object,4,G06F|G06T|G06V
+11973990,2024-04-30,Signaling for modified deblocking filter operations,0,H04N
+11973937,2024-04-30,Signaling of maximum number of triangle merge candidates,0,H04N
+11973820,2024-04-30,Method and apparatus for mpeg dash to support preroll and midroll content during media playback,0,H04L|H04N
+11973817,2024-04-30,Bandwidth cap signaling using combo-index segment track in media streaming,0,H04L
+11972047,2024-04-30,Control method and device for near eye display system,0,G06F|G09G
+11968365,2024-04-23,Adjusting a slice level quantization parameter (QP) based on a maximum QP value,0,H04N
+11967120,2024-04-23,Attribute coding of duplicate points for point cloud coding,0,G06T|H03M|H04N
+11967025,2024-04-23,Detection of boundary loops in non-manifold meshes,0,G06T
+11966999,2024-04-23,Real-time simulation using material point method on graphics processing units,0,G06T
+11962867,2024-04-16,Asset reusability for lightfield/holographic media,0,G03H|H04N
+11962794,2024-04-16,Hierarchical tiles,1,H04N
+11962772,2024-04-16,Flexible block partitioning for chroma component,0,H04N
+11956478,2024-04-09,Method and apparatus for point cloud chunking for improved patch packing and coding efficiency,0,H04N
+11956461,2024-04-09,Method and apparatus for video coding,0,H04N
+11956457,2024-04-09,Techniques for random access point indication and picture output in coded video stream,0,H04N
+11956456,2024-04-09,Selective updating of HMVP table based on coded inter coded block,0,H04N
+11956453,2024-04-09,Content-adaptive online training for DNN-based cross component prediction with scaling factors,0,H04N
+11956442,2024-04-09,Method for mixed NAL unit type support in a coded picture,0,H04N
+11956409,2024-04-09,Immersive media interoperability,0,G06F|H04N
+11956281,2024-04-09,Method and apparatus for edge application server discovery or instantiation by application provider to run media streaming and services on 5G networks,0,H04L
+11954136,2024-04-09,Method and apparatus for multi-view conversational query production,0,G06F|G06N
+11949902,2024-04-02,Method and apparatus for video coding,0,H04N
+11949898,2024-04-02,Delta angle signaling method for luma blocks,0,H04N
+11949896,2024-04-02,Chroma quad tree split constraint,0,H04N
+11949895,2024-04-02,Method and apparatus for determining an inherited affine parameter from an affine model,0,H04N
+11949894,2024-04-02,Method and apparatus for string matching with reference location constraints,2,H03M|H04N
+11949892,2024-04-02,Content-adaptive online training for DNN-based cross component prediction with low-bit precision,0,G06N|H04N
+11949866,2024-04-02,High-level syntax control on implicit transform,0,H04N
+11949863,2024-04-02,Geometric partition mode with intra block copy,0,H04N
+11949862,2024-04-02,Method and apparatus for video coding,0,H04N
+11949856,2024-04-02,Intra mode selection in intra prediction,0,H04N
+11949855,2024-04-02,Method and apparatus for video coding,0,H04N
+11949854,2024-04-02,Method and apparatus for video coding,0,H04N
+11949850,2024-04-02,Constrained intra prediction and unified most probable mode list generation,0,H04N
+11949849,2024-04-02,Intra prediction for square and non-square blocks in video compression,0,H04N
+11949726,2024-04-02,Unification of rice parameter lookup table,0,G06F|H04L|H04N
+11948336,2024-04-02,Method and apparatus for point cloud coding,1,G06T|H04N
+11948090,2024-04-02,Method and apparatus for video coding,0,G06F|G06N|G06T
+11943462,2024-03-26,Signaling of constraint flags using gate flag in coded video stream,0,H04N
+11943448,2024-03-26,Joint coding of motion vector difference,1,H04N
+11943446,2024-03-26,Method for signaling of reference picture resampling with resampling picture size indication in video bitstream,0,H04N
+11943435,2024-03-26,Method and apparatus for decoding using reference line index based on intra prediction mode,0,H04N
+11943432,2024-03-26,Decoder side intra mode derivation,0,H04N
+11943271,2024-03-26,Reference of neural network model by immersive media for adaptation of media for streaming to heterogenous client end-points,0,G06N|G06T|H04L
+11943073,2024-03-26,Multiple grouping for immersive teleconferencing and telepresence,0,H04L|H04N
+11941856,2024-03-26,Predictive tree-based geometry coding for a point cloud,0,G06T
+11936913,2024-03-19,Warping-based decoded picture resampling supplementary enhancement information message,0,H04N
+11936912,2024-03-19,Method and apparatus for temporal smoothing for video,0,G06T|H04N
+11936903,2024-03-19,Bilateral matching based scaling factor derivation for JMVD,0,H04N
+11936891,2024-03-19,Method for derivation on sublayer-wise output layer set,0,H04N
+11936880,2024-03-19,Method for signaling output subpicture layer set,0,H04N
+11935271,2024-03-19,Neural network model compression with selective structured weight unification,0,G06N|G06T|H04N
+11930499,2024-03-12,Network monitoring in service enabler architecture layer (SEAL),0,H04L|H04W
+11930254,2024-03-12,Patchable remote element for data manipulation,1,H04L|H04N
+11930217,2024-03-12,Method for padding processing with sub-region partitions in video stream,1,H04N
+11930214,2024-03-12,"Method, apparatus and medium for decoding or encoding",0,H04N
+11930211,2024-03-12,Method and system for intra mode coding,0,H04N
+11930208,2024-03-12,Method and apparatus for signaling skip mode flag,1,H04N
+11930200,2024-03-12,Method and apparatus for video coding,0,H04N
+11930187,2024-03-12,Interactions between decoder-side intra mode derivation and adaptive intra prediction modes,0,H04N
+11930186,2024-03-12,Method and apparatus for video coding,0,H04N
+11930177,2024-03-12,Primary transforms for cross-component level reconstruction,0,H04N
+11930167,2024-03-12,Wide-angle intra prediction,0,H04N
+11930164,2024-03-12,Selection of explicit mode or implicit mode in intra block copy coding,0,H04N
+11930064,2024-03-12,Query signaling in media presentation description,0,H04L|H04N
+11930059,2024-03-12,Immersive media streaming prioritized by frequency of asset reuse,0,H04L|H04N
+11924468,2024-03-05,Implicit quadtree or binary-tree geometry partition for point cloud coding,0,H04N
+11924461,2024-03-05,Decoder side MV derivation and refinement,0,H04N
+11924434,2024-03-05,2D atlas adaptive sampling in 3D mesh compression,0,G06T|H04N
+11924415,2024-03-05,Method and apparatus for boundary handling in video coding,0,H04N
+11924408,2024-03-05,Method and apparatus for video coding,1,H04N
+11922664,2024-03-05,Method and apparatus of adaptive sampling for mesh compression by decoders,0,G06T|H04N
+11917283,2024-02-27,Split rendering for lightfield/immersive media using edge-cloud architecture and peer-to-peer streaming,0,G06F|H04L|H04N
+11917269,2024-02-27,Multidimensional metadata for parallel processing of segmented media data,1,H04N
+11917209,2024-02-27,Context model reduction for transform coefficients entropy coding,0,H04N
+11917205,2024-02-27,Techniques and apparatus for scalable lifting for point-cloud attribute coding,0,H04N
+11917202,2024-02-27,Method and apparatus for frequency-dependent joint component secondary transform,0,H04N
+11917175,2024-02-27,Method and apparatus for video coding,0,H04N
+11917165,2024-02-27,MMVD signaling improvement,0,H04N
+11917164,2024-02-27,Method and apparatus for video coding,0,H04N
+11917162,2024-02-27,Content-adaptive online training with feature substitution in neural image compression,0,H04N
+11917154,2024-02-27,End-to-end neural compression with deep reinforcement learning,0,G06N|H04N
+11917137,2024-02-27,Methods and apparatus for multiple line intra prediction in video compression,0,H04N
+11917136,2024-02-27,Intra mode coding,0,H04N
+11917034,2024-02-27,Deployment of workflow tasks with fixed preconfigured parameters in cloud-based media applications,0,G06F|H04L
+11916982,2024-02-27,Techniques for signaling multiple audio mixing gains for teleconferencing and telepresence for remote terminals using RTCP feedback,0,H04L|H04N
+11915457,2024-02-27,Method and apparatus for adaptive neural image compression with rate control by meta-learning,0,G06N|G06T|H04N
+11914922,2024-02-27,Audio mixing for teleconferencing,0,G06F|G10L|H04L|H04M|H04N|H04R
+11910412,2024-02-20,Media sink capabilities description,0,G06F|H04L|H04W
+11909991,2024-02-20,Restrictions on picture width and height,0,H04N
+11909987,2024-02-20,Video coding method and device for avoiding small chroma block intra prediction,0,H04N
+11909976,2024-02-20,Method and apparatus for improved context design for prediction mode and coded block flag (CBF),0,H04N
+11909975,2024-02-20,Dependent scalar quantization with substitution in neural image compression,0,G06N|H04N
+11909956,2024-02-20,DNN-based cross component prediction,0,G06N|H04N
+11909780,2024-02-20,Enabling vertical application layer server for peer-to-peer media parameter negotiation,0,H04L
+11908103,2024-02-20,Multi-scale-factor image super resolution with micro-structured masks,0,G06N|G06T
+11908080,2024-02-20,Generating surfaces with arbitrary topologies using signed distance fields,0,G06T|G06V
+11902757,2024-02-13,Techniques for unified acoustic echo suppression using a recurrent neural network,2,G05B|G05F|G06N|G06Q|G10L|H04M|H04R
+11902585,2024-02-13,Method for signaling subpicture identifier,0,H04N
+11902584,2024-02-13,Signaling of picture header parameters,1,H04N
+11902545,2024-02-13,Color transform for video coding,1,H04N
+11902517,2024-02-13,Method and system for adaptive cross-component filtering,0,H04N
+11902514,2024-02-13,Method and apparatus for multi-line intra prediction,1,H04N
+11902345,2024-02-13,Method and apparatus for contribution reporting of uplink streaming in 5G networks,0,H04L
+11902337,2024-02-13,Methods for discovery of media capabilities of 5G edge,0,G06F|H04L|H04N|H04W
+11900640,2024-02-13,Method and apparatus for substitutional neural residual compression,0,G06N|G06T|H04N
+11900544,2024-02-13,Low-poly mesh generation for three-dimensional models,0,G06T
+11895339,2024-02-06,Generation of chroma components using cross-component adaptive loop filters,0,H04N
+11895304,2024-02-06,Methods and apparatus for improvement for intra-inter prediction mode,0,H04N
+11895172,2024-02-06,Session-based description URL customization using the session-based DASH operations,1,H04L|H04N
+11893691,2024-02-06,Point cloud geometry upsampling,0,G06T|H04N
+11889506,2024-01-30,Method and apparatus for configuring 5G application servers in connected uplink-to-downlink streaming,0,H04L|H04W
+11889112,2024-01-30,Block-wise content-adaptive online training in neural image compression,0,G06N|H04N
+11889086,2024-01-30,Method and apparatus for video coding,0,H04N
+11882313,2024-01-23,Method and apparatus for video encoding or decoding,0,H04N
+11882312,2024-01-23,Network abstraction layer unit header,0,H04N
+11882301,2024-01-23,Modified quantizer,0,G06F|H04N
+11882298,2024-01-23,Signaling of video coding tools supporting various chroma format,0,H04N
+11882278,2024-01-23,Geometric cross-component filtering,0,H04N
+11882170,2024-01-23,Extended W3C media extensions for processing dash and CMAF inband events,0,H04L|H04N
+11877033,2024-01-16,Qualification test in subject scoring,0,G06F|G06T|H04N
+11877007,2024-01-16,Methods of coding duplicate and isolated points for point cloud coding,0,G06T|H04N
+11877004,2024-01-16,Constraining motion vectors of groups of blocks,0,H04N
+11876988,2024-01-16,Method and apparatus for task-adaptive pre-processing for neural image compression,0,G06F|G06N|G06V|H04N
+11876978,2024-01-16,Intra prediction mode information propagation for geometric partition mode with IBC and intra prediction,0,H04N
+11876975,2024-01-16,Coding tree unit size signaling,0,H04N
+11876970,2024-01-16,Non-interleaved separate tree,0,H04N
+11876965,2024-01-16,Method and system for single loop multilayer coding with subpicture partitioning,0,H04N
+11876730,2024-01-16,Method and apparatus for using high availability controller with local area network (LAN) for local cloud,0,G06F|H04L
+11875495,2024-01-16,Methods of video quality assessment using parametric and pixel level models,0,G06T|H04N
+11871043,2024-01-09,Method and apparatus for three-dimensional (3D)-tree coding for neural network model compression,1,G06N|H04N
+11871038,2024-01-09,Techniques for constraint flag signaling for range extension with residual rice coding extension,0,H04N
+11871013,2024-01-09,Signaling of reference picture resampling with constant window size indication in video bitstream,0,H04N
+11868344,2024-01-09,"System, method, and computer program for cross-lingual text-to-SQL semantic parsing with representation mixup",0,G06F
+11863790,2024-01-02,Tuned line graph transforms,0,H04N
+11863789,2024-01-02,Method for signaling rectangular slice partitioning in coded video stream,0,H04N
+11863780,2024-01-02,Method for indication of sublayer numbers in multilayered video stream,0,H04L|H04N
+11863775,2024-01-02,Cross-component transform coefficient level reconstruction,0,H04N
+11863774,2024-01-02,Method and apparatus for video coding,0,H04N
+11863773,2024-01-02,Method for support of scalability with adaptive picture resolution,0,H04N
+11863744,2024-01-02,Context modeling for spilt flag,0,H04N
+11861411,2024-01-02,Variable and event reporting in a cloud service system,0,G06F
+11860098,2024-01-02,Method and device for three-dimensional object scanning with invisible markers,1,G01B|G01N|G06F|G06T|G06V
+11856225,2023-12-26,Methods for efficient application of LGT,0,H04N
+11849146,2023-12-19,"Method, apparatus and medium for decoding",0,H04N
+11849118,2023-12-19,Content-adaptive online training with image substitution in neural image compression,0,H04N
+11849115,2023-12-19,Complexity reduction for 32-p and 64-p LGT,0,G06F|H04L|H04N
+11847377,2023-12-19,Method and apparatus for audio mixing,1,G06F|G10L|H04L|H04M|H04N|H04R
+11843802,2023-12-12,Methods of intra picture block prediction for multi-view video compression,0,H04N
+11843782,2023-12-12,Signaling output picture size for reference picture resampling,0,H04N
+11843767,2023-12-12,Method to extend the range of rice parameter for residual coding in transform skip mode,0,G06F|H04N
+11838602,2023-12-05,MPD chaining in a live CMAF/DASH player using W3C media source and encrypted extensions,0,H04N
+11838528,2023-12-05,Defining transform size and subblock transform based on adaptive color transform,0,G06T|H04N
+11838522,2023-12-05,Method and apparatus for video coding,0,G06N|H04N
+11838498,2023-12-05,Harmonized design for intra bi-prediction and multiple reference line selection,0,H04N
+11838489,2023-12-05,Event-based trigger interval for signaling of RTCP viewport for immersive teleconferencing and telepresence for remote terminals,0,H04N
+11838390,2023-12-05,Function repository selection mode and signaling for cloud based processing,0,H04L|H04N
+11838341,2023-12-05,Signaling schemes in events message tracks,0,H04L
+11833419,2023-12-05,Method and apparatus for cloud gaming,0,A63F|H04N
+11831920,2023-11-28,Method and apparatus for video coding,0,G06V|H04N
+11831911,2023-11-28,Method and apparatus for video coding,0,H04N
+11831889,2023-11-28,Method and apparatus for improved implicit transform selection,0,H04N
+11825128,2023-11-21,Method and apparatus for dynamic point cloud partition packing,0,H04N
+11825121,2023-11-21,Method for access unit delimiter signaling,0,H04N
+11825118,2023-11-21,Method and apparatus for a primary transform using an 8-bit transform core,1,G06F|H04N
+11825107,2023-11-21,Method for parameter set reference in coded video stream,0,H04N
+11825095,2023-11-21,Signaling of reference picture resampling with resampling picture size indication in video bitstream,0,H04N
+11825072,2023-11-21,Method and device for MPM list generation for multi-line intra prediction,0,H04N
+11822884,2023-11-21,Unified model for zero pronoun recovery and resolution,0,G06F
+11822555,2023-11-21,Signaling and resolution model for multi-level session-based description descriptors,0,G06F|H04L
+11818399,2023-11-14,Techniques for signaling neural network topology and parameters in the coded video stream,0,G06N|H04N
+11818377,2023-11-14,Method and apparatus for video coding,1,H04N
+11818366,2023-11-14,Method and apparatus for intra mode coding,0,H04N
+11818343,2023-11-14,Sample offset with predefined filters,2,H04N
+11818189,2023-11-14,Method and apparatus for media streaming,1,H04L|H04N
+11816869,2023-11-14,Updates on context modeling of occupancy coding for point cloud coding,0,G06T
+11816868,2023-11-14,Coding of multiple-component attributes for point cloud coding,1,G06N|G06T|H04N
+11812065,2023-11-07,Method and apparatus for filtering,1,H04N
+11812058,2023-11-07,Methods of coding attributes for point cloud coding,0,G06T|H04N
+11812037,2023-11-07,Method and apparatus for video coding,0,H04N
+11812035,2023-11-07,Method for alignment across layers in coded video stream,0,H04N
+11811429,2023-11-07,Variational dropout with smoothness regularization for neural network model compression,0,G06F|G06N|G06V|H03M
+11810331,2023-11-07,Neural image compression with latent feature-domain intra-prediction,0,G06N|G06T|H04N
+11810297,2023-11-07,Computer aided diagnosis system for detecting tissue lesion on microscopy images based on multi-resolution feature fusion,0,G06F|G06N|G06T|G06V
+11810250,2023-11-07,Systems and methods of hierarchical implicit representation in octree for 3D modeling,1,G06N|G06T
+11805277,2023-10-31,Reducing context models for entropy coding of transform coefficients,0,H04N
+11805251,2023-10-31,Shift based cross-component adaptive loop filter,0,H04N
+11803988,2023-10-31,Method and apparatus for adaptive image compression with flexible hyperprior model by meta learning,0,G06F|G06N|G06T|H04N
+11803618,2023-10-31,N-best softmax smoothing for minimum bayes risk training of attention based sequence-to-sequence models,0,G06F|G06N|G06V|G10L
+11800184,2023-10-24,Method and apparatus for media scene description,0,G06T|H04N
+11800149,2023-10-24,Coding image slices using a still picture profile,0,H04N
+11800138,2023-10-24,Method and apparatus for video coding,0,H04N
+11800135,2023-10-24,Method for wrap around motion compensation with reference picture resampling,0,H04N
+11800133,2023-10-24,Method and apparatus for video coding,0,G06V|H04N
+11800126,2023-10-24,Video encoding using a directional mode and a non-separable transform,0,H04N
+11800118,2023-10-24,Method and apparatus for video coding,0,H04N
+11800110,2023-10-24,Adaptive scanning with multiple transform selection,0,H04N
+11800106,2023-10-24,Flexible picture partitioning,0,H03M|H04N
+11800101,2023-10-24,"Method for slice, tile and brick signaling",0,H04N
+11800100,2023-10-24,Method and apparatus for sub-block based temporal motion vector prediction,0,H04N
+11800096,2023-10-24,Method for signaling virtual boundary signaling with subpictures in coded video stream,0,H04N
+11800092,2023-10-24,Joint signaling method for motion vector difference,1,H04N
+11800091,2023-10-24,Method and apparatus for intra block copy in intra-inter blending mode and triangle prediction unit mode,0,H04N
+11799943,2023-10-24,Method and apparatus for supporting preroll and midroll during media streaming and playback,0,H04L
+11799937,2023-10-24,CMAF content preparation template using NBMP workflow description document format in 5G networks,0,H04L|H04N
+11797476,2023-10-24,Method and apparatus for media scene description,0,G06F|G06T|H04N
+11797475,2023-10-24,Method and apparatus for media scene description,0,G06F|G06T|H04N
+11792432,2023-10-17,Techniques for signaling and identifying access unit boundaries,0,H04N
+11792431,2023-10-17,Orthogonal transform generation with subspace constraint,0,H04N
+11792403,2023-10-17,Method and apparatus for video coding using geometric partitioning mode,0,H04N
+11792391,2023-10-17,Neural network based coefficient sign prediction,0,G06N|H04N
+11792249,2023-10-17,Event-driven provisioning of new edge servers in 5G media streaming architecture,0,H04L|H04W
+11792248,2023-10-17,Methods and apparatuses for dynamic adaptive streaming over http,0,H04L|H04N
+11792131,2023-10-17,Techniques for receiver enforcement of load-balancing steering mode,0,H04L
+11791837,2023-10-17,Method and apparatus for neural network model compression/decompression,0,G06N|H03M|H04N
+11790566,2023-10-17,Method and apparatus for feature substitution for end-to-end image compression,0,G06N|G06T|H04N
+11789771,2023-10-17,Method and apparatus for a step-enabled workflow,0,G06F|G06Q
+11785283,2023-10-10,Determining a starting time for a session-based description file,0,H04N
+11785254,2023-10-10,Implicit mode dependent primary transforms,0,H04N
+11785240,2023-10-10,Extension of effective search range for current picture referencing,0,H04N
+11785239,2023-10-10,Independent coded region output supplementary enhancement information message,0,H04N
+11785213,2023-10-10,Method and apparatus for video filtering,0,H04N
+11785212,2023-10-10,Mode list generation for multi-line intra prediction,0,H04N
+11785067,2023-10-10,Session-based information for dynamic adaptive streaming over HTTP,0,H04L|H04N
+11783512,2023-10-10,Attribute value of reconstructed position associated with plural original points,0,G06T|H04N
+11782971,2023-10-10,Static and dynamic NBMP function image retrieval and scale ranking,0,G06F
+11782751,2023-10-10,Method and apparatus for improvements to moving picture experts group network based media processing,0,G06F|H04L
+11778218,2023-10-03,Method and apparatus for cross-component filtering,0,H04N
+11778217,2023-10-03,High level syntax control for screen content coding,0,H04N
+11778216,2023-10-03,Signaling of cu based interpolation filter selection,0,H04N
+11778214,2023-10-03,Method and apparatus for video coding,1,H04N
+11778185,2023-10-03,Method and apparatus for signaling of chroma quantization parameters,0,H04N
+11776556,2023-10-03,Unified deep neural network model for acoustic echo cancellation and residual echo suppression,1,G06N|G10L|H04R
+11775350,2023-10-03,Compute resource estimation for function implementation on computing platform,0,G06F|H04L
+11770440,2023-09-26,Events message tracks types and mixed event message tracks,0,G06F|H04L|H04N
+11770433,2023-09-26,Flexible interoperability and capability signaling using initialization hierarchy,0,H04L|H04N
+11765399,2023-09-19,Method and apparatus for video coding,0,H04N
+11765391,2023-09-19,Supplemental enhancement information messages for neural network based video post processing,0,G06N|H04N
+11765376,2023-09-19,Pruning methods and apparatuses for neural network based video coding,0,G06N|H04N
+11765373,2023-09-19,Method for layerwise random access in a coded video stream,0,H04N
+11765371,2023-09-19,Method for adaptation parameter set reference and constraints in coded video stream,1,H04N
+11765346,2023-09-19,Most probable mode list generation scheme,1,H04N
+11765344,2023-09-19,Signaling of inter layer prediction in video bitstream,0,H04N
+11765236,2023-09-19,Efficient and extensive function groups with multi-instance function support for cloud based processing,0,G06F|H04L|H04N
+11765218,2023-09-19,Method for discovery of media service entry for uplink and downlink streaming in 5G networks,0,H04L|H04W
+11763944,2023-09-19,System and method for clinical decision support system with inquiry based on reinforcement learning,0,G06N|G16H
+11763493,2023-09-19,Method and apparatus for tree-based point cloud compression (PCC) media stream using moving picture experts group (MPEG)-dynamic adaptive streaming over HTTP (DASH),0,G06T|H04N
+11758186,2023-09-12,Chroma mode video coding,0,H04N
+11758180,2023-09-12,Video coding based on multiple sets of subblock motion vectors,0,H04N
+11758169,2023-09-12,Block partitioning at picture boundaries,0,H04N
+11758168,2023-09-12,Content-adaptive online training with scaling factors and/or offsets in neural image compression,0,G06N|H04N
+11758167,2023-09-12,Method and apparatus for video coding,0,H04N
+11758165,2023-09-12,Method for identification of random access point and picture types,0,H04N
+11758164,2023-09-12,Method and apparatus for video coding,0,H04N
+11758157,2023-09-12,Method and apparatus for video coding,0,H04N
+11758154,2023-09-12,Method and apparatus for signaling an offset in video coding for intra block copy and/or inter prediction,0,H04N
+11758152,2023-09-12,Method and apparatus for video coding using planar intra prediction mode for intra sub-partition coding mode,0,H04N
+11750847,2023-09-05,Quality-adaptive neural network-based loop filter with smooth quality control by meta-learning,0,H04N
+11750846,2023-09-05,Method and apparatus for video filtering,1,H04N
+11750843,2023-09-05,Multiview-related supplementary enhancement information messages,0,H04N
+11750839,2023-09-05,Method and apparatus for point cloud compression,1,H04N
+11750831,2023-09-05,Method and apparatus for video coding,0,H04N
+11750828,2023-09-05,Inter prediction coding within a merge sharing region,0,H04N
+11750812,2023-09-05,Quantizer for lossless and near-lossless compression,0,H04N
+11750678,2023-09-05,Manifest based CMAF content preparation template for 5G networks,0,H04L
+11750676,2023-09-05,Network-based media processing (NBMP) deployment with framework for live uplink streaming (FLUS) and 5G application function (AF),0,H04L
+11748729,2023-09-05,Method and apparatus for video coding,0,G06Q|H04N
+11743512,2023-08-29,Methods for NBMP deployments through 5G FLUS control,0,G06F|H04L|H04N
+11743507,2023-08-29,Method and apparatus for video filtering,2,H04N
+11743500,2023-08-29,Signaling of scalability parameters in video bitstream,0,H04N
+11743498,2023-08-29,Implicit quadtree or binary-tree geometry partition for point cloud coding,2,H04N
+11743462,2023-08-29,Tile and sub-picture partitioning,0,H04N
+11743457,2023-08-29,Intra interpolation filter for multi-line intra prediction,0,G06T|H04N
+11743442,2023-08-29,Bitstream structure for immersive teleconferencing and telepresence for remote terminals,0,G06F|H04L|H04N
+11743307,2023-08-29,"Nonessential input, output and task signaling in workflows on cloud platforms",0,G06F|H04L
+11741637,2023-08-29,Node-based geometry and attribute coding for a point cloud,0,G06T|H04N
+11741635,2023-08-29,Partitioning a 3D space based on dimensions of the 3D space,0,G06T|H04N
+11736761,2023-08-22,Methods for media streaming content preparation for an application provider in 5G networks,0,H04L|H04N
+11736748,2023-08-22,Reference of neural network model for adaptation of 2D video for streaming to heterogeneous client end-points,0,G06N|H04N
+11736726,2023-08-22,Parallel encoding for point cloud compression,1,H04N
+11736720,2023-08-22,Motion vector refinement methods for video encoding,0,H04N
+11736714,2023-08-22,Candidate list size for intra block copy,0,H04N
+11736713,2023-08-22,Constraint on affine model motion vector,0,H04N
+11736710,2023-08-22,Method and apparatus for video coding,0,H04N
+11736709,2023-08-22,Method and apparatus for video coding,0,H04N
+11736708,2023-08-22,Method and apparatus for video coding,0,H04N
+11736690,2023-08-22,Cross-component adaptive loop filter,0,H04N
+11736685,2023-08-22,Reference sample padding and filtering for intra prediction in video compression,0,H04N
+11736589,2023-08-22,Systems and methods for acknowledgement in media processing,0,H04L
+11735174,2023-08-22,Video-aided unsupervised grammar induction,0,G06F|G06N|G06V|G10L
+11734163,2023-08-22,Machine learning model full life cycle management framework,0,G06F|G06N
+11734016,2023-08-22,Method and apparatus for stateless parallel processing of tasks and workflows,0,G06F
+11729429,2023-08-15,Method for picture output with output layer set,0,H04N
+11729399,2023-08-15,Video coding method and device for avoiding small chroma block intra prediction,0,H04N
+11729379,2023-08-15,String matching with a single value from reference locations,1,H03M|H04N
+11729261,2023-08-15,Systems and methods for unmanned aerial system communication,0,H04L|H04W
+11727536,2023-08-15,Method and apparatus for geometric smoothing,0,G06T|H04N
+11722701,2023-08-08,Signaling of coding tools for encoding a video component as monochrome video,0,H04N
+11722700,2023-08-08,Method and apparatus for video coding,0,H04N
+11722695,2023-08-08,Method and apparatus for predictor candidate list size signaling for intra picture block compensation,0,H04N
+11722687,2023-08-08,Efficient signaling of picture size and partitioning information,0,H04N
+11722686,2023-08-08,Method and apparatus for improved sub-block partitioning intra sub-partitions coding mode,1,H04N
+11722685,2023-08-08,Simplified signaling method for affine linear weighted intra prediction mode,0,H04N
+11722683,2023-08-08,Parallel coding using history-based motion vector prediction with shared row buffers,0,H04N
+11722680,2023-08-08,Coding mode signaling for small blocks,0,H04N
+11722679,2023-08-08,Block vector modification for intra block copy,1,H04N
+11722678,2023-08-08,Method and apparatus for transform skip coefficients coding,0,H04N
+11722661,2023-08-08,Method and apparatus for video coding,0,H04N
+11722658,2023-08-08,Method and apparatus for video coding,0,H04N
+11722656,2023-08-08,Method for output layer set mode,0,H04N
+11722549,2023-08-08,Method and apparatus of CoAP support for IoT streaming devices in a media scene description system,0,H04L
+11722210,2023-08-08,Unmanned aerial system communication,0,G01C|G08G|H04B|H04W
+11714654,2023-08-01,Method and apparatus for stateless parallel processing of tasks and workflows,0,G06F
+11711562,2023-07-25,In-manifest update event,0,H04N
+11711545,2023-07-25,Arithmetic coding information for parallel octree coding,1,H04N
+11711532,2023-07-25,Modified quantizer,0,G06F|H04N
+11711531,2023-07-25,Method and apparatus for video coding,0,H04N
+11711515,2023-07-25,Coding method and system with improved transform domain coefficient computation,0,H04N
+11711514,2023-07-25,Joint transform coding of multiple color components,0,H04N
+11711492,2023-07-25,Signaling of the RTCP viewport feedback for immersive teleconferencing and telepresence for remote terminals,0,H04L|H04N
+11711136,2023-07-25,Unmanned aerial system communication duplicate registration ID detection and recovery,0,B64U|G08G|H04B|H04W
+11710260,2023-07-25,Context modeling of occupancy coding for point cloud coding,0,G06F|G06T
+11710259,2023-07-25,Predictive tree coding for point cloud coding,2,G06T|H04N
+11706461,2023-07-18,Method and apparatus for video coding,0,H04N
+11706459,2023-07-18,Signaling of coding tools for encoding a video component as monochrome video,0,H04N
+11706454,2023-07-18,One-level transform split,0,H04N
+11706445,2023-07-18,Method for parameter set reference constraints in coded video stream,0,H04N
+11706436,2023-07-18,Method and apparatus for video coding,0,H04N
+11706431,2023-07-18,Method for output layer set mode in multilayered video stream,0,H04N
+11706428,2023-07-18,Method for signaling picture header in coded video stream,3,H04N
+11706422,2023-07-18,Method and apparatus for video coding,0,H04N
+11706411,2023-07-18,Content adaptive segmented prediction,0,H04N
+11700517,2023-07-11,Location reporting for service enabler architecture layer (SEAL),5,H04W
+11700387,2023-07-11,Affine coding with offsets,0,H04N
+11700386,2023-07-11,Adaptive colour transform related signalling for both of CU level and TU level,0,H04N
+11700374,2023-07-11,Method and apparatus for video coding,0,H04N
+11689743,2023-06-27,Method and apparatus for video coding,0,H04N
+11689741,2023-06-27,Method for parameter set reference constraints in coded video stream,0,H04N
+11689715,2023-06-27,Non-directional intra prediction for L-shape partitions,0,H04N
+11689713,2023-06-27,Predicted frame generation by deformable convolution for video coding,0,G06F|G06N|G06T|H04N
+11688412,2023-06-27,Multi-modal framework for multi-channel target speech separation,1,G06N|G06T|G06V|G10L
+11687386,2023-06-27,MPD validity expiration processing model,0,G06F|H04L|H04N
+11683530,2023-06-20,Adaptive non-linear mapping for sample offset,3,H04N
+11683526,2023-06-20,Interaction between intra prediction mode and block differential pulse-code modulation mode,0,H04N
+11683524,2023-06-20,Method and apparatus for point cloud compression,2,H04N
+11683523,2023-06-20,Group of pictures based patch packing for video based point cloud coding,0,G06T|H04N
+11683518,2023-06-20,Constraining sub-block motion vectors and determining adjustment values based on the constrained sub-block motion vectors,0,H04N
+11683516,2023-06-20,Method and apparatus for video coding,0,H04N
+11683515,2023-06-20,Video compression with adaptive iterative intra-prediction,0,G06N|H04N
+11683514,2023-06-20,Method and apparatus for video coding for machine,0,H04N
+11683513,2023-06-20,Partitioning of coded point cloud data,0,H04N
+11683504,2023-06-20,Method and apparatus in video coding with flexible coding order,0,H04N
+11683501,2023-06-20,Method and apparatus for video coding,0,H04N
+11683490,2023-06-20,Context adaptive transform set,1,H04N
+11683355,2023-06-20,Methods and apparatuses for dynamic adaptive streaming over HTTP,0,H04L
+11683352,2023-06-20,Method and apparatus of enhancing media session management,0,H04L|H04W
+11682379,2023-06-20,Learnable speed control of speech synthesis,0,G06N|G10L
+11682144,2023-06-20,Techniques and apparatus for inter-channel prediction and transform for point-cloud attribute coding,0,G06T|H04N
+11677979,2023-06-13,Freeview video coding,0,H04N
+11677972,2023-06-13,Identifying tile from network abstraction unit header,0,H04N
+11677971,2023-06-13,Method and apparatus for video coding,0,H04N
+11677969,2023-06-13,Method and apparatus for video coding,0,H04N
+11677962,2023-06-13,Affine inter prediction refinement with optical flow,0,H04N
+11677959,2023-06-13,Method and apparatus for video coding,0,H04N
+11677954,2023-06-13,Method and apparatus for video coding,0,H04N
+11675796,2023-06-13,Method and apparatus for metadata of function and function group search in moving picture experts group network based media processing,1,G06F|H04L|H04N
+11671621,2023-06-06,Method and apparatus for video coding with motion vector constraints,0,H04N
+11671612,2023-06-06,Method and apparatus for video coding using inter-prediction mode signaling to determine motion vectors,0,H04N
+11671577,2023-06-06,Method and apparatus for point cloud compression,0,G06T|H04N
+11671576,2023-06-06,Method and apparatus for inter-channel prediction and transform for point-cloud attribute coding,2,G06T|H04N
+11671110,2023-06-06,Method and apparatus for neural network model compression/decompression,1,G06N|H03M|H04N
+11670283,2023-06-06,Duration informed attention network (DURIAN) for audio-visual synthesis,0,G06T|G10L
+11670045,2023-06-06,Method and apparatus for constructing a 3D geometry,4,G06F|G06T
+11665364,2023-05-30,Simplified merge list construction for small coding blocks,0,H04N
+11665359,2023-05-30,Method and apparatus for prediction and transform for small blocks,0,H04N
+11665351,2023-05-30,Method and apparatus for video coding,0,H04N
+11663772,2023-05-30,Occluder generation for structures in digital applications,1,G06T
+11663412,2023-05-30,Relation extraction exploiting full dependency forests,0,G06F|G06N|G10L
+11662975,2023-05-30,Method and apparatus for teleconference,0,G06F|G10L|H04L|H04M|H04N|H04R
+11659193,2023-05-23,Framework for video conferencing based on face restoration,0,G06N|G06T|G06V|H04N
+11657542,2023-05-23,Techniques and apparatus for alphabet-partition coding of transform coefficients for point cloud compression,0,G06F|G06T|H04N
+11652996,2023-05-16,Method and apparatus for video coding,0,H04N
+11652994,2023-05-16,Neural image compression with adaptive intra-prediction,0,G06N|H04N
+11651533,2023-05-16,Method and apparatus for generating a floor plan,0,G06F|G06T
+11651521,2023-05-16,Techniques and apparatus for alphabet-partition coding of transform coefficients for point cloud compression,0,G06F|G06T|H04N
+11647216,2023-05-09,"Techniques for signaling neural network topology, parameters, and processing information in video stream",0,G06N|H04N
+11647192,2023-05-09,Maximum transform size control,0,H04N
+11641480,2023-05-02,Signaling of adaptive picture size in video bitstream,0,H04N
+11641472,2023-05-02,Method for signaling of reference picture resampling with resampling picture size indication in video bitstream,0,H04N
+11638262,2023-04-25,Extended 3rd generation partnership project (3GPP) framework for live uplink streaming (FLUS) sink capabilities description,0,G06F|H04L|H04W
+11638056,2023-04-25,Pattern addressing for session-based DASH operations,0,H04L|H04N
+11638039,2023-04-25,Simplification for cross-component linear model prediction mode,2,H04N
+11638022,2023-04-25,Method and apparatus for video coding,0,H04N
+11636848,2023-04-25,Token-wise training for attention based end-to-end speech recognition,0,G06N|G10L
+11632599,2023-04-18,Manifest file updating and early termination of content,0,H04L|H04N
+11632573,2023-04-18,Method and apparatus for video coding,0,H04N
+11632561,2023-04-18,Signaling for non-merge inter modes,0,H04N
+11632414,2023-04-18,Metrics for measuring and monitoring uplink streaming,1,H04L
+11632411,2023-04-18,Method and apparatus for cascaded multi-input content preparation templates for 5G networks,2,H04L|H04W
+11627328,2023-04-11,Method and apparatus for video coding,0,H04N
+11627324,2023-04-11,Adaptive block vector resolution in video coding,1,H04N
+11627322,2023-04-11,Adaptive chroma intra mode coding in video compression,0,H04N
+11627169,2023-04-11,Network-based Media Processing (NBMP) workflow management through 5G Framework for Live Uplink Streaming (FLUS) control,1,G06F|H04L
+11622221,2023-04-04,Method and apparatus for representing space of interest of audio scene,0,G06F|G10L|H04S
+11622117,2023-04-04,Method and apparatus for rate-adaptive neural image compression with adversarial generators,0,G06N|H04N
+11622108,2023-04-04,Method and apparatus for multiple line intra prediction in video compression,0,H04N
+11616983,2023-03-28,Joint component secondary transform,0,H04N
+11616972,2023-03-28,Decoder side MV derivation and refinement,1,H04N
+11616962,2023-03-28,Method and apparatus for video coding,2,H04N
+11616822,2023-03-28,Session-based information for dynamic adaptive streaming over HTTP,0,H04L|H04N
+11615556,2023-03-28,Context modeling of occupancy coding for point cloud coding,1,G06T
+11611775,2023-03-21,Method and apparatus for point cloud coding,2,G06T|H04N
+11611771,2023-03-21,Method and apparatus for video coding using inter-prediction mode signaling to determine motion vectors,0,H04N
+11611770,2023-03-21,Method and apparatus for video coding,0,H04N
+11611756,2023-03-21,Method and apparatus for video coding,0,H04N
+11611355,2023-03-21,Techniques for parameter set and header design for compressed neural network representation,1,G06N|H03M|H04N
+11610340,2023-03-21,Edge enhancement filter,1,G06T|H04N
+11610326,2023-03-21,Synthesizing 3D hand pose based on multi-modal guided generative networks,0,G06T
+11610315,2023-03-21,System and method for identifying target regions prior to organs at risk segmentation,0,G06T
+11610060,2023-03-21,Automatic lexical sememe prediction system using lexical dictionaries,0,G06F
+11607167,2023-03-21,User device based parkinson disease detection,0,A61B|G06N|G16H
+11606592,2023-03-14,Playlist events for combining multiple media timelines and content-insertion in dash streaming,0,H04N
+11606563,2023-03-14,CTU size signaling,0,H04N
+11606561,2023-03-14,Method and apparatus for adaptive point cloud attribute coding,0,G06T|H04N
+11606556,2023-03-14,Fast patch generation for video based point cloud coding,0,G06T|H04N
+11606402,2023-03-14,Split rendering using network based media processing workflow,1,G06F|H04L
+11601661,2023-03-07,Deep loop filter by temporal deformable convolution,0,G06N|G06V|H04N
+11601654,2023-03-07,Coefficient scanning methods on adaptive angle mode,0,H04N
+11601642,2023-03-07,String matching with a single value from reference locations,1,H03M|H04N
+11601491,2023-03-07,Network-based media processing (NBMP) workflow management direct access in 5G framework for live uplink streaming (FLUS),0,H04L
+11600038,2023-03-07,Geometry model for point cloud coding,1,G06F|G06T
+11596344,2023-03-07,Deep neural network on ECG Poincare plot for atrial fibrillation classification,0,A61B|G06N|G16H
+11595730,2023-02-28,Signaling loudness adjustment for an audio scene,0,G10L|H04N|H04S
+11595696,2023-02-28,Subpicture layout and partial output with layers,0,H04N
+11595694,2023-02-28,Method and apparatus for video coding,1,H04N
+11595689,2023-02-28,Local weighted prediction,0,H04N
+11595688,2023-02-28,Determination of sub-block transform mode based on CU partitions,0,H04N
+11595681,2023-02-28,Techniques for memory bandwidth optimization in bi-predicted motion vector refinement,0,H04N
+11595678,2023-02-28,Spatial displacement vector prediction for intra picture block and string copying,1,H04N
+11595677,2023-02-28,Method and apparatus for video coding,0,H04N
+11595676,2023-02-28,Method and apparatus for video coding,0,H04N
+11595666,2023-02-28,Interactions between decoder-side intra mode derivation and adaptive intra prediction modes,0,H04N
+11595662,2023-02-28,Method and apparatus for neighboring block availability in video coding,0,H04N
+11595648,2023-02-28,Method and system for single loop multilayer coding with subpicture partitioning,1,H04N
+11595644,2023-02-28,Method and apparatus for offset in video filtering,3,H04N
+11594008,2023-02-28,Method and apparatus for escape reorder mode using a codebook index for neural network model compression,0,G06F|G06N|G06V
+11593969,2023-02-28,Method and apparatus for geometry merge mode for point cloud coding,0,G06T|H04N
+11593944,2023-02-28,System and method for instance segmentation in pathological images using object-guided framework,1,G06T
+11589078,2023-02-21,Method and apparatus for three-dimensional (3D)-tree coding for neural network model compression,0,G06N|H04N
+11589076,2023-02-21,Method and device using high layer syntax architecture for coding and decoding,0,H04N
+11589054,2023-02-21,Method and apparatus for history-based motion vector prediction,0,H04N
+11589052,2023-02-21,Techniques for bitstream extraction for subpicture in coded video stream,0,H04N
+11589043,2023-02-21,"Flexible slice, tile and brick partitioning",0,H04N
+11588870,2023-02-21,W3C media extensions for processing DASH and CMAF inband events along with media using process@append and process@play mode,0,H04L|H04N
+11588742,2023-02-21,Multipath traffic switch damping,0,H04L
+11587291,2023-02-21,Systems and methods of contrastive point completion with fine-to-coarse refinement,1,G06F|G06N|G06T|G06V
+11587288,2023-02-21,Methods and systems for constructing facial position map,1,G06N|G06T|G06V
+11587263,2023-02-21,Method and apparatus for enhanced patch boundary identification for point cloud compression,0,G06F|G06T|G06V|H04N
+11582487,2023-02-14,Method and apparatus for improved compound orthonormal transform,0,H04N
+11582484,2023-02-14,Techniques and apparatus for generalized Trisoup geometry coding,1,G06T|H04N
+11582470,2023-02-14,Method and apparatus for multi-scale neural image compression with intra-prediction residuals,3,G06N|H04N
+11582469,2023-02-14,Method and apparatus for point cloud coding,0,H04N
+11582463,2023-02-14,Method for alignment across layers in coded video stream,0,H04N
+11582453,2023-02-14,Multi-model selection for neural network based tools in video coding,0,G06N|H04N
+11582285,2023-02-14,Asynchronous workflow and task api for cloud based processing,2,H04L
+11580671,2023-02-14,Hash-based attribute prediction for point cloud coding,1,G06T|H03M|H04N
+11580670,2023-02-14,Method and apparatus for inter-channel prediction and transform for point cloud attribute coding,0,G06T|H04N
+11575941,2023-02-07,Parallel processing in video coding,0,H04N
+11575937,2023-02-07,Methods for efficient application of LGT,0,H04N
+11575924,2023-02-07,Method and apparatus for video coding,0,H04N
+11575923,2023-02-07,Unified position dependent prediction combination process,0,H04N
+11575918,2023-02-07,Cross component intra prediction mode,0,H04N
+11575917,2023-02-07,Method and apparatus for video coding,0,H04N
+11575909,2023-02-07,Method and apparatus for video coding,0,H04N
+11575895,2023-02-07,Method and apparatus for video coding,1,H04N
+11570517,2023-01-31,Application intended interactive selection information for interactive playback of dash content,0,H04L|H04N
+11570509,2023-01-31,Session-based information for dynamic adaptive streaming over HTTP,0,H04N
+11570484,2023-01-31,Method and apparatus for video coding,0,H04N
+11570445,2023-01-31,Simplified most probable mode list generation scheme,2,H04N
+11570227,2023-01-31,Set up and distribution of immersive media to heterogenous client end-points,2,G06N|H04L|H04N
+11568571,2023-01-31,Techniques and apparatus for lossless lifting for attribute coding,0,G06T|H04L
+11563984,2023-01-24,Flexible tree partition and representation for point cloud coding,1,H04N
+11563981,2023-01-24,Method and apparatus for video coding,0,H04N
+11563978,2023-01-24,Method of reducing context models for entropy coding of transform coefficient significant flag,1,H04N
+11563977,2023-01-24,Method and apparatus for video coding,0,H04N
+11563965,2023-01-24,Method and apparatus for color transform in VVC,0,H04N
+11563964,2023-01-24,Method and apparatus for video coding,0,H04N
+11563947,2023-01-24,Signaling output picture size for reference picture resampling,0,H04N
+11562536,2023-01-24,Methods and systems for personalized 3D head model deformation,0,G06N|G06T|G06V
+11558630,2023-01-17,Techniques for random access point indication and picture output in coded video stream,2,H04N
+11558617,2023-01-17,End-to-end dependent quantization with deep reinforcement learning,0,G06N|H04N
+11558605,2023-01-17,Video coding method and system based on multiple reference line intra prediction,0,H04N
+11558603,2023-01-17,Method and apparatus for intra prediction for non-square blocks in video compression,0,H04N
+11556376,2023-01-17,Signaling timeout and complete data inputs in cloud workflows,1,G06F|G06Q
+11553213,2023-01-10,Method and apparatus for video coding,0,H04N
+11553208,2023-01-10,Method and system of video coding using a subset of available intra prediction modes for multiple reference lines,0,H04N
+11553205,2023-01-10,Method and apparatus for video coding,0,H04N
+11553199,2023-01-10,Coding unit level transform size restriction for adaptive color transform,0,H04N
+11553197,2023-01-10,Method and apparatus for intra picture block compensation,0,H04N
+11553193,2023-01-10,Low latency local illumination compensation,0,H04N
+11551334,2023-01-10,Techniques and apparatus for coarse granularity scalable lifting for point-cloud attribute coding,3,G06F|G06T
+11551136,2023-01-10,N-best softmax smoothing for minimum bayes risk training of attention based sequence-to-sequence models,0,G06F|G06N|G06V|G10L
+11550997,2023-01-10,Structural information preserving for graph-to-text generation,3,G06F|G06N
+11546638,2023-01-03,Method and apparatus for video filtering,0,H04N
+11546637,2023-01-03,Method for signaling dependent and independent picture header,0,H04N
+11546625,2023-01-03,Delta angle signaling method for luma blocks,0,H04N
+11546592,2023-01-03,Flexible block partitioning for chroma component,0,H04N
+11546584,2023-01-03,Method and apparatus for using an intra prediction coding tool for intra prediction of non-square blocks in video compression,0,H04N
+11546431,2023-01-03,Efficient and extensive function groups with multi-instance function support for cloud based processing,0,G06F|H04L|H04N
+11546406,2023-01-03,Media systems and methods including mixed event message tracks,0,G06F|H04L|H04N
+11546402,2023-01-03,Flexible interoperability and capability signaling using initialization hierarchy,0,H04L|H04N
+11544819,2023-01-03,Techniques and apparatus for alphabet-partition coding of transform coefficients for point cloud compression,3,G06F|G06T|H04N
+11544569,2023-01-03,Feature map sparsification with smoothness regularization,0,G06N|G06V
+11544108,2023-01-03,Method and apparatus for functional improvements to moving picture experts group network based media processing,1,G06F|H04L
+11539978,2022-12-27,Method and apparatus for block vector prediction with integer offsets in intra picture block compensation,0,H04N
+11539957,2022-12-27,Layered random access with reference picture resampling,2,H04N
+11539820,2022-12-27,Signaling and identifying picture boundary in video payload format over IP network,0,H04L
+11539776,2022-12-27,Method for signaling protocol characteristics for cloud workflow inputs and outputs,1,G06F|H04L
+11538156,2022-12-27,System and method for coronary calcium deposits detection and labeling,0,A61B|G06T|G16H
+11533509,2022-12-20,Method and apparatus for video coding,0,H04N
+11533506,2022-12-20,Method and apparatus for video coding,0,H04N
+11533499,2022-12-20,Method for signaling mixed NAL unit type and subpicture partitioning in coded video stream,0,H04N
+11533498,2022-12-20,Geometric partitioning mode in video coding,1,H04N
+11533478,2022-12-20,Method and apparatus for video coding,0,H04N
+11533473,2022-12-20,Method and apparatus for further improved context design for prediction mode and coded block flag (CBF),0,H04N
+11533346,2022-12-20,Methods and apparatuses for dynamic adaptive streaming over HTTP,0,H04L
+11528316,2022-12-13,Graph representation and description of configuration parameters for media processing function in network-based media processing (NBMP),1,H04L|H04N
+11528313,2022-12-13,Methods and apparatuses for dynamic adaptive streaming over HTTP,0,H04L|H04N
+11523139,2022-12-06,Method for efficient signaling of virtual boundary for loop filtering control,0,H04N
+11523112,2022-12-06,Intra coding with L-type partitioning tree,0,H04N
+11523109,2022-12-06,Method and apparatus for improvements of affine prof,22,H04N
+11522950,2022-12-06,Systems and methods for unmanned aerial system communication,1,H04L|H04W
+11522940,2022-12-06,Techniques for multiple conformance points in media coding,2,H03M|H04L|H04N
+11521743,2022-12-06,Framework for performing electrocardiography analysis,1,G06N|G16H
+11521605,2022-12-06,Video-aided unsupervised grammar induction,0,G06F|G06N|G06V|G10L
+11520848,2022-12-06,Methods and apparatuses for dynamic adaptive streaming over HTTP,0,G06F|H04L
+11520630,2022-12-06,Extensible schemes and scheme signaling for cloud based processing,1,G06F
+11516628,2022-11-29,Media streaming with edge computing,2,H04L|H04W
+11516514,2022-11-29,High level control for deblocking operations,0,H04N
+11516508,2022-11-29,Method and apparatus for video coding,0,H04N
+11516504,2022-11-29,Method and apparatus for video coding,1,H04N
+11516501,2022-11-29,Method and apparatus for video coding using a subblock-based affine motion model,0,H04N
+11516489,2022-11-29,Method and apparatus for video coding,0,H04N
+11516488,2022-11-29,Method and apparatus for video coding,0,H04N
+11516486,2022-11-29,Decoded picture buffer management for video coding,0,H04N
+11516479,2022-11-29,Method and apparatus for video decoding of an affine model in an intra block copy mode,0,H04N
+11516469,2022-11-29,Loop filter block flexible partitioning,0,H04N
+11516152,2022-11-29,First-in first-out function for segmented data stream processing,1,G06F|H04L
+11514612,2022-11-29,Method and apparatus for point cloud coding,0,G06T|H04N
+11514610,2022-11-29,Method and apparatus for point cloud coding,0,G06T
+11509931,2022-11-22,Method and apparatus for video coding,0,H04N
+11509920,2022-11-22,Indication of max sublayer numbers in multilayered video stream,0,H04L|H04N
+11509919,2022-11-22,Reference sample memory size restrictions for intra block copy,0,H04N
+11509911,2022-11-22,Conversion of decoded block vector for intra picture block compensation,2,H04N
+11509910,2022-11-22,Video coding method and device for avoiding small chroma block intra prediction,1,H04N
+11509701,2022-11-22,Extended relationship signaling between events in event message tracks,0,H04L
+11503367,2022-11-15,Techniques and apparatus for weighted-median prediction for point-cloud attribute coding,21,H04L|H04N
+11503338,2022-11-15,"Method, apparatus and medium for decoding or encoding",0,H04N
+11503336,2022-11-15,Method and apparatus for video coding,0,H04N
+11503327,2022-11-15,Method and apparatus for video coding,0,H04N
+11503323,2022-11-15,Method and apparatus for inter-picture prediction with virtual reference picture for video coding,1,H04N
+11503320,2022-11-15,Method and apparatus for video coding,0,H04N
+11503289,2022-11-15,Bitstream structure for viewport-based streaming with a fallback bitstream,0,H04N
+11503276,2022-11-15,Unified block vector prediction for intra picture block compensation,0,H04N
+11500687,2022-11-15,Method and apparatus for cloud service,1,G06F
+11496775,2022-11-08,Neural network model compression with selective structured weight unification,1,G06N|H04N
+11496774,2022-11-08,Header syntax for QT/BT/TT size,0,H04N
+11496759,2022-11-08,Method and apparatus for history-based motion vector prediction with parallel processing,0,H04N
+11496755,2022-11-08,Method and apparatus for video coding,1,H04N
+11496748,2022-11-08,Method and apparatus for improved planar and DC modes for non-zero reference lines,0,H04N
+11496731,2022-11-08,String matching with single color value,1,H04N
+11496729,2022-11-08,Method and apparatus for video coding,0,H04N
+11496608,2022-11-08,Task proximity for cloud services,2,H04L
+11496537,2022-11-08,Method and apparatus for reverse address mapping when using content preparation in 5G networks,0,H04L
+11496414,2022-11-08,Interoperable cloud based media processing using dynamic network interface,3,H04L|H04N
+11496151,2022-11-08,Neural network model compression with block partitioning,1,G06N|H03M|H04N
+11490171,2022-11-01,Early termination of content,0,H04L|H04N
+11490169,2022-11-01,Events in timed metadata tracks,0,H04L|H04N
+11490122,2022-11-01,Method and apparatus for video coding,0,H04N
+11490085,2022-11-01,Model sharing by masked neural network for loop filter with quality inputs,1,G01N|G06N|H04N
+11490078,2022-11-01,Method and apparatus for deep neural network based inter-frame prediction in video coding,1,G06N|H04N
+11489898,2022-11-01,Method and apparatus for segment-based split and merge functions for parallel processing of media,0,H04L|H04N
+11488621,2022-11-01,Estimation through multiple measurements,0,G06F|G10L|G11B
+11488329,2022-11-01,Method and apparatus for multi-rate neural image compression with stackable nested model structures,0,G06T|H04N
+11487555,2022-11-01,Running PBS jobs in kubernetes,0,G06F|Y02D
+11483591,2022-10-25,Method and apparatus for video coding,1,G06N|H04N
+11483581,2022-10-25,Method and apparatus for reference sample memory reuse for intra picture block compensation,0,H04N
+11483558,2022-10-25,Method for region-wise scalability with adaptive resolution change,0,H04N
+11483557,2022-10-25,Separate constrained directional enhancement filter,0,H04N
+11483551,2022-10-25,Method and apparatus for video coding,0,H04N
+11481599,2022-10-25,Understanding a query intention for medical artificial intelligence systems using semi-supervised deep learning,3,G06F|G06N
+11481548,2022-10-25,Zero pronoun recovery and resolution,0,G06F
+11481547,2022-10-25,Framework for chinese text error identification and correction,0,G06F
+11477471,2022-10-18,Techniques for signaling combination of reference picture resampling and spatial scalability,0,H04N
+11475604,2022-10-18,Method and apparatus for adaptive point cloud attribute coding,0,G06T
+11470354,2022-10-11,Inter PDPC mode,0,H04N
+11470340,2022-10-11,Simplified merge list construction for small coding blocks,0,H04N
+11470338,2022-10-11,Method and apparatus for video coding,0,H04N
+11470329,2022-10-11,Method and apparatus for video coding,0,H04N
+11470300,2022-10-11,Event-based trigger interval for signaling of RTCP viewport for immersive teleconferencing and telepresence for remote terminals,0,H04N
+11470136,2022-10-11,URL customization using the session-based dash operations,0,G06F|H04L|H04N
+11469771,2022-10-11,Method and apparatus for point cloud compression,1,G06T|H03M|H04N
+11463730,2022-10-04,Fast method for implementing discrete sine transform type VII (DST 7),0,G06F|H04N
+11463691,2022-10-04,Region adaptive loop filter for video coding,1,H04N
+11461970,2022-10-04,Methods and systems for extracting color from facial image,0,G06N|G06T|G06V
+11461932,2022-10-04,Method and apparatus for point cloud compression,0,G01S|G06F|G06T
+11455467,2022-09-27,Relation extraction using full dependency forests,1,G06F|G06N|G10L
+11451869,2022-09-20,5G media streaming network capability discovery and expression,1,H04L|H04N
+11451836,2022-09-20,Techniques and apparatus for PCM patch creation using Morton codes,0,G06T|H04N
+11451834,2022-09-20,Method and apparatus for cross-component filtering,0,H04N
+11451831,2022-09-20,Method and apparatus for video coding,0,H04N
+11451829,2022-09-20,Method and apparatus for video coding,0,H04N
+11451826,2022-09-20,Lossless coding mode and switchable residual coding,0,H04N
+11451823,2022-09-20,Method and apparatus for video coding,0,H04N
+11451812,2022-09-20,Techniques for simplified affine motion model coding with prediction offsets,0,H04N
+11451811,2022-09-20,Method and apparatus for video coding,0,H04N
+11451809,2022-09-20,Method and apparatus for video coding,0,H04N
+11451807,2022-09-20,Method and apparatus for video coding,0,H04N
+11451802,2022-09-20,Method and apparatus for point cloud coding,2,H04N
+11451790,2022-09-20,Method and apparatus in video coding for machines,1,H04N
+11451769,2022-09-20,Method and device for MPM list generation for multi-line intra prediction,0,H04N
+11451602,2022-09-20,Methods and apparatuses for dynamic adaptive streaming over HTTP,0,H04L|H04N
+11450424,2022-09-20,Training framework for multi-group electrocardiography (MG-ECG) analysis,0,G06N|G16H
+11450004,2022-09-20,System and method for automatic recognition for hand activity defined in unified Parkinson disease rating scale,0,A61B|G06T
+11445208,2022-09-13,Method and apparatus for video coding,0,H04N
+11445206,2022-09-13,Method and apparatus for video coding,0,H04N
+11445198,2022-09-13,Multi-quality video super resolution with micro-structured masks,0,G06N|G06T|H04N
+11445174,2022-09-13,Method and apparatus for video coding,4,H04N
+11438633,2022-09-06,Temporal de-noising for video,0,G06T|H04N
+11438628,2022-09-06,Hash-based accessing of geometry occupancy information for point cloud coding,0,G06T|H04N
+11438616,2022-09-06,Method and apparatus for video coding,1,H04N
+11438595,2022-09-06,Video coding method and system using a scan region based coefficient coding,0,H04N
+11438583,2022-09-06,Reference sample filter selection in intra prediction,0,H04N
+11438576,2022-09-06,Merge list construction in triangular prediction,0,H04N
+11438398,2022-09-06,3rd generation partnership project (3gpp) framework for live uplink streaming (flus) sink capabilities determination,0,H04L|H04W
+11432727,2022-09-06,SpO2 miniprogram: AI SpO2 measurement app,0,A61B|G06F|G06K|G06Q|G09G|H04N
+11432018,2022-08-30,Semi-decoupled partitioning for video coding,2,H04N
+11432006,2022-08-30,Chroma mode video coding,1,H04N
+11431998,2022-08-30,Systems and methods for decoding based on inferred video parameter sets,0,H04N
+11431987,2022-08-30,Method and apparatus for memory bandwidth reduction for small inter blocks,0,H04N
+11431956,2022-08-30,Interactive overlay handling for immersive teleconferencing and telepresence for remote terminals,0,H04N
+11430431,2022-08-30,Learning singing from speech,0,G06N|G10H|G10L
+11425414,2022-08-23,Method and apparatus for video coding,0,H04N
+11425187,2022-08-23,Session-based information for dynamic adaptive streaming over HTTP,4,H04L|H04N
+11423642,2022-08-23,Method and apparatus for point cloud compression,1,G06F|G06T|H04N
+11423582,2022-08-23,Method and apparatus for point cloud compression,0,G06T|H04N
+11418814,2022-08-16,Constraint on syntax elements for still picture profiles,1,H04N
+11418813,2022-08-16,Signaling of inter layer prediction in video bitstream,0,H04N
+11418810,2022-08-16,Methods of inter picture motion prediction for multi-view video compression,0,H04N
+11418807,2022-08-16,Temporal motion vector derivation in shared merge region at picture boundary,0,H04N
+11418804,2022-08-16,Method for wrap around motion compensation with reference picture resampling,1,H04N
+11418792,2022-08-16,Estimating attributes for the classification of adaptive loop filtering based on projection-slice theorem,1,H04N
+11418781,2022-08-16,Flexible tree structure,0,G06F|H04N
+11418778,2022-08-16,Multi-line intra prediction,2,H04N
+11418777,2022-08-16,Method and apparatus for video coding,0,H04N
+11418561,2022-08-16,Remote link validity interval in media streaming,1,H04L|H04N
+11417053,2022-08-16,Methods and systems for forming personalized 3D head and facial models,0,A63F|G06N|G06T|G06V
+11417030,2022-08-16,Context modeling of occupancy coding for point cloud coding,4,G06F|G06T|H04N
+11417029,2022-08-16,Method and apparatus for point cloud coding,2,G06T|H04N
+11412258,2022-08-09,Line graph transforms (LGTs) using 8-bit and 10-bit cores,0,G06F|H04N
+11412256,2022-08-09,Method and apparatus for video coding,0,H04N
+11412235,2022-08-09,Color transform for video coding,7,H04N
+11412222,2022-08-09,Flexible picture partitioning,0,H03M|H04N
+11410302,2022-08-09,Two and a half dimensional convolutional neural network for predicting hematoma expansion in non-contrast head computerized tomography images,1,A61B|G06F|G06T|G06V
+11410275,2022-08-09,Video coding for machine (VCM) based system and method for video super resolution (SR),0,G06F|G06N|G06T|G06V
+11405647,2022-08-02,Primary transforms using 8-bit and 10-bit cores,0,G06F|H04N
+11405638,2022-08-02,Method and apparatus for video coding by determining intra prediction direction based on coded information of neighboring blocks,1,H04N
+11405628,2022-08-02,Method and apparatus for video coding,0,H04N
+11405615,2022-08-02,Joint transform coding of multiple color components,1,H04N
+11403784,2022-08-02,Method and apparatus for tree-based point cloud compression (PCC) media stream using moving picture experts group (MPEG)-dynamic adaptive streaming over HTTP (DASH),0,G06T|H04N
+11403106,2022-08-02,Method and apparatus for stateless parallel processing of tasks and workflows,1,G06F
+11399195,2022-07-26,Range of minimum coding block size in video coding,0,H04N
+11399192,2022-07-26,Spatial scalable coding for point cloud coding,0,G06T|H04N
+11399188,2022-07-26,Method for mixed NAL unit type support in a coded picture,1,H04N
+11399077,2022-07-26,Systems and methods for acknowledgement in media processing,2,H04L
+11395007,2022-07-19,Method for signaling dependent and independent picture header,0,H04N
+11395006,2022-07-19,Network abstraction layer unit header,0,H04N
+11394993,2022-07-19,Method and apparatus for affine inter prediction with small subblocks,0,H04N
+11394990,2022-07-19,Method and apparatus for signaling predictor candidate list size,0,H04N
+11394989,2022-07-19,Method and apparatus for video coding,0,H04N
+11394983,2022-07-19,Method and apparatus for merge mode with additional middle candidates in video coding,0,H04N
+11394967,2022-07-19,Geometric cross-component filtering,0,H04N
+11394957,2022-07-19,Constraints on reference sample locations in the dedicated buffer for intra picture block compensation,0,H04N
+11388437,2022-07-12,View-position and angle dependent processing of point cloud data,0,H04N
+11388415,2022-07-12,Substitutional end-to-end video coding,0,G06N|H04N
+11388404,2022-07-12,Context design for prediction mode and CBF,0,H04N
+11388067,2022-07-12,Systems and methods for network-based media processing (NBMP) for describing capabilities,1,H04L
+11381841,2022-07-05,Method for signaling subpicture identifier in tiled video stream,0,H04N
+11381840,2022-07-05,Implicit quadtree or binary-tree geometry partition for point cloud coding,5,H04N
+11381833,2022-07-05,Method and apparatus for video coding,0,H04N
+11381832,2022-07-05,Method and apparatus for video coding,6,H04N
+11381830,2022-07-05,Modified quantizer,0,G06F|H04N
+11381824,2022-07-05,Signaling for reference picture resampling,0,H04N
+11381821,2022-07-05,Quantizer design for lossless and near-lossless compression in AV2,0,H04N
+11381820,2022-07-05,Method and apparatus for video coding,0,H04N
+11381777,2022-07-05,Parameters for overlay handling for immersive teleconferencing and telepresence for remote terminals,0,H04N
+11375243,2022-06-28,Method and apparatus for video coding,0,H04N
+11375238,2022-06-28,Method for padding processing with sub-region partitions in video stream,1,H04N
+11375236,2022-06-28,Method and apparatus for video coding,0,H04N
+11375231,2022-06-28,Method and apparatus for video coding,0,H04N
+11375223,2022-06-28,Method for signaling output layer set with sub-picture,7,H04N
+11375222,2022-06-28,Method and device for video encoding and decoding with interpolation filter flag being consistent with MMVD distances,0,H04N
+11375221,2022-06-28,Method and apparatus for cross-component filtering,0,H04N
+11375220,2022-06-28,Method and apparatus for video decoding using a nominal directional mode and an angular offset,0,H04N
+11375219,2022-06-28,Coding method and system with improved dynamic internal bit depth,1,H04N
+11375200,2022-06-28,Video coding method and device for controlling color component processing,0,H04N
+11375196,2022-06-28,"Method of context modeling for entropy coding of transform coefficient flags with transform skip, and coding method with the same",0,H04N
+11373353,2022-06-28,Heuristic scheme in material point method for simulating material,0,G06F|G06T
+11373276,2022-06-28,Techniques and apparatus for alphabet-partition coding of transform coefficients for point cloud compression,3,G06F|G06T|H04N
+11368723,2022-06-21,Signaling of coding tools for encoding a video component as monochrome video,0,H04N
+11368721,2022-06-21,Method and apparatus for interaction between intra prediction mode and block differential pulse-code modulation mode,0,H04N
+11368717,2022-06-21,Method and apparatus for point cloud compression,4,H04N
+11368708,2022-06-21,Method for combination of wrap-around offset and reference picture resampling,1,H04N
+11368698,2022-06-21,Method and apparatus for video coding using planar intra prediction mode for intra sub-partition coding mode,1,H04N
+11368511,2022-06-21,Unification of rice parameter lookup table,0,G06F|H04L|H04N
+11363295,2022-06-14,Method and system for intra mode coding,0,H04N
+11363285,2022-06-14,Block partitioning at picture boundaries,0,H04N
+11363279,2022-06-14,Method and apparatus in video coding with flexible coding order,0,H04N
+11363277,2022-06-14,Methods on affine inter prediction and deblocking,0,H04N
+11363261,2022-06-14,Method and apparatus for decoding using reference line index based on intra prediction mode,0,H04N
+11356723,2022-06-07,In-manifest update event,0,H04N
+11356715,2022-06-07,Dynamic shortening of advertisement duration during live streaming,0,H04N
+11356704,2022-06-07,Method and device using high layer syntax architecture for coding and decoding,0,H04N
+11356698,2022-06-07,Method for parameter set reference constraints in coded video stream,0,H04N
+11356681,2022-06-07,Coded video sub-bitstream extraction,12,H04N
+11356675,2022-06-07,Method and apparatus for video coding,0,H04N
+11356661,2022-06-07,Methods and apparatus for multiple line intra prediction in video compression,0,H04N
+11356534,2022-06-07,Function repository selection mode and signaling for cloud based processing,2,H04L|H04N
+11350119,2022-05-31,Method and apparatus for video coding,0,H04N
+11350108,2022-05-31,Affine inter prediction refinement with optical flow,1,H04N
+11350094,2022-05-31,Method and apparatus for video coding,0,H04N
+11343525,2022-05-24,Method and apparatus for video coding by constraining sub-block motion vectors and determining adjustment values based on constrained sub-block motion vectors,0,H04N
+11343524,2022-05-24,Method for adaptation parameter set reference and constraints in coded video stream,0,H04N
+11343516,2022-05-24,Signaling of video coding tools supporting various chroma formats,11,H04N
+11343495,2022-05-24,Methods of simplification of temporal filtering,0,H04N
+11341635,2022-05-24,Computer aided diagnosis system for detecting tissue lesion on microscopy images based on multi-resolution feature fusion,1,G06F|G06N|G06T|G06V
+11336894,2022-05-17,Signaling of reference picture resampling with resampling picture size indication in video bitstream,0,H04N
+11336891,2022-05-17,Coding method and system with improved transform domain coefficient computation,0,H04N
+11335466,2022-05-17,Method for determining disease symptom relations using acceptance and rejection of random samples,0,G06N|G16H
+11330306,2022-05-10,Method and apparatus for video coding,0,H04N
+11330287,2022-05-10,Method and apparatus for video coding,0,H04N
+11330283,2022-05-10,Method and apparatus for video coding,0,H04N
+11330266,2022-05-10,Signaling method for chroma intra prediction mode,0,G06Q|H04N
+11328485,2022-05-10,Method and apparatus for displaying an augmented-reality image corresponding to a microscope view,0,G02B|G06F|G06T|G06V|G16H
+11324457,2022-05-10,Explainable artificial intelligence framework for electrocardiography analysis,0,A61B|G06F|G06N|G16H
+11323743,2022-05-03,Interaction between CU partitions and sub-block transform,1,H04N
+11323732,2022-05-03,Method and apparatus for video coding,0,G06T|H04N
+11323731,2022-05-03,Method and apparatus for video coding,1,H04N
+11317117,2022-04-26,Method of coding attributes for point cloud coding,0,G06T|H04N
+11317116,2022-04-26,Method and apparatus for video coding,0,H04N
+11317104,2022-04-26,Method and apparatus for video coding,0,H04N
+11317099,2022-04-26,Method and apparatus for signaling an offset in video coding for intra block copy and/or inter prediction,2,H04N
+11317094,2022-04-26,Method and apparatus for video coding using geometric partitioning mode,1,H04N
+11317093,2022-04-26,Method for reference picture resampling with offset in video bitstream,0,H04N
+11317090,2022-04-26,Method and apparatus for video coding,2,H04N
+11314536,2022-04-26,"Quantum variational method, apparatus, and storage medium for simulating quantum systems",0,G06F|G06N
+11310529,2022-04-19,Mode-dependent joint component transform,2,H04N
+11310528,2022-04-19,Methods of coding duplicate and isolated points for point cloud coding,0,G06T|H04N
+11310523,2022-04-19,Method and apparatus for block vector prediction with integer offsets in intra picture block compensation,0,H04N
+11310515,2022-04-19,Methods and apparatus for improvement for intra-inter prediction mode,6,H04N
+11310511,2022-04-19,Method and apparatus for video coding,0,H04N
+11310504,2022-04-19,Complexity reduction for 32-p and 64-p LGT,0,G06F|H04L|H04N
+11310492,2022-04-19,Signaling of inter layer prediction in video bitstream,0,H04N
+11310303,2022-04-19,Methods and apparatuses for dynamic adaptive streaming over HTTP,1,H04L|H04N
+11303936,2022-04-12,Method and apparatus for filtering,2,H04N
+11303914,2022-04-12,Method and apparatus for video coding,11,H04N
+11303897,2022-04-12,Method and apparatus for signaling of chroma quantization parameters,0,H04N
+11303849,2022-04-12,Signaling of the RTCP viewport feedback for immersive teleconferencing and telepresence for remote terminals,0,H04L|H04N
+11303688,2022-04-12,Methods and apparatuses for dynamic adaptive streaming over HTTP,1,H04L|H04N
+11302301,2022-04-12,Learnable speed control for speech synthesis,2,G06N|G10L
+11301999,2022-04-12,Shape-aware organ segmentation by predicting signed distance maps,0,G06F|G06N|G06T|G06V|G16H
+11297350,2022-04-05,Method for output layer set for multilayered video stream,4,H04L|H04N
+11297316,2022-04-05,Method and system for adaptive cross-component filtering,0,H04N
+11297122,2022-04-05,Graph representation and description of configuration parameters for media processing function in network-based media processing (NBMP),2,H04L|H04N
+11297121,2022-04-05,Split rendering using network based media processing workflow,5,G06F|H04L
+11295751,2022-04-05,Multi-band synchronized neural vocoder,0,G06N|G10L
+11295541,2022-04-05,Method and apparatus of 360 degree camera video processing with targeted view,0,G06T|G06V|H04N
+11290734,2022-03-29,Adaptive picture resolution rescaling for inter-prediction and display,0,H04N
+11290731,2022-03-29,Method and apparatus for video coding,0,H04N
+11290722,2022-03-29,Method and apparatus for video encoding or decoding,1,H04N
+11290514,2022-03-29,Method for content preparation templates for 5G common media application format based media streaming,1,H04L|H04N
+11284113,2022-03-22,Method for signaling subpicture identifier,0,H04N
+11284112,2022-03-22,Method and apparatus for a primary transform using an 8-bit transform core,1,G06F|H04N
+11284111,2022-03-22,Techniques and apparatus for inter-channel prediction and transform for point-cloud attribute coding,1,H04N
+11284101,2022-03-22,Method and apparatus for video coding,0,H04N
+11284066,2022-03-22,Method and apparatus for intra block copy in intra-inter blending mode and triangle prediction unit mode,2,H04N
+11277642,2022-03-15,"Method, apparatus and medium for decoding or encoding",0,H04N
+11272214,2022-03-08,Method for picture output with output layer set,0,H04N
+11272212,2022-03-08,Tuned line graph transforms,0,H04N
+11272203,2022-03-08,Method and apparatus for video coding,1,G06V|H04N
+11272200,2022-03-08,Method and apparatus for video coding,0,H04N
+11272198,2022-03-08,Method and apparatus for improved sub-block partitioning intra sub-partitions coding mode,2,H04N
+11272187,2022-03-08,Method and apparatus for video coding,1,H04N
+11272158,2022-03-08,Method and apparatus for point cloud compression,0,G06T|H04N
+11265581,2022-03-01,Method and apparatus for video coding,1,H04N
+11265580,2022-03-01,Supplemental enhancement information messages for neural network based video post processing,1,G06N|H04N
+11265568,2022-03-01,Method for derivation on sublayer-wise output layer set,0,H04N
+11265567,2022-03-01,Method for output layer set signaling in scalable video stream,0,H04N
+11265565,2022-03-01,Method and apparatus for video coding,0,H04N
+11265536,2022-03-01,Method to extend the range of rice parameter for residual coding in transform skip mode,0,G06F|H04N
+11265528,2022-03-01,Methods and systems for color smoothing for point cloud compression,0,G06T|H04N
+11259055,2022-02-22,Extended maximum coding unit size,0,H04N
+11259039,2022-02-22,Method and apparatus for prediction and transform for small blocks,2,H04N
+11259024,2022-02-22,Quantizer design,0,G06N|H04N
+11259016,2022-02-22,Method and apparatus for video coding,1,H04N
+11252443,2022-02-15,Method and apparatus for video coding,0,H04N
+11252442,2022-02-15,Method and apparatus for video coding,0,H04N
+11252439,2022-02-15,Flexible tree partition and representation for point cloud coding,1,H04N
+11252434,2022-02-15,Method for wrap-around padding for omnidirectional media coding,0,H04N
+11252425,2022-02-15,Method and apparatus for video coding,0,H04N
+11252410,2022-02-15,Method and apparatus for video coding,0,H04N
+11252409,2022-02-15,Tile and sub-picture partitioning,0,H04N
+11250594,2022-02-15,Method and apparatus for geometry smoothing by local geometry projection,0,G06T|H04N
+11250563,2022-02-15,"Hierarchical processing technique for lesion detection, classification, and segmentation on microscopy images",2,G06T|G16H
+11245903,2022-02-08,"Method and apparatus for quantization, adaptive block partitioning and codebook coding for neural network model compression",0,G06N|H04N
+11245899,2022-02-08,Method and system for single loop multilayer coding with subpicture partitioning,0,H04N
+11240519,2022-02-01,Hierarchical tiles,0,H04N
+11240518,2022-02-01,Method and apparatus for video coding,0,G06Q|H04N
+11240516,2022-02-01,Coding mode signaling for small blocks,0,H04N
+11240514,2022-02-01,Intra mode coding,1,H04N
+11240501,2022-02-01,L-type partitioning tree,0,A47L|H04N
+11240499,2022-02-01,Method and apparatus for video coding,4,H04N
+11240490,2022-02-01,Method and apparatus for intra prediction for non-square blocks in video compression,0,H04N
+11234024,2022-01-25,Method and apparatus for three-dimensional (3D)-tree coding for neural network model compression,0,G06N|H04N
+11234007,2022-01-25,Method and apparatus for video coding,0,H04N
+11232599,2022-01-25,Method and apparatus for inter-channel prediction and transform for point cloud attribute coding,0,G06T|H04N
+11232267,2022-01-25,Proximity information retrieval boost method for medical knowledge question answering systems,0,G06F|G16H
+11228796,2022-01-18,Pattern addressing for session-based dash operations,1,H04L|H04N
+11228777,2022-01-18,Method for layerwise random access in a coded video stream,0,H04N
+11228776,2022-01-18,Method for output layer set mode in multilayered video stream,0,H04N
+11223840,2022-01-11,Method and apparatus for video coding,1,H04N
+11223836,2022-01-11,Method and apparatus for point cloud coding,0,H04N
+11222200,2022-01-11,Video-based 3D hand pose and mesh estimation based on temporal-aware self-supervised learning,0,G06F|G06N|G06V
+11218728,2022-01-04,Method and apparatus for video coding,1,H04N
+11218727,2022-01-04,Method and apparatus for predictor candidate list size signaling for intra picture block compensation,0,H04N
+11218718,2022-01-04,Adaptive motion vector resolution signaling,1,H04N
+11212597,2021-12-28,Early termination of content,0,H04L|H04N
+11212555,2021-12-28,Method of reducing context models for entropy coding of transform coefficient significant flag,0,H04N
+11212545,2021-12-28,Method and apparatus for improved implicit transform selection,0,H04N
+11212530,2021-12-28,"Method for slice, tile and brick signaling",0,H04N
+11210813,2021-12-28,Method and apparatus for point cloud compression,0,G06T|H04N
+11209263,2021-12-28,3D hand pose estimation based on depth-image guided adversarial network 1,0,G01B|G06N|G06T|G06V
+11206428,2021-12-21,Method and apparatus for frequency-dependent joint component secondary transform,2,H04N
+11206417,2021-12-21,Method and apparatus for video coding,0,H04N
+11206416,2021-12-21,Method and apparatus for video coding,0,H04N
+11202089,2021-12-14,Method and apparatus for determining an inherited affine parameter from an affine model,2,H04N
+11202079,2021-12-14,Method and apparatus for video decoding of an affine model in an intra block copy mode,2,H04N
+11202054,2021-12-14,Method and apparatus for inter-channel prediction and transform for point-cloud attribute coding,5,G06T|H04N
+11197017,2021-12-07,Methods and apparatuses for video coding,1,H04N
+11197001,2021-12-07,Method and apparatus for interactions between decoder-side intra mode derivation and adaptive intra prediction modes,0,H04N
+11196778,2021-12-07,NBMP workflow management in 5G flus,2,H04L|H04N
+11190794,2021-11-30,Method and apparatus for video coding,3,H04N
+11190789,2021-11-30,Method and apparatus for video coding using inter-prediction mode signaling to dertermine motion vectors,2,H04N
+11190777,2021-11-30,Method and apparatus for video coding,1,H04N
+11190760,2021-11-30,Neural network based coefficient sign prediction,2,G06N|H04N
+11184635,2021-11-23,Method and apparatus for video coding with motion vector constraints,0,H04N
+11184632,2021-11-23,Method and apparatus for palette based coding mode under local dual tree structure,0,H04N
+11184630,2021-11-23,Method and apparatus for video coding,1,H04N
+11184420,2021-11-23,Methods and apparatuses for dynamic adaptive streaming over HTTP,0,H04L|H04N
+11178418,2021-11-16,Method and apparatus for efficient signaling of picture size and partitioning information in video bitstream,1,H04N
+11178415,2021-11-16,Signaling of CU based interpolation filter selection,0,H04N
+11178396,2021-11-16,Constrained intra prediction and unified most probable mode list generation,1,H04N
+11176699,2021-11-16,Augmenting reliable training data with CycleGAN for hand pose estimation,0,G06F|G06N|G06T|G06V
+11172236,2021-11-09,Method and apparatus for video decoding that defines a search range for a reference block indicated by a block vector,0,H04N
+11172230,2021-11-09,Method and apparatus for most probable mode derivation,0,H04N
+11172224,2021-11-09,Techniques and apparatus for generalized Trisoup geometry coding,2,G06T|H04N
+11172211,2021-11-09,Method and apparatus for video coding,1,H04N
+11172199,2021-11-09,Cross-component adaptive loop filter,0,H04N
+11172197,2021-11-09,Most probable mode list generation scheme,0,H04N
+11172019,2021-11-09,Systems and methods for unmanned aerial system communication,4,H04L|H04W
+11170167,2021-11-09,Automatic lexical sememe prediction system using lexical dictionaries,1,G06F
+11166067,2021-11-02,System and method for view optimized 360 degree virtual reality video streaming,1,H04N
+11166048,2021-11-02,Method and apparatus for video coding,2,G06T|H04N
+11166044,2021-11-02,Method and apparatus for improved compound orthonormal transform,0,H04N
+11166038,2021-11-02,Method for support of scalability with adaptive picture resolution,0,H04N
+11166015,2021-11-02,Method and apparatus for video coding,0,H04N
+11165847,2021-11-02,Techniques for multiple conformance points in media coding,0,H03M|H04L|H04N
+11159827,2021-10-26,Method for signaling output layer set with sub picture,1,H04N
+11159811,2021-10-26,Partitioning of coded point cloud data,3,H04N
+11159795,2021-10-26,Max transform size control,7,H04N
+11159792,2021-10-26,Shift based cross-component adaptive loop filter,0,H04N
+11158116,2021-10-26,Geometry model for point cloud coding,0,G06F|G06T
+11153598,2021-10-19,Method and apparatus for video coding using a subblock-based affine motion model,0,H04N
+11153597,2021-10-19,Decoder side MV derivation and refinement,2,H04N
+11153591,2021-10-19,Method and apparatus for color transform in VVC,0,H04N
+11153590,2021-10-19,Method and apparatus for video coding,3,H04N
+11151979,2021-10-19,Duration informed attention network (DURIAN) for audio-visual synthesis,0,G06T|G10L
+11146818,2021-10-12,Methods of intra picture block prediction for multi-view video compression,0,H04N
+11146813,2021-10-12,Method and apparatus for video coding,0,H04N
+11146808,2021-10-12,Method and apparatus for video coding,0,H04N
+11146806,2021-10-12,Coding unit level transform size restriction for adaptive color transform,1,H04N
+11146805,2021-10-12,Method and apparatus for video coding,3,H04N
+11146801,2021-10-12,Cross component intra prediction mode,2,H04N
+11146800,2021-10-12,Low latency local illumination compensation,1,H04N
+11140416,2021-10-05,Method and apparatus for temporal smoothing for video,0,G06T|H04N
+11140404,2021-10-05,Method and apparatus for video coding,0,H04N
+11140403,2021-10-05,Identifying tile from network abstraction unit header,2,H04N
+11140402,2021-10-05,Signaling of reference picture resampling with constant window size indication in video bitstream,0,H04N
+11140395,2021-10-05,Method and apparatus for adaptive point cloud attribute coding,2,G06T|H04N
+11140394,2021-10-05,Adaptive chroma intra mode coding in video compression,0,H04N
+11140388,2021-10-05,Method and apparatus for non-linear loop filtering,0,H04N
+11138966,2021-10-05,Unsupervised automatic speech recognition,0,G06F|G06N|G10L
+11138694,2021-10-05,Method and apparatus for geometric smoothing,0,G06T|H04N
+11134275,2021-09-28,Method and apparatus for performing primary transform based on filtering of blocks,0,H04N
+11134262,2021-09-28,Method and apparatus for video coding,0,H04N
+11134257,2021-09-28,Simplified signaling method for affine linear weighted intra prediction mode,48,H04N
+11131842,2021-09-28,Method and apparatus for displaying information ring and augmented reality display for microscope,0,G02B|G06T
+11128870,2021-09-21,Method and apparatus for video coding,0,H04N
+11128867,2021-09-21,Method and apparatus for video coding,0,H04N
+11128863,2021-09-21,Reference sample padding and filtering for intra prediction in video compression,0,H04N
+11128435,2021-09-21,Distributed and collaborative analytics of encrypted data using deep polynomial networks,0,G06F|G06N|G10L|H04L
+11127166,2021-09-21,Method and apparatus for enhanced patch boundary identification for point cloud compression,0,G06F|G06T|G06V|H04N
+11120581,2021-09-14,Method and apparatus for point cloud compression,0,G06T
+11115652,2021-09-07,Method and apparatus for further improved context design for prediction mode and coded block flag (CBF),4,H04N
+11113866,2021-09-07,Method and apparatus for point cloud compression,0,G06T|H04N
+11113817,2021-09-07,System and method for identifying target regions prior to organs at risk segmentation,0,G06T
+11109071,2021-08-31,Method and apparatus for dynamic point cloud partition packing,0,H04N
+11109069,2021-08-31,Signaling of scalability parameters in video bitstream,0,H04N
+11109041,2021-08-31,Method and apparatus for video coding,3,H04N
+11109025,2021-08-31,Method and apparatus for sub-block based temporal motion vector prediction,0,H04N
+11109023,2021-08-31,Intra mode selection in intra prediction,0,H04N
+11103142,2021-08-31,System and method for predicting vertebral artery dissection,0,A61B|G06N|G06T|G16H
+11102700,2021-08-24,Method and apparatus for device-to-device interconnected local area network,0,H04W
+11102513,2021-08-24,One-level transform split and adaptive sub-block transform,0,H04N
+11102490,2021-08-24,Coefficient scanning methods on adaptive angle mode,0,H04N
+11095921,2021-08-17,Method and apparatus for video encoding or decoding,2,H04N
+11095886,2021-08-17,Method and apparatus for multiple line intra prediction in video compression,0,H04N
+11095885,2021-08-17,Mode list generation for multi-line intra prediction,0,H04N
+11089318,2021-08-10,Signaling of adaptive picture size in video bitstream,0,H04N
+11070848,2021-07-20,Method for efficient signaling of virtual boundary for loop filtering control,0,H04N
+11070816,2021-07-20,Conversion of decoded block vector for intra picture block compensation,32,H04N
+11063992,2021-07-13,Network-based media processing (NBMP) workflow management through 5G framework for live uplink streaming (FLUS) control,5,G06F|H04L
+11057617,2021-07-06,Method and apparatus for video coding,2,H04N
+11051025,2021-06-29,Method and apparatus for video coding,0,H04N
+11044494,2021-06-22,"Method, apparatus and medium for decoding or encoding",0,H04N
+11044492,2021-06-22,Residual coding for transform skip mode and block differential pulse-code modulation,1,H04N
+11039170,2021-06-15,"Method, apparatus and medium for decoding",0,H04N
+11039167,2021-06-15,Method and apparatus for video coding,0,H04N
+11039158,2021-06-15,Method and apparatus for reference sample memory reuse for intra picture block compensation,0,H04N
+11039157,2021-06-15,Techniques for simplified affine motion model coding with prediction offsets,0,H04N
+11039156,2021-06-15,Unified position dependent prediction combination process,0,H04N
+11039150,2021-06-15,Method and apparatus for video coding,3,H04N
+11039139,2021-06-15,Method and apparatus for identity transform in multiple transform selection,16,H04N
+11037547,2021-06-15,Token-wise training for attention based end-to-end speech recognition,1,G06N|G10L
+11032574,2021-06-08,Method and apparatus for video coding,1,H04N
+11032573,2021-06-08,"Method, apparatus and medium for decoding or encoding",0,H04N
+11032563,2021-06-08,Method and apparatus for affine model prediction,1,H04N
+11032560,2021-06-08,Method and apparatus for video coding without updating the HMVP table,0,H04N
+11032551,2021-06-08,Simplified most probable mode list generation scheme,3,H04N
+11032548,2021-06-08,Signaling for reference picture resampling,0,H04N
+11032546,2021-06-08,Quantizer for lossless and near-lossless compression,5,H04N
+11032543,2021-06-08,Method and apparatus for video coding,3,H04N
+11032541,2021-06-08,Method and apparatus for video coding,0,H04N
+11030743,2021-06-08,System and method for coronary calcium deposits detection and labeling,0,A61B|G06T|G16H
+11030086,2021-06-08,Machine learning model full life cycle management framework,4,G06F|G06N
+11025951,2021-06-01,Method and apparatus for video coding,0,H04N
+11025948,2021-06-01,Method and apparatus for motion prediction in video coding,0,H04N
+11025946,2021-06-01,Method and apparatus for video coding,0,H04N
+11025937,2021-06-01,Method and apparatus for video coding,3,G06F|H04N
+11025936,2021-06-01,Method and apparatus for video coding,2,H04N
+11025935,2021-06-01,Method and apparatus for history based motion information buffer update with parallel processing capability,0,H04N
+11025917,2021-06-01,Method and apparatus for video coding,0,H04N
+11025909,2021-06-01,Method and apparatus for video coding,1,H04N
+11025905,2021-06-01,Method and device for decoding with palette mode,2,H04N
+11025904,2021-06-01,Method and apparatus for temporal motion vector prediction,0,H04N
+11019359,2021-05-25,Chroma deblock filters for intra picture block compensation,1,H04N
+11019331,2021-05-25,Method and apparatus for video coding with prediction information,0,H04N
+11012723,2021-05-18,Service descriptions for multimedia streaming,0,H04L|H04N
+11012721,2021-05-18,Method and apparatus for envelope descriptor in moving picture experts group network based media processing,1,G06F|H04L|H04N
+11012711,2021-05-18,Adaptive most probable modes for multiple reference line intra prediction,7,H04N
+11012710,2021-05-18,Techniques for intra prediction for 360 image and video coding,0,H04N
+11012707,2021-05-18,Method and apparatus for video coding,0,H04N
+11012704,2021-05-18,Method and apparatus for video coding,0,H04N
+11012701,2021-05-18,Residual coding for transform skip mode and block differential pulse-code modulation,2,H04N
+11012690,2021-05-18,Method and apparatus for video coding,0,H04N
+11012687,2021-05-18,Method and apparatus for video coding,5,H04N
+11012686,2021-05-18,Unified block vector prediction for intra picture block compensation,0,H04N
+11011154,2021-05-18,Enhancing hybrid self-attention structure with relative-position-aware bias for speech synthesis,1,G06N|G10L
+11010931,2021-05-18,Method and apparatus for video coding,0,G06T|H04N
+11006150,2021-05-11,Method and apparatus for video coding,0,H04N
+11006140,2021-05-11,Method and apparatus for video coding,0,H04N
+11006121,2021-05-11,LIC signaling methods,0,H04N
+11004443,2021-05-11,Multistage curriculum training framework for acoustic-to-word speech recognition,4,G06N|G10L
+10999590,2021-05-04,Method for identification of random access point and picture types,2,H04N
+10999589,2021-05-04,Method and apparatus for video coding,0,H04N
+10986364,2021-04-20,Method and apparatus for interframe point cloud attribute coding,2,H04N
+10986353,2021-04-20,Decoded picture buffer management for video coding,0,H04N
+10986347,2021-04-20,Method and apparatus for video coding,1,H04N
+10986339,2021-04-20,Method and apparatus for harmonization between transform skip mode and multiple transform selection,6,H04N
+10986334,2021-04-20,Method and apparatus for video coding,0,H04N
+10979730,2021-04-13,Techniques and apparatus for interframe point cloud attribute coding,0,G06T|H04N
+10979716,2021-04-13,Methods of accessing affine history-based motion vector predictor buffer,5,H04N
+10965956,2021-03-30,Method and apparatus for video coding,0,H04N
+10958934,2021-03-23,History-based affine merge and motion vector prediction,6,H04N
+10958904,2021-03-23,Method and apparatus for video coding,2,H04N
+10944964,2021-03-09,Method and apparatus for multi-line intra prediction,5,H04N
+10943673,2021-03-09,Method and apparatus for medical data auto collection segmentation and analysis platform,0,G06F|G16H
+10939101,2021-03-02,Method and apparatus for video coding,1,H04N
+10931963,2021-02-23,Method and apparatus for video coding,1,H04N
+10924751,2021-02-16,Data unit and parameter set design for point cloud coding,4,H04N
+10924731,2021-02-16,Complexity constraints on merge candidates list construction,0,H04N
+10917636,2021-02-09,Method and apparatus for video coding,0,H04N
+10916050,2021-02-09,Method and apparatus for synthesizing realistic hand poses based on blending generative adversarial networks,1,G06N|G06T|H04L
+10911768,2021-02-02,Constraint for template matching in decoder side motion derivation and refinement,0,H04N
+10911766,2021-02-02,Method and apparatus for video coding,3,H04N
+10911765,2021-02-02,Method and apparatus for video coding,7,H04N
+10911760,2021-02-02,Method and apparatus for history-based motion vector prediction,0,H04N
+10911751,2021-02-02,Method and apparatus for video coding,0,H04N

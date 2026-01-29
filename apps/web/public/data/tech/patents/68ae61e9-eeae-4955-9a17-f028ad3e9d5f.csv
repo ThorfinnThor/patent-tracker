@@ -1,0 +1,554 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12432087,2025-09-30,"Delay module for a controller area network (CAN), a CAN device, and a method for the delay module",0,G06F|H04L
+12427939,2025-09-30,Mobile hearable device,0,B60H|B60K|B60R|E05F|E05Y|G01S|G06F|G10L|H04B|H04R|H04W|H05B
+12425069,2025-09-23,Method for managing UWB communication sessions,0,H04B|H04W
+12425066,2025-09-23,CAN transceiver and method for the CAN transceiver,0,H04B|H04L
+12418869,2025-09-16,Communication device and operating method,0,H04B|H04W
+12418306,2025-09-16,Inter-symbol interference compensation for analog-to-digital converter,0,H03M|H04L
+12414228,2025-09-09,Printed circuit board with electromagnetic bandgap structure for launcher in package devices,0,H01L|H01Q|H05K
+12413399,2025-09-09,Fault detection in post-quantum cyptography,0,G06F|H04L
+12408265,2025-09-02,Integrated circuit and method for detecting tampering of a printed circuit board,0,G06F|H05K
+12407425,2025-09-02,Interference suppression module and associated methods,0,H04B|H04L
+12406951,2025-09-02,Redistribution layer having a sideview zig-zag profile,0,H01L
+12405628,2025-09-02,Clock control in a system on a chip (SoC),0,G06F|H03K
+12399834,2025-08-26,Data processing system having tagged and untagged address pointers and method for accessing a location in the data processing system,0,G06F
+12393704,2025-08-19,Methods and systems for multi-modal security access control based on details of security circumstances,0,G06F
+12389240,2025-08-12,Communication system and operating method,0,G01S|G07C|H04B|H04W
+12388689,2025-08-12,Coding module for a transceiver,0,H03M|H04L
+12388657,2025-08-12,Low-memory masked Dilithium with alternative signing algorithm,0,H04L
+12388654,2025-08-12,Method for superflous hash usage in hash-based signatures,0,H04L
+12388616,2025-08-12,Fault detection of differential fault attack in lattice based cryptography,0,H04L
+12388030,2025-08-12,Semiconductor device with stress relief feature and method therefor,0,H01L
+12387985,2025-08-12,Semiconductor device with cavity carrier and method therefor,0,H01L
+12386472,2025-08-12,Capacitive touch screens,0,G06F
+12386060,2025-08-12,Systems and methods for joint communication and sensing,0,G01S|H04B|H04L
+12375274,2025-07-29,Communication devices and operating methods,0,G01S|H04L
+12368118,2025-07-22,Integrated millimeter-wave dual-mode matching network,0,H01L|H01P|H03H|H05K
+12367123,2025-07-22,Method and system to delay a response associated with a bus transaction that is transmitted to a bus master to perform fault testing,0,G06F
+12362931,2025-07-15,Masked infinity norm check for crystals-dilithium signature generation,0,H04L
+12355586,2025-07-08,Scalable virtualized controller area network system,0,H04L
+12355456,2025-07-08,Time interleaved analog-to-digital converter with ADC unit correction,0,G06N|H03M
+12352888,2025-07-08,Data processing method for processing matrices in radar applications,0,G01S|G06F
+12348353,2025-07-01,RF communication device and operating method,0,H04B|H04L
+12348343,2025-07-01,Method and device for detecting proximity of an external RF field during ongoing RF activity of the device,0,H04B|H04L
+12346839,2025-07-01,System and method of fuzzing prevention using intentional responses that appear to be randomized,0,G06F|G06N|H04L
+12346696,2025-07-01,System and method of digital to analog conversion using dynamic element matching,0,G06F|H03M
+12346417,2025-07-01,Method for watermarking a machine learning model,0,G06F
+12336006,2025-06-17,System and method for combined performing of wireless communication and sensing,0,G01S|H04W
+12333162,2025-06-17,Power tearing protection within a non-volatile memory (NVM),0,G06F
+12333150,2025-06-17,Partitioned non-volatile memory (NVM) having a normal read bus and a verify read bus,0,G06F|G11C
+12332820,2025-06-17,Method and apparatus for performing address translations using a remapping process,0,G06F
+12332737,2025-06-17,Method and apparatus for fault indication propagation and fault masking in a hierarchical arrangement of systems,0,G06F
+12326465,2025-06-10,Detector circuit,0,G01R|G06F|H03K
+12323943,2025-06-03,System and method for facilitating localizing an external object,0,G01S|G07C|H04W
+12322665,2025-06-03,Integrated circuit,0,G01R|H01L|H03K|H10D
+12321548,2025-06-03,Tough panel location detection with different frequency-phase offset combinations of electrode signals,0,G06F
+12321501,2025-06-03,Method for securely provisioning an integrated circuit,0,G06F|H04L
+12316981,2025-05-27,Real time stream camera ISP with loosely coupled control loop,0,H04N
+12316733,2025-05-27,Ethernet transceiver coding module,0,H04L
+12316683,2025-05-27,"Architecture for monitoring, analyzing, and reacting to safety and cybersecurity events",0,G06F|H04L
+12315995,2025-05-27,Grounding assembly for a semiconductor device,0,H01L|H01Q
+12314203,2025-05-27,"Can controller, can device and method for the can controller",1,G06F|H04L
+12314192,2025-05-27,Multiple level SoC resource allocation and isolation system and method,0,G06F
+12313774,2025-05-27,Direction of arrival (DOA) estimation using circular convolutional network,0,G01S|G06N
+12308698,2025-05-20,Robust fail-safe system for prolonging the backup battery life in real-time low power MCU systems,0,G06F|H02J
+12306662,2025-05-20,Integrated circuit for clock generation,0,G06F|H03K
+12299313,2025-05-13,Method for proving erasure of a memory,0,G06F
+12293247,2025-05-06,"RF communication device without temporary connection line, and manufacturing method",0,G01R|G06K|H01L
+12289186,2025-04-29,Transceiver,0,G01S|H04B|H04L
+12289170,2025-04-29,"Network device, communication system and method for the network device",0,H04L
+12289165,2025-04-29,Counting packet loss in sequence recovery method,0,H04L
+12288770,2025-04-29,Semiconductor packages with embedded wiring on re-distributed bumps,0,H01L
+12287394,2025-04-29,Distance assessment with headerless packets,0,B60R|G01S|H04B|H04L
+12287391,2025-04-29,Method and apparatus for determination of direction of arrival angle,0,G01S|G06F
+12277220,2025-04-15,Method and device for detecting a profiling attack,0,G06F|H04L
+12273835,2025-04-08,Communication device and method of operating the same,0,G01S|H04W
+12267153,2025-04-01,Frame scheduling based on an estimated direct memory access (DMA) latency and apparatus for time aware frame scheduling,0,G06F|H04J|H04L
+12265626,2025-04-01,Apparatuses and methods with secure configuration update,0,G06F|G11C
+12265444,2025-04-01,Systems and methods for detection of persistent faults in processing units and memory,0,G06F
+12261716,2025-03-25,Controller area network system and a method for the system,0,H04L
+12261715,2025-03-25,"CAN module, CAN transceiver, CAN system and method for CAN module",0,H04L
+12261691,2025-03-25,End-to-end transaction integrity through standard interconnect,0,G06F|H04L
+12255700,2025-03-18,Dynamic BBA gain for near-field radio frequency signal processing,0,H04B|H04W
+12250611,2025-03-11,Positioning guidance for RFID devices,0,G06K|G06Q|H04B|H04W
+12250570,2025-03-11,System and method for combined performing of wireless communication and sensing,0,G01S|H04W
+12248831,2025-03-11,System and method for facilitating presentation of smart card data to users,0,G06K|G06Q|G07F
+12248644,2025-03-11,Circuit arrangement for a touch sensor,0,G06F
+12242335,2025-03-04,Method and apparatus for fault aggregation and support for virtualization,0,G06F
+12241990,2025-03-04,"Method, device and system for verifying UWB ranging results",0,G01S|H04W
+12238749,2025-02-25,Apparatuses and methods involving communications utilizing different protocols in a common channel,0,H04L|H04W
+12231273,2025-02-18,Mobile communication base station system and method,0,G01S|H04B|H04L
+12224781,2025-02-11,Transmitter circuit,0,G06F|H04B|H04L
+12224773,2025-02-11,Circuitry for encoding a bus signal and associated methods,0,H03K|H03M|H04L
+12212660,2025-01-28,Method and device for challenge-response authentication,0,H04L
+12212431,2025-01-28,"Controller area network node, CAN system and method for the node",0,H04L
+12212430,2025-01-28,Controller area network transceiver and method for the transceiver,0,G06F|H04L
+12212074,2025-01-28,Single die design for different polarizations,0,H01L|H01Q
+12211840,2025-01-28,Metal oxide semiconductor device,0,H01L|H10D
+12206521,2025-01-21,Apparatus for a controller area network,0,H04B|H04L
+12199696,2025-01-14,Near-field wireless device,0,H04B|H04L|H04W
+12199333,2025-01-14,Semiconductor device having uniform multi-package antenna array and method of manufacture,0,H01L|H01Q
+12198998,2025-01-14,Dielectric sidewall protection and sealing for semiconductor devices in a in wafer level packaging process,0,H01L
+12197626,2025-01-14,Communication node with secure cryptographic keys and methods for securing therein,0,G06F
+12197558,2025-01-14,Method for authenticating an electronic device,0,G06F|H04L
+12196804,2025-01-14,System for scan mode exit and methods for scan mode exit,0,G01R|G06F
+12192949,2025-01-07,Efficient UWB ranging,0,G01S|H04B|H04W
+12183595,2024-12-31,Selective underfill assembly and method therefor,0,H01L
+12177363,2024-12-24,Fault countermeasures for digital signatures with aborts,0,G06F|H04L
+12177338,2024-12-24,System and method for flexible post-quantum trust provisioning and updating,0,H04L
+12177153,2024-12-24,Communications with utilization of current preamble for decoding previous message,0,H04B|H04L|H04W
+12166879,2024-12-10,Rejection of masked polynomials,0,H04L
+12164781,2024-12-10,System and method for managing memory errors in integrated circuits,0,G06F
+12164427,2024-12-10,Data flow monitoring in a multiple core system,0,G06F
+12164401,2024-12-10,Method and apparatus to inject errors in a memory block and validate diagnostic actions for memory built-in-self-test (MBIST) failures,0,G01R|G06F|G11C
+12164369,2024-12-10,Method and apparatus for selective input/output (IO) terminal safe-stating for independent on-chip applications,0,G06F
+12164326,2024-12-10,Phase shifted clock generator,0,G06F|H03K|H03L
+12159042,2024-12-03,"Managing memory of a secure element domain, electronic device and method",0,G06F
+12142527,2024-11-12,Method and system for regulating plasma dicing rates,1,G01R|H01L|H10D
+12141636,2024-11-12,"RFID tag IC with standard-adapted counter increment, and RFID communication system",0,G06K|G06Q|H04W
+12137339,2024-11-05,Ultra-wideband communication node and method for contention based ranging,0,H04L|H04W
+12137010,2024-11-05,Network node identification using wireless signal signatures,0,G08C|H01M|H04B|H04L|H04Q|Y02E
+12132816,2024-10-29,Method and integrated circuit for clock recovery in an RFID tag,0,G06K|H04L
+12130373,2024-10-29,"Method, system, and device for wireless localization",0,G01S|H04W
+12127091,2024-10-22,Wearable safety apparatus including a body area network transceiver,0,G06F|G16H|H04B|H04W
+12125780,2024-10-22,Extendable inner lead for leaded package,0,H01L
+12125771,2024-10-22,Semiconductor package having lead frame with semiconductor die and component module mounted on opposite surfaces of the lead frame and methods of manufacture thereof,0,H01L
+12124385,2024-10-22,Bandwidth allocation,0,G06F
+12124347,2024-10-22,System and method for managing secure memories in integrated circuits,0,G06F|G11C|H04L
+12119893,2024-10-15,"NFC device, operating method and computer program",0,G06Q|H04B
+12113909,2024-10-08,Method and electronic device for decrypting homomorphically encrypted data,0,H04L
+12113647,2024-10-08,Controller area network apparatus with reconfiguration signalling,0,H04L
+12113550,2024-10-08,Enhanced tearing save encoding,0,G06F|H03M
+12106884,2024-10-01,"Radio frequency auto-transformer, radio frequency device and method of construction of an auto-transformer",0,H01F|H01L|H03F|H03H
+12105583,2024-10-01,Fault recovery system for functional circuits,0,G06F
+12099394,2024-09-24,Preserving a decoupling capacitor's charge during low power operation of a logic circuit,0,G06F
+12086246,2024-09-10,Method for protecting a machine learning model from a side channel attack,0,G06F
+12081371,2024-09-03,"Device for can transceiver, transceiver and method",1,H03F|H04B|H04L
+12080601,2024-09-03,Packaged semiconductor devices and methods therefor,0,H01L
+12079086,2024-09-03,Transceiver device,1,G06F|H04L
+12074124,2024-08-27,Integrated circuit package with integrated waveguide launcher,1,G01S|H01L|H01P|H01Q|H05K|Y02P
+12072757,2024-08-27,Data processing system with tag-based queue management,0,G06F
+12061228,2024-08-13,Degradation monitor for bond wire to bond pad interfaces,0,G01R|H01L
+12052051,2024-07-30,Ultra-wideband receiver module,1,G01S|H04B|H04L
+12050512,2024-07-30,Dynamic configuration of reaction policies in virtualized fault management system,0,G06F
+12050284,2024-07-30,Automotive radar with hardware accelerated target detection capability,0,G01S|G06F
+12047491,2024-07-23,Speeding up hash-chain computations,0,H04L
+12047489,2024-07-23,Apparatus to cryptographically provide a digital output signal as a response to a challenge,0,H04L
+12047113,2024-07-23,Communication device and operating method,0,G01S|H04B|H04L
+12041561,2024-07-16,Method and technique of highly accurate carrier frequency offset estimation,0,G01S|H04L|H04W
+12040034,2024-07-16,Method to increase the usable word width of a memory providing an error correction scheme,0,G06F|G11C|H03M
+12035133,2024-07-09,Secure key generation using a chaotic oscillator,0,G09C|H04B|H04L|H04W
+12032690,2024-07-09,Method for protecting a machine learning model from a side channel attack,1,G06F|G06N
+12032684,2024-07-09,Method for detecting a fault injection in a data processing system,1,G06F|G09C|H04L
+12028184,2024-07-02,Controller area network module and method for the module,0,H04L
+12022294,2024-06-25,Access control for Near Field Communication functions,0,H04L|H04W
+12021985,2024-06-25,Masked decomposition of polynomials for lattice-based cryptography,0,G06F|H04L
+12021973,2024-06-25,System and method for post-quantum trust provisioning and updating with contemporary cryptography,0,H04L
+12021893,2024-06-25,Method for partitioning a plurality of devices in a communications system and a device therefor,0,H04L|H04W
+12019759,2024-06-25,Data processing system and method for protecting data in the data processing system,1,G06F|G06N
+12013922,2024-06-18,Method for watermarking a machine learning model,1,G06F|G06N|G06T|G06V
+12009565,2024-06-11,Power combiner/splitter for millimetre wave applications,0,H01L|H01P|H03H
+12009267,2024-06-11,Nanosheet device with different gate lengths in same stack,0,H01L|H10D
+12004063,2024-06-04,Infrastructure controller for an infrastructure,0,B60R|G01C|G07C|H04M|H04W
+11995442,2024-05-28,"Processor having a register file, processing unit, and instruction sequencer, and operable with an instruction set having variable length instructions and a table that maps opcodes to register file addresses",0,G06F|G06N
+11994993,2024-05-28,Adaptive prefetcher for shared system cache,0,G06F
+11985217,2024-05-14,Network interface apparatus,0,H04L
+11979157,2024-05-07,"Single-ended to differential signal converter, and signal converting method",0,G06F|H03K
+11977181,2024-05-07,Systems and methods for processing errors in digital beamforming receivers,0,G01S|G06F|H03M
+11973551,2024-04-30,Communication device and operating method,0,G01S|H04B|H04W
+11971740,2024-04-30,Timing error detection and correction circuit,0,G06F|H03K
+11971445,2024-04-30,Integrated circuit and associated method,0,G01R|H01L
+11963291,2024-04-16,Efficient wave guide transition between package and PCB using solder wall,0,H01L|H01P|H05K
+11962305,2024-04-16,Ring oscillator based true random number generator and a method for generating a random number,0,G06F|H03K
+11961314,2024-04-16,Method for analyzing an output of an object detector,0,G06N|G06V
+11960358,2024-04-16,More secure data reading with error correction codes,0,G06F
+11947672,2024-04-02,Voltage glitch detection circuit,0,G06F|H03K
+11942984,2024-03-26,Communication device and operating method,4,G01S|G07C|H04B|H04L
+11941963,2024-03-26,System and method for facilitating detecting an unauthorized access to an object,1,B60R|G08B|H04B|H04L
+11941281,2024-03-26,Non-volative memory system configured to mitigate errors in read and write operations,0,G06F|G11C
+11935753,2024-03-19,Backside and sidewall metallization of semiconductor devices,0,H01L
+11928329,2024-03-12,System and method for managing access to registers,0,G06F|G11C
+11924346,2024-03-05,Efficient and masked sampling of polynomials for lattice-based cryptography,0,G06F|H04L
+11924102,2024-03-05,Minimizing deviation from average latency of table lookups,0,G06F|H04L
+11923840,2024-03-05,Power down signal generator,0,G06F|H03K
+11921197,2024-03-05,Controller for a communication and ranging apparatus,0,G01S|G07C|H04W
+11917089,2024-02-27,Reducing helper data size for physical unclonable function device,0,G11C|H04L
+11916616,2024-02-27,Near field communication device having an event detector,0,H02J|H04B|H04W
+11915537,2024-02-27,Entry system and method of operating the same,0,B60R|G01S|G07C|H04W
+11915507,2024-02-27,Location- and identity-referenced authentication method and communication system,0,G06F|G06Q|G06V|H04L|H04W
+11914703,2024-02-27,Method and data processing system for detecting a malicious component on an integrated circuit,0,G06F|G06N
+11909851,2024-02-20,Coalescing interrupts based on fragment information in packets and a network controller for coalescing,0,G06F|H04L
+11908296,2024-02-20,"System, device and methods for protecting a user device",0,G08B|H04B|H04W
+11902406,2024-02-13,Data communication using Constrained Application Protocol over local area network,0,H04L
+11893843,2024-02-06,Communication node and corresponding operating method,0,G07C|H04W
+11888866,2024-01-30,Security module for a CAN node,0,H04B|H04L
+11888659,2024-01-30,RFID IC with disturbance filter for digitally modulated signals,0,G06K|H04B|H04L|H04W
+11888215,2024-01-30,Antenna system and method of operating an antenna system,0,G01S|H01Q|H04B|H04W|Y02D
+11882455,2024-01-23,UWB communication node and system for facilitating a secure localization of UWB communication nodes,2,G01S|H04B|H04W
+11881425,2024-01-23,Technique for handling diced wafers of integrated circuits,0,B29C|H01L
+11879939,2024-01-23,System and method for testing clocking systems in integrated circuits,0,G01R|G06F|H03K
+11877256,2024-01-16,Method and system for determining the position of at least one node in a communication network,0,H04W|Y02D
+11876726,2024-01-16,Disabling cut-through frame transfer based on a cycle time period and apparatus for disabling,0,H04L
+11875619,2024-01-16,Infrastructure controller for an infrastructure and a key controller for a key,0,G06F|G07C|H04W|Y02D
+11870603,2024-01-09,Controller area network termination scheme,1,H04L
+11870511,2024-01-09,Near-field interface device,0,A63F|G06F|H04B|H04W
+11869837,2024-01-09,Semiconductor device packaging extendable lead and method therefor,0,H01L
+11853157,2023-12-26,Address fault detection system,0,G06F|G11C
+11849018,2023-12-19,System and method of clock recovery with low phase-error for card emulation clock-less NFC transceivers,0,G06K|H03L|H04B|H04L
+11848941,2023-12-19,Collection of diagnostic information in a device,0,G06F|G06Q|H04L
+11847938,2023-12-19,Combining regular and symbolic NTTs using co-processors,0,G06F|G09C|H04L
+11847545,2023-12-19,Systems and methods involving a combination of machine learning models,0,G06F|G06N
+11843388,2023-12-12,Can transmitter,1,G11C|H03L|H04L
+11842934,2023-12-12,Integrated circuit device die with wafer/package detection circuit,0,G01R|G06F|H01L
+11836492,2023-12-05,Extended pointer register for configuring execution of a store and pack instruction and a load and unpack instruction,0,G06F
+11818053,2023-11-14,Extending acceptable sequence range,0,H04L
+11817972,2023-11-14,Receive path,0,G01S|H04B|H04L
+11816486,2023-11-14,Efficient inter-thread communication between hardware processing threads of a hardware multithreaded processor by selective aliasing of register blocks,0,G06F
+11812274,2023-11-07,Methods and systems for committing transactions utilizing RF ranging while protecting user privacy,0,H04L|H04W
+11810875,2023-11-07,Packaged integrated circuit device with built-in baluns,1,G01S|H01L|H03H
+11809531,2023-11-07,Method for watermarking a machine learning model,0,G06F|G06N
+11808779,2023-11-07,Method for identifying an object having a replaceable accessary and an object therefor,0,G01H|G01L|G01P|G06F
+11803324,2023-10-31,System and method for managing transactions in integrated circuits,0,G06F
+11797373,2023-10-24,System and method for managing faults in integrated circuits,0,G06F
+11790069,2023-10-17,Biometric system,0,G06F|G06V|H04L
+11789886,2023-10-17,Controller area network device,1,G06F|H04L
+11783057,2023-10-10,Method for securely provisioning a device incorporating an integrated circuit without using a secure environment,0,G06F|H04L
+11783055,2023-10-10,Secure application execution in a data processing system,2,G06F|G06N
+11782744,2023-10-10,Data processing system and method for accessing data in the data processing system,0,G06F|H04L
+11778667,2023-10-03,Mitigating interference in channel access involving multiple systems,0,H04L|H04W
+11777862,2023-10-03,Method of receiver window widening and autodrift calculation using packet timestamping,0,H04L|H04W|Y02D
+11777204,2023-10-03,Package,1,H01L|H01Q
+11775310,2023-10-03,Data processing system having distrubuted registers,0,G06F
+11774576,2023-10-03,Phase-based ranging,0,G01S|H04B|H04L
+11770700,2023-09-26,Client privacy preserving session resumption,0,H04L|H04W
+11769797,2023-09-26,Method of making nanosheet fringe capacitors or MEMS sensors with dissimilar electrode materials,0,B82Y|H01L|H10D
+11769764,2023-09-26,Method for changing an integrated circuit design,2,G06F|H10D
+11769142,2023-09-26,Method for providing a digital representation of a transaction card in a mobile device,0,G06Q|H04W
+11768971,2023-09-26,"Tamper detection device, system, and method",0,B65D|G01D|G01R|G06F|G06K|G08B|H01G
+11764995,2023-09-19,Transceiver device,1,H04B|H04L
+11764833,2023-09-19,Phase value determination for an NFC card emulating device utilizing active load modulation,0,G06K|H04B|H04L
+11762993,2023-09-19,Securing cryptographic operations from side channel attacks using a chaotic oscillator,0,G06F|G09C|H03L|H04L
+11757610,2023-09-12,Low phase noise clock recovery over a data connection,2,G06F|H03L|H04L
+11755524,2023-09-12,Controller area network apparatus,0,G06F|H03M|H04L
+11755361,2023-09-12,Freedom from interference for aggregated communication channel handling using event-based processor extensions,0,G06F|H04J|H04L
+11753026,2023-09-12,Vehicle control device,0,B60K|B60W|G05B|G06F|G06V|H04L
+11749624,2023-09-05,Semiconductor device and method,0,H01L|H01Q
+11743091,2023-08-29,Mobile device frequency offset determination and TDoA localization,0,H04J|H04L|H04W
+11742130,2023-08-29,High current integrated circuit-based transformer,0,H01F|H01L|H03F|H10D
+11736937,2023-08-22,UWB communication node and operating method,1,G01S|H04L|H04W
+11735583,2023-08-22,Integrated isolator incorporating trench capacitor,0,H01L|H10D
+11728308,2023-08-15,Semiconductor device under bump structure and method therefor,0,H01L
+11726789,2023-08-15,Selectable register file blocks for hardware threads of a multithreaded processor,0,G06F
+11722327,2023-08-08,Controller area network controller and transceiver,3,G06F|H04L
+11722146,2023-08-08,Correction of sigma-delta analog-to-digital converters (ADCs) using neural networks,0,G06N|H03M
+11721586,2023-08-08,Method and system for regulating plasma dicing rates,1,G01R|H01L|H10D
+11720384,2023-08-08,Program code protection in a data processing system,0,G06F
+11714772,2023-08-01,Additional communication in standardized pinout of a bidirectional interface between a first and second communication device,0,G06F|H04L
+11714166,2023-08-01,Key fob localization inside vehicle,0,B60R|G01S|G06N|G07C|H04W
+11711764,2023-07-25,Autonomous wake on radio scheduler that schedules deterministic radio events to reduce involvement of primary processor,0,H04W|Y02D
+11709225,2023-07-25,Compression of data employing variable mantissa size,0,G01S|G06F
+11699208,2023-07-11,Method for watermarking a machine learning model,0,G06F|G06N|G06T|G06V
+11697413,2023-07-11,Vehicle control device,0,B60W|G06F|G06V
+11696237,2023-07-04,Near-field communication device with variable path-loss,0,H04B|H04W
+11695447,2023-07-04,Communication device and method of operating the same,2,H04B|H04W
+11694970,2023-07-04,Plated pillar dies having integrated electromagnetic shield layers,0,H01L
+11694761,2023-07-04,Method to increase the usable word width of a memory providing an error correction scheme,1,G06F|G11C|H03M
+11694497,2023-07-04,Proximity detection and authentication method and system,0,G07B|G07C|H04W
+11694015,2023-07-04,Signal routing between memory and memory controller,0,G06F
+11693966,2023-07-04,System and method for triggering and detecting hardware trojans,1,G01R|G06F
+11689932,2023-06-27,Wireless communication device and method for spying counter measures,0,H04B|H04W
+11689571,2023-06-27,Certificate provisioning and customer binding mechanisms using device group identification token,0,G06F|H04L|H04W
+11689363,2023-06-27,"Method for setting permissions for cryptographic keys, computer program and cryptographic processing system",0,H04L
+11688981,2023-06-27,Redriver to autonomously detect cable orientation,1,G06F|H01R|Y02D
+11688112,2023-06-27,Method for generating detailed visualization of machine learning model behavior,0,G06N|G06T|G06V
+11687678,2023-06-27,"Device, integrated circuit and methods for detecting, responding to and removing a compromising attack",0,G06F|H04W
+11677779,2023-06-13,Security module for a can node,1,G06F|H04B|H04L
+11677541,2023-06-13,Method and device for secure code execution from external memory,0,G06F|H04L
+11677504,2023-06-13,Wireless communication with repetition detection,0,H04L|H04W
+11677441,2023-06-13,Power line communication system,1,H02J|H04B|H04L
+11676885,2023-06-13,Semiconductor device packaging leadframe assembly and method therefor,1,H01L
+11676045,2023-06-13,Network node with reconfigurable rule-based routing,0,B60W|G06N|H04L
+11671924,2023-06-06,Receiving strongest signal in an RF receiver,0,H03G|H04B|H04W
+11671455,2023-06-06,Ethernet communications device and method for operating an ethernet communications device,0,H04L
+11671280,2023-06-06,Network node with diagnostic signalling mode,0,H04L
+11665021,2023-05-30,Can transceiver,0,G06F|H04B|H04L
+11664567,2023-05-30,Hollow waveguide assembly formed by affixing first and second substrates to form a cavity therein and having a conductive layer covering the cavity,0,H01L|H01P|H01Q|H05K
+11658056,2023-05-23,Technique for handling diced wafers of integrated circuits,0,B29C|C09J|H01L
+11652723,2023-05-16,Wireless communication with time-delay repetition detection,0,H03M|H04L|H04W
+11651354,2023-05-16,Efficient partially spendable e-cash,0,G06Q
+11645155,2023-05-09,Safe-stating a system interconnect within a data processing system,0,G06F
+11640997,2023-05-02,Buried Zener design,0,H01L|H10D
+11640947,2023-05-02,Pre-resist island forming via method and apparatus,1,C09D|G03F|H01L
+11640360,2023-05-02,Processing pipeline where fast data passes slow data,0,G06F
+11637743,2023-04-25,Communications device and method of communications,0,G07C|H04L|H04W
+11637591,2023-04-25,NFC device and method of operating the same,1,G06K|H04B|H04W
+11637024,2023-04-25,Method for glob top encapsulation using molding tape with elevated sidewall,0,G06K|H01L
+11636380,2023-04-25,Method for protecting a machine learning model against extraction using an ensemble of a plurality of machine learning models,0,G06F|G06N
+11636227,2023-04-25,Protection against fault attacks by duplication,0,G06F|H03K|H04L
+11635461,2023-04-25,Test apparatus and method for testing a semiconductor device,0,G01R|G01S|H01L|H01P|H01Q|H04B
+11630668,2023-04-18,Processor with smart cache in place of register file for providing operands,0,G06F
+11620623,2023-04-04,Merchant transaction mirroring for personal point of sale (pPOS) for card present e-commerce and in vehicle transaction,0,G06F|G06Q
+11620221,2023-04-04,Data flow monitoring in a multiple core system,0,G06F
+11620184,2023-04-04,Runtime integrity checking for a memory system,0,G06F|G11C
+11616861,2023-03-28,Symmetry receiving differential manchester encoding,1,H03M|H04L
+11616590,2023-03-28,System comprising multiple units,0,H04B|H04J|H04W
+11610978,2023-03-21,LDMOS with an improved breakdown performance,0,H01L|H10D
+11601274,2023-03-07,Enrollment device and method of facilitating enrollment of a biometric template,0,G06V|G08B|H04L
+11595195,2023-02-28,Masked decoding of polynomials,1,G06F|H04L
+11588668,2023-02-21,Channel equalizer and corresponding operating method,1,G06K|H04B|H04L
+11588663,2023-02-21,Controller area network transceiver,2,G06F|H03K|H04L
+11588662,2023-02-21,Controller area network transceiver,2,H04L
+11586989,2023-02-21,Method for detecting if a machine learning model has been copied using intermediate outputs of the machine learning model,1,G06N
+11586983,2023-02-21,Data processing system and method for acquiring data for training a machine learning model for use in monitoring the data processing system for anomalies,0,G06F|G06N
+11586860,2023-02-21,Method for preventing the extraction of a machine learning model,1,G06F|G06N|G06V
+11586728,2023-02-21,Methods for detecting system-level trojans and an integrated circuit device with system-level trojan detection,1,G01R|G06F|G06N
+11586568,2023-02-21,Controller and transceiver,0,G06F|H04L
+11586238,2023-02-21,Clock generator with noise rejection circuit,0,G06F|H03K|H03M
+11584314,2023-02-21,Collision detection on a can bus,1,B60R|H04L
+11576017,2023-02-07,"Intelligent transportation system, host processor, vehicle and method therefor",0,G08G|H04L|H04W|Y04S
+11567770,2023-01-31,Human-machine-interface system comprising a convolutional neural network hardware accelerator,1,G06F|G06N|G06V
+11567676,2023-01-31,Inline encryption/decryption for a memory controller,0,G06F
+11558836,2023-01-17,Noise responsive near-field communications device,0,H04B|H04W
+11558074,2023-01-17,Processing signals to account for multipath-reflection phenomena in RF communications,1,H04B|H04J|H04L
+11557491,2023-01-17,Selective underfill assembly and method therefor,0,H01L
+11557365,2023-01-17,Combined ECC and transparent memory test for memory fault detection,1,G06F|G11C
+11556394,2023-01-17,System and method for controlling access to shared resource in system-on-chips,0,G06F|G11C
+11550684,2023-01-10,Testing of lockstep architecture in system-on-chips,0,G06F|G11C
+11546766,2023-01-03,First path acceptance for secure ranging,2,G01S|G06F|H04L|H04W
+11539451,2022-12-27,Method and system for merging clocks from multiple precision time protocol (PTP) clock domains,0,H04J|H04W
+11539351,2022-12-27,Mode detector for DC-DC converters,0,G05F|G06F|H02M|H03K
+11533612,2022-12-20,Transceiver system,0,H04B|H04L|H04W
+11533053,2022-12-20,Programmable ask demodulator,0,H03K|H04L
+11532936,2022-12-20,Electrostatic discharge (ESD) protection device,0,H01L|H02H
+11532546,2022-12-20,Fringe capacitor arranged based on metal layers with a selected orientation of a preferred direction,0,H01L|H10D
+11532374,2022-12-20,Memory testing,0,G06F|G11C|H03K
+11528124,2022-12-13,Masked comparison circumventing compression in post-quantum schemes,1,H04L
+11522872,2022-12-06,CAN transceiver,1,H04L
+11522774,2022-12-06,Network switch,0,H04L
+11521084,2022-12-06,Anomaly detection in a data processing system,0,G06F|G06N
+11520708,2022-12-06,Memory system with an incremental hashing operation and method,0,G06F|H04L
+11520600,2022-12-06,Controller area network transceiver and controller,2,G06F|H04B|H04L
+11518343,2022-12-06,Vehicle access based on RF digests/backgrounds,0,B60R|G01S|H04W
+11516621,2022-11-29,Localization device and method of operating a localization device,2,G01S|H04W
+11516043,2022-11-29,Monolithic high-voltage transceiver connected to two different supply voltage domains,0,B60R|H04L
+11514418,2022-11-29,Personal point of sale (pPOS) device with a local and/or remote payment kernel that provides for card present e-commerce transaction,0,G06Q
+11509461,2022-11-22,System and method for obfuscating opcode commands in a semiconductor device,1,G06F|H04L
+11508669,2022-11-22,Method and apparatus for improved circuit structure thermal reliability on printed circuit board materials,0,G06F|H01L|Y02P
+11508606,2022-11-22,Technique for handling diced wafers of integrated circuits,0,B29C|H01L
+11503591,2022-11-15,Transmission of payload between a mobile device and a plurality of anchor devices via ranging-capable physical layer communication,3,G01S|H04B|H04W
+11502843,2022-11-15,Enabling secure internet transactions in an unsecure home using immobile token,0,G06Q|H04L|H04W
+11502819,2022-11-15,Efficient masked polynomial comparison,1,H04L
+11501212,2022-11-15,Method for protecting a machine learning model against extraction,0,G06F|G06N
+11501206,2022-11-15,Method and machine learning system for detecting adversarial examples,1,G06F|G06N
+11501108,2022-11-15,Adding a fingerprint to a machine learning model,2,G06F|G06N|G06V
+11500989,2022-11-15,"Method of managing priority in the context of a secure element domain with multiple interfaces, electronic device and communication system",0,G06F|G06K|G06Q|H04B|H04L|H04W
+11500976,2022-11-15,Challenge-response method for biometric authentication,0,G06F|H04L
+11500970,2022-11-15,Machine learning model and method for determining if the machine learning model has been copied,1,G06F|G06N
+11500901,2022-11-15,Apparatuses and methods involving synchronization using data in the data/address field of a communications protocol,0,G06F|H04L
+11500786,2022-11-15,System and method for protecting memory encryption against template attacks,0,G06F|H04L
+11489627,2022-11-01,Wireless communications device and method of wireless communications,0,H04L|H04W
+11488904,2022-11-01,System and method for reducing mutual coupling for noise reduction in semiconductor device packaging,0,H01L
+11487682,2022-11-01,Priority queue sorting system and method with deterministic and bounded latency,1,G06F|H04L
+11482478,2022-10-25,Shielded electronic package and method of fabrication,0,H01L
+11481015,2022-10-25,Power consumption management in protocol-based redrivers,0,G06F|H04L
+11477033,2022-10-18,Authentication without pre-known credentials,0,H04L
+11476887,2022-10-18,Controller area network controller and transceiver,0,H04B|H04L
+11476209,2022-10-18,RF amplifiers with series-coupled output bondwire arrays and shunt capacitor bondwire array,0,H01L|H03F
+11470020,2022-10-11,Automotive packet data switch with pipeline diversity,0,B60R|B60W|H04L
+11468291,2022-10-11,Method for protecting a machine learning ensemble from copying,0,G06N
+11463555,2022-10-04,Local interconnect network (LIN) messaging between LIN partitions separated by a backbone communication network,0,H04L
+11463198,2022-10-04,Security module for a serial communications device,1,G06F|H04L
+11461642,2022-10-04,Apparatus for processing a signal,2,G06F|G06N|G10L
+11461205,2022-10-04,Error management system for system-on-chip,0,G06F
+11457524,2022-09-27,Integrated filter for de-sense reduction,0,G06F|H05K
+11457346,2022-09-27,Electronic device and method for managing an IC card with multiple SIM profiles,0,H04B|H04W
+11451365,2022-09-20,Communications device and method of communications,0,H04J|H04L
+11449611,2022-09-20,Apparatuses and methods involving a circuit for detecting a hardware-trojan,1,G06F|G06N
+11444767,2022-09-13,Method for multiplying polynomials for a cryptographic operation,0,G06F|H04L
+11436383,2022-09-06,Active shielding device and method of active shielding,0,G05F|G06F|G06K|G11C|H03K
+11435940,2022-09-06,Testing a memory which includes conservative reversible logic,1,G06F|G11C
+11432238,2022-08-30,Transceiver-based handshake/power-reduction,0,H04B|H04L|H04W
+11431439,2022-08-30,Controller area network transceiver,0,H04L
+11427160,2022-08-30,Field superposition method and system,0,B60R|G07C|H01Q|H04B|H04W
+11422187,2022-08-23,Data retention during structural testing of system-on-chtps,0,G01R|G06F
+11418879,2022-08-16,Audio signal blending with beat alignment,0,G06F|G11B|H03M|H04H|H04R
+11416378,2022-08-16,Integrated circuit device with integrated fault monitoring system,0,G01R|G06F
+11415626,2022-08-16,Method and apparatus comprising a semiconductor device and test apparatus,0,G01R|G01S|H01L|H01Q|H04B
+11412373,2022-08-09,Client privacy preserving session resumption,1,H04L|H04W
+11411749,2022-08-09,System and method for performing netlist obfuscation for a semiconductor device,1,G06F|H03K|H04L
+11411599,2022-08-09,Managing a communication system with a plurality of anchor devices using ultra-wide band communication,3,H04B|H04W
+11410078,2022-08-09,Method and data processing system for making machine learning model more resistent to adversarial examples,0,G06N|H04L
+11410057,2022-08-09,Method for analyzing a prediction classification in a machine learning model,0,G06F|G06N
+11409995,2022-08-09,Anomaly detection by classifying past behavior,0,G06F|G06N
+11409970,2022-08-09,UWB communication device and corresponding operating method,0,G06K|H04W
+11409845,2022-08-09,Method for determining if a machine learning model has been copied,1,G06F|G06N|H04L
+11409843,2022-08-09,Method for protecting a software program from copying,0,G06F|G06N
+11408990,2022-08-09,Systems and methods for selecting ultra-wideband preamble according to environmental condition,1,G01S|H04B|H04L|H04W
+11405171,2022-08-02,System and method for controlling full duplex communications at an access point,2,H04L|H04W
+11405037,2022-08-02,Driver circuit of voltage translator,1,G06F|H02M|H03K
+11404532,2022-08-02,Fingered capacitor with low-k and ultra-low-k dielectric layers,0,H01L|H10D
+11400889,2022-08-02,"UWB ranging device, personal communications device incorporating such a device, and methods of operating the same",3,B60R|G01S|G07C|H01Q|H04B|H04W
+11398936,2022-07-26,Wireless communications device and method of wireless communications,1,H04L
+11386192,2022-07-12,Authentication token and method of operating the same,0,G06F|H04L|H04W
+11385320,2022-07-12,Localization system and method,2,G01S|H04L
+11381329,2022-07-05,Detecting a moving object based on a phase of channel impulse responses,0,G01S|G08B|H04B|H04L
+11380634,2022-07-05,Apparatuses and methods for coupling a waveguide structure to an integrated circuit package,0,G01S|H01L|H01P|H01Q
+11378600,2022-07-05,Squelch and disconnect detector,0,G01R|G06F|H03H|H03K|H04B|Y02D
+11374685,2022-06-28,Address filtering in a radio frequency front end of a receiver,0,H03M|H04B|H04L|H04W|Y02D
+11368382,2022-06-21,Communications device and method of communications,1,H04L
+11368330,2022-06-21,Error frame detection,4,H04L
+11355457,2022-06-07,Fully digital glitch detection mechanism with process and temperature compensation,0,G06F|H01L|H03K
+11349968,2022-05-31,Communications device and method of communications,0,H04L
+11349463,2022-05-31,Wideband buffer with DC level shift and bandwidth extension for wired data communication,1,H03F|H03K|H04B|H04L
+11334291,2022-05-17,Method and apparatus for isolating a memory,0,G06F|G11C
+11330415,2022-05-10,Near field communication device and method of operating the same,0,G06Q|H04B|H04W
+11329834,2022-05-10,System and method for generating and authenticating a physically unclonable function,0,G06F|H03K|H04L
+11328045,2022-05-10,Biometric system and method for recognizing a biometric characteristic in the biometric system,0,G06F|G06V|H04L
+11327151,2022-05-10,Ranging technology use for ultra-broadband communication in millimeter wave communication systems,0,G01S|H01Q|H04B|H04W
+11324013,2022-05-03,Wireless communication with channel suppression,0,H04B|H04L|H04W
+11323294,2022-05-03,Ultra-wideband device power optimization,3,G07C|H04B|H04L|Y02D
+11321456,2022-05-03,Method and system for protecting a machine learning model against extraction,1,G06F|G06N
+11321437,2022-05-03,Method for enabling a biometric template,1,G06F|G06Q|H04L
+11321435,2022-05-03,User authentication system and method for enrolling fingerprint reference data,0,G06F|G06Q|G06V|G07F
+11321269,2022-05-03,Dynamic address allocation in improved inter-integrated circuit communication,1,G06F|H03K|Y02D
+11321253,2022-05-03,Interrupt rate limiter,0,G06F
+11321076,2022-05-03,System and method for applying patches to executable codes,0,G06F
+11301607,2022-04-12,Testing of asynchronous reset logic,0,G01R|G06F
+11301542,2022-04-12,Methods and apparatuses involving fast fourier transforms processing of data in a signed magnitude form,0,G06F
+11296858,2022-04-05,Communications device and method of communications,0,H04J|H04L
+11296737,2022-04-05,Gain control circuit for linear equalizer with programmable equal step peaking gain,1,H03F|H03G|H03M|H04B|H04L
+11296692,2022-04-05,Power-on reset circuit,0,G05F|G06F|H03K
+11295093,2022-04-05,Transponder and method of operating the same,1,G01S|G06F|G06K
+11295025,2022-04-05,Probabilistic memory safety using cryptography,1,G06F|H04L|Y02D
+11290068,2022-03-29,Miniaturized wideband active balun with controllable equalization,0,H03F|H04L
+11277287,2022-03-15,Processing amplitude modulation signals with noise estimation,0,H03C|H03D|H04B|H04L
+11277162,2022-03-15,Adjacent channel suppression based on adjacent channel properties in FM radio broadcast receivers,0,H04B|H04L
+11272543,2022-03-08,Physical layer device that connects to a shared media and method for operating a physical layer device that connects to a shared media,0,H04L|H04W
+11272363,2022-03-08,Authentication method in a communication system,0,H04L|H04W
+11271732,2022-03-08,Robust repeatable entropy extraction from noisy source,0,G06F|H03M|H04L
+11271722,2022-03-08,Apparatuses and methods involving authentication of radar-based digital data stream using cryptographic hashing,0,G01S|H04L|H04W
+11270972,2022-03-08,Package with conductive underfill ground plane,0,H01L
+11270227,2022-03-08,Method for managing a machine learning model,1,G06F|G06N
+11269788,2022-03-08,Managing memory in an electronic device,0,G06F|Y02D
+11269633,2022-03-08,System and method for executing a number of NOP instructions after a repeated instruction,0,G06F
+11258480,2022-02-22,System and method of optimized backup functionality for electronic control key,0,B60R|G07C|H02J|H04B|H04W
+11256498,2022-02-22,"Node, a vehicle, an integrated circuit and method for updating at least one rule in a controller area network",0,G06F|H04L
+11251989,2022-02-15,Secure bridging of controller area network buses,0,H04L
+11250168,2022-02-15,Microcontroller and power supply,0,G06F|H04L
+11247697,2022-02-15,Object-detection system calibration,0,B60R|B60W|G01S|G06F|G06V|H04L
+11245555,2022-02-08,Wideband passive buffer with DC level shift for wired data communication,4,H03F|H04L
+11240814,2022-02-01,Wireless vehicular communications with channel allocation involving different protocols,0,H04L|H04W
+11228478,2022-01-18,Systems and methods for calibration of in-phase/quadrature (I/Q) modulators,3,H04L
+11228470,2022-01-18,Continuous time linear equalization circuit,2,H03F|H04L
+11226649,2022-01-18,Clock delay circuit,0,G06F|H03K
+11222961,2022-01-11,"Lateral semiconductor device having raised source and drain, and method of manufacture thererof",0,H01L|H10D
+11222861,2022-01-11,Dual-interface IC card module,0,G06K|H01L|H01Q
+11215694,2022-01-04,Built-in self-test for a radar unit receiver and method therefor,1,G01R|G01S|G06F|H04B
+11206174,2021-12-21,Method and system for diagnosis of failures in a communications network,0,G01R|H04L
+11206170,2021-12-21,Communications device and method for operating a communications device,0,H03D|H03F|H04B|H04L
+11206161,2021-12-21,Adaptive equilizer and gain controller,2,H03G|H04L
+11206160,2021-12-21,High bandwidth continuous time linear equalization circuit,1,H03F|H04L
+11206136,2021-12-21,Method for multiplying polynomials for a cryptographic operation,1,G06F|H04L
+11206130,2021-12-21,Customizing cryptographic keys between multiple hosts,0,H04L|H04W
+11204987,2021-12-21,Method for generating a test for distinguishing humans from computers,0,G06F|G06N
+11204832,2021-12-21,Detection of a cold boot memory attack in a data processing system,0,G06F
+11201113,2021-12-14,Integrated passive coupler and method,0,H01L
+11200128,2021-12-14,Network interface device and method for operating a network interface device,3,G06F|H04L
+11199621,2021-12-14,Clock-stop frequency adjustment for a transponder,0,G01S|G06F|G06K|H03K|H03L
+11190386,2021-11-30,Smart adjacent-channel indicating/scanning for FM modulation,0,H04H|H04L
+11190372,2021-11-30,Differential bus network,0,H04L
+11178074,2021-11-16,Communications device and method of communications,0,H04L
+11177210,2021-11-16,Integrated circuit with non-functional structures,0,G06F|H01L
+11176070,2021-11-16,Push pull ringing suppression circuit,3,G06F|H04L
+11175691,2021-11-16,Power-optimized ranging sequence by snapshot clock switching,0,G01S|G06F|H03L|Y02D
+11175404,2021-11-16,Lidar system and method of operating the lidar system comprising a gating circuit range-gates a receiver based on a range-gating waveform,1,G01S|G06T|H10F
+11171793,2021-11-09,Method and system for detecting an attack on a physically unclonable function (PUF),5,H04L
+11171676,2021-11-09,Dynamic sensitivity control in a near-field communication receiver,0,G06K|H04B|H04L
+11170093,2021-11-09,Authentication device and system,0,G06F|H04L
+11169952,2021-11-09,Data transmission code and interface,0,G06F|Y02D
+11163346,2021-11-02,Recycling capacitance energy from active mode to low power mode,0,G06F|H02M|Y02B|Y02D
+11153418,2021-10-19,Wireless vehicular communications with dynamic-based relationships,1,H04L|H04W
+11146433,2021-10-12,High data rate transmission using minimum energy coding with ultra wide band modulation,0,H04B|H04L
+11145340,2021-10-12,Data transmission code and interface,0,G01R|G06F|G11C|H04L|Y02D
+11133578,2021-09-28,Semiconductor device package comprising an encapsulated and conductively shielded semiconductor device die that provides an antenna feed to a waveguide,0,G01S|H01L|H01P|H01Q
+11128266,2021-09-21,Amplifiers with feedback circuits,2,H03F|H04B|H04W
+11126992,2021-09-21,"Method for facilitating transactions, computer program product and mobile device",0,G06F|G06Q|G09C|H04L|H04W
+11126432,2021-09-21,Computer processor and method with short forward jump instruction inhibiting,0,G06F
+11126404,2021-09-21,Random number generator using multiple entropy sources and a method for generating random numbers,0,G06F|H04L
+11115264,2021-09-07,Apparatuses and methods involving managing port-address assignments,0,G06F|H04L
+11115141,2021-09-07,Wired communications device and method for operating a wired communications device,1,H04B|H04J|H04L
+11114239,2021-09-07,"Electronic device, device package, and method of fabrication",0,G01R|H01G|H01L|H05K
+11113484,2021-09-07,Consumable product and method of providing the same,0,A47L|G06K|G06Q
+11108842,2021-08-31,Wired communications device and method for operating a wired communications device,1,H04B|H04L
+11107778,2021-08-31,Active shielding device and method of active shielding,1,G05F|G06F|H01L|H03K
+11102000,2021-08-24,Key derivation scheme for data frame transmission in ultra-wide band ranging in keyless entry systems,2,G01S|G07C|H04B|H04L|H04W
+11101810,2021-08-24,Training a machine learning system for ADC compensation,9,G06N|H03M
+11100380,2021-08-24,Electronic device,0,G06F|G06K|H05K
+11100222,2021-08-24,Method for hardening a machine learning model against extraction,0,G06F|G06N
+11100219,2021-08-24,Method and device for detecting a malicious circuit on an integrated circuit,0,G01R|G06F
+11099619,2021-08-24,Power supply management for a data storage device,2,G06F|G06K|H04B
+11099598,2021-08-24,Phase alignment of a controller clock to a field,2,G06F|H03L|H04B
+11082075,2021-08-03,Automatic gain control symbol partial use for decoding,0,H04B|H04L
+11079432,2021-08-03,Integrated laser voltage probe pad for measuring DC or low frequency AC electrical parameters with laser based optical probing techniques,0,G01R|H01L
+11074150,2021-07-27,Chip health monitor,0,G01R|G05F|G06F
+11073936,2021-07-27,Interactive poster,0,G06F|G09F|H01Q|H04B
+11068040,2021-07-20,Clock gating unit for a transponder,0,G06F|G06K|Y02D
+11063789,2021-07-13,Galvanic isolation circuit,0,H04B|H04L|H05K|Y02E|Y02T
+11061844,2021-07-13,Transmitter with independently adjustable voltage and impedance,10,G06F|H03K|H04L
+11057742,2021-07-06,Methods for facilitating a relative position determination,2,G01S|H04W
+11057396,2021-07-06,"Intelligent transportation system station, host processor, and method therefor",0,G09C|H04L
+11055202,2021-07-06,Compilation scheme for tagged global variables,0,G06F
+11051244,2021-06-29,Ultra-wideband (UWB) receiver device and method for operating a UWB device,0,H04B|H04L|H04W|Y02D
+11050759,2021-06-29,Secure adaptive wireless communications,0,G01S|H04B|H04L|H04W
+11050726,2021-06-29,Update-driven migration of data,0,G06F|H04B|H04L|H04W
+11050461,2021-06-29,"Toy, method for controlling a toy, and computer program product",0,A63H|G06F|H04B|Y02D
+11049817,2021-06-29,Semiconductor device with integral EMI shield,0,H01L
+11049395,2021-06-29,"Intelligent transportation system station, host processor, and method therefor",0,G06F|G08G|H04L|H04W
+11043929,2021-06-22,Method and system for gain control in a communications device,0,H03G|H03M|H04B|H04L|H04W
+11038995,2021-06-15,Communications device and method of communications,0,H04L
+11038714,2021-06-15,Controller area network transceiver,3,H04L
+11038713,2021-06-15,Communications device and method for communications,0,H04L|Y02D
+11038508,2021-06-15,"Controller area network (CAN), CAN device and method therefor",10,H03F|H03K|H03M|H04B|H04L
+11037435,2021-06-15,Radio frequency communication device,3,G08B|H04B|H04L|H04Q
+11036657,2021-06-15,Writing block for a receiver,0,G06F
+11025421,2021-06-01,Advanced modular handshake for key agreement and optional authentication,0,H04L
+11025295,2021-06-01,Optimizing MRC coefficients for RAKE receiver for increasing SNR,0,H04B|H04L
+11023623,2021-06-01,Method for triggering and detecting a malicious circuit in an integrated circuit device,2,G01R|G06F
+11023591,2021-06-01,Data processing system having distributed security controller with local control and method for securing the data processing system,1,G06F
+11023344,2021-06-01,Data processing system having a monitoring system and method for monitoring,0,G06F|G06N
+11019043,2021-05-25,Method and apparatus for updating an encryption key,0,H04L
+11018879,2021-05-25,Method and system for authentication with side-channel attack protection using pre-calculated ciphers,0,H04L|H04W
+11011813,2021-05-18,Power amplifier with shielded transmission lines,0,H01L|H01P|H03F|H03H
+11011182,2021-05-18,Audio processing system for speech enhancement,1,G06F|G10L|Y02D
+11010323,2021-05-18,Apparatuses and methods involving disabling address pointers,0,G06F
+11004069,2021-05-11,Article and method for transaction irregularity detection,1,G06Q
+10999102,2021-05-04,FM spectrum estimation relative to adjacent channel,2,H04B|H04L
+10999099,2021-05-04,Physical layer device and method for operating a physical layer device,2,H04L
+10999097,2021-05-04,Apparatuses and methods involving first type of transaction registers mapped to second type of transaction addresses,0,H04L
+10999096,2021-05-04,Functional safety transceiver,0,B60R|G06F|H04L
+10998489,2021-05-04,Magnetic shielding structure for MRAM array,1,H01L|H10B|H10N
+10998002,2021-05-04,Audio time stretching,0,G10L|G11B|H04N
+10996950,2021-05-04,Apparatuses and methods involving selective disablement of side effects caused by accessing register sets,2,G06F
+10992504,2021-04-27,Active load modulation transceiver,0,H04B|H04L
+10992419,2021-04-27,Wireless communications device and method for performing an angle measurement,6,H04B|H04L|H04W
+10991187,2021-04-27,Electronic identification device,0,B42D|G06K|G07C|H04W
+10990785,2021-04-27,"Apparatus and method for measuring a capacitance, and a fingerprint sensor utilizing the same",0,G01R|G06F|G06V
+10985805,2021-04-20,Apparatus and methods for synchronization of transmitters,2,H04B|H04W
+10985795,2021-04-20,Switch arrangement,0,H03H|H03K|H04B|H04L
+10964332,2021-03-30,Audio communication method and apparatus for watermarking an audio signal with spatial information,1,G10L|H04L|H04M|H04S
+10959073,2021-03-23,Wireless vehicular communications according to vehicular communications protocols using reservation times,1,H04W
+10955473,2021-03-23,System and method of scan reset upon entering scan mode,2,G01R|G06F
+10945210,2021-03-09,Control system for a radio frequency communication device,3,H04B|H04L|H04W|Y02D
+10945206,2021-03-09,System and method for configurable low-power wake-up detection,1,H04W|Y02D
+10944557,2021-03-09,Secure activation of functionality in a data processing system,0,G06F|H04L
+10944552,2021-03-09,Communication devices and associated method,4,H04L|H04W
+10944447,2021-03-09,Multi-channel near-field electromagnetic induction device,4,H04B|H04W
+10944435,2021-03-09,Tearing save encoding,3,G06F|H03M
+10943080,2021-03-09,Fingerprint sensing device with ESD protection,0,G06F|G06Q|G06V|H10D
+10942748,2021-03-09,Method and system for processing interrupts with shadow units in a microcontroller,3,G06F
+10939359,2021-03-02,Location-based communication,0,H04W
+10937782,2021-03-02,Electrostatic discharge protection structure,0,H01L|H02H|H10D
+10937750,2021-03-02,Low stress pad structure for packaged devices,0,H01L
+10924307,2021-02-16,Continuous time linear equalization circuit with programmable gains,6,H03F|H03K|H04L
+10922264,2021-02-16,CAN transceiver,3,G06F|H04B|H04L
+10917773,2021-02-09,Near-field wireless device,2,H04B|H04W

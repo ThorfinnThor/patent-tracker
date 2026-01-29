@@ -1,0 +1,537 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12425822,2025-09-23,Early boarding of passengers in autonomous vehicles,0,B60W|G05D|G06Q|H04W
+12422529,2025-09-23,Auto-exposure occlusion camera,0,G01S|H04N
+12422266,2025-09-23,Augmented reality wayfinding,0,G01C|G06T|G06V
+12420846,2025-09-23,Agent trajectory prediction using context-sensitive fusion,0,B60W|G05B|G06F|G06V
+12417520,2025-09-16,Systems and methods for a tone mapper solution for an autonomous driving system,0,G06T
+12412471,2025-09-09,Wrong-way driving modeling,0,B60W|G06N|G08G
+12412130,2025-09-09,Arranging tour trips using autonomous vehicles,0,B60W|G01C|G06Q
+12406579,2025-09-02,Real-time multi-vehicle sensing and perception,0,G08G|H04W
+12403790,2025-09-02,Antenna on charger infrastructure,0,B60L|B60W|G01C|H01Q|H02J|H04B|H04L
+12397805,2025-08-26,Cross-validating sensors of an autonomous vehicle,0,B60Q|B60R|B60W|G01D|G01S|G06V|G08G|H04N
+12394085,2025-08-19,Long range distance estimation using reference objects,0,G01S|G06N|G06T|G06V
+12394012,2025-08-19,"Systems, methods, and apparatus for aligning image frames",0,G06T|G06V|H04N
+12387017,2025-08-12,Non-determinism testing for software for controlling autonomous vehicles,0,G06F
+12386032,2025-08-12,Methods and systems for using interference to detect sensor impairment,0,B60W|G01S|H04W
+12384292,2025-08-12,Communications for autonomous vehicles,0,B60G|B60Q|G01C|G05D|G06N|G06Q|G08G
+12380226,2025-08-05,"Autonomous vehicle sensor security, authentication and safety",0,B60W|G06F|G06V|H04L
+12373984,2025-07-29,Multi-modal 3-D pose estimation,0,G06F|G06T|G06V
+12372629,2025-07-29,Multi-chip daisychain for output aggregation,0,B60W|G01S|G06F
+12367592,2025-07-22,Object labeling for three-dimensional data,0,G06T|G06V
+12367326,2025-07-22,Realism metric for testing software for controlling autonomous vehicles,0,G05D|G06F
+12366857,2025-07-22,Perimeter sensor housings,0,B60S|B60W|G01S|G05D|G06F|G06V|H04N
+12366461,2025-07-22,Inconvenience for passenger pickups and drop offs for autonomous vehicles,0,G01C|G06F|G06Q|G06T|G06V|G09B
+12365361,2025-07-22,Agent trajectory prediction using target locations,0,B60W|G01S|G06N|G06Q|G06V
+12365345,2025-07-22,Using audio to detect road conditions,0,B60R|B60W|G06N|H04R
+12361567,2025-07-15,Multi-frame temporal aggregation and dense motion estimation for autonomous vehicles,0,B60W|G06T|G06V
+12360535,2025-07-15,Autonomous vehicle having a thermal infrared camera with replaceable filter,0,B60W|G05D|H04N
+12359932,2025-07-15,Establishing routines for autonomous vehicle transportation services,0,B60W|G01C|G06Q
+12348907,2025-07-01,Augmented reality display to preserve user privacy,0,G06Q|H04N
+12344273,2025-07-01,Pedestrian crossing intent yielding,0,B60W|G06N
+12339659,2025-06-24,Non-passenger requests for autonomous vehicles,0,G05D|G06F|G06Q|G07C|G08G
+12337866,2025-06-24,Map reports from vehicles in the field,0,B60W|G01C|G01S|G05D|G06F|G06T|H04L
+12333819,2025-06-17,"Autonomous vehicle sensor security, authentication and safety",0,B60W|G06F|G06V|H04L
+12333817,2025-06-17,Association of camera images and radar data in autonomous vehicle applications,0,G01S|G06F|G06N|G06V
+12332649,2025-06-17,Reducing inconvenience to surrounding road users caused by stopped autonomous vehicles,0,B60W|G05D|G06Q|G06V|G08G
+12332113,2025-06-17,Stray-light testing station,0,G01J|G03B|H04N
+12330687,2025-06-17,Queueing into pickup and drop-off locations,0,B60W|G01C|G06Q|G08G|H04W
+12325452,2025-06-10,Agent trajectory prediction using dynamic candidate future intents,0,B60W|G06N
+12321258,2025-06-03,Collision evaluation for log-based simulations,0,G06F
+12319206,2025-06-03,Interior camera system for a self driving car,0,B60R|G05D|G06V|G08B|H04N
+12315083,2025-05-27,Performing point cloud tasks using multi-scale features generated through self-attention,0,G06F|G06T
+12314880,2025-05-27,Service area maps for autonomous vehicles,0,G06Q|G08G|H04W
+12314853,2025-05-27,Training agent trajectory prediction neural networks using distillation,0,G06N|G06T
+12314058,2025-05-27,Targeted driving for autonomous vehicles,0,G01C|G05D|G06Q|G08G
+12300105,2025-05-13,Identifying parkable areas for autonomous vehicles,0,G01C|G06N|G06V|G08G
+12300002,2025-05-13,Pipeline architecture for road sign detection and evaluation,0,B60W|G06F|G06V
+12299916,2025-05-13,Three-dimensional location prediction from images,0,G06N|G06T|G06V
+12299898,2025-05-13,Predicting the future movement of agents in an environment using occupancy flow fields,0,G06T|G06V
+12298400,2025-05-13,False positive object removal with surfel maps,0,G01S|G06T
+12296855,2025-05-13,Unmapped U-turn behavior prediction using machine learning,0,B60W|G05D|G06N
+12296836,2025-05-13,Calibration of sensors in autonomous vehicle applications,0,B60W|G01S|G06F|G06T
+12287630,2025-04-29,Arranging passenger pickups for autonomous vehicles,0,B60W|G05D|G06Q|G08G
+12280803,2025-04-22,Identifying the position of a horn honk or other acoustical information using multiple autonomous vehicles,0,B60W|G01S|G06N|G10L|H04R
+12276752,2025-04-15,Identification of spurious radar detections in autonomous vehicle applications,0,B60W|G01S|G06F|G06T|G06V
+12275430,2025-04-15,Identification of proxy calibration targets for a fleet of vehicles,0,B60W|B62D|G01C|G06V|G08G|H04W
+12275412,2025-04-15,Slice-based dynamic neural networks,0,B60W|G06F|G06N|G06V
+12273378,2025-04-08,Denial of service response to the detection of illicit signals on the in-vehicle communication network,0,H04L|H04W
+12271195,2025-04-08,Systems and methods for vehicles with limited destination ability,0,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+12266190,2025-04-01,Object identification in bird's-eye view reference frame with explicit depth estimation co-training,0,G06T|G06V
+12260650,2025-03-25,Close-in sensing camera system,1,B60R|G01S|G06V|H04N
+12259727,2025-03-25,Multiple destination trips for autonomous vehicles,0,B60W|G05D|G06Q|G08G|H04W
+12250476,2025-03-11,Adjustable vertical field of view,0,H04N
+12250468,2025-03-11,Microlensing for real-time sensing of stray light,0,G05D|H04N
+12250447,2025-03-11,Multiple operating modes to expand dynamic range,0,B60R|H04N
+12248097,2025-03-11,Multiplexed multichannel photodetector,0,G01S|H04N
+12244485,2025-03-04,Methods and apparatus for monitoring a sensor validator,0,B60W|H04L
+12243416,2025-03-04,Vehicle location assistance using audible signals,0,B60Q|G01C|G05D|G08G|H04W
+12237948,2025-02-25,Low-speed ring with controlled jitter,0,H04L
+12236327,2025-02-25,Automated system and method for modeling the behavior of vehicles and other agents,0,B60W|G01R|G05D|G06N|G06V|G08G
+12229972,2025-02-18,Unsupervised training of optical flow estimation neural networks,0,G06N|G06T
+12228932,2025-02-18,Automatically requesting vehicles,0,B60R|B60W|B62D|E05F|E05Y|G01C|G05D|G06Q|G06V|G07C|G08G
+12228928,2025-02-18,System and method for evaluating the perception system of an autonomous vehicle,0,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+12223831,2025-02-11,Detecting and responding to sirens,0,G01S|G06F|G06V|G08G|H04R
+12221118,2025-02-11,Knowledge distillation for autonomous vehicles,0,B60W|G06F|G06N|G06V
+12217168,2025-02-04,Agent trajectory prediction using vectorized inputs,0,B60W|G01C|G05D|G06N|G06T|G06V|G08G|H04W
+12216536,2025-02-04,"Low-overhead, bidirectional error checking for a serial peripheral interface",0,G06F
+12216474,2025-02-04,Vibrometry-based behavior prediction for autonomous vehicle applications,0,B60W|G01S|G05D|G06N|G08G
+12216471,2025-02-04,Pickup and drop off zones for autonomous vehicles,0,G01C|G05D|G06Q|G08G
+12216231,2025-02-04,Systems and methods for data communication via a rotary link,0,G01S|G08C|H02J|H04B|H04L|H04W
+12214807,2025-02-04,Arranging trips for autonomous vehicles based on weather conditions,0,B60H|B60W|G01C|G01P|G06Q|G08G
+12214721,2025-02-04,External facing communications for autonomous vehicles,0,B60Q|F21S|G06Q|G07B|H05B
+12211287,2025-01-28,Camera systems using filters and exposure times to detect flickering illuminated objects,0,B60W|G01C|G05D|G06T|G06V
+12211269,2025-01-28,Time-line based object tracking annotation,0,G06N|G06V
+12210947,2025-01-28,Road condition deep learning model,0,B60W|G05D|G06N
+12204969,2025-01-21,Automatic labeling of objects in sensor data,0,G01S|G06K|G06V|G09F|H04W
+12204333,2025-01-21,Verifying predicted trajectories using a grid-based approach,0,B60W|G05D|G06N
+12204332,2025-01-21,Method for performing a vehicle assist operation,0,B60W|B62D|G05D|G06V|G08G|H04W
+12200337,2025-01-14,Flexure amplified piezo actuator for focus adjustment,0,H02N|H04N
+12197215,2025-01-14,System and method of providing recommendations to users of vehicles,0,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+12195013,2025-01-14,Evaluating multi-modal trajectory predictions for autonomous driving,0,B60W|G06N
+12190735,2025-01-07,Testing a scheduling system for autonomous vehicles using simulations,0,B62D|G06F|G08G
+12190463,2025-01-07,Synthesizing three-dimensional visualizations from perspectives of onboard sensors of autonomous vehicles,0,G06T
+12181607,2024-12-31,Systems and methods for occlusion detection,0,G01S|G06T|G06V
+12175767,2024-12-24,End-to-end object tracking using neural networks with attention,2,B60W|G06T|G06V
+12174640,2024-12-24,Assisted perception for autonomous vehicles,1,B60W|G05D|G06V|G07C|H04L
+12174324,2024-12-24,In-situ sensor calibration for autonomous vehicles,0,G01S|G06T
+12169420,2024-12-17,Timebase synchronization using pulsed signal injection,0,G01S|G06F
+12165400,2024-12-10,Railroad light detection,0,G05D|G06N|G06V|G08G
+12159451,2024-12-03,Automatic labeling of objects in sensor data,1,B60W|G01C|G06F|G06V|H04W
+12157501,2024-12-03,Predicting agent trajectories in the presence of active emergency vehicles,0,B60W|G06N|G06V
+12154347,2024-11-26,Region detection and geometry prediction,0,G01S|G06T|G06V
+12154212,2024-11-26,Generating environmental data,0,B60W|G06N|G06T
+12153427,2024-11-26,"Systems, methods, and apparatus for using remote assistance to annotate images of an environment",0,G05D|G06T|G06V|H04W
+12149868,2024-11-19,Rotating LIDAR with co-aligned imager,0,B60R|G01S|H04N
+12147891,2024-11-19,High bandwidth camera data transmission,0,G06F|G06N|G06T|G06V|H04N
+12143734,2024-11-12,Enhanced depth of focus cameras using variable apertures and pixel binning,0,G01S|G02B|H04N
+12141083,2024-11-12,Control calibration timing to avoid memory write blackout period,0,G06F
+12139172,2024-11-12,Predicting near-curb driving behavior on autonomous vehicles,0,B60W|G05D|G06N
+12137285,2024-11-05,Camera peek into turn,0,B60R|G05D|G06T|H04N
+12136273,2024-11-05,Identification of real and image sign detections in driving applications,0,B60W|G06F|G06V
+12136271,2024-11-05,"Long-range object detection, localization, tracking and classification for autonomous vehicles",0,B60W|G01S|G05D|G06F|G06V
+12136226,2024-11-05,"Systems, apparatus, and methods for retrieving image data of image frames",0,G06T|G06V
+12133005,2024-10-29,Synchronized spinning LIDAR and rolling shutter camera system,0,G01S|G06T|H04N
+12131550,2024-10-29,Methods and apparatus for validating sensor data,0,B60W|G06F|G06V
+12128922,2024-10-29,User interface techniques for recommending remote assistance actions,0,B60W|G01C|G05D|G06F|G06T
+12126881,2024-10-22,"Systems, apparatus, and methods for generating enhanced images",0,H04N
+12125298,2024-10-22,Efficient three-dimensional object detection from point clouds,1,G01S|G06T|G06V
+12124386,2024-10-22,Memory validation,0,G06F
+12123735,2024-10-22,Suggesting a route based on desired amount of driver interaction,0,B60W|G01C|G05D|H04L
+12122364,2024-10-22,Detection of pedestrian using radio devices,0,B60W|G05D|H04W
+12120463,2024-10-15,Adjusting vehicle sensor field of view volume,0,B60W|G01S|G01W|G05D|G06V|G08G|H04N
+12117520,2024-10-15,Methods and systems for radar image video compression using per-pixel doppler measurements,0,B60W|G01S|G06T|H03M
+12111411,2024-10-08,Automated generation of radar interference reduction training data for autonomous vehicle systems,0,G01S|G06N
+12106528,2024-10-01,Generating scene flow labels for point clouds using object labels,0,G06F|G06N|G06T|G06V|H04N
+12103542,2024-10-01,Extracting agent intent from log data for running log-based simulations for evaluating autonomous vehicle software,0,B60W|G06F
+12099365,2024-09-24,Determining and responding to an internal status of a vehicle,0,B60K|B60N|B60Q|B60R|B60W|G01C|G05D|G06N
+12097889,2024-09-24,Agent trajectory prediction using anchor trajectories,0,B60W|G06F|G06N|G06T|G06V|G08G
+12095805,2024-09-17,Autonomous vehicle security measures in response to an attack on an in-vehicle communication network,0,H04L|H04W
+12091054,2024-09-17,Semantic identification of pickup locations,0,B60W|G05D|G06Q|G06V|G08G
+12091049,2024-09-17,Methods and systems for automatic problematic maneuver detection and adapted motion planning,0,B60W|G01C|G06F
+12086738,2024-09-10,Resource allocation for an autonomous vehicle transportation service,0,G06N|G06Q
+12085935,2024-09-10,Open door reconstruction for sensor simulation,0,G05D|G06F|G07C
+12084088,2024-09-10,Pedestrian intent yielding,0,B60W|G06N
+12079004,2024-09-03,Verification of iterative closest point alignments for autonomous vehicles,0,G01S|G05D|G06N
+12077188,2024-09-03,Leveraging weather information to improve passenger pickup and drop offs for autonomous vehicles,0,B60W|G01C|G05D|G06Q|G08G
+12073575,2024-08-27,Object-centric three-dimensional auto labeling of point cloud data,0,G06T|G06V
+12073244,2024-08-27,Task scheduling for agent prediction,0,B60K|G06F|G06N
+12071162,2024-08-27,Pull-over location selection using machine learning,0,B60W|G06N
+12067738,2024-08-20,Estimating ground truth object keypoint labels for sensor readings,0,G01S|G05D|G06T
+12067471,2024-08-20,Searching an autonomous vehicle sensor data repository based on context embedding,1,B60W|G06F|G06N|G06V|G08G
+12066525,2024-08-20,Methods and systems for three dimensional object detection and localization,0,B60W|G01S|G06N|G06T|G06V
+12063457,2024-08-13,"Systems, apparatus, and methods for transmitting image data",0,H04N
+12061091,2024-08-13,Methods and systems for sun-aware vehicle routing,2,B60W|G01C|G05D|G06T|G06V|H04N
+12060080,2024-08-13,Puddle occupancy grid for autonomous vehicles,0,B60W|G06F|G06V
+12059994,2024-08-13,Close-in illumination module,0,B60Q|B60R|G01S|G03B|H04N
+12058308,2024-08-06,Aperture health monitoring mode,0,B08B|G02B|G06T|G06V|H04N
+12056898,2024-08-06,Camera assessment techniques for autonomous vehicles,0,G01S|G06F|G06T|G06V|H04N
+12055632,2024-08-06,LIDAR based stereo camera correction,0,B60R|G01S|G06T
+12052519,2024-07-30,Smart sensor scheduler,0,G06F|G06T|G06V|H04N
+12051249,2024-07-30,Behavior prediction of surrounding agents,0,B60W|G06F|G06N|G06V
+12049221,2024-07-30,Multi-modal multi-agent trajectory prediction,1,B60W|G06N
+12043174,2024-07-23,Communications for autonomous vehicles,1,B60G|B60Q|G01C|G05D|G06N|G06Q|G08G
+12039757,2024-07-16,Associating labels between multiple sensors,0,G06N|G06T|G06V
+12036916,2024-07-16,Unique signaling for vehicles to preserve user privacy,0,B60Q|B60W|G01C|G05D|G06Q|G08G
+12030523,2024-07-09,Agent trajectory planning using neural networks,1,B60W|G06N|G06V
+12030509,2024-07-09,Realism in log-based simulations,0,B60W|G06F
+12020412,2024-06-25,Systems and methods for a tone mapper solution for an autonomous driving system,1,G06T
+12019443,2024-06-25,Use of detected objects for image processing,0,B60W|G01S|G05D|G06V|H04N
+12014524,2024-06-18,Low-light camera occlusion detection,0,G05D|G06T|G06V|H04N
+12005927,2024-06-11,Enabling content playing in autonomous vehicles of a transportation service,0,B60W|G06Q
+12003894,2024-06-04,"Systems, methods, and apparatus for event detection",1,G06V|H04N
+12002367,2024-06-04,Fallback requests for autonomous vehicles,0,B60W|G05D|G06F|G08G
+11989795,2024-05-21,Partner trip application programming interface,0,B60W|G06Q
+11989666,2024-05-21,Predicting trajectory intersection by another road user,0,B60W|G05D|G06N
+11989116,2024-05-21,Collision evaluation for log-based simulations,0,G06F
+11987265,2024-05-21,Agent trajectory prediction using target locations,2,B60W|G01S|G06N|G06Q|G06V
+11983972,2024-05-14,Simulating virtual objects,0,G05D|G06F|G07C
+11977387,2024-05-07,Queueing into pickup and drop-off locations,0,B60W|G01C|G06Q|G08G|H04W
+11977382,2024-05-07,Ranking agents near autonomous vehicles by mutual importance,0,B60W|G05D|G06N
+11977167,2024-05-07,Efficient algorithm for projecting world points to a rolling shutter image,0,G01S|H04N
+11972342,2024-04-30,Image sensor architecture,0,G06N|G06V|H01L|H04N|H10F
+11971716,2024-04-30,Suggesting alternative pickup and drop off locations for autonomous vehicles,0,G05D|G06Q
+11967103,2024-04-23,Multi-modal 3-D pose estimation,1,G06F|G06T|G06V
+11965988,2024-04-23,Multiplexed multichannel photodetector,0,G01S|H04N
+11962924,2024-04-16,Smart sensor with region of interest capabilities,0,H04N
+11961272,2024-04-16,Long range localization with surfel maps,0,B60W|G06T|G06V
+11960336,2024-04-16,Method of temperature conditioning compute module for cold start,0,G06F|Y02D
+11959774,2024-04-16,Extrinsic calibration of sensors mounted on a vehicle,0,G01C|G01S|G06T
+11959759,2024-04-16,Managing a fleet of vehicles,1,B60L|G01C|G05D|G06Q|G07C|G08G|Y02T|Y04S
+11958505,2024-04-16,Identifying the position of a horn honk or other acoustical information using multiple autonomous vehicles,0,B60W|G01S|G06N|G10L|H04R
+11958502,2024-04-16,Foreign object detection with surfel maps,0,B60W|G01C|G06F|G06V
+11954411,2024-04-09,High fidelity simulations for autonomous vehicles based on retro-reflection metrology,0,B60W|G01S|G06F
+11951991,2024-04-09,Semantic object clustering for autonomous vehicle decision making,0,B60W|G01C|G05D|G06F|G06V|G08G
+11950166,2024-04-02,Predicting occupancy probabilities of surrounding agents,1,G06F|G06N|G06V|H04W
+11947353,2024-04-02,Non-passenger requests for autonomous vehicles,1,G05D|G06F|G06Q|G07C|G08G
+11945467,2024-04-02,Identification of proxy calibration targets for a fleet of vehicles,1,B60W|B62D|G01C|G06V|G08G|H04W
+11941875,2024-03-26,Processing perspective view range images using neural networks,1,G01S|G06F|G06N|G06T|G06V|H04N
+11941519,2024-03-26,Machine learning training platform,0,G06N
+11938943,2024-03-26,Slice-based dynamic neural networks,0,B60W|G06F|G06N|G06V
+11936845,2024-03-19,Localized window contaminant detection,0,B60S|G01N|G01S|G02B|G06T|G06V|H04N
+11934988,2024-03-19,Dispatch and local delivery interface for autonomous vehicles,4,G06F|G06Q
+11933666,2024-03-19,Stray-light testing station,1,G01J|G03B|H04N
+11933647,2024-03-19,Sensor region of interest selection based on multisensor data,0,G01D|G01S|G06V|H04N
+11928866,2024-03-12,Neural networks for object detection and characterization,0,B60R|G05D|G06N|G06V
+11927956,2024-03-12,Methods for transitioning between autonomous driving modes in large vehicles,0,B60W|B62D|G05D|G06V|G08G|H04W
+11927955,2024-03-12,Methods for transitioning between autonomous driving modes in large vehicles,0,B60W|B62D|G05D|G06V|G08G|H04W
+11927440,2024-03-12,Capacitive position sensing for camera focus management,0,G01B|G02B|H04N
+11926347,2024-03-12,Conditional agent trajectory prediction,0,B60W|G06N
+11922829,2024-03-05,Visual communication system,0,B60Q|G06Q|G09F
+11922569,2024-03-05,Generating realistic point clouds,0,G06N|G06T|G06V
+11922362,2024-03-05,"Cargo inspection, monitoring and securement in self-driving trucks",0,B60P|B60R|B60W|G06Q|G06T|G06V
+11917281,2024-02-27,"Camera system, method and instructions using images captured by a first mage sensor and a second image sensor to generate a third image corresponding to a simulated lens having an intermediate focal length",1,B60R|H04N
+11915490,2024-02-27,Annotated surfel maps,0,G01C|G01S|G06F|G06V
+11914377,2024-02-27,Autonomous vehicle behavior when waiting for passengers,0,B60R|B60W|B62D|E05F|E05Y|G01C|G05D|G06Q|G06V|G07C|G08G
+11904902,2024-02-20,Identifying a customer of an autonomous vehicle,0,B60W|G06Q|G06V
+11904886,2024-02-20,Modifying autonomous vehicle behavior prediction based on behavior prediction errors,0,B60W|G06F|G06N|G06V
+11904779,2024-02-20,Interior camera system for a self driving car,0,B60R|G05D|G06V|G08B|H04N
+11902648,2024-02-13,Position sensor and hybrid substrate for camera focus management,0,G03B|H04N
+11900697,2024-02-13,Stop location change detection,0,B60W|G06F|G06V
+11900224,2024-02-13,Generating trajectory labels from short-term intention and long-term result,0,B60W|G05D|G06N
+11893524,2024-02-06,Service area maps for autonomous vehicles,1,G06Q|G08G|H04W
+11892842,2024-02-06,Methods and systems for vehicle occupancy confirmation,0,B60N|B60R|B60W|G05D|G06T|G06V|G08G|H04N
+11892307,2024-02-06,Stranding and scoping analysis for autonomous vehicle services,0,G01C|G06F
+11887474,2024-01-30,Detecting and responding to traffic redirection for autonomous vehicles,0,G05D|G06T|G06V|G08G
+11887380,2024-01-30,Sidewalk detection for pedestrian behavior modeling,0,B60W|G05D|G06F|G06T|G06V
+11887378,2024-01-30,Close-in sensing camera system,0,B60R|G01S|G06V|H04N
+11885883,2024-01-30,LIDAR optics alignment system,0,G01S|H04N
+11884291,2024-01-30,Assigning vehicles for transportation services,0,B60W|G06N|G06Q
+11880902,2024-01-23,"Systems, apparatus, and methods for enhanced image capture",0,B60R|G06F|G06T
+11880758,2024-01-23,Recurrent neural network classifier,0,B60W|G06N|G06V
+11880200,2024-01-23,Perimeter sensor housings,0,B60S|B60W|G01S|G05D|G06F|G06V|H04N
+11878683,2024-01-23,Automated system and method for modeling the behavior of vehicles and other agents,1,B60W|G01R|G05D|G06N|G06V|G08G
+11875516,2024-01-16,"Systems, apparatus, and methods for retrieving image data of image frames",1,G06T|G06V
+11873043,2024-01-16,Various interior and exterior features for autonomous vehicles,0,B60K|B60L|B60N|B60Q|B60R|B62D|G01R|G06Q|G08G|G09F|H02J|Y02T
+11873011,2024-01-16,Labeling lane segments for behavior prediction for agents in an environment,0,B60W|G06N
+11872998,2024-01-16,Cross-validating sensors of an autonomous vehicle,0,B60Q|B60R|B60W|G01D|G01S|G06V|G08G|H04N
+11868286,2024-01-09,Memory validation,0,G06F
+11866068,2024-01-09,Detecting and responding to malfunctioning traffic signals for autonomous vehicles,0,B60W|G06F|G06V|G08G
+11861915,2024-01-02,Pipeline architecture for road sign detection and evaluation,0,B60W|G06F|G06V
+11861481,2024-01-02,Searching an autonomous vehicle sensor data repository,0,G05D|G06F|G06N
+11860730,2024-01-02,"Low-overhead, bidirectional error checking for a serial peripheral interface",0,G06F
+11854390,2023-12-26,Detecting and responding to sirens,0,G01S|G06F|G06V|G08G|H04R
+11854269,2023-12-26,"Autonomous vehicle sensor security, authentication and safety",0,B60W|G06F|G06V|H04L
+11854229,2023-12-26,Object localization for autonomous driving by visual tracking and image reprojection,0,G05D|G06F|G06T|G06V
+11853067,2023-12-26,Arranging passenger pickups for autonomous vehicles,0,G05D|G06Q|G08G|H04W
+11851081,2023-12-26,Predictability-based autonomous vehicle trajectory assessments,3,B60W|G06F|G06N|G06V
+11849508,2023-12-19,Enhancing vehicle connectivity using a modular telematics control unit,0,H01Q|H04W
+11848691,2023-12-19,Method and system for inactive and active beam transition in a satellite radio access network,0,H04B|H04W
+11848487,2023-12-19,Modular telematics control unit with directional Bluetooth low energy,0,H01Q|H04M|H04W
+11842282,2023-12-12,Neural networks for coarse- and fine-object classifications,0,G01S|G05D|G06F|G06N|G06V|G08G
+11841236,2023-12-12,Automatically requesting vehicles,1,B60R|B60W|B62D|E05F|E05Y|G01C|G05D|G06Q|G06V|G07C|G08G
+11840173,2023-12-12,External facing communications for autonomous vehicles,0,B60Q|F21S|G06Q|G07B|H05B
+11838689,2023-12-05,Rotating LIDAR with co-aligned imager,0,B60R|G01S|H04N
+11837093,2023-12-05,Lane change notification,2,B60W|G01C|G05D|G06T|G06V|G08G
+11836955,2023-12-05,Detecting unfamiliar signs,0,G05D|G06T|G06V
+11835348,2023-12-05,Advanced trip planning for autonomous vehicle services,0,G01C|G05D|G06Q
+11834067,2023-12-05,Comfort scales for autonomous driving,0,B60W|G06F|G06V|G08G
+11831868,2023-11-28,Image and video compression for remote vehicle assistance,0,B60R|G01C|G06T|G06V|H04N
+11830203,2023-11-28,Geo-motion and appearance aware data association,1,G05D|G06N|G06T
+11829149,2023-11-28,Determining respective impacts of agents,0,B60W|G01C|G05D|G06N
+11825182,2023-11-21,Camera module with IR LEDs for uniform illumination,1,B60R|G01S|G02B|H04N
+11822377,2023-11-21,Timebase synchronization using pulsed signal injection,0,G01S|G06F
+11821751,2023-11-21,Verifying map data using challenge questions,0,G01C|G06F|G06V
+11815903,2023-11-14,Assisted perception for autonomous vehicles,1,B60W|G05D|G06V|G07C|H04L
+11815892,2023-11-14,Agent prioritization for autonomous vehicles,0,B60W|G05D|G06N
+11808887,2023-11-07,Methods and systems for mapping retroreflectors,1,G01S|G06F|G06V
+11804136,2023-10-31,Managing and tracking scouting tasks using autonomous vehicles,1,G01C|G05D|G06F|G08G
+11804049,2023-10-31,Vision-based indicator signal detection using spatiotemporal filtering,0,B60R|G05D|G06V|H04N
+11797836,2023-10-24,Sensor-integrated neural network,2,G01S|G06N
+11790131,2023-10-17,Simulations with modified agents for testing autonomous vehicle software,0,G05D|G06F
+11790038,2023-10-17,Rare pose data generation,1,G06F|G06N|G06T|G06V
+11783614,2023-10-10,Pedestrian behavior predictions for autonomous vehicles,1,B60W|G05D|G06T|G06V|G08G
+11783596,2023-10-10,Detecting traffic signaling states with neural networks,0,G06N|G06T|G06V
+11783568,2023-10-10,Object classification using extra-regional context,0,G05D|G06F|G06N|G06V
+11783180,2023-10-10,Object detection neural network,0,G05D|G06N
+11782158,2023-10-10,Multi-stage object heading estimation,1,B60W|G01S|G06N|G06T|G06V
+11780361,2023-10-10,Close-in illumination module,0,B60Q|B60R|G01S|G03B|H04N
+11776163,2023-10-03,"Systems, methods, and apparatus for correcting desaturation of images with transformed color values by appling a matrix",1,G06F|G06T|H04N
+11775870,2023-10-03,Road condition deep learning model,2,B60W|G05D|G06N
+11774972,2023-10-03,Pickup and drop off zones for autonomous vehicles,1,G01C|G05D|G06Q|G08G
+11774259,2023-10-03,Mapping off-road entries for autonomous vehicles,0,G01C|G05D|G06N|G06V
+11772654,2023-10-03,Occupancy prediction neural networks,0,B60W|G01S|G05D|G06F|G06T|G06V
+11765067,2023-09-19,Methods and apparatus for monitoring a sensor validator,3,B60W|H04L
+11762063,2023-09-19,Camera ring structure for autonomous vehicles,0,B60R|G01S|G05D|H04N
+11760361,2023-09-19,Extracting agent intent from log data for running log-based simulations for evaluating autonomous vehicle software,0,B60W|G06F
+11756309,2023-09-12,Contrastive learning for object detection,0,B60W|G06F|G06N|G06V
+11756283,2023-09-12,Smart sensor implementations of region of interest operating modes,0,G06T|G06V|H04N
+11755917,2023-09-12,Generating depth from camera images and known depth data using neural networks,0,G05D|G06N|G06V
+11755029,2023-09-12,Methods and systems for providing remote assistance via pre-stored image data,0,G01C|G05D|G06F
+11754412,2023-09-12,Automatically requesting vehicles,0,B60R|B60W|B62D|E05F|E05Y|G01C|G05D|G06Q|G06V|G07C|G08G
+11749000,2023-09-05,Stop location change detection,0,B60W|G06F|G06V
+11747811,2023-09-05,Attempting to pull over for autonomous vehicles,0,B60R|B60W|B62D|E05F|E05Y|G01C|G05D|G06Q|G06V|G07C|G08G
+11747809,2023-09-05,System and method for evaluating the perception system of an autonomous vehicle,0,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+11747167,2023-09-05,Ambient lighting conditions for autonomous vehicles,0,B60W|G01C|G05D|G06F|G08G
+11747165,2023-09-05,Inconvenience for passenger pickups and drop offs for autonomous vehicles,0,G01C|G06F|G06Q|G06T|G06V|G09B
+11740636,2023-08-29,Autonomous vehicle having a thermal infrared camera with replaceable filter,0,B60W|G05D|H04N
+11734880,2023-08-22,Sensor calibration with environment map,0,G01C|G01S|G06F|G06T|G06V
+11734017,2023-08-22,Methods and systems for processing vehicle sensor data across multiple digital signal processing cores virtually arranged in segments based on a type of sensor,1,G01S|G06F
+11733696,2023-08-22,Detecting loops for autonomous vehicles,0,G01C|G05D|G08G|H04W
+11733369,2023-08-22,Methods and systems for three dimensional object detection and localization,0,B60W|G01S|G06N|G06T|G06V
+11727690,2023-08-15,Behavior prediction of surrounding agents,1,B60W|G06F|G06N|G06V
+11727523,2023-08-15,Autonomous vehicle services,0,B60K|B60W|G01C|G05D|G06Q|G08G
+11720799,2023-08-08,Object detection neural networks,1,G06F|G06N|G06V
+11720101,2023-08-08,Systems and methods for vehicles with limited destination ability,0,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+11718297,2023-08-08,Modifying a vehicle state based on the presence of a special-purpose vehicle,0,B60W|G01C|G05D|G06F
+11716598,2023-08-01,Early boarding of passengers in autonomous vehicles,0,B60W|G05D|G06Q|H04W
+11714412,2023-08-01,Multiple destination trips for autonomous vehicles,0,B60W|G05D|G06Q|G08G|H04W
+11712995,2023-08-01,Communications for autonomous vehicles,2,B60G|B60Q|G01C|G05D|G06N|G06Q|G08G
+11710399,2023-07-25,Vehicle location assistance using audible signals,2,B60Q|G01C|G05D|G08G|H04W
+11709490,2023-07-25,Behavior and intent estimations of road users for autonomous vehicles,0,B60W|G05D|G06N
+11709059,2023-07-25,Asynchronous execution graphs for autonomous vehicles,0,G01C|G06F|G06N
+11708086,2023-07-25,Optimization for distributing autonomous vehicles to perform scouting,0,B60W|G01C|G06Q|G08G
+11706507,2023-07-18,"Systems, apparatus, and methods for generating enhanced images",1,H04N
+11705002,2023-07-18,Application monologue for self-driving vehicles,0,G06Q|G08G|H04W
+11700459,2023-07-11,Smart sensor scheduler,0,G06F|G06T|G06V|H04N
+11699274,2023-07-11,Long range localization with surfel maps,0,B60W|G06T|G06V
+11699207,2023-07-11,Camera assessment techniques for autonomous vehicles,0,B60W|G05D|G06F|G06T|G06V|H04N
+11698643,2023-07-11,Methods and systems for keeping remote assistance operators alert,0,B60W|G05D|H04L|H04W
+11693415,2023-07-04,Predicting cut-in probabilities of surrounding agents,0,G01C|G05D|G06N|G08G
+11692841,2023-07-04,Suggesting a route based on desired amount of driver interaction,0,B60W|G01C|G05D|H04L
+11691598,2023-07-04,Actuated sprayer system,0,B05B|B08B|B60R|B60S|G02B|H04N
+11687077,2023-06-27,Ranking agents near autonomous vehicles by mutual importance,1,B60W|G05D|G06N
+11685401,2023-06-27,Semantic identification of pickup locations,0,B60W|G05D|G06Q|G06V|G08G
+11680786,2023-06-20,Capacitive position sensing for camera focus management,0,G01B|G02B|H04N
+11678076,2023-06-13,Systems and methods for binning light detectors,0,H04N
+11678059,2023-06-13,Microlensing for real-time sensing of stray light,1,G05D|H04N
+11678039,2023-06-13,Flexure amplified piezo actuator for focus adjustment,0,H02N|H04N
+11676392,2023-06-13,Localization using surfel data,0,G01C|G05D|G06F|G06V
+11675370,2023-06-13,Fleet management for autonomous vehicles,1,B60W|G05D|G06Q|G08G
+11675174,2023-06-13,Single optic for low light and high light level imaging,0,B60R|G02B|H04N
+11675084,2023-06-13,"Determining yaw error from map data, lasers, and cameras",0,G01S|G06V|H04N
+11673581,2023-06-13,Puddle occupancy grid for autonomous vehicles,2,B60W|G06F|G06V
+11673550,2023-06-13,Agent prioritization for autonomous vehicles,1,B60W|G05D|G06N
+11671564,2023-06-06,Adjusting vehicle sensor field of view volume,1,B60W|G01S|G01W|G05D|G06V|G08G|H04N
+11670038,2023-06-06,Processing point clouds using dynamic voxelization,0,G06F|G06T|G06V
+11670005,2023-06-06,Low-light camera occlusion detection,1,G05D|G06T|G06V|H04N
+11669980,2023-06-06,Optical flow based motion detection,0,G06T
+11669783,2023-06-06,Identifying unassigned passengers for autonomous vehicles,0,G01C|G06Q
+11665450,2023-05-30,Sensor read out mode for high resolution and low light imaging in-sync with lidar timing,0,G01S|G06T|H04N
+11665435,2023-05-30,Systems and methods for automatic exposure of images,0,B60R|H04N
+11658166,2023-05-23,Multichannel monostatic rangefinder,0,G01S|H01L|H01S|H10F
+11657536,2023-05-23,"Target, method, and system for camera calibration",1,G01B|G06T|G06V|H04N
+11657318,2023-05-23,Assessing ride quality for autonomous vehicles,1,B60W|G05D|G06N|G06Q|G08G
+11657291,2023-05-23,Spatio-temporal embeddings,0,G06N|G06V
+11657268,2023-05-23,Training neural networks to assign scores,3,G05D|G06N
+11656327,2023-05-23,Sensor with internal cleaning,0,B60S|G01S|G02B|H04N
+11653108,2023-05-16,Adjustable vertical field of view,0,H04N
+11647287,2023-05-09,Autofocus actuator,1,B60R|G01S|G02B|H04N
+11645518,2023-05-09,Multi-agent simulations,2,G06F|G06N
+11645189,2023-05-09,Software validation for autonomous vehicles,0,G05D|G06F
+11636761,2023-04-25,Detecting and responding to sirens,0,G01S|G06F|G06V|G08G|H04R
+11636362,2023-04-25,Predicting trajectory intersection by another road user,0,B60W|G05D|G06N
+11635326,2023-04-25,Stray-light testing station,2,G01J|G03B|H04N
+11634153,2023-04-25,Identification of proxy calibration targets for a fleet of vehicles,2,B60W|B62D|G01C|G06V|G08G|H04W
+11634145,2023-04-25,Systems and methods for detecting and dynamically mitigating driver fatigue,0,B60K|B60W|G05D|G06F|G06V
+11632823,2023-04-18,Estimating sensor timestamps by oversampling,0,H04L|H04W
+11630209,2023-04-18,Laser waveform embedding,1,G01S|G05D|G06N
+11624813,2023-04-11,Lidar sensor window configuration for improved data integrity,0,G01S|G05D|G06T
+11619949,2023-04-04,Determining and responding to an internal status of a vehicle,1,B60K|B60N|B60Q|B60R|B60W|G01C|G05D|G06N
+11619940,2023-04-04,Operating an autonomous vehicle according to road user reaction modeling with occlusions,0,B60W|G05D|G06T|G06V|G08G
+11618481,2023-04-04,Agent trajectory prediction using anchor trajectories,0,B60W|G06F|G06N|G06T|G06V|G08G
+11615553,2023-03-28,Calibration of detection system to vehicle using a mirror,0,B60R|B60W|G06T
+11615355,2023-03-28,Service area maps for autonomous vehicles,2,G06Q|G08G|H04W
+11610423,2023-03-21,Spatio-temporal-interactive networks,2,B60W|G06T|G06V
+11609868,2023-03-21,Control calibration timing to avoid memory write blackout period,2,G06F
+11606517,2023-03-14,Enhanced depth of focus cameras using variable apertures and pixel binning,2,G01S|G02B|H04N
+11605173,2023-03-14,Three-dimensional point cloud labeling using distance field data,0,G06T|G06V
+11594037,2023-02-28,Vehicle sensor calibration and verification,5,B60W|G06V|H04W
+11593996,2023-02-28,Synthesizing three-dimensional visualizations from perspectives of onboard sensors of autonomous vehicles,1,G06T
+11592827,2023-02-28,Predicting yielding likelihood for an agent,2,B60W|G05D|G06F|G06N|G06V
+11592524,2023-02-28,Computation of the angle of incidence of laser beam and its application on reflectivity estimation,1,G01S|H04W
+11587334,2023-02-21,Interior camera system for a self driving car,2,B60R|G05D|G06V|G08B|H04N
+11586931,2023-02-21,Training trajectory scoring neural networks to accurately assign scores,2,B60W|G05D|G06N
+11586213,2023-02-21,Trajectory representation in behavior prediction systems,1,G05D|G06N|G06V|G08G
+11580484,2023-02-14,"Cargo inspection, monitoring and securement in self-driving trucks",6,B60P|B60R|B60W|G06Q|G06T|G06V
+11562573,2023-01-24,Phrase recognition model for autonomous vehicles,0,G05D|G06F|G06N|G06T|G06V
+11561552,2023-01-24,Detecting environment changes using surfel data,0,G05D|G06V|H04W
+11561282,2023-01-24,Camera ring structure for autonomous vehicles,0,B60R|G01S|G05D|H04N
+11561108,2023-01-24,Methods and systems for sun-aware vehicle routing,1,B60W|G01C|G05D|G06T|G06V|H04N
+11558566,2023-01-17,Synchronized spinning LIDAR and rolling shutter camera system,1,G01S|G06T|H04N
+11557127,2023-01-17,Close-in sensing camera system,0,B60R|G01S|G06V|H04N
+11556744,2023-01-17,Auto labeler,0,G01S|G06F|G06N|G06V
+11554714,2023-01-17,Unique signaling for vehicles to preserve user privacy,0,B60Q|B60W|G01C|G05D|G06Q|G08G
+11552798,2023-01-10,Method and system for authenticating a secure credential transfer to a device,1,G06F|H04L|H04W
+11551458,2023-01-10,Plane estimation for contextual awareness,0,G05D|G06F|G06V
+11548440,2023-01-10,Communications for autonomous vehicles,0,B60G|B60Q|G01C|G05D|G06N|G06Q|G08G
+11544869,2023-01-03,Interacted object detection neural network,1,G06F|G06N|G06T|G06V
+11544173,2023-01-03,Detecting performance regressions in software for controlling autonomous vehicles,2,G06F
+11543824,2023-01-03,Queueing into pickup and drop-off locations,1,B60W|G01C|G06Q|G08G|H04W
+11543823,2023-01-03,Reducing inconvenience to surrounding road users caused by stopped autonomous vehicles,0,B60W|G05D|G06Q|G06V|G08G
+11541903,2023-01-03,Autonomous driving with surfel maps,0,B60W|G06F|G06T|G06V
+11531894,2022-12-20,Neural networks for object detection,0,G06F|G06N|G06T|G06V
+11521130,2022-12-06,Road condition deep learning model,1,B60W|G05D|G06N
+11521127,2022-12-06,Road condition deep learning model,2,B60W|G05D|G06N
+11519739,2022-12-06,Map reports from vehicles in the field,1,B60W|G01C|G01S|G05D|G06F|G06T|H04L
+11518395,2022-12-06,Cross-validating sensors of an autonomous vehicle,1,B60Q|B60R|B60W|G01D|G01S|G06V|G08G|H04N
+11514343,2022-11-29,Simulating degraded sensor data,0,B60W|G01S|G06N|G09B
+11514310,2022-11-29,Training a classifier to detect open vehicle doors,1,G06N|G06V|G08G
+11505109,2022-11-22,Close-in illumination module,2,B60Q|B60R|G01S|G03B|H04N
+11496728,2022-11-08,Aperture health monitoring mode,0,B08B|G02B|G06T|G06V|H04N
+11494533,2022-11-08,Simulations with modified agents for testing autonomous vehicle software,1,G05D|G06F
+11494317,2022-11-08,Memory validation,0,G06F
+11493922,2022-11-08,Perimeter sensor housings,6,B60S|B60W|G01S|G05D|G06F|G06V|H04N
+11491994,2022-11-08,Systems and methods for detecting and dynamically mitigating driver fatigue,0,B60K|B60W|G05D|G06F|G06V
+11491909,2022-11-08,External facing communications for autonomous vehicles,0,B60Q|F21S|G06Q|G07B|H05B
+11487287,2022-11-01,Arranging passenger pickups for autonomous vehicles,0,B60W|G05D|G06Q|G08G
+11487046,2022-11-01,Methods and systems for detecting weather conditions using vehicle onboard sensors,0,G01N|G01S|G01W|G05D|H04N|Y02A
+11481579,2022-10-25,Automatic labeling of objects in sensor data,0,B60W|G01C|G06F|G06V|H04W
+11480963,2022-10-25,Vehicle intent prediction neural network,1,B60W|G05D|G06N|G06V
+11475263,2022-10-18,Automatic labeling of objects in sensor data,0,G01S|G06K|G06V|G09F|H04W
+11475119,2022-10-18,Recognizing assigned passengers for autonomous vehicles,0,B60R|G06F|G06Q|G06V|G08B|G08G|H04L
+11470284,2022-10-11,Rotating LIDAR with co-aligned imager,0,B60R|G01S|H04N
+11470282,2022-10-11,"Systems, apparatus, and methods for transmitting image data",1,H04N
+11457204,2022-09-27,Localized window contaminant detection,2,B60S|G01N|G01S|G02B|G06T|G06V|H04N
+11450120,2022-09-20,Object detection in point clouds,0,G06T|G06V
+11443634,2022-09-13,Smart signs for autonomous vehicles,0,B60W|G01C|G05D|G06Q|G08G|H04L|H04W
+11443525,2022-09-13,Image and video compression for remote vehicle assistance,0,B60R|G01C|G06T|G06V|H04N
+11435434,2022-09-06,Multibounce target additional data,1,G01S|G06F|G06V
+11428550,2022-08-30,Sensor region of interest selection based on multisensor data,3,G01D|G01S|G06V|H04N
+11417110,2022-08-16,Annotated surfel maps,1,G01C|G01S|G06F|G06V
+11403853,2022-08-02,Occupancy prediction neural networks,3,B60W|G01S|G05D|G06F|G06T|G06V
+11402843,2022-08-02,Semantic object clustering for autonomous vehicle decision making,0,B60W|G01C|G05D|G06F|G06V|G08G
+11395370,2022-07-19,Enhancing vehicle connectivity using a modular telematics control unit,4,H01Q|H04W
+11393865,2022-07-19,Optical receiver systems and devices with detector array comprising a plurality of substrates aligned with an encapsulation layer comprising an alignment structure,0,G01S|H01L|H10F
+11392122,2022-07-19,Method for performing a vehicle assist operation,4,B60W|B62D|G05D|G06V|G08G|H04W
+11391825,2022-07-19,Sensor calibration parameter sensitivity analysis,1,G01S|G05D|G06N
+11385991,2022-07-12,Collision evaluation for log-based simulations,0,G06F
+11373419,2022-06-28,Automatically detecting unmapped drivable road surfaces for autonomous vehicles,0,B60W|G01C|G01S|G05D|G06F|G06V
+11363745,2022-06-14,Housing for display electromagnetic shielding and electrostatic grounding,2,B60K|B60R|B60W|G06F|H01R|H05K
+11361187,2022-06-14,Neural networks for coarse- and fine-object classifications,1,G01S|G05D|G06F|G06N|G06V|G08G
+11353588,2022-06-07,Time-of-flight sensor with structured light illuminator,3,G01S|G06T
+11349187,2022-05-31,Modular telematics control unit with directional Bluetooth low energy,2,H01Q|H04M|H04W
+11347231,2022-05-31,Object localization for autonomous driving by visual tracking and image reprojection,0,G05D|G06F|G06T|G06V
+11343435,2022-05-24,Microlensing for real-time sensing of stray light,4,G05D|H04N
+11341684,2022-05-24,Calibration of detection system to vehicle using a mirror,1,B60R|B60W|G06T
+11341667,2022-05-24,Camera systems using filters and exposure times to detect flickering illuminated objects,1,B60W|G01C|G05D|G06T|G06V
+11340622,2022-05-24,Determining respective impacts of agents,1,B60W|G01C|G05D|G06N
+11330253,2022-05-10,On-car stray-light testing cart,3,B60R|G01J|G01M|G03B|H04N
+11328519,2022-05-10,Detecting traffic signaling states with neural networks,3,G06N|G06T|G06V
+11323599,2022-05-03,Flexure amplified piezo actuator for focus adjustment,0,H02N|H04N
+11315260,2022-04-26,Geo-motion and appearance aware data association,0,G05D|G06N|G06T
+11313688,2022-04-26,Advanced trip planning for autonomous vehicle services,0,G01C|G05D|G06Q
+11310451,2022-04-19,Smart sensor with region of interest capabilities,4,H04N
+11307587,2022-04-19,Operating an autonomous vehicle according to road user reaction modeling with occlusions,0,B60W|G05D|G06T|G06V|G08G
+11297473,2022-04-05,Early boarding of passengers in autonomous vehicles,0,B60W|G05D|G06Q|H04W
+11295517,2022-04-05,Generating realistic point clouds,3,G06N|G06T|G06V
+11287817,2022-03-29,System and method of providing recommendations to users of vehicles,2,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+11284021,2022-03-22,Smart sensor scheduler,3,G06F|G06T|G06V|H04N
+11281918,2022-03-22,3D position estimation of objects from a monocular camera using a set of known 3D points on an underlying surface,0,B60R|B60W|G01C|G05D|G06F|G06T|G06V
+11280625,2022-03-22,Ambient lighting conditions for autonomous vehicles,0,B60W|G01C|G05D|G06F|G08G
+11277581,2022-03-15,Power over data line (PoDL) board design method to improve data channel performance,1,G01S|H04B|H04L|H04N|H05K
+11276314,2022-03-15,Fallback requests for autonomous vehicles,0,B60W|G05D|G06F|G08G
+11269354,2022-03-08,Methods and systems for keeping remote assistance operators alert,0,B60W|G05D|H04L|H04W
+11269064,2022-03-08,Multiplexed multichannel photodetector,0,G01S|H04N
+11265484,2022-03-01,Systems and methods for automatic exposure of images,1,B60R|H04N
+11256983,2022-02-22,Neural networks for vehicle trajectory planning,8,G01C|G01S|G05D|G06N
+11252366,2022-02-15,Sensor read out mode for high resolution and low light imaging in-sync with LIDAR timing,3,G01S|G06T|H04N
+11249487,2022-02-15,Railroad light detection,1,G05D|G06N|G06V|G08G
+11243535,2022-02-08,Suggesting alternative pickup and drop off locations for autonomous vehicles,0,G05D|G06Q
+11231292,2022-01-25,Suggesting a route based on desired amount of driver interaction,1,B60W|G01C|G05D|H04L
+11230234,2022-01-25,Compliant camera mounting,1,B60R|G03B|H04N
+11227409,2022-01-18,Camera assessment techniques for autonomous vehicles,4,G01S|G06F|G06T|G06V|H04N
+11223756,2022-01-11,Position sensor and hybrid substrate for camera focus management,2,G03B|H04N
+11222556,2022-01-11,Visual communication system,0,B60Q|G06Q|G09F
+11216682,2022-01-04,Detecting sensor occlusion with compressed image data,0,G01S|G06T|H04N
+11216674,2022-01-04,Neural networks for object detection and characterization,4,B60R|G05D|G06N|G06V
+11210200,2021-12-28,Software validation for autonomous vehicles,0,G05D|G06F
+11209823,2021-12-28,Arranging passenger pickups for autonomous vehicles,2,B60W|G05D|G06Q|G08G
+11206732,2021-12-21,Reliable interconnect for camera image sensors,0,H04N|H05K|Y02P
+11205240,2021-12-21,Autonomous vehicle services,0,B60K|B60W|G01C|G05D|G06Q|G08G
+11201992,2021-12-14,Sensor clamping design for autonomous vehicle camera,0,B60R|H04N
+11198430,2021-12-14,Automated system and method for modeling the behavior of vehicles and other agents,4,B60W|G01R|G05D|G06N|G06V|G08G
+11196916,2021-12-07,Identification of an object based on identifying portions of the object captured by multiple image sensors having different luminance levels,1,B60R|H04N
+11195415,2021-12-07,Lane change notification,1,B60W|G01C|G05D|G06T|G06V|G08G
+11195409,2021-12-07,Vehicle location assistance using audible signals,3,B60Q|G01C|G05D|G08G|H04W
+11195064,2021-12-07,Cross-modal sensor data alignment,0,G06F|G06T|G06V
+11193784,2021-12-07,End of trip sequence,1,G01C|G06F
+11181914,2021-11-23,Use of detected objects for image processing,0,B60W|G01S|G05D|G06V|H04N
+11181619,2021-11-23,Camera ring structure for autonomous vehicles,5,B60R|G01S|G05D|H04N
+11181384,2021-11-23,Verifying map data using challenge questions,0,G01C|G06F|G06V
+11178348,2021-11-16,Thermal imaging for self-driving cars,0,G01J|G01S|G06N|G06V|H04N
+11176652,2021-11-16,High bandwidth camera data transmission,0,G06F|G06N|G06T|G06V|H04N
+11175666,2021-11-16,Arranging passenger pickups for autonomous vehicles,0,G05D|G06Q|G08G|H04W
+11172192,2021-11-09,Identifying defects in optical detector systems based on extent of stray light,4,G06T|H04N
+11168995,2021-11-09,Managing a fleet of vehicles,2,B60L|G01C|G05D|G06Q|G07C|G08G|Y02T|Y04S
+11164454,2021-11-02,Detecting and responding to sirens,3,G01S|G06F|G06V|G08G|H04R
+11164363,2021-11-02,Processing point clouds using dynamic voxelization,0,G06F|G06T|G06V
+11163307,2021-11-02,Methods and systems for vehicle occupancy confirmation,0,B60N|B60R|B60W|G05D|G06T|G06V|G08G|H04N
+11159380,2021-10-26,Systems and methods for routing and topology management of computer networks with steerable beam antennas,0,H04B|H04L|H04W
+11157018,2021-10-26,Fleet management for autonomous vehicles,1,B60W|G05D|G06Q|G08G
+11155205,2021-10-26,Communications for autonomous vehicles,1,B60G|B60Q|G01C|G05D|G06N|G06Q|G08G
+11151482,2021-10-19,Identifying unassigned passengers for autonomous vehicles,6,G01C|G06Q
+11126763,2021-09-21,Realism metric for testing software for controlling autonomous vehicles,7,G05D|G06F
+11126197,2021-09-21,Verification of iterative closest point alignments for autonomous vehicles,3,G01S|G05D|G06N
+11113548,2021-09-07,Object detection neural networks,0,G06F|G06N|G06V
+11112237,2021-09-07,Using map information to smooth objects generated from sensor data,1,B60K|G01B|G01C|G01S|G05D|G06T|G06V
+11106893,2021-08-31,System and method for evaluating the perception system of an autonomous vehicle,6,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+11105924,2021-08-31,Object localization using machine learning,0,G01S|G06N|G06T|G06V
+11105642,2021-08-31,Stranding and scoping analysis for autonomous vehicle services,0,G01C|G06F
+11093819,2021-08-17,Classifying objects using recurrent neural network and classifier neural network subsystems,5,B60W|G06N|G06V
+11093799,2021-08-17,Rare instance classifiers,0,G05D|G06F|G06N|G06V
+11088127,2021-08-10,Multichannel monostatic rangefinder,2,G01S|H01L|H01S|H10F
+11082643,2021-08-03,Systems and methods for binning light detectors,1,H04N
+11080267,2021-08-03,Validating road intersections,0,G01C|G06F|G08G
+11079768,2021-08-03,Use of a reference image to detect a road obstacle,1,G05D|G06T|G06V
+11068726,2021-07-20,Static obstacle detection,1,B60W|G01S|G01V|G05D|G06F|G06V
+11067988,2021-07-20,Interactive autonomous vehicle agent,1,B60W|G05B|G05D|G06F|G06N
+11062537,2021-07-13,Fleet management for vehicles using operation modes,1,B60W|G05D|G06Q|G07C
+11061406,2021-07-13,Object action classification for autonomous vehicles,14,B60W|G01S|G05D|G06F|G06V
+11057591,2021-07-06,Augmented reality display to preserve user privacy,0,G06Q|H04N
+11048927,2021-06-29,Pedestrian behavior predictions for autonomous vehicles,5,B60W|G05D|G06T|G06V|G08G
+11048254,2021-06-29,Generating simplified object models to reduce computational resource requirements for autonomous vehicles,0,B60W|G01S|G05D|G06T
+11048253,2021-06-29,Agent prioritization for autonomous vehicles,2,B60W|G05D|G06N
+11043003,2021-06-22,Interacted object detection neural network,1,G06F|G06N|G06T|G06V
+11037968,2021-06-15,Image sensor architecture,1,G06N|G06V|H01L|H04N|H10F
+11037475,2021-06-15,Various interior and exterior features for autonomous vehicles,0,B60K|B60L|B60N|B60Q|B60R|B62D|G01R|G06Q|G08G|G09F|H02J|Y02T
+11035957,2021-06-15,LIDAR optics alignment system,8,G01S|H04N
+11034348,2021-06-15,Agent prioritization for autonomous vehicles,7,B60W|G05D|G06N
+11029396,2021-06-08,Multiplexed multichannel photodetector,0,G01S|H04N
+11022452,2021-06-01,Inconvenience for passenger pickups and drop offs for autonomous vehicles,0,G01C|G06F|G06Q|G06T|G06V|G09B
+11017674,2021-05-25,Managing and tracking scouting tasks using autonomous vehicles,7,G01C|G05D|G06F|G08G
+11017248,2021-05-25,Interior camera system for a self driving car,3,B60R|G05D|G06V|G08B|H04N
+11010998,2021-05-18,Systems and methods for vehicles with limited destination ability,5,B60R|B60T|B60W|B62D|G01C|G01S|G05B|G05D|G06Q|G06T|G06V|G07C
+11008008,2021-05-18,Modifying a vehicle state based on the presence of a special-purpose vehicle,0,B60W|G01C|G05D|G06F
+11004000,2021-05-11,Predicting trajectory intersection by another road user,28,B60W|G05D|G06N
+11003189,2021-05-11,Trajectory representation in behavior prediction systems,4,G05D|G06N|G06V|G08G
+11002949,2021-05-11,Single optic for low light and high light level imaging,1,B60R|G02B|H04N
+10999539,2021-05-04,Adjustable vertical field of view,11,H04N
+10977501,2021-04-13,Object classification using extra-regional context,1,G05D|G06F|G06N|G06V
+10969789,2021-04-06,Verifying predicted trajectories using a grid-based approach,5,B60W|G05D|G06N
+10967856,2021-04-06,Detection of pedestrian using radio devices,1,B60W|G05D|H04W
+10965935,2021-03-30,Calibration systems usable for distortion characterization in cameras,1,G02B|H04N
+10963734,2021-03-30,Perception visualization tool,9,B60R|G01S|G05D|G06F|G06T|G06V
+10963707,2021-03-30,Vision-based indicator signal detection using spatiotemporal filtering,0,B60R|G05D|G06V|H04N
+10962981,2021-03-30,Assisted perception for autonomous vehicles,0,B60W|G05D|G06V|G07C|H04L
+10955848,2021-03-23,Reducing inconvenience to surrounding road users caused by stopped autonomous vehicles,4,B60W|G05D|G06Q|G06V|G08G
+10951864,2021-03-16,Rotating LIDAR with co-aligned imager,10,B60R|G01S|H04N
+10943414,2021-03-09,Simulating virtual objects,3,G05D|G06F|G07C
+10943367,2021-03-09,Calibration of detection system to vehicle using a mirror,2,B60R|B60W|G06T
+10939057,2021-03-02,Synchronized spinning LIDAR and rolling shutter camera system,7,G01S|G06T|H04N
+10935979,2021-03-02,Behavior and intent estimations of road users for autonomous vehicles,0,B60W|G05D|G06N
+10933886,2021-03-02,Hierarchical messaging system,0,B60K|B60W|G01C|G05D|H04L
+10933842,2021-03-02,Actuated sprayer system,2,B05B|B08B|B60R|B60S|G02B|H04N
+10930014,2021-02-23,"Target, method, and system for camera calibration",2,G01B|G06T|G06V|H04N
+10928828,2021-02-23,Detecting unfamiliar signs,5,G05D|G06T|G06V
+10921142,2021-02-16,Methods and systems for sun-aware vehicle routing,2,B60W|G01C|G05D|G06T|G06V|H04N
+10915762,2021-02-09,Sidewalk detection for pedestrian behavior modeling,16,B60W|G05D|G06F|G06T|G06V

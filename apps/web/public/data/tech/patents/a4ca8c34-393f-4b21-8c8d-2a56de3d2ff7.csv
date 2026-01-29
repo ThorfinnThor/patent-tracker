@@ -1,0 +1,690 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430287,2025-09-30,Adaptive sampling for data summarization,0,G06F
+12430285,2025-09-30,System and method for planning and configuring a file system migration,0,G06F
+12430215,2025-09-30,Use of cluster-level redundancy within a cluster of a distributed storage management system to address node-level errors,0,G06F
+12430116,2025-09-30,External distributed storage layer upgrade,0,G06F
+12425477,2025-09-23,Methods and systems for managing a resource in a networked storage environment,0,H04L
+12423125,2025-09-23,Methods and systems for storage virtual machine migration between clusters of a networked storage system,0,G06F
+12423021,2025-09-23,Distributed control plane for facilitating communication between a container orchestration platform and a distributed storage architecture,0,G06F
+12423016,2025-09-23,Reducing provisioned storage capacity of an aggregate of a storage appliance,0,G06F
+12423015,2025-09-23,Methods for handling storage devices with different zone sizes and devices thereof,0,G06F
+12417176,2025-09-16,Persistent key-value store and journaling system,0,G06F
+12417150,2025-09-16,Mirroring objects between different cloud providers with different data layout requirements,0,G06F
+12417038,2025-09-16,Block allocation for persistent memory during aggregate transition,0,G06F
+12411737,2025-09-09,Systems and methods for data management using a disk unit,0,G06F
+12405862,2025-09-02,Methods and systems for consistency point optimizations for synchronous replicated datasets,0,G06F
+12405857,2025-09-02,Methods and systems for raid protection in zoned solid-state drives,0,G06F
+12399788,2025-08-26,Methods and systems to reduce latency of input/output (I/O) operations based on file system optimizations during creation of common snapshots for synchronous replicated datasets of a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,0,G06F
+12395493,2025-08-19,Multi-tenant security in the cloud,0,G06F|H04L
+12393488,2025-08-19,Physical size API for snapshots backed up to object store,0,G06F
+12393455,2025-08-19,Automated quality of service management mechanism,0,G06F
+12393373,2025-08-19,Sharing ephemeral storage of a virtual machine for use as victim caches for use by virtual storage appliances in a cloud environment,0,G06F
+12393360,2025-08-19,Identification of storage backends to higher-level processes to perform storage volume management,0,G06F
+12393356,2025-08-19,Object copy driver module for object migration,0,G06F
+12388908,2025-08-12,Cache retrieval based on tiered data,0,G06F|H04L
+12386808,2025-08-12,Evolution of communities derived from access patterns,0,G06F
+12386789,2025-08-12,Facilitating analytics involving cold data tiered to an object store by an on-premises storage solution by creating a virtual storage appliance on the object store,0,G06F
+12386783,2025-08-12,Snapshot storage and management within an object store,0,G06F
+12386714,2025-08-12,Resync transfer for recovering from storage site failure utilizing background pull operations,0,G06F
+12386525,2025-08-12,Slice file recovery using dead replica slice files,0,G06F
+12386507,2025-08-12,Creation and use of an efficiency set to estimate an amount of data stored in a data set of a storage system having one or more characteristics,0,G06F
+12375293,2025-07-29,Verification of a published image having a predefined portion that has been altered by a cloud provider prior to being made available via a marketplace of the cloud provider,0,G06F|H04L
+12373464,2025-07-29,Methods to synchronously replicate data and manage audit configuration and audit data for a distributed storage system,0,G06F
+12373418,2025-07-29,Granular replication of volume subsets,0,G06F
+12373398,2025-07-29,Modified read path for processing read operations during object migration,0,G06F
+12373313,2025-07-29,Virtual machine backup from computing environment to storage environment,0,G06F
+12373301,2025-07-29,Dataset image creation,0,G06F
+12373239,2025-07-29,Transitioning volumes between storage virtual machines,0,G06F
+12367184,2025-07-22,Distributed file system that provides scalability and resiliency,0,G06F
+12367176,2025-07-22,Non-disruptive file movement within a distributed storage system,0,G06F
+12367105,2025-07-22,Reducing potential data-loss scenarios when using ephemeral storage as backing storage for journaling by a virtual storage system,0,G06F
+12366982,2025-07-22,Data management across a persistent memory tier and a file system tier,0,G06F
+12360694,2025-07-15,Journal replay optimization,0,G06F
+12353924,2025-07-08,Load balancing and fault tolerant service in a distributed data system,0,G06F
+12353760,2025-07-08,Key value store with distributed shared access by clients,0,G06F
+12353370,2025-07-08,"Elastic, ephemeral in-line deduplication service",0,G06F
+12346730,2025-07-01,System and method for infrastructure scaling,0,G06F|G06N
+12346564,2025-07-01,Garbage collection and bin synchronization for distributed storage architecture,0,G06F
+12346561,2025-07-01,Methods for handling input-output operations in zoned storage systems and devices thereof,0,G06F
+12346227,2025-07-01,Cross-platform replication,0,G06F|H04L
+12346213,2025-07-01,Using ephemeral storage as backing storage for journaling by a virtual storage system,0,G06F
+12339755,2025-06-24,Failover methods and system in a networked storage environment,0,G06F
+12339752,2025-06-24,Techniques for LIF placement in san storage cluster synchronous disaster recovery,0,G06F
+12335088,2025-06-17,Implementing switchover operations between computing nodes,0,G06F|H04L
+12333161,2025-06-17,Reducing provisioned storage capacity of an aggregate of a storage appliance,0,G06F
+12332864,2025-06-17,Key-value store and file system integration,0,G06F
+12332838,2025-06-17,Mechanism to maintain data compliance within a distributed file system,0,G06F|H04L
+12321790,2025-06-03,Distributed control plane for handling worker node failures of a distributed storage architecture,0,G06F
+12321627,2025-06-03,Methods and storage nodes to decrease delay in resuming input output (I/O) operations after a non-disruptive event for a storage object of a distributed storage system by utilizing asynchronous inflight replay of the I/O operations,0,G06F
+12321621,2025-06-03,Performing various operations at the granularity of a consistency group within a cross-site storage solution,0,G06F
+12321604,2025-06-03,Managing shared resource usage in networked storage systems,0,G06F
+12321246,2025-06-03,Methods and systems for a non-disruptive automatic unplanned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,0,G06F
+12314221,2025-05-27,Managing attributes in child nodes for a multi-part file,0,G06F
+12314189,2025-05-27,Bottleneck management techniques using non-disruptive file movement mechanisms in distributed storage environments,0,G06F
+12309046,2025-05-20,Methods and systems for resending missing network data packets,0,H04L
+12306817,2025-05-20,Volume placement failure isolation and reporting,0,G06F|H04L
+12299310,2025-05-13,Methods and systems to interface between a multi-site distributed storage system and an external mediator to efficiently process events related to continuity,0,G06F
+12299052,2025-05-13,Extensible and elastic data management services engine external to a storage domain,0,G06F|H04L
+12298942,2025-05-13,Bottleneck management techniques using non-disruptive file movement mechanisms in distributed storage environments,0,G06F
+12298873,2025-05-13,Methods and systems for managing networked storage system resources,0,G06F
+12298870,2025-05-13,On-demand serverless disaster recovery,0,G06F
+12298867,2025-05-13,Granular cloud restore with multi storage class support,0,G06F
+12287980,2025-04-29,Fast resynchronization of a mirrored aggregate using disk-level cloning,0,G06F
+12287763,2025-04-29,Methods for facilitating external cache in a cloud storage environment and devices thereof,0,G06F|H04L
+12282806,2025-04-22,Dynamic instantiation and management of virtual caching appliances,0,G06F|H04L|Y02D
+12282678,2025-04-22,Synchronous replication,0,G06F
+12282677,2025-04-22,Object store mirroring based on checkpoint,0,G06F
+12282434,2025-04-22,Methods for managing input-output operations in zone translation layer architecture and devices thereof,0,G06F
+12277438,2025-04-15,Migration between CPU cores,0,G06F
+12277090,2025-04-15,Mechanism to maintain data compliance within a distributed file system,0,G06F|H04L
+12273377,2025-04-08,Systems and methods for detecting malware attacks,0,G06F|H04L
+12273237,2025-04-08,Assignment of network configuration for a wired network using a wireless network,0,H04L
+12271614,2025-04-08,Aggregate inline deduplication with volume granular encryption,0,G06F|H04L
+12267252,2025-04-01,Shared storage model for high availability within cloud environments,0,G06F|H04L
+12265716,2025-04-01,"Systems, methods, and computer readable media providing arbitrary sizing of data extents",0,G06F
+12265520,2025-04-01,Storage tier verification checks,0,G06F
+12265473,2025-04-01,In-memory hash entries and hashes used to improve key search operations for keys of a key value store,0,G06F
+12265453,2025-04-01,Snapshot creation with synchronous replication,0,G06F
+12259848,2025-03-25,Synchronous object placement for information lifecycle management,0,G06F|G06Q
+12259791,2025-03-25,Object store data management container with integrated snapshot difference interface for compliance scans,0,G06F
+12253923,2025-03-18,Persistent metafile used to cache slot header metadata for improved read performance of objects within an object store,0,G06F
+12253920,2025-03-18,Use of cluster-level redundancy within a cluster of a distributed storage management system to address node-level errors,0,G06F
+12253919,2025-03-18,Methods and systems for protecting and restoring virtual machines,0,G06F
+12250129,2025-03-11,Proportional quality of service based on client usage and system metrics,0,G06F|H04L
+12248380,2025-03-11,Faster replay of metadata and data operations using inode number based dependency graph,0,G06F
+12248376,2025-03-11,Maintaining and recomputing reference counts in a persistent memory file system,0,G06F
+12242513,2025-03-04,Timestamp consistency for synchronous replication,0,G06F|H04L
+12242428,2025-03-04,Freeing pages within persistent memory,0,G06F
+12242337,2025-03-04,Efficient parity determination in zoned solid-state drives of a storage system,1,G06F
+12235904,2025-02-25,Community generation based on a common set of attributes,0,G06F|G06Q
+12235741,2025-02-25,Methods and systems to improve input/output (I/O) resumption time during a non-disruptive automatic unplanned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,0,G06F
+12231449,2025-02-18,Proactively taking action responsive to events within a cluster based on a range of normal behavior learned for various user roles,0,G06F|G06N|H04L
+12229431,2025-02-18,On-demand restore of a snapshot to an on-demand volume accessible to clients,0,G06F
+12229148,2025-02-18,"Data connector component for implementing integrity checking, anomaly detection, and file system metadata analysis",0,G06F
+12229087,2025-02-18,Gransets for managing consistency groups of dispersed storage items,0,G06F
+12229084,2025-02-18,Rebalancing engine for use in rebalancing files in a distributed storage systems,0,G06F|H04L
+12229082,2025-02-18,Flexible tiering of snapshots to archival storage in remote object stores,1,G06F
+12229010,2025-02-18,Volume group restore from remote object store,0,G06F
+12223193,2025-02-11,Co-located journaling and data storage for write requests,0,G06F
+12222827,2025-02-11,"Cost-effective, failure-aware resource allocation and reservation in the cloud",0,G06F
+12219010,2025-02-04,Cross-site high-availability distributed cloud storage system to monitor virtual channels between storage nodes and prevent channel sharing of a receive queue,0,H04L
+12210757,2025-01-28,Transferring snapshot copy to object store with deduplication preservation and additional compression,0,G06F
+12210747,2025-01-28,Quality of service management mechanism,0,G06F
+12210431,2025-01-28,Repair subsystem for persistent metafile repair to improve resiliency,0,G06F
+12210429,2025-01-28,Network storage failover systems and associated methods,0,G06F
+12210422,2025-01-28,Persistent memory architecture,0,G06F
+12206734,2025-01-21,Synchronous replication for storage,0,G06F|H04L
+12206585,2025-01-21,Methods and systems for managing quality of service in a networked storage environment,0,G06F|H04L
+12204800,2025-01-21,Prefetching keys for garbage collection,0,G06F
+12204797,2025-01-21,Lock reservations for shared storage,0,G06F
+12204791,2025-01-21,Automatically tuning a quality of service setting for a distributed storage system with a deep reinforcement learning agent,0,G06F|G06N|H04L
+12204786,2025-01-21,Maintaining the benefit of parallel splitting of ops between primary and secondary storage clusters in synchronous replication while adding support for op logging and early engagement of op logging,0,G06F
+12204784,2025-01-21,Zero-copy volume move within a distributed storage system,0,G06F
+12204766,2025-01-21,Cloud based interface for protecting and managing data stored in networked storage systems,0,G06F|H04L
+12204416,2025-01-21,Methods and systems to reduce latency of input/output (I/O) operations during creation of common snapshots based on batching of synchronous replicated datasets at a primary storage system to a cross-site secondary storage system,2,G06F
+12197298,2025-01-14,Systems and methods for data management using controllers,1,G06F
+12197291,2025-01-14,"Methods and multi-site systems to provide recovery point objective (RPO) protection, snapshot retention between secondary storage site and tertiary storage site, and automatically initiating realignment and reconfiguration of a protection configuration from the secondary storage site to the tertiary storage site upon primary storage site failure",0,G06F
+12192281,2025-01-07,Machine learning based assignment of service levels in a networked storage system,0,G06F|G06N|H04L
+12189981,2025-01-07,Efficiency sets for determination of unique data,0,G06F
+12189972,2025-01-07,Facilitating multiple device consumption of shared namespaces of ephmermal storage devices by a consumer of a virtual storage device,2,G06F
+12182067,2024-12-31,Containerization and serverless thread implementation for processing objects,0,G06F|H04L
+12174789,2024-12-24,Sibling object generation for storing results of operations performed upon base objects,0,G06F|G06N
+12169736,2024-12-17,Management and orchestration of microservices,0,G06F|H04L
+12169637,2024-12-17,Read access during clone volume split operation,0,G06F
+12169630,2024-12-17,"Single input/output writes in a file system hosted on a cloud, virtual, or commodity-server platform",0,G06F
+12169483,2024-12-17,On-demand parallel processing of objects using data connector components,0,G06F|H04L
+12169472,2024-12-17,Coordinating snapshot operations across multiple file systems,0,G06F
+12164397,2024-12-10,Use of cluster-level redundancy within a cluster of a distributed storage management system to address node-level errors,1,G06F
+12164396,2024-12-10,Methods and multi-site systems to provide recovery point objective (RPO) protection and automatically initiate realignment and reconfiguration of a protection configuration from the secondary storage site to the tertiary storage site upon primary storage site failure,0,G06F
+12164381,2024-12-10,Data connector component for implementing management requests,0,G06F
+12158824,2024-12-03,Methods and systems to improve input/output (I/O) resumption time by batching multiple non-conflicting operations during a non-disruptive automatic unplanned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,1,G06F
+12153549,2024-11-26,Deduplicating extents across systems,0,G06F|H04L
+12153504,2024-11-26,Aggregate failover for a distributed scale-out storage system,0,G06F
+12153503,2024-11-26,Mediator assisted switchover between clusters,0,G06F
+12153501,2024-11-26,Asynchronous region-aware prefetching and caching,0,G06F|H04L
+12147664,2024-11-19,Automated application detection and storage savings based on intelligent workload characterization,0,G06F
+12141603,2024-11-12,Quality of service for cloud based storage system using a workload identifier,0,G06F
+12141481,2024-11-12,Write ordering for persistent memory,0,G06F
+12141104,2024-11-12,Distributed file system with reduced write and read latencies,1,G06F|H04L
+12135905,2024-11-05,Scalable solid-state storage system and methods thereof,0,G06F
+12135880,2024-11-05,Dynamic quality of service implementation based upon resource saturation,0,G06F
+12135877,2024-11-05,Workload analysis for long-term management via performance service levels,0,G06F
+12135616,2024-11-05,Preserving storage efficiency during restoration of data from the cloud to a data storage system,0,G06F
+12131050,2024-10-29,Cloud block map for caching data during on-demand restore,0,G06F
+12131046,2024-10-29,Clone volume split of clone volume from parent volume with data tiered to object store,0,G06F
+12131031,2024-10-29,Automated tuning of a quality of service setting for a distributed storage system based on internal monitoring,0,G06F
+12126502,2024-10-22,Configurable quality of service provider pipeline,0,G06F|H04L
+12124742,2024-10-22,Increasing provisioned storage capacity by means of growing underlying disks within a virtual storage appliance,0,G06F
+12124716,2024-10-22,Multi-tier write allocation,0,G06F
+12124413,2024-10-22,Read amplification reduction in a virtual storage system when compression is enabled for a zoned checksum scheme,0,G06F
+12119836,2024-10-15,File system format for persistent memory,0,G06F|H03M
+12118409,2024-10-15,Methods for dynamic throttling to satisfy minimum throughput service level objectives and devices thereof,0,G06F
+12105983,2024-10-01,Resilient implementation of client file operations and replication,0,G06F
+12105679,2024-10-01,Remote cloning of files in distributed file systems,1,G06F
+12105678,2024-10-01,Cloned virtual machine disk replication,0,G06F|H04L
+12099872,2024-09-24,Efficient distributed scheduler for a data partitioned system,0,G06F
+12099606,2024-09-24,Systems and methods for protecting against malware attacks,0,G06F
+12099467,2024-09-24,Snapshot metadata arrangement for efficient cloud integrated data management,0,G06F
+12095860,2024-09-17,Data traffic management in a computing environment utilizing direct memory access functionality,0,H04L
+12088327,2024-09-10,Additional compression for existing compressed data,0,G06F|H03M
+12086125,2024-09-10,Multiple volume placement based on resource usage and scoring functions,0,G06F
+12086116,2024-09-10,Object and sequence number management,1,G06F
+12086059,2024-09-10,Methods for managing storage operations for multiple hosts coupled to dual-port solid-state disks and devices thereof,0,G06F
+12086035,2024-09-10,Recovery mechanism with selective ordering and concurrent operations,0,G06F
+12079519,2024-09-03,Distributed control plane tracking object ownership changes within a distributed storage architecture,0,G06F
+12079495,2024-09-03,Input/output operations per second (IOPS) and throughput monitoring for dynamic and optimal resource allocation,0,G06F
+12079242,2024-09-03,Dynamically scaling application and storage system functions based on a heterogeneous resource pool available for use by a distributed storage management system,1,G06F
+12079193,2024-09-03,Distributed storage systems and methods to provide change tracking integrated with scalable databases,0,G06F|H04L
+12079177,2024-09-03,Object versioning support for a file system,0,G06F
+12073123,2024-08-27,Metadata compaction,0,G06F
+12073117,2024-08-27,Accumulating I/O operations into a single combined I/O operation for implementation by an underlying storage device layer,0,G06F
+12073091,2024-08-27,Low overhead resynchronization snapshot creation and utilization,0,G06F
+12067256,2024-08-20,Storage space optimization in a system with varying data redundancy schemes,0,G06F
+12066933,2024-08-20,Combined garbage collection and data integrity checking for a distributed key-value store,0,G06F
+12066907,2024-08-20,Collection of state information by nodes in a cluster to handle cluster management after master-node failover,0,G06F|H04L
+12066897,2024-08-20,Persistent memory file system reconciliation,0,G06F
+12061525,2024-08-13,Object store data management container with integrated snapshot difference interface for cataloging snapshots while resident in object store,1,G06F
+12061520,2024-08-13,Data storage system drive utilization,0,G06F
+12056056,2024-08-06,Methods and systems for managing race conditions during usage of a remote storage location cache in a networked storage system,0,G06F
+12052253,2024-07-30,Context tracking across a data management platform,0,H04L
+12050938,2024-07-30,Balance workloads on nodes based on estimated optimal performance capacity,0,G06F
+12050623,2024-07-30,Synchronization cache seeding,0,G06F|H04L
+12050558,2024-07-30,Facilitating immediate performance of volume resynchronization with the use of passive cache entries,1,G06F
+12050553,2024-07-30,Supporting a lookup structure for a file system implementing hierarchical reference counting,1,G06F
+12050540,2024-07-30,Methods for managing storage systems with dual-port solid-state disks accessible by multiple hosts and devices thereof,0,G06F
+12047449,2024-07-23,Volume placement based on resource usage,0,G06F|H04L
+12045491,2024-07-23,Resynchronization of individual volumes of a consistency group (CG) within a cross-site storage solution while maintaining synchronization of other volumes of the CG,2,G06F
+12045489,2024-07-23,Fast resynchronization of a mirrored aggregate using disk-level cloning,1,G06F
+12045481,2024-07-23,Read amplification reduction in a virtual storage system when compression is enabled for a zoned checksum scheme,0,G06F
+12045374,2024-07-23,Methods and systems for securely storing unstructured data in a storage system,0,G06F
+12045207,2024-07-23,Distributed file system that provides scalability and resiliency,1,G06F
+12045144,2024-07-23,Orchestrator for orchestrating operations between a computing environment hosting virtual machines and a storage environment,1,G06F
+12038886,2024-07-16,Distributed file system that provides scalability and resiliency,1,G06F
+12038817,2024-07-16,Methods for cache rewarming in a failover domain and devices thereof,0,G06F
+12032847,2024-07-09,Cross-platform replication of logical units,0,G06F
+12032459,2024-07-09,Mediator assisted switchover between clusters,0,G06F
+12032446,2024-07-09,Recovery support techniques for storage virtualization environments,0,G06F
+12021851,2024-06-25,Session recovery mechanism,0,H04L
+12019873,2024-06-25,Methods and systems to improve resumption time of input/output (I/O) operations based on prefetching of configuration data and early abort of conflicting workflows during a non-disruptive automatic unplanned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,2,G06F
+12019524,2024-06-25,Data connector component for implementing data requests,5,G06F|H04L
+12014201,2024-06-18,Policy enforcement and performance monitoring at sub-LUN granularity,0,G06F
+12014056,2024-06-18,Slice file recovery using dead replica slice files,1,G06F
+12014045,2024-06-18,Creation and use of an efficiency set to estimate an amount of data stored in a data set of a storage system having one or more characteristics,1,G06F
+12013818,2024-06-18,Hybrid model of fine-grained locking and data partitioning,0,G06F
+12007944,2024-06-11,Reducing stable data eviction with synthetic baseline snapshot and eviction state refresh,0,G06F|H04L
+12001724,2024-06-04,Forwarding operations to bypass persistent memory,0,G06F
+12001294,2024-06-04,Backup and restore of resources located within a remote object store,0,G06F
+11995209,2024-05-28,Contextual text detection of sensitive data,0,G06F
+11995041,2024-05-28,Methods and systems to reduce latency of input/output (I/O) operations based on file system optimizations during creation of common snapshots for synchronous replicated datasets of a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,4,G06F
+11994998,2024-05-28,Low-overhead atomic writes for persistent memory,0,G06F
+11983083,2024-05-14,Trust relationship migration for data mirroring,0,G06F
+11983080,2024-05-14,Use of cluster-level redundancy within a cluster of a distributed storage management system to address node-level errors,4,G06F
+11977624,2024-05-07,Methods for managing verification and validation of third-party code and devices thereof,0,G06F
+11977461,2024-05-07,Incremental restore of a virtual machine,1,G06F
+11977448,2024-05-07,Directory restore from remote object store,0,G06F
+11973829,2024-04-30,Techniques for coordinating parallel performance and cancellation of commands in a storage cluster system,0,G06F|H04L
+11971859,2024-04-30,Defragmentation for log structured merge tree to improve read and write amplification,3,G06F
+11971779,2024-04-30,Machine learning model and associated methods thereof for providing automated support,0,G06F|G06N
+11966614,2024-04-23,Object tiering in a distributed storage system,0,G06F
+11966611,2024-04-23,Methods for handling storage devices with different zone sizes and devices thereof,0,G06F
+11966307,2024-04-23,Re-aligning data replication configuration of primary and secondary data serving entities of a cross-site storage solution after a failover event,0,G06F|H04L
+11966301,2024-04-23,System and method for managing and producing a dataset image across multiple storage systems,1,G06F
+11960453,2024-04-16,Techniques for asynchronous snapshot invalidation,0,G06F
+11960448,2024-04-16,Unified object format for retaining compression and performing additional compression for reduced storage consumption in an object store,2,G06F
+11954373,2024-04-09,Data structure storage and data management,0,G06F
+11954348,2024-04-09,Combining data block I/O and checksum block I/O into a single I/O operation during processing by a storage stack,0,G06F
+11947430,2024-04-02,Maintaining and recomputing reference counts in a persistent memory file system,1,G06F
+11943314,2024-03-26,Cache retrieval based on tiered data,1,G06F|H04L
+11941297,2024-03-26,Garbage collection and bin synchronization for distributed storage architecture,1,G06F
+11941280,2024-03-26,On-demand restore of a snapshot to an on-demand volume accessible to clients,2,G06F
+11941267,2024-03-26,Reseeding a mediator of a cross-site storage solution,0,G06F
+11941030,2024-03-26,Methods for hierarchical propagation in tree structures and devices thereof,0,G06F
+11940954,2024-03-26,Methods for ensuring correctness of file system analytics and devices thereof,0,G06F
+11940911,2024-03-26,Persistent key-value store and journaling system,1,G06F
+11934670,2024-03-19,Performing various operations at the granularity of a consistency group within a cross-site storage solution,3,G06F
+11934656,2024-03-19,Garbage collection and bin synchronization for distributed storage architecture,1,G06F
+11934280,2024-03-19,Use of cluster-level redundancy within a cluster of a distributed storage management system to address node-level errors,3,G06F
+11934262,2024-03-19,Object format resilient to remote object store errors,0,G06F
+11928352,2024-03-12,Maintaining the benefit of parallel splitting of ops between primary and secondary storage clusters in synchronous replication while adding support for op logging and early engagement of op logging,2,G06F
+11928350,2024-03-12,Systems and methods for scaling volumes using volumes having different modes of operation,0,G06F
+11928005,2024-03-12,Techniques for performing resynchronization on a clustered system,0,G06F
+11921679,2024-03-05,Synchronizing configuration of partner objects across distributed storage systems using transformations,0,G06F|H04L
+11921671,2024-03-05,Managing volume snapshots in the cloud,0,G06F
+11921597,2024-03-05,Cross-platform replication,1,G06F|H04L
+11917005,2024-02-27,Clustered storage system synchronization,0,H04L
+11915053,2024-02-27,Interruption predictions for cloud compute instances,0,G06F|G06N
+11914884,2024-02-27,Immutable snapshot copies stored in write once read many (WORM) storage,0,G06F
+11907562,2024-02-20,Methods and storage nodes to decrease delay in resuming input output (I/O) operations after a non-disruptive event for a storage object of a distributed storage system by utilizing asynchronous inflight replay of the I/O operations,2,G06F
+11907261,2024-02-20,Timestamp consistency for synchronous replication,1,G06F
+11907197,2024-02-20,Volume placement failure isolation and reporting,1,G06F|H04L
+11907116,2024-02-20,Volume group garbage collection,1,G06F
+11900160,2024-02-13,Methods for managing storage quota assignment in a distributed system and devices thereof,0,G06F
+11899620,2024-02-13,Metadata attachment to storage objects within object store,0,G06F
+11893264,2024-02-06,Methods and systems to interface between a multi-site distributed storage system and an external mediator to efficiently process events related to continuity,0,G06F
+11893261,2024-02-06,Usage of OP logs to synchronize across primary and secondary storage clusters of a cross-site distributed storage system and lightweight OP logging,2,G06F
+11892982,2024-02-06,Facilitating immediate performance of volume resynchronization with the use of passive cache entries,3,G06F
+11892929,2024-02-06,Malfunctioning system identification mechanism,0,G06F
+11886933,2024-01-30,Dynamic load balancing by analyzing performance of volume to quality of service,0,G06F
+11886714,2024-01-30,Hierarchical consistency group for storage and associated methods thereof,0,G06F|H04L
+11886363,2024-01-30,Quality of service policy sets,1,G06F|H04L
+11886320,2024-01-30,Diagnosing application problems by learning from fault injections,1,G06F|G06N
+11880605,2024-01-23,Managing ephemeral storage of a virtual machine to provide victim caches for use by virtual storage appliances in a cloud environment,1,G06F
+11880578,2024-01-23,Composite aggregate architecture,0,G06F
+11880343,2024-01-23,Unordered idempotent logical replication operations,0,G06F
+11880335,2024-01-23,Event based retention of read only files,0,G06F
+11880280,2024-01-23,Variable number and size of put operations for storage backup,0,G06F
+11870709,2024-01-09,Techniques for dynamically allocating resources in a storage cluster system,0,H04L
+11868656,2024-01-09,Distributed file system with disaggregated data management and storage management layers,6,G06F
+11868334,2024-01-09,Integrating change tracking of storage objects of a distributed object storage database into a distributed storage system,1,G06F|H04L
+11868312,2024-01-09,Snapshot storage and management within an object store,1,G06F
+11868213,2024-01-09,Incremental backup to object store,5,G06F
+11863625,2024-01-02,Routing messages between cloud service providers,0,H04L
+11863576,2024-01-02,Detection of anomalies in communities based on access patterns by users,0,H04L
+11861340,2024-01-02,Universal return to factory image process,1,G06F
+11861231,2024-01-02,Scalable solid-state storage system and methods thereof,5,G06F
+11861199,2024-01-02,Data management across a persistent memory tier and a file system tier,1,G06F
+11861198,2024-01-02,Journal replay optimization,1,G06F
+11861176,2024-01-02,Processing of input/ouput operations by a distributed storage system based on latencies assigned thereto at the time of receipt,0,G06F
+11861172,2024-01-02,"Single input/output writes in a file system hosted on a cloud, virtual, or commodity-server platform",2,G06F
+11861169,2024-01-02,Layout format for compressed data,0,G06F|H03M
+11861165,2024-01-02,Object tiering in a distributed storage system,0,G06F
+11860898,2024-01-02,Non-disruptive baseline and resynchronization of a synchronous replication relationship,0,G06F|H04L
+11860791,2024-01-02,Methods for managing input-output operations in zone translation layer architecture and devices thereof,0,G06F
+11860739,2024-01-02,Methods for managing snapshots in a distributed de-duplication system and devices thereof,1,G06F|H04L
+11856054,2023-12-26,Quality of service (QOS) setting recommendations for volumes across a cluster,0,G06F|H04L
+11855905,2023-12-26,Shared storage model for high availability within cloud environments,3,G06F|H04L
+11853589,2023-12-26,Maintaining the benefit of parallel splitting of ops between primary and secondary storage clusters in synchronous replication while adding support for op logging and early engagement of op logging,2,G06F
+11853265,2023-12-26,Dynamic update to views of a file system backed by object storage,0,G06F|H04L
+11853104,2023-12-26,Virtual machine backup from computing environment to storage environment,7,G06F
+11847319,2023-12-19,Storage system interface,0,G06F
+11842084,2023-12-12,Detecting and persisting across boots types of backing storage of cloud volumes available to a virtual storage system,0,G06F
+11842068,2023-12-12,Automatically tuning a quality of service setting for a distributed storage system with a deep reinforcement learning agent,0,G06F|G06N|H04L
+11841781,2023-12-12,Methods and systems for a non-disruptive planned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,2,G06F
+11838363,2023-12-05,Custom views of sensor data,0,G06F|H04L
+11836513,2023-12-05,Transitioning volumes between storage virtual machines,1,G06F
+11836363,2023-12-05,Block allocation for persistent memory during aggregate transition,1,G06F
+11836155,2023-12-05,File system operation handling during cutover and steady state,0,G06F
+11836115,2023-12-05,Gransets for managing consistency groups of dispersed storage items,1,G06F
+11835990,2023-12-05,Use of cluster-level redundancy within a cluster of a distributed storage management system to address node-level errors,3,G06F
+11829803,2023-11-28,Methods for dynamic throttling to satisfy minimum throughput service level objectives and devices thereof,0,G06F
+11829607,2023-11-28,Enabling data integrity checking and faster application recovery in synchronous replicated datasets,1,G06F
+11822821,2023-11-21,Write ordering for persistent memory,1,G06F
+11822520,2023-11-21,Freeing pages within persistent memory,1,G06F
+11818212,2023-11-14,Storage area network attached clustered storage system,0,G06F|H04L
+11816359,2023-11-14,Scalable solid-state storage system and methods thereof,5,G06F
+11816348,2023-11-14,Persistent hole reservation,1,G06F
+11816093,2023-11-14,Storage tier verification checks,1,G06F
+11816029,2023-11-14,Adjustment of garbage collection parameters in a storage system,0,G06F
+11816007,2023-11-14,On-demand serverless disaster recovery,5,G06F
+11816003,2023-11-14,Methods for securely facilitating data protection workflows and devices thereof,0,G06F|H04L
+11811674,2023-11-07,Lock reservations for shared storage,0,G06F|H04L
+11809402,2023-11-07,Granular replication of volume subsets,1,G06F
+11809325,2023-11-07,Deduplicated host cache flush to remote storage,0,G06F
+11803329,2023-10-31,Methods and systems for processing write requests in a storage system,5,G06F
+11803316,2023-10-31,Co-located journaling and data storage for write requests,1,G06F
+11803315,2023-10-31,Co-located journaling and data storage for write requests,1,G06F
+11797510,2023-10-24,Key-value store and file system integration,1,G06F
+11797491,2023-10-24,Inofile management and access control list file handle parity,0,G06F
+11797488,2023-10-24,Methods for managing storage in a distributed de-duplication system and devices thereof,0,G06F
+11797477,2023-10-24,Defragmentation for objects within object store,0,G06F|H04L
+11797406,2023-10-24,Moving a consistency group having a replication relationship,0,G06F
+11797377,2023-10-24,Efficient parity determination in zoned solid-state drives of a storage system,5,G06F
+11797213,2023-10-24,Freeing and utilizing unused inodes,0,G06F
+11792263,2023-10-17,Methods and systems for managing a resource in a networked storage environment,0,H04L
+11792223,2023-10-17,Systems and methods for detecting malware attacks,1,G06F|H04L
+11789660,2023-10-17,Distributed control plane tracking object ownership changes within a distributed storage architecture,3,G06F
+11789611,2023-10-17,Methods for handling input-output operations in zoned storage systems and devices thereof,6,G06F
+11785086,2023-10-10,Cross-site high-availability distributed cloud storage system to monitor virtual channels between storage nodes and prevent channel sharing of a receive queue,1,H04L
+11785084,2023-10-10,Machine learning based assignment of service levels in a networked storage system,0,G06F|G06N|H04L
+11782805,2023-10-10,Techniques for LIF placement in SAN storage cluster synchronous disaster recovery,1,G06F
+11782783,2023-10-10,Method and apparatus to neutralize replication error and retain primary and secondary synchronization during synchronous replication,0,G06F
+11775503,2023-10-03,Technique for global deduplication across datacenters with minimal coordination,0,G06F
+11775204,2023-10-03,Distributed control plane for facilitating communication between a container orchestration platform and a distributed storage architecture,3,G06F
+11768803,2023-09-26,Snapshot metadata arrangement for efficient cloud integrated data management,3,G06F
+11768775,2023-09-26,Methods and systems for managing race conditions during usage of a remote storage location cache in a networked storage system,0,G06F
+11768737,2023-09-26,Rollback procedure for failed dataset image operation,0,G06F
+11768624,2023-09-26,Resilient implementation of client file operations and replication,0,G06F
+11768620,2023-09-26,Methods for handling storage devices with different zone sizes and devices thereof,1,G06F
+11765060,2023-09-19,Methods and systems for resending missing network data packets,1,H04L
+11762814,2023-09-19,Synchronous replication for synchronous mirror copy guarantee,0,G06F
+11762744,2023-09-19,Network storage failover systems and associated methods,0,G06F
+11755736,2023-09-12,Systems and methods for protecting against malware attacks,6,G06F
+11755590,2023-09-12,"Data connector component for implementing integrity checking, anomaly detection, and file system metadata analysis",1,G06F
+11755557,2023-09-12,Flat object storage namespace in an object storage system,1,G06F
+11755428,2023-09-12,Backup and recovery of application data of an application executing in a virtual machine,0,G06F
+11755239,2023-09-12,Methods and systems for processing read and write requests,0,G06F
+11748310,2023-09-05,Dependency aware improvements to support parallel replay or parallel replication of operations which are directed to a common node,0,G06F|H04L
+11748208,2023-09-05,Persistent memory architecture,0,G06F
+11748204,2023-09-05,Using ephemeral storage as backing storage for journaling by a virtual storage system,2,G06F
+11748133,2023-09-05,Methods and systems for booting virtual machines in the cloud,0,G06F
+11743326,2023-08-29,Disparity of quality of service (QoS) settings of volumes across a cluster,0,G06N|H04L
+11740826,2023-08-29,Policy-based hierarchical data protection in distributed storage,0,G06F|H03M
+11740820,2023-08-29,Block allocation methods and systems in a networked storage environment,0,G06F
+11740811,2023-08-29,Reseeding a mediator of a cross-site storage solution,0,G06F
+11740798,2023-08-29,Managing shared resource usage in networked storage systems,0,G06F
+11733865,2023-08-22,Real-time analysis for dynamic storage,0,G06F
+11729111,2023-08-15,Pluggable data resource management controller,0,H04L
+11728827,2023-08-15,Additional compression for existing compressed data,0,G06F|H03M
+11726702,2023-08-15,Methods and systems for processing read and write requests,0,G06F
+11726697,2023-08-15,Synchronous replication,1,G06F
+11726696,2023-08-15,Cloud block map for caching data during on-demand restore,1,G06F
+11726664,2023-08-15,Cloud based interface for protecting and managing data stored in networked storage systems,0,G06F|H04L
+11720525,2023-08-08,Flexible tiering of snapshots to archival storage in remote object stores,3,G06F
+11714785,2023-08-01,Deduplicating extents across systems,1,G06F|H04L
+11714783,2023-08-01,Browsable data and data retrieval from a data archived image,0,G06F
+11714782,2023-08-01,Coordinating snapshot operations across multiple file systems,8,G06F
+11714731,2023-08-01,Failover methods and system in a networked storage environment,0,G06F
+11714673,2023-08-01,Redeploying a baseline virtual machine to update a child virtual machine by creating and swapping a virtual disk comprising a clone of the baseline virtual machine,0,G06F
+11709957,2023-07-25,Methods for securing files within a storage device using artificial intelligence and devices thereof,0,G06F|G06N
+11709897,2023-07-25,Extensible and elastic data management services engine external to a storage domain,0,G06F|H04L
+11709780,2023-07-25,Methods for managing storage systems with dual-port solid-state disks accessible by multiple hosts and devices thereof,0,G06F
+11709743,2023-07-25,Methods and systems for a non-disruptive automatic unplanned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,3,G06F
+11709603,2023-07-25,Multi-tier write allocation,0,G06F
+11704280,2023-07-18,Methods for replicating data and enabling instantaneous access to data and devices thereof,0,G06F
+11704207,2023-07-18,Methods and systems for a non-disruptive planned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system without using an external mediator,0,G06F
+11698836,2023-07-11,Methods and systems for raid protection in zoned solid-state drives,9,G06F
+11693737,2023-07-04,Pooling blocks for erasure coding write groups,1,G06F|H03M
+11693698,2023-07-04,System and method for infrastructure scaling,1,G06F|G06N
+11693563,2023-07-04,Automated tuning of a quality of service setting for a distributed storage system based on internal monitoring,1,G06F
+11687265,2023-06-27,Transferring snapshot copy to object store with deduplication preservation and additional compression,1,G06F
+11681668,2023-06-20,System and method for developing and implementing a migration plan for migrating a file system,0,G06F|H04L
+11681663,2023-06-20,Cloned virtual machine disk replication,4,G06F|H04L
+11681566,2023-06-20,Load balancing and fault tolerant service in a distributed data system,3,G06F
+11671494,2023-06-06,Volume placement based on resource usage,0,G06F|H04L
+11671421,2023-06-06,Methods and systems for providing wake-on-demand access to session servers,1,G06F|H04L
+11671311,2023-06-06,Infrastructure appliance malfunction detection,1,H04L
+11663406,2023-05-30,Methods and systems for automated detection of personal information using neural networks,0,G06F|G06N
+11662930,2023-05-30,Aggregate inline deduplication with volume granular encryption,1,G06F|H04L
+11662929,2023-05-30,"Systems, methods, and computer readable media providing arbitrary sizing of data extents",1,G06F
+11659035,2023-05-23,Routing messages between cloud service providers,1,H04L
+11656962,2023-05-23,Erasure coding repair availability,0,G06F|H03M
+11650891,2023-05-16,Preventing non-detectable data loss during site switchover,0,G06F|H04L
+11650886,2023-05-16,Orchestrator for orchestrating operations between a computing environment hosting virtual machines and a storage environment,12,G06F
+11645320,2023-05-09,Workload identification,0,G06F
+11644978,2023-05-09,Read and write load sharing in a storage array via partitioned ownership of data blocks,0,G06F
+11640356,2023-05-02,Methods for managing storage operations for multiple hosts coupled to dual-port solid-state disks and devices thereof,1,G06F
+11637898,2023-04-25,Volume placement based on resource use and scoring functions,0,G06F|H04L
+11636011,2023-04-25,Methods and systems for protecting multitenant databases in networked storage systems,0,G06F
+11630807,2023-04-18,Garbage collection for objects within object store,4,G06F
+11630803,2023-04-18,Persistent indexing and free space management for flat directory,0,G06F
+11630733,2023-04-18,Persistent memory file system reconciliation,1,G06F
+11627097,2023-04-11,Centralized quality of service management,2,H04L
+11625306,2023-04-11,Data connector component for implementing data requests,13,G06F|H04L
+11625303,2023-04-11,Automatic incremental repair of granular filesystem objects,0,G06F
+11620071,2023-04-04,Object store mirroring with garbage collection,1,G06F
+11620064,2023-04-04,Asynchronous semi-inline deduplication,0,G06F
+11615181,2023-03-28,Methods for managing verification and validation of third-party code and devices thereof,2,G06F
+11615001,2023-03-28,Incremental restore of a virtual machine,8,G06F
+11611476,2023-03-21,Assignment of network configuration for a wired network using a wireless network,1,H04L
+11611436,2023-03-21,Management services API gateway,2,G06F|H04L
+11611348,2023-03-21,File system format for persistent memory,1,G06F|H03M
+11610348,2023-03-21,Augmented reality diagnostic tool for data center nodes,0,G05B|G06T|H04L
+11609704,2023-03-21,Visualization of outliers in a highly-skewed distribution of telemetry data,1,G06F|G06T|H04L
+11609703,2023-03-21,Object store mirroring based on checkpoint,1,G06F
+11599501,2023-03-07,Methods for facilitating efficient analysis of time-based file system properties using histograms and devices thereof,0,G06F
+11599296,2023-03-07,Immutable snapshot copies stored in write once read many (WORM) storage,2,G06F
+11593318,2023-02-28,Techniques for asynchronous snapshot invalidation,1,G06F
+11593271,2023-02-28,Adapting cache processing using phase libraries and real time simulators,0,G06F
+11593229,2023-02-28,Data protection methods and systems for a networked storage environment,0,G06F
+11593016,2023-02-28,Serializing execution of replication operations,7,G06F
+11592986,2023-02-28,Methods for minimizing fragmentation in SSD within a storage system and devices thereof,0,G06F
+11586725,2023-02-21,Methods for managing verification and validation of third-party code and devices thereof,2,G06F
+11579910,2023-02-14,Policy enforcement and performance monitoring at sub-LUN granularity,1,G06F
+11573926,2023-02-07,Stale data detection,0,G06F
+11573855,2023-02-07,Object format resilient to remote object store errors,1,G06F
+11570113,2023-01-31,Methods and systems for managing quality of service in a networked storage environment,1,G06F|H04L
+11567694,2023-01-31,Efficiency sets for determination of unique data,1,G06F
+11567674,2023-01-31,Low overhead resynchronization snapshot creation and utilization,2,G06F
+11567662,2023-01-31,Storage system interface,1,G06F
+11561935,2023-01-24,Methods for ensuring correctness of file system analytics and devices thereof,1,G06F
+11561696,2023-01-24,Garbage collection pacing in a storage system,0,G06F
+11550819,2023-01-10,Synchronization cache seeding,1,G06F|H04L
+11550679,2023-01-10,Methods and systems for a non-disruptive planned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system,13,G06F
+11546420,2023-01-03,Quality of service (QoS) settings of volumes in a distributed storage system,0,G06N|H04L
+11546337,2023-01-03,Servicing of network software components of nodes of a cluster storage system,10,G06F|H04L
+11546238,2023-01-03,Methods and systems for resending missing network data packets,2,H04L
+11544151,2023-01-03,Data backup technique for backing up data to an object storage service,0,G06F
+11544011,2023-01-03,Write invalidation of a remote location cache entry in a networked storage system,2,G06F
+11544007,2023-01-03,Forwarding operations to bypass persistent memory,1,G06F
+11539583,2022-12-27,Dynamic network discovery service for system deployment and validation,0,H04L
+11537634,2022-12-27,Methods for hierarchical propagation in tree structures and devices thereof,2,G06F
+11537573,2022-12-27,"Elastic, ephemeral in-line deduplication service",4,G06F
+11537330,2022-12-27,Selectively improving raid operations latency,0,G06F
+11537314,2022-12-27,Resynchronization of individual volumes of a consistency group (CG) within a cross-site storage solution while maintaining synchronization of other volumes of the CG,13,G06F
+11531642,2022-12-20,Synchronous object placement for information lifecycle management,1,G06F|G06Q
+11531583,2022-12-20,Methods and systems for self-healing in connected computing environments,0,G06F|H04L
+11526275,2022-12-13,Creation and use of an efficiency set to estimate an amount of data stored in a data set of a storage system having one or more characteristics,4,G06F
+11522808,2022-12-06,Shared storage model for high availability within cloud environments,4,G06F|H04L
+11520929,2022-12-06,Methods and systems for securely storing unstructured data in a storage system,1,G06F
+11520490,2022-12-06,Hierarchical consistency group for storage and associated methods thereof,0,G06F|H04L
+11516148,2022-11-29,Techniques for dynamically allocating resources in a storage cluster system,1,H04L
+11514181,2022-11-29,Bin syncing technique for multiple data protection schemes,0,G06F|H04L
+11509720,2022-11-22,Techniques for storing and distributing metadata among nodes in a storage cluster system,0,H04L
+11509718,2022-11-22,Techniques for coordinating parallel performance and cancellation of commands in a storage cluster system,1,G06F|H04L
+11507600,2022-11-22,Dependency aware parallel splitting of operations,0,G06F
+11500750,2022-11-15,Methods and systems for managing networked storage system resources,1,G06F
+11500592,2022-11-15,Systems and methods for allocating data compression activities in a storage system,0,G06F
+11500591,2022-11-15,Methods and systems for enabling and disabling remote storage location cache usage in a networked storage system,3,G06F
+11494088,2022-11-08,Push-based piggyback system for source-driven logical replication in a storage environment,0,G06F
+11487723,2022-11-01,Object and sequence number management,1,G06F
+11487635,2022-11-01,Mediator assisted switchover between clusters,2,G06F
+11487632,2022-11-01,Techniques for LIF placement in SAN storage cluster synchronous disaster recovery,2,G06F
+11481335,2022-10-25,Methods for using extended physical region page lists to improve performance for solid-state drives and devices thereof,0,G06F
+11481326,2022-10-25,Networked storage system with a remote storage location cache and associated methods thereof,3,G06F
+11481139,2022-10-25,Methods and systems to interface between a multi-site distributed storage system and an external mediator to efficiently process events related to continuity,19,G06F
+11475132,2022-10-18,Systems and methods for protecting against malware attacks,1,G06F
+11468124,2022-10-11,Community generation based on a common set of attributes,1,G06F|G06Q
+11468029,2022-10-11,Evolution of communities derived from access patterns,1,G06F
+11468014,2022-10-11,Resynchronization to a filesystem synchronous replication relationship endpoint,1,G06F
+11467927,2022-10-11,Methods and systems for protecting multitenant databases in networked storage systems,1,G06F
+11467774,2022-10-11,Metadata compaction,1,G06F
+11461281,2022-10-04,Freeing pages within persistent memory,1,G06F
+11461280,2022-10-04,Handling metadata operations and timestamp changes during resynchronization,1,G06F
+11461181,2022-10-04,Methods and systems for protecting multitenant databases in networked storage systems,0,G06F
+11461015,2022-10-04,Available storage space in a system with varying data redundancy schemes,0,G06F
+11449401,2022-09-20,Moving a consistency group having a replication relationship,0,G06F
+11449373,2022-09-20,Techniques for performing resynchronization on a clustered system,1,G06F
+11449278,2022-09-20,Methods for accelerating storage operations using computational network and storage components and devices thereof,0,G06F
+11449260,2022-09-20,Persistent hole reservation,5,G06F
+11449255,2022-09-20,Systems and methods for scaling volumes using volumes having different modes of operation,1,G06F
+11449239,2022-09-20,Write-ahead log maintenance and recovery,0,G06F
+11444997,2022-09-13,Methods for dictionary-based compression and devices thereof,0,G06F|H04L|H04N
+11442916,2022-09-13,Flat object storage namespace in an object storage system,0,G06F
+11442903,2022-09-13,Synchronizing configuration of partner objects across distributed storage systems using transformations,1,G06F|H04L
+11442894,2022-09-13,Methods for scalable file backup catalogs and devices thereof,0,G06F
+11442827,2022-09-13,Policy-based hierarchical data protection in distributed storage,0,G06F|H03M
+11442814,2022-09-13,Variable number and size of put operations for storage backup,1,G06F
+11436088,2022-09-06,Methods for managing snapshots in a distributed de-duplication system and devices thereof,2,G06F|H04L
+11431801,2022-08-30,Storage offload engine for distributed network device data,0,G06F|H04L
+11423004,2022-08-23,Granular replication of volume subsets,1,G06F
+11422908,2022-08-23,Non-disruptive controller replacement in a cross-cluster redundancy configuration,1,G06F
+11422903,2022-08-23,Maintaining and recomputing reference counts in a persistent memory file system,2,G06F
+11422898,2022-08-23,Efficient creation of multiple retention period based representations of a dataset backup,2,G06F
+11416444,2022-08-16,Object-based storage replication and recovery,0,G06F
+11416356,2022-08-16,Network storage failover systems and associated methods,2,G06F
+11416346,2022-08-16,Methods for securely facilitating data protection workflows and devices thereof,1,G06F|H04L
+11416275,2022-08-16,Techniques for migration paths,0,G06F
+11416156,2022-08-16,Object tiering in a distributed storage system,1,G06F
+11409708,2022-08-09,Gransets for managing consistency groups of dispersed storage items,2,G06F
+11409622,2022-08-09,Methods and systems for a non-disruptive planned failover from a primary copy of data at a primary storage system to a mirror copy of the data at a cross-site secondary storage system without using an external mediator,26,G06F
+11409457,2022-08-09,Co-located journaling and data storage for write requests,3,G06F
+11409448,2022-08-09,Selectively storing data into allocation areas using streams,0,G06F|H04L
+11397650,2022-07-26,Methods and systems for protecting virtual machine data in networked storage systems,11,G06F
+11397534,2022-07-26,Data management across a persistent memory tier and a file system tier,2,G06F
+11392618,2022-07-19,Non-disruptive baseline and resynchronization of a synchronous replication relationship,1,G06F|H04L
+11392315,2022-07-19,Automatically tuning a quality of service setting for a distributed storage system with a deep reinforcement learning agent,6,G06F|G06N|H04L
+11388235,2022-07-12,Decoupling volume deployment requirements and code implementation,0,G06F|H04L
+11386120,2022-07-12,Data syncing in a distributed system,3,G06F|G06Q|H04L
+11386015,2022-07-12,Methods for managing storage systems with dualport solid-state disks accessible by multiple hosts and devices thereof,3,G06F
+11379412,2022-07-05,Enabling data replication processes between heterogeneous storage systems,0,G06F
+11379360,2022-07-05,Methods for managing storage operations for multiple hosts coupled to dual-port solid-state disks and devices thereof,2,G06F
+11379119,2022-07-05,Writing data in a distributed data storage system,2,G06F|H04L
+11375016,2022-06-28,Routing messages between cloud service providers,1,H04L
+11372918,2022-06-28,Methods for performing input-output operations in a storage system using artificial intelligence and devices thereof,0,G06F|G06N
+11372807,2022-06-28,Converting storage objects between formats in a copy-free transition,0,G06F
+11372738,2022-06-28,Erasure coding repair availability,0,G06F|H03M
+11372697,2022-06-28,Message based code execution using key-value storage,0,G06F
+11372544,2022-06-28,Write type based crediting for block level write throttling to control impact to read input/output operations,0,G06F
+11368167,2022-06-21,Additional compression for existing compressed data,1,G06F|H03M
+11363042,2022-06-14,Detection of anomalies in communities based on access patterns by users,1,H04L
+11360867,2022-06-14,Re-aligning data replication configuration of primary and secondary data serving entities of a cross-site storage solution after a failover event,22,G06F|H04L
+11356494,2022-06-07,Managing network isolated services from a publicly hosted web application via CORS,0,G06F|H04L
+11354160,2022-06-07,Methods for managing storage quota assignment in a distributed system and devices thereof,1,G06F
+11354049,2022-06-07,Multi-tier destaging write allocation,1,G06F
+11347691,2022-05-31,Methods for managing storage in a distributed de-duplication system and devices thereof,1,G06F
+11347605,2022-05-31,Cross-platform replication,2,G06F|H04L
+11341101,2022-05-24,Data synchronization,0,G06F
+11341056,2022-05-24,Low-overhead atomic writes for persistent memory,1,G06F
+11340987,2022-05-24,Methods and systems for raid protection in zoned solid-state drives,20,G06F
+11340812,2022-05-24,Efficient modification of storage system metadata,4,G06F
+11340804,2022-05-24,Block allocation for persistent memory during aggregate transition,2,G06F
+11336749,2022-05-17,"Systems, methods, and computer program products to implement changes in a converged infrastructure system",0,G06F|H04L
+11334540,2022-05-17,Namespace hierarchy preservation with multiple object storage objects,2,G06F
+11334454,2022-05-17,Trust relationship migration for data mirroring,1,G06F
+11327910,2022-05-10,Quality of service policy sets,3,G06F|H04L
+11327857,2022-05-10,Faster replay of metadata and data operations using inode number based dependency graph,21,G06F
+11316742,2022-04-26,Stateless resource management,0,H04L
+11314558,2022-04-26,Methods for dynamic throttling to satisfy minimum throughput service level objectives and devices thereof,2,G06F
+11301455,2022-04-12,Technique for global deduplication across datacenters with minimal coordination,0,G06F
+11301450,2022-04-12,Maintaining timestamp parity of objects with alternate data streams during transition phase to synchronous state,0,G06F
+11301430,2022-04-12,Hybrid model of fine-grained locking and data partitioning,1,G06F
+11301177,2022-04-12,Data structure storage and data management,1,G06F
+11301139,2022-04-12,Building stable storage area networks for compute clusters,0,G06F
+11290545,2022-03-29,Servicing of storage device software components of nodes of a cluster storage system,0,H04L
+11288186,2022-03-29,Adjustment of garbage collection parameters in a storage system,0,G06F
+11288003,2022-03-29,Cross-platform replication of logical units,1,G06F
+11271843,2022-03-08,Quality of service performance diagnostic mechanism,2,H04L
+11269744,2022-03-08,Network storage failover systems and associated methods,0,G06F
+11269539,2022-03-08,Methods for managing deletion of data objects by utilizing cold storage and devices thereof,0,G06F
+11263057,2022-03-01,Dynamic instantiation and management of virtual caching appliances,1,G06F|H04L|Y02D
+11262931,2022-03-01,Synchronous replication,1,G06F
+11258877,2022-02-22,Methods for managing workloads in a storage system and devices thereof,0,G06F|H04L
+11256433,2022-02-22,Aggregate inline deduplication with volume granular encryption,1,G06F|H04L
+11256424,2022-02-22,Reducing write tail latency in storage systems,0,G06F|H03M
+11252231,2022-02-15,Methods and systems for managing a resource in a networked storage environment,1,H04L
+11249954,2022-02-15,Synchronous replication for synchronous mirror copy guarantee,0,G06F
+11249869,2022-02-15,Failover methods and system in a networked storage environment,1,G06F
+11249857,2022-02-15,Methods for managing clusters of a storage system using a cloud resident orchestrator and devices thereof,4,G06F|H04L
+11249671,2022-02-15,Methods for improved data replication across hybrid cloud volumes using data tagging and devices thereof,0,G06F
+11243692,2022-02-08,Object tiering in a distributed storage system,1,G06F
+11232160,2022-01-25,Extensible and elastic data management services engine external to a storage domain,1,G06F|H04L
+11232004,2022-01-25,Implementing automatic switchover,0,G06F
+11231989,2022-01-25,Object format resilient to remote object store errors,1,G06F
+11228486,2022-01-18,Methods for managing storage virtual machine configuration changes in a distributed storage system and devices thereof,0,G06F|H04L
+11226869,2022-01-18,Persistent memory architecture,3,G06F
+11226777,2022-01-18,Cluster configuration information replication,0,G06F
+11223681,2022-01-11,Updating no sync technique for ensuring continuous storage service in event of degraded cluster state,0,G06F|H04L
+11221928,2022-01-11,Methods for cache rewarming in a failover domain and devices thereof,1,G06F
+11218539,2022-01-04,Synchronous replication for storage,1,G06F|H04L
+11218391,2022-01-04,Methods for monitoring performance of a network fabric and devices thereof,1,G06F|H04L
+11216439,2022-01-04,Auto-expiring locks based on object stamping,0,G06F
+11216350,2022-01-04,Network storage failover systems and associated methods,0,G06F|H04L
+11216341,2022-01-04,Methods and systems for protecting databases of a database availability group,0,G06F
+11216204,2022-01-04,"Degraded redundant metadata, DRuM, technique",0,G06F
+11212196,2021-12-28,Proportional quality of service based on client impact on an overload condition,6,G06F|H04L
+11210013,2021-12-28,Object store mirroring and garbage collection during synchronization of the object store,12,G06F
+11210007,2021-12-28,Deduplication of encrypted data within a remote data store,0,G06F|H04L
+11204893,2021-12-21,Methods for facilitating efficient storage operations using variable length encoded segment maps for deduplicated objects and devices thereof,0,G06F
+11199979,2021-12-14,Enabling data integrity checking and faster application recovery in synchronous replicated datasets,0,G06F
+11199969,2021-12-14,Storage system interface,1,G06F
+11194677,2021-12-07,Configuration inconsistency identification between storage virtual machines,0,G06F
+11194506,2021-12-07,Efficiency sets for determination of unique data,3,G06F
+11194501,2021-12-07,Standby copies withstand cascading fails,1,G06F
+11194500,2021-12-07,Resilient implementation of client file operations and replication,3,G06F
+11188520,2021-11-30,Storage tier verification checks,1,G06F
+11188500,2021-11-30,Reducing stable data eviction with synthetic baseline snapshot and eviction state refresh,12,G06F|H04L
+11188413,2021-11-30,Methods and systems for self-healing in connected computing environments,2,G06F|H04L
+11188266,2021-11-30,Write ordering for persistent memory,3,G06F
+11188246,2021-11-30,Composite aggregate architecture,1,G06F
+11182202,2021-11-23,Migration between CPU cores,1,G06F
+11175989,2021-11-16,Pooling blocks for erasure coding write groups,0,G06F|H03M
+11175941,2021-11-16,Redeploying a baseline virtual machine to update a child virtual machine by creating and swapping a virtual disk comprising a clone of the baseline virtual machine,1,G06F
+11175831,2021-11-16,Read and write load sharing in a storage array via partitioned ownership of data blocks,0,G06F
+11169972,2021-11-09,Handling data extent size asymmetry during logical replication in a storage system,0,G06F
+11169967,2021-11-09,Selective deduplication,0,G06F
+11169884,2021-11-09,Recovery support techniques for storage virtualization environments,1,G06F
+11169707,2021-11-09,Garbage collection pacing in a storage system,8,G06F
+11163729,2021-11-02,Cloned virtual machine disk replication,1,G06F|H04L
+11163690,2021-11-02,Deduplicated host cache flush to remote storage,0,G06F
+11163655,2021-11-02,Systems and methods for resynchronizing mirroring partners in a storage system,1,G06F
+11163653,2021-11-02,Storage cluster failure detection,0,G06F
+11157455,2021-10-26,Inofile management and access control list file handle parity,15,G06F
+11157372,2021-10-26,Efficient memory footprint in deduplicated system storing with content based addressing,0,G06F
+11157317,2021-10-26,Efficient distributed scheduler for a data partitioned system,1,G06F
+11157305,2021-10-26,Methods and systems for provisioning a virtual resource in a mixed-use server,0,G06F|H04L
+11151162,2021-10-19,Timestamp consistency for synchronous replication,10,G06F
+11151012,2021-10-19,Predictive reserved instance for hyperscaler management,1,G06F|G06N|G06Q|G06T
+11144503,2021-10-12,Snapshot storage and management within an object store,12,G06F
+11144502,2021-10-12,"Object store file system format for representing, storing, and retrieving data in an object store according to a structured format",14,G06F
+11144498,2021-10-12,Defragmentation for objects within object store,11,G06F|H04L
+11144211,2021-10-12,Low overhead resynchronization snapshot creation and utilization,1,G06F
+11140219,2021-10-05,Quality of service (QoS) setting recommendations for volumes across a cluster,7,G06F|H04L
+11138229,2021-10-05,Dependency aware improvements to support parallel replay or parallel replication of operations which are directed to a common inode,0,G06F|H04L
+11138061,2021-10-05,Method and apparatus to neutralize replication error and retain primary and secondary synchronization during synchronous replication,2,G06F
+11132339,2021-09-28,Synchronous replication for synchronous mirror copy guarantee,7,G06F
+11132262,2021-09-28,System and method for enforcing a dataset timeout for generating a dataset image,1,G06F
+11132261,2021-09-28,System and method for utilizing operation identifiers for communicating with storage systems to perform a dataset image operation,1,G06F
+11132129,2021-09-28,Methods for minimizing fragmentation in SSD within a storage system and devices thereof,0,G06F
+11128573,2021-09-21,Load balancing for IP failover,4,G06F|H04L
+11126510,2021-09-21,Backup and recovery of application data of an application executing in a virtual machine,1,G06F
+11122095,2021-09-14,Methods for dictionary-based compression and devices thereof,0,G06F|H04L|H04N
+11120048,2021-09-14,Non-disruptive transition to synchronous replication state,1,G06F
+11119860,2021-09-14,Data profiler,0,G06F
+11106388,2021-08-31,Monitoring storage cluster elements,1,G06F|H04L
+11106375,2021-08-31,Deduplication of encrypted data within a remote data store,1,G06F|H04L
+11100044,2021-08-24,Browsable data and data retrieval from a data archived image,1,G06F
+11086551,2021-08-10,Freeing and utilizing unused inodes,6,G06F
+11080237,2021-08-03,Stale data detection,1,G06F
+11080100,2021-08-03,Load balancing and fault tolerant service in a distributed data system,1,G06F
+11075852,2021-07-27,Techniques for dynamically allocating resources in a storage cluster system,2,H04L
+11074730,2021-07-27,Augmented reality diagnostic tool for data center nodes,8,G05B|G06T|H04L
+11070619,2021-07-20,Routing messages between cloud service providers,1,H04L
+11070479,2021-07-20,Dynamic resource allocation based upon network flow control,0,G06F|H04L
+11068503,2021-07-20,File system operation handling during cutover and steady state,1,G06F
+11068350,2021-07-20,Reconciliation in sync replication,0,G06F
+11068182,2021-07-20,Asynchronous semi-inline deduplication,0,G06F
+11068171,2021-07-20,High availability storage access using quality of service based path selection in a storage area network environment,0,G06F
+11063601,2021-07-13,File system format for persistent memory,3,G06F|H03M
+11055005,2021-07-06,Background deduplication using trusted fingerprints,0,G06F
+11048430,2021-06-29,"Object store mirroring where during resync of two storage bucket, objects are transmitted to each of the two storage bucket",13,G06F
+11044148,2021-06-22,Optimistic and failsafe network configuration,1,H04L
+11036600,2021-06-15,Preventing non-detectable data loss during site switchover,1,G06F|H04L
+11036423,2021-06-15,Dynamic recycling algorithm to handle overlapping writes during synchronous replication of application workloads with large number of files,27,G06F
+11036420,2021-06-15,"Object store mirroring and resync, during garbage collection operation, first bucket (with deleted first object) with second bucket",15,G06F
+11032143,2021-06-08,Assignment of network configuration for a wired network using a wireless network,5,H04L
+11029862,2021-06-08,"Systems and methods for reducing write tax, memory usage, and trapped capacity in metadata storage",0,G06F
+11025728,2021-06-01,Methods for facilitating secure connections for an operating system kernel and devices thereof,0,H04L
+11023340,2021-06-01,Layering a distributed storage system into storage groups and virtual chunk spaces for efficient data recovery,0,G06F|H03M|H04L
+11016943,2021-05-25,Garbage collection for objects within object store,19,G06F
+11016866,2021-05-25,Techniques for maintaining communications sessions among nodes in a storage cluster system,1,G06F
+11016864,2021-05-25,Cluster-wide service agents,1,G06F|H04L
+11010335,2021-05-18,Methods and systems for protecting data of a persistent memory based file system,0,G06F
+11010078,2021-05-18,Inline deduplication,1,G06F
+11005972,2021-05-11,"Systems, methods, and computer program products to implement changes in a converged infrastructure system",2,G06F|H04L
+11005924,2021-05-11,Disparity of quality of service (QoS) settings of volumes across a cluster,8,G06N|H04L
+11005894,2021-05-11,Methods for demultiplexing services over ports and devices thereof,0,H04L
+11003583,2021-05-11,Adapting cache processing using phase libraries and real time simulators,0,G06F
+10997098,2021-05-04,Quality of service policy sets,11,G06F|H04L
+10983955,2021-04-20,Data unit cloning in memory-based file systems,2,G06F
+10983709,2021-04-20,Methods for improving journal performance in storage networks and devices thereof,0,G06F
+10977134,2021-04-13,Restoration process to restore corrupted data of a volume,1,G06F
+10972348,2021-04-06,Methods and systems for selecting compatible resources in networked storage environments,0,H04L
+10970595,2021-04-06,Methods and systems for document classification using machine learning,0,G06F|G06N
+10970310,2021-04-06,Synchronous replication based cutover engine,1,G06F
+10965753,2021-03-30,Interconnect delivery process,0,G06F|H04L
+10963289,2021-03-30,Storage virtual machine relocation,0,G06F|H04N
+10956072,2021-03-23,Accelerating concurrent access to a file in a memory-based file system,0,G06F
+10951488,2021-03-16,Rule-based performance class access management for storage cluster performance guarantees,10,G06F|H04L
+10949312,2021-03-16,Logging and update of metadata in a log-structured file system for storage node recovery and restart,0,G06F
+10949309,2021-03-16,Snapshot creation with synchronous replication,5,G06F
+10944679,2021-03-09,Methods and systems for managing quality of service in a networked storage environment,2,G06F|H04L
+10942813,2021-03-09,Cloud object data layout (CODL),2,G06F
+10938938,2021-03-02,Methods for selectively compressing data and devices thereof,0,H03M|H04L
+10936540,2021-03-02,Methods for accelerating storage media access and devices thereof,0,G06F
+10929419,2021-02-23,Object storage backed file system,1,G06F
+10929341,2021-02-23,Iterative object scanning for information lifecycle management,0,G06F|H04L
+10929043,2021-02-23,Space reservation for distributed storage systems,0,G06F
+10929022,2021-02-23,Space savings reporting for storage system supporting snapshot and clones,5,G06F
+10915405,2021-02-09,Methods for handling storage element failures to reduce storage device failure rates and devices thereof,0,G06F
+10915246,2021-02-09,Cloud storage format to enable space reclamation while minimizing data transfer,0,G06F
+10911328,2021-02-02,Quality of service policy based load adaption,2,G06F|H04L

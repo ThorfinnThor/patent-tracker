@@ -1,0 +1,1393 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12431126,2025-09-30,Media engagement through deep learning,0,G06F|G06N|G10L|H03G|H04R
+12430913,2025-09-30,Event information extraction from game logs using natural language processing,0,A63F|G06F|G06V
+12430851,2025-09-30,Synthesizing high resolution 3D shapes from lower resolution representations for synthetic data generation systems and applications,0,G06T
+12430842,2025-09-30,Differentiable object insertion using hybrid lighting volumes for synthetic data generation,0,G06T
+12430702,2025-09-30,Learning robotic tasks using one or more neural networks,0,B25J|G05B|G05D|G06N|G06T
+12430564,2025-09-30,Fine-tuning policies to facilitate chaining,0,B25J|G05B|G06N
+12430485,2025-09-30,VLSI placement optimization using self-supervised graph clustering,0,G06F
+12430402,2025-09-30,Confidence generation using a neural network,0,A01B|A01C|A01G|A01M|B60W|G06F|G06N|G06V|G16H
+12427418,2025-09-30,Gamer training using neural networks,0,A63F|G06F|G06N|G06V
+12425605,2025-09-23,Image in-painting for irregular holes using partial convolutions,0,G06N|G06T|H04N
+12425277,2025-09-23,Decision feed forward equalization for partial response equalized signal including pre-cursor cancelation,0,H04L
+12423940,2025-09-23,Targeted object detection in image processing applications,0,G06F|G06N|G06T|G06V
+12423906,2025-09-23,Ray tracing using reservoir resampling with spatial shift-mapping,0,G06T
+12423905,2025-09-23,Denoising dynamically ray-traced scenes using temporal and spatial variances of historical pixel values,0,G06T|G09G
+12423787,2025-09-23,Remastering lower dynamic range content for higher dynamic range displays,0,G06N|G06T
+12423782,2025-09-23,Rendering frames using jittered filter taps,0,G06T
+12423781,2025-09-23,Techniques for content synthesis using denoising diffusion models,0,G06N|G06T
+12423583,2025-09-23,Selecting annotations for training images using a neural network,0,G06F|G06N
+12423570,2025-09-23,Accelerated training for neural network models,0,G06F|G06N
+12423128,2025-09-23,Adaptive task scheduling for virtualized environments,0,G06F
+12423076,2025-09-23,Code generation based on processor usage,0,G06F
+12423074,2025-09-23,Neural network layer fusion,0,G06F|G06N
+12423029,2025-09-23,"Systems, methods, and apparatuses for making writes to persistent memory",0,G06F
+12423007,2025-09-23,Techniques for tensor memory allocation,0,G06F|G06N
+12420844,2025-09-23,Neural network trajectory prediction,0,B60W|G06N
+12418906,2025-09-16,System and method for GPU-initiated communication,0,G06F|H04L|H04W
+12418897,2025-09-16,Fifth generation new radio signal processing,0,G06F|H04B|H04L|H04W
+12417760,2025-09-16,"Speaker identification, verification, and diarization using neural networks for conversational AI systems and applications",0,G06N|G10L
+12417602,2025-09-16,Text-driven 3D object stylization using neural networks,0,G06N|G06T
+12417584,2025-09-16,Neural networks to generate pixels,0,G06N|G06T
+12417403,2025-09-16,Bayesian optimization of sparsity ratios in model compression,0,G06N
+12417377,2025-09-16,Using decay parameters for inferencing with neural networks,0,G05D|G06F|G06N|G06V
+12417334,2025-09-16,Lithography simulation using a neural network,0,G03F|G06F|G06N
+12417181,2025-09-16,Systems and methods for aperture-specific cache operations,0,G06F
+12417177,2025-09-16,Systems and methods for multicasting data,0,G06F
+12417137,2025-09-16,Detecting hardware faults in data processing pipelines,0,G06F
+12416897,2025-09-16,Holographic volumetric displays,0,G03H|G06N
+12416714,2025-09-16,Sensor data point cloud generation for map creation and localization for autonomous systems and applications,0,B60W|G01S|G06T|G06V
+12413749,2025-09-09,Exploiting redundant bit combinations in a compressed representation of an image,0,G06T|H03M|H04N
+12413338,2025-09-09,Parallel selection of fifth generation (5G) new radio information,0,G06F|H03M|H04L|H04W
+12412590,2025-09-09,Audio noise removal using one or more neural networks,0,G06N|G10L
+12412340,2025-09-09,Synthesizing three-dimensional shapes using latent diffusion models in content generation systems and applications,0,G06T|G06V
+12412278,2025-09-09,Object detection using skewed polygons suitable for parking space detection,0,G06T|G06V
+12412250,2025-09-09,Rendering along a space-filling curve,0,G06T
+12412240,2025-09-09,Predictive color image processing,0,G06T
+12412082,2025-09-09,Fine-grained per-vector scaling for neural network quantization,0,G06F|G06N
+12411761,2025-09-09,Fully cache coherent virtual partitions in multitenant configurations in a multiprocessor system,0,G06F
+12407494,2025-09-02,Secure key delivery,0,H04L
+12406971,2025-09-02,Staggered dual-side multi-chip interconnect,0,H01L|H05K
+12406526,2025-09-02,Indirectly accessing sample data to perform multi-convolution operations in a parallel processing system,0,G06N|G06V
+12406471,2025-09-02,Using temporal filters for automated real-time classification,0,G06F|G06N|G06V
+12406422,2025-09-02,3D digital avatar generation from a single or few portrait images,0,G06T
+12406338,2025-09-02,Pseudoinverse guidance for data restoration with diffusion models,0,G06T
+12406169,2025-09-02,Optimally clipped tensors and vectors,0,G06N
+12406023,2025-09-02,Neural network training method,0,G06F|G06N|G06V
+12405823,2025-09-02,Resource sharing by two or more heterogeneous processing cores,0,G06F
+12405801,2025-09-02,Scalarization of instructions for SIMT architectures,0,G06F
+12405660,2025-09-02,Gaze estimation using one or more neural networks,0,G06F|G06N|G06T|G06V
+12405629,2025-09-02,High-speed signaling system with ground referenced signaling (GRS) over substrate,0,G06F|H04L|H05K
+12403919,2025-09-02,Hardware fault detection for feedback control systems in autonomous machine applications,0,B60W|G05B|G06F
+12401672,2025-08-26,Finding anomalous patterns,0,G06F|H04L
+12400417,2025-08-26,Multi-modal sensor calibration for in-cabin monitoring systems and applications,0,B60W|G06T|G06V|H04N
+12400395,2025-08-26,Rendering and composition of neural 3D objects with non-neural assets in content generation systems and applications,0,G06T|G06V
+12400341,2025-08-26,Machine learning framework applied in a semi-supervised setting to perform instance tracking in a sequence of image frames,0,G06T|G06V
+12400291,2025-08-26,Image enhancement using one or more neural networks,0,G06T
+12400118,2025-08-26,Incorporating a ternary matrix into a neural network,0,G06F|G06N
+12399716,2025-08-26,Inline data inspection for workload simplification,0,G06F|G06N
+12399567,2025-08-26,Vision-based teleoperation of dexterous robotic system,0,B25J|G05B|G06F|G06T|G06V
+12399253,2025-08-26,Deep neural network for detecting obstacle instances using radar sensors in autonomous machine applications,0,G01S|G06N|G06T|G06V
+12399086,2025-08-26,Simulating realistic test data from transformed real-world sensor data for autonomous machine,0,B60W|G01M|G01S|G06F|G06V|G07C
+12399015,2025-08-26,Neural network training using ground truth data augmented with map information for autonomous machine applications,0,B60W|G01C|G01S|G05D|G06F|G06N|G06V
+12397823,2025-08-26,Differentiable and modular prediction and planning for autonomous machines,0,B60W|G06N
+12395526,2025-08-19,Detecting identity spoofing attacks in multi-sensor systems and applications,0,G06T|H04L
+12395311,2025-08-19,Reliable link management for a high-speed signaling interconnect,0,G06F|H04L
+12395175,2025-08-19,"Level-shifter having a wide operating range, a fast output fall delay and improved rise time",0,G06F|G11C|H03K
+12394144,2025-08-19,Consistent sampling for spatial hashing,0,G06T
+12394113,2025-08-19,Pixel blending for neural network-based image generation,0,G06T
+12390929,2025-08-19,Object rearrangement using learned implicit collision functions,0,B25J|G05B|G06N|G06V|G08G
+12390926,2025-08-19,Machine learning model for task and motion planning,0,B25J|G05B|G06N
+12388889,2025-08-12,Augmenting multimedia streaming by anticipating events using artificial intelligence,0,A63F|G06N|H04L|H04N
+12387817,2025-08-12,Sequence variation detection using deep learning,0,G06N|G16B
+12387481,2025-08-12,Enhanced object identification using one or more neural networks,0,G06F|G06N|G06T|G06V
+12387430,2025-08-12,Generating images of virtual environments using one or more neural networks,0,A63F|G06T|G06V
+12387373,2025-08-12,3D environment reconstruction for persistent object tracking,0,G01C|G05D|G06T
+12387089,2025-08-12,Efficient neural network accelerator dataflows,0,G06F|G06N
+12387028,2025-08-12,Data path circuit design using reinforcement learning,0,G06F|G06N
+12386944,2025-08-12,Staggered authentication for data transfer,0,G06F
+12386523,2025-08-12,Techniques for performing write training on a dynamic random-access memory,0,G06F|G11C
+12386409,2025-08-12,Power-aware scheduling in data centers,0,G06F
+12383838,2025-08-12,Game event recognition for user generated content,0,A63F|H04N
+12382180,2025-08-05,Stitching quality assessment for surround view systems,0,B60R|G06T|H04N
+12381763,2025-08-05,Technique to perform demodulation of wireless communications signal data,0,H04L
+12380685,2025-08-05,Instruction generation using one or more neural networks,0,G06N|G06V|G09B
+12380601,2025-08-05,Sensor calibration for autonomous systems and applications,0,G01S|G06T|H04N
+12380282,2025-08-05,Natural language processing applications using large language models,0,G06F
+12379959,2025-08-05,Compute task state encapsulation,0,G06F
+12379741,2025-08-05,Time synchronization and conversion for safety validation in autonomous systems and applications,0,G06F
+12374102,2025-07-29,Neural network control variates,0,G06F|G06N|G06T|G06V
+12374040,2025-07-29,Environment reconstruction and path planning for autonomous systems and applications,0,B60W|G05D|G06F|G06T|G06V
+12374024,2025-07-29,Light importance caching using spatial hashing in real-time ray tracing applications,0,G06T
+12373986,2025-07-29,Shading calibration for radial sensor lenses,0,G06T|H04N
+12373960,2025-07-29,Dynamic object detection using LiDAR data for autonomous machine systems and applications,0,G01S|G06T|G06V
+12373959,2025-07-29,Computing optical flow using semi-global matching,0,G06T
+12373712,2025-07-29,Artificial intelligence model inference and tuning peer-to-peer network system,0,G06F|G06N
+12373689,2025-07-29,Landmark detection using curve fitting for autonomous driving applications,0,B60W|G05D|G06F|G06N|G06V
+12373622,2025-07-29,Reducing crosstalk pessimism using GPU-accelerated gate simulation and machine learning,0,G06F|G06N
+12368908,2025-07-22,Video streaming scaling using virtual resolution adjustment,0,H04N
+12368785,2025-07-22,Application programming interface to indicate a device in a transport network to share information with a device in an access network,0,G06F|H04L|H04W
+12367681,2025-07-22,Simulating viewpoint transformations for sensor independent scene understanding in autonomous systems,0,B60R|B60W|G05B|G06F|G06T|G06V|H04N
+12367637,2025-07-22,System and method for image generation using jittered motion vectors,0,G06N|G06T
+12367628,2025-07-22,Speech-driven animation using one or more neural networks,0,G06N|G06T|G06V|G10L
+12367619,2025-07-22,Image processing using color vision deficiency compensation,0,G06T|G09B|H04N
+12367546,2025-07-22,Panorama generation using one or more neural networks,0,G06N|G06T
+12367261,2025-07-22,Extending supervision using machine learning,0,G06F|G06N|G06V|G16H
+12366883,2025-07-22,Time synchronized sensor data for robotics systems and applications,0,G01S|G06F
+12365344,2025-07-22,Multi-view geometry-based hazard detection for autonomous systems and applications,0,B60W|G06T|G06V|H04N
+12364928,2025-07-22,Game cheat detection from mouse lifting,0,A63F|G06F
+12363269,2025-07-15,Deferred color correction in image processing pipelines for autonomous systems and applications,0,H04N
+12363051,2025-07-15,Crossbar multipathing for multicast performance in tiled switches,0,H04L
+12361635,2025-07-15,Initial candidates in spatiotemporal resampling,0,G06T
+12361633,2025-07-15,Using importance resampling to reduce the memory incoherence of light sampling,0,G06T
+12361221,2025-07-15,Grammar transfer using one or more neural networks,0,G06F|G06N|G10L
+12361151,2025-07-15,Techniques for reducing security risks associated with shared storage,0,G06F
+12361132,2025-07-15,Verifying security for virtual machines in cloud streaming systems and applications,0,A63F|G06F
+12360985,2025-07-15,Concurrent dataset updates using hash maps,0,G06F|G06T
+12360708,2025-07-15,"Allocation, distribution, and configuration of volumes in storage systems",0,G06F
+12356038,2025-07-08,Re-encoding predicted picture frames in live video stream applications,0,A63F|H04N
+12355849,2025-07-08,Application programming interface to indicate a device in a transport network to share information with a device in a core network,0,G06F|H04L
+12354379,2025-07-08,Image to world space transformation for ground-truth generation in autonomous systems and applications,0,G06T|G06V
+12354217,2025-07-08,Techniques for rendering media using position-free path integrals,0,G06T
+12354212,2025-07-08,Method for forward progress and programmable timeouts of tree traversal mechanisms in hardware,0,G06F|G06N|G06T
+12353879,2025-07-08,Lock-free unordered in-place compaction,0,G06F
+12353793,2025-07-08,Dynamically preventing audio artifacts,0,G06F|G06N
+12353767,2025-07-08,Techniques for transferring commands to a dynamic random-access memory,0,G06F|G11C
+12353550,2025-07-08,Snapshot-based boot volume for reliable server management and immutable reboot processes in storage processing units,0,G06F
+12353271,2025-07-08,Error rate interrupts in hardware for high-speed signaling interconnect,0,G06F
+12353213,2025-07-08,Safety procedure analysis for obstacle avoidance in autonomous vehicles,0,B60W|G05D|G06N
+12351119,2025-07-08,Systems and methods for performing commands in a vehicle using speech and image recognition,0,B60R|G05B|G06F|G06N|G06V|G10L
+12349002,2025-07-01,Deep learning-based wireless communication synchronization structures,0,G06N|H04B|H04W
+12348983,2025-07-01,Beam management in wireless networks,0,H04B|H04W
+12347816,2025-07-01,Integrated circuit package with decoupling capacitors,0,H01L|H10D
+12347508,2025-07-01,Error detection pin encoding scheme to avoid maximum transitions and further improve signal integrity on high speed graphic memory interfaces,0,G11C|H03K|H03M|H04L
+12347076,2025-07-01,Joint neural denoising of surfaces and volumes,0,G06T
+12347020,2025-07-01,Visibility-based environment importance sampling for light transport simulation systems and applications,0,G06T
+12347019,2025-07-01,Hardware acceleration for ray tracing primitives that share vertices,0,G06F|G06T
+12347018,2025-07-01,Fine grained interleaved rendering applications in path tracing,0,G06T
+12347014,2025-07-01,Processing pipelines for three-dimensional data in autonomous systems and applications,0,B60W|G06T|G06V
+12346835,2025-07-01,Data inspection for compression/decompression configuration and data type determination,0,G06F|G06N|H03M
+12346752,2025-07-01,Efficient multi-device synchronization barriers using multicasting,0,G06F
+12346119,2025-07-01,Obstacle to path assignment and performance of control operations based on assignment for autonomous systems and applications,0,B60W|G01S|G05D|G06N|G06V
+12346117,2025-07-01,Guiding vehicles through vehicle maneuvers using machine learning models,0,B60W|B62D|G05D|G06N|G06V
+12344270,2025-07-01,Hazard detection using occupancy grids for autonomous systems and applications,1,B60W|G06F|G06V
+12342448,2025-06-24,Three dimensional circuit mounting structures,0,H01L|H05K
+12341890,2025-06-24,Token-based zero-touch enrollment for provisioning edge computing applications,0,G06F|H04L
+12340484,2025-06-24,Techniques to use a neural network to expand an image,0,G06N|G06T|G06V
+12340259,2025-06-24,Thread synchronization across memory synchronization domains,0,G06F
+12339899,2025-06-24,Content generation systems and applications using octree-based spatial databases,0,G06F
+12339700,2025-06-24,Transient current-mode signaling scheme for on-chip interconnect fabrics,0,G06F|H03K
+12335458,2025-06-17,Video compression techniques for reliable transmission,0,H04N
+12333688,2025-06-17,Denoising diffusion generative adversarial networks,0,G06T
+12333642,2025-06-17,Performance of ray-traced shadow creation within a scene,0,G06T
+12333639,2025-06-17,Synthetic audio-driven body animation using voice tempo,0,G06N|G06T|G10L
+12333638,2025-06-17,Generating images of object motion using one or more neural networks,0,G06N|G06T|G06V
+12333311,2025-06-17,Cooperative group arrays,0,G06F
+12332961,2025-06-17,Detecting malformed resource references,0,G06F|G06N|H04L
+12332436,2025-06-17,Systems and methods for wide field of view augmented reality display,0,G02B|G06T
+12332079,2025-06-17,High definition (HD) map content representation and distribution for autonomous vehicles,0,B60W|G01C|H04L
+12328851,2025-06-10,Intelligent refrigerant-assisted liquid-to-air heat exchanger for datacenter cooling systems,0,G06F|G06N|H05K
+12328456,2025-06-10,Dynamic assignment of data stream processing in multi-codec systems,0,G06F|H04L|H04N
+12327413,2025-06-10,Image stitching with color harmonization for surround view systems and applications,0,G06T|G06V
+12327071,2025-06-10,Internal solver for articulations in simulation applications,0,B25J|G06F|G06T
+12326820,2025-06-10,Multicast and reflective memory behavior for memory model consistency,0,G06F
+12323717,2025-06-03,Lens shading using non-radial image correction,0,B60W|H04N
+12323341,2025-06-03,Scheduling and resource management based on user profiling,0,G06F|H04L
+12322177,2025-06-03,Automatic content recognition and information in live streaming suitable for video games,0,A63F|G06N|G06V|H04L
+12322126,2025-06-03,Predicting image warping for structure from motion using neural networks,0,G06T|G06V
+12322114,2025-06-03,Graphical fiducial marker identification,0,G06T
+12322068,2025-06-03,Generating voxel representations using one or more neural networks,0,G06T
+12321825,2025-06-03,Training neural networks with limited data using invertible augmentation operators,0,G06N|G06T
+12321783,2025-06-03,Scheduling and resource management based on application profiling,0,G06F|H04L
+12321743,2025-06-03,Generalized acceleration of matrix multiply accumulate operations,0,G06F|G06T
+12321230,2025-06-03,Alias-free tagged error correcting codes for machine memory operations,0,G06F
+12316863,2025-05-27,Chroma-from-luma mode selection for high-performance video encoding,0,G06V|H04N
+12316397,2025-05-27,Wireless signal strength indications,0,H04B|H04W
+12315131,2025-05-27,Determining contour edges for an image,0,G06T
+12315070,2025-05-27,Real-time caustics mapping,0,G06T
+12315064,2025-05-27,Motion vector optimization for multiple refractive and reflective interfaces,0,G06T
+12314854,2025-05-27,Neural network based determination of gaze direction using spatial models,0,G06F|G06N|G06V
+12314451,2025-05-27,Selective communication interfaces for programmable parts,0,G06F
+12314175,2025-05-27,Cache memory with per-sector cache residency controls,0,G06F
+12309070,2025-05-20,In-network message aggregation for efficient small message transport,0,H04L
+12307788,2025-05-20,Sensor fusion for autonomous machine applications using machine learning,0,B60W|G01S|G06N|G06T|G06V
+12307785,2025-05-20,Adaptive object tracking algorithm for autonomous machine applications,0,G06T|G06V
+12307684,2025-05-20,Optical flow techniques and systems for accurate identification and tracking of moving objects,0,G06T
+12307571,2025-05-20,Automatic level-of-detail for physically-based materials,0,G06F|G06T
+12306691,2025-05-20,Techniques to power balance multiple chips,0,G06F|Y02D
+12301785,2025-05-13,Selective data encoding and machine learning video synthesis for content streaming systems and applications,0,H04N
+12301623,2025-05-13,Dynamically hardening communications having insecure protocols,0,H04L
+12299962,2025-05-13,Diffusion-based generative modeling for synthetic data generation systems and applications,0,G06N|G06T|G06V
+12299892,2025-05-13,Intersection region detection and classification for autonomous machine applications,0,G05B|G06F|G06N|G06T|G06V
+12299855,2025-05-13,History clamping for denoising dynamic ray-traced scenes using temporal accumulation,1,G06T
+12299801,2025-05-13,Grid-based light sampling for ray tracing applications,0,G06T
+12299800,2025-05-13,Collision detection for object rearrangement using a 3D scene representation,0,B25J|G06T
+12299577,2025-05-13,Tensor processing using low precision format,0,G06F|G06N
+12299454,2025-05-13,Effective and scalable building and probing of hash tables using multiple GPUs,0,G06F|H04L
+12298845,2025-05-13,Techniques for data scrambling on a memory interface,0,G06F|G11C
+12298825,2025-05-13,Thermal environment evaluation and compensation for computer components,0,G01K|G01M|G05B|G06F|H05K
+12292495,2025-05-06,Sensor data based map creation for autonomous systems and applications,0,B60W|G01S|G06T|G06V
+12291219,2025-05-06,Asynchronous in-system testing for autonomous systems and applications,0,B60W|G06F
+12288570,2025-04-29,Conversational AI-encoded language for video navigation,0,G06F|G06V|G11B
+12288404,2025-04-29,Resolution upscaling for event detection,0,A63F|G06T|G06V
+12288363,2025-04-29,Sensor calibration for autonomous systems and applications,0,G01S|G06T|H04N
+12288277,2025-04-29,High-precision semantic image editing using neural networks for synthetic data generation systems and applications,0,G06T|G06V
+12288098,2025-04-29,Detecting and testing task optimizations using frame interception in content generation systems and applications,0,G06F|G06T
+12286115,2025-04-29,Three-dimensional intersection structure prediction for autonomous driving applications,0,B60W|G06N|G06T|G06V
+12283187,2025-04-22,Emergency response vehicle detection for autonomous driving applications,0,G06N|G08G|H04R
+12283028,2025-04-22,Spatio-temporal noise masks for image processing,0,G06T
+12282676,2025-04-22,Recovery of clustered storage systems,0,G06F
+12282526,2025-04-22,Application programming interface to accelerate matrix operations,0,G06F|G06N
+12277406,2025-04-15,Automatic dataset creation using software tags,0,G06F|G06N|G06T|G06V|H04L
+12277376,2025-04-15,Rail power density aware standard cell placement for integrated circuits,0,G06F|H10D
+12277043,2025-04-15,Test data authentication and processing using scalable data structures,0,G06F
+12275146,2025-04-15,Simulation of tasks using neural networks,0,B25J|G05B|G05D|G06N
+12273632,2025-04-08,Image signal processing pipelines for high dynamic range sensors,0,H04N
+12273260,2025-04-08,Offloading connection management for network resources,0,H04L
+12273220,2025-04-08,Fifth generation (5G) new radio channel equalization,0,H04L
+12272385,2025-04-08,Automatic video montage generation,0,G06T|G06V|G11B
+12272152,2025-04-08,Single and across sensor object tracking using feature descriptor mapping in autonomous systems and applications,0,B60W|G06F|G06N|G06T|G06V
+12272148,2025-04-08,Scalable semantic image retrieval with deep template matching,0,G06F|G06N|G06V
+12272040,2025-04-08,Tone management using tone gain functions for high dynamic range imaging applications,0,G06T|H04N
+12271765,2025-04-08,Techniques for efficiently synchronizing multiple program threads,0,G06F
+12271676,2025-04-08,Parallel mask rule checking on evolving mask shapes in optical proximity correction flows,0,G03F|G06F
+12271194,2025-04-08,Using neural networks to perform fault detection in autonomous driving applications,0,G05D|G06F|G06N|G06V
+12267210,2025-04-01,Adapting forward error correction (FEC) or link parameters for improved post-FEC performance,0,H03M|H04L
+12266148,2025-04-01,Real-time detection of lanes and boundaries by autonomous vehicles,0,G05D|G06F|G06N|G06T|G06V
+12266144,2025-04-01,Training and inferencing using a neural network to predict orientations of objects in images,0,G06F|G06N|G06T|G06V
+12265463,2025-04-01,Software program error testing for autonomous systems and applications,0,G06F
+12265416,2025-04-01,Low power and area clock monitoring circuit using a capacitor and constant current sink,0,G06F
+12263403,2025-04-01,Video clip classification using feature vectors of a trained image classifier,0,A63F|G06F|G06N|G06V
+12260574,2025-03-25,Image-based keypoint generation,0,G01C|G01S|G06T
+12260486,2025-03-25,Displaced micro-meshes for ray and path tracing,0,G06T
+12260017,2025-03-25,Gaze determination machine learning system having adaptive weighting of inputs,0,B60W|G06F|G06N|G06T|G06V
+12255778,2025-03-18,Method and apparatus for deriving network configuration and state for physical network fabric simulation,0,H04L
+12254556,2025-03-18,Techniques for rendering signed distance functions,0,G06T
+12254554,2025-03-18,Offloading shader program compilation,0,G06F|G06T
+12254410,2025-03-18,Machine learning technique for automatic modeling of multiple-valued outputs,0,G06F|G06N|G06V|G10L
+12249619,2025-03-11,Integrated circuit with coil below and overlapping a pad,0,H01F|H01L|H10D
+12249589,2025-03-11,Apparatus and method for BGA coplanarity and warpage control,0,H01L
+12249163,2025-03-11,Lane mask generation for autonomous machine,0,G06T|G06V
+12249048,2025-03-11,Score-based generative modeling in latent space,0,G06N|G06T|G06V
+12249022,2025-03-11,Displaced micro-meshes for ray and path tracing,0,G06T
+12248881,2025-03-11,Annotating high definition map data with semantic labels,0,B60W|G06N|G06V
+12248788,2025-03-11,Distributed shared memory,0,G06F|G06T
+12248392,2025-03-11,Performing diagnostic operations on a target system,0,G06F
+12248319,2025-03-11,Regression-based line detection for autonomous driving machines,0,G05D|G06F|G06N|G06V
+12245360,2025-03-04,Power arrangement and cooling system for electronic devices,0,H01L|H05K
+12244938,2025-03-04,Brightness based chromaticity weighting for improved illuminant color estimation for auto white balancing,0,G06T|H04N
+12243501,2025-03-04,Automatic display configuration using reflected illumination,0,G06F|G09G
+12243152,2025-03-04,Hybrid differentiable rendering for light transport simulation systems and applications,0,G06T
+12243118,2025-03-04,Techniques for using contextual information,0,G06F|G06T
+12238335,2025-02-25,Efficient sub-pixel motion vector search for high-performance video encoding,0,H04N
+12238271,2025-02-25,Applications for detection capabilities of cameras,0,G05D|G06T|H04N
+12236564,2025-02-25,High dynamic range image processing with fixed calibration settings,0,G06N|G06T|H04N
+12236351,2025-02-25,Gaze detection using one or more neural networks,0,G06F|G06N|G06V
+12236218,2025-02-25,Software code verification using call graphs for autonomous systems and applications,0,G06F
+12236204,2025-02-25,Slot filling using a zero shot model for conversational AI systems and applications,0,G06F
+12235765,2025-02-25,Cache locality when using repurposed cache memory,0,G06F
+12235673,2025-02-25,Application programming interface to generate synchronization information,0,G06F|H04W
+12230245,2025-02-18,Text normalization and inverse text normalization using weighted finite-state transducers and neural language models,0,G06F|G10L
+12230040,2025-02-18,Robust state estimation,0,B60W|G06F|G06N|G06V
+12229970,2025-02-18,Frame rate up-conversion using optical flow,0,G06T|H04N
+12229869,2025-02-18,Techniques for texture filtering using refracted ray cones,0,A63F|G06T
+12229566,2025-02-18,Application programming interface to indicate accelerator error handlers,0,G06F
+12223949,2025-02-11,Semantic rearrangement of unknown objects from natural language commands,0,B25J|G06F|G10L
+12223593,2025-02-11,Detection of misalignment hotspots for high definition maps for navigating autonomous vehicles,0,B60W|G01C|G01S|G05D|G06T|G06V|G08G
+12223429,2025-02-11,Leveraging multidimensional sensor data for computationally efficient object detection for autonomous machine applications,0,G06F|G06N|G06T|G06V
+12223303,2025-02-11,Sparse programming image validation,0,G06F|H05K
+12223201,2025-02-11,Hierarchical network for stacked memory system,0,G06F
+12222820,2025-02-11,Efficient data transmissions between storage nodes in replication relationships,0,G06F
+12219691,2025-02-04,Printed circuit board assembly with integrated vapor chamber,1,G06F|H05K
+12219301,2025-02-04,Determination of luminance values using image signal processing pipeline,0,G06T|H04N
+12219173,2025-02-04,Encoding output for streaming applications based on client upscaling capabilities,0,H04L|H04N
+12219057,2025-02-04,Implementing trusted executing environments across multiple processor devices,0,G06F|H04L
+12217386,2025-02-04,Image generation using one or more neural networks,1,A63F|G06N|G06T
+12217331,2025-02-04,Optimizing grid-based compute graphs,0,G06F|G06T
+12217326,2025-02-04,Identifying application buffers for post-processing and re-use in secondary applications,0,G06N|G06T
+12217151,2025-02-04,Layout parasitics and device parameter prediction using graph neural networks,0,G06F|G06N
+12217002,2025-02-04,Parallel processing of hierarchical text,0,G06F
+12216969,2025-02-04,Methods of contact for simulation,0,G06F|G06N|G06T
+12216608,2025-02-04,Authenticated control sequences to initialize sensors over a multi-target interface bus,0,G06F
+12212480,2025-01-28,Latency determinations for human interface devices,0,G06F|H04L
+12211609,2025-01-28,Ultrasound image synthesis using one or more neural networks,0,G06T|G16H
+12211308,2025-01-28,Multi-modal sensor fusion for content identification in applications of human-machine interfaces,0,G06F|G06T|G06V
+12211236,2025-01-28,Converting discrete light attenuation into spectral data for rendering object volumes,0,G06T
+12211216,2025-01-28,Object detection in image stream processing using optical flow with dynamic regions of interest,0,G06T|G06V
+12211080,2025-01-28,Techniques for performing matrix computations using hierarchical representations of sparse matrices,0,G06F|G06N|G06Q
+12211005,2025-01-28,Platform and method for collaborative generation of content,0,G06Q|G06T
+12210888,2025-01-28,Individual application window streaming suitable for remote desktop applications,0,G06F|H04L
+12210867,2025-01-28,Compiled shader program caches in a cloud computing environment,0,G06F|G06T
+12210770,2025-01-28,System for automated data retrieval from an integrated circuit for event analysis,1,E01F|G06F|G09F
+12209881,2025-01-28,Method and apparatus for enabling map updates using a blockchain platform,0,G01C|G05D|G06F
+12206845,2025-01-21,Entropy-based pre-filtering using neural networks for streaming applications,0,A63F|G06N|H04N
+12206748,2025-01-21,Data center job scheduling using machine learning,0,G06F|H04L
+12205210,2025-01-21,Conversational AI platform with rendered graphical output,1,G06F|G06Q|G06T|G10L|H04L
+12204897,2025-01-21,Application programming interface to wait on matrix multiply-accumulate,0,G06F
+12204475,2025-01-21,Using a hardware sequencer in a direct memory access system of a system on a chip,0,G06F
+12202518,2025-01-21,Safety decomposition architecture for autonomous machine applications,0,B60W|G06F|G06V
+12202432,2025-01-21,Restraint device localization,0,B60R|G06T
+12200913,2025-01-14,Intelligent and integrated liquid-cooled rack for datacenters,0,G06F|H05K
+12198450,2025-01-14,Systems and methods for performing operations in a vehicle using gaze detection,0,B60K|G06F|G06N|G06V
+12198256,2025-01-14,Early release of resources in ray tracing hardware,0,G06F|G06T
+12198255,2025-01-14,Query-specific behavioral modification of tree traversal,0,G06T
+12198253,2025-01-14,Method for handling of out-of-order opaque and alpha ray/primitive intersections,0,G06T
+12198252,2025-01-14,Reducing false positive ray traversal using point degenerate culling,0,G06T
+12198251,2025-01-14,Reducing false positive ray traversal in a bounding volume hierarchy,0,G06T
+12197954,2025-01-14,Programming model for resource-constrained scheduling,0,G06F|G06T
+12197281,2025-01-14,Hardware-efficient PAM-3 encoder and decoder,0,G06F
+12197272,2025-01-14,Hang recovery and error reporting architecture on FPGA-based controller solutions,0,G06F
+12194632,2025-01-14,Robotic control system,0,B25J|G05B|G06N|G06T
+12193196,2025-01-07,Predictive control using one or more neural networks,0,G05B|G06N|H05K
+12192720,2025-01-07,Audio noise determination using one or more neural networks,1,G06N|G10L|H04R
+12192547,2025-01-07,High-resolution video generation using image diffusion models,0,G06N|G06T|G06V|H04N
+12190448,2025-01-07,3D surface structure estimation using neural networks for autonomous systems and applications,1,B60W|G06F|G06N|G06T|G06V
+12190435,2025-01-07,Enhanced techniques for traversing ray tracing acceleration structures,0,G06F|G06T
+12190434,2025-01-07,Ray-tracing for auto exposure,0,A63F|G06T
+12189561,2025-01-07,Multi-format graphics processing unit docking board,0,G06F
+12189558,2025-01-07,Dynamic skew realignment over multiple transmission lanes in integrated computing platforms,0,G06F
+12189018,2025-01-07,Sensor data based map creation and localization for autonomous systems and applications,0,B60W|G01S|G06T|G06V
+12184843,2024-12-31,Parallel encoding of video frames without filtering dependency,0,H04N
+12183063,2024-12-31,Multi-resolution image patches for predicting autonomous navigation paths,0,G06N|G06T|G06V
+12183050,2024-12-31,Inferencing using neural networks,1,G06N|G06T|G06V
+12183037,2024-12-31,3D pose estimation in robotics,0,B25J|G05B|G06N|G06T|G06V
+12182940,2024-12-31,Self-supervised single-view 3D reconstruction via semantic consistency,1,G06F|G06T|G06V
+12182927,2024-12-31,Denoising techniques suitable for recurrent blurs,1,G06N|G06T
+12182694,2024-12-31,"Training, testing, and verifying autonomous machines using simulated environments",3,G05D|G06F|G06N|G06V
+12179119,2024-12-31,Cheat detection by comparing mouse input and frame buffer,0,A63F|G06F|G06T|G08B
+12177961,2024-12-24,Airflow in a card-based computing device,0,G06F|H05K
+12175739,2024-12-24,Performing non-maximum suppression in parallel,0,G06F|G06N|G06V
+12175711,2024-12-24,Determining optical center in an image,0,G06T|H04N
+12175703,2024-12-24,Single-stage category-level object pose estimation,0,B25J|G05B|G06N|G06T|G06V
+12175588,2024-12-24,Techniques for avoiding self-intersections when rendering signed distance functions,0,G06T
+12175350,2024-12-24,Machine-learning-based architecture search method for a neural network,0,G05B|G06F|G06N
+12174602,2024-12-24,Intelligent server-level testing of datacenter cooling systems,0,G01K|G05B|G06N|H05K
+12174034,2024-12-24,Updating high definition maps based on lane closure and lane opening,0,G01C|G08G|H04W
+12172667,2024-12-24,3D surface reconstruction with point cloud densification using deep neural networks for autonomous systems and applications,0,B60W|G06N
+12170757,2024-12-17,Hardware codec accelerators for high-performance video encoding,0,H04N
+12169882,2024-12-17,Learning dense correspondences for images,0,G06T
+12169677,2024-12-17,Standard cell layout generation with applied artificial intelligence,0,G06F|G06N
+12167169,2024-12-10,Systems and methods to optimize video streaming using digital avatars,1,G06T|G06V|H04N
+12165258,2024-12-10,Action-conditional implicit dynamics of deformable objects,0,G06F|G06N|G06T|G06V
+12164599,2024-12-10,Multi-view image analysis using neural networks,0,G06F|G06N|G06V|G16H
+12164059,2024-12-10,Top-down object detection from LiDAR point clouds,0,B60W|G01S|G05D|G06F|G06N|G06T|G06V
+12162418,2024-12-10,In-cabin hazard prevention and safety control system for autonomous machine applications,0,B60R|B60W|G06N|G06V
+12160498,2024-12-03,Time synchronization message conversion,1,H04J|H04L
+12159694,2024-12-03,System and method for retrieval-based controllable molecule generation,1,G06N|G16C
+12159417,2024-12-03,Motion-based object detection for autonomous systems and applications,0,G06T|G06V
+12159344,2024-12-03,Accelerated processing via a physically based rendering engine,0,G06F|G06T
+12159342,2024-12-03,Ray tracing hardware acceleration for supporting motion blur and moving/deforming geometry,0,G06F|G06T
+12158977,2024-12-03,Remote attestation of device location,0,G01S|G06F|H04L
+12156384,2024-11-26,Modular thermal test vehicle,0,G06F|H05K
+12154293,2024-11-26,Projecting images captured using fisheye lenses for feature detection in autonomous machine applications,0,G01C|G05D|G06F|G06N|G06T|G06V|H04N
+12154214,2024-11-26,Generation and traversal of partial acceleration structures for ray tracing,0,G06T
+12154213,2024-11-26,Spatio-temporal noise masks and sampling using vectors for image processing and light transport simulation systems and applications,0,G06T
+12154188,2024-11-26,Training neural networks for vehicle re-identification,0,G06F|G06N|G06T|G06V
+12153783,2024-11-26,User interfaces and methods for generating a new artifact based on existing artifacts,0,G06F|G06N|G06T
+12153688,2024-11-26,Comprehensively obfuscated cryptographic accelerators and operations thereof,0,G06F|H04L
+12149708,2024-11-19,Machine learning of encoding parameters for a network using a video encoder,0,G06F|G06N|H04N|H04W
+12149588,2024-11-19,Cloud defined storage,0,H04L
+12148099,2024-11-19,Reducing level of detail of a polygon mesh to decrease a complexity of rendered geometry within a scene,0,G06T
+12148088,2024-11-19,Method for continued bounding volume hierarchy traversal on intersection without shader intervention,0,G06T
+12142580,2024-11-12,Integrated circuit physical security device having a security cover for an integrated circuit,0,G06F|H01L
+12142016,2024-11-12,Fused processing of a continuous mathematical operator,0,G06F|G06T
+12141986,2024-11-12,Shape fusion for image analysis,1,G06F|G06T|G06V
+12141946,2024-11-12,Adding greater realism to a computer-generated image by smoothing jagged edges,0,G06T
+12141941,2024-11-12,Generative neural networks with reduced aliasing,0,G06T
+12141689,2024-11-12,Data compression for a neural network,0,G06F|G06N|H03M
+12141582,2024-11-12,Implementing specialized instructions for accelerating dynamic programming algorithms,0,G06F
+12141451,2024-11-12,Memory page access instrumentation,0,G06F
+12141268,2024-11-12,Secure execution for multiple processor devices using trusted executing environments,1,G06F
+12141229,2024-11-12,Techniques for accelerating matrix multiplication computations using hierarchical representations of sparse matrices,0,G06F
+12141225,2024-11-12,Inference accelerator using logarithmic-based arithmetic,0,G06F|G06N
+12141082,2024-11-12,Method and apparatus for efficient access to multidimensional data structures and/or other large data blocks,1,G06F|G06N|G06T
+12141005,2024-11-12,Intelligent adaptable fins for cooling datacenter devices,0,G06F|H05K
+12138805,2024-11-12,Machine learning of grasp poses in a cluttered environment,1,B25J|G05B|G06N|G06T
+12137055,2024-11-05,Virtual channel starvation-free arbitration for switches,0,H04L
+12135781,2024-11-05,Implementing hardware-based memory safety for a graphic processing unit,0,G06F
+12135607,2024-11-05,Hardware-efficient PAM-3 encoder and decoder,0,G06F
+12132590,2024-10-29,Hardware-efficient PAM-3 encoder and decoder,0,G06F|H03M|H04L
+12131556,2024-10-29,Object fence generation for lane assignment in autonomous machine applications,0,G06T|G06V
+12130750,2024-10-29,Hardware support for optimizing huge memory page selection,0,G06F
+12130687,2024-10-29,Techniques for controlling computing performance for power-constrained multi-processor computing systems,0,G05B|G06F|Y02D
+12129901,2024-10-29,Leaf spring for an integrated circuit heat sink,0,F16F|H01L|H05K
+12127374,2024-10-22,Staged commissioning for datacenter cooling systems,0,G06N|H05K
+12126791,2024-10-22,Conversational AI-encoded language for data compression,0,G06V|H04L|H04N
+12125277,2024-10-22,Real-time persistent object tracking for intelligent video analytics systems,0,G06F|G06N|G06T|G06V
+12124832,2024-10-22,Semiconductor component update device,0,G06F
+12124378,2024-10-22,Method for efficient grouping of cache requests for datapath scheduling,0,G06F|G06T
+12124346,2024-10-22,Leveraging low power states for fault testing of processing cores at runtime,0,G06F|Y02D
+12124308,2024-10-22,Techniques to modify processor performance,0,G06F
+12122053,2024-10-22,Generating computer simulations of manipulations of materials based on machine learning from measured statistics of observed manipulations,2,B25J|G01N|G05B|G06F|G06N|G06T|G06V
+12120152,2024-10-15,Preemptive processing of authentication requests for unified access management systems and applications,0,H04L
+12120122,2024-10-15,Processing authentication requests for unified access management systems and applications,0,H04L
+12118643,2024-10-15,Hardware-accelerated nearest neighbor queries for arbitrary data primitives,0,G06F|G06T
+12118454,2024-10-15,Neural network accelerator using logarithmic-based arithmetic,0,G06F|G06N
+12118382,2024-10-15,Asynchronous data movement pipeline,0,G06F
+12118353,2024-10-15,Performing load and permute with a single instruction in a system on a chip,0,G06F
+12112445,2024-10-08,Transferring geometric and texture styles in 3D asset rendering using neural networks,0,G06N|G06T
+12112428,2024-10-08,Shader binding management in ray tracing,0,G06F|G06T
+12112422,2024-10-08,Noise-free differentiable ray casting,0,G06T
+12112395,2024-10-08,Unified memory systems and methods,0,G06F|G06T
+12112247,2024-10-08,Automatic generation of ground truth data for training or retraining machine learning models,0,G06F|G06N|G06Q|G06V
+12112148,2024-10-08,Configuring machine learning models for training and deployment using graphical components,0,G06F|G06N|G06Q
+12112147,2024-10-08,Machine learning application deployment using user-defined pipeline,0,G06F|G06N|G06Q
+12111842,2024-10-08,Low latency communications for nodes in replication relationships,0,G06F
+12111381,2024-10-08,Sensor data compression for map creation for autonomous systems and applications,1,B60W|G01S|G06T|G06V
+12111179,2024-10-08,Organizing mapped regions into discretized segments for autonomous systems and applications,0,G01C|G06F
+12111177,2024-10-08,Generating training data for deep learning models for building high definition maps,1,G01C|G05D|G06T|G06V
+12109701,2024-10-08,Guided uncertainty-aware policy optimization: combining model-free and model-based strategies for sample-efficient learning,0,B25J|G05B|G06N
+12106423,2024-10-01,Reducing false positive ray traversal using ray clipping,0,G06T
+12105960,2024-10-01,Self-synchronizing remote memory operations in a multiprocessor system,0,G06F
+12101338,2024-09-24,Protecting vehicle buses from cyber-attacks,0,G06F|G06N|H04L|H04W
+12100113,2024-09-24,Performing occlusion-aware global 3D pose and shape estimation of articulated objects,0,G06T
+12100112,2024-09-24,Cloud-centric platform for collaboration and connectivity on 3D virtual environments,1,G06F|G06Q|G06T
+12099848,2024-09-24,Automatic compute kernel generation,0,G06F
+12099453,2024-09-24,Application partitioning for locality in a stacked memory system,1,G06F|G06N|G11C|H03K
+12099439,2024-09-24,Performing load and store operations of 2D arrays in a single cycle in a system on a chip,0,G06F
+12099407,2024-09-24,System and methods for hardware-software cooperative pipeline error detection,0,G06F
+12094572,2024-09-17,Genetic mutation detection using deep learning,0,G06F|G06N|G16B
+12093824,2024-09-17,Distance to obstacle detection in autonomous machine applications,0,B60W|G06F|G06N|G06V
+12093699,2024-09-17,Automatic population of boot volumes via provided URLs,0,G06F
+12093539,2024-09-17,Using per memory bank load caches for reducing power use in a system on a chip,0,G06F
+12093209,2024-09-17,Streaming batcher for collecting work packets as remote descriptors,0,G06F|H04L
+12093208,2024-09-17,Remote descriptor to enable remote direct memory access (RDMA) transport of a serialized object,0,G06F|H04L
+12092820,2024-09-17,Holographic virtual reality display,0,G02B|G03H|G06F|G06T
+12092742,2024-09-17,Encoding LiDAR scanned data for generating high definition maps for autonomous vehicles,0,B60R|G01C|G01S|G05D|G06F|G06T|G06V|H04N
+12087077,2024-09-10,Determining associations between objects and persons using machine learning models,0,G06N|G06T|G06V
+12086208,2024-09-10,Measuring the effects of augmentation artifacts on a machine learning network,1,G06F|G06N|G06T|G06V
+12086095,2024-09-10,Remote promise and remote future for downstream components to update upstream states,0,G06F|H04L
+12081812,2024-09-03,Dynamically reducing stutter and latency in video streaming applications,0,A63F|H04L|H04N
+12079097,2024-09-03,Techniques for testing semiconductor devices,1,G06F
+12079028,2024-09-03,Fast clock detection,0,G01R|G06F
+12078678,2024-09-03,In system test of chips in functional systems,0,G01R|G06F
+12075589,2024-08-27,Modular interface patch panel,0,G06F|H04Q|H05K
+12075061,2024-08-27,Frame selection for streaming applications,1,G06T|H04N
+12073604,2024-08-27,Using temporal filters for automated real-time classification,0,G06F|G06N|G06V
+12073504,2024-08-27,Hardware-based techniques applicable for ray tracing for efficiently representing and processing an arbitrary bounding volume,0,G06F|G06T
+12073325,2024-08-27,Distance estimation to objects and free-space boundaries in autonomous machine applications,0,B60W|G06F|G06N|G06V
+12072954,2024-08-27,Neural network trained using federated learning with local training data preserved at local edge circuits,2,G06F|G06N|G06V|G16H
+12072815,2024-08-27,Techniques for data bus inversion with improved latency,0,G06F
+12072703,2024-08-27,Remote operation of a vehicle using virtual representations of a vehicle,0,G02B|G05D|G06F|G06N|G06T|G07C
+12072442,2024-08-27,Object detection and detection confidence suitable for autonomous driving,0,B60W|G01S|G05D|G06F|G06N|G06V
+12067669,2024-08-20,Watertight ray triangle intersection,2,G06T
+12067667,2024-08-20,Using directional radiance for interactions in path tracing,0,G06T
+12067409,2024-08-20,Streaming per-pixel transparency information using transparency-agnostic video codecs,1,G06F|H04L
+12067405,2024-08-20,Run-time configuration loading,0,G06F
+12067223,2024-08-20,Context aware annotations for collaborative applications,0,G06F|G06Q|G06V
+12059628,2024-08-13,Joining or replaying a game instance from a game broadcast,0,A63F|H04N
+12059625,2024-08-13,Playstyle analysis for game recommendations,0,A63F|G06Q
+12057974,2024-08-06,Decision feed forward equalization for partial response equalized signal including pre-cursor cancelation,0,H04L
+12056854,2024-08-06,Systems and methods for frame time smoothing based on modified animation advancement and use of post render queues,0,G06F|G06T|G09G
+12056806,2024-08-06,Fine grained interleaved rendering applications in path tracing for cloud computing environments,0,G06T|H04L
+12056494,2024-08-06,Techniques for parallel execution,0,G06F|G06N
+12055995,2024-08-06,Automatic error prediction in data centers,1,G06F|G06N
+12055412,2024-08-06,System and methods for updating high definition maps,0,G01C|G06T|G06V|G08G|H04W
+12054164,2024-08-06,Hardware fault detection for feedback control systems in autonomous machine applications,0,B60W|G05B|G06F
+12051332,2024-07-30,Path perception diversity and redundancy in autonomous machine applications,0,G05D|G06F|G06N|G06V|G08G
+12050893,2024-07-30,Coroutine suspension mechanism for improving performance of a computer device,0,G06F
+12050548,2024-07-30,Built-in self-test for a programmable vision accelerator of a system on a chip,0,G06F|G06T|H03M
+12047595,2024-07-23,Frame selection for streaming applications,1,H04N
+12046006,2024-07-23,LIDAR-to-camera transformation during sensor calibration for autonomous vehicles,0,B60W|G01S|G05D|G06T|G06V
+12045952,2024-07-23,Video upsampling using one or more neural networks,0,A63F|G06F|G06N|G06T|H04N
+12045924,2024-07-23,Real-time hardware-assisted GPU tuning using machine learning,0,G06N|G06T|Y02D
+12045666,2024-07-23,Profiling and performance monitoring of distributed computational pipelines,0,G06F
+12045307,2024-07-23,Fine-grained per-vector scaling for neural network quantization,0,G06F|G06N
+12039694,2024-07-16,Video upsampling using one or more neural networks,0,A63F|G06F|G06N|G06T|H04N
+12039663,2024-07-16,3D surface structure estimation using neural networks for autonomous systems and applications,1,B60W|G06F|G06T|G06V
+12039633,2024-07-16,Light-resampling with surface similarity test,0,G06T
+12039436,2024-07-16,Stereo depth estimation using deep neural networks,0,G01S|G06F|G06N|G06T
+12039423,2024-07-16,System and method for procedurally synthesizing datasets of objects of interest for training machine-learning models,0,G06F|G06N|G06T|G06V
+12039362,2024-07-16,Processing interrupt requests for autonomous systems and applications,0,G06F
+12039350,2024-07-16,Streaming application visuals using page-like splitting of individual windows,1,G06F|H04L
+12039343,2024-07-16,State suspension for optimizing start-up processes of autonomous vehicles,0,G06F|G07C
+12034967,2024-07-09,Superpixel generation and use,0,G06N|G06T|H04N
+12034576,2024-07-09,Receiver and transmitter adaptation using stochastic gradient hill climbing with genetic mutation,0,H04L
+12033667,2024-07-09,Determining high-interest durations of gameplay sessions from user inputs,2,A63F|G11B|H04L|H04N
+12033301,2024-07-09,Video upsampling using one or more neural networks,1,A63F|G06F|G06N|G06T|H04N
+12033060,2024-07-09,Asynchronous accumulator using logarithmic-based arithmetic,0,G06F|G06N
+12032840,2024-07-09,System level hardware mechanisms for dynamic assist control,0,G06F|G11C|Y02D
+12032380,2024-07-09,Guiding vehicles through vehicle maneuvers using machine learning models,1,B60W|B62D|G05D|G06N|G06V
+12027198,2024-07-02,Mitigating duty cycle distortion degradation due to device aging on high-bandwidth memory interface,0,G06F|G11C
+12026955,2024-07-02,Assigning obstacles to lanes using neural networks for autonomous machine applications,0,G06N|G06V
+12026845,2024-07-02,Image generation using one or more neural networks,15,G06N|G06T
+12026830,2024-07-02,Performing spherical denoising,0,G06T
+12026822,2024-07-02,Shadow denoising in ray-tracing applications,1,G06T
+12026626,2024-07-02,Multi-level and multi-label content classification using unsupervised and ensemble machine learning techniques,1,G06N
+12022633,2024-06-25,Blower design for a graphics processing unit,0,G06F|H05K
+12020367,2024-06-25,Ray tracing hardware acceleration with alternative world space transforms,0,G06F|G06T
+12020076,2024-06-25,Techniques for balancing workloads when parallelizing multiply-accumulate computations,1,G06F
+12020035,2024-06-25,Programmatically controlled data multicasting across multiple compute engines,1,G06F|G06T|H04L
+12019967,2024-06-25,Routing connections in integrated circuits based on reinforcement learning,0,G06F|G06N
+12019498,2024-06-25,Core off sleep mode with low exit latency,0,G06F|G06T|Y02D
+12014547,2024-06-18,Event information extraction from game logs using natural language processing,1,A63F|G06F|G06V
+12014460,2024-06-18,Adaptive temporal image filtering for rendering realistic illumination,0,G06T
+12013844,2024-06-18,Concurrent hash map updates,0,G06F|G06T
+12013244,2024-06-18,Intersection pose detection in autonomous machine applications,1,B60W|G01C|G05D|G06F|G06N|G06V|G08G
+12012125,2024-06-18,Communicating faults to an isolated safety region of a system on a chip,1,B60W|G06F|G07C
+12010819,2024-06-11,Energy efficient liquid-cooled datacenters,1,G06F|H01M|H05K|Y02E
+12008475,2024-06-11,Transposed sparse matrix multiply by dense matrix for neural network training,0,G06N
+12005855,2024-06-11,Machine learning-based seatbelt detection and usage recognition using fiducial marking,0,B60R|B60W|G06N|G06V
+12005363,2024-06-11,Cloud execution of audio/video compositing applications,0,A63F|G06F
+12003633,2024-06-04,"Techniques, devices, and instruction set architecture for balanced and secure ladder computations",0,G06F|H04L
+12003253,2024-06-04,Performing cyclic redundancy checks using parallel computing architectures,0,G06F|G06T|H03M|H04L
+12002189,2024-06-04,Remastering lower dynamic range content for higher dynamic range displays,0,G06N|G06T
+12001958,2024-06-04,Future trajectory predictions in multi-actor environments for autonomous machine,1,G06N|G06T
+12001725,2024-06-04,Combined on-package and off-package memory system,7,G06F|H01L
+12001592,2024-06-04,Protecting against resets by untrusted software during cryptographic operations,0,G06F
+11997830,2024-05-28,Intelligent radiator-assisted power and coolant distribution unit for datacenter cooling systems,1,G06F|H05K|Y02D
+11997306,2024-05-28,Adaptive pixel sampling order for temporally dense rendering,0,G06T|H04N
+11995895,2024-05-28,Multi-object tracking using correlation filters in video analytics applications,1,G06F|G06T|G06V
+11995883,2024-05-28,Scene graph generation for unlabeled data,0,G06F|G06V
+11995854,2024-05-28,Mesh reconstruction using data-driven priors,1,G06F|G06N|G06T
+11995759,2024-05-28,Adaptive ray tracing suitable for shadow rendering,0,G06T
+11995551,2024-05-28,Pruning convolutional neural networks,1,G06N
+11995378,2024-05-28,Dynamically preventing audio artifacts,0,G06F|G06N
+11990713,2024-05-21,Connector positioning system and method,0,G06F|H01R|H05K
+11989948,2024-05-21,Accelerated non-maximum suppression in machine learning applications,0,G06F|G06V
+11989642,2024-05-21,Future object trajectory predictions for autonomous machine applications,0,B60W|G06N
+11989262,2024-05-21,Unsupervised domain adaptation with neural networks,0,G06F|G06N|G06V
+11989067,2024-05-21,Laptop computer with display-side cooling system,0,G06F|H05K
+11988518,2024-05-21,Updating high definition maps based on lane closure and lane opening,2,G01C|G08G|H04W
+11988401,2024-05-21,Thermal testing for hybrid datacenter cooling systems,0,F24F|G06F|H05K
+11985221,2024-05-14,Efficient masking of secure data in ladder-type cryptographic computations,0,H04L
+11985220,2024-05-14,Equalization adaptation schemes for high-speed links,0,H04L
+11983928,2024-05-14,Dynamically composable object tracker configuration for intelligent video analytics systems,1,G06F|G06T|G06V
+11983815,2024-05-14,Synthesizing high resolution 3D shapes from lower resolution representations for synthetic data generation systems and applications,2,G06T
+11983566,2024-05-14,Hardware circuit for deep learning task scheduling,0,G06F|G06N
+11983536,2024-05-14,Instruction prefetch based power control,0,G06F|Y02D
+11981349,2024-05-14,Behavior planning for autonomous vehicles,1,B60W|G05D|G06N
+11978258,2024-05-07,Techniques for identification of out-of-distribution input data in neural networks,0,G06F|G06N|G06V
+11978181,2024-05-07,Training a neural network using luminance,5,G05D|G06N|G06T|G06V|H04N
+11977888,2024-05-07,Inline data inspection for workload simplification,0,G06F|G06N
+11977766,2024-05-07,Hierarchical network for stacked memory system,1,G06F
+11977489,2024-05-07,Unified virtual memory management in heterogeneous computing systems,0,G06F
+11977452,2024-05-07,"Efficient IO processing in a storage system with instant snapshot, XCOPY, and UNMAP capabilities",0,G06F
+11977388,2024-05-07,Quantizing autoencoders in a neural network,0,G05B|G05D|G06N
+11976939,2024-05-07,High-definition maps and localization for road vehicles,0,B64U|G01C|G06T|G06V
+11974416,2024-04-30,Intelligent thermosyphon system for datacenter cooling systems,1,G06N|H05K
+11973060,2024-04-30,Extended through wafer vias for power delivery in face-to-face dies,0,H01L
+11972354,2024-04-30,Representing a neural network utilizing paths within the network to improve a performance of the neural network,0,G06N
+11972281,2024-04-30,Just in time compilation using link time optimization,0,G06F
+11972188,2024-04-30,Rail power density aware standard cell placement for integrated circuits,1,G06F|H10D
+11971790,2024-04-30,Online fault detection in ReRAM-based AI/ML,0,G06F|G06N
+11971774,2024-04-30,Programmable power balancing in a datacenter,0,G06F|G06T|Y02D
+11968040,2024-04-23,Graph neural network for channel decoding,0,G06N|H04L
+11967024,2024-04-23,"Extracting triangular 3-D models, materials, and lighting from images",1,G06N|G06T
+11966838,2024-04-23,Behavior-guided path planning in autonomous machine applications,0,G01C|G01S|G05D|G06N|G06V|G08G
+11966835,2024-04-23,Deep neural network accelerator with fine-grained parallelism discovery,0,G06N
+11966765,2024-04-23,Memory bandwidth throttling for virtual machines,0,A63F|G06F|G06N
+11966737,2024-04-23,"Robust, efficient multiprocessor-coprocessor interface",0,G06F|G06T
+11966673,2024-04-23,Sensor simulation and learning sensor models with generative machine learning methods,3,G01S|G06F|G06N
+11966480,2024-04-23,Fairly utilizing multiple contexts sharing cryptographic hardware,0,G06F|G06N|H04L
+11966348,2024-04-23,Reducing coupling and power noise on PAM-4 I/O interface,0,G06F|Y02D
+11966228,2024-04-23,Safety procedure analysis for obstacle avoidance in autonomous vehicles,2,B60W|G05D|G06N
+11962638,2024-04-16,Differential data transfer using congestion control,1,H04L
+11961308,2024-04-16,Camera blockage detection for autonomous driving systems,0,G05D|G06T|G06V
+11961243,2024-04-16,Object detection using image alignment for autonomous machine applications,0,B60W|G06F|G06N|G06T|G06V|G08G
+11961176,2024-04-16,Global illumination using shared lighting contributions for interactions in path tracing,0,G06T
+11961001,2024-04-16,Parallel forward and backward propagation,0,G06N
+11960570,2024-04-16,Learning contrastive representation for semantic correspondence,0,G06F|G06N|G06V
+11958529,2024-04-16,Controlling position of robot by determining goal proposals by using neural networks,3,B25J|B60W|B62D|G05B|G06N
+11956342,2024-04-09,Reliable link management for a high-speed signaling interconnect,1,G06F|H04L
+11956306,2024-04-09,Multicast-reduction assisted by network devices,0,H04L
+11954914,2024-04-09,Belief propagation for range image mapping in autonomous machine applications,0,G01B|G01S|G05D|G06N|G06T|G06V
+11954862,2024-04-09,Joint estimation of heart rate and respiratory rate using neural networks,1,A61B|G06T|G16H
+11954830,2024-04-09,High dynamic range support for legacy applications,0,G06N|G06T
+11954791,2024-04-09,Fluid simulations using one or more neural networks,0,G06F|G06N|G06T
+11954518,2024-04-09,User-defined metered priority queues,0,G06F|G06N
+11954496,2024-04-09,Reduced memory write requirements in a system on a chip using automatic store predication,0,G06F
+11954487,2024-04-09,"Techniques, devices, and instruction set architecture for efficient modular division and inversion",0,G06F
+11954037,2024-04-09,Memory address allocation and cache mapping to retain data in cache,0,G06F
+11953957,2024-04-09,Liquid flow distribution using one or more neural networks,0,G05B|G06F|G06N|H05K
+11948315,2024-04-02,Image composition in multiview automotive and robotics systems,0,B25J|B60R|G06T|H04N
+11948246,2024-04-02,Spatiotemporal resampling with decoupled shading and reuse,0,G06T
+11948078,2024-04-02,Joint representation learning from images and text,1,G06F|G06N|G06V
+11947804,2024-04-02,Hardware latency monitoring for memory device input/output requests,0,G06F
+11947742,2024-04-02,Submovement-based mouse input cheating detection,0,A63F|G06F
+11944903,2024-04-02,Using playstyle patterns to generate virtual representations of game players,0,A63F|G06N
+11941899,2024-03-26,Data selection based on uncertainty quantification,0,G06F|G06N|G06V
+11941887,2024-03-26,Scenario recreation through object detection and 3D visualization in a multi-sensor environment,0,G06F|G06T|G06V|H04N
+11941873,2024-03-26,Determining drivable free-space for autonomous vehicles,0,G05D|G06F|G06N|G06T|G06V
+11941819,2024-03-26,Object detection using skewed polygons suitable for parking space detection,1,G06T|G06V
+11941752,2024-03-26,Streaming a compressed light field,0,A63F|G06T|H04L|H04N
+11941745,2024-03-26,Reflection denoising in ray-tracing applications,1,G06T
+11941743,2024-03-26,Generation of sample points in rendering applications using elementary interval stratification,0,G06F|G06T
+11941719,2024-03-26,Learning robotic tasks using one or more neural networks,0,B25J|G05B|G05D|G06N|G06T
+11940947,2024-03-26,Hardware accelerated anomaly detection using a min/max collector in a system on a chip,0,G06F|G06N
+11936507,2024-03-19,CMOS signaling front end for extra short reach links,0,H04B|H04L
+11935194,2024-03-19,Constrained BSDF sampling,0,G06T
+11935179,2024-03-19,Fully-fused neural network execution,1,G06N|G06T
+11935177,2024-03-19,Ray tracing using reservoir resampling with spatial shift-mapping,2,G06T
+11934959,2024-03-19,Video synthesis using one or more neural networks,0,G06N|G06T
+11934955,2024-03-19,Neural network based facial analysis using facial landmarks and associated confidence values,1,G06F|G06N|G06V
+11934872,2024-03-19,Program flow monitoring and control of an event-triggered system,0,G06F
+11934867,2024-03-19,Techniques for divergent thread group execution scheduling,0,G06F
+11934829,2024-03-19,Using a vector processor to configure a direct memory access system for feature tracking operations in a system on a chip,1,G06F
+11934567,2024-03-19,Preventing unauthorized translated access using address signing,0,G06F|H04L
+11934520,2024-03-19,Detecting data anomalies on a data interface using machine learning,1,G06F|G06N|H04L
+11934311,2024-03-19,Hybrid allocation of data lines in a streaming cache memory,0,G06F
+11934242,2024-03-19,"Intelligent data center including N independent coolable clusters having respective actual power demand (P ac) adjustable at, above or below an ostensible power demand (P os)",1,G06F|H05K
+11931909,2024-03-19,Data selection based on uncertainty quantification,0,B25J|G05B|G06F|G06N|G06T|G06V
+11928826,2024-03-12,Enhanced optical flow estimation using a varied scan order,0,G06T
+11928822,2024-03-12,Intersection region detection and classification for autonomous machine applications,1,G05B|G06F|G06N|G06T|G06V
+11928772,2024-03-12,Method for forward progress and programmable timeouts of tree traversal mechanisms in hardware,0,G06F|G06N|G06T
+11928764,2024-03-12,Neural network motion controller,2,G06F|G06N|G06T|G06V
+11927502,2024-03-12,Simulating realistic test data from transformed real-world sensor data for autonomous machine applications,2,B60W|G01M|G01S|G06F|G06V|G07C
+11926346,2024-03-12,Behavior planning for autonomous vehicles in yield scenarios,0,B60W|G06N|G08G
+11925860,2024-03-12,Projective hash maps,0,A63F|G06T
+11922568,2024-03-05,Finite aperture omni-directional stereo light transport,1,G06T|H04N
+11922567,2024-03-05,Asynchronous lighting for image illumination,0,G06T|G09G
+11922558,2024-03-05,Hybrid differentiable rendering for light transport simulation systems and applications,2,G06T
+11922556,2024-03-05,Ray-traced light resampling using screen space visibility,1,G06T
+11922533,2024-03-05,Dynamically reducing latency in processing pipelines,0,G06F|G06T
+11921997,2024-03-05,User interfaces and methods for generating a new artifact based on existing artifacts,0,G06F|G06T
+11921502,2024-03-05,Regression-based line detection for autonomous driving machines,1,G05D|G06F|G06N|G06V
+11918890,2024-03-05,Using touch sensing to make a trackball behave like a joystick,0,A63F|G06F
+11917307,2024-02-27,Image signal processing pipelines for high dynamic range sensors,0,H04N
+11915145,2024-02-27,Leveraging multidimensional sensor data for computationally efficient object detection for autonomous machine applications,1,G06F|G06N|G06T|G06V
+11909820,2024-02-20,Method and apparatus for execution of applications in a cloud system,0,A63F|G06F|H04L
+11908203,2024-02-20,Analysis of point cloud data using depth maps,0,G01S|G06T|G06V
+11908104,2024-02-20,Weighted normalized automatic white balancing,0,B60R|G05B|G05D|G06N|G06T|H04N
+11908064,2024-02-20,Accelerated processing via a physically based rendering engine,0,G06T
+11907846,2024-02-20,Learning and propagating visual attributes,0,G06F|G06N|G06T|G06V
+11907717,2024-02-20,Techniques for efficiently transferring data to a processor,0,G06F|Y02D
+11906660,2024-02-20,Object detection and classification using LiDAR range images for autonomous machine applications,1,G01S|G06F|G06V
+11902705,2024-02-13,Video prediction using one or more neural networks,1,G06F|G06N|G06T|H04N
+11900629,2024-02-13,Surface profile estimation and bump detection for autonomous machine,0,G01S|G06T|G06V
+11899749,2024-02-13,Automatic labeling and segmentation using machine learning models,0,G06F|G06T|G06V
+11899609,2024-02-13,Frame alignment recovery for a high-speed signaling interconnect,0,G06F|H04L
+11897471,2024-02-13,Intersection detection and classification in autonomous machine applications,1,B60W|G06F|G06N|G06V|G08G
+11895808,2024-02-06,Intelligent refrigeration-assisted data center liquid cooling,0,G05B|G06N|H05K
+11893653,2024-02-06,Unified memory systems and methods,0,G06F|G06T
+11893468,2024-02-06,Imitation learning system,0,G06N
+11893423,2024-02-06,"Techniques for configuring a processor to function as multiple, separate processors",0,G06F|Y02D
+11892946,2024-02-06,Disaggregated hypervisor on multiple devices,1,G06F
+11892898,2024-02-06,Movement data for failure identification,0,G06F|G06N
+11892629,2024-02-06,Holographic virtual reality display,0,G02B|G03H|G06F|G06T
+11889122,2024-01-30,Quality aware error concealment technique for streaming media,0,H04N
+11887245,2024-01-30,Techniques for rendering signed distance functions,0,G06T
+11886980,2024-01-30,Neural network accelerator using logarithmic-based arithmetic,1,G06F|G06N
+11886885,2024-01-30,High-throughput asynchronous data pipeline,0,G06F|G11C|H03K
+11886744,2024-01-30,"Systems, methods, and apparatuses for making writes to persistent memory",0,G06F
+11886634,2024-01-30,Personalized calibration functions for user gaze detection in autonomous driving applications,1,A61B|G06F|G06V|G08B
+11886262,2024-01-30,Power management in a multiple-processor computing device,0,G06F|Y02D
+11885907,2024-01-30,Deep neural network for detecting obstacle instances using radar sensors in autonomous machine applications,4,G01S|G06N|G06T|G06V
+11880927,2024-01-23,Three-dimensional object reconstruction from a video,0,G06T
+11880466,2024-01-23,Secure reconfiguration of hardware device operating features,0,G06F|H04L
+11880265,2024-01-23,Error rate interrupts in hardware for high-speed signaling interconnect,0,G06F
+11880261,2024-01-23,Automatic method for power management tuning in computing systems,0,G06F|G06N|Y02D
+11878682,2024-01-23,Path planning and control to account for position uncertainty for autonomous machine applications,1,B60W|G06N|G08G
+11876782,2024-01-16,Header-based packet filtering and inferencing to identify malicious network traffic using neural networks,1,G06F|G06N|H04L
+11876697,2024-01-16,Extensible network traffic engineering platform for increasing network resiliency in cloud applications,0,H04L
+11875478,2024-01-16,Dynamic image smoothing based on network conditions,0,A63F|G06T|H04L|H04N
+11875449,2024-01-16,Real-time rendering with implicit shapes,0,G06T
+11875444,2024-01-16,Accelerated processing via a physically based rendering engine,0,G06T
+11875057,2024-01-16,Shared structure for a logic analyzer and programmable state machine,0,G06F
+11874742,2024-01-16,Techniques for recovering from errors when executing software applications on parallel processors,0,G06F
+11874663,2024-01-16,"Systems and methods for computer-assisted shuttles, buses, robo-taxis, ride-sharing and on-demand vehicles with situational awareness",0,B60Q|B60W|G01C|G01S|G05B|G05D|G06Q
+11874662,2024-01-16,Sharing sensor data between multiple controllers to support vehicle operations,0,B60R|B60W|G05B|G05D|H04N
+11871018,2024-01-09,Parallel processing of video frames during video encoding,0,H04N
+11871011,2024-01-09,Efficient lossless compression of captured raw image information systems and methods,0,G06N|G06T|H04N
+11869483,2024-01-09,Unsupervised alignment for text to speech synthesis using neural networks,0,G06N|G10L
+11869149,2024-01-09,Computer-based techniques for learning compositional representations of 3D point clouds,0,G06N|G06T
+11867744,2024-01-09,Techniques for isolating interfaces while testing semiconductor devices,1,G01R|G06F
+11867515,2024-01-09,Using measure of constrainedness in high definition maps for localization of vehicles,0,B60W|G01C|G05D|G06F|G06V|G08G
+11863832,2024-01-02,Start-up performance improvement for remote computer application,0,A63F|H04N
+11863390,2024-01-02,Path attestation for computing resources,0,H04L
+11861890,2024-01-02,Style-based architecture for generative neural networks,1,G06N|G06V
+11861811,2024-01-02,Neural network system with temporal feedback for denoising of rendered sequences,1,G06N|G06T
+11861758,2024-01-02,Packet processing acceleration using parallel processing,0,G06T
+11861229,2024-01-02,Techniques for transferring commands to a dynamic random-access memory,0,G06F|G11C
+11860628,2024-01-02,Parallel processing of vehicle path planning suitable for parking,0,B60W|G05D|G06T|G06V
+11857872,2024-01-02,Content adaptive data center routing and forwarding in cloud computing environments,1,A63F|H04L
+11856044,2023-12-26,Isolating QoS policy performance for improved data streaming systems and applications,0,H04L
+11855804,2023-12-26,Storage-efficient implementation of downstream VXLAN identifiers,0,H04L
+11854401,2023-12-26,Temporal information prediction in autonomous machine applications,1,B60W|G05D|G06F|G06N|G06T|G06V|G08G
+11854141,2023-12-26,Early release of resources in ray tracing hardware,0,G06F|G06T
+11853764,2023-12-26,Accelerated processing via a physically based rendering engine,0,G06F|G06T
+11852813,2023-12-26,Prescription augmented reality display,0,G02B|G06F|G06T|G06V
+11851015,2023-12-26,In-cabin hazard prevention and safety control system for autonomous machine applications,2,B60R|B60W|G06N|G06V
+11851014,2023-12-26,In-cabin hazard prevention and safety control system for autonomous machine applications,2,B60R|B60W|G06N|G06V
+11847737,2023-12-19,Temporal denoiser quality in dynamic scenes,0,G06F|G06T|G09G
+11847733,2023-12-19,Performance of ray-traced shadow creation within a scene,1,G06T
+11847550,2023-12-19,Sparse convolutional neural network accelerator,1,G06F|G06N
+11847538,2023-12-19,Differential privacy dataset generation using generative models,1,G06F|G06N|G06V
+11847508,2023-12-19,Convergence among concurrently executing threads,0,G06F
+11842528,2023-12-12,Occupancy map updates based on sensor data collected by autonomous vehicles,2,B60W|G01C|G05D|G06F|G06T|G06V|G08G|H04L|Y04S
+11842440,2023-12-12,Landmark location reconstruction in autonomous machine applications,0,G06T|G06V
+11842280,2023-12-12,Loss-scaling for deep neural network training with reduced precision,0,G06N
+11841987,2023-12-12,Gaze determination using glare as input,0,G06F|G06T|G06V
+11841458,2023-12-12,Domain restriction of neural networks through synthetic data pre-training,0,G01S|G05D|G06F|G06N|G06V|G08G
+11840238,2023-12-12,Multi-view geometry-based hazard detection for autonomous systems and applications,0,B60W|G06T|G06V|H04N
+11838126,2023-12-05,Parallel selection of fifth generation (5G) new radio information,1,H03M|H04L
+11836844,2023-12-05,Motion vector optimization for multiple refractive and reflective interfaces,0,G06T
+11836645,2023-12-05,Generating augmented sensor data for testing operational capability in deployed environments,0,G06F|G06N|G06Q
+11836597,2023-12-05,Detecting visual artifacts in image sequences using a neural network model,1,G06N|G06T
+11836527,2023-12-05,Accelerating table lookups using a decoupled lookup table accelerator in a system on a chip,0,G06F
+11836490,2023-12-05,Kernel coefficient quantization,0,G06F
+11836361,2023-12-05,Implementing compiler-based memory safety for a graphic processing unit,0,G06F
+11835357,2023-12-05,Camera based localization for autonomous vehicles,0,G01C|G05D|G06F|G06T
+11833681,2023-12-05,Robotic control system,2,B25J|G05B|G06N|G06T
+11832416,2023-11-28,Motile tracking of datacenter components,2,G06T|H05K
+11831608,2023-11-28,Application firewalls based on self-modeling service flows,0,G06N|H04L
+11830259,2023-11-28,Robust state estimation,8,B60W|G06F|G06N|G06V
+11830160,2023-11-28,Object detection using planar homography and self-supervised scene structure understanding,0,B60R|G06F|G06N|G06T|G06V|H04N
+11830145,2023-11-28,"Generation of differentiable, manifold meshes of arbitrary genus",0,B22F|B33Y|G06F|G06N|G06T
+11830125,2023-11-28,Ray-guided water caustics,0,G06T
+11830123,2023-11-28,Accelerated processing via a physically based rendering engine,0,G06F|G06T
+11829215,2023-11-28,Intelligent and redundant liquid-cooled cooling loop for datacenter cooling systems,2,G06F|H05K
+11829213,2023-11-28,Intelligent multiple mode cooling unit for datacenter racks,0,F25B|G05B|G06F|G06N|H05K
+11828549,2023-11-28,Integrated heat sink and air plenum for a heat-generating integrated circuit,0,F28D|F28F|G06F|H01L|H05K
+11824791,2023-11-21,Virtual channel starvation-free arbitration for switches,1,H04L
+11823415,2023-11-21,3D pose estimation in robotics,1,B25J|G05B|G06N|G06T|G06V
+11823355,2023-11-21,Depth based image sharpening,0,G06T
+11823321,2023-11-21,Denoising techniques suitable for recurrent blurs,2,G06N|G06T
+11823320,2023-11-21,Scattered geometry compression for ray tracing acceleration structures,0,G06F|G06T|H03M
+11823319,2023-11-21,Techniques for rendering signed distance functions,1,G06T
+11823318,2023-11-21,Techniques for interleaving textures,0,G06T
+11822926,2023-11-21,Device link management,0,G06F|G06N|Y02D
+11822541,2023-11-21,Techniques for storing sub-alignment data when accelerating Smith-Waterman sequence alignments,0,G06F|G16B
+11822491,2023-11-21,Techniques for an efficient fabric attached memory,0,G06F|G06N
+11822398,2023-11-21,Intelligent and redundant air-cooled cooling loop for datacenter cooling systems,10,G06F|H05K
+11818192,2023-11-14,Encoding output for streaming applications based on client upscaling capabilities,1,H04L|H04N
+11817886,2023-11-14,Parallel decompression of compressed data streams,0,G06F|G06T|H03M
+11817117,2023-11-14,Speaker adaptive end of speech detection for conversational AI applications,0,G06N|G10L
+11816987,2023-11-14,Emergency response vehicle detection for autonomous driving applications,1,G06N|G08G|H04R
+11816890,2023-11-14,Automatic content recognition and information in live streaming suitable for video games,1,A63F|G06N|G06V|H04L
+11816790,2023-11-14,Unsupervised learning of scene structure for synthetic data generation,1,A63F|G06F|G06N|G06T|G06V
+11816783,2023-11-14,Enhanced techniques for traversing ray tracing acceleration structures,0,G06F|G06T
+11816482,2023-11-14,Generalized acceleration of matrix multiply accumulate operations,1,G06F|G06T
+11816481,2023-11-14,Generalized acceleration of matrix multiply accumulate operations,0,G06F|G06T
+11816404,2023-11-14,Neural network control variates,1,G06F|G06N|G06T
+11816185,2023-11-14,Multi-view image analysis using neural networks,6,G06F|G06N|G06V|G16H
+11810632,2023-11-07,Test system for executing built-in self-test in deployment for automotive applications,0,G01R|G06F|G11C
+11810308,2023-11-07,Vertical disparity detection in stereoscopic images using a deep neural network,0,G06F|G06N|G06T|H04N
+11810274,2023-11-07,Tone management using tone gain functions for high dynamic range imaging applications,0,G06T|H04N
+11810268,2023-11-07,Image enhancement using one or more neural networks,3,G06T
+11809989,2023-11-07,Preventing glitch propagation,0,G06F|G06N|H03K
+11809773,2023-11-07,Application of geometric acoustics for immersive virtual reality (VR),0,G06F|H04L
+11809719,2023-11-07,Techniques for performing write training on a dynamic random-access memory,0,G06F|G11C
+11809319,2023-11-07,Contention tracking for processor cache management,0,G06F
+11806616,2023-11-07,Game event recognition,0,A63F|G07F|H04N
+11804050,2023-10-31,Processor and system to train machine learning models based on comparing accuracy of model parameters,7,G06N|G06V
+11804003,2023-10-31,Inverse transform sampling through ray tracing,0,G06T
+11804002,2023-10-31,Techniques for traversing data employed in ray tracing,0,G06N|G06T
+11804000,2023-10-31,Query-specific behavioral modification of tree traversal,0,G06T
+11803759,2023-10-31,Gaze detection using one or more neural networks,1,G06F|G06N|G06V
+11803668,2023-10-31,Isolating a region of a system on a chip for safety critical operations,0,G06F
+11803380,2023-10-31,High performance synchronization mechanisms for coordinating operations on a computer system,0,G06F
+11803192,2023-10-31,Visual odometry in autonomous machine applications,0,G05D|G06T
+11801861,2023-10-31,Using image augmentation with simulated objects for training machine learning models in autonomous driving applications,10,B60W|G06N
+11801443,2023-10-31,Target-based mouse sensitivity recommendations,0,A63F|G06F
+11799953,2023-10-24,Mechanism to identify link down reasons,0,H04L
+11799799,2023-10-24,Use of stashing buffers to improve the efficiency of crossbar switches,0,H04L
+11798923,2023-10-24,Staggered dual-side multi-chip interconnect,1,H01L|H05K
+11798514,2023-10-24,Method and system for customizing optimal settings using end-user preferences,1,G06F|G09G
+11798183,2023-10-24,Machine learning techniques for predicting depth information in image data,1,G05D|G06N|G06T
+11797303,2023-10-24,Generalized acceleration of matrix multiply accumulate operations,0,G06F|G06T
+11797302,2023-10-24,Generalized acceleration of matrix multiply accumulate operations,0,G06F|G06T
+11797301,2023-10-24,Generalized acceleration of matrix multiply accumulate operations,0,G06F|G06T
+11792451,2023-10-17,Method and system for low latency high frame rate streaming,0,H04N
+11791938,2023-10-17,Parity check decoding,1,H03M|H04L|H04W
+11791871,2023-10-17,Parallel precoding for downlink transmission,3,G06F|H04B
+11791319,2023-10-17,Edge-connected semiconductor systems,0,H01L|H01R|H05K
+11790669,2023-10-17,Systems and methods for performing operations in a vehicle using gaze detection,1,B60K|G06F|G06N|G06V
+11790633,2023-10-17,Image processing using coupled segmentation and edge learning,0,G06F|G06N|G06T|G06V
+11790609,2023-10-17,Reducing level of detail of a polygon mesh to decrease a complexity of rendered geometry within a scene,2,G06T
+11790598,2023-10-17,Three-dimensional tomography reconstruction pipeline,0,G06N|G06T|G16H
+11790596,2023-10-17,Bayesian machine learning system for adaptive ray-tracing,0,G06N|G06T
+11790595,2023-10-17,Method for handling of out-of-order opaque and alpha ray/primitive intersections,0,G06T
+11790594,2023-10-17,Ray-tracing with irradiance caches,0,G06T
+11790556,2023-10-17,Determining optical center in an image,0,G06T|H04N
+11790230,2023-10-17,Distance to obstacle detection in autonomous machine applications,2,B60W|G06F|G06N|G06V
+11789869,2023-10-17,Contention tracking for latency reduction of exclusive operations,0,G06F
+11789811,2023-10-17,Techniques for storing data to enhance recovery and detection of data corruption errors,0,G06F
+11789649,2023-10-17,Combined on-package and off-package memory system,12,G06F|H01L
+11789445,2023-10-17,Remote control system for training deep neural networks in autonomous machine applications,1,G02B|G05D|G06F|G06N|G06T|G07C
+11788861,2023-10-17,Map creation and localization for autonomous driving applications,0,G01C|G01S|G06N
+11784906,2023-10-10,System-latency-aware display device,0,G06F|G06T|G09G|H04L
+11784890,2023-10-10,Link training through handshake on high-speed interconnect,1,G06N|H04B|H04L
+11784835,2023-10-10,Detection and mitigation of unstable cells in unclonable cell array,2,H03K|H04L
+11783532,2023-10-10,View synthesis using attribute correspondences and geometric relationship constraints,0,G06F|G06T|G06V
+11783510,2023-10-10,View generation using one or more neural networks,0,G06N|G06T
+11783455,2023-10-10,History clamping for denoising dynamic ray-traced scenes using temporal accumulation,1,G06T
+11783230,2023-10-10,Automatic generation of ground truth data for training or retraining machine learning models,2,G06F|G06N|G06Q|G06V
+11775829,2023-10-03,Generative adversarial neural network assisted video reconstruction,0,G06N|G06T|G06V|H04N
+11775570,2023-10-03,High definition map and route storage management system for autonomous vehicles,2,G01C|G05D|G06F
+11774963,2023-10-03,Remote operation of a vehicle using virtual representations of a vehicle state,5,G02B|G05D|G06F|G06N|G06T|G07C
+11774250,2023-10-03,Using high definition maps for generating synthetic sensor data for autonomous vehicles,1,G01C|G06F|G06V
+11770215,2023-09-26,Transceiver system with end-to-end reliability and ordering protocols,0,H04L
+11769481,2023-09-26,Unsupervised alignment for text to speech synthesis using neural networks,0,G06N|G10L
+11769298,2023-09-26,Polar stroking for vector graphics,0,G06T
+11769052,2023-09-26,Distance estimation to objects and free-space boundaries in autonomous machine applications,4,B60W|G06F|G06N|G06V
+11769040,2023-09-26,Scalable multi-die deep learning system,0,G06F|G06N
+11768686,2023-09-26,Out of order memory request tracking structure and technique,0,G06F
+11768241,2023-09-26,Test systems for executing self-testing in deployed automotive platforms,0,G01R|G06F|G06Q|G11C
+11763520,2023-09-19,Improving area light shadows in computer generated scenes,0,G06T
+11763168,2023-09-19,Progressive modification of generative adversarial neural networks,1,G06N|G06V
+11758120,2023-09-12,Evaluating detection capabilities of cameras,0,G05D|G06T|H04N
+11757615,2023-09-12,Wideband phase-locked loop for delay and jitter tracking,0,H03L|H03M|H04L
+11756258,2023-09-12,Techniques for ray cone tracing and texture filtering,0,G06T
+11756254,2023-09-12,Light importance caching using spatial hashing in real-time ray tracing applications,0,G06T
+11755025,2023-09-12,Guiding vehicles through vehicle maneuvers using machine learning models,0,B60W|B62D|G05D|G06N|G06V
+11754716,2023-09-12,Encoding LiDAR scanned data for generating high definition maps for autonomous vehicles,1,B60R|G01C|G01S|G05D|G06F|G06T|G06V|H04N
+11751359,2023-09-05,Intelligent movable flow controller and cooling manifold for datacenter cooling systems,12,G06N|H05K
+11750226,2023-09-05,Error correction code system with augmented detection features,0,G06F|H03M
+11750192,2023-09-05,Stability of bit generating cells through aging,0,H03K|H04L
+11748887,2023-09-05,Segmentation using an unsupervised neural network training technique,1,G06F|G06N|G06T|G06V
+11748845,2023-09-05,Machine learning techniques for enhancing video conferencing applications,0,G06T|G06V|H04N
+11747455,2023-09-05,Calibrating sensors mounted on an autonomous vehicle,0,G01C|G01S|G05D|G06T|G06V|H04N
+11741949,2023-08-29,Real-time video conference chat filtering using machine learning models,1,G06F|G06N|G10L|H04L|H04N
+11741736,2023-08-29,Determining associations between objects and persons using machine learning models,1,G06N|G06T|G06V
+11741633,2023-08-29,Converting discrete light attenuation into spectral data for rendering object volumes,0,G06T
+11741015,2023-08-29,Fault buffer for tracking page faults in unified virtual memory system,0,G06F
+11734890,2023-08-22,Three-dimensional model recovery from two-dimensional images,0,G06N|G06T
+11734872,2023-08-22,Generating scenes containing shadows using pixel noise reduction techniques,0,G06F|G06T
+11729063,2023-08-15,Visually guided topology wiring,0,H04L
+11727632,2023-08-15,Shader binding management in ray tracing,1,G06F|G06T
+11727621,2023-08-15,Spatio-temporal noise masks and sampling using vectors for image processing and light transport simulation systems and applications,0,G06T
+11727535,2023-08-15,Using intrinsic functions for shadow denoising in ray tracing applications,0,G06T
+11727272,2023-08-15,LIDAR-based detection of traffic signs for navigation of autonomous vehicles,0,B60W|G01C|G06F|G06N|G06V
+11726857,2023-08-15,Hardware-based fault scanner to detect faults in homogeneous processing units,0,G06F|G06N
+11726757,2023-08-15,"Processor for performing dynamic programming according to an instruction, and a method for configuring a processor for dynamic programming via an instruction",0,G06F|G06T
+11726755,2023-08-15,Caching of compiled shader programs in a cloud computing environment,3,G06F|G06N|G06T|H04L
+11726139,2023-08-15,In-system test of chips in functional systems,1,G01R|G06F
+11725959,2023-08-15,Automatic graphical content recognition for vehicle applications,0,G01C|G06Q
+11724401,2023-08-15,Grasp determination for an object in clutter,0,B25J|G05B|G06N|G06T
+11722671,2023-08-08,Managing virtual machine density by controlling server resource,0,G06F|H04L|H04N
+11722417,2023-08-08,Techniques for optimizing wireless communications via dynamic slew rate control of a wired communications channel,0,H04L|H04M|H04W
+11721089,2023-08-08,Using temporal filters for automated real-time classification,2,G06F|G06N|G06V
+11720472,2023-08-08,Liveness as a factor to evaluate memory vulnerability to soft errors,0,G06F
+11720440,2023-08-08,Error containment for enabling local checkpoint and recovery,0,G06F
+11715251,2023-08-01,Neural network model trained using generated synthetic images,0,G06F|G06N|G06T|G06V
+11713978,2023-08-01,Map creation and localization for autonomous driving applications,0,G01C|G01S|G06N
+11712621,2023-08-01,Video clip classification using feature vectors of a trained image classifier,1,A63F|G06F|G06N|G06V
+11711905,2023-07-25,Heat sink with adjustable fin pitch,0,H01L|H05K
+11709812,2023-07-25,Techniques for generating and processing hierarchical representations of sparse matrices,0,G06F
+11706293,2023-07-18,Buffer profile assignment management based on peer network device data,0,H04L|Y02D
+11705150,2023-07-18,Machine learning based generation of synthetic crowd responses,0,G06N|G06V|G10L
+11704890,2023-07-18,Distance to obstacle detection in autonomous machine applications,5,G06T|G06V
+11704863,2023-07-18,Watertight ray triangle intersection,0,G06T
+11704860,2023-07-18,Accelerated processing via a physically based rendering engine,0,G06F|G06T
+11704857,2023-07-18,Three-dimensional object reconstruction from a video,0,G06T
+11704814,2023-07-18,Adaptive eye tracking machine learning model engine,0,G06F|G06N|G06T|G06V
+11704781,2023-07-18,Enhanced high-dynamic-range imaging and tone mapping,0,G06T
+11704167,2023-07-18,Staggered software synchronization,0,G06F|G06N
+11704067,2023-07-18,Performing multiple point table lookups in a single cycle in a system on chip,1,G06F|G06T
+11703921,2023-07-18,Configurable heatsink,0,F28D|G06F|H01L|H05K
+11703348,2023-07-18,Method and apparatus for enabling map updates using a blockchain platform,1,G01C|G05D|G06F
+11701771,2023-07-18,Grasp generation using a variational autoencoder,3,B25J|G05B|G06N
+11700419,2023-07-11,Re-encoding predicted picture frames in live video stream applications,1,A63F|H04N
+11700402,2023-07-11,Dynamically reducing stutter and latency in video streaming applications,1,A63F|H04L|H04N
+11699662,2023-07-11,Face-to-face dies with probe pads for pre-assembly testing,4,H01L
+11698869,2023-07-11,Computing an authentication tag for partial transfers scheduled across multiple direct memory access (DMA) engines,0,G06F|G06N|G09C|H04L
+11698272,2023-07-11,Map creation and localization for autonomous driving applications,4,G01C|G01S|G06N
+11695601,2023-07-04,On-chip virtual oscilloscope using high-speed receiver sampler readback,8,G06F|H04L
+11694643,2023-07-04,Low latency variable backlight liquid crystal display system,0,G06T|G06V|G09G
+11694072,2023-07-04,Machine learning technique for automatic modeling of multiple-valued outputs,0,G06F|G06N|G06V|G10L
+11693753,2023-07-04,Enhanced in-system test coverage based on detecting component degradation,0,G01R|G05D|G06F|G11C|Y02D
+11693667,2023-07-04,Graphics processing unit systems for performing data analytics operations in data science,0,G06F|G06N|G06T
+11693470,2023-07-04,Voltage monitoring over multiple frequency ranges for autonomous machine applications,1,G06F|G06N|G06T
+11689750,2023-06-27,Workload-based dynamic throttling of video processing functions using machine learning,0,H04L|H04N
+11688181,2023-06-27,Sensor fusion for autonomous machine applications using machine learning,9,B60W|G01S|G06N|G06T|G06V
+11688074,2023-06-27,Data augmentation including background modification for robust prediction using neural networks,0,G06F|G06N|G06T|G06V
+11688042,2023-06-27,Filtering render data using multiple iterations for a filter direction,1,G06T
+11687679,2023-06-27,Current flattening circuit for protection against power side channel attacks,0,G06F|H02M
+11687435,2023-06-27,Programmable state machine for a hardware performance monitor,0,G06F
+11687133,2023-06-27,Laptop computer with display-side cooling system,1,G06F|H05K
+11683453,2023-06-20,Overlaying metadata on video streams on demand for intelligent video analysis,0,G06V|G08B|G11B|H04N
+11683302,2023-06-20,Ad hoc networks and authentication services for verifying contactless deliveries,0,G06K|G06Q|H04L|H04W
+11683253,2023-06-20,Network adaptive latency reduction through frame rate control,0,H04L
+11683243,2023-06-20,Techniques for quantifying the responsiveness of a remote desktop session,0,G06F|H04L
+11682272,2023-06-20,Systems and methods for pedestrian crossing risk assessment and directional warning,5,B60W|G06N|G08B|G08G
+11682199,2023-06-20,Style-based architecture for generative neural networks,8,G06N|G06V
+11682100,2023-06-20,Dynamic allocation of system of chip resources for efficient signal processing,0,G06F|G06T
+11681341,2023-06-20,Intelligent repurposable cooling systems for mobile datacenter,0,G05B|G06F|G06N|H05K
+11681340,2023-06-20,Blow-through axial fan for a graphics processing unit,1,G06F|H05K
+11678120,2023-06-13,Audio noise determination using one or more neural networks,9,G06N|G10L|H04R
+11677839,2023-06-13,Automatic coalescing of GPU-initiated network communication,0,H04L
+11676364,2023-06-13,Real-time detection of lanes and boundaries by autonomous vehicles,1,G05D|G06F|G06N|G06T|G06V
+11676326,2023-06-13,Techniques for anisotropic texture filtering using ray cones,0,G06T
+11676307,2023-06-13,Online sensor calibration for autonomous vehicles,0,B60W|G01S|G05D|G06T|G06V
+11676284,2023-06-13,Shape fusion for image analysis,1,G06F|G06T|G06V
+11675704,2023-06-13,Method for efficient grouping of cache requests for datapath scheduling,0,G06F|G06T
+11675359,2023-06-13,Path detection for autonomous machines using deep neural networks,2,G05D|G06N|G06T|G06V
+11675083,2023-06-13,Removal of ephemeral points from point cloud of a high-definition map for navigating autonomous vehicles,0,B60W|G01S|G05D|G06T
+11673061,2023-06-13,Extensible dictionary for game events,0,A63F|G06F|G06N
+11670001,2023-06-06,Object pose estimation,2,G06F|G06N|G06T|G06V
+11669421,2023-06-06,Fault injection architecture for resilient GPU computing,0,G01R|G06F|G06T|G11C|H03K
+11668750,2023-06-06,Performing testing utilizing staggered clocks,0,G01R|G06F
+11665029,2023-05-30,Feed forward filter equalizer adaptation using a constrained filter tap coefficient value,0,H03M|H04L
+11663773,2023-05-30,Using importance resampling to reduce the memory incoherence of light sampling,0,G06T
+11663770,2023-05-30,Hardware-based techniques applicable for ray tracing for efficiently representing and processing an arbitrary bounding volume,1,G06F|G06T
+11663767,2023-05-30,Power efficient attribute handling for tessellation and geometry shaders,0,G06F|G06T|Y02D
+11663701,2023-05-30,Using previously rendered scene frames to reduce pixel noise,0,G06T
+11663036,2023-05-30,"Techniques for configuring a processor to function as multiple, separate processors",0,G06F|G06T
+11660535,2023-05-30,Hardware acceleration and event decisions for late latch and warp in interactive computer products,0,A63F|G06F|G06T
+11657897,2023-05-23,Denoising ATAC-seq data with deep learning,0,C12Q|G06N|G16B
+11657571,2023-05-23,Joint shape and appearance optimization through topology sampling,0,G06T
+11657535,2023-05-23,System and method for optimal camera calibration,2,G06F|G06T|H04N
+11657532,2023-05-23,Surface profile estimation and bump detection for autonomous machine applications,10,G01S|G06T|G06V
+11657263,2023-05-23,Neural network based determination of gaze direction using spatial models,3,G06F|G06N|G06V
+11656665,2023-05-23,Hybrid cooling systems for datacenters,3,G05B|G06F|H05K
+11656277,2023-05-23,Clock anomaly detection with dynamic calibration,0,G01R|G06F|H03K
+11652982,2023-05-16,Applications for detection capabilities of cameras,0,G05D|G06T|H04N
+11652827,2023-05-16,Virtualized intrusion detection and prevention in autonomous vehicles,5,G06F|G06N|H04L|H04W
+11651547,2023-05-16,Adaptive temporal image filtering for rendering realistic illumination,0,G06T
+11651520,2023-05-16,"Method and system for unified encoding of path segments, caps, and joins for path stroking",0,G06T
+11651215,2023-05-16,Landmark detection using curve fitting for autonomous driving applications,9,B60W|G05D|G06F|G06N|G06V
+11651194,2023-05-16,Layout parasitics and device parameter prediction using graph neural networks,0,G06F|G06N
+11648945,2023-05-16,Intersection detection and classification in autonomous machine applications,13,B60W|G06F|G06N|G06V|G08G
+11648481,2023-05-16,Game event recognition,0,A63F|H04N
+11647227,2023-05-09,Efficient transforms and transposes for rate-distortion optimization and reconstruction in video encoders,0,G11C|H04N
+11646863,2023-05-09,Equalization adaptation schemes for high-speed links,7,H04L
+11646240,2023-05-09,Through-hole mounted semiconductor assemblies,1,H01L|H05K
+11645810,2023-05-09,Method for continued bounding volume hierarchy traversal on intersection without shader intervention,0,G06T
+11645533,2023-05-09,IR drop prediction with maximum convolutional neural network,1,G06F|G06N
+11645530,2023-05-09,Transforming convolutional neural networks for visual sequence learning,0,G06F|G06N|G06V
+11645492,2023-05-09,Model predictive control techniques for autonomous systems,1,G05D|G06F|G06N
+11644834,2023-05-09,Systems and methods for safe and reliable autonomous vehicles,22,B60W|G05D|G06F|G06N|G06V|G08G|Y02D
+11638028,2023-04-25,Adaptive pixel sampling order for temporally dense rendering,0,G06T|H04N
+11637998,2023-04-25,Determination of luminance values using image signal processing pipeline,14,G06T|H04N
+11636689,2023-04-25,Adaptive object tracking algorithm for autonomous machine applications,2,G06T|G06V
+11636668,2023-04-25,Bilateral convolution layer network for processing point clouds,8,G06F|G06N|G06T|G06V
+11636609,2023-04-25,Gaze determination machine learning system having adaptive weighting of inputs,1,B60W|G06N|G06T|G06V
+11636063,2023-04-25,Hardware accelerated anomaly detection using a min/max collector in a system on a chip,1,G06F|G06N
+11635623,2023-04-25,Foveation and spatial hashing in layer-based computer-generated holograms,0,G02B|G06F|G06T|H04L
+11634149,2023-04-25,Method of using a single controller (ECU) for a fault-tolerant/fail-operational self-driving system,0,B60W|G05D|G06F
+11632275,2023-04-18,CMOS signaling front end for extra short reach links,0,H04B|H04L
+11631239,2023-04-18,Iterative spatio-temporal action detection in video,0,G06T|G06V
+11631210,2023-04-18,Fully-fused neural network execution,0,G06N|G06T
+11630800,2023-04-18,Programmable vision accelerator,2,G06F
+11630653,2023-04-18,Execution of computation graphs,0,G06F|G06N
+11625894,2023-04-11,Virtual photogrammetry,0,A63F|G06T
+11625613,2023-04-11,Generative adversarial neural network assisted compression and broadcast,2,G06N|G06T|G06V
+11625605,2023-04-11,Selecting computational kernel variants using neural networks,0,G06F|G06N
+11625279,2023-04-11,Read-write page replication for multiple compute units,0,G06F
+11625225,2023-04-11,Applications of and techniques for quickly computing a modulo operation by a Mersenne or a Fermat number,0,G06F
+11620521,2023-04-04,Smoothing regularization for a generative neural network,0,G06N
+11620169,2023-04-04,Barrierless and fenceless shared memory synchronization with write flag toggling,0,G06F
+11619661,2023-04-04,On-die techniques for converting currents to frequencies,0,G01R|G06F|H03K
+11616023,2023-03-28,Face-to-face dies with a void for enhanced inductor performance,1,H01L|H10D
+11616019,2023-03-28,Semiconductor assembly,0,H01L|H05K
+11615602,2023-03-28,Appearance-driven automatic three-dimensional modeling,0,G06T|Y02T
+11613201,2023-03-28,Automatic high beam control for autonomous machine applications,11,B60Q|G06F|G06N|G06T|G06V|H04N|H05B|Y02B
+11611458,2023-03-21,Decision feed forward equalization for intersymbol interference cancelation,1,H04L
+11610435,2023-03-21,Generative adversarial neural network assisted video compression and broadcast,10,G06N|G06T|G06V
+11610370,2023-03-21,Joint shape and appearance optimization through topology sampling,1,G06T
+11610360,2023-03-21,Real-time neural network radiance caching for path tracing,0,G06N|G06T
+11610122,2023-03-21,Generative adversarial neural network assisted reconstruction,1,G06N|G06T|G06V|H04N
+11610115,2023-03-21,Learning to generate synthetic datasets for training neural networks,6,G06F|G06N|G06T|G06V
+11609899,2023-03-21,Concurrent hash map updates,0,G06F|G06T
+11609879,2023-03-21,Techniques for configuring parallel processors for different application domains,0,G06F
+11609860,2023-03-21,Techniques for generating a system cache partitioning policy,0,G06F|Y02D
+11609761,2023-03-21,Inline data inspection for workload simplification,0,G06F|G06N
+11609572,2023-03-21,Guiding vehicles through vehicle maneuvers using machine learning models,2,B60W|B62D|G05D|G06N|G06V
+11605217,2023-03-14,Style-based architecture for generative neural networks,0,G06N|G06V
+11605001,2023-03-14,Weight demodulation for a generative neural network,0,G06N|G06V
+11604967,2023-03-14,Stereo depth estimation using deep neural networks,3,G01S|G06F|G06N|G06T
+11604944,2023-03-14,Regression-based line detection for autonomous driving machines,10,G05D|G06F|G06N|G06V
+11604654,2023-03-14,Effective and scalable building and probing of hash tables using multiple GPUs,1,G06F|H04L
+11604649,2023-03-14,Techniques for efficiently transferring data to a processor,0,G06F
+11604470,2023-03-14,Safety procedure analysis for obstacle avoidance in autonomous vehicles,4,B60W|G05D|G06N
+11600554,2023-03-07,Interconnection structures to improve signal integrity within stacked dies,0,G11C|H01L
+11600036,2023-03-07,Spatiotemporal self-guided shadow denoising in ray-tracing applications,1,G06T
+11597078,2023-03-07,Machine learning control of object handovers,3,B25J|G05B|G06T|G06V
+11595152,2023-02-28,Forward error correction encoding using binary clustering,0,H03M|H04L
+11594962,2023-02-28,Techniques to improve current regulator capability to protect the secured circuit from power side channel attack,0,G06F|H02M
+11594014,2023-02-28,Annotating high definition map points with measure of usefulness for localization,0,G06T|G06V
+11594006,2023-02-28,Self-supervised hierarchical motion learning for video action recognition,0,G06F|G06N|G06V
+11593988,2023-02-28,Fractional visibility estimation using particle density for light transport simulation,0,G06F|G06T
+11593661,2023-02-28,Few-shot training of a neural network,0,G06F|G06N|G06V
+11593344,2023-02-28,Updating high definition maps based on age of maps,1,G01C|G06F|G06T
+11593290,2023-02-28,Using a hardware sequencer in a direct memory access system of a system on a chip,3,G06F
+11593001,2023-02-28,Using per memory bank load caches for reducing power use in a system on a chip,1,G06F
+11592828,2023-02-28,Using neural networks to perform fault detection in autonomous driving applications,2,G05D|G06F|G06N|G06V
+11590989,2023-02-28,Training data generation for dynamic objects using high definition map data,0,B60W|G01C|G06N
+11590929,2023-02-28,Systems and methods for performing commands in a vehicle using speech and image recognition,4,B60R|G05B|G06F|G06N|G06V|G10L
+11588608,2023-02-21,"Transmitter-based, multi-phase clock distortion correction",0,H03L|H03M|H04L
+11582431,2023-02-14,Image signal processing pipelines for high dynamic range sensors,3,H04N
+11582297,2023-02-14,Mechanism to identify link down reasons,2,H04L
+11580395,2023-02-14,Generative adversarial neural network assisted video reconstruction,2,G06N|G06T|G06V|H04N
+11579925,2023-02-14,Techniques for reconfiguring partitions in a parallel processing system,0,G06F
+11579852,2023-02-14,Device profiling in GPU accelerators by using host-device coordination,0,G06F
+11579629,2023-02-14,Temporal information prediction in autonomous machine applications,12,G05D|G06F|G06N|G06T|G06V
+11575494,2023-02-07,Link status detection for a high-speed signaling interconnect,1,H04L
+11574654,2023-02-07,Automatic generation of video playback effects,0,A63F|G11B|H04L|H04N
+11574481,2023-02-07,Camera blockage detection for autonomous driving systems,1,G05D|G06T|G06V
+11574155,2023-02-07,Scene graph generation for unlabeled data,2,G06F|G06V
+11574097,2023-02-07,Deep learning based identification of difficult to test nodes,0,G06F|G06N|G06V
+11573921,2023-02-07,Built-in self-test for a programmable vision accelerator of a system on a chip,2,G06F|G06T|H03M
+11573872,2023-02-07,Leveraging low power states for fault testing of processing cores at runtime,1,G06F|Y02D
+11573856,2023-02-07,Transmitting data between regions of varying safety integrity levels in a system on a chip,2,G06F|H03M
+11573854,2023-02-07,Techniques for data scrambling on a memory interface,0,G06F
+11573795,2023-02-07,Using a vector processor to configure a direct memory access system for feature tracking operations in a system on a chip,3,G06F
+11573269,2023-02-07,Test systems for executing self-testing in deployed automotive platforms,1,G01R|G06F|G06Q|G11C
+11569939,2023-01-31,Synchronizing a high-speed signaling interconnect,4,H04L
+11568625,2023-01-31,Targeted object detection in image processing applications,0,G06F|G06N|G06T|G06V
+11568523,2023-01-31,Techniques to perform fast fourier transform,0,G06F|G06T|G10L
+11567728,2023-01-31,Dynamically preventing audio artifacts,0,G06F|G06N
+11566903,2023-01-31,Visualization of high definition map data,0,G01C|G05D|G06T|G06V
+11563579,2023-01-24,Token-based zero-touch enrollment for provisioning edge computing applications,0,G06F|H04L
+11561624,2023-01-24,Capacitive touch enabled key with a corresponding tactile button,0,G06F
+11557022,2023-01-17,Neural network system with temporal feedback for denoising of rendered sequences,9,G06N|G06T
+11550584,2023-01-10,Implementing specialized instructions for accelerating Smith-Waterman sequence alignments,0,G06F
+11546568,2023-01-03,View synthesis for dynamic scenes,4,G06T|H04N
+11545450,2023-01-03,Interlocked redistribution layer interface for flip-chip integrated circuits,0,H01L
+11544818,2023-01-03,Enhancing high-resolution images with data from low-resolution images,0,G06T
+11538231,2022-12-27,Projecting images captured using fisheye lenses for feature detection in autonomous machine applications,1,G01C|G05D|G06F|G06N|G06T|G06V|H04N
+11537139,2022-12-27,Determining drivable free-space for autonomous vehicles,8,G05D|G06F|G06N|G06T|G06V
+11532168,2022-12-20,Multi-view deep neural network for LiDAR perception,5,B60W|G01S|G05D|G06F|G06N|G06T|G06V
+11531088,2022-12-20,Deep neural network for detecting obstacle instances using radar sensors in autonomous machine applications,2,G01S|G06N
+11526644,2022-12-13,Controlling test networks of chips using integrated processors,1,G01R|G06F
+11523539,2022-12-06,Shroud for an integrated circuit heat exchanger,0,F28D|F28F|G06F|H01L|H05K
+11522565,2022-12-06,Packed error correction code (ECC) for compressed data protection,0,G06F|G06N|H03M
+11520345,2022-12-06,Path perception diversity and redundancy in autonomous machine applications,8,G05D|G06F|G06N|G06V|G08G
+11514682,2022-11-29,Determining weights of points of a point cloud based on geometric features,0,G01C|G01S|G06F|G06T|G06V|G08G
+11514637,2022-11-29,Automatic level-of-detail for physically-based materials,1,G06F|G06T
+11514293,2022-11-29,Future object trajectory predictions for autonomous machine applications,2,B60W|G06N
+11513814,2022-11-29,State suspension for optimizing start-up processes of autonomous vehicles,5,G06F|G07C
+11513686,2022-11-29,Techniques for dynamically compressing memory regions having a uniform value,0,G06F|H03M
+11508113,2022-11-22,Denoising techniques suitable for recurrent blurs,5,G06N|G06T
+11508112,2022-11-22,Early release of resources in ray tracing hardware,0,G06F|G06T
+11508076,2022-11-22,Learning rigidity of dynamic scenes for three-dimensional scene flow estimation,0,G06N|G06T|G06V
+11508049,2022-11-22,Deep neural network processing for sensor blindness detection in autonomous machine applications,10,G06F|G06N|G06T|G06V
+11507846,2022-11-22,Representing a neural network utilizing paths within the network to improve a performance of the neural network,1,G06N
+11507704,2022-11-22,Current flattening circuit for protection against power side channel attacks,4,G06F|H02M
+11506888,2022-11-22,Driver gaze tracking system for use in vehicles,2,G02B|G06F|G06V|G09F
+11502867,2022-11-15,Injection limiting and wave synchronization for scalable in-network computation,0,G06F|G06N|H04L
+11501572,2022-11-15,Object behavior anomaly detection using neural networks,0,G06F|G06T|G06V|H04N
+11501467,2022-11-15,Streaming a light field compressed utilizing lossless or lossy compression,0,G06T|H04N
+11498007,2022-11-15,"Measuring and detecting idle processing periods and identifying root causes thereof in cloud-based, streaming applications",0,A63F|G06F|H04L
+11496773,2022-11-08,Using residual video data resulting from a compression of original video data to improve a decompression of the original video data,0,H04N
+11495568,2022-11-08,IC package design and methodology to compensate for die-substrate CTE mismatch at reflow temperatures,0,H01L
+11494976,2022-11-08,Neural rendering for inverse graphics generation,1,G06N|G06T
+11494879,2022-11-08,Convolutional blind-spot architectures and bayesian image restoration,0,G06F|G06N|G06T
+11494370,2022-11-08,Hardware-controlled updating of a physical operating parameter for in-field fault detection,0,G06F
+11494265,2022-11-08,Securing against errors in an error correcting code (ECC) implemented in an automotive system,0,G06F|H03M
+11489541,2022-11-01,Compression techniques for data structures suitable for artificial neural networks,1,G06N|H03M
+11488418,2022-11-01,Three-dimensional (3D) pose estimation from a monocular camera,0,G06N|G06T|G06V
+11487968,2022-11-01,Neural network based facial analysis using facial landmarks and associated confidence values,2,G06F|G06N|G06V
+11487919,2022-11-01,Simulating a cable driven system representative of a robot,0,G06F
+11487673,2022-11-01,Fault buffer for tracking page faults in unified virtual memory system,0,G06F
+11487498,2022-11-01,Volume control for audio and video conferencing applications,0,G06F|H04L
+11487341,2022-11-01,Techniques for configuring a processor to execute instructions efficiently,2,G06F|Y02D
+11485308,2022-11-01,In-cabin hazard prevention and safety control system for autonomous machine applications,4,B60R|B60W|G06N|G06V
+11482008,2022-10-25,Directing board repositioning during sensor calibration for autonomous vehicles,2,B60W|G01S|G05D|G06T|G06V
+11481950,2022-10-25,Real-time hardware-assisted GPU tuning using machine learning,0,G06N|G06T|Y02D
+11477004,2022-10-18,Clock data recovery convergence in modulated partial response systems,1,H04L
+11476852,2022-10-18,Glitch-free multiplexer,0,G06N|H03K
+11475549,2022-10-18,High dynamic range image generation from tone mapped standard dynamic range images,1,G06T|G09G
+11475542,2022-10-18,Neural network system with temporal feedback for adaptive sampling and denoising of rendered sequences,5,G06T
+11474897,2022-10-18,Techniques for storing data to enhance recovery and detection of data corruption errors,0,G06F
+11474710,2022-10-18,Application-specific memory scaling in multi-device systems,0,G06F
+11474519,2022-10-18,"Systems and methods for computer-assisted shuttles, buses, robo-taxis, ride-sharing and on-demand vehicles with situational awareness",8,B60Q|B60W|G01C|G01S|G05B|G05D|G06Q
+11470394,2022-10-11,Scalable light-weight protocols for wire-speed packet ordering,1,H04L|H04N
+11468915,2022-10-11,Automatic video montage generation,1,G06T|G06V|G11B
+11468630,2022-10-11,Rendering scenes using a combination of raytracing and rasterization,0,G06T
+11468582,2022-10-11,Leveraging multidimensional sensor data for computationally efficient object detection for autonomous machine applications,5,G06F|G06N|G06T|G06V
+11463272,2022-10-04,Scalable in-network computation for massively-parallel shared-memory processors,0,G06F|G06N|H04L
+11460897,2022-10-04,Laptop computer with display-side cooling system,1,G06F|H05K
+11460580,2022-10-04,Nearest neighbor search using compressed octrees representing high definition maps for autonomous vehicles,1,G01C|G01S|G06F
+11456941,2022-09-27,Extensible network traffic engineering platform for increasing network resiliency in cloud applications,0,H04L
+11455807,2022-09-27,Training neural networks for vehicle re-identification,2,G06F|G06N|G06T|G06V
+11455790,2022-09-27,Style-based architecture for generative neural networks,0,G06N|G06V
+11455768,2022-09-27,Method for forward progress and programmable timeouts of tree traversal mechanisms in hardware,0,G06F|G06N|G06T
+11455145,2022-09-27,Applications of and techniques for quickly computing a modulo operation by a Mersenne or a Fermat number,0,G06F
+11451718,2022-09-20,Detecting flicker bands using multi-exposure sensors,0,H04N
+11450077,2022-09-20,Appearance-driven automatic three-dimensional modeling,0,G06T|Y02T
+11450059,2022-09-20,Inverse transform sampling through ray tracing,0,G06T
+11450057,2022-09-20,Hardware acceleration for ray tracing primitives that share vertices,0,G06F|G06T
+11449709,2022-09-20,Domain restriction of neural networks through synthetic data pre-training,3,G01S|G05D|G06F|G06N|G06V|G08G
+11443832,2022-09-13,Genetic mutation detection using deep learning,0,G06F|G06N|G16B
+11443555,2022-09-13,Scenario recreation through object detection and 3D visualization in a multi-sensor environment,5,G06F|G06T|G06V|H04N
+11443475,2022-09-13,Techniques for ray cone tracing and texture filtering,0,G06T
+11442795,2022-09-13,Convergence among concurrently executing threads,0,G06F
+11436837,2022-09-06,Intersection region detection and classification for autonomous machine applications,11,G05B|G06F|G06N|G06T|G06V
+11436704,2022-09-06,Weighted normalized automatic white balancing,1,B60R|G05B|G05D|G06N|G06T|H04N
+11436484,2022-09-06,"Training, testing, and verifying autonomous machines using simulated environments",12,G05D|G06F|G06N|G06V
+11435885,2022-09-06,User interfaces and methods for generating a new artifact based on existing artifacts,1,G06F|G06T
+11435794,2022-09-06,Intelligent repurposable cooling systems for mobile datacenter,1,G05B|G06F|G06N|H05K
+11435756,2022-09-06,Visual odometry in autonomous machine applications,1,G05D|G06T
+11430172,2022-08-30,Generation of sample points in rendering applications using elementary interval stratification,0,G06F|G06T
+11430134,2022-08-30,Hardware-based optical flow acceleration,2,G06F|G06T|G06V
+11429534,2022-08-30,Addressing cache slices in a last level cache,0,G06F|G06T
+11429419,2022-08-30,Secure access of virtual machine memory suitable for AI assisted automotive applications,0,G05D|G06F
+11424000,2022-08-23,Test system for executing built-in self-test in deployment for automotive applications,1,G01R|G06F|G11C
+11418852,2022-08-16,Detecting latency anomalies from pipeline components in cloud-based systems,1,H04N
+11417063,2022-08-16,Determining a three-dimensional representation of a scene,0,G06T
+11417011,2022-08-16,3D human body pose estimation using a model trained from unlabeled multi-view data,0,G06N|G06T
+11416311,2022-08-16,Staggered software synchronization,0,G06F|Y02D
+11411563,2022-08-09,Detection and mitigation of unstable cells in unclonable cell array,3,H03K|H04L
+11409597,2022-08-09,System and methods for hardware-software cooperative pipeline error detection,0,G06F
+11408934,2022-08-09,In system test of chips in functional systems,2,G01R|G06F
+11405053,2022-08-02,Parallel decompression of compressed data streams,1,G06F|G06T|H03M
+11403121,2022-08-02,Streaming per-pixel transparency information using transparency-agnostic video codecs,3,G06F|H04L
+11398047,2022-07-26,Virtual reality simulations using surface tracking,0,G06F|G06T
+11395239,2022-07-19,Radio frequency power adaptation for handheld wireless devices,0,H04B|H04W
+11394686,2022-07-19,Dynamic network address translation using prediction,0,H04L
+11392829,2022-07-19,Managing data sparsity for neural networks,14,G06F|G06N
+11391578,2022-07-19,Using measure of constrainedness in high definition maps for localization of vehicles,2,B60W|G01C|G05D|G06F|G06V|G08G
+11388391,2022-07-12,Head-mounted display having an image sensor array,0,G06T|H04N
+11385464,2022-07-12,Wide angle augmented reality display,0,G02B|G06T
+11381431,2022-07-05,Receiver and transmitter adaptation using stochastic gradient hill climbing with genetic mutation,0,H04L
+11380049,2022-07-05,Finite aperture omni-directional stereo light transport,0,G06T|H04N
+11380041,2022-07-05,Enhanced techniques for traversing ray tracing acceleration structures,1,G06F|G06T
+11379944,2022-07-05,Techniques for performing accelerated point sampling in a texture processing pipeline,0,G06F|G06T
+11379708,2022-07-05,Techniques for efficiently operating a processing system based on energy characteristics of instructions and machine learning,0,G06F|G06N|Y02D
+11379420,2022-07-05,Decompression techniques for processing compressed data suitable for artificial neural networks,0,G06F|G06N|H03M
+11376500,2022-07-05,Gamer training using neural networks,3,A63F|G06F|G06N|G06V
+11375176,2022-06-28,Few-shot viewpoint estimation,1,G06F|G06N|G06T|G06V|H04N
+11375119,2022-06-28,Calibrating sensors mounted on an autonomous vehicle,0,G01C|G01S|G05D|G06T|G06V|H04N
+11373622,2022-06-28,Dynamic display switching,0,G09G|H04N
+11373359,2022-06-28,Reflection denoising in ray-tracing applications,0,G06T
+11373358,2022-06-28,Ray tracing hardware acceleration for supporting motion blur and moving/deforming geometry,2,G06F|G06T
+11372548,2022-06-28,Techniques for accessing and utilizing compressed data and its state information,0,G06F|H03M
+11372465,2022-06-28,Voltage monitoring over multiple frequency ranges for autonomous machine applications,2,G06F|G06N|G06T
+11367268,2022-06-21,Cross-domain image processing for object re-identification,2,G06F|G06N|G06V
+11367244,2022-06-21,Generating scenes containing shadows using pixel noise reduction techniques,1,G06F|G06T
+11367241,2022-06-21,Ray-guided water caustics,0,G06T
+11367240,2022-06-21,Shadow denoising in ray-tracing applications,3,G06T
+11367208,2022-06-21,Image-based keypoint generation,0,G01C|G01S|G06T
+11367160,2022-06-21,Simultaneous compute and graphics scheduling,0,G06F|G06T
+11365976,2022-06-21,Semantic label based filtering of objects in an image generated from high definition map data,4,G01C|G05D|G06T|G06V
+11364434,2022-06-21,Using touch sensing to make a trackball behave like a joystick,0,A63F|G06F
+11363339,2022-06-14,Scalable light-weight protocols for wire-speed packet ordering,0,H04L|H04N
+11361507,2022-06-14,Articulated body mesh estimation using three-dimensional (3D) body keypoints,1,G06T
+11354847,2022-06-07,Three-dimensional object reconstruction from a video,1,G06T
+11348308,2022-05-31,Hybrid frustum traced shadows systems and methods,0,G06T
+11347668,2022-05-31,Unified cache for diverse memory traffic,0,G06F|G11C
+11343354,2022-05-24,Increasing user engagement during computing resource allocation queues for cloud services,1,A63F|G06F|H04L|H04N
+11341710,2022-05-24,Fluid simulations using one or more neural networks,0,G06F|G06N|G06T
+11341369,2022-05-24,Distributed batch normalization using partial populations,0,G06F|G06N|G06V
+11340701,2022-05-24,Gaze determination using glare as input,3,G06F|G06T|G06V
+11340082,2022-05-24,Determining localization confidence of vehicles based on convergence ranges,0,B60W|G01C|G05D|G06F|G06V|G08G
+11336476,2022-05-17,Scalable in-network computation for massively-parallel shared-memory processors,0,G06F|G06N|H04L
+11335056,2022-05-17,Real-time rendering with implicit shapes,1,G06T
+11331586,2022-05-17,Joining or replaying a game instance from a game broadcast,0,A63F|H04N
+11328472,2022-05-10,Watertight ray triangle intersection,1,G06T
+11328471,2022-05-10,Fine grained interleaved rendering applications in path tracing for cloud computing environments,0,G06T|H04L
+11328173,2022-05-10,Switchable propagation neural network,0,G06F|G06N|G06T|G06V
+11328169,2022-05-10,Switchable propagation neural network,0,G06F|G06N|G06T|G06V
+11328112,2022-05-10,Timing-aware testing,0,G01R|G06F
+11327900,2022-05-10,Securing memory accesses in a virtualized environment,0,G06F
+11327553,2022-05-10,Distributed digital low-dropout voltage micro regulator,0,G06F|Y02D
+11323393,2022-05-03,System and method for improving network storage accessibility,0,H04L
+11321865,2022-05-03,Synthetic infrared image generation for machine learning of gaze estimation,4,G06F|G06N|G06T|G06V
+11321816,2022-05-03,Systems and methods for frame time smoothing based on modified animation advancement and use of post render queues,1,G06F|G06T|G09G
+11320892,2022-05-03,Distributed digital low-dropout voltage micro regulator,0,G06F|Y02D
+11315310,2022-04-26,Reservoir-based spatiotemporal importance resampling utilizing a global illumination data structure,0,G06T
+11315018,2022-04-26,Systems and methods for pruning neural networks for resource efficient inference,4,G06N
+11314985,2022-04-26,System and method for procedurally synthesizing datasets of objects of interest for training machine-learning models,1,G06F|G06N|G06T|G06V
+11310513,2022-04-19,Apparatus and method for enhancing motion estimation based on user input,0,H04N
+11308684,2022-04-19,Ray-tracing for auto exposure,0,A63F|G06T
+11308658,2022-04-19,Motion adaptive rendering using variable rate shading,2,G06T
+11308338,2022-04-19,Distance to obstacle detection in autonomous machine applications,13,G01S|G06F|G06N|G06V
+11307903,2022-04-19,Dynamic partitioning of execution resources,0,G06F
+11307863,2022-04-19,Graphics processing unit systems for performing data analytics operations in data science,0,G06F|G06N|G06T
+11302068,2022-04-12,Area light shadows in computer generated scenes,0,G06T
+11302056,2022-04-12,Techniques for traversing data employed in ray tracing,6,G06N|G06T
+11301697,2022-04-12,Analysis of point cloud data using depth maps,0,G01S|G06T|G06V
+11295515,2022-04-05,Photon-based image illumination rendering,0,G06T|G09G
+11295514,2022-04-05,Inverse rendering of a scene from a single image,0,G06N|G06T
+11295508,2022-04-05,Hardware-based techniques applicable for ray tracing for efficiently representing and processing an arbitrary  bounding volume,3,G06F|G06T
+11294713,2022-04-05,Asynchronous data movement pipeline,0,G06F
+11294631,2022-04-05,Full adder cell with improved power efficiency,0,G06F|H03K
+11294441,2022-04-05,Simplifying power sequencing for integrated circuits,0,G06F|Y02D
+11284160,2022-03-22,Start-up performance improvement for remote application,0,A63F|H04N
+11283349,2022-03-22,Techniques to improve current regulator capability to protect the secured circuit from power side channel attack,6,G06F|H02M
+11282261,2022-03-22,Ray tracing hardware acceleration with alternative world space transforms,5,G06F|G06T
+11282258,2022-03-22,Adaptive sampling at a target sampling rate,0,G06T
+11281221,2022-03-22,Performing autonomous path navigation using deep neural networks,0,B62D|G01C|G01S|G05D|G06F|G06N|G06V
+11280609,2022-03-22,Detection of misalignment hotspots for high definition maps for navigating autonomous vehicles,1,B60W|G01C|G01S|G05D|G06T|G06V|G08G
+11276648,2022-03-15,Protecting chips from electromagnetic pulse attacks using an antenna,1,G06F|H01L|H02H
+11275662,2022-03-15,Fault injection architecture for resilient GPU computing,0,G01R|G06F|G06T|G11C|H03K
+11270496,2022-03-08,Fine grained interleaved rendering applications in path tracing,0,G06T
+11270495,2022-03-08,Scattered geometry compression for ray tracing acceleration structures,0,G06F|G06T|H03M
+11270197,2022-03-08,Efficient neural network accelerator dataflows,1,G06F|G06N
+11270161,2022-03-08,Deep-learning method for separating reflection and transmission images visible at a semi-reflective surface in a computer image of a real-world scene,0,G06F|G06V
+11270041,2022-03-08,Position-based dynamics simulation,0,G06F
+11265599,2022-03-01,Re-encoding predicted picture frames in live video stream applications,1,A63F|H04N
+11263525,2022-03-01,Progressive modification of neural networks,0,G06N
+11263051,2022-03-01,Techniques for scaling dictionary-based compression,0,G06F|H03M
+11257253,2022-02-22,"Method and system for unified encoding of path segments, caps, and joins for path stroking",0,G06T
+11256961,2022-02-22,Training a neural network to predict superpixels using segmentation-aware affinity loss,0,G06F|G06N|G06T|G06V
+11256835,2022-02-22,Parallel linear complementarity solver for rigid body dynamics,1,G06F
+11256568,2022-02-22,Memory management systems and methods,0,G06F
+11256528,2022-02-22,Individual application window streaming suitable for remote desktop applications,3,G06F|H04L
+11250613,2022-02-15,Bayesian machine learning system for adaptive ray-tracing,1,G06N|G06T
+11250329,2022-02-15,Progressive modification of generative adversarial neural networks,3,G06N|G06V
+11250296,2022-02-15,Automatic generation of ground truth data for training or retraining machine learning models,1,G06F|G06N|G06Q|G06V
+11249905,2022-02-15,"Techniques for configuring a processor to function as multiple, separate processors",0,G06F
+11249727,2022-02-15,Efficient matrix data format applicable for artificial neural network,0,G06F|G06N
+11244493,2022-02-08,Global illumination using shared lighting contributions for interactions in path tracing,0,G06T
+11244226,2022-02-08,Systems and methods for training neural networks with sparse data,2,G06N
+11243786,2022-02-08,Streaming application visuals using page-like splitting of individual windows,4,G06F|H04L
+11238815,2022-02-01,Techniques for updating light-emitting diodes in synchrony with liquid-crystal display pixel refresh,0,G06F|G09G
+11238650,2022-02-01,Self-supervised single-view 3D reconstruction via semantic consistency,5,G06F|G06T|G06V
+11233730,2022-01-25,Network routing using aggregated links,0,H04L|Y02D
+11232544,2022-01-25,History clamping for denoising dynamic ray-traced scenes using temporal accumulation,1,G06T
+11231760,2022-01-25,Techniques for accurately determining the temperature at various locations of an operating integrated circuit,3,G06F|Y02D
+11227448,2022-01-18,Cloud-centric platform for collaboration and connectivity on 3D virtual environments,1,G06Q|G06T
+11222232,2022-01-11,Using temporal filters for automated real-time classification,3,G06F|G06N|G06V
+11219824,2022-01-11,Cloud gaming system and method of initiating a gaming session,0,A63F|H04L
+11216916,2022-01-04,History clamping for denoising dynamic ray-traced scenes using temporal accumulation,3,G06T
+11214273,2022-01-04,Method of using a single controller (ECU) for a fault-tolerant/fail-operational self-driving system,1,B60W|G05D|G06F
+11212539,2021-12-28,Efficient lossless compression of captured raw image information systems and methods,0,G06N|G06T|H04N
+11212073,2021-12-28,Clock data recovery convergence using signed timing injection,1,H04L
+11210537,2021-12-28,Object detection and detection confidence suitable for autonomous driving,38,B60W|G01S|G05D|G06F|G06N|G06V
+11210253,2021-12-28,PCIe traffic tracking hardware in a unified virtual memory system,1,G06F
+11209548,2021-12-28,Encoding lidar scanned data for generating high definition maps for autonomous vehicles,3,B60R|G01C|G01S|G05D|G06F|G06T|G06V|H04N
+11205086,2021-12-21,Determining associations between objects and persons using machine learning models,4,G06N|G06T|G06V
+11204849,2021-12-21,Leveraging low power states for fault testing of processing cores at runtime,0,G06F|Y02D
+11200725,2021-12-14,Method for continued bounding volume hierarchy traversal on intersection without shader intervention,1,G06T
+11200356,2021-12-14,Using a computer to model the reactions of objects to simulated physical interactions,2,B25J|G06F
+11195331,2021-12-07,Object detection using skewed polygons suitable for parking space detection,2,G06T|G06V
+11189075,2021-11-30,Query-specific behavioral modification of tree traversal,1,G06T
+11188442,2021-11-30,Determining diagnostic coverage for memory using redundant execution,0,G06F
+11184008,2021-11-23,Data recovery technique for time interleaved receiver in presence of transmitter pulse width distortion,2,H03L|H04L
+11182916,2021-11-23,Distance to obstacle detection in autonomous machine applications,14,G06T|G06V
+11182884,2021-11-23,Enhanced high-dynamic-range imaging and tone mapping,3,G06T
+11182649,2021-11-23,Generation of synthetic images for training a neural network model,1,G06F|G06N|G06T|G06V
+11182598,2021-11-23,Smart area monitoring with artificial intelligence,9,G06F|G06T|G06V|H04N
+11182309,2021-11-23,Techniques for an efficient fabric attached memory,3,G06F|G06N
+11182207,2021-11-23,Pre-fetching task descriptors of dependent tasks,0,G06F
+11176967,2021-11-16,Automatic generation of video playback effects,0,A63F|G11B|H04L|H04N
+11176682,2021-11-16,Enhanced optical flow estimation using a varied scan order,1,G06T
+11171798,2021-11-09,Scalable in-network computation for massively-parallel shared-memory processors,0,G06F|G06N|H04L
+11170566,2021-11-09,Multi-rate shading using replayed screen space tiles,0,G06T
+11170471,2021-11-09,Resolution upscaling for event detection,4,A63F|G06T|G06V
+11170299,2021-11-09,Distance estimation to objects and free-space boundaries in autonomous machine applications,18,B60W|G06F|G06N|G06V
+11170263,2021-11-09,Distributed batch normalization using estimates and rollback,0,G06F|G06N|G06V
+11169858,2021-11-09,Faster game enablement utilizing virtual machine reuse,1,A63F|G06F
+11169779,2021-11-09,Full adder cell with improved power efficiency,0,G06F|H03K
+11165848,2021-11-02,Evaluating qualitative streaming experience using session performance metadata,8,H04L|H04N
+11164372,2021-11-02,Polar stroking for vector graphics,0,G06T
+11164360,2021-11-02,Method for handling of out-of-order opaque and alpha ray/primitive intersections,2,G06T
+11163859,2021-11-02,Content protection via online servers and code execution in a secure operating system,0,G06F
+11163303,2021-11-02,Sharing sensor data between multiple controllers to support vehicle operations,0,B60R|B60W|G05B|G05D|H04N
+11162788,2021-11-02,Classification of surfaces as hard/soft for combining data captured by autonomous vehicles for generating high definition maps,1,B60W|G01C|G01S|G05D|G06T|G06V|G08G
+11159655,2021-10-26,Techniques for enhancing the UDP network protocol to efficiently transmit large data units,0,H04L|Y02D
+11159304,2021-10-26,Clock data recovery mechanism,1,H04L
+11159153,2021-10-26,Data bus inversion (DBI) on pulse amplitude modulation (PAM) and reducing coupling and power noise on PAM-4 I/O,3,G06F|H03K|H03M|H04B|H04L|Y02D
+11158346,2021-10-26,Determining high-interest durations of gameplay sessions from user inputs,2,A63F|G11B|H04L|H04N
+11157414,2021-10-26,Method for efficient grouping of cache requests for datapath scheduling,7,G06F|G06T
+11154773,2021-10-26,Game event recognition,5,A63F|G07F|H04N
+11151394,2021-10-19,Identifying dynamic objects in a point cloud,2,G01C|G01S|G06F|G06T|G06V|G08G
+11150721,2021-10-19,Providing hints to an execution unit to prepare for predicted subsequent arithmetic operations,0,G06F
+11150663,2021-10-19,Detection of hazardous driving using machine learning,4,G05D|G06F|G06N|G06V
+11146662,2021-10-12,Method and system of transmitting state based input over a network,0,G06F|H04L
+11145110,2021-10-12,Adaptive ray tracing suitable for shadow rendering,1,G06T
+11145108,2021-10-12,Uniform density cube map rendering for spherical projections,0,G06T|G09B|G09G
+11144754,2021-10-12,Gaze detection using one or more neural networks,6,G06F|G06N|G06V
+11144391,2021-10-12,Techniques for generating symbol-preserving error correction codes,1,G06F|H03M
+11144087,2021-10-12,Efficient performance monitoring of integrated circuit(s) having distributed clocks,0,G06F|H04L
+11140216,2021-10-05,Dynamically providing host input control for streaming applications,0,G06F|H04L|H04N
+11138018,2021-10-05,Optimizing execution of computer programs using piecemeal profiles,1,G06F
+11138009,2021-10-05,"Robust, efficient multiprocessor-coprocessor interface",4,G06F|G06T
+11137815,2021-10-05,Metering GPU workload with real time feedback to maintain power consumption below a predetermined power budget,0,G06F|G06T|Y02D
+11132543,2021-09-28,Unconstrained appearance-based gaze estimation,3,G06F|G06N|G06T|G06V
+11132326,2021-09-28,Techniques to transfer data among hardware devices,5,G06F
+11132146,2021-09-28,Technique for efficiently allowing simultaneous access to resources in a computing system,0,G06F
+11131711,2021-09-28,Testing system and method for in chip decoupling capacitor circuits,1,G01R|H01L|H10D
+11130055,2021-09-28,System and method for granting remote access to a video game executed on a video game console or network client,0,A63F|H04N
+11127719,2021-09-21,Face-to-face dies with enhanced power delivery using extended TSVS,0,H01L
+11127167,2021-09-21,Efficient matrix format suitable for neural networks,1,G06F|G06T
+11120609,2021-09-14,Reconstruction for temporally dense ray trace rendering,1,G06T|H04N
+11113861,2021-09-07,Imitating motion capture clips using a neural network,0,G06N|G06T
+11113819,2021-09-07,"Graphical fiducial marker identification suitable for augmented reality, virtual reality, and robotics",1,G06T
+11113800,2021-09-07,Filtering image data using a neural network,0,G06F|G06T|G06V
+11113792,2021-09-07,Temporal-spatial denoising in ray-tracing applications,1,G06T
+11113790,2021-09-07,Adding greater realism to a computer-generated image by smoothing jagged edges,1,G06T
+11108704,2021-08-31,Use of stashing buffers to improve the efficiency of crossbar switches,5,H04L
+11107176,2021-08-31,Scheduling cache traffic in a tile-based architecture,0,G06F|G06T|G09G|Y02D
+11106261,2021-08-31,Optimal operating point estimator for hardware operating under a shared power/thermal constraint,4,G06F|G06N|Y02D
+11102516,2021-08-24,Quality aware error concealment method for video and game streaming and a viewing device employing the same,0,H04N
+11100643,2021-08-24,Training strategy search using reinforcement learning,3,G06N|G06T
+11099685,2021-08-24,Selective touch sensor activation for power savings,0,G06F|Y02D
+11099558,2021-08-24,Remote operation of vehicles using immersive virtual reality environments,22,G02B|G05D|G06F|G06N|G06T|G07C
+11095307,2021-08-17,Performing cyclic redundancy checks using parallel computing architectures,2,G06F|G06T|H03M|H04L
+11093323,2021-08-17,Performant inline ECC architecture for DRAM controller,1,G06F
+11089320,2021-08-10,Adaptive pixel sampling order for temporally dense rendering,1,G06T|H04N
+11082720,2021-08-03,Using residual video data resulting from a compression of original video data to improve a decompression of the original video data,1,H04N
+11082490,2021-08-03,Method and apparatus for execution of applications in a cloud system,1,A63F|G06F|H04L
+11082347,2021-08-03,Techniques for reducing congestion in a computer network,0,H04L|Y02D
+11080590,2021-08-03,Stereo depth estimation using deep neural networks,21,G01S|G06F|G06N|G06T
+11080111,2021-08-03,Technique for sharing context among multiple threads,3,G06F
+11080051,2021-08-03,Techniques for efficiently transferring data to a processor,3,G06F
+11079764,2021-08-03,Safety procedure analysis for obstacle avoidance in autonomous vehicles,34,B60W|G05D|G06N
+11079434,2021-08-03,Test systems for executing self-testing in deployed automotive platforms,1,G01R|G06F|G06Q|G11C
+11074717,2021-07-27,Detecting and estimating the pose of an object using a neural network model,8,G06N|G06T
+11070205,2021-07-20,Glitch-free multiplexer,2,G06N|H03K
+11069129,2021-07-20,Shader binding management in ray tracing,0,G06F|G06T
+11069095,2021-07-20,Techniques for efficiently sampling an image,2,G06T
+11069023,2021-07-20,Techniques for efficiently accessing memory and avoiding unnecessary computations,0,G06T
+11068781,2021-07-20,Temporal ensembling for semi-supervised learning,1,G06N
+11068626,2021-07-20,Simulating a cable driven system by simulating the effect of cable portions on objects of the system,0,G06F
+11064203,2021-07-13,SSIM-based rate distortion optimization for improved video perceptual quality,3,H04N
+11062471,2021-07-13,Neural network system for stereo image matching,5,G06T
+11061741,2021-07-13,Techniques for efficiently performing data reductions in parallel processing units,0,G06F
+11061571,2021-07-13,Techniques for efficiently organizing and accessing compressible data,1,G06F
+11055381,2021-07-06,Estimating product integrals using a composition of warps,1,G06F|G06N|G06T
+11055253,2021-07-06,Method to increase the bandwidth of a USB-C connector,0,G06F
+11055097,2021-07-06,Dynamically detecting uniformity and eliminating redundant computations to reduce power consumption,0,G06F
+11049018,2021-06-29,Transforming convolutional neural networks for visual sequence learning,10,G06F|G06N|G06V
+11048321,2021-06-29,Distributed digital low-dropout voltage micro regulator,0,G06F|Y02D
+11043028,2021-06-22,Reducing level of detail of a polygon mesh to decrease a complexity of rendered geometry within a scene,1,G06T
+11042163,2021-06-22,Guiding vehicles through vehicle maneuvers using machine learning models,32,B60W|B62D|G05D|G06N|G06V
+11039092,2021-06-15,Sparse scanout for image sensors,0,H04N
+11038800,2021-06-15,Techniques for reducing the overhead of providing responses in a computing network,0,G06F|H04L
+11037338,2021-06-15,Reconstructing image data,0,G06N|G06T|G16H
+11037051,2021-06-15,3D plane detection and reconstruction using a monocular image,7,G06F|G06N|G06T
+11027199,2021-06-08,System and method for network coupled gaming,1,A63F|G06F
+11023732,2021-06-01,Unsupervised classification of gameplay video using machine learning models,0,A63F|G06F|G06N|G06V
+11018909,2021-05-25,Receiver adaptation using stochastic gradient hill climbing with genetic mutation,0,H04L
+11017556,2021-05-25,Iterative spatio-temporal action detection in video,2,G06T|G06V
+11016802,2021-05-25,Techniques for ordering atomic operations,0,G06F|G11C
+11012694,2021-05-18,Dynamically shifting video rendering tasks between a server and a client,1,G06F|H04L|H04N
+11012338,2021-05-18,Network adaptive latency reduction through frame rate control,0,H04L
+11011249,2021-05-18,Concurrent testing of a logic device and a memory device within a system package,2,G01R|G11C|H01L
+11010963,2021-05-18,Realism of scenes involving water surfaces during rendering,0,G06T
+11010516,2021-05-18,Deep learning based identification of difficult to test nodes,3,G06F|G06N|G06V
+11010509,2021-05-18,Systems and methods for computer simulation of detailed waves for large-scale water simulation,2,G06F|G06T
+11004254,2021-05-11,Performance of ray-traced shadow creation within a scene,1,G06T
+11004178,2021-05-11,Enhancing high-resolution images with data from low-resolution images,0,G06T
+11003238,2021-05-11,Clock gating coupled memory retention circuit,5,G06F|Y02D
+10999174,2021-05-04,Network adaptive latency reduction through frame rate control,1,H04L
+10999051,2021-05-04,Reference noise compensation for single-ended signaling,0,H03K|H04B|H04L
+10997884,2021-05-04,Reducing video image defects by adjusting frame buffer processes,1,A63F|G06F|G09G
+10997496,2021-05-04,Sparse convolutional neural network accelerator,2,G06F|G06N
+10997492,2021-05-04,Automated methods for conversions to a lower precision data format,0,G06N|G06T
+10997435,2021-05-04,Leveraging obstacle and lane detections to determine lane assignments for objects in an environment,6,G06T|G06V
+10997433,2021-05-04,Real-time detection of lanes and boundaries by autonomous vehicles,35,G05D|G06F|G06N|G06T|G06V
+10996865,2021-05-04,Application-specific memory scaling in multi-device systems,0,G06F
+10996725,2021-05-04,Power management in a multiple-processor computing device,1,G06F|Y02D
+10993110,2021-04-27,Connectionless fast method for configuring Wi-Fi on displayless Wi-Fi IoT device,2,H04L|H04W
+10991155,2021-04-27,Landmark location reconstruction in autonomous machine applications,2,G06T|G06V
+10991152,2021-04-27,Adaptive shading in a graphics processing pipeline,3,G06T
+10991079,2021-04-27,Using previously rendered scene frames to reduce pixel noise,1,G06T
+10990732,2021-04-27,System frequency margin recovery via distributed critical path monitors (CPM),0,G06F
+10986325,2021-04-20,Scene flow estimation using shared features,2,G06N|H04N
+10984637,2021-04-20,Haptic control interface for detecting content features using machine learning to induce haptic effects,1,G06F|G06N|G06V|G08B
+10984587,2021-04-20,Virtual photogrammetry,2,A63F|G06T
+10984545,2021-04-20,Estimating depth for a video stream captured with a monocular rgb camera,5,G06N|G06T|H04N
+10984286,2021-04-20,Domain stylization using a neural network model,7,G06F|G06N|G06T|G06V
+10984049,2021-04-20,Performing traversal stack compression,0,G06F|G06T
+10983919,2021-04-20,Addressing cache slices in a last level cache,0,G06F|G06T
+10983699,2021-04-20,Queue manager for streaming multiprocessor systems,0,G06F
+10979744,2021-04-13,Method and system for low latency high frame rate streaming,5,H04N
+10979176,2021-04-13,Codebook to reduce error growth arising from channel errors,7,H04L
+10977037,2021-04-13,Techniques for comprehensively synchronizing execution threads,2,G06F
+10972719,2021-04-06,Head-mounted display having an image sensor array,1,G06T|H04N
+10970816,2021-04-06,Motion blur and depth of field reconstruction through temporally stable neural networks,0,G06T
+10970256,2021-04-06,Reconciler for a distributed storage system,0,G06F
+10965440,2021-03-30,Reference noise compensation for single-ended signaling,0,H04L
+10964061,2021-03-30,Learning-based camera pose estimation from images of an environment,0,G06N|G06T|G06V
+10964034,2021-03-30,Vertical disparity detection in stereoscopic images from optical flow data,2,G06F|G06N|G06T|H04N
+10964000,2021-03-30,Techniques for reducing noise in video,1,G06T|H04N
+10957651,2021-03-23,Package level power gating,0,H01L|H05K
+10957078,2021-03-23,Enhanced anti-aliasing by varying sample patterns spatially and/or temporally,0,G06T
+10957020,2021-03-23,Systems and methods for frame time smoothing based on modified animation advancement and use of post render queues,1,G06F|G06T|G09G
+10948985,2021-03-16,Retina space display stabilization and a foveated display for augmented reality,0,G06F|G06T|H04N
+10946281,2021-03-16,Using playstyle patterns to generate virtual representations of game players,19,A63F|G06N
+10943882,2021-03-09,IC package design and methodology to compensate for die-substrate CTE mismatch at reflow temperatures,0,H01L
+10943387,2021-03-09,Generating scenes containing shadows using pixel noise reduction techniques,0,G06F|G06T
+10935788,2021-03-02,Hybrid virtual 3D rendering approach to stereovision,0,G02B|H04N
+10930022,2021-02-23,Motion adaptive rendering using variable rate shading,2,G06T
+10929987,2021-02-23,Learning rigidity of dynamic scenes for three-dimensional scene flow estimation,1,G06N|G06T|G06V
+10929654,2021-02-23,Three-dimensional (3D) pose estimation from a monocular camera,10,G06N|G06T|G06V
+10929591,2021-02-23,Techniques for pre-silicon testing integrated circuit designs that accommodate power-supply noise and adaptive-clock aware timing,1,G06F
+10922876,2021-02-16,Saccadic redirection for virtual reality locomotion,0,G06F|G06T
+10922793,2021-02-16,Guided hallucination for missing image content using a neural network,6,G06F|G06N|G06T|G06V
+10922203,2021-02-16,Fault injection architecture for resilient GPU computing,7,G01R|G06F|G06T|G11C|H03K
+10916252,2021-02-09,Accelerated data transfer for latency reduction and real-time processing,0,G06F|G10L
+10915445,2021-02-09,Coherent caching of data for high bandwidth scaling,4,G06F
+10915364,2021-02-09,Technique for computational nested parallelism,0,G06F|G06T
+10915115,2021-02-09,Method and apparatus for enabling map updates using a blockchain platform,4,G01C|G05D|G06F
+10909903,2021-02-02,Parallel implementation of a dithering algorithm for high data rate display devices,0,G06F|G09G
+10909739,2021-02-02,Techniques for representing and processing geometry within an expanded graphics processing pipeline,0,G06F|G06T
+10909738,2021-02-02,Real-time hardware-assisted GPU tuning using machine learning,1,G06N|G06T|Y02D
+10909033,2021-02-02,Techniques for efficiently partitioning memory,4,G06F
+10908995,2021-02-02,Securing against errors in an error correcting code (ECC) implemented in an automotive system,1,G06F|H03M
+10908878,2021-02-02,Dynamic directional rounding,0,G06F|G06N

@@ -1,0 +1,912 @@
+patent_id,patent_date,patent_title,patent_num_times_cited_by_us_patents,cpc_subclass_ids
+12430357,2025-09-30,Replication of unstructured staged data between database deployments,0,G06F|H04L
+12430297,2025-09-30,Accessing data objects using user defined function (UDF) streams,0,G06F
+12423323,2025-09-23,Data replication and data failover in data storage systems,0,G06F|H04L
+12423302,2025-09-23,Hash-join broadcast decision making in database systems,0,G06F
+12411932,2025-09-09,Providing access control for policies,0,G06F
+12411850,2025-09-09,Metadata search via N-gram index,0,G06F
+12407732,2025-09-02,First class database object server application,0,G06F|H04L
+12405938,2025-09-02,"Hybrid table secondary index for lookups, unique checks, and referential integrity constraints",0,G06F
+12401656,2025-08-26,Organization-level account on data platform,0,H04L
+12400026,2025-08-26,Data clean rooms using defined access with homomorphic encryption,0,G06F
+12399977,2025-08-26,Static analysis correlation scanners,0,G06F
+12399900,2025-08-26,Real-time streaming data ingestion into database tables,0,G06F
+12399896,2025-08-26,Dynamic database pipeline scheduler,0,G06F
+12399875,2025-08-26,Efficient deduplication of randomized file paths,0,G06F
+12393572,2025-08-19,Processing queries on restricted views,0,G06F|H04L
+12386864,2025-08-12,Column data anonymization based on privacy category classification,0,G06F|G06N
+12386863,2025-08-12,Micro-partition clustering based on expression property metadata,0,G06F
+12386823,2025-08-12,Multiple environments and functions in a database system,0,G06F
+12381723,2025-08-05,Distributed secret management,0,H04L
+12367186,2025-07-22,Distributed in-database vectorized operations using user defined table functions,0,G06F
+12353586,2025-07-08,Secure encrypted identifier data sharing,0,G06F|H04L
+12353583,2025-07-08,Secure multi-party encrypted identifier data sharing,0,G06F|H04L
+12346658,2025-07-01,Natural language processing text-image-layout transformer,0,G06F|G06N|G06T|G06V
+12323468,2025-06-03,Secure execution of user-defined functions,0,G06F|H04L
+12321361,2025-06-03,Unified structured and semi-structured data types in database systems,0,G06F
+12321350,2025-06-03,Query block boundary identification,0,G06F
+12316700,2025-05-27,Creating a global data sharing listing,0,G06F|H04L
+12315025,2025-05-27,Diagnostic online result assessment (DORA) in a cloud environment,0,G06F|G06Q
+12314714,2025-05-27,Semantic functional wrappers of services,0,G06F
+12314694,2025-05-27,Inline compilation of user defined functions,0,G06F
+12314587,2025-05-27,Enabling applications to access cloud data,0,G06F
+12314444,2025-05-27,Secure data comparison using data clean rooms,0,G06F
+12314443,2025-05-27,Identity resolution and data enrichment framework,0,G06F
+12314418,2025-05-27,Differentially private security system using gaussian noise and dynamic step size,0,G06F
+12314391,2025-05-27,Application trust framework,0,G06F
+12314319,2025-05-27,Projection constraint policies in a database system,0,G06F
+12314318,2025-05-27,Enhanced searching using fine-tuned machine learning models,1,G06F
+12314285,2025-05-27,Resource management systems and methods,0,A61F|G06F|H04L
+12314284,2025-05-27,Database replication using a resource management node,0,G06F
+12314283,2025-05-27,Data object replication using database identification,0,G06F
+12314267,2025-05-27,Automated tracking of oldest running statement in distributed MVCC databases,0,G06F
+12314263,2025-05-27,Indexed geospatial search,0,G06F
+12314258,2025-05-27,Runtime join pruning to improve join performance for tables,0,G06F
+12314256,2025-05-27,Management of object dependency records in a cloud system,0,G06F
+12314254,2025-05-27,Batch data ingestion in database systems,0,G06F
+12314248,2025-05-27,Background job based refresh fulfillment,0,G06F
+12314247,2025-05-27,Identifying software regressions based on query retry attempts in a database environment,0,G06F
+12314225,2025-05-27,Continuous ingestion of custom file formats,0,G06F
+12314136,2025-05-27,Query retries using quiesce notifications,0,G06F
+12287898,2025-04-29,Query-based database redaction,0,G06F
+12287808,2025-04-29,Resource management systems and methods,0,A61F|G06F|H04L
+12287760,2025-04-29,Data pruning based on metadata,0,G06F
+12277124,2025-04-15,Query processing with restrictions in a database clean room,0,G06F
+12277117,2025-04-15,Optimized validation of cached query plans,0,G06F
+12277116,2025-04-15,Query plan cache shadow modes,0,G06F
+12277115,2025-04-15,Sharing materialized views in multiple tenant database systems,0,G06F
+12277101,2025-04-15,Dataframe workloads using read-only data snapshots,0,G06F
+12267390,2025-04-01,Multi-cluster warehouse,0,G06F|H04L
+12261764,2025-03-25,Cloud agnostic service discovery,0,H04L
+12259991,2025-03-25,Nested row access policies,0,G06F
+12259877,2025-03-25,Tracking intermediate changes in database data,0,G06F
+12250249,2025-03-11,Events account for native app event sharing,0,G06F|H04L
+12248595,2025-03-11,Network intrusion event response and protection,0,G06F|H04L
+12248587,2025-03-11,User interface framework for web applications,0,G06F
+12248485,2025-03-11,Fetching query result data using result batches,0,G06F
+12248448,2025-03-11,Configuring check constraint and row violation logging using error tables,0,G06F
+12244558,2025-03-04,Client-operated and port-range lease based source network address translation,0,H04L
+12242641,2025-03-04,Database redaction for semi-structured and unstructured data,0,G06F
+12242636,2025-03-04,Implementing secure user-defined functions in a multi-tenant database system,0,G06F
+12242550,2025-03-04,Browser plug-in for marketplace recommendations,0,G06F
+12242511,2025-03-04,Storage resource provisioning systems and methods,0,A61F|G06F|H04L
+12242510,2025-03-04,Resource provisioning systems and methods,0,A61F|G06F|H04L
+12242506,2025-03-04,Managing database traffic between isolated database systems,0,G06F|H04L
+12242496,2025-03-04,Future scheduler for database systems,0,G06F
+12242475,2025-03-04,Autoscaling external function requests,0,G06F
+12242457,2025-03-04,Query processing of stream objects using stream expansion,0,G06F
+12236355,2025-02-25,Generating machine-learning model for document extraction,0,G06N
+12236201,2025-02-25,Enhanced machine learning model accuracy through post-hoc confidence score calibration,0,G06F
+12235992,2025-02-25,Data clean rooms using defined access in trusted execution environment,0,G06F
+12235985,2025-02-25,Privilege based access checks for query results,0,G06F|H04L
+12235875,2025-02-25,Low latency ingestion into a data system,0,G06F
+12235874,2025-02-25,Cross-organization and cross-cloud automated data pipelines,0,G06F
+12235872,2025-02-25,Distributed database that uses hybrid table secondary indexes,0,G06F
+12235868,2025-02-25,Failover configuration using replication group objects,0,G06F
+12235843,2025-02-25,Multi database queries,0,G06F
+12235835,2025-02-25,Systems and methods for efficiently querying external tables,0,G06F
+12235833,2025-02-25,Distributed execution of transactional queries,0,G06F
+12229424,2025-02-18,Cloud data sharing for applications,0,G06F
+12223085,2025-02-11,Identity resolution and data enrichment application framework,0,G06F
+12223083,2025-02-11,Differentially private processing and database storage,0,G06F|G06N|H04L
+12223082,2025-02-11,Secure roles for data sharing,0,G06F|H04L
+12223077,2025-02-11,Organization-level global data object on data platform,0,G06F
+12222964,2025-02-11,Database processing using hybrid key-value tables,0,G06F
+12222960,2025-02-11,Scalable compaction for a distributed database,0,G06F
+12222958,2025-02-11,Selective table replication to enable stream replication,0,G06F
+12222954,2025-02-11,Hidden database objects over external data,0,G06F
+12222950,2025-02-11,Search in a data marketplace,0,G06F
+12222949,2025-02-11,Shared tag data system,0,G06F
+12222934,2025-02-11,Trace events in a database system,0,G06F
+12222923,2025-02-11,Event driven technique for constructing transaction lock wait history,0,G06F
+12222828,2025-02-11,Share-based replication,0,G06F
+12218948,2025-02-04,Organization-level account on data platform,0,H04L
+12217088,2025-02-04,Autoscaling and throttling in an elastic cloud service,0,G06F
+12216662,2025-02-04,Hierarchical object tagging framework,0,G06F
+12216656,2025-02-04,Scalable query processing,0,G06F
+12216654,2025-02-04,Materialized table refresh using multiple processing pipelines,1,G06F
+12216648,2025-02-04,Row-order dependent dataframe workloads,0,G06F
+12216638,2025-02-04,Accelerating change data capture determination using row bitsets preliminary,0,G06F
+12216628,2025-02-04,Optimized identification of performance regression,0,G06F
+12210650,2025-01-28,Data clean rooms using defined access,1,G06F
+12210527,2025-01-28,Active invalidation of metadata cache entries,0,G06F
+12210525,2025-01-28,Interleaved execution infrastructure in database engines,0,G06F
+12210492,2025-01-28,Bundle creation and distribution,0,G06F
+12204679,2025-01-21,Differentially private query budget refunding,0,G06F
+12204559,2025-01-21,Database transactions across different domains,0,G06F
+12204553,2025-01-21,Processing functionality to store sparse feature sets,0,G06F
+12204547,2025-01-21,Processing external functions using user-defined functions (UDFs),0,G06F
+12204541,2025-01-21,Performance optimizations for secure objects evaluations,0,G06F
+12197413,2025-01-14,Distributed in-database vectorized operations using user defined table functions,0,G06F
+12190181,2025-01-07,Invoking specified functionality within a sandbox process,0,G06F
+12189822,2025-01-07,Data clean room,0,G06F
+12189655,2025-01-07,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+12189616,2025-01-07,Query execution using materialized tables,0,G06F
+12189614,2025-01-07,Serialization of data in a concurrent transaction processing distributed database,0,G06F
+12184610,2024-12-31,Bi-directional data sharing between private and public clouds,0,G06F|H04L
+12182160,2024-12-31,"Data exchange availability, listing visibility, and listing fulfillment",0,G06F|G06Q|H04L
+12182155,2024-12-31,Configuring an event table using computing node processes,0,G06F
+12182130,2024-12-31,Optimized processing of data in different formats,0,G06F
+12182099,2024-12-31,Error tables to track errors associated with a base table,0,G06F
+12174817,2024-12-24,Processing user-defined functions (UDFs) using multiple execution environments,1,G06F
+12174702,2024-12-24,Database metadata corruption mitigation,0,G06F
+12169581,2024-12-17,Secure sharing of stage data of a data exchange listing,0,G06F|H04L
+12169580,2024-12-17,Container-centric access control on database objects,0,G06F
+12169490,2024-12-17,Clustering and compaction of materialized views on a database system,0,G06F
+12169486,2024-12-17,File-based error handling during ingestion with transformation,0,G06F
+12164966,2024-12-10,Dynamic task allocation and datastore scaling,0,G06F
+12164514,2024-12-10,System and method for disjunctive joins,0,G06F
+12164490,2024-12-10,Observability loop,0,G06F
+12164405,2024-12-10,Automated query retry execution using multiple computing nodes in a database system,0,G06F
+12158970,2024-12-03,Directing queries to encrypted database files,0,G06F
+12158897,2024-12-03,Managing database failover based on transaction request time,0,G06F|H04L
+12153971,2024-11-26,Sharing events and other metrics in native applications,0,G06F
+12153698,2024-11-26,Secure shared data application access,1,G06F
+12153602,2024-11-26,Query processing using a distributed stop operator,0,G06F
+12153569,2024-11-26,Task scheduling using a stream of committed transactions,0,G06F
+12147445,2024-11-19,Notebooks with cached results,1,G06F
+12141032,2024-11-12,Data replication with cross replication group references,0,G06F|H04L
+12135815,2024-11-05,Row-level security,0,G06F
+12135745,2024-11-05,Synchronizing file-catalog table with file stage,0,G06F
+12135734,2024-11-05,Replication of share across deployments in database system,1,G06F|H04L
+12135721,2024-11-05,Symmetric query processing in a database clean room,1,G06F
+12135715,2024-11-05,Multi-phase query plan caching,0,G06F
+12135700,2024-11-05,Scan-based merge for analytical query processing in HTAP systems using delete vectors,0,G06F
+12135697,2024-11-05,Schema evolution for key columnar data into row-organized sequences,0,G06F
+12132778,2024-10-29,System and method for global data sharing,0,G06F|H04L
+12130942,2024-10-29,Budget tracking in a differentially private database system,0,G06F
+12130835,2024-10-29,Distributing large amounts of global metadata using object files,0,G06F|G06Q
+12130811,2024-10-29,Task-execution planning using machine learning,0,G06F
+12130795,2024-10-29,Streams using persistent tables,0,G06F
+12124602,2024-10-22,Implementing inherited grants using secure schemas,0,G06F|H04L
+12124462,2024-10-22,Configuring query result information based on multi-stage query execution,1,G06F
+12120189,2024-10-15,Remote execution using a global identity,0,G06F|H04L
+12118038,2024-10-15,Accessing data using a file reference-based user defined function,0,G06F
+12106149,2024-10-01,Flexible computing,0,G06F|H04L
+12105832,2024-10-01,Adaptive differentially private count,1,G06F
+12105831,2024-10-01,Column hiding management system,0,G06F
+12105828,2024-10-01,Grant inheritance in RBAC,0,G06F|H04L
+12105734,2024-10-01,Data replication and data failover in database systems,0,G06F|H04L
+12101294,2024-09-24,Secure message exchange between deployments,0,H04L
+12099625,2024-09-24,"Organizing, discovering and evaluating marketplace datasets and services by industry business needs",0,G06F|G06Q
+12099498,2024-09-24,Auto refresh of directory tables for stages,0,G06F
+12099472,2024-09-24,Utilizing metadata to prune a data set,0,G06F
+12093284,2024-09-17,Materialized view sub-database replication,0,G06F|G06Q
+12093281,2024-09-17,Stage replication in a cloud data lake,0,G06F
+12093248,2024-09-17,Online index creation for multi-version database without table locks,0,G06F
+12093229,2024-09-17,Similarity-based listing recommendations in a data exchange,0,G06F|G06Q
+12093152,2024-09-17,Data ingestion replication and disaster recovery,0,G06F
+12088632,2024-09-10,Securely managing network connections,0,G06F|H04L
+12086287,2024-09-10,Horizontally-scalable data de-identification,0,G06F
+12086154,2024-09-10,Columnar cache in hybrid transactional/analytical processing (HTAP) workloads,1,G06F
+12079244,2024-09-03,Query plans for analytic SQL constructs,0,A61F|G06F|H04L
+12074991,2024-08-27,Certificate revocation check proxy service,0,H04L
+12072998,2024-08-27,Differentially private processing and database storage,1,G06F|G06N|H04L
+12072911,2024-08-27,Systems and methods for providing access to information in a relational database via API-operations for dataframes,0,G06F
+12072840,2024-08-27,Catalog query framework on distributed key value store,0,G06F
+12067019,2024-08-20,Dynamic data restriction in a database clean room,0,G06F
+12067005,2024-08-20,Data clean room using defined access via native applications,0,G06F
+12066917,2024-08-20,Auto insights into data changes,0,G06F|G06N
+12061717,2024-08-13,Dynamic shared data object masking,0,G06F
+12061587,2024-08-13,Query processing using hybrid table secondary indexes,1,G06F
+12056619,2024-08-06,Heuristic search for k-anonymization in a generalization lattice,0,G06F|G06N
+12056144,2024-08-06,Application update configuration using an application connector,0,G06F
+12056123,2024-08-06,System and method for disjunctive joins using a lookup table,1,G06F
+12056114,2024-08-06,Long-lived statements optimizations in a database system,1,G06F
+12056100,2024-08-06,Systems and methods for converting dataframes to relational databases and/or vice versa,0,G06F
+12052249,2024-07-30,Facilitating access to remotely stored credentials for accessing external resources,0,G06F|H04L
+12050890,2024-07-30,Multiple user defined functions registration,1,G06F
+12050711,2024-07-30,Fine-grained access control via database roles,0,G06F
+12050710,2024-07-30,Generating data dictionary metadata,0,G06F
+12050621,2024-07-30,Using stateless nodes to process data of catalog objects,0,A61F|G06F|H04L
+12050605,2024-07-30,Indexed geospatial predicate search,1,G06F
+12050603,2024-07-30,Opportunistic cloud data platform pipeline scheduler,1,G06F
+12050582,2024-07-30,Unified table data access in user-specified formats on internal storage and user-managed storage,1,G06F
+12047370,2024-07-23,Data encryption using public key cryptography and certificate verification,0,H04L
+12045257,2024-07-23,Adjusting processing times in data warehouses to user-defined levels,0,A61F|G06F|H04L
+12045236,2024-07-23,Join elimination,0,G06F
+12045221,2024-07-23,Compact representation of table columns via templatization,0,G06F
+12040940,2024-07-16,Deploying upgrades for cloud services,0,G06F|H04L|H04W
+12038924,2024-07-16,Implementing multidimensional two-sided interval joins on data platforms,0,G06F
+12032995,2024-07-09,Asynchronous task queue configuration in a database system,0,G06F
+12032947,2024-07-09,Loading procedures of versioned schema,0,G06F
+12032919,2024-07-09,Post-calibration of large language model confidence scoring via combined techniques,2,G06F
+12032685,2024-07-09,Logging from user-defined functions,0,G06F
+12032595,2024-07-09,Database replication for a remote deployment,1,G06F
+12032588,2024-07-09,Accessing listings in a data exchange,0,G06F
+12026221,2024-07-02,Enhanced time series forecasting,0,G06F|G06N
+12026160,2024-07-02,Query plan cache in database systems,0,G06F
+12026159,2024-07-02,Transient materialized view rewrite,0,G06F
+12026153,2024-07-02,Tracking intermediate changes in database data,0,G06F
+12026145,2024-07-02,Alert based on baseline result,0,G06F
+12026140,2024-07-02,Performance indexing of production databases,0,G06F
+12026129,2024-07-02,Atomic cache management of file collections,0,G06F
+12022005,2024-06-25,Commit signing service,0,G06F|H04L
+12021877,2024-06-25,Managing version sharing in a data exchange,0,G06F|H04L
+12020128,2024-06-25,Multi-party machine learning using a database cleanroom,0,G06F|G06N
+12019735,2024-06-25,Tracing function execution in a database system,0,G06F
+12019632,2024-06-25,Checkpoints in batch file processing,1,G06F
+12013969,2024-06-18,Data clean room,0,G06F
+12013960,2024-06-18,Granting access to resources of a database,0,G06F
+12013876,2024-06-18,Resource management systems and methods,0,A61F|G06F|H04L
+12010147,2024-06-11,Data platform with unified privileges,4,G06F|H04L
+12008001,2024-06-11,Overlap queries on a distributed database,1,G06F
+12007997,2024-06-11,Metadata search via N-gram index,0,G06F
+12007994,2024-06-11,Partition granular selectivity estimation for predicates,0,G06F
+12007993,2024-06-11,Multi database queries,0,G06F
+12007990,2024-06-11,Deferred constraints support in distributed database systems,0,G06F
+12007961,2024-06-11,Schema evolution,0,G06F
+12001581,2024-06-04,Query processing in a secure data clean room,0,G06F
+12001552,2024-06-04,Application trust framework,2,G06F
+12001428,2024-06-04,Build-side skew handling for hash-partitioning hash joins,0,G06F
+11995126,2024-05-28,Projection constraints enforced in a database system,1,G06F
+11995080,2024-05-28,Runtime join pruning to improve join performance for database tables,0,G06F
+11989630,2024-05-21,Secure multi-user machine learning on a cloud data platform,0,G06F|G06N
+11989206,2024-05-21,Automated database replication using replication preparation objects,1,G06F
+11989184,2024-05-21,Regular expression search query processing using pruning index,0,G06F
+11989173,2024-05-21,Query validation and processing in data clean rooms,0,G06F
+11989164,2024-05-21,Data dictionary metadata for marketplace listings,0,G06F
+11989163,2024-05-21,Schema inference for files,0,G06F
+11983292,2024-05-14,Native applications using database roles,0,G06F|G06Q
+11983198,2024-05-14,Multi-cluster warehouse,0,G06F|H04L
+11983165,2024-05-14,Load history calculation in internal stage replication,0,G06F
+11983150,2024-05-14,Share replication between remote deployments,0,G06F
+11977560,2024-05-07,Resource management systems and methods,0,A61F|G06F|H04L
+11973763,2024-04-30,Events account for native app event sharing,1,G06F|H04L
+11973748,2024-04-30,Token-based secure database query result sharing,0,G06F|H04L
+11971888,2024-04-30,Placement of adaptive aggregation operators and properties in a query plan,0,G06F
+11971876,2024-04-30,Object resolution among account-level namespaces for database platforms,0,G06F
+11971856,2024-04-30,Efficient database query evaluation,0,G06F
+11971799,2024-04-30,Automated query retry using a database platform,1,G06F
+11971783,2024-04-30,Infrastructure for automating rollout of database changes,0,G06F
+11968258,2024-04-23,Sharing of data share metrics to customers,0,G06F|H04L
+11966417,2024-04-23,Caching systems and methods,0,A61F|G06F|H04L
+11966416,2024-04-23,Cross-organization and cross-cloud automated data pipelines,0,G06F
+11966368,2024-04-23,Cluster balancing for zones of a database system,0,G06F|H04L
+11960505,2024-04-16,Export data from tables into partitioned folders on an external data lake,0,G06F
+11954229,2024-04-09,Identity resolution and data enrichment application framework,0,G06F
+11954224,2024-04-09,Database redaction for semi-structured and unstructured data,0,G06F
+11948025,2024-04-02,Stored procedures executing within a sandbox process,1,G06F
+11947533,2024-04-02,Software bugs detection using query analysis,0,G06F
+11943203,2024-03-26,Virtual network replication using staggered encryption,0,G06F|H04L
+11940995,2024-03-26,Key prefix driven data encryption in tree structures,0,G06F|H04L
+11934927,2024-03-19,Handling system-characteristics drift in machine learning applications,0,G06F|G06N
+11934553,2024-03-19,Secure encryption enabled data clean room,0,G06F
+11934543,2024-03-19,Transient object references,1,G06F
+11930045,2024-03-12,Secure network access from sandboxed applications,7,G06F|H04L
+11929986,2024-03-12,Two-way data sharing between private and public clouds,1,G06F|H04L
+11928157,2024-03-12,Projection constraints in a query processing system,2,G06F
+11928129,2024-03-12,Cloning catalog objects,1,A61F|G06F|H04L
+11928115,2024-03-12,Query processing with restrictions in a database clean room,2,G06F
+11928110,2024-03-12,Multiple environments and functions in a distributed database,1,G06F
+11928108,2024-03-12,Object dependency status tracking in a cloud system,1,G06F
+11928098,2024-03-12,Table data processing using a change tracking column,0,G06F
+11922328,2024-03-05,Generating machine-learning model for document extraction,3,G06N
+11921898,2024-03-05,Identity resolution and data enrichment framework,1,G06F
+11921876,2024-03-05,Organization-level global data object on data platform,3,G06F
+11921733,2024-03-05,Fetching query result data using result batches,2,G06F
+11921716,2024-03-05,Inexact timestamp range matching join for time series data (AS OF JOIN),0,G06F
+11921708,2024-03-05,Distributed execution of transactional queries,1,G06F
+11921700,2024-03-05,Error tables to track errors associated with a base table,3,G06F
+11914602,2024-02-27,Resource provisioning in database systems,0,G06F
+11914591,2024-02-27,Sharing materialized views in multiple tenant database systems,1,G06F
+11909743,2024-02-20,Organization-level account on data platform,2,H04L
+11907395,2024-02-20,Identity resolution and data enrichment application framework using shared data objects,0,G06F
+11907221,2024-02-20,Scheduling parallel execution of query sub-plans,0,G06F
+11907212,2024-02-20,Trace events in a database system,1,G06F
+11899648,2024-02-13,Concurrency control for transactions in database systems,0,G06F
+11899646,2024-02-13,Providing table data access in user-specified formats on user-managed storage,1,G06F
+11893462,2024-02-06,Machine learning using secured shared data,0,G06F|G06N
+11893133,2024-02-06,Budget tracking in a differentially private database system,2,G06F
+11893029,2024-02-06,Real-time streaming data ingestion into database tables,2,G06F
+11893025,2024-02-06,Scan set pruning for queries with predicates on semi-structured fields,0,G06F
+11893016,2024-02-06,Secure predicate derivation of queries using metadata,0,G06F
+11886872,2024-01-30,In-database application package and application,1,G06F
+11886441,2024-01-30,Tag-based data governance auditing system,2,G06F
+11886419,2024-01-30,Background job based refresh fulfillment for managed account objects,1,G06F
+11880491,2024-01-23,Tag-based application of masking policy,0,G06F
+11880388,2024-01-23,"Hybrid table secondary index for lookups, unique checks, and referential integrity constraints",2,G06F
+11880381,2024-01-23,Notebooks with predictable behavior,1,G06F
+11880369,2024-01-23,Pruning data based on state of top K operator,1,G06F
+11880364,2024-01-23,Predictive resource allocation for distributed query execution,4,G06F|G06N
+11876802,2024-01-16,Loading and unloading data at an external storage location,0,G06F|H04L
+11874824,2024-01-16,Identifying software regressions based on query retry attempts in a database environment,1,G06F
+11874818,2024-01-16,Tracking changes in database data,0,G06F
+11870895,2024-01-09,Distributed secret storage and authorization,0,H04L
+11869051,2024-01-09,Usage monitoring and usage based data pricing,0,G06F|G06Q
+11868502,2024-01-09,Row-level security,1,G06F
+11868496,2024-01-09,Nested row access policies,0,G06F
+11868369,2024-01-09,Resource management systems and methods,0,A61F|G06F|H04L
+11868352,2024-01-09,Systems and methods for spilling data for hash joins,0,G06F
+11868326,2024-01-09,Hyperparameter tuning in a database environment,0,G06F|G06N
+11868317,2024-01-09,Systems and methods for attachable-and-detachable database sessions,0,G06F|H04L
+11861033,2024-01-02,Identity resolution and data enrichment application framework,1,G06F
+11861032,2024-01-02,Adaptive differentially private count,2,G06F
+11860896,2024-01-02,Data object replication using a replication sequence,0,G06F
+11860850,2024-01-02,Stream object type for query processing,0,G06F
+11853329,2023-12-26,Metadata classification,1,G06F|G06N
+11853323,2023-12-26,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11853295,2023-12-26,Generation of views with restrictions on use,1,G06F|H04L
+11853274,2023-12-26,Efficient deduplication of randomized file paths,0,G06F
+11843608,2023-12-12,Managing version sharing in a data exchange,0,G06F|H04L
+11842215,2023-12-12,Autoscaling and throttling in an elastic cloud service,0,G06F
+11841969,2023-12-12,Container-centric access control on database objects,1,G06F
+11841877,2023-12-12,System for regional database replication,1,G06F|G06Q
+11841875,2023-12-12,Database sharing in a virtual private deployment,0,G06F|H04L
+11841849,2023-12-12,Systems and methods for efficiently querying external tables,1,G06F
+11838373,2023-12-05,Remote execution using a global identity,1,G06F|H04L
+11838360,2023-12-05,Sharing of data share metrics to customers,0,G06F|H04L
+11838293,2023-12-05,Private data exchange metrics sharing,0,G06F|H04L
+11836138,2023-12-05,Overlap results data generation on a cloud data platform,2,G06F
+11836132,2023-12-05,Managing persistent database result sets,0,G06F|H04L
+11824899,2023-11-21,Securely managing network connections,0,G06F|H04L
+11822689,2023-11-21,Fine-grained access control via database roles,0,G06F
+11822645,2023-11-21,Tracing function execution in a database system,0,G06F
+11822582,2023-11-21,Metadata clustering,0,G06F
+11822554,2023-11-21,Symmetric query processing in a database clean room,4,G06F
+11816582,2023-11-14,Heuristic search for k-anonymization,0,G06F|G06N
+11816248,2023-11-14,Query processing using data clean rooms,1,G06F
+11816239,2023-11-14,Privilege based access checks for query results,0,G06F|H04L
+11816107,2023-11-14,Index generation using lazy reassembling of semi-structured data,0,G06F
+11811639,2023-11-07,Cloud agnostic service discovery,0,H04L
+11810089,2023-11-07,Data exchange-based platform,0,G06F|G06Q|H04L
+11809922,2023-11-07,Sharing events and other metrics in native applications,0,G06F
+11809916,2023-11-07,Deadlock detection in distributed databases,0,G06F
+11809600,2023-11-07,Data clean room,0,G06F
+11809591,2023-11-07,Column hiding management system,0,G06F
+11809586,2023-11-07,Shared object discovery techniques,1,G06F
+11809451,2023-11-07,Caching systems and methods,0,A61F|G06F|H04L
+11809428,2023-11-07,Scalable query processing,2,G06F
+11809425,2023-11-07,Function memoization in query processing system,1,G06F
+11809414,2023-11-07,Serialization of data in a concurrent transaction processing distributed database,1,G06F
+11809408,2023-11-07,Incremental refresh of a materialized view,0,G06F
+11805167,2023-10-31,Creating a global data sharing listing,1,G06F|H04L
+11803552,2023-10-31,Extending database external functions with user-defined functions,1,G06F
+11803551,2023-10-31,Pruning index generation and enhancement,2,G06F
+11803432,2023-10-31,Data clean rooms using defined access,3,G06F
+11803373,2023-10-31,Application versioning and upgrade,1,G06F
+11797608,2023-10-24,Synchronizing file-catalog table with file stage,3,G06F
+11797497,2023-10-24,Bundle creation and distribution,0,G06F
+11797483,2023-10-24,Data pruning based on metadata,0,G06F
+11789726,2023-10-17,Semantic functional wrappers of services,1,G06F
+11783078,2023-10-10,Database redaction for semi-structured and unstructured data,2,G06F
+11782950,2023-10-10,Resource management systems and methods,1,A61F|G06F|H04L
+11782890,2023-10-10,Identification of optimal cloud resources for executing workloads,0,G06F
+11775669,2023-10-03,Secure shared data application access,3,G06F
+11775563,2023-10-03,Low latency ingestion into a data system,1,G06F
+11775559,2023-10-03,Distributing large amounts of global metadata using object files,2,G06F|G06Q
+11775544,2023-10-03,Feature sets using semi-structured data storage,1,G06F
+11770292,2023-09-26,Extending remote diagnosis cloud services,0,G06F|H04L|H04W
+11768953,2023-09-26,Data sharing using secure views,0,G06F
+11763029,2023-09-19,Data clean rooms using defined access with homomorphic encryption,4,G06F
+11763020,2023-09-19,Data sharing using alias objects,0,G06F
+11762978,2023-09-19,Granular access control of packages,1,G06F
+11762855,2023-09-19,Incremental maintenance of query results,3,G06F
+11762846,2023-09-19,Key prefix driven data encryption in tree structures,4,G06F|H04L
+11762838,2023-09-19,Table data processing using partition metadata,0,G06F
+11762702,2023-09-19,Resilience testing using a declarative engine for workloads (DEW),0,G06F
+11755778,2023-09-12,Horizontally-scalable data de-identification,0,G06F
+11755769,2023-09-12,Differentially private query budget refunding,1,G06F
+11755617,2023-09-12,Accessing data of catalog objects,0,A61F|G06F|H04L
+11755581,2023-09-12,Cutoffs for pruning of database queries,0,G06F
+11755576,2023-09-12,Data-driven task-execution scheduling using machine learning,48,G06F
+11755568,2023-09-12,Execution and consistency model for materialized tables,0,G06F
+11755311,2023-09-12,Versioned schema,1,G06F
+11755291,2023-09-12,Registration of multiple user defined functions,2,G06F
+11750661,2023-09-05,First class database object web application,3,G06F|H04L
+11750452,2023-09-05,Fail-over in cloud services,0,G06F|H04L|H04W
+11750406,2023-09-05,Certificate revocation check proxy service,1,H04L
+11748375,2023-09-05,Query processing distribution,0,A61F|G06F|H04L
+11748374,2023-09-05,Replication group objects configuration in a network-based database system,1,G06F
+11748338,2023-09-05,Auto refresh of directory tables for stages,0,G06F
+11748327,2023-09-05,Streams using persistent tables,0,G06F
+11748318,2023-09-05,Schema evolution,1,G06F
+11748155,2023-09-05,Declarative engine for workloads,0,G06F
+11743324,2023-08-29,System and method for global data sharing,0,G06F|H04L
+11736483,2023-08-22,Accessing external resources using remotely stored credentials,1,G06F|H04L
+11736438,2023-08-22,Secure message exchange between deployments,2,H04L
+11736346,2023-08-22,Monitoring status information of devices,1,G06F|H04L|H04W
+11736345,2023-08-22,System and method for extending cloud services into the customer premise,0,G06F|H04L|H04W
+11734451,2023-08-22,Secure continuous compliance enforcement on a data exchange system,0,G06F
+11734307,2023-08-22,Caching systems and methods,1,A61F|G06F|H04L
+11734304,2023-08-22,Query processing distribution,3,A61F|G06F|H04L
+11734303,2023-08-22,Query processing distribution,7,A61F|G06F|H04L
+11734301,2023-08-22,Selective table replication to enable stream replication,1,G06F
+11734116,2023-08-22,Infrastructure for automating rollout of database changes,1,G06F
+11727139,2023-08-15,Row-level security,1,G06F
+11727136,2023-08-15,Data sharing using alias objects,0,G06F
+11727013,2023-08-15,Optimized processing of data in different formats,2,G06F
+11726996,2023-08-15,Analyzing query comments for identifying potential software bugs,0,G06F
+11726976,2023-08-15,Database encoding and decoding for database functions,4,G06F
+11726959,2023-08-15,Data pruning based on metadata,0,G06F
+11709866,2023-07-25,Scalable compaction in a concurrent transaction processing distributed database,2,G06F
+11709837,2023-07-25,Performing geospatial-function join using implied interval join,0,G06F
+11709818,2023-07-25,Managing concurrent transactions in database systems,0,G06F
+11709808,2023-07-25,Schema evolution for the serialization of non-primary key columnar data into row-organized byte sequences,1,G06F
+11704338,2023-07-18,Replication of share across deployments in database system,0,G06F|H04L
+11704320,2023-07-18,Processing queries using an index generated based on data segments,1,G06F
+11704306,2023-07-18,Restricted views to control information access in a database system,1,G06F|H04L
+11704305,2023-07-18,Optimizations for long-lived statements in a database system,1,G06F
+11704200,2023-07-18,Quiesce notifications for query retries,1,G06F
+11704199,2023-07-18,Data replication with cross replication group references,1,G06F|H04L
+11704176,2023-07-18,Stored procedures in a database system,1,G06F
+11704100,2023-07-18,Inline compilation of user defined functions,0,G06F
+11698886,2023-07-11,Cluster instance balancing of a database system across zones,1,G06F|H04L
+11687563,2023-06-27,Scaling capacity of data warehouses to user-defined levels,0,A61F|G06F|H04L
+11687531,2023-06-27,Estimated execution time for query execution,1,G06F
+11687506,2023-06-27,Similarity-based listing recommendations in a data exchange,0,G06F|G06Q
+11687436,2023-06-27,Auto insights into data changes,0,G06F|G06N
+11687373,2023-06-27,Flexible computing,1,G06F|H04L
+11681708,2023-06-20,Indexed regular expression search with N-grams,1,G06F
+11681583,2023-06-20,Cluster diagnostics data for distributed job execution,0,G06F
+11675815,2023-06-13,Multi-cluster warehouse,0,G06F|H04L
+11675806,2023-06-13,Aggregate and transactional networked database query processing,0,G06F
+11675784,2023-06-13,Configuring parallelism parameters for invocation of external table functions,0,G06F|H04L
+11675780,2023-06-13,Partition-based scanning of external tables for query processing,0,G06F
+11675640,2023-06-13,External function invocation by a data system,0,G06F|H04L
+11671491,2023-06-06,Sharing of data share metrics to customers,0,G06F|H04L
+11671459,2023-06-06,Managing network connections based on their endpoints,0,G06F|H04L
+11669630,2023-06-06,Background service to generate data dictionary metadata,3,G06F
+11669427,2023-06-06,Query-attempt processing in a database environment,0,G06F
+11651287,2023-05-16,Privacy-preserving multi-party machine learning using a database cleanroom,5,G06F|G06N
+11647013,2023-05-09,Encryption of data via public key cryptography with certificate verification of target,0,H04L
+11645413,2023-05-09,Secure document sharing using a data exchange listing,3,G06F|H04L
+11645306,2023-05-09,Database configurations for remote deployments,2,G06F
+11645305,2023-05-09,Resource management systems and methods,0,A61F|G06F|H04L
+11645298,2023-05-09,Configuring managed event tables using execution node processes,1,G06F
+11645281,2023-05-09,Caching query plans in database systems,1,G06F
+11645275,2023-05-09,Tracking object dependency information in a cloud system,1,G06F
+11645262,2023-05-09,Tracking lineage of database data,1,G06F
+11645244,2023-05-09,Share replication between remote deployments,0,G06F
+11645243,2023-05-09,Accessing files in a database stage using a user defined function,3,G06F
+11645232,2023-05-09,Catalog query framework on distributed key value store,1,G06F
+11640458,2023-05-02,Tracing user-defined functions in a database system,1,G06F
+11640412,2023-05-02,Materialized view sub-database replication,1,G06F|G06Q
+11640347,2023-05-02,Automated query retry execution in a database system,2,G06F
+11637836,2023-04-25,Managing version sharing in a data exchange,0,G06F|H04L
+11636126,2023-04-25,Configuring query result information for result data obtained at multiple execution stages,3,G06F
+11636114,2023-04-25,Multi-level data for database systems,0,G06F
+11636110,2023-04-25,Metadata search via N-Gram index,1,G06F
+11632251,2023-04-18,Commit signing service,0,G06F|H04L
+11630853,2023-04-18,Metadata classification,2,G06F|G06N
+11630850,2023-04-18,Multi-cluster warehouse,0,G06F|H04L
+11630845,2023-04-18,Data replication and data failover in database systems,2,G06F|H04L
+11625367,2023-04-11,Schema evolution,1,G06F
+11625242,2023-04-11,Automated generation of dependency hierarchy based on input and output requirements of information,0,G06F
+11621859,2023-04-04,Client side certificate revocation service,1,H04L
+11620409,2023-04-04,Secure data comparison using data clean rooms,1,G06F
+11620395,2023-04-04,Replication of account security configurations,1,G06F|H04L
+11620313,2023-04-04,Multi-cluster warehouse,0,G06F|H04L
+11620310,2023-04-04,Cross-organization and cross-cloud automated data pipelines,13,G06F
+11620308,2023-04-04,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11620307,2023-04-04,Stage replication in a cloud data lake,0,G06F
+11620289,2023-04-04,Data-driven query-execution scheduling,3,G06F
+11620287,2023-04-04,Framework for providing intermediate aggregation operators in a query plan,1,G06F
+11620281,2023-04-04,Tracking intermediate changes in database data,0,G06F
+11620276,2023-04-04,Background job based fulfillment for managed account objects,2,G06F
+11620110,2023-04-04,Registration of multiple user defined functions,4,G06F
+11615118,2023-03-28,Multi-cluster warehouse,0,G06F|H04L
+11615117,2023-03-28,Multi-cluster warehouse,0,G06F|H04L
+11615114,2023-03-28,Cloning catalog objects,0,A61F|G06F|H04L
+11615095,2023-03-28,Automatic pruning cutoff in a database system,1,G06F
+11615092,2023-03-28,Lightweight database pipeline scheduler,2,G06F
+11615086,2023-03-28,System and method for disjunctive joins,0,G06F
+11615067,2023-03-28,Transactional stores of change tracking data,2,G06F
+11609970,2023-03-21,Enhanced time series forecasting,0,G06F|G06N
+11609927,2023-03-21,Storing feature sets using semi-structured data storage,1,G06F
+11599556,2023-03-07,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11599550,2023-03-07,Accessing listings in a data exchange,0,G06F
+11599537,2023-03-07,System and method for disjunctive joins,0,G06F
+11599512,2023-03-07,Schema inference for files,7,G06F
+11599440,2023-03-07,Automated query retry in a database system,2,G06F
+11599389,2023-03-07,Autoscaling in an elastic cloud service,1,G06F
+11595399,2023-02-28,Private data exchange metrics sharing,0,G06F|H04L
+11593521,2023-02-28,Tag-based application of masking policy,1,G06F
+11593509,2023-02-28,Native applications using database roles,0,G06F|G06Q
+11593404,2023-02-28,Multi-cluster warehouse,0,G06F|H04L
+11593403,2023-02-28,Multi-cluster warehouse,0,G06F|H04L
+11593379,2023-02-28,Join query processing using pruning index,3,G06F
+11593368,2023-02-28,Maintenance of clustered materialized views on a database system,2,G06F
+11593354,2023-02-28,Namespace-based system-user access of database platforms,1,G06F
+11593345,2023-02-28,Accelerating change data capture determination using row bitsets,0,G06F
+11593310,2023-02-28,Providing writable streams for external data sources,1,G06F
+11593306,2023-02-28,File defragmentation service,0,G06F
+11593212,2023-02-28,Prevention and mitigation of corrupt database data,1,G06F
+11586761,2023-02-21,Encrypting database files,0,G06F
+11586621,2023-02-21,Parallel scan of single file using multiple threads,0,G06F
+11586515,2023-02-21,Data ingestion replication and disaster recovery,1,G06F
+11580251,2023-02-14,Query-based database redaction,0,G06F
+11580245,2023-02-14,Fine-grained access control via database roles,0,G06F
+11580103,2023-02-14,System and method for disjunctive joins using a lookup table,0,G06F
+11580070,2023-02-14,Utilizing metadata to prune a data set,0,G06F
+11574072,2023-02-07,Dynamic shared data object masking,1,G06F
+11573978,2023-02-07,Cloning catalog objects,0,A61F|G06F|H04L
+11570259,2023-01-31,Remote execution using a global identity,2,G06F|H04L
+11570245,2023-01-31,Sharing of data share metrics to customers,1,G06F|H04L
+11568320,2023-01-31,Handling system-characteristics drift in machine learning applications,0,G06F|G06N
+11568079,2023-01-31,Secure data point matching in a multiple tenant database system,0,G06F|H04L
+11567943,2023-01-31,Restricted queries in a database clean room,12,G06F
+11567939,2023-01-31,Lazy reassembling of semi-structured data,2,G06F
+11561946,2023-01-24,Hyperparameter tuning in a database environment,4,G06F|G06N
+11550845,2023-01-10,Accessing files in a database stage using a user defined function,7,G06F
+11550793,2023-01-10,Systems and methods for spilling data for hash joins,0,G06F
+11544401,2023-01-03,Sharing cloud data with an application,1,G06F
+11544399,2023-01-03,Container-centric access control on database objects,3,G06F
+11544287,2023-01-03,Cloning catalog objects,0,A61F|G06F|H04L
+11544269,2023-01-03,Index to support processing of pattern matching queries,5,G06F
+11544263,2023-01-03,Dynamic query execution using estimated execution time,1,G06F
+11544262,2023-01-03,Transient materialized view rewrite,1,G06F
+11544244,2023-01-03,Selecting partitions for reclustering based on distribution of overlapping partitions,0,G06F
+11544224,2023-01-03,Systems and methods for attachable-and-detachable database sessions,1,G06F|H04L
+11539677,2022-12-27,Message-based database replication,0,G06F|H04L
+11539672,2022-12-27,Private virtual network replication of cloud databases,0,G06F|H04L
+11537614,2022-12-27,Implementing multidimensional two-sided interval joins using sampling-based input-domain demarcation,1,G06F
+11537613,2022-12-27,Merge small file consolidation,3,G06F
+11537566,2022-12-27,Zone balancing in a multi cluster database system,2,G06F|H04L
+11531681,2022-12-20,Accessing listings in a data exchange,0,G06F
+11528212,2022-12-13,Cloud agnostic service discovery,1,H04L
+11526517,2022-12-13,Real-time streaming data ingestion into database tables,4,G06F
+11522860,2022-12-06,Storage integration with an external storage location,3,G06F|H04L
+11520920,2022-12-06,Share object discovery techniques,5,G06F
+11516216,2022-11-29,Auditing for remotely stored credentials,1,G06F|H04L
+11516023,2022-11-29,Client side certificate revocation service,2,H04L
+11516022,2022-11-29,Certificate revocation check proxy service,2,H04L
+11514080,2022-11-29,Cross domain transactions,2,G06F
+11514064,2022-11-29,Resource provisioning in database systems,1,G06F
+11514057,2022-11-29,System for implementing an object sharing framework,4,G06F
+11514047,2022-11-29,Performing geospatial-function joins using interval joins,1,G06F
+11514023,2022-11-29,Stream object type for query processing,2,G06F
+11514022,2022-11-29,Streams on shared database objects,0,G06F
+11513859,2022-11-29,Flexible computing,1,G06F|H04L
+11509526,2022-11-22,Distributed cloud agents for managing cloud services,0,G06F|H04L|H04W
+11507685,2022-11-22,Privilege based access checks for query results,3,G06F|H04L
+11507598,2022-11-22,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11507571,2022-11-22,Materialized views over external tables in database systems,0,G06F
+11507570,2022-11-22,Scheduling data processing tasks using a stream of tracking entries,1,G06F
+11507465,2022-11-22,Query retry using quiesce notification,1,G06F
+11501021,2022-11-15,Horizontally-scalable data de-identification,1,G06F
+11501015,2022-11-15,Secure machine learning using shared data in a distributed database,2,G06F|G06N
+11501010,2022-11-15,Application-provisioning framework for database platforms,1,G06F|H04L
+11500900,2022-11-15,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11500838,2022-11-15,Feature release and workload capture in database systems,0,G06F
+11496524,2022-11-08,Securely managing network connections,0,G06F|H04L
+11494513,2022-11-08,Row-level security,2,G06F
+11494500,2022-11-08,Account security configuration replication,2,G06F|H04L
+11494438,2022-11-08,Population of file-catalog table for file stage,5,G06F
+11494411,2022-11-08,Replication of account object metadata in a network-based database system,2,G06F
+11494407,2022-11-08,Query plans for analytic SQL constructs,0,A61F|G06F|H04L
+11494386,2022-11-08,Distributed metadata-based cluster computing,1,G06F|H04L
+11494385,2022-11-08,Multidimensional two-sided interval joins on hash-equality-join infrastructure,1,G06F
+11494384,2022-11-08,Processing queries on semi-structured data columns,5,G06F
+11494379,2022-11-08,Pre-filter deduplication for multidimensional two-sided interval joins,1,G06F
+11494369,2022-11-08,Identifying software regressions based on query retry attempts in a database environment,1,G06F
+11494352,2022-11-08,Efficient deduplication of randomized file paths,0,G06F
+11494337,2022-11-08,Data pruning based on metadata,0,G06F
+11494182,2022-11-08,Automated generation of dependency hierarchy based on input and output requirements of information,0,G06F
+11487893,2022-11-01,Fine-grained access control via database roles,0,G06F
+11487870,2022-11-01,Logging from user-defined functions,1,G06F
+11487788,2022-11-01,Low latency ingestion into a data system,1,G06F
+11487786,2022-11-01,Query plans for analytic SQL constructs,0,A61F|G06F|H04L
+11487778,2022-11-01,Managed event tables in a database system,3,G06F
+11487763,2022-11-01,Pruning using prefix indexing,2,G06F
+11487597,2022-11-01,Stored procedures in a network based database system,3,G06F
+11475044,2022-10-18,Resource provisioning systems and methods,1,A61F|G06F|H04L
+11475011,2022-10-18,Pruning cutoffs for database systems,1,G06F
+11474799,2022-10-18,Providing code translation related to resilient distributed datasets in database systems,0,G06F
+11470089,2022-10-11,Private data exchange metrics sharing,0,G06F|H04L
+11468195,2022-10-11,Multiple cloud and region data clean rooms,3,G06F
+11468079,2022-10-11,Partitioning to support invocation of external table functions on multiple batches of input rows,4,G06F|H04L
+11468063,2022-10-11,Aggregation operator optimization during query runtime,2,G06F
+11468032,2022-10-11,Concurrent transaction processing in a database system,2,G06F
+11467945,2022-10-11,Resilience testing engine,2,G06F
+11463508,2022-10-04,System and method for global data sharing,0,G06F|H04L
+11461493,2022-10-04,Data overlap count adjustment in a multiple tenant database system,0,G06F|H04L
+11461351,2022-10-04,Semi-structured data storage and processing functionality to store sparse feature sets,6,G06F
+11461335,2022-10-04,Optimized processing of data in different formats,6,G06F
+11461327,2022-10-04,Query plan caching for networked database systems,8,G06F
+11461326,2022-10-04,Scalable query processing,3,G06F
+11461325,2022-10-04,Checkpoints in batch file processing,3,G06F
+11461309,2022-10-04,Incremental refresh of a materialized view,1,G06F
+11461285,2022-10-04,Share replication between remote deployments,0,G06F
+11461274,2022-10-04,Processing streams on external data sources,1,G06F
+11461150,2022-10-04,Autoscaling and throttling in an elastic cloud service,2,G06F
+11461080,2022-10-04,Inline compilation of user defined functions,8,G06F
+11449520,2022-09-20,Parallel fetching of query result data,4,G06F
+11442917,2022-09-13,Incremental reclustering based on local maxima of partition overlap,0,G06F
+11436363,2022-09-06,Secure document sharing in a database system,2,G06F|H04L
+11436362,2022-09-06,Native applications using database roles,1,G06F|G06Q
+11436257,2022-09-06,System for implementing sub-database replication,4,G06F|G06Q
+11436255,2022-09-06,Automated database replication at a remote deployment,3,G06F
+11436253,2022-09-06,Distributed stop operator for limit queries,0,G06F
+11436245,2022-09-06,Parallel fetching in a database system,4,G06F
+11436212,2022-09-06,Concurrent transaction processing in a database system,2,G06F
+11429639,2022-08-30,Push model for intermediate query results,0,A61F|G06F|H04L
+11429638,2022-08-30,Systems and methods for scaling data warehouses,1,A61F|G06F|H04L
+11429605,2022-08-30,System and method for disjunctive joins,1,G06F
+11423081,2022-08-23,Accessing files in a database stage using a user defined function,6,G06F
+11418577,2022-08-16,System and method for global data sharing,1,G06F|H04L
+11416463,2022-08-16,Incremental feature development and workload capture in database systems,0,G06F
+11409864,2022-08-09,Tracing supervisor for UDFs in a database system,4,G06F
+11409768,2022-08-09,Resource management systems and methods,0,A61F|G06F|H04L
+11409632,2022-08-09,Resilience testing engine in a database system,0,G06F
+11409626,2022-08-09,Decoupling internal and external tasks in a database environment,3,G06F
+11403298,2022-08-02,Extending database external functions with user-defined functions,4,G06F
+11403296,2022-08-02,Point-based relation splitting in geospatial-function-implied interval joins,0,G06F
+11403294,2022-08-02,Smart scan hash join optimization,1,G06F
+11403275,2022-08-02,Incremental reclustering of database tables using reclustering-count levels,1,G06F
+11403259,2022-08-02,Catalog query framework on distributed key value store,1,G06F
+11397826,2022-07-26,Row-level security,3,G06F
+11397748,2022-07-26,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11397747,2022-07-26,Query plans for analytic SQL constructs,0,A61F|G06F|H04L
+11397729,2022-07-26,Systems and methods for pruning external data,5,G06F
+11397720,2022-07-26,Table data processing using a change tracking stream,3,G06F
+11386222,2022-07-12,Data overlap count in a multiple tenant database system,0,G06F|H04L
+11386220,2022-07-12,Data sharing in a multi-tenant database system,0,G06F
+11386059,2022-07-12,Optimized identification of performance regression,0,G06F
+11379605,2022-07-05,Data sharing using secure views,0,G06F
+11379492,2022-07-05,Internal resource provisioning in database systems,2,G06F
+11379480,2022-07-05,Parallel execution of query sub-plans,0,G06F
+11379459,2022-07-05,Alerts based on historical event-occurrence data,0,G06F
+11374908,2022-06-28,Private virtual network replication of cloud databases,2,G06F|H04L
+11372995,2022-06-28,Container-centric access control on database objects,3,G06F
+11372891,2022-06-28,System for implementing sub-database replication,4,G06F|G06Q
+11372888,2022-06-28,Adaptive distribution for hash operations,0,A61F|G06F|H04L
+11372882,2022-06-28,"Reverse extract, transform, load (ETL) tool",4,G06F
+11372860,2022-06-28,Processing techniques for queries where predicate values are unknown until runtime,6,G06F
+11372820,2022-06-28,Zone balancing in a multi cluster database system,16,G06F|H04L
+11372740,2022-06-28,Decoupling internal and external tasks in a database environment,3,G06F
+11372679,2022-06-28,Providing resources using predicted size values,0,G06F|G06N
+11368495,2022-06-21,Securely managing network connections,0,G06F|H04L
+11366926,2022-06-21,Secure data sharing in a multi-tenant database system,0,G06F
+11366920,2022-06-21,Fine-grained access control via database roles,0,G06F
+11361026,2022-06-14,Accessing files in a database stage using a user defined function,8,G06F
+11360995,2022-06-14,Accessing listings in a data exchange,1,G06F
+11360989,2022-06-14,Resource provisioning in database systems,2,G06F
+11354334,2022-06-07,Cloning catalog objects,0,A61F|G06F|H04L
+11354331,2022-06-07,Export data from tables into partitioned folders on an external data lake,1,G06F
+11354316,2022-06-07,Systems and methods for selective scanning of external partitions,2,G06F
+11349952,2022-05-31,Remote execution using a global identity,2,G06F|H04L
+11347886,2022-05-31,Secure multi-party encrypted identifier data sharing,11,G06F|H04L
+11347775,2022-05-31,Export data from tables into partitioned folders on an external data lake,1,G06F
+11347773,2022-05-31,Replicating a database at a remote deployment,5,G06F
+11347770,2022-05-31,Cloning catalog objects,0,A61F|G06F|H04L
+11347738,2022-05-31,Detecting data skew in a join operation,0,G06F|H04L
+11347735,2022-05-31,Scalable query processing,4,G06F
+11347730,2022-05-31,Object dependency tracking in a cloud database system,10,G06F
+11347728,2022-05-31,Notifying modifications to external tables in database systems,1,G06F
+11347714,2022-05-31,Tracking changes in database data,3,G06F
+11347550,2022-05-31,Autoscaling and throttling in an elastic cloud service,3,G06F
+11347527,2022-05-31,Secure table-valued functions in a cloud database,3,G06F
+11347485,2022-05-31,"Secure, scalable, table-valued functions in a cloud database",0,G06F
+11341264,2022-05-24,Enabling application access to cloud data,3,G06F
+11341162,2022-05-24,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11334604,2022-05-17,Private data exchange,0,G06F
+11334597,2022-05-17,Resource management systems and methods,0,A61F|G06F|H04L
+11323506,2022-05-03,System and method for global data sharing,0,G06F|H04L
+11321352,2022-05-03,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11321325,2022-05-03,Pruning index generation for pattern matching queries,13,G06F
+11321309,2022-05-03,Tracking intermediate changes in database data,3,G06F
+11321290,2022-05-03,Incremental feature development and workload capture in database systems,6,G06F
+11321279,2022-05-03,Attachable-and-detachable database sessions,1,G06F|H04L
+11321212,2022-05-03,Auto insights into data changes,2,G06F|G06N
+11321209,2022-05-03,Query-attempt assignment in a database environment,1,G06F
+11321154,2022-05-03,Stored procedures in a network based database system,3,G06F
+11316866,2022-04-26,Managing membership rights in a data exchange,0,G06F|H04L
+11314875,2022-04-26,Replication of account security features in multiple deployment database,4,G06F|H04L
+11314777,2022-04-26,Data replication and data failover in database systems,0,G06F|H04L
+11314740,2022-04-26,Responsive plan stability,2,G06F
+11308116,2022-04-19,Accessing listings in a data exchange,0,G06F
+11308090,2022-04-19,Pruning index to support semi-structured data types,10,G06F
+11308089,2022-04-19,Pruning index maintenance,14,G06F
+11308078,2022-04-19,Triggers of scheduled tasks in database systems,4,G06F
+11307852,2022-04-19,Automated generation of dependency graph based on input and output requirements of information,2,G06F
+11301478,2022-04-12,System for implementing an object tagging framework,6,G06F
+11301472,2022-04-12,"Systems, methods, and devices for managing data skew in a join operation",0,G06F|H04L
+11301451,2022-04-12,Database object type for querying and transactional consumption of changes in queries results,4,G06F
+11295030,2022-04-05,Data sharing using alias objects,0,G06F
+11295009,2022-04-05,Managing execution of a user defined function,0,G06F|H04L
+11294933,2022-04-05,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11294895,2022-04-05,Systems and methods for generating anonymized software-bug alerts from query comments,2,G06F
+11294890,2022-04-05,Batch data ingestion in database systems,1,G06F
+11294882,2022-04-05,Transactional processing of change tracking data,3,G06F
+11294868,2022-04-05,Share replication between remote deployments,0,G06F
+11294861,2022-04-05,Data pruning based on metadata,2,G06F
+11290496,2022-03-29,Securely managing network connections,0,G06F|H04L
+11290433,2022-03-29,Message-based database replication,0,G06F|H04L
+11288393,2022-03-29,Data sharing using alias objects,0,G06F
+11275739,2022-03-15,Prefix indexing,5,G06F
+11275738,2022-03-15,Prefix N-gram indexing,5,G06F
+11271936,2022-03-08,Database system integrations with external storage locations,4,G06F|H04L
+11270020,2022-03-08,Privilege based access checks for query results,4,G06F|H04L
+11269921,2022-03-08,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11269920,2022-03-08,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11269919,2022-03-08,Resource management systems and methods,0,A61F|G06F|H04L
+11269913,2022-03-08,"Reverse extract, transform, load (ETL) tool",5,G06F
+11269869,2022-03-08,Processing of queries over external tables,1,G06F
+11269868,2022-03-08,Automated maintenance of external tables in database systems,2,G06F
+11269866,2022-03-08,Task scheduling and querying in database systems,1,G06F
+11265328,2022-03-01,Private data exchange metrics sharing,0,G06F|H04L
+11263234,2022-03-01,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11250023,2022-02-15,Cloning catalog objects,0,A61F|G06F|H04L
+11250006,2022-02-15,Real-time streaming data ingestion into database tables,5,G06F
+11250005,2022-02-15,Distributed metadata-based cluster computing,1,G06F|H04L
+11249988,2022-02-15,Account-level namespaces for database platforms,1,G06F
+11249850,2022-02-15,Cluster diagnostics data for distributed job execution,0,G06F
+11249829,2022-02-15,Refreshing security credentials used to invoke an external function,2,G06F|H04L
+11244067,2022-02-08,Data cloud connected applications,4,G06F
+11243947,2022-02-08,Handshake protocol to facilitate invocation of external table functions,5,G06F|H04L
+11243820,2022-02-08,Distributed deadlock detection and resolution in distributed databases,2,G06F
+11243811,2022-02-08,Managing freepool resources using predicted size values,2,G06F|G06N
+11238062,2022-02-01,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11238061,2022-02-01,Adaptive distribution method for hash operations,2,A61F|G06F|H04L
+11238060,2022-02-01,Query plans for analytic SQL constructs,0,A61F|G06F|H04L
+11232130,2022-01-25,Push model for intermediate query results,0,A61F|G06F|H04L
+11223603,2022-01-11,Private virtual network replication of cloud databases,2,G06F|H04L
+11222141,2022-01-11,Multiple cloud and region data clean rooms,3,G06F
+11222071,2022-01-11,File-catalog table for file stage,8,G06F
+11222019,2022-01-11,Automatic pruning cutoff in a database system,3,G06F
+11216582,2022-01-04,Secure data sharing in a multi-tenant database system,2,G06F
+11216581,2022-01-04,Secure document sharing in a database system,16,G06F|H04L
+11216580,2022-01-04,Secure machine learning using shared data in a distributed database,14,G06F|G06N
+11216485,2022-01-04,Push model for scheduling query plans,0,A61F|G06F|H04L
+11216484,2022-01-04,Resource management systems and methods,0,A61F|G06F|H04L
+11216481,2022-01-04,Virtual warehouse pools for executing tasks,0,G06F|G06N
+11216464,2022-01-04,Multidimensional two-sided interval joins on distributed hash-based-equality-join infrastructure,3,G06F
+11216462,2022-01-04,Transient materialized view rewrite,3,G06F
+11216446,2022-01-04,Identifying software regressions based on query retry attempts in a database environment,4,G06F
+11216421,2022-01-04,Extensible streams for operations on external systems,0,G06F
+11216322,2022-01-04,Stored procedures in a network based database system,4,G06F
+11210415,2021-12-28,Data sharing in a multi-tenant database system,0,G06F
+11204943,2021-12-21,Query plans for analytic SQL constructs,1,A61F|G06F|H04L
+11194814,2021-12-07,Real-time streaming data ingestion into database tables,7,G06F
+11194808,2021-12-07,Multidimensional and multi-relation sampling for implementing multidimensional two-sided interval joins,8,G06F
+11194795,2021-12-07,Automated maintenance of external tables in database systems,10,G06F
+11194782,2021-12-07,Dynamic lineage tracking of database data,3,G06F
+11190524,2021-11-30,Managing membership rights in a data exchange,0,G06F|H04L
+11188674,2021-11-30,"Systems, methods, and devices for encrypting database data",0,G06F
+11188670,2021-11-30,Secure data joins in a multiple tenant database system,3,G06F|H04L
+11188563,2021-11-30,Processing limit queries using distributed stop operator,1,G06F
+11188562,2021-11-30,Adaptive distribution for hash operations,0,A61F|G06F|H04L
+11188528,2021-11-30,Systems and methods for rapid detection of software bugs in SQL-like platforms,4,G06F
+11188502,2021-11-30,Readable and writable streams on external data sources,1,G06F
+11178189,2021-11-16,Managing network connections based on their endpoints,0,G06F|H04L
+11176168,2021-11-16,Resource management systems and methods,0,A61F|G06F|H04L
+11176136,2021-11-16,"Systems, methods, and devices for managing data skew in a join operation",2,G06F|H04L
+11170125,2021-11-09,Data overlap count in a multiple tenant database system,0,G06F|H04L
+11169983,2021-11-09,Transactional streaming of change tracking metadata,4,G06F
+11165775,2021-11-02,Creation of credential-less database system integrations,4,G06F|H04L
+11165640,2021-11-02,Deploying upgrades for cloud services,0,G06F|H04L|H04W
+11165639,2021-11-02,Fail-over in cloud services,0,G06F|H04L|H04W
+11163798,2021-11-02,Database replication to remote deployment with automated fulfillment,6,G06F
+11163797,2021-11-02,Database replication to remote deployment with automated fulfillment,6,G06F
+11163794,2021-11-02,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11163768,2021-11-02,Checkpoints in batch file processing,6,G06F
+11163757,2021-11-02,Querying over external tables in database systems,5,G06F
+11163756,2021-11-02,Querying over external tables in database systems,3,G06F
+11163746,2021-11-02,Reclustering of database tables based on peaks and widths,1,G06F
+11163724,2021-11-02,Data pruning based on metadata,2,G06F
+11159574,2021-10-26,Securely managing network connections,0,G06F|H04L
+11157516,2021-10-26,Resource provisioning systems and methods,3,A61F|G06F|H04L
+11157515,2021-10-26,Cloning catalog objects,0,A61F|G06F|H04L
+11157486,2021-10-26,Task scheduling in database systems,4,G06F
+11151161,2021-10-19,Data replication and data failover in database systems,1,G06F|H04L
+11151160,2021-10-19,Cloning catalog objects,0,A61F|G06F|H04L
+11144550,2021-10-12,Pipeline level optimization of aggregation operators in a query plan during runtime,3,G06F
+11144511,2021-10-12,Share replication between remote deployments,5,G06F
+11138340,2021-10-05,Multiple cloud and region data clean rooms,15,G06F
+11138232,2021-10-05,Export data from tables into partitioned folders on an external data lake,6,G06F
+11138214,2021-10-05,Internal resource provisioning in database systems,6,G06F
+11138213,2021-10-05,Internal resource provisioning in database systems,4,G06F
+11138192,2021-10-05,Invoking external table functions from a database system,14,G06F|H04L
+11138190,2021-10-05,Materialized views over external tables in database systems,5,G06F
+11138167,2021-10-05,Optimized identification of performance regression,1,G06F
+11138038,2021-10-05,Adaptive freepool size prediction,2,G06F|G06N
+11134061,2021-09-28,Private virtual network replication of cloud databases,3,G06F|H04L
+11132380,2021-09-28,Resource management systems and methods,0,A61F|G06F|H04L
+11132243,2021-09-28,Invoking external functions from a data system,3,G06F|H04L
+11126640,2021-09-21,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11126484,2021-09-21,Invoking external table functions from a data system,5,G06F|H04L
+11113390,2021-09-07,Secure execution of a user defined function,1,G06F|H04L
+11113286,2021-09-07,Generation of pruning index for pattern matching queries,19,G06F
+11113279,2021-09-07,Materialized views based on access rights,0,G06F
+11113278,2021-09-07,Data sharing and materialized views in multiple tenant database systems,0,G06F
+11113151,2021-09-07,Cluster diagnostics data for distributed job execution,2,G06F
+11108829,2021-08-31,Managing network connections based on their endpoints,0,G06F|H04L
+11106704,2021-08-31,Maintaining states of partitions of a table for adjusting clustering ratios,0,G06F
+11106696,2021-08-31,Resource provisioning systems and methods,8,A61F|G06F|H04L
+11106678,2021-08-31,Storing metadata using data structures in database systems,2,G06F
+11106661,2021-08-31,Tracking intermediate changes in database data,4,G06F
+11106658,2021-08-31,Task scheduling in database systems,10,G06F
+11100142,2021-08-24,Increasing clustering of partitions of a table,0,G06F
+11100111,2021-08-24,Real-time streaming data ingestion into database tables,12,G06F
+11100105,2021-08-24,Performing geospatial-function joins using interval joins,4,G06F
+11100103,2021-08-24,Data sharing in multi-tenant database systems,0,G06F
+11099962,2021-08-24,Filtered query-retry logging in a database environment,2,G06F
+11093524,2021-08-17,Resource provisioning systems and methods,1,A61F|G06F|H04L
+11086900,2021-08-10,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11086875,2021-08-10,Database query processing using a pruning index,19,G06F
+11086841,2021-08-10,Streams on shared database objects,5,G06F
+11086840,2021-08-10,Transactional streaming of change tracking data,5,G06F
+11082483,2021-08-03,System and method for global data sharing,0,G06F|H04L
+11080270,2021-08-03,Caching metadata for a database table,0,G06F
+11080257,2021-08-03,Journaled tables in database systems,6,G06F
+11063911,2021-07-13,Private virtual network replication of cloud databases,4,G06F|H04L
+11057491,2021-07-06,Remote execution using a global identity,6,G06F|H04L
+11057381,2021-07-06,Using remotely stored credentials to access external resources,2,G06F|H04L
+11055430,2021-07-06,Dynamic shared data object masking,1,G06F
+11055315,2021-07-06,System for implementing sub-database replication,5,G06F|G06Q
+11055291,2021-07-06,Generating data structures for storing database metadata,1,G06F
+11055280,2021-07-06,Batch data ingestion in database systems,16,G06F
+11055262,2021-07-06,Extensible streams on data sources,3,G06F
+11055193,2021-07-06,Multi-version query retry in a database environment,3,G06F
+11055142,2021-07-06,Flexible computing,3,G06F|H04L
+11048817,2021-06-29,Share based data overlap count in a multiple tenant database system,0,G06F|H04L
+11048815,2021-06-29,Secure data sharing in a multi-tenant database system,0,G06F
+11048814,2021-06-29,Data sharing using alias objects,0,G06F
+11048721,2021-06-29,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11048716,2021-06-29,Managed virtual warehouses for tasks,7,G06F|G06N
+11048687,2021-06-29,Transferring metadata from immutable storage,0,G06F
+11042567,2021-06-22,Push model for intermediate query results,1,A61F|G06F|H04L
+11042566,2021-06-22,Cloning catalog objects,0,A61F|G06F|H04L
+11036881,2021-06-15,Secure data sharing in a multi-tenant database system,0,G06F
+11036879,2021-06-15,Receiving access rights to objects,0,G06F
+11036758,2021-06-15,Adaptive distribution method for hash operations,0,A61F|G06F|H04L
+11036739,2021-06-15,Performing geospatial-function join using single interval join,5,G06F
+11036738,2021-06-15,Performing geospatial-function joins using point-based relation splitting,4,G06F
+11030343,2021-06-08,System and method for creating a global data sharing listing,1,G06F|H04L
+11030191,2021-06-08,Querying over external tables in database systems,4,G06F
+11030046,2021-06-08,Cluster diagnostics data for distributed job execution,3,G06F
+11023491,2021-06-01,Limit query processing using distributed stop operator,2,G06F
+11016975,2021-05-25,Scan set pruning for pattern matching queries,24,G06F
+11010407,2021-05-18,Resource provisioning systems and methods,0,A61F|G06F|H04L
+11010378,2021-05-18,System and method for disjunctive joins using a lookup table,2,G06F
+10999355,2021-05-04,System and method for global data sharing,16,G06F|H04L
+10999288,2021-05-04,Modifying membership rights in a data exchange,0,G06F|H04L
+10999279,2021-05-04,Credential-less database system integrations,5,G06F|H04L
+10999261,2021-05-04,Message-based database replication,2,G06F|H04L
+10999252,2021-05-04,Private virtual network replication of cloud databases,5,G06F|H04L
+10997286,2021-05-04,Secure code execution in a database system,15,G06F|H04L
+10997243,2021-05-04,"Supporting unstructured, semi-structured, and structured files",22,G06F
+10997215,2021-05-04,Maintaining states of partitions of a table for reclustering,0,G06F
+10997212,2021-05-04,Storing database metadata in multiple levels,2,G06F
+10997210,2021-05-04,System for implementing sub-database replication,6,G06F|G06Q
+10997207,2021-05-04,Connection management in a distributed database,0,G06F|H04L
+10997201,2021-05-04,Adaptive distribution for hash operation,0,A61F|G06F|H04L
+10997179,2021-05-04,Pruning index for optimization of pattern matching queries,25,G06F
+10997173,2021-05-04,Placement of adaptive aggregation operators and properties in a query plan,4,G06F
+10997169,2021-05-04,Data sharing in database systems,2,G06F
+10997165,2021-05-04,Automated maintenance of external tables in database systems,5,G06F
+10997163,2021-05-04,Data ingestion using file queues,3,G06F
+10997162,2021-05-04,Tracking intermediate changes in database data,4,G06F
+10997157,2021-05-04,Providing new table metadata,0,G06F
+10997152,2021-05-04,Tracking changes in data,5,G06F
+10997151,2021-05-04,Transactional streaming of change tracking data,6,G06F
+10997148,2021-05-04,Processing transactions on journaled tables,0,G06F
+10997147,2021-05-04,Incremental clustering of database tables,8,G06F
+10997121,2021-05-04,Attachable-and-detachable database sessions,12,G06F|H04L
+10997050,2021-05-04,Filtered query-retry logging in a database environment,2,G06F
+10997005,2021-05-04,Establishing data objects to facilitate calls to external functions,5,G06F|H04L
+10990608,2021-04-27,Transferring connections in a multiple deployment database,0,G06F|H04L
+10990576,2021-04-27,Providing snapshots of journal tables,0,G06F
+10983980,2021-04-20,Tracking changes in database data,4,G06F
+10977383,2021-04-13,"Systems, methods, and devices for encrypting database data",1,G06F
+10977278,2021-04-13,Multi-level metadata in database systems,3,G06F
+10977268,2021-04-13,Data exchange,5,G06F
+10977245,2021-04-13,Batch data ingestion,3,G06F
+10977244,2021-04-13,Tracking intermediate changes in database data,7,G06F
+10977241,2021-04-13,Managing versions of database metadata in storage,2,G06F
+10970419,2021-04-06,Data clean room,13,G06F
+10970283,2021-04-06,"Systems, methods, and devices for managing data skew in a join operation",3,G06F|H04L
+10970282,2021-04-06,"Systems, methods, and devices for managing data skew in a join operation",3,G06F|H04L
+10963443,2021-03-30,Reclustering of database tables using level information,4,G06F
+10963428,2021-03-30,Multi-range and runtime pruning,0,G06F
+10956445,2021-03-23,Push model for intermediate query results,5,A61F|G06F|H04L
+10956394,2021-03-23,Reclustering of database tables based on peaks and widths,8,G06F
+10956018,2021-03-23,User interface indicating operation progress in a scrollbar,0,G06F
+10949446,2021-03-16,Resource provisioning systems and methods,0,A61F|G06F|H04L
+10949402,2021-03-16,Share replication between remote deployments,7,G06F
+10942925,2021-03-09,Database query processing using a pruning index,24,G06F
+10938780,2021-03-02,Secure message exchange between deployments,3,H04L
+10924516,2021-02-16,Managing network connections based on their endpoints,0,G06F|H04L
+10915418,2021-02-09,Automated query retry in a database environment,6,G06F
+10909121,2021-02-02,Storing multi-level metadata in database systems,4,G06F
