@@ -37,7 +37,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y postgresql-client
 
-      - name: Load into Postgres (upsert)
+      - name: Load into Postgres (single-session staging + upsert)
         env:
           POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
         run: |
@@ -50,8 +50,9 @@ jobs:
 
           export PGCONNECT_TIMEOUT=10
 
-          # Schema
-          psql "${POSTGRES_URL}" << 'SQL'
+          # Use ONE psql session so staging tables and \copy are in the same connection.
+          psql "${POSTGRES_URL}" -v ON_ERROR_STOP=1 << 'SQL'
+          -- Core tables
           CREATE TABLE IF NOT EXISTS patents (
             sector TEXT NOT NULL,
             company_id TEXT NOT NULL,
@@ -83,12 +84,9 @@ jobs:
             cpc_breadth INT NOT NULL,
             PRIMARY KEY (sector, company_id)
           );
-          SQL
 
-          # Staging tables
-          psql "${POSTGRES_URL}" << 'SQL'
-          DROP TABLE IF EXISTS patents_stage;
-          CREATE TEMP TABLE patents_stage (
+          -- Staging tables (persistent so COPY works reliably)
+          CREATE TABLE IF NOT EXISTS patents_stage (
             sector TEXT,
             company_id TEXT,
             patent_id TEXT,
@@ -99,27 +97,27 @@ jobs:
             cpc_subclass_ids TEXT
           );
 
-          DROP TABLE IF EXISTS companies_stage;
-          CREATE TEMP TABLE companies_stage (
+          CREATE TABLE IF NOT EXISTS companies_stage (
             sector TEXT,
-            companyId TEXT,
-            displayName TEXT,
-            patentCount INT,
-            totalCitations INT,
-            citationsPerPatent DOUBLE PRECISION,
-            cpcBreadth INT
+            "companyId" TEXT,
+            "displayName" TEXT,
+            "patentCount" INT,
+            "totalCitations" INT,
+            "citationsPerPatent" DOUBLE PRECISION,
+            "cpcBreadth" INT
           );
-          SQL
 
-          # COPY CSVs into staging (two sectors)
-          psql "${POSTGRES_URL}" -c "\copy patents_stage FROM 'data/state/postgres/biotech_patents.csv' WITH (FORMAT csv, HEADER true)"
-          psql "${POSTGRES_URL}" -c "\copy patents_stage FROM 'data/state/postgres/tech_patents.csv' WITH (FORMAT csv, HEADER true)"
+          TRUNCATE patents_stage;
+          TRUNCATE companies_stage;
 
-          psql "${POSTGRES_URL}" -c "\copy companies_stage FROM 'data/state/postgres/biotech_companies.csv' WITH (FORMAT csv, HEADER true)"
-          psql "${POSTGRES_URL}" -c "\copy companies_stage FROM 'data/state/postgres/tech_companies.csv' WITH (FORMAT csv, HEADER true)"
+          -- Load CSVs into staging (paths are in the checked-out repo workspace)
+          \copy patents_stage FROM 'data/state/postgres/biotech_patents.csv' WITH (FORMAT csv, HEADER true)
+          \copy patents_stage FROM 'data/state/postgres/tech_patents.csv' WITH (FORMAT csv, HEADER true)
 
-          # Upsert into final tables
-          psql "${POSTGRES_URL}" << 'SQL'
+          \copy companies_stage FROM 'data/state/postgres/biotech_companies.csv' WITH (FORMAT csv, HEADER true)
+          \copy companies_stage FROM 'data/state/postgres/tech_companies.csv' WITH (FORMAT csv, HEADER true)
+
+          -- Upsert patents
           INSERT INTO patents (sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids)
           SELECT sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids
           FROM patents_stage
@@ -131,8 +129,16 @@ jobs:
             cited_by = EXCLUDED.cited_by,
             cpc_subclass_ids = EXCLUDED.cpc_subclass_ids;
 
+          -- Upsert companies
           INSERT INTO companies (sector, company_id, display_name, patent_count, total_citations, citations_per_patent, cpc_breadth)
-          SELECT sector, companyId, displayName, patentCount, totalCitations, citationsPerPatent, cpcBreadth
+          SELECT
+            sector,
+            "companyId" AS company_id,
+            "displayName" AS display_name,
+            "patentCount" AS patent_count,
+            "totalCitations" AS total_citations,
+            "citationsPerPatent" AS citations_per_patent,
+            "cpcBreadth" AS cpc_breadth
           FROM companies_stage
           ON CONFLICT (sector, company_id)
           DO UPDATE SET
