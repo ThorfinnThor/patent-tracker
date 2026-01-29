@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { queryPatents } from "../../../lib/db";
 
+export const runtime = "nodejs";
+
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
 
@@ -25,7 +27,7 @@ export async function GET(req: NextRequest) {
   const data = await queryPatents({
     sector,
     companyId,
-    year: typeof year === "number" && !Number.isNaN(year) ? year : undefined,
+    year: typeof year === "number" && Number.isFinite(year) ? year : undefined,
     q,
     sort: sort === "cited" ? "cited" : "recent",
     page: Number.isFinite(page) ? page : 0,
@@ -34,9 +36,6 @@ export async function GET(req: NextRequest) {
   });
 
   return NextResponse.json(data, {
-    headers: {
-      // Encourage caching at the edge for speed
-      "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400"
-    }
+    headers: { "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400" },
   });
 }
