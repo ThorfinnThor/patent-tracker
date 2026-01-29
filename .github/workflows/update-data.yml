@@ -32,6 +32,43 @@ jobs:
         run: |
           python scripts/update_all.py
 
+      - name: Upload SQLite DBs to Vercel Blob
+        env:
+          BLOB_READ_WRITE_TOKEN: ${{ secrets.VERCEL_BLOB_RW_TOKEN }}
+        run: |
+          node -e "
+            const fs=require('fs');
+
+            async function put(name, filePath){
+              const data = fs.readFileSync(filePath);
+              const res = await fetch('https://blob.vercel-storage.com', {
+                method: 'PUT',
+                headers: {
+                  'Authorization': 'Bearer ' + process.env.BLOB_READ_WRITE_TOKEN,
+                  'Content-Type': 'application/octet-stream',
+                  'x-vercel-filename': name
+                },
+                body: data
+              });
+              if(!res.ok){
+                const t = await res.text();
+                throw new Error('Blob upload failed: '+res.status+' '+t);
+              }
+              const j = await res.json();
+              console.log(name + ' => ' + j.url);
+              return j.url;
+            }
+
+            (async ()=>{
+              const biotechUrl = await put('biotech.sqlite', 'apps/web/data/db/biotech.sqlite');
+              const techUrl = await put('tech.sqlite', 'apps/web/data/db/tech.sqlite');
+
+              fs.mkdirSync('data/state', { recursive: true });
+              fs.writeFileSync('data/state/db_urls.json', JSON.stringify({ biotech: biotechUrl, tech: techUrl }, null, 2));
+              console.log('Saved db URLs to data/state/db_urls.json');
+            })().catch(e=>{console.error(e); process.exit(1);});
+          "
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -45,12 +82,13 @@ jobs:
         working-directory: apps/web
         run: npm run build
 
-      - name: Commit changes
+      - name: Commit changes (no DB files)
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/state data/store apps/web/public/data apps/web/data/db
+          # Commit only small artifacts. Do NOT commit SQLite DB files (they exceed GitHub 100MB limit).
+          git add data/state data/store apps/web/public/data
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
