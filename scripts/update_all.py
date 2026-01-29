@@ -22,22 +22,17 @@ def main() -> None:
 
     assignee_map = os.path.join(root, "data", "normalization", "assignee_map.yml")
     last_run = os.path.join(root, "data", "state", "last_run.json")
+    pg_dir = os.path.join(root, "data", "state", "postgres")
 
-    # Sector definitions by CPC subclass prefixes (editable)
     biotech = SectorConfig(
         sector_id="biotech",
-        cpc_subclass_prefixes=[
-            "A61K", "A61P", "C07K", "C12N", "C12P", "C12Q", "C12Y", "G01N"
-        ],
+        cpc_subclass_prefixes=["A61K", "A61P", "C07K", "C12N", "C12P", "C12Q", "C12Y", "G01N"],
     )
     tech = SectorConfig(
         sector_id="tech",
-        cpc_subclass_prefixes=[
-            "G06F", "G06Q", "G06T", "G06N", "H04L", "H04W", "H04N", "H01L"
-        ],
+        cpc_subclass_prefixes=["G06F", "G06Q", "G06T", "G06N", "H04L", "H04W", "H04N", "H01L"],
     )
 
-    # Update partitioned stores: data/store/<sector>/pairs_<YYYY>.csv
     for sector in [biotech, tech]:
         store_dir = os.path.join(root, "data", "store", sector.sector_id)
 
@@ -51,28 +46,19 @@ def main() -> None:
 
         write_normalization_suggestions(
             store_dir=store_dir,
-            out_path=os.path.join(
-                root,
-                "data",
-                "state",
-                f"normalization_suggestions_{sector.sector_id}.md",
-            ),
+            out_path=os.path.join(root, "data", "state", f"normalization_suggestions_{sector.sector_id}.md"),
         )
 
-    # Build web artifacts:
-    # - apps/web/public/data/<sector>/companies.json
-    # - apps/web/data/db/<sector>.sqlite
     for sector_id in ["biotech", "tech"]:
         store_dir = os.path.join(root, "data", "store", sector_id)
         out_public = os.path.join(root, "apps", "web", "public", "data", sector_id)
-        out_db = os.path.join(root, "apps", "web", "data", "db", f"{sector_id}.sqlite")
 
         build_sector_artifacts(
             BuildConfig(
                 sector_id=sector_id,
                 store_dir=store_dir,
                 out_public_dir=out_public,
-                out_db_path=out_db,
+                out_pg_dir=pg_dir,
             )
         )
 
