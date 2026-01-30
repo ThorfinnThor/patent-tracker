@@ -9,6 +9,7 @@ from update_sector import (
     write_normalization_suggestions,
 )
 from build_artifacts import BuildConfig, build_sector_artifacts
+from update_cpc_titles import update_cpc_titles
 
 
 def main() -> None:
@@ -46,21 +47,27 @@ def main() -> None:
 
         write_normalization_suggestions(
             store_dir=store_dir,
-            out_path=os.path.join(root, "data", "state", f"normalization_suggestions_{sector.sector_id}.md"),
+            out_md_path=os.path.join(root, "data", "state", f"normalization_suggestions_{sector.sector_id}.md"),
         )
-
-    for sector_id in ["biotech", "tech"]:
-        store_dir = os.path.join(root, "data", "store", sector_id)
-        out_public = os.path.join(root, "apps", "web", "public", "data", sector_id)
 
         build_sector_artifacts(
             BuildConfig(
-                sector_id=sector_id,
+                sector_id=sector.sector_id,
                 store_dir=store_dir,
-                out_public_dir=out_public,
+                out_public_dir=os.path.join(root, "apps", "web", "public", "data", sector.sector_id),
                 out_pg_dir=pg_dir,
             )
         )
+
+    # Build CPC dictionaries for the UI (titles)
+    update_cpc_titles(
+        client=client,
+        patents_csv_paths=[
+            os.path.join(pg_dir, "biotech_patents.csv"),
+            os.path.join(pg_dir, "tech_patents.csv"),
+        ],
+        out_pg_dir=pg_dir,
+    )
 
 
 if __name__ == "__main__":
