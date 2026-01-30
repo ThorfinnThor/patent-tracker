@@ -4,7 +4,6 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  // Prisma Postgres on Vercel uses PRISMA_DATABASE_URL
   url      = env("PRISMA_DATABASE_URL")
 }
 
@@ -17,6 +16,7 @@ model patents {
   patent_title     String
   cited_by         Int
   cpc_subclass_ids String
+  cpc_group_ids    String
 
   @@id([sector, company_id, patent_id])
   @@index([sector, company_id, patent_date(sort: Desc), patent_id(sort: Desc)])
@@ -34,4 +34,33 @@ model companies {
   cpc_breadth          Int
 
   @@id([sector, company_id])
+}
+
+model patent_inventors {
+  sector             String
+  company_id         String
+  patent_id          String
+  inventor_id        String
+  inventor_name_first String
+  inventor_name_last  String
+  inventor_name       String
+  patent_date         DateTime
+
+  @@id([sector, company_id, patent_id, inventor_id])
+  @@index([sector, company_id, patent_date(sort: Desc)])
+}
+
+model cpc_group {
+  cpc_group_id    String @id
+  cpc_group_title String
+}
+
+model cpc_subclass {
+  cpc_subclass_id    String @id
+  cpc_subclass_title String
+}
+
+model cpc_class {
+  cpc_class_id    String @id
+  cpc_class_title String
 }
