@@ -1,0 +1,37 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  // Prisma Postgres on Vercel uses PRISMA_DATABASE_URL
+  url      = env("PRISMA_DATABASE_URL")
+}
+
+model patents {
+  sector           String
+  company_id       String
+  patent_id        String
+  patent_date      DateTime
+  patent_year      Int
+  patent_title     String
+  cited_by         Int
+  cpc_subclass_ids String
+
+  @@id([sector, company_id, patent_id])
+  @@index([sector, company_id, patent_date(sort: Desc), patent_id(sort: Desc)])
+  @@index([sector, company_id, cited_by(sort: Desc), patent_date(sort: Desc)])
+  @@index([sector, company_id, patent_year(sort: Desc)])
+}
+
+model companies {
+  sector               String
+  company_id           String
+  display_name         String
+  patent_count         Int
+  total_citations      Int
+  citations_per_patent Float
+  cpc_breadth          Int
+
+  @@id([sector, company_id])
+}
