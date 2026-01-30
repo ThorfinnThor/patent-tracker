@@ -1,4 +1,5 @@
 import CompanyPatentsViewer from "../../../components/CompanyPatentsViewer";
+import CompanyInsights from "../../../components/CompanyInsights";
 import fs from "fs";
 import path from "path";
 
@@ -19,11 +20,13 @@ function readCompanies(sector: "biotech" | "tech"): Company[] {
 
 export default function BiotechCompanyPage({ params }: { params: { companyId: string } }) {
   const companies = readCompanies("biotech");
-  const company = companies.find(c => c.companyId === params.companyId);
+  const company = companies.find((c) => c.companyId === params.companyId);
 
   return (
     <main style={{ display: "grid", gap: 12 }}>
-      <a className="pill" href="/biotech" style={{ width: "fit-content" }}>← Back</a>
+      <a className="pill" href="/biotech" style={{ width: "fit-content" }}>
+        ← Back
+      </a>
 
       <div className="card cardPad" style={{ display: "grid", gap: 10 }}>
         <h2 className="h2">{company?.displayName ?? params.companyId}</h2>
@@ -55,6 +58,7 @@ export default function BiotechCompanyPage({ params }: { params: { companyId: st
       </div>
 
       <CompanyPatentsViewer sector="biotech" companyId={params.companyId} />
+      <CompanyInsights sector="biotech" companyId={params.companyId} />
     </main>
   );
 }
