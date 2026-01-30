@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import csv
 import glob
 import json
 import os
@@ -25,101 +24,155 @@ def _safe_int(x: str) -> int:
         return 0
 
 
-def _load_store(store_dir: str) -> pd.DataFrame:
-    files = sorted(glob.glob(os.path.join(store_dir, "pairs_*.csv")))
+def _load_store(store_dir: str, prefix: str) -> pd.DataFrame:
+    files = sorted(glob.glob(os.path.join(store_dir, f"{prefix}_*.csv")))
     if not files:
-        raise FileNotFoundError(f"No partitions found in {store_dir}")
+        return pd.DataFrame()
     parts = [pd.read_csv(f, dtype=str) for f in files]
-    df = pd.concat(parts, ignore_index=True) if parts else pd.DataFrame()
-    if df.empty:
-        raise RuntimeError(f"No data in {store_dir}")
-    return df
+    return pd.concat(parts, ignore_index=True) if parts else pd.DataFrame()
 
 
 def build_sector_artifacts(cfg: BuildConfig) -> None:
-    df = _load_store(cfg.store_dir)
-
-    df["assignee_type"] = df["assignee_type"].fillna("").astype(str)
-    corp_types = {"2", "3"}
-    corp = df[df["assignee_type"].isin(list(corp_types))].copy()
-    if corp.empty:
-        corp = df.copy()
-
-    corp["cited_by"] = corp["patent_num_times_cited_by_us_patents"].fillna("0").map(_safe_int)
-
-    # Deduplicate per (company, patent)
-    corp = corp.drop_duplicates(subset=["canonical_company_id", "patent_id"], keep="last")
-
-    # Compute company metrics
-    def explode_cpcs(series: pd.Series) -> List[str]:
-        out: List[str] = []
-        for s in series.fillna(""):
-            if not s:
-                continue
-            out.extend([x for x in str(s).split("|") if x])
-        return out
-
-    grouped = []
-    for company_id, sub in corp.groupby("canonical_company_id", sort=False):
-        patent_count = int(sub["patent_id"].nunique())
-        total_citations = int(sub["cited_by"].sum())
-        cpcs = set(explode_cpcs(sub["cpc_subclass_ids"]))
-        breadth = len(cpcs)
-        display_name = sub["display_name"].dropna().astype(str).iloc[0] if len(sub) else company_id
-
-        grouped.append({
-            "sector": cfg.sector_id,
-            "companyId": company_id,
-            "displayName": display_name,
-            "patentCount": patent_count,
-            "totalCitations": total_citations,
-            "citationsPerPatent": (total_citations / patent_count) if patent_count else 0.0,
-            "cpcBreadth": breadth,
-        })
-
-    companies = (
-        pd.DataFrame(grouped)
-        .sort_values(["patentCount", "totalCitations"], ascending=[False, False])
-        .head(200)
-    )
-
-    # Write companies.json for fast sector pages
     os.makedirs(cfg.out_public_dir, exist_ok=True)
-    out_companies_json = os.path.join(cfg.out_public_dir, "companies.json")
-    with open(out_companies_json, "w", encoding="utf-8") as f:
-        json.dump(
-            companies.drop(columns=["sector"]).to_dict(orient="records"),
-            f,
-            indent=2,
-        )
-
-    out_companies_csv = os.path.join(cfg.out_public_dir, "companies.csv")
-    companies.drop(columns=["sector"]).to_csv(out_companies_csv, index=False, quoting=csv.QUOTE_MINIMAL)
-
-    # Export Postgres load CSVs (top 200 only)
     os.makedirs(cfg.out_pg_dir, exist_ok=True)
 
-    top_ids = set(companies["companyId"].astype(str).tolist())
-    sub = corp[corp["canonical_company_id"].astype(str).isin(top_ids)].copy()
+    pairs = _load_store(cfg.store_dir, "pairs")
+    if pairs.empty:
+        raise RuntimeError(f"No pairs store found under {cfg.store_dir}")
 
-    sub["patent_year"] = sub["patent_date"].astype(str).str.slice(0, 4)
-    sub["patent_year"] = sub["patent_year"].apply(lambda s: int(s) if str(s).isdigit() else 0)
+    # Keep only corporations/companies as "tracked companies"
+    # (Assignee type codes vary; "2" is commonly "US Company/Corporation".)
+    pairs["assignee_type"] = pairs["assignee_type"].fillna("").astype(str)
+    corp = pairs[pairs["assignee_type"] == "2"].copy()
 
-    # patents CSV
-    patents_out = os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_patents.csv")
-    patents_df = pd.DataFrame({
-        "sector": cfg.sector_id,
-        "company_id": sub["canonical_company_id"].astype(str),
-        "patent_id": sub["patent_id"].astype(str),
-        "patent_date": sub["patent_date"].astype(str),
-        "patent_year": sub["patent_year"].astype(int),
-        "patent_title": sub["patent_title"].fillna("").astype(str),
-        "cited_by": sub["cited_by"].astype(int),
-        "cpc_subclass_ids": sub["cpc_subclass_ids"].fillna("").astype(str),
-    }).drop_duplicates(subset=["sector", "company_id", "patent_id"], keep="last")
+    # Normalize numeric + date fields
+    corp["cited_by"] = corp["patent_num_times_cited_by_us_patents"].fillna("0").map(_safe_int)
+    corp["patent_date"] = corp["patent_date"].fillna("").astype(str)
+    corp["patent_year"] = corp["patent_date"].str.slice(0, 4).map(lambda x: _safe_int(x) if x else 0)
 
-    patents_df.to_csv(patents_out, index=False, quoting=csv.QUOTE_MINIMAL)
+    # Company ranking criterion: patent count (stable, computed from one source)
+    company_stats = (
+        corp.groupby(["canonical_company_id", "display_name"], dropna=False)
+        .agg(
+            patentCount=("patent_id", "nunique"),
+            totalCitations=("cited_by", "sum"),
+        )
+        .reset_index()
+    )
+    company_stats["citationsPerPatent"] = company_stats.apply(
+        lambda r: (float(r["totalCitations"]) / float(r["patentCount"])) if r["patentCount"] else 0.0, axis=1
+    )
 
-    # companies CSV (for DB)
-    companies_out = os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_companies.csv")
-    companies.to_csv(companies_out, index=False, quoting=csv.QUOTE_MINIMAL)
+    # CPC breadth: unique CPC subclasses across 5y
+    def _cpc_breadth(series: pd.Series) -> int:
+        s: set[str] = set()
+        for v in series.fillna("").astype(str):
+            for code in v.split("|"):
+                code = code.strip()
+                if code:
+                    s.add(code)
+        return len(s)
+
+    breadth = (
+        corp.groupby(["canonical_company_id"], dropna=False)["cpc_subclass_ids"]
+        .apply(_cpc_breadth)
+        .reset_index(name="cpcBreadth")
+    )
+    company_stats = company_stats.merge(breadth, on="canonical_company_id", how="left")
+    company_stats["cpcBreadth"] = company_stats["cpcBreadth"].fillna(0).astype(int)
+
+    # Top 200 by patentCount
+    top = company_stats.sort_values(["patentCount", "totalCitations"], ascending=[False, False]).head(200).copy()
+
+    # Write companies.json for the UI
+    companies_out = top.rename(
+        columns={
+            "canonical_company_id": "companyId",
+            "display_name": "displayName",
+        }
+    )[
+        ["companyId", "displayName", "patentCount", "totalCitations", "citationsPerPatent", "cpcBreadth"]
+    ].to_dict(orient="records")
+
+    with open(os.path.join(cfg.out_public_dir, "companies.json"), "w", encoding="utf-8") as f:
+        json.dump(companies_out, f, indent=2)
+
+    # Postgres exports (patents + companies + inventors)
+    top_ids = set(top["canonical_company_id"].astype(str))
+
+    # Patents table (company-patent rows)
+    patents_df = corp[corp["canonical_company_id"].astype(str).isin(top_ids)].copy()
+    patents_df["sector"] = cfg.sector_id
+    patents_df["company_id"] = patents_df["canonical_company_id"].astype(str)
+    patents_df["patent_id"] = patents_df["patent_id"].astype(str)
+
+    # Deduplicate to unique company/patent
+    patents_df = patents_df.sort_values(["patent_date", "patent_id"]).drop_duplicates(
+        subset=["company_id", "patent_id"], keep="last"
+    )
+
+    pg_patents = patents_df[
+        [
+            "sector",
+            "company_id",
+            "patent_id",
+            "patent_date",
+            "patent_year",
+            "patent_title",
+            "cited_by",
+            "cpc_subclass_ids",
+            "cpc_group_ids",
+        ]
+    ].copy()
+
+    pg_patents.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_patents.csv"), index=False)
+
+    # Companies table export (same as companies.json but with "sector" column)
+    pg_companies = top.rename(
+        columns={
+            "canonical_company_id": "companyId",
+            "display_name": "displayName",
+        }
+    )[
+        ["companyId", "displayName", "patentCount", "totalCitations", "citationsPerPatent", "cpcBreadth"]
+    ].copy()
+    pg_companies.insert(0, "sector", cfg.sector_id)
+    pg_companies.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_companies.csv"), index=False)
+
+    # Inventors export for top companies
+    inventors = _load_store(cfg.store_dir, "inventors")
+    if not inventors.empty:
+        inventors = inventors[inventors["canonical_company_id"].astype(str).isin(top_ids)].copy()
+        inventors["sector"] = cfg.sector_id
+        inventors["company_id"] = inventors["canonical_company_id"].astype(str)
+        inventors = inventors.drop_duplicates(subset=["sector", "company_id", "patent_id", "inventor_id"])
+
+        pg_inventors = inventors[
+            [
+                "sector",
+                "company_id",
+                "patent_id",
+                "inventor_id",
+                "inventor_name_first",
+                "inventor_name_last",
+                "inventor_name",
+                "patent_date",
+            ]
+        ].copy()
+
+        pg_inventors.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_inventors.csv"), index=False)
+    else:
+        # Write an empty file with headers so workflow COPY doesn't fail
+        empty = pd.DataFrame(
+            columns=[
+                "sector",
+                "company_id",
+                "patent_id",
+                "inventor_id",
+                "inventor_name_first",
+                "inventor_name_last",
+                "inventor_name",
+                "patent_date",
+            ]
+        )
+        empty.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_inventors.csv"), index=False)
