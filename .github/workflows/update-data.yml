@@ -50,7 +50,6 @@ jobs:
 
           export PGCONNECT_TIMEOUT=10
 
-          # Use ONE psql session so staging tables and \copy are in the same connection.
           psql "${POSTGRES_URL}" -v ON_ERROR_STOP=1 << 'SQL'
           -- Core tables
           CREATE TABLE IF NOT EXISTS patents (
@@ -62,6 +61,7 @@ jobs:
             patent_title TEXT NOT NULL,
             cited_by INT NOT NULL,
             cpc_subclass_ids TEXT NOT NULL,
+            cpc_group_ids TEXT NOT NULL,
             PRIMARY KEY (sector, company_id, patent_id)
           );
 
@@ -85,7 +85,38 @@ jobs:
             PRIMARY KEY (sector, company_id)
           );
 
-          -- Staging tables (persistent so COPY works reliably)
+          CREATE TABLE IF NOT EXISTS patent_inventors (
+            sector TEXT NOT NULL,
+            company_id TEXT NOT NULL,
+            patent_id TEXT NOT NULL,
+            inventor_id TEXT NOT NULL,
+            inventor_name_first TEXT NOT NULL,
+            inventor_name_last TEXT NOT NULL,
+            inventor_name TEXT NOT NULL,
+            patent_date DATE NOT NULL,
+            PRIMARY KEY (sector, company_id, patent_id, inventor_id)
+          );
+
+          CREATE INDEX IF NOT EXISTS idx_pi_company_date
+            ON patent_inventors(sector, company_id, patent_date DESC);
+
+          -- CPC dictionaries
+          CREATE TABLE IF NOT EXISTS cpc_group (
+            cpc_group_id TEXT PRIMARY KEY,
+            cpc_group_title TEXT NOT NULL
+          );
+
+          CREATE TABLE IF NOT EXISTS cpc_subclass (
+            cpc_subclass_id TEXT PRIMARY KEY,
+            cpc_subclass_title TEXT NOT NULL
+          );
+
+          CREATE TABLE IF NOT EXISTS cpc_class (
+            cpc_class_id TEXT PRIMARY KEY,
+            cpc_class_title TEXT NOT NULL
+          );
+
+          -- Staging tables
           CREATE TABLE IF NOT EXISTS patents_stage (
             sector TEXT,
             company_id TEXT,
@@ -94,7 +125,8 @@ jobs:
             patent_year INT,
             patent_title TEXT,
             cited_by INT,
-            cpc_subclass_ids TEXT
+            cpc_subclass_ids TEXT,
+            cpc_group_ids TEXT
           );
 
           CREATE TABLE IF NOT EXISTS companies_stage (
@@ -107,19 +139,56 @@ jobs:
             "cpcBreadth" INT
           );
 
+          CREATE TABLE IF NOT EXISTS inventors_stage (
+            sector TEXT,
+            company_id TEXT,
+            patent_id TEXT,
+            inventor_id TEXT,
+            inventor_name_first TEXT,
+            inventor_name_last TEXT,
+            inventor_name TEXT,
+            patent_date DATE
+          );
+
+          CREATE TABLE IF NOT EXISTS cpc_group_stage (
+            cpc_group_id TEXT,
+            cpc_group_title TEXT
+          );
+
+          CREATE TABLE IF NOT EXISTS cpc_subclass_stage (
+            cpc_subclass_id TEXT,
+            cpc_subclass_title TEXT
+          );
+
+          CREATE TABLE IF NOT EXISTS cpc_class_stage (
+            cpc_class_id TEXT,
+            cpc_class_title TEXT
+          );
+
           TRUNCATE patents_stage;
           TRUNCATE companies_stage;
+          TRUNCATE inventors_stage;
+          TRUNCATE cpc_group_stage;
+          TRUNCATE cpc_subclass_stage;
+          TRUNCATE cpc_class_stage;
 
-          -- Load CSVs into staging (paths are in the checked-out repo workspace)
+          -- Load CSVs
           \copy patents_stage FROM 'data/state/postgres/biotech_patents.csv' WITH (FORMAT csv, HEADER true)
           \copy patents_stage FROM 'data/state/postgres/tech_patents.csv' WITH (FORMAT csv, HEADER true)
 
           \copy companies_stage FROM 'data/state/postgres/biotech_companies.csv' WITH (FORMAT csv, HEADER true)
           \copy companies_stage FROM 'data/state/postgres/tech_companies.csv' WITH (FORMAT csv, HEADER true)
 
+          \copy inventors_stage FROM 'data/state/postgres/biotech_inventors.csv' WITH (FORMAT csv, HEADER true)
+          \copy inventors_stage FROM 'data/state/postgres/tech_inventors.csv' WITH (FORMAT csv, HEADER true)
+
+          \copy cpc_group_stage FROM 'data/state/postgres/cpc_group.csv' WITH (FORMAT csv, HEADER true)
+          \copy cpc_subclass_stage FROM 'data/state/postgres/cpc_subclass.csv' WITH (FORMAT csv, HEADER true)
+          \copy cpc_class_stage FROM 'data/state/postgres/cpc_class.csv' WITH (FORMAT csv, HEADER true)
+
           -- Upsert patents
-          INSERT INTO patents (sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids)
-          SELECT sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids
+          INSERT INTO patents (sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids, cpc_group_ids)
+          SELECT sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids, cpc_group_ids
           FROM patents_stage
           ON CONFLICT (sector, company_id, patent_id)
           DO UPDATE SET
@@ -127,7 +196,8 @@ jobs:
             patent_year = EXCLUDED.patent_year,
             patent_title = EXCLUDED.patent_title,
             cited_by = EXCLUDED.cited_by,
-            cpc_subclass_ids = EXCLUDED.cpc_subclass_ids;
+            cpc_subclass_ids = EXCLUDED.cpc_subclass_ids,
+            cpc_group_ids = EXCLUDED.cpc_group_ids;
 
           -- Upsert companies
           INSERT INTO companies (sector, company_id, display_name, patent_count, total_citations, citations_per_patent, cpc_breadth)
@@ -147,6 +217,30 @@ jobs:
             total_citations = EXCLUDED.total_citations,
             citations_per_patent = EXCLUDED.citations_per_patent,
             cpc_breadth = EXCLUDED.cpc_breadth;
+
+          -- Upsert inventors
+          INSERT INTO patent_inventors (sector, company_id, patent_id, inventor_id, inventor_name_first, inventor_name_last, inventor_name, patent_date)
+          SELECT sector, company_id, patent_id, inventor_id, inventor_name_first, inventor_name_last, inventor_name, patent_date
+          FROM inventors_stage
+          ON CONFLICT (sector, company_id, patent_id, inventor_id)
+          DO UPDATE SET
+            inventor_name_first = EXCLUDED.inventor_name_first,
+            inventor_name_last = EXCLUDED.inventor_name_last,
+            inventor_name = EXCLUDED.inventor_name,
+            patent_date = EXCLUDED.patent_date;
+
+          -- Upsert CPC dictionaries
+          INSERT INTO cpc_group (cpc_group_id, cpc_group_title)
+          SELECT cpc_group_id, cpc_group_title FROM cpc_group_stage
+          ON CONFLICT (cpc_group_id) DO UPDATE SET cpc_group_title = EXCLUDED.cpc_group_title;
+
+          INSERT INTO cpc_subclass (cpc_subclass_id, cpc_subclass_title)
+          SELECT cpc_subclass_id, cpc_subclass_title FROM cpc_subclass_stage
+          ON CONFLICT (cpc_subclass_id) DO UPDATE SET cpc_subclass_title = EXCLUDED.cpc_subclass_title;
+
+          INSERT INTO cpc_class (cpc_class_id, cpc_class_title)
+          SELECT cpc_class_id, cpc_class_title FROM cpc_class_stage
+          ON CONFLICT (cpc_class_id) DO UPDATE SET cpc_class_title = EXCLUDED.cpc_class_title;
           SQL
 
       - name: Setup Node
