@@ -12,7 +12,7 @@ on:
           - fast
           - full
       sector:
-        description: "Sector (fast mode: choose one; full mode ignores this and runs both)"
+        description: "Sector (fast mode: choose one; full mode runs both)"
         required: true
         default: "tech"
         type: choice
@@ -34,7 +34,7 @@ on:
         default: "1"
 
   schedule:
-    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+    - cron: "0 6 * * 1"
 
 permissions:
   contents: write
@@ -61,7 +61,6 @@ jobs:
         env:
           PATENTSVIEW_API_KEY: ${{ secrets.PATENTSVIEW_API_KEY }}
 
-          # ---- selectable mode (workflow_dispatch) ----
           FAST_MODE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'fast' && '1' || '0' }}
           FAST_DAYS: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.days || '90' }}
           TOP_N_COMPANIES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.top_n || '200' }}
@@ -70,107 +69,74 @@ jobs:
         run: |
           python scripts/update_all.py
 
-      - name: Ensure required CSVs exist + sanitize for COPY
+      - name: Force CSVs to COPY-safe format (quote all + strip newlines)
         run: |
           python - << 'PY'
-          import os
-          import pandas as pd
+          import os, csv
 
           base = os.path.join("data", "state", "postgres")
           os.makedirs(base, exist_ok=True)
 
-          def ensure_csv(path, columns):
+          def ensure(path, headers):
               if os.path.exists(path):
                   return
-              # create empty file with headers
-              pd.DataFrame(columns=columns).to_csv(path, index=False)
+              with open(path, "w", newline="", encoding="utf-8") as f:
+                  w = csv.writer(f, quoting=csv.QUOTE_ALL, lineterminator="\n")
+                  w.writerow(headers)
               print(f"Created empty {path}")
 
-          def sanitize_csv(path, columns, defaults=None):
-              if defaults is None:
-                  defaults = {}
-              # Ensure exists first
-              ensure_csv(path, columns)
+          def rewrite(path, headers):
+              tmp = path + ".tmp"
 
-              df = pd.read_csv(path, dtype=str)
+              with open(path, "r", newline="", encoding="utf-8", errors="replace") as f_in:
+                  reader = csv.DictReader(f_in)
+                  # If there's no header row at all, force empty
+                  if not reader.fieldnames:
+                      with open(tmp, "w", newline="", encoding="utf-8") as f_out:
+                          w = csv.writer(f_out, quoting=csv.QUOTE_ALL, lineterminator="\n")
+                          w.writerow(headers)
+                      os.replace(tmp, path)
+                      print(f"Rewrote {path} as empty (no header found)")
+                      return
 
-              # Add missing columns
-              for c in columns:
-                  if c not in df.columns:
-                      df[c] = defaults.get(c, "")
+                  with open(tmp, "w", newline="", encoding="utf-8") as f_out:
+                      w = csv.writer(f_out, quoting=csv.QUOTE_ALL, lineterminator="\n", escapechar="\\", doublequote=True)
+                      w.writerow(headers)
+                      n = 0
+                      for r in reader:
+                          out = []
+                          for h in headers:
+                              v = r.get(h, "")
+                              if v is None:
+                                  v = ""
+                              v = str(v).replace("\r", " ").replace("\n", " ").replace("\t", " ").strip()
+                              out.append(v)
+                          w.writerow(out)
+                          n += 1
+              os.replace(tmp, path)
+              print(f"Rewrote {path}: cols={len(headers)} rows={n}")
 
-              # Select only required columns, in order (drops extras)
-              df = df[columns].copy()
+          patents_headers = ["sector","company_id","patent_id","patent_date","patent_year","patent_title","cited_by","cpc_subclass_ids","cpc_group_ids"]
+          companies_headers = ["sector","companyId","displayName","patentCount","totalCitations","citationsPerPatent","cpcBreadth"]
+          inventors_headers = ["sector","company_id","patent_id","inventor_id","inventor_name_first","inventor_name_last","inventor_name","patent_date"]
 
-              # Fill nulls
-              for c in columns:
-                  df[c] = df[c].fillna(defaults.get(c, "")).astype(str)
+          for s in ["biotech","tech"]:
+              ensure(os.path.join(base, f"{s}_patents.csv"), patents_headers)
+              ensure(os.path.join(base, f"{s}_companies.csv"), companies_headers)
+              ensure(os.path.join(base, f"{s}_inventors.csv"), inventors_headers)
 
-              df.to_csv(path, index=False)
-              print(f"Sanitized {path}: cols={len(df.columns)} rows={len(df)}")
+              rewrite(os.path.join(base, f"{s}_patents.csv"), patents_headers)
+              rewrite(os.path.join(base, f"{s}_companies.csv"), companies_headers)
+              rewrite(os.path.join(base, f"{s}_inventors.csv"), inventors_headers)
 
-          # Expected schemas
-          patents_cols = [
-              "sector",
-              "company_id",
-              "patent_id",
-              "patent_date",
-              "patent_year",
-              "patent_title",
-              "cited_by",
-              "cpc_subclass_ids",
-              "cpc_group_ids",
-          ]
-          patents_defaults = {
-              "cpc_subclass_ids": "",
-              "cpc_group_ids": "",
-              "cited_by": "0",
-              "patent_year": "0",
-              "patent_title": "",
-          }
+          # CPC dicts (empty OK)
+          ensure(os.path.join(base, "cpc_group.csv"), ["cpc_group_id","cpc_group_title"])
+          ensure(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id","cpc_subclass_title"])
+          ensure(os.path.join(base, "cpc_class.csv"), ["cpc_class_id","cpc_class_title"])
 
-          companies_cols = [
-              "sector",
-              "companyId",
-              "displayName",
-              "patentCount",
-              "totalCitations",
-              "citationsPerPatent",
-              "cpcBreadth",
-          ]
-          companies_defaults = {
-              "patentCount": "0",
-              "totalCitations": "0",
-              "citationsPerPatent": "0",
-              "cpcBreadth": "0",
-          }
-
-          inventors_cols = [
-              "sector",
-              "company_id",
-              "patent_id",
-              "inventor_id",
-              "inventor_name_first",
-              "inventor_name_last",
-              "inventor_name",
-              "patent_date",
-          ]
-
-          # Sanitize per sector (create empties if missing)
-          for s in ["biotech", "tech"]:
-              sanitize_csv(os.path.join(base, f"{s}_patents.csv"), patents_cols, patents_defaults)
-              sanitize_csv(os.path.join(base, f"{s}_companies.csv"), companies_cols, companies_defaults)
-              sanitize_csv(os.path.join(base, f"{s}_inventors.csv"), inventors_cols, {})
-
-          # CPC dictionaries: ensure exist (empty is OK)
-          ensure_csv(os.path.join(base, "cpc_group.csv"), ["cpc_group_id", "cpc_group_title"])
-          ensure_csv(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id", "cpc_subclass_title"])
-          ensure_csv(os.path.join(base, "cpc_class.csv"), ["cpc_class_id", "cpc_class_title"])
-
-          # Also sanitize dicts to drop extras if they exist
-          sanitize_csv(os.path.join(base, "cpc_group.csv"), ["cpc_group_id", "cpc_group_title"])
-          sanitize_csv(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id", "cpc_subclass_title"])
-          sanitize_csv(os.path.join(base, "cpc_class.csv"), ["cpc_class_id", "cpc_class_title"])
+          rewrite(os.path.join(base, "cpc_group.csv"), ["cpc_group_id","cpc_group_title"])
+          rewrite(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id","cpc_subclass_title"])
+          rewrite(os.path.join(base, "cpc_class.csv"), ["cpc_class_id","cpc_class_title"])
           PY
 
       - name: Install PostgreSQL client
