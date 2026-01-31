@@ -28,7 +28,7 @@ def _clean_text(x) -> str:
     if x is None:
         return ""
     s = str(x)
-    # kill row-breaking chars
+    # Remove embedded newlines/tabs that can break COPY row structure
     s = s.replace("\r", " ").replace("\n", " ").replace("\t", " ")
     return s.strip()
 
@@ -37,9 +37,9 @@ def _load_store(store_dir: str, prefix: str) -> pd.DataFrame:
     files = sorted(glob.glob(os.path.join(store_dir, f"{prefix}_*.csv")))
     if not files:
         return pd.DataFrame()
-    parts = [pd.read_csv(f, dtype=str)]
-    for f in files[1:]:
-        parts.append(pd.read_csv(f, dtype=str))
+    parts = []
+    for path in files:
+        parts.append(pd.read_csv(path, dtype=str))
     return pd.concat(parts, ignore_index=True) if parts else pd.DataFrame()
 
 
@@ -87,7 +87,15 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
             corp[col] = ""
 
     # Clean
-    for c in ["patent_id", "patent_title", "patent_date", "cpc_subclass_ids", "cpc_group_ids", "canonical_company_id", "display_name"]:
+    for c in [
+        "patent_id",
+        "patent_title",
+        "patent_date",
+        "cpc_subclass_ids",
+        "cpc_group_ids",
+        "canonical_company_id",
+        "display_name",
+    ]:
         corp[c] = corp[c].fillna("").map(_clean_text)
 
     corp["cited_by"] = corp["patent_num_times_cited_by_us_patents"].fillna("0").map(_safe_int)
@@ -107,6 +115,7 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
         axis=1,
     )
 
+    # CPC breadth
     def _cpc_breadth(series: pd.Series) -> int:
         s: set[str] = set()
         for v in series.fillna("").astype(str):
