@@ -17,7 +17,7 @@ class BuildConfig:
     out_pg_dir: str             # data/state/postgres/
 
 
-def _safe_int(x: str) -> int:
+def _safe_int(x) -> int:
     try:
         return int(float(x))
     except Exception:
@@ -41,16 +41,29 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
         raise RuntimeError(f"No pairs store found under {cfg.store_dir}")
 
     # Keep only corporations/companies as "tracked companies"
-    # (Assignee type codes vary; "2" is commonly "US Company/Corporation".)
-    pairs["assignee_type"] = pairs["assignee_type"].fillna("").astype(str)
+    pairs["assignee_type"] = pairs.get("assignee_type", "").fillna("").astype(str)
     corp = pairs[pairs["assignee_type"] == "2"].copy()
+
+    # Ensure required columns exist (older stores might not have new columns yet)
+    for col in [
+        "patent_id",
+        "patent_title",
+        "patent_date",
+        "patent_num_times_cited_by_us_patents",
+        "cpc_subclass_ids",
+        "cpc_group_ids",
+        "canonical_company_id",
+        "display_name",
+    ]:
+        if col not in corp.columns:
+            corp[col] = ""
 
     # Normalize numeric + date fields
     corp["cited_by"] = corp["patent_num_times_cited_by_us_patents"].fillna("0").map(_safe_int)
     corp["patent_date"] = corp["patent_date"].fillna("").astype(str)
     corp["patent_year"] = corp["patent_date"].str.slice(0, 4).map(lambda x: _safe_int(x) if x else 0)
 
-    # Company ranking criterion: patent count (stable, computed from one source)
+    # Company ranking criterion: patent count (stable)
     company_stats = (
         corp.groupby(["canonical_company_id", "display_name"], dropna=False)
         .agg(
@@ -59,6 +72,7 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
         )
         .reset_index()
     )
+
     company_stats["citationsPerPatent"] = company_stats.apply(
         lambda r: (float(r["totalCitations"]) / float(r["patentCount"])) if r["patentCount"] else 0.0, axis=1
     )
@@ -83,6 +97,7 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
 
     # Top 200 by patentCount
     top = company_stats.sort_values(["patentCount", "totalCitations"], ascending=[False, False]).head(200).copy()
+    top_ids = set(top["canonical_company_id"].astype(str))
 
     # Write companies.json for the UI
     companies_out = top.rename(
@@ -97,22 +112,26 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
     with open(os.path.join(cfg.out_public_dir, "companies.json"), "w", encoding="utf-8") as f:
         json.dump(companies_out, f, indent=2)
 
-    # Postgres exports (patents + companies + inventors)
-    top_ids = set(top["canonical_company_id"].astype(str))
-
-    # Patents table (company-patent rows)
+    # ---------- Postgres exports ----------
+    # Filter to tracked companies
     patents_df = corp[corp["canonical_company_id"].astype(str).isin(top_ids)].copy()
+
+    # Standardize schema fields
     patents_df["sector"] = cfg.sector_id
     patents_df["company_id"] = patents_df["canonical_company_id"].astype(str)
     patents_df["patent_id"] = patents_df["patent_id"].astype(str)
+    patents_df["patent_title"] = patents_df["patent_title"].fillna("").astype(str)
+    patents_df["cpc_subclass_ids"] = patents_df["cpc_subclass_ids"].fillna("").astype(str)
+    patents_df["cpc_group_ids"] = patents_df["cpc_group_ids"].fillna("").astype(str)
 
     # Deduplicate to unique company/patent
     patents_df = patents_df.sort_values(["patent_date", "patent_id"]).drop_duplicates(
-        subset=["company_id", "patent_id"], keep="last"
+        subset=["sector", "company_id", "patent_id"], keep="last"
     )
 
-    pg_patents = patents_df[
-        [
+    # *** CRITICAL: FORCE EXACT COLUMN SET + ORDER FOR COPY ***
+    pg_patents = patents_df.reindex(
+        columns=[
             "sector",
             "company_id",
             "patent_id",
@@ -123,11 +142,17 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
             "cpc_subclass_ids",
             "cpc_group_ids",
         ]
-    ].copy()
+    ).copy()
+
+    # Ensure no NaNs
+    for c in ["sector", "company_id", "patent_id", "patent_date", "patent_title", "cpc_subclass_ids", "cpc_group_ids"]:
+        pg_patents[c] = pg_patents[c].fillna("").astype(str)
+    for c in ["patent_year", "cited_by"]:
+        pg_patents[c] = pg_patents[c].fillna(0).map(_safe_int)
 
     pg_patents.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_patents.csv"), index=False)
 
-    # Companies table export (same as companies.json but with "sector" column)
+    # Companies export for Postgres
     pg_companies = top.rename(
         columns={
             "canonical_company_id": "companyId",
@@ -142,28 +167,25 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
     # Inventors export for top companies
     inventors = _load_store(cfg.store_dir, "inventors")
     if not inventors.empty:
+        for col in [
+            "sector_id",
+            "canonical_company_id",
+            "patent_id",
+            "inventor_id",
+            "inventor_name_first",
+            "inventor_name_last",
+            "inventor_name",
+            "patent_date",
+        ]:
+            if col not in inventors.columns:
+                inventors[col] = ""
+
         inventors = inventors[inventors["canonical_company_id"].astype(str).isin(top_ids)].copy()
         inventors["sector"] = cfg.sector_id
         inventors["company_id"] = inventors["canonical_company_id"].astype(str)
         inventors = inventors.drop_duplicates(subset=["sector", "company_id", "patent_id", "inventor_id"])
 
-        pg_inventors = inventors[
-            [
-                "sector",
-                "company_id",
-                "patent_id",
-                "inventor_id",
-                "inventor_name_first",
-                "inventor_name_last",
-                "inventor_name",
-                "patent_date",
-            ]
-        ].copy()
-
-        pg_inventors.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_inventors.csv"), index=False)
-    else:
-        # Write an empty file with headers so workflow COPY doesn't fail
-        empty = pd.DataFrame(
+        pg_inventors = inventors.reindex(
             columns=[
                 "sector",
                 "company_id",
@@ -174,5 +196,23 @@ def build_sector_artifacts(cfg: BuildConfig) -> None:
                 "inventor_name",
                 "patent_date",
             ]
-        )
-        empty.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_inventors.csv"), index=False)
+        ).copy()
+
+        for c in pg_inventors.columns:
+            pg_inventors[c] = pg_inventors[c].fillna("").astype(str)
+
+        pg_inventors.to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_inventors.csv"), index=False)
+    else:
+        # Empty file with headers so COPY doesn't fail
+        pd.DataFrame(
+            columns=[
+                "sector",
+                "company_id",
+                "patent_id",
+                "inventor_id",
+                "inventor_name_first",
+                "inventor_name_last",
+                "inventor_name",
+                "patent_date",
+            ]
+        ).to_csv(os.path.join(cfg.out_pg_dir, f"{cfg.sector_id}_inventors.csv"), index=False)
