@@ -2,6 +2,37 @@ name: Weekly data update
 
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Run mode"
+        required: true
+        default: "fast"
+        type: choice
+        options:
+          - fast
+          - full
+      sector:
+        description: "Sector (fast mode: choose one; full mode ignores this and runs both)"
+        required: true
+        default: "tech"
+        type: choice
+        options:
+          - tech
+          - biotech
+          - both
+      days:
+        description: "Window size in days (fast mode only)"
+        required: true
+        default: "90"
+      top_n:
+        description: "Top N companies per sector (fast mode only)"
+        required: true
+        default: "50"
+      skip_cpc_titles:
+        description: "Skip CPC title dictionary build (fast mode only)"
+        required: true
+        default: "1"
+
   schedule:
     - cron: "0 6 * * 1" # Mondays 06:00 UTC
 
@@ -29,6 +60,16 @@ jobs:
       - name: Update datasets + build artifacts
         env:
           PATENTSVIEW_API_KEY: ${{ secrets.PATENTSVIEW_API_KEY }}
+
+          # ---- selectable mode (workflow_dispatch) ----
+          FAST_MODE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'fast' && '1' || '0' }}
+          FAST_DAYS: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.days || '90' }}
+          TOP_N_COMPANIES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.top_n || '200' }}
+          ONLY_SECTOR: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.sector == 'both' && '' || github.event.inputs.sector }}
+          SKIP_CPC_TITLES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'fast' && github.event.inputs.skip_cpc_titles || '0' }}
+
+          # ---- scheduled runs are always FULL ----
+          # schedule trigger => FAST_MODE resolves to 0 above, and ONLY_SECTOR won't be set
         run: |
           python scripts/update_all.py
 
@@ -51,7 +92,7 @@ jobs:
           export PGCONNECT_TIMEOUT=10
 
           psql "${POSTGRES_URL}" -v ON_ERROR_STOP=1 << 'SQL'
-          -- 1) Ensure base tables exist
+          -- Base tables
           CREATE TABLE IF NOT EXISTS patents (
             sector TEXT NOT NULL,
             company_id TEXT NOT NULL,
@@ -64,11 +105,10 @@ jobs:
             PRIMARY KEY (sector, company_id, patent_id)
           );
 
-          -- 2) MIGRATE schema safely if table already existed
+          -- Schema migration
           ALTER TABLE patents
             ADD COLUMN IF NOT EXISTS cpc_group_ids TEXT NOT NULL DEFAULT '';
 
-          -- Indexes
           CREATE INDEX IF NOT EXISTS idx_patents_company_date
             ON patents(sector, company_id, patent_date DESC, patent_id DESC);
 
@@ -104,7 +144,6 @@ jobs:
           CREATE INDEX IF NOT EXISTS idx_pi_company_date
             ON patent_inventors(sector, company_id, patent_date DESC);
 
-          -- CPC dictionaries
           CREATE TABLE IF NOT EXISTS cpc_group (
             cpc_group_id TEXT PRIMARY KEY,
             cpc_group_title TEXT NOT NULL
@@ -120,7 +159,7 @@ jobs:
             cpc_class_title TEXT NOT NULL
           );
 
-          -- 3) Staging tables
+          -- Staging tables
           CREATE TABLE IF NOT EXISTS patents_stage (
             sector TEXT,
             company_id TEXT,
@@ -176,7 +215,6 @@ jobs:
           TRUNCATE cpc_subclass_stage;
           TRUNCATE cpc_class_stage;
 
-          -- 4) Load CSVs
           \copy patents_stage FROM 'data/state/postgres/biotech_patents.csv' WITH (FORMAT csv, HEADER true)
           \copy patents_stage FROM 'data/state/postgres/tech_patents.csv' WITH (FORMAT csv, HEADER true)
 
@@ -190,18 +228,10 @@ jobs:
           \copy cpc_subclass_stage FROM 'data/state/postgres/cpc_subclass.csv' WITH (FORMAT csv, HEADER true)
           \copy cpc_class_stage FROM 'data/state/postgres/cpc_class.csv' WITH (FORMAT csv, HEADER true)
 
-          -- 5) Upsert patents
           INSERT INTO patents (sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids, cpc_group_ids)
           SELECT
-            sector,
-            company_id,
-            patent_id,
-            patent_date,
-            patent_year,
-            patent_title,
-            cited_by,
-            COALESCE(cpc_subclass_ids, ''),
-            COALESCE(cpc_group_ids, '')
+            sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by,
+            COALESCE(cpc_subclass_ids, ''), COALESCE(cpc_group_ids, '')
           FROM patents_stage
           ON CONFLICT (sector, company_id, patent_id)
           DO UPDATE SET
@@ -212,7 +242,6 @@ jobs:
             cpc_subclass_ids = EXCLUDED.cpc_subclass_ids,
             cpc_group_ids = EXCLUDED.cpc_group_ids;
 
-          -- 6) Upsert companies
           INSERT INTO companies (sector, company_id, display_name, patent_count, total_citations, citations_per_patent, cpc_breadth)
           SELECT
             sector,
@@ -231,13 +260,9 @@ jobs:
             citations_per_patent = EXCLUDED.citations_per_patent,
             cpc_breadth = EXCLUDED.cpc_breadth;
 
-          -- 7) Upsert inventors
           INSERT INTO patent_inventors (sector, company_id, patent_id, inventor_id, inventor_name_first, inventor_name_last, inventor_name, patent_date)
           SELECT
-            sector,
-            company_id,
-            patent_id,
-            inventor_id,
+            sector, company_id, patent_id, inventor_id,
             COALESCE(inventor_name_first, ''),
             COALESCE(inventor_name_last, ''),
             COALESCE(inventor_name, ''),
@@ -250,7 +275,6 @@ jobs:
             inventor_name = EXCLUDED.inventor_name,
             patent_date = EXCLUDED.patent_date;
 
-          -- 8) Upsert CPC dictionaries
           INSERT INTO cpc_group (cpc_group_id, cpc_group_title)
           SELECT cpc_group_id, cpc_group_title FROM cpc_group_stage
           ON CONFLICT (cpc_group_id) DO UPDATE SET cpc_group_title = EXCLUDED.cpc_group_title;
