@@ -1,247 +1,323 @@
 import { NextRequest, NextResponse } from "next/server";
-import { prisma } from "../../../lib/prisma";
+import { prisma } from "@/lib/prisma";
 
 export const runtime = "nodejs";
+export const revalidate = 3600; // 1 hour CDN cache
 
-type Level = "group" | "main_group" | "subclass" | "class";
+type Sector = "biotech" | "tech";
+type CpcLevel = "group" | "subclass" | "class";
+type WindowKey = "90d" | "180d" | "1y" | "2y" | "5y";
 
-function clamp(n: number, lo: number, hi: number) {
-  return Math.max(lo, Math.min(hi, n));
+function parseSector(v: string | null): Sector {
+  if (v === "biotech" || v === "tech") return v;
+  return "biotech";
+}
+
+function parseCpcLevel(v: string | null): CpcLevel {
+  if (v === "group" || v === "subclass" || v === "class") return v;
+  return "group";
+}
+
+function parseWindow(v: string | null): { key: WindowKey; days: number } {
+  const key = (v || "1y") as WindowKey;
+  switch (key) {
+    case "90d":
+      return { key, days: 90 };
+    case "180d":
+      return { key, days: 180 };
+    case "2y":
+      return { key, days: 730 };
+    case "5y":
+      return { key, days: 1825 };
+    case "1y":
+    default:
+      return { key: "1y", days: 365 };
+  }
+}
+
+function clampInt(n: number, min: number, max: number) {
+  return Math.max(min, Math.min(max, n));
+}
+
+function cpcFieldForLevel(level: CpcLevel) {
+  // patents table stores:
+  // - cpc_group_ids: pipe-delimited group ids
+  // - cpc_subclass_ids: pipe-delimited subclass ids
+  // "class" we derive from subclass (first 3 chars) or from group if subclass empty
+  if (level === "group") return "cpc_group_ids";
+  return "cpc_subclass_ids";
+}
+
+function titleJoinForLevel(level: CpcLevel) {
+  // Return { table, idCol, titleCol } for joins
+  if (level === "group") return { table: "cpc_group", idCol: "cpc_group_id", titleCol: "cpc_group_title" };
+  if (level === "subclass") return { table: "cpc_subclass", idCol: "cpc_subclass_id", titleCol: "cpc_subclass_title" };
+  return { table: "cpc_class", idCol: "cpc_class_id", titleCol: "cpc_class_title" };
 }
 
 export async function GET(req: NextRequest) {
   try {
-    const { searchParams } = new URL(req.url);
+    const url = new URL(req.url);
 
-    const sector = (searchParams.get("sector") || "") as "biotech" | "tech";
-    const companyId = searchParams.get("companyId") || "";
-    const days = clamp(Number(searchParams.get("days") || "365"), 30, 3650);
-    const level = (searchParams.get("level") || "group") as Level;
+    const sector = parseSector(url.searchParams.get("sector"));
+    const companyId = (url.searchParams.get("companyId") || "").trim();
+    const level = parseCpcLevel(url.searchParams.get("cpcLevel"));
+    const window = parseWindow(url.searchParams.get("window"));
 
-    if (!["biotech", "tech"].includes(sector)) {
-      return NextResponse.json({ error: "Invalid sector" }, { status: 400 });
-    }
     if (!companyId) {
-      return NextResponse.json({ error: "Missing companyId" }, { status: 400 });
+      return NextResponse.json(
+        { error: "Missing companyId" },
+        { status: 400, headers: { "Cache-Control": "no-store" } }
+      );
     }
-    if (!["group", "main_group", "subclass", "class"].includes(level)) {
-      return NextResponse.json({ error: "Invalid level" }, { status: 400 });
-    }
 
-    // Controlled rollup expression (safe, no user SQL injection)
-    const rollExpr =
-      level === "group"
-        ? "code"
-        : level === "main_group"
-        ? "split_part(code, '/', 1) || '/00'"
-        : level === "subclass"
-        ? "left(code, 4)"
-        : "left(code, 3)";
+    const days = clampInt(window.days, 30, 3650);
 
-    const titleJoin =
-      level === "group" || level === "main_group"
-        ? "LEFT JOIN cpc_group d ON d.cpc_group_id = rolled.code"
-        : level === "subclass"
-        ? "LEFT JOIN cpc_subclass d ON d.cpc_subclass_id = rolled.code"
-        : "LEFT JOIN cpc_class d ON d.cpc_class_id = rolled.code";
+    // We’ll compute:
+    // 1) top CPC topics in current window
+    // 2) CPC momentum vs previous window (same length immediately before)
+    // 3) top competitors by CPC overlap (distinct codes overlap)
+    // 4) top inventors in current window
+    //
+    // IMPORTANT: No ambiguous "code". Always reference agg.code explicitly.
 
-    const titleSelect =
-      level === "group" || level === "main_group"
-        ? "COALESCE(d.cpc_group_title, '') AS title"
-        : level === "subclass"
-        ? "COALESCE(d.cpc_subclass_title, '') AS title"
-        : "COALESCE(d.cpc_class_title, '') AS title";
+    const cpcField = cpcFieldForLevel(level);
+    const join = titleJoinForLevel(level);
 
-    // Top CPC topics
-    const topCpcSql = `
-      WITH exploded AS (
+    // For "class", derive the class id from subclass or group code:
+    // - If we use subclass ids like "A61K", class is "A61"
+    // - If data is "A61K31/00" we still take first 3 chars.
+    const deriveClassExpr =
+      level === "class"
+        ? `LEFT(code_raw, 3)` // class = first 3 chars
+        : `code_raw`;
+
+    const codesCte = `
+      WITH base AS (
         SELECT
-          regexp_split_to_table(p.cpc_group_ids, '\\|') AS code
+          p.company_id,
+          p.patent_id,
+          p.patent_date,
+          UNNEST(string_to_array(COALESCE(p.${cpcField}, ''), '|')) AS code_raw
         FROM patents p
-        WHERE p.sector = $1
+        WHERE
+          p.sector = $1
           AND p.company_id = $2
-          AND p.patent_date >= CURRENT_DATE - ($3::int || ' days')::interval
-          AND p.cpc_group_ids <> ''
+          AND p.patent_date >= (NOW() - ($3 || ' days')::interval)
       ),
-      rolled AS (
-        SELECT (${rollExpr}) AS code
-        FROM exploded
-        WHERE code IS NOT NULL AND code <> ''
+      cleaned AS (
+        SELECT
+          ${deriveClassExpr} AS code
+        FROM base
+        WHERE TRIM(code_raw) <> ''
       )
-      SELECT
-        rolled.code AS code,
-        ${titleSelect},
-        COUNT(*)::int AS n
-      FROM rolled
-      ${titleJoin}
-      GROUP BY rolled.code, title
-      ORDER BY n DESC, rolled.code ASC
-      LIMIT 20
     `;
 
-    const topCpc = await prisma.$queryRawUnsafe<any[]>(topCpcSql, sector, companyId, days);
+    // 1) Top CPC topics
+    const topTopicsSql = `
+      ${codesCte}
+      , agg AS (
+        SELECT
+          cleaned.code AS code,
+          COUNT(*)::int AS patents
+        FROM cleaned
+        GROUP BY cleaned.code
+      )
+      SELECT
+        agg.code AS code,
+        COALESCE(d.${join.titleCol}, '') AS title,
+        agg.patents AS patents
+      FROM agg
+      LEFT JOIN ${join.table} d
+        ON d.${join.idCol} = agg.code
+      ORDER BY agg.patents DESC, agg.code ASC
+      LIMIT 15
+    `;
 
-    // CPC trend: compare current window vs previous window
-    const trendSql = `
+    // 2) CPC momentum: compare current window vs previous window (same duration)
+    const momentumSql = `
       WITH cur AS (
-        SELECT (${rollExpr}) AS code, COUNT(*)::int AS n
-        FROM (
-          SELECT regexp_split_to_table(p.cpc_group_ids, '\\|') AS code
-          FROM patents p
-          WHERE p.sector = $1 AND p.company_id = $2
-            AND p.patent_date >= CURRENT_DATE - ($3::int || ' days')::interval
-            AND p.cpc_group_ids <> ''
-        ) x
-        WHERE code IS NOT NULL AND code <> ''
-        GROUP BY code
+        SELECT
+          UNNEST(string_to_array(COALESCE(p.${cpcField}, ''), '|')) AS code_raw
+        FROM patents p
+        WHERE
+          p.sector = $1
+          AND p.company_id = $2
+          AND p.patent_date >= (NOW() - ($3 || ' days')::interval)
       ),
       prev AS (
-        SELECT (${rollExpr}) AS code, COUNT(*)::int AS n
-        FROM (
-          SELECT regexp_split_to_table(p.cpc_group_ids, '\\|') AS code
-          FROM patents p
-          WHERE p.sector = $1 AND p.company_id = $2
-            AND p.patent_date <  CURRENT_DATE - ($3::int || ' days')::interval
-            AND p.patent_date >= CURRENT_DATE - (($3::int * 2) || ' days')::interval
-            AND p.cpc_group_ids <> ''
-        ) y
-        WHERE code IS NOT NULL AND code <> ''
+        SELECT
+          UNNEST(string_to_array(COALESCE(p.${cpcField}, ''), '|')) AS code_raw
+        FROM patents p
+        WHERE
+          p.sector = $1
+          AND p.company_id = $2
+          AND p.patent_date <  (NOW() - ($3 || ' days')::interval)
+          AND p.patent_date >= (NOW() - (($3 * 2) || ' days')::interval)
+      ),
+      cur_clean AS (
+        SELECT ${deriveClassExpr} AS code
+        FROM (SELECT code_raw FROM cur) t
+        WHERE TRIM(code_raw) <> ''
+      ),
+      prev_clean AS (
+        SELECT ${deriveClassExpr} AS code
+        FROM (SELECT code_raw FROM prev) t
+        WHERE TRIM(code_raw) <> ''
+      ),
+      cur_agg AS (
+        SELECT code, COUNT(*)::int AS cur_count
+        FROM cur_clean
         GROUP BY code
       ),
-      joined AS (
+      prev_agg AS (
+        SELECT code, COUNT(*)::int AS prev_count
+        FROM prev_clean
+        GROUP BY code
+      ),
+      merged AS (
         SELECT
-          COALESCE(cur.code, prev.code) AS code,
-          COALESCE(prev.n, 0) AS prev_n,
-          COALESCE(cur.n, 0) AS cur_n
-        FROM cur
-        FULL OUTER JOIN prev ON prev.code = cur.code
+          COALESCE(c.code, p.code) AS code,
+          COALESCE(c.cur_count, 0) AS cur_count,
+          COALESCE(p.prev_count, 0) AS prev_count
+        FROM cur_agg c
+        FULL OUTER JOIN prev_agg p
+          ON p.code = c.code
       )
       SELECT
-        j.code,
-        ${titleSelect.replace("rolled.code", "j.code")},
-        j.prev_n,
-        j.cur_n,
-        (j.cur_n - j.prev_n) AS delta,
-        CASE WHEN j.prev_n = 0 THEN NULL ELSE ROUND((100.0 * (j.cur_n - j.prev_n) / j.prev_n)::numeric, 2) END AS pct
-      FROM joined j
-      ${titleJoin.replace("rolled.code", "j.code")}
-      WHERE j.cur_n > 0 OR j.prev_n > 0
-      ORDER BY delta DESC, j.cur_n DESC
-      LIMIT 20
+        merged.code AS code,
+        COALESCE(d.${join.titleCol}, '') AS title,
+        merged.cur_count AS cur_count,
+        merged.prev_count AS prev_count,
+        (merged.cur_count - merged.prev_count) AS delta
+      FROM merged
+      LEFT JOIN ${join.table} d
+        ON d.${join.idCol} = merged.code
+      ORDER BY delta DESC, merged.cur_count DESC, merged.code ASC
+      LIMIT 15
     `;
 
-    const cpcTrend = await prisma.$queryRawUnsafe<any[]>(trendSql, sector, companyId, days);
-
-    // Competitors: overlap on top 6 CPC GROUPS (always detailed group codes)
+    // 3) Competitors by CPC overlap (distinct overlap codes in same window)
+    // We compute the company's distinct code set, then for every other company count overlaps.
     const competitorsSql = `
-      WITH company_groups AS (
-        SELECT code, COUNT(*)::int AS n
-        FROM (
-          SELECT regexp_split_to_table(p.cpc_group_ids, '\\|') AS code
-          FROM patents p
-          WHERE p.sector = $1 AND p.company_id = $2
-            AND p.patent_date >= CURRENT_DATE - ($3::int || ' days')::interval
-            AND p.cpc_group_ids <> ''
-        ) x
-        WHERE code IS NOT NULL AND code <> ''
-        GROUP BY code
-        ORDER BY n DESC, code ASC
-        LIMIT 6
+      WITH my_codes_raw AS (
+        SELECT
+          UNNEST(string_to_array(COALESCE(p.${cpcField}, ''), '|')) AS code_raw
+        FROM patents p
+        WHERE
+          p.sector = $1
+          AND p.company_id = $2
+          AND p.patent_date >= (NOW() - ($3 || ' days')::interval)
       ),
-      others AS (
+      my_codes AS (
+        SELECT DISTINCT ${deriveClassExpr} AS code
+        FROM my_codes_raw
+        WHERE TRIM(code_raw) <> ''
+      ),
+      other_codes_raw AS (
         SELECT
           p.company_id AS other_company_id,
-          cg.code AS code,
-          COUNT(DISTINCT p.patent_id)::int AS overlap
+          UNNEST(string_to_array(COALESCE(p.${cpcField}, ''), '|')) AS code_raw
         FROM patents p
-        JOIN LATERAL regexp_split_to_table(p.cpc_group_ids, '\\|') AS code ON TRUE
-        JOIN company_groups cg ON cg.code = code
-        WHERE p.sector = $1
+        WHERE
+          p.sector = $1
           AND p.company_id <> $2
-          AND p.patent_date >= CURRENT_DATE - ($3::int || ' days')::interval
-          AND p.cpc_group_ids <> ''
-        GROUP BY p.company_id, cg.code
+          AND p.patent_date >= (NOW() - ($3 || ' days')::interval)
       ),
-      agg AS (
+      other_codes AS (
         SELECT
           other_company_id,
-          SUM(overlap)::int AS score
-        FROM others
-        GROUP BY other_company_id
-        ORDER BY score DESC, other_company_id ASC
-        LIMIT 15
+          ${deriveClassExpr} AS code
+        FROM other_codes_raw
+        WHERE TRIM(code_raw) <> ''
+      ),
+      overlaps AS (
+        SELECT
+          oc.other_company_id AS company_id,
+          COUNT(DISTINCT oc.code)::int AS overlap_codes
+        FROM other_codes oc
+        INNER JOIN my_codes mc
+          ON mc.code = oc.code
+        GROUP BY oc.other_company_id
       )
       SELECT
-        a.other_company_id AS company_id,
-        COALESCE(c.display_name, a.other_company_id) AS display_name,
-        a.score
-      FROM agg a
+        o.company_id AS company_id,
+        COALESCE(c.display_name, o.company_id) AS display_name,
+        o.overlap_codes AS overlap_codes
+      FROM overlaps o
       LEFT JOIN companies c
-        ON c.sector = $1 AND c.company_id = a.other_company_id
-      ORDER BY a.score DESC, display_name ASC
-    `;
-
-    const competitors = await prisma.$queryRawUnsafe<any[]>(competitorsSql, sector, companyId, days);
-
-    // Co-assignees (within tracked set): other companies sharing same patent_id
-    const coAssigneesSql = `
-      SELECT
-        p2.company_id AS company_id,
-        COALESCE(c.display_name, p2.company_id) AS display_name,
-        COUNT(DISTINCT p2.patent_id)::int AS n
-      FROM patents p1
-      JOIN patents p2
-        ON p1.sector = p2.sector AND p1.patent_id = p2.patent_id
-      LEFT JOIN companies c
-        ON c.sector = p2.sector AND c.company_id = p2.company_id
-      WHERE p1.sector = $1
-        AND p1.company_id = $2
-        AND p2.company_id <> $2
-        AND p1.patent_date >= CURRENT_DATE - ($3::int || ' days')::interval
-      GROUP BY p2.company_id, c.display_name
-      ORDER BY n DESC, display_name ASC
+        ON c.sector = $1 AND c.company_id = o.company_id
+      ORDER BY o.overlap_codes DESC, display_name ASC
       LIMIT 15
     `;
 
-    const coAssignees = await prisma.$queryRawUnsafe<any[]>(coAssigneesSql, sector, companyId, days);
-
-    // Top inventors
+    // 4) Top inventors (needs patent_inventors table)
     const inventorsSql = `
       SELECT
-        pi.inventor_name AS name,
-        COUNT(DISTINCT pi.patent_id)::int AS n
+        COALESCE(pi.inventor_name, '') AS inventor_name,
+        COUNT(DISTINCT pi.patent_id)::int AS patents
       FROM patent_inventors pi
-      WHERE pi.sector = $1
+      WHERE
+        pi.sector = $1
         AND pi.company_id = $2
-        AND pi.patent_date >= CURRENT_DATE - ($3::int || ' days')::interval
-        AND pi.inventor_name <> ''
-      GROUP BY pi.inventor_name
-      ORDER BY n DESC, name ASC
+        AND pi.patent_date >= (NOW() - ($3 || ' days')::interval)
+      GROUP BY COALESCE(pi.inventor_name, '')
+      HAVING COALESCE(pi.inventor_name, '') <> ''
+      ORDER BY patents DESC, inventor_name ASC
       LIMIT 15
     `;
 
-    const topInventors = await prisma.$queryRawUnsafe<any[]>(inventorsSql, sector, companyId, days);
+    // Execute in parallel
+    const [topTopics, momentum, competitors, inventors] = await Promise.all([
+      prisma.$queryRawUnsafe<any[]>(topTopicsSql, sector, companyId, String(days)),
+      prisma.$queryRawUnsafe<any[]>(momentumSql, sector, companyId, String(days)),
+      prisma.$queryRawUnsafe<any[]>(competitorsSql, sector, companyId, String(days)),
+      prisma.$queryRawUnsafe<any[]>(inventorsSql, sector, companyId, String(days)),
+    ]);
 
-    return NextResponse.json(
-      {
-        sector,
-        companyId,
-        days,
-        level,
-        topCpc,
-        cpcTrend,
-        competitors,
-        coAssignees,
-        topInventors,
+    const res = {
+      sector,
+      companyId,
+      window: { key: window.key, days },
+      cpcLevel: level,
+      topCpcTopics: (topTopics || []).map((r) => ({
+        code: String(r.code ?? ""),
+        title: String(r.title ?? ""),
+        patents: Number(r.patents ?? 0),
+      })),
+      cpcMomentum: (momentum || []).map((r) => ({
+        code: String(r.code ?? ""),
+        title: String(r.title ?? ""),
+        cur: Number(r.cur_count ?? 0),
+        prev: Number(r.prev_count ?? 0),
+        delta: Number(r.delta ?? 0),
+      })),
+      topCompetitors: (competitors || []).map((r) => ({
+        companyId: String(r.company_id ?? ""),
+        displayName: String(r.display_name ?? ""),
+        overlapCodes: Number(r.overlap_codes ?? 0),
+      })),
+      topInventors: (inventors || []).map((r) => ({
+        inventorName: String(r.inventor_name ?? ""),
+        patents: Number(r.patents ?? 0),
+      })),
+    };
+
+    return NextResponse.json(res, {
+      status: 200,
+      headers: {
+        // CDN cache for 1 hour, allow stale while revalidate
+        "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=3600",
       },
-      {
-        headers: { "Cache-Control": "s-maxage=3600, stale-while-revalidate=86400" },
-      }
-    );
+    });
   } catch (e: any) {
     return NextResponse.json(
-      { error: "Insights API error", message: String(e?.message || e), stack: String(e?.stack || "") },
-      { status: 500 }
+      {
+        error: "Insights API error",
+        message: String(e?.message || e),
+        stack: String(e?.stack || ""),
+      },
+      { status: 500, headers: { "Cache-Control": "no-store" } }
     );
   }
 }
