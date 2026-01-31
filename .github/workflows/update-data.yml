@@ -70,35 +70,46 @@ jobs:
         run: |
           python scripts/update_all.py
 
-      - name: Sanitize Postgres CSVs for COPY (drop extra columns)
+      - name: Ensure required CSVs exist + sanitize for COPY
         run: |
           python - << 'PY'
           import os
           import pandas as pd
 
+          base = os.path.join("data", "state", "postgres")
+          os.makedirs(base, exist_ok=True)
+
+          def ensure_csv(path, columns):
+              if os.path.exists(path):
+                  return
+              # create empty file with headers
+              pd.DataFrame(columns=columns).to_csv(path, index=False)
+              print(f"Created empty {path}")
+
           def sanitize_csv(path, columns, defaults=None):
               if defaults is None:
                   defaults = {}
-              if not os.path.exists(path):
-                  raise SystemExit(f"Missing expected CSV: {path}")
+              # Ensure exists first
+              ensure_csv(path, columns)
+
               df = pd.read_csv(path, dtype=str)
+
               # Add missing columns
               for c in columns:
                   if c not in df.columns:
                       df[c] = defaults.get(c, "")
+
               # Select only required columns, in order (drops extras)
               df = df[columns].copy()
+
               # Fill nulls
               for c in columns:
                   df[c] = df[c].fillna(defaults.get(c, "")).astype(str)
-              # Rewrite
-              df.to_csv(path, index=False)
 
-              # Quick sanity: print header + column count
+              df.to_csv(path, index=False)
               print(f"Sanitized {path}: cols={len(df.columns)} rows={len(df)}")
 
-          base = os.path.join("data", "state", "postgres")
-
+          # Expected schemas
           patents_cols = [
               "sector",
               "company_id",
@@ -145,23 +156,21 @@ jobs:
               "patent_date",
           ]
 
+          # Sanitize per sector (create empties if missing)
           for s in ["biotech", "tech"]:
               sanitize_csv(os.path.join(base, f"{s}_patents.csv"), patents_cols, patents_defaults)
               sanitize_csv(os.path.join(base, f"{s}_companies.csv"), companies_cols, companies_defaults)
               sanitize_csv(os.path.join(base, f"{s}_inventors.csv"), inventors_cols, {})
 
-          # CPC dictionaries are already fixed-schema, but validate existence
-          for fn in ["cpc_group.csv", "cpc_subclass.csv", "cpc_class.csv"]:
-              p = os.path.join(base, fn)
-              if not os.path.exists(p):
-                  # create empty with headers so COPY doesn't fail
-                  if fn == "cpc_group.csv":
-                      pd.DataFrame(columns=["cpc_group_id", "cpc_group_title"]).to_csv(p, index=False)
-                  elif fn == "cpc_subclass.csv":
-                      pd.DataFrame(columns=["cpc_subclass_id", "cpc_subclass_title"]).to_csv(p, index=False)
-                  else:
-                      pd.DataFrame(columns=["cpc_class_id", "cpc_class_title"]).to_csv(p, index=False)
-                  print(f"Created empty {p}")
+          # CPC dictionaries: ensure exist (empty is OK)
+          ensure_csv(os.path.join(base, "cpc_group.csv"), ["cpc_group_id", "cpc_group_title"])
+          ensure_csv(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id", "cpc_subclass_title"])
+          ensure_csv(os.path.join(base, "cpc_class.csv"), ["cpc_class_id", "cpc_class_title"])
+
+          # Also sanitize dicts to drop extras if they exist
+          sanitize_csv(os.path.join(base, "cpc_group.csv"), ["cpc_group_id", "cpc_group_title"])
+          sanitize_csv(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id", "cpc_subclass_title"])
+          sanitize_csv(os.path.join(base, "cpc_class.csv"), ["cpc_class_id", "cpc_class_title"])
           PY
 
       - name: Install PostgreSQL client
