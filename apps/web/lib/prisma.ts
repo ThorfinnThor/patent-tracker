@@ -1,11 +1,15 @@
 import { PrismaClient } from "@prisma/client";
 
-const globalAny = global as any;
+/**
+ * PrismaClient singleton for Next.js (avoids exhausting connections during hot reload/dev)
+ * Works on Vercel + Node runtime.
+ */
+const globalForPrisma = globalThis as unknown as { prisma?: PrismaClient };
 
-export const prisma: PrismaClient =
-  globalAny.__prisma ??
+export const prisma =
+  globalForPrisma.prisma ??
   new PrismaClient({
-    log: ["error"],
+    log: process.env.NODE_ENV === "development" ? ["error", "warn"] : ["error"],
   });
 
-if (process.env.NODE_ENV !== "production") globalAny.__prisma = prisma;
+if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;
