@@ -67,11 +67,102 @@ jobs:
           TOP_N_COMPANIES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.top_n || '200' }}
           ONLY_SECTOR: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.sector == 'both' && '' || github.event.inputs.sector }}
           SKIP_CPC_TITLES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'fast' && github.event.inputs.skip_cpc_titles || '0' }}
-
-          # ---- scheduled runs are always FULL ----
-          # schedule trigger => FAST_MODE resolves to 0 above, and ONLY_SECTOR won't be set
         run: |
           python scripts/update_all.py
+
+      - name: Sanitize Postgres CSVs for COPY (drop extra columns)
+        run: |
+          python - << 'PY'
+          import os
+          import pandas as pd
+
+          def sanitize_csv(path, columns, defaults=None):
+              if defaults is None:
+                  defaults = {}
+              if not os.path.exists(path):
+                  raise SystemExit(f"Missing expected CSV: {path}")
+              df = pd.read_csv(path, dtype=str)
+              # Add missing columns
+              for c in columns:
+                  if c not in df.columns:
+                      df[c] = defaults.get(c, "")
+              # Select only required columns, in order (drops extras)
+              df = df[columns].copy()
+              # Fill nulls
+              for c in columns:
+                  df[c] = df[c].fillna(defaults.get(c, "")).astype(str)
+              # Rewrite
+              df.to_csv(path, index=False)
+
+              # Quick sanity: print header + column count
+              print(f"Sanitized {path}: cols={len(df.columns)} rows={len(df)}")
+
+          base = os.path.join("data", "state", "postgres")
+
+          patents_cols = [
+              "sector",
+              "company_id",
+              "patent_id",
+              "patent_date",
+              "patent_year",
+              "patent_title",
+              "cited_by",
+              "cpc_subclass_ids",
+              "cpc_group_ids",
+          ]
+          patents_defaults = {
+              "cpc_subclass_ids": "",
+              "cpc_group_ids": "",
+              "cited_by": "0",
+              "patent_year": "0",
+              "patent_title": "",
+          }
+
+          companies_cols = [
+              "sector",
+              "companyId",
+              "displayName",
+              "patentCount",
+              "totalCitations",
+              "citationsPerPatent",
+              "cpcBreadth",
+          ]
+          companies_defaults = {
+              "patentCount": "0",
+              "totalCitations": "0",
+              "citationsPerPatent": "0",
+              "cpcBreadth": "0",
+          }
+
+          inventors_cols = [
+              "sector",
+              "company_id",
+              "patent_id",
+              "inventor_id",
+              "inventor_name_first",
+              "inventor_name_last",
+              "inventor_name",
+              "patent_date",
+          ]
+
+          for s in ["biotech", "tech"]:
+              sanitize_csv(os.path.join(base, f"{s}_patents.csv"), patents_cols, patents_defaults)
+              sanitize_csv(os.path.join(base, f"{s}_companies.csv"), companies_cols, companies_defaults)
+              sanitize_csv(os.path.join(base, f"{s}_inventors.csv"), inventors_cols, {})
+
+          # CPC dictionaries are already fixed-schema, but validate existence
+          for fn in ["cpc_group.csv", "cpc_subclass.csv", "cpc_class.csv"]:
+              p = os.path.join(base, fn)
+              if not os.path.exists(p):
+                  # create empty with headers so COPY doesn't fail
+                  if fn == "cpc_group.csv":
+                      pd.DataFrame(columns=["cpc_group_id", "cpc_group_title"]).to_csv(p, index=False)
+                  elif fn == "cpc_subclass.csv":
+                      pd.DataFrame(columns=["cpc_subclass_id", "cpc_subclass_title"]).to_csv(p, index=False)
+                  else:
+                      pd.DataFrame(columns=["cpc_class_id", "cpc_class_title"]).to_csv(p, index=False)
+                  print(f"Created empty {p}")
+          PY
 
       - name: Install PostgreSQL client
         run: |
@@ -92,7 +183,6 @@ jobs:
           export PGCONNECT_TIMEOUT=10
 
           psql "${POSTGRES_URL}" -v ON_ERROR_STOP=1 << 'SQL'
-          -- Base tables
           CREATE TABLE IF NOT EXISTS patents (
             sector TEXT NOT NULL,
             company_id TEXT NOT NULL,
@@ -105,7 +195,6 @@ jobs:
             PRIMARY KEY (sector, company_id, patent_id)
           );
 
-          -- Schema migration
           ALTER TABLE patents
             ADD COLUMN IF NOT EXISTS cpc_group_ids TEXT NOT NULL DEFAULT '';
 
@@ -159,7 +248,6 @@ jobs:
             cpc_class_title TEXT NOT NULL
           );
 
-          -- Staging tables
           CREATE TABLE IF NOT EXISTS patents_stage (
             sector TEXT,
             company_id TEXT,
