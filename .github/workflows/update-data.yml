@@ -60,7 +60,6 @@ jobs:
       - name: Update datasets + build artifacts
         env:
           PATENTSVIEW_API_KEY: ${{ secrets.PATENTSVIEW_API_KEY }}
-
           FAST_MODE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'fast' && '1' || '0' }}
           FAST_DAYS: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.days || '90' }}
           TOP_N_COMPANIES: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.top_n || '200' }}
@@ -70,6 +69,9 @@ jobs:
           python scripts/update_all.py
 
       - name: Force CSVs to COPY-safe format (quote all + strip newlines)
+        env:
+          MODE_INPUT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.mode || 'full' }}
+          SECTOR_INPUT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.sector || 'both' }}
         run: |
           python - << 'PY'
           import os, csv
@@ -77,30 +79,59 @@ jobs:
           base = os.path.join("data", "state", "postgres")
           os.makedirs(base, exist_ok=True)
 
-          def ensure(path, headers):
-              if os.path.exists(path):
-                  return
+          mode = os.environ.get("MODE_INPUT", "full").strip()
+          sector = os.environ.get("SECTOR_INPUT", "both").strip()
+
+          patents_headers = ["sector","company_id","patent_id","patent_date","patent_year","patent_title","cited_by","cpc_subclass_ids","cpc_group_ids"]
+          companies_headers = ["sector","companyId","displayName","patentCount","totalCitations","citationsPerPatent","cpcBreadth"]
+          inventors_headers = ["sector","company_id","patent_id","inventor_id","inventor_name_first","inventor_name_last","inventor_name","patent_date"]
+
+          def p(s, kind):
+              return os.path.join(base, f"{s}_{kind}.csv")
+
+          def write_empty(path, headers):
               with open(path, "w", newline="", encoding="utf-8") as f:
-                  w = csv.writer(f, quoting=csv.QUOTE_ALL, lineterminator="\n")
+                  w = csv.writer(f, quoting=csv.QUOTE_ALL, lineterminator="\n", doublequote=True)
                   w.writerow(headers)
-              print(f"Created empty {path}")
+              print(f"Wrote empty {path}")
+
+          # Wipe stale other-sector files when running FAST single-sector
+          if mode == "fast" and sector in ["tech", "biotech"]:
+              other = "biotech" if sector == "tech" else "tech"
+              write_empty(p(other, "patents"), patents_headers)
+              write_empty(p(other, "companies"), companies_headers)
+              write_empty(p(other, "inventors"), inventors_headers)
+
+          def ensure_exists(path, headers):
+              if not os.path.exists(path):
+                  write_empty(path, headers)
+
+          # Ensure sector files exist
+          for s in ["biotech", "tech"]:
+              ensure_exists(p(s, "patents"), patents_headers)
+              ensure_exists(p(s, "companies"), companies_headers)
+              ensure_exists(p(s, "inventors"), inventors_headers)
+
+          # Ensure CPC dicts exist (empty OK)
+          ensure_exists(os.path.join(base, "cpc_group.csv"), ["cpc_group_id","cpc_group_title"])
+          ensure_exists(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id","cpc_subclass_title"])
+          ensure_exists(os.path.join(base, "cpc_class.csv"), ["cpc_class_id","cpc_class_title"])
 
           def rewrite(path, headers):
               tmp = path + ".tmp"
-
               with open(path, "r", newline="", encoding="utf-8", errors="replace") as f_in:
-                  reader = csv.DictReader(f_in)
-                  # If there's no header row at all, force empty
+                  reader = csv.DictReader(f_in, dialect=csv.excel, doublequote=True, escapechar="\\")
                   if not reader.fieldnames:
-                      with open(tmp, "w", newline="", encoding="utf-8") as f_out:
-                          w = csv.writer(f_out, quoting=csv.QUOTE_ALL, lineterminator="\n")
-                          w.writerow(headers)
+                      write_empty(tmp, headers)
                       os.replace(tmp, path)
-                      print(f"Rewrote {path} as empty (no header found)")
+                      print(f"Rewrote {path} as empty (no header)")
                       return
 
+                  # strip BOM if present
+                  reader.fieldnames = [fn.lstrip("\ufeff") if fn else fn for fn in reader.fieldnames]
+
                   with open(tmp, "w", newline="", encoding="utf-8") as f_out:
-                      w = csv.writer(f_out, quoting=csv.QUOTE_ALL, lineterminator="\n", escapechar="\\", doublequote=True)
+                      w = csv.writer(f_out, quoting=csv.QUOTE_ALL, lineterminator="\n", doublequote=True)
                       w.writerow(headers)
                       n = 0
                       for r in reader:
@@ -116,23 +147,10 @@ jobs:
               os.replace(tmp, path)
               print(f"Rewrote {path}: cols={len(headers)} rows={n}")
 
-          patents_headers = ["sector","company_id","patent_id","patent_date","patent_year","patent_title","cited_by","cpc_subclass_ids","cpc_group_ids"]
-          companies_headers = ["sector","companyId","displayName","patentCount","totalCitations","citationsPerPatent","cpcBreadth"]
-          inventors_headers = ["sector","company_id","patent_id","inventor_id","inventor_name_first","inventor_name_last","inventor_name","patent_date"]
-
-          for s in ["biotech","tech"]:
-              ensure(os.path.join(base, f"{s}_patents.csv"), patents_headers)
-              ensure(os.path.join(base, f"{s}_companies.csv"), companies_headers)
-              ensure(os.path.join(base, f"{s}_inventors.csv"), inventors_headers)
-
-              rewrite(os.path.join(base, f"{s}_patents.csv"), patents_headers)
-              rewrite(os.path.join(base, f"{s}_companies.csv"), companies_headers)
-              rewrite(os.path.join(base, f"{s}_inventors.csv"), inventors_headers)
-
-          # CPC dicts (empty OK)
-          ensure(os.path.join(base, "cpc_group.csv"), ["cpc_group_id","cpc_group_title"])
-          ensure(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id","cpc_subclass_title"])
-          ensure(os.path.join(base, "cpc_class.csv"), ["cpc_class_id","cpc_class_title"])
+          for s in ["biotech", "tech"]:
+              rewrite(p(s, "patents"), patents_headers)
+              rewrite(p(s, "companies"), companies_headers)
+              rewrite(p(s, "inventors"), inventors_headers)
 
           rewrite(os.path.join(base, "cpc_group.csv"), ["cpc_group_id","cpc_group_title"])
           rewrite(os.path.join(base, "cpc_subclass.csv"), ["cpc_subclass_id","cpc_subclass_title"])
@@ -144,7 +162,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y postgresql-client
 
-      - name: Load into Postgres (schema migrate + staging + upsert)
+      - name: Load into Postgres (schema migrate + fresh staging + upsert)
         env:
           POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
         run: |
@@ -158,6 +176,7 @@ jobs:
           export PGCONNECT_TIMEOUT=10
 
           psql "${POSTGRES_URL}" -v ON_ERROR_STOP=1 << 'SQL'
+          -- Base tables (persistent)
           CREATE TABLE IF NOT EXISTS patents (
             sector TEXT NOT NULL,
             company_id TEXT NOT NULL,
@@ -223,7 +242,16 @@ jobs:
             cpc_class_title TEXT NOT NULL
           );
 
-          CREATE TABLE IF NOT EXISTS patents_stage (
+          -- IMPORTANT: Drop & recreate staging tables every run
+          -- This fixes schema drift permanently.
+          DROP TABLE IF EXISTS patents_stage;
+          DROP TABLE IF EXISTS companies_stage;
+          DROP TABLE IF EXISTS inventors_stage;
+          DROP TABLE IF EXISTS cpc_group_stage;
+          DROP TABLE IF EXISTS cpc_subclass_stage;
+          DROP TABLE IF EXISTS cpc_class_stage;
+
+          CREATE TABLE patents_stage (
             sector TEXT,
             company_id TEXT,
             patent_id TEXT,
@@ -235,7 +263,7 @@ jobs:
             cpc_group_ids TEXT
           );
 
-          CREATE TABLE IF NOT EXISTS companies_stage (
+          CREATE TABLE companies_stage (
             sector TEXT,
             "companyId" TEXT,
             "displayName" TEXT,
@@ -245,7 +273,7 @@ jobs:
             "cpcBreadth" INT
           );
 
-          CREATE TABLE IF NOT EXISTS inventors_stage (
+          CREATE TABLE inventors_stage (
             sector TEXT,
             company_id TEXT,
             patent_id TEXT,
@@ -256,28 +284,22 @@ jobs:
             patent_date DATE
           );
 
-          CREATE TABLE IF NOT EXISTS cpc_group_stage (
+          CREATE TABLE cpc_group_stage (
             cpc_group_id TEXT,
             cpc_group_title TEXT
           );
 
-          CREATE TABLE IF NOT EXISTS cpc_subclass_stage (
+          CREATE TABLE cpc_subclass_stage (
             cpc_subclass_id TEXT,
             cpc_subclass_title TEXT
           );
 
-          CREATE TABLE IF NOT EXISTS cpc_class_stage (
+          CREATE TABLE cpc_class_stage (
             cpc_class_id TEXT,
             cpc_class_title TEXT
           );
 
-          TRUNCATE patents_stage;
-          TRUNCATE companies_stage;
-          TRUNCATE inventors_stage;
-          TRUNCATE cpc_group_stage;
-          TRUNCATE cpc_subclass_stage;
-          TRUNCATE cpc_class_stage;
-
+          -- Load CSVs
           \copy patents_stage FROM 'data/state/postgres/biotech_patents.csv' WITH (FORMAT csv, HEADER true)
           \copy patents_stage FROM 'data/state/postgres/tech_patents.csv' WITH (FORMAT csv, HEADER true)
 
@@ -291,6 +313,7 @@ jobs:
           \copy cpc_subclass_stage FROM 'data/state/postgres/cpc_subclass.csv' WITH (FORMAT csv, HEADER true)
           \copy cpc_class_stage FROM 'data/state/postgres/cpc_class.csv' WITH (FORMAT csv, HEADER true)
 
+          -- Upsert patents
           INSERT INTO patents (sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by, cpc_subclass_ids, cpc_group_ids)
           SELECT
             sector, company_id, patent_id, patent_date, patent_year, patent_title, cited_by,
@@ -305,6 +328,7 @@ jobs:
             cpc_subclass_ids = EXCLUDED.cpc_subclass_ids,
             cpc_group_ids = EXCLUDED.cpc_group_ids;
 
+          -- Upsert companies
           INSERT INTO companies (sector, company_id, display_name, patent_count, total_citations, citations_per_patent, cpc_breadth)
           SELECT
             sector,
@@ -323,6 +347,7 @@ jobs:
             citations_per_patent = EXCLUDED.citations_per_patent,
             cpc_breadth = EXCLUDED.cpc_breadth;
 
+          -- Upsert inventors
           INSERT INTO patent_inventors (sector, company_id, patent_id, inventor_id, inventor_name_first, inventor_name_last, inventor_name, patent_date)
           SELECT
             sector, company_id, patent_id, inventor_id,
@@ -338,6 +363,7 @@ jobs:
             inventor_name = EXCLUDED.inventor_name,
             patent_date = EXCLUDED.patent_date;
 
+          -- Upsert CPC dictionaries
           INSERT INTO cpc_group (cpc_group_id, cpc_group_title)
           SELECT cpc_group_id, cpc_group_title FROM cpc_group_stage
           ON CONFLICT (cpc_group_id) DO UPDATE SET cpc_group_title = EXCLUDED.cpc_group_title;
