@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import csv
 import json
 import os
 import glob
@@ -17,7 +16,7 @@ from normalize import load_assignee_map, map_assignee, normalize_name_for_sugges
 
 @dataclass(frozen=True)
 class SectorConfig:
-    sector_id: str  # "biotech" or "tech"
+    sector_id: str
     cpc_subclass_prefixes: List[str]
 
 
@@ -43,7 +42,6 @@ def save_last_run(path: str, obj: Dict[str, Any]) -> None:
 
 
 def build_cpc_query(prefixes: List[str]) -> Dict[str, Any]:
-    # Match any CPC subclass in the sector prefixes
     return {"_or": [{"_begins": {"cpc_current.cpc_subclass_id": p}} for p in prefixes]}
 
 
@@ -76,27 +74,17 @@ def update_sector_pairs(
     last_run_path: str,
     out_store_dir: str,
 ) -> None:
-    """
-    Partitioned stores in: data/store/<sector>/
-      - pairs_<YYYY>.csv      (company-patent rows)
-      - inventors_<YYYY>.csv  (company-patent-inventor rows)
-
-    Incremental pull for last 5 years (PatentsView search is already filtered),
-    then we de-dupe and write partitioned CSVs by year to avoid GitHub 100MB limits.
-    """
-
     os.makedirs(out_store_dir, exist_ok=True)
 
-    # Load existing stores
     existing_pairs = _load_partitioned_store(out_store_dir, "pairs")
     existing_inventors = _load_partitioned_store(out_store_dir, "inventors")
 
     last_run = load_last_run(last_run_path)
-    today = _today_iso()
-    start_date = _five_years_ago_iso()
 
-    # We keep the query deterministic: always refresh last 5 years.
-    # (Incremental "after" cursors are possible, but this is robust and still bounded.)
+    # ✅ Allow overrides for fast mode
+    today = os.environ.get("WINDOW_END_ISO", "").strip() or _today_iso()
+    start_date = os.environ.get("WINDOW_START_ISO", "").strip() or _five_years_ago_iso()
+
     fields = [
         "patent_id",
         "patent_title",
@@ -127,8 +115,8 @@ def update_sector_pairs(
     new_pair_rows: List[Dict[str, str]] = []
     new_inv_rows: List[Dict[str, str]] = []
 
-    seen_new_pairs: Set[Tuple[str, str, str]] = set()      # (patent_id, company_id, assignee_id)
-    seen_new_invs: Set[Tuple[str, str, str]] = set()       # (patent_id, company_id, inventor_id)
+    seen_new_pairs: Set[Tuple[str, str, str]] = set()
+    seen_new_invs: Set[Tuple[str, str, str]] = set()
 
     for page in client.paginate(endpoint="patent", q=q, f=fields, s=sort, size=1000):
         patents = page.get("patents", []) or []
@@ -199,7 +187,6 @@ def update_sector_pairs(
                     }
                 )
 
-                # Add inventors attributed to this assignee's canonical company
                 for inv_id, first, last, full in inv_norm:
                     ikey = (patent_id, canonical_company_id, inv_id)
                     if ikey in seen_new_invs:
@@ -219,7 +206,6 @@ def update_sector_pairs(
                         }
                     )
 
-    # Merge + de-dupe + write partitions
     if new_pair_rows:
         new_pairs_df = pd.DataFrame(new_pair_rows)
         combined = pd.concat([existing_pairs, new_pairs_df], ignore_index=True) if not existing_pairs.empty else new_pairs_df
@@ -232,16 +218,11 @@ def update_sector_pairs(
         combined_inv.drop_duplicates(subset=["sector_id", "patent_id", "canonical_company_id", "inventor_id"], inplace=True)
         _write_partitioned_store(combined_inv, out_store_dir, "inventors")
 
-    # Save last run metadata (informational)
     last_run[sector.sector_id] = {"refreshed_at": today, "window_start": start_date, "window_end": today}
     save_last_run(last_run_path, last_run)
 
 
 def write_normalization_suggestions(store_dir: str, out_md_path: str) -> None:
-    """
-    Writes suggestions for alias mapping based on most frequent assignee org strings.
-    This is intentionally lightweight: you can maintain manual alias rollups for top companies.
-    """
     df = _load_partitioned_store(store_dir, "pairs")
     if df.empty:
         return
